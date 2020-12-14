@@ -1,0 +1,143 @@
+<interview>
+<filename>file00456.txt</filename>
+
+<head version="1.3">
+<date>2001-05-30</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step></step>
+<TOEIC>550</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><F>Er</F> fine, thank you.</B>
+<A>That's good. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F> I live at <H pn="others1">XXX03</H> City.</B>
+<A><.></.> Do you live with the family?</A>
+<B><F>Er</F> no. <F>Er</F> I live <?>within</?> my family.</B>
+<A>O K. <F>Er</F> please tell me a little about your family.</A>
+<B><F>Err</F> <F>er</F> <SC>my</SC> <F>er</F> I have a father and mother and little brother. Little brother is <F>er</F> <.></.> sixteen years old <F>er</F> now.</B>
+<A><F>Um</F>.</A>
+<B><F>Hmm</F> <F>uh</F> I have three pet. <F>Er</F> one dog and two cats. <F>Hm</F> they are very pretty. <SC>I like <F>er</F> it</SC> <F>er</F> I like them very much.</B>
+<A>I see. <F>Er</F> please tell me a little about your <SC>si</SC> <F>er</F> brother.</A>
+<B><F>Er</F> my brother? <F>Er</F> my brother <F>er</F> is a high school student. <F>Er</F> <nvs>cough</nvs> <.></.> <F>er</F> <F>erm</F> <.></.> <R>he s</R> <F>er</F> <SC>he study</SC> <F>er</F> <.></.> <F>er</F> he don't study very well. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Oh</F> but <F>er</F> he is very kind. So <F>er</F> <SC>I</SC> <F>er</F> he and I <R>are</R> are very <..></..>.</B>
+<ctxt>Big noise is heard.</ctxt>
+<A>O K. <H pn="B's name">XXX02</H>. So do you belong to some club?</A>
+<B><F>Er</F> now? <F>Ah</F> yes. <F>Er</F> I belong to a tennis circle. It's name <?>Sport Peer</?> <??></??>.</B>
+<A><F>Err</F> I see. <F>Hm</F> why are you interested in tennis?</A>
+<B><F>Err</F> at first, <F>err</F> when <F>um</F> <nvs>cough</nvs> <F>mm</F> I <F>mm</F> entered the <F>er</F> <H pn="school name1">XXX04</H> University <R>I</R> I wanted to belong to <F>er</F> basket club. <F>Er</F> but <F>er</F> <SC>my friend <F>er</F> Takuro</SC> my friend <F>uhm</F> <R>Tak</R> <R>Takuro</R> <F>er</F> Takuro and I know each other when <F>er</F> we are thirteen years old. <F>Er</F> he wanted to <?>choose</?> <F>erm</F> belong to a tennis <SC>clu</SC> circle. <F>Er</F> so <F>er</F> <SC>I</SC> once <F>er</F> I <.></.> try to practice tennis at that circle, <F>er</F> I think <F>er</F> tennis is <R>very</R> very interesting. <F>Erm</F> so I <F>er</F> entered the <?>tennis club</?>. But <F>er</F> <laughter>my tennis</laughter> is very bad. <F>Er</F> <laughter>so I must</laughter> practice more and more.</B>
+<A>O K. Thank you very much <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>So please look at this picture. And describe this picture for me.</A>
+<B><F>Err</F>. <nvs>laughter</nvs> <.></.> A <laughter>boy</laughter> <F>er</F> threw the <laughter><R>snowball</R> snowball</laughter>. <nvs>cough</nvs> <F>Er</F> snowball <SC>hits him</SC> hit <F>mm</F>. <.></.> Then, <F>er</F> so <F>er</F> <R>two</R> two persons <F>er</F> drink something and talk with each other. <R>And</R> and <.></.> he is sleeping. <.></.> Maybe <F>erm</F> they are a group. <F>Erm</F> <F>er</F> he may <F>er</F> introduced <F>er</F> ski <F>er</F> them. <F>Er</F> and <F>er</F> they are <SC>try to play ski</SC> try to ski. <F>Erm</F> <nvs>sniff</nvs> <F>er</F> <F>hmm</F> <..></..> he plays snowboard. <F>Er</F> snowboard player <F>er</F> is only <R>hi</R> him. <F>Er</F> <F>uh</F>. <.></.> That's all.</B>
+<A><F>Um</F> O K <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you like skiing or snowboarding?</A>
+<B><F>Er</F> sorry. <F>Er</F> <R>I</R> I don't play them, <F>er</F> not at all.</B>
+<A>O K. So then, <F>er</F> in winter holidays, what do you like to do?</A>
+<B><laughter><F>Err</F></laughter> <R>I</R> <F>err</F> I like <F>err</F> <SC>ho</SC> <F>mm</F> <nvs>laughter</nvs> <F>err</F> <F>er</F> <F>in</F> in winter, <F>err</F> <R>I</R> I play billiard. In <R>all</R> <laughter>all season</laughter> <F>er</F> <F>err</F> I like it very much. <F>Er</F> so <F>er</F> yesterday, I play it. <F>Err</F> <..></..> in winter, <F>er</F> my friends <F>er</F> <.></.> go to ski and snowboard. <F>Er</F> but last year, <F>er</F> I <laughter>study</laughter> <F>er</F> <F>mm</F> to pass the exam. <F>Er</F> <F>er</F> <SC>my high school is</SC> <F>er</F> <..></..> my high school name is <H pn="school name2">XXX05</H>. <F>Er</F> <SC><H pn="school name3">XXX06</H> University, <F>er</F> <??></??> <F>erm</F> it's students</SC> <F>er</F> <.></.> <F>erm</F> <F>uh</F> <JP><F>uunto</F></JP> it is easy to go to <H pn="school name3">XXX06</H> University. <F>Er</F> so my friends go in <F>ah</F> that university. But <F>er</F> I want to go to <F>er</F> this <F>er</F> <F>mm</F> <H pn="school name1">XXX04</H> University. <F>Er</F> so only I <F>erm</F> study. <nvs>laughter</nvs></B>
+<A>I see. O K. So <H pn="B's name">XXX02</H>, what is good point about billiard?</A>
+<B><F>Err</F> <..></..> when <F>err</F> <R>all</R> all is pocket, it is <R>very</R> very <F>ur</F> exciting. And because <F>er</F> I don't like karaoke, <F>er</F> <F>er</F> so <F>er</F> when I see my friends, <F>err</F> <R>I want</R> I want to go billiard <F>er</F> than go to karaoke.</B>
+<A><F>Um</F> O K. Thank you very much <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So let's move on to the next stage. O K. Please read this card to yourself. This is a role-play. When you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? Are you ready?</A>
+<B>O K.</B>
+<A>May I help you, sir?</A>
+<B><F>Uhm</F> yes. <F>Err</F> I want to go New York. <F>Er</F> <nvs>cough</nvs> so <F>er</F> <JP><F>uunto</F></JP> <SC><R>what</R> what train <F>er</F> <.></.> <SC>do I</SC> <R>do</R> do</SC> <.></.> what train do I take?</B>
+<A><F>Hum</F> we have two types of trains to New York.</A>
+<B><R>Two</R> two types?</B>
+<A>Two types.</A>
+<B>Two types. <F>Er</F> what is one type?</B>
+<A>O K. Express and local.</A>
+<B><F>Er</F> O K. <F>Err</F> I want to <F>er</F> <SC>arrive as New</SC> arrive <SC>New York</SC> <F>er</F> to New York <F>er</F> early. <F>Erm</F> so I want to take express train.</B>
+<A>I see.</A>
+<B><.></.> <F>Er</F> <R>how</R> how much <F>er</F> is it?</B>
+<A>Fifty dollars.</A>
+<B>Fifty dollars. <F>Er</F> <.></.> O K. <F>Erm</F> <.></.> to New York <F>er</F> <..></..> <F>erm</F> <R>how</R> <F>uh</F> <F>erm</F> <R>how</R> <R>how</R> <.></.> how <nvs>cough</nvs> <..></..> <R>what</R> what time <F>err</F> will I take? <.></.></B>
+<A>O K. Next express train will leave in ten minutes.</A>
+<B>Ten minutes. O K. <F>Er</F> <..></..> thank you.</B>
+<A>O K. Do you need one ticket?</A>
+<B><F>Er</F> yes.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>O K. Have a nice trip. That's the end of the role-play.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, do you like traveling?</A>
+<B><F>Er</F> yes. <F>Er</F> but <F>er</F> recently, <SC>I don't trip</SC> I don't <OL><?>go</?> trip</OL>.</B>
+<A><OL><F>Hm</F></OL>. O K, tell me the last time you went <OL><R>on a</R></OL></A>
+<B><OL><F>Err</F></OL>.</B>
+<A>on a trip.</A>
+<B><.></.> With my family, <F>er</F> my last trip is <F>er</F> to go to <F>um</F> Bali Island <F>er</F> when I was <F>um</F> twelve years old. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B>With my friends, <F>er</F> <.></.> <F>um</F> <R>m</R> my last trip is two years ago. <F>Er</F> <.></.> we go to Okinawa.</B>
+<A><F>Hm</F> <F>hm</F> O K. Thank you very much <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So let's move on to the next stage. Lastly, I'll show you another picture. <F>Er</F> please make up one story using these pictures from one to six. This happened before. So please make up your story. <F>Er</F> start it with "One day last week".</A>
+<B><F>Uum</F> <F>err</F> I saw <F>er</F> my uncle <F>er</F> <R>last week</R> <F>er</F> last week. And <R>we</R> we decided to go to a restaurant. <F>Er</F> so <F>er</F> I choiced <F>er</F> foods. <F>Er</F> and <R>I</R> <R>I wanted</R> I wanted to eat a fish <laughter>and drink beer</laughter>. So <F>er</F> <R>my</R> <F>er</F> my uncle eat a chicken and <F>erm</F> a beer and <F>err</F> <F>er</F> <laughter>something</laughter>. <F>Er</F> after I ate, my uncle pay <F>er</F> the money. And <F>er</F> <nvs>cough</nvs> <R>after th</R> <.></.> <F>uh</F> after that, <F>er</F> <SC>I</SC> <R>we</R> <SC>we</SC> <F>er</F> <F>ah</F> I say to him a good-bye.</B>
+<A><F>Um</F> good.</A>
+</task>
+<followup>
+<A>Good. <H pn="B's name">XXX02</H>, do you have any <F>er</F> favorite restaurant?</A>
+<B><F>Oh</F> <..></..> <F>err</F> I like <F>er</F> Tenmonkan <OL><laughter>restaurant</laughter></OL>.</B>
+<A><OL><F>Hmm</F> O K</OL>.</A>
+<B>But <F>er</F> it is a <laughter><JP>ramen</JP> restaurant</laughter>.</B>
+<A><F>Um</F> O K. So can you compare with this picture and your favorite <JP>ramen</JP> shop?</A>
+<B><F>Hmm</F> <F>mm</F> It restaurant <F>er</F> <..></..> fish or stake and chicken. <F>Er</F> and so on <F>er</F> <..></..> <R>it</R> it maybe is a kind of a family restaurant. <F>Er</F> but <F>err</F> Tenmonkan <F>er</F> is <F>er</F> <JP>ramen</JP> restaurant.</B>
+<A><F>Uum</F>.</A>
+<B>Yes. Tenmonkan, <F>er</F> <.></.> I can't <F>err</F> buy a beer <laughter>at Tenmonkan</laughter>. Tenmonkan <F>er</F> don't have a beer.</B>
+<A><F>Err</F> I see.</A>
+<B><??></??></B>
+<A><F>Hm</F> <F>hm</F> what is the favorite dish at Tenmonkan?</A>
+<B><F>Err</F> <JP>assari tonkotsu</JP> taste.</B>
+<A><F>Hm</F>. <.></.> Can you describe it for me?</A>
+<B><F>Uh</F>?</B>
+<A>Can you describe what it look like?</A>
+<B><laughter><F>Err</F></laughter> <F>err</F> <SC>noodle</SC> <F>uh</F> <F>er</F> it <F>er</F> <..></..> <JP><F>eeto</F></JP> <JP><F>eeto</F></JP> <..></..> <R>soup</R> <SC>soup</SC> <F>er</F> it's soup <F>er</F> is <JP>tonkotsu</JP> taste <F>er</F> and <F>er</F> <SC>noodle is <F>er</F> <R>in</R></SC> <F>er</F> <JP><F>uunto</F></JP> in these <R>there</R> there are noodle and <F>ah</F> <JP>moyashi</JP>. Yeah.</B>
+<A><F>Er</F> I see.</A>
+<B><.></.> <JP>Chashu</JP>, a sort of pork. <F>Er</F> and <.></.> <F>er</F> sorry. I forget. <OL><F>Er</F></OL>.</B>
+<A><OL>O K</OL>. Thank you very much <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>The interview is almost over. Do you have any plan after this interview?</A>
+<B><F>Err</F> <F>oh</F> <F>um</F> <F>er</F> I will <F>er</F> <.></.> <SC>go to</SC> <F>er</F> <nvs>cough</nvs> <R>go</R> <SC>go <JP>arubaito</JP></SC> <F>mm</F> go to <F>mm</F> <laughter>arubaito</laughter> <F>err</F> <laughter>at Higashi Funabashi</laughter>.</B>
+<A>I see.</A>
+<B><R>Yes</R> yes. But <F>er</F> I will go <R>it</R> it <F>err</F> afternoon, <F>er</F> so <F>er</F> now and after this test <F>er</F> <R>I</R> <R>I</R> <SC>I will</SC> <F>er</F> I'm free <F>err</F> <??></??> <..></..> <F>uh</F> a short time. <OL>Yes</OL>.</B>
+<A><OL><R>O K</R></OL> O K. Enjoy your part-time job in the afternoon. <OL>Thank you very much for coming</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

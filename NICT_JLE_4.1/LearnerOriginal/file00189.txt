@@ -1,0 +1,163 @@
+<interview>
+<filename>file00189.txt</filename>
+
+<head version="1.3">
+<date>2001-01-16</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><JP><F>A</F></JP> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mm</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>I'm fine.</B>
+<A><.></.> O K. So it's very cold.</A>
+<B><F>Ah</F> yes.</B>
+<A><F>Mhn</F>.</A>
+<B><F>Er</F> <F>mm</F> <F>er</F> <R>when I</R> when I get up, <F>er</F> <F>er</F> it's too cold, <F>er</F> so <R>I</R> I don't want to go <F>er</F> this place.</B>
+<A><laughter>Really</laughter>? But thank you for coming. O K. So <F>er</F> don't you like the cold season?</A>
+<B><F>N</F> <R>y</R> yes. <F>Er</F> <R>I like</R> <F>er</F> I like summer.</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>Er</F>.</B>
+<A>Now, what do you do in summer?</A>
+<B><F>Er</F> yes. <F>Er</F> <F>er</F> <R>I like</R> <F>er</F> I like playing baseball. And <F>er</F> <F>er</F> <SC>I</SC> <F>mm</F> so <F>ah</F> in summer vacation, <R>I</R> I play <F>er</F> baseball <F>er</F> sometime.</B>
+<A><F>Mhn</F> I see. So do you play games with other teams?</A>
+<B><F>Er</F> yes. <F>Er</F> <R>in</R> in university, <F>er</F> <F>mm</F> my team <F>er</F> is <?>Pegasus</?>. <F>Er</F> and <F>erm</F> <F>mm</F> in summer vacation, <F>er</F> five or <F>er</F> six days, <F>ah</F> we <SC>play</SC> <F>er</F> practice. And sometimes <F>er</F> we <R>play</R> play game.</B>
+<A><F>Mm</F> that's good. Good. O K. <F>Well</F> <F>em</F> by the way, did you have nice winter holiday?</A>
+<B><F>Mm</F> no. <F>Er</F> <F>er</F> <F>mm</F> winter holiday, <F>er</F> I always <F>erm</F> <F>er</F> <R>s</R> study for <F>er</F> examinations. <F>Er</F> and <F>er</F> <F>mm</F> <R>I</R> I have part-time job.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A><F>Uh-huh</F>. But why do you have to study for the examination?</A>
+<B><F>Mm</F>.</B>
+<A>You have a special test or something?</A>
+<B><F>Er</F> no. <F>Er</F> <F>mm</F> <F>er</F> <R?>last</R?> <F>eh</F> <?>last</?> examination in university are second grade. And so, <F>er</F> I prepare for <F>er</F> examination.</B>
+<A><F>Ah</F> I see. <F>Mm</F> it must be tough.</A>
+<B><OL><F>Mhm</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL>O K</OL>. <F>Ah-huh</F> all right. Thank you very much. Now, <nvs>cough</nvs> I'd like to show you one picture. O K. Please see it and <F>er</F> describe the picture for me.</A>
+<B>Yes. <F>Er</F> <F>er</F> <R>one</R> one woman <R>and</R> and a man <F>er</F> go to restaurant. <F>Mm</F> and <F>er</F> they sit down <R>and</R> <F>er</F> and <R>a man</R> <F>er</F> a man is going to <F>er</F> drink. <F>Er</F> and <F>er</F> <SC>woman <F>er</F> is</SC> I think <SC>wo</SC> a woman <SC>going</SC> is also going to <F>er</F> drink. <F>Er</F> and <F>er</F> there is <F>er</F> piano and <F>mm</F> a woman <F>er</F> <F>a</F> play the piano. And there is a clock. <F>Er</F> the time is <F>mm</F> seven o'clock. <F>Er</F> and <F>er</F> <.></.> <SC>there i</SC> there are <F>er</F> <F>er</F> three table, <F>er</F> one is <F>er</F> <F>erm</F> <?>I sit</?> <F>er</F> and <R>others</R> <F>er</F> <F>er</F> <F>er</F> others <R>table</R> tables, <F>ah</F> <SC>there are <F>er</F> two people and</SC> <F>er</F> there are <F>er</F> two people. <F>Er</F> <SC>both is</SC> <F>er</F> <F>er</F> <F>er</F> both table <R>there</R> <F>mm</F> there is a couple. <F>Erm</F> and <F>erm</F> they are <F>er</F> eating <F>er</F> dinner.</B>
+<A><F>Mhn</F> O K. <OL>Thank you very much</OL>.</A>
+<B><OL>Yes</OL>.</B>
+</task>
+<followup>
+<A>O K. So <H pn="B's name">XXX02</H>, do you sometimes go to a restaurant like this?</A>
+<B><F>Er</F> <F>er</F> no, <R>I</R> <F>mm</F> I don't <R>go</R> <F>mm</F> go to restaurant, <F>er</F> like this.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Er</F> but <F>er</F> <F>mm</F> I always <F>er</F> go to <F>mm</F> family restaurant, <.></.> yes, <F>er</F> <R>with</R> with my friends.</B>
+<A><F>Mhn-hum</F> <F>mh-hmm</F>. So why do you like that <R>fa</R> <F>ah</F> family restaurant?</A>
+<B><F>Eh</F>. <F>Mm</F> <F>er</F> I think <F>er</F> this picture's restaurant <F>er</F> <R>is</R> <F>er</F> is formal.</B>
+<A><OL><F>Mhn</F></OL>.</A>
+<B><OL><F>Er</F></OL> so I don't want to go <F>er</F> this restaurant <F>er</F> with my friends. With my friends, <nvs>sniff</nvs> <F>er</F> I want to go <F>er</F> family restaurant, because <F>er</F> <F>mm</F> <.></.> <R>in</R> in that restaurant, <F>er</F> atmosphere <F>er</F> is good and comfortable <F>er</F> for me.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mm</F> O K. Thank you very much. Now, <H pn="B's name">XXX02</H>, let's have a role-play.</A>
+<B><F>Ah</F>.</B>
+<A>O K. All right. So this is your card. Please read it to yourself and when you're ready, <nvs>cough</nvs> I will begin the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Hi. May I help you, sir?</A>
+<B>Yes. <F>Erm</F> <R>I'd</R> I'd like to go to New York. <F>Er</F> and <R>I don't</R> I don't know <F>er</F> how to get <F>er</F> ticket to New York. So <F>er</F> <F>er</F> please tell me <F>er</F> how to get a ticket <R>to New</R> to New York.</B>
+<A><F>Mm</F> you can buy a ticket here. I sell the ticket to you.</A>
+<B><F>Er</F> <F>er</F>. <CO><SC>I can't</SC> I cannot</CO>. <OL><F>Er</F></OL>.</B>
+<A><OL>You can</OL>. <F>Er</F>.</A>
+<B>I can?</B>
+<A>Yes. Yes, you can. Here.</A>
+<B>Yes. <F>Er</F> <F>er</F> how much the ticket?</B>
+<A>We have two kinds of tickets.</A>
+<B>Yes. <F>Er</F> <F>er</F> please tell me.</B>
+<A>O K. The one is a first class and the other is for <F>er</F> economy class.</A>
+<B><F>Ah</F> yes.</B>
+<A><nvs>cough</nvs></A>
+<B>I choose a economy class.</B>
+<A><F>Mhn-huh</F>. So that's <F>er</F> thirty dollars.</A>
+<B><F>Ah</F> yes. <.></.> <F>Er</F> yes, <F>er</F> I decide to buy <F>er</F> the ticket <F>er</F> economy class.</B>
+<A><OL><F>Mm</F></OL>?</A>
+<B><OL><F>Er</F></OL> thirty dollars.</B>
+<A>O K. All right. Here's the ticket.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Mhn</F></OL>.</A>
+<B><F>Ah</F> <F>er</F> thank you.</B>
+<A>Thank you very much. Have a nice trip. <OL>Bye-bye</OL>.</A>
+<B><OL>Yes</OL>. Thank you. Bye-bye.</B>
+</task>
+<followup>
+<A>O K. <R>The</R> the role-play is over. Thank you very much. O K. <F>Erm</F> <H pn="B's name">XXX02</H>, have you been abroad?</A>
+<B><F>Er</F> yes. <F>Er</F> when I was high school student, <F>er</F> <F>er</F> <R>I</R> I went to <F>mm</F> China as <F>er</F> school event. <OL>Yes</OL>.</B>
+<A><OL><F>Mm</F></OL> I see. So tell me more about the trip. <nvs>cough</nvs></A>
+<B>Yes. <F>Er</F> there is <F>er</F> a Chinese friend. <F>Er</F> <F>er</F> because <F>er</F> <F>mm</F> <R>about</R> <SC>about summer</SC> <F>er</F> from summer, <F>er</F> <R>we</R> <F>er</F> <R>we send</R> we send <F>er</F> letters and return letters. <F>Er</F> so <F>er</F> <R>we communicated</R> <F>er</F> we communicated <F>er</F> anything.</B>
+<A><OL><F>Mhn</F></OL>.</A>
+<B><OL><F>Er</F></OL> and <F>er</F> <F>er</F> <R>we</R> <SC>we go to</SC> <F>er</F> we went to China and <F>er</F> <R>met</R> met him. <F>Er</F> <R>and</R> <F>mm</F> <F>er</F> and I <R>present</R> <F>uh</F> present <F>er</F> him <F>er</F> <F>mm</F> <F>er</F> <F>mm</F> <F>ah</F> <F>er</F> basketball magazines. <F>Er</F> because <F>er</F> <R>in</R> in his letters, <F>er</F> he writes <F>er</F> basketball, so I present. <F>Er</F> <F>er</F> and <F>mm</F> <F>er</F> that is <F>er</F> <R>s</R> second days <F>ah</F> in trips. <F>Er</F> <R>firs</R> first day, <F>er</F> <R>I</R> I went to <F>er</F> China and <F>mm</F> went to <F>er</F> Koga River.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL><F>Er</F></OL> yes. <F>Erm</F> but <F>er</F> <F>mm</F> <SC>I</SC> <R>we arrived</R> we arrived <F>er</F> at <F>er</F> <F>mm</F> <F>er</F> I forgot, but <F>er</F> at evening, so <F>er</F> <SC>I</SC> we <F>er</F> only went to Koga River and went to <F>er</F> hotel.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><CO><OL>And</OL> second days and third</CO>.</B>
+<A>You met him.</A>
+<B>Yeah.</B>
+<A><F>Ah</F> <F>oh</F> <SC>but</SC> <F>oh</F> O K, but you still keep in touch with him?</A>
+<B><F>A</F> no.</B>
+<A><laughter>No</laughter>? <OL><laughter>I see</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. O K. So I'd like to show you one more picture. Here you are. This time, please make a short story <OL>using</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>these four pictures.</A>
+<B>Yes.</B>
+<A>O K. But this happened last week.</A>
+<B>Last week.</B>
+<A><F>Mm</F> so please start your story with "One day last week". O K?</A>
+<B><CO>One day <OL>last</OL></CO>.</B>
+<A><CO><OL>Just</OL></CO>. Yeah. Start the sentence with "One day last week". <F>Mmm</F>. O K?</A>
+<B><F>Ah</F> <OL>yes</OL>.</B>
+<A><OL>All right</OL>.</A>
+<B><F>Erm</F> last week <F>er</F> one day, <F>er</F> <F>erm</F> <F>er</F> <R>I</R> <F>mm</F> I went to a theater <F>er</F> <R>to</R> to watch movie <F>er</F> <R>with</R> <F>er</F> with my friend. <F>Erm</F> and <.></.> <F>er</F> <R>we</R> <F>er</F> we <R>enter</R> enter the theater <F>er</F> and <F>er</F> <F>er</F> <R>we bought</R> <F>erm</F> <.></.> we bought <F>er</F> juice and <F>er</F> popcorn. <F>Er</F> <.></.> <F>erm</F> and <F>er</F> we <R>come back</R> <F>er</F> come back to the theater and sit down. <F>Er</F> and <F>mm</F> <F>er</F> <R>we</R> <F>er</F> <R>we watched</R> <F>er</F> <R>we watched</R> <F>er</F> <R>we watched movie</R> <F>er</F> <.></.> <F>mm</F> we watched movie and <F>er</F> that is <F>er</F> action movie. <F>Er</F> <.></.> yes. <F>Er</F> and <F>er</F> when I <F>er</F> finished the movies, <F>er</F> <.></.> <F>er</F> we enjoyed <F>er</F> watching <F>er</F> movie. And <R>we talked</R> we talked <F>erm</F> about <F>er</F> the movie each other.</B>
+</task>
+<followup>
+<A><F>Hm</F>. All right. Thank you very much. <nvs>cough</nvs> <F>Ah</F> do you like movies, <H pn="B's name">XXX02</H>?</A>
+<B>Yes, I like.</B>
+<A><F>Mm</F> what kind of movies do you like?</A>
+<B><F>Er</F> <F>er</F> I like baseball, so <F>er</F> I always <F>er</F> watched <F>er</F> movies <R>about</R> about sports.</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>Er</F> and <F>er</F> I like <F>er</F> action movies because <R>I</R> I like <F>er</F> <F>er</F> Jackie Chen <F>er</F> or Arnold Schwarzenegger's <F>er</F> <SC>so</SC> <R>and s</R> and so on. So <R>I</R> I like action movies.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. <F>Mh-hmm</F>. All right. Thank you very much, <H pn="B's name">XXX02</H> <JP>san</JP>. Interview is almost ending.</A>
+<B><OL><F>A</F></OL>.</B>
+<A><OL>Yeah</OL>. Thank you for coming today. And are you going to attend the class this afternoon?</A>
+<B>Yes. <F>Er</F> in morning, <F>er</F> I have no class. <OL><F>A</F></OL></B>
+<A><OL><F>Mhn</F></OL>.</A>
+<B>but <F>er</F> in the afternoon, I have one class.</B>
+<A>I see. O K. O K. Thank you very much.</A>
+<B><OL>Yeah, thank you</OL>.</B>
+<A><OL>And <F>er</F></OL> so you should keep you warm. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>A</F> yes</OL>.</B>
+<A>Because it's very cold. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

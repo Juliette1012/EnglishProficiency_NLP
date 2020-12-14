@@ -1,0 +1,157 @@
+<interview>
+<filename>E_file00482.txt</filename>
+
+<head version="1.3">
+<date>2001-06-23</date>
+<sex>female</sex>
+<age>16</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A><OL>Nice to meet you, <H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you</OL>.</B>
+<A>O K. <F>Um</F>. You are <at odr="1" crr="a"></at> student?</A>
+<B>Yes, I am.</B>
+<A><F>Um</F>. Please tell me about your school.</A>
+<B><F>Um</F>. My school's name is <H pn="school name1">XXX03</H> <F>um</F> in <H pn="others1">XXX04</H>. And <F>um</F> we are <o_lxc odr="1" crr="attached to">under</o_lxc> <at odr="2" crr="">the</at> <H pn="school name2">XXX05</H>. And, maybe, <SC>we'll</SC> we will be <laughter>able to</laughter> <F>um</F> enter <H pn="school name2">XXX05</H>.</B>
+<A><F>Um</F>. I see. So, do you like your school?</A>
+<B><F>Um</F>. Yes, I <mo_lxc odr="1" crr="do">am</mo_lxc>.</B>
+<A>O K. Why?</A>
+<B><F>Err</F>. 'Cos my school has a lot of <F>um</F> greens, and <F>um</F> I don't say the teachers' <n_lxc odr="1" crr="ability">grade</n_lxc> is high. <laughter>But</laughter>, <F>um</F> maybe, <SC>education is</SC> <o_uit odr="1">we have freedom about that</o_uit>. And, because it's <o_lxc odr="1" crr="attached to">under</o_lxc> university, <R>we</R> <F>uum</F> we don't have to study <F>uum</F> as hard as I <mo_lxc odr="2" crr="should">can</mo_lxc> <o_lxc odr="3" crr="compared with">than</o_lxc> any other <SC>student</SC> students.</B>
+<A><F>Uh-hm</F>.</A>
+<B><CO>So</CO>. <nvs>laughter</nvs></B>
+<A>Are you involved in any sports or club activities?</A>
+<B>Yes, I <mo_lxc odr="1" crr="am">do</mo_lxc>. <F>Um</F>. I'm belong to <at odr="1" crr="a"></at> track and field club, and also, I belong to <JP>shimai-bu</JP>, <JP>shimai</JP> club. <F>Um</F>. <JP>Shimai</JP> is <F>um</F> <at odr="1" crr="a"></at> sort of <JP>nou</JP>, <JP>onou</JP>, <F>um</F> one of Japanese <o_lxc odr="2" crr="traditional arts">traditional</o_lxc>. <F>Uum</F>. <JP>dentou geinou dakara</JP>. <nvs>laughter</nvs></B>
+<A><F>Uh-hm</F> <F>ohh</F>. I see. Why did you start that club? Why did you enter <SC>that</SC> the <JP>shimai</JP> club?</A>
+<B><JP>Shimai</JP> club? Because <F>uum</F> I was interested in that <JP>nou</JP>. And my grandmother is a teacher of <JP>nou</JP> now. Yes. So <F>um</F> <SC><JP>nou</JP> is <F>um</F> my near</SC> <F>mm</F> <.></.> it's easy to play <JP>nou</JP>, and I was interested in that. So, when I <v_tns odr="2" crr="entered"><v_vo odr="1" crr="enter">'m entered</v_vo></v_tns> <F>um</F> <pn_lxc odr="3" crr="">my</pn_lxc> <o_lxc odr="4" crr="junior high school">junior school</o_lxc>, and I found that <at odr="5" crr="a"></at> <JP>nou</JP> club <v_tns odr="6" crr="was">is</v_tns> there. So I decided to enter that.</B>
+<A>Great. <F>Urm</F>. So, can you tell me a little bit about your grandmother?</A>
+<B><laughter><F>Um</F> my grandmother</laughter>? <F>Um</F>. She lives in Yokohama now <F>um</F> with her husband and a dog named Taro. <nvs>laughter</nvs> And she has two sons <F>um</F> who are my father and his brother. And, <F>ur</F> in fact, I don't know about grandma so much. But, maybe, <SC>she was</SC> she is <F>um</F> a little bit fat lady. <nvs>laughter</nvs> She likes <SC>sweet</SC> <n_lxc odr="1" crr="sweets">sweeters</n_lxc>. <SC>And</SC> <F>er</F> but, <F>err</F> <F>well</F> usually, she is a kind woman, but, <o_uk odr="1" crr="when she teach me something">in her teacher's way</o_uk>, she is a little bit strict to me.</B>
+<A>I see. <F>Uhm</F>. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <F>um</F> first thing I want you to do <OL>is to look at this picture</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>And, please describe the picture.</A>
+<B><F>Well</F>. <SC>This picture</SC> in this picture, the sun is smiling. <SC>And</SC> <F>ur</F> so it's shiny. And <.></.> <prp_lxc1 odr="1" crr="in"></prp_lxc1> the center <av_lxc odr="2" crr="there"></av_lxc> is a big house. And two dogs are watching each other. Two boys are playing with, maybe, <at odr="1" crr="a"></at> volleyball. A man is jogging. And, <JP>nawatobi wa</JP>, <F>uum</F> a girl is <F>um</F> <nvs>laughter</nvs> <laughter><o_lxc odr="1" crr="jumping a rope">jumping with a rope</o_lxc></laughter>. <laughter><SC>And</SC></laughter> <F>uum</F> so, maybe, it is in <.></.> P M. And, <F>ur</F> in front of that house, <o_uk odr="1" crr="there is a cat">a car is <F>um</F> <SC>standing</SC> <SC>stop</SC> <F>um</F> <laughter>stopping</o_uk></laughter>. And, above it, a cat is sleeping. And a lady who has a dog is talking with her friend <SC>in</SC> on the road. And, <.></.> <SC>the nearest</SC> <F>um</F> <o_lxc odr="1" crr="in the front side of the picture">in the picture, the nearest</o_lxc> <v_lxc odr="2" crr="">is</v_lxc> <at odr="3" crr="an">a</at> old man is reading a newspaper on the bench. <CO>And</CO>. <.></.> Yes. <nvs>laughter</nvs></B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>By the way, where do you live?</A>
+<B><F>Um</F>. I'm <v_fml odr="1" crr="living">live</v_fml> in <H pn="others2">XXX06</H> prefecture, <F>um</F> <H pn="others3">XXX07</H>. Do you know that?</B>
+<A>Not really. <SC>Does <H pn="others4">XXX08</H></SC> does your neighborhood look like this?</A>
+<B><F>Urm</F>. I don't think so because we don't have <o_lxc odr="1" crr="such a">such as</o_lxc> big house and <at odr="2" crr="a"></at> big road. <SC>And</SC> <F>uum</F> but, <F>uum</F> <.></.> <JP>seikatsu</JP>, living style is, maybe, alike.</B>
+<A><F>Hum</F>. O K. What do you mean by living style?</A>
+<B><F>Well</F>. How the people <mo_lxc odr="1" crr="are"></mo_lxc> living</B>
+<A><F>Uh-hm</F>.</A>
+<B>in their time? <nvs>coughs</nvs> <F>Um</F>. Actually, my mom is staying home, and she's also cooking, <F>urr</F> shopping, <con_lxc odr="1" crr="and"></con_lxc> cleaning. And, in her free time, she is just watching T V, maybe. <F>Er</F>. So people have a lot of free time in our community. <SC>And</SC> so <o_uk odr="1" crr="their lifestyles are liberated">they can do such as <F>urm</F> free style</o_uk>.</B>
+<A>Right. <F>Hum</F>. O K. Good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Um</F>. So the next thing we're going to do is a role play. All right? I want you to <.></.> read this card.</A>
+<B>Yes.</B>
+<A>And, when you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K.</B>
+<A>O K? Ring, ring.</A>
+<B><F>Um</F>. <CO>Can I read the</CO>.</B>
+<A><F>Um</F>. You don't need to. O K? Ring, ring. Hello.</A>
+<B>Hello. Is there <H pn="A's name">XXX01</H>? <F>Er</F> <F>er</F>. Sorry. <F>Um</F>. <CO>Could you please</CO>? <OL><F>Err</F></OL>.</B>
+<A><OL><H pn="A's name">XXX01</H></OL>.</A>
+<B><F>Um</F>. Is there <H pn="A's name">XXX01</H>?</B>
+<A>Yes, it's me.</A>
+<B><F>Er</F>. <v_qst odr="1" crr="Are you">You</v_qst> <H pn="A's name">XXX01</H>?</B>
+<A><F>Um</F>.</A>
+<B>Hey. <F>Um</F>. <v_tns odr="1" crr="Will you be">Are you</v_tns> free <prp_lxc1 odr="2" crr="">in</prp_lxc1> next Sunday?</B>
+<A>Next Sunday? Yes.</A>
+<B><F>Err</F>. So, why don't you go to <at odr="1" crr="the"></at> movie with me?</B>
+<A>O K.</A>
+<B>So, <F>err</F> <.></.> do you have any <n_num odr="1" crr="movies">movie</n_num> to watch <prp_lxc1 odr="2" crr="on"></prp_lxc1> Sunday?</B>
+<A><F>Uum</F>. Not really.</A>
+<B><F>Urm</F>. So I <v_lxc odr="1" crr="want">suggest</v_lxc> to watch "A I".</B>
+<A>Sounds good.</A>
+<B><F>Oh</F>. Really? <F>Um</F>. <R>So</R> <.></.> <JP><F>uunto</F></JP> <.></.> so, <nvs>coughs</nvs> let's meet at five P M.</B>
+<A>O K.</A>
+<B>And then, I will drive a car in front of your house and pick you up. O K?</B>
+<A>Good.</A>
+<B>So, <o_lxc odr="1" crr="see you then">meet then</o_lxc>.</B>
+<A>Do you know where I live?</A>
+<B><nvs>laughter</nvs> <laughter><F>Well</F> <F>um</F> <av_lxc odr="1" crr="actually">lastly</av_lxc></laughter>, <F>um</F> <.></.> I don't know. Please tell me. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Actually, It's very close to <H pn="others4">XXX08</H> station.</A>
+<B><H pn="others4">XXX08</H> station?</B>
+<A>O K?</A>
+<B><F>Um</F>. So, <nvs>coughs</nvs> could you come to <H pn="others4">XXX08</H> station <OL>for me</OL>?</B>
+<A><OL>Sure</OL>, sure.</A>
+<B><F>Err</F>. In front of <F>err</F> Tokyo Mitsubishi bank? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Sure</OL>. O K.</A>
+<B>O K. See you then.</B>
+<A>Thank you for calling.</A>
+<B><F>Oh</F>. <SC>Wel</SC> you're welcome. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>See you soon</OL>.</A>
+<B>See you soon.</B>
+</task>
+<followup>
+<A>O K. Thank you. That's the end of the role play. And, <nvs>laughter</nvs> how often do you go to movies?</A>
+<B><F>Um</F>. Actually, not really often. <F>Um</F>. Maybe, twice a year <F>um</F> 'cos I'm busy <prp_lxc2 odr="1" crr="with">on</prp_lxc2> my club activity and study. And, now, <pn_lxc odr="1" crr="I"></pn_lxc> <R>pre</R> <v_tns odr="2" crr="am preparing">prepare</v_tns> <prp_cmp odr="3" crr="for studying">for study</prp_cmp> abroad.</B>
+<A><F>Uum</F>. I see.</A>
+<B>But, <F>um</F> <o_lxc odr="1" crr="at home">in home</o_lxc>, I can watch <SC>a mo</SC> some movies <prp_lxc1 odr="2" crr="on">for</prp_lxc1> videos.</B>
+<A><F>Uh-hm</F> <F>um</F>. When you choose a movie, how do you choose it?</A>
+<B><F>Um</F>. It's a little bit difficult question. Because <F>um</F> <.></.> <SC>how</SC> <.></.> maybe, <F>err</F> <SC>when</SC> <F>uum</F> in the video shop, <F>urm</F> <pn_lxc odr="1" crr="I"></pn_lxc> <o_lxc odr="2" crr="look around">see</o_lxc> the <n_lxc odr="3" crr="videos">movies</n_lxc>, and <SC>some of it</SC> some of <pn_cs odr="4" crr="their">them</pn_cs> <n_lxc odr="5" crr="titles">title</n_lxc> <v_lxc odr="7" crr="sound"><v_agr odr="6" crr="are">is</v_agr></v_lxc> <aj_lxc odr="8" crr="interesting">interest</aj_lxc>. So <SC>I thought</SC> I <v_lxc odr="1" crr="decide">think</v_lxc> <F>uum</F> <v_fin odr="2" crr="to watch" ch="1">watch</v_fin> this, <laughter>and</laughter> <F>uum</F> for other <n_lxc odr="3" crr="reasons">ways</n_lxc>, <F>urm</F> <at odr="5" crr="the"></at> <n_lxc odr="4" crr="advertisement">commercial</n_lxc> is helpful.</B>
+<A><F>Uhm</F>. I see. O K. <F>Um</F>. Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So the last thing I'd like you to do is to look at this picture sequence.</A>
+<B>Yes.</B>
+<A>O K. There are six pictures. Please make a story using the pictures and start your story with "One day last week". O K? "<OL>One day last week</OL>".</A>
+<B>"<OL>One day last week</OL>"? <F>Err</F>. O K. <nvs>coughs</nvs> <F>Erm</F>. <.></.> O K. One day last week, <F>er</F> Kazuo and Akiko <v_tns odr="1" crr="were walking">are walking</v_tns>, and they were <SC>on way home</SC> on the way home. And Akiko heard a voice of <at odr="1" crr="a"></at> cat, "Mya, mya". And she said, "Hey, what's that?". <laughter>And Kazuo</laughter> <av_lxc odr="1" crr="also"></av_lxc> <v_cmp odr="2" crr="heard it">heard</v_cmp>, and they found a cat in the box. And then, Akiko suggested to <v_lxc odr="1" crr="take">keep</v_lxc> <pn_lxc odr="2" crr="it">her</pn_lxc> <prp_lxc2 odr="3" crr="to">in</prp_lxc2> their house. But Kazuo <v_lxc odr="1" crr="disagreed">was not going to</v_lxc> because their apartment <v_tns odr="2" crr="was">is</v_tns> not so <aj_lxc odr="3" crr="big">wide</aj_lxc>. <SC>And</SC> but, <F>um</F> <.></.> <JP><F>uunto</F></JP> at last, <F>urm</F> because Kazuo loved Akiko very much, <nvs>laughter</nvs> <F>uum</F> he agreed with Akiko. And the three went home together.</B>
+<A><F>Hum</F>.</A>
+<B>And <SC>that time</SC> <pn_lxc odr="1" crr="it"></pn_lxc> was raining <nvs>laughter</nvs> <o_lxc odr="2" crr="at that time">that time</o_lxc>. <laughter>I'm sorry</laughter>.</B>
+<A>No problem. <F>Uum</F>.</A>
+</task>
+<followup>
+<A>Do you have any pets?</A>
+<B><F>Um</F>. Actually, I don't have <pn_lxc odr="1" crr="any">it</pn_lxc>. But, <F>um</F> tomorrow, a dog is coming.</B>
+<A>Really?</A>
+<B>Yes.</B>
+<A><F>Oh</F> <F>wow</F>.</A>
+<B><F>Um</F>. His name is Robin. <F>Um</F>. Chin. <F>Um</F>. <.></.> <F>Uum</F>. <SC>The dog</SC> a kind of dog is Chin. And <F>um</F> he is now in Ehime prefecture. And he will <v_lxc odr="1" crr="be"></v_lxc> on the flight to Haneda Airport. And my parents <F>um</F> will go to Haneda and take him back to <nvs>laughter</nvs> my house.</B>
+<A><F>Wow</F>.</A>
+<B>Tomorrow.</B>
+<A><F>Hum</F>. <SC>Where did you</SC> how did you know about this dog?</A>
+<B><.></.> This dog?</B>
+<A>This dog.</A>
+<B><F>Err</F>. I don't know. But, maybe, <prp_lxc1 odr="1" crr="on">in</prp_lxc1> the Internet, <F>um</F> my parents <v_tns odr="2" crr="met">meet</v_tns> the Robin's <aj_lxc odr="3" crr="present">now</aj_lxc> keeper and <o_lxc odr="5" crr="made contact"><v_tns odr="4" crr="touched">touch</v_tns> contact</o_lxc>. And, yes, <F>um</F> the woman <v_agr odr="1" crr="keeps">keep</v_agr> a dog <F>um</F> and her dog <F>uum</F> <v_lxc odr="2" crr="breeded">borned</v_lxc> Robin. <F>Um</F>.</B>
+<A><F>Wow</F>. Exciting.</A>
+<B><nvs>laughter</nvs></B>
+<A>Great. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So we're almost finished with the interview.</A>
+<B>Yes.</B>
+<A><F>Um</F> <F>um</F>. What are you going to do after this?</A>
+<B>After this? <F>Err</F>. After this, <F>err</F> maybe, I can eat lunch <nvs>laughter</nvs> <laughter>and</laughter> go home and study a little bit and <SC>prefer</SC> prepare for tomorrow's tournament of <at odr="1" crr="the"></at> track and field club.</B>
+<A><F>Um</F>. O K. So, good luck with your studying <OL>and <F>ur</F> practice</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

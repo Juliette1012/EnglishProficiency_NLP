@@ -1,0 +1,186 @@
+<interview>
+<filename>file01000.txt</filename>
+
+<head version="1.3">
+<date>2002-03-19</date>
+<sex>male</sex>
+<age>31</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B><F>Ah</F> good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Oh</F>. Nice to meet you.</B>
+<A>Nice to meet you, too. May I ask your name?</A>
+<B><F>Er</F> I'm <H pn="B's name">XXX02</H>.</B>
+<A>O K.</A>
+<B><F>Er</F> in <H pn="others1">XXX03</H>.</B>
+<A><OL>All right</OL>.</A>
+<B><OL>In</OL> <H pn="company name1">XXX04</H>.</B>
+<A>Thank you.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>How are you today?</A>
+<B>Today. <F>Er</F> <R>today</R> <F>er</F> today?</B>
+<A>How are you?</A>
+<B>How are you? <F>Er</F> <F>er</F> fine.</B>
+<A>Fine?</A>
+<B>Fine.</B>
+<A>Good. It's a beautiful day.</A>
+<B><F>Mmm</F>. <F>Oh</F> <F>oh</F> <nvs>laughter</nvs> I think so. <F>Er</F> it's very warm.</B>
+<A>Yeah.</A>
+<B><F>Mmm</F>.</B>
+<A>Do you like spring?</A>
+<B><laughter><F>Er</F></laughter> yes. <F>Mmm</F> <R>spri</R> <SC>spring, summer</SC> <R>I</R> I like spring, summer.</B>
+<A>O K.</A>
+<B><F>Mmm</F>.</B>
+<A>Why do you like spring and summer?</A>
+<B>Why do you like? <F>Mmm</F> it's a warm and comfortable. <F>Mmm</F> <SC>I</SC> <F>mm</F> <R>we can</R> we can play <SC>sports</SC> <F>er</F> <R>all</R> <F>er</F> all kind of sport. <F>Erm</F> <F>er</F> <F>mm</F> <F>mm</F> play ball, soccer, and so on.</B>
+<A>What is your favorite sport?</A>
+<B>Favorite sports? <F>Er</F> <R>I</R> <R>I</R> <F>mmm</F> <F>mmm</F> <R>I</R> I like riding motorcycle. <F>Er</F> <R>I</R> <R>I</R> <SC>I li</SC> <F>mmm</F> <R>I</R> <F>mm</F> I ride <F>er</F> motorcycle. <F>Mmm</F> <SC>one</SC> <R>once</R> <SC>once</SC> one week.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hmm</F>.</B>
+<A>O K. Where do you usually go?</A>
+<B>Where do you go? <F>Er</F> <F>mm</F> <R>almost</R> almost <F>er</F> riding alone. <F>Er</F> <SC>one</SC> <F>mm</F> once a month, <F>er</F> <R>I ri</R> I ride <F>mm</F> motorcycle with <F>er</F> our <R>friends</R> <F>er</F> <F>mmm</F> friends <F>er</F> with <F>er</F> motorcycle club.</B>
+<A><F>Wow</F>. Tell me more about your club.</A>
+<B>Tell me. <F>Erm</F> <H pn="others2">XXX05</H>. The club.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mh-hmm</F>. <H pn="others2">XXX05</H>.</B>
+<A><F>Uh-hmm</F>.</A>
+<B><F>Er</F> the <R>name</R> name <H pn="others2">XXX05</H>. <F>Er</F>.</B>
+<A>O K.</A>
+<B><F>Mmm</F>.</B>
+<A>Then what do you do?</A>
+<B><R>What do you do</R>? What do you do? <F>Mmm</F> <F>er</F> <R>once a</R> once a month <F>er</F> <F>mm</F> <R>we</R> <R>we</R> we ride touring.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Erm</F> on motorcycle.</B>
+<A>O K.</A>
+<B><F>Mmm</F>.</B>
+<A>Tell me about the last touring trip.</A>
+<B>Last touring. <F>Erm</F> <.></.> <F>er</F> <F>mm</F> <R>this month</R> <SC>this month</SC> <F>er</F> <SC>March one</SC> <F>er</F> <F>er</F> <SC>last weekend</SC> and last weekend, <F>er</F> <R>we can</R> <F>er</F> we can ride <F>er</F> motorcycle to <F>er</F> Nagano. <F>Mmm</F> <F>erm</F> it's a warm day. <F>Erm</F> <F>er</F> <SC>we can</SC> <R>we</R> we enjoy <F>er</F> natural scene. <R>And</R> and <F>er</F> <R>good</R> good meal. <F>Mm</F>.</B>
+<A><F>Wow</F>. Was it a one-day trip?</A>
+<B>One-day trip.</B>
+<A>One-day trip?</A>
+<B>Yes.</B>
+<A><OL><F>Oh</F> I see</OL>.</A>
+<B><OL>Yes</OL>. <SC>One-day trip</SC> almost one-day trip.</B>
+<A><F>Wow</F>. That's good. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, please take a look at this picture. And tell me about this picture.</A>
+<B><SC>Your</SC> <SC>this pic</SC> <F>uh-hmm</F> <F>er</F> <R>there</R> <R>there is a</R> there is <SC>a woman</SC> <F>ah</F> <laughter><SC>women</SC></laughter> woman. <F>Er</F> <R>woman</R> <R>woman is sitting</R> <.></.> <F>mm</F> woman is sitting on <F>mm</F> chair. <F>Er</F> <SC>she</SC> <F>mm</F> <F>mm</F> <F>mm</F> <.></.> <R>dog is</R> dog is <R>near</R> near her. <F>Er</F> there is a <SC>table on the</SC> <F>mm</F> table on <F>mm</F> <F>mm</F> personal computer and word processor <F>er</F> and some paper. <F>Er</F> <F>mmm</F> <F>mmm</F> <SC>she</SC> I seem she is relaxing. <F>Er</F> <R>this</R> <SC>this room is</SC> <F>er</F> <R>I</R> I seem this room is comfortable. <F>Er</F> door is opened. <F>Er</F> there is a bed <F>mmm</F> with a cat. Cat is sleeping.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F> <F>mmm</F> there is a component for musical instrument and table <F>mm</F> and <F>mm</F> telephone, calendar, and so on.</B>
+<A>O K.</A>
+<B><F>Uh-huh</F>.</B>
+<A>All right. Thank you. <H pn="B's name">XXX02</H>.</A>
+<B><F>Hm-hmm</F>.</B>
+</task>
+<followup>
+<A>Do you have your own computer at home?</A>
+<B>Do you have comp. Yes. <F>Ah</F> <R>I have</R> <F>er</F> I have three personal computer.</B>
+<A>Three.</A>
+<B>Three. Yes. <OL>Three box</OL>.</B>
+<A><OL><R>Why do you have</R></OL> why do you have three <OL>computers</OL>?</A>
+<B><OL>Three computer</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter><F>Ah</F></laughter></OL> <F>er</F> <R>I</R> <SC>I</SC> <F>mmm</F> <F>erm</F> <F>mmm</F> <R>be</R> <R>because</R> <F>mm</F> because <R>I</R> <R>I wo</R> <R>I work</R> I work for <F>er</F> <R>I</R> <F>mm</F> I T integration. <F>Er</F> <R>I</R> <F>er</F> I'm I T integration <F>er</F> professional technician. <F>Er</F> I like <F>er</F> <R>some</R> <F>er</F> some computer or work station. <F>Ah</F> <SC>I like</SC> <F>er</F> It's a my hobby.</B>
+<A><F>Ah</F>.</A>
+<B><F>Hm-hmm</F>.</B>
+<A>I see.</A>
+<B>I see.</B>
+<A>What can you do with your computer?</A>
+<B>Do with <R>what</R> what. <F>Er</F> <F>erm</F> some kind of <F>er</F> computer <R>is</R> is <F>mmm</F> <R>in</R> <F>erm</F> <F>er</F> <R>in</R> <F>mm</F> in windows version, or Macintosh <F>erm</F> UNIX and so on. <F>Hm-hmm</F>.</B>
+<A><F>Wow</F>. Sounds great. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <H pn="B's name">XXX02</H> let's have a role-play. O K?</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Please read this card, and when you are ready, I will start the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>I see. <..></..> <F>Er</F>.</B>
+<A>O K? May I help you sir?</A>
+<B><F>Er</F> <F>erm</F> <F>er</F> <R>I'd like</R> <R>I'd like to</R> I'd like to arrive at <R>New York</R> <F>er</F> New York station. <F>Er</F> I'd like to buy a ticket <SC>for</SC> <F>er</F> to New York station.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> <F>er</F> <R>can I tell me</R> <F>mm</F> can I tell me the way to buy a ticket to New York station?</B>
+<A>O K. You can buy a ticket here. I sell tickets to New York.</A>
+<B><F>Oh</F> <F>oh</F> this one.</B>
+<A>Yes.</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>O K. Thank you. <F>Erm</F> <F>er</F> <R>how</R> <R>how much</R> how much is this ticket?</B>
+<A>O K. We have two kinds of tickets.</A>
+<B><R>Two kind</R> two kind of tickets. <F>Er</F> are there <R>two</R> two <R>ki</R> kind of ticket?</B>
+<A>Yes. First class and <OL>economy</OL>.</A>
+<B><OL><F>Ah</F></OL>. <CO>Econo</CO>. <F>Er</F> <F>mh-hmm</F>.</B>
+<A>Which would you like?</A>
+<B><F>Mh-hmm</F>. <F>Er</F> I'd like to buy <F>er</F> economy ticket.</B>
+<A>O K. Then, thirty dollars.</A>
+<B>Thirty dollar. O K. <F>Er</F> this one. Here.</B>
+<A>O K. You go. Here you go.</A>
+<B>Thank you.</B>
+<A>Thank you very much have a nice trip.</A>
+<B><F>Er</F> thank you.</B>
+<A>Bye-bye. <nvs>laughter</nvs></A>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>. <F>Er</F> have you ever visited New York?</A>
+<B>New York? <F>Er</F> no, but I <R>have</R> have ever been in <F>er</F> San Francisco and Los Angeles. <F>Er</F> not New York.</B>
+<A>I see. Then which did you like better, San Francisco or Los Angeles?</A>
+<B><F>Er</F> <F>er</F> San Francisco is safety. And <F>er</F> silent and <F>mmm</F> <SC>good scene</SC> <F>er</F> some good scene. <F>Er</F> it's a <F>mm</F> comfortable place. Los Angeles is <F>er</F> noisy and <nvs>laughter</nvs> <nvs>sniff</nvs> <F>er</F> <F>mmm</F> <R>vi</R> vivid. <F>Er</F> Los Angeles is <F>er</F> attractive <SC>a so</SC> <F>mmm</F> have attractive place. <F>Mmm</F>.</B>
+<A>I see. O K. But <SC>did you</SC> didn't you go to Universal Studio in Los Angeles? Now?</A>
+<B><F>Mh-hmm</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. All right <H pn="B's name">XXX02</H> please take a look at this picture. Then this time, please make a short story, using these four pictures.</A>
+<B><F>Mmm</F>.</B>
+<A>O K. But this happened last week. O K? Please start your story with "Last week".</A>
+<B><F>Mmm</F> <F>er</F> <F>er</F> last week, <F>er</F> <F>mmm</F> <F>mm</F> <R>they</R> <R>they</R> they went out <R>to see</R> to see <F>eh</F> movie <R>for</R> for. <F>Mmm</F> <R>they</R> <R>they are</R> they are <R>two</R> <R>two</R> <SC>two mans</SC> <F>ah</F> two men and one woman. <F>Mmm</F>. <SC>They are</SC> <R>they</R> they bought tickets for this movie. <F>Er</F> <F>er</F> number two. <F>Mmm</F> they bought <F>er</F> pop corns and juices. <F>Er</F> <F>mm</F> and <R>before see</R> before seeing movie, <F>er</F> number three, <F>er</F> <SC>she</SC> <R>they</R> <SC>they see</SC> <F>ah</F> they saw <F>er</F> movie. <SC><R>This</R> <R>this movie</R> <F>er</F> <R>this movie</R> this movie scene <SC>is</SC> <F>er</F> <R>for is</R> <SC>for <F>mmm</F> is</SC> <R>falling</R> falling for</SC> <F>mmm</F> <F>ah</F> <SC>this movie</SC> <F>er</F> this scene is <F>er</F> <F>mmm</F> <F>er</F> <F>er</F> <F>er</F> that broken airplane is falling. <F>Er</F> <SC>she</SC> <R>they</R> they relax and <F>er</F> see this scene <F>er</F> with juice and popcorn. <F>Er</F> number four, <F>er</F> <F>m</F> this movie is finished. <R>They</R> <R>they</R> <F>mm</F> they went out <SC>to</SC> <F>ah</F> from <R>e</R> exit. <F>Er</F> <R>they</R> <SC>they are</SC> <.></.> <..></..>they enjoyed and was moved to see this movie.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. <H pn="B's name">XXX02</H>. <F>Er</F> do you like movies?</A>
+<B><F>Er</F> yes. <OL><F>Ah</F></OL></B>
+<A><OL>What</OL> kind of movies do you like?</A>
+<B><F>Er</F> I like movie. <F>Erm</F> <F>mmm</F> that kind of <F>er</F> fantasy. <F>Er</F> <R>scien</R> science fiction, <F>er</F> detective and so on.</B>
+<A><F>Ah</F> I see.</A>
+<B><F>Mmm</F>.</B>
+<A>Did you see any movies recently?</A>
+<B><F>Mmm</F> <F>er</F> <R>I</R> <R>I ha</R> <R>I have</R> I have seen <F>mmm</F> recently <F>er</F> <F>er</F> <F>er</F> <F>ah</F> movie <F>ah</F> "<JP>Yubiwa Monogatari</JP>".</B>
+<A><F>Ha</F> I see.</A>
+<B>I see. <OL><F>Hmm</F></OL>.</B>
+<A><OL>Was it</OL> good?</A>
+<B>Good. This movie is <F>er</F> fantasic.</B>
+<A><F>Ah</F>. Really? O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Thank you very much <H pn="B's name">XXX02</H>. Interview is almost over. Thank you for coming in today.</A>
+<B><F>Ah</F> thank you.</B>
+<A>Do you have any plans for this weekend or Thursday, national holiday?</A>
+<B>Holiday. <F>Er</F> <F>er</F> I <F>mmm</F> <R>maybe</R> maybe I ride on motorcycle.</B>
+<A><F>Ah-huh</F> yeah.</A>
+<B><F>Mmm</F>.</B>
+<A>I think the perfect season for touring.</A>
+<B><F>Ah</F> <F>er</F> except winter.</B>
+<A><F>Ah</F> I see. O K. Thank you very much. And enjoy the riding.</A>
+<B>Yeah. Thank you.</B>
+<A>O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,147 @@
+<interview>
+<filename>file00234.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>male</sex>
+<age>26</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello. My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>. <OL>Nice to meet you</OL>.</B>
+<A><OL>Can I call you <H pn="B's name">XXX02</H></OL>?</A>
+<B>Yes.</B>
+<A>Nice to meet you <H pn="B's name">XXX02</H>. How are you today?</A>
+<B>Yes, I'm fine.</B>
+<A>Good.</A>
+<B>Very much.</B>
+<A>What do you usually do on Friday?</A>
+<B>On Friday night <F>uh</F> I usually <F>uh</F> have a dinner with <F>uh</F> friends. <F>Um</F> sometimes with my girlfriend, sometimes with my colleague <.></.> <OL><F>uh</F></OL>.</B>
+<A><OL>Where do you go</OL>?</A>
+<B><F>Uh</F> near here. <F>Ur</F> sometime <F>ur</F> <R>I'll</R> <SC>I'll</SC>, I go to Omotesando, and sometime go to Shibuya.</B>
+<A><F>Umm</F>.</A>
+<B>Yes.</B>
+<A>And after dinner <R>do you</R> <SC>do you</SC> what do you do?</A>
+<B><F>Uh</F> <R>after dinner</R> <F>um</F> after dinner <R>urr</R> I usually go to <.></.> <F>uh</F> <R>drink</R> drink alcohol <F>um</F> <SC>from</SC> <F>um</F> to next morning.</B>
+<A><nvs>laughter</nvs> <laughter>O K</laughter>. <F>Well</F> <H pn="B's name">XXX02</H> could you tell me <F>um</F> the place you live now?</A>
+<B><F>Um</F> O K. Now <F>um</F> <F>uh</F> I live in <F>um</F> <H pn="others1">XXX03</H>. <F>Urr</F>. <.></.> <H pn="others1">XXX03</H> is <F>urr</F> <SC><H pn="others2">XXX04</H> prefecture</SC> <F>uh</F> <H pn="others3">XXX05</H> City in <H pn="others2">XXX04</H> prefecture. And now <R>I</R> I live <R>in</R> <F>urr</F> <F>uh</F> in our company's dormitory. <SC>So</SC> <F>ur</F> but <.></.> now <F>ur</F> I live in my dormitory in <H pn="others1">XXX03</H> but <F>ur</F> I'll move <F>urr</F> to <.></.> <R><H pn="others4">XXX06</H></R> <SC><H pn="others4">XXX06</H> City</SC> <F>urm</F> <H pn="others4">XXX06</H> <SC>in March</SC> next March.</B>
+<A><F>Uhmm</F>.</A>
+<B>So <.></.> <F>umm</F> I like <H pn="others1">XXX03</H> very much because <SC>it's <F>urm</F> <R>very</R> very</SC> <R>I can</R> I can be very <R>rela</R> relaxed. <F>Urrm</F> <R>never</R> never noisy city, I think. So <F>uh</F> maybe <F>urm</F> <H pn="others4">XXX06</H> is dirty and noisy <R>but</R> <F>urm</F> <F>um</F> <.></.> <?>but and</?> <SC><H pn="others4">XXX06</H></SC> <H pn="others4">XXX06</H> dormitory is <R>one roo</R> one room type <F>urm</F> <JP>mansion</JP>. So I want to move.</B>
+<A><F>Uh-hum</F>.</A>
+<B>Then, so <F>ur</F> <R>I'll</R> I'll move to <.></.> <F>ur</F> <R>next</R> next March.</B>
+<A>I see. Do you have any hobby <H pn="B's name">XXX02</H>?</A>
+<B>Hobby. <F>Urr</F> <F>urr</F> my hobby is playing basketball. <F>Umm</F> I've been playing basketball for ten years more. So <F>um</F> I played in my junior high school and high school and <.></.> in my university. But <F>umm</F> now, work is very busy. <SC>So</SC> but <F>uh</F> <F>umm</F> <.></.> <SC>don't</SC> <R>not playing</R> <R>not</R> <R>not playing</R> not playing basketball is <F>urr</F> <.></.> not good for health. So <F>uhhh</F> <F>um</F> now <SC>I belo</SC> I am belonged to <F>uhh</F> my company's club, and <.></.> <F>uhh</F> <R>play <.></.> <F>uh</F> basketball</R> play basketball once a week.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Oh</F> O K. Sounds good. O K, now, I'm going to show you a picture.</A>
+<B>Yeah. <nvs>cough</nvs></B>
+<A>Right. Let me see. Did you try this one?</A>
+<B>Yeah. <F>Urmm</F>.</B>
+<A>No?</A>
+<B>No.</B>
+<A><laughter>O K</laughter>. Please describe this picture for me.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>O K. <F>Urrm</F>. <nvs>cough</nvs> <F>Urrm</F>. This picture <F>urr</F> <.></.> describes <F>uhhh</F> this <.></.> two people's <F>urm</F> <.></.> anniversary. <F>Umm</F> now <F>uhh</F> I think <F>um</F> they were married last year. And today <F>urr</F> it's <F>urr</F> <R>one year</R> one year anniversary for them. So <F>uhh</F> <F>umm</F> <SC>they came</SC> <F>uhh</F> <F>uh</F> <SC>they ca</SC> <F>uh</F> they comes to <.></.> the famous restaurant in Shibuya. <F>Uhm</F> and now <F>urr</F> <F>um</F> they are drinking <F>urr</F> <.></.> red wine. And now <F>ur</F> he is tasting wine. And this <F>urrr</F> <F>uh</F> a lady wears <F>urrr</F> <R>pink</R> <.></.> <SC>pink what</SC> <.></.> pink sweater, and <F>urr</F> has a <.></.> <F>urr</F> necklace with pearl. And this man wears <F>urm</F> yellow suits and wears blue ties. And <F>urm</F> they are talking about <SC>their children</SC> <F>uh</F> their child. And <nvs>cough</nvs> now <F>uh</F> <.></.> he is talking about <F>uhhm</F> <.></.> <R>his chi</R> his child's <F>um</F> score in <R>his</R> <F>ur</F> his <F>umm</F> school. <SC>And</SC> but <F>um</F> <R>they</R> <SC>they likes</SC> <F>uh</F> <SC>they loves</SC> they love <F>uhh</F> their child very much. And <.></.> only today <F>uhh</F> they decide to <F>urrr</F> <.></.> <F>urrr</F> forget <F>uh</F> <SC>hi</SC> their child.</B>
+<A><F>Hmm</F>.</A>
+<B><CO>And <F>uum</F> <.></.> so</CO>.</B>
+</task>
+<followup>
+<A>O K. All right, thank you <H pn="B's name">XXX02</H>. Now, can you compare this restaurant with <R>the</R> your favorite restaurant?</A>
+<B><F>Urrm</F> <.></.> O K. My favorite restaurant is in Shibuya. <F>Umm</F> <.></.> <R>that res</R> that restaurant is <F>umm</F> <R>very</R> <R>very</R> very noisy. And <F>ur</F> can drink <F>hum</F> tequila. And so <SC>compare</SC> to compare <F>urr</F> this restaurant with <F>ur</F> my favorite restaurant <F>urrm</F>, <.></.> a <R>big</R> <R>big difference <F>uh</F> is</R> <SC>big difference is in there</SC> and there is big difference. So, this restaurant is <R>very</R> <F>umm</F> very noble. And <F>urrm</F> very quiet. So and <F>urrr</F> I think <F>urr</F> it's costs <.></.> <F>urr</F> <.></.> about <SC>two or three</SC> <F>urrr</F> two hundred <R>or</R> or three hundred <F>urm</F> thousand yen. But <F>um</F> in my favorite restaurant <F>uhhhh</F> <.></.> it costs <F>uhh</F> only <.></.> <R>fifty</R> fifty and sixty thousand yen.</B>
+<A><laughter>O K</laughter>.</A>
+<B>It's <F>ur</F> big difference.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Thank you <H pn="B's name">XXX02</H>. Thank you. Now, I'm going to show you a card.</A>
+<B><.></.> O K. <nvs>cough</nvs></B>
+<A>O K. Here you go. Can you read this to yourself, and when you're ready, let me know, I'll begin.</A>
+<B>O K.</B>
+<A>Ready?</A>
+<B>Ready.</B>
+<A><R>Ring</R> ring. Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Oh</F> <.></.> this is <H pn="B's name">XXX02</H>.</B>
+<A><OL>Hi <H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><F>Emm</F></OL> <F>umm</F>. Do you have <F>urr</F> plan tomorrow?</B>
+<A>Yeah, I have to work tomorrow.</A>
+<B><F>Urrm</F>. O K <F>urm</F> if you finish <F>urr</F> your work <F>umm</F> <SC>at</SC> <F>uh</F> <R>by</R> by five P M tomorrow <F>urrr</F> let's go to <F>urr</F> see a movie. <OL>O K</OL>?</B>
+<A><OL>O K</OL>.</A>
+<B><F>Urm</F>. So <F>err</F> now <.></.> <R>where do you</R> <F>urr</F> where do you <.></.> finish the work <OL>tomorrow</OL>?</B>
+<A><OL>I work in</OL> Shinjuku.</A>
+<B>Shinjuku. O K. So <F>urr</F> O K. <F>Er</F>. <.></.> So <.></.> <R>meet</R> <F>erm</F> meet at <R>Shi</R> Shinjuku Station <F>uurm</F> <SC>in <R>sou</R> south</SC> near <R>south</R> south exit <F>urr</F> at <F>erm</F> six P M. O K?</B>
+<A>O K.</A>
+<B>So <F>em</F> <.></.> <F>err</F> I think <F>urr</F> <R>you don't</R> <SC>you don't have</SC> <F>urr</F> <R>you will</R> <R>you will not</R> you will not <R>have</R> have dinner <F>urrr</F> then.</B>
+<A>No.</A>
+<B>So <F>uhh</F> at first <.></.> have a dinner <F>urr</F> together <.></.> in <.></.> Chinese restaurant.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>And</OL> <F>ummm</F> <F>um</F> <SC>go</SC> let's go to see a movie.</B>
+<A>Sounds good.</A>
+<B><R>It's</R> <R>it's</R> <F>errrm</F> it's very popular <F>ur</F> and <R>famous</R> <F>er</F> famous movie. <F>Er</F> the title is <.></.> <F>hum</F> "Thirteen Days", O K?</B>
+<A>All right. Sounds good. So, see you then <H pn="B's name">XXX02</H>.</A>
+<B>O K. See you.</B>
+<A>Bye-bye.</A>
+<B>Bye-bye.</B>
+<A>All right, thank you. That's the end of the role-play.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Thank you</OL>.</A>
+</task>
+<followup>
+<A><F>Hum</F>. When you go out with your girlfriend, do you see a movie?</A>
+<B><F>Erm</F> when? <.></.> <F>Huuum</F>. <F>Um</F>. <R>My</R> my girlfriend is now student. So <.></.> she has <F>urm</F> long free time. <F>Uh</F> <F>um</F> everyday she's free.</B>
+<A><F>Wow</F>.</A>
+<B><SC>So</SC> but <R>I ha</R> I have work everyday, you know. So <F>uhh</F> I go to see a movie with my girlfriend <F>urrr</F> on Saturday or <F>umm</F> Sunday.</B>
+<A>I see. How do you choose a movie?</A>
+<B><CO>How do you</CO>. <F>Humm</F> <F>errr</F> <F>err</F> <SC>I like</SC> <F>urrr</F> <.></.> <F>urr</F> I want to have <F>urr</F> my heart moved. So <F>um</F> <SC>action movie <F>urr</F> <R>I</R> I like</SC> I don't like <F>urr</F> action movie well. I like <F>mhmm</F> love story.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Wow</F>. Sounds good. Thank you. O K, <H pn="B's name">XXX02</H> now, we're going to do a sequence of pictures.</A>
+<B>O K.</B>
+<A>O K?</A>
+<B><nvs>cough</nvs></B>
+<A>All right. Please make up a story based on these pictures from one to six, and this happened before, so <SC>start</SC> please start your story</A>
+<B><nvs>cough</nvs></B>
+<A>with "One day last week". Go ahead.</A>
+<B>O K. <F>Urrm</F> <F>uhhm</F>. <.></.> Last Friday <F>uhm</F> a couple <F>erm</F> <SC>walk along together</SC> <F>uh</F> walked along together. Then <F>huum</F> <F>uh</F> little noise is <F>urr</F> heard from <F>urr</F> small box. <F>Em</F> a man heard <R>that noi</R> <R>that</R> that noise and <.></.> he want to know <F>urr</F> <SC>the</SC> what the noise is. Then <F>urrr</F> they opened the box and found <F>um</F> little cat. A cat is about <F>mmm</F> two or <R>three</R> three years older. But <F>uhmm</F> <SC>it's rains</SC> <F>urr</F> <R>it</R> it rained <.></.> very well. <F>Uhhm</F> so <F>uhmm</F> <SC>it's</SC> <SC>she</SC> she's very <.></.> <F>hum</F> anxious for <SC>taking back</SC> taking the cat back. But at first, the boy <F>urrm</F> reject <F>um</F> her idea to take <F>urr</F> this cat back. But <F>um</F>, <SC>he like</SC> <SC>he loves</SC> he loved <F>uh</F> her very much. And <F>urr</F> <.></.> <R>she didn't</R> she didn't hear <F>urrr</F> <R>his</R> <.></.> <F>huum</F> <R>his</R> his <F>errrm</F> <SC>she don't</SC> <SC>she didn't have</SC> <F>ur</F> <R>she didn't hear</R> <F>urm</F> she didn't hear <F>urr</F> <R>boyfriend's</R> <F>huuum</F> boyfriend's voice <SC>boy's</SC> boyfriend's decision. <F>Huum</F> <.></.>. <CO>And then <F>er</F> <F>urr</F> they <F>urr</F> took the cat back and <F>mhhh</F> <R>don't</R> don't be</CO>. <.></.> <F>Urrm</F> <F>mmm</F> <SC>the cat <F>urr</F> will be</SC> <F>uhh</F> the cat would be happy by <F>urr</F> them.</B>
+<A>O K. Thank you very much <H pn="B's name">XXX02</H>.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>When you and your girlfriend have different opinions about something, what do you do?</A>
+<B><F>Huuum</F> <F>erm</F> <R>In</R> <R>in that</R> in that case <F>huum</F> <R>I don't</R> <SC>I don't decide</SC> <F>urrrm</F> I don't reject <R>my</R> <F>urr</F> my girlfriend's opinion. But <F>urm</F> <F>um</F> I don't want to change my <SC>idea too</SC> opinion, too. So <.></.> <F>ummm</F> <R>I</R> <.></.> <F>uhhm</F> <SC>I don't</SC> <F>uhmm</F> <R>I</R> <R>I have</R> <R>I have <.></.> my girl's idea</R> <F>uh</F> I have my girl's idea <.></.> <F>umm</F> changed. Then <F>urm</F> <R>I</R> <SC>I want</SC> <R>I</R> <R>I</R> <F>urr</F> <R>I</R> <.></.> <R>I take</R> <F>urrr</F> <R>I take <F>urrr</F> her idea</R> <.></.> <F>urrm</F> I take her idea to <.></.> me, and <F>urm</F> I don't know <R>what</R> what I say. <F>Urrm</F> <F>mmm</F> <R>don't</R> don't <R>reject</R> reject opinion, but</B>
+<A>I see.</A>
+<B><F>urrm</F> don't reject but <F>urrr</F> change her idea.</B>
+<A>O K.</A>
+<B>I tried.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Sounds good. All right. <H pn="B's name">XXX02</H> we are almost at the end of the interview. Do you have to go back to your office after this?</A>
+<B>Yes. <F>Urrm</F> after this test <F>urr</F> <SC>I'll back</SC> I must <F>urr</F> go back to work.</B>
+<A><F>Ohhhh</F>.</A>
+<B>And <.></.> <F>urrr</F> <SC>I fini</SC> <SC>I</SC> I'll finish my work <F>urr</F> by six P M and <F>urr</F> I must go to <F>um</F> Berlitz <F>urm</F> to study English.</B>
+<A>O K. Good luck on your English class.</A>
+<B>Yes.</B>
+<A>Thanks for coming today.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>This is</OL> the end of the interview. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

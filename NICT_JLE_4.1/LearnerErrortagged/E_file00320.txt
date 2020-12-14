@@ -1,0 +1,235 @@
+<interview>
+<filename>E_file00320.txt</filename>
+
+<head version="1.3">
+<date>2001-03-01</date>
+<sex>female</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>920</TOEIC>
+<TOEFL>600</TOEFL>
+<other_tests></other_tests>
+<SST_level>8</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K. <F>Er</F> let's begin. For the record, may I have your name, please?</A>
+<B>Yes, my name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. Ms <H pn="B's name">XXX01</H>.</A>
+<B>Yes.</B>
+<A>Right. Where are you from?</A>
+<B>I'm from <H pn="others1">XXX02</H> City.</B>
+<A><H pn="others1">XXX02</H> City.</A>
+<B><F>Mhm</F>.</B>
+<A><F>Huh</F>. Have you all lived in <H pn="others1">XXX02</H> City?</A>
+<B>Yes, I was born and raised in <OL><H pn="others1">XXX02</H> City</OL>.</B>
+<A><OL><laughter><F>Ah-huh</F></laughter></OL>. O K. You've never lived anywhere else at all?</A>
+<B><F>Well</F> I studied abroad for one year in the United States.</B>
+<A><F>Ah-huh</F>. Where in the <OL>U S</OL>?</A>
+<B><OL>In <?><at odr="1" crr="">the</at></?></OL> <H pn="others2">XXX03</H>.</B>
+<A><H pn="others2">XXX03</H>.</A>
+<B><F>Mhm</F>.</B>
+<A><F>Oh</F> I see. Never been there. <F>Eh</F> is that <at odr="1" crr="a"></at> nice place?</A>
+<B>Kind of.</B>
+<A>Kind <OL>of</OL>.</A>
+<B><OL><R>Ye</R></OL> yes. It's <at odr="1" crr="a"></at> suburb.</B>
+<A><OL>Suburb</OL>.</A>
+<B><OL><??></??></OL> <F>mm</F>. <?>But</?> <at odr="1" crr="a"></at> beautiful place.</B>
+<A><F>Mhm</F>. I see. What did you <v_lxc odr="1" crr="do"></v_lxc> there?</A>
+<B>I studied. Yes. I <o_lxc odr="2" crr="belonged to"><v_tns odr="1" crr="entered">enter</v_tns></o_lxc> the university <prp_lxc1 odr="3" crr="for"></prp_lxc1> one year as <at odr="4" crr="an"></at> exchange student.</B>
+<A><F>Mhm</F>. <F>Mhm-hum</F>. I see. <F>Er</F> did you have a major?</A>
+<B><F>Well</F> I didn't have to major <prp_lxc2 odr="1" crr="in"></prp_lxc2> <pn_lxc odr="2" crr="anything"></pn_lxc>. But <F>well</F> I studied English in my university here in Japan. But when I was <prp_lxc1 odr="1" crr="">in</prp_lxc1> abroad, I didn't have to major in any subjects. So I could take any <OL>courses</OL>.</B>
+<A><OL><F>Ah-huh</F></OL>. So enjoyed <at odr="1" crr="the"></at> <OL>classes</OL>?</A>
+<B><OL><F>Mhm-hum</F></OL>. Very much.</B>
+<A>Good. O K. <F>Em</F> please tell me about your hobbies.</A>
+<B>Yes, <F>em</F> I like going to <v_lxc odr="1" crr="see"></v_lxc> <at odr="2" crr="">the</at> movies. I <v_cmp odr="1" crr="like going">like go</v_cmp> shopping. And <F>em</F> I like singing karaoke.</B>
+<A><F>Mhm-hum</F>. <F>Mhm</F>.</A>
+<B>Yes. I like hanging around with my friends.</B>
+<A><F>Mhm</F>.</A>
+<B>Things like that.</B>
+<A>O K. Sure. <F>Er</F> are there special types of movies that you especially enjoy?</A>
+<B><F>Eh</F> I like all <at odr="1" crr="">the</at> types of movies. But I especially like, yeah, courtroom dramas and <at odr="1" crr="">the</at> old dramas like soldiers fighting with <?>soldiers</?> and things like that, like medieval <n_lxc odr="2" crr="times"></n_lxc>.</B>
+<A><F>Ah</F> I see.</A>
+<B><F>Mhm-hum</F>.</B>
+<A>Have you seen <at odr="1" crr="a">the</at> movie like that recently?</A>
+<B><F>Eh</F> not recently. But <F>em</F> a while ago, I watched <R>Gla</R> "Gladiator".</B>
+<A><F>Mhm</F>.</A>
+<B><SC>That</SC> I like that</B>
+<A><F>Mhm</F>.</A>
+<B>very much.</B>
+<A><F>Mhm</F>. <F>Mhm-hum</F>. O K. <F>Em</F> <JP>karaoke</JP>, <OL><F>er</F></OL></A>
+<B><OL><F>Mhm</F></OL>.</B>
+<A>do you often go to <JP>karaoke</JP>?</A>
+<B>Yes, I mean, not very often, but like once in a month.</B>
+<A><F>Mhm</F>.</A>
+<B><?>Things like this</?>.</B>
+<A><F>Mhm-hum</F>. What kind of <R>so</R> <F>er</F> songs <R>do you</R> do you sing?</A>
+<B><F>Well</F> usually <SC>popular</SC> pop <n_num odr="1" crr="songs">song</n_num> and <F>er</F> rock <n_cnt odr="2" crr="music">musics</n_cnt>. <OL>Yeah</OL>.</B>
+<A><OL><F>Mhm</F></OL>. What do you think of <F>ah</F> <F>er</F> the appeal of <F>ur</F> <JP>karaoke</JP> <n_lxc odr="1" crr="bar">store</n_lxc>? What's so interesting about?</A>
+<B><F>Well</F> I can <v_cmp odr="1" crr="refresh myself">refresh</v_cmp>. And <F>er</F> I don't have to care about the other people, and <SC>I just</SC> I like going to <JP>karaoke</JP> with my very close friends. So I don't have to care if I'm <at odr="1" crr="a"></at> very good singer or not. I just want to <v_cmp odr="2" crr="refresh myself"><v_lxc odr="1" crr="refresh">fresh</v_lxc></v_cmp>. Think nothing about like studies or thing like that.</B>
+<A><F>Mhm</F>. O K. Right. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Let's try <at odr="1" crr="the">a</at> first picture today.</A>
+<B>O K.</B>
+<A>And this one.</A>
+<B><F>Mhm</F>.</B>
+<A>Could you describe this picture for me?</A>
+<B>Yes. <F>Em</F> this is a room. And there is a lady sitting on her chair. And there are <SC>two animals</SC> two pets. One is <at odr="1" crr="a"></at> dog, and <o_lxc odr="2" crr="the other">one</o_lxc> is <at odr="3" crr="a"></at> cat. And <F>er</F> I think she was <v_lxc odr="1" crr="using">doing</v_lxc> <at odr="2" crr="a"></at> computer. And there is a <F>er</F> typewriter <av_lxc odr="1" crr="">there</av_lxc>, <con_lxc odr="2" crr="">and</con_lxc> a dust box and a bed. And the door is open. And <F>er</F> there is <at odr="2" crr="an">a</at> <o_lxc odr="1" crr="audio system">audio set</o_lxc>, <con_lxc odr="3" crr="">and</con_lxc> a calendar and a clock. And more? <F>Ah</F> <F>ah</F> and <R>she</R> she is wearing <at odr="1" crr="a"></at> green sweater. And <SC>she is kind of</SC> she looks like explaining about <at odr="1" crr="the"></at> computer to her pets. But <at odr="1" crr="the"></at> pets are not listening to <laughter>her</laughter>. They're just sleeping. <OL><??></??></OL>.</B>
+<A><OL>O K</OL>. Thank you.</A>
+</task>
+<followup>
+<A><F>Em</F> do you like this kind of room?</A>
+<B>Yes. Because there is a computer which I don't have.</B>
+<A>O K. What would you like to use the computer for?</A>
+<B><F>Well</F> <SC>I like</SC> I want to <v_lxc odr="1" crr="use">do</v_lxc> the Internet. I want to <v_lxc odr="1" crr="use">do</v_lxc> <prp_lxc1 odr="2" crr="">like</prp_lxc1> E-mails <?>and stuff</?>.</B>
+<A><F>Mhm</F>. <F>Mhm-hum</F>. <F>Eh</F> do you actually use E-mail <OL>nowadays</OL>?</A>
+<B><OL>Yes</OL> with <F>eh</F> my cell phone.</B>
+<A><F>Mhm</F>.</A>
+<B>But not with the computer.</B>
+<A><F>Mhm</F>. Why do you think <F>er</F> people like to use <at odr="1" crr="">the</at> E-mail so much?</A>
+<B>Because it's easy to communicate. <SC>I can like</SC> if I write a letter to my foreign friend, it <v_tns odr="1" crr="will take">takes</v_tns> like more than a week. But with an E-mail, <SC>it's just like</SC> you know, <av_pst odr="1" crr="it's just a moment">just it's a moment</av_pst>. It's more convenient and <aj_us odr="1" crr="faster">fast</aj_us>.</B>
+<A><F>Mhm</F>. Could you compare this room with your own room?</A>
+<B>Yes. My room is much smaller than this room. And <F>er</F> as I said before, I don't have <at odr="1" crr="a"></at> computer. I don't have <at odr="1" crr="a"></at> typewriter. I do have pets. I have three cats and two dogs. <o_uit odr="1">So that's maybe the point I'm better than her</o_uit>. <nvs>laughter</nvs> And I do have <at odr="2" crr="a"></at> <o_je odr="1" crr="stereo system">audio set</o_je>. And <F>er</F> other than that, pretty much <at odr="1" crr="the"></at> same.</B>
+<A>O K. Thank you.</A>
+<B><F>Mhm-hum</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's do a role-play. <.></.> O K. Please take a look.</A>
+<B>Yes.</B>
+<A>When you are ready, I'll begin the roll play.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>So it's a phone conversation.</A>
+<B><F>Mhm</F>.</B>
+<A>My name is <H pn="A's name">XXX04</H>. So I picked up the phone, O K?</A>
+<B>O K.</B>
+<A>Right. So let's go. Hello, this is <H pn="A's name">XXX04</H>.</A>
+<B>Hi, <F>em</F> <o_uk odr="1" crr="this is">my name is</o_uk> <H pn="B's name">XXX01</H>.</B>
+<A>Hi, <OL><H pn="B's name">XXX01</H></OL>.</A>
+<B><OL><F>Em</F></OL>. And <F>er</F> I was supposed to go to the party tonight.</B>
+<A>Yes, what happened?</A>
+<B><F>Well</F> I'm really sorry. I really apologize, but I couldn't make it because my mom suddenly got sick. And I was the only one in my home, and I have to take care of her. So I really really wanted to go there, but I couldn't. So I really apologize. But <SC>I'm</SC> I <v_cmp odr="1" crr="appreciate it">appreciate</v_cmp> if you ask me to <v_lxc odr="2" crr="come">go</v_lxc> again <R>s</R> sometime.</B>
+<A><R>I</R> I really understand your situation.</A>
+<B><F>Mhm-hum</F>.</B>
+<A>But you know, there are a few people <F>er</F> who came to my place just <R>to</R> to meet you.</A>
+<B><OL><F>Em-hum</F></OL>.</B>
+<A><OL>They</OL> came all the way from Europe,</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>you</OL> know.</A>
+<B>I know.</B>
+<A>And they were so upset.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>Because</OL> you didn't even call us.</A>
+<B>I know <SC>I'll</SC> I really wanted to call. But actually, my mom was taken to the hospital <prp_lxc1 odr="1" crr="by">with</prp_lxc1> ambulance. And <F>er</F> it was like I didn't have time because I was so upset. So I should have thought about calling you. But I was kind of upset. So upset so I couldn't make it.</B>
+<A>I understand. <F>Well</F> <R>I</R> I want to tell those friends of yours what <v_tns odr="1" crr="happened">happens</v_tns>.</A>
+<B><OL><F>Mhm-hum</F></OL>.</B>
+<A><OL>So</OL> could you tell me more about your mother? What happened? What were her symptoms?</A>
+<B><F>Ah</F> <F>well</F> she was O K. <R>She</R> <SC>she had</SC> <F>er</F> <F>well</F> actually, she kind of fell down the stairs. And <F>er</F> she was unconscious. So I was upset. So I called <at odr="1" crr="an"></at> ambulance. And <F>er</F> she was taken to <at odr="1" crr="the"></at> hospital. But <o_uk odr="1" crr="actually, she was O K">she actually had nothing</o_uk>. She <v_vo odr="1" crr="just fainted">was just fainted</v_vo>. That's all. So <SC>that's</SC> <F>er</F> <R>that was good</R> that was good. <SC>But</SC> So nothing actually happened to her. But just I was too upset. <nvs>laughter</nvs> You know? Sorry about that.</B>
+<A>O K. I understand. <F>Em</F> <F>well</F> please come next time then.</A>
+<B>Yeah. <OL>Sure</OL>.</B>
+<A><OL>All right</OL>? <OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Right. Thanks. This is the end of the role-play.</A>
+<B><F>Mhm-hum</F>.</B>
+<A>O K. Thanks.</A>
+</task>
+<followup>
+<A><F>Well</F> <F>em</F> do you enjoy going to parties?</A>
+<B>Sure, of course. I do love going to parties.</B>
+<A>Please describe your ideal party.</A>
+<B>O K. My ideal party is <at odr="2" crr="a"></at> <n_lxc odr="1" crr="party"></n_lxc> just between our <aj_lxc odr="3" crr="close">closed</aj_lxc> friends. And we bring all <at odr="1" crr="the"></at> foods and stuff together. And <F>er</F> we have just wonderful conversations. I mean nothing special, <R>nothing</R> nothing expensive. But just enjoy conversations, drink good wines, eat nice foods, things like that.</B>
+<A><F>Em</F> could you compare a typical American party <OL>that</OL></A>
+<B><OL><F>Mhm-hum</F></OL>.</B>
+<A>you've seen in <H pn="others2">XXX03</H></A>
+<B><OL>Yes</OL>.</B>
+<A><OL>and</OL> a typical Japanese party?</A>
+<B><F>Well</F> actually, <SC>I</SC> I've never seen the <SC>party</SC> real party in Japan.</B>
+<A><F>Ah</F>.</A>
+<B>I mean in the United States, I had many chances to go to the parties. And that was like <at odr="2" crr="a"></at> <aj_lxc odr="1" crr="real">really</aj_lxc> party. You know, like we imagine. It was like <at odr="2" crr="a"></at> <o_odr odr="1" crr="kind of crazy party">crazy party kind of</o_odr>. Because I was <?>in the</?> <R?>univ</R?> university. And those were really fun. And <F>er</F> I think Americans know how to enjoy the party. But we don't know because we don't have <at odr="1" crr="a"></at> chance to go to <at odr="2" crr="a">the</at> party.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>And hold <at odr="1" crr="a"></at> party.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>Yeah.</B>
+<A>Tell me more about <F>eh</F> the party you went <OL>in <H pn="others2">XXX03</H></OL>.</A>
+<B><OL>Yes</OL>. <F>Well</F> I went <prp_lxc2 odr="1" crr="to"></prp_lxc2> several parties. And <F>er</F> it's like more between very close friends in the school. So it's like usually <prp_lxc1 odr="1" crr="in"></prp_lxc1> my friend's house and she or he <SC>say</SC> <v_agr odr="2" crr="asks">ask</v_agr> many friends to come. And she or <SC>she</SC> he <v_tns odr="1" crr="will cook">would cook</v_tns>. And we also bring foods, and <F>er</F> we just enjoy conversation for like hours like all <at odr="1" crr="">the</at> night. That's <?>right</?>.</B>
+<A>Right. O K. <OL>Thank you</OL>.</A>
+<B><OL><F>Mhm</F></OL>. <F>Hum</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Eh</F> let me show you <at odr="1" crr="the">a</at> last picture today. <F>Em</F> this one.</A>
+<B><OL>O K</OL>.</B>
+<A><OL><F>Ah</F></OL> It's a story.</A>
+<B><OL><F>Mhm-hum</F></OL>.</B>
+<A><OL>This</OL> is the beginning,</A>
+<B><F>Mhm-hum</F>.</B>
+<A>and the ending.</A>
+<B>O K.</B>
+<A>So please come up with your own story based on these pictures. <F>Em</F> this story took place in the past,</A>
+<B>O K.</B>
+<A>in fact, one day last week.</A>
+<B><OL><F>Mhm-hum</F></OL></B>
+<A><OL>So</OL> please begin your story with, "One day last week".</A>
+<B>O K. One day last week, a man was driving a car. And at the same time, the other man was driving a bike <con_lxc odr="1" crr="and"></con_lxc> making <at odr="2" crr="a"></at> telephone call to <SC>her girl</SC> his girlfriend. And then these two vehicles just collided. And <SC>at that time</SC> at that moment, the man who was driving the motorcycle, <SC>drop her</SC> he <v_tns odr="1" crr="dropped">drop</v_tns> his cell phone. And that man was complaining about the cell phone that he dropped because the phone was broken <SC>at a</SC> because of that shock. And he was complaining about <SC>that</SC> <F>er</F> <prp_lxc2 odr="1" crr="to"></prp_lxc2> the other person who was driving <at odr="2" crr="the">a</at> car. And <SC>in that time</SC> in the meantime, <at odr="1" crr="the">a</at> police came up, and asked about the situation. And the man who was driving <at odr="1" crr="the">a</at> car <v_tns odr="2" crr="explained">explain</v_tns> <R>the</R> the other person who was driving <at odr="4" crr="the">a</at> <n_lxc odr="3" crr="motorcycle">bicycle</n_lxc> was making a <o_lxc odr="5" crr="phone call">cell phone call</o_lxc> while he was driving. And he explained that to the policeman. And after that, the man who was driving <at odr="2" crr="the">a</at> <n_lxc odr="1" crr="motorcycle">bicycle</n_lxc>, <SC>couldn't even</SC> couldn't get not only <pn_agr odr="3" crr="his">her</pn_agr> cell phone back, but also <SC>her</SC> his motorcycle back because it was taken <R>to</R> to <at odr="4" crr="the"></at> police. <.></.> <OL>That's it</OL>.</B>
+<A><OL>O K</OL>. Right. Thank you.</A>
+</task>
+<followup>
+<A>Have you ever <v_lxc odr="1" crr="had">been</v_lxc> in a traffic accident?</A>
+<B><F>Em</F> not really.</B>
+<A><F>Mm</F> have you ever seen one?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. Can you tell me about that?</A>
+<B>Yes. I've <v_cmp odr="1" crr="seen a high school boy just crossing">seen a high school boy was just crossing</v_cmp> the street when the signal was red. And <F>er</F> <at odr="1" crr="a"></at> car was like <SC?>in the</SC?> running the street. And the boy was just hit by the car in front of me. But that was <SC>his fault</SC> the boy's fault because he <v_vo odr="1" crr="just ignored">was just ignored</v_vo> <prp_lxc1 odr="2" crr="">in</prp_lxc1> the signal. And actually, he was O K. <R>He</R> he didn't seem to be that hurt. So <SC>I think</SC> I don't know what happened next because I was in a hurry. But <SC>he was O</SC> he looked O K. And <F>er</F> he looked <prp_lxc2 odr="1" crr="like"></prp_lxc2> apologizing <prp_lxc2 odr="2" crr="to"></prp_lxc2> the driver. So I think nothing really bad happened after that.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>Right. <OL>Thank you</OL>.</A>
+<B><OL><F>Mhm-hum</F></OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>We're almost at the end of the interview.</A>
+<B>O K.</B>
+<A>Right. <F>Em</F> what are your plans today after this interview?</A>
+<B>I'm going to school</B>
+<A><F>Mm</F>.</A>
+<B>at night.</B>
+<A>At night?</A>
+<B><OL>Yes, I have <at odr="1" crr="a"></at> night class</OL>.</B>
+<A><CO><OL><?>At night</?></OL></CO>? <F>Mhm</F>. <F>Er</F> usually at night or <OL>daytime as usual</OL>.</A>
+<B><OL>Yes</OL>, usually at night because I'm taking a night class.</B>
+<A><F>Ah</F> <F>Mm</F>. What are you studying today?</A>
+<B>English.</B>
+<A><F>Ah</F> O K.</A>
+<B>Yes.</B>
+<A>Right. You mean <at odr="1" crr="the">a</at> <H pn="school name1">XXX05</H>.</A>
+<B>Yes.</B>
+<A><F>Ah</F>. O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>I understand</OL>. I see. Do you have any plans <prp_cmp odr="1" crr="for going">for go</prp_cmp> to foreign <n_num odr="2" crr="countries">country</n_num> in near future?</A>
+<B><F>Well</F> yes. I'm hoping to. Someday, I'm hoping to study abroad in <at odr="2" crr="a">the</at> <o_lxc odr="1" crr="non-English speaking">no English speaking</o_lxc> country.</B>
+<A><F>Mhm</F>.</A>
+<B>Because <SC>I want to speak</SC> I want to learn one more language.</B>
+<A><F>Ah-huh</F>. Which one are you thinking of?</A>
+<B>I'm kind of studying Spanish right now. So I'm hoping someday I could study in Spain.</B>
+<A><F>Mm</F> I see. <F>Well</F> I hope <R>your</R> your wish will come true.</A>
+<B>Thank you.</B>
+<A>Right. Thank you. This is the end of the interview.</A>
+<B>O K.</B>
+<A>O K. Right. Thank you. Just a moment.</A>
+<B><F>Mhm-hum</F>.</B>
+</stage5>
+</body>
+</interview>

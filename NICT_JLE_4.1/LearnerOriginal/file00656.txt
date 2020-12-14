@@ -1,0 +1,252 @@
+<interview>
+<filename>file00656.txt</filename>
+
+<head version="1.3">
+<date>2001-11-06</date>
+<sex>female</sex>
+<age>40</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B><F>Uh</F> My name is <H pn="B's name">XXX01</H>.</B>
+<A>May I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes, please.</B>
+<A>O K,</A>
+<B>Yes.</B>
+<A><H pn="B's name">XXX01</H>. <F>Erm</F>. <.></.> Where is your hometown?</A>
+<B>My hometown is <H pn="others1">XXX02</H>,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>city. Yeah. It used to be <H pn="others2">XXX03</H> but now, it is called <H pn="others1">XXX02</H>.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>I see. <F>Hm</F>. What's the area like?</A>
+<B>It is <F>hmm</F> <.></.> in the resident area, is it English? O K. <??></??> so very quiet, good place to live in. Yeah.</B>
+<A><F>Hmm</F>. O K. <F>Erm</F> <.></.> What do you like to do in your house or room?</A>
+<B><SC>In a room</SC> in my room? I like reading books. <SC>And I h</SC> <F>er</F> because I have two children, usually I don't have time for myself. <SC><laughter>I u</laughter></SC> I have to take care of them. <SC>And I ha</SC> but I like talking with them.</B>
+<A><F>Hmm</F>. I see. Can you describe your younger child?</A>
+<B>My younger child is now six years old.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <SC>she</SC> <F>uh</F> her name is <?><H pn="others3">XXX04</H></?>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And now, she <.></.> <SC>goes to <.></.> nursery</SC> <.></.> go to the nursery nearby. And, yeah, she likes drawing pictures.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>Sh</SC> and she likes <.></.> playing with her dolls. <CO>And she's very, very</CO>. <.></.> <F>hmm</F> <.></.> What to say? <.></.> <F>Ah</F>. She likes chatting. And her elder <SC>s</SC> brother doesn't like her when she is so <.></.> naughty. Because <SC>she's always playin</SC> <F>ah</F> <.></.> <F>ah</F> she <.></.> likes <SC>to be cute</SC></B>
+<A><F>Mh-hmm</F>.</A>
+<B>to be <.></.> thought to be cute.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <SC>she's always the</SC> she behave like a <.></.> <SC><JP>kogyaru</JP></SC> <nvs>laughter</nvs> high school girls. <nvs>laughter</nvs> And her brother doesn't like it. <nvs>laughter</nvs></B>
+<A><F>Oh</F>.</A>
+<B>Yeah.</B>
+<A>I see.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Ah</F></OL>. So with two children,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>you must be</OL> very busy.</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. And how do you find time for yourself?</A>
+<B>Yeah. My time is after ten o'clock or eleven o'clock. So after I send them <SC>to the</SC> to bed, I have time. And <R>I ha</R> I have coffee and chocolate and books and Internet.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>I see.</A>
+<B>Yeah. That's my best time. <nvs>laughter</nvs></B>
+<A>What do you do on the Internet?</A>
+<B>On Internet, I usually send mail. <R>And</R> <.></.> yeah, and <F>er</F> even though it's my best time, <SC>some</SC> <.></.> but I often have to do my work at home. Because <SC>I couldn't finish</SC> I cannot finish all the work here <R>at</R> at school.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah.</B>
+<A>I see.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Erm</F>. I'm going to show you a picture now.</A>
+<ctxt>The interviewer is taking out a picture</ctxt>
+<A>Please describe this picture.</A>
+<B>O K. It's in a <.></.> <R>rest</R> restaurant. And it looks very expensive restaurant. And there are three groups of <SC>guest</SC> <SC>customer</SC> customers. And one of the group is now <SC>ordering</SC> <F>uh</F> no, tasting wine. And they look happy. Perhaps they like that wine. And other groups are talking and <.></.> have already started dinner. Yeah. And <F>hm</F> do I need to explain everything?</B>
+<A><F>Hm</F>. <.></.> Are you finished?</A>
+<B>Yeah.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A><F>Hm</F>. So do you go out to eat with your family,</A>
+<B><OL>Sometimes</OL>.</B>
+<A><OL>sometimes</OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. Can you compare <.></.> a restaurant that you go to with this restaurant?</A>
+<B><F>Hmm</F>. Because I'm always with my <.></.> children, <nvs>laughter</nvs> <F>er</F> <.></.> it's more casual place. <F>Hm</F> I don't like family restaurants. So <.></.> <SC>I don't go there</SC> I don't go to the family restaurants. But it's a <SC>little less <.></.> <SC>ca</SC> <F>er</F> formal</SC> informal place. O K. It's <SC>less in</SC> less formal place <nvs>laughter</nvs> than this restaurant.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah. And I like French restaurant, Italian restaurant and Japanese restaurant. <SC>Every re</SC> I like every restaurant. But usually, my <.></.> daughter and son <.></.> want to go to Italian restaurant because they love pizza and spaghetti. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>So you said you don't like family restaurants. <OL>Why not</OL>?</A>
+<B><OL>Yeah</OL>. <F>Hmm</F>. If I pay money <.></.> for dining out,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><nvs>sniff</nvs> I want to have special thing.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah. <.></.> <SC>So I</SC> <.></.> <SC>I want to learn some hin</SC> I want to get some hints for my own cooking.</B>
+<A><F>Ah</F>.</A>
+<B>And I want to have special atmosphere. Yeah. Because it's a very special occasion. I have to pay for the <laughter>restaurant</laughter>. And if I go to the good restaurant for lunch, <SC>its cost almost the same</SC> it costs almost the same as family restaurant. <CO><F>Hm</F> <OL>so</OL></CO>.</B>
+<A><OL>I agree</OL>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah</OL>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>All right</OL>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <F>erm</F> we're going to do a role-play.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>And <.></.> I'd like you to read something in Japanese.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>And please</A>
+<ctxt>The interviewer is taking out a role card.</ctxt>
+<A>let me know when you're finished reading.</A>
+<B><ctxt>the interviewee is reading the card.</ctxt> O K. <OL>I'm finished</OL>.</B>
+<A><OL>O K</OL>? <F>Hm</F>. May I help you, ma'am?</A>
+<B><F>Hmm</F> Yes. <..></..> <F>Hmm</F>. <nvs>laughter</nvs> <.></.> O K. <..></..> I bought this bag,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>yesterday. <.></.> And I thought it is good with me. <.></.> But when I get back home and <SC>look it</SC> examine it <nvs>laughter</nvs> more precisely, I found it's a little too small for me.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC><?>As</?> I</SC> because I liked it very much I bought this one. But <R>it i</R> it is too small for me. So <SC>would you ex</SC> is it possible to change this bag to other <.></.> bag?</B>
+<A><F>Hmm</F>. I'm sorry. I can't do that. That's against our store policy.</A>
+<B>Yeah. But <F>hmm</F> <.></.> O K. This is smaller one. And you have that bigger one.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah. And I didn't use this bag at all. So <R>if you</R> if you change <SC>this</SC> these two bag and I'll pay more,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>for that, I think it doesn't make big problem for you.</B>
+<A><F>Hmm</F>. I see. I understand. <OL><F>Erm</F></OL>.</A>
+<B><OL><F>Hmm</F></OL>.</B>
+<A>But you need to speak to my manager.</A>
+<B>Yeah, I <OL>will</OL>.</B>
+<A><OL>Yeah</OL>. But he is out <.></.> today.</A>
+<B><F>Mh-hmm</F>. So when should I come back?</B>
+<A><F>Erm</F>. I think he'll be in tomorrow.</A>
+<B>Tomorrow?</B>
+<A><F>Mh-hmm</F>.</A>
+<B>O K. This shop is on my way home. So I'll <R>come up</R> <F>uh</F> <R>come up</R> come up again tomorrow. Is it O K?</B>
+<A>Sure. O K.</A>
+<B>Yeah. <OL>Thank you</OL>.</B>
+<A><OL>So you'll</OL> speak to him directly.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>. Thank you. This is the end of the role-play.</A>
+</task>
+<followup>
+<A><F>Hm</F>. So do you enjoy shopping?</A>
+<B><F>Eh</F>. Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>But as I told you, I don't have enough time, <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F></OL>.</A>
+<B>for shopping <?>these day</?>.</B>
+<A>Right. <OL>Right</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Erm</F>. <.></.> So when you buy something expensive,</A>
+<B><F>Mh-hmm</F>.</B>
+<A><F>er</F> <.></.> what are some important points that you consider?</A>
+<B><F>Hmm</F>. Expensive. Yeah. <.></.> Yeah. Definitely, I should <SC>like it</SC> love it. <nvs>laughter</nvs> Yeah. And secondly, <.></.> I should <SC>need them</SC> need it. <OL>Yeah</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><F>Hmm</F>. <.></.> So I try not to buy things <SC>at one</SC> <R>at</R> at that moment.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>I try to ke</R> <SC>I try</SC> I keep it in my <SC>ne</SC> mind for <SC>a long time for two or three</SC> not long time, <nvs>laughter</nvs> two or three days. And go back there and watch it. And again come back home and go there. And if I go there three times and I found I need it and I <SC>love it very much, I buy them</SC> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><SC>love</SC> love it, <SC>I lo</SC> I will buy it.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Er</F>. O K. And your children,</A>
+<B><F>Hm</F>.</B>
+<A>spend money,</A>
+<B><F>Hm</F>.</B>
+<A>what do you tell them?</A>
+<B><OL><?>What do you mean</?></OL>?</B>
+<A><OL><R>Wh</R> when your children</OL> <F>erm</F> buy something,</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>do you</OL> give them advice? What kind of <OL>advice</OL>?</A>
+<B><OL>Actually</OL> <.></.> yeah, <.></.> they are not given any allowance.</B>
+<A><F>Oh</F>.</A>
+<B><laughter>Yeah</laughter>. So always, I go with them <OL>for shopping</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><nvs>laughter</nvs> And if I don't like it, I <?>will</?> not buy it. <nvs>laughter</nvs> And they are always complaining about it. <nvs>laughter</nvs></B>
+<A>I see. Why did you decide not to give them allowances?</A>
+<B><F>Er</F>. <SC?>Six</SC?> <F>er</F> for the younger children, <R>sh</R> she is six years old.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And she doesn't need. And for the <.></.> elder <.></.> son,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>yeah, <.></.> yeah, <R>I tried</R> I tried to give him allowance. And I <SC>told her</SC> told him <nvs>laughter</nvs> <.></.> to show me his <R>allowance book</R> allowance book. <SC>But he didn't</SC>.</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter>And</laughter> <SC>he doesn't <.></.> force</SC> <F>uh</F> he doesn't come to me to give him money. So "O K. I <?>won't</?> give you <laughter>money</laughter>.".</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A><OL><laughter>I see, O K</laughter></OL>. All right.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, the next thing. I'm going to show you <.></.> some pictures. O K? Please look at these six pictures.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>And make up a story.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>And please start with "One day last week".</A>
+<B>O K. One day last week, <SC>I and</SC> <F>er</F> my brother and I <.></.> were walking in the rain. And suddenly, we heard <.></.> <SC>some no</SC> some sound. It came from a box <..></..> <R>on the</R> <.></.> on the street. <F>Hm</F>. So <SC>my brother</SC> <.></.> yeah, it is my brother that hear <SC>that voi</SC> <F>er</F> that <.></.> sound. And we found <.></.> a cat in that box. <..></..> Yeah. <.></.> I wanted to <.></.> take it to my home. But he thought twice. <.></.> Yeah. <.></.> I insisted to <SC>take it</SC> take the cat to home. And finally, my brother <..></..> agreed with me. Yeah. He's so kind. <nvs>laughter</nvs> He's so <??></??>. And we went back home together <.></.> with the cat in the box. Is it all right? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Thank you</OL>. O K. All right.</A>
+</task>
+<followup>
+<A><F>Erm</F> <.></.> So have you ever had pets?</A>
+<B>Yes. Now, we have <SC>hamster</SC> a hamster. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> really</OL>?</A>
+<B>Yes.</B>
+<A><F>Oh</F>.</A>
+<B><F>Hm</F>.</B>
+<A>O K. <F>Erm</F>. How do you take care of the hamster?</A>
+<B><F>Hmm</F>. It is my daughter's hamster. But <SC>he just wa</SC> she just want to touch it. She likes soft things. <nvs>laughter</nvs> And <SC>u</SC> so usually, my son takes care of that hamster. And <SC>I helped him</SC> I help him.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><nvs>sniff</nvs></OL> <F>Hm</F>.</B>
+<A>What do you have to do everyday?</A>
+<B><F>Er</F> It's very easy. I think hamster is the easiest pet to have. Yeah. <nvs>sniff</nvs> So <.></.> once a week, you have to change all the <SC>woods</SC> woodchips, <F>erm</F> wash the <.></.> dishes for the hamster food. <nvs>sniff</nvs> Yeah. But <F>uh</F> <R>other days</R> <F>hm</F> other days, we just <SC>give the hi</SC> give the hamster, actually, <SC>sh</SC> it is her. <R>Give <laughter>her</laughter></R> give her <F>er</F> some hamster food and vegetables. <.></.> <OL>Yeah</OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>Just that's it. So very easy. But it's very cute.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. It's small. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Huh</F>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>O K</OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> we're almost finished,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>with this interview. And that's a very beautiful blue sweater. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs> Thank you</OL>.</B>
+<A>Do you like blue?</A>
+<B><F>Er</F> Yes. <OL>I like it</OL>.</B>
+<A><OL>Yeah</OL>? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>I like your black sweater, too</OL>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>Thank you</laughter></OL>. Yeah. It's too bad we can't go shopping. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>All right. So are you busy this afternoon?</A>
+<B><F>Err</F>. Yes. I have to go shopping for tomorrow. <nvs>laughter</nvs></B>
+<A><F>Oh</F> Really?</A>
+<B>Yeah. <SC>To</SC> <SC>for</SC> yeah. <F>Hm</F>. But before that, I have to mark students' writing.</B>
+<A><F>Hmm</F>.</A>
+<B>That's a <SC>biggest annoying</SC></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> most annoying. <nvs>laughter</nvs></B>
+<A>Right. O K. I hope you finish soon.</A>
+<B>Yeah. I hope so, too. <nvs>laughter</nvs></B>
+<A><OL>Thank you very much</OL>.</A>
+<B><OL>Thank you very much</OL> for coming so far away. <nvs>laughter</nvs></B>
+<A>No problem. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,198 @@
+<interview>
+<filename>file00246.txt</filename>
+
+<head version="1.3">
+<date>2001-02-23</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>1</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_beginner</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. So let's get started. <F>Urr</F> my name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>O K. So <R>Where do you live</R>? Where do you live?</A>
+<B><.></.></B>
+<A>O K. So <F>ummm</F> do you live in Tokyo?</A>
+<B><F>Errr</F> <SC><JP>Hei</JP></SC>. <JP>Hai</JP>.</B>
+<A>Do you live with your family?</A>
+<B><.></.> <JP>Wakannai</JP>.</B>
+<A><F>Um</F>. Family?</A>
+<B>Family.</B>
+<A>Do you live with your family?</A>
+<B><.></.></B>
+<A><F>Um</F>. <F>Urrr</F> do you live with your mother and father?</A>
+<B><F>Ummm</F>. Father.</B>
+<A><F>Um</F>. Please tell me about your father.</A>
+<B><..></..> <nvs>laughter</nvs></B>
+<A>How old is your father?</A>
+<B><.></.> Old <F>err</F> father, old. <..></..> <F>Mmm</F> <..></..> <F>mm</F>? <..></..></B>
+<A>O K. What's his name?</A>
+<B>His name. Father? <JP><F>Eetto</F></JP> <H pn="others1">XXX03</H>.</B>
+<A>O K. So do you work?</A>
+<B>Do you?</B>
+<A>Do you work?</A>
+<B>Yes.</B>
+<A>Where do you work?</A>
+<B><..></..> Where. <.></.> <F>Mm</F>. <nvs>cough</nvs> <..></..></B>
+<A>Is your company <OL>in</OL> Tokyo?</A>
+<B><OL>Company</OL>. Tokyo.</B>
+<A>Where in Tokyo?</A>
+<B><OL><F>Ehh</F></OL>.</B>
+<A><OL><F>Um</F></OL>. <SC>Where</SC> which part of Tokyo?</A>
+<B>Which part of Tokyo. Yes. <.></.></B>
+<A>Is it in Ginza or is it in Kichijouji?</A>
+<B><JP><F>Eetto</F></JP> <H pn="others2">XXX04</H>.</B>
+<A><F>Hmmm</F>. O K. So on weekends, what do you do?</A>
+<B><.></.> You do. <..></..> <F>Mmm</F>. <..></..> <F>Mmmm</F>. <..></..> <F>Mmm</F>. <..></..></B>
+<A>Do you go shopping on weekends?</A>
+<B><F>Mmmm</F>. Shinjuku.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ohh</F> <R>O K</R>. O K. So first <F>umm</F> please look at this picture. And please tell me about this picture.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>Ski. <.></.></B>
+<A>More?</A>
+<B><JP><F>Eh</F></JP>?</B>
+<A>Anything more?</A>
+<B><laughter>More</laughter>?</B>
+<A><F>Uh-hum</F>.</A>
+<B><..></..> More?</B>
+<A><F>Umm</F>. So what do you see in this picture?</A>
+<B>In this picture? <.></.> <F>Mmm</F>. <..></..> This picture? <..></..> <nvs>sniff</nvs></B>
+<A>So what is this?</A>
+<B><JP><F>Eetto</F></JP> <.></.> house.</B>
+<A><F>Hum</F>.</A>
+<B><JP><F>Eetto</F></JP> <.></.> ski house.</B>
+<A><F>Mmm</F>. So what are they doing?</A>
+<B><.></.> Friend.</B>
+<A><F>Hmm</F>. And what is this?</A>
+<B>Lift.</B>
+</task>
+<followup>
+<A><F>Hmm</F>. <.></.> Do you ski?</A>
+<B>Do you ski? <.></.> <JP><F>Eetto</F></JP> play ski?</B>
+<A><F>Uh-hmm</F>.</A>
+<B>Yes.</B>
+<A><F>Mmm</F>. Are you a good skier?</A>
+<B>Good skier.</B>
+<A><OL>Really</OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A>So which ski place do you like?</A>
+<B><.></.> Like? <.></.> Like. <..></..></B>
+<A>O K. Do you snowboard, too?</A>
+<B>Snowboard? <.></.> I play snowboard.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hmm</F> O K. Thank you. So next, we'd like to try a role-play.</A>
+<B>Role-play.</B>
+<A><F>Uh-hum</F>. Please read this card, and I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Hum</F>? <F>Hm</F>?</B>
+<A>O K? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Urrrrm</F>. <.></.> <nvs>laughter</nvs></B>
+<A>O K? All right. So good afternoon, sir. Where would you like to go?</A>
+<B>Where would you like to go. <..></..> <F>Mm</F>? <.></.> <F>Mmmm</F> <.></.></B>
+<A><F>Hm</F>. Where are you going?</A>
+<B>Going. <..></..> <F>Mmmm</F>. <..></..>Going. <..></..></B>
+<A>Are you going to Chicago or New York?</A>
+<B>New York.</B>
+<A><F>Mmm</F>.</A>
+<B>Yeah.</B>
+<A>What time do you want to go?</A>
+<B><.></.> <F>Mmm</F>. <..></..> <F>Mmmm</F>. <nvs>cough</nvs> <..></..> <F>Mmmm</F>. <..></..>.</B>
+<A>Do you want to go New York today?</A>
+<B>Today.</B>
+<A>Today?</A>
+<B><F>Mmmm</F>. <..></..> Today.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A>O K. So here is the ticket. That'll be fifty dollars.</A>
+<B><..></..></B>
+<A>Fifty dollars, please.</A>
+<B><..></..></B>
+<A>Here is the ticket.</A>
+<B>Ticket.</B>
+<A><F>Uh-hum</F>. And <.></.> can I get fifty dollars?</A>
+<B><.></.> <nvs>sniff</nvs> <F>Mmmm</F>.</B>
+<A>O K. So this is your ticket. O K? So have a nice trip. Bye.</A>
+<B>Bye.</B>
+</task>
+<followup>
+<A><nvs>laughter</nvs> <laughter>O K</laughter>. So this is the end of the role-play. So which train do you use in Tokyo?</A>
+<B><..></..></B>
+<A>Do you use J R or the Keio Line?</A>
+<B><.></.> J R.</B>
+<A><F>Mmm</F>. How often do you use J R?</A>
+<B><.></.> <F>Mm</F>? <..></..> <F>Mmmm</F>. <nvs>sniff</nvs> <.></.> <nvs>sniff</nvs></B>
+<A>Do you ride J R every day?</A>
+<B>Every day.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mm</F>. O K. So last thing, another picture, O K? So please tell me what you see from number one to number four. Please start from here.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Mmmmm</F>. <..></..> <R>Zoo</R> zoo.</B>
+<A><F>Uh-hum</F>. <OL>And then</OL>?</A>
+<B><OL>Zoo</OL>. <.></.> <F>Mmmm</F>. <nvs>cough</nvs> <..></..> <F>Mmmm</F>. <..></..> <JP>Nan dakke na</JP>.</B>
+<A>So what is this animal?</A>
+<B>Lion.</B>
+<A>O K. What are they doing?</A>
+<B>Friend.</B>
+<A>O K. So number three, what is this?</A>
+<B>Monkey.</B>
+<A><F>Hmm</F>. And what is she holding?</A>
+<B><nvs>sniff</nvs> <JP>Soft cream</JP>.</B>
+<A>So and what is this monkey doing?</A>
+<B><..></..> <F>Mmmm</F>. <..></..></B>
+<A><F>Hmm</F>. What is this monkey eating?</A>
+<B><F>Urm</F> banana.</B>
+<A><F>Hmm</F>. And what is this boy saying?</A>
+<B><.></.> <F>Mm</F>? <..></..> Bye.</B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. Good. Right. So do you like animals?</A>
+<B><nvs>sniff</nvs> <F>Mmmm</F>. <nvs>sniff</nvs> Dog.</B>
+<A><F>Mm</F>. <.></.> What kind of dog?</A>
+<B><F>Mmm</F>. <..></..> Yes. <.></.></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. All right. Thank you. So we have come to almost the end of the interview. <nvs>laughter</nvs> So, do you work today?</A>
+<B>Work?</B>
+<A><F>Hm</F>. Work today?</A>
+<B>Today. <.></.> Yes.</B>
+<A><F>Mm</F>. Where are you going now?</A>
+<B><.></.></B>
+<A>Where are you going?</A>
+<B><.></.> Going <.></.> company.</B>
+<A>Company. <.></.> Which station,</A>
+<B>Station.</B>
+<A>is it?</A>
+<B><F>Um</F>?</B>
+<A>Which station is your company?</A>
+<B><F>Mmm</F>. <..></..> <F>Mmm</F></B>
+<A>Is it Eifuku-cho?</A>
+<B><.></.></B>
+<A>Is your company in Eifuku-cho?</A>
+<B><F>Errrr</F> <H pn="others3">XXX05</H></B>
+<A><F>Hmm</F>. O K. All right. Thank you very much. This is the end of the interview. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,311 @@
+<interview>
+<filename>file00752.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B>O K.</B>
+<A>May I ask your name?</A>
+<B><JP><F>Eeto</F></JP>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><JP><F>Eeto</F></JP> <F>uum</F> <R>I</R> <F>hm</F> <F>er</F> I am <laughter>not fine</laughter>. Because <F>uum</F> I have a cold.</B>
+<A><F>Err</F></A>
+<B><F>Hm</F>.</B>
+<A>I see. <F>Err</F> did you go to a doctor?</A>
+<B><F>Hm</F> <F>uh</F> <JP>nani</JP>?</B>
+<A>Did you,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>go</OL> to a doctor?</A>
+<B><?>Duster</?>? Yeah.</B>
+<A><OL>Doctor</OL>.</A>
+<B><OL><F>Er</F></OL>. <?>But</?> <F>err</F> no.</B>
+<A><OL>No</OL>?</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A>I see. O K. Then, where do you live?</A>
+<B><JP><F>Eeto</F></JP> <F>err</F> <R>I live in</R> <F>uum</F> I <laughter>live</laughter> in <F>um</F> <H pn="others1">XXX03</H>. Yeah. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Err</F></OL> <H pn="others1">XXX03</H>?</A>
+<B>Near <SC>university</SC> <F>eh</F> <R>Wa</R> <H pn="school name1">XXX04</H>.</B>
+<A><F>Hm</F>. Do you live in <H pn="others1">XXX03</H>,</A>
+<B>Yeah.</B>
+<A>alone or with your family?</A>
+<B><F>Ee</F> alone.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F>.</B>
+<A>O K. Then, where do your parents live?</A>
+<B><F>Uum</F> <JP><F>eeto</F></JP>. They <F>um</F> they <SC>lived in</SC> <F>er</F> live in <F>uum</F> <H pn="others2">XXX05</H>, <F>um</F> <F>ee</F> <H pn="others3">XXX06</H>. <nvs>laughter</nvs></B>
+<A>I see. Tell me about your hometown.</A>
+<B><F>Ee</F>. <SC>Hometown</SC> <JP><F>eeto</F></JP> my hometown is <F>er</F> <H pn="others4">XXX07</H>. <OL><F>Eh</F></OL>.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><F>Ee</F> <.></.> <F>mm</F> <R>near</R> near the sea. <F>Ee</F> <JP><F>eeto</F></JP> <R><H pn="others4">XXX07</H></R> <H pn="others4">XXX07</H> <SC>has</SC> have <F>er</F> fresh sea. <??></??> <F>um</F> <F>err</F> <JP><F>uunto</F></JP> <??></??> <F>er</F> <nvs>laughter</nvs> <F>er</F> <SC?>ve</SC?> <F>mm</F> <F>err</F> I like <F>uum</F> delicious fish <F>uum</F> in <H pn="others4">XXX07</H>. <F>Hm</F>.</B>
+<A><F>Err</F> I see. O K. Then, tell me about your family.</A>
+<B><F>Ee</F> <F>mm</F> <?>show</?>?</B>
+<A><F>Er</F> tell me,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>about</OL> your father,</A>
+<B><F>Ah</F>.</B>
+<A>or mother.</A>
+<B><JP><F>Eeto</F></JP> <F>um</F> <JP><F>eeto</F></JP> <F>er</F> <F>err</F> <F>mm</F> <F>mm</F> <F>mm</F> <R>I'm</R> <F>er</F> I'm sorry. <F>Er</F>.</B>
+<A>O K. Tell me,</A>
+<B><F>Um</F>.</B>
+<A>about your father,</A>
+<B><F>Um</F>.</B>
+<A>or mother.</A>
+<B><JP><F>Eeto</F></JP> <F>um</F> <F>ee</F> <F>er</F>. <R>Show</R> show me?</B>
+<A>No. Tell me.</A>
+<B><F>Er</F> call me. <JP><F>Uunto</F></JP>.</B>
+<A>Talk about your father.</A>
+<B><F>Er</F> <JP><F>eeto</F></JP> <F>um</F> father. <OL><F>Eh</F></OL>.</B>
+<A><OL><F>Uhu</F></OL>. So what does he do?</A>
+<B><CO>What does</CO>?</B>
+<A>What does he do?</A>
+<B><CO><F>Er</F> what does he</CO>. <F>Uum</F> <JP><F>eeto</F></JP> <R>She</R> <F>uum</F> <R>she</R> <R>she is</R> <F>er</F> she is <F>ee</F> <JP>nanteiunokana</JP> <SC>accountant</SC> <R>accountment</R> <F>hm</F> accountment.</B>
+<A>I see.</A>
+<B><F>Ee</F> <R>so</R> <F>um</F> so <F>um</F> <R>I</R> I want to become <F>ee</F> <?>certified</?> public accountment. <F>Er</F>.</B>
+<A>I see. So in the future,</A>
+<B><F>Um</F>.</B>
+<A>do you want to work with him?</A>
+<B><F>Um</F>. Yes.</B>
+<A><F>Ah</F>.</A>
+<B><F>Er</F> yeah.</B>
+<A>That's great.</A>
+<B><F>Eh</F>.</B>
+<A>O K. All right. <H pn="B's name">XXX02</H>, do you have any hobbies?</A>
+<B><F>Ee</F> I have <F>uum</F> <F>mm</F> no special. <F>Mm</F> but I like music and reading book. <F>Hm</F>. <.></.> <F>Um</F> <R>but</R> <F>er</F> <F>uum</F> <R>but</R> <F>uum</F> <R>I</R> <F>um</F> I don't have enough time. <F>Er</F> because <F>uum</F> study is <laughter>very busy</laughter>.</B>
+<A><laughter><F>Oh</F></laughter>.</A>
+<B><F>Eh</F>.</B>
+<A>I see. O K. You are good student.</A>
+<B><F>Hm</F>.</B>
+<A>All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, please take a look at this picture. And tell me about this picture.</A>
+<B><F>Hm</F>. I'm sorry. <R>I</R> <F>er</F> I have <R>low</R> low vision.</B>
+<A><F>Hm</F> O K. So use your glasses.</A>
+<ctxt>The interviewee is putting on the glasses.</ctxt>
+<B><F>Mm</F>. <F>Er</F> <F>ur</F> <JP><F>eeto</F></JP> <F>er</F> <??></??> <F>mm</F> <??></??> <F>er</F> please your question <OL><??></??></OL>.</B>
+<A>O K.</A>
+<B><?>Please</?>.</B>
+<A>Talk about this picture.</A>
+<B><F>Hm</F>. <F>Hmm</F>. <SC>It's</SC> <F>eh</F> <JP>kono</JP> <JP><F>eeto</F></JP> <F>mm</F> <F>uh</F> <F>er</F> O K. <F>Hm</F>. <R>She</R> <F>ee</F> she is play <.></.> <F>er</F> computer. <F>Hm</F>. <.></.> <CO><?>She is</?></CO>. <F>Uum</F>. <.></.> What do he do? <F>Hm</F>. <JP>Nanishiteru</JP>?</B>
+<A>O K.</A>
+<B>O K. <nvs>laughter</nvs></B>
+<A>All right.</A>
+<B><F>Hm</F>.</B>
+<A>Tell me,</A>
+<B><F>Hm</F>.</B>
+<A>about this picture. For example, what's this?</A>
+<B><F>Um</F>. <JP><F>Eeto</F></JP>. <CO>It's</CO>. <CO><F>Um</F> <R>what</R> what</CO>. <JP>Ookisugite</JP>.</B>
+<A>O K.</A>
+<B><F>Hm</F>.</B>
+<A>All right.</A>
+</task>
+<followup>
+<A>Then, O K. So <H pn="B's name">XXX02</H>,</A>
+<B><F>Er</F> <R>very</R> <F>mm</F> very sorry.</B>
+<A><F>err</F> do you have your own room?</A>
+<B><F>Um</F>?</B>
+<A>Your room.</A>
+<B><OL><F>Uh</F></OL>.</B>
+<A><OL>O K</OL>. Tell me,</A>
+<B><F>Hm</F>.</B>
+<A>about your room.</A>
+<B>Room.</B>
+<A><F>Um</F>.</A>
+<B><F>Eh</F> <?>the</?> <?>yeah</?>.</B>
+<A>What,</A>
+<B>What.</B>
+<A>do you have,</A>
+<B><F>Hm</F>.</B>
+<A>in your room?</A>
+<B><R>Ro</R> room?</B>
+<A><F>Um</F>. Room.</A>
+<B><F>Er</F> Room. <F>Er</F> <nvs>laughter</nvs> <JP><F>eeto</F></JP> <F>um</F> <F>er</F> I have <JP><F>uunto</F></JP> <F>er</F> <R>compu</R> <F>er</F> computer <F>err</F> <F>um</F> <R>te</R> <F>err</F> <R>televi</R> television and refrigerator and et cetera. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. All right. What,</A>
+<B><F>Hm</F>.</B>
+<A>do you do,</A>
+<B><F>Hm</F>.</B>
+<A><SC>with the comp</SC> with your computer?</A>
+<B><JP><F>Eeto</F></JP> <F>er</F> I always <F>ee</F> <F>ee</F> play the <F>er</F> Word.</B>
+<A><F>Uhu</F>.</A>
+<B>Microsoft Word <F>ee</F> <F>ee</F> <R>for</R> for report <R>on</R> <F>er</F> on <R>uni</R> university.</B>
+<A><F>Mh-hmm</F>. That's good.</A>
+<B><F>Hm</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, let's have a role-play.</A>
+<B><?><JP>Hai</JP></?>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A><??></??>. <F>Hm</F>. <R>You</R> O K, you don't have to read it.</A>
+<B><F>Um</F>.</B>
+<A>You are at the department store.</A>
+<B><F>Hm</F>.</B>
+<A>You want to buy something.</A>
+<B><F>Um</F>.</B>
+<A>O K? You are customer.</A>
+<B>Customer. <F>Hm</F>. O K.</B>
+<A>I'm a shop clerk.</A>
+<B><F>Er</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Buy something. O K?</A>
+<B>O K.</B>
+<A>May I help you?</A>
+<B><F>Ee</F> <JP><F>eeto</F></JP> <JP><F>eeto</F></JP> <F>um</F> <??></??> <F>uum</F> <R>I</R> <F>er</F> <R>I</R> <F>uum</F> I want to <F>er</F> <R>buy</R> <F>uum</F> <F>um</F> buy <R>medicine</R> <F>ee</F> <JP><F>eeto</F></JP> medicine of <F>er</F> cold. <F>Er</F>.</B>
+<A><F>Wow</F>.</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>That's too</OL> bad. We have some medicine.</A>
+<B><JP>Hai</JP>. <OL>Medicine</OL>.</B>
+<A><OL><F>Uum</F></OL>.</A>
+<B><F>Eh</F>.</B>
+<A>How about this one?</A>
+<B><F>Hm</F>. <JP><F>Eeto</F></JP> <R>I</R> <F>er</F> <R>I have</R> <F>nerr</F> <F>er</F> <JP><F>eeto</F></JP> <laughter><??></??></laughter> <R>I have</R> <F>er</F> <F>err</F> <F>er</F> <F>uh</F> <JP><F>eeto</F></JP> <F>mm</F> <F>uh</F> my nose is bad. <F>Er</F>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F> <F>er</F> <F>uum</F> <F>um</F>. So <F>um</F> another <laughter>medicine</laughter>. <OL><laughter>Please <?>give me another medicine</?></laughter></OL>.</B>
+<A><OL>Another medicine</OL>. O K. So, how about this one?</A>
+<B>This one? <F>Err</F> <F>oh</F> good. <OL><F>Er</F></OL>.</B>
+<A><OL>This is</OL> good <OL>for nose</OL>.</A>
+<B><OL>How much</OL> is it?</B>
+<A><F>Um</F>. One thousand yen.</A>
+<B><F>Er</F>. O K. <OL><F>Er</F> <JP>hai</JP></OL>.</B>
+<A><OL>O K</OL>. All right. Here you go. And take care. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs> <??></??></OL>.</B>
+<A><OL>Role-play is over</OL>. O K.</A>
+</task>
+<followup>
+<A>When you have a cold,</A>
+<B><F>Erm</F>.</B>
+<A>what do you do?</A>
+<B><F>Er</F> because <F>err</F> <R>I study</R> <laughter>I study</laughter> <F>uum</F> <F>erm</F> tutorial <R>for</R> <.></.> <F>um</F> <SC>for <F>er</F> <R>six</R> <R>six</R> <F>er</F> <SC>sixteen</SC> <F>um</F> <JP><F>eeto</F></JP> <R>elev</R> <F>er</F> <F>oh</F> <SC>eleven</SC> <JP>janai</JP> <R>twen</R> <F>er</F> <??></??> twenty <F>eh</F> hours</SC> for twenty hours, <F>um</F> <R>I</R> <F>uum</F> <R>I</R> <F>um</F> <F>err</F> <JP>ja</JP> <R>I</R> I didn't go to buy <?>it</?>. <F>Hm</F>.</B>
+<A><F>Wow</F>.</A>
+<B>Yes.</B>
+<A>I see. <F>Mh-hmm</F>. But when you are sick, what do you do?</A>
+<B><F>Ee</F> <JP>nani</JP> <F>er</F> what do you do?</B>
+<A><F>Um</F>. When <H pn="B's name">XXX02</H>, you are <SC>sick</SC> ill,</A>
+<B><F>Hm</F>.</B>
+<A>what do you do? What do you usually do?</A>
+<B><F>Uh</F>. <F>Ee</F> <F>um</F>? <CO>What do you</CO>. <F>Er</F> <F>uum</F> <F>uum</F> <F>uh</F> no <F>oh</F> <F>er</F> please <F>uum</F> <F>uum</F> <F>err</F> <JP><F>to</F></JP> your question?</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+<A><CO>When you get sick</CO>.</A>
+<B>Sick?</B>
+<A>Sick. Do you know sick or ill?</A>
+<B><F>Er</F> sick. <F>Er</F> sick. <F>Err</F> <F>err</F> <??></??> <F>hm</F>.</B>
+<A>What do you do?</A>
+<B><F>Hm</F>. <JP>Nanio shiteiruka</JP>. <F>Err</F> <JP><F>eeto</F></JP> <F>uum</F> <F>um</F> <F>mm</F> <laughter><R>I</R></laughter> <R>I stu</R> <F>err</F> I study.</B>
+<A><F>Err</F>.</A>
+<B><F>Uum</F> <F>uum</F> <F>um</F> <??></??>.</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+<A><F>Wow</F>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So now, I will show you one picture. Please look at this <R>four</R> <F>mm</F> four pictures.</A>
+<B>O K.</B>
+<A><F>Uh</F> make a story.</A>
+<B><.></.> <F>Um</F>.</B>
+<A>Story.</A>
+<B>Story.</B>
+<A>O K? One, two,</A>
+<B><F>Hm</F>.</B>
+<A><OL>three</OL>,</A>
+<B><OL>Two</OL>.</B>
+<A>four.</A>
+<B>Four.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A><F>Um</F>. <?>All right</?>.</A>
+<B><.></.> <F>Eh</F> story?</B>
+<A>Yes.</A>
+<B><F>Hmm</F>. <??></??>. <.></.> <F>Hm</F>. <CO><R>They</R> <F>um</F> they</CO>. <F>Hm</F>? <?><JP>Korewa</JP></?> <??></??>.</B>
+<A>Yeah.</A>
+<B><.></.> <F>Um</F>. They go to <??></??>. I'm sorry <F>hmm</F> <F>uh</F> <JP><F>eeto</F></JP> <F>um</F> <R>animal</R> animal <F>ee</F> amusement. They go to animal <R>amu</R> <F>ee</F> amusement. And <nvs>sniff</nvs> <JP>kore</JP> <JP><F>uunto</F></JP> <R>they</R> they saw <.></.> lion. <nvs>laughter</nvs> <??></??> So <??></??> <JP>sorekara</JP> <JP><F>eeto</F></JP> <R>saw</R> saw the monkey.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL><F>Um</F></OL>. <R>Mon</R> monkey?</B>
+<A><OL>Yeah</OL>.</A>
+<B><OL>No</OL>? <R>What</R> <.></.> <R>what</R> what animal is it?</B>
+<A>Monkey.</A>
+<B>Monkeys.</B>
+<A>Yeah. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <JP><F>Uunto</F></JP> <F>uum</F> last picture, they <R>go</R> go to home.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>.</B>
+<A>Good.</A>
+<B>Good.</B>
+<A>Thank you. All right.</A>
+</task>
+<followup>
+<A><F>Err</F>. <SC>When</SC> <F>err</F> no, no, <SC>Sundays</SC></A>
+<B><F>Hm</F>.</B>
+<A>on Sundays,</A>
+<B><F>Hm</F>.</B>
+<A><H pn="B's name">XXX02</H>, where do you usually go?</A>
+<B><F>Err</F> sometime <F>uum</F> <R>I</R> <F>er</F> <R>I go to</R> <F>uum</F> I go to shopping <F>er</F> with my friend.</B>
+<A><F>Hum</F>. <OL>Good</OL>.</A>
+<B><OL><R>But</R></OL> <laughter>but</laughter> <F>err</F> <F>er</F> <SC>I</SC> <F>err</F> <.></.> <R>always Sun</R> <F>er</F> always Sunday, I go to <F>uum</F> school <F>uum</F> <F>hm</F> <??></??>. <F>Hm</F>.</B>
+<A><F>Err</F> <R>for</R> for the test. I see. <F>Hm</F>. But where do you go shopping?</A>
+<B><F>Uum</F>. I always <F>uum</F> Shinjuku.</B>
+<A><OL>Shinjuku</OL>?</A>
+<B><OL><F>Hm</F></OL>. Shinjuku.</B>
+<A><F>Hum</F>. Why?</A>
+<B><F>Uum</F>. Shinjuku <F>uum</F> <JP><F>eeto</F></JP> at Marui and Isetan.</B>
+<A><F>Um</F>. Why do you like Marui or Isetan?</A>
+<B><F>Ee</F> because <F>ee</F> <F>ee</F> <R>there</R> <F>er</F> <R>there</R> <F>er</F> there are <F>err</F> <R>many colorful</R> <F>err</F> many colorful <JP><F>eeto</F></JP> <F>uum</F> <R>fa</R> <F>er</F> fashion. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>And <F>uum</F> <SC>I</SC> <F>um</F> <R>my fa</R> <SC>my favo</SC> <F>er</F> <??></??> they have my favorite <F>uum</F> brand. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Oh</F></OL> that's good. O K.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>Yeah</OL>. So you look nice in black today.</A>
+<B><F>Er</F> <F>er</F>. <.></.></B>
+<A>Thank you.</A>
+<B>Yes. Thank you. <F>Hm</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Err</F> interview is almost ending.</A>
+<B>Yeah.</B>
+<A>O K. What are you going to do after this interview?</A>
+<B><F>Ee</F> <R>I</R> <F>um</F> <JP><F>eeto</F></JP> I go to <F>hm</F> school. <F>um</F> <F>uum</F> <R><H pn="others5">XXX08</H></R> <SC><H pn="others5">XXX08</H></SC> <R><H pn="others5">XXX08</H></R> <OL><H pn="others5">XXX08</H></OL>.</B>
+<A><OL>Suidobashi</OL>? Not <H pn="others1">XXX03</H>?</A>
+<B><CO>Not <H pn="others1">XXX03</H></CO>.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL><F>Uum</F></OL> a <H pn="others6">XXX09</H>. <F>Hm</F>.</B>
+<A>I see. <F>Uh-huh</F>.</A>
+<B><F>Hm</F>. <laughter>Very busy</laughter>.</B>
+<A>Busy. Sounds busy. But <F>er</F> I hope you get <F>well</F> soon.</A>
+<B>Yeah.</B>
+<A><F>Uhu</F>. O K. I hope you feel better.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>O K.</A>
+<B><JP><F>Eeto</F></JP> <R>I</R> <F>err</F> I get up at <F>err</F> five o'clock.</B>
+<A>This <OL>morning</OL>?</A>
+<B><OL><JP>Hai</JP></OL>.</B>
+<A><F>Wew</F>. O K. Thank you for coming today. Right. Thank you.</A>
+<B><JP>Doumo <laughter>moushiwake arimasen</laughter></JP>.</B>
+</stage5>
+</body>
+</interview>

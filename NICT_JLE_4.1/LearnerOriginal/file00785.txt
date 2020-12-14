@@ -1,0 +1,194 @@
+<interview>
+<filename>file00785.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><H pn="A's name">XXX01</H>.</B>
+<A>Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine. Nice to meet you.</B>
+<A>Nice to meet you, too. O K. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Ee</F>. I'm living in <H pn="others1">XXX03</H> now.</B>
+<A>And do you live there with your family?</A>
+<B>No. I'm from <H pn="others2">XXX04</H>.</B>
+<A><F>Hum</F>.</A>
+<B>From this year April, <R>I</R> I came to live <H pn="others1">XXX03</H></B>
+<A><F>Mm-hm</F>.</A>
+<B>alone.</B>
+<A>I see. And how do you find living alone?</A>
+<B><.></.> <F>Er</F>.</B>
+<A>Or how do you like living alone?</A>
+<B><F>Uum</F> <F>uum</F>. A bit <F>uum</F> every I'm missing my family. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F> I see</OL>. <F>Well</F> when you miss your family back in <H pn="others2">XXX04</H>, what do you do?</A>
+<B><F>Uum</F> <.></.> <F>uum</F> <nvs>laughter</nvs> <F>uum</F> <R>I</R> I stay my home a long time <nvs>laughter</nvs> <OL><SC>with your fa</SC> with my family</OL>.</B>
+<A><OL><F>Hum</F> <SC>do you call</SC> do you</OL> give telephone calls to your family?</A>
+<B><F>Er</F>. Yes. <nvs>laughter</nvs></B>
+<A><F>Hum</F>.</A>
+<B>Sometimes.</B>
+<A>Sometimes. And <F>err</F> what do your <R>family</R> family members say to you?</A>
+<B><F>Uum</F>. <nvs>laughter</nvs> "Please take <laughter>care your health</laughter>.".</B>
+<A><F>Hum</F>. Really? <F>Hum</F> <F>um</F>. Tell me a little bit about your area in <H pn="others1">XXX03</H>.</A>
+<B><F>Um</F> <JP><F>eeto</F></JP>. Near the station of <SC><H pn="others3">XXX05</H></SC> <H pn="others3">XXX05</H>, <JP><F>eeto</F></JP> <H pn="others4">XXX06</H> Station.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F> <JP><F>eeto</F></JP>. About five minutes by walk.</B>
+<A>I see. <F>Hum</F>. Do you like the place?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><F>Hum</F> I see. <F>Well</F> <F>um</F> do you shop often in that area?</A>
+<B>Yes. <F>Um</F>. <SC>There are</SC> <R>there</R> there are many stores. <F>Uum</F>. These are small stores. But they sell many many things.</B>
+<A><F>Um</F>. What <R>do you</R> do you usually buy <OL>in these small shops</OL>?</A>
+<B><OL><F>Err</F></OL>. Small shops. At small shops, I always buy food. <F>Um</F>. Fresh foods, fish, meat, vegetables.</B>
+<A><F>Hum</F>. That means you cook <OL>well <R>for your</R> for yourself</OL>?</A>
+<B><OL><F>Err</F></OL>. Because I'm busy now so I cook myself <F>uum</F> about two times in a week.</B>
+<A>Two times in a week.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>I see. What do you cook?</A>
+<B><laughter><F>Err</F></laughter> <R>I'm</R> I'm not very good at cooking. But I cook <F>uum</F> curry <laughter>and</laughter> hashed beef.</B>
+<A><F>Hum</F> I see. O K. And in your free time, <F>er</F> what do you like to do?</A>
+<B><F>Um</F> I like to watching <SC>ci</SC> movie. And now I'm studying Korean, so now I like to see Korean movie.</B>
+<A><F>Um</F>. Why are you interested in Korean <OL>language and movie</OL>?</A>
+<B><OL><F>Err</F></OL> <JP><F>ee</F></JP>. This summer vacation I went to Korea</B>
+<A><F>Hum</F>.</A>
+<B>to study Korean language.</B>
+<A><F>Hum</F>.</A>
+<B><F>Uum</F> <R>I'm</R> I'm interested in <F>uum</F> <SC>full</SC> whole about Asia. So <F>uum</F> <.></.> <R>by</R> by chance, I went to Korea. <nvs>laughter</nvs></B>
+<A><F>Err</F>. Really? O K.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Well</F> I'm going to show you a picture now.</A>
+<B>Yes.</B>
+<A><..></..> O K. <H pn="B's name">XXX02</H>, can you describe this picture for me?</A>
+<B>Yes. <F>Uum</F>. <SC>They</SC> yeah, <.></.> there is a restaurant. <F>Er</F>. They have a party now. <F>Uum</F>. <.></.> These two <R>persons</R> persons are <..></..> <F>err</F> enjoying dinner.</B>
+<A><F>Um</F>.</A>
+<B><..></..> <SC>They are tasting</SC> <F>er</F> they are going to <SC>taste</SC> tasting wine.</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> First, the man <SC>taste</SC> tastes the wine's smell. <.></.> <laughter>The man</laughter> <R>said</R> says, "It's good.".</B>
+<A><F>Hum</F>.</A>
+<B><R>They</R> they will take this wine. <R>And the</R> and the waiter <R>ser</R> <R>serves</R> serves the wine to them.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A><F>Well</F> <H pn="B's name">XXX02</H>. you've been to Korea this summer, right?</A>
+<B>Yes.</B>
+<A><F>Um</F>. Can you tell me difference between this restaurant and one of the restaurants you went in Korea?</A>
+<B>Yes. <F>Err</F>. First, <SC>most of Korean restaurant</SC> <R>most</R> <SC>most</SC> in most of Korean restaurant there are no chairs.</B>
+<A><F>Hum</F>.</A>
+<B>And there is a low tables. <R>And</R> <JP><F>unto</F></JP> <..></..> and there were <..></..> many waitress. But the waitresses are <.></.> older lady. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>Many older lady. <F>Uum</F>. And <..></..> <SC>people <R>who have</R> who have dinner</SC> always there is <R>many pe</R> many people.</B>
+<A><F>Hum</F>.</A>
+<B>Many people <R>have</R> have a dinner. <F>Uum</F>. <..></..> It is often many person.</B>
+<A><F>Uum</F> I see. Which do you like better, this kind of <OL>restaurant or</OL> Korean type of restaurant?</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Err</F> I like to have a dinner or supper <F>uum</F> with many people.</B>
+<A><F>Uum</F>.</A>
+<B><F>Uum</F>. <CO>So</CO>.</B>
+<A>Why do you like to have dinner with <SC>more</SC> lots of more people?</A>
+<B><F>Uum</F> I like to <R>have</R> <.></.> have a eating time with chat. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see, I agree with you</OL>. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Well</F> <H pn="B's name">XXX02</H>, from here, let's do a role-play. <OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A><..></..> O K. Please read the card. And when you are ready, I will start.</A>
+<B><.></.> <F>Uum</F>.</B>
+<A>O K?</A>
+<B>Yes.</B>
+<A>O K. Hello, madam. May I help you?</A>
+<B>Yes. <F>Ur</F> I want to go New York. <F>Uum</F>. But <R>I have</R> <SC>I have</SC> I don't have many time.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. So I want to go to New York <R>as soon as possible</R> <F>er</F> <SC>as soon as</SC> <.></.> <JP>are</JP> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhu</F> go ahead</OL>.</A>
+<B>as soon as possible. And what kind of ticket should I buy?</B>
+<A><F>Um</F>. <F>Well</F> in twenty minutes time there is a express train.</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. <.></.> By using this <R>ex</R> express train,</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> <SC>what times</SC> <SC>what time</SC> <.></.> how much is it take <OL>to New York</OL>?</B>
+<A><OL><F>Uhu</F> it's</OL> fifty dollars from here.</A>
+<B>Fifty?</B>
+<A><F>Uhu</F>.</A>
+<B><JP><F>Ee</F></JP>. <..></..> How long <R>da</R> <SC>does it take</SC> will it take to New York?</B>
+<A><F>Er</F>. From here to New York, it takes about seventy minutes.</A>
+<B>Seventy minutes.</B>
+<A>Is it O K?</A>
+<B>Yes.</B>
+<A>O K. So here's your ticket. O K. <OL>Have a nice trip</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+<A><F>Well</F> that's the end of the role-play.</A>
+</task>
+<followup>
+<A>Do you like traveling?</A>
+<B>Yes. <nvs>laughter</nvs> But <R>I</R> <SC>I've not many time</SC> I've not traveled many time.</B>
+<A><F>Hum</F> I see. And which do you like better, traveling by car or by train?</A>
+<B><F>Er</F>. <SC>By</SC> <R>I like</R> I like better <R>by</R> by train.</B>
+<A><F>Um</F>. <R>Why</R> why is that?</A>
+<B><F>Uum</F>. Because <R>I</R> <.></.> <R>I s</R> <SC>I subject to <F>err</F> <..></..> get</SC> <.></.> <F>uum</F> <nvs>laughter</nvs> when I travel by car,</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> <SC>often</SC> <R>I often</R> <.></.> I often <.></.> get bad. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. <F>Er</F>. That's fine. O K. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Well</F> finally, I'll show you another picture today.</A>
+<B>Yes.</B>
+<A>And this time <H pn="B's name">XXX02</H>, please make up a short story</A>
+<B>Yes.</B>
+<A>based on these pictures. O K. When you are ready, please start.</A>
+<B>A boy and a girl <F>uum</F> <R>promised to</R> <.></.> promised to go to a zoo in Sunday. <F>Ee</F>. They went to zoo. <F>Mm</F>. First, they saw a lion. <R>And</R> <.></.> <R>and</R> <.></.> and a girl a bit feared. But <R>a boy</R> <.></.> <F>uum</F> <F>uum</F> a boy said, "The lion <SC>seemed</SC> <F>er</F> seem strong.". <F>Um</F>. And they saw a monkey. <F>Ee</F> <R>monkey</R> monkey was eating a banana. <F>Mm</F>. <.></.> And <SC>a girl</SC> <F>er</F> a boy bought a soft-cream for a girl.</B>
+<A><F>Um</F>.</A>
+<B>And they had a good time. And <.></.> <R>in</R> in afternoon, they got out of a zoo. And they went their home.</B>
+<A>Thank you very much for the story.</A>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>, do you like animals?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. What kind of animals do you like?</A>
+<B><F>Err</F> I like big animals.</B>
+<A><F>Hum</F>.</A>
+<B><F>Uum</F>.</B>
+<A>For example?</A>
+<B>For example, elephant <SC>and</SC> <..></..> elephant.</B>
+<A>Why <R>do you</R> do you like big animals like elephants?</A>
+<B><F>Err</F> <..></..> <F>uum</F> <nvs>laughter</nvs> <.></.> <F>uum</F>. Every day we can't see <F>uum</F> such a <R>big</R> big <OL>animal</OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>So <F>uum</F> in such a zoo place, <F>um</F> <R>when I</R> when I see such a big animal, <F>ee</F> I always surprise. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Good</OL>. Yeah. That's good.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Well</F> the interview is almost over now. And <F>er</F> after this, what are you going to do today?</A>
+<B>Today?</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> <R>I</R> <.></.> I belong to a music circle. So <F>uum</F> today we have a practice time in <R>student</R> <R>student</R> <R>student</R> <..></..> <nvs>laughter</nvs> student <F>mm</F> lounge.</B>
+<A>Good. O K. O K. Please enjoy your <R>mu</R> musical activities. O K. Thank you very <OL>much for coming</OL>.</A>
+<B><OL>Thank you</OL>. Thank you.</B>
+</stage5>
+</body>
+</interview>

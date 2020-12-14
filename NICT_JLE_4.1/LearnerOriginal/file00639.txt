@@ -1,0 +1,256 @@
+<interview>
+<filename>file00639.txt</filename>
+
+<head version="1.3">
+<date>2001-10-26</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>469</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><OL><H pn="A's name">XXX01</H></OL>.</B>
+<A><OL>May I</OL> have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please.</B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B>I'm fine, thank you.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>And</OL> you?</B>
+<A>I'm good. Thank you very much. <H pn="B's name">XXX02</H>, what did you eat for today's lunch?</A>
+<B>Today's lunch? I ate <F>erm</F> <JP>yakitori don</JP> <nvs>laughter</nvs> <F>mm</F> made my mother.</B>
+<A><F>Hmm</F>. That's nice.</A>
+<B>It is so delicious.</B>
+<A>I see. Where do you usually have lunch?</A>
+<B>Lunch? <R>I</R> <SC>I wa</SC> I always have lunch at my home or at university's cafeteria.</B>
+<A><F>Hm</F>. Can you tell me a little about the cafeteria?</A>
+<B>Cafeteria? <F>Uhm</F>. I use cafeteria of <.></.> Toyama Campus. And I ate lunch with my friend. And cafeteria's lunch is cheap and delicious. So <SC>I like there</SC> <.></.> I like <SC>to eat there</SC> <SC>eat</SC> to eat lunch at there.</B>
+<A><F>Uhm</F>.</A>
+<B>And <.></.> <F>uhm</F> if I <.></.> go there, <R>I</R> I can meet <F>mm</F> friends of mine. So I'm happy.</B>
+<A><F>Hm</F>. What is your recommendation at that cafeteria?</A>
+<B>Recommendation? What <OL>does it mean</OL>?</B>
+<A><OL>O K. <F>Er</F></OL> what is good food,</A>
+<B><F>Ah</F>.</B>
+<A>for you at the cafeteria?</A>
+<B><R>I like</R> <F>hm</F> <..></..> I like <JP>karaage</JP>,</B>
+<A><F>Hm</F>.</A>
+<B>and <F>um</F> with rice and <JP>miso shiru</JP>.</B>
+<A><F>Hm</F>.</A>
+<B>So I often eat that.</B>
+<A><F>Hm</F>. Which do you like better, your mother's lunch or the food at the cafeteria?</A>
+<B>I like my mother's lunch the better. <SC>So</SC> because <R>I</R> <R>I</R> <.></.> I ate <R>her</R> her lunch from I born.</B>
+<A><F>Hm</F>.</A>
+<B>So I love it.</B>
+<A>I see. Sure. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>All right. So <H pn="B's name">XXX02</H>, <F>er</F> on weekends,</A>
+<B>Weekend.</B>
+<A>when you are free, what do you like to do?</A>
+<B>I like reading a books or <F>er</F> go shopping with my friend.</B>
+<A><F>Hm</F>.</A>
+<B>I like reading books. So <.></.> <F>uhm</F> on weekend, <R>I</R> I read two or three books <.></.> or so.</B>
+<A><F>Hmm</F>.</A>
+<B><CO><OL>I</OL></CO>.</B>
+<A><OL>What</OL>,</A>
+<B><OL><F>Uh</F></OL>.</B>
+<A><OL>kind</OL> of books do you like to read?</A>
+<B>I like <SC>non</SC> <F>uhm</F> <R>fiction</R> <SC>fiction</SC> novels.</B>
+<A><F>Hm</F>.</A>
+<B><F>Urn</F>. I like novels <R>which</R> which is written by Japanese young woman's writer. So I like Ekuni Kaori the best.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Do you</OL> know?</B>
+<A>I'm not sure. But why do you like her novels?</A>
+<B>Because <R>her</R> her novels is so kind and <.></.> have <.></.> <?>rare</?> <.></.> <SC>originali</SC> original.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So I like that her books. <.></.> I like her books and I like <F>hm</F> "<JP>Kobashii Hibi</JP>" the best of her book.</B>
+<A>I see. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <R>I'm go</R> I'm going to show you this picture.</A>
+<B>Picture.</B>
+<A>So please describe this picture <.></.> for me.</A>
+<B><F>Hmm</F>. There is a big home <R>and</R> <.></.> and that day is very fine day. So, many children play <.></.> on the street. And <SC>man runnin</SC> man is running. And <.></.> <F>um</F> cat is sleeping. And <.></.> <F>mm</F> the old man is reading newspaper. And <.></.> it looks so <R>peace</R> peaceful. And <.></.> <SC>it i</SC> <SC>it may</SC> it might be <.></.> <R>ho</R> hot day. <F>Erm</F>. It looks <..></..> so nice day of the weekend. <.></.></B>
+<A>All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Where do you live?</A>
+<B><SC>I live</SC> I lives in Kodaira <.></.> with my family.</B>
+<A>I see. Does this picture look like <.></.> your neighborhood?</A>
+<B><F>Ah</F>. No. <R>My</R> <.></.> <R>my</R> my home <.></.> lies on the <SC>hometown</SC> bed town of Tokyo. So near my home, <SC>there i</SC> there are <R>many homes</R> <.></.> many homes. So <R>it's</R> it's don't looks like <R>thi</R> this picture.</B>
+<A><F>Hm</F>.</A>
+<B><F>Erm</F>. <R>My</R> <.></.> my neighborhood <SC>home</SC> house is not so big. It is small and narrow.</B>
+<A><F>Hm</F>.</A>
+<B>So <.></.> there is no <..></..> <F>mm</F> <SC>room</SC> vacant room, two <..></..> three or so.</B>
+<A><F>Hm</F>. This man is running.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Do you</OL> enjoy any sports?</A>
+<B>No. I don't like sports.</B>
+<A>Why not?</A>
+<B>Because I'm not good at sports. <CO>So</CO>. <.></.> <SC>I'm very</SC> <.></.> <F>erm</F> <R>I</R> I'm very tired to do sports. So I don't like moving. So I like reading or shopping or listening music.</B>
+<A><F>Ah</F>. I see. I understand. All right. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I'm going to give you this card.</A>
+<B>Yeah.</B>
+<A>This is a role-play card. So,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>I'd like to</OL> do a role-play with you. When you are ready, I'll start.</A>
+<B>Yes. <ctxt>The interviewee is reading the card.</ctxt></B>
+<A>Are you ready?</A>
+<B>O K.</B>
+<A>O K. Can I help you, Miss?</A>
+<B><F>Erm</F>. I want to buy a skirt. And <.></.> I want a red skirt. And <.></.> not so long but so not short. And <.></.> I like a red skirt with frill.</B>
+<A>O K.</A>
+<B>Do you have?</B>
+<A>Sure. So please look at this section.</A>
+<B><OL>This section</OL>?</B>
+<A><OL>We have</OL> many.</A>
+<B><F>Ah</F> I see. Thank you. <F>Erm</F>. <.></.> <R>Is</R> is there more longer one?</B>
+<A>Sure.</A>
+<B><.></.> Where <R>is</R> is this? <CO><OL><F>Er</F> Is that</OL></CO>.</B>
+<A><OL><F>Uh</F> This</OL> one. How about this <OL>one</OL>?</A>
+<B><OL><F>Oh</F></OL>. Can I try it on?</B>
+<A>Sure. Go ahead.</A>
+<B>Thank you.</B>
+<A><.></.> How do you like it?</A>
+<B><laughter>I like it very much</laughter>. Thank you.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So how much is this?</B>
+<A>It's five thousand yen.</A>
+<B>Five thousand? <F>Oh</F>. I like it. I want to buy it, <OL>please</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B>Here you are.</B>
+<A>All right. Thank you. Come again.</A>
+<B>Thank you very much.</B>
+<A>O K.</A>
+<B>Bye.</B>
+<A>That's the end of a role-play. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A><OL>So in your</OL> real life, you said you like shopping.</A>
+<B>Yes.</B>
+<A>Can you tell me one of your favorite shop?</A>
+<B>Favorite shop? <SC>I like</SC> the bookshop is the best. And if I have free time, <R>I</R> I will go to bookshop. And <F>uhm</F> to choose a book to read. <F>Uhm</F>. I like Kinokuniya <JP>shoten</JP> at Shinjuku. <F>Erm</F> That shop is very big and have many books. And there is a theater, too. So <SC>I like it</SC> I like that shop.</B>
+<A><F>Ah</F>.</A>
+<B>Theater.</B>
+<A>Theater.</A>
+<B>Yes.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>I like</OL> <F>erm</F> drama, too. And <R>I</R> <.></.> <SC>I am no</SC> I am a member of the <R>thea</R> theatrical company.</B>
+<A><F>Hmm</F>.</A>
+<B>So I like it. That shop has <R>two</R> two section which is <SC>bookstore</SC> <F>uh</F> book shop and <.></.> theater. So I like it.</B>
+<A><F>Hm</F>. Tell me about <R>the</R> the theater company that you joined.</A>
+<B><R>I</R> <R>I</R> <.></.> I become the member of <SC>the</SC> <R>that</R> that company <F>uhm</F> this year. So <R>on</R> on December, <SC>I have</SC> <.></.> <R>I</R> <SC>I join the theater</SC> <F>uh</F> <?><JP>suimasen</JP></?> I join the play. So <R>I</R> <F>uu</F> I practice everyday,</B>
+<A><CO><OL>So</OL></CO>.</A>
+<B><OL>for</OL> this <OL>play</OL>.</B>
+<A><OL>O K</OL>. Are you going to act,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><??></??></OL>?</A>
+<B>Yes. It is the <OL>first time</OL>.</B>
+<A><OL><F>Wow</F></OL>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>So</laughter></OL> I'm very <R>fi</R> <SC>fi</SC> <R>fu</R> fun,</B>
+<A><F>Hmm</F>.</A>
+<B>to join this.</B>
+<A>So you are an actress.</A>
+<B><nvs>laughter</nvs> <laughter>Yes</laughter>.</B>
+<A><F>Wow</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Hm</F>. <OL>I see</OL>.</A>
+<B><OL>New actress</OL>.</B>
+<A>O K.</A>
+<B>Yes.</B>
+<A>Very good. All right.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So lastly, I'll show you another picture.</A>
+<B>Yes.</B>
+<A>This is a picture sequence. So please make up one short story,</A>
+<B><OL>One story</OL>.</B>
+<A><OL>using these</OL> pictures from one to six. And this happened before. So please start, "One day last week," and begin the story.</A>
+
+<B><ctxt>The interviewee is looking at the pictures.</ctxt> <F>Erm</F>. <SC>Can I</SC> <.></.> <F>uh</F> <SC>he</SC> can I call he?</B>
+<A>If <OL>you like</OL>.</A>
+<B><OL>O K</OL>? <F>Erm</F>. One day last week, <F>erm</F> <R>he</R> he went to restaurant <R>with his</R> <.></.> with his father for his father's birthday. And <.></.> <SC>he</SC> his father want to sit round table's seat. So <R>they</R> they sat that <R>round</R> round table's seat. And they decide the food. <F>Mm</F> not the same one. <R>He</R> <.></.> he ordered <F>uhm</F> fish and his father ordered meat. So they enjoyed eating food. <SC>This dinner i</SC> that dinner was very nice. And <.></.> he drank <R>be</R> beer and his father drank <.></.> the other alcohol drink. And <.></.> <SC>they have a good</SC> they had a good time there. But his father paid. <SC>Not</SC> he didn't paid. <R>And</R> <.></.> and after the dinner, <F>erm</F> he and his father <.></.> parted and <.></.> have a good-bye. <SC>So</SC> because he is <SC>the university's</SC> the student of university. So <R>he</R> <R>he</R> <.></.> he lived alone. So they are parted.</B>
+<A>Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>You mentioned birthday.</A>
+<B>Birthday.</B>
+<A>When is your birthday?</A>
+<B>My birthday is July <.></.> twenty-two.</B>
+<A><F>Hm</F>. What did you do on that day?</A>
+<B><R>I</R> I went to Inogashira park <R>and</R> <.></.> and there, <R>I</R> <.></.> I got a boat with my boyfriend and have a dinner. And after that, <R>we</R> we play <JP>hanabi</JP>,</B>
+<A><F>Hm</F>.</A>
+<B><F>uh</F> at that park and <.></.> <SC>I</SC> we had a dinner at Kichijoji. And I back to home. And with my mother, we have <.></.> <JP>kanpai</JP> with alcohol. Because <SC>I am</SC> <R>I</R> I became <R>twen</R> twenty years old that day.</B>
+<A><F>Ah</F>. Very big <OL>birthday</OL>.</A>
+<B><OL>Yeah</OL>. <OL>Yes</OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>So <SC>it is</SC> it was the <R>very</R> very nice day,</B>
+<A><F>Hm</F>.</A>
+<B>for me.</B>
+<A>Did you get a lot of presents?</A>
+<B>But it is <R>not</R></B>
+<A><nvs>laughter</nvs></A>
+<B>not many. But <R>I</R> <.></.> I got pearl by family and bag by my aunt and <laughter>money</laughter> by my grandmother and grandfather.</B>
+<A><F>Hmm</F>.</A>
+<B>But my boyfriend didn't give me <nvs>laughter</nvs> the present.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A><F>Hm</F>. O K. Thank you very much, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A>You have a very good birthday.</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. The interview is almost over. So do you have any plan for this weekend? Going to a theater?</A>
+<B><F>Ah</F>. <SC>This</SC> <F>uh</F> <.></.> <R>I</R> I will take a picture of <JP>furisode</JP> <R>for</R></B>
+<A><F>Wow</F>.</A>
+<B><F>eh</F> for become aging day.</B>
+<A><F>Uhm</F>. <F>Hm</F>.</A>
+<B>So I will wear new <JP>furisode</JP>,</B>
+<A><F>Oh</F>.</A>
+<B>the first time.</B>
+<A>I see.</A>
+<B>So I'm looking forward to <OL>it</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>. I see.</A>
+<B>Yeah.</B>
+<A>So do you like <JP>kimono</JP>?</A>
+<B>Yes. But <.></.> I can't wear <JP>kimono</JP> by myself. I only wear by myself <JP>yukata</JP>.</B>
+<A><F>Hm</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL><SC>So</SC></OL> <.></.> <F>uhm</F> but I like it. It is very beautiful.</B>
+<A>I think so.</A>
+<B><nvs>laughter</nvs></B>
+<A>Yeah. Very good. O K. So, <OL><R>enjoy</R></OL></A>
+<B><OL><??></??></OL>.</B>
+<A>enjoy <OL>the</OL>,</A>
+<B><OL>Yes</OL>.</B>
+<A>day,</A>
+<B>Yes.</B>
+<A>of wearing <JP>kimono</JP>. O K. Thank you very much <OL>for coming in today</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

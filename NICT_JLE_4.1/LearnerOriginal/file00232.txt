@@ -1,0 +1,197 @@
+<interview>
+<filename>file00232.txt</filename>
+
+<head version="1.3">
+<date>2000-10-24</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Oh</F> My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>O K. So, how are you today?</A>
+<B>Fine, thank you. And you?</B>
+<A>I'm fine. Thank you. O K, so, what do you do, <H pn="B's name">XXX02</H>?</A>
+<B><F>Mhm</F>. <..></..> Sorry. Pardon?</B>
+<A><F>Ar</F>. O K. What do you do? Like, are you a student?</A>
+<B><F>Mm</F>. Yes.</B>
+<A>O K.</A>
+<B>I'm study law.</B>
+<A>O K. And where do you go?</A>
+<B><F>Mhm</F> <F>mhm</F> <R>I</R> I'm from <H pn="others1">XXX03</H>.</B>
+<A>O K. So which school do you go?</A>
+<B><R>I go</R> I go to <H pn="school name1">XXX04</H>.</B>
+<A>O K. So, you said you are majoring in law. Can you tell me more about your major?</A>
+<B><F>Mhm</F>. <R>I study</R> <F>er</F> <.></.> I study about company law.</B>
+<A>O K.</A>
+<B>And <SC>company law is</SC> <..></..> company's law is about <.></.> studying <SC>in</SC> <SC>of <.></.> <R>eco</R> <F>ah</F> econ</SC> law of economic.</B>
+<A>All right. O K. Thank you. So now, tell me about your hobbies.</A>
+<B><F>Mm</F>? <.></.> <nvs>laughter</nvs></B>
+<A>O K. What are your interests?</A>
+<B>Yes. <F>Err</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>What do you like to do in your free time?</A>
+<B><F>Mm</F> I like to play the <JP>terebi</JP> game.</B>
+<A>O K. <.></.> For example?</A>
+<B><.></.> <nvs>laughter</nvs></B>
+<A>O K. What kind of T V games do you play?</A>
+<B><F>Mm</F> I like to play <F>er</F> <??></??> role-playing game.</B>
+<A>O K.</A>
+<B><R>I play</R> <R>I play</R> I play now "Dragon Quest Seven".</B>
+<A>All right. <.></.> So, why do you like it so much?</A>
+<B>It is very interesting.</B>
+<A>All right. And?</A>
+<B><CO>And</CO>. <.></.> <F>Uhhn</F>. <nvs>laughter</nvs></B>
+<A>All right. So, O K. What do you usually do after school?</A>
+<B><F>Er</F> I'm usually <F>er</F> <SC>sh</SC> <SC>sh</SC> join my circle. My circle is <F>er</F> <SC><H pn="school name1">XXX04</H> mix chorus</SC> <SC>mix</SC> <H pn="school name1">XXX04</H> mix chorus.</B>
+<A>All right.</A>
+<B>And <R>I</R> <.></.> I sing in the circle <F>er</F> classic chorus. <F>Er</F> Bach, Mozart, <F>er</F> Mendelsshohn.</B>
+<A><F>Oh</F>. O K. So, who is your favorite composer?</A>
+<B><F>Mhmm</F>. My favorite composer is Brahms.</B>
+<A><F>Mhm</F>. Why?</A>
+<B><F>Uhh</F>. Brahms' melody is <.></.> very strict and simple. But <F>er</F> his melody is <F>mhmm</F> <..></..> very, very <F>uhmm</F> <..></..> <F>mhm</F> interesting. <CO>And</CO>.</B>
+<A><F>Mhmm</F>.</A>
+<B><.></.> Sorry, <nvs>laughter</nvs> <R>I</R> <R>I have no</R> I have no words to explain it.</B>
+</stage1>
+<stage2>
+<task>
+<A>All right. Don't worry about it. O K. Thank you. So now, <F>uhh</F> I'm going to show you a picture and I want you to describe it for me.</A>
+<ctxt>Interviewee is looking at the picture.</ctxt>
+<B><F>Mhmm</F>. <.></.> This girl is doing <.></.> <R>pers</R> personal computer. And <..></..> <R>he makes a</R> <.></.> <R>he makes</R> <F>ah</F> she makes briefs <SC>and</SC> <SC>but he failed</SC> and he failed <.></.> <R>some</R> <.></.> somewhat. <R>And</R> and <SC>sh</SC> <R>her</R> her pet is cat and dog. But they are sleeping.</B>
+<A><F>Mhmm</F> <F>mhm</F>. O K.</A>
+<B><CO>And <SC>he breaks</SC> <F>er</F> <R>she</R> she breaks <F>erm</F> <SC><JP>pasocon</JP></SC> <F>er</F> personal computer and</CO>. <..></..></B>
+</task>
+<followup>
+<A>O K. So, <F>uhh</F> do you have your own computer?</A>
+<B>Yes. But my computer is <.></.> <nvs>laughter</nvs> out of works.</B>
+<A><F>Oh</F>. So, do you use computer?</A>
+<B>Yes</B>
+<A>O K. So, what do you do with your computer?</A>
+<B><F>Mhm</F> I use computer when I makes brief and <.></.> I make report on <R>law</R> law. <F>Um</F>.</B>
+<A>O K.</A>
+<B><F>Mhm</F>. <.></.> And when <R>I</R> I play <JP>terebi</JP> game on <JP>pasocon</JP>, personal computer.</B>
+<A><F>Oh</F>. O K. <.></.> Anything else you do with your computer?</A>
+<B><F>Um</F> <R>I have a</R> I have a computer and, <R>but</R> but my computer is <R>n</R> not connected a internet.</B>
+<A><F>Oh</F>. O K.</A>
+<B>And <SC>I cannot</SC> <??></??> I cannot do internet in my home.</B>
+<A><F>Mhmm</F> I see.</A>
+<B><F>Mm</F>. <.></.></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, O K, thank you. So now, we are going to do a role play. And I'm going to give you a card. <.></.> <F>Uhh</F>. This is written in Japanese, so please read it to yourself. And whenever you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>.
+<B>Chirin-chirin. Hello?</B>
+<A>O K?</A>
+<B>Hello, <H pn="A's name">XXX01</H>?</B>
+<A>Yeah.</A>
+<B>This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> hi. How are you, <H pn="B's name">XXX02</H>?</A>
+<B><F>Uhn</F>. Fine thank you, and you?</B>
+<A>Good. Thank you.</A>
+<B><F>Uhn</F> <R>Let's go to</R> let's go to the movie, tomorrow.</B>
+<A>All right.</A>
+<B>All right. <F>Eh</F> <.></.> <R>what time is</R> <.></.> what time is <.></.> good for you?</B>
+<A><F>Oh</F> any time is O K.</A>
+<B><F>Oh</F> <F>ehh</F> <..></..> <F>ehh</F>. <R>We</R> <.></.> <R>we will meet</R> we will meet <F>er</F> tomorrow <F>er</F> at <.></.> eleven time o'clock <F>er</F> Shinjuku Station on <R>ea</R> east exit.</B>
+<A><F>Oh</F> <F>uhh</F> I wish I could but I don't know how to get to Shinjuku, so can we <F>uhh</F> meet <F>er</F> different place?</A>
+<B><F>Uhh</F>. O K. <F>Uhh</F>. <R>Shinjuku</R> <.></.> Shinjuku is <F>er</F> <.></.> <SC>fro</SC> to Shinjuku from <H pn="others2">XXX05</H> is <F>eh</F> <R><H pn="others3">XXX06</H></R> <H pn="others3">XXX06</H> line. <F>Ehh</F>. <R>You shou</R> you should get the train <F>er</F> for <SC><H pn="others4">XXX07</H></SC> <H pn="others3">XXX06</H> <SC><JP>sen</JP></SC> <F>er</F> line and <.></.> <?>down</?> for <F>ehh</F> Shibuya <R>and</R> <..></..> and you change train in Meidaimae.</B>
+<A>O K.</A>
+<B>And then <SC>the <H pn="others5">XXX08</H></SC> <SC><R>you should</R> you should get <F>er</F> train</SC> you should get <H pn="others5">XXX08</H> line to Shinjuku.</B>
+<A>O K. So, I'll meet you at Shinjuku Station at eleven o'clock?</A>
+<B>Yes.</B>
+<A>O K. So what kind of movie are we going to see?</A>
+<B><F>Mhm</F> I want to see <F>mhm</F> <.></.> classic movies and "Casablanca", <.></.> <F>eh</F> et cetera. <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B><F>Mhm</F>. What kind of movie <R>d</R> do you want do see?</B>
+<A><F>Mhm</F> I like to see horror movies.</A>
+<B><F>Ohh</F> horror. <F>Ehh</F>. <.></.> Let's go to see <F>ehh</F> <.></.> "Exorcist" <F>er</F> <R>director</R> director's cut version.</B>
+<A>All right. That sounds great.</A>
+<B><F>Mhm</F>.</B>
+<A>O K? So I'll see you <.></.> tomorrow <SC>at</SC> <F>uhh</F> in front of the Shibuya Station. O K?</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>O K. Thank you. So this is the end of the role play. So, do you often go see a movies?</A>
+<B><F>Er</F> Yes. <.></.> <F>uh</F> I go.</B>
+<A>O K.</A>
+<B><SC>I go to see</SC> <SC>I go</SC> <nvs>laughter</nvs> I often go to see movies. <F>Eh</F> <.></.> I like <F>uhhn</F> action movies.</B>
+<A><F>Ohh</F>.</A>
+<B>"White Out" and "Odoru Daisousasen". <CO>And</CO>.</B>
+<A><F>Wow</F>. O K, so what was the last movie you saw?</A>
+<B><F>Uh</F>. That movie is <.></.> <F>er</F> <..></..> "White Out".</B>
+<A><F>Mhm</F>. So can you tell me about <.></.> the story?</A>
+<B><F>Uhh</F>.</B>
+<A>Just briefly?</A>
+<B><nvs>laughter</nvs> <??></??>, <F>uh</F> man <F>uhh</F> <SC>try to <R>vi</R> <nvs>laughter</nvs> vi</SC> <.></.> is a terrorist.</B>
+<A><F>Oh</F>. O K.</A>
+<B><F>Uh</F> I saw the movie <F>uhh</F> because <F>er</F> the location was <F>er</F> <SC>de</SC> was <F>ah</F> done near <R>ma</R> my house.</B>
+<A><F>Oh</F>. O K.</A>
+<B><F>Un</F>. <SC>This</SC> <R>that's</R> <R>that's location</R> <.></.> that's location's place is <F>uhh</F> <H pn="others6">XXX09</H>.</B>
+<A>O K.</A>
+<B><F>Mhm</F>. <H pn="others6">XXX09</H> is very very country.</B>
+<A><F>Mhhhm</F>. O K.</A>
+<B>Very far from <H pn="others2">XXX05</H>.</B>
+<A><F>Ahh</F>.</A>
+<B><R>I</R> I took three hours <R>to</R> <laughter>to get to here</laughter>.</B>
+<A><F>Oh</F> really? <F>Oh</F>. Thank you for coming. All right. And?</A>
+<B><.></.> And <.></.> about that movie story <F>ehh</F>.</B>
+<A><F>Mhmm</F>.</A>
+<B><.></.> <SC>That</SC> the <??></??> was <F>ehh</F> <..></..> the terrorist <??></??> get disappeared and the man,</B>
+<A><F>Mhmm</F>.</A>
+<B>try to fight the terrorist.</B>
+<A><F>Mhmm</F>.</A>
+<B>And <.></.> the hero <F>uh</F> <SC>Oda</SC> <F>uh</F> Yuji Oda plays the hero.</B>
+<A>Right.</A>
+<B><F>Mhmm</F>. <.></.> <laughter>Sorry</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. That's O K. Don't worry about it. O K. Thank you. So now I'm going to show you a different picture, and I want you to to make up a story from one to six. And this story was happened last week, so I want you to start your sentence with "One day last week," O K?</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A>O K?</A>
+<B><..></..> O K.</B>
+<A>Yeah. Please.</A>
+<B><F>Un</F> <SC>the woman wa</SC> the woman <.></.> <SC>have gone</SC> had <R>gone to</R> gone to the <R>depa</R> depart. And <R>he bought</R> <F>mm</F> <.></.> he bought a necktie for <SC>his</SC> her <R>husband</R> husband <F>er</F> birthday present.</B>
+<A>O K.</A>
+<B><F>Ehh</F>. But <.></.> <R>he found</R> <F>er</F> he found a <.></.> bargain <F>er</F> of shoe.</B>
+<A><F>Mhm</F>.</A>
+<B>And he got shoes <R>and</R> <.></.> <F>mm</F> and <F>er</F> he found a discount price <F>er</F> sale of <F>mhm</F> wear.</B>
+<A><F>Mhm</F>.</A>
+<B>And <R>he</R> <.></.> <SC>he bought a wear, too and</SC> <F>ah</F> <R>she</R> she bought wear, too. <CO>And <.></.> she bought a <.></.> many many</CO>. <.></.></B>
+</task>
+<followup>
+<A><F>Oh</F>. O K. Thank you. So have you ever bought a present for somebody?</A>
+<B><F>Mhm</F>. <SC>She bought for</SC> <F>ah</F> she bought <F>er</F> the necktie for her husband.</B>
+<A><F>Oh</F> not this picture but yourself. Have you ever bought a present for somebody?</A>
+<B><F>Un</F>. No.</B>
+<A>No. Never?</A>
+<B><F>Ah</F> <..></..> <F>ah</F>. Fundamentally, <F>ah</F> <SC>I don't bou</SC> I don't buy <F>er</F> present. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Oh</F>. O K. O K. All right. Thank you. So, we are almost at the end of the interview. So what are your plans after this interview?</A>
+<B><F>Um</F> I go to <.></.> Shinjuku and <.></.> <F>uhh</F> I'm going to buy C D.</B>
+<A>All right Thank you so much for coming in today. O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

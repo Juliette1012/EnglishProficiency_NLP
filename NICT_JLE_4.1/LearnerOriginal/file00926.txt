@@ -1,0 +1,160 @@
+<interview>
+<filename>file00926.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B>I'm fine.</B>
+<A>Good. O K. But it's been really cold.</A>
+<B><F>Uh</F>. <OL>Yes</OL>.</B>
+<A><OL>Do you</OL> like winter?</A>
+<B><.></.> No. I like <F>eh</F> summer <F>eh</F> than winter.</B>
+<A>I see. O K. But <R>what</R> what do you usually do on winter vacation?</A>
+<B><F>Uh</F> <F>um</F> this year <R>I</R> <R>I</R> I must study about computer <F>eh</F> because <R>I</R> <SC>I must</SC> <R>I</R> <SC>I want to get <R>some</R> <.></.> some</SC> <F>eh</F> <..></..> <R>I</R> I <R>have</R> <F>eh</F> have some test about computer so I must <F>eh</F> study about computer.</B>
+<A><F>Hum</F>. O K. <R>Wha</R> what kind of study do you do?</A>
+<B>I <F>eh</F> study about <F>eh</F> to be <F>eh</F> <R>syst</R> system engineer.</B>
+<A><F>Ah</F>. <OL>O K</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>So you want to become a system engineer in the future?</A>
+<B>I haven't <F>eh</F> decide <F>eh</F> future plan but my plan is to be <F>eh</F> system engineer.</B>
+<A>I see. O K. So do you belong to any clubs?</A>
+<B><F>Ah</F>. Yes. I belong to lacrosse club.</B>
+<A><F>Ah</F> I see. Would you tell me how to play it?</A>
+<B><F>Eh</F> yes. <F>Eh</F> <SC>it is</SC> it's rule is very difficult. <.></.> Its field is <F>ee</F> as same as <F>ee</F> soccer. And <SC>it is</SC> <R>we can</R> we can use <F>eh</F> the back of goals and <SC>this</SC> sorry, it has <SC>three positions</SC> <F>uh</F> four positions, <F>ee</F> goalkeeper and <F>eh</F> <F>eh</F> defenders and mid-fielders and <F>eh</F> forward. And forwards and defenders <SC>can't go <F>eh</F> <F>eh</F> <R>ha</R> half of</SC> <R>can't</R> <F>eh</F> can't <F>u</F> <R>go</R> go across <F>eh</F> of line and mid-fielders can <F>eh</F> go all the grounds.</B>
+<A>I see. <F>Well</F> lacrosse is a kind of new sport, right?</A>
+<B>Yes.</B>
+<A>So why did you start playing that sport?</A>
+<B>Because <F>eh</F> <R>I</R> <..></..> <F>eh</F> <F>eh</F> <R>I</R> I went to <F>eh</F> <SC>listen to the club's</SC> listen to <..></..> <SC>the cap</SC> the team's captain <F>eh</F> with my <SC>friends</SC> friend of high school <SC>so</SC> <F>um</F> and <SC>it is</SC> it seems to very exciting sports so I joined it.</B>
+<A>I see. O K. By the way, Christmas day is coming. Do you have any plans?</A>
+<B><F>Um</F> <SC>I have</SC> <F>eh</F> <SC>I went to</SC> <F>uh</F> <R>I</R> I will go to Hakone to <.></.> Christmas party <F>eh</F> with <SC>lacrosse team</SC> all lacrosse teams <F>eh</F> so <SC>it's</SC> I'm looking forward to it.</B>
+<A><F>Uh-huh</F>. And <R>wha</R> what are you going to do in Hakone?</A>
+<B><SC>I</SC> maybe <R>I will</R> I will only drink.</B>
+<A><nvs>laughter</nvs> I see. Don't drink too much.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. <F>Well</F> I'm going to show you a picture. <.></.> O K. This one. Would you describe it to me?</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at a picture.</ctxt>
+<B>One boy and one girl is <R>in</R> <.></.> <SC>in</SC> <F>eh</F> inside the house and <R>they</R> they drinks <SC>about</SC> <F>um</F> maybe tea. And there is a teacher <F>ee</F> and <.></.> some students. They enjoy skiing. And <R>one person</R> <F>eh</F> <..></..> one person <.></.> snowboarding and <.></.> four <R>ch</R> children <R>enjoy</R> <.></.> enjoy battling with snowball. <..></..> That's all.</B>
+</task>
+<followup>
+<A>O K. <F>Well</F> which do you like better, skiing or snowboarding?</A>
+<B>I like <F>eh</F> snowboarding better, because <R>it is</R> <F>eh</F> it is <F>ee</F> <SC>easy</SC> easier <SC>becau</SC> than skiing.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A>But I heard it's dangerous sometimes.</A>
+<B><F>Uh</F> yes. <F>Uh</F> it is very dangerous.</B>
+<A><nvs>laughter</nvs> <F>Well</F> what kind of accident will happen?</A>
+<B><F>Uh</F> <SC>I</SC> last year <R>I</R> I went to <F>ee</F> Nozawa <JP>onsen</JP> and <R>I</R> I did snowboard and <..></..> <R>I</R> I went to <F>eh</F> <R>s</R> small mountain. It is <F>eh</F> <SC>very</SC> <F>eh</F> <..></..> <R>not</R> <SC>not wide</SC> not wide <F>eh</F> road <R>so</R> <F>uh</F> so <SC>I were</SC> <SC>I'm very</SC> I was very <F>ee</F> afraid of it. <.></.> I injured my <F>ee</F> wrist <SC>so it is very</SC> so <R>I</R> <.></.> <F>eh</F> <.></.> I have been very <F>ee</F> <..></..> <?>scarceful</?>.</B>
+<A>Right. So you have to be very careful</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>when you</OL> snowboard. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, we are doing a role-play. <.></.> O K. <.></.> <F>Well</F> this card. Please read it and when you're ready, I'll begin the conversation. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B><JP>Hai</JP>.</B>
+<A>O K. Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello. This is <H pn="B's name">XXX02</H>. <F>Eh</F>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. How're you doing?</A>
+<B><F>Uh</F> <F>eh</F> let's go to the movie <F>eh</F> next Sunday?</B>
+<A><F>Oh</F> sounds nice.</A>
+<B><F>Uh</F> <.></.> <R>what</R> <F>um</F> <..></..> what time <F>eh</F> do you want to go to movie?</B>
+<A><F>Well</F> around three o'clock.</A>
+<B>O K. <.></.> Three o'clock <F>Eh</F> and <..></..> <R>let's</R> <F>eh</F> <.></.> let's meet at <F>ee</F> <R>Shi</R> Shinjuku, <F>ee</F> in front of <F>ee</F> Alta.</B>
+<A>O K.</A>
+<B>O K. And <.></.> what kind of <R>m</R> movie do you want to see?</B>
+<A><F>Uh</F> action movie.</A>
+<B>Action movie. <.></.> Do you know <F>ee</F> some action movie?</B>
+<A><F>Uhm</F> I have no idea right now.</A>
+<B><R>I</R> <SC>I don't have</SC> I don't know about it, too. So <F>um</F> <R>I will</R> <.></.> I will search <F>ee</F> some movie until next Sunday.</B>
+<A>O K. That sounds nice. All right. So looking forward to seeing you.</A>
+<B>Yes.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+<A>O K. Bye.</A>
+<B><OL>Bye</OL>.</B>
+<A><OL>Great</OL>. All right. So this is the end of the role-play.</A>
+</task>
+<followup>
+<A><F>Well</F> <F>uh</F> what kind of movie do you like?</A>
+<B><R>I like</R> <F>eh</F> <..></..> I like <F>eh</F> <F>eh</F> Japanese movie about such as <F>eh</F> the <F>eh</F> work of Kitano Takeshi and "<JP>Gakko</JP>".</B>
+<A><nvs>laughter</nvs></A>
+<B><??></??>.</B>
+<A><F>Hum</F> why do you like his movie?</A>
+<B><SC>It is</SC> <.></.> when I see them I become very <F>eh</F> peaceful.</B>
+<A><F>Um</F> I see.</A>
+<B>I like it.</B>
+<A><F>Oh</F> really? And you can relax.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, <F>uh</F> finally, I'm going to show you another picture. And I'd like you to make up a short story about this picture. And the story happened before so please start your story with "One day last week".</A>
+<B>Yes. One day last week, <F>eh</F> <.></.> <R>one</R> one father and his son <SC>went to some</SC> went to a restaurant. <.></.> And <..></..> <F>eh</F> <..></..> <R>they</R> <F>eh</F> <.></.> they <F>eh</F> <R>ordered</R> <F>eh</F> ordered some meals <F>eh</F> to one <R>wait</R> waitress and <R>they</R> <SC>they ordered</SC> <F>eh</F> the son ordered beer and fish and his father <F>eh</F> ordered fried chicken and maybe <F>uum</F> <..></..> wine. <.></.> And they enjoyed <F>eh</F> eating lunch.</B>
+<A>Right.</A>
+<B><.></.> And <R>they</R> <..></..> <F>er</F> <R>th</R> they say <..></..> good-bye <F>ee</F> <R>some</R> some place.</B>
+<A>I see. O K. <F>Well</F> thank you.</A>
+</task>
+<followup>
+<A><F>Well</F> <F>uh</F> when was the last time you went out with your father?</A>
+<B><.></.> <F>Uh</F> <SC>we</SC> <F>eh</F> <F>um</F> <R>I</R> I can't remember. It is <F>eh</F> <F>uh</F> <R>about</R> about <F>ee</F> <SC>two</SC> <R>one</R> one year ago. <F>Eh</F> <SC>I</SC> we went to <F>ee</F> restaurant <F>ee</F> <SC>of</SC> near my house.</B>
+<A><F>Ah-huh</F>.</A>
+<B><SC>It is</SC> <F>eh</F> <.></.> maybe <R>I</R> <SC>I eat</SC> I ate <F>eh</F> Hamburg, <.></.> talk something.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> yes.</B>
+<A><F>Oh</F>. O K. So do you like to eat out?</A>
+<B>Yes. <SC>I eat</SC> I like to <F>eh</F> eat <JP>ramen</JP> best.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes. <F>Um</F>.</B>
+<A><R>W</R> why do you like <JP>ramen</JP> so much? <JP>Ramen</JP> is so popular among young people.</A>
+<B>Yes. <F>Uh</F> it is very delicious <F>eh</F> <?>one</?> of the foods so <R>I</R> I go to eat <JP>ramen</JP> <F>eh</F> about two or three <SC>a ye</SC> a week.</B>
+<A>I see. O K. You're a big <JP>ramen</JP> fan. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes</OL>.</B>
+<A><laughter>O K</laughter>. I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now we are almost at the end of the interview. <F>Well</F> do you have any plan after this interview?</A>
+<B><..></..></B>
+<A>Maybe you'll have lunch?</A>
+<B>No. <F>Ah</F> <R>I</R> I ate lunch <.></.> about thirty minutes ago.</B>
+<A><F>Oh</F> really? What did you eat?</A>
+<B><R>I</R> I ate Hamburg.</B>
+<A><nvs>laughter</nvs> <laughter>Not <JP>ramen</JP></laughter>.</A>
+<B>Yes.</B>
+<A><laughter>O K</laughter>. Thank you very much.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>Now this is</OL> the end of the interview. Thank you for coming and <F>well</F> have a nice Christmas day</A>
+<B>Thank you.</B>
+<A><?>and a happy New Yeah</?>. O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

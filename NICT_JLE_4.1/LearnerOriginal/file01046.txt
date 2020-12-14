@@ -1,0 +1,142 @@
+<interview>
+<filename>file01046.txt</filename>
+
+<head version="1.3">
+<date>2002-03-08</date>
+<sex>female</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B>Yes. My name is <R><H pn="B's name">XXX02</H></R> <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please.</B>
+<A>O K, <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm <laughter>fine</laughter>.</B>
+<A><F>Hmm</F> that's nice. O K, so <H pn="B's name">XXX02</H>, <F>hmm</F> how do you enjoy spring term?</A>
+<B><R>Sprin</R> Spring term? <F>Mm</F> <..></..> <F>mm</F> <F>er</F> <R>I</R> I have not <laughter>decided</laughter> yet but maybe <.></.> <F>mm</F> <R>I</R> I will go a short trip to around Chiba.</B>
+<A><F>Ah</F> why Chiba?</A>
+<B><F>Mm</F> <R>I like</R> <.></.> <laughter>I like Chiba</laughter>. <F>Mm</F> <.></.> I like <SC>Inubosaki</SC> do you know Inubosaki.</B>
+<A>Not really</A>
+<B><F>Mm</F> <SC>it</SC> Inubosaki is <R>near</R> near to Choshi.</B>
+<A><F>Ah</F> <OL>I see</OL>.</A>
+<B><OL>So</OL> <R>the</R> the fish is delicious.</B>
+<A>I see.</A>
+<B>I enjoy it. I like <R>the fishes</R>. The fishes. So <R>I want</R> I want to go there. <nvs>laughter</nvs></B>
+<A><F>Oh</F> I see. So <F>um</F> <H pn="B's name">XXX02</H>, what do you do?</A>
+<B>Yes. <F>Mm</F> I'm working as a freelance creator. <OL>Freelance creator</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. <F>Mm</F>.</A>
+<B>I'm <F>mm</F> so mainly make <F>er</F> C Ds computer graphics and short movie on architecture or some product.</B>
+<A><F>Ah</F>.</A>
+<B>Because before my marriage, I worked <F>mm</F> at a office manager company as a interior coordinator <OL><??></??></OL></B>
+<A><OL>I see</OL>. Which job do you like better?</A>
+<B><F>Mm</F> <.></.> <F>mm</F> <.></.> <F>woo</F> <nvs>laughter</nvs> <F>mm</F> <R>I like</R> <.></.> <F>mm</F> <.></.> I like freelance creator</B>
+<A><F>Mmm</F>.</A>
+<B>but it's too <laughter>difficult</laughter> <R>for me</R> for me.</B>
+<A>For example?</A>
+<B><F>Um</F>. At first, to get the jobs are really difficult.</B>
+<A><F>Ah</F>.</A>
+<B><F>Mm</F> and <R>I</R> <R>I should</R> I should do everything. For example, to repair tools and <.></.> <F>mm</F> tools and skills</B>
+<A><F>Mmm</F>.</A>
+<B><R>for</R> for my jobs by myself. <F>Er</F> when I worked at a company, <R>I</R> <SC>I can asked</SC> <F>uh</F> <SC>I can ask</SC> I could ask <F>mm</F> many questions to my seniors but now I should <laughter>do by myself</laughter>.</B>
+<A><F>Hmm</F> I see. O K. So in your free time, what do you usually do?</A>
+<B><F>Hmm</F>. I like watching films on video. <.></.> We <R>usually</R> usually watch the big films <F>mm</F> not only our free time but also <laughter>during</laughter> eating dinner. <nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A><F>Hmm</F>. Alright. The first thing for today, I'm going to show you a picture. Please describe this picture for me.</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><F>Hmm</F>. I think this picture is the town <F>mm</F> of <?>counter circle</?> town. <.></.> <F>Er</F> ordinary morning of this time. <R>The man</R> <F>hmm</F> the man is jogging for his health <..></..> <F>mm</F> <R>and</R> <..></..> <F>mm</F> <.></.> and <SC>the</SC> these two boys are <R>playing</R> playing with all together. <.></.> The girl enjoy road camping.</B>
+</task>
+<followup>
+<A>Alright. Thank you very much. You mentioned this man is jogging to for health</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>so</OL>, what do you do to keep you healthy?</A>
+<B><F>Mm</F> <.></.> <F>mm</F> actually, <R>I don't</R> <SC><laughter>I don't do nothing</laughter></SC> I don't do anything. But <R>I like</R> <.></.> I like swimming. <.></.> <R>So</R> sometimes I go to the <R>pool</R> pool near my house. And everyday I use bicycle <F>mm</F> from my house to my office, so <R>it's very</R> it is very good for my health. <nvs>laughter</nvs> I think so.</B>
+<A><F>Hmm</F>. What about your husband? What kind of thing does he do?</A>
+<B><F>Er</F> <R>he</R> he doesn't do <laughter>anything too</laughter>. <F>Mm</F> <F>mm</F> <R>he</R> he always sit in front of the computer <nvs>laughter</nvs> and <R>do</R> <SC>do her</SC> <F>uh</F> do his work, so he always <SC>say</SC> says <.></.> <F>mm</F> <JP>nanda</JP> <laughter><??></??></laughter> hurt <laughter><??></??></laughter> in the <??></??> <nvs>laughter</nvs> <??></??></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Ah</F>. Alright. Thank you very much <H pn="B's name">XXX02</H>. Next, let's do a role-play.</A>
+<B>Yes.</B>
+<A>I'm going to give you this card. This is a role card. Please read it to yourself and when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Are you ready?</A>
+<B><.></.> Yes.</B>
+<A>How can I help you, ma'am?</A>
+<B>Yes. <F>Mm</F>. <SC>I like to</SC> I'd like to go the trip abroad, but <R>I</R> I haven't decided <R>to</R> <R>to</R> <F>er</F> <.></.> to <R>whe</R> <laughter>where</laughter> <R>I</R> <R>I</R> <SC>I will</SC> I haven't decided where I will go but <R>I want to</R> <.></.> I want to go around Europe.</B>
+<A>O K. Around Europe. I see.</A>
+<B><R>I</R> <R>I want to enjoy</R> <F>er</F> <.></.> <F>uh</F> I want to enjoy <F>er</F> <F>uh</F> drink wine. <nvs>laughter</nvs> <F>Er</F> please recommend.</B>
+<A>O K. Then, what about Italy and France?</A>
+<B><F>Hmm</F>. It sound good but <.></.> <R>I don't</R> I don't like France <F>mm</F> so <R>I want to</R> <.></.> I want to get more information about <R>I</R> Italy. <F>Mm</F> <R>which ci</R> <F>uh</F> which cities <R>do you</R> do you <laughter>recommend</laughter> me?</B>
+<A><F>Hmm</F>. O K. It depends on your interest. If you're interested in food, <F>er</F> southern part of Italy is good and if you're interested in fashion, Milan or <F>er</F> northern part of Italy.</A>
+<B><F>Hmm</F> <..></..> <F>hmm</F> <.></.> <F>er</F> <.></.> <SC>I don't like it's</SC> I don't like the weather <laughter>is</laughter> <R>col</R> cold so <..></..> <F>mm</F> I think the <R>northern par</R> northern part of Italy is <R>too col</R> too cold for me.</B>
+<A>O K.</A>
+<B><F>Mm</F>. Please recommend me the cities of southern part of <OL>Italy</OL>.</B>
+<A><OL>Alright</OL>, in that case, how about Sicily?</A>
+<B>Sicily.</B>
+<A><F>Mm</F>. It's a paradise.</A>
+<B><F>Mm</F> <F>um</F> <R>I've</R> I've never been there so <.></.> what are there in Sicily?</B>
+<A><F>Ah</F> there are lot of attractions in Sicily, <F>er</F> you can travel of course and you can eat <F>er</F> nice food. Very nice food. <F>Mm</F>.</A>
+<B><F>Mm</F>.</B>
+<A><F>Well</F>, this is a brochure for Sicily, so please read it at home and when you decide, please come or call me.</A>
+<B>O K. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Alright</OL>?</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>O K thank you</OL> very much for coming.</A>
+</task>
+<followup>
+<A>O K. Thank you that's the end of role-play. Alright, so <H pn="B's name">XXX02</H>, have you ever been to foreign countries?</A>
+<B>Yes. <F>Mm</F> <.></.> <R>I</R> I have been <SC>arou</SC> about seven countries.</B>
+<A><F>Uh-huh</F>. <R>Wha</R> what was the most memorable place for you?</A>
+<B>Memorable place. <F>Um</F> <..></..> <F>mm</F> <..></..> <SC>it</SC> <F>mm</F> most memorable place is <.></.> Scandinavian countries.</B>
+<A><F>Mmm</F> <F>mm</F>.</A>
+<B><R>I</R> I've been there in <R>last</R> <SC>last Oct</SC> <F>mm</F> <R>la</R> last <R>Oct</R> <F>uh</F> <R>October</R> October, <SC>it's my</SC> it's our honeymoon <laughter>trip</laughter>.</B>
+<A><F>Oh</F> <OL>really</OL>?</A>
+<B><OL>Yes</OL>. We visited <JP>unnto</JP> <R>Stockholm</R> Stockholm and Beckshaw and Copenhagen. <F>Er</F> in Beckshaw, there were many <R>glass</R> glass factories, <R>we can wa</R> we can watch the factories <F>m</F> by ourselve.</B>
+<A><F>Umm</F>.</A>
+<B>So after that, <R>we</R> <F>mm</F> we <R>recall</R> recall the video, <SC>at the</SC> at there and after our trip, we make short movie <R>we</R> <SC>we can</SC> we could plays that movie.</B>
+<A><F>Wow</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Because you are creative. <OL>Creative producer <laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Alright. Thank you very much. Last thing, I will show you another picture. <F>Er</F> this is a picture sequence so please make up one short story using these pictures from one to six. This happened last week, so please start, "One day last week".</A>
+<ctxt>The interviewee is thinking.</ctxt>
+<B><R>The</R> <R>they</R> they are <..></..> parent and <SC>boy</SC> <F>uh</F> son. They met <SC>in the</SC> after the interval of three months <laughter>because</laughter> <R>they live</R> they live <SC>apart</SC> now apart <.></.> and <.></.> <R>the</R> the father <R>came</R> came near his son's town so they decided to enjoy their dinner together. They <R>en</R> entered the restaurant. <.></.> The father <.></.> said to the waiter <F>mm</F> they wanted to sit that <R>back end</R> <SC>back end table</SC> back end seat. After <SC>sit down</SC> <R>sit</R> sit at the table, they <R>decided to their</R> <.></.> decided to their meals and order to the <SC>waiter</SC> waitress. After then, they enjoyed their meals. <R>The boy</R> <.></.> the boy ate <R>fish</R> fish dish and beer. The father enjoyed the meal dish and wine. <nvs>sniff</nvs> After that <F>mm</F> the father <.></.> paid the bill. They enjoyed the <.></.> the boy <F>er</F> <R>full</R> full. <nvs>sniff</nvs> <F>Hmm</F>. After that <.></.> they said good-bye.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hmm</F>. Alright. Thank you very much <H pn="B's name">XXX02</H>. So interview is almost over. So do you have a plan for this weekend?</A>
+<B><F>Mm</F> maybe <F>um</F> tomorrow <R>I have</R> I have to <F>uh</F> tomorrow <SC>I will be</SC> I have to go work.</B>
+<A><F>Mm</F> <.></.>. Work.</A>
+<B>Yes. I have some meeting <OL>with some staff</OL>.</B>
+<A><OL><F>Ah</F></OL> I see. But very nice work, to take pictures and make films. Sounds very interesting.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Alright</OL>. Good luck for your work.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL> very much for coming today.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,160 @@
+<interview>
+<filename>file00331.txt</filename>
+
+<head version="1.3">
+<date>2001-03-02</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Well</F> nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uh-huh</F>. Miss <H pn="B's name">XXX02</H>, where are you from?</A>
+<B>I'm from <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H>.</B>
+<A><F>Uh-huh</F>. Were you born in the same place?</A>
+<B><F>Uhm</F> I born in <H pn="others3">XXX05</H>.</B>
+<A><F>Ah</F> O K. All right. So do you like to live in <H pn="others2">XXX04</H>?</A>
+<B>Yes.</B>
+<A>Yes. Have you ever lived in other place?</A>
+<B><F>Uhm</F> overseas? <F>Ah</F> <?>living</?>? <OL><F>Ah</F></OL>.</B>
+<A><F>Uh-hum</F>. Yeah, anywhere <OL>is O K</OL>.</A>
+<B>No, <R>l</R> I live in <H pn="others2">XXX04</H>.</B>
+<A><F>Huh-hum</F>. Have you ever lived in other foreign countries?</A>
+<B><F>Um</F> <laughter>no</laughter>.</B>
+<A><laughter>O K</laughter>. O K, have you been abroad?</A>
+<B>Yes, I've been <.></.> to the United States once.</B>
+<A><F>Uh-hum</F>. How long did you stay there?</A>
+<B><F>Em</F> for two weeks.</B>
+<A><F>Oh</F> <F>oh</F> it was a short trip?</A>
+<B>Yes.</B>
+<A><F>Oh</F> O K. <F>Uh-hum</F>. How did you like U S A?</A>
+<B><F>Ahm</F> I like it very much.</B>
+<A><F>Mm-hm</F>. <F>Uh</F> where in the States did you go?</A>
+<B><F>Uhm</F> Minnesota.</B>
+<A><F>Ahm</F> <R>wh</R> why did you go to Minnesota?</A>
+<B><F>Ahm</F> I live in <H pn="others1">XXX03</H>, and <.></.> <?>Leminghton</?> in Minnesota is the sister city of my <laughter>city</laughter>.</B>
+<A><F>Oh</F> I see. <F>Erm</F> so you are exchange <OL>student</OL>?</A>
+<B><OL><F>Uhm</F> yes</OL>.</B>
+<A><F>Oh</F> O K. With how many more people went?</A>
+<B><F>Uhm</F> with about twenty students.</B>
+<A><F>Ahm</F> O K, O K. Do you want to visit there again?</A>
+<B>Yes.</B>
+<A>O K. What is your hobby?</A>
+<B><F>Ahm</F> my hobby is <F>uhm</F> <.></.> do exercising and listening to music. I like sports very much.</B>
+<A><F>Hum</F>. O K. What kind of sports do you like?</A>
+<B><F>Uhm</F> <R>I</R> I like rhythmic gymnastics, and <.></.> now I'm doing Tae Kwon Do.</B>
+<A><F>Oh</F>.</A>
+<B><laughter>Do you know</laughter>?</B>
+<A>Yes, I do. <F>Huhh</F>.</A>
+<B>In the club activity of my university.</B>
+<A><F>Ahm</F> I see. <F>Uhm</F> O K. Tell me about that club, please.</A>
+<B><nvs>laughter</nvs> <F>Uhm</F> in my club, now there are twenty members, <R>and</R> <.></.> <F>uhm</F> <.></.> and there are <R>a few pe</R> <SC>few people</SC> few womens <F>uhm</F> doing <SC>Teko</SC> Tae Kwon Do. So <.></.> <F>uhm</F> it is easier <R>to</R> <.></.> <SC>to become</SC> <R>to</R> to get the first prize <F>ur</F> in the game match.</B>
+<A><F>Uhm</F> O K. That's good to know.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K, then, look at this picture, please. And please describe it.</A>
+<B><F>Uhm</F> <.></.> here the <.></.> <F>uhm</F> <.></.> <R>rest</R> <R>restaurant</R> restaurant in the hotel. <F>Ehm</F> there are three tables, and <.></.> the time is seven o'clock P M. <F>Uhm</F> behind the picture, there are woman playing the piano. And <.></.> in front, there are couple <F>ehm</F> who are <.></.> choosing the wine. <nvs>sniff</nvs> <F>Uhm</F> <.></.> the man is wearing a yellow suit and <SC>the women</SC> the woman is wearing pink dress. <.></.> And other tables, <.></.> there are <.></.> two couples each, and both couples are eating dinner.</B>
+</task>
+<followup>
+<A>O K. O K. Thank you. O K. How do you like this restaurant?</A>
+<B><F>Uhm</F> <F>uhm</F> I think it's seems to be expensive <R>to</R> <.></.> to have dinner here. So <R>I</R> <R>I</R> I don't like it.</B>
+<A>O K. Why do you think this is an expensive restaurant?</A>
+<B><F>Uhm</F> <.></.> I think here is the <R>restaura</R> <R>restaurant</R> restaurant in the hotel, and hotel restaurant is <F>eh</F> often expensive.</B>
+<A>O K. <laughter>O K, I think so, too</laughter>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Next, let's do role-play. O K, this is your card. Please read it.</A>
+<B><ctxt>interviewee is reading the card</ctxt> <F>Mm</F>.</B>
+<A>And when you are ready, I will start.</A>
+<B><.></.> O K.</B>
+<A>O K. Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hi, this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. How are you?</A>
+<B><SC>How</SC> <F>um</F> I'm fine, thank you. How are you?</B>
+<A>Yes, I'm good, too. Thank you.</A>
+<B><F>Uhm</F> <F>ah</F> <SC>I</SC> I'm planning to go to the cinema. <F>Um</F> and how about going there with me?</B>
+<A>Yes, sounds like a good idea.</A>
+<B><F>Uhm</F> tomorrow. Is it O K?</B>
+<A><F>Uh-huh</F>. Yes.</A>
+<B>So we have to decide the place we meet. <F>Uhm</F> <nvs>cough</nvs> <.></.> how about meeting in the <F>uhm</F> Umeda Station?</B>
+<A><F>Uh-huh</F>. Yes. Fine.</A>
+<B><F>Ehm</F> <nvs>coughs</nvs> <.></.> <F>uhm</F> in front of the <?>Big-man</?>?</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <R>there</R> <.></.> <SC>there</SC> from there, <F>em</F> <F>mm</F> <R>we</R> we can go to the cinema <F>um</F> on foot. <.></.> O K? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Fine.</A>
+<B>So <F>uhm</F> <.></.> how about <F>uhm</F> one o'clock P M?</B>
+<A><F>Mm-hm</F>. O K.</A>
+<B><F>Uhm</F> O K. So see you tomorrow.</B>
+<A>O K. See you. Thank you for calling.</A>
+<B>Thank you. <OL>Bye</OL>.</B>
+<A>O K. <OL>Bye</OL>.</A>
+</task>
+<followup>
+<A>O K. Thank you. This is the end of role play. Do you like movies?</A>
+<B><F>Uhm</F> yes. But <R>I</R> I don't often go to the movie. I often see the video <SC>in ho</SC> <F>ah</F> at home.</B>
+<A><F>Uhm</F> yes. O K. Who is your favorite actor or actress?</A>
+<B><F>Uhm</F> I <.></.> like <.></.> <F>ur</F> Whoopi Goldberg.</B>
+<A><F>Ahh</F>. <R>Why</R> why do you like <OL><?>her</?></OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uhm</F> <R>she</R> she makes me laugh <SC>often</SC> always.</B>
+<A><F>Uhm</F> I see. O K. <F>Ehm</F> what is the difference between <F>ah</F> watching movie at home and in a movie theater?</A>
+<B><F>Uhm</F> <.></.> in movie theater, <F>ehm</F> <R>I</R> <.></.> I was moved my heart more, <R>but</R> <F>uhm</F> <.></.> but watching the video in home <.></.> cost me more less.</B>
+<A>O K. O K. Good. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>And this is another picture for you. Please make up a story this time. And it happened before. So please start with, "One day last week".</A>
+<B><ctxt>Interviewee is looking at the pictures</ctxt> Describe also?</B>
+<A><F>Mh-huh</F>. Yes.</A>
+<B>One day last week, <F>uhm</F> the woman find that there are no food in the refrigerator. So <.></.> she went to the supermarket by car, and <.></.> <SC>buy some food</SC> bought some food to eat. <.></.> <SC>She bought</SC> <.></.> <F>uhm</F> <R>she</R> she got some food there, <R>and</R> <.></.> and brought them to the home, and <.></.> she started to cooking. <R>she</R> <R>she made</R> she made <F>urm</F> sunny-side up <SC>or</SC> and some other dishes.</B>
+</task>
+<followup>
+<A>O K. O K. Thank you. Good. Do you like cooking?</A>
+<B><F>Ah</F> no. <laughter>No, I don't</laughter>.</B>
+<A><F>Oh</F>. Why?</A>
+<B><F>Em</F> I'm not good at cooking. <F>Ehm</F> whenever <R>I</R> I try to cook, <F>uhm</F> <F>mhm</F> <SC>no</SC> <R>the</R> <SC>the dish</SC> the meal <laughter><SC>is</SC></laughter> isn't delicious.</B>
+<A><F>Oh</F> who said so?</A>
+<B><nvs>laughter</nvs> I think so, and other member of my family <SC>think</SC> <F>um</F> said so, too.</B>
+<A><F>Uh</F> O K, that's too bad. O K? Do you drive a car?</A>
+<B>Yes.</B>
+<A><F>Uh</F> then why did you decide to get a driver's license?</A>
+<B><F>Uhm</F> <SC>I</SC> my home is so far from the nearest station. So if I can't drive the car, <F>ehm</F> <R>I have to</R> I have to take a bus <F>um</F> to go to the station.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mhm</F> O K. O K. Thank you. This is almost the end of the interview. O K? Do you have any plans to do for this weekend?</A>
+<B><F>Uhm</F> yes. <F>Ehm</F> <.></.> from next Sunday, <R>I</R> I will visit Spain</B>
+<A><F>Oh</F>.</A>
+<B>for one month.</B>
+<A>How wonderful. <OL><F>Uhh</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> Yeah. <R>I</R> I study Spanish in the university.</B>
+<A><F>Uhm</F> I see. Do you speak Spanish?</A>
+<B><F>Uhm</F> yes, a little.</B>
+<A><F>Ah</F> O K. So <F>ah</F> who are you going to Spain with?</A>
+<B><F>Uhm</F> <R>I</R> I go to Spain <.></.> for my own.</B>
+<A><OL>On your own</OL>?</A>
+<B><OL><F>Uhm</F></OL> yeah.</B>
+<A><F>Oh</F> O K. <F>Well</F> I hope you have a good time <OL>in Spain</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> Thank you.</B>
+<A>And thank you very much. This is all. Thank you.</A>
+</stage5>
+</body>
+</interview>

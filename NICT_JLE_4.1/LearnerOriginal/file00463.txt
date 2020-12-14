@@ -1,0 +1,224 @@
+<interview>
+<filename>file00463.txt</filename>
+
+<head version="1.3">
+<date>2001-06-06</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>715</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K.Let's start. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> <F>ee</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>.</A>
+<B>Yes.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A><F>Um</F> so tell me, where do you live, Mister <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> <SC>I</SC> <F>er</F> now, I live in <H pn="others1">XXX03</H>. J R <H pn="others1">XXX03</H> Station.</B>
+<A><F>Hum</F>.</A>
+<B>Yes.</B>
+<A>Is it a good place?</A>
+<B><F>Uum</F>. Yes.</B>
+<A><F>Hum</F>.</A>
+<B><nvs>cough</nvs></B>
+<A>What is good about <H pn="others1">XXX03</H>?</A>
+<B><F>Err</F> <.></.> <F>err</F> there are many <F>er</F> <R>drinking</R> drinking place.</B>
+<A><nvs>laughter</nvs> You like drinking.</A>
+<B>Yes. <OL>At night</OL>.</B>
+<A><OL><SC>What is your</SC></OL> I see. What is your favorite drinking place?</A>
+<B><F>Err</F> place. Drinking place. <F>Err</F> <JP>Izakaya</JP>. Japanese sake.</B>
+<A><F>Uhu</F>. <OL>I see</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Who do you often go drinking with?</A>
+<B><F>Err</F> my company's friend or <F>err</F> my university friend. <OL>Yes</OL>.</B>
+<A><OL><F>Uhu</F></OL> I see. What is so good about drinking?</A>
+<B><laughter><F>Err</F></laughter> <F>ee</F> <.></.> it makes me laugh. <F>Um</F>.</B>
+<A><F>Um</F> I see. <R>O K</R> <OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>In <H pn="others1">XXX03</H>, do you live by yourself?</A>
+<B>No. <F>Er</F> I live <R>with my f</R> <F>um</F> with my family.</B>
+<A><F>Uhu</F>. Can you tell me about your family?</A>
+<B><F>Err</F> I have <F>err</F> father, mother and <F>ee</F> <.></.> <R>little brother</R> <F>er</F> little brother.</B>
+<A><F>Err</F> <OL>I see</OL>.</A>
+<B><R><OL>Four</OL></R> <F>er</F> <R>four</R> <R>four fa</R> <F>ee</F> <SC>four family</SC> four <laughter>people</laughter>.</B>
+<A>O K.</A>
+<B>Yes. <nvs>cough</nvs></B>
+<A><OL>Tell</OL> me about your brother.</A>
+<B><F>Err</F> my brother is twenty-three years old and he lives in <R>a bank</R> a bank. <F>Er</F> the bank is <H pn="company name1">XXX04</H> Bank. Yes.</B>
+<A>I see. Does he enjoy his work?</A>
+<B><F>Err</F> <F>err</F> <SC>he have been</SC> he have worked for one year and <F>ee</F> he is getting <F>ee</F> <SC>be</SC> <JP>nareru te nandesukane</JP> <F>mm</F> yes a little bit <F>er</F> enjoying.</B>
+<A><F>Oh</F> <OL>that's good</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>O K. And how about you? <OL><F>Um</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Do you enjoy your job?</A>
+<B><F>Er</F> of course. <OL>Yes</OL>.</B>
+<A><OL><F>Oh</F></OL> that's good. What do you do in your free time?</A>
+<B>Free time? <F>Er</F> my hobby is <F>er</F> play golfing.</B>
+<A><F>Err</F>.</A>
+<B>Yes. And <F>ee</F> <R>three times</R> three times a month. <F>Mm</F> very often, I go golfing. Yes.</B>
+<A>Where do you go to play golf?</A>
+<B><F>Err</F> <nvs>cough</nvs> for example, <F>err</F> Chiba Prefecture or Tochigi Prefecture. <F>Err</F> many places I go.</B>
+<A>I see. How did you become interested in golf?</A>
+<B><F>Err</F> <nvs>cough</nvs> <.></.> I started golf <F>eh</F> when I was eighteen years old, <F>er</F> <R>when</R> <R>when I</R> when I go university, I started play golfing. <OL>Yes</OL>.</B>
+<A><OL><F>Err</F> I see</OL>. Did you belong to a golf club?</A>
+<B>Yes. <F>Er</F> a golf club. I belonged.</B>
+<A><F>Er</F> I see. <F>Ah</F> that's nice. So when you go drinking, do you go drinking with the members of the golf <OL>club</OL>?</A>
+<B><OL><R>Yes</R></OL> yes.</B>
+<A><F>Oh</F> that's nice. O K. Good. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<B><nvs>cough</nvs> <OL><nvs>cough</nvs></OL></B>
+<A><OL>O K</OL>. Today, I want you to look at this picture. And, O K, tell me what do you see in this picture.</A>
+<B><F>Oh</F> <nvs>cough</nvs> in this room, <F>err</F> there are a cat and a dog. <F>Um</F>. <nvs>laughter</nvs></B>
+<A>Yes. <F>Uhm</F> <F>mh-hmm</F> O K. Tell me more.</A>
+<B><F>Err</F> <nvs>cough</nvs> in this room, <F>err</F> a personal computer and <R>a lady</R> <F>err</F> a lady sitting chair <..></..> <F>mm</F> <R>show</R> <F>er</F> <R>show</R> <..></..> showing the <.></.> <laughter>monitor</laughter> <R>to</R> to a cat. <.></.> That's all.</B>
+<A>O K. Thank you <OL>very much</OL>.</A>
+<B><OL><nvs>cough</nvs></OL></B>
+</task>
+<followup>
+<A>O K. Does this room look like your room in <H pn="others1">XXX03</H>?</A>
+<B><F>Err</F> <nvs>laughter</nvs> no. <F>Err</F> my room is <F>er</F> smaller than this picture.</B>
+<A><F>Oh</F>.</A>
+<B>Yes.</B>
+<A>I see. And <F>er</F> do you have a computer in your room?</A>
+<B><F>Er</F> no. <SC>I have</SC> no, I don't have.</B>
+<A><F>Oh</F>.</A>
+<B>Yes.</B>
+<A>Do you use computers at work?</A>
+<B>Yes. <R>Only</R> only at company. <OL>Yes</OL>.</B>
+<A><OL><F>Hm</F></OL> why don't you buy a computer at home?</A>
+<B><F>Oh</F> of course, I want to buy, but <laughter>I have no money</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see.</A>
+<B>Yes.</B>
+<A>All for drinking.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. And what other things do you have in your room?</A>
+<B><F>Uum</F> in my room, <F>err</F> <.></.> <nvs>cough</nvs> audio system is in my room.</B>
+<A><F>Uhu</F>. What kind of music do you listen to?</A>
+<B><F>Err</F> <R>I</R> I like <F>er</F> the Beatles. Yes. And classic rock. For example, <F>urm</F> Rolling Stones</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>mm</F> like that.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A><SC>What's</SC> <R>what</R> what is good about Beatles' music?</A>
+<B><F>Err</F> <SC>what i</SC> <F>er</F> I'm sorry, <R>I beg</R> I beg <laughter>your</laughter> pardon?</B>
+<A>What is good about Beatles' music?</A>
+<B><F>Mm</F> <F>mm</F> <F>mm</F> <F>err</F> I like Beatles because <F>err</F> <R>their</R> <F>err</F> <.></.> <F>err</F> <.></.> their <R>ballad</R> <SC>ballad</SC> slow tempo music, I like. Yes.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. May I have the picture? Thank you. Next, let's do a role-play. O K. I'm going to give you a card. O K? Please read this. O K. When you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K? Are you ready?</A>
+<B><JP>A chotto suimasen</JP>.</B>
+<ctxt>The interviewee is still reading the card.</ctxt>
+<B><F>Hm</F> O K.</B>
+<A>O K. Hello. May I help you, sir?</A>
+<B><F>Err</F> I want go to New York. <F>Err</F> <.></.> <F>err</F> and <R>I'm</R> I'm in a hurry. <F>Err</F> so, where can I buy a ticket to New York?</B>
+<A>You can buy it here.</A>
+<B><laughter>Here</laughter>? <F>Oh</F> <..></..> <F>uum</F> <F>er</F> <R>if you</R> <F>err</F> <F>er</F> <..></..> if you have a express train, <F>um</F> <R>I</R> I want to take that.</B>
+<A>O K.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>We do</OL>. But it leaves in thirty minutes.</A>
+<B>In thirty minutes.</B>
+<A>Thirty minutes later.</A>
+<B>Later. <F>Err</F> O K. <F>Ee</F> <nvs>cough</nvs> how long does it take from here to New York?</B>
+<A>It take two hours.</A>
+<B><OL>Two hours</OL></B>
+<A><OL>on the express</OL>.</A>
+<B>On the express.</B>
+<A>And three hours on the local.</A>
+<B><F>Oh</F>. So I want to take a express train. So, <R>how mu</R> <F>err</F> <.></.> <R>how much</R> <.></.> how much is the ticket?</B>
+<A>O K. It's <F>er</F> one hundred dollars.</A>
+<B>One hundred dollar? O K. <??></??></B>
+<A>O K. <laughter>Thank you very much</laughter>. O K. Here's your ticket.</A>
+<B>Thank you very much.</B>
+<A>O K. Please go to platform five.</A>
+<B>Thank you.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. This is the end of the role-play. Have you ever been to New York?</A>
+<B><R>No</R> <F>er</F> no, I haven't.</B>
+<A>Have you ever been outside Japan?</A>
+<B>Outside? <R>Yes</R> <F>er</F> yes. I have been to <F>er</F> England, Scotland for two weeks.</B>
+<A>I see.</A>
+<B>Yes. <F>Err</F> <SC>it</SC> <F>ee</F> when I was twenty, when I was in university, <F>er</F> I went there and play golf.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>What was the most beautiful place you saw in Scotland?</A>
+<B>Scotland. <F>Er</F> yes. <F>Err</F> I went to Edinburgh Castle. And <F>err</F> when I was there, <F>er</F> there were evening and the evening light is very beautiful and the castle turn up with the light. <OL><F>Uhm</F></OL>.</B>
+<A><OL><F>Hm</F></OL> <OL>I see</OL>.</A>
+<B><OL>It was</OL> very beautiful.</B>
+<A><F>Hum</F>. How was the food?</A>
+<B><laughter>Food</laughter>. Yes. <F>Err</F> before I go England, Scotland, <F>err</F> I heard that <F>er</F> the <SC>English peop</SC> English <F>er</F> <..></..> <laughter><JP>ryori</JP></laughter> cooking is not good. So, I was very afraid of that. But <F>er</F> <F>er</F> when I first <R>a</R> ate <F>er</F> fish and chips, <F>err</F> it was not so bad.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>O K. That's good. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Then last, I want you to look at, O K, this picture. O K? Please make a story using the pictures from one to four. This is something that happened one day last week. O K? So please start with "One day last week". And make a story.</A>
+<B>One day last week.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Err</F> yes. <nvs>cough</nvs></B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Uum</F> there are three people <F>err</F> before the <R>movie</R> movie theater. And <R>they are going</R> they were going to see a movie. And <SC>before go</SC> before watching movie, <F>er</F> <R>they bou</R> they bought a drink and a snack. <nvs>cough</nvs> And <F>er</F> <.></.> the movie's contents is <F>er</F> very <F>er</F> amazing. <F>Er</F> because <F>er</F> <nvs>cough</nvs> <R>a plane is</R> a plane <R>is</R> <..></..> <R>is</R> <laughter><F>err</F></laughter> <..></..> is <R>not</R> not good. And <R>a girl</R> a girl was very surprised. And <nvs>cough</nvs> <R>after</R> after the movie, <F>er</F> <.></.> they talked about that <F>er</F> <.></.> very much. That's all.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you often go see movies?</A>
+<B><F>Err</F> <SC>I'm</SC> <R>I don't</R> I don't. Yes.</B>
+<A>I see. Now it's the rainy season, so you can't play golf. How are you going to spend your <OL>free time</OL>?</A>
+<B><OL><F>Oh</F></OL> <F>oh</F> yes. That is a very sharp question.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> <F>Err</F> <SC>I will</SC> <F>uh</F> <R>I like driving</R> <F>er</F> I like driving, too. So <F>er</F> rainy season, I go driving. Yes.</B>
+<A>In the rain?</A>
+<B><F>Ur</F> yes. In the rain. <SC>And</SC> <R>yes</R> yes. <OL><F>Uhm</F></OL>.</B>
+<A><OL>What kind</OL> of places do you go for a drive?</A>
+<B><F>Err</F> <SC>I like <F>er</F> <R>seashore</R></SC> <SC>seashore</SC> <F>er</F> I like seashore very much, so I go Shonan Seashore <F>uhm</F> or like that. Tateyama in Chiba.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>And although it's raining, you don't <OL>mind</OL>?</A>
+<B><OL><laughter><F>Uum</F></laughter></OL> <F>er</F> <R>I don't</R> I don't care <SC>not so</SC> <SC>not</SC> yes, <OL>not so</OL>.</B>
+<A><OL><F>Hum</F></OL> O K. I see. O K. <F>Well</F> I hope you enjoy the <SC>drive</SC> your drivings.</A>
+<B><laughter>Thank you</laughter>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. We are almost at the end of the interview. After this, are you going back to your office?</A>
+<B><R>Yes</R> yes.</B>
+<A>What time do you finish today?</A>
+<B><F>Err</F> <SC>eighteen</SC> <F>ee</F> <.></.> six o'clock.</B>
+<A>Six o'clock.</A>
+<B>Six P M. <OL>Yes</OL>.</B>
+<A><OL>I see</OL>. After that do you have any plans?</A>
+<B><F>Oh</F> <SC>not</SC> no today. <OL>Yes</OL>.</B>
+<A><OL><F>Oh</F></OL> no drinking plans.</A>
+<B>No drinking. Yes.</B>
+<A><laughter>O K</laughter>. Right. <F>Well</F> I hope you enjoy <OL>the rest of the day</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you very much. This is the end of the interview.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much. O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,191 @@
+<interview>
+<filename>E_file00269.txt</filename>
+
+<head version="1.3">
+<date>2001-01-24</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>510</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Mhm</F> So, <H pn="B's name">XXX02</H>, please tell me, where do you live?</A>
+<B>I'm <v_fml odr="1" crr="living">live</v_fml> in <H pn="others1">XXX03</H> City in <H pn="others2">XXX04</H> Prefecture.</B>
+<A>I see. What kind of city is <H pn="others1">XXX03</H> City?</A>
+<B><F>Urrr</F>. <R>Very general city</R> <at odr="1" crr="a"></at> very ordinary city.</B>
+<A><F>Uh-huh</F>. I see. How is it different from Tokyo, for example, maybe, Ichigaya?</A>
+<B><F>Arr</F>. There is a lot of <OL><n_num odr="1" crr="forests">forest</n_num> and</OL></B>
+<A><OL><F>Mm</F></OL>.</A>
+<B>lots of <SC>field</SC> <F>arr</F> rice <n_num odr="2" crr="fields">field</n_num>.</B>
+<A><F>Urr</F>. That's nice. Do you live there with your family?</A>
+<B>Yes.</B>
+<A>Can you tell me about your family?</A>
+<B><F>Ur</F>. I have <pn_lxc odr="1" crr="">my</pn_lxc> <.></.> father, mother, <con_lxc odr="2" crr="">and</con_lxc> <at odr="3" crr="a"></at> younger brother and <at odr="5" crr="a"></at> <aj_lxc odr="4" crr="younger"></aj_lxc> sister.</B>
+<A><F>Oh</F> I see. Tell me about your <SC>sister</SC> younger sister.</A>
+<B><F>Ur</F>. O K. My younger sister is working for a <R>me</R> medical office. And <F>er</F> she loves brand <n_num odr="1" crr="bags">bag</n_num>,</B>
+<A><nvs>laughter</nvs></A>
+<B>for example, Louis Vuitton.</B>
+<A>I see.</A>
+<B>But <R>she is</R> she loves very cheap clothes.</B>
+<A><nvs>laughter</nvs></A>
+<B>I think that is very <aj_lxc odr="1" crr="unmatched">unmatch</aj_lxc>.</B>
+<A><nvs>laughter</nvs> <F>Oh</F> I see.</A>
+<B>Sure. <F>Er</F>. Yeah?</B>
+<A><F>Erh</F>. O K.</A>
+<B>Go ahead.</B>
+<A>I'm sorry. O K. So, how about you, then? <F>Um</F>.</A>
+<B>About <R>my</R> my sister?</B>
+<A><?>No</?>. <F>Erh</F>. Compared to your sister, <SC>how <?>can</?></SC> what do you like to wear and buy?</A>
+<B><F>Er</F> <F>mm</F>. I like good quality clothes. And <SC>I</SC> <.></.> <F>er</F> concerning <SC>bag</SC> carrying <n_num odr="1" crr="bags">bag</n_num>, I like very <F>mm</F> convenient bag.</B>
+<A><F>Mmm</F>. I see. O K. How often do you go shoppping?</A>
+<B><F>Ehrr</F>. Recently, I <v_ng odr="1" crr="don't go">never been</v_ng> to shopping. Because I love skiing. And I have no money, <OL>in this season</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Oh</F> I see. <F>Eh</F>. How did you become interested in skiing?</A>
+<B><F>Eh</F>. <at odr="1" crr="The"></at> <cap odr="2" crr="first" ch="1">First</cap> time I went to skiing <v_lxc odr="3" crr="was"></v_lxc> when I was <at odr="4" crr="a"></at> high school student. And, <F>mm</F> <.></.> <prp_lxc1 odr="1" crr="for"></prp_lxc1> about <.></.> two or three <R>years</R> years, <F>ah</F> sorry, <.></.> <R>I</R> <R>I had</R> I <v_tns odr="2" crr="had belonged">had been belonging</v_tns> to <at odr="3" crr="the"></at> ski club. And <F>eh</F> I found ski <v_tns odr="1" crr="was">is</v_tns> <at odr="3" crr="a" ch="2"></at> very interesting <n_num odr="2" crr="sport">sports</n_num>.</B>
+<A><F>Er</F>. I see. What is so interesting about skiing?</A>
+<B><F>Er</F>. It's very difficult to <R>do</R> explain, but <F>er</F> <.></.> it is <at odr="1" crr="a"></at> very simple reason. And <F>mm</F> <F>er</F> I wanna be <at odr="1" crr="the"></at> wind.</B>
+<A><F>Oh</F> I see. You like the wind.</A>
+<B>Yeah.</B>
+<A>O K. Good.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K, then, today, first, I'm going to show you a picture.</A>
+<B><F>Ah-huh</F>.</B>
+<A>Please look at this picture, and tell me what you see.</A>
+<B>O K. <.></.> <nvs>laughter</nvs> It's <R>very</R> very similar <prp_lxc2 odr="1" crr="to">with</prp_lxc2> <pn_cs odr="2" crr="mine">me</pn_cs>.</B>
+<A><F>Oh</F>.</A>
+<B>O K. <F>Er</F>. There's a dog <F>er</F> and <pn_lxc odr="1" crr="he"></pn_lxc> <mo_lxc odr="2" crr="is"></mo_lxc> sitting. <.></.> <F>Ah</F>. <.></.> <F>Eh</F>. <.></.> <JP>Dou shiyou kana</JP>. <F>Uh</F>. There's a girl <con_lxc odr="1" crr="">and</con_lxc> <at odr="2" crr="a"></at> dog and <at odr="3" crr="a"></at> cat in the room. And <at odr="1" crr="the"></at> door is open. And <F>uh</F> <R>a</R> <at odr="1" crr="the">a</at> cat is <.></.> <F>eh</F> sleeping on the bed, and <at odr="2" crr="the"></at> dog is sleeping on the floor. <F>Ah</F>. She is looking at <at odr="1" crr="the"></at> cat and <at odr="2" crr="the"></at> dog. <F>Uh</F>. <.></.> On her desk, there <v_agr odr="3" crr="are">is</v_agr> <at odr="1" crr="a"></at> computer and <at odr="2" crr="a"></at> typewriter. <.></.> That's all.</B>
+</task>
+<followup>
+<A><F>Mm-hmm</F>. O K. So you said it was similar. Can you compare this room to your room?</A>
+<B>Yes. <F>Eh</F>. I have a cat, and my cat is always sleeping on my bed.</B>
+<A>I see. Right. O K. So, that's how it's similar. O K. So, can you tell me how do you usually spend <pn_lxc odr="1" crr="">your</pn_lxc> evenings in your room?</A>
+<B><F>Oh</F>. <.></.> <F>Eh</F>. About one <n_num odr="1" crr="year">years</n_num> ago, <R>I started to</R> I started to learn English <OL>accounting</OL>.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B>And, <F>eh</F> <.></.> not every day, but I <mo_lxc odr="1" crr="am"></mo_lxc> <v_lxc odr="2" crr="studying">running</v_lxc> <SC>accounting</SC> accountings in my room.</B>
+<A>I see. Can you tell me more about English accounting?</A>
+<B><F>Uhh</F>. <.></.> <R>A</R> accounting? About what?</B>
+<A>So it's accounting. And <v_ng odr="1" crr="do you do">do</v_ng> it in English?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. How did you become interested in English accounting?</A>
+<B><F>Eh</F>. <prp_lxc1 odr="1" crr="">About</prp_lxc1> several years ago, <SC>I'm</SC> I was working for <F>eh</F> <SC>trading</SC> <at odr="2" crr="a"></at> big trading company as a temporary staff. And <F>eh</F> I <v_tns odr="1" crr="knew">know</v_tns> about that <SC?>je</SC?> routine works. But I <v_tns odr="1" crr="couldn't understand">can't understand</v_tns> <F>uh</F> accounting matters, so <F>eh</F> <SC>I can't do</SC> <F>a</F> <R>I</R> I coudn't do my work <F>eh</F> <av_lxc odr="2" crr="either">as well</av_lxc>.</B>
+<A><F>Mm</F>. I see. <F>Wow</F>. Very hardworking.</A>
+<B>Yeah. Thank you.</B>
+<A>Good. Thank you very much.</A>
+<B><F>Uh-huh</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now we are going to do a role play, so I want you to look at this card. O K, so, when you are ready I'll start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? <F>Um</F>. Hello?</A>
+<B>Hello. <F>Eh</F>. This is <H pn="B's name">XXX02</H> on the phone.</B>
+<A><F>Oh</F>. Hi, <H pn="B's name">XXX02</H>. How are you?</A>
+<B>I'm fine, thank you. And you?</B>
+<A>I'm not bad, thanks.</A>
+<B><F>Eh</F>. I'm very sorry, but I can't go <prp_lxc2 odr="1" crr="to"></prp_lxc2> <.></.> <at odr="2" crr="the"></at> dinner party tonight.</B>
+<A><F>Oh</F>. No. Why not?</A>
+<B><F>Eh</F>. My cat <v_lxc odr="1" crr="is">has</v_lxc> sick, and I <R>take</R> <v_tns odr="2" crr="will take">take</v_tns> <pn_lxc odr="3" crr="my">that</pn_lxc> cat to the doctor.</B>
+<A><F>Oh</F>. I see. <F>Well</F>. You can leave your cat at home, can't you?</A>
+<B>No.</B>
+<A>Why not?</A>
+<B><F>Eh</F>. <CO>Because</CO>. <F>Eh</F>. <.></.></B>
+<A>Your sister can look after your cat?</A>
+<B><F>Eh</F>. She's out now.</B>
+<A><F>Oh</F>. That's too bad. <F>Eh</F> <F>mm</F>. <SC>What do you have to do to pre</SC> <.></.> <R>what</R> what do you have to do to look after the cat?</A>
+<B><F>Eh</F>. <.></.> <F>Mm</F>.</B>
+<A>Why don't you bring your cat with you?</A>
+<B><prp_lxc1 odr="1" crr="To">With</prp_lxc1> your house?</B>
+<A><F>Mhm</F>. It's not far away.</A>
+<B><F>Hh</F>. <F>Oh</F>. I think that is <at odr="1" crr="a"></at> good idea, but my cat is <prp_lxc1 odr="2" crr="in"></prp_lxc1> <at odr="3" crr="a"></at> very bad condition. And <F>er</F> she doesn't like <R>people</R> <o_lxc odr="1" crr="a lot of">lot of</o_lxc> people.</B>
+<A><F>Oh</F>. I have some friends waiting for you whom I want you to meet.</A>
+<B><F>Oh</F>. I'm very sorry, but I can't go.</B>
+<A><F>Mmm</F>. What shall we do?</A>
+<B><F>Eh</F>. <..></..> O K. I will plan another dinner party <F>eh</F> next month.</B>
+<A><F>Oh</F>. O K. Good. That sounds great.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K. Then, we look forward to that party. O K. And, <o_lxc odr="1" crr="take care of">take after</o_lxc> your cat.</A>
+<B><F>Uh-huh</F>. Thank you very much.</B>
+<A>O K. See you then.</A>
+<B>See you.</B>
+<A>O K. Bye. O K. Thank you very much. That's the end of the role play.</A>
+</task>
+<followup>
+<A>O K, so. Thank you. O K, so, has your cat ever been sick?</A>
+<B>No.</B>
+<A><F>Oh</F> <laughter>I see</laughter>. O K, then, <F>em</F> if your cat <v_tns odr="1" crr="becomes">became</v_tns> sick, what will you do?</A>
+<B><F>Ah</F>. <SC>I will take that</SC> <F>eh</F> I will take <at odr="1" crr="the"></at> cat <prp_lxc2 odr="2" crr="to"></prp_lxc2> the doctor. <F>Er</F>. Last week, <F>er</F> I went to the doctor with my cat to <.></.> <v_lxc odr="2" crr="prevent"><v_fml odr="1" crr="avoid">avoiding</v_fml></v_lxc> <prp_lxc2 odr="3" crr="from" ch="2"></prp_lxc2> <n_lxc odr="4" crr="sickness">sick</n_lxc>.</B>
+<A>How <v_tns odr="1" crr="did you do">do you do</v_tns> that?</A>
+<B><F>Uhh</F>. <.></.> <JP><?>Denai kedo</?></JP>. <R>The doc</R> <F>mm</F> the doctor <R>gave</R> <R>gave</R> gave him a <?><n_lxc odr="1" crr="medicine">medical</n_lxc></?>.</B>
+<A><F>Mmm</F>. What does it do?</A>
+<B><F>Uh</F>. Sorry, I can't explain, because <R>I</R> I do not know the word.</B>
+<A>O K. I see. All right, O K. So <R>you</R> your cat <mo_lxc odr="1" crr="is"></mo_lxc> not going to get sick for a while. That's good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Then, the last thing today is, <??></??> look at this picture.</A>
+<B><F>Mm-hmm</F>.</B>
+<A>I want you to make a story from one to six.</A>
+<B><F>Mm-hmm</F>.</B>
+<A>This is something that happened one day last week.</A>
+<B><F>Mm-hmm</F>.</B>
+<A>O K, please start with "One day last week".</A>
+<B>O K. <.></.> <F>Err</F>. Last Sunday, <F>eh</F> I felt hungry, and <R>I</R> I tried to cook something to eat. And I looked <prp_lxc2 odr="1" crr="into"></prp_lxc2> <.></.> <F>eh</F> <at odr="2" crr="the"></at> refrigerator, and there <v_tns odr="3" crr="was">is</v_tns> nothing. So I went to <at odr="1" crr="the"></at> supermarket to buy <.></.> <R>some</R> some food. <F>Uh</F>. <.></.> I <v_tns odr="1" crr="chose">choose</v_tns> <F>eh</F> some <n_lxc odr="2" crr="food">materials</n_lxc>, and <F>eh</F> <R>I</R> I paid the <n_lxc odr="3" crr="money">fee</n_lxc>. And <F>er</F> <F>eh</F> <nvs>laughter</nvs> <.></.> I <v_tns odr="1" crr="brought">bring</v_tns> <at odr="2" crr="a">the</at> <.></.> <F>mm</F> shopping bag. <F>Uh</F>. I put <.></.> <at odr="1" crr="the"></at> shopping bag <prp_lxc1 odr="2" crr="in"></prp_lxc1> <at odr="4" crr="the"></at> <n_lxc odr="3" crr="trunk">back of the car</n_lxc>. <SC>And I</SC> <.></.> And after I <.></.> <v_tns odr="1" crr="arrived">arrive</v_tns> at home, <SC>I've making</SC> <.></.> <F>uh</F> <JP>nan darou</JP> <..></..> <R>I</R> I made a meal with <n_num odr="2" crr="eggs">egg</n_num>. That's all.</B>
+</task>
+<followup>
+<A>O K. Good. Thank you very much. O K, so, tell me, how often do you cook?</A>
+<B><F>Mhm</F>. <.></.> About once a week.</B>
+<A><F>Oh</F>. Not bad. <F>Eh</F>. Tell me the last time you cooked.</A>
+<B><F>Eh</F>. <.></.> <F>Oh</F>. I don't remember, though. <.></.> <JP>Nani tukutta darou</JP>. <.></.> <F>Mm</F>. <.></.> <F>Ah</F>. <.></.> I made noodles. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> O K. Tell me more about the kind of noodles.</A>
+<B>It's <SC>a</SC> very simple. <F>Eh</F>. <.></.> Instant <n_num odr="1" crr="noodles">noodle</n_num>. <nvs>laughter</nvs> Just <v_cmp odr="1" crr="put it">put</v_cmp> in boiled water. And wait three minutes, and eat. That's all. <nvs>laughter</nvs></B>
+<A><OL>I see</OL>. <F>Mhm</F>. So that's cooking.</A>
+<B>I <v_ng odr="1" crr="don't think that is">think that is not</v_ng> <SC>cooking</SC> real cooking.</B>
+<A>I see. <SC>Do you</SC> what kind of instant noodles <v_tns odr="1" crr="did you choose">do you choose</v_tns>?</A>
+<B><F>Uhh</F>. I got very small one, because <F>uh</F> I <v_tns odr="1" crr="felt">feel</v_tns> <F>mm</F> <aj_lxc odr="2" crr="hungry">hunger</aj_lxc> <con_lxc odr="3" crr="while">during</con_lxc> <R>I</R> <R>I</R> I <v_tns odr="4" crr="was studying">am studying</v_tns> accountings. I <v_tns odr="1" crr="ate">eat</v_tns> that.</B>
+<A><F>Ahh</F>.</A>
+<B><F>Oh</F>. Because <SC>that</SC> <R>last</R> <.></.> <F>eh</F> last weekend, I had <at odr="1" crr="an"></at> examination.</B>
+<A><F>Mmmm</F>. What kind of examination?</A>
+<B><F>Eh</F>. Of course, English accounting.</B>
+<A><F>Oh</F>. I see. <F>Oh</F>. So you had to study hard.</A>
+<B>Yeah. <F>Eh</F>. Not hard.</B>
+<A><OL>Why</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Er</F>. Just study.</B>
+<A><F>Oh</F> I see. O K. Good.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F>. We're almost at the end of the interview now. O K? So, what are your plans after this?</A>
+<B>After this? After this <R>interview</R> interview?</B>
+<A><F>Mm-hmm</F>.</A>
+<B><F>Mm</F>. I <v_lxc odr="1" crr="will go"></v_lxc> back to work. <F>Oh</F>. I have to go to <.></.> <at odr="1" crr="the"></at> <H pn="company name1">XXX05</H></B>
+<A><F>Mm</F>.</A>
+<B>to hand in <.></.> <F>eh</F> documents.</B>
+<A><F>Oh</F> I see. It's quite a nice weather outside.</A>
+<B>Yes.</B>
+<A>So it should be pleasant.</A>
+<B><F>Mhm</F>. Yeah.</B>
+<A>O K. That's the end. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+<B>Thank you very much, <H pn="A's name">XXX01</H>.</B>
+<A>O K. Thank you <prp_lxc2 odr="1" crr="for"></prp_lxc2> remembering my name. O K.</A>
+</stage5>
+</body>
+</interview>

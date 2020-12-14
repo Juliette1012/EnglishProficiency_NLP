@@ -1,0 +1,200 @@
+<interview>
+<filename>file00284.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>female</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC>745</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello. My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B><F>Urr</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F> nice to meet you <H pn="A's name">XXX01</H>. How are you today?</A>
+<B>Nice to meet you. I'm fine, but a little bit tired from my work.</B>
+<A><F>Oh</F> O K.</A>
+<B>Yeah. <nvs>laughter</nvs></B>
+<A>Do you have any plans tonight?</A>
+<B><F>Urr</F> tonight <F>err</F> not specially, but I hope I could be with my husband. Yes. My husband has another plan so he told me in this morning he might not be able to with me tonight. But for relaxing and discussing about many things <SC>I wish I would</SC> I wish I could be with my husband tonight. <nvs>laughter</nvs></B>
+<A>I see. <F>Ur</F> where do you live?</A>
+<B><F>Urr</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uhhum</F>. Could you tell me about <H pn="others1">XXX03</H>?</A>
+<B><R><H pn="others1">XXX03</H></R> <F>umm</F> <H pn="others1">XXX03</H> is, I think, nice place to live 'cause many department and also many restaurants in <H pn="others1">XXX03</H>. But on weekends, a lot of people visit <H pn="others1">XXX03</H> so <F>umm</F> <.></.> to be relaxed on weekends, I think <.></.> <JP>nante yuundaro</JP> it's not good.</B>
+<A><F>Uhhum</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>Why did you choose <H pn="others1">XXX03</H> to live <OL>then</OL>?</A>
+<B><OL><H pn="others1">XXX03</H></OL>. 'Cause <.></.> actually <SC>my</SC> <F>ah</F> <SC>the <JP>mansion</JP></SC> <F>ah</F> the apartment I live with my husband is owned by government. So the rent is cheaper than private apartment. So I choosed living there.</B>
+<A><F>Hmm</F>. O K.</A>
+<B>Yes.</B>
+<A><H pn="B's name">XXX02</H> do you have any hobby?</A>
+<B>Hobby? <F>Urr</F> I used to like swimming but recently I haven't go.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Urr</F> more interest for me right now is <.></.> <R>ballet</R> ballet.</B>
+<A><F>Hm</F>. <OL>Could you</OL></A>
+<B><OL>It's</OL></B>
+<A>tell me about that?</A>
+<B>ballet <nvs>laughter</nvs>. Actually I have never learned ballet <SC>just look</SC> I have looked ballet dance in T V or in <F>arr</F> how can I say <F>umm</F> in <JP>koenkai</JP>,</B>
+<A><F>Uhhum</F>.</A>
+<B>in Japanese.</B>
+<A><F>Uhhum</F>.</A>
+<B>I'm sorry. <.></.> In <SC><JP>koen</JP></SC> in <JP>happyokai</JP> in Japanese. <F>Umm</F> but my friends really enjoy doing ballet so I got influenced from her. So <SC>I'm examining</SC> <F>ah</F> I have examined <F>urr</F> <SC>several school</SC> several class</B>
+<A><F>Uhhum</F>.</A>
+<B>for ballet, right now.</B>
+<A><F>Wow</F>. So do you want to take a lesson?</A>
+<B>Yes, I'd like to.</B>
+<A><F>Uhhum</F>.</A>
+<B>'Cause I think ballet makes <SC>our physical</SC> our body <.></.> look good. <F>Uhhum</F>.</B>
+<A>Yeah. <OL>I think so</OL>.</A>
+<B><OL>And also</OL> I think I can <.></.> remove my stress. <OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A><OL>O K, sounds good</OL>. All right. Now <H pn="B's name">XXX02</H> I'm going to show you a picture.</A>
+<B>O K.</B>
+<A>Please describe this picture.</A>
+<B><F>Urr</F>. All right. <..></..> A lady is <R>sitting</R> sitting on the chair. And in front of a lady, there is a P C, and printer. But she is not looking at P C right now. She is looking at her cats <.></.> <F>urr</F> who is sleeping on a bed. She's also keeps dog but dog is sleeping on a floor. <SC>Her</SC> <F>ah</F> <SC>the roo</SC> <SC>the door in</SC> the door of her room is open. And <F>umm</F> <.></.> what's else? <JP><F>Etto</F></JP> <F>ahh</F> there is C D player so <R>she might lis</R> she might listen to music right now. <F>Umm</F>. <.></.> She seems to like animals 'cause she has cats and dog. <R>And</R> <.></.> and that's it.</B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>Thank you</OL> <H pn="B's name">XXX02</H>.</A>
+<B><F>Uhhum</F>.</B>
+<A>Thank you. <F>Ur</F> you've mentioned about her pets. Do you have your own pet?</A>
+<B>Yes, I have ferrets.</B>
+<A><OL>What is ferrets</OL>?</A>
+<B><OL>Two ferrets</OL>.</B>
+<A>What is ferrets?</A>
+<B><F>Urr</F> ferret is <R><JP>i</JP></R> <JP>itachi</JP> <F>um</F>.</B>
+<A><F>Hmm</F>.</A>
+<B>Yes. They are very cute and it's easy to keep <R>in apart</R> in apartment 'cause they don't bark and also they hardly wake up. <nvs>laughter</nvs> Moreover, they hardly eat. <nvs>laughter</nvs> So, even I'm late at night <nvs>laughter</nvs> or even I don't care about them, they can live by themselves. So, it's very good.</B>
+<A><F>Ahh</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>That's very <OL>interesting</OL>.</A>
+<B><OL><F>Uhhum</F></OL>.</B>
+<A>And also you mentioned personal computer in the picture. Do you use computer for your work?</A>
+<B>Yes, every day.</B>
+<A><F>Hm</F>.</A>
+<B>So <SC>use</SC> but using computer makes my eye very tired. <F>Umm</F> so, but in the same time, I think, without P C, we cannot do <SC>anything</SC> any work. So P C is necessary these days.</B>
+<A><F>Uhhum</F>. I see.</A>
+<B><F>Hmm</F>.</B>
+<A>What's the advantage of using computer, for example?</A>
+<B>The advantage, for example. <F>Umm</F> advantage. For example, like making these kinds of document <SC>are</SC> <.></.> it's faster than writing. Also it's looks better than writing by person. <F>Uhhum</F>.</B>
+<A>O K. All right. Thank you <H pn="B's name">XXX02</H>.</A>
+<B><F>Uhhum</F>. <nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now we are going to do a role-play. O K. Here you are. Please read this card to yourself, and when <OL>you are ready</OL>,</A>
+<B><OL>O K</OL>.</B>
+<A>let me know. I'll begin.</A>
+<B><F>Ah</F> O K.</B>
+<ctxt>The interviewee is reading the card to herself for a while.</ctxt>
+<A>Ready?</A>
+<B><F>Um</F>. Yes.</B>
+<A>May I help you ma'am?</A>
+<B><F>Ah</F> yes. I would like to go to New York by <SC>quickest ei</SC> <F>ah</F> quickest way. <F>Urr</F> how could I get a ticket?</B>
+<A>You can buy it here.</A>
+<B><F>Urr</F> which is the quickest way and easiest way to go to New York? I need to go there immediately.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Then you can take a express train.</A>
+<B>Express train. O K. <F>Urr</F> <SC>how much was it</SC> how much is it?</B>
+<A>It's fifty dollars.</A>
+<B>Fifty dollars. O K. And how long does it take?</B>
+<A>It takes one and half hour.</A>
+<B>One and half hour. O K. Then, I'll buy that.</B>
+<A>O K.</A>
+<B><F>Uh-huh</F>. <OL>Thank you</OL>.</B>
+<A><OL>Here's your ticket</OL>.</A>
+<B><F>Ah</F> Thank you.</B>
+<A>Have a nice trip.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>All right. Thank you. Have you ever been to a foreign country?</A>
+<B><F>Ah</F> yes, I've been to the United States, Seattle and I stayed there <SC>for about seven</SC> <F>unn</F> no, for about nine months.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah. But it was <SC>six years ago</SC> <F>ah</F> no, seven years ago. And I didn't have enough money and also I wanted to <SC>concern</SC> <F>ah</F> concentrate on my English study so <SC>I didn't go the other country</SC>.</B>
+<A>I see.</A>
+<B>No, I didn't go the other area.</B>
+<A><F>Hmm</F>. How did you study English there?</A>
+<B><F>Urr</F> I went to <SC>lan</SC> E S L school. <F>Umm</F>. <F>Err</F> yes, E S L school.</B>
+<A><F>Uhhum</F>. <F>Um</F> why did you choose Seattle to go?</A>
+<B><F>Urr</F>. <.></.> Actually I asked the organization like A L C and they recommend me going to Seattle. I have never been to abroad so I just <F>err</F> listened to them</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>and decide</OL>.</B>
+<A>O K. <F>Well</F> tell me one greatest experience <OL>you had there</OL>.</A>
+<B><OL><F>Ah</F> one</OL> greatest. <F>Urr</F>. <.></.> Great experience. I think meeting <F>urr</F> many kinds of people from many different countries was the greatest experience for me 'cause I could make lot of friend. I don't think I cannot make such many friend from many different country in Japan. So, that was the greatest experience for me.</B>
+<A><F>Hmmm</F>. <OL>O K</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Thank you <H pn="B's name">XXX02</H>.</A>
+<B>Thank you.</B>
+<A>Now we can do a sequence of pictures now.</A>
+<B>O K.</B>
+<A>All right. Please make up a story based on these pictures from one to six. And it happened before.</A>
+<B>One to six?</B>
+<A>Yes. One to six, so this is in order. And this happened before.</A>
+<B>Yes.</B>
+<A>So please start your story with "One day last week". Go ahead.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Umm</F> one day last week <SC>my father</SC> <.></.> <F>ur</F> maybe my father went to his work <.></.> as usually he does. <R>He goes</R> he goes to the station first, and on a platform, there are <R>many</R> many people. So unfortunately he dropped the bag on a rail <SC>by bumping</SC> by being bumped by the other person. And <SC>he</SC> my father really got angry with the person <R>who</R> who <R>bump</R> bumped him. <.></.> And <.></.> <SC>the wor</SC> the things got worse. While <SC>he was arg</SC> he was complained about dropping the bag on the rail to the person bumped him, the train came over and <R>his bag</R> <F>urr</F> his bag was hitted on the train. But <R>after he</R> <F>ah</F> <SC>after the train goes</SC> after the train passed by, he found out the bag was safe 'cause the bag fortunately was on the middle of the rail. So <SC>the train</SC> the wheel of the train didn't <.></.> smash.</B>
+<A><F>Uhhum</F>.</A>
+<B>What <SC>did</SC> could I say, didn't smash his bag. Then, finally, <.></.> <SC>the man</SC> the staff in the <R>train station</R> <F>urr</F> <.></.> train station got his bag from the rail. And he could receive his own bag safely.</B>
+<A>O K. <OL>Thank you <H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A>All right. Thank you. So do you take a train to come to this office?</A>
+<B>Yes.</B>
+<A>Do you have any problems or troubles</A>
+<B><OL><F>Umm</F></OL>.</B>
+<A><OL><SC>in</SC> during</OL> rush hour train?</A>
+<B>No, not specially, but I'm really scared about the accident <R>at</R> at Shin Okubo. Yes.</B>
+<A>What did you think about it?</A>
+<B>Yes. <F>Urr</F> I was very sorried about two men who were trying to help drunk man and hitted by train 'cause <F>umm</F> <.></.> I don't know if I could do it if I were there. So they are very brave. <F>Ah</F> <SC>they have very</SC> they have really good courage. And also <SC>they</SC> I admire them a lot.</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Umm</F> but <SC>looking</SC> <F>urr</F> <SC>by looking at</SC> <F>ah</F> by watching T V <.></.> <F>urr</F> <JP>nandattakena</JP> by watching the parents from Korea by T V makes me really sad.</B>
+<A><OL>Yeah</OL>.</A>
+<B><OL><F>Umm</F></OL>.</B>
+<A>That's right.</A>
+<B>Made me really sad. <F>Umm</F>. <nvs>laughter</nvs></B>
+<A>O K. <F>Um</F> and now J R is going to make the family of the <SC>drunken man</SC> drunk man pay some money</A>
+<B><F>Ahh</F>.</B>
+<A>for other people.</A>
+<B>I didn't know that. But they should. <F>Hmm</F>.</B>
+<A><OL>You think they should</OL>?</A>
+<B><OL><F>Umm</F></OL>. I think they should.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. All right. Thank you <H pn="B's name">XXX02</H>. Now we are almost at the end of the interview.</A>
+<B>O K.</B>
+<A>Do you have any plan this weekend?</A>
+<B><F>Urr</F> this weekend. <F>Urr</F> tomorrow, I'm going to take a test of driver's license. Yeah. <nvs>laughter</nvs> I'm taking a driver's license right now. <OL><F>Umm</F></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. Why did you decide to take a driver's license?</A>
+<B><F>Urr</F> 'cause <F>umm</F> my husband has the license but he usually drink on the weekend so <SC>I</SC> I'm not comfortable sitting <SC>with</SC> beside him. So I thought if I could drive, it would be nicer. <F>Umm</F>.</B>
+<A><F>Well</F> good luck on your test.</A>
+<B>Thank you very much.</B>
+<A>And this is the end of interview. Thanks for coming today, <H pn="B's name">XXX02</H>.</A>
+<B><nvs>laughter</nvs> Thank you.</B>
+</stage5>
+</body>
+</interview>

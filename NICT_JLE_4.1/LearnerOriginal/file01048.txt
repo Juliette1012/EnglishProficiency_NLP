@@ -1,0 +1,184 @@
+<interview>
+<filename>file01048.txt</filename>
+
+<head version="1.3">
+<date>2002-03-08</date>
+<sex>male</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name <OL>please</OL>?</A>
+<B><OL><F>Um</F></OL> My name is <R><H pn="B's name">XXX02</H></R> <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A><H pn="B's name">XXX02</H>, <nvs>laughter</nvs> alright, <F>um</F> it's spring time, what do you like to do in this season?</A>
+<B><F>Er</F> <F>er</F> <R>I</R> I will <F>mm</F> <F>mm</F> <R>d</R> drive to <F>er</F> <R>a</R> any <F>er</F> <F>er</F> <R>ho</R> hot springs <R>a</R> area.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A>Tell me about a hot springs area you like.</A>
+<B><F>Mm</F> it's Hakone</B>
+<A><F>Hmm</F>.</A>
+<B>or Odawara.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A>What's good about Hakone?</A>
+<B><F>Mm</F> it's very <F>er</F> <F>mm</F> <F>mm</F> <R>go</R> good <R>co</R> condition</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <F>mm</F> <F>mm</F> very <F>mm</F> <F>um</F> <R>go</R> good for <R>s</R> <R>s</R> <R>si</R> sight.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A>So, what do you do there?</A>
+<B><F>Um</F> <F>um</F> <R>in</R> in Hakone?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <F>mm</F> it's <F>um</F> <F>um</F> <F>mm</F> <F>mm</F> <F>mm</F> <R>wi</R> winding <R>ro</R> road and <F>er</F> <F>er</F> <R>ri</R> <F>er</F> <R>ri</R> <R>river</R> <SC>river</SC> <SC>it's river</SC> there is river <F>m</F> and <F>mm</F> <SC>ma</SC> it's <F>mm</F> <R>s</R> small <R>mo</R> mountain.</B>
+<A>O K, so you like driving?</A>
+<B>Yeah. <R>Y</R> yes. I like to drive my car.</B>
+<A><F>Uh-huh</F>. Please tell me about your car.</A>
+<B><F>Er</F> my car is <F>mm</F> <F>mm</F> <SC>ja</SC> <R>li</R> light weight sports car.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It's <F>mm</F> two seater and <F>er</F> <F>mm</F> very <F>mm</F> high performance.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah <nvs>sniff</nvs>.</B>
+<A><F>Uh-huh</F>. Why do you like that car?</A>
+<B><F>Mm</F> <.></.> <F>mm</F> <F>mm</F> <SC>I</SC> <F>mm</F> it's <nvs>sniff</nvs> <nvs>cough</nvs> <F>er</F> <R>ve</R> very <F>mm</F> interesting to drive car.</B>
+<A>O K. <F>Um</F>, when you are in Tokyo, what do you like to do?</A>
+<B><..></..> <F>Mm</F> <nvs>sniff</nvs> <.></.> <F>mm</F> <R>i</R> in <OL>Tokyo</OL>?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><..></..> <F>Mm</F> <F>er</F> <R>I</R> <F>mm</F> I like <F>er</F> <F>mm</F> Kabuki-cho area</B>
+<A><F>Uh-huh</F>.</A>
+<B>to drink or eat <R>or</R> or dinner and lunch.</B>
+<A><F>Uh-huh</F>. I see. O K. Do you like working in <H pn="others1">XXX03</H>?</A>
+<B><F>Mm</F> I don't like in <H pn="others1">XXX03</H>.</B>
+<A><laughter>Why not</laughter>?</A>
+<B><F>Er</F> <F>mm</F> there is a lot of person in <H pn="others1">XXX03</H> area.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ah</F> I see. O K. Thank you. Now, I will show you a picture. Please tell me about this picture.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Er</F> <F>mm</F> <..></..> <R>the</R> there is a three house and <F>mm</F> <..></..> <F>mm</F> <R>th</R> three children <.></.> are playing near the house <nvs>sniff</nvs> and <R>ther</R> there is <R>th</R> three dogs <.></.> <F>mm</F> <F>er</F> and <.></.> <F>mm</F> <..></..> the man is reading <R>ne</R> new newspaper <.></.> and <F>er</F> <F>mm</F> <F>er</F> a cat is on the car <F>mm</F> <.></.> and <F>er</F> <.></.> <R>a</R> a man is jogging in the road. <..></..> <F>Mm</F> there is the huge tree <F>mm</F> near the house. <nvs>sniff</nvs></B>
+</task>
+<followup>
+<A>O K, thank you. <F>Mm</F> alright, so where do you live now?</A>
+<B><F>Er</F> I live in <H pn="others2">XXX04</H> City now.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A>O K. Tell me about <H pn="others2">XXX04</H>.</A>
+<B><F>Um</F>, <H pn="others2">XXX04</H> City is <F>er</F> <.></.> <F>mm</F> <F>er</F> <nvs>sniff</nvs> <.></.> <R>in</R> in the <R>Ta</R> <H pn="others3">XXX05</H> area. <F>Mm</F> <F>er</F> it's <R>take</R> take about <F>er</F> one hour <SC>for</SC> <R>f</R> <R>from</R> from <H pn="others1">XXX03</H> to <R>Ina</R> <H pn="others2">XXX04</H>.</B>
+<A><F>Oh</F>.</A>
+<B>Yeah.</B>
+<A>I see. Do you like the area?</A>
+<B>Yes, <R>I</R> I like this area.</B>
+<A><F>Hum</F>. O K. <F>Um</F>. What is the difference between <H pn="others2">XXX04</H> and <SC>this pic</SC> this area in the picture?</A>
+<B><F>Mm</F> <..></..> it <R>see</R> seems likes same area to <H pn="others2">XXX04</H> City.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah.</B>
+<A>In what way?</A>
+<B><F>Um</F> <F>er</F> <F>mm</F> there is a <R>n</R> not <F>um</F> <R>lo</R> lot of <R>pe</R> people and <F>er</F> <SC>it's</SC> <SC>it is</SC> it's not <F>er</F> <F>mm</F> <..></..> <R>tra</R> traffic.</B>
+<A><F>Mm</F>, <OL>I see</OL>.</A>
+<B><OL><F>Um</F></OL> yeah. <OL><nvs>sniff</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL>O K</OL>, thank you. Now, we're going to do a role-play and please read this card and when you're ready, tell me. I will start.</A>
+<ctxt>The interviewee is reading the card and thinking.</ctxt>
+<A>O K?</A>
+<B><..></..> O K.</B>
+<A>Alright. May I help you sir?</A>
+<B><F>Oh</F> <..></..> <R>I'd</R> I'd like to <F>mm</F> <.></.> find <F>er</F> shoes.</B>
+<A>O K.</A>
+<B><F>Er</F> <F>mm</F> <R>i</R> is there a walking shoes?</B>
+<A>Of course.</A>
+<B><F>Er</F> <R>my</R> my foot size is twenty-six centimeter.</B>
+<A><F>Uh-huh</F>. Yeah, we have two or three kinds of walking shoes.</A>
+<B><F>Mm</F> <F>er</F> <R>what</R> what kind of walking shoes. <F>Umm</F> <.></.> <F>e</F> <.></.></B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A><F>Um</F>, two of them are for city walking, one is for nature walking.</A>
+<B><F>Mm</F> <F>er</F> I want shoes for city walking.</B>
+<A>O K. So we have two.</A>
+<B>Two shoes.</B>
+<A>Two types.</A>
+<B>Two types. <F>Er</F> <.></.> what color is <F>er</F> <R>w</R> walking shoes?</B>
+<A><F>Uh-huh</F>. <F>Um</F> they come in three colors.</A>
+<B>Three colors. <R>Three</R> three colors.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>What</R> what kind of color is <F>er</F> walking shoes?</B>
+<A><F>Uh-huh</F>, white or black or red.</A>
+<B><F>Er</F> <..></..> <F>er</F> <F>mm</F> I choice black type.</B>
+<A>O K. Alright, so <.></.> you want this one?</A>
+<B>Yeah.</B>
+<A>O K.</A>
+<B>How much is <F>er</F> this <R>wa</R> walking shoes?</B>
+<A><F>Uh-huh</F>. It's ten thousand yen.</A>
+<B><.></.> O K.</B>
+<A>Alright?</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>O K, so thank you very much. <nvs>laughter</nvs> This is the end of the role play. <F>Mm</F> <..></..> so do you like buying shoes? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><R>Buying</R></OL> buying shoes?</B>
+<A>Buying shoes?</A>
+<B>Buying shoes. I don't know.</B>
+<A>Do you go buy shoes?</A>
+<B><F>Ah</F>.</B>
+<A>Sometimes?</A>
+<B>Yeah. <.></.> <F>Er</F> <.></.> <R>I</R> I <R>g</R> go to buy <F>er</F> <F>er</F> walking shoes.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <F>mm</F>.</B>
+<A>What is important when you buy something? Buy <OL>shoes</OL>.</A>
+<B><OL><F>Mm</F></OL> <F>er</F> <R>it's</R> <F>mm</F> <.></.> it's <F>er</F> <R>ty</R> type and <F>er</F> color.</B>
+<A><F>Uh-huh</F>. I see. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you. Now, I'm going to show you another picture. Here you go. There are four pictures. One, two, three, four and please make a short story.</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><F>Er</F> it's <R>al</R> <R>all</R> <F>er</F> <.></.> <R>all</R> all number?</B>
+<A><F>M</F>? One, two, <OL>three, four</OL>.</A>
+<B><OL>Three four</OL>.</B>
+<A>Yes. Make a story.</A>
+<B><F>Uh</F>, make a story.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>sniff</nvs> <F>Mm</F>.</B>
+<ctxt>The interviewee is looking at the picture sequence.</ctxt>
+<B>Three people is <F>er</F> getting a ticket movie in the theater <.></.> and <F>mm</F> <.></.> <F>mm</F> <..></..> three children is buying a <F>er</F> <F>mm</F> <.></.> <R>ju</R> juice and popcorn <..></..> <F>er</F> <.></.> in the shop. <F>Er</F> it's one sentence?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <nvs>sniff</nvs> <.></.> <F>er</F> <.></.> <F>mm</F> <..></..> <F>er</F> <.></.> <F>er</F> <.></.> <R>the</R> they are watching a <R>mo</R> movie in the theater <.></.> <F>er</F> with eating the <R>fren</R> french <nvs>sniff</nvs> and juice <nvs>sniff</nvs> <..></..> <F>mm</F> <.></.> it <R>see</R> seems that <F>mm</F> they are very interesting to watch the <R>mo</R> movie <.></.> in this time.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you. Now, we are almost finished with this interview.</A>
+<B>Yeah.</B>
+<A><F>Hum</F>, are you going to go driving tomorrow?</A>
+<B><F>Oh</F>. Yes, of <OL>course yeah</OL>.</B>
+<A><OL>Yeah</OL>? <F>Hum</F> where?</A>
+<B><F>Er</F> <F>mm</F> <R>it's</R> it's <R>may</R> maybe Yokohama <OL>Bay</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. Nice.</A>
+<B>Thank you.</B>
+<A><nvs>laughter</nvs> Alright. So I hope you have a great <SC>time</SC> nice weekend.</A>
+<B>Yeah.</B>
+<A>Alright?</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

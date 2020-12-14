@@ -1,0 +1,220 @@
+<interview>
+<filename>file00582.txt</filename>
+
+<head version="1.3">
+<date>2001-06-22</date>
+<sex>male</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>480</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>For the record, can I have your name?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. So, can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>O K. Nice to meet you.</A>
+<B>Nice to met you.</B>
+<A>So, how are you today?</A>
+<B><F>Oh</F> <SC>I'm</SC> I had a headache.</B>
+<A><F>Oh</F>.</A>
+<B><F>Er</F>. I feel <F>er</F> <.></.> flu.</B>
+<A><F>Hum</F>. O K. All right. So, <H pn="B's name">XXX01</H>, where do you live?</A>
+<B>I live in <H pn="others1">XXX02</H>.</B>
+<A><F>Um</F>. Which part of <H pn="others1">XXX02</H> do you live?</A>
+<B><F>Er</F>. <R><H pn="others2">XXX03</H></R> <H pn="others2">XXX03</H>.</B>
+<A><F>Um</F>. So, how do you come here?</A>
+<B><F>Err</F>. <SC>I go</SC> <F>er</F> I come here <F>er</F> by train.</B>
+<A><F>Hum</F>. Is it very crowded?</A>
+<B><R>No</R> no. <H pn="others3">XXX04</H> is not crowded.</B>
+<A><F>Hum</F>. It's a new line.</A>
+<B>Yes.</B>
+<A>How do you like the <H pn="others3">XXX04</H> Line?</A>
+<B><F>Um</F>. Very clean and not crowded. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. So, do you live in <H pn="others2">XXX03</H> with your family?</A>
+<B><F>Um</F> <F>err</F> <F>err</F> <F>er</F> <nvs>laughter</nvs> <F>err</F>. <SC>My girlfriend</SC> with my girlfriend.</B>
+<A><F>Hum</F>. I see. Can you tell me about your girlfriend?</A>
+<B>Pardon?</B>
+<A>Please tell me about <OL>your girlfriend</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> She is very <F>uum</F> <F>uum</F> cute but <F>um</F> very <R>scare</R> scare. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Why is she so scary?</A>
+<B><F>Um</F>. <R>She</R> <SC>she's</SC> <F>uhm</F> <SC>she is now <R>si</R> si</SC> <F>um</F> she is <SC>sicking</SC> sick now and <F>um</F> lay on the bed every day.</B>
+<A><F>Um</F>.</A>
+<B>And I make <F>um</F> foods and <F>err</F> <R>any</R> anything else.</B>
+<A><F>Uum</F>. So, are you good at cooking?</A>
+<B><F>Er</F>. <R>Sh</R> she says I'm <R>good</R> good cooking.</B>
+<A><F>Hum</F>. What kind of food do you cook?</A>
+<B><F>Err</F>. I always cook <F>umm</F> Japanese style and Chinese style food.</B>
+<A><F>Hum</F>. For example?</A>
+<B>For example, fried rice and <F>um</F> <R>vegetable</R> vegetable salad and <F>uum</F> boiled vegetables.</B>
+<A>I see.</A>
+<B><F>Um</F>.</B>
+<A>O K. So, <H pn="B's name">XXX01</H>, besides cooking, do you have any hobbies?</A>
+<B><F>Uum</F>. I like music very well. I play flute.</B>
+<A><F>Oh</F>. <.></.> So, <F>er</F> how do you practice flute?</A>
+<B><F>Err</F>. I learn flute at <H pn="school name1">XXX05</H>. <.></.></B>
+<A>Can you tell me more about the lesson?</A>
+<B><F>Uum</F>. Instrument?</B>
+<A><F>Um</F>. Lesson. How do you go to a class?</A>
+<B><F>Er</F>. Now, <.></.> <F>uum</F> don't lesson.</B>
+<A><F>Uum</F>. O K. So, do you practice it at home?</A>
+<B><R>Yes</R> yes. <F>Um</F>. She is dislike. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Why?</A>
+<B><F>Ern</F>. She says noisy.</B>
+<A><OL><laughter>Noisy O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>All right. So, first thing today.</A>
+<B>Yes.</B>
+<A>Please look at this picture.</A>
+<B>Yes.</B>
+<A>And, please describe this picture.</A>
+<B><F>Err</F> <F>uum</F> <.></.> <JP><F>unto</F></JP>. Cat sleeping on the bed. <F>Um</F>. <.></.> The woman, sitting the chair. <F>Um</F>. A computer on the desk. A typewriter <F>um</F> <SC>on the</SC> <F>er</F> beside computer. <.></.> <F>Uum</F>. The dog lay <.></.> <F>uum</F> on the carpet. <F>Uum</F>. The door open. <..></..> <F>Uum</F>. The time is nine o'clock.</B>
+<A><F>Um</F>. O K. All right.</A>
+</task>
+<followup>
+<A>So, please compare this room with the room where you live now.</A>
+<B><F>Err</F>. This room is very clean. <SC>And <F>uum</F> very</SC> <F>ee</F> <F>um</F> <..></..> <F>uum</F> <..></..> <F>er</F> <SC>my house is</SC> <F>uum</F> <..></..> I have no <SC>bed</SC> beds.</B>
+<A><F>Hum</F>. How about computer? Do you have a computer?</A>
+<B>Yes. Many. <nvs>laughter</nvs></B>
+<A>Many?</A>
+<B>Many.</B>
+<A>Why do you have <laughter>so many computers</laughter>?</A>
+<B><F>Err</F>. <.></.> <SC>For work</SC> for job and <R>for</R> for hobbies.</B>
+<A><F>Hum</F>.</A>
+<B>My computer and my girlfriend's computer.</B>
+<A><F>Hum</F>. So, what do you use the computers for?</A>
+<B><F>Uum</F>. For E-mail and looking keyword from web site.</B>
+<A><.></.> I see. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. So, next, let's try a role play. <.></.> Please read this card, and when you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? Are you ready?</A>
+<B>Yes.</B>
+<A>All right. Good afternoon, sir. How may I help you?</A>
+<B><F>Er</F>. I want to go to New York. <SC>Whi</SC> <F>uum</F> <F>um</F> <..></..> <F>er</F> how much?</B>
+<A><F>Um</F>. <F>Er</F> it depends on the types of the train.</A>
+<B><F>Oh</F>. <F>Err</F>. <.></.> I go to New York as soon as possible.</B>
+<A><F>Hum</F>.</A>
+<B>What kind of train? <F>Mm</F>. <.></.></B>
+<A><F>Um</F> <F>err</F>. Maybe, you should take the super express train.</A>
+<B><F>Err</F>. <R>Ex</R> expensive? How much?</B>
+<A><F>Er</F>. It's two hundred dollars.</A>
+<B>Two hundred dollars. <F>Uum</F>. O K.</B>
+<A>O K?</A>
+<B>O K. <R>One</R> <R>one person</R> <laughter>one preson</laughter>.</B>
+<A><laughter>O K all right</laughter>. Here is your ticket.</A>
+<B><F>Uhu</F>. Thank you.</B>
+<A>O K. Have a nice trip.</A>
+<B>Thank you.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>So, have you been to New York?</A>
+<B>No.</B>
+<A><F>Uum</F>. O K. Have you been abroad?</A>
+<B>Yes. <OL>Many times</OL>.</B>
+<A><OL>Which</OL> is your favorite city?</A>
+<B><F>Er</F>. I like <F>uum</F> <?>Kotakinabara</?>.</B>
+<A><F>Err</F>. Can you tell me about that place?</A>
+<B>This is a Malaysia. <F>Err</F>. Airport is located on the reef. The airplane landed <F>er</F> besides the reef. It looks like <F>erm</F> landing sea.</B>
+<A><F>Hum</F>.</A>
+<B>Very beautiful.</B>
+<A><F>Um</F>. And, what did you do there?</A>
+<B><F>Um</F>?</B>
+<A>What did you do?</A>
+<B><F>Um</F>. Transit only.</B>
+<A><F>Hum</F>.</A>
+<B>No <F>er</F> exit.</B>
+<A><F>Hum</F>. O K. So, do you have any plans for summer?</A>
+<B>Plans?</B>
+<A><F>Um</F>. Plans for summer vacation?</A>
+<B>This summer? <R>No</R> no plans. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Because my girlfriend is sick.</B>
+<A><F>Ahh</F>.</A>
+<B>Yes.</B>
+<A>O K. So, <F>err</F> what do you do to make her relax?</A>
+<B><F>Uum</F>. Make <F>ehh</F> good, delicious food and delicious <F>uhm</F> cake.</B>
+<A><F>Wow</F>. Do you bake cake, too.</A>
+<B><R>Yeag</R> yeah. Yes.</B>
+<A><F>Wow</F>. <nvs>laughter</nvs> O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So, lastly, <.></.> O K, <F>uum</F> please look at this picture. There are six pictures from one to six. And, please make up a story based on these pictures. And this happened before. So, please start your story with "One day last week".</A>
+<B>Last week, <F>uum</F> <.></.> <F>uum</F> two person <F>uum</F> <SC>walk</SC> walked <F>uum</F> <.></.> <SC>on the</SC> <F>ee</F> <.></.> <SC>at <F>uum</F> street</SC> <F>oh</F> at the street. <.></.> When <F>uum</F> something <.></.> hearing. <.></.> <F>Uum</F> it is <.></.> <F>uum</F> kitty. <.></.> The girl <.></.> <SC>is</SC> <F>uum</F> like kitty, and <R>he</R> he take <.></.> it, <F>uum</F> but <F>uum</F> <R>her</R> her boyfriend is <laughter>confusing</laughter>. Maybe he is dislike cat. <nvs>laughter</nvs> <F>Uum</F>. <SC>But <F>er</F> he</SC> <F>uum</F> <F>uum</F> but they <F>uum</F> carried it and <F>uum</F> back home. <.></.> <laughter>O K</laughter>.</B>
+<A>O K. All right.</A>
+</task>
+<followup>
+<A>Do you like animals?</A>
+<B><F>Er</F>. Yes.</B>
+<A><F>Um</F>. So, what do you think is the advantage of keeping a pet?</A>
+<B><F>Err</F>. I feel <F>uum</F> <F>uum</F> conversation is increase <SC>for</SC> <F>err</F> because <F>um</F> pet is <F>uum</F> <.></.> very <.></.> interesting and strange <.></.> <OL>every day</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. Have you ever had a pet?</A>
+<B>Yes.</B>
+<A><F>Um</F>. What did you have?</A>
+<B><F>Um</F>. <R>I</R> I have a cat. <F>Um</F>.</B>
+<A>Can you tell me more about the cat?</A>
+<B><F>Uum</F>. This <SC>cat is</SC> <F>uum</F> <F>um</F> <SC>it</SC> <F>um</F> <.></.> cat is <F>uum</F> like a <F>uum</F> <R>hu</R> human.</B>
+<A><F>Hum</F>.</A>
+<B><R>She</R> <SC>she</SC> he feel I'm a human, and he think <.></.> me <F>uum</F> her mother. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><R>I</R> I don't understand. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> So, what kind of things did you do with the cat?</A>
+<B><F>Um</F>? Sorry? <OL>Pardon</OL>?</B>
+<A><OL>What did</OL> you do with the cat?</A>
+<B><F>Err</F> <F>uum</F>. Playing <F>uum</F> cat play.</B>
+<A><F>Hum</F>. What is that?</A>
+<B><F>Ee</F>. <.></.> <F>Uum</F>. Small sticks hanging on <SC>the insect</SC> like insect instrument, <F>umm</F> so moving <.></.> <F>um</F> cats play. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I do not explain. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <laughter>O K</laughter>.</A>
+<B>Sorry.</B>
+<A>Do you want a cat now?</A>
+<B><F>Err</F>. I <R>want</R> want, but she is <OL>dislike animal</OL>.</B>
+<A><OL><F>Hum</F></OL>. O K.</A>
+<B>Sorry.</B>
+<A><nvs>laughter</nvs></A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So we have come to almost the end of the interview. So, what time do you usually go home?</A>
+<B>I usually go home at <F>uum</F> six o'clock.</B>
+<A><F>Um</F>. And, do you cook almost every day?</A>
+<B>Every day.</B>
+<A><F>Hum</F>. <F>Wow</F>. So, what are you going to cook tonight?</A>
+<B>Yes. <F>Er</F>. <SC>I</SC> <F>uum</F> today is bake a pizza.</B>
+<A><F>Oh</F>. Do you bake a pizza?</A>
+<B>Yeah, yes.</B>
+<A><F>Wow</F>. You are so <laughter>professional</laughter>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Very easy.</B>
+<A><F>Oh</F> really? Are you going to use frozen pizza?</A>
+<B><R>No</R> <R>no</R> no.</B>
+<A>Real one?</A>
+<B>Real one.</B>
+<A><F>Wow</F>. O K.</A>
+<B>About thirty minutes.</B>
+<A><F>Oh</F>. <F>Hum</F>. Interesting. O K. Thank you very much for coming. This is the end of the interview.</A>
+<B>Thank you.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,170 @@
+<interview>
+<filename>file00294.txt</filename>
+
+<head version="1.3">
+<date>2001-02-22</date>
+<sex>female</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>3</step>
+<TOEIC>680</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. O K. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Nice to</OL> meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A>O K. Thank you for coming today.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Ur</F></OL> where did you come from today?</A>
+<B><F>Uhm</F> <.></.> in the morning, I went to <H pn="school name1">XXX03</H>.</B>
+<A><F>Uhm</F>.</A>
+<B>And I was <laughter>studying</laughter>, and <.></.> <R>af</R> after that <R>I</R> <.></.> <R>I'm</R> <.></.> I'm coming <.></.> here.</B>
+<A>I see. What did you do at <H pn="school name1">XXX03</H> today?</A>
+<B><F>Uhmm</F>. <.></.> We did debate about <.></.> <R>se</R> sex <SC>on</SC> <F>uh</F> of advertise.</B>
+<A><F>Uh-huh</F> I see. Right. And where do you live, <H pn="B's name">XXX02</H>?</A>
+<B><F>Uhm</F> <.></.> <F>er</F> <H pn="others1">XXX04</H>.</B>
+<A><F>Uh-huh</F>. Where in <H pn="others1">XXX04</H>?</A>
+<B><.></.> <H pn="others1">XXX04</H> is <.></.> in <H pn="others2">XXX05</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <nvs>laughter</nvs> Near by <H pn="others3">XXX06</H> River.</B>
+<A><F>Ohh</F> I see. Do you live there with your family?</A>
+<B>No. <R>I</R> I live <.></.> by myself.</B>
+<A><F>Uh-huh</F>. Where does your family live?</A>
+<B>My family lives in <H pn="others4">XXX07</H>.</B>
+<A><F>Uhm</F>.</A>
+<B><H pn="others4">XXX07</H> City in <H pn="others4">XXX07</H> <JP>ken</JP>.</B>
+<A><F>Uh-huh</F>. Can you tell me about your family?</A>
+<B><F>Uh-huh</F>. My family is my father and mother and my sister and me. My father and mother lives together in <H pn="others4">XXX07</H>. And my sister lives in <H pn="others2">XXX05</H>, <H pn="others5">XXX08</H>.</B>
+<A><F>Ohh</F> I see. Do you often see your sister?</A>
+<B>Not so much.</B>
+<A><F>Uh-huh</F>. What does your sister do?</A>
+<B>She is working at <.></.> <SC>publishing <.></.> office</SC></B>
+<A><F>Uhmm</F> I see. Right.</A>
+<B><SC>company</SC> publishing company.</B>
+<A>I see. And what do you do in your free time then?</A>
+<B><nvs>laughter</nvs> Like <F>uhm</F> on <R>Sat</R> Saturday or Sunday?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Sometimes <R>I</R> <.></.> <R>I go</R> I go to shopping with my friend.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Sometimes I <.></.> go to <R>li</R> library to study English. <F>Uhm</F> sometime I stay at home, <R>cook</R> <F>uhm</F> <SC>cooking</SC> <F>er</F> <R>doing</R> <R>doing</R> doing cooking, or watching T V, or listening to music.</B>
+<A><F>Uhmm</F> I see. That's nice. O K. Where do you go shopping?</A>
+<B><F>Uhmmm</F>. <.></.> Different places. I like <.></.> Omote-Sando <.></.> or Ginza.</B>
+<A><F>Uhm</F> I see. What is good about Omote-Sando?</A>
+<B><F>Uhm</F> there, <F>uhm</F> <.></.> fancy shop <SC>for</SC> of clothes, and <R>there</R> there are good restaurant, cafe or other shops <R>to</R> <.></.> <SC>to</SC> <F>er</F> for shopping.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhmm</F> I see. O K. Thank you very much. O K. Now, <H pn="B's name">XXX02</H>, first of all, I want you to look at this picture.</A>
+<B>Yes.</B>
+<A>O K? And tell me what you see in this picture.</A>
+<B>I can see <R>three</R> <.></.> three people in middle. One is maybe he is sommelier and <.></.> other two people are, <.></.> I imagine they're <.></.> <SC>couple</SC> couples. And <.></.> the man is <.></.> <SC>chatting</SC> talking, <F>uhm</F> having <.></.> wine glass in his hand. And woman is listening. <F>Uh</F> <nvs>laughter</nvs> I think he's <.></.> talking about wine which sommelier <.></.> has <F>uhm</F> <.></.> <F>uhm</F> asking <nvs>laughter</nvs> about wine, and woman is just listening. <F>Uhm</F>. <.></.> And <R>other</R> <.></.> other people, <.></.> they're eating. And another table, <F>uhm</F> he's serving, <.></.> and <laughter>they're waiting</laughter>. And she is playing piano. <F>Uhmm</F>. And <SC>seven now</SC> <SC>time</SC> <F>uhm</F> it's seven o'clock.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K. Thank you. <F>Urr</F> so do you like drinking wine yourself?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A>I see. Can you tell me the last time you had wine?</A>
+<B><F>Urm</F> I had wine <.></.> maybe last time was <SC>at Shinjuku Park Hyatt</SC> at Park Hyatt Hotel. And I drank maybe red wine, and it was <F>hmm</F> soft and <.></.> <R>easy</R> easy <laughter>to drink</laughter>. <SC>I like</SC> I liked it.</B>
+<A>I see. Was it a special occasion?</A>
+<B><F>Uhm</F> <.></.> a little bit. <nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. Thank you very much. O K, now, let's do a role play. I want you to read, O K, this card. O K? And when you're ready, I'll start.</A>
+<B><R>I</R> <R>I</R> I can talk anything?</B>
+<A><F>Uh-huh</F>. Yes. This is the situation.</A>
+<B><F>Urr</F>. <..></..> <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Are you ready</OL>?</A>
+<B><R>Ye</R> yes.</B>
+<A>O K. <F>Er</F> hello?</A>
+<B>Hello. <F>Ur</F> <R>would you like <.></.> to go</R> <.></.> would you like to <SC>go <.></.> to the wa</SC> <SC>go to the</SC> go to movie together on Sunday?</B>
+<A>Sure.</A>
+<B><F>Urm</F> <SC>I want <R>to</R> <.></.> to see</SC> <.></.> <nvs>laughter</nvs> I want to see <.></.> <F>er</F> <.></.> <nvs>laughter</nvs> "Piano Lesson".</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <R>how</R> how do you think about it?</B>
+<A>Sounds good.</A>
+<B>Good? <R>So <.></.> let's</R> so <R>let's</R> let's go. And <R>how</R> <F>uhm</F> how about <.></.> the <R>time</R> <F>urm</F> <.></.> time <SC>to meet appointment</SC> to meet? <F>Urrm</F> <.></.> I suggest <.></.> one o'clock is best time to go to the movie.</B>
+<A>Sure.</A>
+<B><F>Urr</F>. <..></..> <nvs>laughter</nvs> <R>I</R> <SC>I will</SC> <F>uhm</F> so how do you think it, <R>I</R> <.></.> I will <R>go</R> <.></.> go to your house by car and I'll pick you up.</B>
+<A><F>Oh</F> that's nice.</A>
+<B>So I will go to your house at twelve o'clock <OL><R>and</R></OL></B>
+<A><OL>O K</OL>.</A>
+<B><.></.> and movie will begin at one o'clock.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> So <SC>how</SC> <.></.> it is good?</B>
+<A>O K. Sounds good. O K. So I'll be waiting for you at my place at twelve.</A>
+<B>O K.</B>
+<A>O K. See you then.</A>
+<B>See you.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. O K. So do you often go to see movies?</A>
+<B>Yeah, <OL>yes</OL>.</B>
+<A><OL>I see</OL>. What kind of movies do you go to?</A>
+<B><F>Uhmm</F>. Last time I watched, <F>uhmm</F> <SC>Do</SC> <F>uhm</F> <.></.> <SC>it</SC> <.></.> Jim Carrey,</B>
+<A><F>Uhm</F>.</A>
+<B><R>was</R> <.></.> <nvs>laughter</nvs> <laughter>was in</laughter>. <.></.> It was comedy and very funny. But <.></.> <F>uhm</F> <SC>not</SC> I thought not just comedy,</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>it has a lot of</SC> <.></.> <F>uhmm</F> <.></.> it has lot thing <SC>to</SC> I <.></.> want to think about <.></.> that.</B>
+<A>Can you give me an example?</A>
+<B><F>Err</F>. <.></.> <F>Uhmmm</F> <.></.> <laughter>example</laughter>?</B>
+<A>What does it make you think about?</A>
+<B><.></.> The movie?</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <F>Uhmm</F> it was <.></.> almost funny, but <.></.> it was just serious, I think. Because <.></.> <F>uhm</F> Jim Carrey was <.></.> main person and <SC>he is troubled with his</SC> <.></.> <F>uhm</F> in him, <.></.> there are two person in him and <.></.> he's troubled. And, <.></.> <F>uhmm</F> he want to seek <SC>his</SC> <.></.> himself, truth. <F>Uhmm</F> <.></.> I thought it <.></.> is <.></.> related with <.></.> identification.</B>
+<A><F>Hmmm</F>.</A>
+<B>So it was <.></.> interesting for me.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. Right. Thank you very much, <H pn="B's name">XXX02</H>. O K. Then, last activity today, I want you to look at this picture. <.></.> O K?</A>
+<B>Yes.</B>
+<A>And make a story using the pictures from one to six.</A>
+<B>Yes.</B>
+<A>O K? Make a story starting with "One day last week,"</A>
+<B>O K. One day last week, <F>uhm</F> <.></.> they are <.></.> couple and they are walking together in rainy day. And <SC>some</SC> <.></.> <SC>there's some</SC> <.></.> there's a box and, <.></.> <F>uhm</F> some sound <.></.> is coming from box. So the man notice that, and <.></.> he said, <.></.> "Can you hear something?". And woman <R>found</R> found a box and <.></.> <SC>open</SC> opened it. <SC>And</SC> <SC>so</SC> <F>urr</F> <F>urr</F> and she found the cat. <.></.> <F>Uhm</F> she said, "Maybe <.></.> she <.></.> is lost. <.></.> Someone <R>throw</R> throw her.". And she says, "I want this cat. I want to take this cat to our home.". <F>Uhm</F> but the man <.></.> is thinking how should we do. <F>Uhm</F> <SC>she</SC> <F>er</F> <R>he</R> he said, "<R>We can't</R> <.></.> we can't <SC>her</SC> take her back <SC>at</SC> to home because <R>we're</R> we're poor.". <laughter><SC>So</SC></laughter> but she said, "But <.></.> <SC>I don't want <R>to</R> <.></.> to</SC> <.></.> I don't want to leave her here because she's very <F>uhm</F> <.></.> poor.". <SC>So the man</SC> <.></.> <F>uhm</F> <.></.> so he <.></.> <R>admitted <.></.> her</R> <.></.> <F>uhm</F> admitted her <R>o</R> <laughter>opinion</laughter>. So at last, <R>they</R> <.></.> they went their home with cat together.</B>
+</task>
+<followup>
+<A>I see. O K. Happy ending.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>O K. So <H pn="B's name">XXX02</H>, have you ever had a pet?</A>
+<B>Yes.</B>
+<A>Can you tell me about the pet?</A>
+<B>In <H pn="others4">XXX07</H>, <F>uhm</F> <.></.> <R>we</R> <SC>we</SC> my family have a dog. <R>He</R> <.></.> <R>he</R> he is <R>white</R> white terrier and his name is Jimmy. <F>Uhm</F> <SC>I can</SC> I can't remember how old is he, but <.></.> <F>uhm</F> maybe seven years old or <.></.> so. <F>Uhm</F>.</B>
+<A>I see. And you lived with him, too?</A>
+<B><F>Mhm</F>?</B>
+<A>You lived with him, too?</A>
+<B>No. Now I live in <H pn="others2">XXX05</H> and <R>he</R> he lives with my family <SC>at</SC> in <H pn="others4">XXX07</H>.</B>
+<A>I see. So <SC>what is</SC> what do you think is good about keeping a dog?</A>
+<B><R>I</R> <R>I</R> I like it because <.></.> it's my dog, my family <.></.> have more conversation <.></.> and smooth <.></.> relationship. And <.></.> <F>uhm</F> <SC>we</SC> <.></.> I think, <R>we</R> we are getting closer. <laughter>And</laughter> <R>no</R> not just for <SC>my</SC> our dog, but <.></.> we are happy <R>with</R> with him.</B>
+<A>I see.</A>
+<B><F>Uhm</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. That's a nice story. O K. Thank you very much. O K. This is almost the end of the interview. O K, so <H pn="B's name">XXX02</H>, after this, what are you going to do today?</A>
+<B><F>Uhmm</F> <R>I</R> I'm coming here with my friend. And <.></.> <F>uhmm</F> <SC>not we are</SC> <.></.> not we <.></.> talked about what we will do after this test. I want to go, <.></.> <F>uhm</F> Kichijoji or Shimokitazawa <SC>to</SC> for <R>plea</R> pleasure,</B>
+<A><F>Ahh</F> I see.</A>
+<B><nvs>laughter</nvs> after this test.</B>
+<A>Right. O K. I hope you have a nice time with your friends.</A>
+<B>Yeah, yes.</B>
+<A>O K. This is the end. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+<B>Thank you very much.</B>
+<A>O K. Right. Good. The end. O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

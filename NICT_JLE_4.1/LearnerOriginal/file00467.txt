@@ -1,0 +1,169 @@
+<interview>
+<filename>file00467.txt</filename>
+
+<head version="1.3">
+<date>2001-06-06</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>675</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><F>Eh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><laughter>O K</laughter>.</B>
+<A>O K. So how are you today, <OL><H pn="B's name">XXX02</H></OL>?</A>
+<B><OL><F>Ee</F></OL> <F>er</F> <F>mm</F> <F>mm</F> a little tired. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>A little tired</laughter></OL>? O K. Do you work in this building, <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> not. I work in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Err</F> I see. How did you come here today?</A>
+<B><F>Ee</F> <SC>how did you</SC> <SC>ho</SC> <F>um</F> <.></.> <F>er</F> excuse me, one <laughter>more time please</laughter>.</B>
+<A>O K. How did you come to this office?</A>
+<B><F>Er</F> <F>ee</F> I take a <H pn="others2">XXX04</H> railway and <H pn="others3">XXX05</H> subway.</B>
+<A>I see. <F>Uhu</F> O K. Do you live in <H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Uhu</F>. Is it a good place to live?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><F>Hum</F> tell me more about <H pn="others1">XXX03</H>.</A>
+<B><F>Uum</F> <.></.> <F>err</F> I entered this company <R>th</R> three years ago. <F>Er</F> <SC>I</SC> <F>ee</F> <SC>three years</SC> <R>th</R> <F>mm</F> <F>eh</F> three years ago <JP>dakara</JP> <F>uum</F> <??></??> <.></.> <F>uum</F> <JP>muzukashiina</JP> <nvs>laughter</nvs> <??></??> <.></.> <??></??> <SC>I can</SC> <F>mm</F> <F>er</F> I don't. <.></.> <F>Uh</F> <F>mm</F> <??></??> <.></.></B>
+<A>O K. All right. Then <F>er</F> do you live in <H pn="others1">XXX03</H> with your family?</A>
+<B>No. <SC>I'm li</SC> <SC>I'm</SC> I live in dormitory.</B>
+<A><F>Err</F> I see. Dormitory.</A>
+<B>Yes.</B>
+<A>O K. Then, where do your parents live?</A>
+<B><F>Ee</F> my parents live in <H pn="others4">XXX06</H>.</B>
+<A><F>Er</F> I see. <H pn="others4">XXX06</H>.</A>
+<B>Yes.</B>
+<A><F>Uhu</F> <F>mm</F> then, tell me about your parents.</A>
+<B><F>Mm</F> my father <F>er</F> work in <H pn="others5">XXX07</H> <R>near</R> <laughter>near</laughter>. <F>Er</F> My mother <F>ee</F> not <laughter>working</laughter>. <F>Eh</F> and my brother, I have one brother, and my senior brother, <F>er</F> work in <H pn="others6">XXX08</H>.</B>
+<A><F>Wow</F> in <H pn="others6">XXX08</H>?</A>
+<B>Yes. <SC>And my</SC> <F>er</F> I'm <R>second</R> <F>um</F> second. <JP>Kana</JP>. <F>Uh</F>. <nvs>laughter</nvs></B>
+<A><F>Hm</F> do you sometimes get together?</A>
+<B><F>Err</F> once a month. <nvs>laughter</nvs></B>
+<A>Once <OL>a month</OL>?</A>
+<B><OL>A month</OL>.</B>
+<A><F>Uhu</F> where do you meet?</A>
+<B><F>Er</F> <F>er</F> weekend, I go to my house.</B>
+<A>That's great. O K. And by the way, <H pn="B's name">XXX02</H>-<JP>san</JP>, do you have any hobbies?</A>
+<B>Yes. I play soccer and golf and <..></..> <F>er</F> others. <nvs>laughter</nvs></B>
+<A><F>Oh</F> soccer.</A>
+<B>Yes.</B>
+<A><F>Uhm</F> where do you play soccer?</A>
+<B><F>Er</F> I'm defence.</B>
+<A><F>Uhu</F>. And where do you <OL>practice</OL>?</A>
+<B><OL><F>Er</F> yes</OL>. <F>Uum</F> <.></.> <??></??> <F>uh</F> <F>uhm</F> in <R><H pn="others1">XXX03</H></R> <F>er</F> <H pn="others1">XXX03</H>, <F>um</F> my company have <F>er</F> <F>ur</F> private field in <H pn="others1">XXX03</H>. And my soccer team in <laughter>company's team</laughter> is play soccer <R>o</R> on <R>Su</R> Sunday or Saturday.</B>
+<A><F>Err</F> I see. That's great. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like to show you one picture.</A>
+<B>Yes.</B>
+<A>O K. Please look at this and tell me about the picture.</A>
+<ctxt>The interviewee is looking at the picture and thinking.</ctxt>
+<B><F>Urn</F>. <JP>Hito kore hitotsuzutu kotaete ikeba</JP>.</B>
+<A><F>Oh</F> anything is O K. Just tell me about the picture.</A>
+<B><F>Uh</F> <F>oh</F> <F>er</F> <R>she s</R> she sits the chair and indicate the personal computer. <F>Er</F> the dog and cats are sleeping. And the cat is on the bed. <F>Uum</F> <JP>ato naniga arukana</JP>. The door is open. <F>Urn</F>. <..></..></B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>So you said you live in a dormitory.</A>
+<B>Yes.</B>
+<A>O K. <SC>Is the <F>er</F> room</SC> is your room in a dormitory different from this picture?</A>
+<B><F>Err</F> no. <F>Err</F> a little difficult but as <F>er</F> almost the same.</B>
+<A><F>Hum</F> so what's the difference?</A>
+<B><F>Er</F> my personal computer is <laughter>laptop</laughter>. And my room have sink but not <laughter>oven</laughter>.</B>
+<A><F>Er</F> I see. O K. All right. Then, <.></.> <F>er</F> what do you do with your computer?</A>
+<B><F>Uum</F> I'm <.></.> <JP><??></??> mukashi, mukashi, mukashi te nanteiundaka chotto wasuremasita</JP>. <nvs>laughter</nvs> <SC>I</SC> <SC>my favorite</SC> my most favorite hobby is computer. So I built a desktop <laughter>computer</laughter> <F>er</F> two or three years ago. But now, I tired <F>er</F> <laughter>built computer</laughter>. So, <F>er</F> light laptop computer.</B>
+<A><F>Hum</F> I see. <F>Wow</F> you must be an expert of computer. <OL><laughter>Alright</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role-play. O K? Alright, so this is your card. Please read it to yourself and when you are ready, I will start the conversation. O K? Please read it.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>So you are a passenger.</A>
+<ctxt>The interviewee is still reading the card.</ctxt>
+<A>Can I start?</A>
+<B>O K.</B>
+<A>O K. Hello. May I help you, sir?</A>
+<B><F>Oh</F> <F>er</F> <R>I</R> <F>er</F> <JP>ikitai</JP> I want to go New York by train. And <.></.> quickly <JP>kana</JP>. <F>Uhm</F>. <.></.> So <F>uum</F> <.></.> <R>which</R> <..></..> <??></??> <R>which</R> <..></..> <F>mm</F> which ticket <.></.> I bought <JP>kana</JP>? <F>Um</F>.</B>
+<A>So we have <F>er</F> tickets <F>er</F> for express train and the local train.</A>
+<B><F>Um</F> <F>um</F> express train, please.</B>
+<A>Express train tickets? O K. <F>Oh</F> how many people?</A>
+<B><F>Er</F> one, please.</B>
+<A><F>Er</F> O K. <F>Er</F> today, we have two express trains to New York.</A>
+<B>Yes. <F>Err</F> early train, please.</B>
+<A>O K. Early one. That's nine o'clock.</A>
+<B>O K.</B>
+<A>Is it O K?</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B><F>Eh</F> how much?</B>
+<A><F>Oh</F> fifty dollars.</A>
+<B>Fifty dollars.</B>
+<A>O K. Here you go. Here's the ticket.</A>
+<B><??></??> Thank you.</B>
+<A>Thank you. Have a nice trip. Bye-bye.</A>
+<B>Bye.</B>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>-<JP>san</JP></A>
+</task>
+<followup>
+<A>Role-play is over. Have you ever been abroad?</A>
+<B>Yes. I am.</B>
+<A><F>Hum</F> where did you go?</A>
+<B><F>Er</F> first, <R>I</R> <.></.> <R>I w</R> I went to <JP>Yoroppa</JP> <F>ee</F> three countries. <F>Uhm</F> England and France and Italy. So <F>eh</F> during <R>twenty</R> twenty days. And <R>this</R> <JP>are</JP> this year, <F>eh</F> January, <F>eh</F> I went to America in skiing. <F>Er</F> this place is Salt Lake. <F>Er</F> next year, <F>er</F> Winter Olympic <SC>is held</SC> will be held. <F>Er</F> that's all. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. Then, which place do you want to visit again?</A>
+<B><F>Ee</F> <F>err</F> <SC>I</SC> <F>uum</F> <.></.> <F>uhm</F> <F>uhm</F> Paris is the <R>best</R> <.></.> best <JP>nandarona</JP> enjoyable cities.</B>
+<A>Why did you think so?</A>
+<B><F>Ur</F> <..></..> <F>uum</F> <nvs>laughter</nvs> <..></..> <JP>chotto ma setsumeiga muzukashiina ma chotto <OL><laughter>hanagaaru <??></??></laughter></OL></JP>.</B>
+<A><OL>O K</OL>. Alright. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Then, please look at one more picture. <OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Er</F> this time, please make a short story using these four pictures. Yes. But this happened last week. So please start your story with "One day last week".</A>
+<B>One day last week. <F>Uum</F></B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Mm</F> the <R>last</R> last week, I went to <JP>are eigakan</JP> theater <F>eh</F> with my friends. And <..></..> I bought a popcorn and cola in a theater. And <.></.> <SC>this, <F>uh</F> <R>mo</R> movie</SC> this movie is <.></.> <F>er</F> an accident of airplane. <..></..> <F>Uhm</F> so <..></..> <F>uhm</F> <..></..> <F>uhm</F> <..></..> I don't. <F>Uh</F> <F>um</F>. <..></..></B>
+<A>O K. So you can move to the next picture.</A>
+<B>Yes. And the movie is over. I went out the theater. <..></..> So <F>uum</F> <SC>we are</SC> we were <.></.> cheerful. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Um</F> it's O K</OL>. Thank you very much.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>-<JP>san</JP>, do you like movies?</A>
+<B>Yes.</B>
+<A><F>Uhu</F> so which do you like better, going to a movie theater or renting videos and then seeing it <F>er</F> at home?</A>
+<B><F>Err</F> <.></.> the S F movie is a <F>urn</F> exciting, so <R>I</R> I went to movies <F>uh</F> theater. But <F>err</F> <SC>serious movie is</SC> <F>err</F> serious movie so watch to in <SC>a</SC> my room.</B>
+<A><F>Err</F> I see. O K. Thank you very much, <H pn="B's name">XXX02</H>-<JP>san</JP>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>The interview is almost ending. Thank you for coming today. <F>Uhu</F> do you have any plans for this weekend? <OL>Are you going to</OL></A>
+<B><OL><F>Er</F></OL>.</B>
+<A>play soccer again?</A>
+<B>Yes. If <.></.> <F>uhm</F> the weather is fine, I play soccer.</B>
+<A><F>Uhu</F> so if the weather is bad?</A>
+<B><F>Uum</F> I'm overslept. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> You sleep all day. O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

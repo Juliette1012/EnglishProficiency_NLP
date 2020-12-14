@@ -1,0 +1,210 @@
+<interview>
+<filename>file00122.txt</filename>
+
+<head version="1.3">
+<date>2000-10-05</date>
+<sex>female</sex>
+<age>36</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>landlord_advanced</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A><F>Mm</F>. My name is <F>er</F> <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>. Nice to meet you.</B>
+<A>Nice to meet you. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, <OL>sure, please</OL>.</B>
+<A><OL>O K</OL>. Thank you. So <F>erm</F> where are you from?</A>
+<B><F>Mm</F> I'm from <H pn="others1">XXX03</H>. I was born in <H pn="others2">XXX04</H>.</B>
+<A><F>Uh</F> <F>wow</F> <H pn="others2">XXX04</H>. Can you tell me about <H pn="others2">XXX04</H> a little bit?</A>
+<B>Yes. <H pn="others2">XXX04</H> is very developed country in <H pn="others1">XXX03</H>, I think. Yeah. Especially now, it is changing very rapidly. So now if you go to <H pn="others1">XXX03</H>, and if you get off the airport in <?><H pn="others3">XXX05</H></?>, it's a very new airport just opened this year. Yeah. It's very modern <SC>I ca</SC> I think <F>uh</F> <SC>to</SC> <SC>can</SC> <SC>com</SC> <SC>be</SC> <SC>pan</SC> compared to the Narita airport. <OL>Yes</OL>.</B>
+<A><OL><F>Uhu</F></OL> <F>Oh</F> I see. <F>Wow</F>. <OL>I'd like to visit</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. So <F>ahn</F> where do you live now?</A>
+<B>Yeah, I'm now living in <H pn="others4">XXX06</H>, <H pn="others5">XXX07</H>.</B>
+<A>O K. With your family?</A>
+<B>Yes, with my family.</B>
+<A><F>Hum</F>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Can you</OL> tell about your family?</A>
+<B>Yes. <R>I</R> I, husband and my son. Yes, my son, his name is <H pn="others6">XXX08</H>. Yeah.</B>
+<A>Tell me about him a little bit more.</A>
+<B>Yeah. He's <F>mm</F> one and eight months years old, and now he's going to the kindergarten everyday. Yes. So every morning, I just ask for a baby sitter to take him to the kindergarten. But in the evening, yes, after I leave the company, I quickly go to the kindergarten to pick him up to back to home. Yeah.</B>
+<A>So how did you get this job in Japan?</A>
+<B><F>Mhm</F> yes, <SC>it's quite</SC> I got this job just after I graduated from the university, yes, in I think is nineteen ninety three. <OL>Yes, quite long</OL>.</B>
+<A><OL><F>Wow</F> <F>mhm</F></OL>. Then how do you like about your job so far?</A>
+<B>Yes, <F>mh</F> <SC>I like</SC> especially, I like atmosphere in my section. It's very good, very active, very open.</B>
+<A>How good it is, the atmosphere?</A>
+<B>Yes, <SC?>all the people</SC?> so you can speak what you think <SC>what you</SC> if you have some new idea, or <SC>have</SC> if you have some new, how to say, <SC>to</SC> suggestions or questions. So you can talk to your boss. So my boss, he is a very good person. Yeah.</B>
+<A><F>Mhm</F>. I see. So you are pretty happy.</A>
+<B>Yes, I'm happy now, I think.</B>
+<A>O K, good. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then now I try to show you a picture. <F>Mmh</F>. O K. <.></.> O K. Please take a look at this picture.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL> could you describe this picture for me?</A>
+<B><ctxt>the interviewee is looking at the picture</ctxt> <F>Oh</F> this <?>is</?> very lovely picture. <nvs>laughter</nvs> Yeah, I think <F>mm</F> it's in the a morning, you know, yeah, the sun is shining. And you can see the boys, they're playing the ball, and green, yes, and one man maybe. <R>He's</R> <F>uh</F> he's on the holiday. He's just running. Yes. <nvs>laughter</nvs> O K. And we can also find two dogs. They're also playing together, and, yes, and <SC>two woman</SC> two women, maybe they're neighbors. Yeah, <SC>they <??></??></SC> they say, "<F>Oh</F> hello," "Good morning," yes. <F>Oh</F> <?>that's very interesting</?> <F>ur</F> cat. <nvs>laughter</nvs> It is lying on the car. <nvs>laughter</nvs> Yes. <F>Oh</F> <?>you know</?> this is a man. He is reading a newspapers. <F>Uhu</F>.</B>
+</task>
+<followup>
+<A>All right. Thank you.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>So you said</OL> you are living <H pn="others4">XXX06</H>, right now.</A>
+<B>Yes, right.</B>
+<A>How do you compare this picture</A>
+<B><CO><OL>To <H pn="others4">XXX06</H></OL></CO>.</B>
+<A><OL>to your</OL> neighborhood in <H pn="others4">XXX06</H>?</A>
+<B><F>Nhm</F> yes. <SC>In</SC> <SC>I ca</SC> I think if you go out in the morning, you can find <SC>women</SC> housewives, they take care dogs to have a walk, and they talk to each other. Yes, also, yes, you can find a people, they are running <?>in there</?> early morning.</B>
+<A><F>Mhm</F>. Really?</A>
+<B>Yeah. But it's difficult for me to find a person to read a <?>magazine</?> in the park. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Why is that</OL>? Do you know? Why do you think it's difficult to find that kind of person in Japan?</A>
+<B>They have no time. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL>. <F>Mm-hm</F>.</A>
+<B>They prefer to staying at home, or I don't know. <nvs>laughter</nvs></B>
+<A>O K. Then could you describe the neighborhood in <H pn="others1">XXX03</H> where you grew up?</A>
+<B><F>Ah</F> <SC>the neighborhood</SC> I think in <H pn="others1">XXX03</H>, the neighborhood, they are <R>more close</R> <SC>more close</SC> closer than the Japanese.</B>
+<A>What do you mean by closer?</A>
+<B><F>Umm</F>. <.></.> How to say. <SC>If</SC> they <SC>speak very much</SC> <R>s</R> speak a lot if they meet each other, and also say, "Hello, hello.". Yes, <F>oh</F> for example, "<F>Oh</F> <F>uhm</F> what are you doing today?". "<F>Oh</F> <SC>what are y</SC> what did you do yesterday?". Or they just talk very much. But in Japan, I think the neighbor, <R>they</R> they choose <SC>some nei</SC> <R>so</R> some people to be the friends maybe to talk to each other. But they don't talk to everybody <SC>on</SC> around them. Yes. <F>Mhm</F>. So just a <F>um</F> <?>beside man house</?>, yes.</B>
+<A>Is it difficult <OL>for you</OL>?</A>
+<B><OL>Yes, very</OL> <F>umm</F>. But <R>this</R> <SC>this family is <SC>very</SC> <R>a little bit</R> a little bit</SC>, how to say, <F>umm</F> maybe stranger <F>uh</F> <F>uh</F> is not good, but I can found such <?>forward</?> now. Yeah, this <?>family</?>, they have many garbage just out of their house, you know. Really, but this is their area. So nobody <R>can</R> can you say, "<F>Oh</F> you can not.". But <R>what they</R> what they are doing, I can not understand. Because in my mind, Japanese is the very very clear. They like <?>deal near the</?> clean the house very very beautifully. Yes. <SC>It's very</SC> maybe it's <?>in</?> an <F>nh</F> exception. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Exception.</A>
+<B><F>Umm</F>.</B>
+<A>O K. Thank you very much. Very detail.</A>
+</followup>
+</stage2> 
+<stage3> 
+<task>
+<A>O K, then now, and I'd like to do a role play with you. <OL><F>Nh</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>I'll give you a card. All right? So please read this card.</A>
+<B><F>Ur</F></B>
+<ctxt>The interviewee start reading aloud.</ctxt>
+<B><F>Mm</F>? In Japanese? No. <CO>In</CO>.</B>
+<A><F>Mm</F>. O K, no. In English. But it's written in Japanese <OL>that we will do a role play so</OL></A>
+<B><OL><F>Ah</F> O K, O K, O K</OL>. <F>Uh</F>.</B>
+<A>I'll be a landlord.</A>
+<B>Yes.</B>
+<A>You'll be in this situation. We'll do kind of mini drama.</A>
+<B><F>Ahh</F>.</B>
+<A>All right?</A>
+<B><F>Ahh</F>. So this situation,</B>
+<A>Yes.</A>
+<B>just we play?</B>
+<A>Yes.</A>
+<B>O K. <F>Um</F> give a minute. <ctxt>the interviewee is reading the card</ctxt> <F>Mm</F> so I just want to play as my part <??></??>.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes.</B>
+<A><F>Uhu</F>. I'm a landlord.</A>
+<B>You are landlord. Yes, O K.</B>
+<A>O K. Hello, hi, <H pn="B's name">XXX02</H>. How are you?</A>
+<B><F>Oh</F> <R>I</R> <R>I</R> <SC>I</SC> <F>oh</F> can you help me? I just have a very very, how to say, headache. You know, <R>my</R> my window were broken just this morning. <SC>So</SC> but <R>I</R> <R>I</R> I have to go to a company, but you know, the window <R?>broken</R?> broken. So I'm afraid if I go to company, <SC?>there're</SC?> somebody were <OL>enter my house</OL>.</B>
+<A><OL>Do you know how it happened</OL>?</A>
+<B>So can you tell me</B>
+<A><F>Ur</F> <OL>I don't know</OL>.</A>
+<B><OL><R>some</R></OL> some shops? <F>Erm</F>.</B>
+<A>Can you describe more? <F>Oh</F> what happened to your windows? <OL>Yeah</OL>.</A>
+<B><OL><F>Ahh</F></OL>. <CO>My</CO>.</B>
+<A>It's broken, but how?</A>
+<B><.></.> <F>Umm</F> yes. <R>The</R> the glass is broken. There is a very big hole, it's a <R>ve</R> very big hole.</B>
+<A>Could be a baseball?</A>
+<B>Yeah, <F>uh</F> yeah, it's bigger than a baseball, I think <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> And what do you want me to do?</A>
+<B>So can you find a person or shop? Yeah. <CO>He can come to a my house to</CO>.</B>
+<A>Right. But I'm very busy now.</A>
+<B><F>Uh</F> today, you can not. How about tomorrow?</B>
+<A>Tomorrow? <F>Uhh</F> no. The day after tomorrow <OL>would be O K</OL>.</A>
+<B><OL><F>Uhh</F> the day</OL> after tomorrow. I think I have to have a two holidays. It's too <laughter>difficult for me</laughter>. O K, but O K, <SC>I'll</SC> <R>I</R> I will ask my husband to stay at home for one day. <nvs>laughter</nvs> O K, the day after tomorrow.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A><F>Uhu</F>.</A>
+<B>O K. Thank you very much.</B>
+<A><F>Oh</F> Sure.</A>
+<B>O K.</B>
+<A>Thank you very much. <F>Mm-hm</F>. O K, this is the end of the role play.</A>
+</task> 
+<followup>
+<A>So <F>er</F> did you have anything like this before? This kind of problem?</A>
+<B><F>Oh</F> in my real life?</B>
+<A>Yes.</A>
+<B><F>A</F> so far, I have <SC>not have it</SC></B>
+<A><F>Mhm</F> O K.</A>
+<B><OL>not had it</OL>.</B>
+<A>But do you have any problem with your house?</A>
+<B>Yes, true.</B>
+<A>What kind?</A>
+<B><F>Umm</F> yes. <R>My</R> <R>my</R> <R>my</R> my telephone. It was broken, <nvs>laughter</nvs> yes, last month.</B>
+<A>And then how did you solve it?</A>
+<B>Yeah. I just called to NTT. One one six. <R>I</R> I call to them, and asked them to come to my house, and check it. Yes.</B>
+<A><F>Oh</F> what was happening to your telephone, do you know?</A>
+<B>Yes. They said your telephone, maybe you know, the <F>oh</F> I'm sorry, I just forget this word, <JP>kaminari</JP>, how to speak in English. <R>I</R> I <F>ur</F> <OL>forget it</OL>.</B>
+<A><OL><F>Oh</F> that's O K</OL>.</A>
+<B><F>Mhm</F> yes. So <SC?>the</SC?> because of <JP><R>ka</R> kaminari</JP>, <R>your telephone</R> your telephone line was broken. <F>Umm</F> because <F>nh</F> I used I S D N, you know. It is easily broken.</B>
+<A><F>Oh</F> really?</A>
+<B><F>Umm</F> yeah.</B>
+<A>I didn't know that. O K, thank you very much. All right.</A>
+</followup>
+</stage3>
+<stage4> 
+<task>
+<A>So I'll give you the last picture. <?>You</?>. <F>Uhm</F> O K, then please make a story using these pictures from one to six.</A>
+<B>One, two, three, four, five. Make a story?</B>
+<A><F>Ah-huh</F>. Make <SC>a story</SC> your own story.</A>
+<B><nvs>laughter</nvs></B>
+<A>This happened before. So please start your story with, "<OL>One day last week</OL>".</A>
+<B><OL>One day last week</OL>. One day last <OL>week</OL>.</B>
+<A><OL>Just a short story</OL> would be O K.</A>
+<B><ctxt>the interviewee is looking at the pictures</ctxt></B>
+<A>Please.</A>
+<B>One day last week, my friends, Jack and Bill came to my house, and we talked about something to do. And we just opened a magazine. And Jack found, "<F>Oh</F> <F>nh</F> there is a very exciting film now on Yokohama. So should we go there?". So I said, "<F>Oh</F>, O K, it's a good idea.". And Bill also agreed. So we immediately went out <..></..> to buy the tickets. Fortunately, yes, we bought the three tickets, and <R>had</R> had some <SC>drinks</SC> beverages. "<F>Oh</F> the film was <SC?>really</SC?> very exciting. And big planes and just a Tom Cruise also <laughter>was on the show</laughter>. <F>Oh</F> good, good.". So three of us were very satisfied. <SC>And we say</SC> and I said, "<F>Oh</F> Jack, Bill, bye bye. And maybe we can see next time.".</B>
+</task>
+<followup>
+<A>Thank you very much. <F>Wow</F>. So do you like exciting movie, too?</A>
+<B>Yes, I like to see the movie, but now I have a small baby so <SC>I have</SC> I can not find time to go to the cinema, you know. I have no private time.</B>
+<A>Tell me about your favorite movie you have seen before?</A>
+<B>My favorite movie? <CO><F>Ahht</F> <F>umm</F> <SC>but just not</SC> <F>mm</F> favorite movie, it's <F>mm</F></CO>.</B>
+<A>Any movie like old movie, classical movie.</A>
+<B><F>Eh</F> <SC>may</SC> <F>umm</F> so but in Japan, we also see the western movies, but in <H pn="others1">XXX03</H>, you know, we also, <OL>yes</OL>.</B>
+<A><OL>O K, so</OL> tell me about your favorite Chinese movie then.</A>
+<B>Yes, <SC>the</SC> my favorite Chinese movie maybe is "<?>Right Will</?>".</B>
+<A><F>Mm</F>. And it's about?</A>
+<B>"<?>Right Will</?>". <R>It</R> <SC>It describe</SC> it described a life in a very, how to say, local suburb. So the life is not too good, but the people are very kind. <SC>So they have to</SC> but they have to survival for the life. They work very very hard. Yes. But something happened, some troubles. <F>Um</F> also, this is the love stories. And men and women, they fall in love, but finally, they have some problem. They can not be married, and <R>they</R> <SC>they</SC> yeah, <SC>they left</SC> <F>uh</F> they departed. <R>But</R> <R>but the</R> but the woman, yeah, she could not forget the man. So <R>final</R> finally, she made a suicide commitment. So <F>a</F> <F>a</F> <F>e</F> <R>it</R> it is very <R>sad</R> sad movie, I think. But <F>ah</F> <F>e</F> <SC>it</SC> yeah, it is very old movie when I was in <H pn="others1">XXX03</H>, <laughter>you know, so</laughter>.</B>
+<A>But it's good movie, too. <CO>So</CO>.</A>
+<B>At that moment, I think. <SC>That's very</SC> <R>I</R> I was very impressed by this movie at that moment.</B>
+<A>O K, good. Thank you very much.</A>
+</followup> 
+</stage4> 
+<stage5> 
+<A><F>Wow</F>. So this is almost the end of the <laughter>interview</laughter>.</A>
+<B>Yeah.</B>
+<A>O K. So are you going back to your work?</A>
+<B>Yes, sure. <nvs>laughter</nvs></B>
+<A>Are you busy now?</A>
+<B>Yes, <F>uh</F> quite busy.</B>
+<A>Busy. All the time or especially this season?</A>
+<B>Yes, especially now, we have a new comer changed <F>ur</F> yeah, <R>a</R> a staff. Yeah. So I have to teach her many things. Yeah.</B>
+<A>Kind of difficult to balance <SC?>the</SC?> between your house and your work, maybe.</A>
+<B>Yes, <R>it's</R> <R>it's</R> it's <F>ur</F> good <??></??> thing. <nvs>laughter</nvs></B>
+<A><F>Oh</F> really? O K.</A>
+<B>Also in Japan, it's very challenging things <SC>to</SC> yeah, to have a job and meanwhile to bearing the child, <R>but</R> but I'm very satisfied with my life now. <R>It's</R> it's very challenging. It's very hard, but it's very good.</B>
+<A>I see. <F>Wow</F>. Thank you very much for telling me your story.</A>
+<B>You're welcome.</B>
+<A><OL>Thank you very much</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>O K, see you.</A>
+<B>See you.</B>
+</stage5>
+</body>
+</interview>

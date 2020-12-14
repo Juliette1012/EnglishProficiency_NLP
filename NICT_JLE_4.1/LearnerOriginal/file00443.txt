@@ -1,0 +1,239 @@
+<interview>
+<filename>file00443.txt</filename>
+
+<head version="1.3">
+<date>2001-05-28</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>665</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>.</A>
+<B><F>Uhu</F>.</B>
+<A>What do you do in this company?</A>
+<B><F>Er</F> I worked for <F>ner</F> <R>trading</R> trading company that deals with, now, <F>er</F> clotheses, <SC>kind of</SC> <F>ner</F> you know that there is a many kind of <F>er</F> textile, so <F>er</F> <F>erm</F> <R>I work</R> I was dealing <F>er</F> <F>mm</F> clotheses.</B>
+<A><F>Hum</F> O K. How do you like your job?</A>
+<B><F>Err</F> I like <R>m</R> my job but <F>er</F> <F>ah</F> I <SC>don't</SC> have not much knowledge about my job.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So, especially now in <R>Ap</R> April, <SC>I have</SC> I was <F>er</F> <?>very</?> difficulty.</B>
+<A><F>Hum</F> O K.</A>
+<B>But <F>ner</F> recently, I <R>get over</R> get over that.</B>
+<A><F>Oh</F>. That's good. O K. What is your hobby?</A>
+<B><F>Huum</F> my hobby is <F>ner</F> riding bike and <F>er</F> playing sports and <F>er</F> <?>that</?> watching T V.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC?>That</SC?> <SC>my</SC> <R>I</R> I have <F>ner</F> many hobby.</B>
+<A>O K.</A>
+<B>How about you? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> yes, I have many hobbies, too</OL>. <F>Eh</F> you said <F>er</F> you like to play sports. What is the most favorite one?</A>
+<B><F>Uum</F> my <R>fa</R> favorite one is <F>ner</F> playing tennis.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh-huh</F>. How about you?</B>
+<A><F>Well</F> I don't play tennis.</A>
+<B><F>Ah-huh</F>.</B>
+<A><R>Why</R> why did you start playing tennis?</A>
+<B>When I was a junior high, <F>er</F> I was belonged to <F>ner</F> a soft tennis club.</B>
+<A><F>Uhu</F>.</A>
+<B>So that <?>was very</?> interesting and <F>er</F> I decided to continue to <F>ner</F> play tennis.</B>
+<A><F>Uh-huh</F>. <CO><OL>And no</OL></CO>.</A>
+<B><OL><R>That's</R></OL></B>
+<A>Sorry.</A>
+<B>that's the reason.</B>
+<A>O K.</A>
+<B><F>Uhu</F>.</B>
+<A>And now do you play it?</A>
+<B><F>Err</F> <R>once in a while</R> <F>err</F> just a <.></.> once in a month. <F>Mh-hmm</F>.</B>
+<A><F>Mm</F> O K. Yesterday was Sunday. <F>Er</F> did you do anything special yesterday?</A>
+<B>Yesterday <SC>I went to</SC> <R>I</R> <F>er</F> I don't have specials. But <F>ner</F> usually, <SC>I <SC>went to</SC> <F>ner</F> go</SC> <F>er</F> I went <F>er</F> <SC>riding</SC> ride bike.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Something like that.</B>
+<A><F>Hum</F> tell me about your bike, please.</A>
+<B>My bike means the just bicycle.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mh-hmm</F>. <F>Er</F> my bicycle is <F>ner</F> kind of <F>er</F> <F>err</F> M T B, you know? <R>That</R> that is a mountain bike.</B>
+<A><F>Ah</F>. <F>Uh-huh</F>.</A>
+<B><F>Err</F> but <F>er</F> that's not too expensive one.</B>
+<A><F>Uum</F>.</A>
+<B><R?>Just</R?> just reasonable one.</B>
+<A>Just reasonable one. O K. O K. And now, do you live alone or with your family?</A>
+<B><SC>With your</SC> with my family.</B>
+<A><F>Ahh</F>.</A>
+<B><F>Ah-huh</F>.</B>
+<A>O K, do you have any brother or sisters?</A>
+<B><F>Err</F> I was <F>ner</F> one sister, but <F>ner</F> she married <F>ner</F> half years ago.</B>
+<A><F>Huum</F>.</A>
+<B>So I lived with my family and <F>er</F> I am <SC>a just a</SC> just a son of my parents.</B>
+<A>O K.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Then, <?>let's see</?>, look at this picture, please.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Please describe it.</A>
+<B>Describe it?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F>. <nvs>laughter</nvs></B>
+<ctxt>The interviewee is looking at the picture and thinking.</ctxt>
+<B>There is <F>ner</F> many people playing around a house. Two boys playing ball. And <F>er</F> <..></..> this old man is now <R>reading</R> reading newspaper on the chair. And I think <F>er</F> <R>this</R> this is <F>ner</F> on Sunday because <F>er</F> they don't <F>ner</F> go to school. And <F>er</F> this is very sunny day. And <F>er</F> <F>hm</F> that's it.</B>
+</task>
+<followup>
+<A>O K.</A>
+<B>O K?</B>
+<A>O K. Thank you very much. Do you like this area?</A>
+<B>This area?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Erm</F> <.></.> I don't have much <laughter>attention</laughter>.</B>
+<A><F>Oh</F> <F>hoh</F></A>
+<B>Because I don't care. <R>I don't</R> I don't have much interest <laughter>in this picture</laughter>.</B>
+<A><F>Um</F> O K.</A>
+<B>O K?</B>
+<A>O K. Now <OL>then</OL></A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>where do you live now?</A>
+<B>Live?</B>
+<A><F>Uh-huh</F>.</A>
+<B>To me? Myself?</B>
+<A><F>Uh-huh</F>.</A>
+<B>I live in <F>er</F> north part of <F>ner</F> <H pn="others1">XXX03</H> City.</B>
+<A><F>Uhu</F>.</A>
+<B>You know <H pn="others2">XXX04</H> City?</B>
+<A><F>Oh</F> yes, I do. Then tell me about your neighborhood, please.</A>
+<B>Neighborhood. My neighborhood?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Erm</F> my neighborhood. I don't have much knowledge about my neighborhood. But <F>erm</F> my next living neighborhood is <R>just</R> <F>er</F> just move. And <F>er</F> recently, they built their house.</B>
+<A><F>Oh</F>.</A>
+<B><F>Uh-huh</F> <R>so</R> so there are <F>er</F> newcomer. <SC>They worked for</SC> <F>ner</F> they also worked for the <F>er</F> <F>ner</F> trading business company.</B>
+<A><F>Huum</F> O K. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>And next. Let's do role-play. O K. This is your card. Please read it. And when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K. Ready. <OL><?>I'm</?> ready</OL>.</B>
+<A><OL><?>Are you</?></OL>? O K. May I help you?</A>
+<B><F>Erm</F> I want to go to <F>ner</F> New York City. And <F>ner</F> so I'd like <?>to</?> know the information about <F>ner</F> how to get <R>that</R> that place.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>So and</SC> <F>er</F> <.></.> so, how much does it cost to the New York City?</B>
+<A>Twenty dollars.</A>
+<B>Twenty dollars? Is that <F>ner</F> one-way?</B>
+<A>Yes.</A>
+<B><F>Uh-huh</F> thank you very much.</B>
+<A><F>Oh</F> don't you need a ticket?</A>
+<B><F>Ah</F> I need <F>er</F> of course, ticket.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL><R>The</R></OL> <SC>the</SC> <.></.> this is twenty dollars.</B>
+<A><F>Er</F> O K. And here is your ticket.</A>
+<B>Thank you.</B>
+<A>Thank you. Have a nice trip.</A>
+<B>Thank you very much.</B>
+<A>O K. Thank you. This is the end of role-play. Thank you very much.</A>
+</task>
+<followup>
+<A>Have you been to New York?</A>
+<B>No, never.</B>
+<A>Never.</A>
+<B>But <F>ner</F> I want to go there.</B>
+<A>O K. Why do you want to go to New York?</A>
+<B><F>Err</F> when I was a <F>er</F> university student, I went to <F>ner</F> Seattle.</B>
+<A><F>Oh</F>.</A>
+<B><SC>Seattle is <F>ner</F> east part of the States, so I have never been to</SC> <F>ner</F> <F>err</F> <F>mm</F> <F>ah</F> west part of the <OL>States, Seattle is</OL>,</B>
+<A><OL><F>Mh-hmm</F> <F>mh-hmm</F></OL>.</A>
+<B>so I have never but been to east part of the States. So I want to there.</B>
+<A><F>Um</F>.</A>
+<B>Because <F>ner</F> there is much difference especially in their culture and <F>er</F> way of thinking,</B>
+<A><F>Hum</F>.</A>
+<B>I think.</B>
+<A>Will you tell me more about the difference <OL>in culture</OL>?</A>
+<B><OL>Difference</OL>?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> just my opinion.</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B><OL><?>But</?></OL> <F>um</F> <F>er</F> western area is, I think, <R?>there</R?> there is more open mind.</B>
+<A><F>Uh-huh</F>.</A>
+<B>For example,</B>
+<A><F>Hum</F>.</A>
+<B><F>er</F> <R>when they</R> <F>ner</F> <SC>when they met stranger, but</SC> <F>er</F> <R>when</R> <F>er</F> when <F>ner</F> people walk along each other, <.></.> <F>er</F> but they don't know, but <R>they</R> they usually <F>ner</F> <R>say</R> say "Hello." or "How's everything going?".</B>
+<A><F>Um</F>.</A>
+<B>So I think that is <F>ner</F> kind of <F>er</F> open-mind spirit <?>for</?> mind. But and <F>er</F> I think <F>er</F> east area is more conservative.</B>
+<A><F>Huum</F>.</A>
+<B>I think.</B>
+<A><F>Huum</F>.</A>
+<B>Because <F>er</F> <F>err</F> eastern area <SC>is</SC> <F>er</F> has more history.</B>
+<A><F>Hum</F>.</A>
+<B>So <SC>they ge</SC> <F>er</F> <SC>Europe</SC> first of <F>ner</F> all, <laughter>European</laughter> people came <F>er</F> <F>er</F> east area. And <F>er</F> so I think <F>err</F> that area is more <F>ner</F> conservative than <F>er</F> east area. That's my opinion.</B>
+<A>O K. Very good. O K. Thank you very much.</A>
+<B>You're welcome.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Then O K, last picture for you. This time please make up a story based on six pictures number one to number six. It happened before, so please start your story with "One day last week,"</A>
+<B><R>So</R> <F>ah</F> <F>ner</F> so <F>ah</F> <F>ner</F> I have to describe the story of this picture? <OL>Is that what you mean</OL>?</B>
+<A><OL>Yes</OL>. <F>Uh-huh</F>.</A>
+<B><laughter>All right</laughter>. <F>Err</F> O K. Here I go.</B>
+<A>O K. Go ahead.</A>
+<B><.></.> <F>Er</F> in the morning, one <JP>salary man</JP> <F>er</F> <F>er</F> walked to <F>ner</F> station as usual. But <F>er</F> <SC>he</SC> <F>er</F> <.></.> <F>er</F> <R>when <F>er</F> he</R> <F>mm</F> when he <F>ner</F> at a platform, he <F>ner</F> happened to drop his bag. <CO><SC>That</SC> <F>er</F> <..></..> <F>ah</F> why <R>he</R> <R>he</R> <F>ner</F> he dropped his bag is</CO>. <F>Ner</F> <F>er</F> <..></..> <F>er</F> <F>a-huh</F>. May I <SC>return</SC> <SC?>didn't</SC?> <F>er</F> return second one?</B>
+<A>Yes. <OL>Go ahead</OL>.</A>
+<B><OL>O K</OL>? <F>Uhm</F> when he arrive at platform, <F>um</F> <R>next</R> <F>er</F> next passenger <F>erm</F> <.></.> <F>er</F> <SC>stick hits ha</SC> stick <R>his</R> <F>er</F> his hand so he dropped his bag in a <SC>railway</SC> railroad. So <F>ner</F> the <JP>salary man</JP> angry and <F>ner</F> <R>he</R> <R>he</R> <F>ner</F> <R>he claimed</R> he claimed to next passenger. <.></.> Then suddenly <R>the</R> <F>er</F> the train <SC>came</SC> <F>er</F> <nvs>laughter</nvs> suddenly came <F>er</F> platform. <SC>But</SC> so <F>um</F> <R>this</R> <F>er</F> this <.></.> <F>er</F> <JP>salary man</JP> was very <F>um</F> upset because <SC>his bag was now</SC> his bag was <F>er</F> clashed by train. <SC>But <F>er</F> <SC>luckily</SC> lucky</SC> <F>er</F> but he was very lucky. Because now his bag was safe. <F>Er</F> <.></.> <F>er</F> after all, <F>er</F> <F>mm</F> station officer <?>was</?> came and <F>er</F> he <SC>picked hi</SC> picked the bag for him. <SC>That is a</SC> <F>er</F> <.></.> <F>huh</F> <.></.> <F>hm</F> that's it.</B>
+<A>O K.</A>
+<B>O K?</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A><?>But</?> every day how do you come to the office?</A>
+<B><F>Er</F> I come to office by <F>ner</F> train.</B>
+<A>Train?</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>O K</OL>. Then <F>er</F> what is the difference of commuting by train and by car.</A>
+<B>The difference?</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>er</F> I think <F>ner</F> the difference is <F>mm</F> train is usually on time coming, no late. Sometime late but usually no late. But <F>mm</F> <F>er</F> <F>mm</F> compare with <F>ner</F> train, <F>er</F> car is <F>ner</F> there is <?>make</?> the traffic jam. <CO>And <F>er</F> there is</CO>. <F>Mm</F>. That's it.</B>
+<A><F>Hm</F> O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> this is almost the end of interview. <OL>O K</OL>.</A>
+<B><OL><?>Yeah</?></OL>.</B>
+<A>And today <F>er</F> after this interview, what are you going to do?</A>
+<B>After the interview?</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>ner</F> I have to call my boss. And <F>er</F> so there is <F>ner</F> next day, tomorrow I have <F>ner</F> a exhibition</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ur</F> of my company.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>er</F> I have to call my boss and <F>er</F> <R>I have to</R> <F>mm</F> I have to talk with him. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Ah</F></OL> so what time do you think you can get home?</A>
+<B>Get home?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Erm</F> I think it's about <SC>al</SC> <F>ee</F> <F>mm</F> eleven o'clock.</B>
+<A>Eleven o'clock. Have you had dinner yet?</A>
+<B>No. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>No</OL>. Are you hungry?</A>
+<B>Yeah. I'm hungry.</B>
+<A>O K. Then please enjoy your dinner first.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K.</A>
+<B>O K.</B>
+<A>O K. Thank you very much. <OL>This is all</OL>.</A>
+<B><OL>You're welcome</OL>.</B>
+</stage5>
+</body>
+</interview>

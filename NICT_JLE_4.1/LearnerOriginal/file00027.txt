@@ -1,0 +1,121 @@
+<interview>
+<filename>file00027.txt</filename>
+
+<head version="1.3">
+<date>1999-12-15</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>745</TOEIC>
+<TOEFL>540</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uhu</F>. How are you today?</A>
+<B><F>Mm</F>. I'm fine but I'm a little tired because I don't sleep well. <nvs>laughter</nvs></B>
+<A><F>Oh</F> why you didn't sleep well?</A>
+<B><F>Urm</F>. Because <R>I</R> I was <F>mm</F> having a party with my friend yesterday.</B>
+<A><F>Oh</F> what kind of a party was it?</A>
+<B><F>Mm</F>. It was year-end party and <R>she</R> she's from <H pn="others1">XXX03</H> so she has a <JP>takoyaki</JP> <nvs>laughter</nvs> <SC>but</SC> <F>mm</F> so she <R>with</R> <F>mm</F> with my friend we made <JP>takoyaki</JP> and ate <R>in</R> in her room and we stayed with her from this morning. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. That's why. I hope you are O K now. O K. Where do you live?</A>
+<B>I'm live in <H pn="others2">XXX04</H>. It's <F>um</F> <R>two sta</R> two station from <H pn="others3">XXX05</H> so I can come university by about twenty minutes.</B>
+<A><F>Oh</F> you're lucky. What are you studying at the university?</A>
+<B>Now I am a junior student and I'm studying movie and theater arts. I'm not acting but learn about <F>er</F> theory of film and movies and I'm now interested in arts management. It's a kind of management of <F>um</F> theater.</B>
+<A><F>Hum</F> why did you decide to take that subject?</A>
+<B><F>Mm</F> <.></.> <R>I</R> <nvs>cough</nvs> I'm a curious why there are many theaters <R>in</R> in all over Japan. <F>Mm</F>. <R>Each</R> each city has its own city hall but it's not used by <F>er</F> people <F>mm</F> and it's <F>er</F> what is called "box" so my teacher said we should <F>mm</F> raise <F>er</F> arts manager or arts administrator to use a hall for many people.</B>
+<A>I see. <SC>Sounds good</SC> sounds great. What do you want to do after you graduate <OL>from the university</OL>?</A>
+<B><OL><F>Mm</F></OL>. If possible, I want to work at a hall <SC>as a</SC> as manager but <SC>it</SC> <F>mm</F> <.></.> <R>the</R> <F>mm</F> the halls <SC>don't u</SC> don't necessary new people so <F>mm</F> <SC>I</SC> <F>mm</F> maybe I learn more about arts management <F>mm</F> in abroad.</B>
+<A><F>Oh</F>. So, do you want to go abroad?</A>
+<B><F>Mm</F>. Yeah.</B>
+<A>Which country do you want to go?</A>
+<B><F>Urm</F> I want to go to America because <SC>it's</SC> <F>erm</F> <.></.> it has a <F>a</F> curriculum about arts manager <.></.> in universities and internships system.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Oh</F>. Great. Good luck. O K. Now, I'm going to show you a picture. O K? <.></.> Please have a look. And could you describe the picture for me?</A>
+<B>Yes. <F>Mm</F>.</B>
+<ctxt>The interviewee is looking at the picture and thinking of what to say.</ctxt>
+<B>This is a suburb, <F>erm</F> sunny day, maybe it's a holiday because <F>mm</F> <.></.> three children are playing and maybe their mothers are talking and a man is talking at the street. And in this picture there is a big room <.></.> <R>and</R> <.></.> and <F>er</F> car and cat. <R>On</R> on the bonnet a cat are sleeping and two children are playing a volleyball in the grass. It's <SC>a</SC> maybe a garden of the children. <F>Mm</F>. I think this is a quiet <F>mm</F> neighborhood and safe neighborhood. <.></.> <R>And</R> and <SC>an old man</SC> because an old man are reading a newspaper on the bench <F>mm</F> he seems <F>er</F> very <F>mm</F> comfortable.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. That's all.</B>
+</task>
+<followup>
+<A>O K. Is this neighborhood very different from yours?</A>
+<B><F>Mm</F>. Yes, it is a little different from <F>mm</F> my neighborhood where I'm living now but, <SC>it</SC> my hometown is <F>mm</F> the same as this <F>mm</F> because <F>mm</F> around my hometown neighborhood, there are not <F>um</F> apartment, so the people are friendly.</B>
+<A><F>Oh</F>. That's good. Were you born in <H pn="others2">XXX04</H>?</A>
+<B>No. <R>I'm</R> I'm from <H pn="others4">XXX06</H>.</B>
+<A><F>Oh</F>. Yes, I've never been to <H pn="others4">XXX06</H>. Tell me, what kind of place <H pn="others4">XXX06</H>?</A>
+<B><F>Mm</F>. My hometown is <H pn="others5">XXX07</H> City.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It's <F>urm</F> western part of <H pn="others4">XXX06</H> and face to <F>um</F> <SC><JP>Nihon-kai</JP></SC> <H pn="others6">XXX08</H>, so <R>it</R> <F>mm</F> it was a famous for port town and import <F>er</F> from Russia but now it's <F>er</F> famous as sightseeing because <R>it's an</R> it's an old town.</B>
+<A><F>Uh-huh</F>.</A>
+<B>There are <F>urm</F> lots of historical building like bank, and hotel, and now it is used <F>mm</F> by restaurant or shop.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Oh</F>. I see. <F>Oh</F>. I wish I could visit <H pn="others4">XXX06</H> one day. Thank you very much <H pn="B's name">XXX02</H>. Now, let's do a role-play. O K? This is your card. Please have a <R>look</R> look and when you are ready, let's start.</A>
+<B>O K.</B>
+<ctxt>The examinee is looking at the card.</ctxt>
+<B>Yes.</B>
+<A>Hello, may I help you?</A>
+<B><F>Mm</F>. I bought <F>urm</F> sweater yesterday but <SC>it</SC> the size is not good for me, so would you change a sweater?</B>
+<A><F>Oh</F>. I'm very sorry but it's against our policy to give you refund or make exchanges.</A>
+<B><F>Mm</F> <SC>why <F>mm</F> did you</SC> why <SC>it's</SC> <F>er</F> is it against a policy?</B>
+<A><F>Oh</F> because I think <F>mm</F> you tried it on when you bought so I thought <F>er</F> you liked the sweater when you bought.</A>
+<B><F>Mm</F> but <F>mm</F> the time I wear the sweater at a shop <SC>the lightening is</SC> <F>urm</F> the light is different from <F>mm</F> outside so the sweater is different from the color.</B>
+<A><F>Oh</F> but I think this <R>sweater</R> sweater suits you very well.</A>
+<B><F>Urm</F>. <.></.> So <F>mm</F> <.></.> <SC>in</SC> <F>mm</F> have you ever changed the goods for the customers?</B>
+<A>Yes, of course, if the <F>er</F> item is faulty. Yes, of course we will change it for the customer. But I don't think anything <SC>wrong</SC> is wrong with the sweater. It's nicely knit, and no problem, and I think it suits you very well.</A>
+<B><F>Urm</F>. I see, <F>mm</F> but <F>mm</F> why don't you go to outside and look at the color <R>with</R> with me?</B>
+<A><F>Uhu</F>. O K. O K. Since you're a good customer, I'll see what I can do. I'll see the manager. O K? <F>Oh</F> yes. And O K. He says we will make an exchange for you.</A>
+<B><F>Mm</F>. Thank you. <nvs>laughter</nvs></B>
+<A>O K. <nvs>laughter</nvs></A>
+</task>
+<followup>
+<A>Thank you very much. The role-play is over. Has this kind of thing ever happened to you before?</A>
+<B><F>Mm</F>. No. Not me but my mother <F>mm</F> <R>bought a</R> <F>mm</F> bought a knit <R>for</R> for knitting <F>urm</F> sweater and when she finished knitting the color is different from what she thought <F>mm</F> but she gave up exchange because she has already finished knitting.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mm</F>. <F>Oh</F> good. O K. Thank you very much, <H pn="B's name">XXX02</H>. Now I'm going to show you another picture, O K? <.></.> Here you are. This happened last week, so please start your story with "One day last week".</A>
+<ctxt>The examinee is looking at the pictures.</ctxt>
+<B>O K. <..></..> One day last week, <F>mm</F> three young <.></.> guys <SC>are planning</SC> were planning to go outside. <F>Mm</F>. Two are boys and a girl. But it was <F>er</F> heavy rain that day. So they were very worrying. <F>Mm</F>. But <F>mm</F> they had an idea for going to see a movie <F>mm</F> because new movie <SC>were</SC> <SC>was</SC> were <SC>to start</SC> starting the day so they went to a movie theater from the afternoon. They went to theater and bought a ticket. It cost <F>urm</F> two thousand and five hundred yen. And <.></.> they prepared for watching a movie <F>mm</F>. They bought a popcorn and coke <F>mm</F> at the shop <F>mm</F> and the movie was began. <F>Mm</F> the movie was an action movie <F>mm</F> so <SC>hi</SC> the plane was hijacked and <F>mm</F> <SC>it</SC> the plane was an accident. It was scared but exciting. When the movie finished, <F>mm</F> <R>the</R> <F>mm</F> the <F>mm</F> weather become clear and <SC>they were very enj</SC> they had a <.></.> good time.</B>
+</task>
+<followup>
+<A><F>Hm</F>. Thank you very much <H pn="B's name">XXX02</H>. What kind of movies do you like to watch?</A>
+<B><F>Mm</F>. <SC>I want to</SC> <F>mm</F> <.></.> if I go to watch a movie by myself, <SC>I go to</SC> I want to watch <F>urm</F> quiet movies <F>mm</F> like French one but if I go to a movie with my friend, <F>mm</F> I want to go more enjoyable movie like comedy.</B>
+<A><F>Mm</F>. O K. What do you think of Japanese movies?</A>
+<B><F>Mm</F>. I think <F>mm</F> recently, Japanese movies are <F>mm</F> very good, <F>mm</F> especially I like the younger directors, like Suo Masayuki. He directed <F>urm</F> "Shall we dance?". It was very hit <F>mm</F> and in this <F>mm</F> coming new year, I want to watch "Gohhatto" directed by Ooshima.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Oh</F> I see. <F>Oh</F> good. Thank you very much, <H pn="B's name">XXX02</H>. The interview is almost over. <F>Er</F> do you have any plan for Christmas?</A>
+<B><F>Mm</F> yeah. I will go back to my hometown and spend a White Christmas.</B>
+<A><F>Oh</F> lovely.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Oh</F> enjoy your Christmas.</A>
+<B>Yes.</B>
+<A>And thank you very much for coming in today.</A>
+<B>Yeah, thank you very much.</B>
+</stage5>
+</body>
+</interview>
+
+
+
+

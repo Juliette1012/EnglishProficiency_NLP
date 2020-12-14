@@ -1,0 +1,280 @@
+<interview>
+<filename>file01016.txt</filename>
+
+<head version="1.3">
+<date>2002-03-28</date>
+<sex>male</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>760</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon. My name is <H pn="A's name">XXX01</H>. May I have you name please?</A>
+<B>Yes, my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Ahh</F> Mister <H pn="A's name">XXX01</H>.</A>
+<B>Yes.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B>Yes. I'm fine.</B>
+<A><R>Good</R> <R>good</R> good. All right. <F>Um</F> Mister <H pn="B's name">XXX02</H> <F>ahh</F> where do you live?</A>
+<B><F>Um</F> I'm of course <H pn="others1">XXX03</H>. And <F>ahh</F> <H pn="others2">XXX04</H>. Yeah.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>And</OL> <F>ah</F> <R>I</R> <R>I</R> I live in <F>um</F> company's dormitory.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A>I see. Can you tell me about your room?</A>
+<B>Sorry?</B>
+<A>Can you tell me about your dormitory?</A>
+<B>Dormitory? <F>Ahhh</F> <.></.> <F>ahh</F> the dormitory has <F>uhhh</F> <R>s</R> seven story building.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah. And <F>ah</F> <F>uh</F> <SC>in</SC> there are <F>um</F> one hundreds or so people</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL><F>uhh</F></OL> living there. <.></.> <F>Um</F> <R>all</R> all of them <SC>are</SC> <SC>are</SC> <R>i</R> <SC>is</SC> are single. <F>Umm</F>. And <F>ahh</F> <.></.> <F>huhh</F> <F>ahh</F> we can have <F>uhh</F> breakfast and dinner there. <.></.></B>
+<A>How do you like to live there?</A>
+<B><laughter><F>Ahhh</F></laughter> not so bad. But <F>uhh</F> I will <R>leave</R> <F>umm</F> leave the dormitory because <R>I</R> I will get married.</B>
+<A><F>Ohhh</F> congratulations.</A>
+<B><F>Ummm</F> thank you very much.</B>
+<A><R><F>Wow</F></R> <F>wow</F>.</A>
+<B>Yeah.</B>
+<A>So when are you going to get married?</A>
+<B><F>Ummm</F>. April.</B>
+<A><F>Oh</F>?</A>
+<B><OL>This April</OL>.</B>
+<A><OL><R>Next</R></OL> next month?</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. How do you feel?</A>
+<B><nvs>laughter</nvs> <F>Ahh</F> yeah, I feel very good.Yeah.</B>
+<A><OL>Of course</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Tell me about your girlfriend.</A>
+<B><F>Ahh</F> my girlfriend. <SC>I</SC> <F>ahh</F> you know <F>er</F> <R>I</R> I went to England. <F>Umm</F> and I came back <F>er</F> <SC>one day</SC> <F>ah</F> before <F>ahh</F> sorry <F>er</F> before a week. And so <R>she</R> she did <F>uhh</F> almost <F>uhh</F> for our marriage. <nvs>laughter</nvs> So <SC>he</SC> she decide <F>um</F> our new house</B>
+<A><F>Uhh</F>.</A>
+<B>and she sent <F>uh</F> our <SC>invitention</SC> invitation letters of our wedding.</B>
+<A><F>Uh-huh</F>.</A>
+<B><OL><laughter><R>So</R></laughter></OL></B>
+<A><OL><F>Uhh</F></OL>.</A>
+<B>so she did very well. <OL>Yeah</OL>.</B>
+<A><OL><R>I see</R></OL>. I see. <F>Wow</F>. Anything else? Can you tell me more about her?</A>
+<B><F>Ahhh</F> <SC>she</SC> <F>ahh</F> now she work in another company but <F>umm</F> <R>she will</R> <F>umm</F> she will stop <SC>his</SC> <F>ahh</F> her job.</B>
+<A><F>Hm</F>.</A>
+<B><F>Ummm</F> <R>this</R> <SC>this month</SC></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>until this month</OL>. And for a while <SC>he</SC> <F>ah</F> <R>she</R> <nvs>cough</nvs> she <.></.> will be <F>uhh</F> <R>house</R> household wife. Yeah. <F>Hmm</F>.</B>
+<A>I see. What do you like about her?</A>
+<B><F>Ahhh</F> <nvs>laughter</nvs> <F>uhh</F> how can I say <F>ahh</F> <F>umm</F> <SC>I</SC> <JP><F>uunto</F></JP> she and I <F>umm</F> have <F>umm</F> the same hobby. <F>Umm</F> <R>it</R> it is <F>umm</F> playing volleyball.</B>
+<A><F>Hmmm</F>.</A>
+<B>So <F>uhh</F> we can <F>mm</F> volleyball together. <OL><F>Hmm</F></OL>.</B>
+<A><OL><R>I see</R></OL> <OL>I see</OL>.</A>
+<B><OL>It's good</OL> for us. <nvs>laughter</nvs></B>
+<A><R>Of course</R> of couse. <F>Wow</F>. <F>Wow</F> I'm very happy for you.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><R>Good</R> good. Now, Mister <H pn="B's name">XXX02</H> <SC>what</SC> tell me about your responsibility at work.</A>
+<B>Yes. <nvs>cough</nvs> <F>Uhhh</F> I'm a structural engineer of building. And <F>ah</F> I'm responsible for deciding <F>uh</F> the size of column and beam. <F>Um</F> and I belongs to housing <JP>repatorii</JP> so <F>uh</F> always <F>um</F> I work for <F>um</F> <.></.> <F>um</F> skyscraper <F>umm</F> residence.</B>
+<A><OL><F>Ummm</F></OL>.</A>
+<B><OL><nvs>cough</nvs></OL> <..></..> Yes. <OL><nvs>laughter</nvs> That's all</OL>.</B>
+<A><OL>O K, all right</OL>. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. First of all</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>I'd like</OL> to show you a picture.</A>
+<B>Yeah.</B>
+<ctxt>The interviewer is selecting a picture.</ctxt>
+<A>Let's do this. Here's a card for you.</A>
+<B>Yes. thank you.</B>
+<A>And please describe this picture for me.</A>
+<B>O K. <F>Umm</F> at first, <F>umm</F> <.></.> it's sunny day. And <F>ahh</F> <F>umm</F> there is a house. And there are one, two, three, four, five, six, <R>seven</R>, Seven people there. And <nvs>cough</nvs> a car is parking <F>umm</F> on the road. And on the top of it, <F>um</F>a cat is lying. And <F>hmm</F> a man who is sitting chair reads a newspaper. And another man is running on the pedestrian. And children <SC>is</SC> are playing with the ball. And <F>ahh</F> a girl is playing with rope. And <.></.> <R>two women</R> <F>umm</F> two women <SC>were</SC> are talking <R>on the road</R> on the road. <F>Ohh</F> one of them takes a dog <.></.> <F>hmm</F> <JP>nandaro</JP> <.></.>. It looks very peaceful <OL><nvs>laughter</nvs> Yeah</OL>.</B>
+</task>
+<followup>
+<A><OL>Yes O K</OL>. Now so <R>your</R> your girlfriend already decided where you're going to live.</A>
+<B>Yes.</B>
+<A>Right? Can you <F>ahh</F> tell me the difference between that apartment and <OL>this neighborhood</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> I see. <F>Ahh</F> at first, <F>umm</F> <R>in</R> in this picture <F>umm</F> it has <F>umm</F> huge garden. But <F>uhh</F> our house <F>ahh</F> doesn't have it. And <F>uh</F> <F>umm</F> our apartment is two story building.</B>
+<A><F>Um</F>.</A>
+<B>And <SC>we live</SC> we will live <F>mm</F> <SC>the</SC> <F>uhh</F> <R>fir</R> first floor in England so <R>se</R> second floor. <F>Umm</F> ground and <F>umm</F> first floor.</B>
+<A><F>Umm</F>.</A>
+<B><SC>And</SC> but in <SC>it</SC> <R>this</R> this house is <F>ahh</F> what can I say, <F>umm</F> <F>uh</F> one story building. <..></..> And <F>uh</F> <nvs>laughter</nvs> there are <F>uh</F> some children there but we don't have it.</B>
+<A>Not yet right?</A>
+<B><laughter>Not yet</laughter>.</B>
+<A><OL><laughter>I see</laughter></OL>.</A>
+<B><OL><laughter>Exactly</laughter></OL>.</B>
+<A>All right. <F>Ah</F> how many children do you want to have?</A>
+<B><F>Ummm</F>. <F>Ahh</F> I have <F>mm</F> two brothers. <F>Ahh</F> exactly, brother and sister. So <F>uhh</F> if <R>we</R> we have <F>uhh</F> three children <F>umm</F> I think <SC>it's better</SC>.</B>
+<A><OL><F>Hmmm</F></OL>.</A>
+<B><OL><F>Ahh</F></OL> it's good. Yeah.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>I see. O K. Thank you very much. <OL>Can I have</OL></A>
+<B><OL>Thank you</OL>.</B>
+<A>the card back? Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next I'm going to do a role-play.</A>
+<B>Yes.</B>
+<A><nvs>clearing throat</nvs></A>
+<ctxt>The interviewer is selecting a role-play card.</ctxt>
+<A>O K. Let's do this. Here is a card for you</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>written in</OL> Japanese so please read it to yourself.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL> when you're ready I'll begin.</A>
+<B>Yes and <SC>just minute</SC> just moment.</B>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<B>I see.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Yes sir. How may I help you?</A>
+<B><F>Umm</F> I'd like to go to New York by train.</B>
+<A>Yes.</A>
+<B><F>Ahh</F> <nvs>cough</nvs> how can I get to there <F>uh</F> the fastest way?</B>
+<A>O K. <F>Uh</F> we have two different types of train.</A>
+<B>Yeah.</B>
+<A><F>Eh</F> one is express.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>And then</OL> the other one is local.</A>
+<B>Yeah.</B>
+<A>And express is faster.</A>
+<B><F>Uh</F> <F>um</F> <F>uh</F> how long does it take to there?</B>
+<A>O K. To New York by <R>ex</R> <OL>express</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>It takes about thirty minutes.</A>
+<B>Thirty minutes. <F>Hmm</F> what about local train?</B>
+<A><F>Ahh</F> it takes more than hour.</A>
+<B>More than <laughter>hour</laughter>.</B>
+<A>Yes.</A>
+<B>So <F>uhh</F> how much does it cost to there by <F>uhh</F> express?</B>
+<A>O K. By express it costs ten dollars.</A>
+<B>Ten dollars?</B>
+<A><F>Uh-huh</F>.</A>
+<B>How about <laughter>local</laughter>?</B>
+<A>Local? <F>Um</F> seven dollars.</A>
+<B>Seven dollars. O K <F>um</F> so I'll take <F>mm</F> the express.</B>
+<A>O K.</A>
+<B>Yes. <.></.> Yeah.</B>
+<A>O K. So you need one ticket?</A>
+<B>Yes.</B>
+<A>One-way?</A>
+<B><F>Ahhh</F> <F>er</F> I'll take <F>umm</F> return ticket.</B>
+<A>O K. <F>Well</F> in that case <F>ahh</F> <R>it</R> it will cost you twenty dollars.</A>
+<B>Twenty dollars. <F>Ahh</F> so no discount?</B>
+<A>No.</A>
+<B><F>Ahh</F>. I see. <F>Um</F> <F>ehh</F> anyway I'll take return ticket <OL>please, yeah</OL>.</B>
+<A><OL>O K, all right</OL> O K. Here's a two-way ticket.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>And</OL> twenty dollars, please.</A>
+<B>Yes.</B>
+<A><OL>Thank you very much</OL>.</A>
+<B><OL>Here it is</OL>.</B>
+<A>That's it?</A>
+<B>Yes. <OL>That's all</OL>.</B>
+<A><OL>O K</OL>. Enjoy your trip.</A>
+<B><laughter>Yeah</laughter>. Thank you very much.</B>
+<A>Thank you. Can I have the card back?</A>
+<B>Thank you very much.</B>
+<A>O K. This is the end of the role-play.</A>
+</task>
+<followup>
+<A><OL>Now</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>you were <R>in</R> in England.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><R>What</R></OL> <F>ahh</F> what was the mode of transportation there?</A>
+<B>Mode of transportation?</B>
+<A><F>Uhh</F>.</A>
+<B><F>Uh</F> so <F>uh</F> <R>you</R> you mean train?</B>
+<A>Train or what kind of transportation <OL>did you use</OL>?</A>
+<B><OL><F>Ahh</F> I see</OL>. <F>Ahh</F> <F>umm</F> <SC>what's the <R>most</R></SC> <SC>most</SC> <F>uh</F> <R>what's</R> what's most surprise me is <F>uhh</F> <.></.> the <laughter>baddest</laughter> train. <nvs>laughter</nvs> <F>Umm</F> <F>uhh</F>.</B>
+<A>What do you mean?</A>
+<B><F>Ahh</F> yeah. <F>Umm</F> the train there is far from punctual.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Yeah. <F>Umm</F> <SC>they</SC> <SC>always they <F>uhh</F> late</SC>. They are late.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhh</F>. And <.></.> <R>the</R> the worst <F>uhh</F> more than one hour.</B>
+<A><F>Wow</F>.</A>
+<B>And the worst <F>uhh</F> <SC>he</SC> they didn't come. <nvs>laughter</nvs></B>
+<A><OL>Really</OL>?</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A><F>Wow</F>. So how did you move from one place to the other?</A>
+<B>Yeah <F>ahh</F> <R>we</R> we are prohibited to <F>ahh</F> <SC>driving a car</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B>driving car, so <F>uh</F> <R>we</R> <SC>we don't</SC> we didn't choose another way without the train.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>uhh</F> when <R>we</R> we move <F>umm</F> near distance, <F>er</F> we use bus. But <F>uhh</F> <nvs>laughter</nvs> the bus <SC>is always</SC> <F>uhh</F> isn't always punctual. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><CO>So</CO>.</B>
+<A><R>I see</R> I see. <F>Wow</F> must be difficult.</A>
+<B><OL>Yeah</OL>.</B>
+<A>All right. Thank you very much.</A>
+<B><OL>Thank you</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL>Now lastly</OL> I would like to show you</A>
+<B><F>Uh-huh</F>.</B>
+<A>sequence of pictures.</A>
+<B>Yes.</B>
+<A>Here's a card for you.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>And I'd like you</OL> to make up a brief story based on these pictures from number one six <OL>and</OL></A>
+<B><OL>O K</OL>.</B>
+<A>this happened before. So please start your story with "One day last week".</A>
+<B>O K. Just a moment.</B>
+<ctxt>The interviewee is looking at the picture sequence and thinking for a while.</ctxt>
+<B>O K. <F>Umm</F> can I start? <F>Ahh</F> one day last week, <F>umm</F> a woman <F>umm</F> was <R>looking for</R> looking for <F>umm</F> <SC>their fam</SC> <F>ah</F> her family's grocery in <F>mm</F> refrigerator. But <R>sh</R> <F>umm</F> she didn't find anything. So <F>ahh</F> she went to the supermarket by her car. And then, <F>umm</F> <nvs>cough</nvs> <R>she</R> <R>she</R> <R>she chose</R> <F>umm</F> she chose groceries <F>mm</F> <R>which</R> which was for <F>umm</F> their family's food. <R>And</R> and <R>she bought</R> <F>umm</F> she bought them. And then, <R>she</R> she rode their <F>ah</F> grocery into her car. And <F>umm</F> when she came back home, <F>um</F> <R>she</R> <SC>she cooked their family's food</SC> <F>uhh</F> she cooked the family food. And this is an <R>egg</R> <.></.> egg and <F>ah</F> something <F>umm</F> <laughter>I don't know what is</laughter> but <F>umm</F> something bolied <F>uh</F> food. Yeah. <OL>That's all</OL>.</B>
+<A><OL>O K</OL> good.</A>
+</task>
+<followup>
+<A>Now, what did you think about the <F>ah</F> food in England?</A>
+<B><F>Ohh</F> <F>uhh</F> not so bad. <F>Uhh</F></B>
+<A>Really?</A>
+<B><SC>when I</SC> <F>ahh</F> sorry, <F>uhh</F> before I went to England, <F>umm</F> I heard it was terrible.</B>
+<A>That's what I heard.</A>
+<B><laughter>Yeah</laughter>. But <F>uhh</F> <F>ahh</F> when I was here, <F>ahh</F> I had something <R>goo</R> good food. <F>Ahh</F> for example, <F>ahh</F> <SC>I have</SC> I had roast beef. <F>Uh</F>. It was very good. <F>Uhh</F> <R>it was</R> it was better than Japanese one. And <F>ah</F> <F>ahh</F> <F>ahh</F> <R>what</R> what the most delighted me is <F>ahh</F> <F>ahh</F> be able to have <F>ah</F> good beers.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Ahh</F> I didn't know <F>mm</F> I can have a good beer in England.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But <F>uhh</F> the beer is very good.</B>
+<A>Is that right?</A>
+<B>Yeah. <F>Uhh</F>.</B>
+<A>I see.</A>
+<B>I drink almost <R>every</R> everyday. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> <R>dear</R> dear, I hope you studied hard there</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Good Mister <H pn="B's name">XXX02</H> this is almost the end of the interview. So <F>um</F> <R>are you</R> are you going back home <F>um</F> on time to see your girlfriend everyday?</A>
+<B><F>Umm</F> <OL>no unfortunately <nvs>laughter</nvs></OL>.</B>
+<A><OL>No <F>ohh</F> I see</OL>.</A>
+<B>Now <R>I am</R> I am very busy.</B>
+<A>You are?</A>
+<B>Yeah.</B>
+<A>Because <R>the</R> the end of the fiscal year?</A>
+<B>Yes.</B>
+<A><F>Ummm</F> O K. <F>Well</F> congratulations <OL>again</OL>.</A>
+<B><OL>Yeah, thank you very much</OL>.</B>
+<A><OL><SC>I hope you will</SC></OL> your life is very happy.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Great</OL>. Thank you. This is <SC>an</SC> the end of the interview. <OL><F>Uhh</F> O K</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,130 @@
+<interview>
+<filename>file00093.txt</filename>
+
+<head version="1.3">
+<date>2000-06-19</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>landlord_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K let's begin, my name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K, <H pn="B's name">XXX02</H> how are you today?</A>
+<B>I'm fine thank you. And you?</B>
+<A>I'm all right, thank you. Is it hot outside?</A>
+<B>Yeah, it's hot.</B>
+<A><F>Mm</F>. Do you like a day like this?</A>
+<B>Yeah, but I sweat a lot <.></.> but <R>I</R> I like this weather.</B>
+<A>Did you have lunch?</A>
+<B>No, not yet.</B>
+<A>Not yet?</A>
+<B>Yeah.</B>
+<A>I see. What are you going to have?</A>
+<B><F>Um</F>. I'm not sure but <.></.> I like <F>um</F> Japanese noodle so I'm going to have noodle today.</B>
+<A>O K. O K, <H pn="B's name">XXX02</H>, what did you do last weekend?</A>
+<B>Weekend? <F>Um</F>. Last weekend, <.></.> yeah, <F>oh</F> I <SC>have</SC> had a party for <F>er</F> Father's Day</B>
+<A><F>Wow</F>.</A>
+<B>with my family at home. Yeah, with my parents, my father and my mother and I.</B>
+<A>I see tell me more about the party.</A>
+<B><F>Um</F>. <.></.> So <F>erm</F>. <.></.> The party begun at about <F>er</F> six o'clock evening and <F>er</F> my father and I had a lot of beer. And <SC>have</SC> had a lot of foods <R>and</R> <F>er</F> and <.></.> during the party, my father and I enjoyed baseball game on TV. Yomiuri and the <.></.> Hanshin Tigers. So we are the funs of the Yomiuri Giants so the Yomiuri Giants won the game so we were very happy.</B>
+<A><F>Ah</F>. That's good. <F>Mm</F>. O K, thank you <H pn="B's name">XXX02</H>. Then, do you have any hobbies?</A>
+<B>Yeah, I like <F>er</F> playing the instrument. Instrument is trumpet. And I like music. Yeah, and I like classic music best. <F>Er</F>. Brahms or Beethoven, or Brookner, or Strauss, so on. And I like sports. All sports I like, baseball and soccer and tennis and the running, and skiing, skating <.></.> and so on.</B>
+<A>I see. About music, why do you like classic music better than other kinds of music like rock, pops,</A>
+<B>Yeah, I think classic music <SC>is</SC> <F>er</F> the most <F>er</F> <R>has</R> <F>er</F> has longest history <.></.> <R>among the</R> among the other musics, I think. And <F>er</F> classic music <R>is</R> <.></.> is the most famous music for people all over the world, I think.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Mm</F>. O K, thank you, <H pn="B's name">XXX02</H>. Now, I'm going to show you a picture. O K, please describe this.</A>
+<B>Yeah <.></.> <F>Erm</F>. At the restaurant, <.></.> a couple <.></.> is <.></.> at table. And <.></.> the man is trying to <.></.> test <SC>the wine</SC> red wine. And <R>it seems</R> it seems good.</B>
+</task>
+<followup> 
+<A><F>Um</F> O K, thank you. Do you like wine?</A>
+<B>Yeah, I like wine.</B>
+<A><F>Oh</F> you said you like beer but,</A>
+<B>Yeah, <R>I</R> I like beer and wine and whiskey and Bourbon and,</B>
+<A><F>Oh</F>. How do you feel when you get drunk?</A>
+<B><F>Oh</F>. It's <SC>it's</SC> I feel <R>I feel</R> very good but a little bit <.></.> feel sick, <.></.> after drinking a lot. But <R>I like</R> I like drinking.</B>
+<A><F>Uh</F>. Did you have any trouble by drinking a lot?</A>
+<B>Yeah, <F>er</F> so, yeah, <.></.> <F>er</F>. <R>When I</R> when I have a lot of drink, I always have a hangover.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. That's bad <nvs>laughter</nvs> O K, thank you, now, let's do a role-play. Please read this card and when you're ready, I'll start the conversation.</A>
+<ctxt>The examinee is looking at the card and thinking of what to say.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Hello, may I help you, sir?</A>
+<B>Yes <F>er</F>. I'm looking for apartment. And <R>I like a</R> I like a room that has a two rooms, do you have one?</B>
+<A>Yes, many.</A>
+<B>Yeah and <F>er</F> <R>I like</R> I like the room that is very near from the station and I don't like the second floor.</B>
+<A>Why?</A>
+<B><F>Oh</F>. <SC>Second floor</SC> <SC>so it's</SC> <F>er</F> <F>erm</F>. Because I don't like to go up stairs every day, so it's easy.</B>
+<A><F>Oh</F> you're still young.</A>
+<B><F>Oh</F> <F>ah</F> yes, but <SC>five years</SC> after five years <R>I</R> <R>I</R> <R>I</R> I am going to getting <F>er</F> five years. So, yeah, <R>I will be</R> I will be thirty years old. So <R>it's</R> it's hard to go up stairs.</B>
+<A>I see.</A>
+<B>Yeah. Do you have one?</B>
+<A><F>Mm</F>. How much would you lie to pay for the apartment?</A>
+<B>Yeah, <F>Erm</F>. I can afford to pay <F>er</F> eighty thousand yen a month.</B>
+</task>
+<followup>
+<A>O K, O K, let me check. O K, thank you, good, that's the end of the role-play, thank you. <F>Mm</F>. Have you ever thought about finding an apartment for yourself?</A>
+<B>Sorry?</B>
+<A><F>Er</F>. Live separately.</A>
+<B><F>Oh</F>.</B>
+<A>Independent.</A>
+<B>Yeah, I think <.></.> I live with my parent and <F>er</F> so <R>I am</R> I am a man <SC>so</SC> and <R>I</R> <SC>I have a brother but</SC> <F>er</F> I have only brother <SC>I have</SC> <F>er</F> I don't have a sister so. And <SC>we</SC> <SC>our</SC> <SC>we</SC> <F>eh</F> I and my brother, can't <F>er</F> <.></.> cooking or do laundry and <.></.> do <F>er</F> cleaning house and doing dishes. <SC>So</SC> <SC>and</SC> so <R>I</R> <R>I</R> I'm a man so it's so difficult to live alone, <OL>but</OL>,</B>
+<A><OL>I see</OL> but?</A>
+<B><nvs>laughter</nvs> <R>but</R> <.></.> but someday, <SC>I must</SC> I have to live alone. So I need practice to <R>live</R> <F>er</F>live alone.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see, O K, thank you, <H pn="B's name">XXX02</H> now please look at this and make a story using these six pictures. Please start <F>er</F> with "One day last week".</A>
+<B>Yeah.</B>
+<A>Because it happened before.</A>
+<ctxt>The examinee is looking at the pictures and thinking of what to say.</ctxt>
+<B><F>Er</F>. He is just "he"? O K?</B>
+<A><F>Mm</F>.</A>
+<B>Or "I"?</B>
+<A><F>Er</F> you decide, either is O K.</A>
+<B>O K. <.></.> One day last week, I invite my friends to go <.></.> to the zoo by car. And <.></.> we enjoyed <.></.> <R>looking</R> looking at lions and monkeys with eating bananas <.></.> And <.></.> we had a good time at the zoo.</B>
+</task>
+<followup>
+<A>O K, think you <H pn="B's name">XXX02</H> do you think a zoo is a good dating spot?</A>
+<B><.></.> Yeah, I think, because <F>er</F> <.></.> the topic <R>between</R> <F>er</F> between a couple is <F>er</F> just <F>er</F> <SC>animals</SC> about animals. So <F>er</F> the man <.></.> never confuse to <F>er</F> <SC>decide whether</SC> decide a topic with a girlfriend. <.></.> So it's good place to have a date, I think.</B>
+<A>I see. <F>Er</F>. There are any bad points about it?</A>
+<B>Bad point. <F>Oh</F>. Yeah, <F>er</F> it's very hard to walk around at the zoo, I think.</B>
+<A>I see. O K, <H pn="B's name">XXX02</H> would you please tell me about your last date.</A>
+<B>Last date?</B>
+<A><F>Mm</F>.</A>
+<B><.></.></B>
+<A>Where did you go? What did you do?</A>
+<B><F>Oh</F> <F>er</F>. <.></.> Last date, yesterday, we had a date and went to a shop to buy contact lenses. And after that, <SC>I</SC> we went to <F>er</F> music store in <H pn="others1">XXX03</H> that is called <H pn="others2">XXX04</H> and I bought <SC>a score</SC> <F>er</F> <SC>two scores</SC> <R>two</R> two scores. <.></.> <SC>That was</SC> <F>er</F> those are <.></.> symphony number nine by Beethoven <R>and</R> and <R><F>er</F></R> <SC>Brahms'</SC> <F>er</F> Symphony number two by Brahms. And after that we go to department store <R>to</R> to buy my suit. Because I have only two suits and <R>I</R> I will start working from next July so I need more. <.></.> And after that, <R>I</R> I had the appointment to have a party with my family. So <SC>we</SC> <.></.> <R>after</R> <R><F>er</F></R> <SC>after we</SC> after looking for a suit, we said good bye and I <R>went</R> went home.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Em</F> I see, O K, thank you very much, <H pn="B's name">XXX02</H>. Now we're almost <SC>the end</SC> at the end of the interview but what are you going to do this evening?</A>
+<B>This evening? <F>Erm</F>. <.></.> This evening, after this interview <SC>I will</SC> I'll go to library near the <F>er</F> university <.></.> And <SC>I will</SC> <R>I'll</R> <R>I'll</R> I'll be studying English <R>until</R> until nine o'clock <R>and</R> and I'll go home.</B>
+<A>I see. You're such a good student.</A>
+<B>Yeah, <F>er</F> yeah.</B>
+<A>O K, think you very much for coming in today.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

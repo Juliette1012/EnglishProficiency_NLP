@@ -1,0 +1,209 @@
+<interview>
+<filename>file00593.txt</filename>
+
+<head version="1.3">
+<date>2001-09-10</date>
+<sex>male</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>480</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Nice to meet you.</A>
+<B><.></.> Nice to meet you.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. <F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uh-huh</F>. Mister <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Where are you from?</A>
+<B><F>Er</F> <.></.> I'm from <R><H pn="others1">XXX03</H></R> <H pn="others1">XXX03</H> City.</B>
+<A><F>Uh-huh</F>. <F>Urr</F> what part of <H pn="others1">XXX03</H> <OL>are you from</OL>?</A>
+<B><OL><F>Urrr</F></OL> <H pn="others2">XXX04</H>. Near here.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>I see. So how do you come to the office?</A>
+<B><F>Urrr</F> <.></.> <SC>sometimes I <.></.> come here by bicycle, but</SC> <.></.> <F>urr</F> sorry <R>usually</R> usually I came here by bicycle. But <F>uhm</F> for example today, <F>ee</F> <SC>it</SC> if it rains, <F>uhh</F> I'm came here by <R>subway</R> subway.</B>
+<A><F>Ahh</F>. O K. So how long does it take you by <SC>bike</SC> bicycle? <F>Er</F>.</A>
+<B><F>Ahh</F> about <F>uhh</F> fifteen minutes.</B>
+<A><F>Uhmm</F>. O K. And do you live with your family?</A>
+<B>Yes. <R>I</R> I live with my <.></.> parents and grandfather.</B>
+<A><F>Ah</F> O K. Then tell me about your father, please.</A>
+<B><nvs>laughter</nvs> <SC>I</SC> <R>my</R> my father likes <F>urr</F> drinking so much</B>
+<A><F>Oh</F>.</A>
+<B><laughter>and</laughter> smoking so much. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><F>Urrr</F> <.></.> <F>uhm</F> the doctor <SC>says</SC> said to my father that <F>urr</F> <.></.> "You should stop drinking and smoking.". But my father <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>urr</F> don't want to stop. <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><F>Ohh</F></OL> I see.</A>
+<B>But <F>uhmm</F> <.></.> for me, <SC>my father <R>is very</R> <F>urr</F> <.></.> <F>uhm</F> <.></.> is very</SC> <F>urr</F> <.></.> <R>I</R> I respect to my father.</B>
+<A><F>Oh</F> that's good.</A>
+<B>Because <F>urr</F> my father works hard <.></.> and <F>urr</F> <..></..> <laughter>that's all</laughter>.</B>
+<A><F>Ahh</F>. O K. Do you smoke and drink yourself?</A>
+<B>Yes. But <SC>I do <.></.> <R>so much</R> so much</SC> <.></.> <SC>I don't</SC> I didn't do so much.</B>
+<A><F>Uh-huh</F>. O K. <F>Hum</F> what do you like to drink?</A>
+<B><F>Ahhh</F> <.></.> yes, <R>I</R> I really like, but <.></.> <R>I</R> <.></.> <R>I don't drink</R> <.></.> I don't drink every day.</B>
+<A>Every day?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>O K</OL>. What is your hobby?</A>
+<B><F>Er</F> my hobby is skiing.</B>
+<A><F>Oh</F>. O K.</A>
+<B><R>When</R> when I was <.></.> in college,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><R>I</R></OL> <SC>I belong</SC> <.></.> I do the <.></.> <F>urr</F> <SC>racing ski</SC> <.></.> <SC>ski</SC> <SC>race ski</SC> I <F>er</F></B>
+<A><F>Uh-huh</F>.</A>
+<B>ski race.</B>
+<A><F>Ah</F>. O K. Were you a good skier?</A>
+<B><F>Urrr</F> <.></.> <R>I</R> <laughter>I think so</laughter>. <F>Urr</F> last year, <F>urr</F> <.></.> <R>I</R> I got first price in all <H pn="company name1">XXX05</H> ski competition.</B>
+<A><F>Wow</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Congratulations</OL>.</A>
+<B><laughter>Thank you very much</laughter>.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ahhh</F>. That's wonderful. O K. O K, then, look at this picture, please.</A>
+<B><laughter>Yes</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><?>You said</?> you like skiing</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Please</OL> describe it.</A>
+<B>Yes. <F>Urr</F>. <..></..> There is much snow <.></.> in <JP>gerende</JP>. <F>Uhh</F> many skiers <SC>is</SC> are skiing. And <..></..> <F>urr</F> <.></.> <R>some</R> <.></.> some children <.></.> <F>urr</F> is doing <.></.> <F>uhm</F> <R>snow</R> <.></.> snow fight. <F>Uhm</F> <R>the</R> <.></.> <F>urr</F> the lifts are <.></.> empty. <F>Uhm</F> <.></.> <SC>the</SC> <.></.> one man <.></.> <R>who</R> who wears <F>urr</F> <R>black s</R> black <.></.> ski wear is laid on snow. <F>Urr</F> <.></.> some people <.></.> <R>is <.></.> tea</R> is <SC>teached</SC> <.></.> to <F>err</F> teached how to skiing <.></.> by one teacher. <F>Urr</F> <R>the</R> <.></.> <F>uhmm</F> <.></.> the red snow car is parked on in front of <F>urr</F> rest house. <F>Urr</F> <SC>many</SC> <.></.> <F>urr</F> <R>one</R> <.></.> <F>err</F> <SC>one</SC> <.></.> <JP><F>uunto</F></JP> <F>err</F> <..></..> <R>two</R> <F>uhm</F> two people which is in rest house is drinking and talking. <..></..> Four skies and one snowboard <R>is</R> <F>um</F> <.></.> is <SC>laid on</SC> <.></.> <F>urr</F> <.></.> laid <.></.> in front of <.></.> <R>rest house</R> <F>err</F> <.></.> rest house. <F>Um</F>. <..></..> <R>It</R> <F>err</F> it is fine today. <F>Urr</F>. <..></..> <JP><F>Uunto</F></JP>.</B>
+</task>
+<followup>
+<A>O K. That's very good. Thank you very much.</A>
+<B>Thank you.</B>
+<A><F>Uh-huh</F>. Why did you want to start skiing?</A>
+<B><F>Ahh</F>. <.></.> <R>When</R> when I was in high school, <.></.> <R>I</R> <SC>I fir</SC> <F>urr</F> <R>I <R>ski</R> skied</R> I skied first. <F>Urr</F>. <.></.> <SC>Whe</SC> <F>urr</F> then, <SC>I thought ski is a lot of fine</SC> <.></.> really <F>er</F> ski is really a lot of fine for me.</B>
+<A><F>Uhmm</F>.</A>
+<B>That's why I <.></.> started <SC>to ski</SC> skiing. And <.></.> <SC>after graduate I</SC>, after I graduate my high school, <F>urr</F> <..></..> <R>I</R> <.></.> I wanted to do skiing <F>urr</F> <.></.> hard.</B>
+<A><F>Ah</F>.</A>
+<B>And <R>after</R> after then <R>I</R> <.></.> I joined the ski club of my college.</B>
+<A><.></.> O K. Thank you <OL>very much</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, let's do a role play. This is your card. Please read it.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>When you're ready, I will start. <F>Er</F> ready?</A>
+<B>Yes.</B>
+<A>O K. Yes. May I help you?</A>
+<B><F>Urm</F> <?>excuse me</?>, <F>urr</F> <R>I want to</R> I want to go to New York <F>ur</F> <..></..> fast. <F>Er</F> <SC>which lane</SC> <F>er</F> which line <F>urr</F> <.></.> do I have to choice?</B>
+<A><F>Er</F> which train?</A>
+<B><F>Er</F> <R>which lane</R> which lane <F>urr</F></B>
+<A><F>Ahhh</F>.</A>
+<B><.></.> <SC>Only one</SC> there is only one lane? <F>Urrr</F>.</B>
+<A><nvs>laughter</nvs></A>
+<B><??></??> <JP><F>Eeeto</F></JP> <..></..> <F>Er</F> sorry.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F> where should I buy the ticket of train?</B>
+<A><F>Ah</F>. You can buy ticket here.</A>
+<B><F>Urr</F> <.></.> <SC>I want</SC> <.></.> <SC>which</SC> <F>urr</F> <.></.> <R>I want to</R> I want to go to New York <.></.> fast. <R>Which train</R> which train do I have to choice?</B>
+<A><F>Ahh</F> the next train will start at eleven thirty.</A>
+<B><F>Ah</F> yes. Eleven thirty? <F>Ur</F> O K. <F>Urr</F> <.></.> <R>I</R> <.></.> I will take a ticket. <F>Urrr</F> <.></.> how much is it?</B>
+<A>Twenty dollars.</A>
+<B>Yes. Twenty dollars? <F>Urr</F> <.></.> here you go.</B>
+<A><F>Er</F> thank you. And this is your ticket.</A>
+<B>Thank you.</B>
+<A>Have a nice trip.</A>
+<B>Thank you <.></.> very much. See you. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><laughter><OL>O K</OL></laughter>. This is the end of role play. Have you been to New York?</A>
+<B><F>Urr</F> no. But last summer, I went to San Francisco and Las Vegas.</B>
+<A><F>Ahh</F>. O K. Tell me about your trip, please.</A>
+<B><F>Ah</F> <?>yes</?>, <.></.> <F>urr</F> Las Vegas is <F>urr</F> really fantastic. The hotel is much big and <.></.> <F>ur</F> there are <.></.> lot of entertainment.</B>
+<A><F>Ah</F>.</A>
+<B>And for example, magic show</B>
+<A><F>Ah</F>.</A>
+<B>and circus.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><F>Uhm</F></OL>. <SC>It's a <.></.> good</SC> <F>urr</F> <.></.> it good experience for me.</B>
+<A><F>Ahh</F>. How about San Francisco?</A>
+<B><SC>San Francisco is</SC> <F>urr</F> <.></.> <R>I</R> I thought it's a <F>uhm</F> little country and <SC>a little</SC> <F>uhmm</F> <.></.> <F>uhmm</F> <.></.> <F>ur</F> <SC>is a</SC> <.></.> <SC>it very</SC> <.></.> it was very <.></.> comfortable.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Um</F>. It's a <.></.> cooler.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And the <F>er</F> <R>wind</R> <.></.> wind blowed.</B>
+<A><F>Uhm</F>.</A>
+<B><SC>And</SC> <.></.> but <.></.> in the night time,</B>
+<A>Yes.</A>
+<B><R>I didn't</R> <.></.> I didn't go <.></.> out</B>
+<A><F>Oh</F>.</A>
+<B>from hotel.</B>
+<A>Why not?</A>
+<B><F>Uhm</F> I heard <.></.> <R>it</R> it is <.></.> a little dangerous. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B><F>Er</F> nighttime is not so good. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B><R>I</R> I must stay in hotel <laughter>all time</laughter>.</B>
+<A><F>Ahh</F>. You <?>like <F>er</F></?> daytime.</A>
+<B>Yes.</B>
+<A><?>In</?> San Francisco.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL>O K</OL>. That's very good <?>to hear</?>. Then, another picture for you. This time, please make up a story</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>using</OL> six pictures.</A>
+<B><F>Uhm</F>.</B>
+<A>It happened before.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>So</OL> please start your story with "One day last week".</A>
+<B><F>Uhm</F>.</B>
+<ctxt>The interviewee is looking at the picture and thinking for a while.</ctxt>
+<B><F>Hum</F>. <F>Oh</F>. <.></.> Can I start?</B>
+<A><F>Ah</F> yes, please. Go ahead.</A>
+<B><F>Er</F>. <..></..> One boy and <SC>his</SC> <.></.> I think <F>urr</F> his <.></.> uncle <F>urr</F> <.></.> meet <.></.> in front of <.></.> restaurant. And then, <R>they</R> <.></.> they <SC>went to <.></.> restaurant <R>and</R> <.></.> <F>urr</F> and</SC> <..></..> <F>urr</F> went to restaurant. And three. <.></.> <R>They</R> they ordered. Four. <R>They</R> <.></.> they drank and ate so much together. <F>Er</F> five. <F>Urr</F> <.></.> <R>his</R> his uncle <F>urr</F> <.></.> checked. Six. <CO>After they</CO> <F>urr</F> <..></..> <R>he</R> he said bye and his uncle bye. <SC>He <.></.> is</SC> <SC>he was</SC> <F>er</F> <SC>he <..></..> came</SC> <.></.> <?>they</?> came back. <.></.></B>
+</task>
+<followup>
+<A>O K. Thank you very much. O K. <F>Er</F> what is the difference between eating out and eating at home?</A>
+<B><F>Urr</F>. <..></..> <F>Uhmm</F>. <..></..> I think <R>if</R> if I eat <.></.> outside, I can <R>eat</R> <F>uhh</F> <.></.> eat something <SC>which is</SC> <F>er</F> <.></.> which <.></.> can't be cooked in <.></.> my house. <F>Uhm</F>. <..></..> <CO>And <F>uhm</F> <.></.> <SC>it's a</SC> eating outside <R>is</R> <..></..> <F>uhm</F> <.></.> <F>urr</F> <.></.> <R>is</R> <F>uhm</F> <F>uhmm</F> <..></..> is</CO> <F>er</F> sorry <.></.> <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B><CO><R>I</R> I don't <OL>under</OL></CO></B>
+</followup>
+</stage4>
+<stage5>
+<A><OL>O K</OL>. Fine. O K. Thank you very much. And this is almost the end of interview.</A>
+<B>Yes.</B>
+<A>So I know you are excellent skier. So this coming winter,</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><OL>do you</OL> have any plans of going skiing?</A>
+<B><F>Ahh</F>. <.></.> I'm going to <.></.> Hokkaido <SC>in <.></.> the</SC> <..></..> <SC>in this winter</SC> in this season.</B>
+<A>This season?</A>
+<B>Beginning of this season.</B>
+<A><F>Ahh</F>. So how long will you be in Hokkaido?</A>
+<B><F>Urr</F> I think <R>about one</R> about <SC>one</SC> <F>uhmm</F> four or five days.</B>
+<A>Four or five days?</A>
+<B><F>Er</F> yes.</B>
+<A>O K. Is it your first time to go to Hokkaido?</A>
+<B><F>Er</F> no. <F>Uhm</F> <R>I</R> I have been there <F>er</F> three times.</B>
+<A>Three time?</A>
+<B>Yes.</B>
+<A>O K. Is Hokkaido good place for skiing in Japan?</A>
+<B>Yes. <F>Urm</F> because of snow <R>is <.></.> not</R> <.></.> is not so wet.</B>
+<A><F>Ahh</F>.</A>
+<B><R>It</R> it doesn't conclude so much water.</B>
+<A><F>Uhmm</F>. O K. <F>Well</F>, please enjoy your skiing</A>
+<B><OL><laughter>Thank you very much</laughter></OL>.</B>
+<A><OL><?>when you</?> stay in Hokkaido</OL>. And thank you for your time. This is all.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>Thank you</OL>.</A>
+</stage5>
+</body>
+</interview>

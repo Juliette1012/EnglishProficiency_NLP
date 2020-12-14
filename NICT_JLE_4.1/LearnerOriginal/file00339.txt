@@ -1,0 +1,177 @@
+<interview>
+<filename>file00339.txt</filename>
+
+<head version="1.3">
+<date>2001-03-05</date>
+<sex>female</sex>
+<age>30</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice meet you, too.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Sure.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F>. Fine, and bit cold.</B>
+<A>Yes. Do you like winter?</A>
+<B><F>Ah</F>. Actually, a kind of "yes and no". I don't like coldness, but <R>fre</R> freshen you up.</B>
+<A><F>Um-hmm</F>. Yes. Where do you live?</A>
+<B><F>Ah</F>. I live in <H pn="others1">XXX03</H> city.</B>
+<A><F>Um-hm</F>. Do you like <H pn="others1">XXX03</H>?</A>
+<B><F>Ah</F>. Yes, it's nice city. Nice and quiet.</B>
+<A><F>Ah</F>. Yes. How do you like it?</A>
+<B><F>Ah</F>. It's like <F>ah</F> foods are tasty. And a good food and cakes are delicious. I like <F>ah</F> lots of attractions for a sightseeing. <OL><F>Um-hm</F></OL>.</B>
+<A><OL><F>Fmm</F></OL>. Where do you recommend?</A>
+<B><nvs>laughter</nvs> <F>Ah</F>. <R>I</R> I don't know. I like <F>ah</F> mountainous sight where lots of a foreign style houses located, and <R?>I</R?> I like also <H pn="others2">XXX04</H>.</B>
+<A>Do you often go there?</A>
+<B><F>Ah</F>. Yes, once in a while.</B>
+<A><F>Ah</F>. Really? <nvs>laughter</nvs> So, do you live with your family?</A>
+<B>Yes, with my husband, yes.</B>
+<A>Could you tell me more about your husband?</A>
+<B><F>Ah</F>. My husband <SC>were</SC> <SC>is</SC> <F>ah</F> was raised up in Osaka. And he now works in Osaka <F>ah</F> company near here.</B>
+<A><F>Um-hm</F>.</A>
+<B><F>Um-hm</F>. <SC>But</SC> and he worked here for two years, and, before, he worked in Tokyo for about five years. And <R>he's</R></B>
+<A>O K. Go ahead.</A>
+<B><F>ah</F> he's <F>ah</F> very kind, yes, and supportive.</B>
+<A><F>Oh</F>. Really? <F>Ah</F>. Nice husband.</A>
+<B>Yes. <OL><laughter><??></??> yes</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <?>Listen</?>. What do you do?</A>
+<B><F>Ahm</F>. Actually, I'm a currently housewife, but I study English at <H pn="school name1">XXX05</H> <SC>and</SC> <R>for pa</R> for past two years.</B>
+<A><F>Ah-hm</F>.</A>
+<B><F>Um-hm</F>. And, before, I worked in Tokyo for five years also. <SC>And</SC> because my husband assignment here, <SC>I ch</SC> I quit my job <SC>in</SC> <F>an</F> <F>ah</F> foucussed on studying.</B>
+<A><F>Oh</F>. Really? So, how come you got interested in English?</A>
+<B><F>Ah</F>. I don't know. <SC>It</SC> maybe, it's nice to understand <SC>people's</SC> <F>ah</F> for other people's speaking. And, with English, you have lots of opportunities to learn many things in the world. So I got really interested in English, <SC>in</SC> when I was in <R>juni</R> junior high school. And, in high school, I went <SC>stu</SC> abroad for studying in Canada and the United States.</B>
+<A><F>Ah-hm</F>.</A>
+<B>Yes. And, then, I kind of continued studying, yes.</B>
+<A>And, what do you want to do in the future?</A>
+<B>I hope to become an interpreter, but <R>I</R> I don't know. It still seems a long way to go.</B>
+<A><F>Ahh</F>. I don't think so. <nvs>laughter</nvs> <SC>And</SC> so, <F>ah</F> what do you usually do <F>ah</F> in your free time?</A>
+<B>In my free time, <SC>I read a books</SC> I read books and listen to <F>ah</F> news, <F>ah</F> T V like C N N, B B C. And I like, <F>ah</F> taking care of plants. And also, on weekends, I visit many places around Kansai area.</B>
+<A>What kind of plants?</A>
+<B><F>Ah</F>. <R>Most</R> most <F>ah</F> of them are green.</B>
+<A><F>Um-hm</F>.</A>
+<B>Like, but simple flowers like tulips and pansies.</B>
+<A>In your garden?</A>
+<B>No, in a veranda. I have a <R>contain</R> containers.</B>
+<A><F>Um-hm</F>. Really? Sounds nice. O K, thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>And, first of all, I'll show a picture today, and, <R>ple</R> please describe this picture in detail.</A>
+<B>Yes. <F>Ah</F>. There is a <SC>classroom</SC> school classroom. And there are one teacher and several students. Some of them are listening <?>hard</?>, <SC?>who</SC?> what teacher explains, but some <F>ah</F> looks like boring, chewing gums. And someone <SC>talk</SC> busy in talking with each other, and some is seems like with headphone, <SC>wi</SC> listening a music and drinking <F>ah</F> something from a pet bottle. And <SC>they</SC> there <SC?>i</SC?> are two boys, no, three boys and three girls in the picture. And <SC>door is</SC> window is open. And, from their cloth, they are wearing, the season seems <F>ah</F> summer.</B>
+</task>
+<followup>
+<A>O K, thank you very much. <F>Ah</F>. Compared this picture, what were your school days like?</A>
+<B><F>Ahhm</F>. I think, in my school days, <F>ah</F> people a little bit more serious <laughter>with studying</laughter>. <laughter>And <??></??></laughter>. <nvs>laughter</nvs></B>
+<A><laughter>Yes, and</laughter>?</A>
+<B>But, yes, <R>it's</R> it's very equal to days of my studying, yes.</B>
+<A>So, did you wear uniform?</A>
+<B>No, I didn't wear uniform. <SC>It</SC> my school was a <SC>Me</SC> public school in Tokyo, but they didn't have uniforms.</B>
+<A>Did you like it?</A>
+<B>Yes. It's a free style school. <F>Um-hm</F>.</B>
+<A><nvs>laughter</nvs></A>
+<B><R>Not</R> <SC>not</SC> <?>I'm not much of this</?> <??></??> things.</B>
+<A><F>Ah</F>. Really? What do you think about uniforms in school? <nvs>laughter</nvs></A>
+<B><F>Ah</F>. A kind of <?>miss</?> because, in the morning, you don't have trouble of deciding which clothes to wear. It's very convenient.</B>
+<A>Yes. <nvs>laughter</nvs></A>
+<B>Yes.</B>
+<A>O K. Did you <SC>wanted</SC> want to wear uniform in your school days? <nvs>laughter</nvs></A>
+<B><F>Ah</F>. In my school days, <?>I kind of liked a</?> regular, normal, <SC>ordinary school</SC> <F>ah</F> ordinary clothes.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, O K, <SC>I</SC> we'll do a role play.</A>
+<B>Yes.</B>
+<A>And, please read this card. And, when you're ready, I'll start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K, I'm ready.</B>
+<A>Ready? O K. <F>Ah</F>. Hello. May I help you?</A>
+<B>Yes, <SC>I must</SC> <F>ah</F> I said that I was <F>ah</F> joined your <F>ah</F> tour, and it advertised many things with <F>ah</F> <F>ah</F> lots of gorgeous <F>ah</F> services. But, when I actually experienced the tour, after the tour and during, and there were some <F>ah</F> differences with your <SC>exp</SC> advertisement and actual tour. And, maybe, I hope to be <SC>comsen</SC> compensated <SC>with</SC> in some kind of form.</B>
+<A><F>Ah</F>. O K. At the moment, I'm afraid I can do nothing for you.</A>
+<B>Yes.</B>
+<A><F>Umm</F>. But, could you explain more about your problem?</A>
+<B>Yes, it was a cruise around the world. And <SC>I said</SC> they said we could experience lots of <R>si</R> <F>ah</F> sightseeings without optional fee. But, actually, <SC>your schedule</SC> the trip schedule was a little bit tight. And we have not much options to look out during our stay in the course. So, compared with your <SC>as</SC> advertisement <SC?>to</SC?>, we cannot understand why the service was so poor and different with your original's plan.</B>
+<A><F>Ah</F>. But, why didn't tell your problem to tour conductor?</A>
+<B>Yes, we did. And tour conductor was suggesting we ask <F>ah</F> tour agency for the problem afterwards, and they will <F>ah</F> do something for us to compensate <SC>our services</SC> their services.</B>
+<A><F>Oh</F>. O K. Anyway, <SC>I'm</SC> we're very sorry for that. And, O K, I'll give you <F>ah</F> a coupon for your next trip.</A>
+<B><F>Um-hm</F>.</B>
+<A><SC>You are so</SC> please use this coupon for your next trip.</A>
+<B><F>Ahh</F>. Yes, but, because <SC>we were so <SC>look</SC> looking</SC> we were so looking forward to this plan, this was our long awaited plan to <F>ah</F> travel around <SC>with</SC> by ship. And we don't have <F>ah</F> future prospects for next long vacation, yes.</B>
+<A>I'm sorry. I understand <SC>you</SC> what you said. <F>Ah</F>. I'm very sorry. <F>Ahh</F>. But, after your travel, we can't do anything for you. I'm sorry. So, please <F>ah</F> accept this coupon.</A>
+<B><F>Um-hm</F>. O K.</B>
+<A><F>Oh</F>. Is it O K?</A>
+<B><F>Ah</F>. Yes. What done couldn't be done, so O K.</B>
+<A>I'm sure this will not happen in the future. So, anyway, thank you for using our travel agency this time.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. End of role play. Thank you. So you said you traveled all over the world. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> <laughter>Yes, <??></??></laughter>.</B>
+<A>Which country have you ever been?</A>
+<B><SC>I went to</SC> the furthest place I went to is Argentina.</B>
+<A><F>Um-hm</F>.</A>
+<B><R>And</R> and, as I said I visited Canada, United States, and <SC>I wen</SC> I've been to Europe, too.</B>
+<A><R>Did you have any</R> <F>ah</F> did you have any trouble like <laughter>this</laughter>?</A>
+<B><laughter>No</laughter>.</B>
+<A>Never?</A>
+<B><?>No</?>. One time I went to Hong Kong. And it was a tour, and I was taken to many places for shopping which I didn't wanted because I'm not a very shopping person. So, <SC>next time</SC> from next time <SC>on</SC> I went to my own with my friends with free schedule.</B>
+<A>That's a good idea. What was the first impression <?>tour</?> Hong Kong?</A>
+<B>Hong Kong is very busy place, very Asian. <nvs>laughter</nvs></B>
+<A><F>Oh</F>. Really?</A>
+<B>Yes.</B>
+<A>O K, thank you very much.</A>
+<B>Thank you.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>And, now, I'll show you another picture here. And, this time, please make up your own story based on these pictures. And this happened last week, so, start your story "One day last week".</A>
+<B>One day last week, a couple was walking in the rain, so they are using umbrellas. And, when they went by, <F>ah</F> electric pole, there was a box. And, inside, they hear something are crying. And, when a girl opened the box, she found a little kitten and seems like she is <F>ah</F> willing to take the cat in care. But the boy is <F>ah</F> rejecting her idea, saying, "No, no.". But, with <F>ah</F> girl's <F>ah</F> requests, and she is hard on <F>ah</F> accepting the cat, <SC>seems</SC> the boy's finally agreeing her. And, <SC>they</SC> after, they seems they are more closer than ever with kitten accepted. And they are only using one umbrella.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. And, <F>er</F> do you have a pet?</A>
+<B>No, I don't have.</B>
+<A><F>Oh</F>. Really? So <F>ah</F> <R>your</R> your speaking English is very well. But, how did you study English?</A>
+<B>I studied abroad for three years.</B>
+<A><F>Ahh</F>.</A>
+<B>Yes, and then, <SC>in the United</SC> in <?>the</?> university, some <SC>class</SC> <R>courses</R> courses were given in English. So I had to use English.</B>
+<A><F>Ah</F>. Really? So you study English in Japan and abroad, also. So, what's the merit of studying abroad?</A>
+<B><F>Ah</F>. Because, in abroad, especially in English speaking countries, <SC>you have to</SC> you will be able to learn some conversational English other than take a English in written style, so it's very <F>ah</F> <F>ah</F> wonderful experience to learn actual English, yes.</B>
+<A>O K. So, did you enjoy your life in the United States and Canada?</A>
+<B>Yes, it was very great. I had <F>ah</F> met nice people, wonderful people.</B>
+<A>That's a nice.</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. It's almost the end of the interview. So, what are you going to do in the afternoon?</A>
+<B><F>Ah</F>. I have a meeting <F>ah</F> <laughter>with my husband</laughter>.</B>
+<A><laughter>With your husband</laughter>?</A>
+<B><laughter>Yes</laughter>.</B>
+<A><F>Oh</F>. Really? <??></??>. Have a good time.</A>
+<B>Thank you.</B>
+<A>Thank you very much for coming.</A>
+<B>Yes, thank you very much for your time.</B>
+</stage5>
+</body>
+</interview>

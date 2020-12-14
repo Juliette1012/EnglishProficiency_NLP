@@ -1,0 +1,145 @@
+<interview>
+<filename>file00617.txt</filename>
+
+<head version="1.3">
+<date>2001-09-25</date>
+<sex>female</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>Fine, thank you. And you?</B>
+<A>Yeah. <OL>I'm fine, too</OL>.</A>
+<B><OL><R>Today</R></OL> <F>mm</F> <F>urm</F> today is <F>ur</F> whether is very comfortable.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F>. I <??></??> whether is good. <F>Mm</F>.</B>
+<A>Good. Do you like autumn season?</A>
+<B>Yeah.</B>
+<A>What do you usually do when you have free time in autumn?</A>
+<B><F>Ur</F>. Usually, I have a work on weekdays. So, weekend, <R>I</R> I always go for a walk. <F>Mm</F>. <SC>I live in <H pn="others1">XXX03</H></SC> I live in <H pn="others2">XXX04</H>, so <H pn="others1">XXX03</H> is very near. So, <SC>sometime</SC> <F>mm</F> just this weekend, I and my husband went there and enjoyed a little short trip.</B>
+<A><F>Ahh</F>.</A>
+<B>Of course, it's one day <OL>trip</OL>.</B>
+<A><OL><F>Ahh</F></OL>. What's so special about <H pn="others1">XXX03</H>?</A>
+<B><F>Mm</F>. This season, there is a <R>so many</R> so many sightseeing guests. <F>Mm</F>. So, at fortunately, yesterday, it was not so crowded, and <SC>it's getting <??></??></SC> it's getting red and yellow leaves in maples or oak and other trees around here.</B>
+<A>Sounds beautiful. <OL><F>Mhm</F></OL>.</A>
+<B><OL>Beautiful</OL>. Yes.</B>
+<A><F>Well</F>. Could you tell me a little more about your husband?</A>
+<B>My husband? <F>Mm</F>. My husband is just a office worker. And, <SC>last</SC> <F>mm</F> no, <R>last</R> last April, <SC>he has promoted</SC> he has been promoted. <SC?>Than</SC?> this means he gets very busy this year than before. So he always <SC>come home</SC> comes home late. And, of course, I <laughter>don't</laughter> wait for him. So I just <SC>cooked</SC> cook, and I go to my bed. So, sometimes, I can not see <R>her</R> <SC>her</SC> his face at night. <F>Mm</F>.</B>
+<A>That's too bad. Then, how do you try to contact him during weekdays?</A>
+<B>Weekdays? <F>Urm</F>. Of course, <SC>morning</SC> in the morning, <R>we can have</R> we can have time to talk with. And, <F>uum</F> <R>usua</R> usually, I and my husband contacts, I mail P C or <SC>I-mode</SC> by mobile phone.</B>
+<A><F>Oh</F> <F>wow</F>. O K, O K. Good. O K. <F>Urm</F>. Yeah. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>So, now, <F>urm</F> first thing, I'll show you a picture. O K. <F>Mm</F>. So, O K. Could you describe this picture for me?</A>
+<B>Yes.</B>
+<A><F>Mm-hm</F>.</A>
+<B>This <nvs>cough</nvs> is <F>ur</F> dinner time because <F>er</F> clock shows <SC>nine</SC> seven o'clock. And there still is several guests in this restaurant. And, probably, this two people is <??></??>. <F>Mm</F>. There is <SC>several co</SC> <R>two co</R> <R>two couples</R> two couples. <??></??>. And <SC>they also</SC> they are just beginning their dinner. And they ordered red wine at first. And, now, the guy just tried to taste. And <.></.> the lady looks his wife, and <SC>this is</SC> this might be some memorial days like <F>ur</F> marriage or birthday or Christmas or <SC>year end party</SC> year end. So <F>um</F> <R>sommelier</R> sommelier <SC>asks</SC> <SC>asked</SC> asks the guest for <SC>another cup of</SC> another glass of wine. And they might consider. And <.></.> <SC>some lady</SC> <F>ur</F> a lady <R>play</R> <F>uh</F> <SC>play</SC> is playing piano. So <nvs>cough</nvs> the atmosphere is very romantic and <F>ur</F> <F>ur</F> adulty because <F>mm</F> no children were found.</B>
+<A><F>Mm</F>. O K. Yeah. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>About yourself, <F>ur</F> do you celebrate your wedding anniversary?</A>
+<B>Wedding anniversary? <CO>This year's wedding anniversary was <F>ur</F> the worst one <OL>because</CO></OL>.</B>
+<A><OL><F>Oh</F> Really</OL>? What happened?</A>
+<B>she was very late as usual. And I also got home late due to my over work. So there is nothings particular <OL>this time</OL>.</B>
+<A><OL><F>Oh</F></OL>. O K. <F>Well</F>. Then, <F>ur</F> could you tell me <F>ur</F> about the last time you went out with your husband, you ate out?</A>
+<B>"You <R>ate out</R> ate out"? <F>Uum</F>. Yeah. <F>Ur</F>. I've just returned to Japan from Britain three days ago. And I didn't ask my husband to pick me up at the airport. However, he came. So it's very kind of him. And my flight arrived around <SC>eight o'clock</SC> no, no, <SC>eight</SC> <SC>nine o'clock</SC> almost nine o'clock. It was almost nine o'clock. So it's a little late. And I found him when I get down to the exit of baggage place area. <SC>And</SC> so <F>ur</F> I could went home by <SC>our cars</SC> our car. And, on the way to home, I and my husband took <F>ur</F> small dinner time. <SC>And</SC> but it was not so special restaurant because I was a little bit tired and <F>mm</F> just a family restaurant <SC>called</SC> <SC>whose name</SC> which name is <F>ur</F> "Saizeria". Do you know?</B>
+<A>I know. O K. Yes. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>And now, we are going to do a role play. O K. Let's try this one. <F>Mm</F>. Please read this card. And, when you are ready, I will start. O K?</A>
+<B><.></.></B>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Let's say it's on the phone. <JP>Kacha</JP>. Hello.</A>
+<B>Hello. This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> Hi, <H pn="B's name">XXX02</H>. This is <H pn="A's name">XXX01</H>.</A>
+<B>Hi. Hello. How are you today?</B>
+<A><F>Mhm</F>. O K.</A>
+<B>O K? <F>Ur</F>. By the way, do you have any appointment or an engagement tonight?</B>
+<A><F>Mm</F>. Not really.</A>
+<B>So <F>urm</F> <SC>shall</SC> <SC>I'd like to go to</SC> I'd like to go watching movie with you.</B>
+<A>Sounds great.</A>
+<B><F>Mm</F>. And <SC>I</SC> now, I am interested in <F>ur</F> "Bridget Jones' Diary". Do you know?</B>
+<A><F>Mm</F>. Only the name.</A>
+<B><F>Mm</F>. So, why don't you come with me tonight?</B>
+<A>Sure.</A>
+<B>O K? <F>Mm</F>. So <SC>I check</SC> I already checked the schedule of cinema. And, <SC>it is</SC> <SC>it's</SC> <F>ur</F> no, I want meet you at <SC>nine</SC> seven o'clock at Shibuya Station. Is it O K for you?</B>
+<A><F>Well</F>. O K. But <F>ur</F> Shibuya is a big place, <OL>isn't it</OL>?</A>
+<B><OL>Yes</OL>. <SC>Are you</SC> <F>um</F> do you know about Shibuya well?</B>
+<A>Not really.</A>
+<B>O K. So, <SC>what's</SC> how do you come there? <CO>There by train or</CO>?</B>
+<A>By train, I guess.</A>
+<B>By train?</B>
+<A><F>Mm-hm</F>.</A>
+<B>Is it Yamanote Line?</B>
+<A>Yeah.</A>
+<B>O K. So Yamanote Line has several exit. So, <nvs>cough</nvs> <R>please</R> please find the exit which name is Tamagawa-<JP>guchi</JP>.</B>
+<A>O K.</A>
+<B><F>Mm</F>. <SC>And Tamagawa-<JP>guchi</JP></SC> so, let's meet at Tamagawa-<JP>guchi</JP> of Yamanote Line at seven o'clock. <OL>Is it O K</OL>?</B>
+<A><OL>O K</OL>.</A>
+<B>O K. So <F>mm</F> <R>I</R> <R>I will tu</R> I will took <F>ur</F> for Tokyu Toyoko <SC><JP>sen</JP></SC> Line. So, <F>mm</F> <R>let's</R> let's get there each other individually. So <F>mm</F> <SC>we will meet seven o'clock</SC> <F>ur</F> we will meet there at seven o'clock.</B>
+<A><F>Mhm</F>. O K. Yeah. So, see you then.</A>
+<B><OL>See you then, thank you very much</OL>.</B>
+<A><OL>Thank you very much for calling</OL>.</A>
+<B><OL>Bye-bye</OL>.</B>
+<A><OL>O K</OL>.</A>
+</task>
+<followup>
+<A>O K. This is the end of the role play. Thank you very much. So, by the way, <H pn="B's name">XXX02</H>, why did you pick the movie <F>ur</F> "Bridget Jones' Diary"? <F>Mm-hm</F>.</A>
+<B>On the flight from Hong Kong to Tokyo, I just watched it.</B>
+<A><F>Oh</F>. How was it?</A>
+<B>It's not bad. <SC>But</SC> <F>mmm</F> of course, it was very interesting. But I know <SC>it is very</SC> <SC>it's</SC> it getting very popular in Japan. However, <SC>it's not</SC> <F>mm</F> it is not so interesting. <SC>Mo</SC> <SC>it's less interesting</SC> it was less interesting than I expected.</B>
+<A><OL><F>Uhh</F></OL>.</A>
+<B><OL><F>Mm</F></OL>. The Bridget Jones is a <R>thir</R> thirty two years old lady. And the story is her daily life, and, <SC>finally he</SC> finally <SC>it's</SC> <F>uh</F> <SC>it comes to ha</SC> it came happy end. So how can I say <.></.> <F>ur</F> it is a little bit <F>ur</F> lack of reality.</B>
+<A><F>Oh</F>. Really? <nvs>laughter</nvs> O K, O K, O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Ur</F>. Finally, I'll show you another picture. O K. This time, please make up a story using these six pictures. And this happened last week. So, please start your story with "One day last week".</A>
+<B>"One day last week"? <.></.> "One day last week"? O K? So, May I start?</B>
+<A>Sure, please.</A>
+<B><CO>Last week on Friday, it's a big</CO>. Is this me?</B>
+<A><F>Mm</F>. O K. <F>Mm</F>. <??></??>.</A>
+<B>So, O K? So I found <R>there</R> <R>there were</R> there were no food in the refrigerator. And I was really upset because Friday is my <SC>bir</SC> <F>er</F> husband's birthday. So I wanted to cook much. However, there was nothing inside refrigerator. So I immediately <nvs>cough</nvs> went to a grocery shop by car. <F>Mm</F>. And <SC>I found ss</SC> <R>I</R> I shopped very much everything like <F>ur</F> meat or cereals, <.></.> vegetables and <R>raw</R> raw fish and et cetera. And, fortunately, <nvs>cough</nvs> at the pay place, <SC>I couldn't</SC> <R>I</R> I can pay smoothly. I mean there is no long line as usual. So, <SC>I</SC> after payment, <SC>I went to the</SC> I went back to my cars. <R>I parked</R> I parked car in front of the supermarket because <SC>it</SC> <SC>I think</SC> I thought <SC>it doesn't</SC> it didn't take long time. So <F>mm</F> I went back to car, and all my shop groceries <.></.> <F>mm</F> rear the car. <R>I</R> <F>mm</F> <R>I</R> I took them inside the car. <nvs>cough</nvs> And I went back home. And then, I cooked so much meals. And, <SC>for the</SC> at the first, I cook fried egg because fried egg is a <R>simple</R> simple meals, and there is no problem <SC>to</SC> for <R>fail</R> <R>fails</R> fails the cooking. And <nvs>cough</nvs> this is one of his favorite meal. And besides <SC>I cook</SC> I cooked <R>s</R> stew. And, this time, I try to <SC>stew</SC> beef stew with wine red.</B>
+<A><F>Mm-hm</F> <F>mhm</F>.</A>
+<B>That's all.</B>
+<A>I see. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>So, <F>urm</F> how do you usually decide <F>ur</F> dishes to cook for yourself?</A>
+<B>Yeah. <F>Urm</F>. Basically, I am a value hunter. So, in grocery shop, I always try to buy cheaper groceries. So, <F>mm</F> when I go to supermarkets <F>mm</F> around seven o'clock or after, <F>mm</F> <SC>always <F>ur</F> bargain sale is</SC> <F>mm</F> <SC>bargain</SC> <SC>the bargain sale is</SC> <R>I</R> <SC>I find</SC> I can find some bargain sales on every groceries <F>mm</F> which is called "<JP>akafuda</JP>" or "<JP>mikirihin</JP>" in Japanese. So, <F>mm</F> first, I buy them. And then, I consider what to cook. <F>Mm</F>. And <SC>the base <F>mm</F> is</SC> <F>ur</F> <SC>the</SC> <R>I</R> <R>I always</R> I always cook salad or some vegetable cookings. It's <F>ur</F> essential because <SC>he</SC> <SC>my husband is</SC> my husband cannot take so much vegetables outside. So <F>ur</F> it's only one point which I pay attention.</B>
+<A>I see. <F>Mhm</F>. O K. Yeah. <OL>Thank you very much</OL>.</A>
+<B><OL><??></??></OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>So we are almost at the end of the interview.</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>. After this interview, what are you going to do?</A>
+<B><F>Mm</F>. It's very fine today. So I go back to Shibuya Station first. So I try to find <SC>some good</SC> something good <R>bargain</R> bargain, and <SC>I will be</SC> <F>mm</F> I will take a walk around Shibuya.</B>
+<A>Sounds good. Good. O K. Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

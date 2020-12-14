@@ -1,0 +1,210 @@
+<interview>
+<filename>file00112.txt</filename>
+
+<head version="1.3">
+<date>2000-08-29</date>
+<sex>male</sex>
+<age>48</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_beginner</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Uh</F>.</B>
+<A>May I have your name, please?</A>
+<B><F>Uh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>.</A>
+<B><F>Ah</F> yes.</B>
+<A>Nice to meet you.</A>
+<B><F>Ah</F> nice to meet you.</B>
+<A>And <F>uh</F> where do you live?</A>
+<B><F>Uh</F> <F>a</F> what?</B>
+<A>Where do you live?</A>
+<B><F>Uh</F> <F>oh</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Ah</F>.</A>
+<B>But my wife and daughter and <F>uh</F> child <F>urr</F> live in <H pn="others2">XXX04</H>.</B>
+<A><F>Mhm</F>.</A>
+<B>So <F>uh</F> I often come back to <H pn="others3">XXX05</H>. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. Do you like <H pn="others1">XXX03</H> City?</A>
+<B><F>Oh</F> yes, <F>uh</F> I was born in <H pn="others4">XXX06</H>. <F>Uh</F> <H pn="others1">XXX03</H> is very near. <nvs>laughter</nvs> <F>Uh</F> <F>em</F> my high school is in <H pn="others1">XXX03</H>.</B>
+<A><F>Hum</F>. <F>Urm</F> which do you like better, <H pn="others1">XXX03</H> or <H pn="others3">XXX05</H>?</A>
+<B><nvs>laughter</nvs> <F>Uh</F> <F>uh</F> <F>mm</F> it's difficult question to answer, but <F>uhh</F> I speak usually <F>uh</F> <H pn="others1">XXX03</H> pronunciation.</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Ah</F> so <F>oh</F> in <H pn="others1">XXX03</H>, I hear <F>uh</F> <F>eh</F> people's word very <F>eh</F> <F>mm</F> <R>e</R>, easy to hear.</B>
+<A><F>Uh-huh</F>. I see. And tell me about your children.</A>
+<B><F>Uh</F> <F>ah</F> my children?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> <F>ah</F> he was born <F>ah</F> before <F>oh</F> <F>eh</F> <R>twelve years</R> <F>ah</F> twelve years. <F>Ah</F> <F>eh</F> at <H pn="others5">XXX07</H> City, <H pn="others6">XXX08</H> Prefecture. Do you know <H pn="others5">XXX07</H> <H pn="others6">XXX08</H>?</B>
+<A><F>Oh</F> yes, I know.</A>
+<B><F>Uh</F>.</B>
+<A>But I don't know <H pn="others5">XXX07</H> City.</A>
+<B><nvs>laughter</nvs> <F>Ah</F> it's a very <F>er</F> beautiful site <F>eh</F> near <F>ah</F> <F>ah</F> sea coast.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <F>ah</F> it takes three minutes to go to sea.</B>
+<A><OL><F>Uhh</F></OL>.</A>
+<B><OL><F>Mm</F></OL>. I live in <F>ah</F> <R>se</R> sea.</B>
+<A><F>Mhm</F>. You <?>mean</?> from your office?</A>
+<B><F>Uhh</F> <F>ah</F> my office and <F>uh</F> my apartment very near. It takes five minutes by car.</B>
+<A><laughter>Five minutes by car</laughter>.</A>
+<B><F>Ah</F> yeah.</B>
+<A>And you still used a car?</A>
+<B><F>Ah</F> yes, yes, yes. <F>Ahh</F> <F>ah</F> <.></.> <F>ah</F> in <H pn="others3">XXX05</H> and <H pn="others1">XXX03</H>, <F>uh</F> <F>mm</F> <F>mm</F> there are many many cars so <F>oh</F> it very difficult to drive. <F>Ur</F> but <SC>in <F>ah</F> districted co</SC> <SC>count</SC> in country, <F>ahh</F> bus <F>eh</F> <F>eh</F> don't go <F>oh</F> <R>so</R> so often. <F>Uh</F> <F>uh</F> <SC>we</SC> <F>eh</F> <F>er</F> <JP><F>etto</F></JP> if we want to <F>ah</F> go <F>oh</F> <F>eh</F> some <F>eh</F> city <F>ah</F> and any, <F>ah</F> <R>we take</R> <F>uh</F> <JP><F>etto</F></JP> we take by car.</B>
+<A><F>Ah</F> I see. And what do you usually do in your free time?</A>
+<B><??></??> <F>er</F> today? <JP><F>Eto</F></JP> <F>eh</F> <F>eh</F> <F>eh</F>.</B>
+<A>Usually.</A>
+<B><CO><OL><R>Usually</R> usually, <F>ah</F></OL></CO>.</B>
+<A><OL>Usually on weekends when you have time</OL>.</A>
+<B><F>Mmm</F> <F>urr</F> <nvs>laughter</nvs> <F>ah</F> <SC>it is a ma</SC>, <F>ah</F> <F>eh</F> <R>I</R> I worked in marketing <R>se</R> <F>eh</F> sales. <F>Eh</F> so it's very busy. <F>Ah</F> I often went my home <F>ah</F> at <F>eh</F> ten P M. <F>Mm</F> so I have a little time to <F>uh</F> <F>eh</F> stay <laughter><?>only one</?></laughter>.</B>
+<A>Why did you choose your job?</A>
+<B><F>Ah</F> <F>ah</F> <SC>wa</SC> <F>ah</F> <F>ah</F> <F>uh</F> <F>mm</F> <.></.> <F>ah</F> <.></.> I graduate <F>er</F> <SC>chemical</SC> <F>oh</F> <R>che</R> chemical. <F>Ah</F> so <F>oh</F> <SC>reduce pollution</SC> <F>eh</F> <??></??> <SC>red for</SC> <F>ah</F> for reducing pollution <F>a</F> air and water <F>uh</F> so <F>oh</F> I select job, <F>eh</F> steel work. <F>Er</F> <H pn="company name1">XXX09</H>. Do you know <H pn="company name1">XXX09</H> company? <F>Mm</F> <F>mm</F> <F>ah</F> but in nineteen eighty-five, <F>eh</F> <H pn="company name1">XXX09</H> <F>eh</F> <F>ah</F> take new business chance, <F>ah</F> <SC?>silicon weber</SC?> <F>ah</F> silicon, <F>uh</F> <JP><F>ehto</F></JP> <R>you</R> <F>uh</F> you know N E C, TOSHIBA, HITACHI, <F>eh</F> famous <F>eh</F> electronic company <F>uh</F> use our silicon <?>weber</?> for material of device chip. <.></.> <nvs>sigh</nvs> <F>Uh</F> <F>oh</F> so <F>oh</F> <R>I</R> <F>uh</F> <SC>I was a</SC> <R>I</R> <F>uh</F> I had been <F>ur</F> <F>eh</F> steel engineer so <F>oh</F> my company order <F>eh</F> my job. <F>Eh</F> so <F>oh</F> we make a silicon engineer <??></??>. <F>Mm</F>.</B>
+<A><F>Mhm</F> I see. So you are successful <OL>working businessman</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now first, please take a look at this picture.</A>
+<B><F>Ahh</F> <OL><F>urr</F></OL>.</B>
+<A><OL>And</OL> tell me what you see here.</A>
+<B><F>Uh</F> <F>ah</F> <F>ah</F> <F>ah</F> <F>ah</F> <F>ahhh</F> <F>eh</F> <F>mm</F> <F>ah</F> we explain this picture?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh</F> <F>eh</F> this is home, and children <F>eh</F> <R>play</R> <F>eh</F> play <F>eh</F> <F>oh</F> <F>uh</F> <JP>chotto</JP> <R>we</R> we don't know <F>oh</F> in English <JP>nawatobi</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>eh</F> <SC>basketball</SC> <F>uh</F> <F>ah</F> <JP>ja</JP> <R>volleyball</R> volleyball. <F>Eh</F> <F>ah</F> by <F>eh</F> <JP><F>etto</F></JP> <F>er</F> <JP><F>etto</F></JP> women <F>mm</F> talk about <F>uh</F> by car. <F>Ah</F> <F>eh</F> man <F>ah</F> <F>eh</F> play jogging. It's fine today. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+</task>
+<followup>
+<A>O K, <F>well</F> thank you. Can you compare this neighborhood to the place where you lived in <H pn="others5">XXX07</H> City?</A>
+<B><F>Uh</F> in <H pn="others5">XXX07</H>, <F>uh</F> <F>eh</F> sun shine very strong.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F>. And <F>eh</F> air is very clean. <F>Mm</F>. <F>Ah</F> <F>eh</F> in <H pn="others5">XXX07</H> is in National Park of <H pn="others8">XXX10</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh</F> <F>eh</F> so <F>oh</F> <SC>I can see</SC> <F>eh</F> <SC>in <R>se</R> <F>eh</F> sea</SC> <F>oh</F> <F>oh</F> I can fish in sea. <F>Mm</F> very close.</B>
+<A><F>Mhm</F>. <F>Oh</F> it's sounds like a very nice place.</A>
+<B><F>Mm</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, <F>well</F> thank you. Now, let's do the role-play.</A>
+<B>Role-play?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A>Please read it.</A>
+<B><F>Ahhh</F> <F>ah</F> passenger.</B>
+<A><F>Uh-huh</F>.</A>
+<B><JP>Hai</JP>.</B>
+<A>And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Uh</F> <F>ah</F> <F>ah</F> <F>ah</F> <OL><F>urr</F> <F>uh</F></OL>.</B>
+<A><OL>May I help you</OL>, sir?</A>
+<B><nvs>laughter</nvs> <F>Uh</F> I'm traveler, <F>ur</F> and <R>I</R> I want to go <F>oh</F> to New York by train. <F>Eh</F> <SC>please</SC> <F>eh</F> <SC>necessary information <F>er</F> to give</SC> <F>eh</F> <F>eh</F> <R>please give me</R> please give me necessary information to buy ticket.</B>
+<A><F>Uh-huh</F>. O K. <F>Ur</F> you can order it from me.</A>
+<B><F>Ah</F>.</B>
+<A>And you can buy the tickets from me.</A>
+<B><F>Ah</F> yeah. <JP><F>Etto</F></JP> <F>mm</F> <F>mm</F> <F>urr</F> <F>mm</F> <F>ah</F> <F>ah</F> <SC>I want to New York very <F>eh</F> <R>soon</R> <F>eh</F> <SC>soon</SC> as soon as quick</SC> <F>eh</F> <F>ur</F> <F>eh</F> <F>ur</F> I want to New York <R>Ci</R> City as soon as quickly. <F>Eh</F> <F>uh</F> <SC>what train</SC> <F>ehh</F> <F>ah</F> <SC>the</SC> what train <F>eh</F> start from <F>mm</F> this <F>eh</F> station <F>eh</F> <F>mm</F> at nearest time?</B>
+<A><F>Urm</F> we have express train that will reach New York in thirty minutes.</A>
+<B><F>Uh</F> thirty minutes?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> yeah. <F>Uh</F> <SC>please <F>eh</F> <F>eh</F> teach</SC> please tell me a fair.</B>
+<A><F>Uh-huh</F>. It's one hundred dollars.</A>
+<B><F>Ah</F> O K. <F>Mm</F> <F>ah</F> it's <F>mm</F> <F>mm</F> my money.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><R>Please</R></OL> please give me ticket, <F>uh</F> please.</B>
+<A>O K. <F>Eh</F> first, let me check whether you can buy the ticket. <F>Oh</F> I'm sorry, but it's fully booked so you can't take a seat. You have to stay standing. Is it O K?</A>
+<B><F>Uh</F> O K. <OL><F>Uh</F> <F>uh</F></OL>.</B>
+<A><OL>Yeah</OL>? O K. So one ticket?</A>
+<B><F>Mm</F> yes.</B>
+<A>Thank you very much.</A>
+<B>Yes, thanks.</B>
+</task>
+<followup>
+<A>O K. <F>Ur</F> when you travel, which do you prefer, traveling by train or traveling by car?</A>
+<B><F>Uh</F> by train.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Uh</F> <F>uh</F> <.></.> <F>ah</F> <R>I am a <F>ahh</F> <F>uh</F> se</R> I'm a sales man. So <F>oh</F> in train, we take telephone <F>eh</F> <F>eh</F> every time. So <F>oh</F> we don't concentrate <F>uh</F> handling <F>mm</F> car. <F>Mm</F>.</B>
+<A><CO>But</CO>.</A>
+<B><F>Mm</F> <F>mm</F> so <F>oh</F> we often use <F>eh</F> train.</B>
+<A><F>Mhm</F>. But isn't it prohibited to use a handy phone in the train?</A>
+<B>Handy phone?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Oh</F> yeah, yeah, <R>p</R> <R>pl</R> please <F>eh</F> speak once more.</B>
+<A><F>Uh-huh</F>. Isn't it prohibited to use a handy phone in the train?</A>
+<B><F>Oh</F> yes, yeah. <F>Ah</F> <F>ahh</F> <F>mm</F> <F>urr</F> <.></.> <SC>in</SC> <R>i</R> in train, <F>eh</F> <SC>we</SC> <F>eh</F> we're forbidden <F>eh</F> to use <F>eh</F> handy phone. So <SC>we <F>eh</F> <R>trans</R> <F>eh</F> <SC>trans for</SC> <F>eh</F> translate</SC> <F>e</F> <F>e</F> we go to <F>ah</F> <F>mm</F> <F>mm</F> <F>eh</F> place <F>er</F> between train and train. <F>Uhm</F>.</B>
+<A><F>Ahh</F>.</A>
+<B><F>Uh</F> <F>eh</F> because <F>uh</F> handy phone <F>uhh</F> <F>mm</F> <JP>dakara</JP> <F>eh</F> <?>splash</?> <F>ah</F> <F>ah</F> <F>eh</F> <F>mm</F> weak <F>uhu</F> electronic powers</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>eh</F> <F>eh</F> to many people. <F>Ur</F> <SC>if <F>urr</F> people</SC> <F>uh</F> <F>ah</F> if person <F>ur</F> who have <F>uhm</F> disease of <F>uhm</F> a heart, <F>ah</F> <SC?>that powers</SC?> <F>eh</F> if <F>eh</F> long effect to his <F>uhu</F> <F>uhu</F> heart so we don't use the in train.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mhm</F>. O K. <F>Well</F> thank you. Lastly,</A>
+<B>Lastly,</B>
+<A>please take a look at this picture. This is the picture story that goes from one to six. And it happened before.</A>
+<B><OL><F>Ha</F> <F>ha</F> <F>ha</F> <F>ha</F> <F>ha</F></OL>.</B>
+<A><OL>So take</OL> a few seconds to take a look at it, and make up a story starting with, "One day last week".</A>
+<B><F>Mm</F> one day last week, <F>uh</F> father and his son went to restaurant. <F>Ah</F> <F>uh</F> and <F>eh</F> they choose restaurant, and enter. <F>Er</F> they meet <F>uhu</F> restaurant boy. <F>Ehh</F> "<SC>Can I</SC> <SC>am</SC> <F>mm</F> <SC>may</SC> <F>er</F> can I <F>eh</F> use this restaurant?". "O K, please sit down on this place.". <F>Ah</F> <F>eh</F> <SC>when</SC> <F>er</F> <F>eh</F> after they sitting <F>ah</F> table, <F>ah</F> <JP><F>unto</F></JP> waitress <F>mm</F> come. And <SC>hear the</SC> <F>eh</F> <F>eh</F> <.></.> hear, "<R>What</R> <F>ah</F> what do you want to eat?". <F>Ah</F> they eat beef and <F>uh</F> any other <F>eh</F> delicious <F>mm</F> <F>ah</F> beer. <F>Mm</F>. <F>Er</F> after <F>ah</F> eating, <F>ahh</F> father pay money. And they <F>ehh</F> <F>mm</F> went out the restaurant, and <F>ah</F> bye <F>ah</F> each other.</B>
+</task>
+<followup>
+<A><F>Mhm</F>. O K. <F>Well</F> thank you. When you pay the bill, which do you prefer, <F>mm</F> <R>pa</R> paying by credit card or by cash?</A>
+<B><F>Ah</F> <F>a</F> <R>i</R> <R>i</R> <R>is</R> is that <OL><?>picture in this</?></OL>.</B>
+<A><OL><F>Oh</F> no, no</OL>, this is the end of the <F>ah</F> picture story.</A>
+<B><F>Ah</F> <F>ah</F> <F>ah</F> I often use credit card. <F>Uh</F> it's very <F>err</F> <F>eh</F> useful. <F>Er</F> <F>ah</F> <F>eh</F> using credit card, I take <F>ah</F> <F>eh</F> coupon card. <F>Mm</F>.</B>
+<A><F>Ah</F>.</A>
+<B><F>Mm</F> I often use VISA card.</B>
+<A><F>Mhm</F>. Do you get good things from VISA?</A>
+<B><F>Ah</F> yes, yes. <F>Ah</F> <SC>VISA</SC> <F>ah</F> <F>eh</F> <F>uhu</F> <JP><F>etto</F></JP> we can use VISA card in <F>eh</F> worldwide.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Eh</F> so <JP><F>etto</F></JP> <F>eh</F> two <F>uhu</F> month ago, I went to <F>uhu</F> San Francisco. <SC>So</SC> but <SC>I <F>eh</F> take</SC> <F>ah</F> <F>eh</F> I don't take much American dollar. <F>Eh</F> so we want to eat, we want to <F>uhu</F> clothes, <F>uh</F> when we want to <F>uhu</F> buy book, <F>eh</F> we use <F>ah</F> VISA card.</B>
+<A><F>Mhm</F> I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Well</F> this is almost the end of the interview.</A>
+<B><F>Mm</F> <F>ah</F>.</B>
+<A><F>Uh-huh</F>. And <F>urm</F> so you are now <F>ah</F> with your family in <H pn="others2">XXX04</H> Prefecture</A>
+<B><F>Ah</F> yes.</B>
+<A>when you're in <H pn="others3">XXX05</H>.</A>
+<B>Yeah, <JP>hai</JP>.</B>
+<A>And you are going back to <H pn="others1">XXX03</H>?</A>
+<B><F>Mm</F> yes. <F>Eh</F> today, I must went to <H pn="others1">XXX03</H> office. <F>Urr</F> <F>ur</F>.</B>
+<A><F>Ahh</F>. So you have to <F>ah</F> go by <JP>shinkansen</JP>?</A>
+<B><F>Ah</F> yes, yes.</B>
+<A>Using a handy phone?</A>
+<B><OL><nvs>laughter</nvs> <JP>so so</JP></OL></B>
+<A><OL><nvs>laughter</nvs></OL> You are such a busy businessman.</A>
+<B><F>Ah</F> yeah, yeah.</B>
+<A><F>Mm</F>.</A>
+<B><F>Ah</F> <R>we</R> <F>eh</F> we often go to <F>uhu</F> everywhere in Japan.</B>
+<A><F>Ahh</F>.</A>
+<B><F>Ah</F> <F>ah</F> Hiroshima, <F>ah</F> Niigata, <F>ah</F> Tokyo, <F>oh</F> Kyushu. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. You can see a lot of places then.</A>
+<B><F>Mm</F>?</B>
+<A>You can see a lot of places.</A>
+<B><F>Ah</F> a lot of places, <F>eh</F> I can't understand.</B>
+<A><F>Urm</F> you can <F>uh</F> take a look at a lot of sightseeing places around Japan.</A>
+<B><F>Ah</F> yeah, yeah, yeah. <F>Urr</F> <F>ah</F> <F>mm</F> <F>eh</F> two years ago, <F>ah</F> <SC>wu</SC> <F>er</F> <F>ah</F> <R>my</R> my <F>eh</F> customer is <R>o</R> other company. <F>Ehh</F> <SC>we often <SC>went</SC> <F>eh</F> go to</SC> <F>eh</F> we often went to <F>eh</F> Yamagata Prefecture, and <F>eh</F> <JP>sorekara</JP> Nagano prefecture.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> so <F>eh</F> in that prefecture, <F>ah</F> we can see a very beautiful site.</B>
+<A><F>Ahh</F>.</A>
+<B><F>Ur</F> mountain and sea.</B>
+<A><F>Uh-huh</F>. <F>Oh</F> I envy you.</A>
+<B><F>Mm</F>. <nvs>laughter</nvs></B>
+<A>O K, thank you very much for coming.</A>
+<B><JP>hai, hai</JP> <JP><F>etto</F></JP> <CO>may I <F>ah</F></CO>.</B>
+</stage5>
+</body>
+</interview>

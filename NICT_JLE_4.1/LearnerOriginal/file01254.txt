@@ -1,0 +1,260 @@
+<interview>
+<filename>file01254.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>15</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step>2</step> 
+<TOEIC></TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>8</SST_level> 
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name again?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K. How are you, <H pn="B's name">XXX02</H>?</A>
+<B>I'm fine, thank you. How are you?</B>
+<A>Yeah, I'm fine, thanks. <F>Urm</F> so how is school?</A>
+<B><F>Ur</F> yeah, it's fun. Very</B>
+<A><F>Mm</F>.</A>
+<B>interesting.</B>
+<A><F>Ur</F> what do you like about this school?</A>
+<B><F>Urm</F> because I have nice friends and I like the club activity.</B>
+<A><F>Oh</F>. What do you do?</A>
+<B>I do dance. Yeah.</B>
+<A><F>Mm</F>. Can you tell me a bit more about your club activity?</A>
+<B><F>Urm</F> there's a lot of people who like to dance now. So I do hip-hop and <R>lock</R> locking.</B>
+<A><F>Ur</F> I don't know. <SC>Can you</SC> what kind of</A>
+<B>It's <R>like</R></B>
+<A>dance <OL>is that</OL>?</A>
+<B><OL>like</OL> that kind of dance. Yeah.</B>
+<A>I see. Why did you join that club?</A>
+<B><F>Urm</F> because I did dance when I lived in Germany a little bit.</B>
+<A><F>Mm</F>.</A>
+<B>And I was interested in dance. Yeah.</B>
+<A><F>Oh</F> so you lived in Germany?</A>
+<B>Yeah.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL>And</OL> in England as well.</B>
+<A><nvs>smack</nvs> <F>Oh</F> I see. <F>Urm</F> can you tell me a little bit about your life in Germany?</A>
+<B><F>Urm</F> I went to an international school <F>ur</F> <SC>which was</SC> it was more fun than here. <OL><laughter>Yeah</laughter></OL>.</B>
+<A><OL><laughter>Here, O K</laughter></OL>.</A>
+<B>And we did all the lessons in English.</B>
+<A><F>Hm</F>. <F>Hm</F>.</A>
+<B>There were a few Japanese as well so I <F>ur</F> got <?>very friendly</?>.</B>
+<A><F>Oh</F> I see. <F>Urm</F> why were you in Germany?</A>
+<B>Because of my dad's work. <F>Ur</F> he works for <H pn="company name1">XXX03</H>.</B>
+<A><F>Ahh</F>. O K. Can you tell me a little bit about your father?</A>
+<B>My father. Yeah, he's very annoying. <nvs>laughter</nvs></B>
+<A>Annoying.</A>
+<B>Yeah.</B>
+<A>Your father. In what sense is he annoying?</A>
+<B><F>Urm</F> he always likes tells me how to do stuff.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But it's not that important.</B>
+<A><F>Mhm</F>. <F>Mm</F>. What about your mother?</A>
+<B><F>Ur</F> I like mom. <SC>But</SC> yeah.</B>
+<A><F>Urm</F> what kind of person is she?</A>
+<B><F>Urm</F> <SC>she is</SC> she's kind. And she doesn't get angry so much.</B>
+<A><F>Mm</F>.</A>
+<B>But when she gets angry, she's <??></??> yeah.</B>
+<A><F>Mhm</F>. Where do you live?</A>
+<B>Now?</B>
+<A><OL><F>Mm-hm</F></OL>.</A>
+<B><OL>I live</OL> in <H pn="others1">XXX04</H> <JP>ku</JP>.</B>
+<A><F>Mhm</F>. I see. <F>Ur</F> what kind is place is <H pn="others1">XXX04</H>?</A>
+<B><F>Urm</F> it's not that <.></.> modern.</B>
+<A><F>Oh</F>.</A>
+<B><R>It has</R> it has <F>mm</F> like trees and farms <??></??> <?>farms</?>, I don't know.</B>
+<A>I see. O K. <F>Well</F> after school, you said you do your club activity.</A>
+<B>Yeah.</B>
+<A><F>Urm</F> but besides that, what do you enjoy doing?</A>
+<B><F>Urm</F> I go to like Shibuya with my friends.</B>
+<A><F>Mm</F>.</A>
+<B>Or go home and watch T V, something like that.</B>
+<A><F>Mm</F> <F>mhm</F>. <nvs>smack</nvs> Where is the <F>urm</F> <F>uh</F> <F>uh</F> trendy spot in Shibuya <OL>right now</OL>?</A>
+<B><OL>In Shibuya</OL>. <F>Urm</F> at the moment, I like <SC>Shi</SC> Harajuku</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL>better</OL> than <R>Shi</R> Shibuya. But it's more expensive to go there, Harajuku.</B>
+<A><F>Oh</F> what do you mean?</A>
+<B><F>Urm</F> because <R>I</R> I don't have the pass to go <OL>so</OL></B>
+<A><OL><F>Mm-hm</F></OL>.</A>
+<B>I have to pay for <R>ticke</R> tickets.</B>
+<A><F>Oh</F>. Why do you like <F>urm</F> Harajuku better than Shibuya now?</A>
+<B>Because <F>urm</F> I found out that all the clothes are like cheaper.</B>
+<A><F>Mm</F>.</A>
+<B>And there's better stuff.</B>
+<A><F>Mm</F>.</A>
+<B><nvs>cough</nvs> The foods <nvs>cough</nvs> are better, <F>uh</F> yeah, than Shibuya.</B>
+<A>I see. O K. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Urm</F> first thing today, please describe this picture.</A>
+<B><F>Urm</F> it's a mathematic class. And the teacher is explaining, but only one person <?>is</?> listening.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And <F>ur</F> <?>other</?> people are like listening to music, talking and E-mail and like looking out the window.</B>
+<A><F>Mm-hm</F>.</A>
+<B><.></.></B>
+<A><nvs>smack</nvs> O K. O K.</A>
+</task>
+<followup>
+<A>You said you liked your <SC>school</SC> international school in Germany better.</A>
+<B>Yeah.</B>
+<A><F>Um</F> can you compare <OL>your</OL> school in Germany and your school here in <H pn="others2">XXX05</H>?</A>
+<B><OL><nvs>cough</nvs></OL> <F>Urm</F> first of all, like the seating, <F>um</F> we sit like individually here.</B>
+<A><F>Mm-hm</F>.</A>
+<B>But in Germany, <SC>it's</SC> we sit as a group like the size of this table. <nvs>cough</nvs> And then like if the teacher asks us questions, <F>ur</F> we can talk to each other and find out the answer. <?>And it was</?> <??></??></B>
+<A>But don't you think <SC>this kind of seating is</SC> <F>ur</F> when you want to concentrate, for example,</A>
+<B><F>Urm</F>.</B>
+<A>the seating is not so good?</A>
+<B><SC>Not</SC> <F>uh</F> when we wanted to concentrate, <F>um</F> <.></.> it was O K. Yeah. Because the tests weren't as serious as in this school.</B>
+<A><F>Mm</F>.</A>
+<B>Yeah. <F>Um</F> it wasn't that hard so just <SC>we s</SC> we did studying at home.</B>
+<A><F>Mm</F> <F>mhm</F>. So <nvs>cough</nvs> do you mean that it wasn't very important to get good grades at school?</A>
+<B><F>Well</F> it was important, but it was actually quite easy to get good grades.</B>
+<A><F>Oh</F>.</A>
+<B>Because if you just hand in homeworks and just listen to the teachers, you get good grades.</B>
+<A><F>Oh</F>.</A>
+<B>So <?>more simple</?>.</B>
+<A><laughter>I see</laughter>. O K. <F>Well</F> then what do you think was the negative point about the international school?</A>
+<B><F>Ur</F> negative points were <..></..> <F>ur</F> I think that not much people <SC>were lis</SC> weren't really listening to the teachers.</B>
+<A><F>Mm</F>.</A>
+<B>Yeah. <CO><F>Ur</F> <.></.> <R>I don't</R> I don't know any negative points <OL>because</OL></CO>.</B>
+<A><OL><F>Mm</F></OL> <F>well</F> it must have been a <laughter>good <OL>school</OL> then</laughter>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>O K. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Urm</F> next, O K, <?>l want you to</?> try a role-play. Please read this card, O K? And tell me when you are ready to begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Mm</F> O K.</B>
+<A>O K? O K. May I help you?</A>
+<B><F>Urm</F> <SC>can I have</SC> <F>um</F> <F>ur</F> <JP>chigau</JP> I'm looking for a blue T-shirt.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. <F>Ur</F> <SC>do you have</SC> do I start from where I buy it?</B>
+<A>No.</A>
+<B><F>Oh</F>. <CO>When I</CO>. <OL><F>Um</F></OL>.</B>
+<A><OL><CO>You've already</CO></OL>.</A>
+<B><F>Ah</F>. <SC>I wanna</SC> I <F>ur</F> bought a blue T-shirt here</B>
+<A><F>Mm-hm</F>.</A>
+<B>last Saturday. But it was actually too small for me. So <SC>would you mind if I have a</SC> would you mind if I exchange with a larger <?>one</?>?</B>
+<A><F>Oh</F>. <F>Ur</F> I'm sorry, but as it says here, <F>urm</F> it's against our policy to exchange or refund any items.</A>
+<B>But <F>urm</F> <SC>I couldn't fit</SC> I couldn't try it on in this shop because <SC>it</SC> <SC>you said that you</SC> you said that I can't. But it was too small.</B>
+<A><F>Oh</F>. But there's a fitting room. I wonder why somebody said that you can't try it on.</A>
+<B>They said that <F>urm</F> you can't try on the T-shirts.</B>
+<A><F>Mhm</F>.</A>
+<B>But you can try on other stuffs like jackets and stuff.</B>
+<A><F>Mm-hm</F>.</A>
+<B><R>And</R> <SC>and the shop</SC> and the person at the shop told me that this fits me fine. So I bought it.</B>
+<A><F>Mm</F>.</A>
+<B><SC>So</SC> but it was too small for me.</B>
+<A><F>Mhm</F>. <nvs>smack</nvs> I see. <F>Well</F> that sounds like a special case, but I'm just a part-timer here. And I can't make any decisions myself.</A>
+<B><F>Ur</F> so can I talk to the shop keeper?</B>
+<A><F>Oh</F> yeah, my boss is out for lunch right now.</A>
+<B><F>Oh</F>. <F>Urm</F> O K. Then I'll come back tomorrow, O K? Can I talk to the boss then?</B>
+<A><F>Oh</F> yeah, sure. <F>Urm</F> he'll be in around ten o'clock.</A>
+<B>Thank you.</B>
+<A>O K? O K. Thank you. O K. Thanks, that's the end of the role-play.</A>
+</task>
+<followup>
+<A>You have some nice earrings on.</A>
+<B>Thank you.</B>
+<A><F>Urm</F> did you have <laughter>any</laughter> difficulties piercing your ears? You said your father is a strict person.</A>
+<B><F>Urm</F> <nvs>laughter</nvs> yeah, <OL>at first</OL>.</B>
+<A><OL>You did</OL>?</A>
+<B>But when I opened the first ones, the second one was easy.</B>
+<A>O K. <F>Well</F> can you tell me how you got to open the first ones then?</A>
+<B><F>Urm</F> the first one was like I beg my mom for like my birthday present.</B>
+<A><F>Mm</F>.</A>
+<B>Yeah. I was in England and all my friends <?>are</?> opened. So like she allowed me.</B>
+<A><F>Mhm</F>.</A>
+<B>She explained to my father.</B>
+<A><F>Oh</F>. And how was your father's reaction?</A>
+<B>First, <SC>he didn't like</SC> he didn't want me to open them.</B>
+<A><F>Mm-hm</F>.</A>
+<B>But yeah, he said O K.</B>
+<A>What was his reason for opposing?</A>
+<B><F>Ur</F> he didn't want me to become like <.></.> the girls in Shibuya, <F>ur</F> like with blond hair <.></.> in Japan.</B>
+<A><F>Oh</F> <R>in</R> <F>eh</F> <F>oh</F> in Japan. I see. <F>Mm</F>. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Urm</F> last thing today, I want you to make a story from picture number one to six. O K? And I want you to start your story with "One day last week" as it says there. O K? Because that's a story that happened before.</A>
+<B>O K.</B>
+<A>O K? Whenever you're ready.</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><SC>One day last week, I went to the station <F>ur</F> <SC>to go to my</SC> <SC>as a</SC> as normal</SC> one day last week, I went to the station as normal to go to my work. <SC>I was waiting <SC?>at the pol</SC?> at the</SC> <..></..> <F>ur</F> I was waiting for the train <.></.> <R>when</R> when the person next to me accidentally hit me and <SC>I dropped my bag</SC> <??></??></B>
+<A>All right, it's O K.</A>
+<B>I dropped my bag. <SC>I told my</SC> I told the person next me to go and get it. But he said it's not his fault and <R>he di</R> he didn't notice. Then the train came and I was worried that my bag would get crushed under the train. So when the train passed <?>up</?>, my bag was safe. <nvs>cough</nvs> <R>And I</R> <..></..> and <R>I went</R> I went to call the man at the station to go and get my bag for me. And <R>he</R> <SC?>he gave me</SC?> <SC>he got the</SC> he got my bag.</B>
+<A><nvs>smack</nvs> O K.</A>
+</task>
+<followup>
+<A>O K, <H pn="B's name">XXX02</H>, recently <F>urm</F> there's announcement on trains saying that <F>ur</F> please turn off your cell phone or <R>put it</R> put it to a manner mode while on train. <F>Urm</F> what do you think of that?</A>
+<B>I think it's a good, yeah. Because everybody can hear it and it's bad for the old people</B>
+<A><F>Mm-hm</F>.</A>
+<B>who has heart <??></??>.</B>
+<A><F>Mm</F> <F>mhm</F>.</A>
+<B>Yeah.</B>
+<A>And what about E-mails?</A>
+<B><.></.> <F>Urm</F>. E-mails <?>aren't really</?> bad. <CO><SC>People</SC> you can't <?>help</?> people because people think it's the noise that <SC>is what matter <SC>in the</SC> in that</SC> is actually the</CO>. <.></.></B>
+<A>Right, right. <F>Hm</F>. I see. <OL>O K</OL>.</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>Then what do you think <R>the</R> <F>urm</F> the train company should do in order to let people know that is the same thing?</A>
+<B>Maybe <F>er</F> person at the station doesn't know either.</B>
+<A><F>Mm</F>.</A>
+<B>Or <R>if</R> if they knew, then they should actually explain <F>well</F> like instead of saying turn it to manner mode, <R>t</R> <SC>t</SC> say turn it off completely.</B>
+<A><F>Mm</F>.</A>
+<B>Yes.</B>
+<A><F>Oh</F> O K. O K. Thanks.</A>
+</followup>
+</stage4>
+<stage5>
+<A><H pn="B's name">XXX02</H>, we're almost at the end of this interview. So do you have your <F>urm</F> dance practice today <OL>as well</OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A>Everyday?</A>
+<B><F>Ur</F> not everyday. Few days a week.</B>
+<A>I see. <CO>Do you have any like recitals or</CO>?</A>
+<B>Yeah, I had one <SC>in</SC> on the fifth.</B>
+<A>I see. I see. And do you invite your parents as well or is it just a school <OL>thing</OL>?</A>
+<B><OL><SC>My</SC></OL> yeah, my parents can come, but they <?>didn't</?>.</B>
+<A><F>Oh</F> I see. You didn't invite them.</A>
+<B>No.</B>
+<A><laughter>O K</laughter>. O K. <F>Urm</F> so you're in the second year?</A>
+<B>I'm <OL>first year</OL>.</B>
+<A>First year. <F>Oh</F> I see. So you just came back from <F>ur</F></A>
+<B><F>Ur</F> <OL>no</OL>.</B>
+<A><OL>Germany</OL>?</A>
+<B>I came back <F>ur</F> <.></.> two years ago</B>
+<A><F>Mm</F>.</A>
+<B>about, yeah.</B>
+<A><nvs>smack</nvs> So you went to <F>ur</F> a public junior high school when you came back.</A>
+<B>Yeah.</B>
+<A>So</A>
+<B><R>A little</R> a little while.</B>
+<A>I see. And so you like this school better?</A>
+<B>This school?</B>
+<A>Yeah. <CO>Than a regular</CO>?</A>
+<B>Yeah.</B>
+<A>Right. I see. O K. O K. Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

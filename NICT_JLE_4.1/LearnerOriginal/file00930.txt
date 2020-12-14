@@ -1,0 +1,175 @@
+<interview>
+<filename>file00930.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's start. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. So how are you today, <H pn="B's name">XXX02</H>?</A>
+<B>I'm fine, thank you.</B>
+<A>O K.</A>
+<B>And how are you?</B>
+<A>Fine, thank you. Have you eaten lunch yet?</A>
+<B>Yes.</B>
+<A><F>Uhm</F>. What did you eat?</A>
+<B>I ate <JP>raamen</JP>.</B>
+<A><F>Uhm</F> <.></.> where?</A>
+<B><F>Err</F> in my home.</B>
+<A><F>Ah</F> I see.</A>
+<B>Yeah.</B>
+<A>Who cooked it?</A>
+<B>I cook myself.</B>
+<A><F>Ahh</F>. Do you live alone.</A>
+<B>No. I live with my family.</B>
+<A><F>Uhm</F>.</A>
+<B>But <F>urr</F> <SC>in</SC> during <F>ur</F> <.></.> <F>err</F> <.></.> afternoon, <F>er</F> there are no people in my home. So I have to cook lunch</B>
+<A><F>Uhm</F>.</A>
+<B>by myself.</B>
+<A><F>Ah</F> I see.</A>
+<B>Yes.</B>
+<A><F>Uhm</F>. O K. Then, <F>urr</F> you're wearing a school uniform.</A>
+<B>Yes.</B>
+<A>Please tell me about it.</A>
+<B>Yes. <F>Urr</F> <R>I</R> I'm in the <F>er</F> <JP>judo</JP> club so <F>ur</F> <SC>in <JP>judo</JP> club</SC> a freshman of <JP>judo</JP> club have to wear uniform <.></.> for <R>one</R> one hour. <SC>So</SC> <F>urr</F> but <R>whe</R> when there is no practice, I don't have to wear uniform. But today I have practice. So I wear uniform.</B>
+<A><F>Uhm</F>. O K. <F>Ur</F> why <F>urr</F> did you decide to start <JP>judo</JP> at <H pn="school name1">XXX03</H>?</A>
+<B>Yeah.</B>
+<A><nvs>cough</nvs></A>
+<B><F>Urr</F> <F>urr</F> <R>I'm</R> <.></.> <SC>I'm</SC> I join <JP>judo</JP> club <F>err</F> <SC>during my</SC> during high school and high school, and I was <F>urr</F> student <F>urr</F> <H pn="school name2">XXX04</H>, <F>er</F> this school. And <SC>I often</SC> <F>er</F> I sometimes <F>ur</F> go to <SC>practice to university becau</SC> <F>urr</F> practice <?>time</?> because university is near my high school. <F>Er</F> so <R>I</R> <.></.> I know <F>urr</F> how the <F>urm</F> university's <JP>judo</JP> club is and I think <F>urr</F> it will be <F>ur</F> good for me to join <JP>judo</JP> club.</B>
+<A><F>Uhm</F>.</A>
+<B>So <SC>I decided to <.></.> star</SC> <F>urr</F> I decided to join <JP>judo</JP> club in university.</B>
+<A><F>Uhm</F>. I see. <F>Uhm</F>. Would you please tell me about the <JP>senpai-kohai</JP> system in that club?</A>
+<B>Yes. <F>Urr</F> <SC>in</SC> <F>er</F> <??></??> <SC>if</SC> <F>urr</F> freshman have to do a lot of things. I have to clean <F>ur</F> <JP>dojou</JP> and open windows and wash <F>urr</F> head coach's <F>urr</F> <R><JP>judo</JP></R> <SC><JP>judo</JP> wear</SC> <JP>judogi</JP></B>
+<A><F>Ahhh</F>.</A>
+<B>and so on.</B>
+<A><F>Uhm</F>. <OL><nvs>cough</nvs></OL></A>
+<B><OL><R>And</R> and <?>the other</?></OL> there are <R>many</R> <.></.> many <SC>job</SC> jobs. <F>Ur</F> so <.></.> during <F>urr</F> freshman, I have to do a lot of things. But <F>urr</F> <.></.> comparing <F>ur</F> other universities, <F>er</F> it's <F>urr</F> <.></.> <R>le</R> <R>less</R> less than university <F>ur</F> because <F>urr</F> <.></.> <F>urr</F> my <JP>senpai</JP> also do <.></.> a lot of things. <F>Ur</F> so <F>urm</F> I think <F>ur</F> <R>there</R> <.></.> there is <.></.> <R>not</R> not so strict <F>ur</F> relation. I think <F>urr</F> we are <F>um</F> very friendly.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhm</F>. I see. O K. Thank you. Now, <.></.> <F>urm</F> I'll show you a picture. O K. Please describe this picture.</A>
+<B>O K.</B>
+<A><nvs>cough</nvs></A>
+<ctxt>The interviewee is looking at the picture and thinking for a while.</ctxt>
+<A>Please describe.</A>
+<B>Yes. <F>Ah</F>. Yes. <F>Ur</F>. <R>Des</R> describe. O K. <F>Urm</F> <..></..> <R>there</R> <SC>there is a</SC> <.></.> <SC>one</SC> a girl is <R>sitting</R> <.></.> sitting <F>urr</F> the chair. And in front of her, there <F>ur</F> a personal computer. And <R>next</R> <F>ur</F> <R>next</R> <.></.> next to the <F>urr</F> <.></.> P C, there are printer. <SC>And he</SC> <.></.> but <SC>he</SC> now he is looking at a <.></.> cat <.></.> <SC>this</SC> <F>ur</F> <.></.> which is <F>urr</F> lying in her bed. And <SC>there are</SC> there is also a dog. It is in the floor. <R>And</R> <.></.> and <.></.> there is <SC>a</SC> <.></.> the big <F>urr</F> <R>s</R> stereo systems <SC>in</SC> <F>er</F> on the rack. And I think <SC>it</SC> it's very expensive. <CO><OL>And</OL></CO>.</B>
+</task>
+<followup>
+<A><OL>O K</OL>. Thank you, <H pn="B's name">XXX02</H>. Do you have a pet?</A>
+<B>No.</B>
+<A><F>Ah</F> why not?</A>
+<B>Yes. <F>Urr</F> because <F>err</F> my family don't like pets.</B>
+<A><F>Uhm</F>.</A>
+<B>Yes.</B>
+<A>Why not?</A>
+<B><R>Because</R> <F>urr</F> <.></.> because <F>urr</F> they are busy. So <R>they</R> <.></.> they don't have enough time to keep pets,</B>
+<A><F>Uhm</F>.</A>
+<B>I think.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhm</F>. I see. O K. Thank you. Now, let's do a role-play. <F>Uhm</F> please read the card and <nvs>cough</nvs> when you're ready, I'll start the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Hello, <H pn="A's name">XXX01</H> speaking.</A>
+<B>Yes. Hello. <F>Err</F> <F>er</F> tomorrow is Sunday. Are you free <.></.> on tomorrow?</B>
+<A><F>Uhmmm</F> it depends on time.</A>
+<B><F>Er</F> so <F>urm</F> now <F>urm</F> very interesting movie is <F>urrm</F> <.></.> <R>sho</R> showing <R>in</R> <F>er</F> <.></.> in theater. So <SC>I have to</SC> <R>I</R> I want to go to see the movie with you.</B>
+<A><F>Uhm</F>.</A>
+<B><R>How abou</R> how about you?</B>
+<A><F>Ah</F> O K. I'd love to. But what movie?</A>
+<B>Movie? What movie? Yes. <F>Urr</F> the movie is <F>urr</F> "<R>H</R> Harry Potter".</B>
+<A><F>Uhmm</F>.</A>
+<B>Yes.</B>
+<A><F>Oh</F> great. O K. Let's go.</A>
+<B>Yes. Yes. <F>Urr</F> so my house is <F>ur</F> <.></.> Ogikubo and <R>I</R> <.></.> I can go to Shinjuku <F>er</F> <SC>in</SC> only in twenty minutes. So how about going Shinjuku?</B>
+<A><F>Uhm</F> O K. <R>I</R> <nvs>cough</nvs> I can go to Shinjuku by</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Yamanote Line</OL>.</A>
+<B><F>Oh</F>. O K. So <SC>I</SC> tomorrow I want to <.></.> sleep <.></.> a lot of time so</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><R>how</R></OL> <R>how</R> <SC>how about</SC> <F>urmm</F> so how about going <.></.> <F>ur</F> from <F>er</F> afternoon?</B>
+<A>O K.</A>
+<B><R>So</R> <.></.> so <.></.> <R>let's</R> <SC>let's</SC> <F>urr</F> <SC>I</SC> <.></.> let's wait <F>ur</F> in front of ALTA <R>at</R> <.></.> at one thirty</B>
+<A>O K.</A>
+<B>in the afternoon.</B>
+<A><F>Uh-huh</F>.</A>
+<B>O K?</B>
+<A>Yes. Sure.</A>
+<B>So <R>I</R> <SC>I'm</SC> <.></.> the movie is <SC>begin with</SC> <F>urm</F> begin at two fifteen. So <SC>I</SC> <.></.> we have to wait for some time. But <R>there</R> there will be a long line.</B>
+<A><F>Uhmm</F>.</A>
+<B><CO>So <OL>I</OL></CO>.</B>
+<A><OL>Do you</OL> have the tickets?</A>
+<B><.></.> No.</B>
+<A><F>Ahhh</F>. <F>Uhm</F> what if we cannot get in?</A>
+<B><F>Uhmm</F>. <SC>I think</SC> <F>er</F> <SC>so</SC> O K, so <R>I</R> I'm going to <.></.> buy ticket <.></.> now.</B>
+<A><F>Ah</F> O K. Please. <nvs>laughter</nvs></A>
+<B>O K.</B>
+<A>Thank you.</A>
+<B>Thank you. So see you tomorrow.</B>
+<A>O K. See you.</A>
+<B>Bye-bye.</B>
+</task>
+<followup>
+<A>O K. Good. So you said "Harry Potter". What do you think about the movie?</A>
+<B>Yes. <F>Urr</F> <SC>very</SC> <F>ur</F> honestly speaking, I'm not interested in this. <.></.></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>Because</OL> <F>ur</F> <R>I</R> <.></.> <R>I</R> <F>um</F> <R>I</R> I'm <F>um</F> <JP><R>a</R> amanojaku</JP> <R>in</R> in Japanese, so I don't want to do as <F>urr</F> everyone <OL>do <??></??></OL>.</B>
+<A><OL>I see</OL>. <F>Uhm</F>. O K then, what kind of movies do you like?</A>
+<B>Yes. <F>Urr</F> recently <R>I</R> <.></.> I see <F>urm</F> Sylvester Stallone's movie. <F>Er</F> <SC>I see</SC> I saw <SC>the series of Rocky</SC> <SC>Rocky se</SC> <.></.> <SC>Rocky one</SC> from Rocky one to Rocky five. <OL><F>Urm</F></OL>.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>And <SC>I think <F>urm</F> it</SC> <SC>I</SC> it was <R>very</R> <F>er</F> very very nice movie,</B>
+<A><F>Uhm</F>.</A>
+<B>I think.</B>
+<A>I've never seen it. But what happens in that movie?</A>
+<B>Yes, <F>urrm</F> <R>first, Rocky</R> <nvs>cough</nvs> <.></.> <nvs>cough</nvs> sorry <F>er</F> first, Rocky <SC>is</SC> <F>urr</F> <SC>was</SC> is a boxer but he is not <.></.> famous. But <F>urr</F> <.></.> the champion <F>urr</F> Apollo <F>er</F> <.></.> <R>cho</R> <SC>choose</SC> <.></.> chose Rocky for a challenger. And then <SC>he <.></.> fight</SC> he fought <SC>the</SC> Apollo <SC>and he</SC> <.></.> but he lost. But he did a very very <R>nice</R> <.></.> <SC>nice game</SC> <F>urr</F> nice match. <F>Urr</F> he didn't <.></.> knocked out. <SC>Was</SC> <SC>so he</SC> then he <SC>beco</SC> became very famous.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhm</F>. I see. O K. Thank you. Now <??></??>. Please make a story with these six pictures. And please start with "One day last week" because it happened before.</A>
+<B>Yes. <F>Urm</F> <SC>one day last week</SC> <F>urr</F> <.></.> one day, <F>urr</F> <.></.> <SC>my</SC> <F>ur</F> <.></.> <R>I</R> <.></.> I have stolen foods by someone. So <R>I have to</R> <.></.> <SC>I have to buy a foods</SC> I have to buy foods. So <R>I went to</R> <.></.> I went to supermarket by car. And in supermarket, <F>er</F> <.></.> <R>the</R> <F>er</F> there <F>urr</F> bargain sale was held so I bought a lot of foods. And <SC>some of them are <F>urr</F> <F>uhm</F> <R>not</R> not <F>urr</F> inaccessible</SC> <.></.> <R>some of</R> some of them are not inaccessible for me. But <R>they</R> they are very very cheap so <SC>I <.></.> had</SC> I bought them. Then <R>I</R> <.></.> I went to <.></.> the register and <.></.> <SC>then I look</SC> <R>then</R> then <.></.> the price <.></.> <SC>was</SC> <.></.> <F>urr</F> <.></.> were expensive than I expected. So <R>I</R> <.></.> I return some of them.</B>
+<A><F>Uhm</F>.</A>
+<B>Then after <OL>that <R>I</R></OL></B>
+<A><OL><nvs>cough</nvs></OL></A>
+<B><R>I bro</R> <R>I</R> <nvs>cough</nvs> I brought my foods to my car and I went to home. <R>And</R> and <.></.> the night on the day, I cooked food. <F>Urr</F> <nvs>cough</nvs> they are <nvs>cough</nvs> very delicious so I was very glad. But tomorrow, I have to <.></.> go to police.</B>
+</task>
+<followup>
+<A><nvs>laughter</nvs> O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>And now</OL> would you please compare a big supermarket to a convenience store.</A>
+<B>Compare? Yes. <F>Urr</F> <R>supermarket</R> <nvs>cough</nvs> <.></.> <SC>supermarket is</SC> <F>uhm</F> <.></.> in supermarket <F>urr</F> the price is cheaper than convenience store. <R>So</R> <F>urm</F> <.></.> so I think <F>urm</F> <.></.> <SC>I</SC> <.></.> <SC>the</SC> <nvs>cough</nvs> I <.></.> went to <.></.> supermarket <SC>if</SC> when the supermarket is open. But <.></.> at midnight or early in the morning, <F>err</F> supermarket is <SC>close</SC> closed but <R>convenience</R> convenience store is <F>urr</F> open <F>uhm</F> <SC>every day</SC> <F>ur</F> <.></.> every time. So convenience store is <SC>very</SC> <F>er</F> <F>urm</F> so convenient <.></.> for me. <F>Er</F> <.></.> because at midnight, <nvs>cough</nvs> <SC>I</SC> <R>when</R> <SC>when I have to</SC> when I want to eat something, <F>urm</F> there is nothing to eat in refrigerator in my home, <R>I</R> <nvs>cough</nvs> <SC>I wen</SC> I go to convenient store and <SC>bough</SC> buy some foods and <R>I</R> <.></.> <R>I</R> <nvs>cough</nvs> <R>I</R> <R>I</R> <nvs>cough</nvs> <.></.> <SC>I'm very</SC> I became glad for that.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you. So now the interview is almost over. But what are you going to do tomorrow?</A>
+<B>Tomorrow? Tomorrow, I have two classes.</B>
+<A>I see.</A>
+<B>Yes. So I will go to university and I also have <.></.> practice of club.</B>
+<A><F>Um</F>. O K. Have a nice time. Thank you very much for coming today.</A>
+<B>Thank you.</B>
+<A>Bye-bye.</A>
+<B>Bye-bye.</B>
+</stage5>
+</body>
+</interview>

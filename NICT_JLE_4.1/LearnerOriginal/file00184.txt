@@ -1,0 +1,286 @@
+<interview>
+<filename>file00184.txt</filename>
+
+<head version="1.3">
+<date>2000-10-26</date>
+<sex>female</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>490</TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. <H pn="B's name">XXX01</H>. How are you this morning?</A>
+<B><F>Mm</F> I'm a <laughter>little tired</laughter>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>Because</OL> I slept late last night.</B>
+<A><F>Mm</F>, I see. O K. So, <F>er</F> what do you usually do on Thursday?</A>
+<B>On Thursday?</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Mm</F> I go to <SC><JP>arubaito</JP></SC></B>
+<A><F>Hum</F>.</A>
+<B>part time job.</B>
+<A><F>Mhm-hum</F>. O K. What kind of part time job <OL>are you</OL> doing?</A>
+<B><OL><F>Mhm</F></OL>. In <H pn="others1">XXX02</H>,</B>
+<A><OL><F>Mhm-hum</F></OL>.</A>
+<B><OL><R>I</R></OL> I work for the deskwork.</B>
+<A><F>Mhm-hum</F>. <F>Mhm</F> what kind of deskwork <OL>is it</OL>?</A>
+<B><OL><JP><F>U-ntto</F></JP></OL> I use computer</B>
+<A><F>Ah-huh</F>.</A>
+<B>of Word or Excel, and <SC>make a <F>um</F> print</SC></B>
+<A><F>Mhm-hum</F>.</A>
+<B>make a <F>mm</F> report.</B>
+<A><F>Mhm</F> I see. Do you like your job?</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. <F>Em</F> <H pn="B's name">XXX01</H>, where do you live?</A>
+<B>I live in <H pn="others2">XXX03</H>-<JP>ku</JP>.</B>
+<A><F>Mhm</F>, O K. So, it's close.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>It's really close. O K. Do you live there with your family?</A>
+<B>With my father and mother.</B>
+<A>O K. Can you tell me about your parents then?</A>
+<B><F>Mhm</F> my parent is <F>mm</F> not so <R>co</R> commit me.</B>
+<A><F>Mhm-hum</F>.</A>
+<B><F>Mm</F> I'm a only child.</B>
+<A><F>Mhm</F>.</A>
+<B>So, they are very <SC>take care of ver</SC> take care for me</B>
+<A><F>Mhm-hum</F>.</A>
+<B>very much.</B>
+<A><F>Mhm</F>. I see. O K. And, when you are not working or studying, what do you like to do in your free time?</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL>What</OL> do you like to do?</A>
+<B><F>Mm</F> I like to <R>sent a</R> send a e-mail.</B>
+<A><F>Mhm</F>. I see. O K. So, what kind of topics are you going to write e-mail about?</A>
+<B><F>Mhm</F>. I'm in fourth grade.</B>
+<A><OL><F>Mhm-hum</F></OL>.</A>
+<B><OL>So</OL> I nearly graduate from university.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL>So</OL> I'd like to go to travel.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>So</OL> I talk with my friend about the travel.</B>
+<A>I see. O K. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>So, next I'm going to show you a picture. <OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>A picture of a restaurant.</A>
+<B>Yes.</B>
+<A>And, please describe it to me.</A>
+<B><SC>The men</SC> <F>em</F> the man and lady set a table and waiting for the dinner. And the man drinks wine. And a waiter showed a bottle of wine for the man.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>And he choose the wine, I think.</B>
+<A>O K. All right. Thank you.</A>
+</task>
+<followup>
+<A>Do you often go out to eat with your friends?</A>
+<B>Yes, <OL>I</OL></B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B>frequently.</B>
+<A><F>Mhm</F>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Can you tell me about your favorite restaurant?</A>
+<B><F>Mhm</F>. Near the university, there is Saizelia.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>It is the name of <R>fa</R> family restaurant.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>And the Saizelia's menu is very cheap</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>and</OL> reasonable.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>So</OL> <laughter>I like</laughter>.</B>
+<A><F>Ah</F> really. How different is that restaurant from this restaurant?</A>
+<B><R>This</R> <F>eh</F> this restaurant is very wide.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>And <R>th</R> <F>mm</F> <SC>there are so</SC> there are little people in the floor.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>But, Saizelia is very <F>mm</F> <SC><JP>semai</JP></SC> <nvs>laughter</nvs></B>
+<A><F>Mhm-hum</F>.</A>
+<B><F>mm</F> crowded.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>And, the waiter and waitress's uniform is not so funny. <nvs>laughter</nvs></B>
+<A>O K. All right. Then when was the last time you went to Saizelia, and, tell me what you did there?</A>
+<B><F>Ah</F> I went Saizelia in the, <SC?>ilie</SC?> <F>mm</F> fifteenth October.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>Because, <F>mm</F> from sixteenth to twenty-third I went to Poland and Belgium.</B>
+<A><F>Mhm</F>.</A>
+<B>So <F>eh</F> last night in Japan, I eat at Saizelia.</B>
+<A><F>Mhm</F>. I see. O K. Thank you.</A>
+<B>Thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><?>Stage</?> next, we are going to do a role-play. O K. And, this is your card. It's in Japanese. Please read it to yourself, and understand the situation.</A>
+<ctxt>Chime ringing.</ctxt>
+<A>When you're ready,</A>
+<B><F>Mhm-hum</F>.</B>
+<A>I'll begin.</A>
+<ctxt>An announcement.</ctxt>
+<A>Sorry about this confusion.</A>
+<ctxt>An announcement.</ctxt>
+<ctxt>Chime ringing.</ctxt>
+<A>O K. Are you ready? It's a phone conversation. O.K? Pru pru. Hello, it's <H pn="A's name">XXX04</H> speaking.</A>
+<B>Hello, this is <H pn="B's name">XXX01</H>.</B>
+<A><F>Mhm-hum</F>. Hi, <H pn="B's name">XXX01</H>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>What's up</OL>?</A>
+<B>I'd like to go to movie.</B>
+<A><F>Ah-huh</F>.</A>
+<B>And, in Shinjuku I have a ticket of movie.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So, shall we go to the movie?</B>
+<A>Yes, sounds good.</A>
+<B><F>Mhm</F> where do you live?</B>
+<A>I live in <H pn="others3">XXX05</H>.</A>
+<B><H pn="others3">XXX05</H>. Then, <F>mm</F> you will go to Shinjuku by <H pn="others4">XXX06</H> line?</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>No, I'll take the <H pn="others5">XXX07</H> line.</A>
+<B><F>Oh</F> but, Shinjuku is very good situation.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So, let's meet at Shinjuku station of <F>mm</F> east side exit.</B>
+<A><F>Mhm-hum</F>. O K.</A>
+<B><F>Mhm-mum</F>. What time is <F>mm</F> suit for you?</B>
+<A><F>Am</F> six o'clock would be better for me.</A>
+<B><F>Er</F> tonight?</B>
+<A><F>Ah-huh</F>.</A>
+<B>I see, <F>mm</F> <F>mm</F> <SC>what</SC> <F>mm</F> <SC>how do</SC> <F>mm</F> where do you eat at dinner?</B>
+<A><F>Mhm</F>. <CO><OL>I hope</OL></CO>.</A>
+<B><OL>Before</OL> the movie?</B>
+<A><F>Mhm-hum</F> yeah, I haven't decided yet wherever.</A>
+<B>I will eat the dinner before the movie.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So, you please eat the dinner <SC>before the</SC> before six <OL>o'clock</OL>.</B>
+<A><OL>O K</OL>. I'll do that. <laughter>O K</laughter>? So, see you.</A>
+<B>See you.</B>
+<A>At six o'clock?</A>
+<B>Yes.</B>
+<A>O K. See you then.</A>
+<B>See you then.</B>
+<A>Bye-bye. Thank you.</A>
+<B>Thank you.</B>
+<A>O K. This is the end of the role-play.</A>
+</task>
+<followup>
+<A><F>Am</F> <?>I am sure you like watching movies</?>?</A>
+<B><F>Mm</F> <nvs>laughter</nvs> a little.</B>
+<A>A little?</A>
+<B>Yes.</B>
+<A>O K. Do you prefer watching movies, <SC>on</SC> at the theater or <SC>at the vi</SC> with a video? Which do you like better?</A>
+<B>I like in theater</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL>better</OL>.</B>
+<A><F>Mhm</F>. Why is that?</A>
+<B>Because <F>mm</F> the theater is the screen is very wide. And the sound is very <F>mm</F> dramatic.</B>
+<A><F>Mhm-hum</F>.</A>
+<B><SC>And</SC> so, I like see the movie in theater.</B>
+<A><F>Mhm</F>. O K. So, can you tell me about your favorite movie or the best movie you have ever seen?</A>
+<B><F>Mm</F> I saw the movie, the name of Tricolor,</B>
+<A><F>Mhm-hum</F>.</A>
+<B><JP><F>un-tto</F></JP> in France</B>
+<A><F>Mhm-hum</F>.</A>
+<B><F>Mm</F> there are three part. And, one is blue, and two is red, and <SC>three</SC> <F>eh</F> third is white.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>It is Tricolor.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>And, I saw the blue one.</B>
+<A><F>Mhm</F>.</A>
+<B>And, it was very sad story.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>But <F>mm</F> the color of the movie is very <F>mm</F> clear.</B>
+<A><OL><F>Mhm-hum</F></OL>.</A>
+<B><OL>And</OL> made of blue color.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So, it was very interesting.</B>
+<A><F>Mhm</F>. I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So, lastly, I'm going to show you a last picture with <.></.> picture sequence from one to six. And, I'd like you to make up a story based on these pictures. And the story happened before. So, please start your story with "One day last week".</A>
+<B><F>Mm</F> one day last week, <F>mm</F> <SC>I and my friend walking</SC> <F>eh</F> I and my friend <F>eh</F> were walking on the street in the rainy day. And a friend noticed the sound. And <R>he</R> <F>mm</F> <SC>he were</SC> he was looking for the sound. And, I noticed that, <SC>the <SC>cat</SC> baby cat</SC> a little cat <SC>is</SC> <F>u</F> <F>mm</F> was <SC>on the street</SC> <SC>near the</SC> <F>mm</F> <SC>near</SC> <F>mm</F> <.></.> on the street.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So, the cat was very pretty.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>And I <R>hold</R> holded <OL>the cat</OL>.</B>
+<A><OL><F>Mhm-hum</F></OL>.</A>
+<B>And <SC>I getting to</SC> <R>I</R> <F>mm</F> I was getting to like the cat.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So, I said that I want to <F>mm</F> <R>bri</R> <R>bri</R> bring back the cat to my home. But, my friend say no. But <R>I</R> I really want to <F>mm</F> <R>br</R> bring back the cat.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So <R>he</R> <F>mm</F> <SC>he make</SC> <F>eh</F> he changed the mind.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>And <SC>he say</SC> he said O K.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So, we brought back the cat</B>
+<A><F>Mhm</F>.</A>
+<B>to the home.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>What do you think about what they did</A>
+<B><F>Mm</F>.</B>
+<A>in this picture?</A>
+<B>He <F>mm</F> <R>loo</R> looking for the <F>mm</F> sound?</B>
+<A><F>Mhm-hum</F>. <F>Mm</F> no.</A>
+<B><OL>No</OL>?</B>
+<A><OL><R>What</R></OL> what do you think about the ending?</A>
+<B>Ending?</B>
+<A><F>Mhm-hum</F>. What they did? They brought a cat home.</A>
+<B>Home. And, take care.</B>
+<A><F>Mhm-hum</F>. What do you think about it?</A>
+<B><F>Mm</F> <.></.> <SC>in my childhood, I</SC> <F>mm</F> <SC>in my birthday</SC> <F>mm</F> at <SC>the</SC> my birthday party day,</B>
+<A><F>Mhm-hum</F>.</A>
+<B><F>eh</F> <F>mm</F> I and <SC>my friends</SC> my many friends are <F>mm</F> <.></.> <JP><F>uun-to</F></JP> <.></.> <F>mm</F> see the cat</B>
+<A><F>Mhm-hum</F>.</A>
+<B>in the street.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So <SC>one of my friend <SC>is</SC> have</SC> <F>ah</F> <SC>my</SC> one of my friend have <OL><SC>cat</SC></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>eh</F> two cats</B>
+<A><F>Mhm-hum</F>.</A>
+<B>in her house.</B>
+<A><F>Hum</F>.</A>
+<B>So <SC>she ha</SC> <F>mm</F> she know how to care the cat.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So, she brought back</B>
+<A><F>Hum</F>.</A>
+<B>her home.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>And she have three cat <?>from the day</?>.</B>
+<A><F>Oh</F> really.</A>
+<B>So, it is very happy <laughter>ending</laughter>.</B>
+<A><F>Mm</F> I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you, <H pn="B's name">XXX01</H>. <F>Er</F> we are almost at the end of the interview. So <F>em</F> you are going to <H pn="others1">XXX02</H> right after this interview?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A>How far is it, do you know?</A>
+<B><F>Mm</F> <SC>about</SC> <F>mm</F> it is depend on the kind of train.</B>
+<A><F>Ah</F>.</A>
+<B>If I ride the <R>ex</R> express,</B>
+<A><F>Mhm-hum</F>.</A>
+<B>I can go <SC>bu</SC> <F>mm</F> for about thirty minutes.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>But, I ride the local train,</B>
+<A><F>Ah</F>.</A>
+<B>I will <SC>take the</SC> take about <laughter>fifty minutes</laughter>. <nvs>laughter</nvs> <laughter>Depends on</laughter> the train.</B>
+<A>I see. O K. So, have a good day.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>Thank you</OL> very much for coming. <JP>Hai otsukare</JP>.</A>
+</stage5>
+</body>
+</interview>

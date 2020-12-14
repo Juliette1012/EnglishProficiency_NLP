@@ -1,0 +1,298 @@
+<interview>
+<filename>file00432.txt</filename>
+
+<head version="1.3">
+<date>2001-04-16</date>
+<sex>male</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>470</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good morning.</A>
+<B><F>Uh</F> good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. <F>Eh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>,</A>
+<B><JP>Hai</JP>.</B>
+<A>how are you today?</A>
+<B>I'm fine, thank you. And you?</B>
+<A><F>Er</F> I'm fine, too. Thank you. O K. Mister <H pn="B's name">XXX02</H>, <F>er</F> where do you live?</A>
+<B><F>Eh</F> <F>uh</F> <F>ur</F> <F>uh</F> <F>er</F> I live in</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>er</F></OL> <H pn="others1">XXX03</H> City.</B>
+<A><F>Hmm</F> so, how do you come to the office?</A>
+<B><F>Hmm</F> <SC>I</SC> <F>hmm</F> by the <F>er</F> train.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><F>Hm</F></OL> I walk to station <OL>from</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>my <R>ho</R> <R>ho</R> home.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>er</F> <.></.> I <JP>nandakke</JP> come from <H pn="others2">XXX04</H> <OL>by</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><H pn="others3">XXX05</H> <F>eh</F> railway.</B>
+<A><F>Hum</F>.</A>
+<B>And <F>er</F> I came <F>er</F> this office</B>
+<A><F>Hum</F>.</A>
+<B><F>eh</F> by walk.</B>
+<A>I see. How long does it take?</A>
+<B><F>Oh</F> it takes <F>eh</F> fifty <F>er</F> minutes.</B>
+<A><F>Hm</F> that's not bad.</A>
+<B>Yes.</B>
+<A><F>Hmm</F> O K. <F>Er</F> I don't know much about <H pn="others1">XXX03</H> City.</A>
+<B>Yeah.</B>
+<A><F>Hm</F> can you tell me about <H pn="others1">XXX03</H> City?</A>
+<B><F>Er</F> <.></.> <F>uh</F> <H pn="others1">XXX03</H> City is famous</B>
+<A><F>Hum</F>.</A>
+<B><F>er</F> by, <F>ur</F> I hear, <laughter>gay</laughter> people's <OL><F>ur</F></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>town,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>but</R> <SC>but I think so</SC></B>
+<A><F>Hum</F>.</A>
+<B><F>uh</F> <F>uh</F> but I don't think so</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> because <F>er</F> <F>er</F> many type peoples <F>ur</F> live in <F>er</F> <H pn="others1">XXX03</H> City, <F>er</F> white collar, blue collar <F>er</F> <?>bad</?> <F>er</F> <.></.> officer,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> many type people. And <F>er</F> <.></.> <F>mm</F> <.></.> almost all the people</B>
+<A><F>Um</F>.</A>
+<B><F>er</F> think <F>er</F> <R><H pn="others1">XXX03</H></R> <H pn="others1">XXX03</H> City is very <R>c</R> <F>eh</F> comfortable city,</B>
+<A><F>Uh-huh</F>.</A>
+<B>because <F>er</F> not <F>er</F> loudly</B>
+<A><F>Uh-huh</F>.</A>
+<B>and not <F>er</F> noisy,</B>
+<A><F>Hum</F>.</A>
+<B><.></.> and <F>ur</F> <.></.> <R>many</R> <F>eh</F> <SC>many <F>eh</F> woods</SC> <F>uh</F> there are many woods <F>uh</F> in the city.</B>
+<A>I see. O K. And is that your hometown?</A>
+<B><F>Hm</F> <F>uh</F> <F>ah</F> <F>eh</F> <F>uh</F> sorry, <F>eh</F> <F>er</F> <R>I don't</R> I don't understand <F>er</F> meaning of hometown.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Does it mean <F>er</F> <R>the city</R> <F>eh</F> the city that I lived in?</B>
+<A><F>Er</F> <R>are you</R> <F>er</F> are you born in <H pn="others1">XXX03</H>?</A>
+<B><F>Ah</F> no, <OL><R>I</R></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>eh</F> <R>I</R> <F>er</F> I borned in <H pn="others4">XXX06</H> City.</B>
+<A>I see. It's close.</A>
+<B>Yes. it is.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. O K. Thank you very much. Now, I'd like to show you a picture.</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>O K. Here you are.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>So, please</OL> look at this picture.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>And</OL> <F>er</F> describe this picture for me.</A>
+<B>Yes. <F>Hmm</F> <F>er</F> <F>mm</F> <R>there</R> <F>ur</F> <SC>there is a girl <SC>and u</SC> and there is</SC> there are <F>eh</F> a girl, one dog and one cat.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <SC>I think</SC> <F>er</F> <F>uh</F> although <F>ur</F> <.></.> <SC>nobody</SC> <F>eh</F> there is nobody except for the girl, I think <F>ur</F> <.></.> <F>oh</F> <F>mm</F> somebody is in this room,</B>
+<A><F>Uh-huh</F>.</A>
+<B>because <F>er</F> <.></.> this girl seems <F>er</F> to explain something to somebody and <F>er</F> the door is opening.</B>
+<A><F>Hum</F>.</A>
+<B>And <F>er</F> the girl sit down <F>er</F> in front of her desk and <F>eh</F> one P C is on the desk, and <F>er</F> one typewriter. <nvs>cough</nvs> I think <F>ur</F> <F>mm</F> this girl explain <F>eh</F> to some software <.></.> to somebody. <.></.> <F>Mm</F> <.></.> <F>mmm</F> <..></..> and <F>er</F> cat is <F>eh</F> sleeping on the bed and <F>er</F> dog <F>er</F> also is sleeping <F>er</F> on the floor. <.></.></B>
+</task>
+<followup>
+<A>O K. Do you have any pets at home?</A>
+<B><F>Erm</F> I don't have.</B>
+<A><F>Hm</F> <R>you</R> <F>hm</F> you don't like?</A>
+<B><F>Er</F> <F>ah</F> <F>uu</F> I like <F>er</F> dog,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> but <F>er</F> <SC>I don't</SC> <F>eh</F> I can't have a pet,</B>
+<A><F>Hum</F>.</A>
+<B>because <F>ur</F> <F>erm</F> I live in <F>eh</F> apartment.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F> <.></.> <F>eh</F> <R>the</R> the apartment rule</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> <R>limit for</R> <.></.> <F>hm</F> <SC>limit for</SC> limit to <F>er</F> <R>have a</R> <F>eh</F> have a neither <F>er</F> dog nor cat.</B>
+<A><F>Hmm</F> I see. I understand.</A>
+<B>Yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hm</F> O K. Thank you very much. And then, I'd like to do a role-play. <nvs>cough</nvs> O K. O K. So, please read this card.</A>
+<B>Yes.</B>
+<A>And when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? Hello. May I help you?</A>
+<B><F>Oh</F> <F>eh</F> I would like to</B>
+<A><F>Um</F>.</A>
+<B>go <F>eh</F> abroad.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> I'd like to <F>er</F> go <.></.> <F>eh</F> during <F>er</F> summer season.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>er</F> to some place that <F>ur</F> <F>erm</F> <.></.> cool.</B>
+<A><F>Hm</F>.</A>
+<B><F>Umm</F> and I would like to watch <F>er</F> <F>er</F> many <F>eh</F> wilderness animals.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> example, <F>ur</F> like whales <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>ur</F> deer</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> caribou,</B>
+<A><F>Uh-huh</F>.</A>
+<B>et cetera.</B>
+<A><F>Hm</F>.</A>
+<B><F>Uu</F> which do you recommend?</B>
+<A><F>Hmm</F> O K. How about Canada?</A>
+<B><F>Oh</F> and I don't know <OL><F>er</F></OL></B>
+<A><OL><F>Umm</F></OL>.</A>
+<B>about Canada very well.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So could you explain</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL><SC>to</SC></OL> about Canada?</B>
+<A>O K. Because <F>er</F> you said <F>er</F> you want to watch a lot of wild <OL>animals</OL>,</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>hm</F> there are a lot of wild animals <OL>in</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>Canada.</A>
+<B>Yeah.</B>
+<A>But I'm afraid you cannot see a whale.</A>
+<B><nvs>laughter</nvs> O K. <F>Erm</F> which do you recommend,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>ur</F></OL> <F>ur</F> somewhere <F>er</F> in Canada?</B>
+<A><F>Well</F> <F>erm</F> I think you'd better stay in Vancouver.</A>
+<B><F>Oh</F>.</B>
+<A>And you can go <F>er</F> one-day trip to a lot of places.</A>
+<B><F>Oh</F>.</B>
+<A><F>Hm</F> or if you'd like, you can go camping.</A>
+<B>Yeah.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> I like camping.</B>
+<A><OL><?>O K</?></OL>.</A>
+<B><OL><F>Uh</F></OL> <F>er</F> how can I <R>go</R> go to Vancouver? <.></.> <F>Oh</F> <R>I</R> <F>en</F> I think <F>ur</F> I have to go to <F>er</F> <.></.> <R>we</R> west coast <OL>in</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>er</F> North America <SC>to</SC> by airplane,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <F>er</F> transit to <OL><F>er</F></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>Vancouver.</B>
+<A>O K. <SC>we ha</SC> now we have <F>er</F> direct flight to Vancouver.</A>
+<B><F>Oh</F> <OL>really</OL>?</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>Oh</F> great</OL>.</B>
+<A><OL>Are you</OL> interested?</A>
+<B><F>Mm</F> <SC>ex</SC> yes.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hmm</F> <F>er</F> how much <OL>is it</OL>?</B>
+<A><OL><F>Er</F> it's</OL> <F>er</F> two-hundred thousand.</A>
+<B>Two-hundred thousand. Two-hundred thousand.</B>
+<A>Japanese yen.</A>
+<B><F>Oh</F> <F>mm</F> <F>oh</F> <F>hm</F> how long can I stay in Vancouver?</B>
+<A>One week.</A>
+<B>Excuse me?</B>
+<A>One week.</A>
+<B>One week. <OL><F>Oh</F></OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><F>Hm</F> I think <F>er</F> very <F>eh</F> cheap.</B>
+<A>Yeah. That is <SC>s</SC> very <OL>special tour</OL>.</A>
+<B><OL>Really, yeah</OL>.</B>
+<A><F>Hmm</F> <R>here</R> <F>uh</F> here is a pamphlet.</A>
+<B><F>Uh</F> O K. <F>Er</F> <F>uh</F> I will <OL><F>er</F></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>discuss</B>
+<A><F>Um</F>.</A>
+<B>this plan</B>
+<A><F>Um</F>.</A>
+<B><SC>to</SC> <F>uh</F> with my wife</B>
+<A><F>Hum</F>.</A>
+<B>tonight.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Um</F> <F>er</F> <SC>that</SC> <R>I</R> <F>er</F> I will let you</B>
+<A><F>Um</F>.</A>
+<B>the result tomorrow.</B>
+<A>O K. So, I'm waiting for your call.</A>
+<B>Yeah.</B>
+<A>O K. Thank you very much.</A>
+<B><OL><JP>Hai</JP></OL>.</B>
+<A><OL>This is</OL> the end of role-play. Thank you.</A>
+</task>
+<followup>
+<A>Do you like traveling?</A>
+<B>Yes.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F> I like <F>er</F> camping.</B>
+<A><F>Hm</F>.</A>
+<B><CO>So</CO>.</B>
+<A>So, what's the good point of camping?</A>
+<B><F>Erm</F> good point? <F>Er</F> <R>sou</R> <F>er</F> south <OL><F>er</F></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>Kyushu is good point</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ur</F> for camping.</B>
+<A><F>Hm</F>.</A>
+<B>Because <F>er</F> the place is warm during <R>one y</R> one year. And <F>er</F> <R>beau</R> <F>eh</F> beautiful mountain and beautiful ocean.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Hm</F> I see. O K. Now, I'd like to show you one more picture.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. So, please look at this picture. And this time, I would like you to make a story.</A>
+<B>Yes.</B>
+<A><F>Hm</F> and please start your story with "One day last week".</A>
+<B><F>Mm</F> one day last week, <F>er</F> <nvs>cough</nvs> <R>I</R> I went to the station in order to go to <F>eh</F> my office.</B>
+<A><F>Hum</F>.</A>
+<B>And <F>er</F> <R>I</R> <F>eh</F> I was waiting for train on the <JP>homu</JP>. <.></.> Then, <F>er</F> <R>some</R> <R>some gentleman</R> <F>ur</F> <..></..> some gentleman hit my arm <F>ur</F> <R>su</R> suddenly, so <R>I had</R> <F>ur</F> <.></.> <R>I had</R> <F>ur</F> <..></..> I had lost my bag to <SC?>ra</SC?> the rail. <OL><F>Uh</F></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Hm</F> <F>mm</F> and <R>I</R> <F>eh</F> <SC>I agree</SC> <F>uh</F> I angried to the gentleman. <F>Mm</F> <.></.> and <F>ur</F> I <F>mm</F> <R>asked he</R> asked he to <F>er</F> <.></.> go down the rail and <F>er</F> bring up my bag <R>hi</R> himself. But <R>he</R> <F>eh</F> <F>eh</F> <SC>he don't agree</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uh</F> <R>he didn't</R> <F>uh</F> he didn't agree it. And <.></.> <F>er</F> next time, <F>er</F> <F>mm</F> <F>mm</F> <SC?>ru</SC?> <JP><F>eeto</F></JP> <.></.> <F>eh</F> <..></..> express <F>eh</F> came into the station and <F>er</F> <.></.> <SC>go through</SC> <F>uh</F> went through on <SC>the</SC> my bag.</B>
+<A><F>Hum</F>.</A>
+<B>I thought <.></.> <F>er</F> the bag was <F>uh</F> broken.</B>
+<A><F>Um</F>.</A>
+<B><.></.> <F>Er</F> after that <F>eh</F> express, <F>ur</F> my bag was no problem, because <F>er</F> there is my bag <F>er</F> between the rails.</B>
+<A><F>Hum</F>.</A>
+<B><..></..> <F>Er</F> And <F>er</F> <R>I</R> <F>er</F> <SC>I look for a station staff</SC> <F>er</F> I looked for station staff, and <F>er</F> I asked also <F>er</F> him to <F>er</F> bring up my bag, and he agreed it. <F>Er</F> <R>he</R> <F>eh</F> he <F>eh</F> bring up my bag. The end.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. <F>Er</F> you said you took <H pn="others3">XXX05</H> train</A>
+<B>Yes.</B>
+<A>from <H pn="others1">XXX03</H> to <H pn="others2">XXX04</H>.</A>
+<B><F>Ur</F> no, <F>er</F> <H pn="others5">XXX07</H>.</B>
+<A><F>Ah</F> O K. <OL><F>Hm</F></OL>.</A>
+<B><OL><R>Fro</R> <R>from</R> <F>uh</F></OL> from <H pn="others5">XXX07</H> to <SC><H pn="others6">XXX08</H></SC> <F>er</F> <H pn="others2">XXX04</H>.</B>
+<A><F>Hm</F> so, how about the train? Is it similar to this picture?</A>
+<B><F>Hm</F> <F>mm</F> I think <F>er</F> <SC>I</SC> <F>eh</F> it <R>i</R> is not similar.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Because <F>ur</F> <F>eh</F> the <H pn="others5">XXX07</H> Station is <F>ur</F> <R>not</R> <F>ur</F> not <F>ehh</F> crowdy as <F>er</F> this <F>er</F> station.</B>
+<A><F>Hm</F> O K. So you are lucky.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A><nvs>laughter</nvs> O K. We are almost end of the interview.</A>
+<B><JP>Hai</JP>.</B>
+<A><F>Er</F> do you have any plan for tonight?</A>
+<B><F>Ern</F> <F>er</F> I don't have no plan</B>
+<A><F>Hm</F>.</A>
+<B>tonight.</B>
+<A><F>Hm</F> so, just go back home and relax? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Hm</F> <F>erm</F></OL> go back and <F>ur</F> I have to <F>er</F> study</B>
+<A><F>Um</F>.</A>
+<B><F>er</F> <R>self-stu</R> <F>mm</F> self-study material <OL><F>er</F></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>made <SC>f</SC> <F>er</F> by <F>er</F> ALC.</B>
+<A><F>Oh</F> really?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><laughter><F>Oh</F></laughter></OL> O K. Please work hard. <nvs>laughter</nvs></A>
+<B>Yes.</B>
+<A>O K. Thank you very much for today.</A>
+<B><F>Uh</F> <F>er</F> you are welcome.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

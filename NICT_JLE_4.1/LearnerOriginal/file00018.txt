@@ -1,0 +1,129 @@
+<interview>
+<filename>file00018.txt</filename>
+
+<head version="1.3">
+<date>1999-12-14</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>580</TOEFL>
+<other_tests></other_tests>
+<SST_level>8</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, sure.</B>
+<A>O K. So, <H pn="B's name">XXX02</H> <F>um</F> where do you live?</A>
+<B><F>Um</F>. I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Ah</F>. Nice area.</A>
+<B>Yeah. It is. I live very near from the beach, so from <H pn="others2">XXX04</H> beach.</B>
+<A>I see. <F>Wow</F> so <SC>have you</SC> <F>uh</F> were you born there?</A>
+<B><F>Uhh</F>. No. I moved five years ago.</B>
+<A>So, before <F>um</F> you moved to <H pn="others1">XXX03</H> where were you living?</A>
+<B><F>Um</F>I was living in <H pn="others3">XXX05</H> <.></.> city <OL>in <H pn="others4">XXX06</H></OL>.</B>
+<A><OL><F>Uhh</F></OL> I see. So, how do you like <H pn="others1">XXX03</H>?</A>
+<B><F>Umm</F> the good <.></.> point is that in <H pn="others1">XXX03</H> there is mountain area and also <R>th</R> there is a beach. And you know you, can both enjoy the mountain and the <.></.> view of the <R>o</R> ocean. Also, you have many temples, there are many temples there and so and historic site, so you can enjoy visiting those places.</B>
+<A>I see. <F>Um</F>. O K. Yeah, I also like <H pn="others1">XXX03</H>. So, can you tell me about yourself?</A>
+<B><F>Um</F> yes. <F>Um</F>. <.></.> I was born in <H pn="others4">XXX06</H>, and then I moved to <H pn="others5">XXX07</H> <R>when I was</R> when I was six years old and because of my father's business. And I came back to <H pn="others6">XXX08</H> when I was <F>um</F> <R>ten</R> ten years old. And then after that, I stayed <H pn="others6">XXX08</H> for a while but then, <F>um</F> when I was in junior high school, I moved to <H pn="others7">XXX09</H> and lived there for three years. And then came back to <H pn="others6">XXX08</H> again and went to high school and <SC>college</SC> junior college sorry. And after I graduated from the junior college, I worked <SC>for the bank</SC> for a bank for a few years, and then I decided <R>that</R> that I wanted to go to university again, so I came back to university.</B>
+<A>I see. <F>Mmm</F> you have very <laughter>interesting life experience</laughter>. I don't know too much about <H pn="others5">XXX07</H>. <F>Ah</F> can you describe the life there?</A>
+<B><F>Um</F>. As I was <F>um</F> little, so I do not remember that much but <F>um</F> <SC>the weather is very</SC> the climate is very hot there. And so it's like <.></.> all summer. <F>Um</F> <SC>summer every</SC> you know, the season is <.></.> always summer. And, <SC>you can</SC> <R>there are</R> there are a lot of beautiful flowers and <.></.> also <.></.> I think it used to be <F>uh</F> a colony of <R>s</R> Spain, so <SC>it is</SC> <F>um</F> <SC>they have</SC> <F>um</F> <SC>there are many</SC> <F>um</F> there is <SC>a</SC> <.></.> the building is a sort of mixture of <F>um</F> <SC>cul</SC> <SC>Spain</SC> Spanish culture and <F>um</F> the Indian culture which used to be there.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. <F>Mmm</F> very <laughter>interesting</laughter>. I want to hear more but we have to <R>con</R> continue. All right, so <F>um</F> next stage I want you to describe a picture for me. <.></.> Please look at this picture and <F>um</F> describe it for me.</A>
+<B><.></.> <F>Um</F> it is a restaurant, and <.></.> <SC>a couple</SC> sorry three couples are enjoying dinner. And couple <.></.> which is <R>sitting</R> sitting <SC>in front of us</SC> just in front of us is <F>um</F> the wife is wearing pink suit and her husband is wearing yellow jacket. And <.></.> they just ordered wine. And sorry a husband just ordered wine, and he's tasting now and <R>the</R> the sommelier is standing <F>um</F> besides the table. And he is explaining about the wine, and <R>he's</R> <R>he's</R> <F>um</F> he's very content of the wine, and he says that "O K. I will have that". <SC>He</SC> maybe <F>uh</F> the waiter will pour to her wife's <SC>glasses</SC> glass, too. And in the restaurant, there is a piano and the piano <R>is</R> <R>is</R> <F>um</F> is playing <R>by</R> by herself.</B>
+</task>
+<followup>
+<A>O K. Very good. Do you like eating out?</A>
+<B><laughter>Yes, I like it</laughter>.</B>
+<A>O K. In <H pn="others6">XXX08</H>, there is <SC>nope</SC> no separation between smoking section and non-smoking section in many of the restaurants. What do you think about that?</A>
+<B><F>Um</F> I strongly disagree with the situation because <SC>I don't think</SC> <F>ah</F> I think smoke <R>will</R> <F>um</F> will disturb <.></.> someone <SC>if you're</SC> if you don't like <.></.> to smoke. <?>And it ruins the especially when eating if were sometimes destroying the <F>ah</F> taste of foods</?>.</B>
+<A>Yeah.</A>
+<B>So, I think the smoking and non-smoking should be <F>uh</F> separated.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mmm</F>I agree. All right. Now, next, I want you to read this card. We will do a role play. O K? Now, when you are ready, I will start.</A>
+<B><.></.> O K.</B>
+<A>O K. Ring ring, hello.</A>
+<B>Hello. <F>um</F> <R>So</R> sorry, I forgot your name.</B>
+<A><F>Oh</F>. <H pn="A's name">XXX01</H>.</A>
+<B>Hello, <H pn="A's name">XXX01</H>. <F>Um</F> <F>um</F> this is <H pn="B's name">XXX02</H> speaking.</B>
+<A><F>Oh</F> hi, <H pn="B's name">XXX02</H>. What's up?</A>
+<B>Hello, <F>um</F> sorry. <SC>I'm</SC> It's about the dinner party which you invited me. And actually, I'm sorry but I can't come because <F>um</F> my mother is sick, and she's now in a hospital. So, <R>I have to</R> I have to be with her. I'm so sorry but I can't come.</B>
+<A><F>Well</F> you know the party was yesterday.</A>
+<B><F>Oh</F> really. I'm so sorry about that. <R>I</R> I didn't even sorry I was so upset about my mother so, I'm sorry I couldn't call you.</B>
+<A><F>Well</F> it's too bad that your mom is sick. <F>Uh</F>. But you know many people whom I invited yesterday were so excited to meet with you. And they were waiting for a long time.</A>
+<B><F>Oh</F> I'm sorry, very sorry to hear that. But, I really want to go the next time if you have party, so I also want to meet <F>um</F> other people. So <R>I'm</R> I'm very sorry.</B>
+<A><F>Well</F> <F>uh</F> that's O K then. We're having another party next week. Do you want to come?</A>
+<B>Yes, sure. Thank you very much. I'm <.></.> very appreciated it.</B>
+<A>O K so, I'll call you back again when I have more details.</A>
+<B>Thank you.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Bye.</A>
+<B>Good bye.</B>
+</task>
+<followup>
+<A>All right. <F>um</F> Has something like this ever happen to you?</A>
+<B><F>Umm</F>. No.</B>
+<A>No?</A>
+<B>That I.</B>
+<A>You always make <F>um</F> on time or for the appointment or. <.></.></A>
+<B><F>Uh</F> luckily I didn't have much <F>um</F> you know, trouble or incident.</B>
+<A>I see. That's good. <F>Uh</F> In a case like this, what do you recommend people to do?</A>
+<B><F>Um</F>. <CO><SC>To</SC> if someone cannot</CO>. <.></.></B>
+<A>Right. Someone didn't make it to the party,</A>
+<B><F>Umm</F>.</B>
+<A>Maybe for no reason.</A>
+<B><OL>For no reason</OL></B>
+<A><OL>Simply</OL> simply forgot that they had an appointment.</A>
+<B>But I think sometimes lying is a good way to, you know, not always good to say <F>um</F> <R>the</R> the fact. So, I think sometimes you have to lie. So, sometimes it is effective to make <.></.> a story.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>You are right. O K, good. Now <F>uh</F> the next stage is <.></.> telling a story. O K? Now, there are six pictures, and it all happened in one day. O K? so I want you to make a short story that starts with "one day last week".</A>
+<B><.></.> O K.</B>
+<A>O K. Go ahead.</A>
+<B><F>Um</F> one day, Ken was driving by himself. And there was a motor cycle was coming <R>in front</R> in front of him, and Ken accidentally crashed to the motor cycle. And <.></.> and <F>uh</F> and <.></.> I mean <.></.> then Ken hit the back of the motor cycle and the man who was on the motor cycle was very angry about that. And they both argued. Ken <SC>was listening</SC> just listening to his complaint. And he decided that it would be better to call policeman, so <R>he called</R> he called the police and then the policeman came. And a policeman came and ask Ken questions. And <R>Ken</R> <.></.> Ken thought that <R>it was</R> <.></.> it was him <SC>that was</SC> was <F>um</F> that should be blamed. So he said that he will call the insurance company and cover <R>the</R> the <.></.> <F>um</F> brought the motor cycle and fix it, and also <.></.> and he noticed that the motor cycle was out of order. And he couldn't move it any more. So he called to the service station, and the service man came, and came by a truck. And they put the motor cycle on the truck, and the man also went <R>with</R> with the service man. And they left the place of the accident. <SC>And they</SC> <F>ah</F> sorry I mistake.</B>
+<A>That's O K.</A>
+<B><laughter>Sorry</laughter>, I mistook Ken to <F>um</F> <SC>the man was</SC> <F>um</F> so the man was just looking, and the motor cycle went to the service station.</B>
+</task>
+<followup>
+<A>O K. That's very good. Do you drive?</A>
+<B><F>Uh</F>I used to drive.</B>
+<A><laughter>What happened</laughter>?</A>
+<B><F>Um</F> I had an accident. After that I stopped driving.</B>
+<A>I see. <SC>Do you mind me</SC> <F>um</F> do you mind telling me more about the accident that you had?</A>
+<B><F>Ah</F> not at all. I actually <F>um</F> I was the one <SC>that was</SC> that should be blamed because I changed the line in the intersection. And I <R>hit the</R> hit the car <F>um</F> moving next my car. And but luckily <R>no one</R> no one was injured. But I was really <R>af</R> afraid because <F>um</F> I was moving not so slow. I mean, it was not to slowly. And if I maybe hit harder, the next car will, you know, crossed the line. And went to the <F>um</F> opposite line, and then it will, you know, hit the collision. So, I was very scared <SC>stop</SC> since then I stopped driving by myself.</B>
+<A>I see. Was this happened in <H pn="others6">XXX08</H>?</A>
+<B>Yes, in <H pn="others6">XXX08</H>. But it was just I was <F>uh</F> careless.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. It's very difficult to avoid accidents when you are driving fast. I mean, maybe in your case you weren't driving too fast. But, yeah. I see. O K. All right. Thank you. Now this is almost end of the interview. <F>Uh</F> what is your plan for the new year?</A>
+<B><F>Um</F> plan for the new year? <F>Umm</F> actually, maybe I cannot enjoy very much because I have <F>umm</F> some reports that I should finish. <F>Um</F> and also <SC>that's test</SC> <F>ah</F> we have test after new year so maybe I have to study. But <F>um</F> maybe I think we'll drink champagne in the new year's eve, enjoy a little bit.</B>
+<A><laughter>Yeah</laughter>.</A>
+<B>Year two thousand.</B>
+<A>Right, right. It's going to be a big celebration all over the world, I guess.</A>
+<B>Year, I guess so.</B>
+<A>O K, <F>well</F> <F>ah</F> I hope you will be able to finish all the assignment in the Studying, so you can enjoy your new year's day. Thank you very much for coming.</A>
+<B>Thank you very much.</B>
+<A>O K. This is all.</A>
+<B>O K. Thank you.</B>
+</stage5>
+</body>
+</interview>

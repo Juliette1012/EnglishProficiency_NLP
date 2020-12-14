@@ -1,0 +1,213 @@
+<interview>
+<filename>file00508.txt</filename>
+
+<head version="1.3">
+<date>2001-07-05</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>517</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. <F>Urr</F>. My name is <H pn="A's name">XXX01</H>. May I have your name again?</A>
+<B><F>Um</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Um</F>. So, <H pn="B's name">XXX02</H>,</A>
+<B><F>Mm-hm</F>?</B>
+<A><F>mm</F> <F>urr</F> could you tell me about your studying at <H pn="school name1">XXX03</H> University?</A>
+<B>O K. <F>Urm</F>. I belong to school of Literature Two.</B>
+<A><F>Hmm</F>.</A>
+<B>And I'm major in Art and Performance.</B>
+<A><F>Hmm</F>.</A>
+<B>So <F>um</F> I'm studying <F>umm</F> how to express myself, or I'm learning about <R>play</R></B>
+<A><F>Hmm</F>.</A>
+<B>play. And <F>mm</F> I'm also learning about education because I want to take qualification of <F>ur</F> museum <?>creator</?>.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>And I was</SC> and I'm also learning French,</B>
+<A><F>Wow</F>.</A>
+<B><nvs>laughter</nvs> for second language.</B>
+<A><F>Wow</F>. <F>Oh</F> sounds good. <F>Hmm</F>. So, why are you interested in art so much?</A>
+<B><F>Umm</F>. Why? <F>Umm</F>. Because <F>well</F> <R>I like</R> I like going to museum to see paintings because <F>urm</F> when I go to museum and looking paintings, I feel very relaxed.</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>And I think</OL> <F>urm</F> looking at paintings, I can read a lot of thing like where it was drawn or <SC>who</SC> <SC>what's drawed it</SC> <F>um</F> who drawed it.</B>
+<A><F>Hmm</F>.</A>
+<B>Or, you know, where the country is, or something like that. <R>And</R> <F>hmm</F> and I also like watching play.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Erm</F>. So I sometimes going to theater to see play.</B>
+<A><F>Well</F> could you tell me about the last play you saw?</A>
+<B><F>Umm</F>. The last play? <R>I</R> I saw the play about Gogh</B>
+<A><F>Hmm</F>.</A>
+<B>of painter.</B>
+<A><F>Hmm</F>.</A>
+<B>Famous painter. <SC>About</SC> and the story of his life.</B>
+<A><F>Hmm</F>.</A>
+<B>And it was very interesting because I also like paintings,</B>
+<A><F>Uh-hm</F>.</A>
+<B>and plays.</B>
+<A>Right.</A>
+<B>I could enjoy both of them.</B>
+<A>Good. <F>Wow</F>. O K. How do you usually get information about play to see?</A>
+<B><F>Urrm</F>. <F>Well</F> I checked the information magazine like "Pia".</B>
+<A><F>Hmm</F>.</A>
+<B>And <F>ur</F> my grandfather is also interested in play, so he sometimes give me some tickets,</B>
+<A><F>Wow</F>.</A>
+<B><R>he</R> he got. So, yeah, he sometimes tells me about play, which is playing now, or which is good or bad, or something like that.</B>
+<A>Sounds great.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>You have</OL> such a nice grandfather.</A>
+<B>Yeah, <OL>I think so</OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL>Good</OL>. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Urr</F>. First thing, I will show you a picture. <F>Hmm</F>. O K. So, could you describe this picture for me?</A>
+<B>O K. <F>Urm</F>. <R>This is my room</R>. This is my room.</B>
+<A><F>Uh-hm</F>.</A>
+<B>This dog is named <F>urr</F> Carl.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And this cat is named Pipi. And, now, I am doing my homework on the computer and word processor. But my pets are sleeping <SC>in</SC> <R>on</R> <laughter>on my bed and on the carpet</laughter>. And <F>wow</F> <laughter>I'm doing homework</laughter>, but they are sleeping. <F>Well</F> but they are so sweet, and they look so cute,</B>
+<A><F>Uh-huh</F>.</A>
+<B><laughter>so</laughter> <F>mm</F> I like watching them sleeping. <SC>And I fee</SC> <F>well</F> and now, <R>I</R> I think I should take a break because I'm doing a lot of work. <SC>Now</SC> and I have to do a lot of work, and maybe, it's gonna to take <SC>till tonight</SC> <R>tonight</R> <OL><laughter>tonight</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>So, now, I think I should take a break. And <F>well</F> five minutes later, let's <laughter>do it again</laughter>.</B>
+</task>
+<followup>
+<A>Good, <H pn="B's name">XXX02</H>. Yeah. Very good job. So, <F>um</F> could compare this room in the picture to your own room?</A>
+<B>O K. <F>Urm</F>. <F>Well</F> let's see. O K, I also have bed.</B>
+<A><F>Uh-hm</F>.</A>
+<B>And <R>I</R> I don't have computer in my room. I have computer in my house, but not in my room. And <SC>I</SC> my mother is using together. And <F>well</F> <F>uhm</F> I think <SC>I have</SC> I also have book shelf, but I have a <SC>more big</SC> <R>bigger</R> bigger book shelves. And <SC>I</SC> this looks like only C D player and cassette player, but <SC>I also have</SC> I have M D player and cassette player and C D player. And <F>hmm</F> <SC>I</SC> also I have a piano in my room.</B>
+<A><F>Uhm</F>.</A>
+<B><SC>It's</SC> it doesn't have. <CO>And</CO>.</B>
+<A><OL><F>Hmm</F> yeah, O K</OL>, <H pn="B's name">XXX02</H>. Yeah. Thank you very much. So, what does your mother use computer for?</A>
+<B><F>Well</F> <F>ur</F> <F>mm</F> not particular thing she has to do, but she is very interested in some computer <OL>thing</OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>And she want to <F>urr</F> improve her skill. <R>She</R> she want to use computer to do something. And <SC>she has</SC> <R>she hasn't</R> <F>urr</F> she hasn't decided what to do yet.</B>
+<A><F>Hmm</F>.</A>
+<B>But, <F>well</F> now, <OL>she's learning</OL></B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B>how to use computer.</B>
+<A>From you.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Well</F> no</OL>. <?>I'm not good</?>.</B>
+<A><laughter>O K, O K</laughter>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><R>Thank you</R>. Thank you. And, now, we are going to do a role-play. O K. Please read this card, and when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card to herself.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Let's say it's on the phone. Ring-ring. <JP>Kacha</JP>. Hello.</A>
+<B>Hello. This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F>. Hi, <H pn="B's name">XXX02</H>.</A>
+<B>Hi. <F>Well</F> I'm calling you about dinner party which you invited me. <F>Urm</F>. That day, I'm so sorry, but <SC>I couldn't</SC> I can't go to that party.</B>
+<A>I know. <SC>We've been</SC> we'd been waiting, waiting, waiting for you. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Well</F> I'm so sorry, but, that day, <F>urr</F> my sister is going to come back to my house from America. You know, <F>mm</F> she is working, and <R>she</R> she said she's not going to come back. But, <F>urm</F> very fortunately, <R>she</R> she will be able to <SC>have</SC> take <SC>holiday</SC> vacation for one week next week. So <F>umm</F> I will have to stay at home and have a dinner with my family,</B>
+<A><F>Umm</F>.</A>
+<B>because my sister is going to be there, and <R>she</R> she has been lived in America for five years.</B>
+<A><F>Hmm</F>.</A>
+<B>And I haven't seen her for <F>umm</F> one year.</B>
+<A><F>Hmm</F>.</A>
+<B>And this is very <F>urm</F> important time for our family. So I'm so sorry, but I can't go to the dinner party <R>next Friday</R> next Friday.</B>
+<A><F>Well</F> actually, I didn't tell you, but it was your graduation party <OL>I planned</OL></A>
+<B><OL><F>Ohh</F> really</OL>?</B>
+<A><F>mm</F> secretly for you.</A>
+<B><laughter><F>Oh</F> <F>well</F></laughter>. O K, what can I do? <F>Urm</F> what time is it going to be held?</B>
+<A>Seven.</A>
+<B><F>Oh</F>. Seven the night?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Well</F> <F>mmm</F> I can't go at seven, but, <F>umm</F> <F>well</F> maybe, I can go there at ten. But, maybe, it's <OL>late</OL>.</B>
+<A><OL><R>Sure</R></OL>. Sure. We can <OL>wait for you, yeah</OL>.</A>
+<B><OL>You can wait</OL> for me? So, O K. I'm sure <R>I'm</R> <SC>I'm</SC> <R>I'll</R> I'll be there <R>at</R> at ten o'clock in the night. Is it O K?</B>
+<A>O K, O K. But, <F>ur</F> how can I say to the guests?</A>
+<B><F>Ohh</F>. <F>Well</F> <F>um</F> please make something <laughter>for me</laughter>. <nvs>laughter</nvs></B>
+<A>O K, O K. I will. <OL>Yes, <??></??></OL>.</A>
+<B><OL>O K, I will</OL> bring <R>something</R> <SC>something present</SC> something really good.</B>
+<A>Don't worry about it.</A>
+<B><OL>O K</OL>.</B>
+<A><OL><F>Umm</F> O K</OL>. Thank you for calling, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>O K</OL>.</B>
+<A>Say hello to your sister.</A>
+<B><R>O K</R>. O K. I will. <CO>So</CO>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>See you all next week</OL>.</B>
+<A>See you.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>O K. This is the end of the role-play. Thank you, <H pn="B's name">XXX02</H>. <F>Ur</F>. Do you like attending a party?</A>
+<B><F>Umm</F>. Yes. <F>Umm</F>. Sometimes, <SC>we</SC> my friends <SC>ha</SC> hold birthday <OL>party each other</OL>.</B>
+<A><OL><F>Umm</F></OL>. <F>Ahh</F>. So, <R>wha</R> what do you do on the party?</A>
+<B><F>Urm</F>. Usually, it's surprising party, <SC>and</SC> so we don't say about party to the who is birthday girl.</B>
+<A><F>Hmmm</F>.</A>
+<B><R>And</R> <F>well</F> and the day we just go to her house,</B>
+<A><F>Uhm</F>.</A>
+<B>and <laughter>take her out</laughter> and bring her to <SC>some party</SC> <F>urr</F> some shop</B>
+<A><F>Uh-hm</F>.</A>
+<B>and <nvs>laughter</nvs> have a party. <nvs>laughter</nvs></B>
+<A><F>Wow</F>. Must be your friend</A>
+<B><F>Uh-hm</F>.</B>
+<A>was very happy at the time.</A>
+<B><F>Oh</F> <?>really</?>?</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhm</F>. Yeah. O K, <H pn="B's name">XXX02</H>, thank you very much. <F>Urr</F>. Final thing. <F>Mmm</F> could you make up a story <F>urr</F> using, O K, <F>mmm</F> maybe, O K, this one. So this happened last week,</A>
+<B><F>Uh-huh</F>.</B>
+<A>so, please start your story with "One day last week".</A>
+<B>O K. <F>Urr</F>. One day last week,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>um</F> my parents and my cousins <F>urr</F> was visiting my house. So I had to prepare for dinner. And they called me in the morning of that day. So, when I looked into the refrigerator, I found a nothing in there for dinner. So I decided to go to supermarket to buy food. And <R>I went</R> I went to the supermarket by car because the food is going to be <SC>very</SC> <laughter><R>a lot</R></laughter> a lot. <SC>And</SC> O K, and, after I went to the supermarket, I was thinking <R>what</R> what going to make for dinner. And I decided to make <F>urm</F> spaghetti and salad. So I bought some foods like <SC>spaghe</SC> pasta and tomato and onion and lettuce <SC>for</SC> and <SC>something</SC> some food,</B>
+<A><F>Umm</F>.</A>
+<B>for them. And I bought them. And I went back to home, and I started to prepare for a dinner. And they told me to visit at six o'clock, <SC>but</SC> so they came to <R>six</R> six o'clock. But <R>I haven't</R> I haven't finished <F>urr</F> cooking yet. So I told them to wait for thirty minutes, and I cooked</B>
+<A><F>Uh-huh</F>.</A>
+<B>And after thirty minutes, I prepared, and all set, and I serve them. And I, my parents <R>and</R> and my cousins had dinner together, and we had a very good time together <OL>that night</OL>.</B>
+</task>
+<followup>
+<A><OL><R>Good</R></OL>. Good, <H pn="B's name">XXX02</H>. Yeah, thank you very much. So, what's your favorite dish that your mom cooks?</A>
+<B><F>Umm</F>. She is very good at cooking,</B>
+<A><F>Hmm</F>.</A>
+<B>so I like everything <SC>she make</SC> she cook. <nvs>laughter</nvs></B>
+<A><F>Ahh</F>.</A>
+<B>But, especially, she is good at meat loaf.</B>
+<A><F>Wow</F>. You know how to cook it?</A>
+<B><F>Mm</F>. <F>Well</F> maybe, she put the meat,</B>
+<A><F>Uh-huh</F>.</A>
+<B>into the oven.</B>
+<A><F>Umm</F>.</A>
+<B>So she said it's very easy to cook. But I don't know how to cook it.</B>
+<A><F>Umm</F>. Sure.</A>
+<B><R>I</R> I love it.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Good. Yeah. O K, <H pn="B's name">XXX02</H>, we are almost at the end of the interview.</A>
+<B><F>Uh-hm</F>.</B>
+<A>Are you going home after this interview?</A>
+<B><F>Um</F>. No. I have class after this.</B>
+<A>From now?</A>
+<B><F>Uh-hm</F>. Because I'm in school Literature Two.</B>
+<A><F>Ahh</F>. <OL>O K</OL>.</A>
+<B><OL><CO>So</CO></OL>.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> Yeah, I know it's hard. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Yeah, I think so</OL>. Then, thank you very much for coming.</A>
+<B><F>Uh-hm</F>. Thank you very much.</B>
+<A>O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

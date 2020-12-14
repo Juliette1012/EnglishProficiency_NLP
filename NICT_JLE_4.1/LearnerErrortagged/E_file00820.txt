@@ -1,0 +1,260 @@
+<interview>
+<filename>E_file00820.txt</filename>
+
+<head version="1.3">
+<date>2001-11-28</date>
+<sex>female</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K. Good evening.</A>
+<B>Good evening.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>. <H pn="B's name">XXX02</H>, what do you do?</A>
+<B><F>Um</F> <SC>I'm wo</SC> I work for <SC>interna</SC> <F>um</F> <H pn="company name1">XXX03</H>.</B>
+<A><F>Uhu</F>.</A>
+<B>And I do the sales. <.></.> Yes.</B>
+<A><F>Um</F>. What is <at odr="1" crr="the"></at> most interesting point <R>in sa</R> in <at odr="2" crr="the"></at> sales <OL>department</OL>?</A>
+<B><OL>Yes</OL>. <F>Er</F> yes. <F>Uum</F>. The most interesting thing is <R>the</R> <F>err</F> the communication with <aj_lxc odr="1" crr="other">another</aj_lxc> people who I <v_asp odr="2" crr="haven't met">didn't meet</v_asp>.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes.</B>
+<A><F>Um</F>. How do you communicate with <aj_lxc odr="1" crr="those">these</aj_lxc> <F>err</F> customers?</A>
+<B><F>Uum</F>. <prp_lxc1 odr="1" crr="On">With</prp_lxc1> <at odr="2" crr="the"></at> telephone.</B>
+<A><F>Uum</F>. I see. O K. And <F>er</F> <F>err</F> where is your working place?</A>
+<B><pn_lxc odr="1" crr="My"></pn_lxc> <cap odr="2" crr="working" ch="1">Working</cap> place is <F>uh</F> Ochanomizu.</B>
+<A><F>Uhu</F>. How do you go to your office from <R>your</R> your house?</A>
+<B>Yes. I take <at odr="1" crr="the"></at> Chuo Line, yes, from <F>eh</F> Toyoda Station to Ochanomizu.</B>
+<A><F>Uhu</F>. I see. Usually, how is the commuting train in the <OL>early morning</OL>?</A>
+<B><OL><F>Hmm</F></OL>. <laughter><F>Err</F></laughter> <F>uum</F>. Actually, I hate <R>the</R> the crowded train, so if I can get up early, earlier than <laughter><n_lxc odr="1" crr="usual">now</n_lxc></laughter>, <F>uum</F> I can take <at odr="3" crr="an"></at> <aj_inf odr="2" crr="earlier">more earlier</aj_inf> train. But I <laughter><v_cmp odr="1" crr="prefer sleeping">prefer to sleep</v_cmp></laughter>, so, yeah, very difficult.</B>
+<A><F>Um</F>. <F>Er</F> what do you usually do on the commuting train from Toyoda to Ochanomizu?</A>
+<B><F>Um</F> pardon?</B>
+<A><F>Um</F> what do you usually do on the train?</A>
+<B><F>Er</F> on the train? <F>Uum</F>. <SC>I</SC> sometimes I sleep. And <F>uh</F> <SC>s</SC> <SC>I stand</SC> I'm standing in the train, and I <laughter>sleep</laughter>.</B>
+<A><F>Oh</F>.</A>
+<B>And, if <SC>I</SC> luckily I can get a seat, <F>uum</F> I read a newspaper and sleep. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Oh</F> O K. That's interesting. O K. And, on your free day,</A>
+<B>Yeah.</B>
+<A>what do you like to do?</A>
+<B><F>Uum</F>. <prp_lxc1 odr="1" crr="On"></prp_lxc1> <cap odr="2" crr="free" ch="1">Free</cap> <n_num odr="3" crr="days">day</n_num>, I like to go out with my friend, and, sometimes <SC>I like to</SC> <F>er</F> I <SC>go to movie</SC> go to <v_lxc odr="4" crr="">see</v_lxc> the movie theater.</B>
+<A><F>Hum</F>.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. And <F>er</F> what kind of movies do <R>you</R> you like?</A>
+<B><F>Err</F> I like <F>er</F> ethnic <n_num odr="1" crr="movies">movie</n_num> or <aj_lxc odr="2" crr="Iranian">Iran</aj_lxc> <R>mo</R> <n_num odr="3" crr="movies">movie</n_num>. <OL><CO>or</CO></OL>.</B>
+<A><OL><F>Um</F></OL>. What do you mean by the ethnic movies?</A>
+<B>Ethnic movie.</B>
+<A><F>Hm</F>.</A>
+<B><F>Um</F> <pn_lxc odr="1" crr="they"></pn_lxc> <v_vo odr="2" crr="are produced">produce</v_vo> <prp_lxc1 odr="3" crr="in">by</prp_lxc1> <F>um</F> <R>Cam</R> Cambodia or Vietnam or not Europe or America.</B>
+<A>I see. How <v_tns odr="1" crr="did you get">do you get</v_tns> interested in especially <aj_lxc odr="2" crr="those">these</aj_lxc> movies?</A>
+<B><F>Uum</F>. <R>How</R> <SC>how do you</SC> how <v_tns odr="1" crr="did I get">do I get</v_tns>? <.></.></B>
+<A><F>Hmm</F>. <.></.> Or, why are you interested in <OL>ethnic movies</OL>?</A>
+<B><OL><F>Err</F></OL> <F>er</F> because <R>I</R> <R>I like to</R> <F>er</F> I like to travel <F>um</F> <SC>and</SC> <F>er</F> <SC>Asia area</SC> <prp_lxc1 odr="1" crr="to"></prp_lxc1> <at odr="2" crr="the"></at> southeast Asia area, so, in the <n_num odr="3" crr="movies">movie</n_num>, I can see some <R>sce</R> scenery of <R>e</R> <at odr="5" crr="the"></at> <aj_lxc odr="4" crr="">ethnic</aj_lxc> Asian area, so I can <R>feel</R> <F>err</F> feel <F>um</F> <F>err</F> <o_lxc odr="6" crr="as if" crr2="as though">that</o_lxc> <R>I</R> <SC>I are</SC> <R>I am there</R> I am there. <OL>Yes</OL>.</B>
+<A><OL>I see</OL>. Good. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Um</F>. I'm going to show you a picture.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is taking out a picture to show.</ctxt>
+<A>O K. Can you describe this picture for me, <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> yes. <F>Errm</F> this is a snow <n_num odr="1" crr="mountain">mountains</n_num>, <SC>and some</SC> and there are many ski players <F>um</F> <F>er</F> <SC>thi</SC> in this mountain. And <F>uum</F> <SC>one</SC> <SC>un</SC> one of them <v_agr odr="1" crr="does">do</v_agr> <at odr="3" crr="">the</at> <n_lxc odr="2" crr="snowboarding">snowboard</n_lxc>. Very good player. <SC>And</SC> but <laughter>one of</laughter> the ski <n_num odr="1" crr="players">player</n_num> <F>um</F> <F>er</F> <SC>slew</SC> <.></.> <R>can</R> <mo_lxc odr="3" crr="is not">cannot <v_lxc odr="2" crr="be"></v_lxc></mo_lxc> good at skiing, <F>um</F> maybe. And there are four <n_inf odr="1" crr="children">childrens</n_inf> playing <prp_lxc1 odr="2" crr="at"></prp_lxc1> <at odr="4" crr="">the</at> <n_num odr="3" crr="snowballs">snowball</n_num>, yes. <F>Uum</F>. And <R>all</R> all of them are boys, yes. And <F>uum</F> there is a snowman <F>er</F> near the tractor. <F>Er</F> <R>ma</R> maybe, this tractor can <SC>be</SC> work for <.></.> <SC>snow</SC> <?><v_lxc odr="1" crr="remove">escape</v_lxc></?> <at odr="2" crr="">the</at> snow.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>.</B>
+<A>O K. Thank you.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, do you do winter sports?</A>
+<B><F>Uum</F>. <R>Not</R> <R>not</R> not so <R>m</R> <av_lxc odr="1" crr="much">many</av_lxc>.</B>
+<A><F>Um</F>. Which do you prefer, staying inside <laughter>or</laughter> <v_lxc odr="1" crr="going"></v_lxc> outside, <OL>when you are free</OL>?</A>
+<B><OL><F>Err</F></OL>. In <at odr="1" crr="the"></at> winter</B>
+<A><F>Um</F>.</A>
+<B>season? <F>Uum</F> <R>I</R> I like to walk in the <R>win</R> winter season.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah. Because <SC>I</SC> <.></.> <R>if I</R> if I walk <SC>and</SC> <F>er</F> <SC>good <SC>pa</SC> <SC>space</SC> <F>mm</F> pace</SC> <prp_lxc1 odr="1" crr="in"></prp_lxc1> <at odr="2" crr="a"></at> good pace, <R>I</R> I will <v_lxc odr="3" crr="be"></v_lxc> able to be hot.</B>
+<A><F>Hum</F>. <OL><F>Hum</F></OL>.</A>
+<B><OL>Yes</OL>. And <F>eh</F> it's very healthy. Yeah. So I like this.</B>
+<A><F>Um</F>. You said <?>in</?> <at odr="1" crr="the"></at> wintertime, you like walking</A>
+<B><F>Um</F>.</B>
+<A>to warm you up.</A>
+<B><F>Um</F>.</B>
+<A>But, in <at odr="1" crr="the"></at> summertime, what do you do to keep yourself <aj_lxc odr="2" crr="health">healthy</aj_lxc>?</A>
+<B><F>Err</F>. Summertime? Also walking and <R>I</R> I want to <F>err</F> <v_cmp odr="1" crr="keep swimming">keep to swim</v_cmp>. <?>Yeah</?>. But <SC>I cannot</SC> now, I cannot make <R>s</R> <n_lxc odr="1" crr="time">sometime</n_lxc> to swim. <con_lxc odr="1" crr="But">And</con_lxc> <??></??> <F>uum</F> I <R>try to</R> <F>um</F> <F>er</F> try <SC>to use <F>er</F> <SC>s</SC> te</SC> not to use the elevator <OL>or escalator</OL>.</B>
+<A><OL><F>Hmm</F> <F>hm</F></OL>. <F>Hum</F>. I see. <SC>It</SC> <pn_lxc odr="1" crr="You">I</pn_lxc> mean, in your office building?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Yeah. That's a good idea</A>
+<B>Yeah</B>
+<A>to keep fit.</A>
+<B>Yes.</B>
+<A>O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Well</F> let's do a role-play now.</A>
+<B><F>Ah-huh</F>.</B>
+<ctxt>The interviewer is taking out a role card.</ctxt>
+<A>O K. Please read the card.</A>
+<B>Yes.</B>
+<A>And, when you are ready, I will start.</A>
+<B>Yes. <F>Oh</F>. <CO>I</CO>. <OL><F>Eh</F></OL>.</B>
+<A><OL>O K</OL>. May I help you, madam?</A>
+<B>Yes, <F>er</F> please. I'm looking for <at odr="1" crr="a">the</at> coat. Yeah, because <SC>I</SC> in January, <R>I</R> I will go to my friend's wedding party. But I <v_vo odr="1" crr="have never been invited">have never invited</v_vo> <prp_lxc2 odr="2" crr="to"></prp_lxc2> that kind of party, so I need to buy <at odr="3" crr="a">some</at> coat.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah. So, <F>er</F> <SC>what coat</SC> what color or what design <n_lxc odr="1" crr="">coat</n_lxc>,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>um</F> <R>do</R> do <at odr="2" crr="">the</at> people buy in this season <OL>this year</OL>?</B>
+<A><OL>You need</OL> <at odr="1" crr="a"></at> coat, <.></.> <at odr="2" crr="an"></at> overcoat or some kind of coat you can wear inside the house?</A>
+<B><F>Er</F> overcoat.</B>
+<A>Overcoat. <F>Well</F> <prp_lxc1 odr="1" crr="in"></prp_lxc1> this <n_lxc odr="2" crr="season">time</n_lxc>, <F>um</F> some people prefer fur <n_num odr="3" crr="coats">coat</n_num>,</A>
+<B><F>Um</F>.</B>
+<A>and leather <n_num odr="4" crr="coats">coat</n_num>.</A>
+<B><F>Um</F>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. Which color <v_lxc odr="1" crr="is"></v_lxc> <at odr="3" crr="">the</at> very <.></.> <aj_lxc odr="2" crr="popular">familiar</aj_lxc>?</B>
+<A><F>Uum</F>. <F>Well</F> it depends. But we have <at odr="1" crr="a"></at> variety <OL>of coats</OL>.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. So <R>I want to have</R> <.></.> <F>mm</F> I want to have one <R>which</R> <F>um</F> which is very easy to <F>er</F> <R>keep</R> keep <pn_lxc odr="1" crr="">it</pn_lxc> clean.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. And, <R>when</R> when I <F>um</F> <v_lxc odr="1" crr="ride">take</v_lxc> a bicycle, <F>um</F> I <?>needed</?> to <v_lxc odr="2" crr="make"></v_lxc> it clean every time.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. So I need <at odr="1" crr="a">the</at> <R>short</R> <SC>short si</SC> <aj_lxc odr="2" crr="short-length">short</B>
+<A><F>Mh-hmm</F>.</A>
+<B>length</aj_lxc> <n_lxc odr="3" crr="coat"></n_lxc>.</B>
+<A>O K. Sure. <F>Well</F> we have that kind of coats, too.</A>
+<B><F>Uhu</F>.</B>
+<A>And <F>er</F> various colors. And <R>materials</R> materials</A>
+<B><F>Ah</F>.</B>
+<A>are different. So you can choose <OL><rel_lxc odr="1" crr="whichever">whatever</rel_lxc> you like</OL>.</A>
+<B><OL><F>Err</F></OL>. Materials. <F>Uum</F> <R>I</R> <SC>I like</SC> I <v_ng odr="2" crr="don't want to have">want to <v_lxc odr="1" crr="have">take</v_lxc> <F>er</F> <R>not</R> not</v_ng> <at odr="4" crr="a"></at> leather <pn_lxc odr="3" crr="one"></pn_lxc>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. Because <R>i</R> <o_uk odr="1" crr="it is not usable">it's very <R>weak</R> <F>um</F> weak</o_uk> in the rain.</B>
+<A><F>Uhu</F>. O K. We have a sort of vinyl type ones, too.</A>
+<B>Vinyl <OL>one</OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>Err</F> <F>uum</F>. But I think vinyl one is <F>er</F> not <R>so</R> <SC>suit</SC> <SC>su</SC> <.></.> good for <at odr="1" crr="a">the</at> wedding party.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. So <R>I</R> I choose <SC>the</SC> <.></.> <??></??> <.></.> <F>uum</F> like <at odr="1" crr="">a</at> <R>swe</R> sweaters, <??></??>. <F>Mm</F>.</B>
+<A>Wool coat?</A>
+<B>Wool.</B>
+<A>Wool.</A>
+<B><OL>Wool coat, yeah</OL>.</B>
+<A><OL>Wool coat, O K</OL>. Here. And the colors, there are several colors <OL>of wool coats, too</OL>.</A>
+<B><OL><F>Err</F></OL> wool coat.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. <F>Oh</F>. <nvs>laughter</nvs> <o_lxc odr="1" crr="A great many">Very <R>many</R></B>
+<A><F>Um</F>.</A>
+<B>many</o_lxc> colors, so <F>uum</F> <R>I</R> <R>I</R> I will <v_fml odr="2" crr="choose">chose</v_fml> a darker color.</B>
+<A>Sure.</A>
+<B><F>Um</F>.</B>
+<A><F>Um</F>. How about this one?</A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL><R>It will su</R></OL> it will suit on you.</A>
+<B><F>Er</F> yeah. <F>Um</F>. Very <F>er</F> good and <pn_lxc odr="1" crr="it"></pn_lxc> <v_lxc odr="2" crr="has"></v_lxc> sharp <n_num odr="3" crr="lines">line</n_num>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. I like sharp <n_num odr="1" crr="lines">line</n_num>. <OL><CO>So</CO></OL>.</B>
+<A><OL>O K</OL>. Sure.</A>
+<B><F>Um</F>.</B>
+<A>O K. And, <F>err</F> O K, I'll wrap this <OL>for you</OL>.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A>O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Thank you</OL>. That's the end of the role-play.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>Do you like shopping?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> yes</OL>. Definitely.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>Where do you like to go for shopping?</A>
+<B>Usually, I go to <at odr="1" crr="the"></at> Shinjuku area.</B>
+<A><F>Um</F>. Why Shinjuku?</A>
+<B><F>Err</F> because I can use my <.></.> <SC>ticket</SC> Chuo Line <n_lxc odr="1" crr="pass">ticket</n_lxc>, so <SC>I can need</SC> <SC>I can</SC> <F>um</F> I don't need to pay <prp_lxc2 odr="2" crr="for"></prp_lxc2> the train ticket.</B>
+<A><F>Uhu</F>.</A>
+<B>And also, there are many department <n_num odr="1" crr="stores">store</n_num> <prp_lxc1 odr="2" crr="in">at</prp_lxc1> Shinjuku.</B>
+<A><F>Uum</F>.</A>
+<B><F>Uum</F> so <R>I can find</R> I can find some <R>good</R> good <n_lxc odr="1" crr="things">goods</n_lxc>. Yeah.</B>
+<A><F>Hum</F>. Good. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Finally today, I'll show you another picture.</A>
+<B>Yes.</B>
+<A><.></.> O K. <nvs>cough</nvs> O K. This time, <F>er</F> I want you to make a story.</A>
+<B>Yes.</B>
+<A>But, please make it short.</A>
+<B><F>Ah</F> <JP>hai</JP>.</B>
+<A>And <F>er</F> it happened before.</A>
+<B>Yeah.</B>
+<A>So, start your story with "One day last week".</A>
+<B>One day last week?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. And short. Short.</B>
+<ctxt>The interviewee is looking at the pictures and thinking for a moment.</ctxt>
+<B><F>Um</F> <F>uum</F>. <con_lxc odr="1" crr="">And</con_lxc> <cap odr="2" crr="Last" ch="1">last</cap> Saturday, yeah, we <v_tns odr="3" crr="went">go</v_tns> to the movie theater to see <at odr="4" crr="an">the</at> air crash movie, yes. <F>Uum</F>. Because <SC>I</SC> <F>uh</F> we <v_tns odr="1" crr="were">are</v_tns> very interested <prp_cmp odr="2" crr="in seeing">in <F>erm</F> to see</prp_cmp> <SC>the</SC> that kind of <o_uk odr="3" crr="movie about a social issue">social issue's <R>mo</R> movie</o_uk>. Because <av_pst odr="3" crr="in September this year, there was an air crash">in <R>S</R> September, <F>um</F> there was <at odr="1" crr="an">a</at> air crash, yeah, <prp_lxc1 odr="2" crr="">in</prp_lxc1> <R>this</R> this year</av_pst>. And <R>we</R> we <v_cmp odr="1" crr="enjoyed the movie">enjoyed</v_cmp> and <av_pst odr="4" crr="were moved very much"><v_vo odr="3" crr="were very much moved"><av_lxc odr="2" crr="very much">very</av_lxc> moved</v_vo></av_pst> <prp_lxc1 odr="5" crr="by">in</prp_lxc1> this <SC>mo</SC> story, yes. And after that movie, <F>um</F> we <v_tns odr="1" crr="talked">talk</v_tns> about <F>um</F> many social issues. And, after that, <SC>I</SC> <R>we</R> <F>er</F> <SC>we <F>um</F> go to <F>er</F> so</SC> <F>er</F> <R>we</R> <R>we go to</R> <F>um</F> we <v_tns odr="1" crr="went">go</v_tns> to <at odr="2" crr="a">the</at> <.></.> <F>um</F> department store <F>um</F> <o_uk odr="3" crr="for a chagne">to change our feeling, not <F>um</F> sad but <R>chee</R> cheer</o_uk>.</B>
+<A><F>Uum</F>. O K. Good. Thank you.</A>
+<B><F>Uhu</F>.</B>
+</task>
+<followup>
+<A><F>Err</F>. Do you like watching movies?</A>
+<B>Yes.</B>
+<A><F>Um</F>. What kind of movies do you like?</A>
+<B><F>Er</F> <R>human</R> <aj_lxc odr="1" crr="heart-warming">human touch</aj_lxc> <n_lxc odr="2" crr="movies"></n_lxc>.</B>
+<A><F>Oh</F>. You said that you <v_tns odr="1" crr="liked">like</v_tns> ethnic movies, <OL>right</OL>?</A>
+<B><OL><F>Uhu</F></OL>.</B>
+<A><F>Uum</F>. So, where can you see these <n_num odr="1" crr="types">type</n_num> of movies?</A>
+<B><F>Err</F>. <pn_agr odr="1" crr="They">It</pn_agr> <v_agr odr="2" crr="are" ch="1">'s</v_agr> not major,</B>
+<A><F>Hm</F>.</A>
+<B>so we <v_cmp odr="3" crr="need to go">need go</v_cmp> to <F>uum</F> <.></.> <R>Yurakucho</R> <at odr="4" crr="the"></at> Yurakucho area or <at odr="5" crr="the"></at> Shibuya area.</B>
+<A><F>Uhu</F>.</A>
+<B>And, sometimes you can see that kind of <n_num odr="1" crr="movies">movie</n_num> <SC>at</SC> <F>uum</F> <.></.> <R>near</R> near Ochanomizu.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah.</B>
+<A><F>Uhu</F>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL>, how often do you watch the ethnic <OL>movies</OL>?</A>
+<B><OL><F>Err</F></OL> maybe, once <prp_lxc1 odr="1" crr="in">per</prp_lxc1> two <n_num odr="2" crr="months">month</n_num>.</B>
+<A>Once <prp_lxc1 odr="1" crr="in">per</prp_lxc1> two <n_num odr="2" crr="months">month</n_num>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>I see</OL>. <F>Uum</F>. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> the interview is almost over now.</A>
+<B><F>Uhu</F>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, after this interview, what's your plan for tonight?</A>
+<B><F>Er</F> tonight? <F>Uum</F>. Tonight, <o_uit odr="1">I can make one hour three time <R>more</R> more than <laughter>usual</laughter></o_uit>.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. So <F>uum</F> I will enjoy <v_lxc odr="1" crr="having">taking</v_lxc> <at odr="2" crr="">the</at> dinner <laughter><o_lxc odr="3" crr="for a longer time">longer</o_lxc></laughter>. <CO>And</CO>.</B>
+<A>Who are you going to have dinner with?</A>
+<B><F>Er</F> who? With my parents at home.</B>
+<A><F>Hum</F>. So they are waiting for you to come home.</A>
+<B><F>Hum</F>. <R>May</R> maybe or not. <OL><laughter>I don't know</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. So, please enjoy your dinner <OL>with your parents</OL>.</A>
+<B><OL><F>Er</F></OL> yes.</B>
+<A>Thank you very much <OL>for coming</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

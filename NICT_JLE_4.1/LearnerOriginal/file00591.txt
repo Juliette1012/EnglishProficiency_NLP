@@ -1,0 +1,236 @@
+<interview>
+<filename>file00591.txt</filename>
+
+<head version="1.3">
+<date>2001-09-10</date>
+<sex>male</sex>
+<age>34</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>600</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>, what do you do in this company?</A>
+<B><F>Err</F> I'm a salesman. I deal with <.></.> <F>err</F> <.></.> <F>err</F> <.></.> <F>er</F> company of <R>motor</R> motors. <F>Err</F> <.></.> for example, <H pn="company name1">XXX03</H>, <F>er</F> and another etcetera.</B>
+<A>O K. Is it very difficult job?</A>
+<B><F>Er</F> yes. Difficult for me.</B>
+<A><F>Ahh</F>. But do you like your job?</A>
+<B><F>Er</F> yes. I enjoy it.</B>
+<A><F>Oh</F> that's good. O K. How long have you been working for this company?</A>
+<B><F>Err</F> for ten years.</B>
+<A>O K. What is your hobby?</A>
+<B><F>Err</F>. <.></.> I like motorcycle.</B>
+<A><F>Ah</F>.</A>
+<B>So I sometimes go to <F>err</F> touring.</B>
+<A><F>Uhm</F>. O K. So recently, where did you go?</A>
+<B><.></.> <F>Eh</F>. Sorry?</B>
+<A><F>Er</F> lately, where did you go?</A>
+<B><F>Ah</F> <F>errrr</F> this year,</B>
+<A><F>Um-huh</F>.</A>
+<B>I didn't go <R>any</R> anywhere. <OL>But</OL></B>
+<A><OL><F>Ur</F></OL>. <F>Uh-huh</F>.</A>
+<B>last year, I went to <F>err</F> <.></.> Kamikochi.</B>
+<A><F>Ahh</F>. O K. How long did it take you?</A>
+<B><F>Errr</F> about <.></.> for three hours</B>
+<A><F>Uhmm</F>.</A>
+<B>or more.</B>
+<A><F>Ah</F>. Did you go alone?</A>
+<B><F>Er</F> yes.</B>
+<A>Do you usually go alone?</A>
+<B>No, sometimes.</B>
+<A>Sometimes?</A>
+<B>Yes.</B>
+<A><F>Ah</F>. O K. Now do you have any plans of going again?</A>
+<B><F>Er</F> yes. I will go to <.></.> <F>err</F> Daisen</B>
+<A><F>Ah</F>.</A>
+<B>of Tottori Prefecture.</B>
+<A><F>Uhm</F>. <F>Uh-huh</F>. When?</A>
+<B><F>Errr</F> <.></.> <F>err</F> next month.</B>
+<A>Next <OL>month</OL>?</A>
+<B><OL><F>Uhm</F></OL>. But I have not reservation <.></.> yet.</B>
+<A><F>Ahh</F>. O K. O K. <F>Urr</F> <R>do you</R> do you live alone now?</A>
+<B><F>Er</F> yes. I live <SC>at</SC> <.></.> in <F>err</F> our company's dormitory.</B>
+<A><F>Ahh</F>. Tell me about your dormitory life.</A>
+<B><nvs>laughter</nvs> <F>Er</F> I enjoyed it.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> now <SC>I have a</SC> I live <F>urr</F> <F>err</F> <.></.> one room.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>So</SC> but <F>urr</F> <.></.> the <.></.> bath <F>urr</F> <.></.> is <.></.> shared.</B>
+<A><F>Ah</F>.</A>
+<B><laughter>Yes</laughter>.</B>
+<A><SC>The dormitory</SC> is that dormitory only for the men?</A>
+<B><F>Er</F> yes.</B>
+<A>O K. Where were you born?</A>
+<B><F>Urr</F> my hometown is <H pn="others1">XXX04</H>.</B>
+<A><H pn="others1">XXX04</H>?</A>
+<B>Yes.</B>
+<A>Do you sometimes go back to your hometown?</A>
+<B><F>Urr</F> <F>uhm</F> not so sometimes.</B>
+<A><F>Ahh</F>. Why not?</A>
+<B><nvs>laughter</nvs> <F>Err</F> <.></.> <H pn="others1">XXX04</H> is near from <H pn="others2">XXX05</H>.</B>
+<A><F>Ah</F>.</A>
+<B>So if I want to <.></.> back to <.></.> <H pn="others1">XXX04</H>, <F>urr</F> I can go to <F>urr</F> <.></.> anytime.</B>
+<A>Anytime?</A>
+<B><OL>Yes</OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL>O K</OL>. O K. Then, look at this picture, please.</A>
+<B>Yes.</B>
+<A>And please describe it.</A>
+<B><F>Errr</F> <.></.> <F>err</F> this situation is at <.></.> the restaurant.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>cough</nvs> And <.></.> there are a <.></.> few couples. And <.></.> the man order <F>err</F> the red wine. And <F>er</F> <F>urr</F> <.></.> waiter <F>urrr</F> recommend the <SC>good <.></.> wine</SC> good red wine for the <.></.> couples. <..></..> <laughter><F>Err</F></laughter> <.></.> everything O K. <nvs>laughter</nvs></B>
+<A><.></.> <F>Er</F> are you asking me?</A>
+<B><F>Uhm</F> yes. <.></.> Can I describe another <SC>the</SC> this picture?</B>
+<A><F>Ah</F>. If you want, yes.</A>
+<B><F>Er</F> yes. <.></.> And this <F>err</F> restaurant <R>have</R> <SC>have</SC> has a <F>err</F> <.></.> piano. And she is playing the piano. And now, <F>errr</F> <..></..> seven o'clock. <..></..> <F>Errr</F> <..></..> a custom <.></.> of <.></.> man <F>er</F> weared <.></.> a yellow jacket. And <F>urr</F> <.></.> woman wear <F>err</F> pink dress. <..></..> That's all. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K. Good. Thank you very much. <F>Well</F>, how do you like this restaurant?</A>
+<B><F>Ahhh</F> <.></.> <SC>very few</SC> very good.</B>
+<A><F>Uh-huh</F>. How good is it?</A>
+<B><F>Ahhh</F>. <.></.> It's seems like very <.></.> high-class restaurant.</B>
+<A><F>Uhmm</F>. Why do you think this is high-class restaurant?</A>
+<B><F>Uhmmm</F>. <..></..> It's seems like <..></..> <F>uhm</F> <..></..> <F>err</F> <.></.> calm.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Ah</F>. O K. O K. Very good.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Thank you very much. And next, let's do a role play. This is your card. Please read it.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>When you're ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K? Hello.</A>
+<B>Hello.</B>
+<A><.></.> <F>Ah</F>. This is <F>urr</F> Ms. <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Urr</F> this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. How are you today?</A>
+<B><F>Er</F>. I'm fine, thank you. And you?</B>
+<A>Yes. I'm good, too. Thank you.</A>
+<B><F>Ur</F> O K. <F>Urr</F> do you have plan <F>urr</F> <.></.> this weekend?</B>
+<A>No, not yet.</A>
+<B><F>Err</F> <SC>I want to go</SC> <F>errr</F> <.></.> I want to see the movie.</B>
+<A><F>Uh-huh</F>.</A>
+<B>If <F>errr</F> <SC>you have a</SC> <.></.> <SC>you haven't</SC> <F>err</F> <.></.> you have not a plan, <F>errr</F> <.></.> I want to go with you.</B>
+<A>Yes. How nice. I want to go, too.</A>
+<B><F>Errr</F> <.></.> where can I <.></.> meet <.></.> you?</B>
+<A><F>Well</F>, <F>urr</F> how about Umeda?</A>
+<B>Umeda?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. <F>Errr</F> so <.></.> <F>errr</F> <.></.> do you know the <.></.> <F>err</F> <R>Hankyu</R> <SC>Hankyu</SC> <.></.> Shin-Hankyu Hotel?</B>
+<A>Yes, I do.</A>
+<B>So <F>errr</F> <..></..> <F>errr</F> I will <.></.> wait for you at <F>err</F> <..></..> <SC>Hankyu</SC> Shin-Hankyu <.></.> Hotel</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> <.></.> at <.></.> <F>er</F> two P M.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Are you O K?</B>
+<A>Yes, fine.</A>
+<B><F>Err</F> <.></.> <F>err</F> <.></.> <R>how</R> how do you come to <.></.> <F>er</F> Umeda Station?</B>
+<A><F>Well</F>, I take Hanshin Train.</A>
+<B><F>Er</F> really? <F>err</F> O K. I will go to <.></.> by train, too.</B>
+<A>O K. O K. Thank you for calling.</A>
+<B>Yes. <F>Err</F> <.></.> see you.</B>
+<A>See you.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Bye.</A>
+<B>Bye.</B>
+</task>
+<followup>
+<A>O K. Very good. <laughter>This is the end of role play</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+<A>Do you like movies?</A>
+<B><F>Er</F> yes.</B>
+<A><F>Ah</F>. Then, tell me about your most impressive movie.</A>
+<B>Impress movie? <F>Errr</F> I didn't see in these days.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But I like <F>errr</F> <.></.> simple story and simple love story.</B>
+<A><F>Uh-huh</F>.</A>
+<B><JP><F>Eeeto</F></JP> <.></.> for example, <F>ah</F> <F>err</F> "Officer and a gentleman". Do you know?</B>
+<A>No, I don't.</A>
+<B><F>Err</F> "<JP>Ai to seishun no tabidachi</JP>".</B>
+<A><F>Ahh</F>.</A>
+<B>The Japanese title.</B>
+<A><F>Ahh</F>. I see.</A>
+<B><F>Er</F>. And <F>urr</F> "Shuri".</B>
+<A><F>Uh-huh</F>. Korean?</A>
+<B>Korean movie.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uh-huh</F>. O K. Thank you very much. Then, here's another picture for you.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A><F>Urr</F> O K. This time, please make up a story using picture number one to number six.</A>
+<B><F>Ahh</F>.</B>
+<A>O K? It happened before. So please start your story with "One day last week".</A>
+<B><F>Uhmm</F>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B><F>Er</F> one day, <F>errr</F> <.></.> last week, she wanted to cook <F>err</F> <..></..> <F>err</F> how to say <JP>medamayaki</JP>?</B>
+<A><F>Ah</F> fried egg.</A>
+<B><R>Fri</R> fried egg?</B>
+<A><F>Uh-huh</F>.</A>
+<B>She wanted to cook fried egg. <F>Err</F> <SC>and then</SC> <F>err</F> <F>er</F> but <F>err</F> <.></.> the refrigerator <F>urr</F> <.></.> hasn't it. <.></.> And then she went to the <F>urr</F> <.></.> grocery shop. <.></.> And she <.></.> bought <.></.> it <F>urr</F> and another <F>urr</F> <.></.> <SC>grocery</SC> <.></.> groceries. <F>Err</F> <.></.> and number four. <F>Err</F> <.></.> she paid by <.></.> cash. <F>Err</F> and then, <..></..> she opened the <.></.> trunk of car and <.></.> put on <.></.> them. And she went back to her <.></.> house. And she cooked <F>urr</F> fried egg.</B>
+<A>O K.</A>
+<B>Finish.</B>
+</task>
+<followup>
+<A>Finish? Thank you very much. <F>Well</F>, what's good about going shopping by car?</A>
+<B><F>Urrr</F> <..></..> if I go to <.></.> by car, <F>urr</F> I could buy many many <F>uhm</F> <F>er</F> groceries. <.></.> And I can <.></.> go to the <.></.> grocery shop <F>err</F> <..></..> faster than <.></.> walking. <..></..></B>
+<A>O K. Good. Thank you.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>This is almost the end of interview.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Well</F>, yesterday was Sunday.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Er</F></OL> did you do anything special yesterday?</A>
+<B><F>Err</F> yesterday? <F>Ah</F> yes. I went to the baseball game.</B>
+<A>You went to see?</A>
+<B>Yes. Sorry. <R>We</R> <F>er</F> we went to see the baseball game.</B>
+<A><F>Oh</F> which one you went to see?</A>
+<B>No, <F>urrr</F> <.></.> my <.></.> customer hold the <laughter>baseball tournament</laughter>.</B>
+<A>You? <F>Ahh</F>.</A>
+<B><SC>Held</SC> hold.</B>
+<A><F>Ahh</F>. You mean <R>it</R> it was not a pro baseball?</A>
+<B>Yes. Yes. Amateur baseball.</B>
+<A><F>Ahh</F>. O K. I see.</A>
+<B>So we <SC>support</SC> <F>err</F> supported our team.</B>
+<A><F>Ahh</F> I see. So was it a very <OL><?>hard day</?></OL>?</A>
+<B><OL><laughter><F>Er</F> yes</laughter></OL>. <nvs>laughter</nvs></B>
+<A><F>Ahh</F>. O K. Where did you go?</A>
+<B><F>Err</F> <SC>Nishinomiya</SC> Nishinomiya-Kita. <.></.></B>
+<A><F>Ah</F> I see. <?>You mean</?> did they use Nishinomiya Stadium?</A>
+<B><F>Ah</F> no. No no.</B>
+<A>Ground?</A>
+<B>Ground.</B>
+<A><F>Ahh</F>. O K. Do you play baseball yourself?</A>
+<B><laughter>No</laughter>. I played the soccer.</B>
+<A><F>Oh</F> you did.</A>
+<B>Yes.</B>
+<A>O K. Thank you very much.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>Thank you for your time</OL>. This is all.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

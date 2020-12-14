@@ -1,0 +1,213 @@
+<interview>
+<filename>file01096.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Good morning.</B>
+<A>Good morning. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ur</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mm-hm</F>. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Mm-hm</F>. So <H pn="B's name">XXX02</H>, are you a freshman at this company?</A>
+<B>Yes.</B>
+<A><F>Uhh</F>. O K. So your life must have been changed a lot.</A>
+<B><laughter>Yeah, yeah</laughter>.</B>
+<A>So what's the big difference after the graduation?</A>
+<B><F>Urr</F> <SC>I wa</SC> <R>I</R> I'm <SC>wake</SC> <F>ur</F> waking up so earlier.</B>
+<A><nvs>laughter</nvs> Is it hard for you?</A>
+<B><F>Mhm</F> sometimes, yes.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Today <R>I</R> <SC>I'm so</SC> <nvs>laughter</nvs> <R>it</R> it is so hard to wake up.</B>
+<A><F>Mhm</F>. Why was it so hard?</A>
+<B><F>Urr</F> yesterday, <F>erm</F> I drank. <nvs>laughter</nvs></B>
+<A><F>Mm-hm</F>. <CO>Tell me about</CO>.</A>
+<B><F>Mm</F>?</B>
+<A><F>Mm</F> tell me <SC>about it</SC> about the last night.</A>
+<B>Last night? <F>Well</F> <F>ur</F> <F>well</F> my colleagues <F>ur</F> <SC>co</SC> <R>ca</R> came to my room so <R>I went</R> I went <SC>drink</SC> drank <?>beer</?>.</B>
+<A><F>Mm-hm</F>. O K.</A>
+<B>And so <SC>speak</SC> <R>ss</R> spoke.</B>
+<A><F>Mm-hm</F>. I see. O K. Then tell me about your university <OL>you were in</OL>.</A>
+<B><OL><F>Oh</F> <F>ur</F></OL> I graduate from <H pn="school name1">XXX03</H>.</B>
+<A><F>Mm-hm</F>. O K. Did you like your university?</A>
+<B><F>Mm</F> <F>urr</F> my friends was so good. <nvs>laughter</nvs> But study was not so good. <nvs>laughter</nvs></B>
+<A>Why not?</A>
+<B>Why not. <F>Well</F> <F>ur</F> <JP>ma</JP> it was so hard. I spent so hard day in university.</B>
+<A><F>Mhm</F>. So you start living in <H pn="others1">XXX04</H> <OL>from</OL> this April.</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Mhm</F>. How do you like it so far?</A>
+<B><F>Well</F> I think that there're so many people <nvs>laughter</nvs> in <H pn="others1">XXX04</H>. <nvs>laughter</nvs> <H pn="others2">XXX05</H>, <F>er</F> I think it's not too much.</B>
+<A><F>Mm-hm</F>. Is it a bad thing?</A>
+<B>Yeah.</B>
+<A><F>Mm</F>. Why?</A>
+<B>Yeah, it's so <R>tired</R> tired. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. Then didn't you try to stay in <H pn="others2">XXX05</H> then?</A>
+<B><F>Oh</F> pardon?</B>
+<A><F>Mm</F>. <F>Urm</F> didn't you try to stay in <H pn="others2">XXX05</H> because you don't like <H pn="others1">XXX04</H>?</A>
+<B><F>Mhm</F> <laughter><F>mm</F></laughter>.</B>
+<A>Did you prefer living in <H pn="others2">XXX05</H>?</A>
+<B><F>Ur</F> <laughter>yes</laughter>.</B>
+<A><F>Mhm</F>. O K. What's the good point of living in <H pn="others2">XXX05</H>?</A>
+<B><F>Well</F> everyone speaks <H pn="others2">XXX05</H> <JP>ben</JP>.</B>
+<A><nvs>laughter</nvs> What's so good about <H pn="others2">XXX05</H> dialect?</A>
+<B><F>Erm</F> <F>mm</F> <.></.> <F>well</F> it's so warm.</B>
+<A><F>Mm-hm</F>. For example?</A>
+<B><F>Mm</F> <F>well</F> it's so difficult to explain. <R>But</R> but <R>I feel</R> I feel <?>I like it</?>.</B>
+<A><F>Mm-hm</F>. I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then now, I will show you the picture. So please tell me anything about this picture for me.</A>
+<B><.></.> A man is chewing a gum. <nvs>laughter</nvs> <.></.> <F>Ur</F> anything?</B>
+<A><F>Mm-hm</F>. Anything.</A>
+<B><F>Mm</F>. The girl talking each other. And <.></.> <SC>he can't</SC> <F>uh</F> <R>he</R> he doesn't <R>listen</R> listen to this lecture. <nvs>laughter</nvs> <.></.> He is so <.></.> <F>well</F> serious man. <nvs>laughter</nvs> <.></.> <F>Mhm</F> the girl using her cell phone. <F>Mhm</F> <.></.> <F>mhm</F> that's all. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mm-hm</F> O K, good, all right</OL>.</A>
+</task>
+<followup>
+<A>O K. So you said you didn't study at your university so much, right? You told me you didn't study so much at university?</A>
+<B><F>Oh</F> <F>well</F> <laughter>yeah</laughter>, I didn't. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Mm</F>. Why not?</A>
+<B><F>Well</F> I get <R>a</R> a part time job so hardly. <F>Urm</F> <R>I</R> <SC>I was a stu</SC> I was a teacher of private school.</B>
+<A>Like this.</A>
+<B><F>Mm</F> yeah. <nvs>laughter</nvs></B>
+<A><F>Wow</F>. <F>Mm-hm</F>.</A>
+<B>But everyone listen to my <R>le</R> lesson <R>so</R> so <OL>seriously</OL>.</B>
+<A><OL>O K</OL>. Then why do you think in this picture, students don't listen to the teacher?</A>
+<B>Why?</B>
+<A><F>Mm</F>.</A>
+<B><F>Mhm</F> maybe <R>she</R> she is not a good teacher.</B>
+<A><F>Mhm</F>. So do you think you are good teacher?</A>
+<B><F>Mhm</F> maybe. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. For example, why?</A>
+<B><F>Well</F> speak clearly and loudly. And <F>mm</F> <.></.> <F>uh</F> <F>ur</F> <F>uh</F> <SC>so I can't <R>explain</R> explain yeah, <F>oh</F> well</SC> <R>so</R> <nvs>laughter</nvs> so I can't explain.</B>
+<A><F>Mhm</F>. But how were the students?</A>
+<B>What?</B>
+<A><F>Mm</F> in your class, how were the students?</A>
+<B>How were the students. <F>Oh</F> <F>well</F> <F>ur</F> they are <F>urr</F> primary school students so <F>well</F> <nvs>laughter</nvs> it's <F>ur</F> controllable. <nvs>laughter</nvs></B>
+<A><F>Mm-hm</F>. That's true. O K. <F>Mm</F> I think <R>you must</R> you must have been a very good teacher.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Mm-hm</F>. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then now, I will show you a card. So please read it.</A>
+<B>O K. <.></.></B>
+<A>O K? And then when you are ready,</A>
+<B><F>Oh</F> <F>wow</F>.</B>
+<A>I will begin.</A>
+<B><F>Ur</F> excuse me.</B>
+<A>Hi, how may I help you?</A>
+<B><F>Well</F> I want a new jacket.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Well</F> do you have any jackets, <F>oh</F> <F>well</F> <..></..> <SC>to</SC> <F>ur</F> <SC>can</SC> which I can use in office or <R>in</R> in official, casual <R>bo</R> both we can use?</B>
+<A><F>Mm-hm</F>. Yeah. <F>Oh</F> in this section, we have very stylish jacket here.</A>
+<B><F>Mhm</F>.</B>
+<A>There're so many stylish jackets.</A>
+<B><F>Oh</F> yeah. <F>Well</F> do you have any <nvs>laughter</nvs> black jackets?</B>
+<A><F>Mm-hm</F>. Yeah. We have many.</A>
+<B><F>Mm</F> <F>well</F> <R>do you have</R> do you have <SC>jackets</SC> <F>uh</F> M size jackets?</B>
+<A><F>Mm-hm</F>. O K. Then how about these two jackets?</A>
+<B><F>Oh</F> <F>well</F> <..></..> <F>mhm</F> <..></..> <F>well</F> where is the <laughter>attractive point</laughter> of this jacket?</B>
+<A><F>Mm-hm</F>. O K. The right one <nvs>cough</nvs> is very stylish. It's very popular this year in fashion, but expensive. This one is a bit old fashioned, but less expensive.</A>
+<B><F>Mhm</F>. <.></.> <F>Ur</F> can I try it?</B>
+<A><F>Mm-hm</F>. Sure.</A>
+<B><F>Oh</F> <F>well</F> <F>mhm</F> <.></.> <F>well</F> I prefer this <SC>old one</SC> old <R>style</R> style one.</B>
+<A><F>Uh-hm</F>.</A>
+<B>O K.</B>
+<A>O K. It's cheaper. Good for you. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K.</A>
+<B><F>Oh</F> <F>well</F> <.></.> <F>urr</F> can I buy it? <nvs>laughter</nvs></B>
+<A><F>Mm-hm</F>. Sure. It's eight thousand yen.</A>
+<B><F>Mhm</F>. <nvs>laughter</nvs> It's so cheap.</B>
+<A><F>Uh-hm</F>. Good. How would you like to pay?</A>
+<B><F>Ur</F> <F>well</F> cash card, please.</B>
+<A><F>Mm-hm</F>. All right. O K. Then here is your jacket. Thank you for shopping here.</A>
+<B>Thank you so much.</B>
+<A>Come again.</A>
+</task>
+<followup>
+<A>O K. So now, you're wearing a nice jacket, too.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><nvs>laughter</nvs> How do you usually buy your clothing?</A>
+<B>How?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mm</F> <F>well</F> <F>mhm</F> <.></.> of course, <R>I</R> I have been in <H pn="others1">XXX04</H> for only two weeks so yesterday <R>I</R> I have to buy new <laughter>jacket</laughter>. <R>So</R> so I went to <H pn="others3">XXX06</H>, and bought it. <nvs>laughter</nvs> <CO><OL>So</OL></CO>.</B>
+<A><OL><F>Mhm</F> why</OL> did you choose <H pn="others3">XXX06</H>?</A>
+<B><F>Oh</F> <F>well</F> it's so near from my <SC>now</SC> <F>ur</F> recently staying.</B>
+<A><F>Mhm</F>. Is it a nice place to shop? <OL>I've never been there</OL>.</A>
+<B><OL><F>Mhm</F></OL> Not so much. <SC>But</SC> because there're so many people, but <R>I can't</R> <SC>I can't en</SC> <F>ur</F> I can't understand <R>wh</R> <R>where</R> where the shop is. But so many people. Where do you go? <nvs>laughter</nvs></B>
+<A>I see. O K. Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Good. Now, I will show you the last picture sequence. So please make up your own story using these pictures from one to six.</A>
+<B>Yes.</B>
+<A>Then this story happened before, so please start your story with, "One day last week,"</A>
+<B>One day <OL>last week</OL>.</B>
+<A><OL>Last week</OL>, and then you start the story.</A>
+<B>O K. <F>Ur</F> one day last week, I found there was no foods in my refrigerator. So I have to go to buy something in supermarket by car. I bought many foods. <.></.> And <laughter><R>I</R></laughter> I had to pay so much money. <nvs>laughter</nvs> And <R>I</R> <SC>I bring</SC> I <R>brought</R> brought them to my house. And I cooked <F>well</F> fried egg <nvs>laughter</nvs> and something. <nvs>laugher</nvs></B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>So <R>you</R> you're now living alone, too.</A>
+<B>Yeah.</B>
+<A>Do you cook?</A>
+<B>No. <R>I</R> I have no time to cook.</B>
+<A>Then what do you do with dinner?</A>
+<B><F>Well</F> everyday I <R>go</R> go to <F>ur</F> <F>well</F> restaurant and dining <??></??>.</B>
+<A>But isn't it expensive?</A>
+<B><F>Ur</F> <F>well</F> I prefer cheap restaurant and dining <??></??>.</B>
+<A><F>Mhm</F>. Where do you usually go?</A>
+<B><F>Well</F> <F>mhm</F> usually, <SC>it's</SC> <F>ur</F> <F>mm</F> there was <R>no</R> no restaurant <F>ur</F> I usually go. <F>Ur</F> <F>well</F> <R>now</R> now <R>I</R> <R>I</R> <SC>I'm so</SC> I am a stranger of here so <R>I</R> I go many restaurants <F>um</F>.</B>
+<A>O K. I'm going to <H pn="others2">XXX05</H> next month. So can you recommend me one good restaurant</A>
+<B><F>Oh</F> <F>well</F></B>
+<A>to go?</A>
+<B><F>mhm</F> <H pn="others4">XXX07</H>. <F>Ur</F> <F>well</F> maybe <laughter><SC>you can</SC></laughter> <R>you</R> <R>you</R> you can reach there, but the <F>ur</F> <H pn="others4">XXX07</H> is so good fish restaurant. <F>Ur</F> raw fish and fried fish and steaming fish. And rice was <??></??>. It's so delicious.</B>
+<A>It's so delicious.</A>
+<B>And <H pn="others4">XXX07</H> is in <H pn="others5">XXX08</H>, <H pn="others6">XXX09</H>. <nvs>laughter</nvs></B>
+<A><F>Mhm</F> I see. Why do you think it's so popular?</A>
+<B>Why?</B>
+<A>Why do you think that restaurant is so popular among people?</A>
+<B><F>Mhm</F> <.></.> <F>mhm</F> <.></.> it's so delicious.</B>
+<A>Delicious.</A>
+<B>Yeah.</B>
+<A>Cheap, too?</A>
+<B><F>Mhm</F> <nvs>laughter</nvs> not cheap, yeah.</B>
+<A><F>Uhh</F> I see. <?>That's right</?>. <F>Mm</F>. O K. Yeah, thank you very much. I should try. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Thanks so much</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. So this is almost the end of the interview. <F>Mhm</F> almost end of the interview.</A>
+<B>Yes.</B>
+<A>Are you happy? <nvs>laughter</nvs></A>
+<B><F>Mhm</F> <nvs>laughter</nvs> yeah, happy.</B>
+<A><F>Mm-hm</F>. So <F>mm</F> you're trying to find a good restaurant then in <H pn="others1">XXX04</H>.</A>
+<B>Yeah, thanks so much.</B>
+<A><F>Mhm</F> I see. But <F>ur</F> I hope you have a nice life in <H pn="others1">XXX04</H>, and you will like <H pn="others1">XXX04</H>, too.</A>
+<B>I hope so.</B>
+<A><nvs>laughter</nvs> O K. Thank you very much for coming to this interview today.</A>
+<B>Thank you so much.</B>
+</stage5>
+</body>
+</interview>

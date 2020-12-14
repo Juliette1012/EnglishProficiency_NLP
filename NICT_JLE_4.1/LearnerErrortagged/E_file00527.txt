@@ -1,0 +1,214 @@
+<interview>
+<filename>E_file00527.txt</filename>
+
+<head version="1.3">
+<date>2001-07-27</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_beginner</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Good afternoon.</A>
+<B><.></.> <OL><?>Good afternoon</?></OL>.</B>
+<A><OL>My name</OL> is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B><.></.></B>
+<A>What's your name?</A>
+<B><F>Ah</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>It's O K?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Ah</F> I'm fine, thank you.</B>
+<A><F>Mm</F>.</A>
+<B>How are you?</B>
+<A>Fine, thank you. O K. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Ah</F> I live <.></.> in <H pn="others1">XXX03</H>.</B>
+<A><F>Hmm</F>. Do you live there with your family?</A>
+<B>Yes.</B>
+<A>O K. Then, tell me about your father.</A>
+<B>Father?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Ah</F>. My father is <.></.> <R>work</R> <F>uh</F> <v_fml odr="1" crr="working">work</v_fml>.</B>
+<A><R>What</R> what kind of work is that?</A>
+<B><F>Ah</F>. <o_je odr="1" crr="Business man">Salary man</o_je>.</B>
+<A><F>Mm</F> I see. <F>Erm</F>. Do you have any brothers and sisters?</A>
+<B><F>Eh</F>. Yes. I have three <n_num odr="1" crr="brothers">brother</n_num>.</B>
+<A><F>Hmm</F>. <.></.> I see. Are you <F>er</F> the eldest among them?</A>
+<B><F>Erm</F>. <.></.> Two <n_num odr="1" crr="brothers">brother</n_num> <v_agr odr="2" crr="are">is</v_agr> <.></.> elder.</B>
+<A><F>Uhm</F>. <F>Mh-hmm</F>. <OL>And one</OL></A>
+<B><OL><R>One</R></OL> one <R>young</R></B>
+<A>younger brother.</A>
+<B><aj_us odr="1" crr="Younger">Young</aj_us> brother.</B>
+<A><F>Hmm</F>. I see. How do you think <prp_lxc2 odr="1" crr="about"></prp_lxc2> having a younger brother?</A>
+<B><F>Ah</F>. He is <.></.> young.</B>
+<A><F>Hm</F>. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>How old is he?</A>
+<B><F>Ah</F>. He is <R>nineteen</R> nineteen.</B>
+<A><F>Hm</F>. What kind of activities do you usually do with your younger brother?</A>
+<B>Activity?</B>
+<A><F>Uhm</F>. What kind of things do you enjoy doing together with your younger brother?</A>
+<B><F>Oh</F>. <SC>With</SC> <.></.> <v_fin odr="1" crr="playing">play</v_fin> <n_num odr="2" crr="games">game</n_num>.</B>
+<A><F>Hm</F>. What kind of games?</A>
+<B><F>Erm</F>. <o_je odr="2" crr="video games">T V <.></.> <n_num odr="1" crr="games">game</n_num></o_je>.</B>
+<A><nvs>laughter</nvs> Who is very good at playing these <o_lxc odr="1" crr="video games">T V games</o_lxc>?</A>
+<B><.></.> <F>Ah</F>. Younger brother.</B>
+<A><F>Hmm</F>. <F>Mh-hmm</F>. If he wins, what will you do? <.></.> Or, what will you say?</A>
+<B><F>Er</F> I <o_lxc odr="1" crr="get angry">angry</o_lxc>.</B>
+<A><nvs>laughter</nvs> <F>Mm</F> I see. O K. And, <F>er</F> do you do any sports, <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> I play soccer.</B>
+<A><F>Hm</F>. Tell me more about your soccer activity.</A>
+<B><F>Uhm</F>. <..></..> <JP><F>Eeto</F></JP>. <F>Uhm</F>. Junior high school <.></.> soccer team.</B>
+<A><F>Hmm</F>.</A>
+<B>Now, I play soccer with <n_num odr="1" crr="friends">friend</n_num>.</B>
+<A><F>Hm</F>. What's your position in your team?</A>
+<B><F>Ah</F>. Forward.</B>
+<A><F>Hmm</F>. <SC>Why do you</SC> <F>uh</F> <SC>why are you pla</SC> <SC>are you</SC> why do you <v_cmp odr="1" crr="take that position">take in that position</v_cmp>?</A>
+<B><..></..> <?><o_uit odr="1">Sit in</o_uit></?>.</B>
+<A><F>Hmm</F>. What is necessary to be a forward player?</A>
+<B><F>Oh</F>. Aggressive.</B>
+<A><F>Hmm</F> I see. Interesting. O K. Good.</A>
+</stage1>
+<stage2>
+<task>
+<A>I'm going to show you a picture card.</A>
+<B><F>Er</F>.</B>
+<A><F>Mh-hmm</F>.</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>O K. <H pn="B's name">XXX02</H>, please tell me what you can see in this picture.</A>
+<B><.></.> <F>Eh</F>. Cats on <at odr="1" crr="a"></at> bed. <at odr="1" crr="A"></at> <laughter><cap odr="2" crr="dog" ch="1">Dog</cap></laughter> <SC>sleep</SC> is <v_fml odr="3" crr="sleeping">sleep</v_fml>. <.></.> <at odr="1" crr="A"></at> <cap odr="2" crr="woman" ch="1">Woman</cap> <.></.> <v_agr odr="3" crr="sits">sit</v_agr> <prp_lxc2 odr="4" crr="on">in</prp_lxc2> <.></.> <at odr="5" crr="a"></at> chair. <.></.> <at odr="1" crr="A"></at> <cap odr="2" crr="door" ch="1">Door</cap> is open. <.></.></B>
+</task>
+<followup>
+<A>O K. Thank you. Do you have a bed in your room?</A>
+<B>No.</B>
+<A><F>Hmm</F>. So, when you sleep, <R>ho</R> how do you sleep?</A>
+<B><F>Ah</F>. <..></..> <JP>Futon</JP>.</B>
+<A>Futon? <F>Hmm</F>. O K. <H pn="B's name">XXX02</H>, can you tell me <R>differences</R> <at odr="1" crr="the"></at> differences between this room and your room.</A>
+<B>Difference?</B>
+<A><F>Uhm</F>. Difference.</A>
+<B><F>Ah</F>. <SC>I have</SC> I don't have <at odr="2" crr="a"></at> <n_lxc odr="1" crr="personal computer"><JP>pasokon</JP></n_lxc>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Ah</F> <SC>I have</SC> I don't have a desk.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And my room is <.></.> smaller. <.></.></B>
+<A><F>Mh-hmm</F>. O K. Good. <F>Well</F>. You said you don't have any <n_num odr="1" crr="desks">desk</n_num> in your room. So, where do you study <nvs>laughter</nvs></A>
+<B><F>Ah</F>.</B>
+<A>in your house?</A>
+<B>I study <.></.> <prp_lxc1 odr="1" crr="at"></prp_lxc1> <at odr="2" crr="a"></at> library.</B>
+<A><F>Ah</F>. O K. Good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. <F>Well</F>. Now, let's do a role play. Role play. O K?</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. <H pn="B's name">XXX02</H>, please read the card to yourself. And, when you understand what you have to do, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready? <F>Mh-hmm</F>. O K. Hello. May I help you, sir?</A>
+<B><.></.> I want to go to New York.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>How</R> <.></.> <R>how</R> <..></..> how much?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> Ticket?</B>
+<A><F>Uhm</F>. <F>Well</F>. It depends. Because we have two types of trains. One is <at odr="1" crr="a"></at> local train, slow one. And the other one is <at odr="1" crr="an"></at> express train.</A>
+<B><.></.> <F>Erm</F>. I want <.></.> to buy <.></.> <SC>low ticket</SC> <at odr="1" crr="a"></at> cheap ticket.</B>
+<A>Sure. <.></.> <F>Well</F>. It's thirty dollars.</A>
+<B><F>Um</F>.</B>
+<A><F>Mh-hmm</F>. <.></.> O K?</A>
+<B>O K.</B>
+<A><F>Mh-hmm</F>. <F>Er</F>. <SC>Lo</SC> there are many local trains starting from this station.</A>
+<B><.></.> Yeah.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><..></..></B>
+<A>In twenty-minutes time, next local train starts here.</A>
+<B><.></.> Yes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> <F>Uh</F>.</B>
+<A>O K. Are you going to get on that train?</A>
+<B>Yes.</B>
+<A>O K. Do you know where to get on this train?</A>
+<B><F>Ah</F>. <.></.> No.</B>
+<A><F>Hm</F>.</A>
+<B><itr_lxc odr="1" crr="Which">Where</itr_lxc> <.></.> gate?</B>
+<A><F>Hm</F>. Gate number ten. O K?</A>
+<B>O K.</B>
+<A>O K. Thank you. So, please have a very good trip.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>. Bye-bye. O K. That's the end of our role play.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, do you like traveling?</A>
+<B><F>Ah</F>. Yes.</B>
+<A><F>Hmm</F>. Tell me about your last trip.</A>
+<B>Last <OL>trip</OL>?</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B>I went to <.></.> Fuji <JP>jukai</JP>.</B>
+<A><F>Oh</F>. <F>Hmm</F>. Tell me more.</A>
+<B><.></.> With <H pn="school name1">XXX04</H> circle.</B>
+<A><F>Hmm</F>. Was it very much interesting there?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. Good. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Well</F> finally today, I'll show you another picture.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. This time, <F>erm</F> <H pn="B's name">XXX02</H>, please make a short story on these pictures. <F>Mh-hmm</F>. When you are ready, you can start.</A>
+<B>O K. <R>I</R> <SC>I</SC> <JP>janai</JP></B>
+<A><F>Hm</F>. It's all right.</A>
+<B>I <v_tns odr="1" crr="went">go</v_tns> to <.></.> <JP><F>ee</F></JP> <at odr="2" crr="a"></at> zoo with <pn_lxc odr="3" crr="my"></pn_lxc> girlfriend. Then, we <..></..> looked <.></.> <prp_lxc2 odr="1" crr="at"></prp_lxc2> <at odr="2" crr="a">the</at> lion and looked <prp_lxc2 odr="3" crr="at"></prp_lxc2> <n_num odr="4" crr="monkeys">monkey</n_num>. <nvs>cough</nvs> <F>Er</F>. She ate <at odr="1" crr="an"></at> ice cream. And <.></.> <??></??>.</B>
+<A><F>Hmm</F>. Thank you for the story.</A>
+</task>
+<followup>
+<A>Do you like animals?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. What kind of animals do you like best?</A>
+<B><F>Oh</F> I like <.></.> <F>mm</F> <av_pst odr="2" crr="dogs best">best <n_num odr="1" crr="dog">dog</n_num></av_pst>.</B>
+<A><F>Hmm</F>. Why do you like dogs best?</A>
+<B><n_num odr="1" crr="Dogs">Dog</n_num> <.></.> <v_agr odr="2" crr="are">is</v_agr> <.></.> loyal.</B>
+<A><F>Hmm</F>. <F>Uhm</F>. <F>Hmm</F>. Yeah, I understand that. Do you keep a dog at home?</A>
+<B><F>Um</F>?</B>
+<A>Do you keep a dog at home?</A>
+<B>At home?</B>
+<A><R>At</R> <SC>at home</SC> in your <OL>house</OL>.</A>
+<B><OL><F>Oh</F></OL> yes.</B>
+<A><F>Hmm</F>. <R>What</R> what's the name of your dog?</A>
+<B><F>Ah</F>. Chappy.</B>
+<A><F>Hmm</F>. Do you take care of him often?</A>
+<B>Yes.</B>
+<A>Good. O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>The interview is almost over now. <H pn="B's name">XXX02</H>, after this interview, what are your plans?</A>
+<B><F>Ah</F>. <.></.> <R>I</R> <.></.> I will go home.</B>
+<A><F>Hmm</F>. <nvs>laughter</nvs> Are you going home? After going home, what will you do?</A>
+<B><F>Erm</F>.</B>
+<A>Are you going to play <o_je odr="1" crr="video games">T V games</o_je> with your <laughter>younger brother again</laughter>?</A>
+<B><.></.> Yes.</B>
+<A><F>Uhm</F>. And, were your tests over now?</A>
+<B>Yes.</B>
+<A>Good. So you are now <prp_lxc1 odr="1" crr="on">in</prp_lxc1> <F>er</F> summer vacation.</A>
+<B>Yeah.</B>
+<A><F>Hmm</F>. O K. I hope you to have a very good summer vacation. And, thank you very much for coming today.</A>
+<B><F>Ah</F>. Thank <OL>you</OL>.</B>
+<A><OL>O K</OL>. <at odr="1" crr="The"></at> <cap odr="2" crr="interview" ch="1">Interview</cap> is over.</A>
+</stage5>
+</body>
+</interview>

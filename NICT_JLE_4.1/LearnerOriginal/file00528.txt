@@ -1,0 +1,160 @@
+<interview>
+<filename>file00528.txt</filename>
+
+<head version="1.3">
+<date>2001-07-27</date>
+<sex>female</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's start. My name is <H pn="A's name">XXX01</H>. May I have your name for this record?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>Fine thank you.</B>
+<A>Good. It's been cooler</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>these two days</OL>.</A>
+<B>Yes.</B>
+<A>Yeah. But do you like summer?</A>
+<B><F>Umm</F>. So so because I don't like hot days.</B>
+<A><F>Ahhh</F>. <F>Well</F> but in summer time <F>urr</F> when you have free time, what do you do then?</A>
+<B><F>Umm</F>. <R>In</R> in the afternoon, I almost stay inside my room because outside is very hot.</B>
+<A><F>Ahh</F>.</A>
+<B>I stay inside of my room, and always put my air conditioner.</B>
+<A><F>Ahh</F>. Then, what do you do in your room?</A>
+<B><F>Mmm</F> I read books or watch T V or movies or touch my personal computer or something.</B>
+<A><F>Ahh</F>. So you have a computer.</A>
+<B>Yes.</B>
+<A><F>Ahh</F>. <R>Wha</R> what do you use it for?</A>
+<B><F>Umm</F> I enjoy surfing internet and use my personal computer for writing my essay or some <R>sen</R> sentences, like diaries.</B>
+<A><F>Hmm</F>. What is internet surfing?</A>
+<B><?>Pardon</?></B>
+<A><F>Um</F>. What is</A>
+<B><OL><JP>atto</JP></OL></B>
+<A><OL>internet surfing</OL>?</A>
+<B>Watch home pages or do chat or something.</B>
+<A><F>Hmm</F>. <F>Well</F> could you tell me about your favorite website?</A>
+<B><F>Mmm</F> <F>mm</F> I don't have some particular favorite site but <F>umm</F> I often look news site and my friends home page and might <?>hear</?> B B S.</B>
+<A><F>Wow</F> So what's the good point of reading news through the internet rather than reading newspaper?</A>
+<B><F>Urr</F>. It's better because <R>I can</R> I can know the news very suddenly.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL><F>Urr</F></OL> by reading newspaper, I have to wait next morning to know <OL>the news</OL>.</B>
+<A><OL>I see</OL>.</A>
+<B>But <F>um</F> yes, by internet I can know the news as soon as it happens.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. <F>Oh</F> yeah, I think it's a good way. <F>Hmm</F> O K. Thank you. So, first thing, I will show you a picture. <F>Urr</F> O K. This one. Could you describe this picture for me?</A>
+<B><F>Umm</F> I think it's a picture of some restaurant.</B>
+<A><F>Uh-hum</F>.</A>
+<B>And <JP><F>etto</F></JP> looks very rich restaurant because <F>umm</F> people are wearing dresses and <SC>boy is</SC> boy wears tie and all of the <nvs>cough</nvs> customer <JP><F>etto</F></JP> is <R>coup</R> couple. And they were enjoying their dishes. And end the restaurant, there's a piano and a woman is playing piano and <JP><F>etto</F></JP> next to the piano, there is a big clock and the time is seven o'clock, maybe in the evening.</B>
+</task>
+<followup>
+<A><F>Hm</F> O K. Yeah. Thank you. So, when you go out with your friends,</A>
+<B>Yes.</B>
+<A><F>urr</F> what kind of restaurants do you usually go?</A>
+<B><F>Urr</F> I usually go to the restaurant we can enjoy <R>both</R> <F>err</F> both dishes and liquor.</B>
+<A><F>Ahh</F>.</A>
+<B><JP><F>Etto</F></JP> and not very high price.</B>
+<A><F>Oh</F>. Could you tell me about your favorite one?</A>
+<B><F>Umm</F>. My favorite one is <F>urr</F> called "Habu" <JP><F>etto</F></JP> like "Habu" is English pub.</B>
+<A><F>Hmmm</F>.</A>
+<B>And we don't have to pay charge,</B>
+<A><F>Hmmm</F></A>
+<B>and <SC>cocktails are</SC> <JP><F>etto</F></JP> we can drink cocktail bar reasonable price.</B>
+<A><F>Hmm</F>. How did you find the bar?</A>
+<B><JP><F>A</F></JP> my friend told me and to go "Habu" with her.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hmm</F> O K. Yeah. Sounds like good bar. <F>Hmm</F>. I want to try it. Yeah. Thank you. <nvs>laughter</nvs> O K. Now, <F>ur</F> we are going to do a role-play. <F>Hmm</F> O K. Let's do this one. Please read this card and when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card to herself.</ctxt>
+<A>O K? Yeah. Let's begin. O K. Hi. May I help you?</A>
+<B>Hello. I want to go to New York by train, as soon as possible. And <F>err</F> what's train is fastest to go to New York?</B>
+<A>The fastest one is an super express train.</A>
+<B>How much is it?</B>
+<A><F>Uh</F> it's two hundred dollars.</A>
+<B><F>Oh</F> it's too expensive <laughter>for me</laughter>. <F>Urr</F> I want go New York by <F>er</F> less than one <laughter>hundred dollar</laughter>. So, what train <F>err</F> sould I take?</B>
+<A><F>Umm</F> there is a local train, too.</A>
+<B>Then, <R>how</R> <JP><F>etto</F></JP> how long does it take to go to New York?</B>
+<A><F>Ur</F>. It takes four and half an hour.</A>
+<B>O K. Then, I will take two hundred dollars for express train.</B>
+<A>Is it O K?</A>
+<B>Yes.</B>
+<A>O K. <F>Hum</F>. So, here is the ticket.</A>
+<B><F>Oh</F> <R>tha</R> thank you.</B>
+</task>
+<followup>
+<A>O K. O K. Yes. Thank you very much, <H pn="B's name">XXX02</H>. <F>Hmm</F>. <F>Ah</F>. Thank you very much. So <F>umm</F> when you travel somewhere,</A>
+<B>Yes.</B>
+<A><F>hmmm</F> so, how do you usually decide which place to travel?</A>
+<B>Country, or?</B>
+<A><F>Uh-hum</F> Yeah. Place or country. <F>Uh-hum</F>.</A>
+<B><F>Hmm</F> first <F>umm</F> I check how much I have. And then, find. <R>I</R> <.></.> <F>umm</F> <SC>I think I can</SC> <JP><F>etto</F></JP> <F>ah</F> it's important <F>urr</F> the place has many sightseeing spots and I like shopping so I want to go the place <F>err</F> where I can enjoy shopping a lot.</B>
+<A><F>Hmmm</F>.</A>
+<B>And the price of things are not very high.</B>
+<A><F>Hmmm</F> O K. When you go shopping <F>urr</F> some places, not in Tokyo, what are the good points buying things in different places?</A>
+<B><R>Onc</R> Once more, please.</B>
+<A>Yeah. What's the good point <F>mmm</F> buying things in different places? Like you said you like going shopping when you travel. <F>Mmm</F> what are the good things?</A>
+<B><F>Urr</F> <JP><F>etto</F></JP> I can buy things <F>urr</F> that I cannot buy in Tokyo <R>in</R> in foreign country or somewhere. Yes. That is the reason.</B>
+<A><F>Hmm</F> for example?</A>
+<B>For example, <F>hmm</F> clothes or <F>umm</F> <R>some</R> some <F>urr</F> almost clothes or bag or shoes or something.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Hmmm</F> I see. <F>Hmm</F> O K. Thank you. Finally, I will show you another picture. <F>Hmm</F>. O K. This time, please make up a story using these six pictures, from one to six. And this happened last week, so please start your story with one day last week.</A>
+<B>O K. One day last week, <F>err</F> a woman <F>err</F> open her refrigerator but found there were nothing in her refrigerator. <R>So</R> so, she <R>couldn't make her</R> <F>err</F> <.></.> couldn't make her lunch, so she go to the supermarket near her house. And <.></.> bought many things. <F>Err</F>. She looked around in the supermarket and bought egg and some canned food or meat. And <SC>she paid money for</SC> she paid money and put her baggage in the trunk of her car and go back to her house. And she made sunny side egg <SC>and some</SC> and cooked maybe soup or something. And she could eat good lunch.</B>
+</task>
+<followup>
+<A><F>Ummm</F> <F>well</F> <F>urr</F> does this supermarket</A>
+<B>Yes.</B>
+<A><F>urr</F> look a supermarket near your house?</A>
+<B><F>Um</F>. Yes. Maybe <R>it's</R> <F>hmm</F> it's alike.</B>
+<A><F>Umm</F> O K. So, could you <F>urr</F> decribe some <F>err</F> shops near your house?</A>
+<B><F>Umm</F>. Near my house, there is an <F>umm</F> <R>Asian</R> <F>err</F> Asian thing shop.</B>
+<A><F>Wow</F>.</A>
+<B>There are <JP><F>etto</F></JP> <R>many</R> <F>ur</F> many bags made by straw or many <JP><F>etto</F></JP> exotic clothes both <F>err</F> many <JP><F>etto</F></JP> tableware or dishes.</B>
+<A><F>Wow</F>.</A>
+<B>And I can buy there by reasonable price.</B>
+<A><F>Hmm</F>.</A>
+<B>Yes. The shop is <R>not</R> not big but they are full of things.</B>
+<A><F>Wow</F>.</A>
+<B>I bought my <F>umm</F> mobile phone strap <OL>there</OL>.</B>
+<A><OL><F>Ahh</F></OL> <F>wow</F> <F>well</F> sounds interesting shop.</A>
+<B>Yes. Very good shop.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hmm</F> O K. Yeah. Thank you very much, <H pn="B's name">XXX02</H>. <F>Urr</F>. We are almost at the end of the interview. <F>Well</F> I think your summer vacation is coming soon.</A>
+<B>Yes.</B>
+<A><F>Mmm</F> Do you have any special plan?</A>
+<B><F>Urr</F>. Not so special, because I used money a lot so <nvs>laughter</nvs> <SC>I</SC> now I have little money. <nvs>laughter</nvs> So in my summer vacation, maybe <R>I</R> I go back to my home town and yes, <F>err</F> I want to stay my home town.</B>
+<A><F>Hmm</F>. Where is your home town?</A>
+<B>In <H pn="others1">XXX03</H> prefecture.</B>
+<A><F>Ahh</F>. <F>Well</F> I think your family is waiting for your coming back.</A>
+<B>Yeah. <R>Maybe</R> <laughter>maybe</laughter>.</B>
+<A>So, Yes.</A>
+<B>Maybe.</B>
+<A>Yeah. I think it's the best way to relax. <F>Um</F> O K. So, thank you very much.</A>
+<B>Thank you very much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

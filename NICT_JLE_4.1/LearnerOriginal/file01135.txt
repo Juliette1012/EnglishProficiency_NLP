@@ -1,0 +1,180 @@
+<interview>
+<filename>file01135.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>415</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. <F>Er</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mh-hmm</F>. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Mmm</F> I'm sleepy. <nvs>laughter</nvs></B>
+<A><F>Ah-ha</F>. Why are you sleepy?</A>
+<B>I go to bed <F>mm</F> this morning three.</B>
+<A><F>Wow</F>. What did you do <SC>yesterday</SC> <nvs>laughter</nvs> I mean, last night?</A>
+<B><F>Mmm</F> watching soccer game,</B>
+<A><F>Ahh</F>.</A>
+<B>V S Norway.</B>
+<A><OL>I see</OL>.</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A>How was the game?</A>
+<B><F>Erm</F> it's cool, very nice.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>. But <F>er</F> <.></.> <nvs>laughter</nvs> <.></.> <F>mm</F> I'm not finish before sleeping. <OL><F>Mm</F> <F>mmm</F></OL>.</B>
+<A><OL><F>Ohh</F></OL>.</A>
+<B><CO>So game is not finish before</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL>I'm</OL> <F>mm</F></CO>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>. <F>Well</F> you know the result.</A>
+<B><F>Mm</F>?</B>
+<A><F>Uh</F> <SC>which win</SC> <F>ah</F> I mean, which won?</A>
+<B><F>Ah</F> because I don't. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F></OL> I see. O K. <F>Erm</F> by the way, where do you live?</A>
+<B><R>I</R> I live in <H pn="others1">XXX03</H>, in <H pn="others2">XXX04</H>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>Do you live there with your family?</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>. Tell me about your family, please.</A>
+<B>My father is graphic designer. My mother is working bank. <F>Mm</F>. <SC>Then my</SC> I have little brother. <F>Mmm</F> he is <JP><F>nnto</F></JP> fourteen years old.</B>
+<A><F>Hmm</F>. What do you do with your brother?</A>
+<B><F>Mmm</F> <.></.> <F>mmm</F>. <SC>Very love</SC> I love he. <F>Hmm</F>. <R>He</R> <F>er</F> he play skateboard <F>mmm</F> very well. <F>Mmm</F>. I <SC>rec</SC> respect him.</B>
+<A><F>Ohh</F>.</A>
+<B><F>Hmm</F>.</B>
+<A>That's good. O K. <F>Er</F> by the way, in your free time, what do you do?</A>
+<B><F>Hmm</F> sleeping or I like dancing. <F>Hm</F>. Jazz, hip hop. I like music, hip hop. <F>Mmm</F>.</B>
+<A>Why do you like hip hop music?</A>
+<B><F>Mm</F> my before steady, <F>mm</F> he like hip hop, and <R>I</R> <F>mm</F> I like hip hop. <F>Hmm</F>.</B>
+<A>When you listen to hip hop music and when you dance, how do you feel?</A>
+<B>Excite.</B>
+<A><nvs>laughter</nvs></A>
+<B><SC?>Or I</SC?> <F>mm</F> often I go to club in Shibuya, Roppongi. <F>Hmm</F>. <F>Hmm</F> so excited.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>O K. That's nice. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I want you <F>er</F></A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>look at this picture. And please describe this picture for me.</A>
+<B><F>Mm</F>. Three people in round table. <F>Mm</F>. <.></.> One person is sommelier. <F>Mm</F>. <.></.> <F>Mmm</F> <..></..> <F>mmm</F> husband is tasting wine. <F>Mm</F>. <.></.></B>
+<A>O K.</A>
+<B><F>Mm</F>. <OL><F>Mm</F></OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+</task>
+<followup>
+<A><F>Er</F> tell me about your favorite restaurant.</A>
+<B><F>Mm</F> <F>Mmm</F> I like junk food, <R?>but</R?> but <F>mm</F> First Kitchen. <F>Hmm</F>. Not restaurant, but <F>mm</F> <F>ur</F> I often go Ootoya. <F>Hmm</F>.</B>
+<A><F>Er</F> can you see <OL>any difference between Ootoya and this restaurant</OL>?</A>
+<B><OL><F>Mm</F> <F>mm</F> <F>mm</F></OL> <F>mm</F>. Ootoya is very casual. <F>Hmm</F>. This restaurant is formal. <F>Mm</F>. <CO>Formal restaurant is <F>mm</F> <..></..> <F>mmm</F></CO>. <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B><F>Mm</F>.</B>
+<A><F>Erm</F> what kind of food do you like?</A>
+<B><F>Mm</F> I like <.></.> pizza, pasta, Chinese.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hmm</F>. Or everything I <laughter>like</laughter> food. <F>Hmm</F>.</B>
+<A><F>Hmm</F>. Do you cook yourself?</A>
+<B><F>Mmm</F> little.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <F>erm</F> I want you to read this card. And after you finish reading, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Mmm</F> I want perfume. <F>Mmm</F>. Today's <.></.> <F>mm</F> <.></.> feel like <SC>relax</SC> <F>mm</F> relaxing perfume.</B>
+<A>O K. These are <SC>rela</SC> all relaxing perfume.</A>
+<B><F>Mmm</F>. Which one is best?</B>
+<A><F>Er</F> I think <F>er</F> this one is best. But this is a little expensive.</A>
+<B><F>Hmm</F>.</B>
+<A><F>Erm</F> this one is also good.</A>
+<B><F>Hmm</F>.</B>
+<A>And this one is the cheapest.</A>
+<B><F>Hmm</F>. <F>Mmm</F> <SC>which is</SC> <.></.> choose my best. <F>Mm</F> <SC>I like</SC> <F>mm</F> <.></.> <R>not</R> <SC>not</SC> a <F>mm</F> strength smell is I don't like. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mh-hm</F></OL>. O K. So how about <F>ur</F> this expensive one and <F>ur</F> this one?</A>
+<B><F>Mhm</F> this one. <F>Hmm</F>. I take it.</B>
+<A><F>Er</F>.</A>
+<B><F>Mm</F> cheapest.</B>
+<A><F>Oh</F> O K. Do you want to know the price?</A>
+<B>Yes.</B>
+<A><F>Er</F> it's eight thousand yen.</A>
+<B>Eight thousand yen. <F>Hmm</F> here is ten thousand <OL>yen</OL>.</B>
+<A><OL>Yeah</OL>.</A>
+<B><F>Hm</F>.</B>
+<A><CO>So wh</CO>?</A>
+<B><F>Hm</F>? I take it.</B>
+<A><F>Oh</F> eight <OL>thousand</OL>?</A>
+<B><OL>Right</OL>. <F>Mm</F>. Eight thousand.</B>
+<A><F>Er</F> O K. O K. So this is <?>O K</?> and <F>ur</F> <OL><??></??></OL>.</A>
+<B><OL>Ten thousand</OL>.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, this is the</OL> <??></??> the end of the role play.</A>
+</task>
+<followup>
+<A>Where do you go shopping?</A>
+<B><F>Mm</F> Daikanyama, Aoyama, Harajuku.</B>
+<A><F>Hmm</F>. I see. <F>Er</F> when you buy something, how do you decide which to buy?</A>
+<B><F>Mmm</F> one sight, I love. <nvs>laughter</nvs> <F>Hm</F>. "<F>Oh</F>.". <nvs>laughter</nvs> "Which one is my best?".</B>
+<A>I see.</A>
+<B><F>Mm</F>. I take it.</B>
+<A><F>Oh</F>.</A>
+<B><F>Mm</F> I often go my hometown, <H pn="others3">XXX05</H>. <F>Mm</F>. Yesterday, I buy mother's birthday present.</B>
+<A><F>Wow</F>.</A>
+<B><F>Hmm</F>. <F>Mmm</F> <.></.> blouse <F>mm</F>. I take it. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mm</F> O K, that's good</OL>. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now last thing I want you to do is <F>er</F> picture sequence. And I want you <F>er</F> make up a story based on these pictures from one to six. And this happened last week, so I want you to start your story, "One day last week".</A>
+<B><F>Mm</F>. One day last week, <F>mm</F> <.></.> girls and guys <.></.> <F>mmm</F> walk a <?>road</?> and rainy day. <F>Mmm</F>. Guys hear strength <F>mm</F> sound, and find little cat. Very very pretty cat. And girls <F>mm</F> <SC>take the cat home</SC> <F>mm</F> take home. Girls <R>wan</R> want to <SC>the</SC> <F>mm</F> live with the cat. But <SC>guys no</SC> guys say no. But the guy love the girl very much. <SC>Becau</SC> <F>mm</F> and the guy don't <F>mmm</F> <SC>shalla</SC> shut out <R>she</R> <F>mm</F> she excuse <F>mm</F>? And <R>she</R> she look guys <F>um</F> pretty eyes. And <SC>the guy is <F>mm</F> <SC>admai</SC> admit</SC> <F>mm</F> she <F>um</F> admit the cat take home. And laughed. The cat is <F>mmm</F> take part in the family.</B>
+</task>
+<followup>
+<A><F>Mh-hmm</F>. O K. Thank you very much. Have you ever kept any <SC>ca</SC> pets?</A>
+<B>No, <SC>I want to big dog</SC> I want to <F>mm</F> <F>er</F> live in big dogs.</B>
+<A>Why do you want big dogs?</A>
+<B><F>Err</F> feel like good and <F>mmm</F> I think <.></.> with big dog is near my side is <F>mmm</F> <..></..> <F>mm</F> very <laughter>nice</laughter>. <OL><F>Mm</F></OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><OL><F>Hmm</F></OL>. Yeah. O K. Thank you very much. <F>Er</F> this is almost the end of today's interview. <F>Er</F> what is your plan after this interview?</A>
+<B><F>Mmm</F> I go home <F>mm</F> and <F>mm</F> dance lesson <F>mm</F> <OL>today here</OL>.</B>
+<A><OL><F>Ah</F> I see</OL>. <F>Ah</F> do you like dancing very much?</A>
+<B>Yes. I like dancing.</B>
+<A><F>Ah</F> I see.</A>
+<B><F>Hm</F>.</B>
+<A><F>Hmm</F>. So how many times do you have to dance a week?</A>
+<B><F>Mmm</F> lesson is <SC>one week</SC> <F>ah</F> one in week. But I dancing everyday.</B>
+<A><laughter><F>Oh</F></laughter>.</A>
+<B><F>Hmm</F>.</B>
+<A>That's great.</A>
+<B>Listen to music with. <F>Hmm</F>.</B>
+<A><F>Hmm</F>. Sounds great. O K. I hope you'll enjoy dancing.</A>
+<B><laughter><F>Mm-hm</F></laughter>.</B>
+<A>O K. Thank you very much for coming.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>.</A>
+</stage5>
+</body>
+</interview>

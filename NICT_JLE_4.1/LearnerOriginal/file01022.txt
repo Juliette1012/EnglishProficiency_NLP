@@ -1,0 +1,235 @@
+<interview>
+<filename>file01022.txt</filename>
+
+<head version="1.3">
+<date>2002-04-01</date>
+<sex>male</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>430</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Ah</F> <F>ah</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A><.></.> O K. So, where are you from?</A>
+<B><F>Um</F> <.></.> <JP><F>ehh</F></JP> <R>I</R> <F>umm</F> <.></.> <JP><F>eeh</F></JP> <..></..> <SC>I was</SC> <SC>I'm living</SC> <F>ah</F> I lives in <JP><F>eeh</F></JP> <H pn="others1">XXX03</H> City in <H pn="others2">XXX04</H> Prefecture.</B>
+<A>O K. How long have you lived there?</A>
+<B><F>Um</F> <JP><F>ehh</F></JP> <..></..> I live in five years.</B>
+<A><F>Um</F> five years. O K. Do you like living in <H pn="others1">XXX03</H>?</A>
+<B><F>Um</F> yes. <JP><F>Ehh</F></JP> in this season, <JP><F>ehh</F></JP> near my house, <F>ah</F> a very beautiful. <F>Um</F> <F>ah</F> there are many <JP><F>eh</F></JP> cherry blossom trees. <.></.></B>
+<A><F>Ohh</F> good. <R>Did</R> did you go see the cherry blossom yesterday?</A>
+<B><F>Um</F> yes.</B>
+<A><F>Oh</F> did you?</A>
+<B><F>Um</F>.</B>
+<A><F>Ohh</F>.</A>
+<B><R>I walked</R> <F>ahh</F> <SC>I walked</SC> <JP><F>ehh</F></JP> <.></.> <JP><F>eeto</F></JP> I went to <F>ah</F> the park <F>ah</F> near my house <F>ah</F> with my families.</B>
+<A><F>Uhh</F> <F>ohhh</F>. That's good. O K. <SC>So</SC> but <R>what</R> what do you do in your free time?</A>
+<B><F>Umm</F>. <.></.> <F>Um</F>. <F>Ahh</F> <R>I</R> <F>ah</F> I play <JP><F>ehh</F></JP> with my child.</B>
+<A><F>Oh</F> that's good.</A>
+<B>My son is <F>eeh</F> <JP><F>ehh</F></JP> forty years old.</B>
+<A><OL>Four</OL>?</A>
+<B><OL><F>Ah</F> <laughter>four years old</laughter></OL>.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL><laughter>Not forty</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Um</F> <F>ah</F> <JP><F>eh</F></JP> he likes <JP><F>eh</F></JP> <F>un</F> masked rider. Do you know masked rider?</B>
+<A><R>No</R> no. Can you tell me</A>
+<B><OL><F>Uh</F></OL>.</B>
+<A><OL>about it</OL>?</A>
+<B><F>Eh</F> this season, <JP><F>eh</F></JP> <JP><F>eh</F></JP> <..></..> the T V program</B>
+<A><F>Um-huh</F>.</A>
+<B><JP><F>eh</F></JP> masked rider <?>do</?></B>
+<A><F>Um</F>.</A>
+<B><JP><F>eh</F></JP> <F>ee</F> is shows in the T V.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Yeah</OL>. <F>Eh</F> <.></.> <R>that's</R> <F>ah</F> <R>that's</R> <.></.> <SC>that's likes many</SC> <F>ee</F> that's liked by many children boys.</B>
+<A>O K. It's like a fighting T V</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>program</OL>. <F>Ohhh</F>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><F>Um</F>.</B>
+<A><F>Well</F> that sounds good. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. So now, <F>ahh</F> let's see. Can you explain this picture for me?</A>
+<B><F>Uh-huh</F>. <nvs>sniff</nvs></B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>The <R>picture</R> <F>ah</F> <F>ah</F> picture shows me <F>eh</F> <.></.> snow <JP>gerende</JP>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Picture</OL>. And <F>ah</F> <R>many people</R> <F>eh</F> <.></.> <R>many people</R> <F>ahh</F> <SC>many people</SC> <.></.> <R>many</R> <SC>many people ski</SC> <F>ah</F> many people <F>eeh</F> are enjoy skiing. <SC>A</SC> <F>ah</F> <F>sss</F> <SC>one</SC> <JP><F>ehh</F></JP> <SC>anybody's</SC> <SC>anybody</SC> <.></.> <JP><F>ehh</F></JP> <.></.> <JP><F>ehh</F></JP> <JP><F>ehh</F></JP> <..></..> one people <F>eh</F> enjoy snowboarding.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>ah</F> <..></..> <R>one</R> <F>hum</F> <.></.> <R>one</R> <.></.> <SC>one people</SC> <JP>a chau</JP> one <F>eh</F> crashed ski.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Hmm</F></OL>. <F>Um</F>. <..></..> There is <F>eh</F> no people in lift.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Eh</F> somebody <F>eh</F> <..></..> and drinks <F>umm</F> coffee in <.></.> lodge house.</B>
+<A><F>Uh-huh</F>. <F>Un</F> O K. Thank you.</A>
+<B><nvs>sniff</nvs></B>
+</task>
+<followup>
+<A>So, do you like winter sports?</A>
+<B><F>Ahh</F> no. I don't like winter sports.</B>
+<A>O K. How about summer sports?</A>
+<B><F>Um</F>. <.></.> I like <JP><F>eh</F></JP> hiking.</B>
+<A><OL>Hiking</OL>?</A>
+<B><OL><R>No</R></OL> <SC>no</SC> not a sport.</B>
+<A><F>Uh-huh</F> <F>uh-huh</F>. <OL><F>Ohh</F></OL>.</A>
+<B><OL>But a</OL> <F>ah</F>I can't swim <R>long</R> <F>ah</F> long distance.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F> <F>ah</F> I was born in <H pn="others3">XXX05</H> Prefecture.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> many snow.</B>
+<A><F>Uhh</F>.</A>
+<B>So I don't like snow.</B>
+<A><F>Ohh</F>. <R>O K</R> O K. So <SC>can you tell me</SC> <F>ah</F> you like <F>ah</F> hiking, right? And <R>when</R> when did you go hiking?</A>
+<B><F>Um</F> <..></..> <SC>I went in</SC> <F>um</F> <..></..> <F>um</F> <F>um</F> <JP><F>eeto</F></JP> <F>ummmm</F> <.></.> <F>eh</F> <R>I we</R> <F>eh</F> I went <F>ah</F> hiking <F>um</F> in spring or fall.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because <F>ah</F> in summer days, very hot.</B>
+<A>Right.</A>
+<B><F>Um</F> <F>ah</F> during winter, we cannot hike.</B>
+<A>Right. <nvs>laughter</nvs> Yeah. O K. Thank you.</A>
+<B><nvs>sniff</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role-play. <.></.> O K. <F>Ahh</F> <F>uh-huh</F>. Please <R>rea</R> read this card. When you're ready, let me know. O K?</A>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<A>Ready?</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K. Good morning, how may I help you?</A>
+<B>Yes. <F>Um</F> <JP><F>eh</F></JP> I would like to <JP><F>eh</F></JP> <SC>go to</SC> <JP><F>eh</F></JP> go overseas travel.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Un</F></OL> but <R>I</R> <JP><F>eh</F></JP> I don't decide the <.></.> place.</B>
+<A><F>Umm</F>. O K.</A>
+<B><F>Ah</F> <F>ah</F> <R>I would like to <JP><F>eh</F></JP> play</R> <JP><F>eh</F></JP> I would like to play tennis or golf. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Um-huh</F></OL>.</A>
+<B>Yeah. <.></.> <JP><F>Eh</F></JP>. <R>What do</R> what do you recommend?</B>
+<A><F>Ahh</F> O K. Why don't you go to Australia?</A>
+<B><F>Um</F> <F>umm</F> <F>umm</F> <F>ohh</F> <F>ah</F> <F>ah</F> <SC>I have</SC> I haven't been Australia.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F> have been.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F> <F>ah</F>.</B>
+<A>O K. <SC>So the</SC> to Australia, we have lots of tours.</A>
+<B><F>Uh-huh</F>. <F>Umm</F>. <..></..> <F>eh</F> <..></..> yeah <.></.> <nvs>sneeze</nvs> <F>Eh</F> <.></.> <nvs>sigh</nvs> <..></..>.</B>
+<A>Which one would you like to know</A>
+<B><F>Um</F>.</B>
+<A>more?</A>
+<B>More <F>um</F>.</B>
+<A><SC>I have</SC> we have Cairns, we have Sydney and <.></.> yeah. those <OL>two</OL>.</A>
+<B><OL><F>Uh-huh</F></OL>. <F>Uh-huh</F>. <..></..> <F>Mmm</F>. <..></..> In Sydney</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>um</F> <..></..> <F>ah</F> what type <F>eh</F> is optional tour?</B>
+<A><F>Um</F> <F>un</F> <F>un</F>. <F>Ah</F> there are lots of optional tours.</A>
+<B><F>Um</F>.</B>
+<A>One is the <F>ah</F> the cruise ship. You can <SC>ride</SC> get on the cruise ship. Then you can have lunch there. That's one. And number two is <F>ah</F> you can climb up to the Golden Gate Bridge.</A>
+<B><F>Uh-huh</F>.</B>
+<A>But <SC>we</SC> <F>ah</F> you can watch show at the Opera House.</A>
+<B><F>Hm</F> <F>hm</F>. <F>Mmm</F> <F>mm</F> <F>um</F> I <F>eh</F> <.></.> I'd like to <F>um</F> see Opera House.</B>
+<A><F>Oh</F> that's <OL>good</OL>.</A>
+<B><OL><F>Un</F></OL>. So <F>ah</F> <.></.> <F>eh</F> <.></.> <SC>I would</SC> <F>eh</F> I'd like to <F>um</F> Sydney and tour. <F>Um</F> <F>ah</F> <.></.> <R>when</R> <F>eh</F> <.></.> <R>when</R> <.></.> <SC>when do</SC> when does it <F>ah</F> start?</B>
+<A><F>Ahh</F> it's from April the twenty.</A>
+<B><F>Uh-huh</F>. <F>Um</F>. <OL><F>Um</F></OL>.</B>
+<A><OL><R>O K</R></OL>. O K. That's the end of the role-play.</A>
+</task>
+<followup>
+<A>O K. Do you like traveling?</A>
+<B><F>Umm</F> <.></.> <F>ah</F> I like traveling <F>ahh</F> but <F>eh</F> <.></.> <R>I</R> <.></.> I don't traveling now.</B>
+<A><F>Umm</F>.</A>
+<B><F>Um</F>. Because <F>eh</F> my child is very <SC>small</SC> <OL><F>ah</F> little</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>So our family <F>eh</F> go traveling with many many <F>ehh</F> luggages and <F>ah</F></B>
+<A><F>Ohhh</F>.</A>
+<B><F>umm</F> like baby food.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ahh</F> yeah. It is so hard.</B>
+<A><R>O K</R> O K. <F>Uh</F> that's too bad.</A>
+<B><F>Uh-huh</F>.</B>
+<A>But <R>what</R> <SC>what would you</SC> where would you like to go?</A>
+<B><F>Umm</F>. <F>Ahh</F> <F>humm</F>. I would like to go to Sydney.</B>
+<A><F>Oh</F> really?</A>
+<B><F>Uh</F> <OL><?>now</?></OL>.</B>
+<A><OL><laughter><F>Oh</F></laughter></OL>.</A>
+<B>Because <SC>I have not seen</SC> <F>ah</F> not been in Australia.</B>
+<A><F>Ohhhh</F>.</A>
+<B>And <F>eh</F> I have been Hawaii</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> <.></.> <F>eh</F> <?>not my family</?>.</B>
+<A><F>Wow</F>. <R>Great</R> <R>great</R> great. <F>Well</F> that's good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So now, I'm going to show you the last picture for today.</A>
+<B><F>Um</F>.</B>
+<A>O K?</A>
+<ctxt>The interviewer is selecting a picture sequence.</ctxt>
+<A>Here you go. Please make a story from one through six. Then this happened last week, so please starting with "One day last week".</A>
+<ctxt>The interviewee is looking at the picture sequence and thinking for a while.</ctxt>
+<B>One day last week, <F>um</F> <F>ah</F> <F>ah</F> <SC>I</SC> <F>eh</F> <..></..> <F>ah</F> one day last week</B>
+<A><OL><F>Um-huh</F></OL>.</A>
+<B><OL><F>Ah</F></OL> there were empty in our refrigerator.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>ah</F> <SC>I can't</SC> <F>ah</F> I couldn't ate anything.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>ah</F> I went to supermarket by <F>uh</F> my green small car.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> In supermarket, <.></.> I selected <F>eh</F> many <F>eh</F> food.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> And <F>eh</F> <..></..> pay the money in <nvs>sniff</nvs> <.></.> <JP>regi</JP>.</B>
+<A><F>Um</F>.</A>
+<B><..></..> And <F>ah</F> I <..></..> put on my <F>eh</F> <..></..> <F>eh</F> <.></.> food <F>eh</F> in <F>eh</F> back of the car.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F> <..></..> <F>uh</F> <..></..> and <SC>go</SC> <F>ah</F> <SC>when go</SC> <.></.> <R>when I</R> <F>eh</F> <SC>when I went home</SC> <F>ah</F> <?>not a</?> <F>ahh</F> <SC>when I go</SC> went home <F>eh</F> <F>un</F> <..></..> <R>I cooked</R> <F>ah</F> I cooked <F>eh</F> <.></.> sunny side up egg</B>
+<A><F>Umm</F>.</A>
+<B><R>in</R> <F>uh</F> in my kitchen.</B>
+<A><F>Ohh</F>. O K. Thank you.</A>
+<B><nvs>sniff</nvs></B>
+</task>
+<followup>
+<A>Do you drive a car?</A>
+<B>Yes.</B>
+<A>O K. When do you drive a car? <R>How</R> <R>how</R> how can I say? Are you a careful driver?</A>
+<B>Yes. Maybe.</B>
+<A>O K. How careful?</A>
+<B><F>Um</F>.</B>
+<A>When driving a car what's in your mind?</A>
+<B><F>Um</F>. <.></.> <R>I</R> <..></..> <R>I</R> <R>I</R> <F>eh</F> I <..></..> am careful</B>
+<A><F>Um</F>.</A>
+<B><R>about</R> <..></..> <F>uhh</F> <.></.> about <..></..> another cars <F>um</F> child and <F>eh</F> plays and <F>eh</F> go to my <?>cousine</?>.</B>
+<A><F>Um</F>.</A>
+<B><OL><F>Umm</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+<A><F>Um</F> <F>um</F> <F>um</F> <F>um</F>. O K <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>Thank you. We are almost at the end of the interview.</A>
+<B>Thank you.</B>
+<A>Yeah. <F>Ahh</F> thank you for coming today and have a good week.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,305 @@
+<interview>
+<filename>file01259.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>16</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step>1.5</step> 
+<TOEIC></TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>7</SST_level> 
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have yours?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A><H pn="B's name">XXX01</H>, how are you today?</A>
+<B>I'm fine, thank you.</B>
+<A>Good. <H pn="B's name">XXX01</H>, where do you live?</A>
+<B>I lived in Hong Kong and Singapore.</B>
+<A><F>Oh</F> I see. Tell me <OL>about</OL> your experience in Singapore a little bit?</A>
+<B><OL><nvs>cough</nvs></OL> Singapore. <F>Um</F> I went to a British school</B>
+<A><F>Mm-hm</F>.</A>
+<B>for four years. Yeah.</B>
+<A><F>Mhm</F>. And what kind of <SC>ss</SC> <F>ur</F> friends did you get there?</A>
+<B>Friends. <F>Urm</F> I had many different friends from many countries.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Ur</F> mostly, they're British people but <F>urm</F> there is a <SC>Australian friend</SC> Australian, Indian, Brunei, Chinese.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A><SC>Ho</SC> do you still keep in touch with <OL>these friends</OL>?</A>
+<B><OL>Yes, <SC>some</SC></OL> not all, but some of them.</B>
+<A><F>Mhm</F>. But how do you keep in touch with them?</A>
+<B>By letters and E-mail.</B>
+<A><F>Mm-hm</F>. I see. <F>Urm</F> <F>ur</F> can you <F>ur</F> see any difference between the school in Singapore to this school?</A>
+<B>This <OL><H pn="school name1">XXX02</H></OL> school?</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><laughter>Yeah, there's many, many</laughter> <OL><?>difference</?></OL>.</B>
+<A><OL><F>Mm</F></OL>. Tell me.</A>
+<B><F>Urm</F> <SC>they</SC> it was <F>urm</F> British school so they did <R>all the</R> <F>urm</F> all the lessons in English.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urm</F> <SC>this</SC> <F>um</F> they divided you into level groups.</B>
+<A><F>Mhm</F>.</A>
+<B>They do it here in <H pn="school name1">XXX02</H>, too but <SC>more</SC> <F>urm</F> there were more lessons that were divided.</B>
+<A><F>Oh</F> I see. <F>Uh-huh</F>. O K. And <F>ur</F> <R>do you</R> do you belong to any club in this <OL>school</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Mm</F>.</A>
+<B><R>I be</R> I belong to the dance club.</B>
+<A>Which club?</A>
+<B>Dance club.</B>
+<A>Dance club. Tell me about that club activity.</A>
+<B><F>Urm</F> it's about mostly three times per week.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And sometimes <.></.> <SC>we</SC> <SC>before it's</SC> <F>ur</F> before we do it in front of many people,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>then we have <F>er</F> everyday nearly.</B>
+<A>I see. What kind of dance do you do or do you practice?</A>
+<B><F>Urm</F>. <OL><??></??></OL>.</B>
+<A><OL>There're</OL> lots of kind of dances, <OL>right</OL>?</A>
+<B><OL>Yeah</OL>. <F>Urm</F> <R>the dance</R> the dance club here, they do hip-hop, jazz, lock, <F>hm</F> house.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Yeah.</B>
+<A>So you practice these kinds of <OL>dances</OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Oh</F>. <F>Urm</F> but in the first place, how did you get interested in dancing?</A>
+<B>How did I get <OL>interested</OL>?</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><F>Urm</F> I used to do ballet. And now I don't do it anymore, but I really like ballet.</B>
+<A><F>Mhm</F>.</A>
+<B>And I always wanted to try to dance.</B>
+<A><F>Ahh</F>.</A>
+<B>So when I came to <H pn="school name1">XXX02</H>, I thought maybe <R>I wa</R> I wanna try dancing.</B>
+<A><F>Mhm</F>. How do you feel when you are dancing?</A>
+<B><SC>I</SC> it's really fun.</B>
+<A><F>Mm</F>.</A>
+<B>Yeah.</B>
+<A>I see. I see. O K. And <F>ur</F> you live with your family members right <OL>now</OL>, right?</A>
+<B><OL>Yes</OL>.</B>
+<A>Tell me about your family members.</A>
+<B>I have a father and mother and my younger sister.</B>
+<A><F>Mm-hm</F>. Tell me more about your younger sister.</A>
+<B>My younger sister is in grade seven.</B>
+<A><F>Mm-hm</F>.</A>
+<B><nvs>sniff</nvs> And she goes to a normal Japanese junior high school.</B>
+<A><F>Mhm</F>.</A>
+<B><nvs>sniff</nvs> Yeah.</B>
+<A>And <F>ur</F> what kind of things do you like to do with your little sister?</A>
+<B><F>Urm</F> I used to play games or talk and go shopping sometimes together. But now, <SC>after <SC>I came to</SC> I graduate</SC> <F>urm</F> after I graduated junior high school and came here, I'm really busy.</B>
+<A><F>Oh</F> <OL>you're really busy</OL>.</A>
+<B><OL><CO>And I don't</OL> spend <laughter>time</laughter></CO>.</B>
+<A><F>Mm</F> what kind of things do keep you busy?</A>
+<B><F>Urm</F> I have club activities and also the lessons here are really hard.</B>
+<A><F>Mhm</F>.</A>
+<B>And we have many homework to do. And researches and report.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And talk to the class about what you researched.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Yeah.</B>
+<A>So you don't have not much free time. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Not much</OL>.</B>
+<A><F>Mm</F>. <CO>Does she complain about that you can't share</CO>?</A>
+<B><laughter>No</laughter>, but she is also busy.</B>
+<A><F>Ah</F> she is also <OL>busy</OL>.</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A>I see. But do you recommend her to enter this school?</A>
+<B>Yes. <OL><CO>And</CO></OL>.</B>
+<A><OL>And <SC?>that's</SC?> why is that</OL>?</A>
+<B><F>Urm</F> because <SC>you can</SC> like <SC>he</SC> this school, all the students, <SC>they have</SC> they really are enthusiastic.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Like school events. <SC>They</SC> and it's really fun making it all by yourselves.</B>
+<A><F>Mhm</F>.</A>
+<B>Before in junior high school, all the teachers decided everything.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>But here, you can</OL> decide <OL>like what you</OL> want to do.</B>
+<A><OL>I see</OL>. <F>Uh-huh</F> <F>hm</F> <F>hm</F>.</A>
+<B>Yeah.</B>
+<A>That's a big difference, <OL>isn't it</OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A>O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then I'll show you a picture now. Let's see. <F>Mm</F> O K. O K, would you describe this picture for me in as much detail as possible?</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><OL><?>Can I</?> start</OL>?</B>
+<A><OL>O K</OL>, please, yeah, start.</A>
+<B><F>Um</F> <SC>there is one house</SC> there is a road and there is one house on the left-hand side. There is a girl skipping a rope on one side outside the window. And there's a car parked nearby with a cat on the top. <nvs>sniff</nvs> There're two ladies talking. One of the ladies has a dog. <F>Mhm</F> there are two boys playing outside in the garden. They're playing <F>mm</F> maybe volleyball. And there are two dogs also outside the other side of the window. And they're facing each other. And there is a man jogging. <.></.> <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B>Yeah.</B>
+<A>O K, and more?</A>
+<B><SC>There is a</SC> on the other side of the road, there is a man sitting down on the bench reading a newspaper.</B>
+<A><F>Mm</F>. Thank you. That's enough.</A>
+</task>
+<followup>
+<A><F>Urm</F> O K. <F>Urm</F> <H pn="B's name">XXX01</H>, <F>ur</F> can you compare this neighborhood to the one in Singapore?</A>
+<B>In Singapore?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Ur</F> the differences?</B>
+<A>Differences and the similarities <R>if there are</R> if there are any.</A>
+<B><F>Ahh</F>. <?>Is in</?> the place where I lived in Singapore was an apartment, not a house. And <SC>there wasn't</SC> there were lots of apartments in my area so <SC>there wasn't</SC> there was trees, but there wasn't much green.</B>
+<A><F>Mh-hm</F>.</A>
+<B><nvs>sniff</nvs> Lots of many buildings around. And there were many shops. So it's more urban.</B>
+<A><F>Mm-hm</F>.</A>
+<B><CO>And</CO>. <..></..></B>
+<A>O K. What did people do in Singapore maybe on weekends</A>
+<B><OL>People</OL>.</B>
+<A><OL><SC?>for</SC?></OL> in your neighborhood? Yes.</A>
+<B><F>Urm</F> there was a pool nearby my apartment so people in my apartment went there often</B>
+<A><F>Mhm</F>.</A>
+<B>because it's summer all season in <OL>Singapore</OL>.</B>
+<A><OL><F>Hm</F></OL>. <F>Mh-hmm</F>.</A>
+<B>You can always go swimming.</B>
+<A><F>Mhm</F>. Can you see any difference between people in your neighborhood now, how to spend their free time, <OL>to</OL> those people in Singapore?</A>
+<B><OL><R>In</R></OL> in Japan?</B>
+<A>In Japan and in Singapore.</A>
+<B>Free day?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Urm</F> <laughter>I</laughter> don't see much people.</B>
+<A>Really?</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>. For example, what about your parents?</A>
+<B>My parents, they either stay at home or <.></.> sometimes we go shopping.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Yeah, shopping mostly when we go <OL>out</OL>,</B>
+<A><OL>I see</OL>.</A>
+<B>or else eat somewhere.</B>
+<A><F>Mm-hm</F>. So <OL>more it's</OL> the same?</A>
+<B><OL><??></??> <?>for</?> dinner</OL>.</B>
+<A>No, way you spend time together on weekdays or free day?</A>
+<B>Yeah.</B>
+<A>I see. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then <F>ur</F> let's do a role-play. O K?</A>
+<B><nvs>cough</nvs></B>
+<A><F>Mhm</F> O K. Please <SC>look</SC> <F>ur</F> read the card what it says. <OL><CO>And when y</OL></CO>.</A>
+<B><OL><F>Urm</F> this one</OL>?</B>
+<A>Yeah.</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>Either</OL> side is O K. <R>Ei</R> either in Japanese or English. When you are ready, let me know.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A><F>Mm-hm</F>. O K. It's a telephone conversation. Ring, ring.</A>
+<B><OL>Hello</OL>.</B>
+<A><OL>Hi</OL>, <H pn="B's name">XXX01</H>. What's up?</A>
+<B>Hello. <F>Urm</F> I'm at the train station now and I just found out that the train I wanted to go just left right now. So I can't use my ticket anymore and I was wondering if you could <nvs>sniff</nvs> refund my money so <SC>I don't</SC> I can have my money back.</B>
+<A><F>Oh</F> sorry, <F>ur</F> it's not a telephone <laughter>conversation</laughter>. <OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Well</F> may I have the reason why you missed the train?</A>
+<B><F>Urm</F> I thought it was <F>urm</F> thirty minutes later. And I didn't look at the ticket well. And I just realize right now.</B>
+<A><F>Uh-huh</F>. But <SC>for</SC> <F>urm</F> I'm sorry that it's against our policy to exchange the tickets or give you the refund.</A>
+<B>Yes. But <F>urm</F> this money is really <nvs>sniff</nvs> quite expensive and I've been saving this money just <F>um</F> to go to use this train. So if I don't get on this train,</B>
+<A><F>Hm</F>.</A>
+<B><F>urm</F> the <laughter>money is</laughter> useless so if I could have the money back.</B>
+<A><F>Mhm</F>. If you can pay some extra money, we can change the tickets to the next one. That is five hundred yen.</A>
+<B><CO>Five hundred yen more <OL>expensive</OL> than the</CO>.</B>
+<A><OL><F>Hm</F></OL>. Than the <SC>yu</SC> ticket you bought.</A>
+<B><F>Oh</F>. O K. If that, <SC>so you</SC> so I have to pay five hundred?</B>
+<A>Extra five hundred yen. So that I can give you a new ticket</A>
+<B><F>Oh</F>.</B>
+<A>for the next train.</A>
+<B>O K.</B>
+<A><F>Hm</F>.</A>
+<B>Five hundred yen is</B>
+<A><F>Hm</F>.</A>
+<B>cheap enough.</B>
+<A>Cheap enough for you?</A>
+<B>Yes.</B>
+<A>O K. So is that O K?</A>
+<B>Yes.</B>
+<A>O K. Then I'll give you a new ticket so that <R>you</R> you can get on the next one.</A>
+<B>O K.</B>
+<A><F>Mm-hm</F>. O K. Thank you. That's the end of the role-play.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A><F>Ur</F> sometimes do you miss trains on the way to come to school?</A>
+<B>Yes.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL>But</OL> you know, <SC>the time isn't</SC> and you can go in anytime you want.</B>
+<A>Yeah. That's right. You don't have to buy <OL>another</OL> ticket. <F>Mm</F>.</A>
+<B><OL>Yes</OL>.</B>
+<A>But when you are late for school, what would be the best procedure?</A>
+<B><F>Hm</F>? <R>Wh</R> what do you <OL>mean</OL>?</B>
+<A><OL><R>When</OL> you are late for</R> when you are late for school, then <R>for</R> for example, you oversleep and <R>you</R> you are sure that you will not able to get school on time, what would you do?</A>
+<B><CO>But I will still use the train because</CO>.</B>
+<A>Yeah, yeah, yeah. Still you can use the train, but you have to say something to the school you are late.</A>
+<B><laughter>Yeah, I'll</laughter> say <F>ur</F> I overslept.</B>
+<A><F>Mm</F> if you oversleep. So you will call the school?</A>
+<B>No. <OL>Not necessarily</OL>.</B>
+<A><F>Mhm</F>. <OL><CO>So <?>normally</?></CO></OL>. <SC>No</SC> not necessarily. I see. So after getting school a little bit later than usual time, what will you do?</A>
+<B>I will go to the teacher and say,</B>
+<A><F>Mm</F>.</A>
+<B><nvs>laughter</nvs> yeah.</B>
+<A>Say?</A>
+<B>Say sorry <SC>that I</SC> <SC>late</SC> that I overslept today.</B>
+<A><F>Mhm</F>. <SC>That</SC> that's it? That's about it?</A>
+<B><laughter>Yes</laughter>.</B>
+<A>Nothing more <OL>that you have</OL> to do?</A>
+<B><OL>Nothing more</OL>.</B>
+<A>So that kind of apology is acceptable usually if you are late for school.</A>
+<B>Yeah.</B>
+<A>I see. I see. <F>Uh-huh</F>. Is there any kind of punishment if you're late for school more than, let's say three times?</A>
+<B>Not three times.</B>
+<A><F>Mhm</F>.</A>
+<B>I'm not sure how many times, but <F>urm</F> ten times or <OL><?>something</?></OL>, and <SC>it's one</SC> and it is the same as if you miss one lesson.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Oh</F> really? <F>Ahh</F>.</A>
+<B>Something like that.</B>
+<A><F>Uh-huh</F>. What do you think of that kind of rule?</A>
+<B>It's not that bad.</B>
+<A>It's not <SC>bad</SC> <OL>that bad</OL>?</A>
+<B><OL><SC>I don't</OL> usually</SC> I'm not usually <F>eh</F> late for school.</B>
+<A><F>Oh</F> I see. O K. Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Finally, I want you to make a story using, O K, this picture. This time, I want you to make a story <SC>but</SC> from one to six. But it happened last week. So will you start your story with "One day last week"?</A>
+<B>Should I be looking from whose point <OL>of view</OL>?</B>
+<A><OL>Yeah</OL>, or you can make them if you like.</A>
+<B>O K.</B>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<A>O K. Go ahead.</A>
+<B>O K.</B>
+<A><F>Mm</F>.</A>
+<B><SC>There were two sisters</SC> <F>uh</F> one day last week, there were two sisters who were planning to go to go camping in the mountains. <nvs>sniff</nvs> <F>Urm</F> so they prepared <SC>for</SC> to go camping. The younger sister got the tent ready, and the old sister <SC>is</SC> <SC>were</SC> was packing the torch. And surprise, that they were going to eat over there. And they packed their bags and they went on the car and they set off. <nvs>sniff</nvs> They arrived at the camping ground. <nvs>sniff</nvs> And they put the tent up. Besides the tent, they had curry ready and rice so they could eat it for dinner. After they put the tent up, the rain started falling heavily. So they decided that they couldn't spend the night here because it was getting worse and worse. So the tent blowed away and all the foods and the chairs also blown away. So the rain was getting really strong. So they decided to go to the car, get on the car, and they went to a nearest hotel. They went to the Hotel Cosmos. And they stayed there that night <SC>and</SC> so they didn't <SC>get</SC> have to get wet in the rain.</B>
+<A><F>Mm-hm</F>. Thank you for the story, <SC><H pn="B's name">XXX01</H></SC> <F>ur</F> <H pn="B's name">XXX01</H>.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Well</F> the interview is almost over now. <F>Ur</F> you said you belong to a dancing <OL>club</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Do you have that practice today after this interview?</A>
+<B><F>Urm</F> not today.</B>
+<A><F>Mh-hm</F>. <F>Mhm</F>. So after this interview, <OL>what</OL> are you going to do?</A>
+<B><OL><F>Um</F></OL> <SC>I have another</SC> <F>ur</F> I have a play tomorrow.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>if it</SC> <F>urm</F> in conversation class, we're doing a play.</B>
+<A><F>Wow</F>.</A>
+<B>And it's tomorrow.</B>
+<A><F>Mhm</F>.</A>
+<B>So I have to practice for that.</B>
+<A><SC>With your mates</SC> with your friends</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>who</OL> will be in that play together.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. O K. Please have a nice practice <nvs>laughter</nvs> for that play.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL> for your time. Interview is over.</A>
+</stage5>
+</body>
+</interview>

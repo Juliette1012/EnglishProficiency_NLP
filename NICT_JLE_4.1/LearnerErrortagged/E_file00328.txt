@@ -1,0 +1,179 @@
+<interview>
+<filename>E_file00328.txt</filename>
+
+<head version="1.3">
+<date>2001-03-02</date>
+<sex>female</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>920</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A><F>Well</F>. Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Ms <H pn="B's name">XXX02</H>. O K. Where do you live?</A>
+<B><F>Ah</F>. I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Ah</F>. Isn't it very far from this place?</A>
+<B>Yes, takes about one and <at odr="1" crr="a"></at> half-hour by train</B>
+<A><F>Ahh</F>.</A>
+<B>to come here.</B>
+<A>Thank you for coming all the way today. O K. So, tell me more about your hometown.</A>
+<B><F>Ah</F>. <R>My home</R> my hometown, <H pn="others1">XXX03</H>. <SC>S</SC> <con_lxc odr="1" crr="">and</con_lxc> located in <at odr="4" crr="a"></at> <av_lxc odr="2" crr="">very</av_lxc> industrial <n_lxc odr="3" crr="area">place</n_lxc>, and there're a lot of factories, <R>and</R> and <F>um</F> it's a <av_lxc odr="5" crr="">very</av_lxc> local town.</B>
+<A>Do you like <?>living in</?> the place?</A>
+<B><F>Um</F>. <laughter>Not so much</laughter>.</B>
+<A>Why not?</A>
+<B>Because the air is not clean, and it's not <at odr="1" crr="a"></at> very <nvs>laughter</nvs> <F>ah-um</F> ideal place <?><o_uk odr="2" crr="to live in">where I live in</o_uk></?>, I think.</B>
+<A>O K, O K. <F>Ah</F>. O K. What is your hobby?</A>
+<B><R>My hobby</R> my hobby is <F>a</F> <F>ahh</F> <R>drawing</R> drawing.</B>
+<A><F>Um-hm</F>. What kind of drawing?</A>
+<B><F>Ah</F> <F>ah</F>. I go to the drawing class once a week, and I draw a <SC>model</SC> nude model. I mean, <laughter><SC>that</SC> <F>ahh</F></laughter></B>
+<A><F>Ah-hm</F>.</A>
+<B><F>a</F> <R>cha</R> charcoal.</B>
+<A><F>Oh</F> I see. How long have you had that hobby?</A>
+<B><F>Umm</F>. I <mo_lxc odr="1" crr="">'d</mo_lxc> like <F>ah</F> drawing or painting <SC>when</SC> since I was little.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yes. <F>Ah</F>. I started the course <prp_lxc1 odr="1" crr="">in</prp_lxc1> last October.</B>
+<A><F>Oh</F>. Last October? <F>Ahh</F>. O K. How often do you go there now?</A>
+<B><F>Ah</F>. I go there once a week.</B>
+<A><F>Oh</F>. Once a week? O K. Do you do any sports?</A>
+<B><F>Um</F>. Not so much. But I like skiing.</B>
+<A>Skiing? <F>Ahh</F>. <F>Eh</F>. This winter, do you have any plans for <OL>going skiing</OL>?</A>
+<B><OL><R>I</R></OL> I was going to, but <F>ah</F> had to cancel it because I was not so well at that time.</B>
+<A><F>Oh</F> I see.</A>
+<B>I had a <aj_lxc odr="1" crr="rotten">bad</aj_lxc> food. <CO>So</CO>. <laughter>Yeah</laughter>.</B>
+<A>Are you feeling O K, now?</A>
+<B>Yes, <OL>yes</OL>.</B>
+<A><OL><F>Ahh</F></OL>. O K. <F>Ah</F>. O K. <F>Ah</F>. Do you have a family?</A>
+<B>Yes.</B>
+<A>Please tell me about your <OL>family</OL>.</A>
+<B><OL><F>Ah</F></OL>. I have two elder sisters and one younger brother. And I live with <SC>a brother</SC> <SC>the</SC> my brother and my parents now, yes.</B>
+<A>O K. Tell me more about your brother.</A>
+<B><nvs>laughter</nvs> He <v_agr odr="1" crr="studies">study</v_agr> <prp_lxc1 odr="2" crr="at">in</prp_lxc1> <at odr="3" crr="the"></at> university and he's specializing medicine. <CO>And</CO>. <nvs>laughter</nvs> Yes.</B>
+<A><F>Oh</F>. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K, then. Look at this picture please. O K. Please describe it.</A>
+<B><F>Ah</F> <F>um</F>. A girl is <F>ah</F> sitting in front of <at odr="1" crr="a"></at> computer, and there is a cat <SC>on the</SC> on <at odr="2" crr="the"></at> bed. And also, a dog <mo_lxc odr="1" crr="is"></mo_lxc> sleeping <SC>under the</SC> near the bed. And the <R>gir</R> girl is <F>ah</F> <F>um</F> trying to show her computer to the cats and <at odr="1" crr="the"></at> dog, I think. <o_uit odr="1"><R>And</R> and I think this is her room, and <SC>do</SC> <SC>her back</SC> <?>other</?> back is open</o_uit>. And there is a <F>ah</F> stereo, <R>and</R> <F>ah</F> <F>um</F> <.></.> and, <F>ah</F> <nvs>cough</nvs> <F>ah</F> <R>un</R> <SC>under the st</SC> under the <n_lxc odr="1" crr="stereo">audio set</n_lxc>, <F>eh</F> <R>there</R> there is <at odr="2" crr="a"></at> telephone and <at odr="3" crr="">the</at> books. <F>Um</F>. And <nvs>cough</nvs> also, there is a calendar on the wall over the stereo. And she has a computer and a <R>type</R> <R>typewriter</R> <F>an</F> typewriter on her table.</B>
+</task>
+<followup>
+<A>O K. Thank you. O K. Good. Thank you. Do you use a computer?</A>
+<B>Yes, I do.</B>
+<A>What do you use <at odr="1" crr="the"></at> computer for?</A>
+<B>For <at odr="1" crr="the"></at> Internet mostly or E-mail. Yes.</B>
+<A><F>Ahh</F>. O K. <F>Um</F> O K. <F>Ah</F>. Do you have your own computer?</A>
+<B>Yes, I have. Yeah.</B>
+<A>Tell me more about it, please.</A>
+<B><F>Ah</F>. I bought it last December</B>
+<A><F>Um-hm</F>.</A>
+<B>for my Christmas present for myself.</B>
+<A><F>Ah</F>. That's good. <OL><F>Ah-hm</F></OL>.</A>
+<B><OL><nvs>laughter</nvs> But</OL> <F>ah</F> it's the <R>I</R> I-Mac, and I can <v_lxc odr="2" crr="watch">see</v_lxc> <R>D V</R> <n_lxc odr="1" crr="D V D">D V D player</n_lxc> as well. <F>Um</F>. <nvs>cough</nvs> And also, I bought a <SC>printer</SC> new printer. It's a <o_lxc odr="1" crr="color printer">color</o_lxc>. And <F>er</F> <SC>my</SC> one of my elder <n_num odr="1" crr="sisters">sister</n_num> <v_agr odr="2" crr="lives">live</v_agr> in <at odr="3" crr="the"></at> U S <o_lxc odr="4" crr="at the moment">at moment</o_lxc>, and <R>she</R> she has <?>her</?> baby now.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>And</OL> she often <v_agr odr="1" crr="sends">send</v_agr> us a picture.</B>
+<A><F>Oh</F>. <OL>I see</OL>.</A>
+<B><OL>So</OL> my <R>nie</R> niece</B>
+<A><F>Ah-hm</F>.</A>
+<B>and I print it out for <laughter>my parents</laughter>.</B>
+<A><F>Oh</F>. How wonderful. <F>Oh</F>. O K, O K. Good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then, next, let's do a role play. This is your card. Please read it.</A>
+<ctxt>The interviewee is looking at the card.</ctxt>
+<B><nvs>cough</nvs></B>
+<A>O K? Are you ready? Then, I will start. May I help you?</A>
+<B><F>Ah</F>. Yes. I bought this <F>ah</F> yesterday.</B>
+<A><F>Um-hm</F>.</A>
+<B><F>Ah</F>. But <F>ah</F> <SC>I</SC> actually I didn't like this color <av_lxc odr="1" crr="very">so</av_lxc> much, and <F>ah</F> I'd like to <F>ah</F> <F>um</F> exchange this <F>ah</F> skirt <??></??> with other things. <F>Em</F>. Could you exchange this product. <CO>Or</CO>. <OL><F>Oh</F></OL>.</B>
+<A><OL>Why</OL> don't you like this color?</A>
+<B><F>Ah</F>. I thought, <F>ah</F> <F>ah</F> at first, <R>in the</R> in the shop, it <v_lxc odr="2" crr="looked"><v_tns odr="1" crr="was">'s</v_tns></v_lxc> <aj_inf odr="3" crr="brighter">more brighter</aj_inf> than <R>this</R> this. But, when I saw it at home, the color was slightly dark, and it <v_vo odr="1" crr="did not suit">was not suited</v_vo> <SC>with the</SC> <prp_lxc1 odr="2" crr="">with</prp_lxc1> my jacket. I'd like to <F>uh</F> change it to <R>other</R> other things, <R>or</R> or, <SC>could you</SC> <R>ca</R> can I return it?</B>
+<A><F>Umm</F>. So, is there anything wrong with this skirt? Material or anything?</A>
+<B>Yes. <F>Ah</F>. Also, <at odr="1" crr="the">a</at> material <v_vo odr="2" crr="does not suit">is <SC>not my</SC> <F>ah</F> not suited</v_vo> <prp_lxc1 odr="3" crr="">with</prp_lxc1> my jacket I wanted to wear <prp_lxc1 odr="4" crr="with"></prp_lxc1>.</B>
+<A><F>Oh</F> I see. <F>Ah</F>. But I'm sorry <F>ah</F> we cannot give you any refunds or exchange for <pn_lxc odr="1" crr="that">the</pn_lxc> kind of reason.</A>
+<B>No refund? <nvs>laughter</nvs> Yeah. But <F>anm</F> <SC>I also</SC> <F>am</F> <F>ah</F> <?><pn_lxc odr="1" crr="I">we</pn_lxc> 'd like</?> to try that skirt <prp_lxc2 odr="2" crr="on"></prp_lxc2>, and, <R>if</R> if possible, <R>the</R> the <SC>cost is</SC> <at odr="3" crr="the"></at> price is about the same. So, <SC>if you</SC> if I can change, <R>I</R> <SC>I could</SC> <SC>I can buy the skirt</SC> I can <SC>exchange this</SC> <F>ah</F> exchange the skirt.</B>
+<A><F>Umm</F>. I see. What color would you like?</A>
+<B><F>Ah</F>. <at odr="1" crr="">The</at> <R>ligh</R> <cap odr="2" crr="Light" ch="1">light</cap> cream.</B>
+<A>I'm sorry we do not have that color right now.</A>
+<B><F>Um</F>. Or other color like <F>ah</F> pink or sky blue?</B>
+<A><F>Well</F>. Pink and sky blue? No.</A>
+<B>No?</B>
+<A>We don't have <pn_agr odr="1" crr="them">it</pn_agr> now.</A>
+<B><F>Um</F>. <CO>But</CO>. <F>Am</F>.</B>
+<A>We have red.</A>
+<B>Red? <F>Umm</F>. Not red. <nvs>laughter</nvs> <F>Umm</F>. <R>Or</R> or <R>other</R> <R>other</R> other products like <F>um</F> <at odr="1" crr="a"></at> scarf or <F>um</F> <at odr="2" crr="a"></at> T-shirt. I don't mind.</B>
+<A>O K, O K, then. Please come this way. And I'll show you.</A>
+<B>Thank you.</B>
+<A>O K. Good.</A>
+</task>
+<followup>
+<A>Thank you. This is the end of <at odr="1" crr="the"></at> role play. O K. Do you like shopping?</A>
+<B>Yes, I like shopping.</B>
+<A><F>Ahh</F>. What is the most <R>ex</R> expensive <F>ah</F> thing you've ever bought in your life?</A>
+<B>Expensive thing? I think it's a <R>wa</R> watch.</B>
+<A><F>Ah</F>. Tell me more about that watch.</A>
+<B><F>Ah</F>. <SC>I</SC> <F>ah</F> <SC>my</SC> actually, my mom <v_cmp odr="1" crr="bought it">bought</v_cmp> for me when we traveled to New York.</B>
+<A><F>Ah</F>.</A>
+<B><nvs>laughter</nvs> It was quite expensive, I thought. But <F>ah</F> she wanted to buy it <R>for</R> for me.</B>
+<A><F>Oh</F>. You have a nice mother.</A>
+<B><nvs>laughter</nvs> <laughter>Yes</laughter>. <F>Umm</F>.</B>
+<A>Did you buy something for her?</A>
+<B><laughter>No</laughter>. <laughter>Not so much</laughter>. But I've bought a <SC>pic</SC> <F>ah</F> <SC>poster</SC> <R>pos</R> <F>ah</F> poster of Van Gogh, <SC>which</SC> who is her favorite <n_num odr="1" crr="painter">painters</n_num>.</B>
+<A><F>Ohh</F>. I see. Was she happy about that?</A>
+<B>Yes.</B>
+<A>O K, O K. Good.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Here's <at odr="2" crr="">the</at> another <n_num odr="1" crr="picture">pictures</n_num> for you. This time, please make up a story. O K? And it happened before, so, <SC>start</SC> please start with "One day last week".</A>
+<B><F>Ah</F>. One day last week, she <v_cmp odr="1" crr="went shopping">went for shopping</v_cmp>, and <nvs>cough</nvs> <R>she</R> <SC>she bought</SC> she was going to buy a tie for her <R>husband</R> <SC>husband birth</SC> <?>her</?> <n_lxc odr="2" crr="husband's"></n_lxc> birthday. <F>Ah</F>. She bought it, but, <SC>after that, <R>she</R> <F>ah</F> <SC>she found a</SC> she went</SC> <F>ah</F> after she bought a tie, <F>um</F> <SC>she went to</SC> she <v_lxc odr="1" crr="found">saw</v_lxc> a final sale of shoes. And also, <SC>she <F>ah</F> found</SC> <F>ah</F> <R>she bought a</R> she bought a pair of shoes, and then, she also <SC>s</SC> found <SC>a sale on</SC> sales on clothes. <R>She</R> she bought <n_cnt odr="1" crr="a pair of nice shoes">a <SC>sh</SC> nice shoes</n_cnt> for <pn_lxc odr="2" crr="herself">her</pn_lxc>. And, at last, she bought <F>ah</F> <SC>several thing</SC> several <F>ah</F> clothes for <pn_lxc odr="1" crr="herself">her</pn_lxc>, and then <F>ah</F> went out <prp_lxc2 odr="2" crr="of"></prp_lxc2> the <R>depart</R> <o_lxc odr="3" crr="department store">depart store</o_lxc>.</B>
+</task>
+<followup>
+<A>O K. Good. Thank you very much. <F>Well</F>. How do you compare shopping in a department store with <F>ah</F> in a retail, <F>ah</F> nearby shop?</A>
+<B><F>Um</F>. Compare? <nvs>cough</nvs> <F>Ah</F>. <con_lxc odr="1" crr="">And</con_lxc>, in the department store, <F>ah</F> <SC>various things</SC> you can <F>ah</F> buy <at odr="2" crr="">a</at> various things at once. And you can <R>see</R> <v_lxc odr="1" crr="find">see</v_lxc> <F>um</F> <nvs>cough</nvs> <F>um</F> like <F>ah</F> <R>home</R> homewear. <SC>To</SC> <F>um</F> <SC>shoe</SC> you can find shoes or <F>oh</F> <o_lxc odr="1" crr="ladies wear">ladies clothes</o_lxc> to <o_lxc odr="2" crr="men's wear">men's clothes</o_lxc> and <R>children</R> <??></??> children's wear. But, at the retail shop, <F>ah</F> you have to <F>um</F> <F>uh</F> go to <??></??>, <F>um</F> <R>the</R> they sell <at odr="2" crr="">the</at> only one <n_num odr="1" crr="thing">things</n_num>. <F>Um</F>. So, <R>if you</R> if you try to find any particular <F>ah</F> kind of thing, or if you know the shop, <R>well</R> well, <F>ah</F> it could be <F>ah</F> very <R>useful</R> useful.</B>
+<A><F>Ah</F>. O K. Do you have any favorite department <n_num odr="1" crr="stores">store</n_num>?</A>
+<B><F>Ah</F>. Yes. <R>I</R> <R>I like</R> I like Hankyu.</B>
+<A>Hankyu?</A>
+<B><F>Oh-oh</F>. Or Daimaru.</B>
+<A>O K. What is so good about Hankyu department store?</A>
+<B><F>Umm</F>. <laughter>It's</laughter> <R>ve</R> <R>very</R> <F>ah</F> very big. And they have a lot of <F>umm</F> <R>ar</R> <R>art</R> <SC>art thing</SC> <F>ah</F> <R>art</R> <F>um</F> <o_lxc odr="2" crr="painting tools">art <n_num odr="1" crr="materials">material</n_num></o_lxc>. <SC>Cera</SC> Japanese <n_num odr="1" crr="ceramics">ceramic</n_num>. <CO>So</CO>.</B>
+<A>How often do you go to Hankyu department store a month?</A>
+<B>A month? <nvs>laughter</nvs> <R>Three</R> <F>umm</F> three times a month.</B>
+<A><F>Um</F>. O K.</A>
+<B>About.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Ah-huh</F>. O K, O K. This is almost the end of <at odr="1" crr="the"></at> interview. O K. So, this weekend, are you going to Hankyu department store?</A>
+<B><nvs>laughter</nvs> <laughter>No, no</laughter>.</B>
+<A>Do you have any plans to do?</A>
+<B><F>Ah</F>. I go <F>ah</F> <F>um</F> <R>to</R> to have dinner with my friend <R>in</R> in Sannomiya.</B>
+<A><F>Ah</F>. Is that <at odr="1" crr="a"></at> special occasion?</A>
+<B><F>Umm</F>. <laughter>Not so much</laughter>. But I haven't seen them for a while, so we decided to get together.</B>
+<A><F>Ah</F>. What kind of dinner are you going to have?</A>
+<B>Japanese dinner.</B>
+<A>Do you like Japanese food?</A>
+<B>Yes.</B>
+<A>O K, O K. Good. <F>Well</F>. This is all. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>Enjoy your dinner. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

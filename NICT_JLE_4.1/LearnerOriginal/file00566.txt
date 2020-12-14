@@ -1,0 +1,167 @@
+<interview>
+<filename>file00566.txt</filename>
+
+<head version="1.3">
+<date>2001-07-27</date>
+<sex>male</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC>700</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to</OL> meet you.</B>
+<A><F>Hm</F> <F>erm</F> what do you do in the morning?</A>
+<B><F>Mm</F> <SC>es</SC> nothing special.</B>
+<A><nvs>laughter</nvs> <F>Mh-hmm</F>.</A>
+<B>Get up and eat, <F>mm</F> drink a bottle of drink and <SC>go <.></.> the</SC> <SC>go to</SC> go there.</B>
+<A><F>Mh-hmm</F>. O K. <F>Erm</F> <.></.> so you are a student?</A>
+<B>Yes.</B>
+<A>O K. Can you tell me about your school?</A>
+<B><F>Mm</F> I'm belong to School of Literature and <SC>study</SC> I study <SC>the history of western</SC> western history. And I belong to <SC>club of announcement</SC> circle of announcement. And <R>I</R> <.></.> <F>uhm</F> <.></.> I <SC>do the rea</SC> <R>read</R> <F>uh</F> <.></.> read a <.></.> Japanese <JP><R>se</R> serifu</JP> <R>an</R> and so on.</B>
+<A><F>Hm</F> O K. <F>Erm</F> <.></.> what is difficult about <F>er</F> doing announcing?</A>
+<B><F>Uhm</F> <R>I'm no</R> I'm not good at speaking. For example, I <F>uhm</F> <.></.> stop when I <SC>read the</SC> <.></.> read a phrase. <SC>I <.></.> stop <F>uh</F> Japa</SC> <F>mm</F> <SC>probably I</SC> <F>uhm</F> sometimes I stop to reading. So, this point is difficult for me.</B>
+<A><F>Hmm</F> O K. <F>Erm</F> what do you do for fun?</A>
+<B><.></.> <F>Hmm</F> for fun? <.></.> What, <.></.> <SC>this is</SC> <F>mm</F> <SC>I feel the</SC> I don't feel too much fun for this, but <.></.> <F>uhm</F> if I read perfectly the phrase, I <.></.> <SC>s</SC> feel it is <F>uhm</F> good, it is fun.</B>
+<A>O K. <nvs>cough</nvs> Excuse me. And why did you join this club?</A>
+<B><F>Uhm</F> I <.></.> develop my reading skill. And I'm not good at reading skill. So I <.></.> develop the skill. So I join the club.</B>
+<A><F>Hm</F> I see. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, the first thing <.></.> today, I want to show you a picture. Have you seen this picture before?</A>
+<B>No.</B>
+<A>O K. Please tell me about this picture.</A>
+<B>O K. <F>Hm</F> <.></.> it's seven o'clock. And <SC>this</SC> <SC>there is a</SC> <F>mm</F> this is a restaurant. And this restaurant <SC>looks like <.></.> <R>high</R> high class</SC> looks like high-class restaurant. And in the center of the picture, there are a man and a woman. They looks like a <F>mm</F> couple or marriage people. And probably, I think, it is <F>er</F> before eating. And they drink a cup of wine. <SC>The</SC> and <.></.> the back of the restaurant, <SC>this</SC> there is a piano. And a woman play the piano. And this restaurant is very large. And <R>I look</R> <SC>I look</SC> <F>mm</F> I see the two <.></.> group. And the group have <.></.> <R>both</R> both <R>two</R> <F>mm</F> a man and woman.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A><nvs>cough</nvs> Thank you.</A>
+</task>
+<followup>
+<A><F>Hm</F> So can you compare your favorite restaurant with this restaurant?</A>
+<B><F>Uhm</F> This restaurant is too much large. And I think <R>this</R> in this restaurant, <R>it is</R> <.></.> <SC>it is</SC> I think <SC>it is</SC> <F>mm</F> the menu and the meal is expensive, I think. So, <.></.> <F>uhm</F> the restaurant I go is not so expensive and not so large. And not so <F>mm</F> beautiful.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F> <.></.> and <R>more lou</R> more loudly. <.></.> O K. O K.</B>
+<A>O K. What kind of food do you like?</A>
+<B><.></.> <R>Japa</R> Japanese food.</B>
+<A><F>Mh-hmm</F>. <nvs>laughter</nvs> I see.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, the second thing today, we are going to do a role-play. All right? And I will give you a card. And please read this in Japanese. And when you are ready, <OL>I'll begin</OL>.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>All right. May I help you?</A>
+<B><SC>May I help y</SC> <F>oh</F> <laughter>no, no, no, no</laughter>.</B>
+<A><nvs>laughter</nvs> May I help you?</A>
+<B><F>Oh</F> I want to go to travel,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>somewhere.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F> please give me some information.</B>
+<A>We have many packages to different countries.</A>
+<B><F>Hm</F> <OL><F>hm</F></OL></B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>O K. I <F>mm</F> want to go to China.</B>
+<A>O K.</A>
+<B><R>How</R> how about the plan or the package? Please tell me.</B>
+<A><F>Mh-hmm</F>. We have a five-day package to Beijing and Shanghai. <.></.> <F>Mh-hmm</F>.</A>
+<B><SC>As another</SC> another plan, <R>do you have</R> do you ha, <F>uhm</F>?</B>
+<A><F>Er</F> we have a three-day package to Hong Kong,</A>
+<B><F>Oh</F>.</B>
+<A>and southern parts of China.</A>
+<B><F>Uhm</F> how much <SC>the</SC> <SC>its cost</SC> it cost to go?</B>
+<A><F>Er</F> which plan?</A>
+<B><F>Uhm</F> five-days plan.</B>
+<A>O K. The five-day plans go for <F>erm</F> <.></.> hundred fifty-thousand yen.</A>
+<B><.></.> Hundred fifty-thousand yen. <R>O</R> O K. <F>Uhm</F> if <SC>I go the</SC> <SC>I go</SC> I select the five-days plan, Beijing and Shanghai.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>Where I go anothe</SC> where do I go, another place?</B>
+<A>No. Just those two cities.</A>
+<B>Two cities <OL>only</OL>?</B>
+<A><OL><F>Mh-hmm</F></OL> <F>mh-hmm</F> but hotel and transportation included.</A>
+<B>O K. <F>Uh</F> By the plane from Japan to China,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F> go and back?</B>
+<A>Yes.</A>
+<B>O K. <.></.></B>
+<A>O K? So if you like, you can take this pamphlet and think about it. O K?</A>
+<B><F>Mm</F> <F>mm</F></B>
+<A>A pamphlet.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL>O K</OL>? You can take it <OL>home and think about it</OL>.</A>
+<B><OL>O K, yeah</OL>.</B>
+<A>And call us back.</A>
+<B>O K. <F>Uh</F> thank you.</B>
+<A>O K? <nvs>laughter</nvs> Thank you. This is the end of the role-play.</A>
+</task>
+<followup>
+<A><F>Uhm</F> Are you interested in China?</A>
+<B><F>Mm</F> yes.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A><.></.> Have you been there before?</A>
+<B>No. So I want to go to China.</B>
+<A><F>Oh</F> I see. <F>Erm</F> <SC>when you travel</SC> when you want to travel, how do you plan your trip?</A>
+<B><.></.> <F>Hmm</F> <R>ho</R> how?</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>I</OL>, <JP><F>eeto</F></JP> <F>hm</F></B>
+<A>How do you get your tickets?</A>
+<B><F>Oh</F> ticket. <SC>Prob</SC> <F>uh</F> <F>uh</F> <F>hm</F> if <SC>I go to</SC> I will go to China,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I get the ticket from the <F>er</F> <.></.> shop. <F>Mm</F> for example, <.></.> <SC>JAF</SC> <R>JA</R> JAL, <F>mm</F> <R>J</R> J T B,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>or <SC>another</SC> <.></.> <JP><F>ano</F></JP> <R?>brand</R?> <?>brand</?> shop.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>If I go to <R>Ja</R> <SC>Japan</SC> <F>oh</F> internal Japan place, I get the <R>ti</R> <F>mm</F> ticket <SC>by themse</SC> by myself.</B>
+<A><F>Hmm</F> I see. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. The last thing today, <F>er</F> <SC>we're going to</SC> I'm going to show you a picture sequence. O K? Have you seen this before?</A>
+<B>No.</B>
+<A>No? O K. There are six pictures. Please make a short story. And this happened before. So, start with "One day last week". O K.</A>
+<B>One day last week, <F>uhm</F> a man and a woman <R>walk</R> <.></.> walk in the street. It is rainy day. <.></.> <F>Uhm</F> <SC>from somewhere</SC> <.></.> from some, <SC>it looks</SC> <SC>it sou</SC> <F>uhm</F> <R>sounds come</R> sounds come. A man <.></.> pay attention to the sound. And <SC>found</SC> <F>um</F> the find <SC>the</SC> a little cat. The girl hold <SC>the li</SC> the cat. <SC>The girl s</SC> the cat looks like very <.></.> charming. And the girl say that she <SC>take care</SC> <SC>care</SC> take care of the cat. So, <SC>she tell him</SC> <SC>tell the man that she <.></.> can</SC> <F>uhm</F> <R>she</R> <SC>she ask</SC> <F>uh</F> she ask the man to <SC>care</SC> take care of the cat. But the man say "No.". But the girl strongly insist that she want to take care of the cat. <R>So</R> so the man <.></.> <R>is</R> <.></.> is annoyed. <SC>And fi</SC> and at last, the man <SC>allowed she</SC> <R>allowed</R> allowed her to take care of the cat. And <.></.> <SC>the two</SC> <F>mm</F> the man and woman go back to their home.</B>
+</task>
+<followup>
+<A>O K. <F>Hmm</F>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So we are almost finished with this interview. <F>Er</F> do you have any fun plans for today?</A>
+<B><F>Uhm</F>. <nvs>laughter</nvs> <F>Oh</F> <F>ah</F> <F>oh</F> I give my blood. <..></..></B>
+<A><F>Hm</F>.</A>
+<B>Give my blood.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>Yeah?</A>
+<B>In Shinjuku.</B>
+<A>Really? <F>Hmm</F> that's a good thing.</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> O K. Anything else?</A>
+<B><F>Mm</F> and I study English after <SC>the</SC> giving my blood at school.</B>
+<A>Really?</A>
+<B><F>Hm</F>.</B>
+<A><F>Hm</F> so I hope you enjoy the lesson.</A>
+<B>O K. Thank <OL>you</OL>.</B>
+<A><OL>O K</OL>. Thank you for coming today.</A>
+</stage5>
+</body>
+</interview>

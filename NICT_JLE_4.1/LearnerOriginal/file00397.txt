@@ -1,0 +1,276 @@
+<interview>
+<filename>file00397.txt</filename>
+
+<head version="1.3">
+<date>2001-02-24</date>
+<sex>female</sex>
+<age>36</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step>2</step>
+<TOEIC>880</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>8</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B><.></.> Sure.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A>It's very nice to meet you, <H pn="B's name">XXX02</H>. <R>How</R> how are you feeling today?</A>
+<B>I <laughter><F>urr</F></laughter> a bit nervous because a lot of people are here.</B>
+<ctxt>People are laughing.</ctxt>
+<A>I know. Actually, me, too. So we are in the same boat.</A>
+<ctxt>People are laughing.</ctxt>
+<B><OL><laughter><??></??></laughter></OL> to me. <nvs>laughter</nvs> <.></.> <F>Oh</F>. O K.</B>
+<A>That's great. O K. It's my first time to meet you. So, can you introduce yourself to me, please?</A>
+<B>Sure. My name is <H pn="B's name">XXX02</H>. I work for a Danish shipping company. <F>Er</F>. Shipping company means <F>urr</F> operating company, not shipbuilding company. And, <F>urm</F> now, <F>urm</F> I'm in a export department for Europe export.</B>
+<A>Yes.</A>
+<B><SC>And</SC> <F>ur</F> so we export a lots of <F>er</F> cargoes <F>ur</F> from Japan to <F>urm</F> <.></.> Europe.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It's a Danish company. So <F>urm</F> we have <R>lots of</R> lots of Scandinavian ports, of course, <F>urm</F> <.></.> <SC>all</SC> <.></.> everywhere in the world.</B>
+<A><F>Uhm</F>. I see. So you must go abroad <R>for</R> on business.</A>
+<B>Not necessarily, no, no.</B>
+<A><F>Uhm</F>. I see. <OL>O K</OL>.</A>
+<B><OL><R>I take</R></OL> I take <F>urm</F> <.></.> reservations, we call it <R>booking</R> bookings <SC>at</SC> <F>er</F> from <F>er</F> manufactures or <SC>commer</SC> <F>urm</F> trading <??></??>.</B>
+<A>That sounds very interesting. Can you tell me the procedure of your job when you book</A>
+<B><F>Uhmm</F>.</B>
+<A>in detail?</A>
+<B><.></.> Right. <F>Urr</F>. O K. <F>Urm</F>. <SC>Some auto</SC> for example, automobile manufactures <F>urm</F> <F>urm</F> <.></.> <??></??> some contracts. <F>Urm</F>. <.></.> <R>Sell</R> to sell and to buy. And <F>urr</F> they <.></.> make bookings to <F>urm</F> shipping careers like us. <SC>And</SC> <F>ur</F> so we take bookings, and <F>er</F> we export <.></.></B>
+<A><F>Uh-huh</F>.</A>
+<B>cargoes.</B>
+<A>I see. <F>Mmm</F>. <SC>And</SC> so you're very busy. So you probably want relax sometimes.</A>
+<B>O K.</B>
+<A>What do you like to do in your free time?</A>
+<B><F>Ur</F>. Free time? I go <F>urr</F> to see my masseur. <nvs>laughter</nvs> For example, <SC>this mon</SC> <SC>this morning</SC> even this morning, I went <R>to</R> <F>urm</F> <.></.> to enjoy <F>urm</F> massage.</B>
+<A><F>Ohh</F>. I see.</A>
+<B>And I like aerobics, and <SC>like</SC> I like jogging, and <F>ur</F> I like learning languages like in Russian and French.</B>
+<A>Why do you <F>er</F> like to exercise so much?</A>
+<B>Exercise? Like <OL>exercise</OL>?</B>
+<A><OL>Like aerobics</OL> <OL>and</OL></A>
+<B><OL><F>Urrm</F></OL>.</B>
+<A><OL><F>mmm</F> sort of</OL> sports.</A>
+<B><F>Well</F>. <R>I</R> <F>uhm</F> I would rather <.></.> <R>some</R> something positive like doing something like <F>ur</F> aerobics, jogging, and <F>ur</F> <F>uhm</F> <.></.> I think it's a kind of why.</B>
+<A><F>Uh-huh</F>.</A>
+<B><??></??>.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uh-huh</F>. I see. O K. Good. Thank you very much. So, today, first of all, <F>urr</F> I would like you to look at this picture here.</A>
+<B>O K.</B>
+<A>O K. Sorry. And, please describe the picture to me.</A>
+<B><F>Urm</F>. <.></.> <SC>One teacher</SC> <F>ur</F> there is a teacher, and <F>urr</F> <.></.> there are <.></.> school kids in a like a classroom. One <F>uhmm</F> <.></.> <F>ur</F> lady is teaching <F>ur</F> <.></.> <F>uhmm</F> mathematics, <F>uhmm</F> I'm not sure. And <F>urm</F> <.></.> <F>uhm</F> <R>one <.></.> student's</R> one student's <SC>very diligent</SC> very <F>urr</F> serious. But <SC>the other</SC> the rest of the all <.></.> kids <R>are</R> <F>urr</F> <.></.> are relaxing and chatting and <F>ur</F> <.></.> <laughter>drinking</laughter> and something.</B>
+</task>
+<followup>
+<A>Why did you think that one student is very diligent?</A>
+<B><.></.> <F>Uhmm</F>. Because he is looking at <R>the</R> <F>urm</F> the board.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>er</F> I think <.></.> he seems to, <F>urr</F> <.></.> listen to <SC>the</SC> his teacher.</B>
+<A><F>Uh-huh</F>. O K. By the way, when you were a student, how was your classroom like?</A>
+<B><F>Urmm</F>. How was that like? <nvs>laughter</nvs> <F>Ur</F>. I don't remember. <nvs>laughter</nvs></B>
+<A>Really?</A>
+<B><F>Ur</F> <F>er</F>. Because it's <F>er</F> so long time ago. <CO>But</CO>. <F>Uhmm</F>.</B>
+<A>Can you compare with this classroom?</A>
+<B>Sure. <F>Urm</F>. <R>when I was</R> <.></.> when I was <F>urm</F> <F>uhmm</F> high school student in third grade, <F>urm</F> I think everybody <.></.> <F>uhm</F> listened <.></.> to the teacher. Because <F>urm</F> <SC>we are</SC> we were facing <R>the</R> <F>urm</F> the examination</B>
+<A><F>Uh-huh</F>.</A>
+<B>to pass university. But, <F>uhmm</F> <.></.> in <.></.> junior high school and elementary school, <SC>everyone is just like that</SC> <F>er</F> it's just like this. <nvs>laughter</nvs></B>
+<A>O K. So, did you enjoy your junior high school life?</A>
+<B>Yes, I did.</B>
+<A>That's good. O K. Thank you very much.</A>
+<B>Sure.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Next, I like to do a role play with you. <F>Urr</F>. O K. Please read this card silently. O K? And, when you finish, I'd like to begin the role play. So, please tell me. <OL>O K</OL>?</A>
+<B><OL>O K</OL>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? Are you done?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K. May I help you, sir?</A>
+<B><F>Er</F>. Yes, please. <F>Urm</F>. <.></.> I just missed, <R>my</R> my train. <R>I</R> I'm in a hurry. I've got to go to my office right away. <R>But</R> <F>urm</F> but my train at eight O five <.></.> was delayed. So, <F>urm</F> could you <F>urm</F> pay me back? <F>Urr</F>. I just bought one ticket. <R>I</R> <SC>it's <R>e</R> except my</SC> because my commute pass expired yesterday. So, <.></.> is it possible for me to pay me back?</B>
+<A><F>Uhm</F>. I'm really sorry. But it's against our policy.</A>
+<B><F>Ohh</F>. <F>Oh</F> my god. <R>Whe</R> <R>where</R> where should I go or <.></.> what should I do?</B>
+<A><F>Well</F>. Depends on <F>urr</F> your situation. Can you explain in more detail?</A>
+<B><F>Ohh</F> <F>urm</F> <F>urm</F>. But I have no time. I've gotta go to the office. <F>Ur</F>. I've only one minute. <OL>How can I explain it</OL>?</B>
+<A><OL><F>Well</F> <SC>Everybody</SC></OL> I'm very sorry, sir, but everybody is equally in a hurry in the morning.</A>
+<B>Yeah. I know, I know. But, <F>urr</F> where should I go? <F>Ur</F>. <R>I don't</R> I don't think you are a right person to talk with me.</B>
+<A>I see.</A>
+<B>Yeah. <R>Do</R> do you think <R>it's</R> <F>er</F> it's possible <R>to</R> <SC>to</SC> for me to talk with a station master?</B>
+<A>Of course, sir. <OL>Please wait a second</OL>.</A>
+<B><OL><F>Uhmm</F></OL>. Sure.</B>
+<A>I'm sorry, but <F>ur</F> he is out now. He will be back in about forty-five minutes.</A>
+<B><F>Oh</F> my god. <F>Oh</F>. So, O K. <F>Urr</F>. I've gotta go. So <R>I</R> I'll go to the office right now. I'll be back <F>ur</F> at around four o'clock in this afternoon.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>So</OL>, is it possible? <R>Wi</R> will he be there?</B>
+<A>Of course, he will. <OL>Yes</OL>.</A>
+<B><OL>O K</OL>.</B>
+<A>But you have to buy another ticket, sir.</A>
+<B>Really? <R>It's</R></B>
+<A>I'm very sorry.</A>
+<B><F>wow</F> it's not fair because I'm a passenger. I paid for the ticket. Right?</B>
+<A>Yes.</A>
+<B><F>Oh</F> my god. <nvs>laughter</nvs> But <F>urm</F> <R>I'm</R> I'm in a hurry, so I've gotta go <.></.> now. And <R>I</R> I'll buy another ticket.</B>
+<A>I see, then. Here is what I'll do. This is the special case,</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>so</OL> I'll give you this ticket. O K? Please don't tell anybody.</A>
+<B><F>Oh</F> my <laughter>goodness</laughter>. <nvs>laughter</nvs> <OL>I won't</OL>.</B>
+<A>O K? <OL>But, <F>urr</F></OL> if you would like to visit <F>urr</F> our manager, please come back again.</A>
+<B>O K. <R>At</R> at four o'clock in this afternoon. <OL>Is it possible</OL>?</B>
+<A><OL>Yes, sir</OL>. He'll be there.</A>
+<B>Are you sure?</B>
+<A>Yes.</A>
+<B><F>Oh</F> great.</B>
+<A>Sorry for inconvenience.</A>
+<B>That's O K. Thank you very much <OL>for your help</OL>.</B>
+<A><OL>Thank you very much</OL>.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>O K. Great. Thank you very much. That's end of the role play.</A>
+<B>Thank you.</B>
+<A>Have you ever had any problems with public transportation?</A>
+<B><F>Uhmmm</F>. Yes, I have.</B>
+<A><F>Uhmm</F>.</A>
+<B>But <F>urm</F> I don't remember something serious <OL>one</OL>.</B>
+<A><OL><F>Uhm</F> yeah</OL>. You know, on the train in Tokyo, it's <OL>always so crowded</OL>.</A>
+<B><OL><F>Uh-huh</F></OL>. Yes.</B>
+<A>Yes. Have you ever seen something <.></.> which was a problem?</A>
+<B><F>Uhmm</F>. Yes. I sometimes see, <.></.> not very often,</B>
+<A><F>Uh-huh</F>.</A>
+<B>but <R>I</R> <F>urm</F> I have seen <F>ur</F> some disabled people</B>
+<A><F>Uhm</F>. <OL>Yes</OL>.</A>
+<B><OL>have</OL> some problems</B>
+<A><OL>I see</OL>.</A>
+<B><OL>to get on</OL> and get off.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Like that.</B>
+<A>So,</A>
+<B><F>Uhm</F>.</B>
+<A>if you were there, you know, <F>urr</F> what would you do?</A>
+<B><.></.> I'll be glad to help them.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>But</R></B>
+<A><F>Uhm</F>.</A>
+<B>but <F>urm</F> I'm usually in a hurry <nvs>laughter</nvs> at <F>urm</F> seven o'clock or eight o'clock <SC>in the eve</SC> <OL>in the morning</OL></B>
+<A><OL>Yeah</OL>.</A>
+<B>and even in the evening. So <R>it's</R> <F>er</F> <R>it's</R> it's hard. <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>.</A>
+<B>It's difficult.</B>
+<A>So, do you have any suggestions to this matter?</A>
+<B><.></.> <F>Uhmm</F>. To help some <OL>disabled people</OL>?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Wow</F>. <SC>It's</SC> I think it's very big problem <F>urm</F> <SC>for all of us</SC> for Japanese people because <R>it's a</R> it's a question of <F>urr</F> Japanese mind or Japanese <F>ur</F> nationality or culture.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. Because <F>urm</F> <SC>very many people</SC> very many Japanese people ignore</B>
+<A><F>Uhm</F>.</A>
+<B>some disabled <.></.> people. <OL><CO>So</CO></OL>.</B>
+<A><OL><F>Uhm</F></OL>. Yes, that's right.</A>
+<B><nvs>laughter</nvs></B>
+<A>Yeah. O K. <F>Well</F>. I try not to ignore them.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>But it's hard</OL>, isn't it?</A>
+<B><nvs>laughter</nvs> It is.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you very much.</A>
+<B><OL>Sure</OL>.</B>
+<A><OL>Finally</OL>,</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Urr</F>. I'd like you to make one story. O K? Please take a look at this picture. And you have to make a story from number one to six. And this happened to you <F>urr</F> a week ago. So, please begin with the phrase "One day last week". O K? Please begin.</A>
+<B><F>Urm</F>. <.></.> I don't have any time to rethink and <OL>making a stories</OL>?</B>
+<A><OL>Please</OL>.</A>
+<B><nvs>laughter</nvs></B>
+<A>You can.</A>
+<ctxt>The interviewee is taking time to think for about twenty seconds.</ctxt>
+<A>Don't worry too much. O K?</A>
+<B><nvs>laughter</nvs></B>
+<A>So you can be one of them.</A>
+<B>O K. <..></..> <F>Urmm</F>. <.></.> One day last week, I was planning to go on a picnic <SC>with my</SC> <F>er</F> with friend of mine. And <F>urm</F> <.></.> <F>urm</F> <.></.> I went to <R>Yama</R> Yamanashi Prefecture and <F>ur</F> try to make a tent to stay over night. But, <F>urm</F> suddenly, <F>urr</F> started raining. And <F>er</F> <F>urm</F> <.></.> <R>the</R> the rain was <.></.> strong. <SC>And</SC> so <R>we</R> <.></.> <F>ur</F> <.></.> we tried to <SC>drove</SC> <F>er</F> drive back. And <F>urm</F> <.></.> we just found a small hotel on a way. So <F>urr</F> <.></.> we changed mind and stay there over night.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K. Yes. Thank you very much. And, <F>er</F> do you sometimes go camping or doing any outdoor sports?</A>
+<B>No, <OL>no</OL>.</B>
+<A><OL>I see</OL>. But, you know, in <F>ur</F> Japan, these days, it's becoming very popular.</A>
+<B>Yes.</B>
+<A>Why do you think outdoor sports is becoming very popular?</A>
+<B><.></.> <F>Uhmm</F>. <.></.> <F>Uhmm</F>. <.></.> No idea.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Urm</F>. <SC>Since</SC> because I'm not interested. But, <F>uhm</F> <.></.> sure, <SC>it's not <.></.> popular, <F>urm</F> something</SC> <.></.> it's not popular <.></.> thing.</B>
+<A><F>Uhm</F>.</A>
+<B>Because everything is very expensive <.></.> <OL><laughter>in this country</laughter></OL>.</B>
+<A><OL><F>Uhmm</F></OL>. That's right.</A>
+<B>To buy <.></.> a car <R>to</R> <SC>to go</SC> to get there. <CO>And</CO>. <.></.></B>
+<A>Right. Do you travel?</A>
+<B>Yes, I do.</B>
+<A><F>Uhm</F>. When was the last time you went traveling?</A>
+<B>I went to Vietnam.</B>
+<A><F>Uhm</F>. Please tell me about Vietnam. I've never been there.</A>
+<B><F>Ahh</F>. <OL>O K</OL>.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><F>Urrm</F>. I went to <R>Hanoi</R> Hanoi first, and I went to Hue next, Hue <SC>is</SC> which is a very very small town but very traditional, very beautiful city, old city like Kyoto in Japan.</B>
+<A><F>Uhm</F>. Yeah.</A>
+<B><R>And</R> <F>urm</F> <.></.> and I went to Hochiminh City, <F>urm</F> commercial capital. <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>.</A>
+<B>And <R>I</R> <.></.> <F>urm</F> I met <SC>a friend</SC> some friends. So, <SC>now</SC> even now, <F>urm</F> <.></.> I've write some <F>ur</F> E-mail message to him. <F>Er</F>. They <.></.> give me back.</B>
+<A><F>Oh</F>. O K. That's good. E-mail is very convenient.</A>
+<B>It is.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Yes</OL>. <F>Uhmm</F>.</B>
+<A>So, do you usually use it to <.></.> <OL>talk to your friend abroad or</OL>?</A>
+<B><OL>Yes, <F>uhm</F></OL> yes. <F>Urr</F>. <SC>Not usually</SC> not just with some foreign friends, but also <F>urr</F> Japanese friends.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>I see. Right. O K. Before using E-mail, and, now, <R>wha</R> what is different in your life?</A>
+<B>What's different? What's different now?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> <F>uhmm</F>. <.></.> What's different now? <F>Oh</F>. It's a good question.</B>
+<A><nvs>laughter</nvs></A>
+<B>But <F>urr</F> I'm not sure. What's different? <F>Urm</F>. <R>I don't</R> <.></.> I don't call <.></.> many friends</B>
+<A><F>Uhmm</F>.</A>
+<B><.></.> <F>urm</F> since a couple month ago. <nvs>laughter</nvs></B>
+<A><F>Uhm</F>.</A>
+<B>Because I don't need to.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhmm</F>. <.></.> What else? <R>I</R> I'm not sure. <F>Urm</F>. <.></.> What's different? <F>Uhm</F>. <.></.> I don't call them. <R>I don't <.></.> write <nvs>laughter</nvs></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>letter</R></OL> and I don't write any letters.</B>
+<A>Yeah. That's right. <SC>It's</SC> it is convenient. Yeah.</A>
+<B><F>Uhmm</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Yeah. We are almost at the end of the interview. <F>Urr</F>. Thank you for coming on a Saturday evening.</A>
+<B><F>Oh</F>. O K.</B>
+<A>What is your plan for tonight? If it's all right, may I ask?</A>
+<B><F>Urm</F>. <.></.> <F>Urm</F>. <.></.> <R>I</R> <.></.> I'll go to see my <F>urm</F> <R>doctor</R></B>
+<A><F>Oh</F>.</A>
+<B><F>urr</F> <??></??> doctor.</B>
+<A><F>Oh</F>. Really?</A>
+<B>No, <F>ur</F> <.></.> <F>urm</F> yeah, Chinese doctor.</B>
+<A>I see. Yeah. To <.></.> stay healthy.</A>
+<B>Yeah.</B>
+<A><F>Uhm</F>. You are really health conscious.</A>
+<B><nvs>laughter</nvs></B>
+<A>Yeah. It's very important to stay healthy, isn't it?</A>
+<B>Yeah.</B>
+<A>O K. <F>Well</F>. Thank you very <OL>for coming today</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>This is the end of the interview. Thank you very much.</A>
+<B>Thank you.</B>
+<ctxt>clapping</ctxt>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,188 @@
+<interview>
+<filename>file00238.txt</filename>
+
+<head version="1.3">
+<date>2001-02-20</date>
+<sex>male</sex>
+<age>17</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, so are you ready?</A>
+<B>Yeah. O K.</B>
+<A>O K. Let's start. <F>Urr</F> my name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B><F>Uh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>O K. So <H pn="B's name">XXX02</H> where do you live?</A>
+<B>I'm living <F>urr</F> <H pn="others1">XXX03</H>.</B>
+<A><F>Hmm</F>. How long have you been living in <H pn="others1">XXX03</H>?</A>
+<B><F>Urrr</F> I've living two years.</B>
+<A><F>Mhmm</F> So, before <F>urr</F> you move to <H pn="others1">XXX03</H> where did you live?</A>
+<B><F>Err</F> I lived in <H pn="others2">XXX04</H>.</B>
+<A><F>Uhmm</F> O K. So why did you move from <H pn="others2">XXX04</H> to <H pn="others1">XXX03</H>?</A>
+<B><F>Urrr</F>. <nvs>laughter</nvs> My school is <F>urr</F> at <H pn="others3">XXX05</H> and there is too far from <F>urr</F> <H pn="others2">XXX04</H></B>
+<A><F>Hmm</F>.</A>
+<B>because <R>I</R> <F>urr</F> <nvs>cough</nvs> <.></.> I moved.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><nvs>cough</nvs></OL> O K.</B>
+<A>So, how long does it take to go to your school?</A>
+<B>About one hour.</B>
+<A><F>Hmmm</F> can you tell me more about your school?</A>
+<B><nvs>laughter</nvs> My school is <.></.> <F>uhmm</F> <.></.> located near the university, and we can eat to university <F>urr</F> lunch. And <JP>nan darou</JP> our school is very large school. So we have <F>uh</F> eighteen classes <OL>in one grade</OL>.</B>
+<A><OL>Really</OL>? <F>Wow</F>. <OL><nvs>laughter</nvs></OL> Eighteen classes?</A>
+<B><OL><nvs>laughter</nvs></OL> Yes. R class.</B>
+<A><F>Wow</F>. O K. So <F>mhm</F> do you belong to any clubs?</A>
+<B><F>Urr</F> no.</B>
+<A><F>Hmm</F> so what do you usually do after school?</A>
+<B><F>Uhmm</F>. <nvs>laughter</nvs> <F>Errr</F> I <nvs>cough</nvs> usually go to English schools</B>
+<A><F>Hm</F>.</A>
+<B>or I going to <.></.> <F>urm</F> <laughter>playing</laughter> with my friends.</B>
+<A><F>Hmm</F> so where do you usually go with your friends?</A>
+<B><F>Um</F> I usually go Shibuya or Shinjuku <JP>ato</JP> <H pn="others1">XXX03</H>. <nvs>cough</nvs></B>
+<A>So which place do you like best?</A>
+<B><F>Umm</F>. Shibuya.</B>
+<A>Shibuya. Why do you like Shibuya best?</A>
+<B><F>Uh</F> Shibuya, there is a many good places for <F>uh</F> play <F>uh</F> like billiard <JP>ato karaoke</JP>.</B>
+<A><F>Hmm</F>. <.></.> How often do you play billiards?</A>
+<B><..></..> <nvs>laughter</nvs> <..></..> Not usually. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Well</F> O K. So why do you like billiards?</A>
+<B><.></.> Yeah, I'm very beginner for</B>
+<A><F>Hm</F>.</A>
+<B>but <F>urrr</F> I think very, it is interesting.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Umm</F>. O K. All right. So first thing today, I'd like you to <R>take a look</R> <F>urr</F> take a look at this picture. And please describe this picture.</A>
+<B><F>Errr</F> the teacher is teaching <F>urrr</F> mathematics and <F>err</F> the girl is <.></.> treating <F>err</F> cellular phone. And the boy is drinking juice, and <F>urr</F> listening music. <nvs>cough</nvs> And these girls is chatting. And this boy is <F>um</F> chewing gum. <.></.> <JP>Atowa</JP> <nvs>cough</nvs> <JP>nan darou</JP> this is <.></.> very youthful scenery</B>
+<A><F>Hm</F>.</A>
+<B>for class.</B>
+</task>
+<followup>
+<A>O K. So please compare this classroom with your classroom.</A>
+<B><laughter><F>Humm</F></laughter> <F>err</F> our class <SC>we must <SC>wearing</SC> <F>uh</F> wear</SC> we must wear <F>uhh</F> <.></.> <JP>seifuku</JP> but <R>they are</R> they are wear <.></.> <F>mhm</F> <.></.> them clothes. <nvs>cough</nvs> And <.></.> <JP>nan darou</JP> this teacher is lady, but <SC>we are</SC> <SC>our teacher is</SC> our mathematic teacher is a guy. <nvs>laughter</nvs></B>
+<A><F>Umm</F>.</A>
+<B>And <nvs>cough</nvs> <.></.> <JP>nan darou</JP> our school is only boy</B>
+<A><F>Hmm</F>.</A>
+<B><laughter>school</laughter>.</B>
+<A>O K. So what do you like most about your high school?</A>
+<B><F>Mhmm</F> <nvs>laughter</nvs> <.></.> <JP>nan darou</JP>. <..></..> <JP><R>Taiiku</R></JP> <JP>taiiku</JP> class.</B>
+<A><nvs>laughter</nvs> Tell me about the teacher of that class.</A>
+<B><F>Mhmm</F> he is very strong man, and <F>urr</F> <R>very</R> <.></.> very strong at <JP>judo</JP>. He is <F>urr</F> very well known man for <JP>judo</JP>.</B>
+<A>Really? <F>Hmmm</F>. So you like him a lot. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Very scary.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Scary. <nvs>laughter</nvs> O K. All right. So, next we'd like to try a role-play. Please read this card, and when you're ready, I will begin.</A>
+<B><nvs>cough</nvs> <F>Uhmm</F> <OL><JP>Namae wa</JP></OL>?</B>
+<A><OL>O K, ready</OL>? <F>Uh</F> my name is <H pn="A's name">XXX01</H>. O K? So, this is a telephone conversation.</A>
+<ctxt>The interviewer makes a phone sound.</ctxt>
+<A>Hello <OL>this is <H pn="A's name">XXX01</H></OL>.</A>
+<B><OL>Hello</OL> <F>orr</F> <F>errr</F> <.></.> do you have a time for go to movie?</B>
+<A>Today?</A>
+<B>Today.</B>
+<A><F>Humm</F>. Sure.</A>
+<B><nvs>cough</nvs> <F>Errr</F> <JP><F>jaa</F></JP> <.></.> <JP>machiawase jikan</JP> <.></.> <JP><F>ja</F></JP> please come to Shibuya at three o'clock.</B>
+<A>O K.</A>
+<B>O K. <nvs>cough</nvs> And we are going to get a bus, and go to movie.</B>
+<A><F>Hum</F>. <OL>O K</OL>.</A>
+<B><OL>All right</OL>?</B>
+<A>All right. <F>Urr</F> but the Shibuya Station is really big.</A>
+<B><F>Urrr</F> <JP><F>jaa</F></JP> <..></..> <JP><F>ja</F></JP> <JP>Hachikou mae toka</JP>. We are going to meet <JP>Hachikou mae</JP>. O K?</B>
+<A>O K. All right. And there are a lot of movies played right now.</A>
+<B><.></.> <F>Errr</F> what do you think about <.></.> <F>mhm</F> <JP><F>ja</F></JP> "Exorcist"?</B>
+<A>"<laughter>Exorcist</laughter>". <laughter>I'm not sure about the horror movies</laughter>. <OL><F>Mhmm</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <.></.> <F>Uh</F> <.></.> did you see <.></.> <F>umm</F> <JP>anma shiranain desu kedo saikin no</JP>.</B>
+<A>O K. <F>Urr</F> let's discuss movie when we meet. O K?</A>
+<B>O K.</B>
+<A>All right. So, see you at three o'clock.</A>
+<B>O K.</B>
+<A>All right. Thank you for calling.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. This is the end of the role-play. O K. So, do you often watch movies?</A>
+<B><F>Mhmm</F> no.</B>
+<A><F>Hum</F> why not?</A>
+<B><laughter>Yeah</laughter> I have <.></.> no money. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. So when you are at home, what do you usually do?</A>
+<B><F>Umm</F> <SC>I wat</SC> I usually watch T V or <F>um</F> <.></.> and <.></.> use the P C.</B>
+<A><F>Hmmm</F>.</A>
+<B><JP>Ato wa</JP> study.</B>
+<A><F>Uhmm</F>. O K. So, tell me about your favorite T V program.</A>
+<B><F>Um</F> I like watching soccer. I like watching all kinds of sports programs.</B>
+<A>Which is your favorite soccer team?</A>
+<B><F>Uhmm</F> I like <H pn="others4">XXX06</H>.</B>
+<A>Why do you like that team?</A>
+<B><F>Mhmm</F> <F>errr</F> <R>I</R> I used to live <H pn="others5">XXX07</H> and <H pn="others4">XXX06</H> is very near place.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Umm</F> O K. All right. So last thing today. <F>Umm</F>. There is another picture. Please take a look at this picture, and this happened before, so please <F>urr</F> and make up a story based on these pictures from one to six. And please start your story with "One day last week", because this happened before.</A>
+<B><F>Uh</F> one day last week, she wanted to cook <F>urr</F> egg fry. But <R>there is no</R> <F>umm</F> there is no eggs in the refrigerator. So <R>she going to</R> <F>um</F> she going to buy <F>uh</F> eggs to supermarket. So <R>she</R> she ride <F>urr</F> car, and she going to supermarket. <nvs>cough</nvs> <.></.> <F>Errr</F> <R>she</R> <.></.> <R>she choose the</R> <.></.> <F>umm</F> <nvs>laughter</nvs> she choose the food for <SC>very</SC> a lot of <F>mhm</F> <.></.> things. She bought it at register. And <SC>she <nvs>cough</nvs> used to</SC> <.></.> she <.></.> used car to carry it, and <.></.> <SC>back</SC> came back to the house and she cooked a egg.</B>
+</task>
+<followup>
+<A>O K. All right. Thank you. So how do you usually have dinner?</A>
+<B><.></.></B>
+<A><F>Urrm</F> do you eat at home?</A>
+<B><F>Urr</F> <.></.> Yeah, often. I eat at home.</B>
+<A><F>Uhmm</F>. So do you live with the family?</A>
+<B><F>Uhuum</F> yes.</B>
+<A><F>Umm</F>. Is your mother good cook?</A>
+<B>Yes, she is.</B>
+<A>What's your favorite dish that she cooks?</A>
+<B><F>Mhmm</F> I like <JP>hamburg</JP>.</B>
+<A><F>Uhmm</F> what is so special about her hamburgers?</A>
+<B><laughter><F>Uhmm</F></laughter>. <SC>She is very</SC> <F>errr</F> she's <JP>hamburg</JP> is very usually tastes, but I like it very much.</B>
+<A><F>Mhmm</F>. O K. Do you sometimes cook?</A>
+<B><SC>Yeah</SC>. <OL><laughter>No</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. So you mentioned she drives the car right here. So in the future, do you want to drive a car?</A>
+<B><F>Oh</F> yes.</B>
+<A><F>Hum</F>.</A>
+<B>Of course.</B>
+<A>Why of course?</A>
+<B><F>Err</F> <R>I like</R> I like driving very much. So I want to drive and I want to go to every <laughter>places</laughter>.</B>
+<A><F>Humm</F>. What do you think is the advantage of driving a car?</A>
+<B><F>Mhmm</F>. <nvs>coughs</nvs> The advantage is <F>um</F> very useful for moving everywhere. And I think <SC>there is very</SC> <F>urr</F> that is very cool action</B>
+<A><F>Hmm</F>. <nvs>laughter</nvs></A>
+<B>to drive a car.</B>
+<A><nvs>laughter</nvs> O K. All right. So I think you have to wait for another year, maybe, to get a driver's license. One more year you have to wait?</A>
+<B><F>Uh</F> yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Right. O K. All right. So we have to come to almost the end of the interview. So, what are your plans after this interview today?</A>
+<B><F>Err</F> <SC>I</SC> I'm going to cut my hair <OL><nvs>laughter</nvs></OL> at <H pn="others1">XXX03</H>.</B>
+<A><OL><nvs>laughter</nvs></OL> <H pn="others1">XXX03</H>? <F>Mm</F>. Do you have your favorite beauty salon?</A>
+<B><F>Uh</F> yes.</B>
+<A><F>Umm</F>. In <H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A>Good. So, is your <F>urr</F> hair dresser a man or a woman?</A>
+<B><F>Mm</F>. A man.</B>
+<A><F>Umm</F>. Do you like a male hair dresser better than woman?</A>
+<B><F>Umm</F>. <OL><laughter>Yes</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. So, how often do you have your hair cut?</A>
+<B><F>Mhm</F>. <.></.> Two months by one.</B>
+<A><F>Um</F> once in two months.</A>
+<B>Once in two months.</B>
+<A>All right. O K. So, this is the end of the interview. Thank you very much for coming.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

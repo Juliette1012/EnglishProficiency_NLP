@@ -1,0 +1,219 @@
+<interview>
+<filename>file00998.txt</filename>
+
+<head version="1.3">
+<date>2002-03-19</date>
+<sex>male</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>250</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F>. <H pn="B's name">XXX02</H>.</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you today?</A>
+<B><F>Mm</F> fine. <F>Mm</F> and you?</B>
+<A>I'm fine, thank you. It's a beautiful day.</A>
+<B><F>Mmm</F>. Me, too. <nvs>laughter</nvs></B>
+<A><laughter><F>Hmm</F></laughter> <F>ah</F> it's a beautiful day <OL>today</OL>.</A>
+<B><OL>Today</OL>.</B>
+<A><.></.> Do you like spring?</A>
+<B>Yes, I do.</B>
+<A>What do you do in spring?</A>
+<B><F>Mmm</F>. What do you do spring. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Er</F> spring? <F>Mmm</F> <F>mmm</F> <R>I</R> <.></.> I usually walking.</B>
+<A><F>Ah</F> you like walking.</A>
+<B>Walking. <OL>Yes</OL>.</B>
+<A><OL><F>Mmm</F></OL>. Where do you usually go walking?</A>
+<B><F>Er</F> where? <F>Er</F> <R>I usually</R> <F>mm</F> I usually do walking <F>er</F> <F>mmm</F> <SC>in my apartment</SC> <F>ah</F> near apartment.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F>. <R>Ne</R> <F>ah</F> <F>er</F> near apartment <R>park</R> park.</B>
+<A><F>Ah</F> I see. Where do you live, <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> I live in <H pn="others1">XXX03</H>.</B>
+<A>O K. Please tell me about <H pn="others1">XXX03</H>.</A>
+<B><F>Ah</F> <H pn="others1">XXX03</H>. <F>Ah</F>. <R><H pn="others1">XXX03</H> <F>erm</F> is</R> <F>mm</F> <H pn="others1">XXX03</H> is <F>mmm</F> in <R><H pn="others2">XXX04</H> Line</R> <H pn="others2">XXX04</H> Line. <F>Er</F> <F>erm</F> <F>mmm</F> and next Shinjuku. <F>Mmm</F> <F>er</F> and <R><H pn="others1">XXX03</H></R> <F>ah</F> <JP>so ka</JP> <H pn="others1">XXX03</H> is <F>mmm</F> <SC><H pn="others3">XXX05</H></SC> in <H pn="others3">XXX05</H>-<JP>ku</JP>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><CO>And</CO>.</B>
+<A>Do you like <H pn="others1">XXX03</H>?</A>
+<B>Yes, I like.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yes, I do.</B>
+<A>Why do you like <H pn="others1">XXX03</H>?</A>
+<B><F>Er</F> <SC>Sasaru</SC> <H pn="others1">XXX03</H> is very covenience.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F> <H pn="others1">XXX03</H>. <F>Mmm</F> <F>mm</F> there are many supermarket <F>erm</F> near <F>mmm</F> station. And there are many <R>book</R> bookstore.</B>
+<A><F>Ah</F> really? How did you find your apartment?</A>
+<B><F>Mmm</F> <laughter>my apartment</laughter>. <..></..> <F>Mm</F> pardon? How?</B>
+<A>You live in apartment.</A>
+<B>Yes.</B>
+<A>O K. How long have you lived in your apartment?</A>
+<B>How long? <F>Ah</F> <F>ah</F> <F>ah</F>. <F>Er</F> I live <F>mmm</F> <F>mmm</F> <F>er</F> I live in apartment <F>er</F> at <F>er</F> ten year.</B>
+<A>Ten years.</A>
+<B>Ten years.</B>
+<A><F>Mh-hmm</F>. Then how did you find the apartment?</A>
+<B>Fine?</B>
+<A>Find.</A>
+<B><R>Find</R>. <laughter>Find</laughter>? How did you find?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>F</R> <SC>fi</SC> sorry, find mean?</B>
+<A>O K. <F>Er</F> you looked for your apartment ten years ago.</A>
+<B>Yes.</B>
+<A>And you decided to live in <F>er</F> <H pn="others1">XXX03</H>.</A>
+<B><F>Mmm</F>.</B>
+<A>And how did you look for the apartment?</A>
+<B>Look? How did you look?</B>
+<A>Did you read the book or <OL>magazine</OL>?</A>
+<B><OL><F>Hmm</F></OL>. <.></.></B>
+<A>Why did you choose your apartment?</A>
+<B><F>Mmm</F>? Apartment? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K all right</OL>. <OL>Thank you sorry</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Yeah. I'm sorry. Yes. <nvs>cough</nvs> Maybe my explanation is not good. Sorry.</A>
+</stage1>
+<stage2>
+<task>
+<A>But <R>thi</R> this time, please describe the picture for me.</A>
+<B><F>Mmm</F>.</B>
+<A>Tell me about the picture.</A>
+<B>Picture. <F>Er</F> <F>er</F> <F>er</F> <.></.> <F>mmm</F> this is restaurant. <F>Er</F> <F>er</F> <..></..> <SC>to</SC> <.></.> <SC>their</SC> <F>mmm</F> <.></.> <F>ah</F> <SC>the man</SC> <F>mmm</F> <..></..> <F>ah</F> <JP>chigau na</JP> <SC>the</SC> <F>ah</F> <SC>a man <F>er</F> <.></.> ask</SC> <SC>asked</SC> <F>ah</F> the man asks <F>er</F> wine <F>mmm</F> <R>to</R> <..></..> to sommelier. <F>Er</F> <SC>sommelier</SC> <F>er</F> the <R>so</R> sommelier <SC>advice</SC> advised <SC>the man</SC>. <F>Erm</F>. <..></..> <SC>A woman</SC> <F>erm</F> <SC>or</SC> <F>ah</F> <F>mmm</F> <..></..> <SC>there</SC>. <JP>Nnto</JP>. <..></..> <F>Mmm</F>.</B>
+</task>
+<followup>
+<A>O K. Do you sometimes go to a restaurant like this?</A>
+<B><.></.> <F>Mmm</F> <F>mm</F> <R>no</R> no.</B>
+<A>What kind of restaurant do you usually go to? <OL><H pn="B's name">XXX02</H>-<JP>san</JP></OL>.</A>
+<B><OL><F>Er</F></OL> <R>I usually</R> <F>mmm</F> <SC>I usually</SC> <F>ah</F> <R>I</R> <F>mmm</F> <F>ah</F> <R>I</R> <R>I</R> <SC>I usually</SC> <F>mmm</F> <F>ah</F> <SC>sorry</SC> <F>er</F> <R>I</R> <F>ah</F> <JP>sokka</JP> I usually <F>er</F> go to family restaurant.</B>
+<A>For example?</A>
+<B><R>For example</R> <F>mmm</F> for example, <F>er</F> Denny's.</B>
+<A>I see.</A>
+<B>Denny's and Skylark. <nvs>laughter</nvs></B>
+<A>Why</A>
+<B><F>Hmm</F>.</B>
+<A>do you like those family restaurant?</A>
+<B><F>Er</F>. Why. Because <F>er</F> <SC>ti</SC> <F>mmm</F> it's pretty cheap.</B>
+<A><F>Mh-hmm</F>. O K. Do you sometimes go to Denny's alone or with your friends?</A>
+<B><F>Ah</F> <F>er</F> I usually <F>er</F> go to Denny's with my friend.</B>
+<A>Good. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now,let's have a role-play. This is your card. O K? Please read it to yourself. Then, I will start the conversation.</A>
+<B><F>Mmm</F>.</B>
+<A>O K?</A>
+<B><laughter>O K</laughter>.</B>
+<A>All right, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A>May I help you?</A>
+<B><F>Ah</F> <F>er</F> yes. Excuse me, <F>er</F> <R>I want</R> <F>er</F> I want C D player.</B>
+<A>C D player.</A>
+<B>C D player. Yes. <F>Er</F> <F>er</F> and <F>er</F> <F>mmm</F> C D player <F>er</F> <JP>nnto</JP>. <CO>And</CO>. <F>Er</F>.</B>
+<A>Yes, we have nice C D players here.</A>
+<B><F>Ah</F>.</B>
+<A>How about this?</A>
+<B><F>Mmm</F>. <F>Ah</F> <F>er</F> I like <F>er</F> red color.</B>
+<A>Red color.</A>
+<B>Red <OL>color</OL>.</B>
+<A><OL>O K</OL>. Here you are.</A>
+<B><F>Ah</F> O K. <F>Er</F> <F>mm</F> <F>mm</F> <F>mm</F> <F>mm</F> <F>mm</F> <F>mm</F> how much is it?</B>
+<A>It is ten thousand yen.</A>
+<B>Ten thousand yen? <F>Mmm</F> <F>mmm</F> I have <F>er</F> <laughter>nine hundred yen</laughter>.</B>
+<A>Nine hundred yen. O K. Then how about this one.</A>
+<B>This one.</B>
+<A><OL>Yeah</OL>.</A>
+<B><OL><F>Ah</F></OL>. <F>Er</F> O K.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Do you like it?</A>
+<B><F>Ah</F> <R>yes</R> yes, I do.</B>
+<A>O K. Do you want anything else?</A>
+<B><F>Mmm</F>. Anything else. <F>Mmm</F>. And <F>er</F> <.></.> <F>ah</F> <F>er</F> <SC>I want to</SC> <F>mmm</F> and C D case.</B>
+<A><F>Ah</F> C D case. O K, so you can find C D case over there. All right. But anyway, I will wrap it for you. Here you are. This is your player.</A>
+<B>Yes. Thank you <OL>very much</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>All right. <H pn="B's name">XXX02</H>-<JP>san</JP>. Where do you go shopping?</A>
+<B>Where do you shopping. <F>Ah</F> I usually go shopping in Shinjuku.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F>. Shinjuku, <F>er</F> example, <F>er</F> Yodobashi camera.</B>
+<A><F>Hmm</F>.</A>
+<B>And <F>mmm</F> <laughter>Sakuraya</laughter>.</B>
+<A>What is good about Yodobashi camera?</A>
+<B>Yodobashi camera. <F>Mmm</F> <.></.> <F>mm</F> Yodobashi camera is <F>mmm</F> <F>mmm</F> <.></.> reasonable. Very <F>mm</F> convenience and <F>er</F> cheap.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <F>er</F> <F>er</F> many service.</B>
+<A>I see. How often do you usually go to Yodobashi camera?</A>
+<B><F>Mmm</F>. <R>I</R> I <SC>go shopping</SC> go to Yodobashi camera <F>mmm</F> about four time a month.</B>
+<A><F>Hmm</F>. Four times a month. Pretty good. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, please take a look at another picture. This time, make a short story.</A>
+<B>Short story.</B>
+<A><OL>Yes</OL>.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A>Story goes this way. O K?</A>
+<B><F>Er</F> <.></.> <F>ah</F> <F>er</F> a boy and a girl <F>mmm</F> go to zoo. <F>Er</F> <SC>their look</SC> <R>their watch</R> their watch lion. <F>Mmm</F> <.></.> <F>mmm</F> <SC>he</SC> <R>he likes</R> he likes <laughter>lion</laughter>. <R>And</R> <F>mmm</F> <F>mmm</F> <R>and</R> <F>mmm</F> and <SC>their</SC> <F>ah</F> <SC>they</SC> and they watch monkey. <F>Er</F> <SC>monkey</SC> <F>er</F> the monkey <F>er</F> eats banana. <F>Mmm</F> she eat <R>s</R> soft cream. <F>Mmm</F>. She is very happy. <nvs>laughter</nvs> <F>Er</F> and <F>er</F> they go out zoo.</B>
+</task>
+<followup>
+<A>O K. Thank you. <H pn="B's name">XXX02</H>-<JP>san</JP>. Did you ever go to a zoo?</A>
+<B><F>Mmm</F>. <SC>Did you ever go to</SC>. <F>Ah</F> <F>er</F> yes, I did.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hmm</F>.</B>
+<A>Please tell me about the zoo.</A>
+<B><F>Er</F> <R>I went to <F>er</F> Ueno Zoo <F>er</F> about</R> <F>er</F> I went to <F>er</F> Ueno Zoo about five years ago <F>er</F> <F>eeh</F> with my friend. <F>Mmm</F> <F>mmm</F> <R>I</R> <SC>I won</SC> <SC>I lo</SC> <F>er</F> I watched panda. <SC>Panda is</SC> <F>er</F> panda was very cute. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. <R>Do you like animals</R>? <F>Ah</F> do you like animals?</A>
+<B><F>Ah</F> <R>yes</R> yes, I do.</B>
+<A>Do you want to have a pet?</A>
+<B><F>Ah</F> <R>no</R> no, I don't.</B>
+<A><F>Hmm</F> <F>hmm</F>. <CO>But do you want to</CO>.</A>
+<B><F>Ah</F>.</B>
+<A>Do you like to have a pet?</A>
+<B><SC>Do you</SC> <F>ah</F> <SC>I want</SC> <F>ah</F> <F>mmm</F> I like animal but <F>er</F> <SC>I don't</SC> <R>I</R> I don't want to have pet.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Mmm</F>.</B>
+<A><OL>Why</OL>?</A>
+<B><OL><F>Ah</F> because</OL> <F>er</F> <SC>I ha</SC> <R>I</R> I am busy. <F>Mmm</F> <F>er</F> if <F>er</F> I have a pet, <F>er</F> <R>I</R> <F>er</F> <SC>I don't</SC> <F>mm</F> <F>er</F> <SC>busy</SC> <F>mm</F> <R>I don't</R> <F>er</F> <..></..> <R>I don't</R> <F>er</F> I don't <F>er</F> careful. <F>Er</F> <F>er</F>. Example, <F>er</F> <SC>give a</SC> <F>er</F> <JP>nandaro</JP> I <laughter>don't</laughter> <JP>nnto</JP>.</B>
+<A>Food?</A>
+<B><R>Food</R> <F>ah</F> food. <F>Mmmm</F> <F>mmm</F> <SC>I</SC> <F>mmm</F> <.></.> <F>mmm</F> food and <F>er</F> walk.</B>
+<A><F>Mh-hmm</F>. I see.</A>
+<B><F>Mmm</F>. <SC>An</SC> <CO>I don't</CO>.</B>
+<A><F>Ah</F> yeah. That's too bad.</A>
+<B><OL><??></??></OL></B>
+<A><OL>O K</OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right, <H pn="B's name">XXX02</H>-<JP>san</JP>. Thank you for coming today. Interview is almost ending.</A>
+<B><nvs>laughter</nvs></B>
+<A>Are you busy these days?</A>
+<B><F>Ah</F> yes. <nvs>laughter</nvs></B>
+<A><F>Ah</F> O K. So what time do you usually get home?</A>
+<B>Get home. <F>Ah</F> I usually, <F>mmm</F> <.></.> eight or nine o'clock.</B>
+<A>Eight or nine o'clock. <F>Oh</F>. <H pn="others1">XXX03</H> is not far from here.</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

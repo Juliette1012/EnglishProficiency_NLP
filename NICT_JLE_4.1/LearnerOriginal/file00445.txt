@@ -1,0 +1,172 @@
+<interview>
+<filename>file00445.txt</filename>
+
+<head version="1.3">
+<date>2001-05-30</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. My name is <H pn="A's name">XXX01</H>. <F>Er</F> can I have your name, please?</A>
+<B><F>Eh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K. <OL><laughter>Please</laughter></OL>.</B>
+<A><OL>Thank you</OL>. O K. So, how are you today?</A>
+<B><F>Mm</F> fine.</B>
+<A>All right. So what did you do this morning?</A>
+<B>This morning. <F>Um</F> I get up at <nvs>cough</nvs> nine o'clock and as soon as <F>uhm</F> get up morning, I went to school.</B>
+<A><F>Oh</F>. And?</A>
+<B>And have a lunch. <nvs>laughter</nvs></B>
+<A><F>Uhu</F> what did you eat for lunch?</A>
+<B>At <H pn="others1">XXX03</H> <nvs>cough</nvs> Cafeteria, <F>eh</F> I ate <H pn="others1">XXX03</H> lunch.</B>
+<A><laughter>O K</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+<A>So <F>er</F> <H pn="B's name">XXX02</H>, <F>er</F> what do you study at <H pn="school name1">XXX04</H>? What is your major?</A>
+<B>My major is law.</B>
+<A>Why did you choose law?</A>
+<B><F>Mm</F> actually, I was <H pn="school name2">XXX05</H> student, <H pn="school name2">XXX05</H>. And <.></.> I can choose <F>mm</F> <R>any</R> <.></.> any major. And I think law is best. <nvs>laughter</nvs></B>
+<A>O K. All right. <H pn="B's name">XXX02</H>, <F>er</F> where do you live?</A>
+<B>Now I live in <H pn="others2">XXX06</H> near <H pn="others3">XXX07</H>.</B>
+<A><F>Ah</F> do you live with your family?</A>
+<B>No. From this February, I live alone.</B>
+<A>So <F>um</F> how do you enjoy living alone?</A>
+<B><F>Um</F> <F>mm</F> cooking is <nvs>laughter</nvs> very <SC>fun</SC> <F>er</F> funny.</B>
+<A>So what do you usually cook?</A>
+<B><F>Mm</F> usually, I cook curry or <JP>hayashi</JP> rice. <nvs>laughter</nvs> <nvs>cough</nvs></B>
+<A>All right. <R>So</R> <F>erm</F> so where is your home town or where is your <OL>parents' house</OL>?</A>
+<B><OL><F>Er</F></OL> <F>mm</F> it's <H pn="others4">XXX08</H>, <H pn="others5">XXX09</H> City.</B>
+<A>Can you tell me a little about your family?</A>
+<B><F>Hm</F> my family has <R>five</R> five people. Father, mother and grandmother, <F>mm</F> <F>er</F> <F>uh</F> younger brother and me.</B>
+<A><F>Hum</F> what does your younger brother do?</A>
+<B>He is a high school student. And study science or <nvs>laughter</nvs> about science something. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Do you have any hobbies?</A>
+<B><F>Er</F> I like sports. Especially soccer, baseball, snowboarding.</B>
+<A><F>Hum</F> where do you usually play soccer?</A>
+<B><F>Mm</F> <.></.> when I was high school student, <SC>I belong</SC> I belonged to soccer club. But now, I can't <laughter>play</laughter> soccer because I don't have a place to play soccer.</B>
+<A>O K. Do you have any other hobbies?</A>
+<B><F>Mm</F> I like movie.</B>
+<A><F>Hum</F> what movie <?>did</?> you see?</A>
+<B><F>Er</F> <.></.> I like movie but <R>I</R> <SC>I ha</SC> I don't have money, so I watch only video. So I like <F>mm</F> "God Father". <nvs>laughter</nvs></B>
+<A><F>Ah</F>.</A>
+<B>Yesterday, I watched "God Father Part Two". <nvs>laughter</nvs></B>
+<A>Did you like it?</A>
+<B>Yes. Very much.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. All right, so <H pn="B's name">XXX02</H>, <F>er</F> first of all, I'd like you to look at this picture. And could you please describe it to me? And when you are ready, please begin.</A>
+<B><F>Oh</F> <nvs>cough</nvs></B>
+<ctxt>The interviewee is looking at the picture and thinking.</ctxt>
+<B>O K. <F>Eh</F> it's <F>erm</F> probably dinner time. And man and woman <.></.> <F>mm</F> will have wine. And <.></.> <F>er</F> sommelier have a bottle. And the man check the taste of wine. <F>Uum</F> <..></..> <F>um</F> <F>uhm</F> <..></..> the man <.></.> seems fine. <laughter>So</laughter> the taste is very good. <F>Uum</F> <F>uum</F> <.></.> that's all. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Good.</A>
+</task>
+<followup>
+<A>All right. So <H pn="B's name">XXX02</H>, do you like this kind of restaurant?</A>
+<B><F>Um</F> I like it but <nvs>laughter</nvs> I <laughter>don't have money</laughter>. So <R>I</R> <SC>I of</SC> I don't often go there.</B>
+<A>O K. So can you tell me your most favorite restaurant in <H pn="others1">XXX03</H> <?>or anywhere</?>?</A>
+<B><F>Uum</F> actually, <SC>I like drink</SC> I like to drink. So <.></.> rather than bar <laughter>or</laughter> somethings pub, I like. So I like Hub, H U B, <SC>English</SC> like <R>En</R> English pub.</B>
+<A>O K.</A>
+<B><F>Um</F> I can drink many cocktail and world beer there.</B>
+<A>I see. So when was the last time you went to buy a drink?</A>
+<B><F>Uum</F> <..></..> maybe two weeks ago <OL>or so</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>. <F>Mm</F> did you have a good time?</A>
+<B>Yes. <nvs>laughter</nvs> Very much.</B>
+<A>O K. All right. Good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So <F>erm</F> this time, <?>here</?> <H pn="B's name">XXX02</H>, I'd like you to try a role-play. So please read this card to yourself. And when you are ready, I'd like to begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Oh</F> O K.</B>
+<A>O K. Hi. Can I help you?</A>
+<B><F>Um</F> I want shoes. <F>Mm</F> I want sneaker. Do you have <.></.> very bestseller sneaker? <nvs>laughter</nvs></B>
+<A><F>Er</F> O K. Yeah. We have many different kinds of sneakers. What about these?</A>
+<B><F>Uum</F> I like it but I don't like red sneaker. <nvs>laughter</nvs> So do you have <R>s</R> some other sneaker?</B>
+<A>Yeah. Of course, we do. So <F>er</F> what color would you like?</A>
+<B><F>Um</F> I like blue.</B>
+<A>What about these?</A>
+<B><F>Oh</F>. <F>Em</F> <.></.> it's lovely but <.></.> more <R>simple</R> <R>simple</R> simple sneaker, I want. <F>Hm</F> <R>so</R> <F>um</F> so do you have Puma's sneaker? <R>Pu</R> Puma. <nvs>laughter</nvs></B>
+<A><F>Oh</F> O K. O K. Yes. Yes. We do. O K. What about these?</A>
+<B><F>Oh</F>. <F>Er</F> can I try it?</B>
+<A>Sure.</A>
+<B><F>Eh</F>. <F>Mm</F> it's too small. So big one, please.</B>
+<A>What size do you <?>wear</?>?</A>
+<B><F>Um</F> twenty seven centimeter.</B>
+<A>O K. What about these?</A>
+<B><F>Er</F>.</B>
+<A><?>These are your size</?>.</A>
+<B><F>Oh</F> <R>it's</R> it's fine. Please, this. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. All right.</A>
+</task>
+<followup>
+<A>O K. That was good. So <F>um</F> do you sometimes go shopping, <H pn="B's name">XXX02</H>?</A>
+<B><OL><F>Uum</F></OL>.</B>
+<A><CO><OL>Department store or</OL></CO>.</A>
+<B><F>Uum</F> not <R>depa</R> department store.</B>
+<A><F>Um</F> where do you usually go shopping?</A>
+<B>I often go to small shop <F>mm</F> <.></.> in Shibuya. <F>Ee</F> <.></.> <F>mm</F> <R>like</R> like a <F>ah</F> <..></..> <F>er</F> I can't explain, <nvs>laughter</nvs> <F>mm</F> <SC>chain <JP>ten</JP></SC> <R>chain</R> chain store. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. What do you usually buy at the store?</A>
+<B><F>Uum</F> cheap tee shirts. <nvs>laughter</nvs> <F>Mm</F> I like cheap wear. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>So what did</OL> you buy lately?</A>
+<B><F>Mm</F>?</B>
+<A>What was the last <?>thing</?> you bought?</A>
+<B><.></.> <F>Ah</F> <.></.> <F>er</F> <R>I</R> I bought <.></.> <F>ee</F> <.></.> <R>polo shirts</R> polo shirts. <nvs>laughter</nvs></B>
+<A>O K. Why did you choose that polo shirt?</A>
+<B>The shirts is <.></.> very fresh color. Red and pink. <nvs>laughter</nvs> So I like <R>red</R> red or <.></.> <F>mm</F> pink or <.></.> fresh color. So I like it.</B>
+<A>O K. Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So <F>er</F> <H pn="B's name">XXX02</H>, so this time, I'd like you to look at <?>a different</?> picture, O K?</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. So this is the sequence of six pictures. And I'd like you to make up a story based on these pictures. O K? And this happened before, so please begin your story with "One day last week".</A>
+<B><F>Er</F>.</B>
+<A>O K? When you are ready, please begin.</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><CO>One day last week</CO>. <F>Eh</F>? I or she?</B>
+<A><F>Oh</F>. <SC?>It dep</SC?> <?>it can be <R>you</R> yourself</?>.</A>
+<B><F>Ah</F> one day last week, I want to cook <R>curry</R> curry. But <SC?>in the fregegator</SC?> <.></.> in the freezer, there is nothing to <.></.> make curry. So I have to go supermarket. <.></.> <F>Urm</F> <F>uh</F> I bought many kind of <F>mm</F> <.></.> goods, <R>not</R> <.></.> not only for curry. And <.></.> I paid money. <F>Mm</F> I think more expensive. But <SC>it is</SC> it was <SC>cheap</SC> cheaper than I thought. So I was very <laughter>fine</laughter>. And <.></.> <R>I tu</R> I took to <.></.> the car and <SC>I can</SC> <R>I could cook</R> I could cook. <nvs>laughter</nvs> <laughter>That's all</laughter>.</B>
+<A><F>Um</F> that's good. Thank you.</A>
+</task>
+<followup>
+<A>So, <F>um</F> what is your favorite food?</A>
+<B><F>Uum</F> I like <.></.> sushi. <nvs>laughter</nvs></B>
+<A>Why do you like sushi?</A>
+<B><F>Mm</F> <..></..> <F>ee</F> <..></..> just good taste. <nvs>laughter</nvs></B>
+<A>What kind of sushi do you like?</A>
+<B><F>Er</F> <.></.> <F>mm</F> actually, I like <JP>toro</JP> or salmon or <JP>hamachi</JP>, oily fish. <nvs>laughter</nvs></B>
+<A><F>Uhu</F> <F>uhu</F>.</A>
+<B><.></.></B>
+<A>O K. Do you think <F>er</F> sushi is very healthy food? <.></.> Good for your body?</A>
+<B><F>Uum</F> <.></.> yes. But sushi is very small, so I can many, so too many sushi is not good <SC>for my body</SC> for health. But <.></.> <F>mm</F> I don't have <laughter>money, so</laughter> I can't eat many sushi. So maybe sushi is healthy. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So <F>er</F> <H pn="B's name">XXX02</H>, this is almost end of the interview. So what are you going to do after this interview?</A>
+<B><F>Mm</F> I have part-time job. <CO>So</CO>. <nvs>laughter</nvs></B>
+<A><F>Er</F> what do you do?</A>
+<B><F>Mm</F> <H pn="others6">XXX10</H>, drug store. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Do you like your job?</A>
+<B><F>Um</F> so-so. <nvs>laughter</nvs> I like white <?>gown</?>. <nvs>laughter</nvs></B>
+<A>Why do you like it?</A>
+<B><F>Uum</F> <nvs>laughter</nvs> <F>ee</F> very saint man, <laughter><F>er</F></laughter> sacred man. <nvs>laughter</nvs></B>
+<A><F>Oh</F> O K. All right. So this is the end of the interview. So thank you very much for coming, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><F>Er</F> thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,241 @@
+<interview>
+<filename>file00430.txt</filename>
+
+<head version="1.3">
+<date>2001-04-16</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>340</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><CO><OL>Hi, <H pn="B's name">XXX02</H></OL></CO>.</A>
+<B><OL><H pn="B's name">XXX02</H></OL>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>How are you today?</A>
+<B>I'm fine.</B>
+<A>Good. Are you going to be busy today?</A>
+<B>Yeah. Very busy <F>mmm</F> because I attend big project now.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F> <R>very</R> very <SC>busy and ha</SC> <F>eh</F> <laughter>busy</laughter>.</B>
+<A><F>Oh</F> I'm sorry to hear that. <F>Um</F> <H pn="B's name">XXX02</H>, could you tell me about your hobby?</A>
+<B><F>Hmm</F> my hobby is drive a car <R>and</R> and watch the movie. <.></.> <F>Eh</F> yeah.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A>What is so interesting about driving a car?</A>
+<B><F>Hmm</F> <SC>drive</SC> <SC>driving is</SC> <F>hmm</F> <.></.> <JP>nandarou</JP> <F>hmm</F> <R>I</R> I drive a car with music and drinking coffee and smoke. <F>Hmm</F>. My favorite <laughter>hobby</laughter>. <F>Ur</F> <laughter><JP>nanteitte iika wakannai</JP></laughter>.</B>
+<A>O K. All right. <F>Erm</F> O K. <H pn="B's name">XXX02</H>, where do you live now?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Hm</F> tell me about your neighborhood.</A>
+<B><F>Hm</F> pardon?</B>
+<A>Could you tell me about the area you live?</A>
+<B><F>Oh</F> I live in <H pn="others2">XXX04</H>, <H pn="others1">XXX03</H>.</B>
+<A><F>Mh-hmm</F>. What kind of city is that?</A>
+<B><F>Oh</F> one <.></.> kind of city?</B>
+<A><F>Mh-hmm</F>. Is it a big <R>ci</R> city or</A>
+<B><F>Oh</F>.</B>
+<A>small?</A>
+<B>Very very big city, but very very country side.</B>
+<A><F>Hm</F>.</A>
+<B><F>Mm</F> <SC>very</SC> <JP>nandarou</JP> <JP><F>eetone</F></JP> <H pn="others1">XXX03</H> does not have public transportation.</B>
+<A><F>Oh</F> really?</A>
+<B><F>Um</F> only bus. Very very <JP>fubendesu</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL> so, how do you come to this office?</A>
+<B><F>Er</F> I take a bus from near to my house to <H pn="others3">XXX05</H> Station, and go to <H pn="others4">XXX06</H></B>
+<A><F>Uh-huh</F>.</A>
+<B>with J R line.</B>
+<A><F>Ah</F> I see. Why did you choose to live in <H pn="others1">XXX03</H>?</A>
+<B><F>Hmm</F> I live in <H pn="others1">XXX03</H> with my parents.</B>
+<A><F>Oh</F> I see.</A>
+<B><F>Hm</F>.</B>
+<A>Could you tell me about your parents?</A>
+<B><F>Hmm</F> my parents, my father <.></.> and mother. <SC>Me</SC> my father <F>eh</F> <JP>salary man</JP>. My mother is not working.</B>
+<A>O K.</A>
+<B><F>Hm</F>.</B>
+</stage1>
+<stage2>
+<task>
+<A>All right. Thank you. Now, I'm going to show you a picture.</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>Please describe this picture.</A>
+<B><F>Oh</F>. <F>Oh</F> O K. <F>Urm</F> <nvs>cough</nvs> <.></.> <R>she ss</R> <F>eh</F> she sit in front of personal computer. And <.></.> dog is sleep. <nvs>laughter</nvs> <JP>De</JP> cat is sleep on bed. <.></.> <F>Mm</F> <R>and</R> and <?>now</?> <R>open the door</R> <SC>open the door</SC></B>
+<A><F>Mh-hmm</F>.</A>
+<B>door is open.</B>
+<A>I see.</A>
+<B><F>Hm</F> <F>erm</F> <.></.> maybe <SC>she used</SC> she using personal computer.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> Maybe <.></.> <F>hm</F> today is <laughter>sunny days</laughter>.</B>
+<A><F>Oh</F> O K.</A>
+<B><nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>All right, <H pn="B's name">XXX02</H>. Thank you.</A>
+<B><?>Thanks</?>.</B>
+<A><F>Erm</F> O K. What are the differences</A>
+<B><F>Um</F>.</B>
+<A>between this picture room and your room?</A>
+<B><F>Oh</F> yes. This picture's room has personal computer, but I <laughter>don't</laughter> have personal computer.</B>
+<A><F>Um</F>.</A>
+<B>And, my house and this picture's house has same type's stereo <F>um</F>. <.></.> And this picture's room has dog and cat. I want to have dog and cat, but my room cannot have animals.</B>
+<A>Why not?</A>
+<B>Because I live in mansion.</B>
+<A>I see. O K. And you said you don't have computer in your room.</A>
+<B><F>Hm</F>.</B>
+<A>You don't need to use computer at home?</A>
+<B>Yeah. I don't like <laughter>personal computer</laughter>.</B>
+<A><F>Hm</F>.</A>
+<B>I don't need P C.</B>
+<A><F>Hm</F> so, when you have work to do,</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>what</OL> do you do?</A>
+<B><F>Er</F> if I need personal computer, <F>mmm</F> I will take <.></.> to <.></.> my room</B>
+<A><F>Hum</F>.</A>
+<B>from office. <F>Uh-huh</F>?</B>
+<A><F>Ah</F> <OL>O K</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. That works. All right. Thank you, <H pn="B's name">XXX02</H>. Now, we are going to do a role-play. O K. Please read this card to yourself. And when you are ready, I'll begin.</A>
+<B><F>Um</F>.</B>
+<A>So let me know.</A>
+<B><F>Hm</F> <F>oh</F> O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>O K.</B>
+<A>O K. May I help you, sir?</A>
+<B>Yeah. I will go to New York. I want to ticket. <F>Hm</F> <R>where</R> <F>hmm</F> <R>where</R> <..></..> <F>hm</F> <F>ah</F> <F>hm</F> <R>where</R> <..></..> where is <.></.> ticket shop?</B>
+<A><F>Oh</F> here. You can buy a <OL>ticket here</OL>.</A>
+<B><OL><F>Oh</F></OL> <R>I</R> I want to go to New York as soon as possible. <F>Erm</F> <R>sh</R> <SC>should I <..></..> take</SC> <F>hm</F> <JP>chigau</JP> <SC>s</SC> <.></.> <JP><F>uunto</F></JP> <JP><F>uun</F></JP> <?>New York</?> <JP>e ikitaikara</JP> <JP><F>uunto</F></JP> <F>uh</F> does the train</B>
+<A><F>Uh-huh</F>.</A>
+<B>the fastest <.></.> leave?</B>
+<A><F>Ah</F> O K. <F>Well</F> the next train will leave at nine.</A>
+<B>Nine? <nvs>cough</nvs> <F>Hmm</F> nine. <SC>Next train</SC> <F>uh</F> is next train the fastest <.></.> leave <F>hm</F>?</B>
+<A>The fastest train</A>
+<B><F>Um</F>.</B>
+<A>to get to New York?</A>
+<B>Get, no. Go to New York. <OL><F>Mm</F></OL>.</B>
+<A><OL>O K</OL>. <F>Well</F> the next train <OL>will</OL></A>
+<B><OL><F>Um</F></OL>.</B>
+<A>leave at nine, <OL>but</OL></A>
+<B><OL><F>Um</F></OL>.</B>
+<A>it's a local train.</A>
+<B><OL><F>Umm</F></OL>.</B>
+<A><OL>So</OL> it's slow.</A>
+<B><F>Oh</F> <R>I</R> if local train <.></.> leave at first,</B>
+<A><OL><F>Uh-huh</F></OL></A>
+<B><OL><F>uhm</F></OL> I want take local train. <CO>But <.></.> <SC>other train more than</SC> <F>mm</F> <F>uh</F> the other train <nvs>laughter</nvs> fast leave <F>hm</F> <nvs>laughter</nvs> <OL>than</OL></CO>.</B>
+<A><OL><F>Oh</F></OL> yes. <F>Um</F> the faster train</A>
+<B><F>Um</F>.</B>
+<A>is an express train.</A>
+<B><F>Oh</F> yeah. I will take express train.</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+<A>Is it a one-way ticket or round-trip?</A>
+<B><F>Ah</F> only one way. <F>Hm</F>. <CO><OL>So</OL></CO>.</B>
+<A><OL>O K</OL>. That will be fifty dollars.</A>
+<B>O K. O K.</B>
+<A>All right. Here is your ticket.</A>
+<B><nvs>laughter</nvs> Thank you.</B>
+<A>Thank you. Have a nice trip. Thank you.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>This is the end of the role-play. <H pn="B's name">XXX02</H>, <F>um</F> have you ever been to a foreign country?</A>
+<B>Yeah. <F>Er</F> I went to United States and Korea and China.</B>
+<A><F>Oh</F> I see. And did you take a train there?</A>
+<B><F>Hmm</F> yes. I <.></.> take in Chicago.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> <F>hmm</F> subway <F>ehh</F> <SC>air</SC> from airport to Chicago downtown.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Um</F>.</B>
+<A>How was the train in Chicago?</A>
+<B><F>Hmm</F> very dangerous. <F>Eh</F> <nvs>laughter</nvs> <SC>we</SC> I go to Chicago <R>with</R> <.></.> with employee, my office. <F>Er</F> we drinking <laughter>in midnight</laughter>. We go back to hotel in airport. Maybe downtown to Chicago airport about one hour. We sit in train. <F>Hmm</F> maybe <F>eh</F> two guys come here. Maybe eighteen-years old. He's drunker. <nvs>laughter</nvs> He said, "<F>Oh</F> this is different guy.".</B>
+<A><F>Wow</F>.</A>
+<B><nvs>laughter</nvs> <SC>He's</SC> <R>he i</R> he is fighting pose <OL>to me</OL>.</B>
+<A><OL><F>Hmm</F></OL>. <F>Wow</F>. That was dangerous.</A>
+<B>Yeah. Very dangerous.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>All right. Thank you, <H pn="B's name">XXX02</H>. Now, we are going to do a sequence of pictures. O K? Please make up a story based on these pictures from one to six.</A>
+<B><F>Oh</F>.</B>
+<A>And this happened before. So please start your story with "One day last week". Go ahead.</A>
+<B><F>Oh</F>.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>Story?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Short story.</A>
+<B>Short story.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And this is me?</B>
+<A>O K.</A>
+<B>O K? O K. First, I <.></.> meet my father on last week. <F>Erm</F> <.></.> <F>hmm</F> <SC>we take</SC> <F>uh</F> we are hungry. <F>Hm</F> we go to restaurant. <F>Eh</F> we choice <laughter>non-smoking place</laughter>. <F>Hm</F> we ordered beer and chicken and fish. <F>Er</F> we conversation about myself and hobby and joke with drinking. <F>Urm</F> I'm free. <nvs>laughter</nvs> My father paid. <.></.> <F>Hm</F> we promise <F>mm</F> meet <F>uhm</F> next month. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>O K. You said <F>um</F> in this picture,</A>
+<B><F>Uh-huh</F>.</B>
+<A>they chose non-smoking <OL>area</OL>.</A>
+<B><OL><laughter>Yeah</laughter></OL>. Yeah.</B>
+<A>In your case, what do you do? When you go to a restaurant, do you choose smoking area or non-smoking area?</A>
+<B><F>Hmm</F> only my friends <F>eh</F> choice smoking place. But my father do not smoke. <F>Um</F> <?>yeah</?>, so I go to restaurant with my family, I choose non-smoking place.</B>
+<A><F>Mh-hmm</F> that's nice. And you said you smoke, right?</A>
+<B><F>Hm</F> <OL>pardon</OL>?</B>
+<A><OL>Do you</OL> smoke?</A>
+<B><F>Erm</F> I don't smoke with my family.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F> but my friend, I do smoke.</B>
+<A>I see. Do your parents tell you something about smoking?</A>
+<B><F>Mm</F> please stop <laughter>smoking</laughter>.</B>
+<A><nvs>laughter</nvs> And?</A>
+<B><CO>And</CO>.</B>
+<A>What do you tell them?</A>
+<B><F>Ah</F> my parents said <F>eh</F> smoking is not <R>co</R> condition.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Um</F> <.></.> please, you must not smoke cigar.</B>
+<A>I see. And what do you think about it?</A>
+<B><F>Ur</F> <F>ur</F> O K. O K. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. Do you have any plan for Golden Week?</A>
+<B><F>Ah</F> Golden Week. Golden Week. <F>Er</F> maybe I will go to United States by job.</B>
+<A><F>Hmm</F>.</A>
+<B>Not holiday.</B>
+<A><F>Oh</F> too bad. Which part of the United States?</A>
+<B><F>Hm</F>? Part?</B>
+<A>Which city?</A>
+<B><F>Ah</F> Pittsburgh, Pennsylvania.</B>
+<A><F>Hmm</F> can you take a vacation after that?</A>
+<B><F>Hmm</F> maybe, but this time, go to Pittsburgh on about two months.</B>
+<A><F>Wow</F>. It's a long <OL>trip</OL>.</A>
+<B><OL>Yeah, <F>oh</F></OL> no, I don't know I have vacation.</B>
+<A><F>Mm</F> O K. <F>Well</F> but I hope you have a good time in Pittsburgh.</A>
+<B><laughter>Thank you</laughter>.</B>
+<A>All right. Thank you. This is the end of the interview. <OL>Thanks for coming today</OL>.</A>
+<B><OL>Yeah, thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

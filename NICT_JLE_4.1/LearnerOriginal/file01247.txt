@@ -1,0 +1,319 @@
+<interview>
+<filename>file01247.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>male</sex>
+<age>34</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step>1</step> 
+<TOEIC>965</TOEIC> 
+<TOEFL>610</TOEFL>
+<other_tests></other_tests> 
+<SST_level>8</SST_level> 
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you, <OL>too</OL>.</B>
+<A><OL>May</OL> I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Ur</F> you can call me <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>? O K. <F>Hm</F>. So <nvs>snap</nvs> <F>ur</F> it was a nice day today. <F>Mhm</F>. <F>Urm</F> do you like winter?</A>
+<B><F>Ur</F> yeah, I think <R>I</R> I like winter.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Yeah?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>.</A>
+<B>I think so.</B>
+<A><F>Urm</F> <F>mm</F>. What do you like to do in the cold weather?</A>
+<B><F>Urm</F> <F>well</F> sometimes I go snowboarding.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And <F>ur</F> last year I went to <F>ur</F> Niigata.</B>
+<A><F>Mm</F>.</A>
+<B>It has a nice ski resort called GALA.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>Yeah, <??></??></OL>. What I like about it is <F>ur</F> you can go there by shinkansen</B>
+<A><F>Mm-hm</F>.</A>
+<B>directly.</B>
+<A><F>Mhm</F>.</A>
+<B>Yeah. When you get off <R?>the</R?> <F>ur</F> the place, then you can see there are ski lifts</B>
+<A><F>Mh-hmm</F>.</A>
+<B>from the train station.</B>
+<A><F>Mhm</F>.</A>
+<B>So it's really convenient.</B>
+<A><F>Mhm</F>. <F>Mm</F>. <F>Urm</F> <F>mm</F> have you been skiing for a long time?</A>
+<B><F>Ur</F> <R>no</R> not really.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL><F>Ur</F></OL> just a few years ago, <OL>I started</OL>.</B>
+<A><OL><F>Mhm</F></OL>. <F>Mhm</F>.</A>
+<B><CO>And</CO>. <F>Ur</F>.</B>
+<A>What do you find is interesting <OL>about skiing</OL>?</A>
+<B><OL><F>Uh</F> <R>it's</R> it's really</OL> <F>ur</F> refreshing.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah, you can enjoy the view.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And actually you can feel <F>ur</F> the landscape</B>
+<A><F>Mh-hmm</F>.</A>
+<B>as you go down the slope.</B>
+<A><F>Mm-hm</F>.</A>
+<B>So it's quite different from the cities.</B>
+<A>Right.</A>
+<B>So it's really refreshing.</B>
+<A><F>Uh-huh</F>. So do you live right in the city?</A>
+<B><F>Urm</F> <F>ur</F> no, I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It's next to <H pn="others2">XXX04</H> where I'm from.</B>
+<A><F>Mm-hm</F>.</A>
+<B>So <OL><laughter><?>I don't know</?></laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. So could you tell me a little bit more about your area in <H pn="others1">XXX03</H>?</A>
+<B><F>Ur</F> sure. <F>Urm</F> <F>well</F> <F>urm</F> I'm from <H pn="others2">XXX04</H>. <R>And</R> <F>ur</F> <SC>and I wanted to</SC> <F>ur</F> <F>well</F> where shall I start? <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B>I moved <?>around a lot</?>.</B>
+<A><F>Oh</F>.</A>
+<B><F>Urm</F> <F>well</F> <F>ur</F> I lived in <H pn="others3">XXX05</H></B>
+<A><F>Uh-huh</F>.</A>
+<B>because <F>ur</F> I work in <H pn="others4">XXX06</H>.</B>
+<A><F>Mhm</F>.</A>
+<B>But I really miss my hometown.</B>
+<A><F>Mm</F>.</A>
+<B>So I want to live <F>ur</F> <F>ur</F> in <H pn="others2">XXX04</H>.</B>
+<A><F>Mm-hm</F>.</A>
+<B>but it's too far <OL>from</OL> <H pn="others4">XXX06</H>.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B>So I thought <F>ur</F> <H pn="others1">XXX03</H> is a best place <SC>for</SC> it's next to <H pn="others2">XXX04</H>, and also you can go to <H pn="others4">XXX06</H> <F>ur</F> by <H pn="others5">XXX07</H> Line.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And <F>ur</F> what I like about it is, it's near the beaches. And I can go to <H pn="others6">XXX08</H> by bicycle.</B>
+<A><F>Ahh</F>.</A>
+<B>It doesn't take <R>lon</R> longer than half an hour.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So it's really <F>ur</F> <F>well</F> refreshing <OL>on the weekend</OL>.</B>
+<A><OL>Right, right</OL>. O K. <F>Mm</F> so you work in <H pn="others4">XXX06</H>. <SC>Could you</SC> <F>urm</F> <R>what</R> what do you do there?</A>
+<B><F>Ur</F> actually <R>I</R> I teach English.</B>
+<A><F>Oh</F> <laughter>you do</laughter>.</A>
+<B>Yes.</B>
+<A>O K. <F>Mhm</F>.</A>
+<B>So I help beginners</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>speaking</OL>.</B>
+<A><F>Mm-hm</F>. <F>Mhm</F>. <F>Urm</F> <F>mm</F> what do you find is challenging about that?</A>
+<B><F>Ur</F> you mean, <F>uh</F> teach <OL>English</OL>?</B>
+<A><OL>Yes</OL>.</A>
+<B><F>Urm</F> <R>to</R> <SC>to give confidence</SC> I mean, to <F>ur</F> <F>well</F> have them have confidence.</B>
+<A><F>Mm-hm</F>.</A>
+<B>That's the <F>ur</F> hardest part. And <R>it's</R> it's really challenging.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And I believe <SC>that's my</SC> my role <SC>is</SC> as a teacher is not to give knowledge, but <R>to</R> <F>ur</F> to be a good listener</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and I'd like to withdraw <F>ur</F> <R>the</R> the knowledge they already have.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And by giving good feedback, and they can feel <F>ur</F> good about themselves,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>about their English.</B>
+<A><F>Mhm</F>.</A>
+<B>And that's how I can help them <?>dream comes</?>. <R>No</R> now, I'm just talking <laughter>and talking</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>No, no, no, no</OL>. You must be a good teacher.</A>
+<B>I don't <OL>know</OL>.</B>
+<A><OL><F>Mhm</F></OL>. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>First of all, <F>urm</F> I'm going to show you a picture. And I'd like you to describe what you see here.</A>
+<B>I'm feeling like I'm a student. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Urm</F> <F>well</F> I see a restaurant. <F>Ur</F> looks like a fancy restaurant. See three <F>ur</F> dining tables with some customers having <F>ur</F> dinner? It's seven o'clock. It must be dinner time. And I see a nice couple at the table. And they're going to have some wine.</B>
+<A><F>Mm</F>. O K.</A>
+</task>
+<followup>
+<A>Do you often eat out?</A>
+<B><F>Ur</F> as a matter of fact, I do. Yes.</B>
+<A>Yes?</A>
+<B>Yes. <R>I</R> <SC>I d</SC> I hate cooking, so</B>
+<A><laughter><F>Oh</F> really</laughter>?</A>
+<B>I usually eat out.</B>
+<A><laughter><F>Ahh</F></laughter>. O K. <F>Urm</F> <F>mm</F>. So <F>mm</F> how do you usually decide where to go?</A>
+<B><F>Ur</F> let's see. <F>Well</F> first of all, <R>I check</R> I check my pocket, <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>see how much I have.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>ur</F> <F>well</F> <F>well</F> personally, <R>I</R> I really like junk food. Taste good.</B>
+<A><nvs>laughter</nvs></A>
+<B>But at the same time, <F>urm</F> <R>I</R> I know I have to watch what I eat.</B>
+<A><F>Mm-hm</F>.</A>
+<B>So yeah, there's <R>always</R> always a dilemma.</B>
+<A><F>Mm-hm</F>.</A>
+<B>But eventually, I just go to <F>ur</F> <?>a</?> place <F>mm</F> where they have, I don't know, <nvs>laughter</nvs> <F>ur</F> tasty food.</B>
+<A><F>Mhm</F>.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B>Something like, I don't know, <F>well</F> curry, <JP>ramen</JP>. Basically <OL>I like junk food</OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>so eventually I end up in the place where I can have some junk food.</B>
+<A><F>Mhm</F>. I see. <F>Mm</F>. O K. <F>Mm</F>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So now we are going to do a role-play. And I'm going to give you a card <F>ur</F> written in Japanese. So please read it and let me know when you're ready.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K?</A>
+<B><F>Mm</F>.</B>
+<A>Anything's O K.</A>
+<B>Anything's <OL>O K</OL>.</B>
+<A><OL>Yes</OL>. Ready? <F>Mm</F>. May I help you, sir?</A>
+<B><F>Ur</F> yes. <F>Urm</F> <??></??> <?>decide the</?> situation. O K. <F>Ur</F> <JP>doushiyoukana</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Ur</F> excuse me.</B>
+<A>Yes.</A>
+<B><F>Urm</F> I bought this <F>ur</F> soap</B>
+<A><F>Uh-huh</F>.</A>
+<B>in this shop.</B>
+<A>Yes.</A>
+<B>And it says that's <F>ur</F> this soap <F>ur</F> keeps the moisture <F>ur</F> on the skin.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><R>But</R></OL> <SC>but</SC> I tried this, but actually <SC>it doesn't ss</SC> it didn't seem to work.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>So</OL> I'd like to <F>ur</F> <F>ur</F> return</B>
+<A><F>Uh-huh</F>.</A>
+<B>this. And I'd like to have refund.</B>
+<A><F>Ur</F> generally we don't take back items that have been used. Yeah.</A>
+<B>I see.</B>
+<A>Yes. It's against our store policy. Plus, the level of moisture depends on different people.</A>
+<B><F>Ur</F> but <R>I ha</R> I have the receipt <OL><F>ur</F> <R>I</R></OL> I got here so could you <F>ur</F> talk about this <SC>to your</SC> <F>ur</F> to the manager?</B>
+<A><OL><F>Uh-huh</F></OL>. <F>Urm</F> sure. I'd love to do that. It's just that my manager is in a meeting right now.</A>
+<B><F>Uh</F> I see.</B>
+<A>Yeah.</A>
+<B>I see. Then <F>ur</F> I guess <laughter>I will come back again</laughter>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> Right. <F>Well</F> he might be out of the meeting in like five minutes. I don't know.</A>
+<B>I see.</B>
+<A>Yeah.</A>
+<B><CO><F>Ur</F> then</CO>.</B>
+<A>Do you want to stick around for a few minutes and see if he <OL>comes out</OL>?</A>
+<B><OL><??></??></OL> sure, sure.</B>
+<A>Yeah?</A>
+<B>Sounds good.</B>
+<A>O K. So <F>urm</F> I think it's best for you to talk to him than me. <F>Mm</F>. O K. <nvs>laughter</nvs> <OL>That's the end of the role-play</OL>.</A>
+</task>
+<followup>
+<B><OL>Sorry, I'm <R>kinda</R> kinda weak</OL>. <OL><nvs>laughter</nvs> We never do this</OL>.</B>
+<A><OL>No, no, no, no</OL>. <nvs>laughter</nvs> O K.</A>
+<B>Never complain <OL><??></??></OL>.</B>
+<A><OL><F>Oh</F></OL> I see. Why not?</A>
+<B><F>Well</F> <SC?>I gene</SC?> <?>generally</?> <SC>it's just</SC> <F>ur</F> <R>it's kinda</R> it's kinda pain <R>to</R> <laughter>to take</laughter> this back to the store.</B>
+<A><F>Oh</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter><R>So I</R></laughter></OL></B>
+<A><F>Uh-huh</F>.</A>
+<B>so <R>I just</R> <SC>I just</SC> I think I just use it</B>
+<A><F>Uh-huh</F>.</A>
+<B>even if <R>I</R> I don't like it. Just no.</B>
+<A>I <laughter>see</laughter>. <OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Japanese</OL> way.</B>
+<A><F>Mhm</F>. <OL><F>Mm-hm</F></OL>.</A>
+<B><OL>In a sense</OL>.</B>
+<A><F>Mhm</F>. O K. <F>Urm</F> <F>mm</F>. Then could you tell me about the last time you went shopping for something?</A>
+<B>Last time I went shopping.</B>
+<A>Yeah.</A> 
+<B>Let's see. <F>Urm</F> <F>well</F> <F>ur</F> <R>I went to</R> <F>ur</F> I went to Sakuraya in Shinjuku.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And <F>ur</F> I bought this tiny <F>ur</F> radio</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>ur</F> which I kind of like.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Ur</F> I bought it because <F>ur</F> I wanted to listen to <F>er</F> some English radio program.</B>
+<A><F>Mhm</F>.</A>
+<B>And <F>ur</F> the radios I have were <?>kind of</?> too big. And I want to <SC>put it</SC> stick into my pocket,</B>
+<A><F>Mm-hm</F>.</A>
+<B>so I can listen to it even on the crowded train. So I was looking for a really small one. And these days, technology is really <F>ur</F> great.</B>
+<A><F>Mm</F>.</A>
+<B>So luckily I could find <F>ur</F> a radio <R>which</R> <R>which is a</R> which is actually bit smaller than a cigar box.</B>
+<A><F>Mhm</F>.</A>
+<B>It's kind of small.</B>
+<A><F>Oh</F>.</A>
+<B>Yes. So I'm quite happy with the product.</B>
+<A><F>Uh-huh</F>. <F>Oh</F> <F>mm</F>. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now finally, I'm going to show you a sequence of pictures. And I'd like you to make up a story using these six pictures going this way. And since this happened before, please start with "One day last week".</A>
+<B>One day last week. <OL>O K</OL>.</B>
+<A><OL><F>Mm-hm</F></OL>.</A>
+<B>O K. This is a</B>
+<A>Right.</A>
+<B>first line.</B>
+<A>Few words, yeah.</A>
+<B>I see.</B>
+<ctxt>The interviewee is thinking.</ctxt>
+<B>All right. <F>Urm</F> one day last week, <F>ur</F> a man <F>ur</F> went to <F>ur</F> the train station as usual. It's eight o'clock in the morning. And the platform <F>ur</F> <R>was</R> <F>ur</F> was crowded. <R>There</R> there're a lot of people waiting for the train. And the man <F>ur</F> accidentally dropped off <R>his</R> <F>ur</F> <SC>his <F>ur</F> lug</SC> his briefcase <F>urm</F> <R>to</R> <F>urm</F> to the <F>ur</F> <R>rail</R> railway because the man <F>ur</F> standing next to him <F>ur</F> accidentally elbowed him without looking at him. So the man who dropped <F>ur</F> the briefcase complained to him. But <F>ur</F> while he was talking to the man, the train came and it <?>ran</?> over <F>ur</F> his briefcase. And the man was <F>ur</F> <F>uh</F> panicked <F>ur</F> <F>ur</F> worrying that his <F>ur</F> briefcase <SC>were</SC> was damaged. But luckily <F>ur</F> his briefcase was safe. And <SC>their train guards</SC> <R>fi</R> finally <SC>the train guards <F>ur</F> <F>ur</F> went down on to the <F>ur</F> <SC>rail train</SC> <laughter>rail</laughter></SC>, <R>what</R> <R>what</R> what do I wanna say? <F>Er</F> <F>ur</F> the train guards <F>ur</F> <F>ur</F> picked up his <F>er</F> briefcase and got it back to him.</B>
+<A><F>Mm</F>. <OL>O K, thank</OL> you.</A>
+<B><OL><nvs>laughter</nvs></OL> This was kind of redundant.</B>
+</task>
+<followup>
+<A>No, no, no. <nvs>laughter</nvs> All right. So you mentioned you take the <H pn="others5">XXX07</H> Line</A>
+<B>Yes, <OL>I do</OL>.</B>
+<A><OL>to</OL> go to work</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>or</OL> to go to <H pn="others4">XXX06</H>.</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. How do you compare that line with any other line?</A>
+<B><F>Ur</F> let's see. <F>Well</F> <F>urm</F> <SC>I usually</SC> <F>ur</F> since I live in <H pn="others1">XXX03</H>,</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><SC>I take</OL> <F>ur</F> three lines</SC> I can take three lines.</B>
+<A><F>Mm-hm</F>.</A>
+<B>One is <F>ur</F> the <H pn="others5">XXX07</H> Line which I use <F>ur</F> to go to work. And <SC>the other one</SC> <F>uh</F> the other ones are <F>ur</F> the <H pn="others7">XXX09</H> Line and the local <F>ur</F> line called <H pn="others8">XXX10</H>.</B>
+<A><F>Mhm</F>.</A>
+<B>And <H pn="others5">XXX07</H> Line, <F>urm</F> <R>I</R> I think <F>ur</F> it's been used by a lot of <F>ur</F> commuters</B>
+<A><F>Hm</F>.</A>
+<B>who go to work. And it's pretty <F>ur</F> crowded</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><F>ur</F></OL> during the rush hour. But I can avoid rush hour since I work <F>ur</F> from noon.</B>
+<A><F>Mm-hm</F>.</A>
+<B><laughter>So</laughter> it doesn't bother me. And I don't know. How <??></??>. <F>Mm</F>. <F>Well</F> <SC>it's</SC> <F>well</F> if I compare it <R>to</R> <F>ur</F> to <H pn="others8">XXX10</H> Line, <F>ur</F> it's quite different from <H pn="others5">XXX07</H> Line. It has a lot of <F>er</F> tourists</B>
+<A><F>Hm</F>.</A>
+<B><?>on as</?> usually.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And I used to commute by <H pn="others8">XXX10</H>.</B>
+<A><F>Mm</F>.</A>
+<B>And in summer, it's such a pain because you see a lot of <F>ur</F> tourists and, you know, they are going to the beach. They're wearing beach sandals and so on. <F>Uh</F> <SC>the</SC> I was the only person wearing suits</B>
+<A><laughter>Yeah</laughter>.</A>
+<B>and having a newspaper.</B>
+<A><F>Mm</F>.</A>
+<B>But anyway, I think <R>that's</R> that's the difference <OL>between</OL> the two lines.</B>
+<A><OL><F>Hm</F></OL>. <F>Mh-hmm</F>. O K. <F>Mm</F>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So we are almost finished with this interview.</A>
+<B>Almost.</B>
+<A><nvs>laughter</nvs> Yes. <laughter><F>Urm</F></laughter> yeah. Do you plan to do anything after this interview?</A>
+<B><F>Ur</F> <F>well</F> I haven't decided <OL>anything</OL>,</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B>but <F>ur</F> <F>well</F> I'm here with <SC>my co-worker</SC> my friend, <H pn="others9">XXX11</H>.</B>
+<A><OL><F>Ah</F> <F>uh-huh</F></OL>.</A>
+<B><OL>So maybe</OL> we will have some coffee.</B>
+<A><F>Oh</F> great.</A>
+<B>So after that, <F>urm</F> I'll just <F>ur</F> go home and <F>ur</F> read the book I'm reading.</B>
+<A><F>Uh-huh</F>. So it's your day off as well?</A>
+<B><F>Oh</F> yes.</B>
+<A><F>Oh</F> <OL>O K</OL>.</A>
+<B><OL>It's my</OL> day off.</B>
+<A><F>Well</F> thank you very much for taking your time on your day off.</A>
+<B>Thank you very much.</B>
+<A>Yeah. <OL>O K</OL>.</A>
+<B><OL>I</OL> really enjoyed it.</B>
+<A><F>Oh</F> good. <nvs>laughter</nvs> <OL>Thank you</OL>.</A>
+<B><OL>O K</OL>.</B>
+</stage5>
+</body>
+</interview>

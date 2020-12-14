@@ -1,0 +1,321 @@
+<interview>
+<filename>file00113.txt</filename>
+
+<head version="1.3">
+<date>2000-08-29</date>
+<sex>male</sex>
+<age>51</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Mister <H pn="B's name">XXX02</H></OL>.</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>How do you do.</A>
+<B><F>Ah</F> how do you do.</B>
+<A>And <F>ah</F> where do you live, Mister <H pn="B's name">XXX02</H>?</A>
+<B>Pardon?</B>
+<A>Where do you live?</A>
+<B><F>Ah</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Mhm</F>. Do you like <H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>.</A>
+<B>Very much.</B>
+<A><F>Mm</F>. Tell me about <H pn="others1">XXX03</H>.</A>
+<B><F>Oh</F> <H pn="others1">XXX03</H>? <H pn="others1">XXX03</H> is located in <F>ur</F> east side of <F>oh</F> <H pn="others2">XXX04</H>. <R>So</R> <.></.> so-called <JP>shitamachi</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>mm</F> <SC><H pn="others1">XXX03</H></SC> <F>mm</F> there are a lot of apartment in <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>. And why do you like it?</A>
+<B>Yeah, because <F>eh</F> commuting time is <F>uh</F> <SC>short</SC> small.</B>
+<A><F>Mhm</F>. How long does it take?</A>
+<B><F>Uh</F> forty five minutes walk.</B>
+<A><F>Ahh</F> you are lucky. <F>Ah</F> do you walk?</A>
+<B><F>Uh</F> <F>mm</F> <SC>in winter time</SC> only in <laughter>winter time</laughter>.</B>
+<A><F>Ah</F>.</A>
+<B><F>Mm</F> winter, autumn</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <F>mm</F> spring.</B>
+<A><F>Oh</F>.</A>
+<B>But in a summer time, I take a bus.</B>
+<A><F>Mhm</F>. But don't you get tired after walking forty five minutes?</A>
+<B>Yeah. <.></.> <nvs>laughter</nvs></B>
+<A><F>Ahh</F>.</A>
+<B>For my health.</B>
+<A>For your health, I see. And do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. Tell me about your family.</A>
+<B><F>Eh</F> I have a family of five</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>eh</F> <SC>include</SC> including me.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Wife and three children.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> a son and two daughters.</B>
+<A><F>Mhm</F>. Tell me about your son.</A>
+<B>My son is second grade of <F>uh</F> high school.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So age <JP>wa tabun</JP> <nvs>laughter</nvs> seventeen years old.</B>
+<A><F>Mhm</F>. Don't you have any difficulty dealing with him?</A>
+<B><F>Ah</F> No. <R>No</R> no, I have no difficulty <F>eh</F> with him. But my wife sometimes <F>mm</F> crying. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <R>Why</R> why does she cry?</A>
+<B><F>Ah</F> so <.></.> <R>he</R> <F>uh</F> <SC>he has</SC> <F>mm</F> <SC>he</SC> <F>um</F> <SC>he's always</SC> <F>mm</F> his hobby is <F>eh</F> playing <F>eh</F> <R>T V game</R></B>
+<A><F>Uh-huh</F>.</A>
+<B>T V game. <F>Uh</F> <.></.> especially, <F>eh</F> he is in a summer holiday so he <R>wa</R> wake up <SC>noon</SC> at noon.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <laughter>began <F>um</F> playing</laughter> until midnight.</B>
+<A><F>Ah</F>.</A>
+<B>So <F>eh</F> <.></.> <R>he</R> <R>he</R> he doesn't study.</B>
+<A><F>Mhm</F>. <.></.> I see. And <F>uh</F> what do you do in this company?</A>
+<B>I am in charge of cope of planning</B>
+<A><F>Uh-huh</F>.</A>
+<B>and finance and accounting.</B>
+<A><F>Mhm</F>. <.></.> You must be busy.</A>
+<B>Yeah.</B>
+<A><F>Mm</F>. What do you usually do in order to get rid of your stress?</A>
+<B>Rid off?</B>
+<A><F>Uh-huh</F>. So <OL>to reduce your stress</OL>.</A>
+<B><OL><F>Uh</F> <F>uhh</F></OL> reduce <SC>your</SC> of my stress. <F>Uh</F> so <F>oh</F> walking and playing golf.</B>
+<A><F>Ah</F> <F>mm</F>. Doesn't it <F>ah</F> expensive <OL>to play</OL> golf in <H pn="others2">XXX04</H>?</A>
+<B><OL>Yeah</OL>. In <H pn="others2">XXX04</H>, expensive, <F>eh</F> <SC>so</SC> but <F>ah</F> <F>ur</F> <F>ur</F> I try to practice in a golf range <F>eh</F> every weekend</B>
+<A><F>Mhm</F>.</A>
+<B>for my health. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> For your health. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yes, yes</laughter></OL>.</B>
+<A><F>Ah</F> so besides golf, what do you usually do on your weekends?</A>
+<B>On weekends, <F>uh</F> watching T V, <F>eh</F> <.></.> <JP>atowa</JP>, <F>mm</F> <laughter>sleeping</laughter>.</B>
+<A><F>Mhm</F>. I see.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. <F>Well</F></A>
+<B><JP>Hai</JP>.</B>
+<A>first, please take a look at this picture.</A>
+<B><JP>Hai</JP>.</B>
+<A>And tell me what you see here.</A>
+<B><..></..> <JP><F>Etto</F></JP> <F>eh</F> personal computers, <.></.> typewriters, <F>eh</F> <??></??> girl, dog, cat, bed, radio, cassette recorder, <F>ah</F> shelves, desks, chairs, doors, a windows.</B>
+<A><F>Mhm</F>. <.></.></A>
+<B><F>Mm</F> <.></.> <laughter>I don't know <JP>gomibako</JP></laughter>, trash something like that.</B>
+<A>What do you think she is doing?</A>
+<B>What do you think she is doing? <F>Ah</F> <R>she</R> <F>eh</F> she is <F>eh</F> began to <F>uh</F> work with the personal computer.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Maybe.</B>
+<A><F>Mhm</F>. <.></.></A>
+</task>
+<followup>
+<A>O K, <F>well</F> thank you. And do you use personal computer?</A>
+<B>Yes. Yes, of course.</B>
+<A>Of course. <nvs>laughter</nvs> How do you use it?</A>
+<B><F>Ah</F> mainly e-mail and <F>ah</F> Excel <F>eh</F> and Words.</B>
+<A>I see. Did you have any difficulty in using e-mails?</A>
+<B>No. No.</B>
+<A>No. Not at all?</A>
+<B>No, not at all.</B>
+<A><F>Mhm</F>.</A>
+<B>But only Japanese <JP>ne</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Ah</F> do you have a P C at your home, too?</A>
+<B>Pardon?</B>
+<A>At your home, do you have <OL>your personal computer</OL>?</A>
+<B><OL>No, <F>oh</F> <F>ah</F> I have a computer</OL>, but <F>uh</F> <R>my</R> my computer at my home is not <R>con</R> connected to the e-mail.</B>
+<A><F>Uhm</F>.</A>
+<B>So <.></.> I seldom use P C</B>
+<A>I see.</A>
+<B>at my home.</B>
+<A><F>Mhm</F>. Does your son have his own room?</A>
+<B>My son?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Own?</B>
+<A><F>Uh-huh</F>. Does your son have his own room?</A>
+<B><F>Ah</F> yes, room, <F>ah</F> O K. <F>Ah</F> <CO>he have a rooms so</CO>.</B>
+<A>How do you compare this room to his room?</A>
+<B><F>Ah</F> <F>mm</F> about one third, <.></.> <SC>small</SC> very small room.</B>
+<A><F>Mhm</F>.</A>
+<B><.></.> But I live in apartment so <F>ah</F> I have <F>mm</F> only so-called three L D K. So <R>he</R> he occupied one room.</B>
+<A><F>Uh-huh</F>. <nvs>laughter</nvs></A>
+<B>Our <?>remained four</?> <SC>is very</SC> <JP><F>ano</F></JP> live in a very small space. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> I see. O K, <F>well</F> thank you.</A>
+<B><JP>Hai</JP>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's do the role-play.</A>
+<B>Role-play?</B>
+<A><F>Uh-huh</F>. Please read it.</A>
+<B>Invitation?</B>
+<A><F>Uh-huh</F>. And when you're ready, I'll start.</A>
+<B><ctxt>the interviewee is reading the card</ctxt> <nvs>laughter</nvs> <?>Let's start</?>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Ring ring. Hello?</A>
+<B>Hello?</B>
+<A>This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Eh</F> hi, <F>ah</F> this is <F>uh</F> <H pn="B's name">XXX02</H> speaking.</B>
+<A><F>Oh</F> Mister <H pn="B's name">XXX02</H>, <.></.> how are you?</A>
+<B>I'm fine, thank you. And you?</B>
+<A>Yeah, fine, thank you. And what's up?</A>
+<B>I beg a pardon?</B>
+<A>What's up?</A>
+<B>Yeah, <F>ah</F> I would like to invite you the <F>eh</F> watching movie.</B>
+<A><F>Mhm</F>. Sounds nice.</A>
+<B>O K?</B>
+<A><F>Uh-huh</F>.</A>
+<B>So yeah, we'd like to meet <F>uhu</F> at Tokyo Station, <F>ah</F> six o'clock P M, O K?</B>
+<A><F>Ah</F> when?</A>
+<B>Six o'clock.</B>
+<A><F>Mm</F> you mean today?</A>
+<B><R>To</R> <F>ah</F> today. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>. O K.</A>
+<B><JP>Hai</JP>.</B>
+<A><F>Mm-hm</F>. I'm free.</A>
+<B>O K?</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>I</SC> <.></.> <F>a</F> <.></.> <F>mm</F> <R>wha</R> <R>what</R> what <laughter>kind of</laughter> <JP>nanchuunokana</JP> <R>traffic</R> traffic</B>
+<A><F>Uh-huh</F>.</A>
+<B>do you <F>uh</F> use?</B>
+<A><F>Mm</F>. I will come by Marunouchi Line.</A>
+<B>Marunouchi Line. O K. <SC>I use</SC> <F>uh</F> I will use <F>mm</F> Tozai Line so <F>oh</F> <.></.> <SC>what i</SC> <F>uh</F> where is the convenient <F>uhu</F> place to <F>uhu</F> meet you?</B>
+<A><F>Mm</F> at Tokyo Station, I'm not familiar with it.</A>
+<B>Familiar with it.</B>
+<A><F>Mhm</F>.</A>
+<B>So do you know the <F>eh</F> <F>eh</F> Yaesu Hotel?</B>
+<A><F>Ah</F> yes, I know it.</A>
+<B>So if <F>eh</F> you're convenient, I'd like to meet you at the lobby of Yaesu Hotel.</B>
+<A>O K, I see. <F>Uh-huh</F>.</A>
+<B><.></.> <F>Eh</F> <.></.> <F>eh</F> <SC>would you</SC> <F>uh</F> <R>a</R> I would like to a have a dinner with you before the <F>eh</F> watching movie</B>
+<A><F>Mhm</F>.</A>
+<B>because the movie <F>ah</F> <F>mm</F> starts at eight o'clock.</B>
+<A>I see.</A>
+<B>So <F>eh</F> when <SC>we met you</SC> <F>ah</F> we meet you at six o'clock at <F>oh</F> the lobby of the Yaesu Hotel, <F>ah</F> let's have a Chinese.</B>
+<A><F>Uh-huh</F>. Yeah, <OL>sounds fine</OL>.</A>
+<B><OL><??></??></OL>.</B>
+<A>O K. And what kind of movie are we going to see?</A>
+<B><F>Uhh</F> <nvs>laughter</nvs> movies <JP>ne</JP>. What kind of movie. <.></.> <F>Ah</F> <nvs>laughter</nvs> <JP><F>etto</F></JP>.</B>
+<A><F>Mm</F>. Anyone is O K.</A>
+<B>Anyone is O K, but <F>ah</F> <F>mm</F> <F>oh</F> <F>oh</F> <F>mm</F> <R>English</R> <SC>English</SC> <F>uhu</F> <.></.> <SC>It</SC> <SC>it'll be</SC> <SC>it</SC> It'll be good <F>uh</F> to learn English about movie.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>Do you know <F>oh</F> <R>the</R> <F>eh</F> the</SC> <F>ah</F> <.></.> <F>mm</F> would you recommend something?</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>Good</OL> movie for me?</B>
+<A>O K, why don't we see 'Perfect Storm'.</A>
+<B>'Perfect Storm'?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Oh</F>.</B>
+<A>I heard it's a very exciting movie.</A>
+<B><JP>Aa soudesuka</JP>.</B>
+<A><F>Mh-hm</F>.</A>
+<B>O K.</B>
+<A>O K, see you at six o'clock <??></??> Yaesu Hotel. O K, thank you.</A>
+</task>
+<followup>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you. And lastly, I would like you to show you one more picture.</A>
+<B>One more picture.</B>
+<A><F>Uh-huh</F>. And this is a picture story that goes from one to six. And it happened before. So would you please make up a story starting with, "One day last week"?</A>
+<B>One day last week.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Time is going this way?</B>
+<A>Yes.</A>
+<B><F>Uhh</F>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><ctxt>the interviewee is looking at the pictures and thinking</ctxt> So <SC>I say</SC> <SC>I</SC> I have to make something?</B>
+<A>Yes, please make up the story.</A>
+<B><JP><F>Etto</F></JP> <F>Eh</F> <R>a</R> a father and his son <F>mm</F> <SC>is <F>ur</F> in front of the</SC> was the in front of the restaurant. And they <R>entered <F>ah</F> into</R> entered into the <F>er</F> restaurant. And asked the <SC>waiter</SC> <R>we</R> <R>we</R> waiter <F>ah</F> to take a seat.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So here, they have a menu, and ask the waitress something good to eat. <.></.> <F>Uh</F> and <F>mm</F> <R>a son</R> a son has a <F>mm</F> <SC>beer</SC> looks beer, and <F>ur</F> father order chicken or something <laughter>like that</laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B>And <F>ur</F> maybe <F>eh</F> glass of wine?</B>
+<A><F>Uh-huh</F>.</A>
+<B>After that, <SC>they</SC> <F>eh</F> <F>ah</F> father <F>ah</F> pay <F>eh</F> cashes for this bill.</B>
+<A><F>Uh-huh</F>.</A>
+<B>The son <?>stucked</?>. They say good-bye.</B>
+</task>
+<followup>
+<A><F>Mhm</F>. O K, <F>well</F> thank you very much.</A>
+<B><JP>Hai</JP>. <laughter><??></??></laughter>.</B>
+<A><F>Mm-hm</F>. <F>Mm</F>. And <F>ah</F> when you pay the bill, which do you prefer, paying by cash or by a credit card?</A>
+<B>I prefer credit card.</B>
+<A>And why is that?</A>
+<B>Yeah, <R>it's</R> it's convenient.</B>
+<A>How convenient is it?</A>
+<B>No, <F>oh</F> <R>I</R> I can <F>eh</F> control money, and <R>I don't need</R> I don't need to have a plenty of cash in a <R>purse</R> purse.</B>
+<A><F>Mhm</F>. But <F>ah</F> don't you think there might be any difficulty in using credit card?</A>
+<B>There might be any difficulty?</B>
+<A><F>Uh-huh</F>.</A>
+<B>In using, there might be any, no.</B>
+<A>No?</A>
+<B><F>Mm</F>.</B>
+<A>You don't have any fear?</A>
+<B>Yeah. <.></.> There might be any difficulty in using credit card. It might be no.</B>
+<A>No?</A>
+<B><OL>No difficulty</OL>.</B>
+<A><OL><F>Mhm</F></OL>. I see. And <F>uh</F> have you ever been abroad?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. Where did you go?</A>
+<B><JP><F>Ettodesune</F></JP> China.</B>
+<A><F>Uh-huh</F>.</A>
+<B><JP><F>Etto</F></JP> Taiwan.</B>
+<A><F>Mhm</F>.</A>
+<B>Malaysia.</B>
+<A><F>Oh</F> you like Asia.</A>
+<B><nvs>laughter</nvs> But <F>ah</F> about a decade ago.</B>
+<A><F>Ah-huh</F>. <F>Mhm</F>. So <F>ah</F> <SC>ko</SC> which do you like better, China or Malaysia?</A>
+<B><SC>China is <F>ah</F> <?>of</?> long</SC> China has a long history.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <SC>I was</SC> <SC>I have been</SC> <SC>I was been</SC> I was in Beijing, <SC>the <F>eh</F> emperor's</SC> <F>ah</F> I watched and entered in the emperor's palace.</B>
+<A><F>Ah</F>.</A>
+<B>Very impressed.</B>
+<A><F>Ah</F> how was it?</A>
+<B>Yes, I feel a very history of China.</B>
+<A><F>Mm</F>. So is it very broad?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>.</A>
+<B><??></??>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uhh</F>. O K.</A>
+<B><JP>Hai</JP>.</B>
+<A>So this is almost the end of the interview.</A>
+<B><JP>Hai</JP>.</B>
+<A>And <F>ah</F> what are you going to eat for your lunch today?</A>
+<B>Today, <F>eh</F> I would like to have <F>ah</F> <F>ur</F> <JP>soba</JP> noodle</B>
+<A><F>Uh-huh</F>.</A>
+<B>for lunch.</B>
+<A><F>Uh</F> I wonder always why men like <JP>soba</JP>.</A>
+<B>I beg a pardon?</B>
+<A>Why do you like <JP>soba</JP>?</A>
+<B>Yeah, <R>i</R> <R>i</R> <SC>i</SC> yeah, <F>mm</F> <.></.> <F>mm</F> <SC>so it's</SC> <F>mm</F> <JP><F>sodesune</F></JP> <F>eh</F> so it's health.</B>
+<A><F>Ah</F> <laughter>healthy</laughter>. You like doing things for your health.</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. So <F>ah</F> it's too hot for walking</A>
+<B>Yes.</B>
+<A>from your house to your office in this summer.</A>
+<B>In this summer.</B>
+<A>But you plan to do from October?</A>
+<B><F>Mm</F>. <SC>Maybe</SC> probably. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>Probably</laughter></OL>.</A>
+<B><??></??> me. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. So <F>ah</F> thank you for coming.</A>
+<B><JP>Arigatougozaimashita</JP>.</B>
+<A>Thank you. Thank you.</A>
+</stage5>
+</body>
+</interview>

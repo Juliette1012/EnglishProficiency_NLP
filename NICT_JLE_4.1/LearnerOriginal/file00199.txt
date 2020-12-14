@@ -1,0 +1,228 @@
+<interview>
+<filename>file00199.txt</filename>
+
+<head version="1.3">
+<date>2001-01-16</date>
+<sex>female</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>student</category>
+<step></step>
+<TOEIC>850</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>O K. My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>O K. So can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Sure.</B>
+<A>O K. So how are you today?</A>
+<B><F>Ah</F> I'm wonderful.</B>
+<A>O K.</A>
+<B><F>Ah</F> the weather is fine so I'm very happy. How about you?</B>
+<A>O K, I'm, yeah, fine, too. O K, so <F>ah</F> <F>ah</F> what did you do today?</A>
+<B>Today? O K. <F>Am</F> <F>a</F> in the morning, I cleaned my rooms <SC>I</SC> and I washed some clothes. <SC>I do laundry</SC> I do the laundry in the morning. And I made lunch boxes for my parents and I.</B>
+<A>Right.</A>
+<B>And I just came here.</B>
+<A>I see. So <F>ah</F> can you tell me little bit about your major?</A>
+<B>O K. <F>Ah</F> my major is <F>ah</F> <F>a</F> English education</B>
+<A><F>Hm</F>.</A>
+<B>and American literature.</B>
+<A>Right.</A>
+<B>And I have been teaching English for five years in a vocational school near Takadanobaba Station.</B>
+<A>Right.</A>
+<B>And that's why <SC>I dec</SC> I had decided to take <F>a</F> some courses in the literature at the Department of Literature Two.</B>
+<A><F>Hm</F>.</A>
+<B>So <F>ah</F> this is the second year for me to <F>ih</F> <R>in</R> at <H pn="school name1">XXX03</H>. And I'm going to graduate this March.</B>
+<A><F>Oh</F> that's good. O K. So what's so special about English literature?</A>
+<B>O K. <F>Ahn</F> I have been <SC>learning</SC> <F>a</F> reading American literatures. And I like reading <F>ah</F> some works <F>ah</F> written by <F>ahn</F> <F>er</F> <R?>the</R?> <F>well</F> <F>er</F> <?>the</?> <SC>woman no</SC> female novelist like <F>ah</F> Mrs Stowe <F>ah</F> Harriet Beecher Stowe.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> she wrote <F>oh</F> <F>a</F> "Uncle Tom's Cabin"</B>
+<A>Right.</A>
+<B>and <F>ah</F> some short stories.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah. And <F>well</F> so <F>mm</F> and <R>a</R> as I told you, my major is <SC>education</SC> English education and American literatures, so I take <SC>i</SC> <SC>more important on</SC> <R>mo</R> more importance on <F>ah</F> <F>ah</F> English education. But unfortunately in the course, yeah, <R>ye</R> yeah, the Department of the Literature Two, they don't have many classes for <R>E</R> English education. So <SC>I have to go to</SC> I have to take <F>er</F> some classes in the Department of Education</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>er</F> in the morning or in the afternoon just before the classes I am taking at <F>er</F> <SC>Lit</SC> <F>uh</F> the Department of Literature Two.</B>
+<A>O K. I see. O K. So <F>er</F> now, please tell me, <F>er</F> what do you do in your free time?</A>
+<B>O K. Free time.</B>
+<A>Yeah.</A>
+<B><F>Mm</F> <R>on weekends</R> on weekends,</B>
+<A><F>Hm</F>.</A>
+<B>I like to go to <F>ah</F> a park,</B>
+<A><F>Hm</F>.</A>
+<B>and I walk in the park for one hour or two hours.</B>
+<A>O K.</A>
+<B><F>Mm</F> <SC>that's the best</SC></B>
+<A><F>Hm</F>.</A>
+<B><F>ah</F> that is <F>er</F> my favorite.</B>
+<A><F>Hm</F>.</A>
+<B>And I like <F>a</F> playing the piano and the flute</B>
+<A><F>Hm</F>.</A>
+<B>as well.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K, so now, I'm going to show you a picture.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>And</OL> please describe it.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking the picture.</ctxt>
+<B><F>Hm</F>. <F>Ah</F> O K. So there are many people <SC>on the</SC> at this <JP>gerende</JP>. And some of them are skiing.</B>
+<A><F>Hm</F>.</A>
+<B>And some of them are children and they are playing <SC>snowballs</SC> with snowballs.</B>
+<A><F>Hm</F>.</A>
+<B>And <SC>the childrens are four</SC> the four children are fighting with snowballs and they look very happy.</B>
+<A><F>Hm</F>.</A>
+<B>And in the lodge, <F>ah</F> there is a cafeteria and two people are drinking <F>ah</F> something, <F>um</F> probably coffee or tea and they are talking and drinking in that lodge. And <F>ah</F> <F>mm</F> they are <SC>s</SC> one, two, three, four, five, six, <R>six people</R> six people skiing.</B>
+<A><F>Hm</F>.</A>
+<B><F>Ahn</F> <R>one of</R> one of them <SC>is</SC> <F>ah</F> seems to be a leader who is wearing <F>ah</F> yellow coat. And he is shouting something to other people, probably. And <F>oh</F> <F>ah</F> there is one guy who just fall down <SC>or</SC> <F>ah</F> and he is wearing a black <R>s</R> skies.</B>
+<A><F>Hm</F>.</A>
+<B>And <?>probably</?> <R>he</R> he might broke <SC>his</SC> one of his legs.</B>
+<A><F>Hm</F>.</A>
+<B>How awful. <CO>And</CO>.</B>
+</task>
+<followup>
+<A><F>Mm</F> O K, thank you. So do you do some winter sports?</A>
+<B><F>Mm</F> yes, I used to.</B>
+<A><F>Mm</F> O K. What did you do?</A>
+<B><R>I</R> I skied.</B>
+<A><F>Hm</F>.</A>
+<B>And I like skating when I was in elementary school.</B>
+<A><F>Hmm</F>.</A>
+<B>But now, <R>I</R> <F>mm</F> I prefer walking in the wood.</B>
+<A><F>Mm</F> I see. So you said you used to</A>
+<B>Yeah.</B>
+<A>go skiing. So <SC>what's the</SC> what do you think the difference between skiing and snowboard?</A>
+<B><F>Well</F> <nvs>cough</nvs> <R>I</R> I have <F>ah</F> the experience of skiing.</B>
+<A><F>Hm</F>.</A>
+<B>But I haven't <F>a</F> tried any snowboard. So <SC>I have</SC> <F>mm</F> I don't have <SC>a</SC> much <F>eh</F> <F>a-ah</F> <R>in</R> information about snowboard.</B>
+<A><F>Hm</F>.</A>
+<B>But <F>a</F> the snowboard <R>is</R> <F>ah</F> is a tool <F>ah</F> it has <R>one</R> one board. But <F>ah</F> the ski has two board on the people's <F>ah</F> feet, and <F>uh</F> in my opinion, <R>s</R> skiing is much safer than snowboard.</B>
+<A>O K, why?</A>
+<B><F>Ah</F> because I've heard many accident happened in the skiing place with <F>ah</F> the people who are <F>uh</F> snowboarding.</B>
+<A>Right.</A>
+<B>So <F>mm</F> that's why <SC>I thou</SC> I think the snowboard is a bit dangerous.</B>
+<A>Right. O K.</A>
+<B>And, yeah, if I have a chance, <SC>I like to</SC> I'd like to try snowboard.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you. So now, we are going to do a role-play. So I'm going to give you a card. And this is <F>ah</F> written in Japanese. So please read it silently. And whenever you are ready, please let me know.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K, you're ready? The phone rings. O K. Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello, this is <H pn="B's name">XXX02</H> speaking.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>So</OL> <F>a</F> <H pn="A's name">XXX01</H>? Is it <H pn="A's name">XXX01</H>?</B>
+<A>Right.</A>
+<B><F>Oh</F> <F>ah-nh</F> I'm afraid <R>I couldn't</R> <F>ah</F> I couldn't go to your party yesterday.</B>
+<A><F>Hm</F>.</A>
+<B><F>Ah</F> so <SC>was it very wonderful I th</SC> <F>ah</F> was it very good?</B>
+<A><F>Ah</F> yes, <F>ah</F> everybody was waiting for you. And to tell you the truth, it was a surprise party for you.</A>
+<B><F>Oh</F> really. <R>I</R> <R>I'm s</R> I'm so sorry for <F>ah</F> not going there.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>A</F> because I was stung by jellyfish <F>ah-nh</F> the day before yesterday. And <F>ah</F> <SC>I feed</SC> I usually feed my jellyfish everyday. But <R>the</R> <R>the</R> the day before yesterday, I couldn't <F>uh</F> <F>uh</F> <R>I</R> <R>I</R> I happened to <SC>f</SC> touched my jellyfish. And that's why I was stung by a jellyfish.</B>
+<A>Right.</A>
+<B>So my fingers and feet were becoming bigger and bigger,</B>
+<A>Right.</A>
+<B>and <SC>in ten minutes</SC> <F>ah-n</F> within ten minutes. And <SC>I have</SC> <R>I</R> <F>m</F> I felt <F>ah</F> much pain.</B>
+<A>Right.</A>
+<B>So now, I have many blisters on my feet and fingers.</B>
+<A>Right.</A>
+<B>And it is very hard for me to walk with many blisters.</B>
+<A>Right.</A>
+<B>That's why I couldn't <R>come t</R> <F>ah</F> come to your party.</B>
+<A>Right.</A>
+<B>I'm so sorry.</B>
+<A>Right. I'm sorry <OL>to hear</OL> that.</A>
+<B><CO><OL>But</OL></CO>.</B>
+<A>But you could have called us.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>It takes just a</OL> couple of minutes <OL>to call us</OL>.</A>
+<B><OL>O K</OL>. <F>Ah</F> I ask my husband to <SC>call you</SC> call <H pn="A's name">XXX01</H>, but <R>he</R> he couldn't call you.</B>
+<A><F>Hm</F>.</A>
+<B><F>Ah</F> really. <R>I'm very</R> I'm very surprised to hear that.</B>
+<A><F>Hm</F>.</A>
+<B>I didn't know he couldn't call you.</B>
+<A><F>Hm</F>.</A>
+<B><F>Oh</F> I'm very sorry about that.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>ah</F> next time, please <F>ah</F> invite me again. So I <OL>will bring</OL> some</B>
+<A><OL>O K</OL>.</A>
+<B><SC>cakes</SC> <F>ah</F> <F>am</F> homemade cake for you.</B>
+<A>O K. So <F>ah</F> next time, I'll invite you.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K, thanks for calling</OL>. O K. Bye-bye.</A>
+<B>Bye-bye. Take care.</B>
+</task>
+<followup>
+<A>O K. So in your case, <F>ah</F> <F>ah</F> has anything like this ever happened to you?</A>
+<B><F>Well</F> <F>mm</F> I couldn't go to <R>a</R> any party</B>
+<A><F>Hm</F>.</A>
+<B>by any accident?</B>
+<A>Right.</A>
+<B>O K. <F>Am</F> <F>well</F> yeah.</B>
+<A>O K.</A>
+<B><F>Erm</F> <SC>the</SC> <R>this winter</R> <F>uh</F> this winter vacation, I went to the Phillippine to see my <SC>f</SC> the Philippine friend.</B>
+<A>Right.</A>
+<B><SC>And one</SC> and his friend <.></.> <F>ah</F> invited us to <SC>their houses</SC> their house.</B>
+<A><F>Hm</F>.</A>
+<B>But <R>the</R> the day before that day, <F>am</F> <R>the</R> there was a bomb explosion in Manila.</B>
+<A>Right.</A>
+<B><F>Ah</F> <SC>it was held</SC> <.></.> <F>ah</F> <SC>it was</SC> it happened <.></.> <F>a</F> on December thirtieth, I think.</B>
+<A><F>Hm</F>.</A>
+<B>And we couldn't go to the central Manila <F>ah</F> where my friend's house was located. So that's why I had to call <SC>his</SC> our friend's friends. Then I told them <SC>I</SC> <SC>we</SC> I couldn't go there because of the dangerous situation in central Manila.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mm</F>. I see.</A>
+<B>Yeah.</B>
+<A>O K. Thank you. So now, I'm going to show a different picture.</A>
+<B>O K.</B>
+<A>And I want you to make up a story from one to six. And this story was happened to you last week. So I want you to start with a sentence with "One day last week".</A>
+<B><F>Mm</F>.</B>
+<A>Whenever you are ready.</A>
+<B>O K. One day last week, <F>ah</F> <R>I</R> <SC>I go to</SC> I went to the station <.></.> <SC>as we</SC> as <SC>I usually does</SC> <F>ah</F> I usually do. And the station is very crowded with many people. Because <SC>it is in the morning</SC></B>
+<A><F>Hm</F>.</A>
+<B>it was in the morning.</B>
+<A><F>Hm</F>.</A>
+<B>And on the platform, I was waiting for the next train. And <SC>I was</SC> <F>ah</F> <R>I</R> I was thinking about <R>the</R> <.></.> the dream I dreamed last night. But suddenly, <F>ah</F> the man next to me <F>erm</F> <F>ah</F> touched my elbow and I drop my bag on the track. <F>Ah</F> I was very surprised to see the bag falling down on the <SC>plat</SC> track. And I <R>sh</R> shouted to the man, "<SC>What do</SC> <F>nh</F> <.></.> so what do you do with my bag? My bag is on the track.". <SC>And the man said</SC> and the man <SC>i</SC> <F>oh</F> wearing a blue suits said, "<F>Oh</F> I don't know. I just talking to <SC>ou</SC> my friend and I didn't do anything to you.". "No, you pushed me <SC>on the</SC> <R>you <.></.> did</R> you did <SC>the hu</SC> <F>ah</F> <SC>make</SC> made my bag fall on the track.". And suddenly, the train came. And I was very nervous about my bags. <F>Mm</F>. And <SC>the train passed</SC> after the train passed, <.></.> my bag <SC>are</SC> was still <F>ah</F> <R>on the tra</R> <F>ah</F> on the track. And <SC>it didn't</SC> <F>ah</F> <SC>it was very</SC> <F>ah</F> <F>er</F> the bag is O K. <F>Ah</F> the anything happened to my bags. So I'm very relieved to know that. And I called for <F>ah</F> <F>uh</F> I asked <R>the</R> the clerk of <R>the</R> <F>ah</F> the <R>tra</R> train company <F>ah</F> to bring my <F>ah</F> <R>bag</R> bag.</B>
+<A><F>Hm</F>.</A>
+<B>Then, I gained my bag again.</B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. Thank you. So if you were the man who dropped the bag, <F>ah</F> what do you do in order to avoid this kind of accident in the future?</A>
+<B><F>Mm</F> I should hold my bag</B>
+<A><F>Hm</F>.</A>
+<B>steadily. And <SC>I</SC> then, <.></.> <F>well</F> if my suitcase or bag is so heavy, I prefer <F>ah</F> putting my bag down on the platform.</B>
+<A><F>Hm</F>.</A>
+<B><R>And</R> <.></.> and keep it tightly.</B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Thank you. So we are almost at the end of interview. So what are your plans after this interview?</A>
+<B>O K. I'm taking <SC>a examination</SC> a final examination at six o'clock today. So there is <F>ah</F> one hour and half <OL>left</OL>.</B>
+<A><OL>Right</OL>.</A>
+<B>So I will prepare for the examination.</B>
+<A><F>Hm</F>. O K. So thank you for coming in today. <OL>And I wish you good luck</OL></A>
+<B><OL>Thank you</OL>.</B>
+<A><?>on</?> the test.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL>.</A>
+</stage5>
+</body>
+</interview>

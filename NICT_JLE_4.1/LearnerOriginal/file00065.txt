@@ -1,0 +1,228 @@
+<interview>
+<filename>file00065.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to see you. <F>Ehh</F> O K. Where do you live?</A>
+<B><F>Oh</F> I'm live in <H pn="others1">XXX03</H> now.</B>
+<A><F>Uh-huh</F>.</A>
+<B><CO><OL><?>At</?></OL></CO>.</B>
+<A><OL>With</OL> your parents?</A>
+<B><F>Mhm</F> no, <F>urr</F> I <SC>live in</SC> <F>mhm</F> <R>live</R> live there with my brother,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and my parents <F>mm</F> live in <H pn="others2">XXX04</H>.</B>
+<A>I see. O K. Please tell me about your family.</A>
+<B><F>Mhm</F> <F>mhm</F> my family <R>i</R> <F>mhm</F> <F>urr</F> is six member. <F>Mhm</F> my mother, and father, and brother, and my grandparents.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>And, you live with your brother.</A>
+<B>Yes.</B>
+<A><F>Urr</F> elder brother?</A>
+<B>Yes.</B>
+<A><F>Uhm</F> O K, please tell me about your brother more.</A>
+<B><F>Mhm</F> my brother is student of <H pn="school name1">XXX05</H>. <F>Urr</F> <R>he</R> he majors <F>mhmm</F> <.></.> economy,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>and</R> and <R>he</R> <F>mhm</F> <SC>he don't su</SC> he doesn't study <F>mm</F> much.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F> he always go out <.></.> <F>urr</F> but, <F>urr</F> he is very bright person,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> have a lot of friends.</B>
+<A><F>Uh-huh</F>. O K. And, do you have a part-time job?</A>
+<B>No.</B>
+<A>No? O K. What do you study?</A>
+<B><F>Err</F> I'm study literature now.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>And, how did you get interested in literature?</A>
+<B><F>Uhmm</F> <F>mhm</F> <R>when</R> when I was young, I read many books, and so I like reading. <.></.> And, <SC>I'm not good</SC> <F>urr</F> I don't like mathmatics.</B>
+<A><F>Uh-huh</F>. O K. Can you tell me about your favorite author?</A>
+<B><F>Mhmm</F> my favorite author, <F>mhm</F> <F>uhmm</F> <SC?>te</SC?> <R>no</R> <F>mhm</F> not especially. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>. O K. Then, what kind of literature do you like?</A>
+<B><F>Mhmm</F> <R>Ja</R> Japan literature. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. O K. And do you have any hobby?</A>
+<B><F>Mhmm</F> <R>I</R> <F>mhm</F> I got license of the scuba diving this summer,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>an</R> and I'm belong to tennis circle,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so <F>mhm</F> tennis and scuba diving is my hobby.</B>
+<A>I see. O K. And, how long did it take you to get the license?</A>
+<B><F>Mhmm</F> only four days, and <F>mhm</F> it cost not so expensive. Yeah. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>. O K. <SC>Do you think</SC> <F>urr</F> do you sometimes think it's dangerous <OL>to</OL></A>
+<B><OL><F>Um</F></OL>.</B>
+<A>dive?</A>
+<B>No. <F>Mhm</F> we don't dive <F>urr</F> alone.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>We</R> <R>we</R> we do diving with companies, and instructors <F>urr</F> watches that, so it's not dangerous.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uh-huh</F>. O K. <F>Well</F> I have some picture to show you. So, please, <nvs>cough</nvs> O K, look at this picture, and please describe this picture for me.</A>
+<B><F>Mhmm</F> <F>mhmm</F> there is a room, <F>uhm</F> and <F>mhm</F> maybe <SC>girl's</SC> <F>urr</F> <F>mhm</F> this girl's room. <F>Urmm</F> there is one dog and one cat. <F>Uhm</F> <F>mhm</F> the girl's <F>uhmm</F> working with computer, and <SC>cat is</SC> cat on the bed is sleeping, and <F>mm</F> maybe dog is sleeping, and there is <R>ste</R> stereo. <F>Uhm</F> <F>uhm</F> and the door is open. <F>Uhm</F>. And, there is a <SC>paper</SC> <F>eh</F> <F>ah</F> typewriter, and <F>mhm</F> <F>uhmm</F> there is a clock on <F>ehh</F> <R>wa</R> wall, and there is a calender. <.></.> <F>Uhmm</F>. <.></.> <SC>An</SC> <F>urm</F> there is <F>urr</F> orange curtain. <F>Um</F>. <.></.> Yes, <F>um</F> it's all.</B>
+</task>
+<followup>
+<A>O K. Thank you. And do you have your own room now?</A>
+<B>Yes.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><R>In</R></OL> in my apartment?</B>
+<A><F>Uh-huh</F>. Can you compare <F>urr</F> your room with this room?</A>
+<B><F>Uhm</F> <R>i</R> yes. <F>Uhm</F> <F>err</F> I don't have computer, <F>mhm</F> but there is a T V. <F>Um</F> and I have stereo, too. And I have bed, <F>urmm</F> but I don't <F>urr</F> have pets. <F>Mhm</F> and the curtains is blue, <F>mhm</F> and the carpet <F>urm</F> <F>urm</F> is flooring. <.></.></B>
+<A>O K. And how do you decorate your room?</A>
+<B><F>Mhmm</F> <F>urr</F> <R>the</R> <R>the</R> <F>mhm</F> <F>urm</F> the color of my room, <F>mhm</F> <F>ehh</F> the wall is white,</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>er</F> and <.></.> bed sheets, <F>err</F> curtain are <F>mhm</F> blue</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>er</F> because I like blue color.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And <SC?>za</SC?> there is poster of sea.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And it is blue.</B>
+<A><F>Uh-huh</F>. <OL>What</OL></A>
+<B><OL><?>Yeah</?></OL>.</B>
+<A>kind of poster is it?</A>
+<B><F>Mhm</F> sea,</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL><SC>and</SC></OL> yes, and creatures in the sea.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uh-huh</F>. I see. O K. Thank you. And, we'd like to do some role play. And, O K, please read this card, and when you're ready, we will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><OL><F>Uhmm</F></OL>.</B>
+<A><OL>O K</OL>?</A>
+<B>Yes.</B>
+<A>O K. Ring-ring. Hello? This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Ah</F> hello, this is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> hi. How are you?</A>
+<B>I'm fine, thank you. <F>Er</F> how about you?</B>
+<A>Yes, fine. Thank you. <OL>What's up</OL>?</A>
+<B><OL><F>Err</F></OL> <F>mhm</F> <F>uhnt</F> how about going <R>m</R> movie today?</B>
+<A>Today?</A>
+<B>Yes.</B>
+<A><F>Erm</F> I have previous appointment today.</A>
+<B><F>Ohh</F> so <F>um</F> what about <R>ne</R> <F>mhm</F> next Sunday?</B>
+<A>O K. Fine.</A>
+<B><F>Ehh</F> <R>so</R> <F>urr</F> <F>urr</F> so <F>mhm</F> <.></.> <SC>I</SC> <F>urr</F> <R>ha</R> <F>err</F> <R>how</R> how about <F>err</F> we met at one o'clock at <R>Shinju</R> Shinjuku Station?</B>
+<A>O K.</A>
+<B>And, <F>mhm</F> <R>we</R> we go <F>urr</F> movie theater by walk. <R>I</R> is it O K?</B>
+<A>O K. What kind of movie?</A>
+<B><F>Uhmm</F> I want to <SC>loo</SC> <F>mhm</F> watch "Joan of Arc".</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>O K. That's fine with me.</A>
+<B>And, <F>mhm</F> it's one o'clock, so I think <F>urr</F> we should took lunch before we go to movie theater.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> so, <R?>ha</R?> <F>urr</F> <R>ha</R> how about we go to McDonald near Shinjuku Station?</B>
+<A>O K. Yes. Sounds fine.</A>
+<B>Yes, <F>um</F> so, <F>um</F> <F>urr</F> I'm looking for it.</B>
+<A>O K. Me, too.</A>
+<B>Yes.</B>
+<A>So, I see you on Sunday, at one o'clock, at Shinjuku Station.</A>
+<B>Yes.</B>
+<A>O K. Thanks for calling.</A>
+<B><F>Um</F> <R>no</R> no problem.</B>
+<A>O K. Bye-bye. See you.</A>
+<B>Bye-bye.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. O K. Do you like watching movies?</A>
+<B>Yes. <OL>Very much</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. <?>Very much</?>? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Err</F></OL> <R>I</R> I like American movies.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F>.</B>
+<A>What did you see last?</A>
+<B><F>Mhmm</F> "Sixth Sense". <F>Um</F>.</B>
+<A>O K. Please tell me about the movie.</A>
+<B><F>Mhmm</F> <R>i</R> it's a story of boy <F>err</F> who have <F>um</F> sixth sense. <F>Mhm</F> ordinary people have only five sense, but the boys have sixth sense, and <R>he</R> he can look ghost.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Urr</F> and, <.></.> <F>uhm</F> therapist, <F>urm</F> <F>uhm</F> he is <F>mhm</F> middle man.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And, <SC>therapist <F>erm</F> <R>wa</R> want to care he</SC> <F>uhm</F> the boy was <SC>suffer</SC> suffering by the six sense, <F>mhm</F> and the <R>therapist</R> <F>urmm</F> therapist teach <SC>he</SC> him, <F>urr</F> <?>ha</?> <F>uhmm</F> <SC>and the</SC> <F>uhm</F> so <SC>the boy</SC> <F>em</F> <F>urr</F> <R>the</R> the boy talk her mother <F>er</F> his sense, <SC>and he</SC> <F>err</F> <SC>and the gho</SC> <SC>if ghosts</SC> <F>urr</F> <SC>gho</SC> <F>urr</F> <R>the</R> the boy can help ghost, <SC>and</SC> <F>urr</F> but there is a <F>urr</F> key point of the story. And, the therapist is really a ghost. <CO>And <OL>the</OL></CO>.</B>
+<A><OL>Really</OL>?</A>
+<B><OL><laughter>Yes, yes, yes, yeah</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Urr</F> and <nvs>laughter</nvs> <R>the</R> the end of the movie, <F>urmm</F> <R>we are</R> <F>uhm</F> <F>uhm</F> we are amazed <SC>by the</SC> <F>mm</F> <R>ba</R> <R>by the</R> <F>urr</F> by the thing.</B>
+<A><F>Uh-huh</F>.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>Yeah, yeah, I didn't <laughter>know that</laughter>. <OL><laughter>O K, thank you for telling me the story</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Lastly, I have another picture to show you. So, please look at this picture, and please make up a story from one through six. And this happened last week. Please start your story with "One day last week".</A>
+<B><F>Uhmm</F> <.></.> <F>uhmm</F> <..></..> <F>uhmm</F> <R>one</R> one day last week, <F>mhmm</F> <F>urr</F> <R>this</R> <F>mhm</F> this woman <R>wan</R> <F>mhm</F> want to cook lunch, <F>err</F> but there is no food in the refrigerator, so she go to supermarket <F>er</F> by driving her car. And, she bought something in the supermarket, and she paid about <F>mhm</F> two thousand yen <SC>by</SC> <F>uhm</F> for the food. And, <F>uhm</F> she carried her food to her car, and <F>er</F> after she come back to her house, <R>she cooked</R> <F>uhm</F> she cooked <F>uhmm</F> sunny-side up.</B>
+</task>
+<followup>
+<A>O K. Thank you. Do you cook?</A>
+<B><F>Mhmm</F> <.></.> <R>ye</R> yes, <F>er</F> but sometimes.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Um</F> usually, do you eat dinner with your brother?</A>
+<B>No. <F>Urm</F> usually, he is go out,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so I eat dinner <F>urr</F> <SC>on</SC> alone.</B>
+<A><F>Uh-huh</F>. O K. <R>And</R> and do you often eat out?</A>
+<B>Yes.</B>
+<A><F>Uh-huh</F> what kind of restaurant <SC>do you <OL>want</OL></A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>to go</SC> <R>do you</R> do you often go?</A>
+<B>Yes, <F>mhmm</F> <F>um</F> it's <JP>gyudon</JP> restaurant.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. And, Matsuya is very cheap.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. <CO><OL>So</OL></CO>.</B>
+<A><OL>With</OL> your friends?</A>
+<B><laughter>No</laughter>, <F>urr</F> <F>uhm</F> my friends <R>don</R> don't lives <R>arou</R> around my station.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A>O K. How about your brother? Does your brother cook?</A>
+<B>No, <R>he</R> <R>he</R> he can't cook. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter>, do you</OL> think cooking is difficult or easy?</A>
+<B><F>Er</F> I think it is difficult.</B>
+<A><F>Mhm</F>. Why do you think so?</A>
+<B><F>Mhmm</F> <F>err</F> there is <F>er</F> many kind of food and <R>we</R> <F>ur</F> <SC>we cook</SC> <F>urr</F> we have to choose <F>mm</F> <F>urm</F> <F>urmm</F> something, <F>urr</F> <R>and</R> <.></.> <F>mhmm</F> and <SC>it's</SC> it is <R>diffi</R> difficult, <F>err</F> the burning foods.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah, <R>I</R> I always burned it.</B>
+<A><OL><laughter>O K, O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>Thank you. <F>Well</F> the interview is almost at the end. And, how are you going to spend the New Year's Eve <OL>this year</OL>?</A>
+<B><OL><F>Mhmm</F></OL>. Yes, <F>mhm</F> <R>I</R> I will go back to my home in <H pn="others2">XXX04</H>,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and spend <F>er</F>with my family.</B>
+<A>O K. O K. And, <F>er</F> I think the Christmas is coming, and do you have any plan to buy any present <R>to your</R> to your friend or family?</A>
+<B><F>Uhmm</F>. <laughter>No</laughter>, <R>I</R> I don't have enough money.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><laughter>O K</laughter>. O K. <F>Well</F> I hope you can enjoy Christmas and New Years.</A>
+<B><F>Err</F> thank you.</B>
+<A>O K. Thank you for coming today. <OL>The</OL></A>
+<B><OL><F>Er</F></OL>.</B>
+<A>interview is over. Thank you.</A>
+<B><F>Er</F> thank you very much.</B>
+</stage5>
+</body>
+</interview>

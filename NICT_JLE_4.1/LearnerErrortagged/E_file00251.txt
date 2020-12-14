@@ -1,0 +1,178 @@
+<interview>
+<filename>E_file00251.txt</filename>
+
+<head version="1.3">
+<date>2001-02-23</date>
+<sex>male</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>1</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_beginner</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><F>Ur</F> <SC>my name's</SC> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><.></.></B>
+<A><H pn="B's name">XXX02</H> is O K?</A>
+<B>O K.</B>
+<A><F>Hmm</F>. O K, <H pn="B's name">XXX02</H>. Where do you live?</A>
+<B><F>Umm</F> <F>mm</F>?</B>
+<A>Where do you live?</A>
+<B><.></.> <JP>Jyusho</JP>? <F>Eh</F>. <.></.> <H pn="others1">XXX03</H> <R><H pn="others2">XXX04</H></R> <F>eh</F> <H pn="others2">XXX04</H>.</B>
+<A><F>Oh</F> I see.</A>
+<B><JP>Hai</JP>.</B>
+<A><F>Umm</F>. Do you live with your family?</A>
+<B><F>Oh</F> <F>umm</F> <JP>nante iunda</JP> <.></.> <F>eh</F> <..></..> <F>um</F> my wife and <SC>child</SC> <??></??> <?>children</?>.</B>
+<A><F>Um</F>. O K. Please tell me about your child.</A>
+<B><.></.> <F>Hmm</F> <..></..> <JP>nandakke</JP> <??></??>.</B>
+<A><F>Um</F>. How old is he <OL>or is she</OL>?</A>
+<B><OL><F>Ummm</F></OL> <F>eh</F> <..></..> <??></??> <.></.> one <n_num odr="1" crr="year">years</n_num> old.</B>
+<A><F>Ah</F>. Girl <OL>or boy</OL>?</A>
+<B><OL><F>Oh</F> boy</OL>.</B>
+<A><F>Ah</F> I see. What's his name?</A>
+<B><F>Eh</F> <.></.> <H pn="others3">XXX05</H>.</B>
+<A><F>Hmm</F>. <.></.> I see. Do you sometimes take care of him?</A>
+<B><.></.> <??></??>. <F>Um</F>?</B>
+<A><.></.> Do you play with him?</A>
+<B><..></..> <JP>Chotto wakannaina</JP>. <nvs>laughter</nvs></B>
+<A><F>Hm</F>. O K. <F>Mm</F> that's O K. Then, <F>er</F> what do you do yourself, <.></.> your job?</A>
+<B><..></..></B>
+<A>Your work?</A>
+<B><F>Hm</F> <F>hm</F> <??></??>. <..></..></B>
+<A>What do you do?</A>
+<B><F>Eh</F>. <..></..> <??></??>. <JP>Kinchou shichatte rundesu</JP>. <nvs>laughter</nvs> <?>Everything is</?> <??></??>. <nvs>laughter</nvs></B>
+<A><F>Hm</F>. <F>Hm</F>. O K. Are you a businessman?</A>
+<B><F>Oh</F> businessman. <OL><JP>Hai</JP></OL>.</B>
+<A><OL><F>Hm</F></OL>. O K. Then, when you have free time, what do you do?</A>
+<B><F>Umm</F>. <..></..> <F>Eh</F>. <..></..> <o_lxc odr="1" crr="After work">My five, after</o_lxc>?</B>
+<A><F>Umm</F>.</A>
+<B><F>Um</F>. <JP><F>Eeto</F></JP>. <..></..> <JP>Suimasen</JP>. <??></??>. <nvs>laughter</nvs></B>
+<A><F>Ah</F> that's O K. Do you enjoy music?</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ah</F>. <.></.> O K. <F>Mm</F>. O K. Thank you. Then now, I</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>am going to show you a picture. Please tell me anything about this picture.</A>
+<B><F>Umm</F>.</B>
+<ctxt>The interviewee is looking at the picture and thinking.</ctxt>
+<B><F>Eh</F> <R>one</R> <F>umm</F> <..></..> one family <n_num odr="1" crr="dinner">dinners</n_num>.</B>
+<A><F>Umm</F>.</A>
+<B><F>Um</F>. <.></.> <CO>And</CO>. <..></..></B>
+<A>And?</A>
+<B>Anything?</B>
+<A><F>Um</F>. Anything is O K.</A>
+<B><..></..> <F>Umm</F>. <..></..></B>
+<A>O K. Then what is she</A>
+<ctxt>The interviewer is pointing at a person in the picture.</ctxt>
+<A><OL>doing</OL>?</A>
+<B><OL><F>Oh</F> <F>hum</F></OL>. <F>Umm</F> playing <at odr="1" crr="the"></at> piano.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>.</B>
+<A>O K. Then,</A>
+<ctxt>The interviewer is pointing at other figures in the picture.</ctxt>
+<A>what are they doing?</A>
+<B><..></..> <F>Umm</F>. <..></..> Buying wine <v_fin odr="1" crr="to drink">drink</v_fin>. <.></.> <F>Mmm</F>. <..></..></B>
+</task>
+<followup>
+<A><F>Hm</F>. O K. Do you like wine?</A>
+<B>Yes.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><.></.> O K. <F>Erm</F> when do you drink wine? <.></.> Sunday?</A>
+<B><F>Umm</F>. Saturday.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Umm</F>. O K. <.></.> O K. Thank you. Then, <F>mmm</F> <.></.> I'm</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K, going to give you this card. Let's do a role-play.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Ah</F>.</B>
+<A>O K?</A>
+<B>Yes.</B>
+<A>O K. Hello. May I help you, sir?</A>
+<B><F>Eh</F> <..></..> <JP>nandakke</JP> <F>umm</F> <R>I</R> I <mo_lxc odr="1" crr="am"></mo_lxc> going <prp_lxc2 odr="2" crr="to"></prp_lxc2> New York <.></.> <F>eh</F> <R>on</R> <o_lxc odr="3" crr="by train">on the train</o_lxc>. <nvs>laughter</nvs> <.></.> <F>Eh</F> <.></.> <laughter><R>fifteen</R></laughter> <.></.> <SC>fifteen</SC> <F>umm</F> <JP><?>chotto matta</?></JP> <o_uit odr="1">fifteen <R>go</R> going</o_uit>. <.></.> <F>Eh</F> I want <at odr="1" crr="a"></at> ticket, <.></.> please. <nvs>laughter</nvs></B>
+<A><F>Hm</F>. O K. How many tickets?</A>
+<B><F>Errn</F>. <.></.> One.</B>
+<A><F>Ah</F> I see. O K. <F>Mmm</F> we have a local train and express train. Which <OL>do you like better</OL>?</A>
+<B><OL><F>Ummm</F></OL>. <.></.> Express train.</B>
+<A><F>Hmm</F>. O K. <F>Eh</F> what time, two o'clock, four o'clock, six o'clock?</A>
+<B><..></..></B>
+<A>What time train? <OL><nvs>cough</nvs></OL></A>
+<B><OL><F>Umm</F></OL>. <..></..> <F>eh</F> <R>th</R> three o'clock.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>.</B>
+<A>O K. <.></.> So, here you are. One ticket.</A>
+<B>Thanks.</B>
+<A><F>Hm</F>. O K.</A>
+<B><JP>Hai</JP>.</B>
+<A>Thank you. Have a nice trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. Then, <F>mm</F> <H pn="B's name">XXX02</H>, <F>eh</F> did you go to New York?</A>
+<B>No.</B>
+<A>No? <F>Umm</F>. Then, <SC>overseas travel</SC> any overseas travel?</A>
+<B><.></.></B>
+<A>Outside Japan?</A>
+<B><F>Umm</F>. <.></.> <F>Eh</F> <.></.> <JP>ima made ittano</JP> <R>Hawa</R> Hawaii,</B>
+<A><F>Umm</F>.</A>
+<B><F>umm</F> and <.></.> Egypt.</B>
+<A><F>Ah</F> interesting.</A>
+<B><F>Eh</F> <.></.> <R>Tai</R> <F>eh</F> Taiwan.</B>
+<A><F>Hm</F>.</A>
+<B>And <..></..> <JP>Kankoku</JP>.</B>
+<A><F>Umm</F>. I see. In Egypt, what did you see?</A>
+<B>"Did you see"? <F>Umm</F>. <..></..> <F>Eh</F>. <nvs>laughter</nvs> <.></.> Millennium. <nvs>laughter</nvs></B>
+<A><F>Hm</F>.</A>
+<B><F>Um</F>. <.></.> <F>Eh</F>. <..></..> September.</B>
+<A><F>Ahh</F>. <F>Hmm</F>. Did you see a pyramid?</A>
+<B><?>Pyramid</?>.</B>
+<A><F>Hmm</F> I see. <F>Eh</F> which was the best country,</A>
+<B><F>Umm</F>.</B>
+<A><.></.> for you?</A>
+<B><.></.> Best country. <..></..> Sphinx. <F>Uuu</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Oh</F> I see. <F>Hmm</F>. O K. Thank you. Now I'm going to</A>
+<ctxt>The interviewer is handing a card.</ctxt>
+<A>do this one. <??></??>. Please make a story <.></.> with these pictures from number</A>
+<ctxt>The interviewer is pointing each picture.</ctxt>
+<A>one, two, three, four. O K? Please start.</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><??></??>. <F>Umm</F>. <.></.> <nvs>laughter</nvs> <R>Animal</R> <SC>animal</SC> <JP>nante iundakkena</JP> <..></..> <SC><JP>kappuru ga</JP> <F>uum</F> <.></.> <JP><R>doubutsu</R></JP> <JP><SC>doubutsu</SC></JP> <F>uum</F> animal <.></.> circus</SC> <JP><F>a</F> chigatta</JP> <..></..> <at odr="1" crr="a"></at> boy and <at odr="2" crr="a"></at> girl <F>umm</F> <SC>with</SC> <.></.> in the <.></.> <n_lxc odr="3" crr="zoo">animal <?>circus show</?></n_lxc> <nvs>laughter</nvs> <.></.> <F>eh</F> <..></..> and <SC>watch</SC> <o_odr odr="5" crr="watching a lion"><at odr="4" crr="a"></at> lion watching</o_odr>. <..></..> <??></??>. <..></..> <CO><SC>Ha</SC> <F>umm</F> boy and girl</CO>. <..></..> <F>Umm</F>. <..></..> <JP>Tobashimashite</JP>. <nvs>laughter</nvs> <JP><F>Eeto</F></JP> <..></..> <SC>girl's</SC> <F>umm</F> <..></..> <at odr="1" crr="the"></at> girl is, <?><o_odr odr="4" crr="eating ice cream">ice cream, <v_lxc odr="3" crr="eating"><v_fml odr="2" crr="having">have</v_fml></v_lxc></o_odr></?>. <..></..> <JP><F>Eeto</F></JP> <JP><SC>saru</SC></JP> <R>cheetah</R> cheetah watching. <.></.> <F>Umm</F>. <..></..> <JP><F>Ee</F></JP> <JP><?>suimasen</?></JP>. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A><F>Hm</F> <F>hm</F> <F>oh</F>. O K. O K. Thank you. <H pn="B's name">XXX02</H>, do you like animals?</A>
+<B><F>Ah</F>. <F>Umm</F>. <??></??>.</B>
+<A><F>Um</F> <F>umm</F>. What animal do you like best?</A>
+<B>Best. <..></..> Cat.</B>
+<A><F>Umm</F>. Why?</A>
+<B><F>Uum</F> <..></..> Pretty.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hm</F>. <.></.> O K. Thank you. Now, we are <SC>at</SC> almost at the end of the interview. But what are you going to do this weekend? Your plan <.></.> for weekend?</A>
+<B><F>Ummm</F>. Working.</B>
+<A>Working? Really? <F>Hmm</F>. O K. Thank you.</A>
+<B>Thank <OL>you</OL>.</B>
+<A><OL>Thank you</OL> for coming.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,402 @@
+<interview>
+<filename>file01111.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>female</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>830</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Er</F> good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you.</A>
+<B>Nice to meet you, <OL>too</OL>.</B>
+<A><OL><R>Can I</R></OL> call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F>. O K. Yeah.</B>
+<A>O K. <F>Um</F>. <H pn="B's name">XXX02</H>, where do you live <OL>now</OL>?</A>
+<B><OL><nvs>cough</nvs></OL> Now, I live in <H pn="others1">XXX03</H> in <H pn="others2">XXX04</H>.</B>
+<A><F>Hu-huh</F>. <F>Hum</F>. Do you live with your family there?</A>
+<B>No,</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><R>o</R></OL> only me.</B>
+<A>O K. <F>Um</F>. So, where does your family live?</A>
+<B>My family lives in <H pn="others3">XXX05</H> prefecture.</B>
+<A><F>Hu-huh</F>. Are you from <H pn="others3">XXX05</H>?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. O K. <F>Erm</F> tell me about your hometown.</A>
+<B><F>Hum</F> <laughter>in <H pn="others3">XXX05</H></laughter>, it is very local area, so in childhood,</B>
+<A><F>Hu-huh</F>.</A>
+<B>I play in the mountain</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B><OL><laughter>near my</laughter></OL> home, <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>I play in river.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Huum</F> I like countryside very much. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah-huh</F></OL> O K. <F>Er</F> how do you feel living in <H pn="others3">XXX05</H>?</A>
+<B><F>Hum</F> it is very crowded. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>In the morning,</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>umm</F> in the train,</B>
+<A><F>Hu-huh</F>.</A>
+<B>I always feel bad</B>
+<A><OL>O K <F>um</F></OL>.</A>
+<B><OL><??></??> many</OL> people.</B>
+<A>I see. <F>Hum</F> and <F>err</F> tell me a little more about your family.</A>
+<B><F>Hum</F> <F>huum</F> I don't have <R>any</R> <F>umm</F> any brother and sister,</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>so</OL> I'm only one child.</B>
+<A>O K. <OL><F>Um</F></OL>.</A>
+<B><OL><nvs>cough</nvs></OL> <F>Um</F> <F>ehh</F> <F>hum</F> and my father and mother <R>is</R> is <F>um</F> more older than my friends' parents.</B>
+<A><F>Hum</F>.</A>
+<B><nvs>cough</nvs> <F>Um</F> <R>my</R> my parents is already sixty <OL>five</OL>,</B>
+<A><OL>O K</OL></A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B>so <nvs>cough</nvs> when I was a child,</B>
+<A><F>Hu-huh</F>.</A>
+<B>I was a little <R>sad</R> <OL><laughter>sad because my parents</laughter></OL></B>
+<A><OL><nvs>laughter</nvs> <F>Um</F></OL>.</A>
+<B><laughter>cannot play with me</laughter></B>
+<A><F>Hu-huh</F>. <F>Um</F>.</A>
+<B>in <F>mm</F> like leisure land,</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>um</F> because my friends</B>
+<A><F>Hum</F>.</A>
+<B><F>um</F> always <SC>play</SC> <F>mm</F> enjoy jet coaster <OL>with</OL></B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B>their parents.</B>
+<A><F>Oh</F> I see. <OL><F>Um</F></OL>.</A>
+<B><OL><F>Um</F></OL>. But now I'm very happy with my family.</B>
+<A>I see. O K. O K. <F>Erm</F> what's your hobby?</A>
+<B><F>Mm</F> I like traveling and scuba diving.</B>
+<A>Scuba diving?</A>
+<B>Yeah.</B>
+<A><F>Hum</F>. Scuba diving sounds difficult.</A>
+<B>No, <laughter>not so</laughter>. <F>Um</F> two years ago, <OL>I</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>got license, <OL>but</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>it take only three days.</B>
+<A>Three days?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B>Very easy.</B>
+<A><F>Hu-huh</F>. <F>Um</F>. <F>Err</F> where do you like to go for scuba diving?</A>
+<B><F>Hum</F>. I like the sea in Thailand.</B>
+<A>Thailand?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>Err</F> I saw <F>hum</F> whale shark. <SC>You</SC> do you know <OL>whale shark</OL>?</B>
+<A><OL>No</OL>.</A>
+<B><F>Um</F> very <R>big</R> big shark.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Erm</F> I saw <F>um</F> five meters. <nvs>laughter</nvs></B>
+<A><F>Oh</F> really? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Very exciting</laughter></OL>.</B>
+<A><F>Hum</F>. <.></.> But it's scary?</A>
+<B><F>Hum</F> no. <.></.></B>
+<A>O K. <F>Um</F>. So <F>erm</F> how did you get interest in scuba diving?</A>
+<B><F>Erm</F> when I traveled <F>um</F> Southeast Asia, <F>um</F> <SC>I saw many</SC> <F>err</F> I met many people <R>who</R> who enjoy scuba diving, <OL>so</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><R>they</R> <SC>they tau</SC> they recommended me,</B>
+<A><F>Hu-huh</F>.</A>
+<B><laughter>so</laughter> I'm, too, get license.</B>
+<A><F>Oh</F> I see. O K. <F>Um</F>. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture.</A>
+<B>Yeah.</B>
+<A>Please describe it for me.</A>
+<B><F>Hum</F> <nvs>cough</nvs> <F>hum</F> <F>um</F> <..></..> <F>um</F> they are couple,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and this is their first <OL>date</OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>And in the restaurant, <nvs>cough</nvs> <F>hum</F> <F>erm</F> <R>he</R> he chose <SC>this fai</SC> this wine</B>
+<A><F>Hu-huh</F>.</A>
+<B>for her birthday present.</B>
+<A>O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> This wine is made in <R>her</R> her <R>birthday</R></B>
+<A><F>Hum</F>.</A>
+<B>birthday year.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> and more? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Yes</OL>. <nvs>laughter</nvs></A>
+<B><F>Hum</F> <F>hu</F> <F>hu</F> <..></..> <F>hum</F> <.></.> <nvs>cough</nvs> <F>hu</F> <F>hu</F> <.></.> <F>hum</F>.</B>
+<A><F>Oh</F> <OL>that's O K</OL>.</A>
+<B><OL><laughter><F>Oh</F> O K</laughter></OL>.</B>
+</task>
+<followup>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Um</F> do you like</OL> this kind of restaurant?</A>
+<B><F>Hum</F>. <laughter>No</laughter>.</B>
+<A>No? <OL><F>Um</F></OL>.</A>
+<B><OL>No</OL>, <?>now</?> I don't have a lot of money, <OL>so</OL></B>
+<A><OL><F>Hu-huh</F></OL></A>
+<B>I cannot afford. <nvs>laughter</nvs> But maybe, <SC>I get</SC> <R>I</R> I can earn more money,</B>
+<A><F>Hu-huh</F>.</A>
+<B>I want to go such place <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>.</A>
+<B>someday.</B>
+<A>Do you have any favorite restaurant around here?</A>
+<B>Around here. <F>Hum</F> <F>um</F> <SC>it is</SC> it has two weeks <OL><laughter>only</laughter>, so</OL></B>
+<A><OL><F>Um</F> <F>um</F></OL>.</A>
+<B><laughter>I didn't</laughter> go many restaurant</B>
+<A><F>Hu-huh</F>.</A>
+<B>near here, but I like <F>hum</F> <SC>curry rai</SC> <R>curry</R> curry shop</B>
+<A><F>Um</F>.</A>
+<B><F>um</F> next to the <H pn="company name1">XXX06</H>.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><R>In</R></OL> <F>hum</F> in that shop, <nvs>cough</nvs> <F>um</F> we can try</B>
+<A><F>Um</F>.</A>
+<B><F>hum</F> many, many curry, <?>whole of</?> the world</B>
+<A><OL>O K</OL>.</A>
+<B><OL>like</OL> Indo-curry,</B>
+<A><F>Hu-huh</F>.</A>
+<B>Sri Lanka curry,</B>
+<A><F>Hu-huh</F>.</A>
+<B>English curry.</B>
+<A><F>Oh</F>. <OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Erm</F> what's the difference <F>er</F> between the <F>err</F> English curry and Indian curry? <nvs>laughter</nvs></A>
+<B><F>Um</F> English curry is <F>um</F> little sweet.</B>
+<A><F>Um</F>.</A>
+<B>And <SC>lo</SC> <F>um</F> it is included in many <F>um</F> vegetables,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and <R>Indi</R> India curry is <F>um</F> so spicy,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and only chicken is <laughter>included</laughter>,</B>
+<A><F>Hum</F>.</A>
+<B>no vegetables.</B>
+<A><F>Ah-huh</F>. <F>Um</F>. Which do you like better?</A>
+<B><F>Hum</F> I like Indian one. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. <.></.> So? Because? Why? <OL><F>Um</F></OL>.</A>
+<B><OL>Because</OL></B>
+<A><F>Um</F>.</A>
+<B><F>hum</F> I prefer spicy curry.</B>
+<A><F>Ah-huh</F>. I see. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, next, we will do a role-play. Do you know what's the role-play is?</A>
+<B><F>Um</F> I have heard of <OL>the name</OL>.</B>
+<A><OL>Yes, <F>um</F></OL> this is your role.</A>
+<B><F>Um</F>.</B>
+<A>I'll be a sales clerk, and you are a shopper. <OL><F>Um</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Hum</F>. O K. <F>Um</F> <R>I want</R> <F>um</F> I want some pants. <OL>Pants</OL>.</B>
+<A><OL>Pants</OL>? <F>Um</F>.</A>
+<B>Do you have <F>umm</F> M size pants? <CO>M size <OL>or</OL></CO>.</B>
+<A><OL>O K</OL>. <F>Um</F> <F>erm</F> <JP><F>uhnt</F></JP> <F>erm</F> M size pants <OL>are</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>on this shelf.</A>
+<B><F>Oh</F> O K. <F>Huum</F> <F>hum</F> I want white one.</B>
+<A><F>Um</F>.</A>
+<B>Please show me the white color of this type.</B>
+<A>This type? <OL><F>Err</F></OL>.</A>
+<B><OL>This type</OL>.</B>
+<A><OL>Sorry</OL>.</A>
+<B><OL><SC>Only</SC></OL></B>
+<A><F>Um</F>.</A>
+<B>you have only black one?</B>
+<A><F>Erm</F> we don't have any white one. <F>Um</F>.</A>
+<B><F>Hum</F> but I want white one. Please <OL>show</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>me another type.</B>
+<A><F>Oh</F> sure. O K. This has white one. <F>Um</F>.</A>
+<B><F>Oh</F>. O K. Can I try it on?</B>
+<A>Sure. <F>Um</F>.</A>
+<B><F>Hum</F> I'm sorry, <R>thi</R> <F>mm</F> <SC>this is</SC> this waist size is a little larger for me.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> I want to try smaller one.</B>
+<A>Smaller one. O K.</A>
+<B><F>Oh</F> thank you.</B>
+<A><F>Um</F>.</A>
+<B><F>Oh</F> I like it.</B>
+<A><F>Hu-huh</F>.</A>
+<B>I will take this one.</B>
+<A><F>Oh</F> thank <OL>you <F>um</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Hum</F>. <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>Can I use</laughter> credit card?</B>
+<A>Credit card. It depend on the credit cards.</A>
+<B><F>Erm</F> <SC>I use</SC> <F>um</F> can I use <R>Visa</R> Visa card?</B>
+<A>Visa card. Visa card is fine. <OL><F>Um</F></OL>.</A>
+<B><OL><F>Oh</F></OL>. O K. <nvs>cough</nvs></B>
+<A>O K.</A>
+<B>I want to pay, <OL>one time</OL>.</B>
+<A><OL>O K</OL>. I see. <F>Um</F> so come to the cash <OL>register</OL>,</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>please.</A>
+<B>Yes.</B>
+<A>O K. Thank you. <F>Um</F>.</A>
+</task>
+<followup>
+<A>Do you like shopping?</A>
+<B><laughter>I like</laughter> very much.</B>
+<A><F>Hu-huh</F>. What kind of <F>err</F> things do you like to look around?</A>
+<B><F>Hum</F> shoes and accessory.</B>
+<A><F>Hum</F>. O K. <F>Erm</F> <SC>what</SC> <F>er</F> could you tell me</A>
+<B><F>Hum</F>.</B>
+<A>about your last shopping?</A>
+<B><F>Hum</F> yesterday,</B>
+<A><F>Hum</F>.</A>
+<B>I went to Marui City</B>
+<A><F>Hu-huh</F> <F>um</F>.</A>
+<B><laughter>in Shibuya</laughter>.</B>
+<A>O K. <OL><F>Um</F></OL>.</A>
+<B><OL>I</OL> bought <F>erm</F> this necklace.</B>
+<A><F>Oh</F> really? <OL><F>Um</F></OL>.</A>
+<B><OL><nvs>laughter</nvs> <laughter>Yes</laughter></OL>. <F>Hum</F> I want <F>um</F> <R>big</R> big one</B>
+<A><F>Hu-huh</F>.</A>
+<B>because in the summer,</B>
+<A><F>Hum</F>.</A>
+<B><F>um</F> <F>ah</F> my clothes become more simple,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so I want <F>um</F> make impact by accessories,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so I chose this one.</B>
+<A><F>Oh</F> that's pretty. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter><F>Oh</F> thank you</laughter></OL>.</B>
+<A>O K. <F>Um</F>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, <F>erm</F> I'm going to show you another picture. <nvs>cough</nvs> This time, I want you to make a short story.</A>
+<B><F>Hum</F>. Story.</B>
+<A>Story goes like this.</A>
+<B>Yeah.</B>
+<A>And <OL>it</OL></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>happened last week.</A>
+<B><F>Hu-huh</F>.</B>
+<A>So, start your story, "<OL>One</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>day last week,"</A>
+<B><F>Hum</F> <.></.> <F>hum</F> <F>eh</F> one day last week? What does mean one day?</B>
+<A><F>Ah</F>. O K. It <OL>happened</OL></A>
+<B><OL><F>Um</F> <F>um</F></OL>.</B>
+<A>one day <OL>last</OL></A>
+<B><CO><OL>One</OL></CO>.</B>
+<A>week.</A>
+<B><F>Ah</F>. O K. <F>Hum</F>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B><F>Hum</F>. <OL><nvs>cough</nvs></OL></B>
+<A><OL>O K</OL>?</A>
+<B><nvs>cough</nvs> O K. <F>Hum</F> her husband,</B>
+<A><F>Hum</F>.</A>
+<B><F>um</F> went abroad on business, and this night, her husband will come back. <SC>So</SC> <nvs>cough</nvs> but <R>she</R> she couldn't find <laughter>anything</laughter> in refrigerator, <nvs>laughter</nvs> so <nvs>cough</nvs> <R>she</R> she went to supermarket. <.></.> <nvs>cough</nvs> And, <R>she chose</R> she chose <F>er</F> one her husband like best.</B>
+<A><F>Um</F>.</A>
+<B><nvs>cough</nvs> <.></.> <SC>And</SC> but, <R>she</R> she couldn't decide <laughter>only</laughter> one thing, so she bought <laughter>many, many things</laughter>.</B>
+<A><F>Hu-huh</F>.</A>
+<B>So <R>her</R> her budget was <R>very</R> <laughter><SC>very big</SC></laughter> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>very heavy</laughter>.</B>
+<A><F>Hum</F>.</A>
+<B><CO>And in the kitchen, she made, at first, <SC><JP>medamayaki</JP></SC> <F>umm</F> fried</CO>.</B>
+<A>O K. <OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Um</F> <nvs>laughter</nvs></OL> and next, <R>she</R> she will make another dish, <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><?>second dish started</?> <OL><??></??></OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><F>Hum</F> <R>many</R> <laughter>many dishes <OL>she</OL></laughter></B>
+<A><OL>O K</OL>.</A>
+<B><laughter>will cook</laughter>. <.></.> <F>Hum</F> and <SC>her husband</SC> when her husband come back home,</B>
+<A><F>Um</F>.</A>
+<B><R>he</R> he will very <laughter>surprise</laughter> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>um</F> such a special <laughter>dinner</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F></OL> I see. Thank you very <OL>much</OL>.</A>
+<B><OL>O K</OL>.</B>
+</task>
+<followup>
+<A><F>Um</F>. <F>Erm</F> do you cook?</A>
+<B>Yeah. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>Only easy one.</B>
+<A>Easy one? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Like <laughter><JP>donburi</JP></laughter>.</B>
+<A><F>Oh</F>. O K. Can you tell me <F>err</F> how to make your speciality cooking?</A>
+<B><F>Hum</F> <F>um</F> I like to cook <JP>tamago-donburi</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hu-huh</F></OL>. O K.</A>
+<B><nvs>laughter</nvs> <OL><F>Hum</F></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>Hu</F> <F>hu</F> <F>mm</F> <F>hum</F> <R>I</R> I use <F>um</F> <JP>katsuodashi</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B>And mix <OL>many</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><JP>nandaro</JP> <F>ah</F> <R>soy</R> soy sauce, <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><.></.> <F>hum</F> how can I tell in English, <JP>chomiryo</JP>.</B>
+<A><OL><F>Oh</F> it's</OL></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>O K. It's O K. <OL><F>Um</F> <F>um</F></OL>.</A>
+<B><OL><JP>Chomiryo</JP></OL>. I use many one. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>I taste always. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>And make <nvs>laughter</nvs> special one. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hu-huh</F></OL>. I see. <F>Erm</F> how did you learn <OL>how to</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>make <OL>it</OL>?</A>
+<B><OL><nvs>cough</nvs></OL> <F>Um</F> <F>um</F> I saw my mother cooking.</B>
+<A><F>Um</F>.</A>
+<B>So <laughter>I saw</laughter>, and maybe <F>um</F> <laughter>imagine</laughter>.</B>
+<A><F>Hu-huh</F>.</A>
+<B><SC>It is very</SC> it is <OL><laughter>better</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Hum</F> so <R>I don't</R> <nvs>cough</nvs> I don't learn by <OL>textbook</OL>,</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>hum</F> so <laughter>only</laughter> <R>I</R> I think,</B>
+<A><F>Um</F>.</A>
+<B>and I try.</B>
+<A><F>Oh</F>. <OL>O K</OL>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>Is your mother a good cook?</A>
+<B>Yes, I like <R>her</R> her dish.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So interview is almost over. <F>Erm</F> what are you going to do after this interview?</A>
+<B><F>Hum</F> now, we have small project.</B>
+<A><F>Hu-huh</F>.</A>
+<B>So now we are thinking of <nvs>cough</nvs> <F>mm</F> what promotion is better for <H pn="others4">XXX07</H>.</B>
+<A>O K. <OL><F>Um</F></OL>.</A>
+<B><OL><R><H pn="others4">XXX07</H></R> <H pn="others4">XXX07</H></OL>. So <R>I</R> <nvs>laughter</nvs> I join my group,</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>and</OL> discuss about <OL>topic</OL>.</B>
+<A><OL><F>Hum</F></OL>. I see. Is it difficult?</A>
+<B>Yes, <laughter>difficult</laughter>.</B>
+<A><F>Um</F>.</A>
+<B><F>Hum</F> we have to think very new and innovative one,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so it is very <OL><laughter>difficult</laughter></OL>.</B>
+<A><F>Oh</F> I see. O K. I hope your project will be good. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Thank you very much <OL>today</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A>Interview's over.</A>
+</stage5>
+</body>
+</interview>

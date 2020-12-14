@@ -1,0 +1,174 @@
+<interview>
+<filename>file00952.txt</filename>
+
+<head version="1.3">
+<date>2002-01-29</date>
+<sex>male</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. <R>Wha</R> what's your name?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H> is O K?</A>
+<B>O K.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Uhm</F> fine.</B>
+<A>O K. Good. Are you busy?</A>
+<B><F>Urrm</F> <.></.> a little.</B>
+<A>A little busy? O K. What do you study here?</A>
+<B><.></.> <F>Uhm</F> <.></.> architecture</B>
+<A><F>Uhmm</F>.</A>
+<B>and <.></.> interior coordinate.</B>
+<A><F>Uhmm</F>. Do you like the lessons?</A>
+<B>Yeah.</B>
+<A>Of course. <nvs>laughter</nvs> O K. Now, in your free time, <H pn="B's name">XXX02</H>, what do you like to do?</A>
+<B><F>Uhm</F> <F>urr</F> <.></.> <F>uhm</F> listen to music.</B>
+<A><F>Uhm</F>. What kind of music?</A>
+<B><F>Uhm</F> <JP>soune</JP> <.></.> <F>mhm</F> <..></..> many genre. <.></.> <F>Uhm</F> <F>ur</F> <.></.> <OL>rock</OL>.</B>
+<A><OL>O K, <SC>what</SC></OL> rock? Tell me about your favorite rock group.</A>
+<B>Rock group? <.></.> <F>Uhm</F> artist O K?</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhmm</F> <.></.> Beck Hansen and <.></.> <??></??>.</B>
+<A>O K. Why do you like Beck?</A>
+<B><F>Uhmm</F> <.></.> <F>uhm</F> <.></.> very <.></.> <R>funny</R> <.></.> funny music and <.></.> enjoy the music</B>
+<A><F>Uhmm</F>.</A>
+<B><R>he</R> he is.</B>
+<A><F>Uhm</F>. What do you mean "funny"?</A>
+<B><CO><F>Uhm</F> <..></..> many kind of music <F>uhm</F> <JP>nante iundaro</JP> complex <.></.> and <JP><F>unto</F></JP> <.></.> <JP>nante iundarouna</JP></CO>. <..></..></B>
+<A><F>Mhm</F>. <F>Mhm</F> that's O K. O K. <R>Where do you</R> where do you live, <H pn="B's name">XXX02</H>?</A>
+<B><.></.> <H pn="others1">XXX03</H> Prefecture.</B>
+<A><H pn="others1">XXX03</H>? It's a long way. With your family?</A>
+<B><F>Er</F> yes.</B>
+<A>O K. Tell me about your family.</A>
+<B><F>Uhm</F> father, mother, and brother.</B>
+<A>O K. What does your brother do?</A>
+<B><F>Uhm</F>. <.></.> College student. <.></.> <CO>In <H pn="others2">XXX04</H>, <F>uhm</F> <.></.> <JP>sousune</JP> <laughter><JP>hai</JP></laughter></CO>. <.></.></B>
+<A><?>But you're</?> friendly?</A>
+<B><F>Er</F>?</B>
+<A>You are friendly? You are friends with your brother? <R>Good</R> good friend? Your brother is a good friend?</A>
+<B><F>Oh</F> yes.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Oh</F> of course. <laughter>O K</laughter>. Yeah. Good. O K. <H pn="B's name">XXX02</H>, I'd like you to look at a picture for me. It's a picture of a restaurant. Can you describe this picture? <.></.> Talk about this picture?</A>
+<B><.></.> <F>Uhm</F>. <.></.></B>
+<A>What do you see?</A>
+<B><F>Uum</F> <.></.> seven o'clock. <.></.> <F>Uhm</F> <.></.> dinnertime. <..></..> Drinking wine. <..></..> Wearing yellow clothes.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Urr</F> <.></.> she wears <JP><F>aato</F></JP> <..></..> pink clothes. <..></..></B>
+</task>
+<followup>
+<A>O K. O K. <H pn="B's name">XXX02</H>, do you like <SC>this kind of restaurant</SC> this type of restaurant?</A>
+<B><F>Uhmm</F>. <..></..></B>
+<A>Not so? <nvs>laughter</nvs> <R>Wha</R> what type of restaurant do you like?</A>
+<B><..></..> <F>Uhmm</F> <JP>ienai</JP> <JP>nante iun desukane</JP> <JP><F>unto</F></JP> <R>ca</R> <R>casual</R></B>
+<A><F>Uhmm</F>.</A>
+<B>casual type.</B>
+<A><F>Uhmm</F>.</A>
+<B><F>Urr</F> <..></..> <JP>nante iundarou</JP> <.></.> <R>no</R> no tie</B>
+<A><F>Uh</F> <F>uh</F> <F>uh</F>.</A>
+<B>type</B>
+<A><F>Uhm</F>.</A>
+<B>restaurant.</B>
+<A><F>Uhmm</F>. Around here?</A>
+<B>Yeah. <laughter><JP>sousune</JP></laughter>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. O K. Good. <F>Well</F> we'll try a role-play then. I want you to imagine <.></.> the situation here. Please read this to yourself. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B><.></.></B>
+<A>O K.</A>
+<B><F>Uhm</F>.</B>
+<A>Good afternoon, sir. Can I help you?</A>
+<B><F>Uhm</F> <.></.> <F>urr</F> <.></.> I want to go to <.></.> New York. <F>Urr</F> <JP>nanda</JP> <.></.> <F>urm</F>. <..></..></B>
+<A>O K. <F>Well</F> there are many trains.</A>
+<B><F>Uum</F>. <..></..></B>
+<A>What time would you like to leave?</A>
+<B><F>Uhm</F> three o'clock.</B>
+<A>O K. We have an express train or a local train.</A>
+<B><..></..></B>
+<A>Which one do you want?</A>
+<B><.></.> And <F>urr</F> <..></..> <R>ex</R></B>
+<A>Express train?</A>
+<B>express train.</B>
+<A>O K. That's a hundred dollars.</A>
+<B><.></.> O K.</B>
+<A>O K. How would you like to pay?</A>
+<B><.></.> <F>Ur</F>?</B>
+<A>How do you pay? Cash or credit card?</A>
+<B><F>Ur</F> cash.</B>
+<A>O K. And how many tickets would you like, sir?</A>
+<B><F>Uhm</F> <.></.> one.</B>
+</task>
+<followup>
+<A>One ticket? O K. That's a hundred dollar. O K. <laughter>Thank you very much</laughter>. O K. That's the end of the role-play. <H pn="B's name">XXX02</H>, have you been to another country?</A>
+<B><F>Uhm</F> yes. <.></.> <F>Uhm</F> <.></.> Hong Kong <.></.> and <.></.> Korea.</B>
+<A>Korea? <F>Uhmm</F> <R>tell me</R> tell me about Korea.</A>
+<B><F>Uhmm</F>. <..></..> <F>Urr</F> <.></.> very <.></.> noisy.</B>
+<A>Noisy?</A>
+<B><.></.> <F>Uhm</F>. <.></.> For example, <F>urr</F> <.></.> <SC>car</SC> many cars</B>
+<A><F>Uhm</F>.</A>
+<B>and <.></.> <JP>nante iuno kana</JP> <..></..> <F>uhm</F> <.></.> traffic jam</B>
+<A><F>Uhmm</F>.</A>
+<B>very often.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uh</F> <F>uh</F>. O K. O K. One more thing for you. So I'd like you to look at this here. There are four pictures here. <SC>I</SC> <F>urr</F> going from one, two, three, four. I want you to make a story from these pictures. O K? Make up a story. <.></.> Please.</A>
+<B><..></..> <F>Uhm</F>. We go to cinema. <F>Ur</F> <..></..> three people. <.></.> And <.></.> <F>urr</F> <..></..> buy a popcorn and <.></.> juice. <F>Uhm</F>. <..></..> We are <R>look</R> look cinema. And <..></..> <F>uhm</F> <..></..> <R>plane</R> <SC>plane accident</SC></B>
+<A>Sure.</A>
+<B>about plane accident. <..></..> <JP>nante iunda</JP>. <.></.> We are <.></.> very happy.</B>
+</task>
+<followup>
+<A>Sure. O K. Thank you very much. O K. So <SC>do</SC> what's your favorite movie?</A>
+<B>Favorite movie? <.></.> <F>Urr</F> <JP>soune</JP> <.></.> <JP><F>eeto</F></JP> <..></..> <F>urr</F> "Arizona Dream".</B>
+<A>O K. I don't know that movie. <R>Tell</R> tell me about that movie.</A>
+<B><F>Uhm</F>. <.></.> Johnny Depp. <.></.> <JP><F>uunto</F></JP> <..></..> <F>uhmm</F> <..></..> <JP>chotto <.></.> setsumei dekinaindesu</JP>.</B>
+<A><R>Is it a</R> is it a violence movie or is it a love story?</A>
+<B><F>Ur</F> love story.</B>
+<A>It's a love story? And it's <.></.> interesting?</A>
+<B><.></.> <JP>nandarou</JP> <.></.> <R>serious</R></B>
+<A><F>Ahhh</F>.</A>
+<B>serious movie.</B>
+<A>A serious movie. But it's good?</A>
+<B><.></.> <F>Mhm</F>?</B>
+<A>A good movie?</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. O K. That's almost the end of the interview then, <H pn="B's name">XXX02</H>. <F>Ur</F> tonight, do you have a plan or are you studying?</A>
+<B><.></.> <F>Ur</F> yes. <.></.> <F>Uhm</F> study.</B>
+<A>Study? <F>Uhm</F>.</A>
+<B><F>Urrr</F> <..></..> <JP><F>eeto</F></JP> <..></..> <F>uhm</F> <F>urm</F> make a portfolio.</B>
+<A><F>Uhmm</F>. <?>That</?> busy. O K. A little busy. O K. That's good. Do you have a part-time job?</A>
+<B><.></.> <F>Ur</F> yes.</B>
+<A><F>Uhm</F>. Where do you work?</A>
+<B><JP><F>Eeto</F></JP> <..></..> <F>uhm</F> house cleaning and <JP>biru</JP> cleaning service.</B>
+<A><F>Uhmm</F>. Do you like the job?</A>
+<B><.></.> <nvs>laughter</nvs></B>
+<A>Good money?</A>
+<B>Yes.</B>
+<A><F>Oh</F> that's good. <R>Tha</R> <SC>that</SC> so you like the job. Of course. O K. <F>Well</F> thank you very much for your time.</A>
+<B><F>Ur</F> thank you.</B>
+<A>O K. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

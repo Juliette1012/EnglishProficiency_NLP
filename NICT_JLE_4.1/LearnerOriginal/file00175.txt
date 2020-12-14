@@ -1,0 +1,194 @@
+<interview>
+<filename>file00175.txt</filename>
+
+<head version="1.3">
+<date>2000-11-22</date>
+<sex>male</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>605</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Er</F> Mister. <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <F>Er</F> Mister. <H pn="B's name">XXX02</H>, do you live <SC>near here</SC> near this building?</A>
+<B><F>Urr</F> no. <F>Urr</F> I live in <.></.> <H pn="others1">XXX03</H> Prefecture.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A>What part in <H pn="others1">XXX03</H>?</A>
+<B><F>Uhm</F> do you know <H pn="others2">XXX04</H> City?</B>
+<A><laughter><F>Err</F> no, sorry</laughter>. <laughter>I don't know</laughter>. <laughter>What is your town like</laughter>?</A>
+<B><F>Urrr</F> it's <.></.> in the <SC>countryside</SC> very countryside.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. I think. <F>Uhm</F> <.></.> <R>I</R> I was transferred last month <.></.> from <?><H pn="others3">XXX05</H></?>,</B>
+<A><F>Oh</F> really?</A>
+<B>to <H pn="others4">XXX06</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>There're no department and restaurant in <H pn="others2">XXX04</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It's very <.></.> countryside.</B>
+<A>How do you enjoy your life in <H pn="others2">XXX04</H>?</A>
+<B><F>Uhmmmm</F> I play tennis and golf <F>urrm</F> in the <H pn="others5">XXX07</H>. <F>Uhmm</F>. There're many sports clubs, so I belong to tennis club.</B>
+<A><OL><F>Uh-huh</F> I see</OL>.</A>
+<B><OL>And on weekend, I play</OL> tennis.</B>
+<A>Is there anything else you can enjoy there?</A>
+<B><F>Urrm</F> <F>urrm</F> <F>urr</F>. <..></..> <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B><F>Uhmm</F> <.></.> now, <.></.> <R>I</R> I don't know.</B>
+<A>Do you live in a dormitory?</A>
+<B>Dormitory?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Dormitory?</B>
+<A>Company <R>do</R> dormitory?</A>
+<B><R>Do</R> dormitory? I don't know the word.</B>
+<A>Company's apartment.</A>
+<B><F>Oh</F> yes. Yes.</B>
+<A>Do you have a roommate?</A>
+<B>No. <F>Urr</F> <.></.> <F>urr</F> <F>urr</F> <.></.> <F>uhmm</F> <.></.> <F>urrrm</F> <.></.> <SC>do</SC> I live in company dormitory <SC>but</SC> <F>uhm</F> <SC>so</SC> <.></.> <F>uhm</F> <..></..> <F>urrr</F> but <..></..> <JP>futsuu no apaato wo kariteru, kaisha ga kariteru</JP>. <.></.> <nvs>laughter</nvs> <.></.></B>
+<A><F>Urr</F> <.></.> do you have any hobbies?</A>
+<B><F>Urm</F> <.></.> <F>urr</F> I like driving the car.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> my wife, <.></.> too.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <.></.> we usually <.></.> go to driving <.></.></B>
+<A>I see.</A>
+<B>with my wife.</B>
+<A><F>Uh-huh</F>. Are you a good driver?</A>
+<B><.></.> Yes. <F>Urr</F> maybe.</B>
+<A><F>Uh-huh</F>. What is your favorite place to visit?</A>
+<B><F>Urrrm</F> <.></.> I like Izu and Hakone.</B>
+<A><F>Uhm</F>.</A>
+<B><R>Go</R> <.></.> go to Hakone and <F>urr</F>, <.></.> see the location of mountains.</B>
+<A><F>Uh-huh</F>. Mountains?</A>
+<B>Yeah.</B>
+<A><F>Uhm</F>. Do you like mountains?</A>
+<B><F>Uhmm</F>. <.></.> To see the mountain, <F>er</F> I like. But climbing mountain <.></.> is not <laughter>like</laughter>.</B>
+<A>How about your wife?</A>
+<B><F>Urm</F> <F>urm</F> <.></.> she likes driving, too. <SC>So</SC> and she likes car.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mhm</F>. <R>She</R> she has <.></.> B M W and <F>urr</F> <.></.> like driving.</B>
+<A><F>Uh-huh</F>. Do you have two cars?</A>
+<B>Yeah. Two cars.</B>
+<A>Why do you have two cars?</A>
+<B><F>Urrrm</F>. <.></.> So, <SC>in</SC> <.></.> as I said, <F>urr</F> <H pn="others2">XXX04</H> City is in the countryside. So <.></.> <R>it is</R> <F>urrm</F> <.></.> it is <F>urr</F> important to go anywhere <.></.> using car.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhm</F> I see. O K. Now I'd like to show you a picture. <.></.> O K. Please describe this picture.</A>
+<B><F>Uhmm</F>. <.></.> It is <JP>gerende</JP>. And many people enjoy skiing <.></.> and, <F>urr</F> <.></.> <R>childrens are</R> <.></.> <SC>childrens <.></.> are playing</SC> <F>uhm</F> <.></.> childrens <.></.> <SC>are <.></.> throwing <.></.> snowball</SC> <.></.> <SC>enjoy throw</SC> enjoy throwing snowballs. And <F>urr</F> <.></.> there is a lodge in this <JP>gerende</JP> and <F>urrm</F> <.></.> <SC>man and woman <.></.> were</SC> <.></.> <F>uhm</F> man and woman are enjoying about <.></.> talking. <.></.> That's all.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. Do you like to ski?</A>
+<B>No.</B>
+<A>No?</A>
+<B>Yes. <F>Urr</F> I don't like ski.</B>
+<A><F>Uh-huh</F>. Don't you like <F>urr</F> <SC>winter sports</SC> <.></.> any kind of winter sports?</A>
+<B><F>Uhm</F>. No, <.></.> I don't like.</B>
+<A>How about summer sports? Do you like summer sports?</A>
+<B><F>Urrr</F> <.></.> in the high school days, <F>urr</F> I enjoyed, <F>urr</F> summer sports. Go to sea and, <F>er</F> swimming. But, <F>urr</F> <.></.> I'm <.></.> twenty-nine years old. So, <F>uhm</F> <.></.> I don't go to the sea now.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><nvs>laughter</nvs> <laughter>O K</laughter>. <laughter>Because of the age</laughter>? <nvs>laughter</nvs> O K. Now I'd like to try a role play.</A>
+<B>Yes.</B>
+<A>O K. Please read this. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K. Hello.</A>
+<B>Hello. <F>Er</F> this is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> hi, Mister. <H pn="B's name">XXX02</H>.</A>
+<B>How are you?</B>
+<A>I'm fine.</A>
+<B><F>Uhm</F>. <.></.> <F>Urm</F> <.></.> I have two movie tickets. And <.></.> are you free this weekend?</B>
+<A>This weekend? Yes.</A>
+<B><F>Urm</F> <.></.> this Saturday, <F>urr</F> would you like to go to see movie, <F>er</F> with me?</B>
+<A><F>Uhm</F>. Sounds good.</A>
+<B>O K. <F>Urr</F> <.></.> <R>I think you</R> <.></.> I think <R>you</R> <.></.> you <.></.> live in Shinjuku <.></.> City. O K?</B>
+<A>Right. <nvs>laughter</nvs></A>
+<B>O K. <F>Urr</F> <.></.> <SC>I'll go to <.></.> Shibuya</SC> <.></.> <F>urr</F> I'll go to movie theater in Shibuya. O K?</B>
+<A><F>Uh-huh</F>. O K.</A>
+<B><F>Uhm</F>. Do you know the place, <F>urr</F> <.></.> Hachiko?</B>
+<A>Yes.</A>
+<B>Yes? <F>Uhm</F>. <R>On</R> on this Sunday, <F>urr</F> <.></.> <F>er</F>, <R>let's</R> <.></.> let's meet at Hachiko in Shibuya Station at <.></.> eleven A M.</B>
+<A>Eleven A M? O K.</A>
+<B>O K?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urrm</F> <..></..> <R>do you know how to</R> <.></.> do you know how to <.></.> go to Shibuya Station from Shinjuku City?</B>
+<A><nvs>laughter</nvs> <laughter>Yes, I think I know</laughter>. <laughter>I take Yamanote Line</laughter>.</A>
+<B>Yeah.</B>
+<A><laughter>So don't worry</laughter>.</A>
+<B>O K.</B>
+<A>O K. I'll see you in front of Hachiko.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>O K. See you then. Bye. O K. Do you like movies?</A>
+<B>Yes. But, <F>uhm</F> <R>I</R> I don't go movie theater. I watch <.></.> the movie <.></.> in my house.</B>
+<A>There's no movie theater in <H pn="others2">XXX04</H>?</A>
+<B><.></.> <F>Urr</F> <R>may</R> maybe I think so.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <R>I</R> <R>I</R> I rent video or D V D <.></.> and I watch the movie in my house with my wife.</B>
+<A><F>Uh-huh</F>. What kind of movies do you like?</A>
+<B><F>Urm</F> action movie and horror movie.</B>
+<A>Horror movie?</A>
+<B>Yes. <.></.> I like. <nvs>laughter</nvs></B>
+<A>Why horror movie?</A>
+<B><F>Urrm</F>. So <.></.> <F>uhm</F>. <.></.> <F>Uhm</F> <.></.> <F>uhhhm</F> <.></.> <R>I feel</R> I feel <.></.> sleep on romantic movie. <nvs>laughter</nvs> So <R>I</R> I like action and horror.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uh-huh</F>. <nvs>laughter</nvs> O K. Now <SC>I'd like to try</SC> <R>I</R> I'd like to show you another picture. <.></.> Where is that? O K. This one. This is the picture story. And this happened last week. So please make a story and start with "One day last week".</A>
+<B>O K.</B>
+<A>O K? Please start from here and like this.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Uhm</F> one day last week, <.></.> <F>uhm</F> <.></.> <SC>I go</SC> I went to restaurant <.></.> <R>with</R> <.></.> with my <.></.> uncle. And <.></.> the restaurant's atmosphere <.></.> is good, <.></.> I think. <.></.> And <R>we ordered</R> <.></.> we ordered <.></.> beer and <.></.> fish and chicken. And <.></.> we are very satisfied. And <.></.> my uncle <.></.> <SC>pay <.></.> the fee</SC> <.></.> paid the fee. <..></..> That's all.</B>
+</task>
+<followup>
+<A>O K. Do you like drinking alcohol?</A>
+<B>Yeah.</B>
+<A><F>Uh-huh</F>.</A>
+<B>I like drinking alcohol.</B>
+<A>Which do you like better, drinking alone or with your co-workers?</A>
+<B>Yeah, <F>urm</F> <.></.> with my co-worker.</B>
+<A><F>Uhm</F>. Why is that?</A>
+<B>So <F>uhmm</F> I like drinking alcohol <R>and</R> <F>urm</F> <.></.> and <SC>talk with my colleague</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B>like talking with my colleague.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So we go drinking with my colleague.</B>
+<A><F>Urm</F>. Tell me about the last time <R>you</R> you went a pub or a drinking place with co-workers.</A>
+<B><F>Oh</F>. Drinking <R>last time</R> <F>urr</F> <.></.> <R>last time</R> <F>er</F> <F>er</F> <F>urrm</F> <.></.> last time, <F>urm</F> my colleague like fishing <R>in</R> <.></.> in <H pn="others6">XXX08</H>. So <.></.> he said me that <F>urrr</F> <.></.> "<R>Sha</R> shall we go <.></.> fishing with me?". But <F>urr</F> <F>urr</F> I don't like. So <nvs>laughter</nvs> I said him, "I don't like fishing. I want to play golf or tennis.". <R>But</R> but <SC>she</SC> <F>er</F> <R>he</R> <.></.> <R>he</R> <.></.> he didn't like <F>urr</F> sports. <.></.> He like only fishing. <..></..> That's all. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A><laughter>O K</laughter>. This is the almost the end of interview. O K. <F>Urr</F> do you have any plan for <F>urr</F> winter holidays?</A>
+<B>This winter holiday?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urrm</F>. <.></.> <F>Urr</F>. Yeah. <.></.> <R>I'll go</R> <.></.> I'll go pension <.></.> <F>urr</F> <.></.> in Izu with my wife.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>urr</F> I will go back <R>my</R> <.></.> my parent's house <.></.> <SC>and my wife's parent's house</SC> <.></.> and house of my wife's parent.</B>
+<A><F>Oh</F> you have a tight schedule.</A>
+<B>Yeah. Very tight.</B>
+<A><F>Uh-huh</F> <OL>I see</OL>.</A>
+<B><OL>We have three plan</OL>.</B>
+<A><nvs>laughter</nvs> O K. O K. This is the end of the interview.</A>
+</stage5>
+</body>
+</interview>

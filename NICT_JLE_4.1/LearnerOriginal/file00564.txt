@@ -1,0 +1,217 @@
+<interview>
+<filename>file00564.txt</filename>
+
+<head version="1.3">
+<date>2001-07-25</date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A><H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>Nice name.</A>
+<B><nvs>laughter</nvs> <OL>Thank you</OL>.</B>
+<A><OL>So who</OL> named you <H pn="B's name">XXX01</H>?</A>
+<B><F>Uhm</F> maybe my grandfather.</B>
+<A><F>Hm</F> do you know the reason why?</A>
+<B><F>Oh</F> <R>I</R> I know.</B>
+<A><F>Hm</F>.</A>
+<B>At first, my father want to give my name <F>oh</F> "Kotori" or "<?>Himi</?>". But Kotori means bird. And <?>Himi</?> is, <F>hmm</F> the <JP>kanji</JP> is not <R><JP>joyo kan</JP></R></B>
+<A>I see. <OL><F>Uhm</F> <F>uhm</F></OL>.</A>
+<B><OL><JP>joyo kanji</JP></OL> at that time. So, my grandfather <??></??> <H pn="B's name">XXX01</H>.</B>
+<A>I see. <F>Oh</F> what a nice name. O K. <H pn="B's name">XXX01</H>, <F>er</F> are your exams over? <OL>Examinations</OL>?</A>
+<B><OL>Not yet</OL>. <OL>Not yet</OL>.</B>
+<A><OL>Not yet</OL>? <OL>I see</OL>.</A>
+<B><OL><?>It's</?></OL> tomorrow.</B>
+<A><F>Hmm</F> <F>er</F> do you have any plans for this summer vacation?</A>
+<B><F>Oh</F> yes. <F>Uhm</F> I have to earn a lot of money. So, I'm looking part-time job.</B>
+<A>I see. <OL><F>Hm</F> <CO>what</CO></OL></A>
+<B><OL>Tutor</OL> and convenience store's <OL>clerk</OL>.</B>
+<A><OL><F>Ah</F></OL> <F>hmm</F> why do you need to earn so much money?</A>
+<B><F>Oh</F> because <R>my</R> my mother give my <.></.> pocket money.</B>
+<A><F>Hm</F>.</A>
+<B>It's about <SC>one-thou</SC> <F>hm</F> ten-thousand yen. But I need more money to buy clothes or some food.</B>
+<A><F>Hm</F> <F>hm</F> <F>hm</F>.</A>
+<B>So, <SC>one</SC> ten-thousand yen is not enough.</B>
+<A><nvs>laughter</nvs> <laughter>O K</laughter>. For example, if you go <F>er</F> out shopping with your friends on weekend or something, <F>er</F> what do you usually do <.></.> with your friends?</A>
+<B><F>Hmm</F>.</B>
+<A>How do you spend a day?</A>
+<B><F>Hm</F> usually, <F>hm</F> <R>I</R> I go to just window shopping.</B>
+<A><F>Hm</F>.</A>
+<B>And eat lunch.</B>
+<A><F>Hm</F>.</A>
+<B>And sometime I buy some C D.</B>
+<A><F>Uhm</F> C D. <F>Hm</F> what kind of music are you <OL>interested in</OL>?</A>
+<B><OL>Rock music</OL>.</B>
+<A>Rock. <F>Uhm</F> can you tell me a little bit more about your interest in rock?</A>
+<B><F>Oh</F> I like Marilyn Manson. Do you know him? <.></.> And <F>mm</F> this summer, I'm going to live concert at Chiba Marine Stadium, <.></.> August nineteenth with my friends.</B>
+<A><F>Hm</F> how did you get the ticket?</A>
+<B><F>Hm</F> <SC>call</SC></B>
+<A><F>Oh</F>.</A>
+<B>phone.</B>
+<A>I heard it's very difficult to <OL>get tickets</OL>.</A>
+<B><OL><F>Urn</F></OL> no, <R>the</R> the concert is not difficult to get. Because <SC>the live</SC> <SC>live house</SC> <R>it's</R> <F>hm</F> it's not live house.</B>
+<A><F>Hm</F>.</A>
+<B><F>Uhm</F> <R>Ch</R> Chiba Marine Stadium is <F>uhm</F> for <laughter>baseball</laughter> so. And <R>Makuhari</R> <F>hm</F> <R>Maku</R> <R>Makuhari Messe</R> <F>uhm</F> Makuhari Messe is so big.</B>
+<A><F>Hm</F>. <F>Oh</F> O K. I see. Are you going with a friend?</A>
+<B>Yes.</B>
+<A>I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <H pn="B's name">XXX01</H>, first thing today, I'll show you a picture. Please describe this picture.</A>
+<B><F>Hmm</F>.</B>
+<ctxt>The interviewee is looking at the picture and thinking for a moment.</ctxt>
+<B><F>Hmm</F> <F>hm</F>. <R>There</R> there is <F>er</F> three dogs. And <SC>one is</SC> <F>uhm</F> <.></.> <F>hm</F> <R>two</R> two dogs is, maybe, <R>play</R> <R>play</R> play with each other. And two boys playing volleyball behind the house. <R>And</R> and two womens <R>tal</R> <SC>talked about</SC> talking something. And <SC>she has</SC> <R>one of</R> one of <SC>woman</SC> women has dog. And <F>hm</F> <.></.> <SC>the cat is sleep</SC> a cat is sleeping <SC>in</SC> on the car. And a <SC>girl played</SC> <SC>playing</SC> <F>oh</F> girl is playing <F>hm</F> with rope. And a man is running in front of the house.</B>
+<A><F>Hm</F> O K. O K. Thank you, <H pn="B's name">XXX01</H>.</A>
+</task>
+<followup>
+<A>Where do you live?</A>
+<B><F>Erm</F> <H pn="others1">XXX02</H> <JP>ku</JP>.</B>
+<A><H pn="others1">XXX02</H>. <F>Hm</F> can you compare this picture to your own neighborhood <OL>in <H pn="others1">XXX02</H></OL>?</A>
+<B><OL><F>Oh</F></OL> <F>uhm</F>. <.></.> There are a <R>lot of</R> lot of house. So, the house is next, next, next.</B>
+<A><F>Uhm</F>.</A>
+<B>So very near.</B>
+<A><F>Uhm</F> <F>uhm</F> <F>uhm</F>.</A>
+<B>And most of house <SC>is</SC> has <R>two floor</R> two floor or three. And <.></.> the road is so narrow. <R>So</R> so narrow and <SC>when the <R>car</R> car through the street</SC> <R>the</R> <F>uhm</F> the car difficult to through the streets because of the road is too narrow.</B>
+<A><F>Hm</F> <F>hm</F>.</A>
+<B>And <.></.> <F>hm</F> I think <F>hm</F> <SC>near my house is</SC> there are <F>uhm</F> <.></.> <F>hm</F> not so much tree near my house.</B>
+<A><F>Hmm</F> <F>hm</F> O K. I heard <H pn="others1">XXX02</H> is <F>er</F> a very traditional Japanese town.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>They have</OL> temples and stuff.</A>
+<B><F>Uhm</F>.</B>
+<A>No?</A>
+<B>I don't think so.</B>
+<A><F>Hm</F>.</A>
+<B><OL>But</OL>,</B>
+<A><OL>Why</OL>?</A>
+<B><F>Uhm</F> it's kind of <JP>shitamachi</JP>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>It's not traditional. Because there are <F>um</F> <F>hm</F> many apartments, <R>s</R> so <R>high</R> high building <F>mm</F> <R>near</R> <F>mm</F> near my house.</B>
+<A>I see. You said <JP>shitamachi</JP>. <F>Er</F> what exactly is <JP>shitamachi</JP>?</A>
+<B><F>Uhm</F> <.></.> there are lot of old people. <nvs>laughter</nvs> And so, <F>uhm</F> <R>they</R> <SC>they are</SC> they like rumor very much. So, I <laughter>don't like</laughter> you know.</B>
+<A>I see. So <F>er</F> a little bit uncomfortable,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>for you</OL>?</A>
+<B>And when my hair is gold, every old men "<F>Huh</F>"</B>
+<A>I see. O K. O K. Thank you. This is enough.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Er</F> let's try a role-play.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. Please read this card. It's in Japanese. And please tell me when you are ready. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K? May I help you?</A>
+<B>I'd like go New York. And <F>uhm</F> <SC>I want to some</SC> <SC>I want to get some</SC> <F>hm</F> I want to get a ticket. <F>Hmm</F>. <SC>How</SC> <F>hm</F> <.></.> <F>hm</F> and I want to go there <R>as</R> as fast as <R>I</R> I can.</B>
+<A><F>Hm</F> <F>hm</F> <F>hm</F> O K. In that case, super express train is the fastest one.</A>
+<B>O K. So <R>where</R> where can I get the ticket?</B>
+<A><F>Er</F> right here. I'll get it for <OL>you</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <SC>where the</SC> where is the platform?</B>
+<A>Platform is number seven.</A>
+<B><OL>O K</OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>Thank you.</B>
+<A>Is there anything else?</A>
+<B><F>Uhm</F> <R>how</R> how much money?</B>
+<A><F>Uhm</F> <F>er</F> super express is one-hundred fifty dollars.</A>
+<B>O K.</B>
+<A>Is that all right?</A>
+<B>O K. <OL>O K</OL>.</B>
+<A><OL>O K</OL>. O K. <SC>Let me get you the ticket</SC> let me prepare <OL>the ticket for you</OL>.</A>
+<B><OL>O K</OL>.</B>
+<A>O K. O K. Thank you very much, <H pn="B's name">XXX01</H>. That's the end of the role-play.</A>
+</task>
+<followup>
+<A>Have you ever been to <F>er</F> foreign countries?</A>
+<B>Yes.</B>
+<A><F>Hm</F>.</A>
+<B>I went to Australia for, as a <R>ex</R> exchange student in Tokyo Metropolitan <.></.> Government.</B>
+<A>Why did you chose Australia?</A>
+<B><F>Oh</F> <R>we can</R> <SC>we can't chose</SC> we couldn't chose the country. There are <R>five</R> <R>five</R> five cities.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F> <SC>Syds</SC> Australia and <.></.> Beijing and <.></.> Korea and Moscow and Belgium.</B>
+<A><F>Ah</F> O K. <F>Well</F> can you tell me what you thought was good, and not so good about Australia?</A>
+<B><F>Oh</F> at first, I'm going to Moscow. But there are many terrorist at that <laughter>time</laughter>. So, I can't go. And <F>uhm</F> I went to the small, small town named Ulladulla <SC>near</SC> <F>uhm</F> <SC>it's far</SC> maybe it's <R>far from</R> far from Sydney.</B>
+<A><F>Hmm</F>.</A>
+<B>And <F>uhm</F> the good thing is, <F>uhm</F> <?>they are</?> very comfortable place. And the beach. There are two beach <R>in the</R> in the town. And beach is <??></??> <F>uhm</F> <SC>too beauty</SC> so beauty. And the people in there is very <R>kind</R> kind <R>for me</R> for me. And <F>hm</F> there are a lot of <R>na</R> nature. <F>Hm</F>. There are <R>co</R> <SC>colorfu</SC> very colorful bird. <R>Red</R> red, blue, yellow, green. <OL><??></??></OL>.</B>
+<A><OL><F>Oh</F></OL> <.></.> <F>mh-hmm</F>.</A>
+<B><F>Hm</F> and the bad thing is <F>uhm</F> because of, <.></.> <R>too far from</R> too far from Sydney. So, <SC>there are ma</SC> <F>mm</F> there are no <R>shop</R> shops in the town. And <R>the ho</R> the house I stayed is far from downtown. So, I have to always <F>mm</F> ride on the car,</B>
+<A><F>Mh-hmm</F></A>
+<B><.></.> to get something.</B>
+<A>O K. I see. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, <H pn="B's name">XXX01</H>, last thing today. I'll show you a picture sequence.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>Please make a story from one to six. <OL>O K</OL>?</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A>Please begin your story with "One day last week". This is a story that happened before.</A>
+<B><SC>One day the la</SC> one day last week, <F>hm</F> my mother went to department store to get a present for my father. And she wants to get some tie. So, she asked the <R>clerk what is</R> <F>mm</F> clerk <F>mm</F> what is the recommend <R>for th</R> for <SC>the</SC> my father. And she bought the <.></.> tie. It's about three-thousand yen. <R>And after she got the tie</R> <.></.> and <F>mm</F> after she got the tie, <R>she</R> she was going to go home. But she finds the shoes was very cheap. So, my mother gets <F>er</F> some shoes. And after she got the shoes, she <SC>find</SC> found <.></.> the clothes. Clothes was fifty-percent off. So <R>she want to</R> <.></.> she want to get some <R>blou</R> blouse. So she bought it. <R>And</R> <.></.> and go home. But she bought a lot of things <.></.> <R>for</R> for herself <F>oh</F> <F>erm</F> for my family. For example, <R>for</R> <.></.> for dinner or for <R>the</R> the next day's breakfast.</B>
+<A><F>Hm</F> <F>hm</F> O K. Thank you.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX01</H>, you said you go shopping,</A>
+<B><F>Hm</F>.</B>
+<A>with your friends. How do you get the information about new shops or new <OL>fashion</OL>?</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A>How do you get the information?</A>
+<B>I always <?>of</?> the magazine for fashion. Do you know "Vogue"?</B>
+<A>Yeah.</A>
+<B>So <R>I</R> <.></.> I get the information from "Vogue". But Vogue's clothes is <laughter>too</laughter>, too, too expensive. So I looking for the clothes like Vogue.</B>
+<A><F>Uhm</F>.</A>
+<B>And new shop is <F>mm</F> from <R>e-mail</R> e-mail magazine.</B>
+<A>E-mail magazine?</A>
+<B>Yes. <R>I</R> <SC>I</SC> <.></.> <F>uhm</F> when I look website, and I <F>mm</F> <?>and some</?> I D and password. So, and after I <JP>toroku</JP> the password, I can get <SC>from</SC> information from the website.</B>
+<A>I see. Very useful.</A>
+<B><F>Hm</F>.</B>
+<A>I see. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <H pn="B's name">XXX01</H>. We are almost at the end of the interview. You said you have one more exam,</A>
+<B>Yes.</B>
+<A>Tomorrow?</A>
+<B>Tomorrow.</B>
+<A>Did you study for that?</A>
+<B>No. Because <R>we can</R> we can bring anything.</B>
+<A><F>Ah</F> notebook.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>Anything.</A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+<A><OL>Copies</OL>.</A>
+<B><OL>Yes, and</OL></B>
+<A><OL><??></??></OL>.</A>
+<B>it's Russian Literature.</B>
+<A><F>Mh-hmm</F>. So after the exam finishes, are you planning to go somewhere?</A>
+<B><F>Erm</F> yes. But tomorrow, I have to work as a teacher,</B>
+<A><F>Oh</F>.</A>
+<B>near my house.</B>
+<A>I see. O K. I hope you have a very nice summer vacation.</A>
+<B><F>Hm</F>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you for coming.</A>
+</stage5>
+</body>
+</interview>

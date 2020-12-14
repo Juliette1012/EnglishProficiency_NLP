@@ -1,0 +1,140 @@
+<interview>
+<filename>file00915.txt</filename>
+
+<head version="1.3">
+<date>2001-12-07</date>
+<sex>female</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>620</TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. So <H pn="B's name">XXX01</H>, how are you today?</A>
+<B>Yes, I'm fine. <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>. O K. It's very cold outside, isn't it?</A>
+<B><F>Mhm</F> <F>mm</F> <JP>demo</JP> but I wear sweater. I don't feel cold.</B>
+<A><F>Uh-huh</F>. I see. So <F>uh</F> what do you usually do on weekdays?</A>
+<B>Last weekday?</B>
+<A>Usually.</A>
+<B><F>Uh</F>. Usually. Usually <SC>I'm sat</SC> <R>I'm</R> I'm studying.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> mostly, <R>I'm</R> I'm studying economics because I am student in graduate school. I'm busy to study.</B>
+<A><F>Uh-huh</F>. So <F>uh</F> can you tell me about your school?</A>
+<B><F>Uh</F> <F>mm</F> <R>my</R> <F>uh</F> <R>my</R> <R>my</R> my university is <H pn="school name1">XXX02</H>. <F>um</F> <R>I'm</R> <R>I'm</R> I'm first in graduate school <SC>doctor</SC> P H D course. <.></.> <nvs>laughter</nvs> <JP><F>De</F></JP> <F>mmm</F> <F>mm</F> <SC>my e</SC> <F>uh</F> my college is <F>mm</F> <SC>large</SC> larger than any other university. <JP><F>De</F></JP> <F>eh</F> this college is near this. <..></..></B>
+<A>So <R>what's</R> <F>uh</F> <SC>what's</SC> <F>ur</F> what are good things about <H pn="school name1">XXX02</H>?</A>
+<B><H pn="school name1">XXX02</H>. <R>Good</R> good thing. <F>Mm</F>. First <F>um</F> good point in <H pn="school name1">XXX02</H> contain many students. <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>.</A>
+<B><R>And</R> and in <?>especially</?> the <R>gra</R> graduate school cost a few. <F>Mm</F> <F>mm</F>. But undergraduate school <SC>cost <R>more</R> more</SC> <?>he</?> cost <R>more</R> more than undergraduate school. <F>Mm</F>. <.></.> <nvs>laughter</nvs> <.></.> But <R>as</R> as for only graduate school, <JP><F>unto</F></JP> there are few students. So <..></..> teachers <.></.> <SC>give me</SC> <F>uh</F> <R>give us</R> give us <JP><F>unto</F> nani</JP> more <.></.> <R>ins</R> <F>mm</F> instruction.</B>
+<A><F>Uh-huh</F>. <.></.> <F>Hum</F>. I see. So <F>uh</F> now tell me about your hobbies.</A>
+<B>Hobby. <R>My hobby</R> my hobby is <F>mm</F> reading books and watching videos.</B>
+<A><F>Uh-huh</F>. So <F>uh</F> what kind of <F>uhm</F> books do you usually read?</A>
+<B><R>I</R> <F>mm</F> I usually read <F>um</F> novels. For example, <SC>I</SC> <F>uh</F> recently I <R>read</R> read the books written by Sidney Sheldon. <R>I like</R> <.></.> I like mystery and suspense.</B>
+<A><F>Oh</F> I see. <CO>So what's so interesting about <F>uhm</F> the suspense or</CO>? <F>Uh</F>.</A>
+<B><laughter><?>Little bit</?></laughter> difficult. <F>Uhm</F> <..></..> <F>ur</F> <R>I</R> I think <SC>I am tired</SC> <F>uh</F> I always tired to studying. So <SC>I</SC> <R>my</R> my head want to rest.</B>
+<A><F>Uh</F>. I see. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>So the first thing today, I'm going to show you a picture. So <F>um</F> please describe it.</A>
+<B><F>Uhm</F>. <JP><F>Unto</F></JP> in this picture, <JP><F>unto</F></JP> there is big house and <.></.> <R>six</R> six people. <JP><F>De</F></JP> <F>uum</F> <SC>the car in front of house</SC> <F>uh</F> <SC>there is <JP>da</JP></SC> there is a car in front of house. <..></..> Old people is reading newspaper on the bench. <SC>The person</SC> the man is running on the road. And <R>two bo</R> two boys is playing ball. <JP><F>De</F></JP> <F>uhm</F> I can watch two dogs. I think two dog is speaking. <F>Uh</F> the sun <R>in</R> in this picture is laughing. <F>Mm</F>.</B>
+<A><F>Hum</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A><CO>So <F>uh</F> <H pn="B's name">XXX01</H>, <F>um</F> could you compare <F>ur</F> the neighborhood in this picture and the neighborhood in</CO>.</A>
+<B>Neighborhood?</B>
+<A>Where you live.</A>
+<B>Where. <F>Huum</F> <F>mm</F> <R>I</R> I live in <H pn="others1">XXX03</H>. <SC><H pn="others1">XXX03</H></SC> In <H pn="others1">XXX03</H>, <F>uum</F> <F>mm</F> <SC>there is the</SC> <F>uh</F> the <H pn="others1">XXX03</H>'s <SC>house</SC> houses is <R>smaller</R> smaller yard <nvs>laughter</nvs> <SC>than in</SC> than that in this picture. <F>Huum</F>. <JP><F>De</F></JP> <R>there is no</R> <SC>there is no <SC>block</SC> <SC><JP>hei</JP></SC> <R>fe</R> <JP><F>untone</F></JP> fence</SC> there is no fence in this picture. But <R>my</R> <SC>my city <SC>is</SC> have</SC> <F>mm</F> <R>my</R> <SC>my ci</SC> <F>um</F> <SC>my</SC> our house in <H pn="others1">XXX03</H> have <SC>fence</SC> fences. <.></.> <JP><F>De</F></JP> <F>mm</F> the road in this picture is <SC>wilder</SC> <R>wai</R> wider than <H pn="others1">XXX03</H>. <.></.></B>
+<A>O K. So <F>um</F> would you like to live in Tokyo one day?</A>
+<B>Yes, <R>I</R> I live in Tokyo. <nvs>laughter</nvs> <R>I</R> I want to.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F>. Tokyo.</B>
+<A>O K. Why?</A>
+<B><F>Uhm</F>. <.></.> <F>Mm</F> there is more exciting thing than countryside. <F>Uh</F>. My hometown is <H pn="others2">XXX04</H>. Very rural. <nvs>laughter</nvs> And <SC><H pn="others2">XXX04</H></SC> <SC>I</SC> when I come to Tokyo, <F>mm</F> <SC>it is exciting</SC> <SC>I think</SC> I thought Tokyo is exciting. For example, <F>mm</F> there is many restaurant and museum and concert. <F>Mm</F> and <F>mm</F> <JP>dakara</JP> I like Tokyo.</B>
+<A><F>Uh-huh</F>. I see. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So <F>uhm</F> now we are going to do a role-play. So <F>uhm</F> please read that card in Japanese silently. And when you finish reading, please let me know.</A>
+<ctxt>The examinee is reading the card.</ctxt>
+<A>So are you ready?</A>
+<B><F>Mm-hm</F>.</B>
+<A>O K. So <F>uh</F> good afternoon. How can I help you?</A>
+<B>Yes, I want to go to New York. Do you have a ticket for New York?</B>
+<A><F>Uh-huh</F>. Yes, I do.</A>
+<B><F>Mm</F>. <nvs>laughter</nvs> How cost is it?</B>
+<A><F>Uh</F>. We have two types of trains to <R>go</R> go to New York.</A>
+<B><.></.> <F>Ur</F> <??></??> <F>mm</F>? Two types?</B>
+<A><F>Mm-hm</F>.</A>
+<B>Then <SC>how do you</SC> <R>how</R> <R>how</R> how type do you have?</B>
+<A><F>Uh</F>. One is <F>uh</F> local train, and another one is express train.</A>
+<B><F>Ur</F>. <R>I want to</R> <JP><F>unto</F></JP> I want to go to fast.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F>. <SC>Fast type</SC> fast ticket, please.</B>
+<A>O K.</A>
+<B><R>How cost</R> <OL>how cost</OL>?</B>
+<A><OL><F>Uhm</F></OL> It's <F>uhm</F> one thousand yen.</A>
+<B>One thousand yen. Yes. <R>Please</R> please ticket.</B>
+<A>O K. But you have to wait one more hour.</A>
+<B><F>Mm</F>. <.></.> One more hour? <JP>ichijikan</JP>? <F>Eh</F> please <R>sorry</R> <F>uhm</F> sorry, <F>uhm</F> once more please?</B>
+<A>O K. You have to wait one more hour</A>
+<B>One more.</B>
+<A>to take the express train.</A>
+<B><..></..> <R><JP>Ichimai</JP></R> <F>uh</F> <SC><JP>ichimai</JP></SC> <F>uh</F> one ticket. <F>Uh</F> <JP>maisuu</JP>. <nvs>laughter</nvs> One more hour? <..></..> <F>Mm</F>. Yes. <JP><F>Eh</F></JP>? <F>Um</F>. <SC>First ticket is</SC> <F>uh</F> <JP>chigau</JP> <R>I</R> <R>I take</R> I take <R>one more</R> <R>one more</R> one more hour? one more time? <laughter>Sorry</laughter>.</B>
+<A>One more hour.</A>
+<B>One more hour? <F>Mm</F> <F>uh</F> <F>uh</F> <JP>wakatta</JP> <F>mm</F>. Do I <R>te</R> take <R>one more</R> one more hour to go to ticket by <SC>first ticket</SC> <R>fast</R> fast ticket? Cheaper ticket is one more hour?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <F>mm</F> <R>I</R> I want to first ticket.</B>
+<A>O K. So here's your ticket. So <F>uh</F> please <F>uh</F> enjoy your trip to <OL>New York</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you very much. So this is the end of the role-play.</A>
+</task>
+<followup>
+<A>So <F>urm</F> <F>uhm</F> I think you are going to have a winter holidays soon. But do you have any plans to go somewhere by train or by plane?</A>
+<B><.></.> <R>I</R> <R>I</R> <SC>I went</SC> I will go to my home country <F>mm</F> <.></.> <SC>at New York</SC> <R>at new year</R> at new year. I will <R>ra</R> ride on airplane. <..></..> <JP><F>De</F></JP> <R>I</R> I will spend <F>um</F> winter vacation with my family.</B>
+<A><F>Uh-huh</F>. Any plans to go somewhere?</A>
+<B><F>Uh</F>. Any other plan is nothing. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So last thing today, please look at these six picture. And this time, please make a story using these pictures. And this story was happened last week. So please start your sentence with "One day last week," O K? So go ahead.</A>
+<ctxt>The examinee is looking at the pictures.</ctxt>
+<B><R>She's husband will</R> she's husband will be birthday <SC>next week</SC> <F>ur</F> <SC>la</SC> this week. <JP><F>De</F></JP> <.></.> <JP><F>unto</F></JP> <SC>She is</SC> <F>uh</F> <SC>she <F>mm</F> wa</SC> <F>um</F> she went to <JP>depaat</JP> <R>to</R> to buy <F>um</F> necktie for her husband. <F>Mm</F> <JP><F>de</F></JP> <.></.> <JP><F>de</F></JP> <??></??>. And she <F>um</F> selected <F>um</F> one necktie for him. <JP><F>De</F></JP> <SC>he</SC> <F>um</F> she bought <F>mm</F> it. <.></.> And then she found <F>mm</F> final sale. <JP><F>De</F></JP> <..></..> <F>um</F> <SC>she became</SC> <.></.> <SC>she get</SC> <SC>she got to <F>um</F> wo</SC> <F>um</F> <SC>she want</SC> <F>uh</F> she <SC>want to</SC> wanted blouse before. So <nvs>cough</nvs> she bought <SC>bla</SC> her blouse for her. <JP><F>De</F></JP> she came home.</B>
+<A>All right. Thank you very much.</A>
+</task>
+<followup>
+<A>So <F>uhm</F> <H pn="B's name">XXX01</H>, when was the last time you bought a present for somebody?</A>
+<B><F>Huum</F> <F>ur</F> <F>um</F> <R>I</R> I went to Taiwan last month. <.></.> Then I bought <.></.> souvenir for my friends.</B>
+<A><F>Uh-huh</F>. So what did you buy?</A>
+<B><.></.> <F>Um</F>. <.></.> I bought sweets. <SC>Kei</SC> pine cake and pistachio for my friends. And I bought <JP>karasumi</JP> for my father. and <SC>I</SC> for my mother, I bought case of <R><JP>hanko</JP></R> <JP>hanko</JP>.</B>
+<A><F>Uh-huh</F>. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So <F>uh</F> we are almost at the end of interview. But do you have any plans for tonight?</A>
+<B>Tonight. <F>Uum</F>. After this interview, I will study, <nvs>laughter</nvs></B>
+<A><F>Ah</F>. Really?</A>
+<B>economics.</B>
+<A>So did you finish eating your dinner?</A>
+<B><F>Um</F>. No. <R>I</R> I finished to her dinner.</B>
+<A><F>Uh-huh</F>. I see. So <F>uh</F> yeah, thank you very much. So <F>uh</F> thank you very much for coming in today. And I hope you have a wonderful weekend.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

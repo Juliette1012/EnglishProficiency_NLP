@@ -1,0 +1,185 @@
+<interview>
+<filename>file00941.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine, thank you. <OL>And you</OL>?</B>
+<A><OL>O K</OL>. <F>Um</F>. I'm fine, thank you. So it's Wednesday today. And what do you usually do on Wednesdays?</A>
+<B><F>Urr</F> on Wednesday, I have two class, English and Spanish class.</B>
+<A><F>Ahh</F> O K. Please tell me about your Spanish class.</A>
+<B><F>Urr</F> the Spanish class is <.></.> grammar class so it's very boring.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>I see. Why did you choose Spanish?</A>
+<B><F>Urr</F> before entering this university, I heard <.></.> Spanish is a <R>second</R> <.></.> <F>uhm</F> second <.></.> worldwide language. So <SC>I choice</SC> <F>uhm</F> <R>I</R> I choose Spanish. <laughter>But <SC>I think</SC></laughter> <F>uhm</F> <.></.> <R>I</R> <.></.> <R>I</R> <F>uhm</F> <.></.> I <.></.> regret a little. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. Why?</A>
+<B><F>Urr</F> because <R>if</R> if I choose Spanish in university, after I take a job, <.></.> <R>may</R> maybe <F>ur</F> <.></.> <JP><F>uunto</F></JP> the company send me to <.></.> South America, <F>er</F> not Spanish.</B>
+<A><F>Ur</F> <OL>I see</OL>.</A>
+<B><CO><OL>So</OL></CO>.</B>
+<A>But that's nice, isn't it, <R>if you go</R> <.></.> if you go to <.></.> South <OL>America</OL>?</A>
+<B><OL>Yeah</OL>. South America is very dangerous for Japanese, <.></.> <R>I</R> I heard.</B>
+<A>I see.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Then, do you have a part-time job?</A>
+<B><F>Ah</F> yes, yes.</B>
+<A>What do you do?</A>
+<B><F>Urr</F> I'm a waiter of <.></.> restaurant bar.</B>
+<A><F>Ahhh</F> I see. What do you like about your job?</A>
+<B><F>Uhmm</F> <.></.> <F>urr</F> I like the job. But <.></.> I <.></.> don't like a midnight job.</B>
+<A><F>Urr</F> <.></.> I see.</A>
+<B>So <R>it</R> <.></.> it disorder my ordinary life so <R>I</R> I can't get a <?>party</?>, <F>urr</F> I go to bed very late.</B>
+<A><F>Um</F>. Then, why do you work midnight?</A>
+<B><.></.> <F>Uhm</F>? Why?</B>
+<A>Why do you work at night?</A>
+<B><F>Urrr</F> <.></.> <R>before</R> before I get the job, <.></.> I promise <R>I</R> I work <.></.> in the evening. <laughter>But</laughter> <F>uhm</F> <.></.> <SC><R>s</R> <F>um</F> som</SC> <F>uhm</F> <SC>before</SC> <.></.> now, <SC>I</SC> <.></.> <SC>half of evening</SC> half of job is evening but half of job is midnight.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. <F>Uhm</F>. O K. Thank you. Now,</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>please look at this picture and describe it.</A>
+<B><.></.> Describe?</B>
+<A><F>Uhm</F>.</A>
+<B><F>Ohh</F> <.></.> it is <SC>a <.></.> restaurant</SC></B>
+<A><F>Uhm</F>.</A>
+<B><.></.> a kind of <.></.> expensive restaurant. <R>They</R> <.></.> they celebrate <.></.> wedding day.</B>
+<A><F>Uhm</F>.</A>
+<B>So they choice this expensive <.></.> French restaurant.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So now, <.></.> a waiter explain <.></.> <R>some</R> some wine. <.></.> And <.></.> <R>this</R> this man decide <.></.> what kind of wine they <.></.> drink.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you. <H pn="B's name">XXX02</H>. Could you compare this restaurant with the restaurant you work at?</A>
+<B><F>Urr</F> <.></.> a little bit <.></.> <R>li</R> like this.</B>
+<A><F>Uhm</F>.</A>
+<B>But it is not so expensive.</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> And it is not so formal like this.</B>
+<A><F>Uhmm</F>. I see. O K. <F>Uhm</F> do you select wine?</A>
+<B><.></.> <F>Ur</F> yes, yes.</B>
+<A>O K. Then <F>uhm</F> please tell me about some of the wine you <OL><??></??></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>I don't know</laughter> in detail.</B>
+<A><F>Uhm</F>.</A>
+<B>So <.></.> many time, <R>I</R> I say, "Please read this menu.". <nvs>laughter</nvs> <OL><laughter><?>This explain</?></laughter></OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. I understand. Now, let's do a role-play. Please read this card. And when you're ready, I'll start conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A><F>Uhm</F> O K?</A>
+<B><F>Er</F> O K.</B>
+<A>Ring-ring. Hello. <H pn="A's name">XXX01</H> speaking.</A>
+<B><.></.> <F>Ur</F> hello, This is <H pn="B's name">XXX02</H>. May I speak to <.></.></B>
+<A><H pn="A's name">XXX01</H>.</A>
+<B><H pn="A's name">XXX01</H>?</B>
+<A>Yeah, sure. Speaking.</A>
+<B>Are you free on <SC>we</SC> this weekend?</B>
+<A><F>Er</F> yes.</A>
+<B><F>Ur</F> shall we go to a movie?</B>
+<A><F>Uhm</F> that's great.</A>
+<B><F>Urm</F> <.></.> what kind of movie <R>do you</R> do you want to see?</B>
+<A><F>Uhmmm</F> <F>uhm</F> romantic movie.</A>
+<B><laughter>Romantic</laughter>? <F>Urr</F> <.></.> <R>do you</R> <.></.> do you have some movie <R>you</R> <.></.> <SC>you are</SC> you want to see?</B>
+<A><F>Uhmm</F> <?>but</?> <R>no</R> <F>uhm</F> nothing particular, <R>no</R> now. So how about you?</A>
+<B><F>Urr</F> I want to see the movie the name of "MEMENTO".</B>
+<A><F>Uhm</F> <OL>O K</OL>.</A>
+<B><OL><R>Do you know</R></OL> do you know that?</B>
+<A><F>Uhm</F> no, but that's O K. Let's go to see it.</A>
+<B><R>I</R> I heard it is very interesting.</B>
+<A><F>Oh</F> that's great.</A>
+<B>So <.></.> when and where <.></.> <R>will</R> will we meet?</B>
+<A><F>Uhm</F> anything is O K. So please decide.</A>
+<B><F>Urr</F> the movie is shown only at the Cinema Queen in Shibuya. So <SC>let's meet us</SC> <F>er</F> <R>le</R> let's meet at <.></.> Shibuya, <.></.> Hachikoumae. Do you know?</B>
+<A>Yes.</A>
+<B><F>Urm</F> so <.></.> on Saturday, are you free?</B>
+<A><F>Uh-huh</F>. Yes.</A>
+<B><F>Urm</F> <.></.> in the evening, O K?</B>
+<A><F>Uhm</F>.</A>
+<B>So let's meet at Shibuya Hachikoumae</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>at the</SC> at <.></.> five o'clock</B>
+<A>O K.</A>
+<B>on <SC>Sun</SC> Saturday.</B>
+<A>O K. <F>Uhm</F>. Thank you for calling. See you then.</A>
+<B>See you.</B>
+</task>
+<followup>
+<A>Bye-bye. O K. Good. So you seem to know <.></.> <F>ur</F> movies a lot.</A>
+<B><F>Uhm</F> no.</B>
+<A><F>Uhm</F> then why did you say "<SC>MI</SC> MEMENTO",</A>
+<B>"<OL>MEMENTO</OL>".</B>
+<A><OL>the name</OL> of the movie?</A>
+<B><F>Ohh</F> <.></.> <R>I</R> <.></.> I look at some kind of magazine and <.></.> some <.></.> outstanding people recommended.</B>
+<A><F>Ah</F> O K. <SC>What's it</SC> what is it about?</A>
+<B><.></.> <F>Urr</F> it is a suspense but <R>new</R> <.></.> new way of direction, the movie. So it is very interesting, <OL>I think</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL>I see</OL>. <F>Uhm</F>. O K. Thank you. Now,</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K. Let's to this. Please make a story with these six pictures. And please start with "One day last week" because it happened before.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>One day last week, she went to <R>a</R> a department store to buy a present for birthday present of <SC>his</SC> <F>er</F> her father. <F>Ur</F> after entering the department, <SC>he</SC> <F>ur</F> <R>she</R> <.></.> <R>she</R> she choose a necktie. <.></.> <R>After</R> after that, she take it <.></.> and <.></.> <R>she</R> <.></.> she tended to <.></.> get home. But she find a sale <.></.> of <.></.> some shoes. <.></.> And <.></.> other place, <.></.> there are <.></.> some sale of clothes. So she bought shoes and clothes and many other thing. And <.></.> after that, she get home with <.></.> <R>many</R> <.></.> many goods it is not so necessity. That's all.</B>
+</task>
+<followup>
+<A>O K. Good. <F>Um</F>. Thank you. O K. Please tell me about the last time you went shopping.</A>
+<B>Last time? Yesterday, I went to Shibuya, <.></.> <F>urm</F> <.></.> <JP><F>eeto</F></JP> Tokyu Hands <.></.> to buy a present <.></.> of <.></.> Christmas Day.</B>
+<A>What did you buy?</A>
+<B><F>Urr</F> <F>ur</F> <SC>I don't have</SC> <F>er</F> I haven't decide <.></.> but <R>I</R> I think <.></.> <SC>I'll bough</SC> I'll buy <.></.> some relaxation goods.</B>
+<A>For example?</A>
+<B><.></.> <F>Ur</F> <..></..> <R>ma</R> mascot of "Tarepanda". <laughter><R>Do do you know</R> do you know it</laughter>?</B>
+<A>What is that?</A>
+<B><F>Uhh</F> <R>it</R> it feel very <.></.> <laughter>strange</laughter> touching feeling.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>So</OL> it is very interesting and it is very cheap.</B>
+<A><F>Ah</F> I see. You said Tokyu Hands, what kind of store is it?</A>
+<B>What kind? <F>Urrr</F> <.></.> <R>all</R> all kind of goods <.></.> for <.></.> ordinary life, <R>I</R> I think so. <.></.></B>
+<A>Why <.></.> do you like that store?</A>
+<B><.></.> No, no. <R>I</R> <SC>I have to</SC> <F>er</F> I had to go Sunshine City to take a passport.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>So</OL> <.></.> after that, I went to Tokyu Hands.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uhm</F> I see. Are you going abroad?</A>
+<B><F>Er</F> yes, yes. Next <.></.> February.</B>
+<A><F>Uhm</F>. O K. Please tell me a little about it, your travel.</A>
+<B><F>Ahh</F> I haven't decide but <.></.> with friends, <R>we</R> <.></.> we'll go to Europe. Maybe <R>S</R> <R>Spa</R> Spanish and Rome and <.></.> Paris. It is very cheap. <R>I</R> I found it.</B>
+<A><F>Uhm</F>.</A>
+<B>Less than <.></.> fifteen thousand yen,</B>
+<A><F>Ahhh</F>.</A>
+<B>includes hotel and <.></.> <SC>air <R>co</R> cost</SC> <R>air</R> airplane cost and many other.</B>
+<A><F>Ahh</F>. How did you find that information?</A>
+<B><F>Uhhh</F> <SC>at the</SC> at a <.></.> bookstore, I found it. And <.></.> <R>I</R> <.></.> I <.></.> invite many friends.</B>
+<A>I see. Why did you think that's so cheap?</A>
+<B><.></.> <nvs>laughter</nvs> <F>Ur</F> <.></.> <laughter>why</laughter>? <F>Uh</F> <SC>it is a</SC> <.></.> <F>urr</F> <.></.> maybe <.></.> terrorism <.></.> affect it and student price also <.></.> influence the cost. So it is half of the open price.</B>
+<A><F>Uhm</F>. I see. O K. Then enjoy your trip then.</A>
+<B>Thank you.</B>
+<A>Thank you for coming today. The interview is over now.</A>
+</stage5>
+</body>
+</interview>

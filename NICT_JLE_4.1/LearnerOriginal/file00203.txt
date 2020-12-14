@@ -1,0 +1,245 @@
+<interview>
+<filename>file00203.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>male</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. <F>Urr</F> my name is <H pn="A's name">XXX01</H>.</A>
+<B>Yes.</B>
+<A>For the record, may I have your name, please?</A>
+<B><F>Err</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Urr</F> yes.</B>
+<A><F>Um</F>. O K. So how are you today, <H pn="B's name">XXX02</H>?</A>
+<B>I'm fine, thank you. And you?</B>
+<A><F>Oh</F> I'm pretty good. So where do you live, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <F>emm</F> <F>eh</F> <H pn="others1">XXX03</H>.</B>
+<A><OL><F>Humm</F></OL>.</A>
+<B><OL><F>Um</F></OL> <F>er</F> I live in company dormitory.</B>
+<A><F>Ahh</F> I see. How do you like the dormitory life?</A>
+<B><F>Umm</F>. It's good.</B>
+<A>Good. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes</OL>, <SC>but</SC> because <F>err</F> <SC>cost</SC> the cost of <F>err</F> living <F>er</F> dormitory is very cheap.</B>
+<A><F>Hmm</F>. So how do you usually have dinner?</A>
+<B><F>Urm</F> <F>urr</F> <SC>I live</SC> <F>err</F>I usually <R>have</R> <F>umm</F> have <F>umm</F> <.></.> <F>umm</F> <.></.> restaurant</B>
+<A><F>Hmm</F>.</A>
+<B>or <F>urm</F> small shop</B>
+<A><F>Hmm</F>.</A>
+<B>and <R>con</R> <JP>conbini</JP></B>
+<A><F>Ah</F> <laughter>O K</laughter>.</A>
+<B><laughter>near my</laughter> <F>uh</F> company.</B>
+<A><F>Oh</F>.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B>So I usually don't have <F>um</F> dinner in my dormitory.</B>
+<A><F>Hum</F> so tell me one of your favorite restaurant around here.</A>
+<B><laughter><F>Uhh</F></laughter> I like <F>urm</F> Yoshinoya.</B>
+<A><nvs>laughter</nvs></A>
+<B>Yes. Yoshinoya is very cheap.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>And</OL> fast.</B>
+<A><F>Umm</F>. How often do you go there?</A>
+<B><F>Umm</F> I go to Yoshinoya <F>er</F> two or three times in a week.</B>
+<A><F>Umm</F>. Very often.</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs> O K. So <H pn="B's name">XXX02</H>, do you have any hobbies?</A>
+<B><F>Err</F> yes. <R>I</R> I belong to <F>urrm</F> rugby football team</B>
+<A><F>Hm</F>.</A>
+<B><F>err</F> of my company, <H pn="company name1">XXX04</H> company.</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Err</F> I play rugby <F>urr</F> every <R>week</R> weekend.</B>
+<A><F>Hmm</F>.</A>
+<B>Yes.</B>
+<A><F>Um</F>. What's special about playing rugby?</A>
+<B>Special?</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL><F>Umm</F></OL>. <F>Erm</F> <SC>I</SC> <F>err</F> <.></.> <F>umm</F> <F>hm</F> <F>er</F> <SC>rugby</SC> <.></.> <SC>I enjoy <F>err</F> <F>umm</F> <F>hmm</F> a lot of people</SC></B>
+<A><F>Umm</F>.</A>
+<B><R>I</R> I enjoy play with a lot of people.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>. <laughter>Yeah</laughter>.</B>
+<A>Did you play rugby last weekend when it snowed?</A>
+<B><F>Err</F> no. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><SC>I don't</SC> I didn't play rugby last weekend.</B>
+<A><F>Hmm</F>. What did you do then?</A>
+<B><F>Umm</F> I worked <F>err</F> <SC>on Saturday</SC> <F>er</F> <R>last Satur</R> <F>urr</F> last Saturday.</B>
+<A><F>Uhhum</F>.</A>
+<B><CO>I</CO>.</B>
+<A><F>Oh</F>.</A>
+<B><F>Uh</F> yes, <F>err</F> I have to work <F>umm</F> on <F>umm</F> Saturday.</B>
+<A><F>Umm</F>.</A>
+<B><F>Mm</F> <F>eh</F> <F>oh</F> <F>mm</F> <SC>once a</SC> once in month.</B>
+<A><F>Um</F>. Did you have hard time to come here?</A>
+<B>Pardon?</B>
+<A>Did you have hard time to come here on Saturday?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Because of the snow</OL>?</A>
+<B><laughter>Yeah</laughter>. <OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A><OL><nvs>laughter</nvs></OL> All right. O K. So first thing today, please take a look at this picture</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>and please</OL> describe this picture.</A>
+<B><nvs>sniff</nvs> <F>Umm</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>It's sunny day.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Urm</F> there is a big house. <F>Umm</F> <R>there</R> <F>urm</F> <SC>there are</SC> <SC>there i</SC> <F>um</F>there're two dogs <F>urm</F> in front of house and <F>umm</F> <SC>the girl play</SC> the girl is playing <F>hm</F> <F>umm</F> <.></.> with rope in front of <F>er</F> house. <nvs>sniff</nvs> <F>Urm</F> <F>umm</F> <F>mm</F> there are two women <F>urm</F> on the road. So <F>urr</F> they are talking.</B>
+</task>
+<followup>
+<A>O K.</A>
+<B>Yes.</B>
+<A>All right. So <H pn="B's name">XXX02</H>, when you were a child, what kind of things did you do in your neighborhood?</A>
+<B><F>Umm</F>. <..></..> Pardon me?</B>
+<A><F>Umm</F>. <F>Err</F> when you were a child,</A>
+<B><F>Ah</F> yes.</B>
+<A><F>umm</F> what kind of play,</A>
+<B><F>Ah</F> yes.</B>
+<A>did you do with your friends?</A>
+<B><F>Umm</F> when I was child,	<F>um</F> I play baseball</B>
+<A><F>Hmm</F>.</A>
+<B>in <F>umm</F> school ground everyday.</B>
+<A><F>Umm</F>.</A>
+<B><R>I like</R> <R>I like</R> I like baseball.</B>
+<A>So why did you change from baseball to a rugby player?</A>
+<B><F>Umm</F>. <R>I</R> <nvs>sniff</nvs> <SC>I watched <F>urr</F> rugby</SC> <F>ahh</F> I watched drama <F>err</F> about rugby</B>
+<A><F>Hm</F>.</A>
+<B><nvs>sniff</nvs> <F>hm</F> on television <F>umm</F> in my <F>umm</F> junior high school,</B>
+<A><F>Hmm</F>.</A>
+<B>so <F>ur</F> I wanted to play rugby <F>umm</F> <F>umm</F> in high school.</B>
+<A><F>Umm</F>. Then you started <SC>play</SC> playing it in high school?</A>
+<B>Yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hm</F>. O K. All right. So next, we'd like to try a role-play. O K. Please read this card and when you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. Ready?</A>
+<B>Yes.</B>
+<A>O K. Good morning, sir. May I help you?</A>
+<B>Yes. <F>Err</F> I'd like to go <F>umm</F> abroad.</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Umm</F> my summer holiday.</B>
+<A><F>Umm</F>.</A>
+<B>But <F>ur</F> <R>I</R> <R>I</R> I don't know any place, <F>umm</F> so please recommend <F>urm</F> <F>umm</F> nice place <OL><F>mm</F> abroad</OL>.</B>
+<A><OL>Nice place</OL>. <nvs>laughter</nvs> O K. We have many reasonable tours</A>
+<B><F>Mh-hmm</F>.</B>
+<A>to many foreign countries.</A>
+<B><F>Uhhum</F>.</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL><F>Ur</F></OL> <F>hmm</F> my cost is <F>umm</F> about <F>umm</F> one hundred thousand Yen.</B>
+<A>O K.</A>
+<B><F>Uhhum</F>. <SC>So</SC> and <F>umm</F> I will take just seven days.</B>
+<A>Yeah. How about some Asian countries, then?</A>
+<B><F>Umm</F>. Asian country. Yes. But <R>I</R> <SC>I spe</SC> <SC>I would like s</SC> <F>er</F> I want to speak English.</B>
+<A><F>Humm</F>.</A>
+<B>So <F>umm</F> <R?>A</R?> <R?>A</R?> Asian country is O K, but <F>umm</F> <F>umm</F> <R>Europe</R> <SC>Europe</SC> European country and America is <SC>more better</SC> <F>err</F> it's better.</B>
+<A><F>Urm</F> how about Hawaii? <nvs>laughter</nvs></A>
+<B><F>Urr</F> Hawaii? <F>Umm</F> <R>I</R> <F>umm</F> I have been to Hawaii <F>urm</F> two years ago.</B>
+<A><F>Umm</F>.</A>
+<B>So I'd like to <SC>another country</SC></B>
+<A><OL><F>Umm</F> then</OL></A>
+<B><OL>another place</OL>.</B>
+<A>the West Coast of the United States?</A>
+<B><F>Umm</F>. Good.</B>
+<A><F>Hm</F>.</A>
+<B>How about <F>ur</F> <F>ur</F> cost?</B>
+<A><F>Umm</F> if you choose the right time,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>it's going to be pretty reasonable.</A>
+<B><F>Umm</F>. <.></.> West Coast. <F>Umm</F> <F>umm</F> <F>umm</F>. <CO><SC>What</SC> how about weather <OL>in West</OL></CO>.</B>
+<A><OL><F>Oh</F> it's wonderful</OL></A>
+<B><CO>Won</CO>. <OL>Hot</OL>?</B>
+<A><OL>in summer</OL>.</A>
+<B>In Summer. <F>Er</F> <F>er</F> <F>umm</F> <SC>where</SC> <F>ur</F> <.></.> <R>what</R> <F>urr</F> what kind of play spot <F>err</F> is there in West Coast?</B>
+<A><F>Oh</F> you can choose from many.</A>
+<B><OL>Many</OL>.</B>
+<A><OL>You can</OL> go to a bar or you can go to a national park or you can enjoy the nature.</A>
+<B><F>Hmm</F>. <nvs>sniff</nvs> <F>Hmm</F> <R>I</R> I like to relax,</B>
+<A><F>Umm</F>.</A>
+<B><F>urm</F> so I live in natural.</B>
+<A><F>Um</F> O K. Then <F>err</F> I'll give you some pamphlets.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL> please take a look at them. And if you decide, please give me a call. <OL>O K</OL>?</A>
+<B><OL>Thank you</OL>.</B>
+<A>All right. Thank you very much <OL>for coming</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+</task>
+<followup>
+<A>Thank you. This is the end of the role-play. <F>Well</F> so, did you go to Hawaii in your real life?</A>
+<B>Yes. <R>I went</R> <F>urr</F> I went to Hawaii</B>
+<A><F>Hm</F>.</A>
+<B><F>umm</F> <nvs>sniff</nvs> about ten years ago.</B>
+<A><F>Umm</F>. What did you do?</A>
+<B><F>Um</F> Hawaii was <F>umm</F> <R>nice</R> nice place.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F>. Because <F>urr</F> Japanese is <laughter>O K</laughter>.</B>
+<A><laughter>O K</laughter>. <nvs>laughter</nvs> <laughter>O K</laughter>.</A>
+<B><laughter>Yes</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So lastly, <F>umm</F> please take a look at another picture.</A>
+<B>Yes.</B>
+<A>This is a picture sequence. Please make up a story <F>ur</F> based on these pictures from one to six.</A>
+<B><F>Uhhum</F>.</B>
+<A>And this happened before, so please start your story with "One day last week".</A>
+<B><F>Umm</F>. One day last week, <F>err</F> she was very hungry. So <F>ur</F> she checked the icebox but there was nothing in the icebox. Then, <F>urr</F> she <F>err</F> went to supermarket by her car. And <R>she</R> <F>umm</F> <.></.> <R>sh</R> she choice <F>err</F> a lot of food <R>and</R> <.></.> and the <?>cargo</?> <F>urr</F> which <R>she</R> <F>err</F> <F>err</F> she holding was very full. And <.></.> she checked <F>urr</F> on register and then <R>she</R> <F>umm</F> she put <F>urr</F> bags <SC>in hi</SC> <R>in</R> in her car. <F>Eh</F> after <R>she</R> <F>err</F> she arrive at her house, she cooked <F>urr</F> the <R>dinner</R> <F>um</F> <R>dinner</R> dinner. She was <F>err</F> cooked <F>err</F> <F>er</F> eggs.</B>
+<A><F>Hm</F>. O K.</A>
+<B>That's all.</B>
+</task>
+<followup>
+<A>Alright. So please compare a supermarket like this with a convenience store.</A>
+<B><F>Umm</F>. <SC>I think <F>err</F> <.></.> <F>urr</F> they</SC> <F>err</F> <.></.> <SC?>the thing</SC?> I think the supermarket <F>umm</F>don't compare with <F>err</F> convenience.</B>
+<A><F>Um</F>.</A>
+<B><F>Umm</F>. The supermarket <F>err</F> is <F>urr</F> more cheaper than convenience.</B>
+<A><F>Hmm</F>.</A>
+<B>So <.></.> usually, <F>umm</F> people <F>ur</F> buy <F>err</F> daily foods in supermarket and people buy <F>err</F> <F>umm</F> small <R>good</R> <F>err</F> goods <F>urr</F> in <JP>conbini</JP>.</B>
+<A><F>Hmm</F>. Maybe dinner, in your case. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>All right, so we have come to almost the end of the interview.</A>
+<B>Yes.</B>
+<A>So do you have any plans for the weekend?</A>
+<B><F>Urr</F> yes. I will go to <F>umm</F> snow mountain,</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>to</OL> play snowboarding.</B>
+<A><F>Hmm</F>. Not rugby. <nvs>laughter</nvs></A>
+<B>Not rugby.</B>
+<A><nvs>laughter</nvs> Are you a good snowboarder?</A>
+<B><F>Umm</F> <F>umm</F> <SC>I play</SC> <F>urr</F> <F>urr</F> <.></.> <F>urr</F> <.></.> <F>urr</F> <?>little bit</?> yes.</B>
+<A><nvs>laughter</nvs> How long have you been snowboarding?</A>
+<B><F>Urr</F> <R>I</R> I <F>err</F> play <F>err</F> snowboarding for <F>um</F> five years.</B>
+<A><F>Ohh</F>. Pretty long.</A>
+<B>Yes.</B>
+<A><F>Umm</F> O K. So enjoy your snowboarding,</A>
+<B>Thank you.</B>
+<A>in snow mountain. <OL><laughter>All right</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Thank you very much. This is the end of interview.</A>
+<B>Yes.</B>
+</stage5>
+</body>
+</interview>

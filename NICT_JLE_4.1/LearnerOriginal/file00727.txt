@@ -1,0 +1,200 @@
+<interview>
+<filename>file00727.txt</filename>
+
+<head version="1.3">
+<date>2001-10-26</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine, thank you. And you?</B>
+<A>I'm good. Thank you very much. Today is Friday.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>So</OL> what do you usually do on Friday?</A>
+<B>I have two classes. And <.></.> <SC>I have</SC> <F>um</F> <R>I</R> I will work at a restaurant.</B>
+<A><.></.> I see. So can you tell me a little about <SC>the work</SC> your part-time job at the restaurant?</A>
+<B><R>I</R> I start at <F>um</F> five o'clock. I carry food and drink.</B>
+<A><F>Um</F>.</A>
+<B><.></.> I finish ten o'clock.</B>
+<A><F>Um</F>. <.></.> <F>Hm</F>. Do you like the job?</A>
+<B>Yes. I like the job.</B>
+<A><F>Um</F>. What's so nice about the job?</A>
+<B><F>Uum</F>. <..></..> I enjoy <..></..> <F>um</F> working <..></..> with company. <.></.></B>
+<A><F>Hm</F>. All right.</A>
+<B><nvs>laughter</nvs></B>
+<A>So in your free time, weekends, what do you do?</A>
+<B>Weekend. <..></..> <R>I</R> <.></.> I go to <H pn="others1">XXX03</H> and go shopping with friends.</B>
+<A>What do you mean by <H pn="others1">XXX03</H>? You mean <H pn="others1">XXX03</H> Station?</A>
+<B><F>Uum</F>. <H pn="others2">XXX04</H>, <OL><H pn="others3">XXX05</H> and so on</OL>.</B>
+<A><OL><F>Err</F> I see</OL>. <F>Hm</F>. Why do you like <H pn="others2">XXX04</H>?</A>
+<B><F>Uum</F>. <.></.> There is many shops. <F>Uum</F>. <.></.> I buy <.></.> clothes and shoes. <.></.> <F>Hm</F>.</B>
+<A>I see. <H pn="B's name">XXX02</H>, do you belong to any club or circle?</A>
+<B>Yes. I belong to tennis club.</B>
+<A><F>Hm</F>. Can you tell me about the club?</A>
+<B><.></.> <F>Hm</F>? <JP><F>Uunto</F></JP> <JP><F>ee</F></JP> <F>uum</F> <.></.> I play tennis, footsal and <R>volleyball</R> <OL>volleyball</OL>.</B>
+<A><OL><F>Hmm</F></OL>. I never heard footsal.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>What's</OL> it like?</A>
+<B><.></.> <F>Hum</F>. <SC>It is</SC> <F>um</F> it's like soccer. <.></.> <JP><F>Eeto</F></JP> member is five. <F>Eh</F> court is more <SC>slo</SC> small than soccer.</B>
+<A><F>Hmm</F>. <F>Mh-hmm</F>.</A>
+<B><F>Eh</F> <SC>girls were not</SC> <F>um</F> girls don't play footsal.</B>
+<A>Why not?</A>
+<B><F>Mm</F>. <.></.> <JP><F>Eeto</F></JP>. How do you say <JP>ouen</JP> in <laughter>English</laughter>? <.></.></B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Um</F>. I see.</A>
+<B><JP>Ouen</JP>.</B>
+<A>To cheer up.</A>
+<B><F>Er</F> <R>ch</R> cheer up.</B>
+<A><F>Hm</F>. <F>Err</F> I see. So you like footsal very much.</A>
+<B>Yes.</B>
+<A>All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B><OL><??></??></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL>So now</OL>, I'm going to show you a picture. Please describe this picture <?>for me</?>.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A>Please tell me anything you see here.</A>
+<B><..></..> People is skiing. <F>Hm</F>. <F>Mm</F>. Winter season. <.></.> <F>Mm</F>. <..></..> <CO>They play <F>uum</F> <R>snow</R> snow</CO>. <nvs>laughter</nvs> <..></..> <F>Mm</F>. <..></..></B>
+<A>All right, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>In winter, what kind of sports do you enjoy?</A>
+<B>I enjoy snowboarding.</B>
+<A><F>Hum</F>.</A>
+<B>I went to Niigata and Nagano <SC>last sum</SC> <F>um</F> <R>last</R> <.></.> last <JP><F>eeto</F></JP> winter.</B>
+<A><F>Hum</F>. What's so exciting about snowboarding?</A>
+<B><F>Uum</F>. Speed <.></.> and <F>uum</F> thrill. <nvs>laughter</nvs> <.></.> I will go to Iwate this winter.</B>
+<A><F>Hmm</F>. What about skiing?</A>
+<B>I can't skiing.</B>
+<A><F>Hm</F>.</A>
+<B><CO><R>I</R> <R>I</R> <.></.> <F>mm</F> <F>uum</F> <SC>I can</SC> <F>um</F> <..></..> I have been</CO>. <F>Hm</F>? <..></..></B>
+<A>All right.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>All right, <H pn="B's name">XXX02</H></OL>. I think snowboarding seems <R>a</R> a little bit dangerous.</A>
+<B><.></.> No.</B>
+<A>No?</A>
+<B><JP><F>Eeto</F></JP> <.></.> <R>I</R> I am careful.</B>
+<A><F>Uum</F>. I see. O K. Thank you very much.</A>
+<B>O K.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I'm going to show you a role-play card.</A>
+<ctxt>The interviewer is taking out a role card.</ctxt>
+<A>O K. So please read it yourself.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And when you are ready</OL>, I'll start. <.></.> I'd like to do a role-play with you.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Are you ready?</A>
+<B>Yes.</B>
+<A>This is telephone conversation. Hello? <OL>This</OL> is <H pn="A's name">XXX01</H>.</A>
+<B><CO><OL>Hel</OL></CO>. Hello. This is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B>Hi.</B>
+<A><F>Hm</F>.</A>
+<B><JP><F>Eeto</F></JP>. <.></.> Let's seeing a movie together.</B>
+<A>Great.</A>
+<B><.></.> Tomorrow, you are free?</B>
+<A><F>Um</F>. I'm free.</A>
+<B>Great. <F>Uum</F>. <.></.> Where we <F>mm</F> meet?</B>
+<A>How about Shibuya?</A>
+<B>Yes. O K. <F>Uum</F>. How about <.></.> nine o'clock?</B>
+<A>Sure. That's fine.</A>
+<B>O K. <.></.> <laughter>Bye-bye</laughter>.</B>
+<A>But <H pn="B's name">XXX02</H>, where can I meet you? At Shibuya Station?</A>
+<B>Hachiko-mae.</B>
+<A><F>Er</F> O K. Hachiko-mae?</A>
+<B>Hachiko-mae.</B>
+<A>O K. And <F>er</F> what kind of movie is it?</A>
+<B><F>Uum</F> <F>um</F>. I want to see action <OL>movie</OL>.</B>
+<A><OL>Action</OL>. O K. So see you then. Thank you very much for calling.</A>
+<B><OL>See you <??></??></OL>.</B>
+<A><OL>Bye-bye</OL>.</A>
+<B>See you. Bye-bye.</B>
+<A><F>Hm</F>. That's the end of the role-play. <OL>Thank you, <H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A>In your real life, do you like movie?</A>
+<B>Yes, I do.</B>
+<A><F>Hum</F>. Can you tell me last time you went to a movie with your friends?</A>
+<B><F>Uum</F>.</B>
+<A>Or alone?</A>
+<B><SC>I went to</SC> <.></.> I went <.></.> last month with friends. <R>I</R> I saw "Pearl Harbor".</B>
+<A><F>Hum</F>.</A>
+<B><.></.> <F>Uum</F>. That's actor is cool. <..></..></B>
+<A><F>Hmm</F>. When you meet your friend, what do you usually do?</A>
+<B><F>Uum</F>. <SC>I go</SC> <R>I</R> <F>um</F> I go to shopping with friends. And I visit friends' house.</B>
+<A>Can you tell me one of your best friends?</A>
+<B><F>Uum</F>. Her name is <H pn="others4">XXX06</H>. She is <H pn="school name1">XXX07</H> University's student. <SC>She</SC> <F>um</F> I met <.></.> high school. <R>I</R> I graduated from <SC><JP><H pn="school name2">XXX08</H></JP></SC> <F>er</F> <JP><H pn="school name3">XXX09</H></JP>. Yeah. She is <.></.> pretty. <nvs>laughter</nvs></B>
+<A>I see. Good friend.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I'll show you another picture. This is a picture sequence. So please make up one short story using these pictures <SC>from one to four</SC> one, two, three, four.</A>
+<B>O K. <F>Uum</F>. The boy and girls went to zoo on <R>S</R> Sunday. <SC>They are</SC> <R>they</R> <R>they</R> <.></.> they are interested in <laughter>lion</laughter>. <F>Um</F>. The boy said, <F>um</F> <.></.> "This lion is cool.". <laughter><SC>The girl is</SC></laughter> <F>uum</F> <laughter>the girl don't like lion</laughter>. <JP><F>Eeto</F></JP>. He bought a soft cream <.></.> for her. And the monkey eat <R>banana</R> banana. <R>He</R> <laughter>he is hungry</laughter>. <F>Uum</F> <F>um</F>. In the evening, <SC>they are</SC> <..></..> <F>mm</F> <.></.> they said, "<laughter>see you</laughter>.".</B>
+<A>All right.</A>
+</task>
+<followup>
+<A>Do you sometimes go to the zoo?</A>
+<B>No, I don't.</B>
+<A>Why not?</A>
+<B><F>Uum</F>. I have no boyfriend. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> You can go to the zoo with your girlfriend. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uum</F>. <..></..> <F>Err</F> <F>um</F>. <.></.></B>
+<A>So do you like animals?</A>
+<B>Yes, <R>I</R> I do.</B>
+<A>What kind of animals do you like?</A>
+<B>I like dog.</B>
+<A><F>Hum</F>.</A>
+<B>I have a dog.</B>
+<A>Tell me about him or her.</A>
+<B><JP><F>Eeto</F></JP> <F>uum</F>. She is <JP>shiba</JP>. <.></.> <F>Mm</F> five years old. She is pretty. And <SC>I came</SC> when I came home, she is <F>um</F> welcome to me. <nvs>laughter</nvs></B>
+<A><F>Ah</F>. I see. How do you take care of her?</A>
+<B><F>Uum</F>. <R>I</R> I give food and <F>uum</F> take a walk with her.</B>
+<A><F>Err</F> I see. <F>Hm</F>. You're very good owner.</A>
+<B><nvs>laughter</nvs></B>
+<A>All right. Thank you very much,</A>
+<B>Thank <OL>you</OL>.</B>
+<A><OL><F>er</F></OL> <H pn="B's name">XXX02</H>. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So <F>um</F> interview is almost over. So do you have special plan for this weekend?</A>
+<B><F>Uum</F> <SC>I work</SC> <R>I</R> <F>um</F> I have a job. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F> I see</OL>. But you like that job.</A>
+<B>Do you like <OL><??></??></OL>?</B>
+<A><OL><F>Um</F></OL>. You like that job?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. <.></.> So can you meet many friends?</A>
+<B>Yes.</B>
+<A><F>Err</F> I see. O K. So enjoy the work.</A>
+<B><laughter>Thank you</laughter>.</B>
+<A>O K. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

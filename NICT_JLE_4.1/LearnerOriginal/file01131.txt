@@ -1,0 +1,159 @@
+<interview>
+<filename>file01131.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>420</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Hello, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B><F>Uh</F> <R>very glad</R> <F>ah</F> very glad.</B>
+<A>O K. So where do you live, <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> I live in <H pn="others1">XXX03</H> <F>ur</F> <SC><H pn="others2">XXX04</H></SC> <R>in</R> in <H pn="others2">XXX04</H>.</B>
+<A><F>Ah</F> I see. How do you come here?</A>
+<B><SC><H pn="others3">XXX05</H></SC> <R>I</R> I use <H pn="others3">XXX05</H> Line. <H pn="others4">XXX06</H> Station <R>to</R> <R>to</R> <SC>to</SC> <SC>from <H pn="others5">XXX07</H></SC> <F>ah</F> to <H pn="others6">XXX08</H> from <H pn="others5">XXX07</H> Station.</B>
+<A><F>Hmm</F>. I see. Do you live with your parents?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. Please tell me about them. Father and mother?</A>
+<B><SC>Father</SC> <F>mm</F> <R>my father</R> my father <SC>live <R>i</R> in</SC> <F>ah</F> live <H pn="others7">XXX09</H>.</B>
+<A><F>Hmm</F>.</A>
+<B>Alone.</B>
+<A><F>Hmm</F>.</A>
+<B><R>To</R> <SC>to work</SC> worked there.</B>
+<A>I see. <F>Uhm</F>. Then mother, how about your mother?</A>
+<B>My mother work part time.</B>
+<A><F>Hmm</F>. What does she do?</A>
+<B><F>Er</F> he worked <F>er</F> <R>clo</R> <R>cloth</R> <SC>cloth</SC> <F>er</F> <F>ah</F> <R>clo</R> cloth, <F>mm</F> <R>so</R> sorry.</B>
+<A><F>Ah</F> that's O K. <F>Hmm</F>. O K. Do you have any sisters or brothers?</A>
+<B><R>I have a</R> <F>er</F> I have a brother.</B>
+<A><F>Ah</F>.</A>
+<B>Small brother.</B>
+<A><F>Hmm</F>. <nvs>laughter</nvs></A>
+<B><CO>Small</CO>.</B>
+<A>What do you like to do with him?</A>
+<B><F>Er</F> <R>I play</R> I play game with him.</B>
+<A><F>Hmm</F>. I see. <F>Hm</F>. O K. Then <H pn="B's name">XXX02</H>, do you like any sports?</A>
+<B>Yes, I like tennis.</B>
+<A><F>Ahh</F>.</A>
+<B><R>I</R> <F>er</F> <R>I</R> I play tennis <SC>now</SC> <F>er</F> <R>u</R> <R>un</R> until now.</B>
+<A><F>Hmm</F>. <F>Wow</F>. Are you a good tennis player?</A>
+<B><laughter>I don't know</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL>. I see. <F>Hm</F>. O K, then please tell me about your favorite class.</A>
+<B>Favorite class.</B>
+<A><F>Hm</F>. University.</A>
+<B><F>Oh</F>. I like English hour <nvs>laughter</nvs> and <F>er</F> sport, tennis. <CO><F>Er</F> <F>mm</F> and</CO>. <.></.></B>
+<A><F>Hmm</F>. In that English class, what do you study and what do you talk about?</A>
+<B><F>Er</F> today, <F>er</F> I <R>talked</R> talked about Yoshida brothers. <SC>Musi</SC> <SC>he</SC> they are musician. <F>Ur</F> I discussed about Yoshida brothers.</B>
+<A><F>Ah</F>. O K. Tell me more about them.</A>
+<B><F>Er</F> no.</B>
+<A><nvs>laughter</nvs> O K. That's all right.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then <?>let's see</?>. Please look at this picture.</A>
+<B>Yeah.</B>
+<A>And tell me anything about it.</A>
+<B>Snow.</B>
+<A><F>Mm</F>.</A>
+<B><F>Ah</F>. O K.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>In winter, <F>er</F> <SC>it</SC> <..></..> <R>two</R> <SC>two pe</SC> <F>ah</F> <..></..> six people are skiing. <F>Er</F> <SC>one</SC> <F>er</F> <R>four</R> <SC>four people</SC> <..></..> <F>ah</F> sorry, two people <R>drin</R> drinking coffee now.</B>
+</task>
+<followup>
+<A>O K. O K. Good. Thank you. Do you like skiing?</A>
+<B>Yes.</B>
+<A><F>Ah</F> O K. Please tell me about the last time you went skiing.</A>
+<B><F>Er</F> <R>I s</R> <R>I s</R> I skied two years later. <.></.></B>
+<A>And?</A>
+<B><R>And</R> and <F>er</F> <F>ah</F> <R>I</R> <R>I have</R> <SC>I have ski</SC> <F>ee</F> <R>I</R> <SC>I have <SC>ski</SC> skied</SC> I have skied <R>th</R> <SC>three times</SC> only three times.</B>
+<A><F>Hmm</F>. I see. Where did you go last time?</A>
+<B>No, <R>I studied</R> I studied to enter university. <nvs>laughter</nvs></B>
+<A><laughter><F>Ah</F></laughter>. I see. O K. I understand.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role play. Please read this card.</A>
+<ctxt>interviewee is reading the card.</ctxt>
+<B>Yes.</B>
+<A>O K? Tu tu tu. Hello, <H pn="A's name">XXX01</H> speaking.</A>
+<B>O K. Hello, <SC>my name</SC> <F>er</F> <H pn="B's name">XXX02</H> speaking.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B><H pn="A's name">XXX01</H>, <R>let's</R> <R>let's go to</R> <SC>let's go to watching</SC> <SC>wa</SC> <R>le</R> let's <R>go</R> go watching movie.</B>
+<A>Yes, that sounds great.</A>
+<B><R>When</R> when are you free?</B>
+<A>How about tomorrow?</A>
+<B>Tomorrow. <R>What ti</R> <F>ah</F> <R>what time</R> what time do you <R>free</R> <OL>free</OL>?</B>
+<A><OL>In</OL> twelve noon.</A>
+<B><R>Twelve</R> twelve? Yes. <SC>Let</SC> <F>er</F> let's go to Shinyurigaoka. O K?</B>
+<A>O K.</A>
+<B><F>Er</F> <.></.> <R>twelve</R> twelve, Shinyurigaoka.</B>
+<A><F>Hmm</F>.</A>
+<B>O K?</B>
+<A>O K. See you.</A>
+<B>See you.</B>
+<A>Thank you for calling. Bye bye.</A>
+<B>Bye bye.</B>
+</task>
+<followup>
+<A>O K. Good. <F>Hmm</F>. You said Shinyurigaoka, is there a movie theater <OL>there</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Ah</F>. Please tell me about the place.</A>
+<B><F>Er</F> Shinyurigaoka. <F>Er</F> <.></.> <R>ci</R> city? <F>Er</F> <R>get</R> <R>get</R> <SC>get out</SC> <R>get</R> get out station, <F>er</F> turn right, go straight, <F>er</F> <JP>de</JP> turn right, <F>er</F> <R>they</R> <F>er</F> <SC>they</SC> <F>er</F> <R>there are</R> there are <SC>building</SC> <SC>bi</SC> <F>er</F> Warner Mical Cinema, <SC>there</SC> there is.</B>
+<A>I see. Do you like the place?</A>
+<B>No.</B>
+<A><laughter>No</laughter>.</A>
+<B><F>Er</F> a little far.</B>
+<A><F>Oh</F> O K. I understand.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now <nvs>cough</nvs> finally let's do this. Please make a story with these six pictures. Please start with, "One day last week". O K?</A>
+<B>O K.</B>
+<A><nvs>cough</nvs></A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>One day last week, <R>she</R> she go to depart. She want to tie <R>for</R> for husband's happy birthday. <R>She</R> <SC>she buys</SC> <SC>she buy green</SC> <R>she</R> she bought green tie. Then <R>she</R> <..></..> she saw <R>sh</R> <SC>shoes</SC> <F>er</F> <SC>cheer shoes</SC> <F>ah</F> <SC>cheer</SC> cheap shoes <F>er</F> thirty percent <F>o</F> off price. Then <.></.> <F>uh</F> next, <R>she</R> she saw <SC>blouse</SC> <R>cheap</R> cheap blouse <F>er</F> fifty percent off price. <F>Er</F> <SC>she go out depart then</SC> <F>er</F> <R>she go</R> she go out depart. <SC>She bring a <R>lot of</R> <SC>lot of</SC> <.></.> <R>lot</R> <.></.> lot</SC> <F>er</F> she enjoy shopping.</B>
+</task>
+<followup>
+<A><F>Hmm</F>. O K. Thank you, <H pn="B's name">XXX02</H>. Last Sunday was mother's day, right?</A>
+<B>Yes.</B>
+<A>Did you give anything to your mother?</A>
+<B>No.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> <R>Ma</R> massage present.</B>
+<A><F>Ahh</F> that's nice. <F>Hmm</F>. What did she say to you?</A>
+<B><F>Ah</F>. "Thank you very much.".</B>
+<A><F>Hmm</F>. Do you do that every year on mother's day?</A>
+<B>Yes, and <SC>give you</SC> <R>give</R> <SC>give sh</SC> give her flower.</B>
+<A><F>Ahh</F>. How nice. <F>Hm</F>. <F>Hm</F>. O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>This is almost at the end of the interview. <F>Uh</F> what are you going to do this evening?</A>
+<B>Today?</B>
+<A><F>Hmm</F>.</A>
+<B>Yes, <F>er</F> <R>I</R> <SC>I go to</SC> <F>er</F> <F>er</F> I will go to restaurant with <R>circle's</R> <SC>circle's friend</SC> tennis circle's friend.</B>
+<A><F>Ah</F>. That's nice. <F>Hmm</F>. O K then enjoy <R>your</R> your nice time with your friends.</A>
+<B>Thank you.</B>
+<A>Thank you for coming today. Bye.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

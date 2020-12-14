@@ -1,0 +1,186 @@
+<interview>
+<filename>file00461.txt</filename>
+
+<head version="1.3">
+<date>2001-06-06</date>
+<sex>male</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>675</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>travel_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A><F>Um</F>. So, tell me, where do you live, Mister <H pn="B's name">XXX02</H>?</A>
+<B>Where do I live?</B>
+<A>Yes.</A>
+<B><F>Er</F>. I live in <H pn="others1">XXX03</H> Ward in <H pn="others2">XXX04</H>.</B>
+<A>I see. What part in <H pn="others1">XXX03</H> Ward?</A>
+<B><F>Uum</F>. Near <H pn="others1">XXX03</H> Station.</B>
+<A><F>Err</F>.</A>
+<B><?>Take</?> fifteen minutes from the station.</B>
+<A><F>Oh</F>. That's good. And, what kind of place do you live? In a apartment <OL>or a house</OL>?</A>
+<B><OL><F>Er</F></OL>. It's <F>er</F> <SC>apartment</SC> an apartment.</B>
+<A>I see. Do you live their alone or with your wife?</A>
+<B><F>Er</F>. With my <SC>mi</SC> wife.</B>
+<A><F>Er</F>. I see. Can you tell me about your wife?</A>
+<B><F>Err</F>. <SC>She works</SC> <F>er</F> we used to be <F>er</F> classmates in <SC>graduate school</SC> graduate university. And <F>er</F> she also work for a architecture company.</B>
+<A><F>Oh</F>. I see.</A>
+<B>Yeah. But different company from <H pn="company name1">XXX05</H>.</B>
+<A><F>Hum</F> <F>oh</F>. That's nice. O K. <F>Ur</F>. But, which university did you go to?</A>
+<B><F>Er</F>. <H pn="school name1">XXX06</H>.</B>
+<A><F>Oh</F>. I see. And, <F>um</F> can you tell me about what you did there?</A>
+<B><F>Um</F>. Actually, I didn't study <F>er</F> about <F>er</F> architecture which you think this is architecture. I studied <F>er</F> earthquakes since Japan has a lot of earthquakes. Yeah. <SC>And</SC> <F>er</F> but I'm in <F>er</F> architectural develop <R>de</R> department. <?>I'm</?> studied about earthquakes.</B>
+<A>That's interesting. <SC>How</SC> <F>uh</F> why did you become interested in earthquakes?</A>
+<B><F>Er</F> <F>hm</F>. Yeah. <F>Erm</F>. Because <F>uh</F> <F>mm</F> <R>ea</R> <F>mm</F> earthquakes is one <F>um</F> big problem <F>mm</F> which Japan has. Japan <R>has</R> has a <F>mm</F> problem which must be solved to save people.</B>
+<A><F>Hum</F>. I see. So, how can we solve it?</A>
+<B>How can we solve it? <F>Mm</F>. <SC>It's</SC> <SC>if</SC> it's difficult. <F>Er</F>. But, <F>er</F> at first, <R>we</R> we have to think about the <R>infras</R> infrastructure. But <F>er</F> <SC>al</SC> infrastructure has <R>alre</R> <SC>already</SC> been builted already. So it's difficult to change it. But, <F>mm</F> from a small part to big part, we have to change, <F>mm</F> change and change.</B>
+<A>I see. O K. So, tell me, on weekends, on your free time, how do you spend your time with your wife?</A>
+<B><F>Er</F>. Usually, we spend one day of weekends to go <SC>sports</SC> gymnastics and <F>urm</F> <R>exercise</R> exercise.</B>
+<A>That's nice. What kind of things do you do at the gym?</A>
+<B><F>Uh</F>. Usually, <F>um</F> bike. And <F>er</F> bike for forty minutes. After that, just <F>erm</F> do weight-lifting.</B>
+<A><F>Hum</F>. I see.</A>
+<B>Yeah.</B>
+<A>Do you do anything else after that?</A>
+<B><F>Err</F>. <R>It</R> it has a Jacuzzi <F>um</F> <F>erm</F> with the facility. So <R>I</R> I, <SC>use</SC> I <?>mean</?>, usually use it.</B>
+<A><F>Oh</F>. That's very nice. And, how about during the weekdays? After you get home, how do you spend your time at home?</A>
+<B><F>Uum</F>. To go shopping because my wife also works in weekdays. So we have no time to go <R>shop</R> shop in weekdays. So we have to <F>er</F> shop groceries for one week.</B>
+<A><F>Oh</F>.</A>
+<B>Yeah.</B>
+<A>I see. What kind of place do you go to do some shopping?</A>
+<B><F>Er</F>. There is a supermarket near my apartment. So <SC>we will</SC> we usually go there.</B>
+<A>I see. O K. Thank you <OL>very much</OL>.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. <CO>The first thing I want to do today is</CO>. O K. Look at this picture.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And, tell me what you see.</A>
+<B><F>Um</F>. There are three tables <F>er</F> <SC>and</SC> which all has two people each. And, <F>er</F> the front table, the <F>er</F> <SC>waitre</SC> waiter is serving a white wine <R>to</R> <F>mm</F> to customers. Yeah. And <F>er</F> <R>one</R> <F>ur</F> one man is drinking a wine. <F>Mm</F>. Also, the <R>wai</R> waiters has <F>er</F> <F>mm</F> shelf which has <F>er</F> some wines. Maybe, they are choosing one of the wines <R>from</R> from them. And also, <SC>it is</SC> there is a piano. And one woman is playing it. And <F>er</F> time is seven o'clock now. <.></.></B>
+<A>O K. <OL>That's fine</OL>.</A>
+<B><OL><F>Hm</F> yeah</OL>.</B>
+<A><OL>Thank you</OL> very much. O K.</A>
+</task>
+<followup>
+<A>May I have the picture back? O K. So, tell me how long have known your wife for?</A>
+<B><F>Um</F>. Already <.></.> ten years.</B>
+<A>Ten years?</A>
+<B>Yeah.</B>
+<A>I see. So, please tell me, during those ten years, O K, <F>um</F> which is the most romantic restaurant you've taken her to?</A>
+<B>Most romantic restaurant? <F>Er</F>. I think <.></.> <R>I have not</R> I have not <nvs>laughter</nvs> <F>er</F> brought her not so many <SC>re</SC> good restaurants. But <F>er</F> one restaurant we liked is <F>mm</F> <.></.> <F>uum</F> located in <H pn="others1">XXX03</H>. And <F>er</F> there is a hotel, and the restaurant is on the top floor of the hotel's. It's not so expensive, but food is good.</B>
+<A><F>Hum</F>. I <OL>see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>When did you take her to that <OL>restaurant</OL>?</A>
+<B><OL><F>Er</F></OL>. The last time, we went <SC?>to</SC?> there on birthday of my wife.</B>
+<A><F>Uhu</F>. I see. Is that how you usually celebrate her birthday?</A>
+<B>Usually, like that.</B>
+<A><F>Uhu</F>. What is particularly good about that restaurant?</A>
+<B><F>Er</F> They have a nice view at first. And <R>also</R> <F>um</F> <F>er</F> also, so we celebrate our wedding in that hotel. So the hotel serves us at <SC>the</SC> a little discount price.</B>
+<A><F>Oh</F>. I see.</A>
+<B>And <R>tha</R> that is also good <laughter>point</laughter> for us. <SC>And</SC> <F>er</F> yeah, and the food is also good.</B>
+<A><F>Uhu</F>. I see. O K. That's good. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, O K. Let's do a role play. O K. Please read this role card. And, when you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Are you ready?</A>
+<B><F>Uhu</F>. <OL>Yeah</OL>.</B>
+<A><OL>O K</OL>? O K. Hello. May I help you, sir?</A>
+<B><F>Um</F>. Yes. <F>Er</F> <F>uh</F>. I see. <F>Hm</F>. Yes. <F>Er</F>. <SC>My name is <H pn="B's name">XXX02</H></SC> <F>er</F> my name is <H pn="B's name">XXX02</H>. And I joined the tour you <F>mm</F> offered <SC>the las</SC> <F>er</F> the other days. But <F>er</F> I have some claims about it. <F>Um</F> <F>um</F>. Even though <F>er</F> the advertisement of the tour <F>er</F> said that there are a lot of activities for free, <SC>but</SC> <F>er</F> and <F>er</F> <SC>we</SC> that's why we joined the tour, but <SC>the</SC> <SC>at fa</SC> in the fact, <R>so</R> <SC>some activities</SC> for some activities, you have to <R>pay</R> <F>um</F> pay money. And, <F>er</F> <SC>we</SC> at that time, we complained to them, but <SC>they di</SC> they said just "No. <SC>I</SC> we didn't know, <F>er</F> <R>we</R> <R>we</R> <SC>we didn't off</SC> we don't offer that kind of service for free. It's optional.". <OL><CO>So</CO></OL>.</B>
+<A><OL>I see</OL>.</A>
+<B>Yeah.</B>
+<A>Did you contact our local tour agent?</A>
+<B>Yes. <F>Hm</F>? Did you? Yes.</B>
+<A>And, what did he say?</A>
+<B><F>Um</F>. He said it's optional. Yeah. "<SC>We have</SC> <SC>we didn't hear</SC> we didn't know that we have to offer these optional tour or activities for free.".</B>
+<A><F>Um</F>. I see. But, once it finished, we can't really check it. <F>Um</F>. <.></.> Let's see. And I'm only a <SC>part time</SC> part timer here. So I don't know what to do.</A>
+<B><F>Um</F>. <R>So</R> so means you can't make any decisions about it?</B>
+<A>Sorry. No, I can't.</A>
+<B><F>Erm</F>. So, could you change to your adviser who are <.></.> responsible for this kind of things?</B>
+<A>Yes. <F>Er</F>. He is out for lunch now.</A>
+<B><F>Er</F>. Could you tell him to call me back? My telephone number is one two three four five six. <OL>Yeah</OL>.</B>
+<A><OL>O K</OL>. Then, <F>er</F> after lunch, he has a meeting. So he will be late. Is that O K, sir?</A>
+<B>Yeah. And, <F>er</F> what I wanted to say is <SC>so</SC> since we spent another <F>er</F> ten thousand dollars for the activities, we <SC>have</SC> had thought it's already <SC>included</SC> include for the fee of the tour. So <SC>we have to</SC> <F>er</F> <SC>we want to</SC> <F>mm</F> <R>we want</R> we want you <?>to</?> <R>give</R> give me back the money about it.</B>
+<A>Do you have evidence that you have paid?</A>
+<B>Yeah. Of course. I have <SC>a receipt</SC> receipts of it.</B>
+<A>I see. O K. I'll <F>er</F> tell the manager</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL>and</OL> ask him to call you back</A>
+<B><OL>Yeah, please</OL>.</B>
+<A><OL>as soon as</OL> he gets back. Thank you very much, Mister <H pn="B's name">XXX02</H>. O K. Thank you very much. That's the end of the role play.</A>
+</task>
+<followup>
+<A>O K. <SC>Have you</SC> <F>erm</F> first of all, have you ever traveled abroad?</A>
+<B>Yes.</B>
+<A>I see. And, during your trip, have you had any troubles like this?</A>
+<B><F>Err</F>. <.></.> Yes. Sometimes. <OL>Yeah</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>. Can you tell me about one example?</A>
+<B><F>Uum</F>. <.></.> <F>Hm</F>. <SC>I can</SC> I can't remember soon. But, <F>er</F> <F>um</F> <F>err</F> when <SC>we</SC> I went to the island in Thailand to go on vacation, <F>erm</F> <SC>the hotel</SC> the advertisement of a hotel said all activities are free. <SC>I</SC> so this is like this kind of things which we did now as a role playing.</B>
+<A>Yes.</A>
+<B><SC>But</SC> <F>er</F> so <R>I</R> <F>mm</F> I wanted to try <F>er</F> boat sailing, but <F>er</F> <SC>the hotel</SC> <R>the</R> the <F>um</F> <R>clerk</R> clerk of hotel said, "No, <SC>you can't do</SC> <R>yo</R> you can't do that. We can't offer the boat sailing.". So <SC>I thought</SC> I just thought <R>it</R> it is different from what I was thinking.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah.</B>
+<A>And, what did you do?</A>
+<B><F>Er</F>. I didn't claim. Just forget.</B>
+<A>And, did you pay?</A>
+<B><F>Er</F>. No, I didn't try it.</B>
+<A><F>Oh</F>. You just changed <OL>to another <??></??></OL>.</A>
+<B><OL>Because</OL> there are another activities. So we changed.</B>
+<A><F>Oh</F>. I see. O K. Thank you very much.</A>
+<B><F>Mh-hmm</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. The last thing I want you to do is, O K, I want you to make a story. O K? Look at these six pictures and make a story from one to six. And <SC>these happened</SC> this happened one day last week. So, start your story with "One day last week".</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Um</F>. O K. <nvs>cough</nvs> <F>Er</F>. One day last week, <F>uum</F> <F>um</F> Asako and <F>er</F> Yoko <F>er</F> <SC>has</SC> <F>er</F> leaves to the picnic by their cars. <SC>They brought</SC> <SC>they are</SC> <R>they</R> they were bringing a lot of stuffs <SC>like</SC> <F>um</F> <.></.> <F>mm</F> <F>er</F> to use the picnics. And they arrived at the locations which <SC>they are</SC> they wanted to <F>um</F> build their tent to stay. And they fixed the tents <F>er</F> near the river. Also, <R>they</R> <F>um</F> they started to be ready for the dinner. <F>Erm</F>. <R>Then, <F>um</F> the rain</R> then, <SC>the rain</SC> <F>um</F> it is starting to rain. <F>Erm</F>. <R>At</R> at first, the rain is not so heavy, but it's getting worse. So they have to give up to stay outside and <F>er</F> <R>decide to go back</R> decide to go back. So they ride their cars and <F>um</F> try to go back <?>to their</?> home. But the rain <SC>get</SC> gets <F>er</F> worse and worse. And also, <R>the thun</R> <SC>the thunders</SC> <SC>there are</SC> <?>there</?> are a lot of thunders. And, on their way to their homes, they found the <SC>hotels looks</SC> hotel which looks nice to them. So they decided to stay the hotel. <F>Hm</F>. And, <F>hm</F> <SC>at last, they</SC> finally, they could manage to <F>um</F> stay at the hotel. And, now, <SC>they are <F>um</F> <SC>relaxing</SC> relax</SC> they are <R>relax</R> <F>er</F> relax, watching outside, <SC>which is storming</SC> <F>er</F> no, which is raining heavily.</B>
+<A>Right. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. What is your favorite outdoor sports?</A>
+<B><F>Er</F>. Favorite <R>out</R> outdoor sports? I like skiing and baseball.</B>
+<A><F>Oh</F>. What's good about skiing?</A>
+<B>What's good <SC>at</SC> about?</B>
+<A>What's good about skiing?</A>
+<B><F>Erm</F>. <.></.> What's good? <F>Uum</F>. Yeah. <F>Uhm</F>. Because I can ski faster than any other sports. So it's <R>e</R> excited, and also, <R>the</R> <SC>they</SC> usually, <SC>we</SC> I can see the nice view from <R>the mou</R> the mountain. Yes. And I <SC>was</SC> also was born in <H pn="others3">XXX07</H>.</B>
+<A><F>Ah</F>.</A>
+<B>So <F>um</F> one reason I like ski is just I was grown up in <H pn="others3">XXX07</H>.</B>
+<A><F>Oh</F>. I see. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. We are almost at the end of the interview now. So, after this, are you going back to your office?</A>
+<B>Yes.</B>
+<A>O K. And, what time <SC>do you th</SC> are you going to finish today?</A>
+<B><F>Er</F>. Usually, seven <OL><R>or</R> or eight</OL>.</B>
+<A><OL>Seven</OL>? That's not so bad. After you get home, do you have any plans?</A>
+<B><F>Er</F>. Today? No.</B>
+<A>No? Just relax?</A>
+<B>Yes.</B>
+<A>O K. <F>Well</F>. I hope you have a nice day.</A>
+<B>Yeah. <OL>O K</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

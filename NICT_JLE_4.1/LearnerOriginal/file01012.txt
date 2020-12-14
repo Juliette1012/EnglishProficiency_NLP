@@ -1,0 +1,316 @@
+<interview>
+<filename>file01012.txt</filename>
+
+<head version="1.3">
+<date>2002-03-26</date>
+<sex>male</sex>
+<age>31</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>525</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<ctxt>The tape is cut off at the beginning.</ctxt>
+<A>Is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Nice</OL> to meet you.</A>
+<B>Nice to meet you.</B>
+<A>O K. How are you today mister <H pn="B's name">XXX02</H>?</A>
+<B><F>Uhh</F> <.></.> fine.</B>
+<A><F>Huhh</F>.</A>
+<B>It's fine.</B>
+<A><F>Huh</F>. Have you been busy?</A>
+<B>No. <F>Ahh</F> I was busy <F>umm</F> until yesterday.</B>
+<A><laughter><F>Oh</F></laughter> O K.</A>
+<B><F>Hm</F>.</B>
+<A>I see. So do you have any plans for this weekend?</A>
+<B>This weekend.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F> <.></.> <F>ah</F> no.</B>
+<A><OL>No</OL>?</A>
+<B><OL><F>Ahh</F></OL> <F>um</F> <R>I</R> <F>m</F> I don't decide this weekend's plan.</B>
+<A><F>Hm</F>. What do you usually do on weekends?</A>
+<B><F>Umm</F>? Pardon? What?</B>
+<A>What do you usually do?</A>
+<B><F>Ummm</F> <F>umm</F> recently <R>I</R> <F>mm</F> <.></.> I was very busy so almost <R>I</R> <F>mm</F> <.></.> I went to here</B>
+<A><F>Uh-huh</F>.</A>
+<B>to work job.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But <F>uhh</F> from April</B>
+<A><F>Hmmm</F>.</A>
+<B><F>umm</F> maybe <R>I</R> <F>umm</F> <JP>nandaro</JP> <F>uhh</F> I become <..></..> easy.</B>
+<A><F>Hmm</F>.</A>
+<B><.></.> A Little.</B>
+<A><F>Hmm</F>.</A>
+<B>So <SC>I</SC> <F>umm</F> <JP>tsuka</JP> maybe I go to cinema</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>or</OL> shopping.</B>
+<A>Do you enjoy any sports?</A>
+<B><F>Umm</F> no. <nvs>laughter</nvs></B>
+<A>No? <F>Hmm</F> you said you like movie. What kind of movie <OL>do you like</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Ummm</F> famous movie. <nvs>laughter</nvs></B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL><F>Um</F></OL> <F>um</F>.</B>
+<A><F>Hmm</F> <F>hmm</F> <F>hmm</F>.</A>
+<B><F>Um</F>.</B>
+<A>So <R>when you go see a movie</R></A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL>when</OL> you go see a movie <F>ah</F> how do you choose which one to watch?</A>
+<B><F>Ummm</F> <F>ummm</F> <F>umm</F> <..></..> really speaking <F>um</F> <R>I</R> I want to watch the famous movie</B>
+<A><F>Hmmm</F>.</A>
+<B>but famous movie is very <F>uhh</F> crowd.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F> <F>ahh</F> but <R>I</R> <SC>I don't</SC> <F>umm</F> <R>I</R> I don't have a time</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>ev</SC> <F>ahh</F> weekdays.</B>
+<A><F>Hmmm</F>.</A>
+<B>So almost <R>I</R> <SC>I watch the mi</SC> <R>I watch the old</R> I watched the old movie.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F> <SC>or</SC> <F>umm</F> <.></.> <F>umm</F> <.></.> <F>umm</F>. <CO>So</CO>.</B>
+<A><F>Ummm</F> I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Mister <H pn="B's name">XXX02</H>, first thing today, I would like to show you a picture. O K? Please describe this picture.</A>
+<B><F>Uhh</F> ple describe?</B>
+<A><F>Uhh</F>.</A>
+<B><F>Uh-huh</F>?</B>
+<A>Cay you <OL>tell me what you see</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Umm</F> <.></.> at a restaurant <..></..> <R>a couple</R> a couple <F>umm</F> select the wine. <F>Ummm</F> and <nvs>laughter</nvs> <F>mm</F> <..></..> <R>s</R> sorry, <F>ahh</F> a man <..></..> drink a wine. <F>Ummm</F> <.></.> and waiter described the wine. <..></..> <OL><??></??></OL>.</B>
+<A><OL><F>Hmmm</F> O K</OL>.</A>
+</task>
+<followup>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, Mister <H pn="B's name">XXX02</H></OL> do you sometimes go to this kind of restaurant?</A>
+<B>Do you sometimes.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F> <laughter>no</laughter>.</B>
+<A><F>Hmmm</F>.</A>
+<B>Maybe this restaurant is very expensive.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F> I think <F>umm</F> <.></.> <R>they</R> <.></.> they go to restaurant at a wedding <JP>nandaro</JP> <.></.> <F>umm</F> anniversary.</B>
+<A><F>Hmm</F>. <F>Hmm</F> <F>hmm</F> <F>hmm</F>.</A>
+<B>Or <R>birthday</R></B>
+<A><F>Huh</F>.</A>
+<B>and so on. <.></.></B>
+<A><F>Hum</F>. <.></.> I see. O K. Then how do you celebrate</A>
+<B><F>Uhh</F>.</B>
+<A>your family's birthday?</A>
+<B><.></.> <F>Ummm</F> <nvs>laughter</nvs> <R>I</R> <F>uhh</F> I don't <R>any</R> anything.</B>
+<A><F>Huhh</F>.</A>
+<B><..></..> <F>Um</F> <.></.> <F>mm</F> <R>we</R> we spend a <OL>usual day</OL></B>
+<A><OL><F>Huhh</F></OL>.</A>
+<B>together.</B>
+<A><F>Hmmm</F>.</A>
+<B><F>Huh</F> <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL>O K</OL>. <F>Umm</F> <F>er</F> O K, what about when you have lunch around here? What kind of <F>er</F> restaurant do you go to?</A>
+<B><F>Ummm</F>. <F>Ummm</F> <..></..> <F>umm</F> restaurant <F>hmm</F> <R>we</R> we go to <.></.> cheap restaurant</B>
+<A><F>Hmm</F>.</A>
+<B>at lunch.</B>
+<A><F>Huhh</F>. <F>Hmm</F> <F>hmm</F>.</A>
+<B>But almost <R>I</R> I go to <JP>nante yuundaro</JP> <.></.> inside restaurant.</B>
+<A><F>Ahh</F> this company?</A>
+<B><F>Ah</F> yes.</B>
+<A><F>Ohh</F> O K. I see. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Umm</F> now.</A>
+<B><F>Um</F>. <nvs>sniff</nvs></B>
+<ctxt>The interviewer is selecting a role-play card.</ctxt>
+<A>O K. Let's try role-play. Please read this card. O K, and tell me when you are ready.</A>
+<ctxt>The interviewee is reading the role-play cards.</ctxt>
+<B><F>Ummm</F>. <nvs>sniff</nvs></B>
+<A>O K? <.></.> O K. May I help you?</A>
+<B><F>Mm</F> <JP>nannishiyou</JP> <nvs>laughter</nvs> <.></.> <F>ummm</F></B>
+<ctxt>The interviewee is whispering something.</ctxt>
+<A><OL>Are you looking for something</OL>?</A>
+<B><OL><F>Uhh</F></OL>. <F>M</F>?</B>
+<A>Are you looking for <OL>something</OL>?</A>
+<B><OL><F>Uhhhh</F></OL>.</B>
+<A>Are you looking for something?</A>
+<B><F>Ummm</F>. <..></..> <JP>Nanni shiyou</JP>. <JP>Nanndemo iikana</JP>. <nvs>laughter</nvs> <..></..> <F>ummmmm</F> do you have a <F>ummm</F> textbook for TOEIC?</B>
+<A><F>Ahh</F> yes. We have so many books</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>for TOEIC</OL>.</A>
+<B><F>Uhhh</F>? <F>Ummm</F> <SC>do you</SC> <F>umm</F> <R>I</R> I want to buy <R>the</R> <F>umm</F> <JP>nandaro</JP> <.></.> the <F>ummm</F> <.></.> <F>umm</F> <SC>most</SC> <F>umm</F> best-seller book</B>
+<A><F>Uh-huh</F>.</A>
+<B>for TOEIC. <OL><F>Hmmm</F></OL>.</B>
+<A><OL><F>Ahhh</F> <.></.> O K</OL>. <F>Ahhh</F> O K. So <SC>it's <R>a</R> a</SC> you're looking for a book which includes everything?</A>
+<B><F>Uh</F> which?</B>
+<A>Includes everything? <SC>Heari</SC> listening.</A>
+<B><F>Ahh</F>.</B>
+<A>Everything?</A>
+<B>Yes, everything.</B>
+<A>O K. <F>Ahh</F> <SC>we have</SC> <F>ahh</F> actually we have three types</A>
+<B><F>Uhh</F>.</B>
+<A>of books. <OL>And they are</OL></A>
+<B><OL><F>Umm</F></OL>.</B>
+<A>all popular.</A>
+<B>All popular?</B>
+<A><F>Hmmm</F>.</A>
+<B><nvs>sniff</nvs> <F>Ummm</F> <R>what</R> <F>umm</F> what different <R>is</R> <SC>is <F>ahh</F> this</SC> are this books?</B>
+<A><F>Hmmm</F>. O K. <F>Ahhh</F> this book emphasizes on listening. It includes everything</A>
+<B><OL><F>Hmmm</F></OL>.</B>
+<A><OL>but</OL> emphasizes on listening. This one vocabulary.</A>
+<B><F>Ummm</F>.</B>
+<A>And this one idioms.</A>
+<B>Idioms <F>ahh</F>.</B>
+<A><F>Huh</F>.</A>
+<B><F>Huhh</F> <SC>I</SC> <F>um</F> <F>well</F> <R>I</R> <F>umm</F> <R>I</R> <R>I take</R></B>
+<A><F>Hmmm</F>.</A>
+<B>I take vocabulary ones.</B>
+<A><F>Oh</F> O K.</A>
+<B><F>Ah</F> <F>um</F> how much <R>is</R> is it?</B>
+<A><F>Um</F>. It's one thousand two hundred yen.</A>
+<B>O K.</B>
+<A>O K?</A>
+<B><laughter>O K</laughter>.</B>
+<A>Would you like to buy it?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Please wait a moment. Thank you.</A>
+<B>Thank you.</B>
+<A><R>O K</R>. O K. Thank you Mister <H pn="B's name">XXX02</H>. That's the end of the role-play. <nvs>sniff</nvs></A>
+</task>
+<followup>
+<A>You said you liked to go shopping</A>
+<B><F>Uhh</F>.</B>
+<A>On weekends. Do you often go to department stores?</A>
+<B>Yes. But <R>I</R> <F>uhh</F> I don't buy anything.</B>
+<A><F>Uhhh</F>.</A>
+<B><F>Mm</F> Almost my wife buys. <nvs>laughter</nvs></B>
+<A><F>Ahhh</F>.</A>
+<B>Clothes or <F>umm</F> <JP>nanda</JP> <..></..> <nvs>nante yuundakke</nvs> <F>umm</F> lipcream or <JP>nandaro</JP></B>
+<A><F>Ahhh</F>.</A>
+<B><F>Ummm</F>.</B>
+<A><F>Uhh</F> <F>ahh</F> which department store is her favorite?</A>
+<B><F>Uhhh</F>? In my case <F>umm</F> Ginza Mitsukoshi</B>
+<A><F>Hmmmm</F>.</A>
+<B>or Shinjuku Isetan.</B>
+<A><F>Hmmm</F>.</A>
+<B><R>I</R> <R>I have the</R> I have the cards</B>
+<A><OL><F>Hmmm</F></OL>.</A>
+<B><OL>of</OL> their department store.</B>
+<A><F>Hmmm</F>. What is the advantage?</A>
+<B><OL><F>Uhhhh</F></OL></B>
+<A><OL>For example</OL> the Mitsukoshi card, what kind of adavantage do you have?</A>
+<B><F>Uh</F> <F>uh</F> maybe Mitsukoshi card <F>ummm</F> doesn't have advantage.</B>
+<A><F>Hmmm</F>.</A>
+<B><F>Umm</F> Isetan has advantage.</B>
+<A><F>Huh</F> <F>hm</F> <F>hm</F> <F>hmm</F>.</A>
+<B><F>Umm</F> <SC>five percent discount of</SC> <JP>nannda</JP> five <R>per</R> percent discount.</B>
+<A><F>Hmmm</F> I see. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, last thing <.></.> today I like to show you a picture sequence. Please make a story from one to six.</A>
+<B><OL><F>Ummmm</F></OL>.</B>
+<A><OL>O K</OL>? Please begin your story with "One day last week".</A>
+<B><F>Umm</F>.</B>
+<A>O K? This is a story that happened before. In the past.</A>
+<B><F>Ummm</F>.</B>
+<A>O K?</A>
+<B><F>Ummm</F> <R>a</R> a boy and girl <F>um</F> <.></.> <SC>walked at</SC> <F>umm</F> <.></.> walked in <R>ra</R> rainy day. <SC>They</SC> <F>umm</F> rainy day, <SC>they was</SC> they were speaking each other. <F>Umm</F> <.></.> <F>umm</F> <JP>nandaro</JP> <.></.>. <F>Ummt</F> <JP>nandaro</JP> <.></.> animal's sounds <F>ummm</F>. <.></.> <JP>Nandaro</JP> <R>they</R> <R>they heard</R> they heard animal sounds. <R>They</R> <F>umm</F> they found out <R>around</R> around there. So <F>umm</F> <SC>one small box they found out</SC> one small box they opened the box. <F>Um</F> then <SC>there is a cat in the box</SC> there was a cat in the box. So <SC>they are</SC> <F>umm</F> they were thinking how <.></.> <SC>the cat</SC> it was. <F>Umm</F> <.></.> maybe <R>a girl</R> <F>ummm</F> a girl said to <.></.> a boy <F>umm</F> <R>to</R> <JP>nandaro</JP> <..></..> <R>to</R> <??></??> <R>to</R> to take a cat to home. <SC>The boy's</SC> <SC>the boy was</SC> <JP>konatta</JP> <F>ummm</F> <F>ummm</F> <..></..> <F>umm</F> <F>umm</F> so <SC>they were</SC> <F>umm</F> they came home with the cat. <nvs>laughter</nvs></B>
+<A><F>Hmmm</F>. O K.</A>
+</task>
+<followup>
+<A>Mister <H pn="B's name">XXX02</H> do you like animals?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. <F>Ahh</F> what kind of animal do you like the most?</A>
+<B>What kind of <OL>animal</OL>.</B>
+<A><OL>Animal</OL>.</A>
+<B>Everyone.</B>
+<A><F>Hmmm</F>.</A>
+<ctxt>There is a beep sound.</ctxt>
+<B><R>But</R> but <F>ummm</F> my home is apartment.</B>
+<A><F>Ahh</F>.</A>
+<B>So <R>I</R> <R>I cannot</R> <JP>nante yuundaro</JP> <.></.> I cannot have</B>
+<A><F>Hmm</F>.</A>
+<B><F>uh</F> animal.</B>
+<A><F>Huh</F>. <F>Hmm</F> <F>hmm</F> <F>hmm</F>. <F>Ahh</F> what about in the future? <F>Er</F> what kind of animal do you want as a pet?</A>
+<B><F>Umm</F>. <R>I</R> I want to have a animal</B>
+<A><F>Huh</F>.</A>
+<B>but my <SC>wife is</SC> wife hate animal.</B>
+<A><OL><laughter><F>Oh</F> O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. I see. So no pets.</A>
+<B><F>Uh</F> yes.</B>
+<A><laughter>O K</laughter>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K, Mister <H pn="B's name">XXX02</H> we're almost at the end of <F>ah</F> this interview.</A>
+<B><F>Umm</F>.</B>
+<A><F>Ahh</F> so what time do you usually <F>ahh</F> go back home?</A>
+<B>What time</B>
+<A><F>Huh</F>.</A>
+<B>usually</B>
+<A><OL><F>Huh</F></OL>.</A>
+<B><OL><F>Umm</F></OL>. <F>Umm</F> <F>uh</F> <SC>it's</SC> it was</B>
+<A><F>Huhh</F>.</A>
+<B><.></.> about twelve o'clock.</B>
+<A><F>Huhh</F>.</A>
+<B><F>Umm</F> until yesterday</B>
+<A><F>Uh-huh</F>. <OL><F>Uh-huh</F></OL>.</A>
+<B><OL><R>Ma</R> Maybe</OL> from <OL>now today</OL></B>
+<A><OL>Today</OL></A>
+<B><SC>I went</SC> <F>ahh</F> I go <SC>to</SC> at nine or ten.</B>
+<A><F>Ahh</F>. <R>Not</R> not very different. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><laughter>Ten and twelve</laughter>. <OL><F>Ohhh</F></OL>.</A>
+<B><OL><F>Ah</F> twelve</OL>. <F>Uh</F> <F>uh</F> leave for here</B>
+<A><F>Huh</F>.</A>
+<B>at twelve <JP>dakara</JP>. So <F>ahh</F></B>
+<A><F>Ohh</F>.</A>
+<B>at home <R>I arrive</R> I arrive at</B>
+<A><F>Huh</F>.</A>
+<B>my home</B>
+<A><F>Huh</F>.</A>
+<B>about one o'clock.</B>
+<A><F>Hmmm</F>.</A>
+<B><F>Umm</F> <F>umm</F>.</B>
+<A><CO>So you have</CO>.</A>
+<B>Almost <R>last</R> last train.</B>
+<A><F>Hmm</F>. <F>Ahhh</F> so do you have dinner after you go home?</A>
+<B>No. I have <F>uh</F> <F>uh</F> <R>I</R> <R>I</R> <JP>nanda</JP> I take <JP>nante yuunda</JP></B>
+<A><F>Ah</F> you buy something?</A>
+<B>No. <F>Ahhh</F> <F>er</F> <R>I take</R> I take <F>umm</F> small rice ball</B>
+<A><F>Huhh</F>.</A>
+<B>at home.</B>
+<A>I see.</A>
+<B><F>Umm</F> to each <R>di</R> dinner <JP>tte yuuka</JP> <F>umm</F>.</B>
+<A><R>One</R> one rice ball?</A>
+<B><F>Uhh</F> no. <nvs>laughter</nvs></B>
+<A><F>Ahhh</F>.</A>
+<B>A few.</B>
+<A><F>Ahh</F>.</A>
+<B>Two or three.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>And</OL> <F>um</F> small <JP>nandaro</JP> <JP>bento</JP>. <nvs>laughter</nvs></B>
+<A><F>Ahh</F> so wife</A>
+<B>Yes.</B>
+<A>makes you</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>a</OL> lunch box.</A>
+<B>A lunch box.</B>
+<A><OL>For dinner</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Ahhh</F> <R>O K</R> O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,245 @@
+<interview>
+<filename>file00892.txt</filename>
+
+<head version="1.3">
+<date>2001-10-10</date>
+<sex>male</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>800</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><JP><F>Eeto</F></JP> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Uh</F>. Yes, of <OL>course</OL>.</B>
+<A><OL>O K</OL>, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B><?><F>Eh</F></?>. I'm fine, <F>er</F> thank you,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>but <nvs>cough</nvs> I'm a little bit <SC>us</SC> upset,</B>
+<A><F>Oh</F>. <OL>Why</OL>?</A>
+<B><OL>because of</OL> <F>er</F> this S S T test.</B>
+<A><F>Oh</F> it's gonna be O K. Don't worry. O K? What do you do?</A>
+<B><F>Hm</F>? <CO>What do you</CO>?</B>
+<A><F>Mh-hmm</F>. Work?</A>
+<B><F>Ur</F> <F>uh</F> my work? <F>Eh</F> <F>er</F> <SC>I conducted</SC> <F>er</F> I conduct <F>eh</F> field trial. That means <F>eh</F> pesticide <F>eh</F> test on <F>eh</F> practical field condition.</B>
+<A><F>Hmm</F>. What do you exactly do everyday?</A>
+<B>Everyday? <R>I</R> I apply <F>mm</F> developing <F>eh</F> pesticides to crops,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> evaluating the efficacy and toxicity to crops and <.></.> writing reports to <..></..> <F>er</F> managers <F>er</F> and so on.</B>
+<A><F>Mh-hmm</F>. Do you have to do overtime sometimes?</A>
+<B><CO>Over</CO>. Yes. I usually work until eight or nine o'clock.</B>
+<A>Quite late.</A>
+<B>Quite late?</B>
+<A>Yeah. <.></.> O K. <F>Um</F> besides work, <F>er</F> do you have any hobby?</A>
+<B>My hobby is stargazing.</B>
+<A>Stargazing? <OL>What is it</OL>?</A>
+<B><OL>Stargazing</OL>. <.></.> To watch star by telescope.</B>
+<A>O K, O K, O K.</A>
+<B><F>Hm</F>. I usually go to mountainous area,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and <?>feed</?> my telescope by car and <SC>wa</SC> <F>eh</F> gaze stars.</B>
+<A><F>Mh-hmm</F>. Sounds very interesting. Where is the <SC>best place</SC> good place to see the stars?</A>
+<B>To see the star? Best place? <F>Mm</F>. <.></.></B>
+<A>Yeah. <SC>Around here</SC> around Kanto.</A>
+<B>Around Kanto?</B>
+<A><F>Hmm</F>.</A>
+<B>Around Kanto <F>uh</F> District? <F>Hm</F>. Like <JP><F>eeto</F></JP> <JP><F>eh</F></JP> Nikko Senjogahara Highland,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>around <JP><F>etto</F></JP> <SC>Chuzenjiko</SC> Lake Chuzenji.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><CO>Or</CO>. <.></.></B>
+<A><R>Have you</R> have you gone to see the stars last week or <OL>this week</OL>?</A>
+<B><OL>Last week</OL>? Last week. <F>Eh</F> unfortunately, no, because I <.></.> went to <F>er</F> the office. <nvs>laughter</nvs></B>
+<A><F>Mm</F> <F>er</F> O K, O K.</A>
+<B>So I have no time.</B>
+<A>Yeah, yeah. O K. <F>Um</F> where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>? <F>Mh-hmm</F>.</A>
+<B><?>Yeah</?>.</B>
+<A><R>How</R> <R>how</R> how is <H pn="others1">XXX03</H>?</A>
+<B><F>Um</F> it's very hot in the summer and <F>eh</F> much rainfall.</B>
+<A>O K. O K.</A>
+<B><F>Eh</F>. <CO>It <?>does</?></CO>. <.></.> <JP><F>Eeto</F></JP> <.></.> actually, yesterday <F>eh</F> we have made much rainfall <SC>over than</SC> maybe over than two hundred millimeter.</B>
+<A>That's a lot. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Did you get wet?</A>
+<B><.></.> Yes, a little bit.</B>
+<A>A little bit. <nvs>laughter</nvs> O K.</A>
+<B>Yeah.</B>
+</stage1>
+<stage2>
+<task>
+<A>First thing today, we will do the pictures.</A>
+<B>Picture.</B>
+<A>O K? <F>Hmm</F>. O K. Please describe this picture for me.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Hm</F>. <JP><F>Etto</F></JP>. A lady in the room <F>er</F> sitting on the chair in front of a desk. On the desk, there is <JP><F>eh</F></JP> personal computer set and typewriter. And <.></.> <nvs>cough</nvs> in the room, <.></.> bookshelf <F>eh</F> <F>eh</F> audio set, calendar and bed <.></.> <nvs>sniff</nvs> and <nvs>sniff</nvs> <.></.> <F>ur</F> <JP><F>etto</F></JP> <SC>dog and</SC> <F>uh</F> a dog and a cat <.></.> <F>hm</F> <nvs>sniff</nvs> looks sleeping. <nvs>laughter</nvs> <R>A</R> a dog is on the floor and a cat is on the bed. <F>Er</F> and <.></.> <SC>it</SC> I think it's in the morning because the clock indicates <JP><F>etto</F></JP> <SC>nine o'clock</SC> <SC>maybe nine o</SC> <F>eh</F> around <R>ni</R> nine o'clock and <nvs>sniff</nvs> <..></..> <R>outs</R> <F>eh</F> <SC>outside is</SC> <F>er</F> <R>it's b</R> it's bright outside.</B>
+<A><F>Mh-hmm</F>. <.></.> O K. That's all?</A>
+<B>And <nvs>sniff</nvs> <R>it's</R> <F>erm</F> <SC>it's in June, because <.></.> <F>er</F> the calendar on the floor</SC> <.></.> <nvs>sniff</nvs> <F>er</F> <R>from th</R> <F>er</F> from the calendar <R>on the</R> <.></.> on the wall, <OL><SC>it's</SC></OL> it probably in June.</B>
+<A><OL>O K</OL>. O K. Thank you very much. O K.</A>
+</task>
+<followup>
+<A>Is this room look like your room?</A>
+<B><nvs>sniff</nvs> <F>Mm</F> something different, <laughter>because</laughter> <R>my roo</R> my <?>live</?> is not <R>so</R> <F>eh</F> <.></.> <R>so</R> <F>er</F> so wide and <..></..> <F>er</F> <F>uh</F> I don't have a <JP><F>eeto</F></JP> bed,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and <F>um</F> no pet.</B>
+<A>So where do you sleep?</A>
+<B><..></..> <F>Hm</F>. On the floor,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>eh</F> <.></.> <SC>I direct</SC> <JP><F>etto</F></JP> I usually directly <.></.> <JP><F>eeto</F></JP> extend futon on the floor.</B>
+<A>What is a futon?</A>
+<B><CO>Futon means</CO>. <F>Uh</F> <.></.> <F>mm</F>. <..></..></B>
+<A><OL><??></??></OL>.</A>
+<B><OL><F>Mm</F> <R>like a</R></OL> <F>eh</F> <.></.> <F>mm</F> like a blanket but <SC>different</SC></B>
+<A><F>Mh-hmm</F>.</A>
+<B>a little bit different.</B>
+<A>O K.</A>
+<B><JP><F>Eeto</F></JP> <JP><F>eeto</F></JP>. <SC>It</SC> <SC>in</SC> futon <R>con</R> <F>eh</F> content <F>er</F> cotton,</B>
+<A>O K. <CO><OL>Ins</OL></CO>.</A>
+<B><OL>inside</OL>.</B>
+<A><F>Mh-hmm</F>. Is it comfortable?</A>
+<B><.></.> Yes.</B>
+<A>Good, good. <F>Er</F> if you are to add something to your room, add new thing, what would you like to add? <CO>For example, computer or bed or</CO>.</A>
+<B><F>Hm</F>. <F>Eh</F> I have a computer.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>Uh</F></OL> no, no.</B>
+<A>What do you <OL>use computer</OL></A>
+<B><OL><?>So</?> <SC?>I</SC?> <SC>three set</SC></OL> three or four set of computer.</B>
+<A><F>Oh</F> why?</A>
+<B>Why? <.></.> <F>Eh</F> because <F>eh</F> my <SC>ho</SC> another hobby is <F>er</F> <.></.> <SC>compute</SC> <F>er</F> personal computer.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>I ju</SC> <.></.> I have <SC>new</SC> <F>eh</F> two <F>eh</F> <.></.> new ones and <.></.> <SC>new</SC> <F>ah</F> two <SC>old com</SC> very old computer.</B>
+<A><F>Mh-hmm</F>. What do you use computer for?</A>
+<B>I access Internet by computer <F>er</F> <JP><F>eeto</F></JP> <F>um</F> <SC>sending</SC> <R>e</R> exchanging e-mails,</B>
+<A>O K.</A>
+<B>browsing,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>er</F> <F>eh</F> website.</B>
+<A>O K. Do you enjoy it?</A>
+<B><F>Uh</F> yes.</B>
+<A>O K. Good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, second thing, we will do the role-play. O K?</A>
+<B>Role-play. <F>Er</F>.</B>
+<A><F>Hmm</F>.</A>
+<B>O K.</B>
+<A>O K. Please read this card. O K? And when you are ready, I will start. O K?</A>
+<ctxt>Interviewee is looking at the picture.</ctxt>
+<A>Ready?</A>
+<B><F>Hm</F>. I'm a customer. <F>Hmm</F>.</B>
+<A>O K. May I,</A>
+<B><OL>O K</OL>.</B>
+<A><OL>help you</OL>, sir?</A>
+<B><.></.> <F>Eh</F> yes. <F>Hm</F>. <F>Er</F> <SC>I want to buy a <JP><F>eh</F></JP> business suit,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> <F>eh</F> becau</SC> <F>uh</F> <F>em</F> <..></..> <F>uh</F> I want to buy a suit <.></.> <R>for</R> <..></..> <F>er</F> <??></??> for use in summer season.</B>
+<A><F>Mh-hmm</F>. We have many <OL>varieties</OL>.</A>
+<B><OL>Many</OL> <.></.> varieties, yes. <F>Er</F> <.></.> I want a <JP><F>etto</F></JP> bright <R>colored</R> colored suit <R>and</R> <..></..> <SC>and I</SC> <.></.> <SC>the price i</SC> <F>er</F> I am not afford to buy a expensive one. <F>Hm</F>. <SC>My</SC> I hope the price <.></.> <F>er</F> under <F>eh</F> thirty thousand yen is acceptable for me.</B>
+<A>O K. How about this one?</A>
+<B>This one. <F>Hm</F>. <?>Its</?> looks very good, <F>em</F> but <.></.> <SC>it's <SC>ve</SC> <F>er</F> <SC>a little bit ti</SC></SC> <F>er</F> it's <SC>li</SC> <F>er</F> a little tight.</B>
+<A>Right. O K.</A>
+<B>So <R>please</R> <F>eh</F> <.></.> please show me <F>uh</F> <R>a little</R> <SC>a little more</SC> <F>er</F> a little bigger one.</B>
+<A><F>Mh-hmm</F>. O K. How about this one? One size up.</A>
+<B>One size up?</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Hm</F></OL>. <F>Er</F> that's comfortable.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah. The suit fit me <F>eh</F> very <F>well</F>,</B>
+<A><OL>O K</OL>.</A>
+<B><OL>so</OL> I want to buy. <F>Uh</F> <F>eh</F> do you accept credit card?</B>
+<A>Yes, sure. <OL>O K</OL>.</A>
+<B><OL><??></??></OL></B>
+<A>Thank you very much. Here's your suits.</A>
+<B><F>Hm</F>. <F>Er</F> thank you very much.</B>
+<A>O K, thank you. The end of the role-play. O K.</A>
+</task>
+<followup>
+<A><F>Um</F> do you <.></.> go for shoppings?</A>
+<B><.></.> <F>Hm</F>. Yes. In the weekend, <SC>I want to</SC> <JP><F>eeto</F></JP> I'll go to <R>s</R> <.></.> supermarket,</B>
+<A><F>Hmm</F>.</A>
+<B>to buy.</B>
+<A>O K. <.></.> What's your favorite supermarket?</A>
+<B>No, <R>I don't</R> <laughter><F>er</F></laughter> <F>eh</F> I don't have <.></.> any <SC>s</SC> favorite ones.</B>
+<A><F>Mh-hmm</F>. <F>Mh-hmm</F>. But you like shopping at a supermarket?</A>
+<B><.></.> So-so.</B>
+<A>So-so? <CO><OL>O K, last thing we're go</OL></CO>.</A>
+<B><OL><F>Er</F> but <SC>I didn't</SC></OL> <F>eh</F> I seldom go to <F>er</F> <.></.> <R>tail</R> tailor.</B>
+<A>A tailor's? Yeah.</A>
+<B><CO>So</CO>.</B>
+<A>O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Last thing today,</A>
+<B>Last thing today?</B>
+<A>O K, <F>uh</F> this is a story. So please make up a story from one to six. Very short story. O K? And this happens before, so please start your story with one day last week. Start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the card.</ctxt>
+<B><F>Mm</F>. <F>Mm</F>. <R>One d</R> one day last week, a young man and <R>a</R> <.></.> a gentleman <F>eh</F> met together <.></.> in front of the restaurant. And <..></..> <F>er</F> maybe <JP><F>etto</F></JP> the gentleman invite the man to the dinner. And <..></..> <JP><F>etto</F></JP> <R>they</R> <..></..> they ordered <.></.> <F>er</F> their favorite <F>eh</F> <?>the</?> foods and drinks. <..></..> <F>Hm</F>? The gentleman ate <F>er</F> fried chicken and drunk <R>a small</R> a small glass of beer. Maybe <??></??> <F>er</F> <R>differ</R> <F>er</F> different drink.</B>
+<A><F>Mh-hmm</F>. <OL>O K</OL>.</A>
+<B><OL>And</OL> <F>er</F> <SC?>young <??></??></SC?> <.></.> the after <..></..> the gentleman pays <F>eh</F> the dinner <R>and</R> <.></.> and they say <F>eh</F> <F>er</F> good-bye <SC>ea</SC> to each other.</B>
+<A>O K, thank you very much. O K.</A>
+</task>
+<followup>
+<A>Do you often eat out?</A>
+<B><.></.> <F>Oh</F> for <F>eh</F> dinner, <F>eh</F> I usually go to some restaurant,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>because <SC>I didn't</SC> I don't have a time or I don't like cooking.</B>
+<A><F>Oh</F>. That's right. O K. <F>Er</F> <SC>favo</SC> any favorite restaurant?</A>
+<B><.></.> <F>Eh</F> <R>es</R> especially, I don't have,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>any favorite ones,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> because <nvs>cough</nvs> <SC>I left my</SC> I left the office late. So</B>
+<A><F>Oh</F> <OL>you'll have</OL> no choice.</A>
+<B><OL><??></??></OL>.</B>
+<A><F>Hm</F>.</A>
+<B>So</B>
+<A><CO>So usually you <OL><??></??></OL></CO>.</A>
+<B><OL><SC>cer</SC> <F>er</F> <R>I</R></OL> I can <F>eh</F> go to certain restaurant,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> <SC>because <?>there are</?> favorite restaurant</SC> <F>eh</F> because <JP><F>eeto</F></JP> many restaurants <SC>closes</SC> <OL>close</OL>.</B>
+<A><OL>Yeah</OL>, that's right. That's right.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K, it's almost end of the interview. <OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>Do you have any plans after this interview?</A>
+<B><.></.> After interview?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> <R>today</R> <F>er</F> today's my schedule is <F>eh</F> <.></.> <R>I</R> <.></.> I booked <F>eh</F> the airplane to Kochi,</B>
+<A><F>Oh</F> really?</A>
+<B>at <OL><F>er</F></OL></B>
+<A><CO><OL><?>What</?></OL></CO>.</A>
+<B><.></.> <?>about</?> <JP><F>eeto</F></JP> <?>I'm sorry</?> two-ten or two- <R>fift</R> <F>eh</F> <OL>fifteen</OL>.</B>
+<A><OL>Wew</OL>.</A>
+<B><CO><OL>So</OL></CO>.</B>
+<A><OL><F>Oh</F></OL> nice trip on the airplane, then. Yeah.</A>
+<B>So <SC>I get</SC> <SC>I have</SC> <F>eh</F> after having lunch,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>er</F> <.></.> I hurry up to the <F>er</F> Haneda Airport. But before leaving office, <F>er</F> I wish to greet <F>er</F> <SC>co</SC> <.></.></B>
+<A><OL>O K</OL>.</A>
+<B><OL><JP><F>etto</F></JP></OL> my colleagues.</B>
+<A>O K. O K. Yeah. Bon voyage, then. O K. Thank you for coming today.</A>
+<B><CO><F>Er</F> thank you for</CO>.</B>
+<A>Yeah. Thank you.</A>
+</stage5>
+</body>
+</interview>

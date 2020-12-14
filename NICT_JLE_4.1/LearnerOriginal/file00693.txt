@@ -1,0 +1,246 @@
+<interview>
+<filename>file00693.txt</filename>
+
+<head version="1.3">
+<date>2001-09-20</date>
+<sex>female</sex>
+<age>51</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Let's get started. Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><R>My name is <H pn="B's name">XXX02</H></R>, my name is <H pn="B's name">XXX02</H> <OL><H pn="B's name">XXX02</H></OL>.</B>
+<A><OL><R>Nice</R></OL>, nice to meet you, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B>Thank you. I'm fine.</B>
+<A><OL>Good</OL>.</A>
+<B><OL>Nice</OL> to meet you, too.</B>
+<A>Nice to meet you. Now <H pn="B's name">XXX02</H>, where're you from?</A>
+<B>I'm from <SC><H pn="others1">XXX03</H> <JP>ku</JP></SC>, <R><H pn="others1">XXX03</H></R>, <H pn="others1">XXX03</H> Ward.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Yeah.</B>
+<A>How do you come here?</A>
+<B><F>Ah</F> I used <H pn="others2">XXX04</H> Line and <H pn="others3">XXX05</H> Line.</B>
+<A><F>Mhmm</F> I see. <F>Urm</F>. What do you do?</A>
+<B>I'm a housewife. <nvs>laughter</nvs></B>
+<A>What is your daily schedule?</A>
+<B><F>Ohh</F> <F>um</F>. It's <F>ur</F>, I wake up at six thirty, and I <SC>make</SC>, made breakfast for my husband and children. And I <.></.> take care of my little birds. <nvs>laughter</nvs></B>
+<A>Birds?</A>
+<B>Birds. Yeah. We keep two birds.</B>
+<A><F>Oh</F> I see. Can you tell me more about your birds?</A>
+<B>Yeah. I have <F>um</F> <.></.> two birds. And one is Japanese white <?>kind</?>. It's <R><F>mm</F></R> <JP>mejiro</JP> in Japanese. And <SC>one</SC>, another one is sparrow. <nvs>laughter</nvs> They came to my house <JP><F>unto</F></JP> about five years ago.</B>
+<A><F>Mm</F>. Five years ago?</A>
+<B>Yeah.</B>
+<A>Pretty long time.</A>
+<B>Yes.</B>
+<A><F>Mm</F>. What is a good point about keeping pets?</A>
+<B><F>Mm</F> <.></.> <F>ur</F> <nvs>laughter</nvs> I'm not sure, but <SC><R>don't</R>, <F>ur</F> don't <??></??> keep them</SC> <F>urr</F>, <..></..> <laughter>anyway</laughter>, feed them, and love them. <nvs>laughter</nvs></B>
+<A>I see. What does <R>your</R> your husband do?</A>
+<B>My husband is bank officer.</B>
+<A><F>Mmm</F>.</A>
+<B>He's very busy.</B>
+<A>Why is that?</A>
+<B>What?</B>
+<A>Why is he so busy?</A>
+<B><F>Urr</F> I don't know. But he always say he's busy. <nvs>laughter</nvs></B>
+<A>I see. Now <H pn="B's name">XXX02</H>, <R>what</R> what is your hobby?</A>
+<B>My hobby is <F>um</F> reading books and <F>ee</F> watching <.></.> movies,</B>
+<A><F>Mm-hm</F> <F>mm</F>.</A>
+<B>and playing the piano.</B>
+<A>Piano?</A>
+<B>Yeah.</B>
+<A>I see. <F>Mm</F>. Great. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now first, I would like to show you a picture. O K? <nvs>cough</nvs> So here is the picture for you. Let's take a look at it, and describe this picture for me.</A>
+<B><F>Uhm</F> <.></.> This is restaurant. And many people enjoy <F>uhm</F> wines and <SC>dishes</SC>, delicious dishes. And with <.></.> <R>piano</R> piano music. And <SC>they are</SC> they looks so happy. <.></.> <F>Uhm</F> <F>um</F>. <..></..></B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Is that all? <OL>All right</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A>Now <H pn="B's name">XXX02</H>, what is your favorite restaurant?</A>
+<B><F>Urr</F>. Recently, I like <F>uu</F> Japanese food.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A>Why do you like Japanese food most?</A>
+<B><F>Urm</F>. It's very beautiful and <F>ee</F> good for health, and not so oily.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Uhm</F>.</B>
+<A><F>Mm-hm</F>. I see. All right. Now, how often do you go to this kind of restaurants?</A>
+<B><F>Urm</F>. Very few. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>We often go to <R>sushi</R>, sushi restaurant. And sometimes we go to Chinese restaurant.</B>
+<A>I see. O K. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now next, I would like to do role play.</A>
+<ctxt>The interviewer is selecting a card.</ctxt>
+<A>All right. Here is the card. It's written in Japanese. Please read it to yourself. And when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B><..></..></B>
+<A>All right?</A>
+<B>Yeah. <nvs>laughter</nvs></B>
+<A>Yes, ma'am. How may I help you?</A>
+<B>I'm looking for <F>ur</F> potato chips.</B>
+<A>Potato chips?</A>
+<B>Yeah.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And I can't find <F>ur</F> potato chips with salt and vinegar <.></.> flavor.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>This is along this aisle.</A>
+<B><F>Mm</F>. We can't find that kind of chips in Japan.</B>
+<A><F>Uhm</F>.</A>
+<B>But I like that. <nvs>laughter</nvs> <F>Mm</F>? <F>Oh</F> yeah. <.></.> Do you know <F>urr</F> <SC><R>any other</R> <.></.> <F>um</F> any other taste of chips</SC>, any other kind of chips?</B>
+<A><F>Oh</F>. We have a lots of different types of chips.</A>
+<B><F>Uhm</F>. <SC>What is</SC> what do you recommend to me to souvenir to my friends?</B>
+<A><F>Ohh</F>. <R><F>Well</F></R> <F>well</F> it depends what kind of flavor you like.</A>
+<B><F>Uhm</F>. But as I said before, <SC>we couldn't</SC> we can't <F>um</F> buy <F>urr</F> salt and vinegar flavored chips.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Is there any chips we can't buy in Japan?</B>
+<A>O K. <F>Well</F> maybe you want to <SC>have</SC> try this Mexican style chips.</A>
+<B><F>Um</F>. Is it hot?</B>
+<A><F>Well</F> <SC>chips itself</SC>, chips themselves are not very hot.</A>
+<B><F>Uhm</F>. It is delicious?</B>
+<A>Of course.</A>
+<B><nvs>laugher</nvs> O K. Thank you.</B>
+<A>O K? Do you want this chips <?>then</?>?</A>
+<B>Yeah.</B>
+<A>O K.</A>
+<B><F>Mm-hm</F>.</B>
+<A>All right. Here you go.</A>
+<B>Thank you. <F>Hm</F>. How much is this?</B>
+<A>O K. This cost <F>ur</F> let's see, two dollars.</A>
+<B>Two dollars. <F>Mm</F>, So I'll take ten bags.</B>
+<A><F>Oh</F>. Ten bags.</A>
+<B>Yeah.</B>
+<A>O K. Here is a ten bags.</A>
+<B>Thank you.</B>
+<A>And twenty dollars.</A>
+<B>Twenty dollars. Here you are.</B>
+<A>O K. Thank you very much. Enjoy your chips.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL>. All right. Great. Thank you very much. Now this is the end of the role play.</A>
+</task>
+<followup>
+<A>Now <SC>you</SC> <F>ur</F> apparently you went to travel. Which country did you go?</A>
+<B><F>Ur</F> I went to <.></.> Hawaii, England, France, Italy, <F>mm</F> Thailand, Philippines, Hong-Kong, China. <.></.> <F>uhm</F>.</B>
+<A>O K. <F>Wow</F>. So you went many places. <CO><R>Which</R> which country did you like</CO>.</A>
+<B><CO>I like</CO>.</B>
+<A>Best?</A>
+<B>I like England.</B>
+<A>England. Why is that?</A>
+<B><?>Yes</?>.</B>
+<A>Why do you like England most?</A>
+<B><F>Urr</F> I like <.></.> yeah, <R>country</R> <.></.> country side. In England, it's very beautiful.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Uhm</F> I want to go lake district <R>once</R> once more,</B>
+<A><F>Uhm</F></A>
+<B>again.</B>
+<A><F>Mm</F> O K. So can you tell me more about your trip?</A>
+<B><F>Mm</F></B>
+<A>Briefly?</A>
+<B><F>Mmm</F>. Recently, we go to <R>Asia</R> Asia with my husband because he cannot have long holidays. So <R>we</R> we go to Asia for two or three weeks. But <nvs>laughter</nvs> to tell the truth, I don't like Asia <nvs>laughter</nvs> because it's too hot to me, and <F>mm</F> dirty,</B>
+<A>I see.</A>
+<B>and not good <.></.> water.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><F>Mm</F></OL>. So I like to Europe or <F>ur</F> Hawaii.</B>
+<A><nvs>laughter</nvs> O K. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now next, <nvs>cough</nvs> I would like to show you sequence of pictures. <nvs>cough</nvs> Hold on. <nvs>cough</nvs></A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K? Here is the picture for you.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>Please</OL> look at it. <F>Er</F> I would like you to make up a short story based on these pictures from number one to six. O K? And this happened before. So please start your story with "one day last week".</A>
+<B>Last week.</B>
+<A>O K? Go ahead.</A>
+<B><F>Mm</F> I went to department store to buy necktie for my husband at his birthday present. And <SC>I bought it</SC> I bought nice necktie for him. <CO>But I found</CO>.</B>
+<ctxt>Micorphone was knocked.</ctxt>
+<A>Sorry.</A>
+<B><F>Mm</F> <R>I found <.></.> final sale</R> <.></.> <nvs>laughter</nvs> I found final sale <F>um</F> on forth floor. <nvs>laughter</nvs> Then I want to buy shoes. So I bought shoes. And I go down to third floor. I again <.></.> found nice shirt. I cannot stop buying nice shirt.</B>
+<A><nvs>laughter</nvs> <F>Mm-hm</F>.</A>
+<B>So I bought shoes and shirt and <.></.> dress and hat and many things. So I went <.></.> home <R>with</R> <.></.> with <R>big</R> <.></.> big <R>bagga</R> baggage.</B>
+<A><nvs>laughter</nvs> I see. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Now, similar situation happened to you before?</A>
+<B>Yes.</B>
+<A><OL>Yes</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Can you tell me more about it?</A>
+<B>At first, I found <SC><R>sale</R> sale</SC> <F>um</F> final sale or fifty percent off discount. I bought <R>many</R> many things for me. But <nvs>laughter</nvs> I forgot to buy my husband's present. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <R>I see</R>. I see. How do you <R>celebrate</R> celebrate your husband's birthday? I know he is busy, <CO>but</CO>.</A>
+<B><F>Urr</F>. Sometimes we go to <JP>sushi</JP> restaurant. Or sometimes <SC>go</SC> I go to <F>um</F> <?>him</?> some present.</B>
+<A><F>Uhm</F>. O K. All right. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> <H pn="B's name">XXX02</H>, this is almost the end of the interview.</A>
+<B><F>Uhm</F></B>
+<A>So what is your plan after this interview is over?</A>
+<B>I'm going to go to Kyobashi,</B>
+<A><F>Hhm</F></A>
+<B><R>to see</R> <F>err</F> to see photos.</B>
+<A>What photos?</A>
+<B>Photos. <F>Urr</F> <F>uh</F> To visit photo gallery.</B>
+<A><F>Mm-hm</F>.</A>
+<B>To see photo <R>ex</R> exhibition.</B>
+<A><F>Mm-hm</F></A>
+<B><F>Mhm</F>.</B>
+<A>Yeah.</A>
+<B>I like to watch <.></.> photos.</B>
+<A><F>Ohh</F>.</A>
+<B>And <R>I like to</R> <F>um</F> <F>um</F> <.></.> <CO>I like to</CO> <..></..></B>
+<A>Just <F>er</F> look at the pictures, <CO>and</CO>.</A>
+<B>And.</B>
+<A>Yeah.</A>
+<B><R>Make</R> make photos.</B>
+<A><F>Ohh</F>. <R>You</R> you like to take pictures <OL>for yourself</OL>?</A>
+<B><OL>I take pictures</OL>, yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ohh</F></OL> I see.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. Interesting.</A>
+<B><F>Uhm</F>.</B>
+<A>So <R>who is the</R> <F>ur</F> who is the <F>ur</F> photographer?</A>
+<B><F>Urr</F>. <R>Not</R> not so popular.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><R>I</R></OL> I think. It's amateur.</B>
+<A>Amateur?</A>
+<B><F>Uhm</F></B>
+<A>I see.</A>
+<B><F>uhm</F></B>
+<A>Are you planning to go shopping <R>like</R> like this lady after <R>you fini</R> you finish <OL>watching photo</OL>?</A>
+<B><OL><F>Uhm</F> no</OL>. <SC>It's a</SC> it's before salary day. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> <R><laughter>I see</laughter></R></OL>. I see. So you have to save your money. I see. <F>Well</F> <F>urm</F> they said that typhoon is <R>coming</R> coming up. So maybe you ought to go home, <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>after you visit Kyobashi. O K? All right. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>Now this is the end of the interview.</A>
+<B>Yeah.</B>
+<A>Thank you. O K.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

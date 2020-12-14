@@ -1,0 +1,208 @@
+<interview>
+<filename>file00271.txt</filename>
+
+<head version="1.3">
+<date>2001-01-24</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Eh</F> sure.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Please call</OL> me <H pn="B's name">XXX02</H></B>
+<A>Thank you. How are you today?</A>
+<B>I'm fine, thank you. <F>Mm</F>. How <laughter>are you</laughter>?</B>
+<A>I'm fine, thank you. Yeah, but it's very cold <OL>outside today</OL>.</A>
+<B><OL>Yes</OL>. <F>Mm</F>. It's <R>very</R> very cold. <nvs>laughter</nvs></B>
+<A><F>Er</F>. Do you like winter? <F>Hm</F>.</A>
+<B>No, I prefer summer to winter.</B>
+<A><F>Mm</F> I see. <F>Er</F> why?</A>
+<B>I don't like a cold weather. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><F>Mm</F> <SC>I sometimes I cann</SC> I sometimes cannot sleep. It's too cold.</B>
+<A><F>Mm</F> I see.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>But then, what do you do in summer?</A>
+<B>In summer. <F>Uhhh</F> <SC>I don't</SC> <F>ah</F> <nvs>laughter</nvs> nothing in special. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mm-hmm</F></OL>.</A>
+<B>But <.></.> I don't like <.></.> hot weather too, but <.></.> <F>mm</F> <R>i</R> it's a little better than cold. <F>Uh</F> <SC>in summer</SC> <F>mm</F> hot weather is a bit better than cold weather for me.</B>
+<A>I see. <F>Mh-hmm</F>. O K. All right. Then, <F>uhh</F> are you busy these days every day?</A>
+<B><F>Mm</F> not so busy these days. <F>Mm</F> I was busy last year, but my <SC>volu</SC> <F>er</F> working volume <.></.> is reducing, so <F>err</F> <SC>i</SC> <F>eh</F> I'm not so busy these days.</B>
+<A><F>Uh</F> why?</A>
+<B><F>Mm</F> <F>eh</F>. By the rearrangement of the <F>er</F> <F>mm</F> <F>mm</F> working roles <OL>in the department</OL>.</B>
+<A><OL><F>Oh</F> I see</OL>. <F>Uh-huh</F>. That's good.</A>
+<B><nvs>laughter</nvs> Yes, very good for me.</B>
+<A><nvs>laughter</nvs> I see.</A>
+<B><F>Hm</F>.</B>
+<A>Then, what do you do after work?</A>
+<B>After work. <F>Er</F> I have a daughter, so <R>when I <.></.> come</R> <F>mm</F> when I come home, <SC>I have to <.></.> look at her</SC> <F>er</F> I have to <R>take care of my</R> take care of my daughter. <F>Er</F> for example, she has to do homework, so <R>I</R> I <SC>look</SC> <F>mm</F> <R>lo</R> look for her.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A><F>Mm</F> you must be busy.</A>
+<B><F>Ah</F>.</B>
+<A>But please tell me a little bit more about your daughter.</A>
+<B>Yes. <F>Uh</F> <F>er</F> my daughter's name is <H pn="others1">XXX03</H>. She is seven years old. She goes to a primary school.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mhm</F> she's a first grade now. <F>Er</F> <R>she</R> <.></.> <SC>she</SC> <F>eh</F> every morning, she cannot wake up early, so <F>mm</F> my first job <R>in</R> in a day is <F>er</F> <.></.> <SC>wake</SC> <R>w</R> waking her up.</B>
+<A><F>Hah</F>.</A>
+<B><laughter>Yes</laughter>.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>I have to</OL> repeatedly ask to <.></.> <R>wa</R> wake up. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Mm</F> but I can <laughter>understand</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>All right. O K, now, <nvs>cough</nvs> all right, so please look at this picture</A>
+<B>Yes.</B>
+<A>and tell me about this.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>Shall I <OL>start</OL>?</B>
+<A><OL>Sure</OL>. O K, please start.</A>
+<B><F>Hm</F>. <.></.> <OL>Last Sunday</OL>.</B>
+<A><F>Ah</F> no, <OL>this is a picture description</OL>.</A>
+<B><OL><F>Uh</F></OL>.</B>
+<A>Yeah. <OL>So just tell me what you see</OL></A>
+<B><OL><F>Ah</F> <F>uh-huh</F> O K, I see, I see</OL>.</B>
+<A>in this picture. O K?</A>
+<B><F>Mm</F> O K. It's a sunny day. A girl is <SC>playing a rope</SC> jumping a rope in front of her house. Her house has two stairs. <F>Mm</F>. The living room has a large window. <.></.> Her house doesn't <R>ha</R> have fence, so <R>dogs <.></.> ca</R> dogs can easily enter their <F>er</F> garden. <.></.> <F>Mm</F>. <SC>Nec</SC> <R>the boy</R> the boys are playing a ball next to the girl's house. <..></..> On their back, there are some trees. In winter, <F>mm</F> <SC>it will <.></.> be</SC> it will turn yellow, so probably it's summer now. <..></..> <SC>A w</SC> a man is running on the <R>side</R> sidewalk. <..></..> <SC>In her</SC> <F>eh</F> <SC>in a girl's</SC> <F>eh</F> in front of a girl's house, there are two women <.></.> are chatting. <.></.> One of them is <.></.> <F>mm</F> taking a dog. <R>Proba</R> probably she is <SC>on a way</SC> <F>er</F> <F>er</F> <R>sh</R> <SC>sh</SC> on a way home. A car is parking. <.></.> On the bonnet, a cat is sleeping. <.></.> <F>Mm</F>. <SC>If a</SC> if the dog <.></.> found the cat, <.></.> its would <R>ch</R> <R>chase</R> chase her.</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter>He would</laughter> chase her. <SC>But he</SC> but the dog didn't finds a cat yet.</B>
+</task>
+<followup>
+<A><F>Mm</F>. That's good. O K. Thank you very much.</A>
+<B><F>Hm</F>.</B>
+<A><H pn="B's name">XXX02</H>, <nvs>cough</nvs> do you like to live in a small apartment near the office</A>
+<B><F>Mh-hmm</F>.</B>
+<A>or a bit far from the office but in a big house?</A>
+<B><F>Hm</F>. I envy a big house, <laughter>so</laughter></B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>mm</F> I want to live in a big house.</B>
+<A><F>Hm</F>.</A>
+<B>Of course, <F>er</F> <R>if I</R> if I can live <.></.> close to the office, it's very good but <F>mm</F> if I have to choice two points, <SC>I'm</SC> I'll choose a big house.</B>
+<A>I see. Thank you very much. <F>Mhm</F> good, good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right, so now, <F>em</F> let's have a role-play.</A>
+<B>Yes, please.</B>
+<A>O K. O K. So this is your card, please read it to yourself and when you are ready, I'll start the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B><F>Hm</F>.</B>
+<A>May I help you, ma'am?</A>
+<B>Yes. I would like to go abroad this spring holidays, but <F>mm</F> I have no plan yet.</B>
+<A><F>Mm-hmm</F>.</A>
+<B><F>Er</F> would you recommend some places?</B>
+<A>Yes. We have good package tours <OL>to</OL> Europe.</A>
+<B><OL><F>Ah-huh</F></OL>. Europe. <F>Er</F> how long do we need for that trip?</B>
+<A><F>Uhh</F>. It depends on the schedule but <F>er</F> from one week to ten days.</A>
+<B>Ten days. <F>Ah-huh</F> <F>er</F> <R>I</R> <SC>I would go to</SC> I would go on a trip with my daughter. She is still seven years.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Do you think Europe is <.></.> good for her?</B>
+<A>Yes. I think so.</A>
+<B><F>Ah-huh</F>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> <SC>for exa</SC> <F>mm</F> how do you think it's good for child?</B>
+<A><F>Mm</F> <.></.> yeah, so, maybe, she could go to <F>em</F> amusement park there.</A>
+<B><F>Uhu</F>.</B>
+<A>and museums.</A>
+<B><F>Mh-hmm</F>. <R>And</R> and <F>er</F> I've never been to Europe in winter, but it was very cold. And daytime <SC>is very sho</SC> was very short. <?>And in</?> <F>mm</F> <.></.> <F>mm</F> night comes early than Japan, but how about spring? <CO>Do you think</CO>.</B>
+<A>Yeah. So if you go to Italy</A>
+<B><F>Mh-hmm</F>.</B>
+<A>or <F>mm</F> that kind of southern part,</A>
+<B>I see.</B>
+<A>yeah, no problem.</A>
+<B>No problem? <F>Oh</F> I've never been to Italy, <SC>but</SC> <R>and</R> and I would like to go but I hesitate to go there because <SC>wi</SC> I'm with my child.</B>
+<A><F>Hmm</F>. O K.</A>
+<B>Yes. But <SC>how long does it take t</SC> <F>er</F> how long does it fly from Tokyo to Italy?</B>
+<A><F>Er</F> about twelve hours.</A>
+<B><F>Ohhh</F>. It's heavy for me. <nvs>laughter</nvs></B>
+<A>Maybe.</A>
+<B>Yeah.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> is that a direct flight?</B>
+<A><F>Oh</F> yes. <F>Mh-hmm</F>.</A>
+<B>And <SC>how</SC> <F>ehh</F> <.></.> <SC>do you rec</SC> <F>mm</F> <R>do</R> <.></.> <SC>do you reco</SC> <F>er</F> do you show me the Italy's plan? <F>Er</F> some Italy's plan?</B>
+<A>Sure. Sure. So, we have several plans</A>
+<B><F>Mh-hmm</F>.</B>
+<A>and we have <F>er</F> <SC>brochures</SC> pamphlets.</A>
+<B><F>Uh-huh</F>.</B>
+<A>So please take them home and if you'd like to <R>s</R> <R>s</R> see more,</A>
+<B><F>Uh-huh</F>.</B>
+<A>please come and visit us again.</A>
+<B>I see. <F>Uh</F>. Can I ask <SC>by</SC> over the phone?</B>
+<A>Sure. Sure. O K. Anytime. O K. All right. Thank you very much.</A>
+<B><F>Uh</F> thank you.</B>
+<A>O K, so the role-play is over.</A>
+<B><F>Uh</F>.</B>
+<A>O K.</A>
+<B>Thank you.</B>
+<A>Thank you. All right.</A>
+</task>
+<followup>
+<A>O K. <F>Eh</F> do you <R>s</R> sometimes travel with your daughter?</A>
+<B>Yes. <R>I</R> I like traveling, so I go with my daughter.</B>
+<A>I see. Then, when you make a travel plan,</A>
+<B><F>Uh-huh</F>.</B>
+<A>and what is the most important factor?</A>
+<B><CO>Impor</CO>. <F>Uhh</F>. <.></.> <R>My</R> <SC>my <R>chi</R> chil</SC> <R>my</R> <F>uh</F> my daughter <R>is not</R> is not boring.</B>
+<A><F>Hmm</F>.</A>
+<B>And next, I can be relaxed, <F>mm</F> <F>mm</F> <R>I</R> I prefer resort places <OL><SC>to city</SC></OL> <nvs>laughter</nvs> a city.</B>
+<A><OL><F>Mm</F></OL>. I see. All right. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I want to show you one more picture. <nvs>cough</nvs> Sorry. O K. Here you are.</A>
+<B><F>Mhm</F>.</B>
+<A>This time, please make up a story using these four pictures, but this happened last week.</A>
+<B>Last week.</B>
+<A>Yeah. So please start your story with "One day last week". O K?</A>
+<B><?><F>Hm</F></?>. O K. One day last week I went to <.></.> see a movie with my friends. <F>Uh</F> <..></..> <SC>the movie</SC> I haven't seen movies for a long time, so <SC>I was</SC> <R>I ha</R> I have been really looking forward that. <.></.> And <.></.> <F>mm</F> <R>I</R> I didn't receive any information of that movie. <F>Hm</F> my friends <F>uh</F> <SC>choo</SC> <R>cho</R> chose the good movie, <.></.> they said. <F>Hm</F>.</B>
+<A>Yes. O K. Please go on.</A>
+<B>And <.></.> in the movie theater, we bought popcorns and coke. I like popcorns very much. <F>Mm</F>. Every time I go to <.></.> a movie theater, I buy popcorn. <.></.> <F>Mm</F> <.></.> I think popcorn and coke is a best combination. <.></.> <F>Mm</F>. <.></.> <SC>As the movie</SC> <.></.> <F>mm</F> before the movie starting, <F>eh</F> we enter the <.></.> <R>m</R> <R>m</R> movie room. <.></.> <SC>We chose the</SC> <.></.> <F>eh</F> <R>we</R> <SC>we sit</SC> we were seated in the back of the <.></.> room. <F>Mm</F> <.></.> <F>mm</F>. <.></.> <SC>It w</SC> <F>uh</F> <R>the movie was</R> <.></.> <SC>the movie was</SC> <.></.> <F>eh</F> <F>eh</F> <F>m</F> <.></.> it was a <F>eh</F> action movie.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hmm</F>. I don't like <SC>a action</SC> an action movie, so I haven't been to see <F>em</F> an action movie, but it was rather <R>inter</R> interesting to me, so I thought that was a good chance for me to see <F>mm</F> various kinds of movie. <.></.> <F>Er</F>. <R>After</R> <F>er</F> after the movie was over, <.></.> we were so excited. So we wanted to talk about the movie more, so <F>mm</F> we <SC>plan to go</SC> planned to go out <.></.> to drink <.></.> and talk about the movie <SC>over the be</SC> over beer.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uh-huh</F>. <?>Sounds nice</?>. All right. Thank you very much. O K, so <H pn="B's name">XXX02</H> <JP>san</JP>, the interview is almost over. Thank you for coming today.</A>
+<B><laughter>Thank you very much</laughter>.</B>
+<A>Yeah. Do you have any plans for this weekend?</A>
+<B><F>Err</F> <R>I</R> I'll have a MOUS test on Saturday.</B>
+<A><F>Mm</F>.</A>
+<B>MOUS stands for Microsoft <.></.> User's Specialist.</B>
+<A><F>Ahh</F>. So computer <OL>test</OL>.</A>
+<B><OL><??></??> test</OL>. Yes.</B>
+<A><F>Oh</F>. Sounds difficult. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Yeah. Tough for me.</B>
+<A><F>Uh</F> tough. Yeah, but good luck for the test.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

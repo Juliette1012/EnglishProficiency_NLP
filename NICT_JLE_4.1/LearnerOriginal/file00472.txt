@@ -1,0 +1,193 @@
+<interview>
+<filename>file00472.txt</filename>
+
+<head version="1.3">
+<date>2001-06-22</date>
+<sex>male</sex>
+<age>45</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>535</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B><F>Er</F> my name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>So how long have you been working in this company?</A>
+<B><F>Er</F> I joined this company at last year.</B>
+<A><F>Hum</F>.</A>
+<B>Because <F>er</F> my former company acquired by <OL>this company</OL>.</B>
+<A><OL><F>Hmm</F></OL> I see.</A>
+<B>My former company is <F>er</F> <?><H pn="company name1">XXX02</H></?> Software. I was joined <F>er</F> ten years ago.</B>
+<A>O K. <SC>Wh</SC> so <H pn="B's name">XXX01</H>, where do you live?</A>
+<B><F>Er</F> <R>I live in</R> I live in <H pn="others1">XXX03</H>-<JP>ku</JP> in <H pn="others2">XXX04</H> City.</B>
+<A><F>Hum</F>. With your family?</A>
+<B>Yes. <R>I</R> I married, but <F>er</F> no kids.</B>
+<A><F>Um</F> can you tell me about your wife?</A>
+<B><F>Um</F> my <laughter>wife</laughter>?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Er</F> <.></.> <F>hm</F> very kind <OL>and <F>er</F></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>beautiful.</B>
+<A><F>Hum</F>.</A>
+<B><.></.> <nvs>laughter</nvs></B>
+<A>Does she have any hobbies?</A>
+<B><F>Err</F> <R>she</R> <SC>she like <F>er</F> very</SC> <F>er</F> <R>sh</R> <..></..> she like <F>er</F> watch a flower and <F>er</F> <F>er</F> I can't remember <JP>sodateru</JP> in English <F>er</F> many flower <F>er</F> called <F>er</F> "Gardening". <F>Hm</F>.</B>
+<A><F>Um</F> how about you? Do you like gardening, <OL>too</OL>?</A>
+<B><OL><F>Hum</F></OL> I like, too.</B>
+<A><F>Hum</F>. <OL><CO>So</CO></OL>.</A>
+<B><OL><F>Uhm</F></OL> I like watch a flower. <OL><F>Uh-huh</F></OL>.</B>
+<A><OL><F>Uhu</F></OL>. So what do you do on Sunday in your garden?</A>
+<B><F>Oh</F> <F>err</F> <..></..> I didn't do <R>any</R> anything.</B>
+<A>Just watching.</A>
+<B><OL>Just watching yeah just watching</OL>.</B>
+<A><OL><laughter>O K</laughter></OL>. All right. Do you have any other hobbies?</A>
+<B><F>Err</F> I don't have any particular hobbies.</B>
+<A><F>Hum</F>.</A>
+<B><F>Er</F> sometime in holiday, I enjoyed video movie and movie of science fiction, such as a "Terminator" or <F>um</F> I like <F>er</F> action movie.</B>
+<A><F>Um</F> <F>uh</F> why do you like action movies?</A>
+<B><F>Uum</F> because <F>er</F> <SC>that is <F>er</F> not</SC> <F>mm</F> <..></..> <R>I</R> I can't remember <JP>genjitsu</JP> in English. <F>Er</F> there is <F>er</F> <R>not</R> not <JP>genjitsu</JP>. <..></..> <F>Hm</F> <F>um</F> <F>er</F> <.></.> <F>mm</F> action movie <.></.> <F>ee</F> relief my stress.</B>
+<A><F>Uum</F> O K. So tomorrow is Saturday, do you have any plans for the weekend?</A>
+<B><F>Uum</F> <R>I</R> <R>I</R> I catch a cold and <F>er</F> <SC>I went <SC>last</SC> <F>er</F> before</SC> a day before yesterday, I went to doctor. So <SC>tomorrow</SC> Saturday <R>I</R> <R>I will</R> I will relax in my home.</B>
+<A><F>Hum</F> so what's wrong with you?</A>
+<B><F>Um</F>? <OL>Pardon</OL>?</B>
+<A><OL><F>Uhm</F></OL>. What is the matter with you?</A>
+<B><F>Hm</F> matter? <R>I</R> I cannot understand.</B>
+<A><F>Err</F> do you have a cold or are you just tired?</A>
+<B>Yes.</B>
+<A><F>Uum</F> <OL>O K</OL>.</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><.></.> All right. So I hope you have a nice relaxing weekend.</A>
+<B>Yes. Thank you.</B>
+</stage1>
+<stage2>
+<task>
+<A>So first thing today, please look at this picture.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL> please describe this picture.</A>
+<B><.></.> <OL><laughter>Describe this</laughter> picture</OL>?</B>
+<A><OL><F>Uhu</F></OL> yeah.</A>
+<B><F>Err</F> this is <F>er</F> a beautiful woman's room. And <.></.> <SC>she has <F>er</F> two</SC> <F>um</F> <.></.> <F>mm</F> she has a two animals, a dog and cat. And cat sleept on the bed. <F>Hm</F>. <R>The woman</R> <.></.> <F>uh</F> the woman has a personal computer. And <R>she</R> <..></..> she enjoyed <JP><F>eeto</F></JP> music sometimes. <F>Uum</F>. <.></.> <R>Her</R> her room is very <R>cl</R> <R>clea</R> clean up. <..></..> <OL><F>oh</F> <R>tha</R> that's all</OL>.</B>
+<A><OL>O K <F>hm</F></OL>. All right.</A>
+</task>
+<followup>
+<A>So do you have a computer at home?</A>
+<B><F>Er</F> yes.</B>
+<A><F>Um</F> so what do you use your computer for?</A>
+<B><F>Uum</F> mainly, I use such computer for business. E-mail or log into my company's computer <.></.> for working.</B>
+<A><F>Hum</F> so what do you think is a good point of e-mails?</A>
+<B><F>Hm</F> <F>err</F> <R>E-mail</R> e-mail's good point is <F>er</F> <F>uum</F> <F>hmm</F> <.></.> <F>uhm</F> <.></.> this is very <R>speedy</R> speedy and <F>er</F> not <F>hmm</F> <.></.> <R>if</R> if <F>ee</F> <R>I</R> <R>I don't</R> <F>hm</F> I don't live in home, <F>uum</F> another person contact <.></.> me by e-mail. <F>Hm</F> <SC>by telephone is <F>er</F> not</SC> if I live in home, <JP><F>eeto</F></JP> we cannot communicate by phone. But e-mail <.></.> can it.</B>
+<A><F>Um</F> O K. Good point.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. So next, <F>er</F> let's try a role-play. O K. Please read this card <OL>and when</OL></A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>you are ready, I will start the role-play.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Are you ready?</A>
+<B><.></.> <OL>O K</OL>.</B>
+<A><OL>O K</OL>. Let's begin. So good afternoon, sir. May I help you?</A>
+<B>Yes. <F>Err</F> I'd like to go to New York. And <?>I can very</?> <R>fa</R> fast. <F>Hm</F> how can I go to New York?</B>
+<A><F>Hum</F> you can take a train.</A>
+<B>Train?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Urn</F> where can I buy ticket?</B>
+<A>Right here.</A>
+<B>Right here?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> <R>what kind of</R> what kind of ticket do you have for express or <R>local</R> local <OL>stop</OL>?</B>
+<A><OL><F>Oh</F></OL> we have tickets for super express, express and local.</A>
+<B><F>Uhu</F>. <F>Um</F> <R>what</R> <R>what</R> <R>what</R> <R>what</R> <SC>what time</SC> <R>what</R> what's that time is <F>er</F> <..></..> fast express?</B>
+<A><F>Ah</F> the fastest one?</A>
+<B><SC>Fas</SC> <R>fa</R> fastest one.</B>
+<A><F>Er</F> it will leave <F>er</F> within fifteen minutes.</A>
+<B>Fifteen minutes?</B>
+<A><F>Um</F>.</A>
+<B>O K. <R>I will</R> <.></.> I will go to New York <.></.> that train.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> can I have a ticket?</B>
+<A>Sure. But it's very expensive.</A>
+<B><F>Oh</F> no problem.</B>
+<A><laughter>O K</laughter>. So two hundred dollars, please.</A>
+<B>O K. <JP><F>Eeto</F> nandattakke</JP>.</B>
+<A><laughter>O K</laughter>. So here is your ticket.</A>
+<B>Thank you. O K.</B>
+<A>Have a nice trip.</A>
+<B>Thank you.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>This is the end of the role-play. So have you been abroad?</A>
+<B><F>Uum</F>. No <F>er</F> <R>three or</R> three or four times.</B>
+<A><F>Hum</F> on business?</A>
+<B><F>Uum</F> <F>er</F> <SC>sometimes business and</SC> <F>er</F> <R>two</R> two times is business and two times is <F>er</F> personal. <F>Hm</F> I went to <F>er</F> Dallas for business. And <F>er</F> I went to <SC>Hong Kong in honeymoon</SC> <F>er</F> Hong Kong honeymoon. And <F>er</F> <JP><F>unnto</F></JP> <R>Prosleeve</R> Prosleeve <F>er</F> is <F>er</F> <JP><F>uunto</F></JP> resort area of Indonesia.</B>
+<A><F>Oh</F> can you tell me about the <R>Pro</R> Prosleeve?</A>
+<B>Prosleeve? Yes. Plosleeve is a very <R>beautiful</R> beautiful <JP><F>eeto</F></JP> ocean. <F>Hm</F> <R>very</R> very small island. And there are many <F>ee</F> log house <F>uu</F> on the <R>island</R> island. <.></.> So it's a very beautiful <.></.> ocean.</B>
+<A><F>Um</F> I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So lastly, let's try another picture.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K. Please look at this picture. O K. There are six pictures from one to six. And please make up a story based on these pictures. O K. So this happened before, so please start your story with "One day last week".</A>
+<B><F>Uhu</F> O K. <F>Er</F> <R>one day</R> one day last week, <F>er</F> <..></..> <??></??> <F>hm</F> <.></.> <R>man and</R> the man and his <.></.> children <F>mm</F> <..></..> went to dinner. <F>Er</F> <R>no</R> <R>no</R> <R>no</R> no, went to lunch. <JP><F>Eeto</F></JP> <..></..> <R>they</R> <..></..> <R>they</R> <R>they</R> they have a beer, <R>they</R> they <SC>eat</SC> ate <.></.> <F>hm</F> hamburger. <F>Er</F> not <R>chicken</R> chicken <laughter><JP>sotee</JP></laughter> and <R>d</R> drunk a beer at restaurant <?>double double</?>. And <F>er</F> <.></.> young boy <F>er</F> <F>um</F> overeat at lunch. And the young boy is a <F>hm</F> <..></..> the <R>man</R> man's son. <F>Hm</F> and <F>er</F> the man paid for <.></.> all. <.></.> <SC>They</SC> young boy is very happy. And say good-bye.</B>
+<A><F>Um</F> O K. All right. Thank you.</A>
+</task>
+<followup>
+<A>So where do you usually have lunch?</A>
+<B><.></.> I have usually lunch next building, <F>um</F> Lion.</B>
+<A><F>Oh</F> why do you go there?</A>
+<B><F>Uum</F> because <SC>that restaurant is a <.></.> very</SC> <F>hm</F> <F>uhm</F> that restaurant is <F>er</F> not many people at usually. <SC>Very smooth</SC> I ate lunch very smooth.</B>
+<A><F>Uum</F> I see. O K. Do you sometimes pay for somebody like this man?</A>
+<B><R>No</R> <R>no</R> no. We will pay for own self.</B>
+<A><F>Um</F> how about dinner?</A>
+<B>Dinner?</B>
+<A><F>Um</F>.</A>
+<B><R>I</R> I eat dinner at <R>ho</R> home usually.</B>
+<A><F>Hm</F> do you sometimes go out with your wife?</A>
+<B><F>Uum</F> maybe but <F>er</F> one or <SC>th</SC> two times in month.</B>
+<A><F>Um</F> can you tell me the last time you went to a restaurant with your wife?</A>
+<B><F>Mh-hmm</F> I cannot remember. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Last month or before <laughter>last month</laughter>. <F>Er</F> but <F>er</F> <R>we</R> we went to a family restaurant <SC>at</SC> for lunch sometimes.</B>
+<A><F>Hum</F>.</A>
+<B><F>Uhm</F>. <.></.> <F>Hm</F> <SC>Saturday or</SC> <F>er</F> <R>no</R> <R>no</R> no. Saturday or Sunday, I went to a <.></.> lunch.</B>
+<A>Why do you go to a family restaurant?</A>
+<B>Family restaurant is a very casual. <F>Uum</F> so I like casual style for lunch or dinner. <F>Hmm</F> <.></.> I don't like a classic style or many knife or many forks or <F>oh</F> <R>I</R> <SC>I can</SC> <R>I</R> I <laughter>cannot</laughter> enjoy <OL>for lunch or dinner</OL>.</B>
+<A><OL><F>Hmm</F> I understand</OL> yeah. I agree. O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So we have come to almost the end of the interview. So what time do you think you can go home today?</A>
+<B><F>Uum</F> I'll go home <F>um</F>?</B>
+<A><F>Uhm</F> <OL>what time <F>um</F></OL>?</A>
+<B><OL><F>Uh</F> <R>I will</R></OL> <F>er</F> I will go home at <F>er</F> six o'clock. Because my condition is <F>er</F> bad.</B>
+<A><F>Err</F> do you have a fever?</A>
+<B><R>No</R> <R>no</R> no. <F>Hm</F> my body temperature is <F>er</F> thirty-six point five <R>ce</R> <R>ce</R> celsius.</B>
+<A><F>Uum</F>.</A>
+<B>This is <F>er</F> <SC>normal</SC> <F>er</F> <R>regular</R> regular temperature.</B>
+<A><F>Hum</F> O K. So please <R>take</R> take care of yourself.</A>
+<B>Thank you.</B>
+<A><F>Hum</F> and have a relaxing weekend.</A>
+<B>Thank you.</B>
+<A>O K. Thank you very much for <OL>coming</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>This is the end of the interview</OL>.</A>
+<B><OL>Thank you very much</OL>. Thank you.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

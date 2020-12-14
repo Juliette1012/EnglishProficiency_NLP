@@ -1,0 +1,155 @@
+<interview>
+<filename>file01100.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>female</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests>IELTS6.5</other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Hello. My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mm</F>. Nice to <OL>meet you</OL>.</A>
+<B><OL>Nice to</OL> meet you, too.</B>
+<A><nvs>laughter</nvs> Nice to meet you, <H pn="B's name">XXX02</H>. <F>Urr</F>. O K. So <F>urm</F> tell me about your hobbies now.</A>
+<B>Hobbies?</B>
+<A><F>Mm</F>.</A>
+<B><F>Ur</F> my hobbies <F>mm</F> are watching movies and travelling and doing some exercises in my <laughter>house</laughter>.</B>
+<A>O K. Did you travel recently?</A>
+<B>Yeah. I went to China and mainly Tibet.</B>
+<A><F>Wow</F>. Tell me about the trip.</A>
+<B>Trip. <F>Urr</F> I went to <SC>with my</SC> <F>ur</F> with many friends. But those friends, <F>urr</F> <SC>haven't</SC> we haven't met before. <SC>We just</SC> <F>mm</F> you know, <F>ur</F> we just met for the first time <SC>this trip</SC> for this trip.</B>
+<A><F>Mhm</F>.</A>
+<B>And we went to China by ship. <SC>It was</SC> it took about two days for <??></??>. <R>And <F>mhm</F> I</R> and <R>I</R> I like Chinese food or Tibetan foods. <F>Mhm</F>. Many people said that Tibetan foods are very taste bad. But for me, <F>mhm</F> almost all the foods are very delicious.</B>
+<A><F>Mm</F>. I've never seen the Tibetan food before.</A>
+<B><F>Urr</F></B>
+<A><OL>What's it like</OL>?</A>
+<B><OL>they have</OL> <F>mm</F> <SC>momo</SC> dumplings called momo, or noodles like <JP>udon</JP>, but the taste is very different with meat. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mhm</F></OL>. I see.</A>
+<B>And yak burger.</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter>Yak</laughter>. They ate <F>ur</F> yak instead of the cow.</B>
+<A><F>Mhm</F>. <F>Mm</F> I see. <F>Wow</F>. <?>What's</?> the differences. O K. Then now <F>urm</F> tell me about your university.</A>
+<B>University. My university is <H pn="school name1">XXX03</H>. And <H pn="school name1">XXX03</H> is not so big, but <F>mm</F> all the faculties are in one place so I could meet many people studying various subjects. So it was very nice university, yeah, I think.</B>
+<A><F>Mm</F>. O K. Good. <F>Urr</F> then now about family, can you tell me about your family?</A>
+<B>O K. <F>Mm</F> I have four members. My father, mother and brother and me and my dog. <nvs>laughter</nvs></B>
+<A><F>Uhh</F> tell me about your dog.</A>
+<B><F>Urr</F> my dog is <SC>a</SC> <F>urr</F> called Ryoma. <nvs>laughter</nvs> My grandfather gave him the name Ryoma because last time, I had the another dog, but <F>uum</F> I gave the dog named Pocky. <nvs>laughter</nvs> But <R>he</R> he was dead <F>ur</F> soon. So my grandfather thought <F>mm</F> this dog need a more strong name. <CO><laughter>So</laughter></CO>.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>O K. What kind of effect does your dog have on your family?</A>
+<B><F>Mhm</F> <.></.> <F>mm</F> because <F>mm</F> always <R>we</R> <F>ur</F> we work hard, everyone, so sometimes we need <SC>a</SC> to take a break. And we took my dog to the park, and relax. <SC>So</SC> and <F>ur</F> he is very cute.</B>
+<A><F>Uh-huh</F>. <OL>I bet</OL>.</A>
+<B><OL><F>Ur</F></OL> yeah. So <SC>everyone</SC> <F>uh</F> <R>if</R> if we see <SC>the</SC> my dog, Ryoma, <R>everyone</R> <F>mm</F> <SC>everyone can make</SC> <F>uh</F> <SC>everyone make</SC> <F>ur</F> no, my dog makes us happy.</B>
+<A>I see. O K. Good. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then now I will show you a picture. So please describe this picture for me.</A>
+<B>O K. <F>Mm</F> This is some place, local area, and <F>mm</F> maybe this is <F>ur</F> on Sunday, I think. And there's some people playing with the ball. <F>Mm</F> <R>the</R> these are the <SC>child</SC> childrens. <R>And</R> and other people talk on the street with dog. <nvs>laughter</nvs> And <F>uhm</F> <SC>the guy's</SC> <F>ur</F> there is a man who is running on the street. <F>Mhm</F>. And the weather is very nice so <R>they</R> they went out, and spend <SC>tai</SC> happy time.</B>
+<A><F>Mm-hm</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Can you compare this neighborhood to the neighborhood you live now?</A>
+<B>Now?</B>
+<A><F>Mm</F>. Now.</A>
+<B>Now I'm living in <H pn="others1">XXX04</H>. And even on Sunday, I don't see so many people on the street because everyone went out to the big cities like <H pn="others2">XXX05</H> or <H pn="others3">XXX06</H>. And near my apartment, only few people is shopping like <F>mm</F> the womans shopping at the supermarket. Or <F>uum</F> I don't see so many childrens.</B>
+<A><F>Mhm</F> I see.</A>
+<B>I think <R>they</R> <F>mm</F> <SC>they not playing</SC> they're not playing outside so much.</B>
+<A>How about your neighborhood you grew up?</A>
+<B><F>Urr</F> I grew up in <H pn="others4">XXX07</H>, and <H pn="others4">XXX07</H> is very local area. So I used to play outside, and also with my dog. <nvs>laughter</nvs> <F>Mm</F> so my home town is very similar to this picture, like the situation of this picture, I think. And my father also <F>ur</F> used to running outside on Sunday.</B>
+<A>O K. Which do you prefer to live, into the future <H pn="others4">XXX07</H> or <H pn="others1">XXX04</H>?</A>
+<B><F>Mm</F> in the <R>ne</R> near future?</B>
+<A>Yeah, near future.</A>
+<B>Near future. <F>Mhm</F> now I have work here so <F>mm</F> for more years, I want to live here. And <SC>I want some</SC> <F>mhm</F> I have many friends here so I want to live here more. But in the end, if I retire, <nvs>laughter</nvs> I want to go <laughter>back</laughter> to my hometown because <R>I love</R> I love there.</B>
+<A><F>Uh-huh</F>. Nice idea.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. Good. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then now, I will show you a card now. So please read it to yourself. And then when you are ready, I will begin.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>? Ring-ring-ring. Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Uh</F> hello, this is <H pn="B's name">XXX02</H>. <CO><OL>I</OL></CO>.</B>
+<A><OL>Hi, <H pn="B's name">XXX02</H></OL>.</A>
+<B>Hi. <F>Urr</F> I was planning to go to your party. And <SC>I wanted to</SC> <F>ur</F> <F>um</F> I was very <R>looking</R> looking forward to see you. But <F>urr</F> yesterday, my grandmother got a <SC>accident</SC> traffic accident. And <SC>she was</SC> <F>ur</F> <R>I was</R> I was very sad because <SC>she was the dead</SC> she was dead there. So <F>mm</F> now I'm very very sad, but <SC>I have to plan the</SC> <SC>how to</SC> <F>mm</F> <SC>I has to plan her</SC> <F>urr</F> how <SC>to</SC> can I say, <.></.> <F>uh</F> I have to call my father and mother or my relatives <SC>for the</SC> <F>mm</F> to say my grandmother good-bye. So I'm so sorry, but I can not do anything about this.</B>
+<A>No, that's O K. I understand you should. But we were all waiting for you yesterday, and you could have made a quick call.</A>
+<B>Yeah. But I was very <F>um</F> confused. Yeah. <SC>So</SC> and I was so busy because everyone <SC>call me</SC> called me. <SC>And I have to call</SC> so I have to call many people. Yeah. And <R>I</R> I didn't know about <F>ur</F> the situation how she got <F>ur</F> a accident. So <R>I</R> I have to go to police yesterday. Yeah.</B>
+<A><F>Uhh</F> I see. <F>Ohh</F> I'm sorry to hear that.</A>
+<B>Yeah.</B>
+<A><??></??>. But I completely understand your situation now. O K. So thank you for calling.</A>
+<B><F>Uhh</F> thank you.</B>
+<A>All right.</A>
+<B>Next time, I'll go.</B>
+<A>Thank you.</A>
+</task>
+<followup>
+<A>All right. <nvs>laughter</nvs> <laughter>O K</laughter>. Good. So you seem like you are good at making an excuse. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Have you ever made any excuse to refuse something?</A>
+<B>Refuse something?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mmm</F> <.></.> yes.</B>
+<A>O K. Tell me.</A>
+<B><F>Urr</F> <F>mm</F> <R>my</R> my friends <F>urr</F> <SC>call</SC> called me, and went out dinner or drinking. But sometimes I don't feel like going out. So I wanted to see my friends. But <SC>my feeling is not so</SC> if my feeling is not so good, sometimes I say <F>mm</F> I have to do my homework <nvs>laughter</nvs> or something. Sometimes I use, but it's not good. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. So do you feel guilty about that?</A>
+<B>Yes, yes. Totally. <OL><F>Mhm</F></OL>.</B>
+<A><OL>Totally</OL>. Was your friend nice to you afterwards?</A>
+<B><F>Mm</F> yes. Because we keep in touch with my e-mail or the mobile phone. Yeah. But I don't like mobile phone so much because we can not see the face. <R>So</R> <F>mm</F> so I need to go <laughter>out more often, I think</laughter>.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Then now I will show you the last picture sequence. O K? So please <SC>make up a</SC> make up your own story using these pictures from one to six. This thing happened before so please start your story with "One day last week,"</A>
+<B>O K. <F>Uh</F> could I see the picture before?</B>
+<A>Sure.</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B><F>Mhm</F>. O K. One day last week, I drove my car on the street. And there's other guy who ride a <R>motor</R> motorcycle. And I suppose he was talking with his friends or <R>some</R> someone. And he didn't look at me. And then <F>uhm</F> I wanted to <SC>turn right</SC> <F>uh</F> turn left, but <F>mhm</F> <SC>his drive</SC> the way of his driving is like not straight. He didn't go straight so <SC>I was</SC> <F>ur</F> <R>I</R> I think <SC>I was</SC> <F>uh</F> <SC>it</SC> I cared about him, <SC>but I couldn't</SC> <F>urr</F> but we attacked <R>each other</R> each other. And then his mobile phone was broken. And he told me I need to fix it, and <SC>pay</SC> I have to pay some money for this mobile phone. And then <F>mhm</F> I couldn't understand it. So I call the policeman, and <F>uum</F> I explained him about the situation <SC>why we attacked</SC> why we got a accident. And then the <R>po</R> <F>urm</F> police man called some car company to take his motorcycle.</B>
+<A><F>Mm-hm</F>. I see. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Mm</F>. So <SC>I will</SC> <SC>I</SC> you mentioned that <F>ur</F> you don't like mobile phone so much.</A>
+<B><F>Mm-hm</F>.</B>
+<A>Right?</A>
+<B>Yeah.</B>
+<A>O K. But <F>ur</F> why do you think so many women like to have mobile phone these days in general?</A>
+<B>Women?</B>
+<A><F>Mm</F> women.</A>
+<B>Especially?</B>
+<A><F>Mm</F>.</A>
+<B><F>Mhm</F>. Because <SC>they're very lonely</SC> they feel lonely, I think. <F>Mm</F> especially in <H pn="others1">XXX04</H> area, there're a lot of people living here, but <F>mm</F> each person's feeling is not satisfied about our lives. <SC>So</SC> and each of them have some feelings <SC>because</SC> <F>uh</F> some feelings that <F>ur</F> <SC>they are alone</SC> they are living alone. So <SC>the mo</SC> and mobile phone is so useful <SC>about <R>con</R> contact</SC> on contacting with others.</B>
+<A><F>Mm-hm</F>. That's true.</A>
+<B><CO>So <OL>I think</OL></CO>.</B>
+<A><OL>O K</OL>. Good. But you don't need <nvs>laughter</nvs> so you're enjoying your life. O K. Good.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. This is almost end of the interview. <F>Mm</F>. So <F>urr</F> you just came back from China like?</A>
+<B><SC>Two</SC> three weeks ago.</B>
+<A>Three weeks ago. <F>Uhh</F> <F>wow</F> I've never been to Tibet.</A>
+<B><F>Urr</F> everyone says so. Because my friend told me, "Why do you go to Tibet?". <SC>And</SC> but <SC>I was study</SC> <F>ur</F> I studied about Tibet because my major was ethnic study. So I was very interested.</B>
+<A>Yeah. I see. <F>Wow</F> must be a good trip. <nvs>laughter</nvs> O K. But thank you very much <OL>for coming</OL> to this interview today.</A>
+<B><OL>Thank you</OL>.</B>
+<A>And good luck on your new job.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

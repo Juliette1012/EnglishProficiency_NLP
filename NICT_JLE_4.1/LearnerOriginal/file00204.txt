@@ -1,0 +1,272 @@
+<interview>
+<filename>file00204.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>female</sex>
+<age>31</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Uh-hum</F>.</B>
+<A>May I have your name, please?</A>
+<B>My name is <SC>Ya</SC> <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>So, how are you today?</A>
+<B>I'm fine, and you?</B>
+<A><F>Oh</F> I'm pretty good.</A>
+<B><F>Uh-hum</F>.</B>
+<A>So, where do you live?</A>
+<B><F>Ur</F> I live in <H pn="others1">XXX03</H> in <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F>. How long have you been <OL>living in <H pn="others2">XXX04</H></OL>?</A>
+<B><OL><F>Urm</F></OL> Just two months,</B>
+<A><OL>Two months?</OL></A>
+<B><OL>Because</OL> I married <F>urr</F> last November,</B>
+<A><F>Hmm</F>.</A>
+<B>and I moved to <H pn="others1">XXX03</H> in December.</B>
+<A><F>Hmm</F>. Could you tell me about your husband?</A>
+<B><nvs>laughter</nvs> My husband is very nice guy.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <R>But</R> <R>but</R> <SC>but he now</SC> just now he has no job.</B>
+<A><F>Oh</F>.</A>
+<B>Because he <F>ur</F> <SC>lea</SC> left his company</B>
+<A><F>Hmm</F>.</A>
+<B>last December and he is now preparing his own company.</B>
+<A><F>Wow</F>. <F>Umm</F> so, what kind of business is he interested in?</A>
+<B><F>Urr</F> he is <SC>bus</SC> interested in the food,</B>
+<A><F>Hmm</F>.</A>
+<B>and he is going to <SC>have a</SC> open a food shop for elderly people.</B>
+<A><F>Hmm</F>. <F>Urr</F> can you tell me more about his food shop?</A>
+<B><F>Urr</F> he is <F>err</F> very interested in elderly people, and he is going to have a shop and <F>err</F> <SC>sell the</SC> sell them <F>urm</F> very healthy food and he is also <F>umm</F> <R>ha</R> having a plan to <.></.> send them the <F>um</F> delivery food.</B>
+<A>O K. All right. So, Ms. <H pn="B's name">XXX02</H>, <nvs>laughter</nvs> so O K, where <F>err</F> <SC>does</SC> do your parents live?</A>
+<B><F>Ah</F>. My parents <R>live</R> live in <H pn="others3">XXX05</H>, <H pn="others4">XXX06</H>.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>I've been living</SC> <F>err</F> <R>I've</R> I've been live in <H pn="others3">XXX05</H> for about <R>th</R> thirty years.</B>
+<A><F>Hmm</F>. So why did you choose <H pn="others1">XXX03</H></A>
+<B><F>Ahh</F>.</B>
+<A>as your <R>residence</R> residence?</A>
+<B>Because my husband <SC>likes to</SC> likes <H pn="others1">XXX03</H> very much. And it's very nice city.</B>
+<A><F>Hmm</F>.</A>
+<B>It's easy to come to this office and <SC>it's</SC> <F>err</F> there are many food shop near my house. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> So, which do you like better, <H pn="others3">XXX05</H> <OL>or</OL></A>
+<B><OL><F>Am</F></OL>.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>I like both of city.</B>
+<A><F>Hmm</F>.</A>
+<B>And at first, <F>er</F> actually, I don't like <H pn="others1">XXX03</H> <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F>.</A>
+<B>But now <F>umm</F> <SC>the city is</SC> <SC>the city</SC> there are many good <F>umm</F> street or parks in <H pn="others1">XXX03</H>, so now I like the <H pn="others1">XXX03</H> City.</B>
+<A><F>Hmm</F>. So, what do you usually do on weekends?</A>
+<B><F>Ur</F> on weekend,</B>
+<A><F>Hmm</F>.</A>
+<B><F>amm</F> I and my husband go to the park near my house, but now it's very cold.</B>
+<A>Right.</A>
+<B><nvs>laughter</nvs> So, <F>umm</F> now <F>umm</F> <SC>we are</SC> we like to cook together,</B>
+<A><OL><F>Hmmm</F></OL>.</A>
+<B><OL>so</OL> in weekend, <F>um</F> we usually cook <F>err</F> our lunch or dinner.</B>
+<A><F>Wow</F>.</A>
+<B>But we have to do many things in weekends because <F>urr</F> I have no time to <OL>wash the dishes,</OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>or wash our clothes</OL>. So at first, on Saturday morning <F>err</F> <SC>we are</SC> we usually <SC>clo</SC> <F>ur</F> <SC>wash</SC> <F>urr</F> do house works.</B>
+<A>How do you separate</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>household chores</OL> between you and your husband?</A>
+<B><F>Umm</F> <SC>my</SC> <F>emm</F> <R>I always clean the room</R>. <F>Ah</F> I always clean the room or wash the dishes and my husband <F>umm</F> preparing <SC>the</SC> our lunch or dinner. He likes to cook,</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>very much</OL>. He's good cook.</B>
+<A>Yeah. Good husband.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. All right. So, first thing today. Please take a look at this picture.</A>
+<B><F>Uh-hum</F>.</B>
+<A>And please describe this picture.</A>
+<B><F>Uh-ha</F>. <F>Err</F> it's winter and there are about twelve people in this picture. <F>Er</F> <R>it's</R> it's not snowing but there are <F>er</F> much snow in this picture.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>It's maybe</SC> <F>ur</F> probably it is the skiing place and there are lift on this picture. And <SC>this</SC> <F>er</F> the weather is very nice and <SC>four</SC> five people are enjoying skiing. And four people enjoying throw the snowballs.</B>
+<A><F>Hmm</F>.</A>
+<B>And there are two people inside the house and they are <F>err</F> drinking <SC>some</SC> maybe it's hot drink.</B>
+</task>
+<followup>
+<A><F>Hmm</F> O K. So, <F>err</F> Ms. <H pn="B's name">XXX02</H>, can you ski?</A>
+<B><F>Ahh</F>. Yes.</B>
+<A><nvs>laughter</nvs></A>
+<B>But <F>urr</F> my friends <SC>likes</SC> like to ski, but actually I don't like ski because it's very cold.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> I hate <R>cold</R> cold weather.</B>
+<A><F>Mmm</F>.</A>
+<B>So <F>urm</F> about four years, I have not skied.</B>
+<A><F>Oh</F> O K. Do you have any good or bad memories about snow?</A>
+<B>No, just <F>err</F> I hate cold weather.</B>
+<A><nvs>laughter</nvs> So, what sports do you play?</A>
+<B>I like to play golf or swimming.</B>
+<A><F>Uh-hum</F>. So, what's so special about golf?</A>
+<B><F>Um</F>. Now I'm belonging to the golf team of <H pn="others5">XXX07</H>.</B>
+<A><F>Hmm</F>.</A>
+<B>And there are many good players in the team and three or four times in a year, we play golf together.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hmm</F>. O K. All right. So, next we'd like to try a role-play.</A>
+<B><F>Uh-hum</F>.</B>
+<A>Please read this card,</A>
+<B><F>Uh-hum</F>.</B>
+<A>and when you are ready, I will begin.</A>
+<B><F>Uh-hum</F>.</B>
+<ctxt>The interviewee is reading the card to herself for a while.</ctxt>
+<B>O K.</B>
+<A>Ready? O K. Good morning ma'am. May I help you?</A>
+<B><F>Ah</F>. Yes. I would like to go to New York <SC>as soo</SC> <SC>as early as possible</SC> as soon as possible.</B>
+<A><F>Uh-hum</F>.</A>
+<B>Could you tell me the information about the ticket to New York?</B>
+<A><F>Hmm</F> you can buy the ticket right here.</A>
+<B><F>Uh-hum</F>. And which train is earliest train to reach New York Station?</B>
+<A><F>Urr</F> the earliest one is a local train that will leave within fifteen minutes.</A>
+<B><F>Uh-hum</F>. <F>Urr</F> how much does it cost?</B>
+<A><F>Urr</F> it costs twenty dollars.</A>
+<B><F>Uh-hum</F> O K. I'll take the ticket.</B>
+<A>O K. <F>Urr</F> it leaves within fifteen minutes,</A>
+<B><F>Uh-hum</F>.</B>
+<A>but if you wait a little more, <F>err</F> there will be an express train.</A>
+<B><F>Uh-hum</F>. <SC>And</SC> <F>err</F> but express train <SC>is</SC> <F>er</F> will reach New York Station earlier?</B>
+<A>Let me check. Yeah. It leaves <F>err</F> in thirty minutes,</A>
+<B><F>Uh-hum</F>. <OL><F>Oh</F></OL></B>
+<A><OL>And</OL> reaches at New York <F>urr</F> little bit earlier</A>
+<B><OL>O K</OL>.</B>
+<A><OL>than local</OL>.</A>
+<B><F>ah</F> I'll take express. And <SC>how</SC> <F>urr</F> <R>ex</R> excuse me, how much <SC>it</SC> does it cost?</B>
+<A><F>Ah</F> it's sixty dollars.</A>
+<B>Sixty dollars. <F>Urr</F> that's fine. I'll take the express train.</B>
+<A>O K. All right. So here's your ticket.</A>
+<B><F>Uh-hum</F> thank you. Bye-bye.</B>
+<A>Have a nice trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. All right. So, do you like traveling?</A>
+<B><F>Ah</F> yes.</B>
+<A><F>Umm</F>. So, which foreign country have you been to?</A>
+<B>I've been to the Unites States and Europe and Australia and some <R>Asi</R> Asian country.</B>
+<A><F>Hmm</F>. Which country do you like best?</A>
+<B><F>Hmm</F>. I like the Unites States best.</B>
+<A><F>Hmm</F>. Why? <nvs>laughter</nvs></A>
+<B><F>Err</F> <SC>I've been to the</SC> I've been to New York and Los Angeles. And <R>I</R> I like Los Angeles better.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><SC>It's</SC></OL> <F>urrm</F> Los Angeles, it's very nice weather.</B>
+<A><F>Hmm</F>.</A>
+<B>And I like to play golf, you know, and <F>err</F> there are many good golf course near Los Angeles.</B>
+<A><F>Hmm</F>.</A>
+<B>So, I like Los Angeles.</B>
+<A>So, besides playing golf,</A>
+<B><F>Uh-hum</F>.</B>
+<A>what did you do in Los Angeles?</A>
+<B><F>Um</F> I have some friends in Los Angeles, so I enjoyed meeting them.</B>
+<A><F>Hmm</F>.</A>
+<B>And watch the city.</B>
+<A>Is there anything special in Los Angeles?</A>
+<B><F>Ahhm</F> in Los Angeles, <F>err</F> I don't think <SC>special</SC> <F>urr</F> there is a special thing, but in Palm Springs, there are many good special things. Because <F>err</F> in Palm Springs, <SC>people</SC> every people like to play golf, so <F>umm</F> I think I can easily be a friends with them because I like play golf, too.</B>
+<A><F>Hmm</F>. So how did you become friends with those strangers?</A>
+<B><F>Oh</F> just <F>err</F> <SC>I</SC> <R>when I</R> <F>um</F> when I go to the supermarket, and I always wear the golf clothes. <laughter>And many other people</laughter> <F>ohh</F> wear the same kind of <SC?>wear</SC?> <OL><?>clothes</?></OL></B>
+<A><OL>I see</OL>.</A>
+<B>So <SC>we can</SC> <F>ah</F> "Hi. You play which golf course?". <nvs>laughter</nvs> <F>Ah</F> "<SC>That</SC> is that the course good one or"</B>
+<A><nvs>laughter</nvs></A>
+<B>so we can easily be a friend.</B>
+<A>Interesting. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><nvs>laughter</nvs> O K. All right. So, lastly,</A>
+<B><F>Uh-hum</F>.</B>
+<A><F>er</F> please take a look at this picture.</A>
+<B><F>Uh-hum</F>.</B>
+<A>And please make up a story,</A>
+<B><F>Uh-hum</F>.</B>
+<A>based on these pictures from one to six. And this happened before, so please start your story with "One day last week".</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><SC>Two</SC> <F>ah</F> one boy and girl, they're friend. They are walking <R>on</R> on the street. It's raining. And <SC>they enjoying</SC> they are enjoying the conversation. And <F>umm</F> a boy is suddenly <R>ss</R> stopped and say, "Please hear. We can hear something". And a girl find a box and a cat in the box. <SC>The cat seems very <F>err</F> cold</SC>. It's very cold. And <F>um</F> the girl <SC>asked but</SC> asked the boy, "Please hold this cat <SC>because they seem</SC> and he seems very cold". But the boy said, "I don't like the cat because I don't like to be my clothes <.></.> wet". So, the girl hold the cat and start walking. And the girl can't hold <SC>he</SC> her umbrella so the boy hold <F>ur</F> his umbrella to her.</B>
+</task>
+<followup>
+<A>O K. So, what do you think will happen after they get home?</A>
+<B><F>Umm</F>. Maybe she is angry,</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>about him</OL>. But <F>umm</F> he also have some <F>umm</F> bad feeling about them, so he is holding her shoulder, and he tried to <F>urr</F> her not wet.</B>
+<A><F>Um</F>. O K. All right. So, have you ever have a pet?</A>
+<B>No.</B>
+<A>Never?</A>
+<B>Never.</B>
+<A><F>Hmm</F>. So, do you like animals?</A>
+<B>Maybe, <laughter>no</laughter>.</B>
+<A><laughter>Maybe no</laughter>. What's wrong with them?</A>
+<B><F>Urm</F> because I don't think they are <F>ur</F> pretty</B>
+<A><nvs>laughter</nvs></A>
+<B>or maybe <R>they</R> they don't like me</B>
+<A><F>Ohh</F>.</A>
+<B><SC>too</SC> either.</B>
+<A><F>Umm</F>. O K. How about your husband?</A>
+<B><F>Um</F> <SC>my husband</SC> he likes dogs.</B>
+<A><F>Hmm</F>.</A>
+<B>But <SC>he</SC> now we are living a apartment.</B>
+<A><F>Hmm</F>.</A>
+<B>And we can't <F>umm</F> have that kind of animal.</B>
+<A><F>Hmm</F>.</A>
+<B>So, we don't have animal now.</B>
+<A><F>Hmm</F>. So, if <F>err</F> something like this happens</A>
+<B><F>Uh-hum</F>.</B>
+<A>to you and your husband, what will you do?</A>
+<B><F>Ohh</F>. <nvs>laughter</nvs> It's very difficult question. <F>Um</F> Maybe he will <SC>hold the cat</SC> hold a cat, and I will not hold the cat. <OL>And maybe I will hold umbrella for him</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K.</A>
+<B><R>I will say</R> I will say,</B>
+<A><F>Umm</F>.</A>
+<B>"Please do not carry the cat to our house".</B>
+</followup>
+</stage4>
+<stage5>
+<A><nvs>laughter</nvs> O K. All right. Thank you.</A>
+<B>Thank you.</B>
+<A>So, we have come to almost end of the interview.</A>
+<B><F>Uh-hum</F>.</B>
+<A>So, are you going to be busy today?</A>
+<B><F>Ah</F> yes.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Because</OL> <R>I will</R> I will going to have a half holiday today,</B>
+<A><F>Hmm</F>.</A>
+<B>from <F>um</F> after lunch, so <R>in the</R> in the morning,</B>
+<A><F>Umm</F>.</A>
+<B>I'm very busy.</B>
+<A>So do you have any plans for the weekend?</A>
+<B>Yes. <F>Ur</F> now <F>ur</F> <SC>we are going to</SC> <F>ah</F> my parents will going to visit our house.</B>
+<A><F>Hmm</F>.</A>
+<B>So, maybe tomorrow morning, we are going to prepare for them.</B>
+<A><F>Hmm</F>. Your parents, or his parents?</A>
+<B><F>Ah</F> my parents.</B>
+<A><F>Hm</F>. Is it their first time to visit <OL>your place</OL>?</A>
+<B><OL>Second time</OL>.</B>
+<A>Second time. Good. All right. I hope you will have a great time with your parents,</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>and husband</OL>.</A>
+<B>Thank you.</B>
+<A>All right. Thank you very much for coming.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

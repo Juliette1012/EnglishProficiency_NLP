@@ -1,0 +1,268 @@
+<interview>
+<filename>file01223.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step></step> 
+<TOEIC></TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>9</SST_level> 
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Good afternoon.</A>
+<B><OL><?>Hi</?></OL>.</B>
+<A><OL>My name</OL> is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>How are you, <H pn="B's name">XXX02</H>?</A>
+<B>I'm fine, thank you.</B>
+<A>That's good. Where are you from?</A>
+<B>I'm from Japan, <H pn="others1">XXX03</H>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. <F>Um</F> do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Oh</F> can you tell me about your family?</A>
+<B><F>Um</F> I have a mother and a father and I have two brothers.</B>
+<A><SC>What does your bro</SC> <F>er</F> what does your father do?</A>
+<B>My father works for a bank. <.></.></B>
+<A>What kind of person he is.</A>
+<B><F>Um</F> he is a decent person.</B>
+<A><F>Uh-huh</F>.</A>
+<B>He is kind to my mom and my family. And he <R>c</R> <F>um</F> cares about us a lot. And he likes to play with our cat.</B>
+<A><F>Oh</F>.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>I see. Good. Now, <F>er</F> so <SC>what</SC> how do you usually spend your free time?</A>
+<B><F>Um</F> I go shopping or I go <F>um</F> just ride my <SC>bike</SC> bicycle around my house. And sometimes I jog.</B>
+<A><F>Oh</F>.</A>
+<B>Yeah.</B>
+<A>I see. <F>Um</F> Tell me about your hobby.</A>
+<B>My hobby? Yes. I like to read books. <F>Um</F> books about Japan and <F>um</F> the relation between Japan and other countries. I used to read Sherlock Holmes a <laughter>lot</laughter>.</B>
+<A><F>Oh</F>.</A>
+<B>Yeah.</B>
+<A>Why do you like him?</A>
+<B><F>Um</F> because, you know, the stories are full of adventure.</B>
+<A>Right.</A>
+<B>And at the end of the book, you get to know what really happened.</B>
+<A><F>Hm</F>.</A>
+<B>And you get to know how he, you know, found out who caused the incident or murder or whatever.</B>
+<A>I see. I see.</A>
+<B><nvs>laughter</nvs></B>
+<A>Good. Good. And you like to read a book about Japan?</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Do you like to live in Japan?</A>
+<B>Yes.</B>
+<A><R>What kind of</R> what kind of things do you feel fascinated about Japanese culture?</A>
+<B><F>Um</F> you know, many foreign people who come to Japan say things like Japanese don't have the ability to communicate with other people, like they're not so friendly, and they sometimes criticize it in a not a nice way.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>And</OL> <R>I</R> I thought that maybe it's just their culture. I mean, Japan used to be a country like <F>um</F> <SC>not <R>so</R> <SC>social</SC> so</SC> it didn't really socialize with the other <OL>countries</OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>So maybe people aren't just used to it <R>and</R> <F>um</F> and the foreigners who come to Japan <SC>are</SC> of course, <SC>they <?>into the</?> <SC?>u</SC?> <?>not</?> <?>you l</?> <?>u</?></SC> they like to socialize a lot. So I think that <SC>it's just kind of a</SC> what do you say, it's just their opinions</B>
+<A><F>Hm</F>.</A>
+<B>of seeing <R>how</R> how Japanese are. And <R>I thin</R> I think that's kind of a prejudice.</B>
+<A><nvs>laughter</nvs></A>
+<B>Yeah.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A><nvs>cough</nvs> <F>Ah</F> yeah, that's true. O K. Great. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Er</F> first of all, <nvs>cough</nvs> excuse me, first of all today, I would like to show you a picture.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Let's try this one. Here's a card for you.</A>
+<B>Thank you.</B>
+<A>Please describe this picture for me.</A>
+<B><F>Um</F>.</B>
+<A><nvs>cough</nvs></A>
+<B>It's a picture of classroom. And there's a teacher in front of the classroom and she is teaching mathematics. And <SC>there are <F>er</F> students</SC> there are six students. And some of them are studying and they're listening to what the teacher is saying. But <F>er</F> more than half of them are doing their own stuff. They are talking or they're chewing their bubble gums or they're drinking or they're listening to music and they aren't paying attention.</B>
+<A>Right. O K?</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>Now, <H pn="B's name">XXX02</H> <JP>san</JP>, can you compare this <R>class</R> classroom</A>
+<B><F>Mh-hmm</F>.</B>
+<A>and your classroom here at this school?</A>
+<B>This school? <F>Um</F> when I started out when I was in <F>er</F> first year, the classroom <SC>was</SC> wasn't like this. There was more <F>um</F> filled with students who would listen to the teacher. But as we got closer to the graduation, <F>um</F> maybe our classroom is becoming to turn like this. Yeah. There are students who don't really pay attention because they don't really care.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>I see. That's it?</A>
+<B>Yeah.</B>
+<A>O K. Thank you very much. Can I have the card back?</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Good. Now next, I would like do a role-play.</A>
+<B><F>Mh-hmm</F>.</B>
+<A><nvs>cough</nvs> Let's try this one. Here's a card for you. <F>Mm</F> <OL>it's</OL> written in Japanese.</A>
+<B><OL>O K</OL>. Yes.</B>
+<A>Please read it to yourself. When you are ready, I will begin.</A>
+<B><F>Mh-hmm</F>.</B>
+<A><nvs>cough</nvs></A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>Ready?</A>
+<B>Yes.</B>
+<A>O K. May I help you, ma'am? May I help you?</A>
+<B>Yeah. <F>Um</F>. <??></??> <OL>Sorry</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<ctxt>The interviewee is reading the card again.</ctxt>
+<B><F>Oh</F> <F>uh</F> sorry.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>Um</F></OL> <SC>I was</SC> I booked for a ticket for this train but I couldn't come in time. So could you please exchange it?</B>
+<A><F>Er</F> no. <F>Uh</F> we're sorry. <F>Er</F> exchange is not our policy. We can't do that.</A>
+<B><..></..> So <F>um</F> <R>wha</R> what shall I <laughter>say</laughter>?</B>
+<A><F>Er</F> you want to push me a little.</A>
+<B><F>Oh</F> <F>um</F> but I paid the money for it. So</B>
+<A><?>Right</?>.</A>
+<B><SC>ca</SC> can't you do anything?</B>
+<A><F>Uh</F> no, no. Being late for a train is not our fault, it's yours unless you have a very good reason for it.</A>
+<B><F>Um</F> <nvs>laughter</nvs> <..></..> a good reason? <.></.> <F>Um</F> I have an exam at school. So <R>I ha</R> I had to finish the exam and then come to the station.</B>
+<A>All <OL>right</OL>.</A>
+<B><OL>So</OL> can't you?</B>
+<A>But you knew that <F>uh</F> <R>th</R> <SC>th</SC> <??></??> time of the exam ends.</A>
+<B>Yes.</B>
+<A>Right? So it was your fault, maybe.</A>
+<B>Yes.</B>
+<A>All you can do is buy another ticket which will cost you another ten-thousand yen.</A>
+<B><F>Uh</F>? <nvs>laughter</nvs> <CO><SC>So you can't like <SC>give me back</SC> pay back any</SC></CO>.</B>
+<A>Refund? No.</A>
+<B>No? <F>Oh</F> <laughter><?>fine</?></laughter>.</B>
+<A>Don't you have any other reasons, then?</A>
+<B>Do I have to make up the reason?</B>
+<A>Yes.</A>
+<B><F>Um</F> <F>well</F> <..></..> <laughter>no</laughter>.</B>
+<A>Another train was late or <OL>bus didn't show up</OL>?</A>
+<B><OL><laughter><F>Oh</F></laughter></OL>.</B>
+<A>Or don't you have any other <OL>reasons</OL>?</A>
+<B><OL>Yes</OL>. <R>The</R> <SC>the</SC> there was a traffic jam and my bus didn't <R>come</R> come to the station on time. So can't you call the people from the bus?</B>
+<A>Yeah. <F>Eh</F> can you have any proof for that?</A>
+<B><F>Ah</F> yes, I have my ticket.</B>
+<A>O K. All right. <F>Er</F> I really wish I can do something to do to help you, but <F>er</F> unfortunately I'm <F>er</F> just a part-timer here. <F>Er</F> and <F>er</F> the only one person who can help you is the manager,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>who is <SC>in</SC> <SC?>during</SC?> <R>in</R> <SC>in a lunch</SC> out to lunch right now.</A>
+<B>So can I wait until he comes back?</B>
+<A>Sure. It'll take about an hour.</A>
+<B><F>Oh</F>. Can't you get someone else, <OL>you think</OL>?</B>
+<A><OL><F>Hm</F></OL>. Sure, I can call main office.</A>
+<B>Yes. Could you do that, please?</B>
+<A>O K. Perhaps I can. All right. The main office says just only this time.</A>
+<B>Thank you very much.</B>
+<A>O K. Then <F>er</F> you can go to the Platform number two</A>
+<B><OL><?>O K</?></OL>.</B>
+<A><OL>and get</OL> another train.</A>
+<B>Yes.</B>
+<A>O K?</A>
+<B>Thank you very much.</B>
+<A>Have a nice trip. Bye-bye.</A>
+<B>Bye.</B>
+<A>O K. Good. Thank you.</A>
+<B><F>Uh</F>.</B>
+<A>Can I have the card back? This is the <F>er</F> end of the role-play.</A>
+</task>
+<followup>
+<A><F>Um</F> do you have any similar situation like this before?</A>
+<B><F>Mm</F> no.</B>
+<A><F>Oh</F>.</A>
+<B>I try not to be late for things.</B>
+<A>What if the train <SC>late</SC> it got late</A>
+<B><F>Uh-huh</F>.</B>
+<A>and <F>er</F> you're about to miss <R>your</R> your exam, what would you do?</A>
+<B>I would explain to the teacher that or I would call the teacher before the exam <SC>starts</SC> begins and then I would tell him that the train is late so I can't make it on time.</B>
+<A><F>Mh-hmm</F>. And <F>er</F> <SC>they will</SC> <R>wh</R> what would they do?</A>
+<B>Maybe they would, like fix another date for the exam.</B>
+<A><F>Hm</F>.</A>
+<B>And then I could take it privately <?>again</?>.</B>
+<A><??></??> can. Good. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly today, I would like to show you <nvs>cough</nvs> <F>um</F> sequence of pictures. Let's see. Yeah, let's do this one. <F>Er</F> speaking of train, let's try this. Now, this time, <SC?>I would like to</SC?> <?><F>uh</F> wha</?> I would like you to make up a short story</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL>based on</OL> these pictures from number one to six. This happened before.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>So please start your story with "One day last week". O K? Go ahead.</A>
+<B>One day last week, <F>er</F> Mister Jacobs was walking towards <SC>the train</SC> I mean the station. And then <SC>he</SC> <F>er</F> when he reached the platform, he accidentally dropped his suitcase. <SC>And</SC> <F>oh</F> but it wasn't an accident. It was actually <F>er</F> a person beside him <F>er</F> <laughter><?>tucked</?> him</laughter> by his elbow and he dropped it. So he explained to the person beside him that it was his fault that he dropped his suitcase. But while they were arguing, the train had arrived and the train nearly <F>er</F> <SC?>wen</SC?> passed through the suitcase. <SC>So he</SC> so Mister Jacobs was really <F>er</F> upset because he thought that his suitcase was <F>er</F> ruined. But after the train passed, he found that the suitcase was O K and he was relieved. And later on, <R>the</R> <F>er</F> <SC>the station</SC> a man who works for the station <F>er</F> <.></.> got the suitcase for him. And he pass it to <OL>him</OL>.</B>
+<A><OL>O K</OL>. Good. Thank you very much. Can I have the card back?</A>
+</task>
+<followup>
+<A>Now, there are lots of people who has a very rude behavior in the platform or on the train. What do you think <R>of</R> of people, <F>er</F> <SC?>for spe</SC?> <F>er</F> for instance, young lady who puts makeup on on the train?</A>
+<B><F>Mm</F>. <F>Oh</F> sometimes I see those people on the train and <SC>I</SC> at first when I saw it for the first time, I thought it was kind of embarrassing as <F>um</F> a woman,</B>
+<A><F>Hm</F>.</A>
+<B>cause, you know, makeup is something that you do to <F>er</F> not show <laughter>your real face</laughter> or something, to cover <laughter>up your real face</laughter>. <laughter><CO>So</CO></laughter>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F>. But as I got used to it, <R>I</R> <R>I</R> I started to feel nothing and <SC>I thi</SC> <R>I</R> I thought that maybe they didn't have time to do it in their homes or something.</B>
+<A>I see. What about talking loudly on the cell phone?</A>
+<B><F>Um</F> <R>I</R> I don't <?>improve with</?> that, because <SC>it can</SC> you know, <F>um</F> it would disturb other passengers on the train and maybe people get annoyed just to hear other people talk. So I don't think that's a good thing.</B>
+<A><F>Hmm</F>. I see. O K. Good. <?>So</?> thank you. Now, <F>um</F> <H pn="B's name">XXX02</H> <JP>san</JP>, <R>you</R> you stayed in <F>er</F> foreign countries more than a year?</A>
+<B><F>Um</F> <R>I</R> I was very young <SC>when I was in</SC> <F>er</F> when I lived in a foreign country.</B>
+<A>Which is?</A>
+<B><F>Um</F> Ireland.</B>
+<A>Ireland.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>I see</OL>. Do you remember <OL><?>your life</?> there</OL>?</A>
+<B><OL><F>Oh</F> yes, of course</OL>, I remember.</B>
+<A>I see. I see. <F>Er</F> what was the most exciting <.></.> memory you have in Ireland?</A>
+<B><F>Um</F> I was really little and I only remember myself playing with my friends and, <F>um</F> you know, having a good time. So <R>I</R> I don't really have an exciting memory.</B>
+<A><F>Hm</F>.</A>
+<B>I was four years old when I went there. And I lived there for five years.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>I see.</A>
+<B>It was mainly school and home.</B>
+<A><F>Hm</F>. Tell me about the school.</A>
+<B><F>Um</F> it was a catholic school. And <R>the</R> the teachers were all nuns. And <F>um</F> every morning, we went to the chapel to pray. And <F>um</F> <SC>people</SC> the people there <R>we</R> were really nice. <R>They</R> they were very kind to me. They took care of me well.</B>
+<A><?>Yeah</?>.</A>
+<B>And my friends were very nice. There were only about thirteen students in one grade.</B>
+<A><F>Wow</F>.</A>
+<B>So, yeah,</B>
+<A><F>Hm</F>.</A>
+<B>it was a good place.</B>
+<A><CO>All Japanese or</CO>?</A>
+<B><F>Oh</F> no. It was all Irish. This was an Irish school.</B>
+<A>Interesting.</A>
+<B>Yeah.</B>
+<A>O K. Good. Good. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K, <H pn="B's name">XXX02</H> <JP>san</JP>, this is almost the end of the interview.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>So <F>er</F> after this test is over, you have to go back to your classroom <OL>immediately</OL>?</A>
+<B><OL><F>Mh-hmm</F></OL>. Yes.</B>
+<A>Do you usually take <SC>y</SC> <F>er</F> the <SC>courses</SC> classes in English or in Japanese?</A>
+<B>In Japanese.</B>
+<A>Japanese.</A>
+<B>Yes.</B>
+<A>There are of course the <F>er</F> English classes.</A>
+<B><F>Er</F> <SC>of co</SC> <F>uh</F> no. <F>Um</F> we take English courses in English</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and like <F>um</F> world history would be in Japanese.</B>
+<A><F>Hm</F>.</A>
+<B>Just <SC>English and</SC> <R>al</R> all the English classes are in English.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>But</OL> the other <?>the else</?> are all <OL>in Japanese</OL>.</B>
+<A><OL>Yeah in</OL> Japanese. <F>Oh</F> <OL>I see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Oh</F> interesting. O K. Great. Thank you very much. This is the end of the interview.</A>
+<B>Thank you.</B>
+<A><F>Mm-hm</F>.</A>
+</stage5>
+</body>
+</interview>

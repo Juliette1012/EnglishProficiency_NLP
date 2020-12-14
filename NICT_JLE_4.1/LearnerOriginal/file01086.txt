@@ -1,0 +1,143 @@
+<interview>
+<filename>file01086.txt</filename>
+
+<head version="1.3">
+<date>2002-03-18</date>
+<sex>male</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. And could I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. So how are you doing today?</A>
+<B><nvs>sniff</nvs> <.></.> <F>Um</F>. <.></.> I have a <?>big</?> trouble. <F>Ee</F>. <.></.> Therefore, very busy.</B>
+<A><F>Oh</F> <R>O K</R>. O K. <F>Hm</F>. Yeah. Thank you for coming here today.</A>
+<B><F>Ah</F> <JP><SC>hai</SC></JP> yes.</B>
+<A>O K. So where do you live?</A>
+<B><..></..> Where do you live? <..></..> Leave. Leave.</B>
+<A>Live.</A>
+<B><nvs>sniff</nvs> Today?</B>
+<A><F>Um</F>. Where do you live? Do you live in <H pn="others1">XXX03</H>?</A>
+<B><F>Ah</F>.</B>
+<A>Or Kobe?</A>
+<B><F>Ah</F>. <nvs>laughter</nvs> <F>Ee</F> I live in <H pn="others2">XXX04</H> in <H pn="others1">XXX03</H>.</B>
+<A>O K. So how long did you take you to get here?</A>
+<B>About one hour.</B>
+<A>One hour. <F>Hmm</F>. O K. So what did you do on the train?</A>
+<B><F>Ee</F>. <..></..> <F>Ee</F>. <H pn="others3">XXX05</H> and <R><H pn="others4">XXX06</H></R> <R><H pn="others4">XXX06</H></R> <H pn="others4">XXX06</H>.</B>
+<A><F>Mhm-huh</F>. <F>Mhm-huh</F>. <R>O K</R>. O K. So tell me about <H pn="others2">XXX04</H>.</A>
+<B><..></..> <H pn="others2">XXX04</H> is <.></.> big city. <..></..> <H pn="others2">XXX04</H> <.></.> has <R>many</R> <F>nn</F> many parks <.></.> and <..></..> <SC>shin</SC> <SC>many shin</SC> <SC>shin</SC> <R>natu</R> natural. <F>Um</F>. <nvs>laughter</nvs></B>
+<A>O K. So do you like living there?</A>
+<B>Yes, I do.</B>
+<A>That's good. O K. So tell me about your hobby.</A>
+<B><.></.> My hobby is <.></.> to play soccer.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>Because <.></.> I have <R>played soccer</R> played soccer for a long time.</B>
+<A><F>Nn</F> for how long?</A>
+<B>About <.></.> twenty.</B>
+<A>Twenty <OL>years</OL>.</A>
+<B><OL><?>Maybe</?></OL> twenty years.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Wow</F>. <F>Oh</F> that's long. <nvs>laughter</nvs> O K. So now,</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>can you explain this picture for me?</A>
+<B><F>Um</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>This picture is winter season. <..></..> <SC>There are</SC> <..></..> <R>there is</R> <..></..> <R>there is</R> <..></..> <??></??> <JP>e</JP> there is <F>eh</F> <.></.> skiing.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><JP><F>Ee</F></JP> <..></..> <SC?>there</SC?> <F>ah</F> I think that <..></..> they're looks like <.></.> enjoy. <..></..> That's all.</B>
+</task>
+<followup>
+<A>O K. <nvs>laughter</nvs> O K. Thank you. Do you like winter sports?</A>
+<B>No, I don't.</B>
+<A>No, you don't.</A>
+<B>Yes.</B>
+<A>Why?</A>
+<B><..></..> <R>I</R> <R>I don't care for</R> I don't care for winter season <.></.> because <..></..> it is <..></..> very <.></.> <R>cold</R> cold.</B>
+<A>O K. So you like summer.</A>
+<B><F>Ah</F> yes. I like it.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mhm-huh</F>. <R>O K</R>. O K. Thank you. Now, let's do a role-play. O K?</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A><nvs>cough</nvs> Please read this card. When you are ready, let me know. I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><JP><F>Ee</F></JP>.</B>
+<A>O K. Good morning, sir. May I help you?</A>
+<B>Yes. <JP><F>Ee</F></JP>. I am looking for <.></.> the soccer shoes.</B>
+<A>O K. We have lots.</A>
+<B><.></.> <F>Ee</F>. <R>I</R> <.></.> I can spend <.></.> ten thousand yen <.></.> <F>un</F> at most.</B>
+<A><R>O K</R>. O K. So ten thousand. O K. This is ten thousand <OL>yen corner</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <JP><F>Ee</F></JP>. <R>I like</R> <JP><F>ee</F></JP> <..></..> <R>I like</R> <.></.> <F>a</F> I like soccer shoes of yellow color. <..></..> <SC>Whi</SC> <F>eh</F> <..></..> where is the <.></.> <laughter>yellow color of soccer shoes</laughter>? <nvs>laughter</nvs></B>
+<A>O K. <F>Ah</F> this one and this one and that one.</A>
+<B><F>Ah</F> O K. <R>I</R> I really like <.></.> this one.</B>
+<A>O K.</A>
+<B><R>I</R> I'll take this one.</B>
+<A>O K. Thank you. Here you go.</A>
+<B><F>Eh</F> <.></.> do you accept Master Card?</B>
+<A>Yes, we do.</A>
+<B>O K. <F>Ee</F>. <.></.> Here you are.</B>
+<A><F>Oh</F> thank you. O K. So have a good day. Thank you for coming.</A>
+<B><F>Ah</F> thank you.</B>
+</task>
+<followup>
+<A>Thank you. That's the end of the role-play. So <nvs>cough</nvs> where do you usually go shopping?</A>
+<B><..></..> <R>I am go</R> I am go shopping <..></..> near my house.</B>
+<A>O K. So tell me about the last time you went shopping.</A>
+<B>Yes. <F>Ee</F>. <R>I</R> <F>ah</F> <F>ee</F> <R>I</R> <.></.> <SC>I am married</SC> <F>ee</F> <JP><F>aa</F></JP> <JP>chau</JP> <F>ee</F> <R>I have</R> I have been married <.></.> three years ago. <JP><F>A</F> chigau <F>ee</F> sumimasen</JP>. <JP><F>Etto</F></JP>. <nvs>laughter</nvs> <R>I am</R> I am married three years ago, <JP><F>ee</F></JP> therefore, I <.></.> am go shopping at the <JP><F>ee</F></JP> <laughter>Daiei</laughter></B>
+<A><laughter>O K</laughter>.</A>
+<B>with my wife.</B>
+<A><F>Mhm-huh</F>. <.></.> O K. What's is good about Daiei?</A>
+<B><.></.> So-so. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you. <F>Nn</F>. Now, <F>ah</F> please make a story from <.></.> one to six. Then, this happened last week so please start with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><CO>She noticed</CO>. <..></..> <F>Eh</F>. <.></.> <F>A</F> just a moment, please.</B>
+<A>O K.</A>
+<B><..></..> <F>Ee</F>. She noticed <.></.> that <F>ee</F> <JP><F>a</F> chigau <F>ee</F></JP> the food is <R>nothing</R> nothing, <.></.> therefore, she <.></.> is going out <.></.> to super market. <..></..> Then she is looking <laughter>for</laughter> <JP><F>ee</F></JP> the <.></.> many <.></.> foods. <..></..> Then <..></..> she <.></.> <SC>paid <..></..> mon</SC> <JP><F>ee</F></JP> paid some money <.></.> to food. <..></..> <R>Then</R> <..></..> then <R>she</R> <..></..> she <R>put it</R> <R>put it</R> <..></..> <??></??> put it <..></..> <laughter>some foods in the car</laughter>. <..></..> Then <..></..> <R>she is <.></.> cooking</R> <..></..> <F>um</F> <..></..> <laughter>she is cooking</laughter>. <JP>Sumimasen</JP>.</B>
+</task>
+<followup>
+<A><F>Um</F>. That's O K. O K. Thank you. Do you drive a car?</A>
+<B>Yes, I do.</B>
+<A>O K. So when you drive a car, <F>ahm</F> what points do you usually <.></.> consider?</A>
+<B><..></..> <R>I</R> <SC>I am</SC> <F>uh</F> I use <.></.> the car to <.></.> do shopping. <.></.> <JP>Hai</JP>.</B>
+<A><R>O K</R>. <.></.> O K. So how about cooking? Do you cook?</A>
+<B><.></.> <R>I</R> <R>I cooks</R> <SC>I cooks</SC> <SC>I am cook</SC>? <F>E</F>? <nvs>laughter</nvs> <R>I cook</R> <F>uh</F> <SC>I cook</SC> <JP><F>ee</F></JP> <.></.> <JP><F>a</F></JP> <R>s</R> sorry, <JP><F>ee</F></JP> I sometimes cook <.></.> lunch.</B>
+<A>Lunch. <F>Oh</F> O K. So what's your special dish?</A>
+<B><F>Nn</F>. <..></..> <R>I</R> <.></.> <R>I</R> <R>I like to <.></.> make</R> I like to make <JP><F>ee</F></JP> <.></.> <JP>miso</JP> soup.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Wow</F>. <F>Mm</F> that's interesting. <F>Oh</F>. Your wife is very lucky. O K. We are almost at the end of interview. <..></..> So do you have to work very hard today? <.></.> What kind of trouble do you have?</A>
+<B><F>Um</F>. <.></.> <R>I</R> <F>ee</F>. <.></.> I belong to <.></.> the technical support group. <..></..> <F>Nn</F>. I am supporting the software which <.></.> we made.</B>
+<A><F>Mhm-huh</F>. <F>Mhm-huh</F>.</A>
+<B>The software is <R>ca</R> called <SC?><H pn="others5">XXX07</H></SC?></B>
+<A>O K.</A>
+<B>The <R?><H pn="others5">XXX07</H></R?> <F>eh</F> <R?><H pn="others5">XXX07</H></R?> <F>ee</F> <F>mm</F> <..></..> is the software <F>eh</F> <.></.> which manages <.></.> many computers <.></.> with one machine.</B>
+<A><F>Hum</F>. <F>Wow</F>. <F>Um</F> <F>oh</F> that's O K. <nvs>laughter</nvs> O K. So don't work too hard. And thank you very much for today.</A>
+<B><laughter>Thank you</laughter>.</B>
+</stage5>
+</body>
+</interview>

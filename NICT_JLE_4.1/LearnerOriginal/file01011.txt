@@ -1,0 +1,288 @@
+<interview>
+<filename>file01011.txt</filename>
+
+<head version="1.3">
+<date>2002-03-26</date>
+<sex>male</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>580</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>Mister <H pn="B's name">XXX01</H>.</A>
+<B>Yes.</B>
+<A>Nice to meet you. O K, mister <H pn="B's name">XXX01</H> how are you today?</A>
+<B><F>Uh</F> I'm fine.</B>
+<A><F>Hmm</F> did you have lunch?</A>
+<B><F>Um</F> yes. I did.</B>
+<A>Where do you usually have lunch?</A>
+<B><.></.> <F>Umm</F> I eat at Chinese restaurant.</B>
+<A><F>Ahh</F>.</A>
+<B><F>Um</F>.</B>
+<A>What kind of Chinese restaurant was that?</A>
+<B><R>What kind</R> <nvs>laughter</nvs> <F>uh</F> what kind of?</B>
+<A>Was it a casual restaurant or formal restaurant?</A>
+<B><F>Ahhh</F> a casual restaurant.</B>
+<A><F>Hmmm</F>.</A>
+<B>Near <F>umm</F> my building.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><R>Our</R></OL> our building.</B>
+<A><F>Hmm</F> <F>hmm</F> <F>ummm</F>. I see. <F>Er</F> mister <H pn="B's name">XXX01</H>, what do you usually do on weekends?</A>
+<B>Weekend. <F>Mm</F> I worked <OL><laughter>on Saturday</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmmm</F></OL> I see. So <R>you</R> you have been busy.</A>
+<B>Yes.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Ahh</F> <F>er</F> on Sunday</B>
+<A><F>Uh-huh</F>.</A>
+<B><JP>are nantsundakke</JP> <R>I</R> I received <OL><JP>kana</JP></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>TOEIC test.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>I see. <OL>The result</OL>?</A>
+<B><OL><F>Uh-huh</F></OL>. <F>Huh</F> <OL>result</OL>?</B>
+<A><OL>The</OL> result? Did you take the test?</A>
+<B><F>Ahh</F> yes. <SC>Take</SC></B>
+<A><OL><F>Ahhh</F></OL>.</A>
+<B><OL>took the</OL> test.</B>
+<A>I see. O K. So when you don't have to work on weekends</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>what</OL> do you usually do? In your free time.</A>
+<B>Free time?</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F> <.></.> <F>hm</F> usually <F>um</F> I ride on mountain bike.</B>
+<A>Mountain bike?</A>
+<B>Yes. <F>Uhh</F> <R>or</R> <F>umm</F> <nvs>laughter</nvs> or <F>um</F> go to my <SC>parents' house</SC> <SC>home</SC> parents' home and play <SC>instru</SC> music instrument.</B>
+<A>Music instrument? What do you play?</A>
+<B><nvs>laughter</nvs> I play <JP>shamisen</JP>.</B>
+<A><F>Wow</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>So <F>er</F> when did you start playing <JP>shamisen</JP>?</A>
+<B><F>Oh</F> <nvs>sniff</nvs> <JP>itsudattakana</JP> <F>umm</F> <F>umm</F> <..></..> <F>m</F> I have started it <F>umm</F> four years ago <F>umm</F>.</B>
+<A>Why did you start playing <JP>shamisen</JP>?</A>
+<B><nvs>laughter</nvs> <F>Ahh</F> <F>umm</F> <..></..> <F>um</F>. I had stayed at Aomori.</B>
+<A><F>Hm</F>.</A>
+<B><F>Umm</F>. <F>Uhh</F>? <R>On</R> <R>on</R> <JP>kana</JP> on business.</B>
+<A><F>Uh-huh</F>. <F>Uh-huh</F>.</A>
+<B><F>Um</F> for two years.</B>
+<A><F>Hm</F>.</A>
+<B>So <F>umm</F> I tried to play</B>
+<A><OL><F>Hmmm</F></OL>.</A>
+<B><OL><JP>shamisen</JP></OL>.</B>
+<A><F>Hmmm</F>. What is difficult about <JP>shamisen</JP>?</A>
+<B><R>Difficult</R> <F>mm</F> difficult. <JP>Muzukashiina</JP>. <laughter><SC>No fret</SC> there are no fret</laughter></B>
+<A><F>Hmmm</F>.</A>
+<B>and how to use <JP>bachi</JP>.</B>
+<A><F>Uh-huh</F> <F>hmm</F> I see.</A>
+<B><OL><??></??></OL></B>
+<A><OL>But do you</OL> enjoy?</A>
+<B>Yes. <OL><F>Umm</F></OL>.</B>
+<A><OL>I see</OL>. That's nice. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Ahh</F> O K, first thing today, I would like you to describe this picture.</A>
+<B>Describe.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Ummm</F> <.></.> <F>umm</F>. There are home</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Umm</F> near the road.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Umm</F> the weather is <.></.> <F>umm</F> sunny?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ahh</F> and there are a car in front of <.></.> this house.</B>
+<A><F>Umm</F>.</A>
+<B><.></.> And two women <F>umm</F> are talking near a car.</B>
+<A><F>Hm</F>.</A>
+<B>And the man is runnning <F>umm</F> <SC>the road</SC> on the road.</B>
+<A><F>Um</F>.</A>
+<B><..></..> <??></??> <F>Umm</F> <F>umm</F> <F>umm</F> some children playing ball game.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> <F>ahh</F> <F>um</F> <R>jumping rope</R> <JP>kana</JP> jumping rope.</B>
+</task>
+<followup>
+<A><F>Hmm</F>. O K. Thank you mister <H pn="B's name">XXX01</H>. Can you compare this picture to your parents' house.</A>
+<B><F>Ahhh</F> <nvs>sniff</nvs> <F>umm</F> <..></..> <F>umm</F>. <.></.> <F>Mm</F> my parents home's garden</B>
+<A><F>Uh-huh</F>.</A>
+<B>is not wider than here.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F> <F>umm</F> <..></..> <F>uhh</F> <..></..> <F>um</F> here is open site.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F> <..></..> <F>umm</F> <..></..> <F>umm</F> <..></..> <F>umm</F>.</B>
+<A><OL>I see</OL>.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A>So your parents live in Tokyo?</A>
+<B>No.</B>
+<A>No?</A>
+<B>In <H pn="others1">XXX02</H>.</B>
+<A><F>Ahh</F>.</A>
+<B><.></.> <F>Um</F> <..></..> <R>this</R> this house</B>
+<A><F>Uh-huh</F>.</A>
+<B>is <R>second</R> <laughter>second building</laughter>.</B>
+<A><F>Hmmm</F>.</A>
+<B><nvs>laughter</nvs> <F>Mm</F> my parents home is <.></.> one floor.</B>
+<A>I see. <F>Oh</F> O K, O K thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I want to try a role-play.</A>
+<ctxt>The interviewer is selecting a role-play card.</ctxt>
+<A>O K. Please read this card <??></??> and tell me when you are ready to begin. O K?</A>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<B><F>Ahh</F> <.></.> <F>umm</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Hello this is <H pn="A's name">XXX03</H> speaking.</A>
+<B><.></.> <OL><F>Ah</F> O K</OL>.</B>
+<A><OL>Hello</OL>?</A>
+<B><.></.> <F>Ahh</F> hello. <F>Ahh</F> this is <H pn="B's name">XXX01</H> speaking.</B>
+<A>Hi <H pn="B's name">XXX01</H>. How are you?</A>
+<B><F>Um</F> I"m fine.</B>
+<A><F>Hm</F>.</A>
+<B><F>Ummm</F> <..></..> <F>umm</F> <.></.> would you go to watch the movie <F>uhh</F> this weekend?</B>
+<A>Sure.</A>
+<B><..></..> <F>Uhh</F> <..></..> <F>umm</F> <nvs>sniff</nvs> <F>mm</F> do you <.></.> <R>come</R> <.></.> come at <.></.> <R>twelve o'clock</R> <.></.> <laughter>twelve o'clock</laughter>?</B>
+<A><OL><F>Ahhh</F> twelve o'clock, O K</OL>.</A>
+<B><OL><nvs>laughter</nvs> <laughter>O K</laughter></OL></B>
+<A>To where?</A>
+<B>To where? <F>Ahhh</F> where <JP>ka</JP>. <F>Ahh</F> <F>umm</F> in Ginza.</B>
+<A>O K. Ginza at twelve.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B><..></..> <F>Ummm</F> <..></..> <nvs>sniff</nvs> <F>umm</F> I will go there by subway.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Um</F> <.></.> <JP>doushimasuka</JP> do you do?</B>
+<A><F>Hmm</F>. <F>Ahh</F> yes, I think I will go by Ginza Line.</A>
+<B><R>Ginza</R> Ginza <OL>Line</OL>?</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><F>Oh</F> O K. <..></..></B>
+<A>O K. <OL>Then I will</OL></A>
+<B><OL>O K</OL>.</B>
+<A>see you <F>ahh</F> at twelve o'clock</A>
+<B><OL>Twelve o'clock</OL></B>
+<A><OL>in Ginza</OL>. O K?</A>
+<B>O K.</B>
+<A>O K. I'll see you then. O K. <R>Thank you</R> thank you very much.</A>
+</task>
+<followup>
+<A><.></.> Do you sometimes watch movies?</A>
+<B><F>Umm</F> yes.</B>
+<A><F>Hmm</F> what kind of movie do you like?</A>
+<B><..></..> <F>Hmm</F> I like <.></.> <F>umm</F> <.></.> action.</B>
+<A>Action movie.</A>
+<B>Action movie <F>uhh</F>.</B>
+<A><F>Oh</F> why do you like action?</A>
+<B><.></.> <nvs>laughter</nvs> I'm tired</B>
+<A><F>Uh-huh</F>.</A>
+<B><OL><laughter>everyday</laughter></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>so <F>umm</F> I want to <SC>feel fine</SC></B>
+<A><F>Hmmm</F>.</A>
+<B>fine feeling.</B>
+<A><F>Uh-huh</F>. <OL>I see</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. <F>Ahh</F> last thing today, O K <F>umm</F> I would like to show you a picture sequence.</A>
+<ctxt>The interviewer is selecting a picture sequence.</ctxt>
+<A>O K, please make a story from one to six. O K. Please begin your story with "One day last week".</A>
+<B>One day last <OL>week</OL>.</B>
+<A><OL>O K</OL>?</A>
+<B><OL>O K</OL>.</B>
+<A><OL>Because</OL> this is a story that happened before. O K?</A>
+<B>O K.</B>
+<A>O K.</A>
+<B><ctxt>The interviewee is looking at the sequence pictures</ctxt>. Story <F>umm</F> <..></..>. <F>Umm</F> <F>um</F> one day <F>umm</F> a woman <F>umm</F> went to the <.></.> department store last week. And <.></.> <F>umm</F> she bought <.></.> a tie <F>ummm</F> for her husband. <.></.> And <F>umm</F> she paid the money and get <.></.> this thing.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ummm</F> <??></??> <F>ummm</F> <.></.> <F>umm</F> in the way to go home <F>umm</F> she watched <.></.> the advertisement "Final Sale Thirty Percent Off". <F>Ah</F> <..></..> <nvs>sniff</nvs> <F>mh</F> next <F>mm</F> she watched "Fifty Percent Off" <F>ummm</F>. <..></..> <JP>nandaro</JP> <F>um</F> <laughter>and</laughter> <F>umm</F> she go out</B>
+<A><F>Hmmm</F>.</A>
+<B>the department store.</B>
+</task>
+<followup>
+<A><R>O K</R> O K, thank you. Mister <H pn="B's name">XXX01</H> where do you usually buy your clothes?</A>
+<B><OL>Clothes <F>ummm</F></OL></B>
+<A><OL><F>Uhh</F> where</OL></A>
+<B><SC>I bou</SC> <F>ah</F> I buy <..></..> in Iidabashi.</B>
+<A><F>Hmmm</F>.</A>
+<B><F>Umm</F> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><R>Do you</R> <SC>do you</SC></OL> sorry, do you have your favorite shop?</A>
+<B><F>Huh</F>?</B>
+<A><R>Do</R> <R>do you</R> have a favorite shop?</A>
+<B><OL><F>Ahh</F> yes</OL>.</B>
+<A><OL>In Iidabashi</OL>?</A>
+<B>Yes.</B>
+<A><F>Hmmm</F>.</A>
+<B><F>Hmm</F> I am member of Takakyuu.</B>
+<A><F>Uh-huh</F> <F>uh-huh</F>.</A>
+<B><F>Ahhh</F> <nvs>sniff</nvs> <F>umm</F> it's a clothes shop.</B>
+<A><F>Hmm</F> <F>hmm</F>.</A>
+<B>So <F>um</F> I use Takakyuu.</B>
+<A><F>Hmm</F>. Takakyuu has many branches.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Takakyuu</OL>. Why do you go to Iidabashi?</A>
+<B><..></..> <F>Huh</F>? <laughter>Because</laughter> Takakyuu is in Iidabashi</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>umm</F> Shinjyuku</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>mm</F> <R>and</R> and so on.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Umm</F> Iidabashi is <.></.> the most nearest</B>
+<A><F>Ahh</F>.</A>
+<B><SC>my</SC> <SC>to</SC> <JP>kara</JP> from my dormitory.</B>
+<A><F>Ahh</F> I see. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Er</F> we're almost at the end of the interview. <F>Urm</F> do you usually go home late?</A>
+<B>Today?</B>
+<A><F>Ahh</F> recently.</A>
+<B><F>Ahh</F>.</B>
+<A>Usually.</A>
+<B><nvs>sniff</nvs> Yes.</B>
+<A>You do? <F>Hmmm</F> so <SC>what time do you arrive <.></.> home</SC> what time do you get home?</A>
+<B><F>Umm</F> <.></.> <F>umm</F> I get home at twelve.</B>
+<A><OL>Twelve</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Oh</F> that's pretty late.</A>
+<B><nvs>laughter</nvs></B>
+<A>At what time do you start working next morning?</A>
+<B>Next morning?</B>
+<A><F>Huh</F>.</A>
+<B>I will <SC>study</SC> <laughter><F>ahh</F> <SC>study <JP>jya nai</JP></SC></laughter> I will work</B>
+<A><F>Uh-huh</F>.</A>
+<B>at eight thirty.</B>
+<A><F>Ahh-huh</F> so you just go home and sleep?</A>
+<B>Yes.</B>
+<A>Wake up next morning and come to office again.</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><F>Ahh</F> I see. Are you going to be a bit free next month?</A>
+<B><.></.> <F>Uh-huh</F>?</B>
+<A>Will you have more time for yourself</A>
+<B><OL><F>Ahhh</F></OL></B>
+<A><OL>next month</OL>?</A>
+<B><F>Ahh</F> maybe.</B>
+<A>Maybe.</A>
+<B>Yeah. I hope so. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>You hope so</OL>. <R>O K</R>. O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

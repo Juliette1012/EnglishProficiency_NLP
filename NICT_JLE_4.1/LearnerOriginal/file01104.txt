@@ -1,0 +1,157 @@
+<interview>
+<filename>file01104.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>female</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>870</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, sure.</B>
+<A>O K. <F>Ur</F> <H pn="B's name">XXX02</H>, <F>ur</F> do you live near <H pn="others1">XXX03</H>?</A>
+<B><F>Ur</F> yeah, I stay at <F>ur</F> <H pn="others2">XXX04</H> in <H pn="others3">XXX05</H>. That's the business hotel that <SC>my</SC> our company provides for us <SC>for</SC> <SC>during</SC> <R>till</R> <F>mm</F> till maybe June or something.</B>
+<A><F>Mm-hm</F>. So after that, what will you do?</A>
+<B><SC>I</SC> we will have to find our own apartment according to <SC>the</SC> where we're <?>gonna</?> work. <R>We</R> we haven't told yet about where to work from maybe June.</B>
+<A><F>Mm-hm</F>. I see. So where is your home town?</A>
+<B>My home town is <H pn="others4">XXX06</H>, <H pn="others5">XXX07</H> City.</B>
+<A><H pn="others5">XXX07</H>?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. Can you tell me more about <R>your</R> <F>um</F> your town, I mean <R><H pn="others5">XXX07</H></R> <H pn="others5">XXX07</H>?</A>
+<B>Yeah. It's like north part of Kanto area. And <SC>it has <F>ur</F> very</SC> it's very famous for hot spring. And we have a lot of ski resorts. <F>Mm</F>. It's a little country side, but it's very fun to live, it's easy to relax.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes.</B>
+<A>So did you often enjoy skiing?</A>
+<B><laughter>Sometimes</laughter>. Recently <SC>I like</SC> I prefer snowboarding rather than ski.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Snowboard. Yeah, <OL>snowboard</OL>.</B>
+<A><OL>I've never</OL> tried snowboarding.</A>
+<B>It's very fun. Sometimes it's scary, but <R>it</R> it's very fun.</B>
+<A><F>Mhm</F>.</A>
+<B>Yes.</B>
+<A>Can you tell me some of the differences between skiing and snowboarding?</A>
+<B><F>Urr</F> yeah. <F>Well</F> <SC>I'm not good</SC> I'm not very good skier so I wanted to try something different. And when I snowboard, I can try to jump, and like go really fast. But when I ski, I get a little scared. Yeah. I don't know why, but <SC>I think the</SC> I think snowboard fits me very well.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>. I see. So <F>ur</F> when you have free time, what do you usually do?</A>
+<B><F>Ur</F> now I'm working, and so I have free time only on weekends. So I try to see friends from school days, and have some time with them. Yeah. And <F>mhm</F> recently, I go to shopping, and <SC>go</SC> just hung around with them.</B>
+<A><F>Mm-hm</F>. Tell me about the last time you met your friends from school.</A>
+<B>Yeah, I went to Yokohama with my friend. There was a place opened like Akarenga, red brick <SC>stores</SC> store house or something. It's renewal, and <F>urr</F> used to be nothing in the store house, but they put some <F>urr</F> stores, and <SC>opened</SC> open up. <nvs>laughter</nvs> Yeah. That's very nice.</B>
+<A><F>Mm-hm</F>. I see.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now, I'd like to show you a picture. O K. Please describe this picture.</A>
+<B><F>Urr</F> this is the scenery from school. And <SC>teacher is start</SC> teacher is teaching mathematic. And some of the students are really concentrated on the class, but some are not. Some girls are talking, and one boy is looking out of the window. And someone is listening to the music and drinking <F>ur</F> orange juice. <F>Urr</F> <.></.> yeah, <..></..> <F>urr</F> <SC>I</SC> yes, that's all.</B>
+<A>O K.</A>
+</task>
+<followup>
+<A><F>Urm</F> could you compare this classroom with the classroom <F>ur</F> you had when you were a student?</A>
+<B><CO>You mean my high school days or any</CO>.</B>
+<A><??></??> in college.</A>
+<B><F>Mhm</F> one girl in this picture is maybe writing a e-mail <SC>over</SC> <SC>with the</SC> with her cellular phone. And in my school days at university, there were some students using the <R>cell</R> <F>ur</F> cell phone during the class. <SC>That often happens in</SC> that often happened in my classroom. But most of the time, teacher will say something if the students are behaving like this. <laughter>Yeah</laughter>. We didn't have like this small classes. <R>We</R> <SC>we</SC> most of the time, we have the bigger classroom like hundreds students with one professor or something. But I think yeah, students are a little more concentrated on the class, and <R>some</R> some of the students are not. So professors would say something for <SC>the</SC> those who are not concentrated to <laughter>concentrate</laughter>. Yeah.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I'd like to try a role-play.</A>
+<B><F>Mm-hm</F>.</B>
+<A><.></.> O K. <..></..> O K. Please read this. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Uhh</F>. <OL><??></??></OL>.</B>
+<A><OL>O K</OL>? May I help you?</A>
+<B>Excuse me. <F>Urm</F> <SC>I was make</SC> <SC>I made a reservation on</SC> I made a reservation for the train, but <R>I</R> <.></.> I couldn't make it on time, so would you please <R>exchange my</R> <F>uh</F> exchange my ticket, please?</B>
+<A><F>Urm</F> I'm sorry. It's against our policy so we can't change it.</A>
+<B><SC>But</SC> <F>urr</F> <F>ur</F> <SC>so would you</SC> if exchangement <SC>is not</SC> is against policy, <SC>would you</SC> <SC>can I get the refund for</SC> <F>urr</F> <..></..> can I get the refund?</B>
+<A><F>Urm</F> I see your ticket, but with that ticket, it's impossible. I'm sorry we can not give refund.</A>
+<B><.></.> Yeah, <SC>but</SC> <F>urr</F> <..></..> <F>mhm</F> <.></.> I really understand it's against policy, but <SC>pl</SC> <R>would you</R> <F>urr</F> <..></..> <F>mhm</F> would you <R?>please</R?> <?>please</?>?</B>
+<A><F>Well</F> I can't decide.</A>
+<B><F>Ur</F> <F>urr</F>. <.></.></B>
+<A>Why did you miss the train?</A>
+<B><F>Well</F> <..></..> <SC>I was</SC> <F>urr</F> <..></..> <F>uh</F> I can <R>make it</R> make it up? <??></??>. I was just trying to come earlier than the departure time, but the traffic <SC>on the street</SC> <F>uh</F> on the road was really bad today. And I couldn't make it on time <OL>today</OL>.</B>
+<A><OL><F>Mm-hm</F></OL>. <F>Well</F> traffic. <F>Uhm</F>. It means it is not our <laughter>fault</laughter>.</A>
+<B><F>Oh</F> yeah. <CO>But</CO>. <F>Urr</F> <F>mhm</F> <..></..> <F>mm</F> <nvs>laughter</nvs> <..></..> <F>well</F>.</B>
+<A>Shall I call my boss, and ask <OL>if I can exchange the ticket</OL>?</A>
+<B><OL><F>Mm</F> yeah, yes, please</OL>.</B>
+<A>O K. O K. My boss said only this time.</A>
+<B>O K.</B>
+<A>Thank you. <OL>Here is your ticket</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>Here is your new ticket. O K. Please enjoy your trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. So <F>urm</F> now you stay in the <H pn="others3">XXX05</H>?</A>
+<B><F>Mm-hm</F>.</B>
+<A>So do you commute by train, right?</A>
+<B>Yes.</B>
+<A><F>Mm-hm</F>. <F>Ur</F>. <CO>How do you like about</CO>?</A>
+<B><laughter>I don't like</laughter> the commute. But it's not really a long time, so I like. It's less than ten minutes ride so <R>I can ha</R> I can handle <SC>this</SC> that things.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Yes. But <R>if</R> if that comes to like one hour or thirty minutes, <SC>I would be</SC> I will not be able to do everyday every week.</B>
+<A><F>Mm-hm</F>. So when you were a student, how was the commuting?</A>
+<B><F>Well</F> I was living close to my university so I was going school by bicycle.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><??></??></OL> there was no commute, and I can rest sometime. <CO>And I</CO>. Yeah.</B>
+<A><F>Mm-hm</F>. <OL>I see</OL>.</A>
+<B><OL>And I didn't</OL> use any <F>urr</F> <??></??> transportation at that time.</B>
+<A>O K.</A>
+<B>So that's why I couldn't imagine <OL><laughter>the situation</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><SC>I was like</SC> <R>I</R> <R>I don't</R> I don't <laughter><??></??></laughter> <??></??>.</B>
+<A><F>Mm-hm</F>. I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, I'd like to show you a picture. O K. <F>Ur</F> this is the picture story, and this happened last week. So please make a story, and start with, "One day last week," O K? Please start from here like this. O K? Please start.</A>
+<B>One day last week, I and my boyfriend were walking on the street <SC>going to</SC> going back home. And it was raining, and it was a little cold day. Anyway <SC>while I was wal</SC> <F>urr</F> while we were walking, my boyfriend heard <F>ur</F> <SC>little voice</SC> little noise. And we found a stray cats on the street. <SC>It was</SC> <F>urr</F> I felt pity <SC>on him</SC> on her so <SC>I picked</SC> I hold him, and that came out of the box. And I asked my boyfriend to take her back to our home together with us. But my boyfriend said no. But <R>I asked</R> I asked him again and again, and he said O K for finally. And <SC>we take her together, <.></.> and we were</SC> we take her together, and <F>ur</F> decided to <R>have</R> have her <R>as our</R> as our new member of our house.</B>
+<A><F>Mm-hm</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Did you ever have any pets?</A>
+<B>Yes. <SC>I have a</SC> in my <SC>home</SC> back home in <H pn="others4">XXX06</H>, we have a dog. And he's living almost over fifteen years. He lives a long time.</B>
+<A><F>Uhm</F>. Never had any pets so can you tell me about <F>um</F> some of the advantages to have a dog?</A>
+<B><F>Mm</F> <F>well</F> we started to having him <SC>since <F>ur</F> in my</SC> when I was like seven years old or eight years old. Before having him, <SC>I was really scary</SC> <SC>I felt</SC> I was afraid of at any animals. <SC>I hate</SC> I hated dogs. I hated cats. And I hated any other animals. But I got used to him. I bring with him and taking him to a walk. That's my advantage. And all our family, he barks you <R>out</R> outcomers so <SC>he</SC> it's very <R>good</R> good at <F>mm</F> guarding our house.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Yeah. But he sometimes bark too much, and yeah, and one time <SC>he bit on the people</SC> <F>ur</F> he bit on my uncle, and <SC>that was not</SC> that was the disadvantage. But we love him, and we really enjoy having him. Yes.</B>
+<A>When your dog <F>ur</F> bit your uncle, what did you do?</A>
+<B><F>Well</F> <SC>he</SC> my uncle, he didn't really like our dog. So maybe what happened was <R>he</R> <F>mm</F> <SC>he found</SC> he felt my uncle's feeling, <R>and</R> and <SC>my uncle was not really</SC> <F>ur</F> <.></.> <SC>he was</SC> <SC>he didn't really</SC> he didn't often come to our house. <SC>He wasn't</SC> he was new to our house at that time so he thought he was outsider, <F>um</F> not outsider, but he was dangerous. <SC>He thought</SC> our dog thought my uncle was dangerous for our <R>fami</R> family or our house. So that's what happened, I think. And <SC>I</SC> my parents <SC>took him to</SC> took my uncle to hospital, and <SC>I</SC> we all told our dog that was the bad thing. And <SC>he taugh</SC> we taught him not to do anymore.</B>
+<A><F>Mhm</F>. I see. What do you think of the people who treat their pets badly?</A>
+<B><F>Well</F> I think <SC>they don't have</SC> they shouldn't have pets in that way. <SC>Pets are not to</SC> I don't think pets are not to abuse. <SC>They should</SC> <F>mm</F> yes, having pets is very <R>ad</R> advantage for <F>urm</F> teaching little children to love something, <R>not</R> not something, but <R>some</R> some animal or some other existence. But it's not to like beat them or abuse them. So if they don't really like to have pets or <F>mm</F> just to free the stress and hit them, they shouldn't have that way. Yeah.</B>
+<A><F>Mhm</F>. I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. This is <SC>the end</SC> almost end of the interview. So <F>ur</F> do you have any plans after work today?</A>
+<B>For today?</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Well</F> from afternoon, we're having the English classes. And after the class ends, we are having a small project, and we're gonna interview <R>some</R> some older people from our company</B>
+<A><F>Mm-hm</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><SC>for my</SC> for a project</OL>.</B>
+<A><laughter>You're <?>being a</?> interviewer</laughter>.</A>
+<B><F>Mm-hm</F>. <OL>Yeah</OL>.</B>
+<A><OL>O K</OL>. Please enjoy your work.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

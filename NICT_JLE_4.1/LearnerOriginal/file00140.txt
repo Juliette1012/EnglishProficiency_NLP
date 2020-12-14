@@ -1,0 +1,176 @@
+<interview>
+<filename>file00140.txt</filename>
+
+<head version="1.3">
+<date>2000-07-18</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. <F>Urm</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, nice to meet <OL>you</OL>.</A>
+<B><OL><H pn="B's name">XXX02</H></OL>. Nice to meet you, too.</B>
+<A><H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Er</F> I'm <F>er</F> so <F>urmm</F> tired because <F>uhm</F> today <F>uhm</F> morning <F>er</F> very early wake up. <.></.> <nvs>laughter</nvs> And English is <F>err</F> <.></.> <F>uhm</F> not <F>urmm</F> <.></.> <F>eh</F> <JP>naretenaitte</JP> <F>erm</F> <.></.> <JP>suimasen</JP>.</B>
+<A>That's O K.</A>
+<B>Yes.</B>
+<A>So why did you have to wake up so early today?</A>
+<B><F>Er</F> because <F>err</F> <.></.> yesterday, I working <F>err</F> in convenience store.</B>
+<A><nvs>laughter</nvs> O K.</A>
+<B><JP>hai</JP>.</B>
+<A>So you have a part-time job?</A>
+<B>Yes, so. <.></.></B>
+<A>So <F>er</F> what do you do now other than convenience store?</A>
+<B><F>Err</F> convenience store <R>i</R> is <F>err</F> <.></.> very <F>err</F> <.></.> my fun <F>err</F> because <F>err</F> <SC>many <F>uhm</F> people</SC> <.></.> <F>urr</F> <R>I</R> I can meet many people.</B>
+<A>I see. And you enjoy your work.</A>
+<B><OL>Yes</OL>. <JP>Hai</JP>.</B>
+<A><OL>O K</OL>. So <H pn="B's name">XXX02</H>, what are you doing here at <H pn="company name1">XXX03</H>?</A>
+<B><F>Err</F> <.></.> <R>I</R> <SC>I want to</SC> <F>uhm</F> I wanted <JP>shosha man</JP> <F>mhm</F> because <.></.> <F>eh</F> I have image <.></.> <F>mhmm</F> global business.</B>
+<A>O K.</A>
+<B><.></.> So <.></.> <F>uhm</F> <H pn="company name1">XXX03</H> <F>uhmm</F> <.></.> is <R>big</R> big company.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <laughter><R>Yes</R></laughter>. Yes.</B>
+<A>I see. So you are a student now?</A>
+<B>Yes, I am student now.</B>
+<A>Then what do you study?</A>
+<B><SC>I study <F>uhm</F> law</SC> I'm in <F>urr</F> <.></.> study of law. <.></.> <F>Er</F> <F>uhm</F> And <F>urrr</F> <.></.> <nvs>laughter</nvs> so <F>er</F> <.></.> English <JP>wa</JP> is not <.></.> speaking. <F>Uhm</F>. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. <OL>O K</OL>.</A>
+<B><JP><OL><R>hai</R></OL> hai</JP>.</B>
+<A><H pn="B's name">XXX02</H>, so can you tell me a little bit about your professor?</A>
+<B><.></.> <F>Err</F> <.></.> <F>eh</F> pardon?</B>
+<A>Professor.</A>
+<B>Professor.</B>
+<A><R>About</R> about professor.</A>
+<B><OL>Professor</OL>.</B>
+<A><OL>Can you tell me</OL>?</A>
+<B>Professor. Professor. <F>Mhm</F> <R>I</R> <.></.> I can not understand professor saying <.></.> because it is very difficult <.></.> <F>urr</F> <..></..> <laughter><?>this</?></laughter> <?>you know</?>.</B>
+<A><F>Oh</F> O K. <H pn="B's name">XXX02</H>, <F>er</F> by the way, do you have any hobbies?</A>
+<B>Hobbies. Yes. <SC>I'm</SC> <.></.> <F>err</F> I like playing rugby sports. So <.></.> <SC>I</SC> <.></.> <F>err</F> <.></.> <R>I'm</R> I'm in <H pn="school name1">XXX04</H> Rugby Football Club.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>And</R> and <.></.> train every day.</B>
+<A><F>Oh</F> O K.</A>
+<B>It is my hobby.</B>
+<A>Sounds great. All right.</A>
+<B><OL>Thank you</OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL>Now</OL>, I'm going to show you a picture.</A>
+<B>Yes.</B>
+<A>O K. Please take a look at this picture. And can you describe this picture for me?</A>
+<B>Yes. <F>Err</F> <.></.> there is a girl. And she is <R>sitti</R> sitting in front of <F>err</F> <.></.> P C. And <.></.> there is <F>uhm</F> <SC>a dogs an</SC> a dog and a cat lying <SC>near she</SC> <F>er</F> near her. <F>Err</F> and <.></.> <F>err</F> <.></.> <F>mhm</F> there is <F>er</F> audio set. <R>And</R> <.></.> and <.></.> this room is very clean. And <..></..> <F>mm</F> <F>mhm</F> <..></..> <F>err</F> <..></..> <SC>this is</SC> this picture is in June. <F>Err</F> <.></.> and three o'clock.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K. So <H pn="B's name">XXX02</H>, can you compare this room with your own room?</A>
+<B><F>Err</F> <.></.> this room is <.></.> <F>mhmm</F> <.></.> larger than my room. <F>Er</F> and <.></.> <F>err</F> I have no P C, but she have.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> <.></.> and <F>uhm</F> animals. <.></.> <F>Err</F> <R>I</R> <.></.> <F>er</F> I <F>uhm</F> had a dog, but now is <F>uhm</F> <..></..> <R>no</R> no dog.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Oh</F> O K. <F>Well</F> I see. Thank you. Now, we're doing a role play. <F>Well</F> I want you to read this card, and after that, we're going to have a conversation. <OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>So if you're ready, I will start.</A>
+<B><JP>hai</JP>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>I'm ready.</B>
+<A>O K. Hi, may I help you, sir?</A>
+<B><F>Er</F> <R>I</R> I want to buy <F>urr</F> a <F>uhm</F> <.></.> T-shirt.</B>
+<A>T-shirt?</A>
+<B>T-shirt.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>erm</F> <R>I</R> I like <F>uhm</F> blue color. Then <F>uhm</F> <.></.> please <F>er</F> take here <OL>blue T-shirt</OL>.</B>
+<A><OL><F>Oh</F></OL> O K. Now we have many blue T-shirts here.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>So</OL> you can take a look.</A>
+<B><F>Err</F> <.></.> <SC>I</SC> <.></.> <F>uhm</F> I'm <F>uhm</F> big body <F>uhm</F> so <F>urr</F> large one, please.</B>
+<A><F>Oh</F> O K. How about this one?</A>
+<B><F>Oh</F> <F>uhmm</F> <F>ur</F> <R>it is</R> <F>uhm</F> <.></.> <F>uhm</F> it is <F>urr</F> very good, but <F>urm</F> another one, please.</B>
+<A><F>Oh</F> O K. Let me check. <F>Uhm</F>. How about this one?</A>
+<B><F>Er</F> <F>er</F> this is very <.></.> good, and I'll take it.</B>
+<A><F>Oh</F> O K. <F>Well</F> how would you like to pay?</A>
+<B><F>Err</F> <.></.> <F>err</F> I pay <.></.> by cash.</B>
+<A>All right. Five thousand yen.</A>
+<B><F>Oh</F> <R>five</R> <F>er</F> <.></.> <F>err</F> <.></.> five thousand yen.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> too expensive.</B>
+<A><nvs>laughter</nvs></A>
+<B><.></.> <F>Uhm</F> so <.></.> <F>urr</F> <..></..> <F>urr</F> <R>low</R> low, please.</B>
+<A><F>Oh</F> O K. So how about this one? It's two thousand.</A>
+<B>Two thousand?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. This, <F>mm</F> please.</B>
+<A>All right. Here you go.</A>
+<B>Thank you.</B>
+<A>Thank you. Have a nice day. <OL>Good</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+</task>
+<followup>
+<A>O K. So role play is over. <SC>Wh</SC> <F>er</F> O K, where do you go when you buy T-shirts?</A>
+<B><F>Er</F> <R>I</R> <.></.> I go <F>uhm</F> <.></.> so <JP><F>eeto</F></JP> <F>urr</F> ground pitch <.></.> <R>wear</R> wearing <SC>T-shirt</SC> the T-shirt. And I <.></.> watch <F>uhmm</F> the <SC>sports</SC> <F>ur</F> rugby football game. <.></.> <OL>Yeah</OL>.</B>
+<A><F>Uh-huh</F>. <.></.> So what <OL><R>type</R></OL> type of T-shirts do you like?</A>
+<B><.></.> <F>Eh</F>? <R>Par</R> Pardon?</B>
+<A><R>What</R> what kind of T-shirt do you like?</A>
+<B><F>Urr</F> <F>uhm</F> <R>tough</R> <F>er</F> tough one.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Ah</F> O K. I see. Thank you. Now finally, I'm going to show you another picture. Now I'd like you to make a short story about this picture.</A>
+<B>Yes.</B>
+<A>And the story happened last week. So please start your story with, "One day last week".</A>
+<B><F>Err</F>.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<A>Just a short story is O K.</A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL>Your</OL> own story.</A>
+<B><F>Ah</F> my own story?</B>
+<A>About this picture.</A>
+<B><.></.> <F>Err</F> <.></.> <JP><F>eeto</F></JP> I'm he?</B>
+<A>If you like.</A>
+<B><F>Er</F> <F>Err</F> <.></.> <F>er</F> <R>one</R> <F>urm</F> one day last week, <R>I</R> I went to <F>er</F> restaurant with my father. <R>And</R> <.></.> <F>err</F> <.></.> <F>errr</F> <.></.> and <F>uhm</F> <.></.> <F>uhmm</F> <R>eat</R> eat <F>err</F> fish, and <F>er</F> drink beer. <F>Er</F> <R>I</R> <F>uhm</F> <.></.> I eat <SC>very</SC> <F>uhm</F> <.></.> <R>a</R> a lot of <.></.> <F>uhm</F> <SC>fish</SC> fishes, and I <F>uhm</F> <..></..> <F>uhm</F> full <F>uhm</F> <.></.> stomach. <F>Urr</F> and <F>urr</F> my father pays <.></.> so <SC>I fine</SC> I'm fine. Then <F>uhm</F> <.></.> <F>urmm</F> <R>I</R> <..></..> I <F>urmm</F> bye-bye say my father.</B>
+</task>
+<followup>
+<A>I see.</A>
+<B><JP>Hai</JP></B>
+<A>O K. <H pn="B's name">XXX02</H>, you said you go to <H pn="school name1">XXX04</H> right?</A>
+<B>Yes.</B>
+<A>O K. So can you tell me about special products from <H pn="others1">XXX05</H>?</A>
+<B><F>Err</F> special products <.></.> <H pn="others1">XXX05</H> is <F>uhm</F> <.></.> <F>err</F> milk.</B>
+<A><F>Oh</F> O K.</A>
+<B><F>Um</F> <F>err</F> <H pn="company name2">XXX06</H></B>
+<A><nvs>laughter</nvs></A>
+<B><.></.> is special product <OL><H pn="others1">XXX05</H></OL>, too.</B>
+<A><OL><F>Oh</F></OL> So how do you feel about that? <OL>Are you disappointed</OL>?</A>
+<B><OL><F>Err</F></OL> <R>I</R> <F>uhm</F> I live in <H pn="others2">XXX07</H> so <F>uhm</F> <.></.> <F>uhm</F> and <H pn="company name2">XXX06</H> is in <H pn="others2">XXX07</H> so <F>uhm</F> <.></.> <JP><F>eeto</F></JP> <JP>zannen tte nante iundesuka</JP>?</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Oh</F> that's O K. I see. O K. Now <H pn="B's name">XXX02</H>, we are almost at the end of the interview. But what are you going to do after this interview?</A>
+<B><F>Eh</F> After this?</B>
+<A><F>Uhm</F>.</A>
+<B>After this, I <F>uhm</F> eat lunch, <.></.> and <.></.> TOEIC test.</B>
+<A><F>Oh</F> you're gonna take a TOEIC test.</A>
+<B>Yes.</B>
+<A><F>Oh</F> O K. So enjoy your lunch, and please <F>er</F> try hard on your TOEIC test.</A>
+<B><F>Er</F> thank you.</B>
+<A><nvs>laughter</nvs> Thanks for coming to take <R>thi</R> this interview test. <OL>Thank you very much</OL>.</A>
+<B><OL>Yes</OL>. Thank you very much.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,376 @@
+<interview>
+<filename>file01080.txt</filename>
+
+<head version="1.3">
+<date>2002-03-11</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC>760</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F>. People call me <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>? O K. <H pn="B's name">XXX02</H>, <F>ah</F> how are you today?</A>
+<B><F>Ah</F> <.></.> so-so.</B>
+<A><nvs>laughter</nvs> <OL>Are you</OL> busy these days?</A>
+<B><OL>Yeah</OL>. Yes.</B>
+<A><F>Hmm</F>. Why <OL>are you so busy</OL>?</A>
+<B><OL>Very much</OL>. Because <SC>we will have</SC> we will be having show,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><?>for</?> microwave's <.></.></B>
+<A><F>Hm</F>.</A>
+<B>products.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>That's why I have to get ready for that.</B>
+<A><F>Hum</F>. <CO>So</CO>.</A>
+<B><?>That makes me busy</?>.</B>
+<A><F>Oh</F> <OL><?>busy</?></OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>So are you tired?</A>
+<B><nvs>sigh</nvs> <F>Oh</F> yeah.</B>
+<A><F>Hum</F>.</A>
+<B>And it's Monday, today. <CO>So</CO>.</B>
+<A><F>Nn</F>.</A>
+<B><CO>Usually</CO>.</B>
+<A>What do you usually do to relax?</A>
+<B>To relax? <F>Oh</F>. Sleep.</B>
+<A><laughter>Sleep</laughter>?</A>
+<B>Yes.</B>
+<A><F>Ahm</F>. Can you tell me abut your hobbies?</A>
+<B>Yeah. <..></..> My hobby is reading,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>some history book.</B>
+<A>History <OL>book</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>For example?</A>
+<B>Chinese history, Japanese history.</B>
+<A><F>Hum</F>. <F>Um</F>. <F>Ah</F> what's so interesting <laughter>about reading history</laughter>?</A>
+<B><F>Oh</F>. <.></.> Why?</B>
+<A><F>N</F>.</A>
+<B>It's kind of difficult question. But <R>I</R> I can learn something from history.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>Then I can develop those <?>issues</?> <.></.> for my life.</B>
+<A><F>Hum</F>. In what way?</A>
+<B><..></..> Like, <..></..> they have <.></.> good phrase, <.></.> then <.></.> I like to study these phrases.</B>
+<A><F>Hum</F> I see. Do you often go out with your friends?</A>
+<B><nvs>sniff</nvs> In <H pn="others1">XXX03</H>?</B>
+<A><laughter><F>Nn</F> in <H pn="others1">XXX03</H></laughter>.</A>
+<B><.></.> <CO>This is my first time to live in <H pn="others1">XXX03</H> so</CO>.</B>
+<A><F>Oh</F> <OL>yeah</OL>.</A>
+<B><OL>Yeah</OL>. <R>I</R> I am stranger. <OL><CO>So</CO></OL>.</B>
+<A><OL><F>Oh</F></OL> <OL>really</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>How do you like it, <OL>living in <H pn="others1">XXX03</H></OL>?</A>
+<B><OL>How do I like it</OL>? <F>Ah</F> it's O K. Pretty similar to <H pn="others2">XXX04</H>.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Well</F>. It's similar. But it's totally different,</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><R>because</R></OL> because every <.></.> big city is, yes, very similar from outside, but if you get into inside, it's different.</B>
+<A>O K.</A>
+<B>I can feel.</B>
+<A><F>Um</F>.</A>
+<B>I cannot describe, but I can feel it.</B>
+<A><F>Mhm-huh</F>. You said <H pn="others2">XXX04</H>.</A>
+<B>Yes.</B>
+<A>Why?</A>
+<B><F>Ah</F> I used to live in <H pn="others2">XXX04</H>.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Yeah.</B>
+<A>Can you tell me more about that?</A>
+<B><R>Wh</R> what? About <H pn="others2">XXX04</H>?</B>
+<A>Yeah.</A>
+<B><nvs>sniff</nvs></B>
+<A><R>Why</R></A>
+<B><OL>Why</OL>?</B>
+<A><OL>why</OL> <OL>did you go to <H pn="others2">XXX04</H></OL>?</A>
+<B><OL><F>Ah</F></OL>. I went to school,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>in <H pn="others2">XXX04</H>. But not in <H pn="others3">XXX05</H>.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><H pn="others4">XXX06</H>.</B>
+<A><H pn="others4">XXX06</H>?</A>
+<B>Yes. I studied in <H pn="others4">XXX06</H>. About two hours from <H pn="others3">XXX05</H>.</B>
+<A><F>Hum</F>. <.></.> <nvs>laughter</nvs> <laughter>It's hard for me to imagine</laughter>.</A>
+<B><F>Ah</F> O K. So, yeah it's a countryside. <?>It's like town</?>. <..></..> I can't describe this. <.></.> <R>It's</R> it's just like Hokkaido area in Japan.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>Many farms and <.></.> horses, cows.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Mhm-huh</F>. I see. O K. Now,</A>
+<B><OL>Right</OL>.</B>
+<A><laughter><OL><R>I'd</R></OL> I'd like you to describe this picture</laughter>.</A>
+<B><nvs>sniff</nvs> You mean describe this?</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Mhm-huh</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>Maybe <.></.> it's Saturday or Sunday. And <.></.> she doesn't work today. Or <.></.> she is typing something <..></..> for her job. <..></..> <F>Hum</F>. <..></..> Maybe, yeah, <.></.> she likes to talk to like kitty and dog. <..></..> <SC>So</SC> maybe sometimes <R>she</R> she does e-mail to her friends.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><nvs>sniff</nvs> <..></..> Maybe this is a way <..></..> to relax.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>Listening to music, check her e-mail, talk to her friends. <..></..> She doesn't like to go to outside.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><??></??></OL> is like me.</B>
+<A><nvs>laughter</nvs> O K. Thank you very much.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A><R>Do you</R> <F>eh</F> do you live alone now?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B><??></??> my parents live in <.></.> <H pn="others5">XXX07</H>.</B>
+<A><H pn="others5">XXX07</H>.</A>
+<B>Yes.</B>
+<A>How do you enjoy living alone?</A>
+<B><nvs>laughter</nvs> Enjoy. <.></.> <F>Oh</F> <F>well</F>. I like to cook.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>Yeah</OL>. So if I stay in my hometown with my parents,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>they do everything for me. So it's kind of boring.</B>
+<A><nvs>laughter</nvs></A>
+<B>I can do, <.></.> I don't say everything but I can try,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>so, <.></.> <?>maybe</?>, that might gives me <.></.> <??></??>. <CO>So</CO>.</B>
+<A><F>Um</F>. Do you have any plans to invite <SC>your friend</SC> <F>erm</F> I mean coworkers to your place?</A>
+<B><nvs>sniff</nvs> Yeah. <nvs>sniff</nvs></B>
+<A><OL>Will you have a party</OL>?</A>
+<B><OL>If I have a chance</OL>. Is it pet, that means?</B>
+<A>I mean <R>par</R> party.</A>
+<B>Party?</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Oh</F> my apartment is very tiny. So I can't have a party.</B>
+<A><laughter><F>Oh</F> <OL>really</OL></laughter>.</A>
+<B><OL>Yes</OL>.</B>
+<A><laughter>O K, <OL>I see</OL></laughter>.</A>
+<B><OL>Yes</OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, I'd like to try a role-play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K. Please read this. And when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Examinee means you.</A>
+<B><??></??> <F>Ah</F> <F>ah</F>.</B>
+<ctxt>The interviewee is still reading the card and thinking.</ctxt>
+<B>From where to New York? <.></.> Doesn't <OL>matter</OL>?</B>
+<A><OL><??></??> Sure</OL>. Doesn't matter.</A>
+<B>All right.</B>
+<A>Ready? Can I help you?</A>
+<B>Yes, please. I would like to go to New York City.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>How much <.></.> for the ticket?</B>
+<A><F>Ah</F> it depends on the train. We have many trains.</A>
+<B>The cheapest one, please.</B>
+<A>Cheapest one?</A>
+<B>Yes.</B>
+<A><F>Ah</F> it's thirty-five dollars.</A>
+<B>Thirty-five? <F>Ah</F>. Is that cheapest?</B>
+<A>The cheapest.</A>
+<B><F>Uu</F>. All right. So what time is the train coming?</B>
+<A><F>Ahm</F>. You mean the <laughter>cheapest train</laughter>?</A>
+<B>Yes.</B>
+<A><F>Ah</F>. It will leave in fifteen minutes.</A>
+<B>Fifteen minutes?</B>
+<A><OL>Fifteen minutes</OL>.</A>
+<B><OL>All right</OL>. <CO><OL>So</OL></CO>.</B>
+<A><OL>But it's local</OL>.</A>
+<B><F>Hum</F>.</B>
+<A>It is very slow.</A>
+<B>How long does it take?</B>
+<A><F>Ah</F> four hours to New York.</A>
+<B><F>Uu</F>. My God. So how about the second cheapest one?</B>
+<A>That's an express train.</A>
+<B><F>Mhm-huh</F>. <OL>How much is it</OL>?</B>
+<A><OL>Forty-five dollars</OL>.</A>
+<B>Forty-five. <F>Ah</F> all right. I'll take that, so what time <??></??> there?</B>
+<A><F>Ah</F> in thirty-minutes.</A>
+<B>Thirty minutes.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>All right</OL>. Can you tell me where is the convenience store or something?</B>
+<A>Convenience <OL>store</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>Around here?</A>
+<B><F>Ah-huh</F>.</B>
+<A><F>Ahm</F>. <F>Well</F> <F>ah</F> but it takes thirty minutes to get to the convenience store, is that O K?</A>
+<B><F>Oh</F> my God. <CO>So</CO>.</B>
+<A>It's a small station.</A>
+<B>Yeah. I don't wanna miss the express train. So can I buy some soda or chips in the train?</B>
+<A><F>Well</F> <F>ahm</F> I don't think so.</A>
+<B><F>Oh</F>. <nvs>sniff</nvs> So I have to wait until I get to New York?</B>
+<A>Yeah, that's a good idea.</A>
+<B><F>Ah</F> it's expensive in New York City.</B>
+<A>Right.</A>
+<B><F>Wow</F>. All right, so can you tell me what is <.></.> the good place <.></.> where I can see in New York City?</B>
+<A>New York?</A>
+<B>Yes.</B>
+<A>Sorry, <laughter><R>I</R> <R>I</R> <SC>I don't</SC> I've never been to <OL>New York</OL></laughter>.</A>
+<B><OL><laughter><F>Oh</F> really</laughter></OL>. <?>But</?> <R>you</R> you are working at the station, so</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I thought <R>you</R> you must go there. <.></.> So, <.></.> <nvs>sniff</nvs> do you have any guide book or something for New York City?</B>
+<A><F>Oh</F> maybe you can get it at the station in New York.</A>
+<B><F>Oh</F>.</B>
+<A>O K? <CO><OL><laughter>So</laughter></OL></CO>.</A>
+<B><OL><?><F>Oh</F> that would</?> be a</OL> good idea.</B>
+<A>So do you wanna ticket?</A>
+<B>Yes.</B>
+<A>For express train?</A>
+<B>Yeah.</B>
+<A>O K. Here you go. <OL>Have a nice trip to New York</OL>.</A>
+<B><OL>Thanks</OL>. Thanks.</B>
+</task>
+<followup>
+<A>O K. So, <F>ahm</F> <SC>right now, you are</SC> <F>ah</F> <F>er</F> do you commute by train in <H pn="others1">XXX03</H>?</A>
+<B>Yes. I have to take <H pn="others6">XXX08</H>.</B>
+<A><H pn="others6">XXX08</H></A>
+<B>Yes.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>I</OL> really hate it, you know. Usually, <.></.> some Japanese people hit my shoulder, my back,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>don't even say, "Sorry, excuse me.". That's my stress right now.</B>
+<A><F>Hmm</F>.</A>
+<B>That's the only one stress. <nvs>sniff</nvs></B>
+<A>Tell me <R>about</R> about the worst experience on the train.</A>
+<B>Worst.</B>
+<A><F>Nn</F>.</A>
+<B><F>Oh</F>.</B>
+<A>You've ever had.</A>
+<B>People started to fighting</B>
+<A><F>Nn</F>.</A>
+<B>in the train.</B>
+<A><OL><F>Nn</F></OL>?</A>
+<B><OL>Yeah</OL>. <.></.> Yeah, two guys and one of them pushed the other one. <F>Eh</F>. That guy hit <??></??> and step on my <.></.> shoe,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>but, yeah, he didn't care about that, so</B>
+<A><F>Mh-hmm</F>.</A>
+<B><H pn="others1">XXX03</H> is dangerous <OL>that's what I thought</OL>.</B>
+<A><OL><R>Wh</R> what did you do</OL> after <OL>someone stepped on the <.></.> foot</OL>?</A>
+<B><CO><OL><SC>I accepted</SC> I</OL></CO>. You know. I push him back.</B>
+<A><nvs>laughter</nvs></A>
+<B><R>When I</R> when I was in America,</B>
+<A><F>Hm</F>.</A>
+<B>I was thinking, you know, Japanese people are always polite.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>Yeah. <.></.> Everyone is nice to <?>me</?>.</B>
+<A><F>Hmm</F>.</A>
+<B><R>But</R> but when I came back,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>especially <SC>in</SC> <F>um</F> when I stay in those crowded train,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><nvs>sniff</nvs> <?>you know</?>, <R?>I</R?> <R>I was wrong</R> I was wrong. That's right. <OL><nvs>laughter</nvs></OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><nvs>laughter</nvs></OL> O K. Now, I would like to show you another picture. So, <SC>it's a</SC> that's it. <F>Um</F>. <F>Er</F> this is a picture story.</A>
+<B>All right.</B>
+<A>And this happened last week. <OL>O K</OL>?</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>Last week</OL>.</A>
+<B><OL><F>Ah</F></OL>. <nvs>sniff</nvs></B>
+<A>So, please make a story and start with "One day last week". And please start from here like this. O K?</A>
+<B>So</B>
+<A><OL>Just make a story</OL>.</A>
+<B><OL>all right</OL>. <SC>I have to be</SC> <F>ah</F> I have to make story.</B>
+<A>Story. <OL>As you like</OL>.</A>
+<B><OL>Not just <?>speak</?></OL> here. Yeah.</B>
+<A><F>Hum</F>. Right. <?>You're alright</?>.</A>
+<B><nvs>sniff</nvs></B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Um</F>. All right. <F>Ah</F>. It's raining today. "Listen, do you hear something?". "Do you think so?". "Yeah. Look at this box. <.></.> This is a cat.". "<F>Oh</F> he is so poor. <F>Oh</F> I see.". "<F>Oh</F> please. I wanna have this cat.". "<F>Well</F>.". "<F>Oh</F> please, <??></??> <?>Please</?>. I'll take care of him everyday.". "O K. You promise me?". "Yes, I will.". "All right.". "Thank you very much. Let's go home. Give him some milk.". <.></.> "<?>Damn</?>.". <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A><nvs>laughter</nvs> O K.</A>
+<B><OL><nvs>sniff</nvs></OL></B>
+<A><OL><F>Ahm</F></OL>. Did you ever have any pets?</A>
+<B>Yes. I have a cat.</B>
+<A><F>Oh</F> cat?</A>
+<B>Yes.</B>
+<A>How did you get cat?</A>
+<B>How?</B>
+<A>How.</A>
+<B><.></.> He was there when I was born. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F></OL> really.</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B>Then, <.></.> he died when I was <R>si</R> sixth grades or so.</B>
+<A><F>Hum</F>.</A>
+<B>He <?>lived</?> pretty much long.</B>
+<A><F>Mhm-huh</F>. And after <OL><??></??></OL>?</A>
+<B><OL><?>I have never</?></OL> because at that time,</B>
+<A><F>Hmm</F>.</A>
+<B>I cried so much and, <.></.> yeah, I just can't forget that kind of feeling. <.></.> I loved him, and I took care of him a lot, but <F>er</F> when he died, <.></.> I feel like empty so, <SC>I didn't</SC> I don't wanna feel anymore. <OL><nvs>sniff</nvs></OL></B>
+<A><OL><F>Um</F></OL>. I see. <?>All right</?>. I've never had pet.</A>
+<B>Really?</B>
+<A>So <F>ahm</F> <.></.> please tell me</A>
+<B><F>Mh-hmm</F>.</B>
+<A>about some of the advantages <SC>to have a cat</SC> to keep a cat.</A>
+<B><F>Um</F>. <.></.> Because I don't like dog.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> When dog <.></.> gets hungry, <.></.> they do, <R>like</R> like, you know, "Give me something give me something," but cats, they don't do that. <CO>So</CO>.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> Sometimes they, you know, touch my foot,</B>
+<A><F>Hm</F>.</A>
+<B>then but usually <.></.> when I call him, "Come here, come here,"</B>
+<A><F>Mh-hmm</F>.</A>
+<B>he watches me but he ignores me.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>That's why I like <??></??>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>You think I am strange</OL>? But you know. That's why I like cat.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><.></.> Cat is better than dog. <OL><nvs>laughter</nvs></OL></B>
+<A><nvs><F>Um</F></nvs>. I see.</A>
+<B>I know people say, "<F>Oh</F> you are crazy, <SC?>as</SC?> you are so strange.". But,</B>
+<A><F>Hmm</F>.</A>
+<B><.></.> it's been so. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mhm-huh</F>. O K. <F>Ahm</F> this is almost the end of the interview.</A>
+<B>All right.</B>
+<A>O K. Today is Monday. How was your weekend? What did you do?</A>
+<B><F>Ha</F>. Friday night,</B>
+<A><F>Mhm-huh</F>.</A>
+<B>I drunk too much.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And when I get home, it was <.></.> <F>ah</F> ten o'clock A. M. on <SC>Sunday</SC> <F>ah</F> Saturday.</B>
+<A><laughter><F>Mhm-huh</F></laughter>.</A>
+<B><nvs>laughter</nvs> Then, I couldn't sleep because I had to go to Yokohama with my friend.</B>
+<A><F>Hm</F>.</A>
+<B>So <R>I</R> <.></.> I play <.></.> at Yokohama with my friend until <.></.> <R>a</R> about evening.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Then, I had dinner with my friend. Then I get home around <.></.> eight or nine.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>I <.></.> went to bed, yes.</B>
+<A><nvs>laughter</nvs></A>
+<B>And woke up, <R>that</R> <laughter>that was four o'clock</laughter>.</B>
+<A><laughter><F>Mhm-huh</F></laughter>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>P M on Sunday</laughter></OL>.</B>
+<A><OL><F>Mhm-huh</F></OL>.</A>
+<B><OL>So</OL> didn't do almost nothing.</B>
+<A><F>Ah-huh</F> that's why you are tired today.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> I see.</A>
+<B>Sorry. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <laughter>O K</laughter>. Thank you very much. O K? Thank you.</A>
+<B>Yeah.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

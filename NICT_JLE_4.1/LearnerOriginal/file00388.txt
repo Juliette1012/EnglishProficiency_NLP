@@ -1,0 +1,101 @@
+<interview>
+<filename>file00388.txt</filename>
+
+<head version="1.3">
+<date>2001-02-25</date>
+<sex>female</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>575</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Erm</F> hello. My name is <H pn="A's name">XXX01</H>. So what's your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B><F>Urrr</F> fine. <nvs>laughter</nvs> <??></??> fine.</B>
+<A>O K. So <F>er</F> today is really sunny day.</A>
+<B>Yes.</B>
+<A><F>Urm</F>. Did you have any plan <SC>i</SC> <F>ur</F> <.></.></A>
+<B>Yes. <OL><F>Err</F></OL>.</B>
+<A><OL>before</OL> this interview?</A>
+<B><F>Urr</F> <SC>after</SC> <F>uhm</F> before this interview,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>I only</R> I only slept. But after the interview, <R>I</R> I will <SC>go to the</SC> go to Ueno, and <R>I</R> I will go to the museum. <SC>S</SC> <F>urr</F> because <F>ur</F> <R>one of my friend</R> <F>er</F> one of my friend <F>uhm</F> draw the <F>uhm</F> picture and <F>uhm</F> <R>her picture is</R> <F>uhmm</F> <F>er</F> her picture is in the museum. So I am <SC>go</SC> going to the museum.</B>
+<A>I see. So then, do you <SC>do</SC> yourself <F>er</F> do any artistic things?</A>
+<B><F>Urr</F> a little.</B>
+<A><F>Hm</F>.</A>
+<B><F>Urr</F> <F>well</F>. <R>I like</R> I like Chagall.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>uhm</F> <SC>when the <R>Chagall</R> Chagall festival is <F>uhm</F> is <R>o</R> occurred</SC> <F>uh</F> <SC>the Chagall festival is</SC> <F>uhmm</F> <F>urr</F> <R>I</R> <F>er</F> I like Chagall so, <F>urr</F> <F>urr</F> when I hear the Chagall festival, <R>I</R> I sometimes go to the museum to see the Chagall picture.</B>
+<A><F>Oh</F> I see. O K. So then, <F>urr</F> now, would you tell me about yourself? What do you do?</A>
+<B><F>Urr</F> <R>I</R> I am a consultant now. And <R>I</R> <SC>I started</SC> <R>I have</R> <F>uhm</F> I have worked since last year. So <F>uhmm</F> <R>until</R> <F>uhm</F> until last year, <SC>I was a student</SC> <F>er</F> I was a college student. And now, I am very busy and <F>urr</F> <R>I work</R> <R>I work</R> <F>urr</F> <F>urm</F> I work very hard, so <F>urr</F> <SC>the</SC> <F>urr</F> I go to the office and <F>ur</F> <F>uhm</F> <R>when I</R> <F>ur</F> when I go to home at <F>uhm</F> <R>two</R> two o'clock <SC>at night</SC> <F>er</F> midnight, so I'm very <laughter>tired</laughter> now.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Oh</F> I see. O K. So now, <F>urm</F> I'm going to show you a picture.</A>
+<ctxt>The interviewer is looking for a picture.</ctxt>
+<A>So then, would you describe this picture?</A>
+<B><F>Uhmm</F>. <F>Uhm</F>. The place is the restaurant. And there are some couple. And <SC>the</SC> <F>uhm</F> <SC>I think</SC> <F>uhmm</F> <F>uhm</F> <SC>in front of the</SC> <F>urr</F> <F>ur</F> I think <F>uhm</F> there is a piano, so <F>uhm</F> the <F>uhm</F> atmosphere is very <F>uhm</F> nice. And <F>uhm</F> <R>the couple</R> <R>the couple</R> the couple <F>urr</F> have a good time. And <F>uhm</F> <R>the</R> <R>the man</R> <F>uhm</F> the man is selecting the wine which is best.</B>
+</task>
+<followup>
+<A>O K. Thanks. <F>Urr</F> do you often go to this kind of luxurious restaurant?</A>
+<B><F>Urrr</F>. <laughter><SC>I</SC> sometimes</laughter> <F>uhm</F> <R>I like</R> I like it.</B>
+<A><F>Uhm</F> O K. So then, would you tell me the last time you went to this kind of restaurant?</A>
+<B><OL><F>Urrr</F></OL>.</B>
+<A><OL>What kind of</OL> occasion?</A>
+<B><R>I</R> <F>uhm</F> I went to <SC>the restaurant</SC> <F>uhm</F> the luxurious restaurant <SC>and</SC> <R>for</R> for celebrating <F>uhm</F> my brother's birthday. And <F>uhm</F> <F>uhm</F> the restaurant is <R>Swiss</R> Swiss restaurant. <SC>and</SC> <F>uhm</F> so <R>we</R> <SC>we had</SC> <R>we</R> <SC>we have</SC> <F>er</F> <R>we</R> we ate the <R>che</R> cheese fondue and <R>o</R> <F>urr</F> oil fondue. And <F>uhmm</F> when the dessert came, <F>urr</F> the music is <F>uhm</F> <F>urr</F> "Happy Birthday to You". And <F>er</F> my family celebrated <F>er</F> my brother. And <SC>he</SC> perhaps he had a good time.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Yeah. O K. <F>Oh</F> good. So now, <F>er</F> thank you very much. Now, we are going to do a role-play. So then, would you read this direction silently? And whenever you're ready, please tell me. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>Yes.</B>
+<A>O K. So may I help you?</A>
+<B><F>Urr</F> <R>I</R> <F>uhm</F> <R>I bought the</R> <F>uhm</F> I bought the dress, <R>but</R> <F>uhm</F> <R>but when I</R> but <F>uhm</F> when I bought a dress, <SC>I like it</SC> I liked it. But <F>uhm</F> when I went to the home and I tried it, but <F>uhm</F> that size <R>is</R> <F>uhm</F> is too big for me. <R>So <F>urr</F> I want to</R> so <R>I want to</R> <F>uhm</F> I want to the <R>other size</R> <R>other size</R> other size. <R>So I know</R> <F>er</F> <SC>so I know</SC> <F>urr</F> <F>ur</F> so please <F>urr</F> change the dress.</B>
+<A>O K. But you opened it and you wore it once, so maybe, I'm sorry, but we can't exchange that.</A>
+<B><F>Uhm</F>. But <F>uhm</F> <R>I</R> I didn't cut the tag. <SC>So</SC> <F>uhm</F> <R>I tried</R> I tried the dress once time at home. And I have a receipt. So <F>uhm</F> look at the date. <F>Uhm</F> <SC>so</SC> and <R>I</R> I like the store <laughter>and</laughter> I always <R>buy</R> <SC>buy any</SC> buy something at this store. <SC>So <F>uhm</F> please <F>uh</F> and</SC> <F>uhm</F> so please change <OL>the dress</OL>.</B>
+<A><OL><F>Uhm</F></OL>. <F>Well</F> but your reason is size. Then you should have <F>er</F> tried it on.</A>
+<B><F>Urmm</F>. <R>I should have</R> I should have tried it, but <R>I</R> <F>urm</F> <SC>I was busy <R>and</R> <F>urr</F> and <R>the</R> <F>uhm</F> the size on the tag is <F>uhm</F> <F>uhm</F> not</SC> <F>er</F> <F>urr</F> <R>I</R> <F>urm</F> I was busy at that time, <SC>and I</SC> <F>uhm</F> and <R>one of your</R> <F>urr</F> <SC>one of your <F>uhm</F> <R>store</R> store</SC> <SC>one</SC> your store manager said that <SC>dress is</SC> <F>mm</F> <F>er</F> <R>the</R> the dress is <SC>fu</SC> <F>er</F> fit me. So I believed <R>i</R> it. <CO>So</CO>.</B>
+<A><F>Ahh</F> O K. In that case, yeah, yeah, we'll exchange it.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Yeah. You're welcome. O K. So then, this is the end of the role-play. And have you ever experienced this kind of <SC>thing</SC> trouble?</A>
+<B><F>Uhmm</F> yes. <F>Urrr</F> but <F>uhm</F> <F>urm</F> <R>I have</R> I <SC>have</SC> had the experience.</B>
+<A><F>Uhm</F></A>
+<B><R>And</R> <F>uhm</F> and <SC>the</SC> <F>er</F> at that time, <R>I could</R> I could exchange the dress. <F>Uhm</F>. And it's very <R>smooth</R> <laughter>smooth case</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K. Thank you very much. Then, the last thing is the <F>ur</F> sequence of the picture. And <F>ur</F> this happened in the past. So please start your sentence with this, "One day last week".</A>
+<B><F>Uhm</F>. <F>Uhmm</F>.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><R>As I wen</R> <SC>as I went to</SC> <F>er</F> <F>uhm</F> <SC>on my way to the office at eight</SC> <F>uhm</F> <F>er</F> <F>uhmm</F> on my way to the office, I had the happening last week. <F>Urr</F> <R>at station</R> <F>urr</F> at station, it was eight o'clock. And <F>uhmm</F> <SC>it's <F>er</F> usual</SC> it was a usual day. <F>Uhm</F> but <F>uhm</F> <R>I was</R> <SC>I was <F>uhm</F> the</SC> I was <SC>on</SC> <SC>in platform</SC> in the form. And <R>I</R> <SC>I waited</SC> <SC>I waited for the <F>uhm</F> train <F>ur</F> there</SC> <F>uhmm</F> I waited for the train. <F>Urr</F> <R>my</R> <R>my bag</R> <SC>my bag</SC> <F>urr</F> <SC>my</SC> <F>er</F> <F>er</F> when I waited for the train, <SC>I <R>fa</R> <F>uh</F> <?>falled</?> the</SC> <SC>my</SC> I <?>falled</?> the bag. And <R>the</R> <F>uhm</F> <SC>the man <R>who was</R> <F>uhm</F> who was <R>next</R> <SC>next o</SC> next to me</SC> <F>urr</F> <F>er</F> there is the man <SC>who i</SC> who was next to me and <R>his</R> <R>his arm hi</R> <SC>his arm hitted</SC> his arm hit <R>my</R> <F>er</F> my arm. And I <?>fall</?> the bag. <F>Uhm</F>. <F>Uhm</F> and <SC>the bag is the</SC> <F>uhm</F> <R>the bag was the</R> <F>mm</F> the bag was the <F>uhm</F> under the form. So <R>I</R> <F>urr</F> I had a trouble. <F>Uhmm</F>. And <R>the man</R> the man noticed the thing. And <R>we</R> <R>we</R> <R>we</R> <R>we</R> <?><F>well</F></?> we talked about that. <SC>And we</SC> <F>uhm</F> <F>uhm</F> <R>and</R> and <R>the train</R> the train came in <SC>the fo</SC> the station. And I was surprised, and <R>I thought</R> I thought my bag was <F>uhm</F> broken by the train. But <F>uhm</F> <SC>the train go</SC> <SC>the train <F>uhm</F> went the</SC> <F>er</F> the train left the station. I found <SC>the bag is</SC> <F>er</F> the bag was safe. And <R>I</R> <F>uhm</F> <R>I</R> I called <R>the</R> the station clerk. And <R>I</R> I got it.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. So then, did you come here by train?</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. O K. So thank you very much for coming.</A>
+<B>Thank you.</B>
+<A>O K. Thank you.</A>
+<B>Bye.</B>
+</stage5>
+</body>
+</interview>

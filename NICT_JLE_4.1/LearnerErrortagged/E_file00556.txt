@@ -1,0 +1,177 @@
+<interview>
+<filename>E_file00556.txt</filename>
+
+<head version="1.3">
+<date>2001-07-26</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>800</TOEIC>
+<TOEFL>560</TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F>. Can you call me <H pn="B's name">XXX02</H>?</B>
+<A>O K, <H pn="B's name">XXX02</H>. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B>I'm exhausted because I had <at odr="1" crr="a"></at> test today. And I <v_tns odr="1" crr="will have">have</v_tns> <at odr="2" crr="an"></at> examination tomorrow.</B>
+<A>O K. What kind of <R>exam</R> examination?</A>
+<B>The final exam.</B>
+<A><F>Wow</F>. I see. <F>Um</F>. So, what do you study?</A>
+<B><F>Er</F>. My major is political science.</B>
+<A><F>Mm</F>. Why did you choose <OL>that subject</OL>?</A>
+<B><OL><F>Oh</F></OL>. Why did I choose? Because the department of political science is the hardest one in Japan. <SC>That</SC> but <nvs>cough</nvs> <R>which</R> <F>er</F> <o_uk odr="1" crr="I only passed this couse">which I <.></.> only passed</o_uk>. So that's why I <v_tns odr="1" crr="chose">choose</v_tns> it.</B>
+<A><laughter>O K</laughter>. So <F>er</F> <SC><H pn="B's name">XXX02</H></SC> <H pn="B's name">XXX02</H>,</A>
+<B>Yeah.</B>
+<A>do you belong to any circle or club?</A>
+<B><F>Er</F> nothing.</B>
+<A>Why not?</A>
+<B><nvs>laughter</nvs> I have no idea. <R>But</R> but I have many <aj_lxc odr="1" crr="good">goods</aj_lxc> friends. So that will be fine.</B>
+<A>O K. So, when you're free, what do you like to do <.></.> after school or weekends?</A>
+<B><F>Err</F> <F>um</F> <nvs>cough</nvs> After <at odr="1" crr="the"></at> examination, I <v_tns odr="2" crr="will go">go</v_tns> back to my hometown, <H pn="others1">XXX03</H>. And <R>I</R> I'm gonna meet my friend in <H pn="others1">XXX03</H>, yeah.</B>
+<A>O K. Tell me a little about your hometown.</A>
+<B>Hometown? <F>Uum</F>. As you know, <H pn="others1">XXX03</H> is <at odr="1" crr="the">a</at> <R>s</R> <F>er</F> second largest city in Japan. And I love there because people there <v_agr odr="1" crr="are">is</v_agr> very kind and food is very delicious. <F>Um</F>. And I <v_cmp odr="1" crr="like it">like</v_cmp> best.</B>
+<A><F>Uum</F>. So you live <prp_lxc1 odr="1" crr="">in</prp_lxc1> alone in <H pn="others2">XXX04</H>?</A>
+<B><F>Um</F>. Right.</B>
+<A>Are there any bad points of living alone?</A>
+<B>Living alone? Yeah. <F>Err</F>. <.></.> <R>I don't like cook</R> I don't like cooking, so <.></.> <F>uum</F> almost everyday, I <.></.> go out for dinner. <F>Uum</F>. And I don't like washing dishes. <F>Uum</F>. <.></.> <nvs>cough</nvs> <R>It</R> it is very troublesome <R>t</R> to me.</B>
+<A>Then, are there any good points?</A>
+<B>A good point? <F>Er</F>. <.></.> <F>Err</F> <.></.> <R>I don't</R> I don't <v_cmp odr="1" crr="need to care">need care</v_cmp> for the time. So, when I go back home late, nobody <F>um</F> complains <prp_lxc2 odr="1" crr="to"></prp_lxc2> me of being late. <.></.> <R>And</R> <.></.> <nvs>cough</nvs> and <F>er</F> good points. <F>Uum</F>. <..></..> So I have to <o_uk odr="1" crr="take care of myself">do all things <.></.> surrounding me</o_uk>. <F>Um</F>. So I can learn from <pn_lxc odr="1" crr="that">them</pn_lxc>.</B>
+<A>I see. So, tell me a little about the family in <H pn="others1">XXX03</H>.</A>
+<B><F>Er</F> family? <F>Er</F> I have parents, and <F>er</F> I have <at odr="1" crr="an"></at> elder sister. She is twenty-four <R>yy</R> years old now. And she's also living <prp_lxc1 odr="1" crr="in"></prp_lxc1> <H pn="others2">XXX04</H>. So <nvs>sniff</nvs> <nvs>cough</nvs> only my parents <mo_lxc odr="1" crr="are"></mo_lxc> living in <H pn="others1">XXX03</H> now.</B>
+<A><F>Uum</F>. O K. Do you sometimes meet your sister?</A>
+<B><F>Err</F>. Rarely.</B>
+<A>Why?</A>
+<B><nvs>laughter</nvs> I don't know. But <.></.> we don't have <.></.> <at odr="1" crr="a"></at> chance to meet. And <R>she</R> she is working now. And <F>er</F> I go to <at odr="2" crr="a" ch="1"></at> <n_num odr="1" crr="university">universities</n_num>. <F>Oh</F>. We don't have time to meet.</B>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'll show you this picture. Please describe it for me.</A>
+<B><F>Er</F>. Describe it? <nvs>sniff</nvs></B>
+<ctxt>The interviewee is looking at the picture and thinking.</ctxt>
+<B><F>Um</F>. <..></..> This is someone's dinner party or something like that. And <.></.> <SC>each <.></.> table</SC> <.></.> <F>er</F> <SC>at each table</SC> <F>er</F> <SC>there are</SC> <..></..> <at odr="1" crr="a"></at> husband and <at odr="2" crr="a"></at> wife are sitting at <at odr="3" crr="">the</at> each table and having dinner. And <prp_lxc1 odr="1" crr="at"></prp_lxc1> one of the tables <F>er</F> <.></.> <at odr="2" crr="a">some</at> <..></..> waiter is asking to <at odr="3" crr="">the</at> one of the couples, "Would you like something to <v_fml odr="4" crr="drink">drinks</v_fml>?". And <SC>they</SC> <F>er</F> he is showing the wines. And <..></..> <F>mm</F> <nvs>sniff</nvs> he's tasting <at odr="1" crr="the"></at> wine. <..></..> <F>Er</F>. There <v_agr odr="1" crr="is">are</v_agr> <R>back</R> <F>um</F> background music. And a woman is playing <at odr="1" crr="the"></at> piano. <..></..> <F>Er</F>. <F>Um</F>. <SC>Each table</SC> at each table, they are talking. <..></..> <nvs>yawn</nvs></B>
+<A><laughter>O K</laughter>. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>So, please compare your favorite restaurant to this picture.</A>
+<B>Favorite? <F>Err</F>. <F>Er</F>. I don't usually go to <at odr="1" crr="a"></at> restaurant like this. <R>I</R> <.></.> I always go to <at odr="1" crr="a"></at> <JP>izakaya</JP>. So <.></.> the atmosphere is very different from this one. <JP>Izakaya</JP> is very friendly and very relaxed. So we don't <v_cmp odr="1" crr="need to wear">need <R>wear</R> wear</v_cmp> formal clothes. <F>Um</F> we can talk in a loud voice. <F>Er</F>. <F>Mm</F>. <..></..></B>
+<A>O K. What do you usually eat at <JP>izakaya</JP>?</A>
+<B><??></??>. <F>Ah</F>. I <mo_lxc odr="1" crr="am"></mo_lxc> usually drinking beer.</B>
+<A><F>Uum</F>.</A>
+<B><CO>So</CO>. <F>Um</F>.</B>
+<A>Only beer?</A>
+<B><F>Oh</F>. beer and some <JP>tsumami</JP>, what we call <JP>edamame</JP>.</B>
+<A>O K.</A>
+<B>And <.></.> <n_lxc odr="1" crr="gristle">joint</n_lxc>, <JP>nankotsu</JP>.</B>
+<A><F>Um</F>. So, what about food?</A>
+<B>Food? <F>Um</F>. <..></..> Food? <F>mm</F> <.></.> Food? <..></..> It's hard <prp_lxc1 odr="1" crr="for">to</prp_lxc1> me to answer the question.</B>
+<A>O K. Thank you. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I'm going to show you <F>um</F> a role play card. This is a role play card. Please read it to yourself. And, when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Are you ready?</A>
+<ctxt>The interviewee is still reading the card.</ctxt>
+<A>O K. This is a telephone conversation.</A>
+<B>Yeah.</B>
+<A>So, trun-trun. This is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello. This is <H pn="B's name">XXX02</H> speaking. <F>Er</F>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B>How are you doing?</B>
+<A>Fine. What's up?</A>
+<B>Yeah, to tell the <?>truth</?>, I have a trouble. <F>Er</F> <F>err</F> <F>er</F>. I cannot go to your party today.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah.</B>
+<A>What <v_tns odr="1" crr="happened">happen</v_tns>?</A>
+<B><?>What happen</?>? <F>Er</F>. Actually I have <at odr="1" crr="an"></at> examination tomorrow. <SC>I don't</SC> I didn't study at all. So I have to study all <at odr="1" crr="">the</at> night tonight. So that's why <R>I</R> I cannot go today. I wish I could. <F>Uum</F>. <.></.> So, <SC>if you ha</SC> if you invite me next time, <F>er</F> <nvs>cough</nvs> yeah, I definitely go there.</B>
+<A>But, actually, it's your surprise party.</A>
+<B><F>Err</F>. I'm afraid <F>err</F> <.></.> I can do nothing.</B>
+<A>So many people <?>will</?> come today.</A>
+<B>Yeah, I know. <.></.> <F>Er</F>.</B>
+<A>And I baked a very big <??></??> <F>er</F> cake for you, especially for you.</A>
+<B><F>Er</F>. I'm glad to hear that, but I have nothing to do. <F>Um</F>. <SC>Is that</SC> <o_uk odr="1" crr="tomorrow's examination">examination tomorrow</o_uk> is <at odr="2" crr="the"></at> most <SC>ex</SC> <F>er</F> important one for me. So <SC>that is a</SC> that <o_uk odr="1" crr="makes me decide">makes decision to me</o_uk> whether I <.></.> go to <at odr="2" crr="a"></at> graduate school or not. <.></.></B>
+<A>But <R>you should have</R> <F>er</F> you should have called us in the morning.</A>
+<B>Yeah. <nvs>laughter</nvs> <R>I</R> I <v_lxc odr="1" crr="made">had</v_lxc> a big mistake today. <R>I</R> I thought the examination would be the day after tomorrow. <CO>But</CO>.</B>
+<A><F>Err</F>. I see. <F>Um</F>.</A>
+<B>I'm sorry.</B>
+<A>O K. O K. So, study hard.</A>
+<B>Thank you.</B>
+<A><F>Um</F>. O K. Thank you very much for calling. That's the end of the role play. Thank you very much.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, do you sometimes go to a party?</A>
+<B>Never.</B>
+<A>Never. Why not?</A>
+<B><nvs>laughter</nvs> <.></.> I don't know. <.></.> <F>Um</F>. <OL>No, no</OL>.</B>
+<A><OL>You don't</OL> like to meet people?</A>
+<B>No. Nobody invites me. That's why I <v_tns odr="1" crr="don't go">didn't go</v_tns>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So, lastly I'll show you another picture. This is a picture sequence. So, please make up one short story using these pictures from one to six. And this happened last week. So, please start with "One day last week".</A>
+<ctxt>The examinee is looking at the picture for a relatively long time.</ctxt>
+<A>O K? Go ahead.</A>
+<B>Last Friday <.></.> <F>uum</F> a man and a women were <SC>talking</SC> <F>er</F> walking along the road <.></.> <F>mm</F> <prp_lxc1 odr="1" crr="on">in</prp_lxc1> <at odr="2" crr="a">the</at> rainy day. At the corner there was <F>er</F> a box <prp_lxc1 odr="1" crr="on">in</prp_lxc1> the ground. They <v_tns odr="1" crr="found">find</v_tns> it. And, <SC>the box</SC> in the box something was moving and making <at odr="1" crr="a"></at> noise. So the man <v_tns odr="1" crr="listened">listen</v_tns> to it carefully. <F>Oh</F>. A cat <v_tns odr="1" crr="was crying">is crying</v_tns>. So, in the box, there was a cat. And <.></.> the woman <F>err</F> grabbed it. And <..></..> <nvs>cough</nvs> the woman asked the man to take the cat to <pn_lxc odr="1" crr="their">the</pn_lxc> <n_lxc odr="2" crr="house">home</n_lxc>. But <SC>the</SC> <F>a</F> <SC>she</SC> <SC>he</SC> he denied doing so. <..></..> <F>Er</F>. <R>He</R> he <v_tns odr="1" crr="hesitated">hesitate</v_tns> to do so. <F>Uum</F>. <..></..> But <R>she</R> <.></.> she <R>asking</R> <mo_lxc odr="1" crr="was"></mo_lxc> asking him again and again to take the cat to <pn_lxc odr="2" crr="their">the</pn_lxc> <n_lxc odr="3" crr="house">home</n_lxc>. Finally, <nvs>cough</nvs> he <SC>was admitted</SC> <v_tns odr="1" crr="permitted">permit</v_tns> to have a cat <R>in the</R> in the house. So <..></..> they <.></.> went back <prp_lxc2 odr="1" crr="">to</prp_lxc2> <at odr="2" crr="">the</at> home with the cat.</B>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Have you ever kept a cat before?</A>
+<B><F>Er</F>. I never had a <n_num odr="1" crr="pet">pets</n_num> before.</B>
+<A><F>Um</F> <F>um</F>. Why?</A>
+<B><.></.> <nvs>laughter</nvs></B>
+<A>Nowadays, so many people <v_agr odr="1" crr="like">likes</v_agr> to have a pet.</A>
+<B><F>Err</F>. Yeah. I know. <..></..></B>
+<A>No reason?</A>
+<B><laughter>Yeah</laughter>. I have no idea.</B>
+<A>So, what do you think about <n_num odr="1" crr="cats">cat</n_num>?</A>
+<B>Cat? <F>Err</F>. <.></.> I don't like <n_num odr="1" crr="cats">cat</n_num>. I like <n_num odr="1" crr="dogs">dog</n_num> better.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>.</B>
+<A>Why?</A>
+<B><F>Uum</F>. <..></..> Why? <..></..> <F>Er</F>. I think <SC?>ki</SC?> dogs are <aj_inf odr="1" crr="cuter">more cuter</aj_inf> than cats.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>The interview is almost over. Do you have any nice plan for summer holidays?</A>
+<B><F>Er</F>. Summer holidays? Yeah. I go to the United States in summer.</B>
+<A>How long?</A>
+<B>For one year.</B>
+<A>One year?</A>
+<B>Yeah.</B>
+<A><F>Err</F>. I see.</A>
+<B>Yeah. I go to the university as <at odr="1" crr="an">a</at> exchange student <prp_lxc1 odr="2" crr="of">in</prp_lxc1> <H pn="school name1">XXX05</H> from this summer.</B>
+<A>I see. Where in America?</A>
+<B>I go to <H pn="others3">XXX06</H>.</B>
+<A><F>Hum</F>. So, what are you going to study?</A>
+<B><F>Um</F>. What I study <v_lxc odr="1" crr="is"></v_lxc> <F>err</F> maybe politics.</B>
+<A><F>Err</F>. Politics.</A>
+<B>And business.</B>
+<A><F>Err</F>. So, are you excited?</A>
+<B><F>Um</F>. Yeah.</B>
+<A>Good. O K. So, <R>enjoy</R></A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>enjoy</OL> <R>the</R> the days in America. O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

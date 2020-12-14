@@ -1,0 +1,224 @@
+<interview>
+<filename>file00310.txt</filename>
+
+<head version="1.3">
+<date>2001-02-28</date>
+<sex>male</sex>
+<age>53</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>660</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B>Nice to meet you.</B>
+<A>Nice to meet you, too. May I ask your name?</A>
+<B>Yeah. <F>Urr</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you today, Mister <H pn="B's name">XXX02</H>?</A>
+<B><F>Ur</F>. Fine, thank you. <F>Urr</F>. <.></.> <R>It</R> <SC>it</SC> my problem is only one. <OL><F>Er</F></OL>.</B>
+<A><OL>I see</OL>. O K. So, <R>what</R> what's the problem <OL><??></??></OL>?</A>
+<B><OL><F>Oh</F></OL>. This is tennis elbow by bad golf.</B>
+<A>I see. Tennis elbow?</A>
+<B>Tennis elbow?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Umm</F>. But the reason is not tennis, <F>ur</F> but by playing golf.</B>
+<A><F>Ah</F>. You like playing golf.</A>
+<B>Yes.</B>
+<A>I see.</A>
+<B><SC>I like very</SC> <R>I</R> I like very much.</B>
+<A>How long have you been playing golf?</A>
+<B><F>Ummm</F>. Long time. Maybe, twenty years or more.</B>
+<A>I see. What is so good about playing golf?</A>
+<B>Pardon?</B>
+<A>What is good about playing golf?</A>
+<B><F>Ummm</F>. <F>Urr</F>. <.></.> First, <F>urr</F> <SC>relax</SC> I can feel relax and good for my health <.></.> <F>err</F> and spent my boring time.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah.</B>
+<A>How often do you play golf?</A>
+<B><F>Umm</F>. Before, <F>urr</F> <.></.> twice or three times per month. But this one year, I can't play.</B>
+<A>I see. But, where is your favorite golf course?</A>
+<B><F>Ummm</F>. <?>Hollin Country</?> in Chiba. <F>Urr</F>. <?>Hollin Country</?> is famous for competition of companies. Work Japan belong the <R>com</R> <R>com</R> competition <.></.> not <R>pro</R> pro golfer, but <F>urr</F> our <F>urr</F> <F>ur</F> <.></.> company or <H pn="company name1">XXX03</H> or a <H pn="company name2">XXX04</H> or the companies belong to that competition.</B>
+<A>I see. Did you ever take part in a golf competition?</A>
+<B>No, no, no. I'm <R>not so</R> <F>orr</F> not so good golf player.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah.</B>
+<A>O K. By the way, <F>er</F> where do you live, Mister <H pn="B's name">XXX02</H>?</A>
+<B><F>Ur</F>. Now, I'm living <H pn="others1">XXX05</H>, <R><H pn="others2">XXX06</H></R> <H pn="others2">XXX06</H>, <F>urr</F> <H pn="others3">XXX07</H>.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>Near here</OL>.</B>
+<A><F>Ah</F>. Near?</A>
+<B>Yeah.</B>
+<A>O K. Is it a good place to live?</A>
+<B><F>Umm</F>. I think so. <.></.> <F>Umm</F>. First reason is I said near here, and <F>ummm</F> <.></.> my very silent <F>ur</F> place <.></.> I like my mansion,</B>
+<A>I see.</A>
+<B>not house.</B>
+<A><F>Uh-huh</F>. I see. Do you live in <H pn="others2">XXX06</H> with your family?</A>
+<B><F>Ur</F>. With family? No. I'm alone now.</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Urr</F>. I'm alone in <H pn="others1">XXX05</H>. My family is in <H pn="others4">XXX08</H> now <.></.> because of my girl's high school. But, next month, <F>urr</F> my wife and <R>my girl</R> <SC>my girl</SC> no, my daughter will come to <H pn="others1">XXX05</H>.</B>
+<A><F>Wow</F>. During the spring break?</A>
+<B>Yes.</B>
+<A>That's good. What are you going to do with them?</A>
+<B><F>Ummm</F>. <F>Urr</F>. Maybe, <F>urr</F> <.></.> my daughter <F>urr</F> will not go anywhere with me.</B>
+<A><laughter><F>Oh</F> really</laughter>?</A>
+<B><laughter><F>Unn</F> I think so</laughter>. <F>Ur</F>. Sometimes, I will <.></.> go to trip or <.></.> dinner with my wife. <F>Er</F>. So, <SC>when</SC> <.></.> <F>urr</F> if dinner, <F>umm</F> my daughter will come, maybe.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. <F>Uh-huh</F>. All right. Thank you very much. Now,</A>
+<B><JP>Hai</JP>.</B>
+<A>I'd like to show you one picture. Here you are. Please describe the picture for me.</A>
+<B><F>Oh</F> <F>err</F>. My daughter <R>is</R> <F>urr</F> is in her room, and she is talking with <F>urr</F> her <R>fa</R> favorite <.></.> dog and cat. <F>Err</F>. Now, <R>she</R> <F>er</F> she must <F>urr</F> <.></.> <F>er</F> study hard for examination for university, but she is very dislike <F>urr</F> studying. So, many times, <F>urr</F> <.></.> she <F>urr</F> invite her dog or cat in her room and speak.</B>
+</task>
+<followup>
+<A>Right. That's it?</A>
+<B><nvs>laughter</nvs></B>
+<A>All right. Thank you very much. O K. <F>Umm</F>. Mister <H pn="B's name">XXX02</H>, do you have a computer?</A>
+<B>Yes, I have.</B>
+<A>At home?</A>
+<B><F>Um</F>.</B>
+<A>O K.</A>
+<B>Recently, I bought.</B>
+<A><laughter><F>Oh</F> really</laughter>?</A>
+<B>Recently.</B>
+<A><F>Ah</F>. I see. O K. Tell me about your computer.</A>
+<B><F>Ummm</F>. My computer is note P C <F>err</F> <.></.> made by N E C. The name is "LaVie". Do you know?</B>
+<A><F>Ah</F>. I've heard <OL>of it</OL>.</A>
+<B><OL><F>Um</F></OL> <F>um</F>.</B>
+<A>Then, what do you do with your computer?</A>
+<B><F>Umm</F>. I use computer only for E-mail. <.></.> <F>Err</F>. <R>In</R> in my company, <F>umm</F> <R>E</R> E-mail <SC>is</SC> <F>uu</F> <.></.> <SC>must use</SC> <F>er</F> must need it, and <.></.> I have many business trip, <SC>or</SC> <.></.> <R>so</R> so I decided to buy P C, before I didn't use any computer.</B>
+<A>But aren't you interested in the Internet?</A>
+<B><F>Umm</F>. No. Not so.</B>
+<A>Why not?</A>
+<B><F>Urr</F>. I like face-to-face communication, <F>er</F> but I found <F>urr</F> <R>In</R> <R>Internet</R> Internet, especially E-mail, is very useful <.></.> for us.</B>
+<A>I see.</A>
+<B>So, now, I use <SC>the</SC> many times.</B>
+<A><F>Oh</F> that's good.</A>
+<B>Yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Thank you very much. Now, let's have a role play.</A>
+<B><F>Uh</F>?</B>
+<A>Role play.</A>
+<B>Yeah.</B>
+<A><.></.> Here you are. This is your card. Please read it to yourself, and, when you are ready, I'll begin.</A>
+<B><F>Um</F>. <F>Umm</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>I'm a salesclerk at the station, and you're the passenger.</A>
+<B><F>Uh-huh</F>. Excuse me.</B>
+<A>Hi. May I help you?</A>
+<B><F>Urr</F> <F>ee</F>. Please <F>urr</F> tell me <F>ee</F> how to buy a ticket to New York.</B>
+<A>You can buy the ticket here.</A>
+<B><F>Oh</F> <F>urr</F>. I want to <F>urr</F> go to New York. <F>Urr</F>. I'm sorry. <F>Er</F>. Pardon? No, no, no. <nvs>laughter</nvs> <F>Urr</F>. <.></.> <F>Eee</F>. I want to be New York <F>urr</F> early, so I want to know <SC>what</SC> <F>urr</F> <.></.> best way to arrive New York <SC>early</SC> earliest.</B>
+<A>Then, you should take the super express train.</A>
+<B><F>Uh-huh</F>. Yeah. <F>Urr</F>. <.></.> <R>ma</R> <SC>may I</SC> can I buy super express ticket here?</B>
+<A>Sure.</A>
+<B>O K. Thank you.</B>
+<A><F>Ah</F>. You need a ticket now?</A>
+<B>Now. Yeah, please.</B>
+<A>O K. How many people?</A>
+<B><F>Urr</F>. Only me. One, O K.</B>
+<A>I see. O K. We have two kinds of tickets.</A>
+<B><F>Uh-huh</F>. <.></.> <F>Urr</F>. <R>What</R> what kind?</B>
+<A>First class and economy class.</A>
+<B><F>Uh-huh</F>. Economy class, O K.</B>
+<A>All right? O K. Then, thirty dollars, please.</A>
+<B>Thirty dollars?</B>
+<A>Yes.</A>
+<B>O K.</B>
+<A>All right. Here the <OL>ticket</OL>.</A>
+<B><OL>Please</OL>. Thank you.</B>
+<A>Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>Have a nice trip.</A>
+<B>Thank you. <OL>You, too</OL>.</B>
+<A><OL>Bye-bye</OL>. Thank you.</A>
+<B>"You, too."? <OL><JP>Okashiina</JP></OL>. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A><OL>Thank you very much</OL>. <laughter>Role play is over</laughter>.</A>
+<B><OL><laughter><JP>Hazukashiine</JP></laughter></OL>.</B>
+<A><OL>So you said</OL> you took a trip many times.</A>
+<B><F>Umm</F>. Yes.</B>
+<A>When was the last time <OL>to go overseas</OL>?</A>
+<B><OL><F>Um</F> today</OL>.</B>
+<A><F>Ah</F>. Today?</A>
+<B><F>Ah</F>. New York? Business trip in Japan?</B>
+<A>Have you ever been abroad?</A>
+<B><F>Ohhh</F>. Yes. Sometimes. <F>Urrr</F>. Last week, I was in New Orleans <.></.> one week.</B>
+<A>I see. <F>Uh-huh</F>. What was your impression of New Orleans?</A>
+<B><F>Umm</F>. I felt <F>er</F> very hot city and local city. And, last week, <F>er</F> <SC>carnival</SC> one week <F>er</F> carnival was held in that city, and my trip objective was join work event. Work event and carnival, both <SC>I experience</SC> <R>I</R> I experienced.</B>
+<A><F>Wow</F>. That's good. It must be a good experience.</A>
+<B>Yes, yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. Thank you. Now, I'd like to show you one more picture. <.></.> O K. Please look at this.</A>
+<B><JP>Hai</JP>.</B>
+<A>But, this time, please make a short story based on these six pictures. <SC>Star</SC> <F>ah</F> you should start here. And story goes this way. But this happened last week, so, please start your story with "One day last week".</A>
+<B><F>Humm</F> <F>hum</F> <F>hum</F> <F>hum</F>. <.></.> One day last week, I met my uncle, <F>urr</F> and <F>err</F> <SC>uncle said</SC> uncle invited me <F>ee</F> lunch, and <F>urr</F> <.></.> I met uncle <F>uuu</F> for long time <F>urr</F> no see. So <F>err</F> <R>I</R> <.></.> I was very happy, and uncle and me went <.></.> restaurant. <.></.> <F>Err</F>. And <.></.> <SC>we eat</SC> we ate <F>urr</F> beef. <.></.> And my uncle likes <R>mea</R> meat very much. <F>Urr</F>. Me, too. So we had <F>er</F> very good time and talked many things. And I was <F>er</F> enough. <.></.> My uncle <F>urr</F> <F>err</F> paid his own and <R>my</R> <R>my</R> <SC>my</SC> mine. And one-hour lunch, we said good-bye.</B>
+</task>
+<followup>
+<A>Thank you very much.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Mister <H pn="B's name">XXX02</H>,</A>
+<B><JP>Hai</JP>.</B>
+<A><F>Urm</F>. Do you sometimes go to a restaurant with your co-workers?</A>
+<B>Yes. Many times.</B>
+<A><R>What kind</R> what kind of restaurant do you usually go to?</A>
+<B><F>Oh</F>. I like Japanese food. <F>Ah</F>. Fish, <.></.> I like most. <F>Urr</F>. Especially <JP>sushi</JP>, I like.</B>
+<A>Is there any good <JP>sushi</JP> bar around here?</A>
+<B><F>Oh</F> yes. <R>In</R> <SC>in this tower</SC> in this <F>urr</F> New Otani Garden Court, "Kyube", <JP>sushi</JP> restaurant. Very good, very good taste, very delicious but <F>urr</F> high cost.</B>
+<A><laughter>I see</laughter>.</A>
+<B>So we can't <F>urr</F> Kyube <F>umm</F> many times. Seldom. Once or twice per year, <.></.> we can go.</B>
+<A><F>Oh</F> really? O K. But you said you live alone, where do you usually eat dinner?</A>
+<B><F>Umm</F>. Usually? Usually, <F>urr</F> I eat dinner near here <.></.> alone or with my people <.></.> with drinking.</B>
+<A>I see. Then when you are with your friends, how do you pay for the bill?</A>
+<B><F>Umm</F> many times I pay <.></.> for. <F>Ah</F> yeah. Because I say "<F>oh</F> let's go.". I invite, so I must pay.</B>
+<A><F>Oh</F> really? <OL>You must be very rich</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> No, no, no.</B>
+<A>I see. But you enjoy <OL>having dinner with your friends</OL>.</A>
+<B><OL>Yes, yes, yes</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>That's great. O K. <F>Wow</F>. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>The interview is almost ending.</A>
+<B>O K.</B>
+<A>Yeah. Thank you for coming in.</A>
+<B>Thank you very much.</B>
+<A><F>Uh-huh</F>. <F>Urr</F>. Are you expecting your wife and daughter coming this weekend?</A>
+<B><F>Oh</F> <F>oh</F> yes. This weekend, my wife will come.</B>
+<A><F>Wow</F>. <OL>That's great</OL>.</A>
+<B><OL>Not daughter</OL>.</B>
+<A><F>Oh</F>.</A>
+<B>Only wife.</B>
+<A>I see. I see. <F>Uh-huh</F>. Do you have any plans?</A>
+<B><F>Ummm</F>. This time, <.></.> <F>umm</F> dinner and shopping. <.></.> And we must prepare the <R>tran</R> <R>transpo</R> transportation <.></.> the <F>uum</F> furniture or baggage from <H pn="others4">XXX08</H> to <H pn="others1">XXX05</H>.</B>
+<A><F>Ah</F>. She's going to live in <H pn="others2">XXX06</H> for a while?</A>
+<B><F>Ah</F>. Yeah. <F>Err</F>. The end of March, <F>unn</F> they'll come to <H pn="others1">XXX05</H>.</B>
+<A><F>Ah</F>. I see. <F>Er</F>. <OL>They are moving to <H pn="others1">XXX05</H></OL>.</A>
+<B><OL><SC>Because</SC></OL> yes, yes, yes. <F>Urr</F>. Moving, yeah.</B>
+<A><OL>That's great</OL>.</A>
+<B><OL>Because</OL> my daughter graduated high school.</B>
+<A>I see. I understand. <F>Wow</F>. O K. <F>Wow</F>. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

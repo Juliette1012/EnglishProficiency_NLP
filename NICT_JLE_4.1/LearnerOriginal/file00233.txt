@@ -1,0 +1,193 @@
+<interview>
+<filename>file00233.txt</filename>
+
+<head version="1.3">
+<date>2000-10-24</date>
+<sex>male</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. So how are you today?</A>
+<B>I'm fine, thank you. And you?</B>
+<A>I'm fine. Thank you. So <H pn="B's name">XXX02</H>, what do you do?</A>
+<B><.></.> <nvs>laughter</nvs> <.></.> <JP><F>Eh</F></JP>? <nvs>laughter</nvs></B>
+<A><F>Ah</F>. Are you a student?</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B><F>Ahh</F>. <..></..></B>
+<A>O K. Which school do you go?</A>
+<B><F>Oh</F> School of Literature.</B>
+<A>O K.</A>
+<B><F>Uh</F> <nvs>laughter</nvs> <..></..> <F>mhmm</F>. <.></.></B>
+<A>All right. So now tell me about your hobbies.</A>
+<B><.></.> <F>Mhmm</F> <.></.> <F>errrr</F> <.></.> <JP><F>uunto</F></JP> reading books, <?>sing</?>, <R>and</R> <..></..> and <laughter>part-time job</laughter>.</B>
+<A>O K. So <F>er</F> what kind of books do you like to read?</A>
+<B><F>Eh</F>. <..></..> Novels.</B>
+<A>O K. <OL>Like</OL>?</A>
+<B><CO><OL>And <F>uhn</F></OL></CO>. <..></..></B>
+<A>O K. What is your favorite novel <.></.> then?</A>
+<B><F>Uhh</F>. Haruki Murakami</B>
+<A><F>Mhm</F>.</A>
+<B><R>and</R> <F>mm</F> <.></.> and <.></.> books translated by Motoyuki Shibata.</B>
+<A><F>Mm</F> <F>hmm</F>.</A>
+<B>Yeah. <F>Mhm</F>. <..></..></B>
+<A>All right. So <F>uhh</F> then you said you work part-ime? <.></.> And please tell me about your part-time job.</A>
+<B><F>Ah</F>.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Ehh</F> <F>mhmm</F>. <..></..> My <SC>job</SC> part time job? <nvs>laughter</nvs></B>
+<A>Yeah. Where do you work?</A>
+<B><F>Ehhm</F>. <.></.> I have two works. And one is <.></.> guardman,</B>
+<A>O K.</A>
+<B>and the other is <F>uhh</F> instructor of <F>er</F> personal computer.</B>
+<A>All right.</A>
+<B><F>Ehh</F> <.></.> <F>uhhn</F>. But both of them is not interesting. <nvs>laughter</nvs></B>
+<A><F>Oh</F>. O K. <.></.> Why not?</A>
+<B><F>Ahh</F>. <..></..></B>
+</stage1>
+<stage2>
+<task>
+<A>All right. Thank you. So now I'm going to show you a picture, and I want you to describe it for me.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><..></..> <F>Mhm</F> <F>mhm</F>.</B>
+<A>You're ready?</A>
+<B><..></..> <F>Mhmmm</F>. <..></..></B>
+<A>O K. What can you see in this picture?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Eh</F> <F>uhn</F> <..></..> <F>uhn</F>. In the <R>big</R> <F>erm</F> big lounge,</B>
+<A>Right.</A>
+<B>three couples are enjoying their dinner.</B>
+<A>Right.</A>
+<B><F>Ehh</F> <.></.> <F>uhh</F> <SC>and one coup</SC> <F>er</F> <JP>chigauna</JP> <..></..> <SC>and man</SC> <F>mhm</F> <..></..> orders wine.</B>
+<A>O K.</A>
+<B><F>Mhmmm</F>. <..></..></B>
+</task>
+<followup>
+<A>O K. Thank you. So <H pn="B's name">XXX02</H>, do you like to eat out?</A>
+<B><nvs>laughter</nvs></B>
+<A>Do you like to eat at a restaurant?</A>
+<B><F>Oh</F>. Yes.</B>
+<A>O K. So where is your favorite restaurant?</A>
+<B><JP><F>Ehh</F></JP>. <..></..> Family restaurant like Skylark. <nvs>laughter</nvs></B>
+<A>All right.</A>
+<B><F>Eh</F> <nvs>laughter</nvs> <F>mhmm</F>.</B>
+<A>O K.</A>
+<B><F>Mhm</F>. <SC>But I ordered</SC> <F>ah</F> but I order <laughter><JP>hamburg</JP> steak</laughter>,</B>
+<A>O K.</A>
+<B>whenever.</B>
+<A>O K. So what's so special about <JP>hamburg</JP> steak?</A>
+<B><.></.> <nvs>laughter</nvs></B>
+<A>What's so special about it?</A>
+<B><..></..> <JP><F>Uunto</F></JP> I don't know. <nvs>laughter</nvs></B>
+<A>You don't know. But you like it.</A>
+<B><nvs>laughter</nvs> <JP><F>Ehh</F></JP>?</B>
+<A>O K. So how often do you go there?</A>
+<B><.></.> <F>Uhhhm</F>. Once a month.</B>
+<A><F>Oh</F>. O K.</A>
+<B><F>Ah</F>. <..></..></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you. So now we are going to do a role-play. And I'm going to give you a card. This is written in Japanese so please read it to yourself, and whenever you're ready, I'll begin.</A>
+<B><.></.> <F>Mhmm</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. Are you ready?</A>
+<B>Yes.</B>
+<A>O K. So, May I help you?</A>
+<B><F>Er</F>. <F>Mhmmm</F>. <..></..> <F>Mhmmm</F>. Do you have a <JP>nandakkena</JP> denim jacket?</B>
+<A>Yeah. We do. We have <F>uhh</F> several kinds of jacket.</A>
+<B><F>Ehhm</F>. <..></..> Colored black?</B>
+<A>O K.</A>
+<B>And <R>si</R> size of that is <.></.> X L.</B>
+<A><F>Uhh</F>. Extra large? O K.</A>
+<B><CO>And</CO>. <..></..></B>
+<A>O K. We have a brown denim jacket, but we don't have extra large right now, so.</A>
+<B><.></.> Do you have a large size jacket?</B>
+<A>Large? In brown?</A>
+<B>Yes.</B>
+<A>All right. <F>Uhh</F>. Yeah. We do.</A>
+<B><F>Urm</F>. <.></.> How much <R>i</R> is that jacket?</B>
+<A><F>Oh</F>. That's seven hundred dollars.</A>
+<B><F>Err</F>. <..></..></B>
+<A>Would you like to buy it? <R>Or</R></A>
+<B><F>Mhmm</F>. <..></..></B>
+<A>or are you looking for any other <.></.> cheaper jacket?</A>
+<B>Yes.</B>
+<A>O K. How much?</A>
+<B><F>Ehr</F>. <JP>Doreguraidaro</JP>. <..></..></B>
+<A>Maybe three hundred dollars?</A>
+<B><..></..> <F>Er</F>.</B>
+<A>If you want, I can give you a discount.</A>
+<B><F>Eh</F>. Yes.</B>
+<A>O K. So that'll be two hundred dollars. <.></.> Is that O K?</A>
+<B>Two hundred?</B>
+<A><F>Mhmm</F>. Dollars. Is that O K?</A>
+<B>Yeah.</B>
+<A>O K. So here's your jacket.</A>
+<B><F>Ah</F>. <??></??>. <..></..></B>
+<A>O K. How would you like to pay?</A>
+<B><..></..></B>
+<A>Cash or credit card?</A>
+<B><F>Oh</F>. Cash.</B>
+</task>
+<followup>
+<A>O K. So here's the jacket and then here's your change. So, thank you so much for shopping. O K. So, this is the end of the role-play. And then do you often go shopping?</A>
+<B><..></..> <nvs>laughter</nvs> <..></..> No.</B>
+<A>No? So if you want to buy a <.></.> something, like a jacket, where do you usually go?</A>
+<B><..></..> <laughter>I beg your pardon</laughter>?</B>
+<A>O K. <SC>Ss</SC> <F>ahh</F> <.></.> if you want to buy a jacket, where do you usually go?</A>
+<B>Uniqlo. <nvs>laughter</nvs></B>
+<A>All right.</A>
+<B><F>Eh</F>. <..></..></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. Thank you. So now I'm going to show you another picture, and <F>uhh</F> I want you to make up a story from one to four. And this story was happened last week, so I want you to start with your sentence, with "One day last week". O K? Whenever you're ready.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A>Are you ready?</A>
+<B><..></..></B>
+<A>No? O K. What can you see in this picture? What are they doing?</A>
+<B><..></..> <F>Mhmm</F>. In this they are talking about monkey. <R>And</R> <.></.></B>
+<A><F>Mhmm</F>. O K.</A>
+<B>and <R>she</R> she's eating soft cream.</B>
+<A><F>Mhm</F>. O K.</A>
+<B>And monkey is eating banana.</B>
+<A>O K.</A>
+<B><CO>And</CO>. <F>Mhmm</F>. <..></..></B>
+</task>
+<followup>
+<A>All right. Thank you. So when was the last time you went to the zoo?</A>
+<B><..></..> I don't know.</B>
+<A>O K. So, do you like to go to the zoo?</A>
+<B><.></.> No.</B>
+<A>No?</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. O K. <F>Uhh</F>. We are almost at the end of the interview. So what are your plans after this interview?</A>
+<B><.></.> <F>Eh</F>. <..></..></B>
+<A>Are you going back home?</A>
+<B>Yes. <..></..> <F>Oh</F>. I don't <laughter>plan</laughter> after <?>do</?> this interview. And I go home and sleep. <nvs>laughter</nvs></B>
+<A>All right. O K. <F>Uhh</F> I hope you <F>uh</F> relax yourself a bit at home. O K. Thank you so much for coming in. And this is the end of the interview.</A>
+</stage5>
+</body>
+</interview>

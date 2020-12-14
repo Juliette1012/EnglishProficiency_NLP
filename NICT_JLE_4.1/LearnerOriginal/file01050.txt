@@ -1,0 +1,157 @@
+<interview>
+<filename>file01050.txt</filename>
+
+<head version="1.3">
+<date>2002-03-08</date>
+<sex>male</sex>
+<age>53</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello, my name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to</OL> meet you.</B>
+<A><F>Hum</F>. It's almost spring time, <F>hum</F> what do you like to do in the spring season?</A>
+<B><F>Mm</F> <..></..> I like spring season because it's a <.></.> very warm season.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> And <F>er</F> I can <SC>drank</SC> dranked beer</B>
+<A><nvs>laughter</nvs></A>
+<B>in <JP>ohanami</JP>.</B>
+<A><F>Ah-huh</F>. <F>Hum</F> O K. tell me about <JP>ohanami</JP>.</A>
+<B><F>Ah</F> <..></..> <F>mm</F> <..></..> <JP>ohanami</JP>.</B>
+<A><F>Uh-huh</F>. What do you do?</A>
+<B><.></.> <F>Um</F> <..></..> we going to <..></..> <F>er</F> <JP>ohanami</JP> place <R>and</R> and all days drinking and <F>er</F> talking <SC>my</SC> with my friends <..></..>.</B>
+<A><F>Hum</F>. Do you plan the party?</A>
+<B><F>Um</F> <.></.> I don't have a plan but <.></.> maybe <.></.> we plan the <JP>ohanami</JP> <..></..> <R>few</R> few weeks a later.</B>
+<A><F>Oh</F>, I see.</A>
+<B>Yeah.</B>
+<A>O K. What's good about drinking outside? <nvs>laughter</nvs></A>
+<B><F>Um</F> <..></..> we <SC>are</SC> went to <R>ski</R> ski for every year.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>I</R> <..></..> I don't ski but</B>
+<A><F>Uh-huh</F>.</A>
+<B>I drank the beer all days</B>
+<A><nvs>laughter</nvs></A>
+<B>in ski <JP>gerende</JP>.</B>
+<A><F>Oh</F>, why do you go there? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <.></.> <?>I don't</?> <..></..> maybe <.></.> we don't like <.></.> cold season.</B>
+<A><F>Ah</F> <.></.> O K, tell me about one of your good friends.</A>
+<B><F>Mm</F> <..></..> <R>we</R> we played football every month and <..></..> in summer season, we planned beach volley <.></.> and <..></..> <R>in</R> in autumn season, we plan to <.></.> barbecue party.</B>
+<A><nvs>laughter</nvs> <OL><F>Ah</F></OL>.</A>
+<B><OL>And</OL> in summer season, we plan to ski tour.</B>
+<A>Wonderful.</A>
+<B><OL><nvs>cough</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A><OL>O K</OL>, thank you. Now, I will show you a picture. Please tell me what you see. Anything about the picture.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>There is a cat on the bed <.></.> and <..></..> there is a dog on the floor. <..></..> There is a computer on the desk. <..></..> There is a calendar <.></.> <SC>with</SC> <..></..> <SC>on</SC> <..></..> with wall. <..></..> <R>She</R> she is sitting the chair.</B>
+</task>
+<followup>
+<A><F>Hum</F> O K. Thank you. So you probably have a computer at home.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Hum</F></OL>. Please tell me about your computer.</A>
+<B>I have <F>er</F> <.></.> two computers. One computer is iMac. <.></.> <R>It's</R> <R>it's computer <.></.> is</R> <.></.> it's computer is <.></.> very easy use. One computer is Windows. It's a notebook type. <..></..> But it's a low spec.</B>
+<A><nvs>laughter</nvs> <F>Uh-huh</F>.</A>
+<B><..></..> It is a <..></..> very small but <.></.> I want <SC>to</SC> <.></.> a new one computer.</B>
+<A><F>Hum</F>, I see. So what do you use the iMac for?</A>
+<B><F>Um</F> <.></.> usually I <.></.> watch the internet <.></.> and <..></..> e-mail use.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hum</F>. O K, thank you. Now, we'll do a role-play. O K, please read this card and when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt> <nvs>cough</nvs>
+<B>Excuse me.</B>
+<A>Yes.</A>
+<B>I want to go to New York.</B>
+<A>O K.</A>
+<B><..></..> <F>Um</F> <..></..>. <R>Plea</R> please a ticket for more quickly train for New York.</B>
+<A>O K, we have two fast trains.</A>
+<B><F>Um</F> <..></..> <F>mm</F> <..></..> <R>whi</R> which train is more cheap ticket?</B>
+<A><F>Hum</F> the express is cheaper <.></.> than super express.</A>
+<B><F>Um</F> <..></..> I want express</B>
+<A><F>Uh-huh</F>.</A>
+<B>ticket. How much is this ticket?</B>
+<A><F>Hum</F>. The express is thirty dollars.</A>
+<B>Thirty dollars.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>So, just one ticket?</A>
+<B>Yes. Just one ticket.</B>
+<A>Alright, so here you go. Thank you <OL>very much</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A><nvs>laughter</nvs> And this is the end of the role-play, thank you. <F>Hum</F>. So <F>er</F> do you travel by train sometimes?</A>
+<B><F>Um</F> <..></..> last year</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>we <.></.> going to</SC> <F>uh</F> we went to Zao</B>
+<A><F>Mm</F>.</A>
+<B>by midnight train.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> <SC>It</SC> <R>that's train is <..></..> very</R> <.></.> <F>uh</F> the train is <..></..> very traffic train. Many person</B>
+<A><F>Uh-huh</F>.</A>
+<B>there.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL><F>Mm</F></OL>, and then <F>er</F> we bought a beer</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>and</OL> drank and <R>loud</R> <R>loud</R> loud voice</B>
+<A><F>Uh-huh</F>.</A>
+<B>talking and next seat is <.></.> maybe foreign country person.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <JP><F>Eeh</F></JP> <.></.> midnight, he angry for us because we are talk with loud voice.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. <nvs>laughter</nvs> O K. Thank you. Now, the <OL>last thing</OL></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>today, I will show this picture. O K. There are four pictures. Please make a story, a short story. O K?</A>
+<ctxt>The interviewee is thinking.</ctxt>
+<B><F>Mm</F> <..></..> <R>we</R> we went to <.></.> movie theater. <.></.> <F>Mm</F> <..></..> we bought a ticket <.></.> and <..></..> <R>that</R> that's movie is <.></.> violence movie. <R>We</R> we bought a popcorn and coke before starting the movie</B>
+<A><F>Hmm</F>.</A>
+<B>and <.></.> we <..></..> watching the movie during <..></..> eat the popcorn. <..></..> <JP><F>Eeh</F></JP> and then <.></.> <R>we</R> <F>uh</F> <.></.> we back home.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K, thank you. Alright. So, we are almost finished. Do you have plans to watch a movie?</A>
+<B><F>Er</F> <.></.></B>
+<A>Soon?</A>
+<B>Usually, I watch the movie with my video.</B>
+<A><F>Hmm</F> I see.</A>
+<B><.></.> <R>Last</R> last month, I bought a Play Station Two.</B>
+<A><nvs>laughter</nvs>.</A>
+<B><R>It</R> it have a D V D function.</B>
+<A><F>Uh-huh</F></A>
+<B>I want to <.></.> watch the D V D, but I <..></..> my still bought a D V D.</B>
+<A>I see. So <SC>you will play</SC> you will watch something <OL>this weekend maybe</OL>?</A>
+<B><OL><F>Umm</F></OL>.</B>
+<A>Or you will play the games?</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs> <.></.> O K, and of course you will go drinking?</A>
+<B><OL>Yes <nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Alright. Thank you <OL>very much</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>I hope you will have a nice weekend.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Mm</F></OL>.</A>
+</stage5>
+</body>
+</interview>

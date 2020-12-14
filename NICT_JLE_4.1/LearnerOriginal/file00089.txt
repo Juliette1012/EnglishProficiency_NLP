@@ -1,0 +1,168 @@
+<interview>
+<filename>file00089.txt</filename>
+
+<head version="1.3">
+<date>2000-06-09</date>
+<sex>male</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>technical support center</category>
+<step></step>
+<TOEIC>385</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><H pn="A's name">XXX01</H>. May I have your name?</A>
+<B><F>Er</F>. <H pn="B's name">XXX02</H>.</B>
+<A>O K, nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>So are you busy recently?</A>
+<B><.></.> <F>Mm</F>?</B>
+<A>Are you busy?</A>
+<B><OL>Now</OL>?</B>
+<A><OL>Today</OL>? <F>Uh-huh</F>.</A>
+<B><F>Ah</F>. No.</B>
+<A><laughter>No</laughter>. O K. Alright, so, where do you live?</A>
+<B><F>Ee</F> I live in <F>ee</F> <H pn="others1">XXX03</H> <JP>ku</JP>.</B>
+<A><F>Mm</F> <F>er</F>. How do you come here?</A>
+<B><.></.> Come here? <F>Mmm</F>.</B>
+<A><F>Er</F> which train do you take?</A>
+<B><F>Oh</F>. I take <F>ee</F> <H pn="others2">XXX04</H> Line.</B>
+<A><F>Hmm</F>. O K. So where is your nearest station?</A>
+<B><F>Ee</F>. <H pn="others3">XXX05</H> <SC><JP>eki</JP></SC> <OL>station</OL></B>
+<A><OL><F>Mm</F></OL>. O K, how long have you been living there?</A>
+<B><JP><F>Eeto</F></JP>. About <F>er</F> eight year.</B>
+<A><F>Mm</F>. Do you live there with your family?</A>
+<B><F>I</F> My family living in <F>er</F> <H pn="others4">XXX06</H> <JP>ken</JP>.</B>
+<A><F>Oh</F> O K. Please tell me about your family in <H pn="others4">XXX06</H>.</A>
+<B><JP><F>Eeto</F></JP> my father, my mother <.></.> only. My brother is living in <H pn="others7">XXX07</H>.</B>
+<A><F>Oh</F> O K. <F>Er</F> please tell me about your parents.</A>
+<B><JP><F>Eeto</F></JP> <F>ee</F> <F>mm</F> Age?</B>
+<A><F>Umm</F> Yeah, anything.</A>
+<B>Name?</B>
+<A>Yeah, anything about them.</A>
+<B><F>Ee</F>. My father's name is <H pn="others5">XXX08</H> <F>ee</F>. My mother name is <H pn="others6">XXX09</H>. <F>Ee</F> <nvs>laughter</nvs> <.></.> <JP>nadarou</JP> I forget they age.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Ee</F>. They are no jobs and <F>ee</F> <JP>nenkinte namteiundattakana</JP>. <nvs>laughter</nvs> <F>Ee</F> no job and enjoy <F>er</F> they life.</B>
+<A><F>Mm</F>. Sounds nice. So what does your brother do in <H pn="others7">XXX07</H>?</A>
+<B><F>Ee</F>. My brother is <F>ee</F> <.></.> <JP>nandakke</JP> <.></.> <JP>kaishain</JP> <R>wor</R> work in <F>er</F> <JP>zenekon</JP>.</B>
+<A><F>Mm</F>. Do you often see him?</A>
+<B><F>Er</F>?</B>
+<A>Do you often see him?</A>
+<B><F>Er</F> about, yes, <JP><F>ano</F></JP> <nvs>laughter</nvs> <JP><F>ano</F></JP> <JP>janai</JP> sometime.</B>
+<A><F>Er</F>. When was the last time to see your brother?</A>
+<B><F>Ee</F>. This year's <F>ee</F> February, about.</B>
+<A><F>Mm</F>. So why did you see your brother in February?</A>
+<B><laughter><F>Ee</F></laughter>. <.></.> <R>I</R> <JP>nan, nandakke</JP> I forget to see <nvs>laughter</nvs> <JP>nanishini ittandakke</JP></B>
+<A><nvs>laughter</nvs> <F>Oh</F> O K, right, so Mr. <H pn="B's name">XXX02</H> do you have any hobbies?</A>
+<B><F>Ah</F>. Yes, my hobbies. <F>ee</F> P C and Internet and <F>ee</F> listen the music and watch the <F>de</F> movies.</B>
+<A><F>Mm</F>. O K. So please tell me <F>er</F> the music that you like.</A>
+<B><F>Er</F>. Japanese pops also.</B>
+<A><F>Hmm</F>. So who is your favorite artist?</A>
+<B><F>Mm</F>. <laughter><JP>iroiro arundeskedomo</JP></laughter> <JP>saikin</JP> Utada Hikaru. <.></.> <F>ee</F> about M F L.</B>
+<A>Why do you like Utada Hikaru?</A>
+<B><F>Mm</F>. She is very <F>er</F> <JP>uta ga umai jouzutte nantsundaro</JP> <.></.> I like her songs.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Hmm</F> O K. Alright, So the first thing today, please look at this picture and please describe this picture to me.</A>
+<B><JP><F>Eeto</F></JP> Shining sun. And cat on a car. And <.></.> <JP><F>eeto</F></JP> <..></..> <F>Mm</F> <..></..> a man and a newspaper is <F>er</F> sitting in chair and <F>er</F> <.></.> play a ball are two children <.></.> and <.></.> running a man.</B>
+</task>
+<followup>
+<A>O K. Right, so is this picture similar to <H pn="others4">XXX06</H> where you grew up?</A>
+<B><.></.> Sorry?</B>
+<A><F>Er</F>. Does this look like your hometown?</A>
+<B><.></.></B>
+<A><F>Mm</F>. Is this different from your hometown in <H pn="others4">XXX06</H>?</A>
+<B><..></..> Different, <F>Mm</F>. <..></..> <JP>Suimasen wakarimasen</JP></B>
+<A>O K. <F>err</F> Please tell me, <R>you</R> you live in an apartment now, do you live in a house or apartment now?</A>
+<B>Now, I live in an apartment.</B>
+<A>Please tell me about your apartment.</A>
+<B><F>Umm</F>. <..></..> I live in apart is <F>er</F> in <JP>nantsudaro</JP> <F>er</F> <.></.> <JP>Suimasen nanteitteruka yokuwakarimasen</JP></B>
+<A><F>Oh</F> <nvs>laughter</nvs> O K. Is it big or small?</A>
+<B>Small.</B>
+<A>Small apartment. Do you like living there?</A>
+<B><F>Er</F>. No.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><laughter>No</laughter>? O K. <F>er</F> Please read this card, we will try a role-play now. O K? And please read this card and when you're ready, I will start.</A>
+<ctxt>The examinee is looking at the card and thinking of what to say.</ctxt>
+<A>Ready?</A>
+<B>O K.</B>
+<A>O K. May I help you, sir?</A>
+<B>I'm going to New York and hurry.</B>
+<A>O K.</A>
+<B><R>I</R> I take a <F>er</F> ticket. Please tell me <F>ee</F> buy a ticket.</B>
+<A><F>Ah</F>. You can buy a ticket here. But there are many kinds of train.</A>
+<B><F>Ee</F>. I'm so hurry to go to New York and <JP><F>eeto</F></JP> <..></..> so <.></.> <R>first</R> first arrive to New York train <OL>I want</OL></B>
+<A><OL>O K</OL>. All right, that'll be Express.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B><.></.> <F>Er</F>. Please <F>ee</F> Express ticket buy <F>eh</F> <F>er</F> <F>mm</F>? <.></.></B>
+<A>O K, <F>er</F> that'll be sixty dollars.</A>
+<B>Sixty dollars. O K.</B>
+<A>O K, <F>er</F> here is the ticket.</A>
+<B>Thank you.</B>
+<A>Thank you. O K. Have a nice trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. This is the end of role-play. Right, so do you like traveling?</A>
+<B><nvs>cough</nvs> <R>I</R> I like.</B>
+<A><F>Mm</F> <F>er</F>. Where is your favorite place to travel?</A>
+<B><R>I</R> I travel to <F>er</F> <JP><F>ano</F></JP> <JP>Italia</JP></B>
+<A><F>Oh</F>. Could you tell me about the trip?</A>
+<B><JP><F>ee</F></JP> <JP>nnto nan</JP> <nvs>laughter</nvs> <.></.> <F>Ah</F> I was student <R>an</R> and I graduation to school and <F>er</F> <R>to</R> to <JP>Italia</JP></B>
+<A><F>Mm</F>. And what did you do?</A>
+<B><F>Er</F> <F>er</F> <JP>nantsuundaroona</JP>. <R>I</R> I went to Roma's collossiums, and catacombs, <F>er</F> so any kind of <F>er</F> <JP>isekitte nanteiundarou</JP> <.></.> <JP>suimasen chotto wakannainde</JP></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mm</F>. O K. Right, so lastly, there is a sequence of pictures, one, two, three, four, five, six. And please make a story based on these pictures. O K? And this happened one day last week, so please start your story with "One day last week".</A>
+<B><F>Umm</F>. <.></.> <R>I</R> <SC>I do</SC> <F>ah</F> <.></.> <F>mm</F> <..></..> I called her yesterday.</B>
+<A><F>Uh-huh</F></A>
+<B>And <.></.> go to a zoo <.></.> <?>promise</?>. <.></.> <F>er</F> <.></.> <JP><F>eeto</F></JP> <.></.> I go to her house and <F>ee</F> my car. <.></.> <R>I</R> <F>mm</F> <.></.> I <..></..></B>
+<A>O K. You can go ahead to here.</A>
+<B><JP>Hai</JP> <F>ee</F> I watched the lion <F>ee</F> with her. <.></.> <R>I</R> I talk about a <R>mon</R> monkey to her and <.></.> <F>mm</F> <.></.> We go on <SC>to zoo</SC> <F>mm</F> from zoo.</B>
+</task>
+<followup>
+<A>O K. Right. So, what's your favorite animal?</A>
+<B><F>Ee</F>. <..></..> <F>mm</F> <laughter><JP>tokuninai</JP></laughter> Nothing.</B>
+<A><laughter>Nothing</laughter>. O K, so where is your favorite place to go in <H pn="others8">XXX10</H>?</A>
+<B><H pn="others8">XXX10</H> <.></.> My <F>er</F> <H pn="others9">XXX11</H>.</B>
+<A><F>Mm</F>. Why do you like <H pn="others9">XXX11</H>?</A>
+<B><F>Ee</F>. My hobby is P C and <H pn="others9">XXX11</H> is <F>er</F> PC's town <nvs>laughter</nvs></B>
+<A>So what do you do in <H pn="others9">XXX11</H>?</A>
+<B><F>Er</F> watch <F>er</F> and buy a P C parts in <H pn="others9">XXX11</H>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Alright, thank you. We have come to almost the end of the interview. So are you going to <H pn="others9">XXX11</H> tomorrow?</A>
+<B><.></.></B>
+<A>Are you going to <H pn="others9">XXX11</H> tomorrow?</A>
+<B><.></.></B>
+<A>On Saturday?</A>
+<B>Me? Yes.</B>
+<A><F>Uh-huh</F> Really?</A>
+<B><JP>Hai</JP></B>
+<A>O K, so <F>er</F> is there anything you want to buy?</A>
+<B><F>Mm</F>. <.></.> <JP>kimatte naindakedo</JP> <nvs>laughter</nvs> <JP>nanteittara</JP></B>
+<A>O K, that's O K. So how long do you usually stay in <H pn="others9">XXX11</H>?</A>
+<B><F>Er</F>. About two o'clock.</B>
+<A><F>Mm</F>. O K. Alright, have a nice time in <H pn="others9">XXX11</H>. This is the end of the interview.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

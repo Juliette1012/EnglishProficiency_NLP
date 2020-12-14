@@ -1,0 +1,157 @@
+<interview>
+<filename>file00765.txt</filename>
+
+<head version="1.3">
+<date>2001-12-17</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>? Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine.</B>
+<A>Fine?</A>
+<B>Yeah. Very fine.</B>
+<A><F>Erm</F>. <SC>Do</SC> what do you do?</A>
+<B><F>Erm</F> I'm a student. I'm a <F>erm</F> freshman.</B>
+<A>Could you tell me about your school a little bit?</A>
+<B><F>Erm</F> <R>I</R> I major in economics, and I study economics. <.></.> And <.></.> my school is <H pn="school name1">XXX03</H>. And there are a lot of people <F>erm</F> when I walk around campus. <F>Erm</F> I can see many many people.</B>
+<A><F>Erm</F>. You said you study economics. <F>Erm</F>. What do you like about your economics class?</A>
+<B><laughter><F>Erm</F> to tell you the truth</laughter>, <F>erm</F> so far I'm not interested in economics so much <F>erm</F> because I study <F>erm</F> the basic of economics. <F>Erm</F>. <SC>It's not</SC> it's a little boring to me.</B>
+<A>Do you have any other interests?</A>
+<B><F>Erm</F> I like English and <.></.> <F>erm</F> <F>erm</F> <.></.> only yeah, English.</B>
+<A>Why do you like English?</A>
+<B>Because <F>erm</F> <SC>English has <F>erm</F> <.></.> <R>rhyt</R> rhyt</SC> <F>erm</F> I like the rhythm of speaking English, <R>and</R> and also the pronunciation that's Japanese <SC>don't</SC> doesn't have.</B>
+<A>O K. O K. <F>Erm</F> I think you're taking this courses so maybe <SC>you're</SC> you like English, though. <F>Erm</F>. But how do you study English, for example, at home?</A>
+<B><F>Erm</F> <R>I</R> I always <F>erm</F> listen to foreign music and usually watch movies in English. And nowadays I don't study <F>erm</F> <OL><laughter>words</laughter></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>so my vocabulary is getting smaller.</B>
+<A>Tell me about your favorite music.</A>
+<B><F>Erm</F> I like <F>erm</F> <SC>U K music</SC> United Kingdom music. <.></.> And <F>erm</F> <R>I like</R> I like almost all kind of music, pops and rock and sometimes <F>er</F> punk.</B>
+<A>Punk music? <F>Oh</F>. <R>What</R> what's it like?</A>
+<B><SC>Punk is <F>erm</F> more</SC> <.></.> punk is similar to rock, <F>er</F> but <F>erm</F> bass sound is <SC>fast</SC> maybe faster</B>
+<A>O K.</A>
+<B>and more heavy.</B>
+<A>O K. O K. Good. O K. <F>Er</F>. Other than school, <SC>do you have</SC> <F>er</F> what do you like to do in your free time?</A>
+<B><.></.> Free time? <R>I</R> I like to listen to music and watch movies, <F>erm</F> and I like to read books. <F>Erm</F>.</B>
+<A>O K. <F>Erm</F>. Do you live alone?</A>
+<B>No. With my bigger brother but far from my family.</B>
+<A>O K. O K. Could you tell me about your brother?</A>
+<B>O K. <R>My</R> my brother is <F>erm</F> twenty-seven years old. And <R>he</R> <F>erm</F> <.></.> <SC>he is a</SC> <F>erm</F> <SC>he</SC> his work is to <F>erm</F> adjust the <.></.> key of the piano. He has good ears.</B>
+<A><F>Oh</F>. You, too?</A>
+<B><OL><laughter>I don't know</laughter></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL><laughter>No</laughter></OL>? O K. Thank you. First thing today, <F>erm</F> I want you to describe this picture for me.</A>
+<ctxt>The interviewee is looking for the picture for a while.</ctxt>
+<B><F>Erm</F> <..></..> there <F>erm</F> <.></.> <SC>two people</SC> two <R>ma</R> main people in the restaurant, and <nvs>cough</nvs> <.></.> <F>erm</F> <.></.> the one is man, and maybe <R>the</R> <R>the oth</R> the other one <SC>is the</SC> is his girlfriend. And <SC>they ea</SC> they were <.></.> drinking some wine. <F>Erm</F>. And <.></.> it <R>seems to be</R> <F>erm</F> <.></.> seems to be the <..></..> <R>ex</R> <laughter>expensive restaurant</laughter> because <F>erm</F> <R>they</R> <.></.> <R>they</R> they are in formal style. <F>Erm</F> <..></..> <F>erm</F>. That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you. O K. <H pn="B's name">XXX02</H>, do you often eat out?</A>
+<B><.></.> <F>Erm</F>. Not so often.</B>
+<A>So what do you do for your dinner?</A>
+<B><F>Erm</F> So <F>erm</F> <.></.> I <.></.> <R>cook</R> <F>erm</F> <.></.> cook dinner <F>erm</F> sometime, but not so good <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>like frozen food or <F>erm</F> sometimes <F>erm</F> buy at convenience store.</B>
+<A>What do you think the good thing about the convenience store?</A>
+<B><.></.> <F>Erm</F> <..></..> <F>erm</F> We can easily go to the convenience store, and there are a lot of thing so <.></.> <F>erm</F> <laughter>convenience store is really convenient</laughter>. <OL><laughter>Yeah</laughter></OL>.</B>
+<A><OL><laughter>Convenient</laughter></OL>? <F>Er</F>. What's your favorite food at the convenience store?</A>
+<B><F>Erm</F> I like bread so <F>erm</F> <F>er</F> <SC>there a lot of</SC> <.></.> there many kinds of bread so <R>I</R> <R>I</R> I usually go to the convince store and buy some bread.</B>
+<A>Could you describe one of your favorite bread for me?</A>
+<B><F>Erm</F> I like <F>erm</F> bread with jam, <F>erm</F> <..></..> and also with <F>erm</F> <R>milk</R> <SC>milk cream</SC> <SC>cream</SC> milk cream.</B>
+<A>Sounds very sweet. <nvs>laughter</nvs> <OL><laughter>You like sweet</laughter></OL>?</A>
+<B><OL><laughter>Yeah, I like sweet</laughter></OL>. <R>I</R> I like sweet.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you. The second thing we'll do the role-play. O K? <.></.> O K. Please read this card. O K? And when you're ready, I will start. O K?</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Ring, ring. Hello, <H pn="B's name">XXX02</H>?</A>
+<B>Hello. <F>Erm</F>. How are you?</B>
+<A><F>Er</F> I'm fine.</A>
+<B>O K. <F>Erm</F>. <.></.> Now I have a <F>erm</F> tickets for movie, <F>erm</F> would you like to go to the movie with me?</B>
+<A>Sure.</A>
+<B>Really? <F>Erm</F>. O K. So <R>when is</R> <F>erm</F> when is convenient for you?</B>
+<A><F>Erm</F>. This afternoon.</A>
+<B>This afternoon?</B>
+<A>After five.</A>
+<B>After five? O K. And <.></.> <F>erm</F> <..></..> <SC>how</SC> <F>erm</F> O K. After five, I will pick you up. Is it O K?</B>
+<A>Yeah, sure.</A>
+<B>O K. So after five, let's go to the movie.</B>
+<A><F>Uhu</F> <F>erm</F>. But which movie?</A>
+<B><F>Erm</F>. O K. <.></.> "<laughter><SC>Horry Potter</SC></laughter> Harry Potter with <.></.> Sorcerer's <.></.> Stone"?</B>
+<A><F>Oh</F>. Sorry. I've just seen the movie <SC>ne</SC> last week.</A>
+<B><F>Oh</F>. Really? <F>Erm</F>. So O K. So then let's decide to the inside of movie when we are at the movie <R>thea</R> theater.</B>
+<A>O K. So you're going to pick me up?</A>
+<B>Yeah.</B>
+<A>O K. So I'll wait at the home, then. <OL>O K</OL>?</A>
+<B><OL>O K</OL>.</B>
+<A>Thank you. <OL>See you then</OL>.</A>
+<B><OL>See you later</OL>.</B>
+</task>
+<followup>
+<A>Thank you. Kaching. O K. The end of the role-play. <F>Erm</F>. You said you like movies, <F>erm</F> do you prefer to go to the theater or video?</A>
+<B><.></.> <F>Erm</F> <.></.> <F>erm</F>. When I was <SC>stu</SC> high school student or junior high, <F>erm</F> I prefer to see videos because <F>erm</F> I don't have <laughter>enough money</laughter>. But nowadays <R>I can</R> I can get <F>erm</F> enough money from work so <R>I</R> I prefer to go to the theater because <F>er</F> screen is big, and <F>erm</F> it's easy to get excited with the big screen.</B>
+<A>Have you seen any good movies recently?</A>
+<B><.></.> <F>Erm</F> "Pearl Harbor".</B>
+<A>"Pearl Harbor"? How was it?</A>
+<B>It's a really good. <F>Erm</F> <.></.> <F>erm</F> <R>I</R> I like <.></.> movie about war.</B>
+<A>O K.</A>
+<B>I like that <F>erm</F> battle scene.</B>
+<A><OL><laughter>Exciting</laughter></OL>.</A>
+<B><OL><laughter><F>Erm</F></laughter></OL> and also I like the main character of "Pearl Harbor". His name is Josh Hartnett.</B>
+<A>What's good about him?</A>
+<B><.></.> His face is charm. <F>Erm</F> <R>I</R> I like his face.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you. The last thing today, <F>erm</F> we will do the picture again. This time, O K, O K. This is a sequence of pictures. Please make up a story from one to six, and this happens before. So please start your story with, "One day last week,"</A>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<B><F>Erm</F>. <.></.> One day last week, a woman went to the <JP>depart</JP> store, <F>erm</F> and then <..></..> <R>she</R> <.></.> she brought the <.></.> green tie for her husband as a birthday present. <..></..> And <.></.> <F>erm</F> <R>she</R> <.></.> <R>she has</R> she has it. <F>erm</F> <..></..> Yes. <laughter>And then</laughter> <SC>she</SC> when she wanted to go home, she notice that <SC>the</SC> there was a discount <..></..> for shoes <..></..> and also clothes. <.></.> And <R>she</R> <.></.> she brought not only the tie, also many thing shoes <SC>or</SC> and clothes, and when she got out of the department store, she has a lot of things.</B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Erm</F>. Did you buy your Christmas gift already for this year?</A>
+<B><F>Erm</F> I'm going to buy today.</B>
+<A><laughter>Today</laughter>?</A>
+<B><F>Erm</F>. Today, <F>erm</F> I and my friends will have the party.</B>
+<A><F>Oh</F>. Really? <F>Erm</F> How do you usually decide what to buy?</A>
+<B><F>Erm</F>. It's a problem. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Erm</F> <R>I</R> <F>erm</F> I think <F>erm</F> <SC>what thing is</SC> <F>erm</F> <..></..> <F>oh</F> my friends will want to get <F>erm</F> <F>em</F> so <R>I</R> I don't like <F>erm</F> ordinary presents. And <R>I don't</R> I don't like to buy <F>erm</F> very expensive present so I always decide to buy <F>erm</F> not so expensive but <F>erm</F> an ordinary presents.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. O K. Thank you. This is almost the end of the interview. <F>Erm</F>. You said you're going to <SC>buy</SC> go shopping, where do you go?</A>
+<B><.></.> <SC>Near the <H pn="school name1">XXX03</H></SC> near <H pn="school name1">XXX03</H>.</B>
+<A>Near <H pn="school name1">XXX03</H>?</A>
+<B>Because <R>I</R> I don't have <OL><laughter>enough time</laughter></OL>.</B>
+<A><OL><laughter>That's true</laughter></OL>. O K. I hope you enjoy your shopping today.</A>
+<B>Yeah.</B>
+<A>Thank you for coming to the interview today. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A>The end of the interview.</A>
+</stage5>
+</body>
+</interview>

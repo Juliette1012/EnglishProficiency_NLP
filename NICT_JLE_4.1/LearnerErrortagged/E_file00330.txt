@@ -1,0 +1,202 @@
+<interview>
+<filename>E_file00330.txt</filename>
+
+<head version="1.3">
+<date>2001-03-02</date>
+<sex>female</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>795</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>landlord_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A><F>Well</F>. Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Ms <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A><F>Mhn-huh</F>. Where are you from?</A>
+<B>I'm from here, <H pn="others1">XXX03</H>. <R><H pn="others1">XXX03</H></R></B>
+<A><F>Ah-huh</F>.</A>
+<B><H pn="others1">XXX03</H> city.</B>
+<A>O K.</A>
+<B><F>Er</F>. Do you know the <R>Hi</R> <F>er</F> <H pn="others2">XXX04</H> Ward?</B>
+<A>Yes, I do. <F>Ah-huh</F>.</A>
+<B>I'm from <H pn="others2">XXX04</H> today.</B>
+<A>O K. Were you born in <H pn="others2">XXX04</H> Ward, too?</A>
+<B><F>Er</F>. I was born, <SC>in</SC> actually, in Yao city.</B>
+<A><F>Mm</F>.</A>
+<B>But I <v_tns odr="2" crr="grew">was <v_fml odr="1" crr="growing">grow</v_fml></v_tns> up in <SC><H pn="others1">XXX03</H></SC> <F>er</F> <H pn="others2">XXX04</H> Ward in <H pn="others1">XXX03</H>.</B>
+<A><F>Mhn-huh</F>. O K. What do you do now?</A>
+<B><F>Er</F>. Now, I'm working for an airline company as a flight attendant.</B>
+<A><F>Oh</F>. I see.</A>
+<B>Yes.</B>
+<A><F>Oh</F>. That's wonderful.</A>
+<B>Thank you.</B>
+<A>O K. So, today, <?><con_lxc odr="1" crr="">as</con_lxc> you have</?> no work.</A>
+<B>Yes, yes. That's right.</B>
+<A><F>Ah</F>. O K. <F>Mm</F>. Is it an interesting job?</A>
+<B><F>Er</F>. Yes, it is. Absolutely. I can see many people.</B>
+<A><F>Ah-huh</F>. Where have you been, so far?</A>
+<B><F>Mm</F>. <nvs>laughter</nvs> <R>on</R> on <R>du</R> duty or on vacation?</B>
+<A><F>Oh</F>. I mean, on duty. <OL>Yes</OL>.</A>
+<B><OL>On duties</OL>? <F>Erm</F>. <R>I</R> I work for <F>er</F> <H pn="company name1">XXX05</H>. So, mostly, I go to Amsterdam from here, <H pn="others1">XXX03</H> to Amsterdam. But, before that, I used to work for <F>er</F> <H pn="company name2">XXX06</H>, so I used to live there.</B>
+<A><F>Ah</F> <F>ah</F>.</A>
+<B>Most of <at odr="1" crr="the"></at> time, I fly between <R>that coun</R> that country and Japan.</B>
+<A><F>Ah</F>. I see.</A>
+<B><F>Mhn-huh</F>.</B>
+<A>Which do you like better to live <prp_lxc2 odr="1" crr="in"></prp_lxc2> Singapore or in Japan?</A>
+<B><F>Mm</F>. Of course, in Japan. Because I was born in Japan, and I know the culture itself. <F>Mm</F>. But it was quite interesting to live <prp_lxc2 odr="1" crr="">in</prp_lxc2> abroad. And, especially, <SC>it was</SC> <o_uk odr="1" crr="it is interesting to live in Asia">it's in Asia</o_uk>, it's in <at odr="2" crr="the"></at> other country, but, <SC>with</SC> still, <SC>with</SC> in Asia, <SC>I</SC> we have many <aj_lxc odr="3" crr="similar">same</aj_lxc> cultures to share, but it's different. It was quite interesting.</B>
+<A><F>Ah</F>. I see. O K. So, do you speak Dutch, too?</A>
+<B><F>Mm</F>. A little bit.</B>
+<A>A little bit?</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><F>Ah-huh</F>. What is your hobby?</A>
+<B>My hobby? <F>Ah</F>. In this season, skiing. And then, these days, I started <F>er</F> playing <n_lxc odr="1" crr="billiards">billiard</n_lxc>.</B>
+<A>Billiards?</A>
+<B>Billiards.</B>
+<A><F>Ah-huh</F>.</A>
+<B><SC>It's</SC> <SC>I ju</SC> I'm just <at odr="1" crr="a"></at> beginner. Really <at odr="1" crr="a"></at> beginner. Very beginner. But it's really interesting. I really want to play.</B>
+<A><F>Oh</F>. Why did you decide to start billiards?</A>
+<B><F>Er</F>. <R>One</R> one of my friends <v_agr odr="1" crr="is">are</v_agr> crazy about <n_lxc odr="2" crr="billiards">billiard</n_lxc>. Then he <v_tns odr="1" crr="recommended">recommend</v_tns> us to join <at odr="3" crr="">the</at> <n_lxc odr="2" crr="billiards">billiard</n_lxc>.</B>
+<A><F>Oh</F>. How crazy is he, <prp_lxc2 odr="1" crr="about"></prp_lxc2> <at odr="3" crr="">the</at> <n_lxc odr="2" crr="billiards">billiard</n_lxc>?</A>
+<B><R>When</R> whenever he appeared, <SC>he re</SC> he <v_agr odr="1" crr="carries">carry</v_agr> <R>his</R> <F>er</F> his own cue.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A><F>Well</F>. I see. What's the most difficult point of <at odr="2" crr="">the</at> <n_lxc odr="1" crr="billiards">billiard</n_lxc> to play?</A>
+<B>Difficult?</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Er</F>. <SC>I really</SC> I <v_lxc odr="1" crr="am"></v_lxc> still not sure about <SC>the</SC> how difficult or how much interesting it is. But I think, <F>er</F> <F>er</F> now, I <mo_lxc odr="1" crr="am"></mo_lxc> still practicing to push straight <prp_lxc2 odr="2" crr="towards"></prp_lxc2> where <SC>I want to</SC> I want <v_fin odr="3" crr="to let">let</v_fin> the ball go. But, <SC>now</SC> <F>mm</F> maybe, later on, maybe, I have to think about <F>er</F> physics. But, yeah, that's quite interesting.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Good. <F>Well</F>. Look at this picture, please. And, please describe it.</A>
+<B>Yes. <prp_lxc1 odr="1" crr="In">On</prp_lxc1> this picture, <SC>I can s</SC> <F>er</F> <F>er</F> one girl is in a room. She's sitting at her desk. There is <at odr="1" crr="a"></at> computer. But, now, she's not working <prp_lxc1 odr="1" crr="with">at</prp_lxc1> <at odr="2" crr="the"></at> computer. But, <SC>she</SC> maybe, <SC>she is</SC> she has <at odr="1" crr="a"></at> break <o_lxc odr="2" crr="in the middle of">in between</o_lxc> working <prp_lxc1 odr="3" crr="with">at</prp_lxc1> <at odr="4" crr="the"></at> computer. Then, there is one dog. There is one cat on <at odr="1" crr="a">the</at> bed. And she's really relaxing with <F>er</F> her <SC>cats</SC> cat and dog. <F>Mm</F>. <?>What else</?>? <.></.> Maybe, she is taking break, because somebody <?><v_tns odr="2" crr="is calling"><v_agr odr="1" crr="calls">call</v_agr></v_tns></?> <prp_lxc1 odr="3" crr="from"></prp_lxc1> <at odr="4" crr="the"></at> outside of <at odr="5" crr="a"></at> door. <SC>Door is open</SC> <at odr="1" crr="the"></at> door is opened.</B>
+</task>
+<followup>
+<A>O K, O K. Good. Do you use a computer?</A>
+<B>Yes, I do.</B>
+<A><F>Oh</F>. What <v_qst odr="1" crr="do you use">you use</v_qst> the computer for?</A>
+<B>Mainly for <n_num odr="1" crr="E-mails">E-mail</n_num>. Then, sometimes, when I want to search something, then, I use the Internet. And, these days, I can check my schedule <SC>on co</SC> on the <n_lxc odr="1" crr="web">net</n_lxc>. <CO>So</CO>.</B>
+<A>Do you have your own computer?</A>
+<B>Yes, I do.</B>
+<A><F>Oh</F>. Tell me about it, please.</A>
+<B><F>Er</F>. I bought my computer about <F>er</F> four years ago. <F>Er</F>. <SC>It</SC> at that time, <R>there were</R> there were not many friends <rel_lxc odr="1" crr="who"></rel_lxc> were using <at odr="2" crr="a"></at> computer, but, within <R>this</R> <aj_agr odr="3" crr="these">this</aj_agr> four years, <F>er</F> <SC>ma</SC> I got many E-mail <n_num odr="4" crr="friends">friend</n_num>. So, sometime, I'm very busy with answering the E-mails. <nvs>laughter</nvs></B>
+<A><F>Ah</F>. I see. How busy?</A>
+<B>How busy? It <F>oh</F> depends. But, yeah, sometimes, it takes two, three hours to <v_lxc odr="1" crr="reply">response</v_lxc>, especially, after I come back from my job.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yes. And, <F>er</F> at the same time, <R>I</R> <SC>I start to take a</SC> <R>I</R> <SC>I start to</SC> I <v_tns odr="1" crr="signed">sign</v_tns> up for a mail magazine from <F>er</F> New York Times. It's free. And then, <F>er</F> in <at odr="1" crr="the"></at> evening, I can practice <pn_lxc odr="2" crr="">my</pn_lxc> English.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Ah</F>. I see. O K. Good. <F>Well</F>. Next, let's do role play. O K? This is your card. Please read it, or if you want, you can turn it over. It's written in English. <R>When</R> when you're ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K. Ring, ring. Hello. This is Ms <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello. This is <F>er</F> <H pn="B's name">XXX02</H> speaking.</B>
+<A><F>Oh</F>.</A>
+<B><F>Er</F>. I need to talk to you now.</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>Er</F>. <SC>Now, I back at</SC> <SC>I'm</SC> now, I'm home, then, I found that <SC>my</SC> one of my windows <v_tns odr="2" crr="was"><v_agr odr="1" crr="is broken">are</v_agr></v_tns> broken.</B>
+<A><F>Oh</F>.</A>
+<B>Then, I need to ask you to fix it <F>er</F> as soon as possible. Can you arrange it for me?</B>
+<A><F>Oh</F>. I'm sorry. I'm very busy today. I can't.</A>
+<B><F>Er</F>. But <SC>it's</SC> I think it's a kind of <n_lxc odr="1" crr="emergency">urgent</n_lxc>. Because it's cold outside today. <SC>I really need to be to</SC> I really needed to be fixed, otherwise I can't sleep tonight. It's too cold. <OL>Don't you think so</OL>?</B>
+<A><OL>Yeah</OL>, I think so, too. But, <F>er</F> tell me more about the window. What actually happened?</A>
+<B>I think some balls <mo_lxc odr="1" crr="">were</mo_lxc> came in from outside.</B>
+<A><F>Oh</F> really?</A>
+<B>I think so. It looks like that.</B>
+<A>That's awful.</A>
+<B>Yeah. It's <at odr="1" crr="a"></at> quite big hole. So I can't sleep with that window broken.</B>
+<A><F>Ah-huh</F>. <R>Do</R> do you want me to call a police?</A>
+<B><F>Oh</F>. <SC>I'm not su</SC> I don't think so. But, <SC>if you</SC> maybe, some kids were playing baseball outside. <?>I think it <o_odr odr="2" crr="should not be"><mo_lxc odr="1" crr="should">could</mo_lxc> be</?> not</o_odr> that serious.</B>
+<A><F>Mm</F> <F>well</F>. I understand. <SC>And</SC> <?>but</?> really sorry. <R>I</R> I have a few other things to do, and they are very urgent. So I can meet you tomorrow morning.</A>
+<B><F>Mm</F>. But you can arrange that <SC>fi</SC> somebody, <SC>to su</SC> <v_fin odr="1" crr="fix">to fix</v_fin> it immediately or not.</B>
+<A>O K. But, <F>er</F> <R>do</R> do you have any idea who I should talk to?</A>
+<B>Pardon me?</B>
+<A>Do you have any idea who I should talk about this? <.></.> <F>Oh</F>. You said <F>er</F> you want me to arrange?</A>
+<B>Yes. <OL><F>Er</F></OL>.</B>
+<A><OL>So</OL>, you want me to send someone?</A>
+<B>Yes, please.</B>
+<A>But, who? I don't know. I have no idea.</A>
+<B><F>Er</F>. Maybe, you can check the yellow page now on.</B>
+<A><F>Oh</F> I'm sorry. I don't have one.</A>
+<B><nvs>laughter</nvs> <R>Then</R> then, if I arrange by myself, can you response <prp_cmp odr="1" crr="for paying">for <SC>the</SC> pay</prp_cmp> all?</B>
+<A><F>Mhn-huh</F>. O K. <OL>I will</OL>.</A>
+<B><OL>O K</OL>. Then, I will arrange by myself.</B>
+<A>O K. Thank you, and I'm sorry.</A>
+<B>It's O K.</B>
+<A>O K. Bye.</A>
+<B>Bye.</B>
+</task>
+<followup>
+<A>O K. Good. This is the end of role play. So you lived in <F>a</F> Singapore. Did you live in an apartment?</A>
+<B>Yes, that's right.</B>
+<A><F>Ah</F>. Have you had the same kind of experience in Singapore?</A>
+<B><F>Mm</F>. Not really. But <SC>the</SC> <.></.> it was quite long time ago.</B>
+<A><F>Ah</F>. <OL>I see</OL>.</A>
+<B><OL><F>Mm</F> I don't</OL> remember. <F>Mm</F>. Maybe, not.</B>
+<A>Then, did you have any <n_num odr="1" crr="troubles">trouble</n_num> with your landlord?</A>
+<B><F>Mm</F>. I shared the room with my friend. So, yeah, <SC>to</SC> <SC>for</SC> <SC>to have contra</SC> to sign <at odr="1" crr="a"></at> contract with <F>er</F> <at odr="2" crr="the"></at> owner, some of the friends had a problem <SC>when <SC>she</SC> <SC>they leave</SC> they</SC> when they wanted to leave.</B>
+<A><F>Ah-huh</F>.</A>
+<B><o_uit odr="1">It was not for me to leave</o_uit>. But we had a bit trouble.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. O K. Good. Here's another <n_num odr="1" crr="picture">pictures</n_num> for you. This time, please make up a story from number one to number six. O K. And it happened before. So, please start with "One day last week".</A>
+<ctxt>The interviewee is looking at the cards.</ctxt>
+<B><F>Mm</F>. <R>One day</R> one day last week, Sam was <v_cmp odr="1" crr="driving his car">driving on his car</v_cmp>. Then, <F>er</F> <SC>Tom</SC> from the other side of the road, <SC>the</SC> <R>To</R> <F>er</F> <SC>Tom <SC>was calling</SC> wa</SC> <R>To</R> Tom was <F>er</F> <v_lxc odr="1" crr="riding">driving</v_lxc> on his bike <SC>with his mobile phone talking</SC> with talking on his mobile phone <SC>to his</SC> <SC>to who</SC> to his girlfriend. Then, accidentally, Sam's car hit <F>er</F> Tom's bike because Tom was paying less attention <prp_lxc2 odr="1" crr="to">on</prp_lxc2> his driving. Then, Sam and Tom <v_tns odr="1" crr="started">start</v_tns> to argue <SC>on that acci</SC> about <R>that</R> that accident. Then, they decided to call the police on the road. Then, <F>er</F> Sam started complaining about Tom because Tom was chatting on his mobile phone while he's driving. Then, from that sight, the police <SC>took his</SC> took Tom's bike away, because it was Tom's fault.</B>
+</task>
+<followup>
+<A>O K. Good. Thank you very much. Do you have a mobile?</A>
+<B>Yes, I have. I just bought last year.</B>
+<A><F>Ah</F>. Last year.</A>
+<B>I didn't like to have it. But I gave up, otherwise <R>I rea</R> I really <SC>lis</SC> <SC>lost my</SC> lose my friends.</B>
+<A><F>Oh</F>. I see.</A>
+<B>I really need to contact. <nvs>laughter</nvs></B>
+<A><F>Ah</F>. O K. What's an advantage of having a mobile phone?</A>
+<B><F>Erm</F> <F>er</F>. <SC>I'm</SC> <SC>for my case</SC> in my case, my mobile phone has <at odr="1" crr="an">a</at> E-mail or massage system. Then, <R>when</R> when I just want to <v_lxc odr="1" crr="leave">tell</v_lxc> a short massage to my friend, <R>I can</R> <SC>I can send a</SC> right, I can just send a short massage <SC>by <R>my</R> my</SC> <SC>by mo</SC> by my mobile phone. If I make <at odr="1" crr="a"></at> phone call, it takes two, three minutes, at least, from say "Hello", "How are you" to <at odr="2" crr="">the</at> "Good-bye". <R>It makes</R> It makes communication much easier, smoother.</B>
+<A>Yeah, I agree. O K. Do you drive?</A>
+<B>Yes, I do.</B>
+<A><F>Oh</F>. How difficult was it to get a driver's license in your case?</A>
+<B>To get driver's <OL>license</OL>?</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B><laughter><F>Oh</F></laughter>. Over ten years ago, I forgot about how was that.</B>
+<A><F>Ah</F> <F>oh</F>. Then, what made you <v_fml odr="1" crr="decide">to decide</v_fml> to drive a car?</A>
+<B><F>Er</F>. Pardon me?</B>
+<A>What made you <v_fml odr="1" crr="decide">to decide</v_fml> to drive a car?</A>
+<B><F>Erm</F>. <SC>I was</SC> I thought <SC>it's</SC> I have to take a <o_lxc odr="1" crr="driver's license">driving license</o_lxc>, <SC>as mu</SC> <o_lxc odr="2" crr="while young">as young as possible</o_lxc>. <F>Mm</F>. Because my parents <av_lxc odr="1" crr="strongly">really</av_lxc> <v_lxc odr="2" crr="advised">advise</v_lxc> us to take a driver's license as soon as possible, otherwise it would be difficult.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. I understand. O K. This is almost <at odr="1" crr="the"></at> end of <at odr="2" crr="the"></at> interview.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>O K</OL>. Do you have any plans to do this weekend?</A>
+<B><F>Er</F>. <CO>I have to recover from my cold, otherwise</CO>.</B>
+<A><F>Oh</F> I see. <F>Oh</F>. How long have you had cold?</A>
+<B>It's just for three or four days.</B>
+<A><F>Ah</F>. Is it bad?</A>
+<B>I feel, <av_lxc odr="1" crr="sometimes">sometime</av_lxc>, all right. But, maybe, it's because <prp_lxc1 odr="1" crr="">of</prp_lxc1> just medicine works well.</B>
+<A>Do you have a fever?</A>
+<B>No, I don't, I just have <at odr="1" crr="a"></at> running nose and a little headache.</B>
+<A><F>Oh</F> I see. <F>Well</F>. Please take care of yourself.</A>
+<B>Thank you very much.</B>
+<A>O K. And this is all. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you very much</OL>. Have a nice weekend.</B>
+<A><F>Oh</F>. Thank you. You, too.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,174 @@
+<interview>
+<filename>file00664.txt</filename>
+
+<head version="1.3">
+<date>2001-11-12</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>670</TOEIC>
+<TOEFL>500</TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi.</A>
+<B>Hi.</B>
+<A>Hi. <F>Ur</F>. My name is <H pn="A's name">XXX01</H>. What is your name, please?</A>
+<B><F>Ur</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Mr. <H pn="B's name">XXX02</H>, <F>ur</F> what are your hobbies?</A>
+<B><F>Mm</F> I have many hobbies. <F>Mm</F>. One is <F>mm</F> playing <F>mm</F> <JP>karate</JP>. And <F>mm</F> other is watching T V.</B>
+<A><F>Mmm</F>. O K. How long have you done <JP>karate</JP>?</A>
+<B><F>Urr</F>. I have done <F>mm</F> <JP>karate</JP> <F>mm</F> for half years.</B>
+<A>Half a year?</A>
+<B>Half a year.</B>
+<A>Did you start this year?</A>
+<B>Yes.</B>
+<A><F>Uhh</F>.</A>
+<B>So <F>ur</F> when I went to <H pn="others1">XXX03</H>, my host family <F>ur</F> played <JP>karate</JP>. So that's <F>ur</F> encourage me play that sport.</B>
+<A><F>Uhh</F> I see. When did you go to <H pn="others1">XXX03</H>?</A>
+<B><F>Ur</F> I went to <H pn="others1">XXX03</H> <F>mm</F> <R>one</R> one years ago.</B>
+<A>Last year?</A>
+<B>Last year.</B>
+<A><F>Uhh</F>. O K. <F>Mm-hm</F> <F>mm</F>. O K. Where are you from?</A>
+<B><F>Ur</F>. I'm from <H pn="others2">XXX04</H> city</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>ur</F> which located <F>ur</F> north part of <H pn="others3">XXX05</H> Prefecture. It takes <F>ur</F> about one hours from here by train.</B>
+<A>By train. O K. I see. What do you usually do on the train?</A>
+<B>On the train? <F>Urr</F> I usually do listening to music, or <R>listening</R> listening <F>mm</F> some English tape.</B>
+<A><F>Uhh</F>. O K. This morning, did you listen to some tape?</A>
+<B><F>Urr</F>. Actually, today <R>I</R> I slept on train because I feel a little tired.</B>
+<A><F>Uhh</F> I see. Why were you so tired this morning?</A>
+<B><F>Urr</F>. Because <F>urr</F> yesterday, I had worked till very late.</B>
+<A><F>Mhm</F>.</A>
+<B>So <SC>that's</SC> that was the reason.</B>
+<A><F>Oh</F> I see. But yesterday was Sunday.</A>
+<B><nvs>laughter</nvs> I'm sorry. <F>Urr</F> It's my mistake. Never mind. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhh</F> O K</OL>. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Then look at this picture, please. And please describe it.</A>
+<B>Describe it. <F>Mm</F>. <F>Mm</F>. <.></.> It is very nice Sunday. <F>Ur</F>. Many people are playing around house. <F>Mm</F>. On the top of that, there are <SC>three or four</SC> <F>uh</F> three dogs and one cat. One cat <F>urr</F> is sleeping on the car. <F>Mm</F> <F>Mm</F> <.></.> <CO>And <F>mm</F> this Sunday</CO>. <F>ur</F> <.></.> <F>mm</F> O K. That's all.</B>
+</task>
+<followup>
+<A><F>Oh</F> O K.</A>
+<B>Do you have some <F>mm</F> question</B>
+<A>Yes, <R>I</R></A>
+<B><OL>about this picture</OL>?</B>
+<A><OL>I do</OL>. Why do you think it is Sunday?</A>
+<B><F>Um</F>. Because there are many children playing <F>mm</F> <R>around</R> around a house. <F>Mm</F>. Sunday children <F>mm</F> don't have to go to school. <R>So I</R> <F>mm</F> so <R>I thi</R> I think <F>mm</F> it is Sunday.</B>
+<A>O K. Which do you like better to live, <F>ur</F> in a big house like this, or in a apartment?</A>
+<B><F>Ur</F>. I'd like to live big house.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Because if I live in a big house, I can play in a backyard.</B>
+<A><F>Uhh</F>. What do you want to do in a backyard?</A>
+<B><F>Urr</F> I want to <F>mm</F> play soccer or something like that sports.</B>
+<A>You mean ball game?</A>
+<B>Yes.</B>
+<A><F>Uhh</F>. O K. How well can you play soccer?</A>
+<B><F>Ur</F>. Just a little bit.</B>
+<A>Just a little bit.</A>
+<B><F>Mm</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Then next, let's do a role play. O K? This is your card. Please read it. And when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K? Hi, May I help you?</A>
+<B>Yes. <F>Ur</F>. I want to go to the New York City by train.</B>
+<A><F>Mm-hm</F>.</A>
+<B>So <F>mm</F> <SC>ha</SC> <SC>I'd like</SC> <F>ur</F> how can I get New York City?</B>
+<A><F>Oh</F>. Please take a <SC>train</SC> next train.</A>
+<B>Next train? How much does it cost from here?</B>
+<A><F>Urr</F>. Twenty five dollars.</A>
+<B>Twenty five dollar? Is that one way ticket?</B>
+<A>Yes.</A>
+<B><F>Ur</F>. O K. I will get the ticket.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K?</A>
+<B><F>Mm</F>.</B>
+<A>Have a nice trip.</A>
+<B><F>Ur</F> <??></??>. Thank you.</B>
+<A>Thank you.</A>
+</task>
+<followup>
+<A>O K. This is the end of the role play. Thank you. Have you been to New York?</A>
+<B>Never. I have never been to there.</B>
+<A>O K. How about <F>ur</F> U S A?</A>
+<B>I have been to <H pn="others1">XXX03</H> just one time.</B>
+<A><F>Mm-hm</F>. O K. Then tell me more about your life in <H pn="others1">XXX03</H>.</A>
+<B><F>Urr</F>. When I was a <F>mm</F> university student, I've been to there. I spent with <F>mm</F> host family. They are very kind. <SC>So they</SC> <F>mm</F> <F>mmm</F> and I went to language school every day <F>mm</F> <SC>for one month</SC> through one month.</B>
+<A><F>Mhm</F>. How did you like that language school?</A>
+<B><F>Urm</F>. Language school is very casual compared with Japanese school. So teacher <F>mm</F> were very funny, and they are very interesting. <SC>They know how</SC> <SC>they know</SC> <F>ur</F> <SC>they knew</SC> <F>mm</F> <SC>the</SC> they knew <R>how</R> <F>mm</F> how to pleased <F>mm</F> students very well.</B>
+<A><F>Mhm</F>. O K. O K, thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Then this is the last picture for you.</A>
+<B>O K.</B>
+<A>O K. This time, please make up a story using six pictures. O K? And it happened before. So please start your story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures for a while.</ctxt>
+<B>May I start?</B>
+<A>Yes, please go ahead.</A>
+<B><F>Mm</F>. <.></.> One day last week, <F>mm</F> I and my father <F>mm</F> went to the restaurant <R>which</R> which was very famous for good atmosphere and food. Then we entered the restaurant, <F>ur</F> <F>ur</F> one <F>ur</F> waiter <F>ur</F> guided me to the good seat. After that, <F>mm</F> another waiter came to my desk, and she recommended <SC>very nice</SC> very good lamb and meat. <R>So</R> so we <R>decided to</R> decided to have that recommended meat. And then <F>ur</F> <SC>we have</SC> we had very good time to eat. <F>Mm</F>. My father <F>mm</F> <SC>very beef</SC> <F>ur</F> very good <R>at</R> <F>ur</F> at eating. After eating, <F>ur</F> I was very full with very nice meat. Then <F>ur</F> my father and I <F>mm</F> left the restaurant. <F>Mm</F> That was very <.></.> nice memory one the last week. That's it.</B>
+<A>O K. Thank you very much. It's very good.</A>
+<B>Don't mention it.</B>
+</task>
+<followup>
+<A>O K. <F>Ur</F>. Then <F>ur</F> O K, what's good about eating in a restaurant?</A>
+<B><F>Uh</F>. Pardon me?</B>
+<A>What is good about eating in a restaurant?</A>
+<B>What is good about?</B>
+<A><F>Mm-hm</F>.</A>
+<B>Good point, you mean?</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urr</F>. <.></.> <F>mm</F> That's depend at. <F>mm</F> <F>ur</F> We can have very hot meal with no effort. <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>.</A>
+<B>So</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>urm</F> I mean, <F>mm</F> we don't have to have effort to make cooking.</B>
+<A><F>Mhm</F>.</A>
+<B>And some restaurants have good music or good atmosphere. I think <SC>that's</SC> <F>urm</F> <SC>that is</SC> they are the main reasons.</B>
+<A><F>Mhm</F>. O K. Do you often eat out?</A>
+<B><F>Urr</F>. Sometimes.</B>
+<A>Sometimes. On what kind of occasion do you eat out?</A>
+<B><F>Ur</F>. <..></..> <F>mm</F> I worked for the <F>mm</F> <R>com</R> company so sometimes there are many <F>mm</F> customers came to office to negotiation. When they <R>come</R> come my office, my boss and I and customer <F>mm</F> would often <SC>to</SC> used to go to restaurant.</B>
+<A><F>Mm-hm</F>. O K.</A>
+<B><F>Mm</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. This is almost the end of the interview. And <F>ur</F> O K, so did you have to work yesterday, Sunday?</A>
+<B><F>Ur</F>. That's my mistake. <CO>Just</CO>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F>.</B>
+<A>Did you enjoy yesterday?</A>
+<B>Yes. I <R>went to</R> <F>ur</F> went to shopping with my girl friend.</B>
+<A><F>Uhh</F>. What did you buy?</A>
+<B><F>Urm</F> <R>I</R> <F>ur</F> I buy some clothes.</B>
+<A>And did she buy anything for her?</A>
+<B><F>Mmm</F> <R>I</R> <F>ur</F> I didn't buy her. But <SC>I had</SC> I treated her some lunch.</B>
+<A><F>Uhh</F>. O K. So <R>did you</R> did you enjoy yesterday with her? How was a date?</A>
+<B><??></??>,</B>
+<A>O K.</A>
+<B>it was.</B>
+<A>O K. That's good. Thank you very much. This is all. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

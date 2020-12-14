@@ -1,0 +1,162 @@
+<interview>
+<filename>file00491.txt</filename>
+
+<head version="1.3">
+<date>2001-06-26</date>
+<sex>female</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>860</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon.</A>
+<B><OL>Good afternoon</OL>.</B>
+<A><OL>How are you</OL> today?</A>
+<B>I'm fine, thank you. It's really <F>ur</F> hot today, but I had a good day.</B>
+<A>So, may I have your name, please? My name is <H pn="A's name">XXX01</H>.</A>
+<B>My name is <OL><H pn="B's name">XXX02</H></OL>.</B>
+<A><OL>Can I call you</OL> <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please.</B>
+<A>O K. <F>Er</F>. So you mentioned that it is very hot. So, how do you like this weather?</A>
+<B><F>Er</F>. I do like summer, <F>er</F> but <F>um</F> <R>not</R> not this <F>er</F> high temperature.</B>
+<A><F>Hum</F>. I see. So, how do you normally enjoy summer time?</A>
+<B><F>Err</F>. I normally go swimming <F>err</F> <F>er</F> and <F>um</F> just <SC>ha</SC> <F>um</F> go to camping with my friends.</B>
+<A><F>Oh</F>. So you are outdoor person.</A>
+<B>I think so.</B>
+<A><F>Oh</F>. <F>Um</F>. I see. And, what do you do?</A>
+<B><F>Er</F>. <CO>For living or</CO>?</B>
+<A><F>Uh-huh</F>. Do you have a job?</A>
+<B><F>Er</F>. Yes. <F>Er</F>. I'm working for a U S consulting firm. <.></.> <F>Ur</F> as a secretary.</B>
+<A><F>Mhm</F>. Please tell me more about your job.</A>
+<B>Yes. <F>Urm</F>. I'm an assistant to <F>ur</F> administrative <F>ur</F> manager <F>um</F> who is in charge of <F>ur</F> our office administration. And <F>um</F> <.></.> <F>uum</F> <nvs>laughter</nvs> <R>I support</R> I support her.</B>
+<A>I see. Do you find any difficulty doing your job?</A>
+<B><F>Uum</F>. Doing my job? <F>Uhm</F>. Difficulties? <F>Err</F>. No, not at this moment. I'm <F>um</F> handling it. I think <F>er</F> well myself.</B>
+<A>I see. O K. Do you have any hobbies besides camping?</A>
+<B>Yes. <F>Urm</F>. I love jogging. And I normally jog <F>er</F> for like two hours on week ends. And, last year, I ran the marathon for the first time in my life.</B>
+<A><F>Wow</F>. How did it go?</A>
+<B><F>Er</F>. Yes. I completed <F>um</F> barely, at the time of five hours.</B>
+<A><F>Oh</F>. Five hours? <F>Wow</F>. So, how did you feel when you did it?</A>
+<B><F>Um</F>. I just felt happy that <SC>I comp</SC> I accomplished something <R>that's very</R> <F>er</F> that's very said to be very hard.</B>
+<A><F>Uhm</F>. I see. So, would you like to participate in another marathon <OL>in the future</OL>?</A>
+<B><OL><F>Um</F> yes</OL>. I'm thinking about participating in New York marathon.</B>
+<A><F>Wow</F>.</A>
+<B>This year.</B>
+<A><F>Oh</F>. What is so <F>um</F> <F>er</F> interesting point about, or good point about jogging or marathon?</A>
+<B><F>Urr</F>. Marathon. <F>Uhm</F>. <F>Um</F>. When you run a certain distance, <F>um</F> I think something <F>um</F> comes out from your brain called <R>adre</R> <R>adre</R> adrenaline. And it makes me feel <F>ur</F> so good.</B>
+<A><F>Hum</F>. I see. <F>Wow</F>. It's so interesting. O K. <F>Er</F>. So, <F>um</F> where are you from?</A>
+<B><F>Um</F>. I originally from <H pn="others1">XXX03</H>. <F>Er</F>. <F>Er</F>. I live in <H pn="others2">XXX04</H> now.</B>
+<A><F>Hum</F>. I see. So, how do you like living there?</A>
+<B><F>Uum</F>. <F>Um</F>. I've only been living in <H pn="others2">XXX04</H> for one year. So I don't know much about this city yet.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>But</OL> <F>um</F> <SC>very</SC> <F>er</F> it's a very convenient place to live.</B>
+<A><F>Uh-huh</F>. I see. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then, I'm going to show you a picture.</A>
+<B><F>Uh-hm</F>.</B>
+<A>Would you describe it for me?</A>
+<B><F>Er</F>. Yes.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Er</F>. There is a couple <F>um</F> having a dinner time <F>er</F> in the restaurant. <F>Er</F> they are dressed very nicely. And they seemed to be celebrating, <F>err</F> <F>er</F> maybe, their <F>um</F> <SC>anniversary</SC> wedding anniversary. And <F>er</F> <SC>count</SC> <F>ur</F> waiter is about to serve <F>er</F> the gentleman <F>um</F> bottle of wine that he ordered. <SC>And the gentleman</SC> <F>um</F> and this gentleman is <F>er</F> about to taste it. <.></.> <F>Um</F>. <.></.> Yes.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A><F>Er</F>. So, what occasion do you usually go to this kind of restaurant?</A>
+<B><F>Urm</F>. <F>Um</F>. It seems like a French restaurant, maybe. So <F>um</F> I normally go there <F>er</F> to celebrate <F>um</F> <SC>my</SC> <F>um</F> someone's birthday or, <F>um</F> maybe, <F>um</F> farewell party for someone.</B>
+<A>I see. <F>Ur</F>. Do you drink wine or any alcohol?</A>
+<B><F>Er</F>. Yes. <F>Um</F>. I drink only a little. <F>Um</F>. <R>I</R> I love <F>er</F> <SC>white wine <F>er</F> that is <F>er</F> <R>sweet</R> <F>er</F> <R>sweet</R></SC> <F>er</F> sweet white wine.</B>
+<A><F>Uhm</F>. <?>Why don't you drink red wine</?>?</A>
+<B><F>Um</F>. Red wine is O K. But <F>um</F> I sometime <F>er</F> find it very bitter. Yes.</B>
+<A>I see. Nowadays, wine is very popular in Japan. <OL><??></??></OL>?</A>
+<B><OL><F>Uh-huh</F> <F>uh-huh</F></OL>. <F>Mmm</F>. I think because the price is going down. <F>Uh-huh</F>. And there are many <F>um</F> cheap but delicious wines <F>um</F> <F>er</F> coming from <F>er</F> foreign countries. And I think this one of the reason why it's been so popular.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <F>um</F> let's do a role-play.</A>
+<B><F>Uh-hm</F>.</B>
+<A>Please read it to yourself. And, whenever you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Ready?</A>
+<B>Yes.</B>
+<A>O K. Hello. This is <H pn="A's name">XXX01</H>.</A>
+<B>Hello, <H pn="A's name">XXX01</H>-<JP>san</JP>. <F>Urm</F>. I'm sorry that I missed the dinner party last night. <F>Um</F>. <R>I</R> I was really looking forward to that party but, unfortunately, my boss <F>er</F> <F>er</F> <SC>had an very</SC> had an urgent <F>um</F> job to complete, and I had to assist her.</B>
+<A><F>Er</F>. You know, I was waiting for you for a long time. Why couldn't you, you know, just <SC>ring or</SC> ring me?</A>
+<B>I'm sorry I forgot to <F>um</F> take your <F>er</F> phone number with me <F>er</F> last night. And I just had no way to contact you.</B>
+<A><F>Oh</F>. But you could have checked on a directly.</A>
+<B><F>Er</F>. Yes. <CO>I'm</CO>.</B>
+<A>Because we promised a month ago.</A>
+<B>Yes. I'm truly sorry. <F>Urm</F>. But <F>um</F> I promise this would never happen again. And <F>urm</F> I still hope that you would invite me <F>er</F> next time.</B>
+<A><F>Uum</F>. O K. But, actually, that was a <F>ur</F> surprise <R>par</R> party for you on your birthday. And I still have a <laughter>big cake</laughter> in my refrigerator. What shall I do with it? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Oh</F> no</OL>. <F>Um</F> <F>um</F>. I'm truly sorry again. <F>Er</F>. But, <F>um</F> can I go to your place and <F>um</F> have that cake myself now?</B>
+<A><F>Er</F>. <R>O K</R> O K. So, please come this time. <nvs>laughter</nvs></A>
+<B>Thank you.</B>
+<A>I'll be waiting for you.</A>
+<B>Thank you for your patience.</B>
+<A>O K. Thank you for your calling anyway.</A>
+<B>Good-bye.</B>
+<A>O K. Good-bye. This is the end of the role-play.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>So, <F>ur</F> do you have this kind of experience? Something you have to cancel in a last minute?</A>
+<B><F>Err</F>. Yes. <F>Uh-hm</F> <F>urm</F> <F>urm</F>. Because <SC>I'm</SC> I've been <F>er</F> working <R>hard</R> hard <F>er</F> lately, <F>um</F> I always make an appointment with my friends. But <F>um</F> <F>um</F> there are many times that I have to cancel this appointments due to my workload.</B>
+<A><R>So</R> so, what do you normally do?</A>
+<B><F>Well</F> <F>um</F>. I normally <F>err</F> phone my friends' mobile to keep them informed <F>er</F> that I can't come.</B>
+<A>I see. <R>O K</R> <F>um</F> O K. We're talking about dinner party.</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Um</F>. <SC>Have you ever <?>held</?> a party, or</SC> just please tell me maybe one of your memorable party.</A>
+<B><R>Memorable party</R>? <F>Um</F>. <.></.> Memorable party? <F>Err</F>. <.></.> <F>Err</F>. Yes. It would be a Christmas party that we had <F>um</F> two years ago <F>er</F> in my office. I was one of the committee. <F>Err</F>. And <F>um</F> we had to <F>um</F> think of the way to entertain a hundred and thirty <F>er</F> people. It was a big party. And we had to stay <F>err</F> late to prepare for that party. But <F>um</F> everybody seemed to enjoyed that party. And <F>um</F> I myself had a good time, too.</B>
+<A>O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now I'm going to show you another picture. <.></.> Please make up a story based on one to six. And it happened last week, so, please start your story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>O K.</B>
+<A>O K?</A>
+<B>Yes. <F>Um</F>. One day <F>um</F> last week, I was driving a car. And this man <F>er</F> came on a bike <F>urm</F> with a mobile phone on his hand. <F>Er</F>. <SC>He was talking</SC> <F>um</F> he was calling someone <F>um</F> by that mobile. <R>And</R> <F>um</F> and, suddenly, he dropped this mobile, and the mobile hit my car. <.></.> And also, <F>ur</F> my car hit <F>er</F> part of his <F>err</F> <SC>motor bike</SC> motor bicycle. And <F>um</F> <SC>this guy</SC> <F>er</F> this man claimed that <F>er</F> it was my fault. <F>Um</F>. <SC>But <F>ur</F> we</SC> but I called the policeman <F>urm</F> to let him judge <F>um</F> whose fault it was. <F>Er</F> finally, <F>er</F> <.></.> the police <F>er</F> wrote a report <F>um</F> that <F>um</F> it was this <F>um</F> motor bicycleman's fault. And <.></.> <F>um</F> <SC>his bicycle <R>was</R> <F>er</F> was just totally</SC> <F>er</F> his bicycle <SC>was <F>er</F> taken by the</SC> <F>um</F> was picked by the vendor <F>err</F> to go to the maintenance.</B>
+<A><F>Uum</F>. I see. Thank you very much.</A>
+<B><nvs>laughter</nvs></B>
+</task>
+<followup>
+<A><F>Er</F>. Now, <H pn="B's name">XXX02</H>, have you ever had <F>ur</F> <??></??> an accident?</A>
+<B>Car accident?</B>
+<A>Any kind of <OL>accident</OL>.</A>
+<B><OL><F>Err</F></OL>. Yes. I had been accident once. <F>Um</F>. <SC>My</SC> I was not a driver, but my mother was driving a car. And she was about to park <F>er</F> her car in the parking lot. But she misjudged the distance. <F>Err</F>. And she hit the pole in front of her. And <F>um</F> <SC>it</SC> <F>um</F> a rear glass <F>um</F> broke just a bit. But no one was hurt.</B>
+<A><F>Oh</F>. O K. <F>Um</F>. If an accident like this happens in Japan, <F>er</F> can you explain the procedure what you are suppose to do?</A>
+<B><F>Er</F>. Yes. <F>Um</F>. First of all, <F>um</F> you'd better call the policeman. And let him <F>um</F> explain what happened. And, secondly, <F>ur</F> if you have an <F>ur</F> insurance company, <F>um</F> <R>that is</R> <F>err</F> that is <F>um</F> reachable for twenty hours. Maybe, you can call <F>er</F> them to get help. And <R>they'll</R> <F>um</F> they'll tell you <F>um</F> what you should do. <F>Mm-hm</F>.</B>
+<A>O K.</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Thank you. So we are almost at the end of the interview.</A>
+<B><F>Uh-hm</F>.</B>
+<A><F>Er</F>. What are you going to do after this interview?</A>
+<B>After this interview, <F>um</F> I think I'll straightly <F>er</F> go to the health club and <F>um</F> just <F>ur</F> jog for an hour. <nvs>laughter</nvs></B>
+<A><OL>So you are</OL> really preparing for a <OL><laughter>New York marathon</laughter></OL>.</A>
+<B><OL><laughter><F>Er</F> yes, yes</laughter></OL>. <OL>I just love to do jogging</OL>.</B>
+<A><OL>That's wonderful</OL>. <F>Oh</F>. I see. O K. Good luck for your marathon.</A>
+<B><F>Uh-hm</F>.</B>
+<A>And, thank you so much for coming.</A>
+<B>Thank you, too.</B>
+<A>Thank you.</A>
+<B>Good-bye.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,243 @@
+<interview>
+<filename>file00675.txt</filename>
+
+<head version="1.3">
+<date>2001-11-19</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>680</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><F>Mm</F> My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>How are you today?</A>
+<B><F>Mmm</F> Fine. <F>Mm</F> Just <SC>slee</SC> <F>mm</F> a little sleepy. <nvs>laughter</nvs></B>
+<A>O K. All right. Where do you live?</A>
+<B><F>Mm</F> I live in <H pn="others1">XXX03</H>, <F>mm</F> my company's dormitory.</B>
+<A>I see. How do you like living in dormitory?</A>
+<B><nvs>laughter</nvs> <F>Mm</F> Not bad. <nvs>laughter</nvs></B>
+<A>So then what's the good point of living in a dormitory?</A>
+<B><F>Mmm</F> <R>Che</R> <F>mm</F> cheap to live. <nvs>laughter</nvs></B>
+<A><F>Mm-hm</F></A>
+<B>And <R>near to</R> near to go to my company.</B>
+<A><F>Uhh</F> I see. How do you come to this company?</A>
+<B><F>Mm</F> Train.</B>
+<A><F>Mm-hm</F></A>
+<B><R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H> Line.</B>
+<A>I see.</A>
+<B><F>Mm</F></B>
+<A><F>Ur</F> Then what do you do on a train?</A>
+<B><nvs>laughter</nvs> Mainly in sleeping and reading books. <CO>And</CO>. <F>mm</F>.</B>
+<A>Do you like reading books?</A>
+<B><F>Mm</F> Yes.</B>
+<A>What kind of books do you like?</A>
+<B><F>Mmm</F> <SC>I'm a</SC> I'm fresh man <SC>in my</SC> in this company. So I have to study <nvs>laughter</nvs> accounting and taxing law. <F>Mm</F> And so I read the book.</B>
+<A><F>Wow</F> I see. I understand. Then what do you do on weekends?</A>
+<B>Weekend?</B>
+<A>Saturday or Sundays?</A>
+<B><F>Mmm</F> <F>mm</F> Two months ago, I bought <F>mm</F> <SC>ca</SC> <F>ur</F> my car. So <nvs>laughter</nvs> I like maybe driving.</B>
+<A><F>Uhh</F> Where do you go driving?</A>
+<B><F>Mmm</F> Gotenba, <JP>nishi</JP> Shizuoka and Hachiouji and <JP>minami</JP> Oosawa.</B>
+<A><F>Mm</F> Why do you like those places?</A>
+<B><F>Mm</F> <R>I</R> I like shopping. <F>Mm</F> The place has <F>ur</F> outlet mall.</B>
+<A>Outlet mall?</A>
+<B><F>Mm</F></B>
+<A><F>Uhh</F> So please tell me more about your favorite shop.</A>
+<B><F>Mhm</F> <F>Mm</F> Favorite shop?</B>
+<A>Yes. So you said <SC>outlet</SC> you go to outlet malls.</A>
+<B><F>Mm</F> <F>mhm</F> For example, Levi's <F>mm</F> and Gap. <CO>And</CO>.</B>
+<A>So what's the difference between the regular shops in the department store and shops in the outlet store?</A>
+<B><F>Mmm</F> Outlet shop <F>mm</F> has a cheap price <F>mm</F> compared with the department store. <F>Mm</F> <CO>So</CO>.</B>
+<A>I see. <F>Mm-hm</F> Then you said you have a car.</A>
+<B><F>Mm</F></B>
+<A>O K. So what kind of car is it? Tell me about your car.</A>
+<B><F>Mmm</F> <R>Wagon</R> <F>mm</F> wagon.</B>
+<A><F>Mm-hm</F></A>
+<B>Station wagon. <SC>Pre</SC> <F>mm</F> do you know <?>Premiere</?>?</B>
+<A><?>Premiere</?>?</A>
+<B>Yes.</B>
+<A>No. Tell me more about <?>Premiere</?>?</A>
+<B><F>Mm</F> This is a Nissan's car. And <SC>the station wagon i</SC> <F>mm</F> so <R>we can</R> <F>mmm</F> <.></.> we can put the luggage a lot.</B>
+<A>I see. <F>Mm-hm</F> So that's why you chose <?>Premiere</?>?</A>
+<B><F>Mmm</F> When I went to <R>secon</R> <F>mm</F> second hand car shop, I found the car. That was <F>mm</F> <R>low</R> low price <F>mm</F> compared the other car. So I decide it.</B>
+<A>I see. So now, you enjoy driving.</A>
+<B><F>Mm</F></B>
+<A><F>Oh</F> That's great. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>All right. So now, please take a look at this picture.</A>
+<B>Yes.</B>
+<A>And tell me about this.</A>
+<B><F>Mmmm</F> This was a restaurant. <F>Mmm</F> Three couples is there. And <.></.> <F>mm</F> she plays a piano. And this couple select the <SC>champaign</SC> wine. <CO>And</CO>.</B>
+<ctxt>Someone knocks the door, and talks to the interviewer.</ctxt>
+<A>O K.</A>
+<B>And he serve the dish. And it is seven o'clock. And <F>uh</F> <SC>he tastes it</SC> <F>ur</F> he tastes the wine. And <.></.> <F>mm</F> <.></.> <F>mm</F> <R>the room is</R> <F>mm</F> <SC>the room is</SC></B>
+<A>O K. Continue. Sorry.</A>
+<B>the restaurant is very <nvs>cough</nvs> large. <F>Mm</F> <CO>And</CO>. <..></..></B>
+</task>
+<followup>
+<A>O K. Do you like drinking?</A>
+<B><F>Mm</F> Yes.</B>
+<A><F>Uh-huh</F> Now what kind of place do you go drinking?</A>
+<B><F>Mmm</F> <SC>Rest</SC> <F>mm</F> maybe restaurant and <R>beer</R> beer hall. <F>Mm</F> And <.></.> <F>mm</F> maybe don't expensive <R>sho</R> <F>mm</F> <R>shop</R> <F>uh</F> <SC>shop</SC> <F>mm</F> restaurant. Of course <SC>I am a</SC> I don't have much money.</B>
+<A><F>Uhh</F></A>
+<B><F>Mm</F></B>
+<A>Is there any good beer hall around here?</A>
+<B>Yes. <F>Mmm</F> Around <R>Aka</R> <F>ur</F> <R>Akasaka</R> <R>Akasaka statio</R> Akasaka station and Shinbashi station <F>mm</F> has a <R>good</R> <F>mm</F> good restaurants.</B>
+<A>I see. But those restaurants are different from this restaurant?</A>
+<B>Yes. Yes. <F>Mm</F> The restaurant is more <F>mm</F> small. <F>um</F> And many people <SC>in the shop</SC> in the restaurant. <F>Mm</F> <..></..> I think this was a very <F>mm</F> expensive restaurant. <F>Mm</F></B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role play. O K? This is your card. Please read it to yourself. And when you are ready, I will start the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B><OL>O K</OL>.</B>
+<A><OL>All right</OL>. May I help you, sir?</A>
+<B><F>Mm</F> Yes. <F>Mm</F> I'm looking for <F>ur</F> some shirts.</B>
+<A><F>Mm-hm</F></A>
+<B><CO>Do you</CO>. <F>um</F>.</B>
+<A>Yes, we have many shirts.</A>
+<B><SC>I like</SC> <R>I</R> <F>ur</F> I'm looking for <F>mm</F> <SC>suits</SC> <F>mm</F> shirts for suits.</B>
+<A><F>Mm-hm</F></A>
+<B><F>Mm</F> And <F>ur</F> I prefer the color blue.</B>
+<A>O K. So look at these two shirts. Both are blue, and good for your suits.</A>
+<B><F>Mm-hm</F> <F>Mhm</F> I prefer <F>um</F> <SC>stripe</SC></B>
+<A><F>Mm-hm</F></A>
+<B>stripes shirts.</B>
+<A>O K. Here you are.</A>
+<B><F>Mm</F> Good. <F>uum</F> Can I try it on?</B>
+<A>Sure. O K. There is a fitting room over there.</A>
+<B><F>Mm</F></B>
+<A>O K.</A>
+<B>O K.</B>
+<A>Yeah.</A>
+<B><F>Mm</F> Good. <F>Mm</F> But <SC>the</SC> this shirt is little big. Do you have small one?</B>
+<A>Sure. O K. So I think this one is a little smaller than that.</A>
+<B>Can I try it <OL><??></??></OL>?</B>
+<A><OL>Sure</OL>. O K.</A>
+<B>Good.</B>
+<A>Good.</A>
+<B><nvs>laughter</nvs></B>
+<A>Yes, you look very nice.</A>
+<B><F>Mm</F> <SC>I prefer</SC> <F>ur</F> I like this.</B>
+<A><F>Mm-hm</F></A>
+<B>I will have it.</B>
+<A><F>Wow</F> Thank you.</A>
+<B><F>Mm</F></B>
+<A><F>Mm</F> It's twenty thousand yen. Is it all right?</A>
+<B>Yes. <R>Can I</R> can I pay in cash? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Sure</OL>. O K. So I will wrap it for you. Thank you.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Ur</F> Role play is over.</A>
+<B><F>Mm</F></B>
+<A>Thank you. So can I have a card? All right. <F>Urm</F> O K. So <H pn="B's name">XXX02</H> <JP>san</JP>, <SC>do you like</SC> <F>uh</F> you said you like shopping.</A>
+<B><F>Mm</F></B>
+<A><F>Mm-hm</F> And <F>ur</F> do you usually go to the store?</A>
+<B>Store?</B>
+<A><F>Mhm</F> Now you can buy something on the internet</A>
+<B><OL>Internet</OL>.</B>
+<A><OL>or</OL> catalogue.</A>
+<B><F>Mm-hm</F></B>
+<A>Have you ever tried them?</A>
+<B>No.</B>
+<A>No?</A>
+<B><F>Mhm</F></B>
+<A>Why not?</A>
+<B><F>Mmm</F></B>
+<A>Internet shopping is very convenient, people say.</A>
+<B><F>Mm</F> I think so. But the internet shopping has to <F>mm</F> enter credit card number. <F>Mm</F> I think <SC>the credit</SC> <F>mm</F> to use credit card in internet is a little <F>mm</F> dangerous because security is not <F>mmm</F> developed,</B>
+<A><F>Mhm</F></A>
+<B>I think.</B>
+<A>I see.</A>
+<B><F>Mm</F></B>
+<A><F>Mm-hm</F> So you go to the store.</A>
+<B>Yes.</B>
+<A>And when you <SC>go to the store</SC> <F>ur</F> go shopping, <F>err</F> are you going alone or with your friends?</A>
+<B><F>Mm</F> <SC>Wi</SC> <F>mm</F> sometimes I may <R>go to shop</R> <F>mm</F> go to shopping with girl friend.</B>
+<A><F>Mm-hm</F></A>
+<B><F>Mm</F></B>
+<A>So why? Do you ask for her advice?</A>
+<B><F>Mmm</F> <F>mm</F> Yes.</B>
+<A>O K. <nvs>laughter</nvs> All right.</A>
+<B><nvs>laughter</nvs></B>
+<A>So if she says, "It doesn't look good on you.", so what do you do?</A>
+<B><F>Mm</F> <R>Pa</R> pardon, please?</B>
+<A>If she says <F>urm</F> so for example, shirt or something, and "It doesn't fit you.",</A>
+<B><F>Um</F></B>
+<A>so what do you do?</A>
+<B><F>Mmm</F> <R>I</R> <R>I may</R> <SC>I may</SC> <F>um</F> maybe <SC>I bo</SC> <SC>I will <SC>buy this</SC> <F>uh</F> buy</SC> <F>mm</F> I will buy it.</B>
+<A><F>Ohh</F> I see. O K. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'd like to show you one more picture. <.></.> O K. So please take a look at this. And <F>ur</F> this time, please make a short story based on these six pictures. But this happened last week. O K? Please start your story with "One day last week".</A>
+<B>One day last week. <.></.> One day last week, <F>mm</F> it was raining. <F>Mm</F> <..></..> <F>mm</F> Can I name <R>hi</R> him?</B>
+<A>Sure.</A>
+<B><F>Mm</F> Taro and Hanako <F>mm</F> was walking. <SC>They sound</SC> <F>mm</F> they sounded something. <..></..> And <R>there were</R> there were box near them. And she found the cat. The cat was <F>mm</F> left in the box. <F>Mmm</F> She said, <F>mm</F> "Let's bring back the cat, and <.></.> <R>fo</R> <F>mm</F> <SC>foods</SC> <R>food</R> food <R>him</R> <R>him</R> <F>mm</F> <SC>him</SC> her.". But he said "No, because <SC>we can't</SC> <F>ur</F> we are not allowed to <..></..> <SC>bring the</SC> <F>mm</F> <SC>bring</SC> <F>mm</F> take after the cat.". <SC>But <SC>she didn't</SC> <F>mm</F> she</SC> <F>mm</F> but she didn't want to <F>mmm</F> listen to him. <..></..> <SC>She</SC> <F>mm</F> <SC>he was</SC> <JP><F>unto</F></JP> <..></..> <R>he wa</R> he was in trouble. <F>Mm</F> And after then <.></.> he allowed her to bring the cat back <SC>her</SC> to them home. And <.></.> the over.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Have you ever had a pet?</A>
+<B>Yes.</B>
+<A><F>Mm</F> What kind of pet did you have?</A>
+<B>Dog.</B>
+<A>Dog?</A>
+<B>Yes. <F>Mmm</F> <F>mm</F> Beagle.</B>
+<A>O K. How did you take care of that dog?</A>
+<B><F>Mm</F> <SC>My mother</SC> <R>my</R> <F>mm</F> my mother <R>bou</R> <F>um</F> bought the dog from her friend. <F>Mm</F></B>
+<A>I see.</A>
+<B>Ten years ago.</B>
+<A>Ten years ago?</A>
+<B><F>Mm-hm</F></B>
+<A><F>Uhh</F> I see. O K. Then what is a good point of having a pet?</A>
+<B><F>Mm</F> <..></..> <R>They</R> <F>mm</F> they don't speak <R>a wor</R> <F>ur</F> a word <F>Mm</F> <?>but</?> he <F>ur</F> <R?>bar</R?> <?>bark</?>?</B>
+<A><F>Mm-hm</F></A>
+<B><F>Uh</F> But <F>ur</F> he don't have a word, but <F>ur</F> <R>he</R> <F>mm</F> <R>he had</R> he had <R>co</R> comical action.</B>
+<A><F>Mm-hm</F></A>
+<B><F>Mmm</F> <.></.> <R>They can</R> <F>mm</F> they can spend a <laughter>time</laughter> <F>mm</F> with your own way. And <F>ur</F> <SC>I like look</SC> <F>ur</F> I like to look the way very much. <R>I</R> I felt <F>mm</F> relaxed to spend the time with them.</B>
+<A><F>Uhh</F> That's good. Is it still alive?</A>
+<B>Yes.</B>
+<A>The dog?</A>
+<B><F>Mm</F></B>
+<A><F>Uhh</F> That's good. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Thank you very much, <H pn="B's name">XXX02</H> <JP>san</JP>. Interview is almost ending. Thank you for coming in today.</A>
+<B>Thank you.</B>
+<A><F>Mm</F> What are you going to do this afternoon?</A>
+<B>Pardon, please?</B>
+<A>What are you going to do this afternoon?</A>
+<B><F>Mm</F> I will work, <F>mm</F> and <F>uh</F> I have to go embassy of Costa Rica.</B>
+<A>Costa Rica?</A>
+<B><nvs>laughter</nvs> In Nishiazabu.</B>
+<A><F>Uhh</F> I see. <F>Uhh</F> Is this your first time to go to <OL>the embassy</OL>?</A>
+<B><OL><F>Mm</F> Second time</OL>.</B>
+<A>Second time. Costa Rica. <F>Oh</F> Sounds interesting.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

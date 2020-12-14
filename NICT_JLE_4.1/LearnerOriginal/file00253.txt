@@ -1,0 +1,158 @@
+<interview>
+<filename>file00253.txt</filename>
+
+<head version="1.3">
+<date>2001-02-23</date>
+<sex>female</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>9</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>. <CO><OL>And please</OL></CO>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><OL>Please</OL>.</B>
+<A><OL><F>Hm</F> nice</OL> to meet you. How are you today?</A>
+<B><F>Erm</F> I'm really good. How are <OL>you</OL>?</B>
+<A><OL><F>Hm</F></OL>. Fine, thank you. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Erm</F> I live in <H pn="others1">XXX03</H> which is in <H pn="others2">XXX04</H>. <F>Erm</F>. Station's on the <H pn="others3">XXX05</H> line. It's about thirty minutes from here.</B>
+<A><F>Hmm</F>. Please tell me a little more about <F>uh</F> that town <OL>you live in</OL>?</A>
+<B><OL><F>Erm</F></OL> yes. It's <F>er</F> quiet town. <F>Erm</F> <SC>many people</SC> <F>erm</F> <F>erm</F> <?>there is</?> <F>erm</F> a lot of <F>erm</F> <??></??> and kids around the town. And it's comfortable, nice <F>erm</F> town, I think. <F>Erm</F>. There's a good <laughter>supermarket</laughter> <OL>and</OL>,</B>
+<A><OL>I see</OL>.</A>
+<B>yeah, I enjoy <F>erm</F> living there. <F>Erm</F> <.></.> <F>er</F>. My <R>fa</R> family have been living there for more than thirty years.</B>
+<A><F>Wow</F>. <F>Mmm</F>. O K. <SC>Have you ever lived</SC> <nvs>cough</nvs> sorry, have you ever lived anywhere else <OL>before</OL>?</A>
+<B><OL><F>Erm</F></OL> actually I lived in <H pn="others4">XXX06</H> when I was in elementary school. <F>Erm</F> I lived there four and a half years.</B>
+<A><F>Hmm</F>.</A>
+<B>Quite different <laughter>from <H pn="others5">XXX07</H></laughter>. <OL>Yeah, <?>different</?></OL>.</B>
+<A><OL>So, what's the big difference</OL>?</A>
+<B><F>Errm</F>. Mainly the people, <.></.> the most big difference. <F>Erm</F> of course, the scenery and the <F>erm</F> atmosphere is different. But what make the atmosphere different is the people, I think. <OL><F>Hmm</F></OL>.</B>
+<A><OL>Yeah</OL>.</A>
+<B><F>Mmm</F>.</B>
+<A>O K. What's the happiest memory, <OL>living there</OL>?</A>
+<B><OL><F>Err</F></OL> <F>well</F> I enjoyed <F>erm</F> the summer camp <F>erm</F> which I can <?>get</?> with my brother and sister. <F>Erm</F> we had a lot of <??></??> <F>erm</F> outside of town. Also, we enjoyed <F>erm</F> swimming, playing tennis. Also, we had <F>erm</F> <??></??> play, <F>erm</F> <SC>we spent a lot of</SC> <F>er</F> we learned a lot <??></??> at <F>erm</F> <.></.> lot of <F>erm</F> <.></.> <??></??>. <F>Hmm</F>.</B>
+<A>O K. I see.</A>
+<B><F>Mmm</F>.</B>
+<A>O K. Then, here in Japan, <F>er</F> what do you like to do in your free time?</A>
+<B><F>Erm</F> I watch movies. <nvs>laughter</nvs> And I'm also thinking about <F>erm</F> being a script translator. <.></.> So, <F>erm</F> in that context, I try to <F>erm</F> <R>com</R> <F>erm</F> compare the original words and the <F>erm</F> <JP>jimaku</JP> <SC>which is the <F>erm</F> <.></.> translate</SC> <.></.> <F>erm</F> <.></.> it's <F>er</F> translation of the script.</B>
+<A><F>Hmm</F>. <F>Hmm</F>. But that sounds difficult.</A>
+<B><F>Mmm</F>. Because <F>erm</F> you have to <F>erm</F> <.></.> put it into very short words. The original sometimes the <F>erm</F> <.></.> <F>erm</F> really good parts of the <F>er</F> original script are totally <F>erm</F> just <.></.> <F>er</F> <.></.> erased out. <F>Hmm</F>. But <F>erm</F> maybe <R>the</R> <F>erm</F> the translation shouldn't just bother the pictures. <F>Erm</F> they say good translations just <F>erm</F> support the movie and <F>erm</F> it shouldn't be the main part. So, <F>erm</F> I think it's a little bit difficult not to just <F>er</F> <.></.> <R>s</R> stress what you really want to say.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Hmm</F>. I see. O K. Thank you. Now I'm going to show you a picture. Please describe it.</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<B><F>Mm</F> describe the scenery? <F>Erm</F>. <SC>It's</SC> <F>er</F> I think it's a ski resort and <F>erm</F> <SC>there's a lot of</SC> <R>i</R> it's sort of crowded. And people are <F>erm</F> skiing but, it seem <.></.> to be <F>erm</F> kids <F>erm</F> just playing with snow. And I don't think they are really good skiers. <F>Erm</F>. This picture doesn't show they are <F>erm</F> skiing faster. They seem to <F>erm</F> maybe <R>s</R> stay in one place instead of <F>erm</F> skiing the hill. And there's nobody on the lift. <F>Erm</F>. <.></.> <CO>Should I describe <OL>how many</OL></CO>.</B>
+<A><OL><F>Hm</F> <F>hm</F> O K, thank you, Good</OL>. <F>Um</F>.</A>
+<B>Would that be all right?</B>
+<A>That's good.</A>
+<B><F>Hm</F>.</B>
+</task>
+<followup>
+<A>So, <H pn="A's name">XXX01</H>, do you go skiing?</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Hmm</F>.</A>
+<B>I do.</B>
+<A><F>Hmm</F>. I wonder why it's so expensive to go skiing.</A>
+<B><F>Ermm</F> I think you have to pay for the <F>erm</F> cost that the owner of the <F>erm</F> <.></.> resort to <F>erm</F> maintain the place <F>um</F> during summer time. <F>Erm</F> so, <F>ur</F> the costs are just borrowing the ski, <SC>it also</SC> <F>erm</F> <.></.> the prices also <F>erm</F> maybe include <.></.> those kind of costs.</B>
+<A><F>Mm-huh</F>. <.></.> So, only rich people can go skiing?</A>
+<B>No, I don't think so. Because <F>erm</F> many young Japanese enjoy <F>erm</F> by getting there by their own car. And <F>erm</F> <.></.> <F>well</F> <F>erm</F> actually, they don't stay for long. Japanese skiers just <F>erm</F> don't stay overnight. They <SC>just <F>erm</F> go</SC> <R>j</R> just <SC>the</SC> <F>erm</F> enjoy for the day.</B>
+<A><F>Hmm</F>. Could you do that, <OL>just for one day</OL>?</A>
+<B><OL>Yes</OL>. <F>Erm</F> you can <F>erm</F> get to these places <F>erm</F> <SC>maybe in a</SC> maybe in two hours from <H pn="others5">XXX07</H>.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. <F>Hm</F> O K. Thank you. Now, let's do a role-play. Please read this card.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A><F>Hm</F>?</A>
+<B><F>Um</F>.</B>
+<A>Are you ready to <OL>start</OL>?</A>
+<B><OL><F>Uh-huh</F></OL>. <F>Uh</F> <OL><F>erm</F></OL>.</B>
+<A><OL>Hello</OL>. May I help you, <OL>miss</OL>?</A>
+<B><OL><F>Erm</F></OL>. Yeah. <F>Erm</F> what's the particular reason that you <.></.> would <F>ei</F> <OL><F>eh</F> I can <R>thin</R> <R>thin</R> think of</OL>?</B>
+<A><OL>You <?>think yourself</?>, yeah</OL>.</A>
+<B>O K.</B>
+<A>Now, may I help you, <OL>miss</OL>?</A>
+<B><OL><F>Huh</F></OL>. <F>erm</F> Yes. <F>Erm</F> I actually <F>erm</F> missed the train I was suppose to get on. Because my <F>erm</F> baby was screaming, crying and <SC>I ha</SC> <F>uh</F> I had <laughter>trouble</laughter> just <R>com</R> comforting her. <CO>So</CO>.</B>
+<A>Babies will cry.</A>
+<B>I'm sorry. But, <SC>I had</SC> <F>er</F> I don't have anyone to take care of her. <SC>Except</SC> I have to do it myself. So, <SC>could you kindly <F>erm</F> please</SC> <F>erm</F> <SC>can I <.></.> change this</SC> <F>erm</F> would you change this ticket to the next train, please?</B>
+<A><F>Ah</F> sorry. Next train is fully booked.</A>
+<B><F>Erm</F> I can just hold my baby and stand <.></.> inside the train. Would that be all right?</B>
+<A><.></.> Sorry. What do you mean by that?</A>
+<B><F>Erm</F> <SC>I don't <.></.> have to sit down</SC> <SC>I don't have</SC> I don't need the seat. I can just stand <F>erm</F> in the corridor.</B>
+<A><F>Uhm</F> <.></.> <F>uhmm</F>. O K. <nvs>laughter</nvs></A>
+<B><laughter>Thank you so much</laughter>.</B>
+<A><nvs>laughter</nvs> O K. Only this time. <F>Hmm</F>.</A>
+<B><F>Oh</F> thank you.</B>
+<A>O K. <CO><OL>Then</OL></CO>.</A>
+<B><OL><??></??></OL> happen <F>uh</F> <F>mm</F> I <F>erm</F> not <R>do</R> do that again.</B>
+</task>
+<followup>
+<A><.></.> O K. <.></.> O K. Thank you, <H pn="B's name">XXX02</H>. So, <F>erm</F> have you ever missed any train that you wanted to?</A>
+<B><F>Er</F> not me, but my mother has. She missed <SC>a train</SC> <F>er</F> a <R>pla</R> plane to Hokkaido. We were <F>erm</F> on <F>er</F> family <.></.> <R>va</R> <F>erm</F> vacation to <F>erm</F> skiing in Hokkaido. And she was <F>erm</F> late in packing up her baggage. <nvs>laugher</nvs> <CO><laughter><R>She</R></laughter> she</CO>.</B>
+<A>You were crying.</A>
+<B>No. <nvs>laughter</nvs> She was crying. <nvs>laugher</nvs></B>
+<A>I see. <F>Hmm</F>. But these days, it seems that <SC>tr</SC> planes are not safe anymore <OL>actually</OL>.</A>
+<B><OL>No, you have</OL> to be careful. <F>Erm</F>. And just always keep your seatbelt <.></.> buckled.</B>
+<A>That's the only way to protect yourself?</A>
+<B><F>Mmm</F>. Otherwise, don't get on any plane. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you. Lastly, <F>er</F> I'm going to give you,</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. Please make a story with these six pictures. Please start with "One day last week,"</A>
+<B><F>Uh-huh</F>.</B>
+<A>And <??></??>.</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Um</F>. <F>Erm</F>. <SC>I was driving</SC> <F>erm</F> <SC>I was on</SC> I was driving and <F>erm</F> I was on a way to see my girl friend. <CO>But <F>erm</F> <.></.> it was</CO>. <.></.> <F>Erm</F> <R>I'm</R> I'm going to change the story. I'm <laughter>sorry</laughter>. <F>Erm</F> I was driving to a library. <.></.> And <F>erm</F> <.></.> <?>there was</?> a <.></.> man on a scooter completely absorbed in talking on a cell phone <?>thinking</?> he might have been talking to his girl friend or something. And <F>erm</F> it seemed that he didn't notice <F>erm</F> me coming up. And we just bumped into each other. <SC>He</SC> but <F>erm</F> <SC>I think</SC> instead of <F>erm</F> being apologized, <F>erm</F> he came up angry with me that <SC>he sort of</SC> <F>erm</F> he dropped his cellular phone and I <.></.> ran over it. <.></.> <F>Erm</F>. So, I used my cellular phone to call up a police. <R>And</R> <.></.> <F>erm</F> <.></.> and the <F>er</F> people came to pick up his broken scooter.</B>
+<A><F>Um</F>. <OL>O K</OL>?</A>
+<B><OL>Yeah</OL>. But a funny story. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A><F>Ah</F>. O K. Good. Thank you. So, here. This is <??></??>. And please describe <OL>how it's broken</OL>.</A>
+<B><OL><F>Ahh</F></OL>. <F>Uh-huh</F>. How it's broken? <F>Erm</F>. <.></.> <R>B</R> <SC>b</SC> I explain <F>erm</F> <.></.> the police, I think <F>err</F> <.></.> that I'm in the <F>er</F> accident. And it seems that the <SC>right</SC> rear <.></.> <F>erm</F> right was broken.</B>
+<A><F>Hm</F>. Only that?</A>
+<B><.></.> <F>Erm</F> I'm not good at these. <nvs>laughter</nvs> <.></.> <F>Erm</F>. Isn't the light just broken, no?</B>
+<A><F>Hmm</F>. O K. O K. Good. Then, <F>er</F> <H pn="B's name">XXX02</H>, how do you think <SC>u</SC> the traffic condition in <H pn="others5">XXX07</H> should be improved?</A>
+<B><.></.> <F>Huh</F>? Excuse me?</B>
+<A>The traffic condition in <H pn="others5">XXX07</H>.</A>
+<B><F>Ahh</F>. <F>Well</F> I'm not sure about that. Because <F>erm</F> <.></.> <F>erm</F> <.></.> first <?>of all</?> the roads <SC>are very</SC> <F>er</F> <.></.> they are not <F>erm</F> wide and we have only just one road. So, <F>erm</F> <.></.> <F>well</F> <SC>you ha</SC> people have to be careful by themselves, I think. And there's no way to <R>e</R> expand the road or <.></.> <F>uh</F> maybe <.></.> <F>erm</F> the conditions are not that bad. But <.></.> <F>erm</F> because it's so crowded, people have to be careful with each other.</B>
+<A><F>Hmm</F>. O K. Do you drive?</A>
+<B>No, I don't.</B>
+<A><OL><F>Oh</F> why not</OL>?</A>
+<B><OL>I had a terrible</OL> accident when I was in college. And I think I wasn't wrong but the person <SC>I bump</SC> <F>erm</F> I got <.></.> just <F>erm</F> into the accident <R>was</R> was wrong. <F>Erm</F>. He was a very frightening man. And he just <R>k</R> kept on calling me for about <.></.> half a year and <R>I</R> I didn't want to drive again. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>. <F>Hmm</F>. <?>I see that</?>.</A>
+<B><F>Mmm</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you for coming in today. And <F>er</F> interview is almost over. But what are you going to do after this today?</A>
+<B><F>Erm</F>. Today? <F>Erm</F> I have to go to work. I <F>erm</F> have a work as a secretary to a professor <SC>at the</SC> <F>erm</F> in <H pn="school name1">XXX08</H>. And after that, maybe <F>em</F> I'll go to see a movie <OL><nvs>laughter</nvs> with my friend</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> I see. What movie are you going to see?</A>
+<B><F>Erm</F> I haven't decided yet. But I am thinking about <F>erm</F> "Billy Elliot" which <F>er</F> is <F>er</F> <F>erm</F> <SC>English</SC> <F>erm</F> England <F>er</F> movie. And <F>erm</F> <SC>I've been</SC> I better <?>say</?> British. And <F>erm</F> there's a boy that he wants to be a ballerina <.></.> very much. But his father is upset about it. Yeah.</B>
+<A><F>Hmm</F>. I see.</A>
+<B>But I think <R>he <F>erm</F> mak</R> <F>erm</F> he makes his way to be a very good one.</B>
+<A><F>Hm</F>. O K. <F>Um</F>. Thank you. Have <OL>a good time then</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Thank you for coming in today</OL>.</A>
+<B>Thank you. And have a good day.</B>
+<A>O K. Thank you, thank you.</A>
+</stage5>
+</body>
+</interview>

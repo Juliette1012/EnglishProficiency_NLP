@@ -1,0 +1,203 @@
+<interview>
+<filename>file01138.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. So <F>er</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>O K. My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A><F>Mh-hmm</F>. So <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Mmm</F> I'm fine.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And how are you?</B>
+<A>I'm fine, thank you. <F>Er</F> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F> <R>I</R> I live in <H pn="others1">XXX03</H>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><?>Yeah</?></OL>.</B>
+<A><F>Oh</F> I see. Do you live there with your family?</A>
+<B>No. <F>Ur</F> <R>I'm</R> I'm live alone. <nvs>laughter</nvs></B>
+<A>I see. Where are you from?</A>
+<B><F>Er</F> I'm from <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F>. Tell me about your hometown.</A>
+<B><F>Mmm</F>. <F>Er</F> my hometown is <H pn="others3">XXX05</H> in <H pn="others2">XXX04</H>. <H pn="others2">XXX04</H> is <R>in</R> in <H pn="others4">XXX06</H>. It's northern <F>er</F> Japan. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>. What kind of place is it?</A>
+<B>Place?</B>
+<A><R>What kind of</R> what kind of place is your hometown?</A>
+<B><F>Erm</F>. <F>Er</F> <H pn="others5">XXX07</H>, <F>er</F> <nvs>laughter</nvs> <H pn="others6">XXX08</H>, maybe <F>er</F> <nvs>laughter</nvs> and so on. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F> I see</OL>. O K. <F>Er</F> tell me about your family.</A>
+<B>Family? <F>Er</F> my family? <F>Er</F> <SC>my father is</SC> <F>ah</F> <?>father</?> and mother is a public servant.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And my <laughter><R>brother</R></laughter> <SC>brother</SC> <R>ol</R> older brother is <F>er</F> businessman.</B>
+<A><F>Hmm</F>. When you and your brother were small, what did you do together?</A>
+<B><F>Er</F> <nvs>laughter</nvs> <F>erm</F> <nvs>laughter</nvs> <F>mmm</F> <.></.> <nvs>laughter</nvs> <F>er</F> <R>e</R> every time, <F>ur</F> fights. <nvs>laughter</nvs></B>
+<A>Fight? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Fight</laughter></OL>. <nvs>laughter</nvs></B>
+<A>O K. <F>Er</F> by the way, what is your hobby?</A>
+<B><F>Er</F> my hobby is <F>er</F> reading books and <F>er</F> listening music.</B>
+<A><F>Hmm</F>. What kind of music do you like?</A>
+<B><F>Ah</F> I like <R>jazz</R> <OL>jazz</OL>.</B>
+<A><OL><F>Ah</F></OL> I see. What is so good about jazz?</A>
+<B>Jazz. <F>Urr</F> jazz music <F>er</F> <R>is</R> <F>er</F> <.></.> is <F>er</F> <R>very</R> very <F>er</F> good rhythm. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><F>Ur</F> don't slow and <R>don't</R> <R>don't</R> don't <F>er</F> fast. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL>. <OL>I see</OL>.</A>
+<B><OL>Very very</OL> <R>middle</R> middle <F>er</F> mild <R>ss</R> <SC>speed is</SC> rhythm is very favorite.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> what kind of books do you read?</A>
+<B><F>Er</F> Books? <F>Er</F> <R>I</R> I read light fantasy.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>No</R> novels.</B>
+<A><F>Ahh</F> I see. <F>Er</F> who is your favorite author?</A>
+<B><F>Hmm</F> <.></.> my favorite author is <F>er</F> Shiono Nanami.</B>
+<A><F>Hmm</F>.</A>
+<B>She is <F>em</F> <F>er</F> <F>erm</F> <.></.> historic <F>er</F> novels <OL>writer</OL>.</B>
+<A><OL><F>Mhm</F></OL>. I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <F>erm</F></A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>I want you to look at this picture. And please describe this picture.</A>
+<B>Describe?</B>
+<A><F>Hmm</F>. Tell me anything about this picture.</A>
+<B><F>Er</F> anything? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Yeah</OL>. You can say anything. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Anything</laughter></OL>? <F>Err</F> <SC>this</SC> <F>er</F> <F>er</F> <..></..> <F>er</F> that man <R>ru</R> running. <nvs>laughter</nvs> And <F>er</F> <.></.> <F>er</F> the kids are playing with ball. Yes. Sun is shining and <OL><laughter>smiling</laughter></OL>.</B>
+<A><OL><F>Mm-hm</F> <??></??></OL>.</A>
+<B><F>Er</F> <F>urr</F> and <SC>the <R>cat</R> cat</SC> <F>ah</F> there is cat on the car. It <R>is</R> <F>er</F> is <laughter>sleeping</laughter>. <F>Er</F> <R>the man</R> the man with <F>erm</F> <SC>white head</SC> <F>ah</F> silver <SC>head</SC> hair is reading newspaper. <CO><F>Er</F> and <F>er</F></CO>. <.></.></B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Thank you very much</OL>.</A>
+<B><laughter>Thank you</laughter>.</B>
+</task>
+<followup>
+<A>And <F>er</F> can you compare this <F>ur</F> neighborhood with your own neighborhood in <H pn="others1">XXX03</H>?</A>
+<B><F>Erm</F> yes. <F>Ur</F> space is <R>very</R> <nvs>laughter</nvs> very <SC>big</SC> <F>ah</F> large. <SC><H pn="others1">XXX03</H></SC> in <H pn="others1">XXX03</H> <??></??> not <F>er</F> small. <nvs>laughter</nvs> <F>Er</F> and <F>er</F> <R>this</R> <SC>this <F>er</F> <SC>home</SC> house is</SC> <F>er</F> <..></..> <nvs>laughter</nvs> <F>er</F> <nvs>laughter</nvs> <F>er</F> <JP><F>eeto</F></JP> <nvs>laughter</nvs> <JP>nandaro</JP> <SC>this home</SC> <F>ah</F> this house is <F>er</F> only one floor. But <F>ur</F> in <H pn="others1">XXX03</H>, the houses is <F>er</F> maybe two or three floor.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, <F>er</F> we'd like to do a role play. <F>Erm</F> I want you to read this card.</A>
+<B>Yeah. <F>Mm-hm</F>.</B>
+<A>And after you finish reading, I'll start.</A>
+<B>Yeah.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Er</F> <R>a</R> anything O K? <OL><F>Ur</F> <R>I</R> I <??></??></OL>?</B>
+<A><OL>Yeah, shall I start</OL>?</A>
+<B>O K.</B>
+<A>O K. Hi. <F>Erm</F> may I help you?</A>
+<B>O K. <F>Er</F> <R>e</R> excuse me?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>. <F>Er</F> <R>I</R> I want <F>er</F> <F>erm</F> video tape. <F>Er</F>. <.></.> <laughter><R>Where</R></laughter> <R>where</R> <R>where it i</R> where it is?</B>
+<A><F>Oh</F> yeah. We have whole bunch of the video tapes over here.</A>
+<B>Over here. <F>Ah</F> thank you. <F>Er</F> <R>which</R> which one is <F>er</F> cheapest? <nvs>laughter</nvs></B>
+<A><F>Er</F> these two are the cheapest.</A>
+<B><F>Oh</F> yeah. <F>Er</F> <F>erm</F> <.></.> which one is <?>high grade</?>? <nvs>laughter</nvs> <F>Mm</F>.</B>
+<A><F>Er</F> I think <F>er</F> this one is good. But this is <F>er</F> only sixty minutes.</A>
+<B>Yeah.</B>
+<A>This one is not so good, but this is one hundred and twenty minutes.</A>
+<B>Yeah. <F>Er</F> <F>mmm</F> <F>mm</F> <R>I</R> I take <JP><F>nnto</F></JP> one hundred twenty minutes one.</B>
+<A>O K.</A>
+<B>How much is it?</B>
+<A><F>Er</F> it is <F>erm</F> eight hundred yen.</A>
+<B><F>Oh</F> eight hundred? <F>Err</F> <..></..> O K. <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B>Thanks.</B>
+<A>Here you are.</A>
+<B>Here.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>So</OL> this is the end of the role play.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A><F>Er</F> where do you usually go shopping?</A>
+<B><F>Mmm</F> shopping?</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><F>Ah</F></OL> <R>I</R> I go <F>mm</F> supermarket.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah. And <R>I</R> <R>I</R> I buy <SC>a food</SC> foods. Some vegetables some meat and <F>er</F> retort food. <nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>. I see.</A>
+<B>Yeah.</B>
+<A>So when you buy <F>er</F> fruits or vegetables, how do you choose which one <OL>to buy</OL>?</A>
+<B><OL><F>Mmm</F></OL>. <SC>Very</SC> <F>er</F> <F>er</F> <R>che</R> <R>che</R> cheapest. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Which is cheapest. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>How about the quality?</A>
+<B><F>Er</F> <R>quality</R> <R>quality</R> <F>er</F> quality, <?><F>ur</F> but</?> I don't <laughter>think</laughter> quality. If it very bad quality, <nvs>laughter</nvs> <F>ur</F> <R>I</R> <SC>I brought it</SC> <F>ah</F> I <R>bri</R> <F>mm</F> bring it <F>er</F> and <R>free</R> freeze <nvs>laughter</nvs> soon.</B>
+<A>I see. <F>Mm</F>. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><nvs>cough</nvs> Now,</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>I want you to look at these picture sequence. And I want you to make up a story based on these pictures from one to six.</A>
+<B>All right.</B>
+<A>And this happened last week, so please start your story with, "One day last week".</A>
+<B><F>Mmm</F>. <R>Las</R> last week, <F>er</F> <R>it</R> <R>it</R> it was the rainy day. <F>Ur</F> <R>I</R> <SC>I walked</SC> <R>I</R> I <R>go</R> go back my home with my girlfriend. <R>Then the</R> <F>er</F> <F>er</F> then <R>the voice</R> <F>mm</F> the voice <F>mm</F> was heard <R>my</R> my ear. <F>Er</F>? <nvs>laughter</nvs> Yeah. And <F>er</F> <F>mm</F> <R>I</R> I looked around, <R>there</R> there is <SC>a cat</SC> <SC>cat <nvs>laughter</nvs> <.></.> or dog</SC> <nvs>laughter</nvs> <SC>whi</SC> cat or dog. <nvs>laughter</nvs></B>
+<A>It doesn't matter. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Er</F> <R>there</R> there was <SC>a cat</SC> <F>er</F> maybe cat there <F>er</F> in the box. <F>Mmm</F> <R>my</R> my girlfriend said me, <F>er</F> "<R>I</R> I want to <F>mm</F> care <R>for</R> for it.". I say no, <R>but</R> but <SC>the</SC> my girlfriend is strong. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter><R>So</R> <R>so</R></laughter> so I go back with it.</B>
+</task>
+<followup>
+<A><F>Hmm</F>. <F>Er</F> which do you like better, cats or dogs?</A>
+<B><F>Mmm</F> cats. <nvs>laughter</nvs></B>
+<A>Why?</A>
+<B><F>Er</F> I like cat more than dogs. <nvs>laughter</nvs></B>
+<A>Any reason?</A>
+<B><F>Er</F> very cute. <R>And</R> <F>er</F> <.></.> <F>hmm</F> <..></..> <F>mmm</F> and <F>er</F> <R>don't</R> don't <R>lo</R> loud voice. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL>. I see.</A>
+<B>Yeah.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now this is <SC>the end</SC> <F>er</F> almost the end of today's interview.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>And</OL> <F>er</F> what are you going to do after this interview today?</A>
+<B>Today?</B>
+<A><F>Hmm</F>.</A>
+<B><F>Er</F> <SC>I go</SC> <F>er</F> <R>I</R> I'm going to go back my home, and <F>er</F> <R>pra</R> practice <R>my</R> my bass guitar.</B>
+<A>Guitar?</A>
+<B>Yeah. Base guitar.</B>
+<A><F>Ahh</F>.</A>
+<B>I'm beginner. <nvs>laughter</nvs></B>
+<A><F>Ah</F> I see. Do you take any lessons?</A>
+<B><F>Er</F> no. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>. So you learn by yourself?</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. So far how good is it?</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B><.></.></B>
+<A>Are you making progress?</A>
+<B><F>Mmm</F> <nvs>laughter</nvs> I don't know. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you very much. I hope you will enjoy practicing <SC>guitar</SC> bass guitar.</A>
+<B>Thank you.</B>
+<A>O K. Thank you very much for coming.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

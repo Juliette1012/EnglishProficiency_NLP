@@ -1,0 +1,257 @@
+<interview>
+<filename>file00101.txt</filename>
+
+<head version="1.3">
+<date>1999-12-15</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>. <nvs>laughter</nvs></B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> yes.</B>
+<A>As I said, you have a nice color sweater today.</A>
+<B><nvs>laughter</nvs> Thank you.</B>
+<A>Do you like this color?</A>
+<B><F>Er</F> yes,</B>
+<A><F>Hum</F>.</A>
+<B>I like <laughter>pink color</laughter>.</B>
+<A><F>Ah</F> I see. <F>Ahh</F> so, what did you do today?</A>
+<B><F>Err</F> today, <F>er</F> I have two lesson. <F>Ur</F> <F>urr</F> in the morning, I had lesson, English class. <nvs>laughter</nvs> After that, <R>we</R> <SC>we have</SC> we had lunch with my friends</B>
+<A><F>Hum</F>.</A>
+<B>in <H pn="others1">XXX03</H> cafeteria. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL> tell me about this <H pn="others1">XXX03</H> cafeteria.</A>
+<B><F>Urr</F> <F>urr</F> it is usually <R>crowd</R> crowd, but today is not so crowded.</B>
+<A><F>Hum</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>Why do you think?</A>
+<B><F>Urr</F> <nvs>laughter</nvs> I don't know, but <F>urr</F> today is Wednesday. <F>Urr</F> <SC>most student Wednesday</SC> <F>urr</F> <.></.> most student, they absent</B>
+<A><F>Oh</F>.</A>
+<B><nvs>laughter</nvs> Wednesday.</B>
+<A><F>Hum</F> I see.</A>
+<B><nvs>laughter</nvs></B>
+<A>And, <F>urr</F> what do you do in your free time?</A>
+<B><F>Urr</F> free time? <F>Er</F> I usually go out shopping in <H pn="others2">XXX04</H>. <nvs>laughter</nvs> I see many clothes. <nvs>laughter</nvs> But only watching. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I decided to wait <R>bargain</R> bargain sale. <nvs>laughter</nvs></B>
+<A><F>Uhm</F> clever.</A>
+<B><nvs>laughter</nvs></B>
+<A>Why do you go to <H pn="others2">XXX04</H>?</A>
+<B><F>Err</F> it's near my house. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>.</A>
+<B>It about twenty minute from my dormitory.</B>
+<A><F>Mhm</F>. Do you like living in dormitory?</A>
+<B><nvs>laughter</nvs> <F>Uhmm</F> yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>But, I must go back dormitory by eleven o'clock. <nvs>laughter</nvs> <F>Er</F> but, <F>urr</F> <R>we can talk</R> <F>er</F> we can talk many things with my friends. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL>. What things do you talk usually <OL>with your friends</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Urr</F> <nvs>laughter</nvs> we talk about boyfriends</B>
+<A><F>Uh-huh</F>.</A>
+<B>and school.</B>
+<A><F>Uhm</F> tell me about your boyfriend.</A>
+<B><nvs>laughter</nvs> <F>Urr</F> <nvs>laughter</nvs> <F>urr</F> <R>I</R> <F>urr</F> <nvs>laughter</nvs> I have many boyfriends and girlfriends. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Urr</F> when I was a high school student, I have no boyfriend.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs> <F>Urr</F> <F>mm</F> <F>urr</F> <R>I</R> <R>I didn't have</R> I didn't have a chance to <SC>spe</SC> <F>er</F> talk with boyfriend,</B>
+<A><F>Hum</F>.</A>
+<B>but <R>when I</R> <SC>when I was a uni</SC> <F>er</F> <nvs>laughter</nvs> when I went to university, <F>er</F> <SC>I had a many</SC> <F>er</F> I had many chance. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhm</F></OL> yeah. That's good.</A>
+<B><nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now, please describe this picture.</A>
+<B><F>Err</F> <..></..> <R>i</R> <SC>it's restaurant</SC> <nvs>laughter</nvs> It's stylish restaurant.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> I want to go <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>like this <laughter>restaurant</laughter>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> <..></..> <F>urr</F> <SC>it's</SC> <F>ur</F> I think it's <F>urr</F> in hotel restaurant. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><F>Err</F> they are <laughter>couple</laughter>,</B>
+<A><F>Uhm</F>.</A>
+<B>good couple. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Ur</F> I think her birthday. <nvs>laughter</nvs></B>
+<A><F>Uhm</F>.</A>
+<B>And, her boyfriend <F>er</F> <.></.> invite her. <nvs>laughter</nvs> <F>Urmm</F> <R>they</R> <F>urr</F> they order wine.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mhmm</F> <OL><F>urr</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+</task>
+<followup>
+<B><F>Urr</F>.</B>
+<A>O K. Good. Tell me about your favorite restaurant.</A>
+<B><F>Urr</F> I like stylish Italian restaurant.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs> <SC>I usually go</SC> <F>er</F> in <H pn="others2">XXX04</H>, there is stylish and cheap restaurant. <nvs>laughter</nvs> I like it.</B>
+<A>How is it stylish?</A>
+<B><F>Urr</F> <nvs>laughter</nvs> <F>um</F> table color is <SC>red and check</SC> red and white check. <nvs>laughter</nvs> It's <laughter>stylish</laughter>.</B>
+<A><F>Hum</F>.</A>
+<B><F>Mhm</F> and it spaghetti's taste is good. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL> sounds good.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, let's do the role play. Have you done this before?</A>
+<B><F>Er</F> no.</B>
+<A>No? O K. Here is your card. Please read it. And when you're ready, I'll start.</A>
+<B><F>Er</F> in English?</B>
+<A>Of course, in English.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Urr</F>.</B>
+<A>O K?</A>
+<B><F>Er</F> <OL><laughter>O K</laughter></OL>.</B>
+<A><OL>O K</OL>. Ring-ring. Hello?</A>
+<B>Hello. This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F> hi, <H pn="B's name">XXX02</H>.</A>
+<B><nvs>laughter</nvs> <SC>Let</SC> <F>err</F> <R>I want to go</R> <F>er</F> I want to go to see movie. <F>Er</F> shall we go to see movie?</B>
+<A>Sounds good.</A>
+<B><nvs>laughter</nvs> <F>Urr</F> <R>when</R> when are you free?</B>
+<A><F>Erm</F> on Sunday.</A>
+<B>On Sunday? <F>Er</F> <R>I</R> I will be free on Sunday. <F>Urr</F> <.></.> <F>urr</F> what time <F>ur</F> are you free? <nvs>laughter</nvs></B>
+<A><F>Uhm</F> in the afternoon.</A>
+<B><OL>afternoon</OL>?</B>
+<A><OL>I'm totally free</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>O K. <F>Urr</F> <R>how</R> <SC>how did you</SC> <F>er</F> <R>how do you go</R> <R>how do you go</R> <nvs>laughter</nvs> <F>urr</F> how do you go in <H pn="others2">XXX04</H>?</B>
+<A><F>Urr</F> by Yamanote-line.</A>
+<B><F>Urr</F> yes, <R>I</R> <R>I wi</R> I will go by bus. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Uhm</F> <F>urr</F> <R>where</R> where do you want to eat?</B>
+<A><F>Urm</F> that stylish Italian <OL>restaurant</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> Yes, I take <laughter>you</laughter>. <F>Urr</F> <.></.> <R>after</R> after we <R>si</R> see movie, <R>what</R> <R>what will you</R> what will you do? <nvs>laughter</nvs></B>
+<A><F>Urm</F> I have no plan.</A>
+<B><F>Urr</F> <F>urr</F> <nvs>laughter</nvs> <R>is dinner</R> <F>er</F> is dinner after movie?</B>
+<A><F>Mhm</F> sounds good.</A>
+<B><F>Er</F> yes. <nvs>laughter</nvs></B>
+<A>O K. Then let's meet <F>ur</F> at <H pn="others2">XXX04</H> Station.</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><?>O K</?></OL>. What time?</A>
+<B><F>Urr</F> I want to go six o'clock.</B>
+<A><F>Uh-huh</F>.</A>
+<B>O K? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, I see</OL>. Then, see you then. Bye-bye.</A>
+<B><laughter>Bye-bye</laughter>.</B>
+</task>
+<followup>
+<A>O K. Thank you. Do you often go to see movies?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhm</F></OL> what kind of movie do you like?</A>
+<B><F>Urr</F> <SC>I love</SC> <F>er</F> <F>er</F> I like <R>love</R> love movie. <nvs>laughter</nvs></B>
+<A><F>Ahh</F> tell me why you like it.</A>
+<B><nvs>laughter</nvs> <R>It</R> it <SC>romance</SC> romantic.</B>
+<A><F>Uhm</F>.</A>
+<B><nvs>laughter</nvs> <F>Uhm</F>.</B>
+<A>Tell me about recent movie you saw.</A>
+<B><F>Urr</F> recently, I watched <F>er</F> "Matrix".</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs> But, it not interesting for <laughter>me</laughter>.</B>
+<A><F>Oh</F>.</A>
+<B>The story is difficult. <.></.> I didn't <R>understand</R> understand it.</B>
+<A><F>Oh</F> so you didn't like it?</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, <.></.> let's do one more picture.</A>
+<B>Yes.</B>
+<A>Have you done this before?</A>
+<B><F>Ah</F> no.</B>
+<A>No? O K. It happened one day last week. And it starts from here until <OL>here</OL>.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A>Please make up a story using "One day last week".</A>
+<B><F>Urr</F> yes, one day last week, <F>urr</F> the boy <F>uhm</F> <R>called</R> <R>called hi</R> called his girlfriend.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs> I think he like her. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Uhm</F> <R>he</R> <SC>he had car</SC> <F>er</F> he had his car. <SC?>He's</SC?> <F>uhm</F> <R>he</R> he thinks <F>urr</F> he take her by his car. <SC>And he</SC> <F>er</F> so he <SC>clean</SC> cleaned up his car. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Urr</F> <R>they went to</R> <F>er</F> they went to see animal. <.></.> <F>Ur</F> <R>they</R> they watched many animals, for example, lion.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs> He like lion <laughter>very much</laughter>. <R>And</R> <F>mhm</F> and after that, they watched monkey. Monkey ate <laughter>banana</laughter>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Monkey thinks <R>it</R> it's delicious. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Urr</F> <R>she is</R> <F>er</F> <SC>she is</SC> <F>ur</F> <R>I thi</R> <F>urr</F> I think she is interesting. <..></..> And, <F>urr</F> <nvs>laughter</nvs> <.></.> <F>urr</F> <SC>after that</SC> <F>urr</F> after they watched many animals, they go back home.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Thank you very much. <F>Ah</F> tell me where do the <H pn="school name1">XXX05</H> students usually go for a date.</A>
+<B><F>Er</F> pardon?</B>
+<A>Where do the students of <H pn="school name1">XXX05</H></A>
+<B><nvs>laughter</nvs></B>
+<A>go <OL>when they have</OL></A>
+<B><OL><F>Uhmm</F></OL>.</B>
+<A>a date?</A>
+<B><F>Urr</F> <F>urr</F> I think <F>urr</F> <F>urr</F> near <H pn="school name1">XXX05</H>, <F>urr</F> <R>we</R> <SC>we usually go <F>er</F> near</SC> <F>er</F> we usually go Italian restaurant near university.</B>
+<A><F>Hum</F>.</A>
+<B><nvs>laughter</nvs> The name is Saizeria.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Do you know this? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F> yeah</OL>. Tell me why they go there.</A>
+<B><F>Er</F> it's near university.</B>
+<A><F>Uhm</F>.</A>
+<B>It is best reason. And it's cheap.</B>
+<A><F>Uhm</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> So, <F>er</F> when you have a date, would you like to go there, too?</A>
+<B><F>Urr</F> <laughter>sometimes</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>Sometimes</laughter></OL>?</A>
+<B><F>Ur</F> <R>we</R> we go <F>ur</F> <H pn="others2">XXX04</H>.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Ur</F> we watch movie. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Sounds great.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. This is almost the end of the interview.</A>
+<B>Yes.</B>
+<A>What are you going to do after this interview?</A>
+<B><F>Ur</F> I have class. <F>Ur</F> this class is computer class. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>It's difficult. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ahh</F></OL> are you good at using computers?</A>
+<B><F>Er</F>. <OL><laughter>No</laughter></OL>.</B>
+<A><OL>No</OL>? Then, why do you go?</A>
+<B><F>Urr</F> because <F>urr</F> <R>I</R> I have to use in the future. <nvs>laughter</nvs></B>
+<A><F>Ohh</F>.</A>
+<B>So I take this class.</B>
+<A>I see.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>It must</OL> be useful.</A>
+<B><F>Urr</F> <OL>yes</OL>.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Thank you very much. And good luck for your computer class.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>Thank you</laughter>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

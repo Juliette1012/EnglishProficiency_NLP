@@ -1,0 +1,167 @@
+<interview>
+<filename>file00369.txt</filename>
+
+<head version="1.3">
+<date>2001-03-07</date>
+<sex>female</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good evening. My name is <H pn="A's name">XXX01</H>.</A>
+<B><H pn="A's name">XXX01</H>?</B>
+<A>May I have your name?</A>
+<B><F>Urr</F>. My name is <SC><H pn="B's name">XXX02</H></SC> <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. And everyone remembers me "Let's go".</B>
+<A><F>Ohh</F>.</A>
+<B><nvs>laughter</nvs> Let's go, <H pn="B's name">XXX02</H>.</B>
+<A><F>Urrr</F>. That's a good way of remembering your name.</A>
+<B>Yeah.</B>
+<A>O K, then, let's go. <nvs>laughter</nvs> O K. What do you usually do around this time of a day, of Wednesdays?</A>
+<B><F>Ur</F>. On Wednesday? <F>Urm</F>. <SC>Last week, we had</SC> <F>urr</F> no, <SC>the other las</SC> <F>um</F> last month, I had a <F>um</F> ALC. So <R>I</R> I usually <F>urm</F> studied in <H pn="school name1">XXX03</H>. But, usually I worked <.></.> overtime. Then, I <F>mm</F> went back home, and I <SC>have to</SC> had to <F>ur</F> cook for dinner <SC>for hu</SC> for my husband. <.></.> Yes.</B>
+<A><F>Oh</F>. I see. So, do you live with your husband?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. Can you tell me a little about your husband?</A>
+<B><nvs>laughter</nvs> O K. <F>Urr</F>. We got married <F>urm</F> <.></.> about <R>one</R> <F>urr</F> one and half years ago, <F>urm</F> like <laughter>honeymoon</laughter>. <F>Um</F>. <SC>And</SC> <F>er</F> so, <SC>when <SC>we <R>me</R> met him</SC> I met him</SC> <SC>when I</SC> when we are in the <F>urm</F> junior high school and high school students.</B>
+<A><F>Wow</F>.</A>
+<B>Yes. So, now, ten years or <SC>ten</SC> <F>urr</F> fifteen years ago.</B>
+<A><F>Mmm</F>.</A>
+<B><.></.> Yes. <nvs>laughter</nvs> But <.></.> my husband, <F>em</F> <SC>we are also the</SC> <F>uh</F> no, he is also a work man. <SC>And</SC> but he <F>urr</F> play the rugby on the weekend. And his team, <F>uh</F> belonging in the <SC>club team</SC> <SC>club</SC> rugby team. It's more powerful because <F>urrm</F> <R>his</R> his team won the championship <SC>last mon</SC> no, <SC>on bo</SC> on the <F>ur</F> January. <.></.> Then, this season, <F>urr</F> he is the captain of <R>te</R> team. So it's hard time.</B>
+<A>O K. Do you often go to see his games?</A>
+<B>Yes.</B>
+<A><F>Mmm</F>. So, on weekends, when there is a game, do you</A>
+<B>No.</B>
+<A>go along with him?</A>
+<B>No. We have no game on <SC>week ay</SC> weekday. <F>Uh</F>. Weekend?</B>
+<A><F>Mm-hmm</F>.</A>
+<B>Yes. Sorry. <F>Urr</F>. We have the weekend, <F>mm</F> <.></.> so I go to <SC>the see him</SC> see his <.></.> games. Yeah.</B>
+<A><F>Mmm</F> <F>well</F>. What do you think of he is always absent on week<SC>end</SC>ends? What do you think of that?</A>
+<B><nvs>laughter</nvs> <F>Urm</F>. First, I think <F>urr</F> it's a <SC>good time for me to</SC> <F>urr</F> <.></.> <F>urr</F> enough time to do for myself. <F>Urr</F>. But, now, <nvs>laughter</nvs> <F>urr</F> sometimes, I think <F>urr</F> <SC>we have more <F>urr</F> time</SC> <F>urr</F> we have better have more time to <SC>each time</SC> <.></.> <F>urr</F> spend time <SC>each</SC> with him. <R>But</R> <F>mm</F> but, <SC>he</SC> now, he doing his <F>ur</F> favorite sports. <.></.> So <R>I</R> <nvs>laughter</nvs> <F>mmm</F> I meet other friends.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Oh</F>. I see. O K. Thank you. O K. I'm going to show you a picture card, <H pn="B's name">XXX02</H>.</A>
+<ctxt>The interviewer is taking out the picture.</ctxt>
+<A>O K. Can you describe this picture for me?</A>
+<B><F>Oh</F>. <.></.> <F>Urm</F>. <.></.> <F>Mm</F>. I'd like to talk about this picture. I think it's a suburb of the Tokyo. <F>Urm</F>. And it's a sunny day, <F>ur</F> maybe, it's <.></.> on the weekend. <F>Urrm</F>. There are many <F>urr</F> <.></.> people <SC>who relax time we have</SC> who have relaxed time. <F>Urm</F>. Example, <.></.> the grandfather, <F>urm</F> he is sitting on the bench <F>ur</F> around the <F>urm</F> street. And <F>ur</F> he is reading a newspaper, maybe, <SC>he</SC> it's a <F>urr</F> early morning. And the man <.></.> who is <F>ur</F> <SC>running</SC> jogging, <F>urm</F> it's a hard work because he sweat. <nvs>laughter</nvs> And then, <F>ur</F> <.></.> there are womans <F>urr</F> who is talking about something. <F>Urr</F>. <R>One</R> one woman <F>urr</F> <SC>picking</SC> <SC>picked</SC> <F>ur</F> <F>ur</F> taking <SC>the his</SC> her dogs. <F>Mm</F>. <SC>Maybe, <.></.> he is on the way</SC> maybe, <SC>he</SC> she is on the way to <SC>the taking</SC> <.></.> <F>ur</F> <.></.> taking a walk.</B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. Thank you, <H pn="B's name">XXX02</H>. Do you like this neighborhood?</A>
+<B><F>Mmm</F>. So, so. Because it's <F>ur</F> little. <JP>Nan darou</JP>. <F>Mmm</F>. <.></.> I like <R>more</R> <F>urr</F> <.></.> more people. <F>Mm</F>. There are little people, I think. But it's good for the health because <R>it</R> it so greeny.</B>
+<A>Yes. O K. Will you tell me differences <.></.> between this picture and your neighborhood?</A>
+<B><F>Urr</F>.</B>
+<A>Or your house.</A>
+<B><nvs>laughter</nvs> I'm living <F>urr</F> <F>urrm</F> <SC>near here</SC> near <H pn="others1">XXX04</H> station. So <SC>there are many</SC> <R>very</R> very crowded <.></.> area and a little bit noisy because <F>urr</F> near the <.></.> train. <.></.> So it's difference, I think. And <F>urr</F> <.></.> <F>mmm</F> <R>there are few</R> <F>uh</F> there are few people who is jogging <.></.> because <F>urr</F> <SC>on my ho</SC> near my house is <SC>a very</SC> not good <F>ur</F> air.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, O K. Thank you. That's end of this picture. Now, let's do a role play. O K?</A>
+<ctxt>The interviewer is taking out the card.</ctxt>
+<A>O K. Please read this card to yourself, and, when you are ready, I'll start the conversation.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K, <H pn="B's name">XXX02</H>?</A>
+<B><JP>hai</JP>.</B>
+<A>O K. Hello, madam.</A>
+<B>Hi.</B>
+<A>How can I help you?</A>
+<B><F>Urm</F>. I'd like to go to the New York, <F>urr</F> but I'm lost way. <F>Um</F>. I don't know <F>urr</F> how is the better way to <F>ur</F> go to New York by train. <F>Urm</F>. <.></.> So, how can I get to the ticket?</B>
+<A>You can buy it here.</A>
+<B><F>Oh</F>. <.></.> So, <F>ur</F> which train is a <R>early</R> early to go to New York?</B>
+<A><F>Well</F>. We have a six P M train.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>That is the earliest. It's <F>urr</F> super express.</A>
+<B>O K. How long does it take <SC>to the</SC> to there?</B>
+<A><F>Well</F> <F>urm</F>. Around ninety minutes from here.</A>
+<B><F>Ohh</F>. <SC>Can I</SC> <F>urr</F> <R>wou</R> would you tell me another trains more earlier?</B>
+<A><F>Mm</F>. No, this is the fastest. <OL>I'm sorry</OL>.</A>
+<B><OL>O K</OL>, O K. So, <F>urm</F> <R>how</R> how much is it, to <SC>get the</SC> get ticket?</B>
+<A>It's forty dollars, <OL>one way</OL>.</A>
+<B><OL>It's forty dollars</OL>? Forty dollars, one way? <F>Urr</F>. For adults?</B>
+<A><F>Mm</F>. Sure. <F>Mm-hmm</F>.</A>
+<B>And, <F>urr</F> <F>uh</F> which <R>for</R> <SC>form</SC> platform <.></.> <F>urr</F> do I have to take?</B>
+<A><F>Mm-hmm</F>. The track number one.</A>
+<B>Number one? O K. Number one, and <F>urr</F> it starts six P M. And it is forty dollars.</B>
+<A>Yes.</A>
+<B>O K. And it takes ninety minutes?</B>
+<A>That's right.</A>
+<B>Thanks.</B>
+<A>O K. Thank you. Have a nice trip.</A>
+<B>You, too.</B>
+</task>
+<followup>
+<A>O K. Do you like traveling, <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><F>Mmm</F> <F>wow</F>. <SC>You are excited</SC> <nvs>laughter</nvs> you're excited. <F>Well</F>. Tell me about the last trip you made.</A>
+<B><F>Urrm</F> <F>urm</F>. Last summer, I went to the New York, <nvs>laughter</nvs> <F>ur</F> <OL>with</OL> my friends.</B>
+<A><OL><R>What</R></OL> what brought you there?</A>
+<B>"Brought"?</B>
+<A><F>Mm</F>. <SC>What did you go there</SC> why did you go there?</A>
+<B><F>Urr</F>. Because <F>ur</F> my friend of high school <F>urr</F> live there. Yes. She got married <F>urr</F> Chinese American. <SC>And</SC> <F>urr</F> so I wanted to <F>urr</F> meet her. <R>And</R> <F>urm</F> and one of my friend with <F>urr</F> <SC>go to</SC> going to New York, <F>ur</F> <SC>who</SC> <SC>she is</SC> <F>urm</F> she will be get married <.></.> next <R>May</R> May. So, <SC>we have to</SC> no, we want to go <F>umm</F> around <?>before</?>. <nvs>laughter</nvs></B>
+<A><F>Wow</F>. You go there again.</A>
+<B>There again.</B>
+<A><F>Wow</F>. I envy you.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you. O K. I'm going to show you another picture.</A>
+<B><F>Mm-hmm</F>.</B>
+<ctxt>The interviewer is taking out the picture card.</ctxt>
+<A>O K. This time, I'd like you to make up a story based on these pictures. But it happened before. So, please start your story with "One day last week".</A>
+<B>O K. And I have to <SC>go to</SC> go through <OL>the six pictures</OL>?</B>
+<A><OL>Yes, six, yes</OL>. Shortly.</A>
+<B>O K. <F>Urr</F>. One day last week, <F>urm</F> <.></.> one young couple <F>urr</F> <.></.> <SC>go to the homes</SC> went to the homes. <F>Urr</F>. But it's raining heavily. <F>Urr</F>. And <SC>the</SC> <SC>along the</SC> <F>uh</F> beside the pool, they <SC>hear the <F>um</F> cats</SC> <.></.> hear the something. So they <SC>pic</SC> <F>urrm</F> open that box. <SC>It</SC> <R>there are the</R> there are <SC>the cats</SC> a little cats. <F>Mm</F>. Maybe, <F>urr</F> someone <F>urr</F> put <.></.> on the street. <F>Um</F>. And <F>ur</F> a girl <R>pick it</R> pick it up to, <SC>help</SC> maybe, help the cats. <SC>And</SC> <.></.> but <F>urm</F> <SC>a boy</SC> <SC>that</SC> a boy <.></.> thinking about <F>urr</F> <.></.> <SC>it is</SC> it's a good idea or not. <F>Urm</F>. But she <F>umm</F> <.></.> <F>urr</F> <SC>talking about</SC> talking him, <.></.> <SC>we had to</SC> <F>urr</F> <SC>we have to</SC> we should <F>ur</F> help cat. And <F>urm</F> they <.></.> taking home <.></.> to go home.</B>
+</task>
+<followup>
+<A><F>Mm</F>. Thank you. Thank you for your story. <F>Well</F>. Do you have a pet?</A>
+<B>Yes.</B>
+<A><F>Wow</F>.</A>
+<B><nvs>laughter</nvs> <F>Urr</F>. But <R>my <F>urr</F> home town</R> my home town <?>where I was born</?>.</B>
+<A>In your parents' place?</A>
+<B>Yeah, in parents,</B>
+<A>What is that pet?</A>
+<B>Cat. <nvs>laughter</nvs></B>
+<A><F>Urrr</F>. <R>What is</R> What is it name?</A>
+<B><F>Urm</F>. Deka-<JP>chan</JP>. <nvs>laughter</nvs></B>
+<A>Why do you <R>name</R> name him that name?</A>
+<B>Because he is a big cats. <F>Mmm</F>. So <F>urm</F> we named it Deka-<JP>chan</JP>.</B>
+<A><F>Mmm</F>. How long <R>ha</R> have your family keeping that cat?</A>
+<B><F>Urrm</F>. Eight years.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL><F>Urrm</F></OL>. Because my grandma <F>urr</F> died, <.></.> then he <SC>came here</SC> came the my house. So my grandpa, it's like the grandma, that's so he said.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>So your family loves Deka-<JP>chan</JP> very <OL>very very much</OL>.</A>
+<B><OL>Yes</OL>, very well.</B>
+<A>Good.</A>
+<B>But, sometimes, <SC>we <F>urrr</F> <SC>hate the</SC> hate</SC> we hate it.</B>
+</followup>
+</stage4>
+<stage5>
+<A><nvs>laughter</nvs> O K. Now, we are at the end of this interview. So, after this, what are you going to do?</A>
+<B><F>Urr</F> <F>urr</F>. I want <F>ur</F> someone cook for us. But I have to cook.</B>
+<A><F>Oh</F>. I'm sorry you are tired, right?</A>
+<B>Right.</B>
+<A>All right. I have class of this interview. <laughter>I'm sorry</laughter>. Anyway, please take care for going home.</A>
+<B><F>Oh</F>. You, too.</B>
+<A>O K. Thank you for coming.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

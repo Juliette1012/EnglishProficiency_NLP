@@ -1,0 +1,312 @@
+<interview>
+<filename>file01017.txt</filename>
+
+<head version="1.3">
+<date>2002-03-28</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>710</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon. My name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B><F>Ah</F> yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>. <OL>Nice to meet you</OL>.</A>
+<B><OL>Good afternoon nice to meet you too</OL>.</B>
+<A>How are you today?</A>
+<B>Yes fine <OL>thank you</OL>.</B>
+<A><OL>That's good</OL>. O K. <nvs>clearing throat</nvs> Mister <H pn="B's name">XXX02</H> <F>umm</F> <R>where</R> where do you live?</A>
+<B><F>Ahh</F> in <H pn="others1">XXX03</H>. Yes. I live in <R><H pn="others2">XXX04</H> Ward</R> <H pn="others2">XXX04</H> Ward in <H pn="others1">XXX03</H>.</B>
+<A><F>Hmm</F>.</A>
+<B>You know <H pn="others3">XXX05</H> Station? It's nearest station.</B>
+<A><F>Hmm</F> I've never been there. Can you tell me about your <F>ah</F> neighborhood?</A>
+<B><F>Ahh</F> the area is <F>ah</F> industrial area.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>Because</SC> so lots of <F>ah</F> <R>bi</R> <F>ah</F> big factories and <F>ah</F> <SC>other</SC> <F>ah</F> and <SC>some</SC> there are some <R>small</R> small <F>uh</F> shops. <OL>Or</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>housings.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>I see. How do you like your neighborhood?</A>
+<B><F>Ah</F> <R>neighborhoo</R> neighborhood?</B>
+<A><F>Um</F>.</A>
+<B><F>Umm</F> Acutally, <R>I</R> <R>I</R> I don't get along with neighborhood.</B>
+<A><F>Oh</F>.</A>
+<B>Because <F>erm</F> I live in a flat and <F>ahh</F> <.></.> <R>we</R> we don't have enough communication <OL>with</OL></B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><F>ah</F> neighborhood.</B>
+<A><R>I see</R> I see. <F>Um</F> I understand you're married.</A>
+<B><F>Ah</F> yes.</B>
+<A>Right?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Can you tell me about your wife?</A>
+<B><F>Ahh</F>. Yes. <F>Ah</F> her name is <H pn="others4">XXX06</H>, yeah, and twenty-five years old.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Um</F>. She's also <SC>worked</SC> <F>ah</F> works <F>ahh</F> and <F>umm</F> <..></..> <SC>I married</SC> <F>ah</F> I got married in last May.</B>
+<A><F>Oh</F>.</A>
+<B>So <.></.> <R>we</R> we are <laughter>happy</laughter> <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL>Of course</OL>.</A>
+<B><F>Ah</F> <R>We</R> <laughter>we really <OL>happy</laughter></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>Yes. <R>And</R> <.></.> and yeah, she's very nice girl.</B>
+<A>Yeah. O K. O K. Now what's your responsibility at work?</A>
+<B><F>Ahh</F> yes <F>ahh</F>. I'm a mechanical <OL><R>designer</R> designer</OL>.</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B>Yes. I worked for four years in this <R>com</R> company.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>ah</F> I'm responsible for <F>ah</F> mechanical engineering and electronical engineering <OL>design</OL>.</B>
+<A><OL><F>Um</F></OL>. <.></.> Sounds very complicated.</A>
+<B><OL><F>Ahh</F></OL>.</B>
+<A><OL>What do you</OL> like about your job?</A>
+<B><F>Ahh</F> yes. <F>Ahh</F> the main point is <F>ah</F> <.></.> <R>resolving</R> resolving the problem <R>of</R> <F>ah</F> of <F>ah</F> customers' problem.</B>
+<A><F>Um</F>.</A>
+<B><R>I</R> <SC>I deal</SC> I make an effort to solve cusotmers' problem and when I find the correct way to solve the problem</B>
+<A><F>Um-huh</F>.</A>
+<B>I'm very happy.</B>
+<A>Of course. <R>I see</R> I see. <F>Hmm</F>. So <F>ah</F> what's your future dream?</A>
+<B><F>Umm</F>. I'm interested in <F>ah</F> environmental problem.</B>
+<A><F>Umm</F>.</A>
+<B>Because building consumed lots of energy and fuel.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Or something like that. So <.></.> <R>my task</R> my task <SC>about</SC> <F>ah</F> <R>for the earth</R> for the earth is <F>ah</F> in my opinion <R>I</R> I think the task is <F>ahh</F> <R>how</R> how we reduce the consumption of energy.</B>
+<A><F>Umm</F>.</A>
+<B><SC>Because</SC> <.></.> so my dream is <F>ahh</F> design the less energy building.</B>
+<A>I see. <R><F>Wow</F></R> <F>wow</F>. Sounds like very challenging.</A>
+<B><F>Ah</F> yes, I know but. <.></.></B>
+<A>O K good. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now first of all I would like to show you a picture. <F>Um-huh</F> let's do this. Here's a card for you.</A>
+<B>Yes.</B>
+<A>And please describe this picture for me.</A>
+<B><F>Oh</F> yes.</B>
+<A><F>Um</F>.</A>
+<B><F>Ah</F> In the center of restaurant, <F>ahh</F> there is a round table and <.></.> a <SC>wo</SC> man and his wife <F>ah</F> <SC>is</SC> <SC>was</SC> <F>ahh</F> is <SC>sitting <R>on</R> <R>on</R> the</SC> <F>ah</F> sitting in the store at the table. And the waiter, the sommelier <SC>is <F>ahh</F> <R>recom</R> <R>recomending</R></SC> was recomending <F>ah</F> the nice wine <F>ahh</F> which is red one. <R>And</R> <.></.> and <SC>he's</SC> the man he's speaks to something to sommelier. Yeah. And there are <R>long</R> <SC>long watch</SC> long clock is <F>ahhh</F> behind <F>er</F> on the wall. And <SC>near the wall</SC> near the clock, <F>ahh</F> a lady is playing the piano. And in this floor, <F>ahh</F> there are three tables and each table is filled with <F>ah</F> customers. <F>Ahh</F> <.></.> <SC>It</SC> I think it looks very expensive restaurant.</B>
+<A><OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+</task>
+<followup>
+<A>What kind of occasion <R>would you</R> would you like to go to this kind of restaurant?</A>
+<B><F>Ah</F>. Yes, of course.</B>
+<A>What kind of occasion would you <OL>like to go</OL>?</A>
+<B><OL><F>Ah</F></OL>. Occasion. <F>Ahh</F>. Maybe <F>ah</F> <.></.> today is <F>ahh</F> their are memorial day. <.></.> <CO>Or birthday or</CO>.</B>
+<A><R>Not</R> not them but your.</A>
+<B><F>Oh</F> me?</B>
+<A>Yeah. What kind of occasion would you like to go to this type of nice restaurant?</A>
+<B><F>Ahh</F>. <F>Ahh</F>. Yes <F>ah</F> I'd like to go there on wife's birthday. Or the day we married. <.></.> Yes. <R>That's</R> that's enough. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><R>What kind</R></OL> what kind of restaurant do you usually go?</A>
+<B><F>Ahh</F> <F>ah</F> mainly, we usually go <F>ah</F> <SC>Italian</SC> an Italian restaurant.</B>
+<A><F>Um</F>.</A>
+<B>Yeah. Because very popular and lots of restaurant is there <R>and</R> <F>umm</F> <R>and</R> <nvs>cough</nvs> and the costs is reasonable.</B>
+<A>Is that right?</A>
+<B>Yeah.</B>
+<A><R><F>Um</F></R> <F>um</F>.</A>
+<B>Very nice.</B>
+<A>I see. All right, thank you very much. Can I have that card back? Good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now next, I'd like to do a role-play.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is selecting a role-play card.</ctxt>
+<A>O K, let's do this. Here's a card for you.</A>
+<B>Yes. Thanks.</B>
+<A>It's written in Japanese so please read it to yourself. When you're ready, I'll begin.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<A>Yeah?</A>
+<B><OL>Yes I read it</OL>.</B>
+<A><OL>O K</OL>. Yes sir. how may I help you?</A>
+<B><F>Ahh</F> yes. <F>ah</F> I'd like to buy <F>ahh</F> computer game.</B>
+<A>Sure.</A>
+<B>Yeah. And I like <F>ahh</F> the newest <F>ahh</F> game <F>ah</F> which is <R>useful</R> useful for me to <F>uhh</F> progress English.</B>
+<A><OL><nvs>laughter</nvs> I see</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>What</R> what kind game do you have?</B>
+<A><F>Ahh</F>. We have few games <OL>which</OL></A>
+<B><OL>Yes</OL>.</B>
+<A>we imported</A>
+<B>Yes.</B>
+<A>from the Untied States.</A>
+<B><F>Ahh</F>. <.></.> <F>Ahh</F> <R>would</R> would you give me some title <nvs>laughter</nvs> of the game?</B>
+<A>O K. <F>Well</F> <F>um</F> <F>well</F> <R>I have</R> I have three different types them.</A>
+<B>Yeah.</B>
+<A>O K. This one, this one and this one.</A>
+<B><F>Oh</F> Yes. <F>Ahh</F> <SC>which is the most cheapest</SC> <F>ahh</F> which is the cheapest one?</B>
+<A>O K. This one is the cheapest.</A>
+<B><F>Um-huh</F>. What is the feature <R>of this</R> of this one?</B>
+<A><F>Oh</F> O K. <F>Umm</F> this is a kind of game.</A>
+<B><F>Um-huh</F>.</B>
+<A><F>Umm</F> in English.</A>
+<B><F>Um</F>.</B>
+<A>Everything is in English <OL>of course</OL>.</A>
+<B><OL><F>Um-huh</F></OL>.</B>
+<A>But <F>ah</F> it's more like a story.</A>
+<B><F>Ahh</F> story.</B>
+<A><F>Um</F>.</A>
+<B><F>Umm</F>. It's like a role-playing game.</B>
+<A><F>Um-huh</F>.</A>
+<B>A kind of role-playing game?</B>
+<A>Right.</A>
+<B><F>Oh</F> it's funny?</B>
+<A><F>Well</F> you know, <R>you</R> you can create your own story.</A>
+<B><F>Uh-huh</F>.</B>
+<A><?>Like this kind</?>.</A>
+<B><laughter><F>Ahh</F> yes</laughter>. <nvs>laughter</nvs> <F>Ahh</F> <SC>the how</SC> <F>uhh</F> <R>which is the most</R> <F>ahh</F> <F>umm</F> which is the <F>ah</F> most sold game?</B>
+<A>O K. <F>Ahh</F> <R>the</R> the most <CO><OL>popular one is</OL></CO>.</A>
+<B><OL><R>Popular</R> popular one</OL>.</B>
+<A>Yeah. Is this one.</A>
+<B>This one?</B>
+<A>Yes.</A>
+<B><F>Ahh</F>.</B>
+<A>This one is the best.</A>
+<B>But <F>ehh</F> it's expensive?</B>
+<A>Yes.</A>
+<B><F>Ah</F> <laughter>yes</laughter>. <F>Ahh</F> O K. <F>Ahh</F> <R>what</R> what is this? How was this one?</B>
+<A><F>Umm</F>.</A>
+<B>How is this one?</B>
+<A><R>This is</R> this is also a game.</A>
+<B>A game. Yeah. <F>Uhh</F> <SC>what is the</SC> <F>umm</F> <R>I</R> I want to progress my vocabulary.</B>
+<A><F>Um-huh</F>.</A>
+<B>So what is <SC>the best</SC> <F>um</F> <SC>suit</SC> most suitable for my <R>ob</R> object?</B>
+<A>O K. <F>Well</F> in that case, I will recomend this <OL>cheapest</OL>.</A>
+<B><OL>cheapt one</OL></B>
+<A>Because you can create your own story.</A>
+<B><F>Uh-huh</F>.</B>
+<A>You have to know the vocabulary.</A>
+<B><F>Ah</F>. O K. So, I get this one.</B>
+<A>O K.</A>
+<B>Please. Yes.</B>
+<A>You like this one?</A>
+<B>Yes.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Please</OL>.</B>
+<A>Five thousand yen.</A>
+<B>Five thousand yen. May I use a credit card?</B>
+<A>Sure.</A>
+<B>Yes.</B>
+<A>Sure.</A>
+<B>Here it is.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Here is card please</OL>.</B>
+<A>Thank you very much. And here's a game for you.</A>
+<B>Yes. <OL>Thanks</OL>.</B>
+<A><OL>All right</OL>. Here's your card back.</A>
+<B>Yes.</B>
+<A>Thank you very much. I hope you like it.</A>
+<B><.></.> <R>I don't</R> I don't need to write the sign?</B>
+<A><F>Oh</F> everything is done now. <OL><laughter>O K</laughter></OL></A>
+<B><OL><nvs>laughter</nvs></OL>. O K.</B>
+<A>All right. Thank you <OL>very much</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Can I have that card back?</A>
+<B><F>Ah</F> yes.</B>
+</task>
+<followup>
+<A>All right. <nvs>clearing throat</nvs> Good. Now, <laughter>you want a game</laughter> to improve <R>your</R> your vocabulary?</A>
+<B><F>Um</F>.</B>
+<A><R>How did you</R> <F>ahh</F> how did you study English in England?</A>
+<B><F>Ahh</F> yes <F>ahh</F> actually, I bought a English word game.</B>
+<A>You did?</A>
+<B>Yeah. <SC>It's name is</SC> <F>ahh</F> who's name is Scrabble. You know?</B>
+<A>Scrabble?</A>
+<B>Scrabble.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Ahh</F> it's like <F>ahh</F> <F>oh</F> <.></.> <R>we</R> we manage <R>to</R> to make a words and a kind of crossword puzzle.</B>
+<A><F>Uh-huh</F>. <F>Uh-huh</F>.</A>
+<B>And someone make <SC>one part</SC> one word and <F>ahh</F> <SC>the other one</SC> <F>ah</F> the other person <F>ah</F> make a new word with connecting the <?>capture</?> or <SC>last word</SC> last letter.</B>
+<A>Right.</A>
+<B>Yeah.</B>
+<A>Right. <OL>I see</OL>.</A>
+<B><OL>Very</OL> interesting game.</B>
+<A>I see.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. <F>Well</F> I hope you learned <OL>a lot</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now lastly, I would like to show you <nvs>clearing throat</nvs> different <R>pic</R> picture.</A>
+<ctxt>The interviewer is looking for a sequence picture.</ctxt>
+<A>Let's see <F>Umm</F> maybe I want to do this. Here's the card for you.</A>
+<B>Yes. Thanks.</B>
+<A>I'd like you <R>to</R> to make a short story based on these pictures from number one to six. And this happened before, so please start your story with "One day last week".</A>
+<B>Yes. <.></.></B>
+<ctxt>The interviewee is looking the the sequence pictures and thinking for a while.</ctxt>
+<B>O K.</B>
+<A>Go ahead.</A>
+<B><F>Ah</F> one day last week, <F>ahh</F> <R>I and</R> I and my father <F>ahh</F> went to <R>re</R> restaurant. And <.></.> went to restaurant. And <R>the restaurant</R> is <F>ahh</F> <.></.> <F>ah</F> the restaurant <SC>had</SC> served <F>ah</F> <F>ahh</F> <SC>continental restaurant</SC> <F>ah</F> continental foods. And my father <F>ahh</F> said to waiter that <F>ahh</F> <SC>we want to have a round</SC> we'd like to sit a round table <F>oh</F> <R>in the</R> <F>ahh</F> in the restaurant. <F>Ahh</F> <R>and</R> <F>ah</F> and <..></..> <SC>some</SC> <.></.> a waitress <F>eh</F> <R>came to</R> <F>eh</F> <R>came to</R> <F>ahh</F> <R>came to catch</R> came to <SC>catch</SC> <F>ah</F> get our order. And <F>ah</F> <R>we</R> we ordered <F>umm</F> <.></.> in turn. And <F>ah</F> I had a <JP>jokki</JP> of beer and my father had a glass of <SC>wine</SC> white wine. And I had a fried fish and some vegetables. And my father had a <SC>chicken leg</SC> fried chicken leg. Yes. <R>That</R> that was very nice. And after <SC>having a dish</SC> having a dinner, <F>um</F> <SC>he treat me</SC> he treated me. And <R>I'm</R> <SC>I'm fulling</SC> I was full enough. And <.></.> <SC>after we had</SC> <F>ah</F> <R>and</R> and then, <F>ahh</F> we go back home <F>ah</F> <R>we</R> <R>we go</R> <R>we went to</R> we went back each home. <SC>We say</SC> we saying good-bye.</B>
+<A>O K.</A>
+<B>That's it.</B>
+<A>All right. O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>How did you like the food <R>in</R> in England?</A>
+<B><F>Ahh</F> yes <F>ahh</F>. My favorite <SC>is</SC> <F>ah</F> was <F>ah</F> curry.</B>
+<A>Curry?</A>
+<B>Curry.</B>
+<A><F>Hmm</F>.</A>
+<B>Yes. <F>Ah</F>. <SC>Curry is my host</SC> I was staying <F>ah</F> <R>home</R> <SC>home</SC> <R>I</R> <R>I</R> I stayed homestay with <F>ahh</F> one lady. And <F>ah</F> she said <F>ah</F> she is English <OL>but</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>She said curry is the most popular food in England.</B>
+<A><OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><R>I</R> yeah. <R>I</R> I found it strange.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><R>I</R></OL> I think it sounds strange but <R>she</R> she insisted on that.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <R>twice</R> twice a week.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL>. <laughter><R>I</R> I had a curry</laughter>. <nvs>laughter</nvs></B>
+<A>Is that right?</A>
+<B>Yeah, but very good. Yeah.</B>
+<A>It was good?</A>
+<B>Yeah.</B>
+<A><F>Ummm</F>. What about the other food?</A>
+<B><F>Ahh</F> <R>and</R> <.></.> and fish and chips is also good.</B>
+<A><F>Um</F>.</A>
+<B>Because I think it's similar to Japanese <JP>tempura</JP>.</B>
+<A>Is that right?</A>
+<B>So <..></..> <R>most of</R> most of English <R>don't</R> maybe don't like <nvs>laughter</nvs> fish and chips.</B>
+<A><F>Hmm</F>.</A>
+<B>So it's fatty. <CO>But</CO>.</B>
+<A>Very.</A>
+<B><OL><laughter>Very</laughter></OL>.</B>
+<A><OL>Very yes <nvs>laughter</nvs></OL>.</A>
+<B><laughter>But in my opinion</laughter>.</B>
+<A><F>Umm</F>.</A>
+<B>It's very nice to us.</B>
+<A>Is that right?</A>
+<B>Yeah.</B>
+<A><F>Oh</F> O K. All right. How interesting. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now Mister <H pn="B's name">XXX02</H> this is almost the end of the interview. So <F>um</F> you going back to you office after this <OL>interview is over</OL>?</A>
+<B><OL>Yes</OL>. Yes.</B>
+<A>Do you work in this main office?</A>
+<B><F>Ahh</F> no. Another building.</B>
+<A>O K. You have to walk?</A>
+<B>Yes.</B>
+<A><F>Um</F>. O K. <F>Well</F> then I won't keep you. This is the end of the interview. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL>. Thank you very much.</B>
+</stage5>
+</body>
+</interview>

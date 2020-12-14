@@ -1,0 +1,202 @@
+<interview>
+<filename>file00190.txt</filename>
+
+<head version="1.3">
+<date>2001-01-16</date>
+<sex>male</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>graduate student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Eer</F> I'm fine, thank you. And you?</B>
+<A>I'm fine, thank you. O K. <H pn="B's name">XXX02</H> <JP>san</JP>, where do you live?</A>
+<B><F>Ah</F> I live in <H pn="others1">XXX03</H>, near <H pn="others1">XXX03</H> Station.</B>
+<A><OL><F>M</F></OL>?</A>
+<B><OL><F>Ah</F></OL> in <H pn="others2">XXX04</H>.</B>
+<A>I see. Do you live in <R>S</R> <F>er</F> <H pn="others1">XXX03</H> with your family?</A>
+<B>Yes. I have a wife and I live with her.</B>
+<A>I see. Please tell me about your wife.</A>
+<B><F>Aah</F> <F>ah</F> last year, I <..></..> but she is older than <??></??>.</B>
+<A><.></.> And does she have a job?</A>
+<B>Yes. <SC>She works for</SC> she has a job which is <.></.> <R>ho</R> <..></..> house keeping.</B>
+<A><F>M</F> I see. <F>Mh-hmm</F>.</A>
+<B><R>I</R> I think that is a job.</B>
+<A><F>Ah-huh</F> I see. O K. Then, <H pn="B's name">XXX02</H>, <F>er</F> what do you study at <H pn="school name1">XXX05</H>?</A>
+<B>I study information, telecommunication, especially, <R>I</R> I study <?>world media</?>. <OL><?>world media</?></OL>.</B>
+<A><OL>Pardon me</OL>? <F>Ah</F> I see. <F>Mm</F>.</A>
+<B><F>Er</F>. <??></??> <?>engineering</?>.</B>
+<A><F>Mhn-huh</F>. O K. Then, <F>em</F> are you graduate student?</A>
+<B>Yes.</B>
+<A>I see.</A>
+<B><F>Uh</F> I'm thirty-three years old.</B>
+<A><F>Ah-huh</F> I see. Then, do you work for a company, too?</A>
+<B>No. But I have a job.</B>
+<A><F>Ah-huh</F>. So tell me about your job.</A>
+<B><F>Er</F> my job is <SC>writing a</SC> writing articles for newspaper or magazines. <.></.></B>
+<A><F>Uhm</F> what kind of articles do you write?</A>
+<B>Art critique. Art critique.</B>
+<A><F>Ah</F> tell me more about it.</A>
+<B><F>Mm</F> especially, I write for art <??></??>. Contemporary art, do you know? <..></..> I go to museum or gallery to see exhibition,</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL>and <R>I</R></OL> I write a article, critique.</B>
+<A><F>Mm</F> I see. Do you know some <F>er</F> <F>er</F> <.></.> what do you say, famous artists</A>
+<B>Yes.</B>
+<A>in Japan?</A>
+<B>Yes. In Japan. All over the world.</B>
+<A>I see. O K. So <SC>tell me one of them</SC> <nvs>laughter</nvs> tell me about one of them. <OL><F>Mm</F></OL>.</A>
+<B><OL><F>Mm</F></OL>?</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>. Do you know <F>uh</F> do you know contemporary art?</B>
+<A>I don't know much about it.</A>
+<B><OL><??></??> <F>Oh</F></OL>.</B>
+<A><OL><F>Mhn-huh</F></OL>.</A>
+<B><F>Hm</F>. <F>Er</F> for example, Mister <??></??> Chan. He is Chinese.</B>
+<A><F>Mhn</F>.</A>
+<B><F>Er</F> his work is good.</B>
+<A><F>Mhn</F> <F>mm</F> why is his work good?</A>
+<B><F>Ah</F>. His work is very powerful</B>
+<A><F>Mhn</F>.</A>
+<B>and deep.</B>
+<A>I see. Then, <nvs>cough</nvs> I don't know much about <F>er</F> contemporary art. But <F>er</F> what should we do to learn that? <nvs>cough</nvs></A>
+<B><F>Ah</F> <SC>you have to</SC> <F>mm</F> you don't have to learn.</B>
+<A><F>Mmm</F>.</A>
+<B>At first, you go to museum or gallery.</B>
+<A><F>Mhn</F> <.></.> that's it?</A>
+<B><F>Hm</F>?</B>
+<A>That's all? That's it?</A>
+<B>And you start to learn.</B>
+<A><F>Ah</F> I see. <F>Mm</F> sounds interesting.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much. Now, <nvs>cough</nvs> <.></.> all right, this is not contemporary art but please describe the picture for me.</A>
+<B><F>Mmm</F> <SC?>desc</SC?> <F>erm</F> this picture is <??></??> about <F>mm</F> in restaurant, maybe. And <..></..> <F>er</F> a man is standing <.></.> near table. <.></.> And he has bottle of wine. And maybe <F>ah</F> <R>two pe</R> <F>a</F> <SC>two people is sitting</SC> two people are sitting. And one <?>of</?> is <SC>me</SC> man and the other <SC>s</SC> is woman <.></.> <F>ah</F> tasting wine. And he <?>is</?> smile, so he think <SC>O K</SC> this wine is O K. And he wears green jacket and <F>ur</F> gray tie. <F>Erm</F> woman wears a dress of pink and she has necklace and earrings. More?</B>
+<A><F>A</F> that's all? <OL><nvs>cough</nvs></OL></A>
+<B><OL><F>Mhm-huh</F></OL>.</B>
+<A>If you finished, it's O K.</A>
+<B><nvs>laughter</nvs> <F>Mm</F>. If I was <?>to</?> say more, <F>eh</F> there is a piano and woman is playing a piano next big watch.</B>
+</task>
+<followup>
+<A>All right. Thank you very much. O K. So, <H pn="B's name">XXX02</H> <JP>san</JP>, do you sometimes go to this kind of restaurant?</A>
+<B><F>Mmm</F>. Western restaurant.</B>
+<A><F>Mm</F> do you sometimes go to a restaurant like this?</A>
+<B>No.</B>
+<A><F>Mhn</F> then, tell me about your favorite restaurant.</A>
+<B><F>Mm</F> <F>ah</F> a Chinese restaurant.</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>Er</F> <F>mm</F> because <F>er</F> I'm very delicious foods <??></??> restaurant. <F>Hm</F>. And I don't often go such a restaurant because I don't like wine.</B>
+<A>I see. Why you don't like wine?</A>
+<B><F>Mmmm</F> I like much <F>er</F> <..></..> <R>Chi</R> Chinese <.></.> liquor than wine.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Ah</F> I see. O K. All right. Thank you very much. <nvs>cough</nvs> Sorry. Now, let's have a role-play. O K. <F>Er</F> this is your card. Please read it to yourself and when you are finished, <F>er</F> I will start the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Hello.</B>
+<A>O K. So this is telephone conversation. O K? Tru-trun. <OL>Hello</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> Hello? <F>Mm</F>. This is <SC><H pn="B's name">XXX02</H></SC> <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B>Hi. How are you?</B>
+<A>Fine. What's up?</A>
+<B><F>Ah</F> are you free tomorrow?</B>
+<A>Tomorrow? <F>Oh</F> yes.</A>
+<B><F>Oh</F> I have a good idea. Let's go to see movie together.</B>
+<A><F>Oh</F> sounds good.</A>
+<B><F>Oh</F> <F>er</F> <.></.> <F>oh</F> <F>mm</F> <F>mm</F> O K?</B>
+<A>Yes.</A>
+<B><F>Ah</F> what time do you hope?</B>
+<A><F>Ah</F> how about eleven o'clock in the morning?</A>
+<B>Eleven o'clock. O K. O K. <F>Mm</F> <F>mm</F> <F>mm</F> eleven. And <F>er</F> where do we meet?</B>
+<A><F>Hm</F>. How about Shinjuku?</A>
+<B>Shinjuku. <F>Mm</F> but <F>mmm</F> <F>ah</F> I hope Shibuya. <F>Mm</F> because the movie is <??></??> showing Shibuya.</B>
+<A><F>Ah</F> O K. <F>Mhn-huh</F>.</A>
+<B>And how about <.></.> near the station, Hachiko? O K?</B>
+<A><F>Oh</F> yeah. O K. Perfect. <OL><F>Mhn</F></OL>.</A>
+<B><OL>No</OL>? O K. <F>Oh</F> O K. <??></??> O K. And tomorrow, in eleven o'clock <SC>in the evening</SC> <F>a</F> in the morning and at the Hachiko. <OL>O K</OL>?</B>
+<A><OL>Yeah</OL>. O K. <OL>Thank you for calling</OL>.</A>
+<B><OL>See you tomorrow</OL>.</B>
+<A>Yeah. See you tomorrow. Bye-bye. O K. So the <nvs>cough</nvs> role-play is over.</A>
+</task>
+<followup>
+<A><F>Erm</F> <H pn="B's name">XXX02</H>, do you like movies?</A>
+<B><laughter>No</laughter>.</B>
+<A>No? <F>Mm</F> why not?</A>
+<B><F>Er</F> sometimes I go to see.</B>
+<A><F>Mm</F> O K. Did you see any movies recently?</A>
+<B>Recently. <F>Er</F> <R>last</R> last month, I went to "Battle Royal" by Fukasaku Kinji.</B>
+<A>How was it?</A>
+<B><F>Hm</F>. Good.</B>
+<A><F>Mm</F>.</A>
+<B>I don't think that movie is not violence.</B>
+<A><F>Ah</F> I see. So what kind of movie is it?</A>
+<B><F>Ah</F> <??></??> you don't know <OL>"Battle Royal"</OL>?</B>
+<A><OL>No</OL>. No.</A>
+<B><F>Ah</F>. <.></.> Junior high school student <F>er</F> kill each other.</B>
+<A><F>Wow</F> sounds scary.</A>
+<B>Yes.</B>
+<A><F>Ah</F> do you like that kind of movies, scary or violent movies?</A>
+<B>Not but that movie is not scary and violence.</B>
+<A><F>Mm</F> why did you think so?</A>
+<B><.></.> I think <F>er</F> violence has reason <?>or</?> <??></??> different. <.></.> For example, <F>aa</F> <.></.> Hollywood movies, <F>er</F> <?>there are scene</?> violence without reason.</B>
+<A><F>Ah</F> I see. So <R>the</R> they had a reason to kill somebody. <F>Wow</F> sounds difficult.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>But O K. Thank you. Now, <nvs>cough</nvs> <.></.> please look at another picture. And this time, please make a short story based on these six pictures. But this happened last week, so please start your story with "One day last week". O K?</A>
+<B>One day last week, <F>er</F> Ken and Masako <.></.> were walking alone in the rainy day. <.></.> Ken heard some sound. And Masako found <.></.> cat in a box. Masako said, <..></..> "This cat is pretty and we have this cat.". But Ken refused because <F>er</F> <SC>their room in <SC>apartment</SC> the apartment <F>er</F> <.></.> is</SC> <F>er</F> <F>er</F> they cannot have animals in <SC>the apartment</SC> their apartment. But <.></.> she <.></.> had a cat in <.></.> her coat. <SC>Ken is</SC> <F>n</F> <nvs>laughter</nvs> <laughter><SC>Ken was</SC></laughter> <F>mm</F> <F>mm</F> <F>mm</F> <F>mm</F> <..></..> Ken refused. So Masako and Ken go home with only box.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. So then, what happened to the cat?</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Hmm</F>. <nvs>sniff</nvs> <..></..> <SC>Cat are</SC> cat <SC>go</SC> went <nvs>sniff</nvs> to <.></.> anywhere.</B>
+<A>All right. O K. Thank you very much. O K. So <F>erm</F> <H pn="B's name">XXX02</H> <JP>san</JP>, do you have a pet?</A>
+<B>No.</B>
+<A>No? <F>Er</F> did you ever have a pet?</A>
+<B><F>Mm</F> yes. I <R>had</R> had a pet when <R>I</R> I was teenager.</B>
+<A><F>Mm</F> O K.</A>
+<B>I had a dog. Spitz. One spitz.</B>
+<A><F>Ah-huh</F>. How did you take care of him or her?</A>
+<B><F>Hm</F>. Care. <F>Hmm</F>. Especially no care.</B>
+<A>You didn't walk him or?</A>
+<B><F>Oh</F> walk and <.></.> <R>give him</R> give him food or milk.</B>
+<A>I see. So what is the good point of <F>a</F> keeping a pet?</A>
+<B><F>Mm</F>. <..></..> <F>Mm</F> <laughter>I don't know because <??></??></laughter>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. O K. All right. Thank you very much, <H pn="B's name">XXX02</H> <JP>san</JP>. Interview is almost ending. Thank you for coming today.</A>
+<B><??></??></B>
+<A><F>Ah</F> are you going to attend the class this afternoon?</A>
+<B>This afternoon? <OL>Yes</OL>.</B>
+<A><OL>Yes</OL>.</A>
+<B>I have class.</B>
+<A>Which class <??></??> <?>attending</?>?</A>
+<B><SC>Audiovisual <R>s</R> system</SC> audio visual communication system.</B>
+<A><F>Oh</F> I see. So, you make music or something?</A>
+<B>No, no, <OL><?>no, no, no</?></OL>.</B>
+<A><OL>No</OL>? I see. <F>Mm</F> O K. Thank you very much. Have a good day.</A>
+</stage5>
+</body>
+</interview>

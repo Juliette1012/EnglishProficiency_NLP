@@ -1,0 +1,308 @@
+<interview>
+<filename>file00967.txt</filename>
+
+<head version="1.3">
+<date>2002-02-08</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>830</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>travel_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Can I have your name?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A><H pn="B's name">XXX01</H>.</A>
+<B><H pn="B's name">XXX01</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to see you.</B>
+<A>O K. So how are you today?</A>
+<B>Good. <nvs>laughter</nvs> How are you doing?</B>
+<A>I'm fine. Where do you live?</A>
+<B><F>Ahh</F>. You mean in Japan?</B>
+<A><F>Uh-huh</F>.</A>
+<B>I'm living in a dormitory of <H pn="company name1">XXX02</H>, which is located at <F>ah</F> <H pn="others1">XXX03</H> City,</B>
+<A><F>Um-huh</F>.</A>
+<B><H pn="others2">XXX04</H>.</B>
+<A><F>Um</F> so where is your hometown?</A>
+<B><F>Ah</F> my hometown, you mean?</B>
+<A>Where does your family live?</A>
+<B><F>Ah</F> my family is living in <H pn="others3">XXX05</H>.</B>
+<A><F>Oh</F>.</A>
+<B><F>Ah</F> <H pn="others4">XXX06</H> City.</B>
+<A><F>Un-huh</F>.</A>
+<B><F>Ahh</F>.</B>
+<A><F>Um</F>. Which do you like better, living in <H pn="others4">XXX06</H> or living in <H pn="others1">XXX03</H>?</A>
+<B>I prefer living in <H pn="others3">XXX05</H> because you know, there are many greens and you know, fresh air.</B>
+<A><F>Umm</F>.</A>
+<B>Actually, I don't like to breathe in this big city.</B>
+<A><nvs>laughter</nvs>.</A>
+<B><nvs>laughter</nvs>.</B>
+<A><laughter><F>Oh</F> why</laughter>?</A>
+<B>'Cause it's too busy for me, to you know, enjoy the life here. So I prefer living in <R>you know, like</R> you know <F>ah</F> like mountain,</B>
+<A><F>Umm</F>.</A>
+<B>something like that.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah.</B>
+<A>So what's you best memory in <OL><H pn="others3">XXX05</H></OL>?</A>
+<B><OL>In <H pn="others3">XXX05</H></OL>?</B>
+<A><F>Un-huh</F>.</A>
+<B><F>Well</F> I have a lot because <F>ah</F> I was born in <H pn="others3">XXX05</H> and I spent like sixteen or seventeen years in <H pn="others3">XXX05</H>, just you know, until I'm going to the university in <H pn="others5">XXX07</H>. So I have a lot. But I think <F>ah</F> when I was a high school student, after school, I always went to mountain to ski</B>
+<A><F>Uh-huh</F>.</A>
+<B>like everyday</B>
+<A><F>Uh-huh</F>.</A>
+<B>in the winter.</B>
+<A><F>Umm</F>.</A>
+<B>That's the best memories.</B>
+<A><F>Wow</F>. Sounds nice. O K. So from tomorrow we are going to have three day holiday.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Do you have any plans?</A>
+<B>Yeah. I'm going back to <H pn="others3">XXX05</H>.</B>
+<A><OL>What are you going to do</OL>?</A>
+<B><OL><R>To see my</R></OL> to see my friend</B>
+<A><F>Um</F>.</A>
+<B>and to see my parents. Because <R>I</R> I've just come back from you know, Europe so <R>I</R> <R>I</R> <R>I've not</R> <R>I've not</R> I've not met my parents for a long time, so,</B>
+<A><F>Umm</F>.</A>
+<B><R>I want to</R> I want to see you know, <??></??> my friend there.</B>
+<A><F>Hm</F>. So where in Europe did you stay?</A>
+<B><F>Ah</F> do you know <H pn="others6">XXX08</H> in <H pn="others7">XXX09</H>?</B>
+<A><F>Wow</F>.</A>
+<B>It was like <OL><laughter><H pn="others3">XXX05</H></laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <CO>Did you live <OL>with your</OL></CO>.</A>
+<B><OL>No, tall buildings</OL>,</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><F>um</F> you know.</B>
+<A>Did you live with your Irish family?</A>
+<B><F>Ah</F> no. <SC>I just living</SC> I was just living by myself in an apartment.</B>
+<A><F>Umm</F>. Could you tell me about the life <OL><SC>in</SC></OL></A>
+<B><OL>in <H pn="others6">XXX08</H></OL>?</B>
+<A>yeah, in <H pn="others6">XXX08</H>?</A>
+<B><F>Ahh</F>. Yeah, I think <F>ah</F> people in <H pn="others6">XXX08</H> like to you know, drink specially Guinness beer. Do you know Guinness beer? Yeah. And almost everyday, <SC>after work</SC> after working, I went to a pub,</B>
+<A><F>Ummm</F>.</A>
+<B>to drink with my colleagues.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. Just drinking and you know, the weather was not so nice. So I think I have nothing, I mean without <OL>drinking</OL>,</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>after work. You know. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Alright. So first thing. Please look at this picture.</A>
+<B>O K.</B>
+<A>Please describe this picture.</A>
+<B><F>Uh-huh</F>. O K. It's like <F>ahh</F> good restaurant and <F>ah</F> two people are sitting on the table. <F>Ah</F> <R>they loo</R> they look like a husband and a wife and they are <F>ah</F> ordering wine or sparkling wine. And <F>ah</F> <R>s</R> <R>s</R> <F>ah</F> somebody is playing the piano. And <F>ahh</F> there are three tables here <R>and</R> and every <SC>customers are</SC> customers look like a husband and a wife. And this restaurant looks you know, nice and good. <CO>And</CO>. <F>Ahhh</F>. <.></.>.</B>
+<A>O K.</A>
+<B>It's seven o'clock. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F> <laughter>all right</laughter></OL>.</A>
+</task>
+<followup>
+<A>O K. So you mentioned you went to Irish pub,</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>many times</OL>.</A>
+<B>No <R>that's</R> that's not, you know, like this.</B>
+<A><F>Ahh</F>. <CO><OL><?>When you</?></OL></CO>.</A>
+<B><OL>It's more <R>busier</R></OL></B>
+<A><F>Hmm</F>.</A>
+<B>busier and, you know, nosier, and you know, it's like good restaurant, you know. I went to <SC>the</SC> <F>ah</F> you know, cheap pub.</B>
+<A><F>Umm</F>.</A>
+<B>Every beer costs like <F>ah</F> <.></.> <SC>five Euro</SC> no, three Euro or</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>something like that</OL> so, it's cheaper than drinking beer in Japan.</B>
+<A>Can you compare Irish pub to Japanese</A>
+<B>Japanese?</B>
+<A>bars?</A>
+<B>Japanese bars <F>ahh</F> look beautiful and look gorgeous and look nice. And Irish pub, there are many people and, you know, <SC>there</SC> and almost <SC>all the</SC> <R>all</R> all the people in the Irish pub are standing</B>
+<A><F>Hmmm</F>.</A>
+<B>not sitting <SC>in</SC> on the chair because they have to order you know, the next beer</B>
+<A><nvs>laughter</nvs>.</A>
+<B>and the next beer. And they are very friendly and you know, talk to you. <?>So they all talk to you</?>.</B>
+<A><F>Umm</F>. <F>Mmmm</F>.</A>
+<B>So, <R>I like</R> <F>ahh</F> I like the Irish pub better than you know, the bar in Japan.</B>
+<A><F>Umm</F>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Alright. So next let's try role-play.</A>
+<B>O K.</B>
+<A>Please read this card and when you are ready, I will begin.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<A>Ready?</A>
+<B><nvs>laughter</nvs> Looks tough.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Ahh</F>.</B>
+<A>O K. This is a telephone conversation.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>. Trun-trun-trun.</A>
+<B>O K. <OL>Hello</OL>.</B>
+<A><OL>Hello</OL>. ABC Travel, may I help you?</A>
+<B><F>Ah</F> my name is <H pn="B's name">XXX01</H>. I asked you to <F>ah</F> <F>ah</F> the package tour.</B>
+<A><F>Um-huh</F>.</A>
+<B>And I joined the <SC>pack</SC> the travel tour.</B>
+<A><F>Umm</F>.</A>
+<B>And your company told me that <F>ahh</F> <R>we can have a</R> <F>ahh</F> we can have a <F>ahh</F> <JP>sushi</JP> <SC>in</SC> for dinner <R>in</R></B>
+<A><F>Oh</F>.</A>
+<B><R>in</R> in Tokyo.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But I couldn't. They served me just like you know, <JP>onigiri</JP> or something like that.</B>
+<A><nvs>laughter</nvs>.</A>
+<B>And I was very disappointed.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <SC>I <F>ah</F> requested <R>the</R> the</SC> <F>ahh</F> no I mean, I asked the <F>ahhh</F> tour guide in your company</B>
+<A><F>Uh-huh</F>.</A>
+<B>to replace my <JP>onigiri</JP> <OL>to</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><JP>sushi</JP>.</B>
+<A><F>Ummm</F>.</A>
+<B>But <SC>they said</SC> <F>ah</F> I mean he said <F>ahh</F> <SC>I can't</SC> <F>ur</F> <R>I couldn't</R> I couldn't eat <JP>sushi</JP> because it's not my option.</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><CO><OL>So</OL></CO>.</B>
+<A>It's very strange.</A>
+<B>Yeah.</B>
+<A><F>Um</F>.</A>
+<B>I think so.</B>
+<A>But I haven't heard anyone else complain about that.</A>
+<B>But I actually couldn't eat <JP>sushi</JP> and I you know, had to eat you know, very stinky onigiri.</B>
+<A><nvs>laughter</nvs>.</A>
+<B>So <nvs>laughter</nvs> what can you do <OL>about that</OL>?</B>
+<A><OL><F>Ahh</F></OL>. I don't know. What shall I do?</A>
+<B>I think you have to compensate some money for that. <F>Ah</F> you know, <SC>I paid</SC> I think I paid <SC>one</SC> <F>ahh</F> ten thousand yen for that. But, you know, <R>I</R> I <F>ah</F> expected a lot about, you know, eating <JP>sushi</JP></B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>but I couldn't</OL>. So I think you should refund</B>
+<A><OL>O K, <F>urr</F> <SC>I'm not</SC></OL></A>
+<B><OL>for that like ten thousand yen</OL>.</B>
+<A>I'm a part-time worker.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>So</OL> I can't decide anything.</A>
+<B><F>Oh</F>. O K. <R>Can you</R> can you please phone to your boss?</B>
+<A><F>Oh</F>. O K. That's a <laughter>good idea</laughter>.</A>
+<B><nvs>laughter</nvs>.</B>
+<A><R>Can</R> can you wait?</A>
+<B>O K.</B>
+<A>O K. Alright. Thank you very much. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>O K. So, did you travel a lot <SC>in</SC> around or in the area?</A>
+<B>Yeah. I went to Paris</B>
+<A><F>Umm</F>.</A>
+<B>from Ireland by Ryan Air. Do you know Ryan Air?</B>
+<A>No.</A>
+<B>It's an Irish budget airline.</B>
+<A><F>Umm</F>.</A>
+<B>So <SC>it's like</SC> you know, it costs, <F>ah</F> I think fifty Euro <SC>to go in the</SC> from Dublin to Paris.</B>
+<A><F>Um-huh</F>.</A>
+<B>So, <SC>it's like</SC> it's cheap.</B>
+<A>How was the service?</A>
+<B>Nothing.</B>
+<A><nvs>laughter</nvs>.</A>
+<B><laughter>Nothing</laughter>. I have to pay money for you know, coffee or order so.</B>
+<A><F>Well</F> how was Paris?</A>
+<B><F>Ahh</F> Paris was good. <SC>And</SC> but <F>ahh</F> yeah, it was the first time for me to go to Paris and</B>
+<A><F>Um-huh</F>.</A>
+<B><F>Ahh</F> I didn't know about anything about Paris because I just decided to go there two days</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>before</OL> the travel so, you know, <R>I didn't</R> I didn't have <??></??> have any friends <SC>at</SC> in Paris, so I just, you know, walk around and see around.</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>But</OL> the street was very beautiful <R>and</R> and I went to a couple of museums in Paris and you know, there were <R>a lot</R> a lot of, you know, paintings and,</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>sculptures</OL>. It's very <?>pretty</?>. <.></.></B>
+<A>I see. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So, lastly, please look at another picture.</A>
+<B>O K.</B>
+<A>There are six pictures from one to six.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And please make up a story, based on these pictures.</A>
+<B><F>Ohh</F>. O K.</B>
+<A>And please start your story with "One day <OL>last week</OL>".</A>
+<B><OL>One day last week</OL>.</B>
+<ctxt>The interviewer is looking at the pictures.</ctxt>
+<B>O K. One day last week, I was driving a car by myself and I found a motor bike coming to my car and he is talking with a cell phone <SC>and I</SC> <.></.> and <R>h</R> his cell phone <F>ahh</F> I mean <R>my</R> my car scratched the motor bike and he dropped his cell phone. And he claimed me that <F>ah</F> it's my <F>ah</F> failure that his cell phone was broken. And so, <R>I called</R> I called police and to come there and I explained about that <R>and</R> and his motor bike went to repair.</B>
+<A><F>Umm</F>. <OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A>Alright. <H pn="B's name">XXX01</H>, <F>ur</F> have you ever had an accident?</A>
+<B><F>Ahh</F>. No. Fortunately not.</B>
+<A><F>Hmm</F>. Do you drive?</A>
+<B>Yes. <R>I</R> I used to drive when I was a university student.</B>
+<A>In <H pn="others5">XXX07</H>?</A>
+<B>In <H pn="others5">XXX07</H>.</B>
+<A><F>Hmm</F>. How is the road condition in <H pn="others5">XXX07</H> <OL>different</OL></A>
+<B><OL><F>Er</F> O K</OL>.</B>
+<A>from the condition in Tokyo?</A>
+<B>It was very <R>busy</R> busy and crowded, especially you know, four o'clock <F>ahh</F> afternoon or something. <SC>And</SC> but <R>I</R> I always <SC>drive</SC> I mean drove at you know, midnight or</B>
+<A><F>Umm</F>.</A>
+<B>you know, after midnight, like <SC>in the morning</SC> early in the morning. So, I liked to drive in <H pn="others5">XXX07</H> because you know, <R>if</R> if I were in Tokyo, I can use, you know, many traffic, like <F>ahh</F> transportation like subway or bus or you know, J R. But in Osaka, <SC>it's</SC> <R>there are</R> you know, <SC>there are no</SC> <R>I mean, there are</R> <F>ur</F> I mean, there are not as much as transportations like Tokyo. So, it was very convenient for me to have a car.</B>
+<A><F>Umm</F>. Why did you drive at midnight or early morning?</A>
+<B><F>Ahh</F> You know, I liked to play Mah-jongg,</B>
+<A><F>Ahh</F>.</A>
+<B>with my friend and</B>
+<A><F>Uh-huh</F>.</A>
+<B>you know, <SC>the</SC> always <SC>we were</SC> <F>ah</F> <R>we</R> <R>we get</R> we get playing Mah-jongg until one o'clock or two o'clock in the morning, so</B>
+<A><F>Umm</F>.</A>
+<B><SC>I have no</SC> <F>ah</F> <R>I</R> I couldn't go home without a car. <.></.> So, midnight.</B>
+<A><F>Um</F>.</A>
+<B>I didn't drink.</B>
+<A><laughter>O K</laughter>.</A>
+<B><?>Once</?>. <nvs>laughter</nvs>.</B>
+<A>So <F>ah</F> how is your night life in Tokyo, recently?</A>
+<B>I <R>just working here</R> <nvs>laughter</nvs> just working here until you know, midnight or something and went back to home and you know, just sleep,</B>
+<A><F>Umm</F>.</A>
+<B>and <SC>come</SC> you know, come to office in the morning so <.></.> actually I <??></??>.</B>
+<A>O K. Everybody says that. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Ah</F></OL> yeah.</B>
+<A>What do you think of the working situation, like <OL>that</OL>?</A>
+<B><OL><F>Err</F> that's crazy</OL>.</B>
+<A><F>Umm</F>.</A>
+<B>When I was in Europe and <R>I</R> I was working there, <R>I finished</R> I finished working like five or six and went to the bar. Half my time, but you know, here, nothing.</B>
+<A><nvs>laughter</nvs> <laughter>I see</laughter>.</A>
+<B>I'm just dreaming, you know,</B>
+<A><nvs>laughter</nvs>.</A>
+<B>to go abroad, <OL>something</OL>.</B>
+<A><OL><F>Ahh</F></OL>. <F>Uh-huh</F>. O K. Alright. O K. But you're going back home</A>
+<B>Yep.</B>
+<A><?>right</?> this weekend.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Ah</F> we have come to almost the end of the interview.</A>
+<B>O K.</B>
+<A>So, do you have to work until late today?</A>
+<B>Tonight?</B>
+<A>Tonight.</A>
+<B><F>Er</F> no. I have to take the train</B>
+<A><F>Umm</F>.</A>
+<B>go back to <F>ah</F> <H pn="others3">XXX05</H>.</B>
+<A><F>Ah</F> what time?</A>
+<B>Eight o'clock.</B>
+<A><OL><CO>So</CO></OL>.</A>
+<B><OL>Just</OL> eight o'clock Azusa, <OL>you know. <nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> How long does it take to go to <OL>Matumoto</OL>?</A>
+<B><OL><F>Er</F> three hours</OL> or something.</B>
+<A><F>Hum</F>. It's not bad. O K.</A>
+<B>I'm gonna sleep <OL>in a train</OL>.</B>
+<A><OL>Yes</OL>. <F>Um</F>. O K. All right. Thank you <OL>very much for coming</OL>.</A>
+<B><OL>O K, thank you very much</OL>.</B>
+<A>This is the end of the interview.</A>
+<B><F>Um</F>.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,173 @@
+<interview>
+<filename>file00451.txt</filename>
+
+<head version="1.3">
+<date>2001-05-31</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Hello. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. O K.</B>
+<A>O K, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B>Fine, thank you.</B>
+<A>Good.</A>
+<B>And you?</B>
+<A>I'm good. Thank you very much. O K, <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Ee</F>?</B>
+<A>Where do you live?</A>
+<B><F>Ee</F> <SC>I'm going</SC> <.></.> I'm from <H pn="others1">XXX03</H>.</B>
+<A><F>Ah</F> <H pn="others1">XXX03</H>.</A>
+<B>But now, I lived in <H pn="others2">XXX04</H>.</B>
+<A>I see. So do you live with your <F>er</F> family or do you live alone?</A>
+<B>Primary? <F>Ee</F>. <F>Uhm</F>.</B>
+<A>Do you live alone?</A>
+<B>Yes, I do.</B>
+<A>O K.</A>
+<B>I live alone.</B>
+<A>O K. So <F>erm</F> do you live in a apartment or in a house?</A>
+<B>Very cheap apartment.</B>
+<A>O K. Please tell me about your apartment.</A>
+<B>Yes. Apartment.</B>
+<A>O K. Please tell me about your apartment.</A>
+<B><F>Ee</F> <SC>my apartment is ten</SC> my apartment have ten rooms. Inhabitants is <H pn="school name1">XXX05</H> students only.</B>
+<A>Really.</A>
+<B>I am lived one floor.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>It's rise</SC> <.></.> it is very far from station. But <R>I</R> I ride <SC>bicycle</SC> bike. So <SC>I go</SC> I'm going to school by bike. It takes <SC>twenty minutes</SC> about twenty minutes.</B>
+<A>O K. I see. O K. So <SC>your family</SC> do your family still in <F>er</F> <H pn="others1">XXX03</H>?</A>
+<B>My family is four.</B>
+<A>O K.</A>
+<B>Father, mother and younger sister.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Fathers is the normal businessman, and mother. My sister is <SC>fifteen</SC> <F>er</F> fourteen years old. She <SC>going</SC> go to <SC>sch</SC> <R>junior high school</R> junior high school at three grade. <SC>She wa</SC> she is studying <SC>examination</SC> for <SC>examination</SC> high school examination. And my father is forty-two. <SC>Sh</SC> and my mother is forty. And <F>uh</F> the family have a <SC>pet for</SC> pet dog.</B>
+<A><F>Err</F> I see. Please tell me about the dog.</A>
+<B><F>Mm</F>?</B>
+<A>Please tell me about your dog.</A>
+<B>Yes. <F>Er</F> my dog's name is Runa. <R>I don't</R> I don't know why the name is Runa.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>My younger sister tell</SC> <SC?>ha</SC?> my <SC>s</SC> younger sister <SC>dema</SC> <SC?>demain</SC?> decide that name.</B>
+<A><F>Hm</F> I see. O K. Thank you. <F>Er</F> please tell me about your hobbies.</A>
+<B><SC>My hobby is very</SC> my hobby is many.</B>
+<A>Many.</A>
+<B><OL>One is</OL></B>
+<A><OL>For example</OL>?</A>
+<B><SC>mo</SC> seeing movie and playing soccer and <F>mm</F> reading the book and play the baseball, and <F>mm</F> I like movie, so I join the movie <SC>school and</SC> <F>ah</F> circle and soccer circle.</B>
+<A><F>Uhu</F>. I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>All right. So, O K. I'm gonna show you a picture.</A>
+<B><JP>Hai</JP>.</B>
+<A>O K? <OL>Please</OL></A>
+<B><OL>Yes</OL>.</B>
+<A>describe the picture.</A>
+<B>Now?</B>
+<A><F>Mm</F>. O K. Go ahead.</A>
+<B><F>Ee</F> this picture is summer vacation scene. <..></..> <SC>Child people playing</SC> child people played <R>snow</R> snow. And about six people <SC>skiing</SC> is skiing. <CO>Black wear man is</CO>. <..></..> <F>Mm</F>. <laughter>And <F>ah</F></laughter> <SC>snowman is</SC> snowman rise <F>uh</F> near the house. And <..></..> the two people <..></..> <?>rise</?> <SC>the</SC> in the house.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Many people skiing but one people ski by snowboard. That is all.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. So <H pn="B's name">XXX02</H>, you said you like playing soccer. Right? <F>Err</F> what are good points, and also what bad points about doing sports?</A>
+<B><F>Ee</F> <.></.> <SC>playing the</SC> <R>when</R> when <SC>peo</SC> the person playing the people, the good point is <SC>soccer is</SC> <F>er</F> <R>su</R> sports is very good for physical and mental. <F>Mm</F> <SC>playing the</SC> when playing the soccer, <..></..> <F>uh</F> <SC>one</SC> <..></..> sports is <.></.> not only <..></..> grow up physical but also <SC>ph</SC> <R>mental</R> mental. <F>Mm</F> <SC>bad point is, the Japanese education system</SC> <?>at</?> Japanese education system's high school club system is bad, because I played soccer after school. <.></.> When I am came back to home, <SC>I very</SC> I am very tired. So <R>I</R> <F>er</F> <R>I was</R> I was go to bed very early. So <SC>I am</SC> <SC>I can</SC> I didn't study. But <SC>I am</SC> I have no time. Tomorrow, I am going to school, but I was sleeping all lessons. So <R>I</R> I fall <SC>examination</SC> university examinations. It is not only reason. <CO>But I</CO>. <F>Mm</F>.</B>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Next, we are going to do a role-play.</A>
+<B><F>Um</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>I'm gonna show you this card. This is written in Japanese. So please read it yourself, and when you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K. Are you ready?</A>
+<B>O K.</B>
+<A>O K. Hello. May I help you, <?>ma'am</?>?</A>
+<B><F>Ee</F> <R>I</R> <F>er</F> <R>I</R> <F>mm</F> I am looking forward to shoes.</B>
+<A><F>Uh-huh</F>. O K. What kind of shoes do you like?</A>
+<B><F>Ee</F> <.></.> cheap price and black shoes.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>My</OL> shoe's size is twenty seven centimeters.</B>
+<A>O K. We have many here.</A>
+<B><R>I</R> <SC>I am</SC> <SC>I want</SC> <SC>I wanted</SC> <SC>I want the</SC> <..></..> <F>um</F> I wanted not <..></..> many buying shoes. Minor shoes.</B>
+<A>O K.</A>
+<B>I <F>er</F> don't like <R>sh</R> shoes is same, other people.</B>
+<A><F>Ah</F>.</A>
+<B>So I am minor <F>uhm</F>.</B>
+<A>O K. So how about this one?</A>
+<B>Yes. <CO>This is my</CO>.</B>
+<A>O K. Do you wanna try this one?</A>
+<B>Yes. Yes.</B>
+<A>O K. Go ahead. How do you like it?</A>
+<B>Yes, <R>I</R> <SC>I am</SC> that is I'm <.></.> looking.</B>
+<A><F>Hm</F> good. O K. So do you wanna buy it?</A>
+<B>Yes. How about price, this?</B>
+<A>O K. Now is on sale, it's just five thousand yen.</A>
+<B>Yeah. <F>Oh</F> I'm buying.</B>
+<A>O K. <F>Er</F> how would you like to pay?</A>
+<B><F>Ee</F> cashing.</B>
+<A>O K. O K. Here is your shoes.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>. Thank you very much. Have a nice day.</A>
+</task>
+<followup>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>. This is the end of a role-play. O K. <F>Erm</F> please tell me about last time you went shopping.</A>
+<B><..></..> <F>Ee</F> last time, <..></..> <F>mm</F> yesterday. <.></.> Yesterday, <SC>I am going</SC> I was go to Shibuya's. And <SC>I <.></.> am</SC> <R>I bought</R> <..></..> I bought wear. <F>Mm</F> I have no <.></.> information about Shibuya. So <R>I</R> I was very wonder. But <SC>I <.></.> am</SC> <R>I</R> <..></..> I bought the tee shirts a <F>uh</F> thirty thousand yen. <SC>I have a li</SC> <SC>I have a</SC> I have little money, so I went back to home.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. <?>Next</?>, I'm gonna show you a sequence of pictures. Please make up a story based on these picture from one to four. O K? And this happened before. So please start your story with "One day last week".</A>
+<B><F>Um</F> <.></.> <F>mm</F> pardon?</B>
+<A>O K. I want you to make up a story</A>
+<B><OL>O K</OL>.</B>
+<A><OL>based on</OL> these pictures.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL> starts here and ends here.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. And the story happened before. O K? So please start your story with "One day last week".</A>
+<B><R>I</R> I am making conversation?</B>
+<A><F>Um</F>.</A>
+<B>Yes. <F>Ee</F>. <.></.></B>
+<A>Make your story. Make a story.</A>
+<B><.></.> <F>Ee</F> <.></.> <F>ah</F> <R>today</R> <SC>today</SC> yesterday, <R>I</R> <SC>I was</SC> I went to the zoo with my friend. My friend name is Mayumi. And I showed the <R>li</R> lion. The lion's hair is very beautiful. <R>The li</R> the lion is male. <F>Mm</F>. And <F>uh</F> the next, <SC>I show</SC> I saw the monkey. <SC>The monkey is</SC> <R>the</R> the monkey was the <?>gage</?>, but <SC>monkey had</SC> monkey ate banana. And Mayumi <SC>eat</SC> ate ice cream. And the later, I showed more. And <..></..> the later, I <.></.> spare at <SC?>behinds</SC?> front the zoo <.></.> exit.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>, what do you like to do with your friends?</A>
+<B><.></.> <F>Mm</F> <..></..> <SC>I</SC> <.></.> my friend, <SC>I am very</SC> I am fit feeling. And she is same university and same language class. So I <.></.> am friends <F>uh</F> for <SC>he</SC> <SC>she</SC> <SC>sh</SC> her. That's all.</B>
+<A>O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Er</F> this is the almost at the end of the interview. O K? After this interview, what are you going to do today?</A>
+<B><F>Ee</F> now, I have a class.</B>
+<A><F>Oh</F> really?</A>
+<B><SC>So I</SC> <..></..> now class lecture is <R>s</R> <?>speaking</?>.</B>
+<A><F>Err</F> I see. <OL>You have to</OL></A>
+<B><CO><OL><SC>But</SC> so</OL></CO>.</B>
+<A>go back to the class.</A>
+<B>Yes. Yes. Yes.</B>
+<A>O K. All right. So thanks for coming today. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

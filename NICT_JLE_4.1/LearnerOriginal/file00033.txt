@@ -1,0 +1,148 @@
+<interview>
+<filename>file00033.txt</filename>
+
+<head version="1.3">
+<date>1999-12-17</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B><H pn="B's name">XXX01</H>.</B>
+<A><H pn="B's name">XXX01</H>. Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>Were you busy this morning?</A>
+<B>Yes.</B>
+<A><F>Hum</F>.</A>
+<B><F>Ah</F> I <.></.> print out for <F>ah</F> presentation of <F>ah</F> next year. <.></.> And <F>ah</F> I <F>ah</F> talked with a member about that presentation <.></.> in morning.</B>
+<A>What kind of presentation is <OL>this</OL>?</A>
+<B><OL><F>Ah</F></OL> English poem <..></..>.</B>
+<A><F>Ah</F>. <CO>Is it a history of English poems or</CO>?</A>
+<B>English poems <F>ah</F> <F>ah</F> interruption <.></.> and translation.</B>
+<A>Is that your major, English literature?</A>
+<B>Yes. <F>Ah</F> William Blake.</B>
+<A>O K <F>ah</F> what do you like to do in your free time?</A>
+<B><F>Oh</F> I <.></.> always <F>ah</F> <F>ah</F> <.></.> maintenance the computer.</B>
+<A>So you are a professional.</A>
+<B><F>Uh</F> not professional but <F>ah</F> I like it.</B>
+<A><R>What</R> what do you do with the computer?</A>
+<B><F>Uh</F> for example, <F>uh</F> building <F>uh</F> computer space <F>um</F> <F>um</F> <.></.> <R>so</R> <SC>some parts</SC> <F>ah</F> change parts or <F>ah</F> <R>install</R> installing a software <.></.>. That's all.</B>
+<A>Do you live with your family?</A>
+<B><F>Uh</F> I live with my elder brother.</B>
+<A>Where is your hometown?</A>
+<B><F>Uh</F> <H pn="others1">XXX02</H> in <H pn="others2">XXX03</H> Prefecture. And <SC>I</SC> now I live in <F>uh</F> <H pn="others3">XXX04</H>.</B>
+<A>Why did you decide to live with your brother?</A>
+<B><F>Oh</F> my father <F>uh</F> <R>bo</R> bought <F>ah</F> condominium in <H pn="others3">XXX04</H> and <F>um</F> <R>he</R> <F>uh</F> <.></.> he <.></.> is now working, so <F>uh</F> <.></.> he <.></.> don't want to live in <H pn="others3">XXX04</H> now.</B>
+<A>I see. <F>Ah</F> do you enjoy any sports?</A>
+<B>No.</B>
+<A><F>Mh</F> so what else do you do besides working on your computers?</A>
+<B><F>Mh</F>?</B>
+<A>What else do you like to do besides working on the computer?</A>
+<B>Working <F>um</F> <R>I</R> <.></.> <F>uh</F> I like to <F>ah</F> watching soccer game <.></.> in <F>er</F> Italy.</B>
+<A><F>Umm</F> why not teams in Japan?</A>
+<B><laughter><F>Oh</F></laughter> <F>um</F> I'm <F>er</F> <SC>Nakata</SC> Hidetoshi Nakata's fan and <F>uh</F> <R>I</R> I like <F>er</F> J league <F>ah</F> of course, but <F>uh</F> Italy league is more exciting than <SC>Japanese</SC> <F>ah</F> Japan league.</B>
+<A><F>Umm</F> <F>Ahm</F>. What's so special about soccer? What's the difference <.></.> from other team sports?</A>
+<B><F>Oh</F> <SC>I</SC> <SC>in a</SC> in my <F>ah</F> childhood, <F>ah</F> I <.></.> played soccer <F>ah</F> and <F>uh</F> I like it <.></.> very much.</B>
+<A>So do you like soccer especially when you are small?</A>
+<B>Yeah, but <F>ah</F> <R>I</R> <.></.> I <.></.> stopped <F>uh</F> <F>uh</F> playing soccer <JP><F>ee</F></JP> in my <JP><F>ee</F></JP> senior high school.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. Thank you. O K. Now. Our first picture. Can you describe what you see in this picture?</A>
+<B><F>Ahm</F>. This room is <F>uh</F> <F>ah</F> <.></.> the woman <F>uh</F> in this picture, the room. And <F>eh</F> she have <F>uh</F> many <F>uh</F> audiovisual device and have a <F>er</F> her pets <F>mm</F> <F>ah</F> dog and cat and <F>uh</F> she <.></.> has <F>er</F> a personal computer as I and <F>um</F> <..></..> <F>mm</F> <F>ah</F> <OL><??></??></OL></B>
+<A><OL>O K</OL>.</A>
+<B>one bed.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. Can you compare this room to your own room?</A>
+<B><F>Oh</F> <F>uh</F> my room is <F>ah</F> <F>uh</F> <..></..> smaller than <R>this</R> this room, and more messy. <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL>.</A>
+<B>And almost no space to <F>uh</F> <R>walk</R> <F>ah</F> walk <F>uh</F> <F>ah</F> <R>e</R> except me. <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL>. You don't like to clean your room?</A>
+<B><F>Uh</F> <.></.> <R>I mean to</R> <F>uh</F> I mean to clean room today. <nvs>laughter</nvs></B>
+<A>That's your plan. I see. <F>Um</F> There's a computer here, too. Can you tell me the advantage or disadvantage of computer?</A>
+<B><F>Oh</F> <F>ah</F> computer is <F>er</F> at first, <F>er</F> a little <F>mm</F> difficult and complicated <.></.> to <F>uh</F> <.></.> control or <F>er</F> get the information. <F>Um</F>. But <F>uh</F> <.></.> once <F>er</F> <R>you</R> you <.></.> have a way to <R>control</R> <F>ur</F> control computer <F>ah</F> <F>ah</F> it's very <SC>convenient to <F>ah</F> any information <F>uh</F> <..></..> take</SC> easy to take <SC>many informa</SC> <F>ah</F> much information <F>uh</F> <.></.> on the net.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K thank you. <F>Uh</F> now we'll do a role play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>Please read this card. When you are ready, I'll start.</A>
+<ctxt>The interviewee is reading a card and thinking of what to say.</ctxt>
+<B><OL>Excuse me</OL>.</B>
+<A><OL>O K</OL>. O K. May I help you?</A>
+<B>Yes, <F>ah</F> I want to <F>uh</F> go to New York <F>uh</F> by train, so please tell me <F>um</F> <F>um</F> <R>what sho</R> what should I do.</B>
+<A>You can buy the ticket here.</A>
+<B>O K.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>How much?</B>
+<A><F>Ah</F> we have several kinds of tickets.</A>
+<B><F>Um</F> <.></.> most <.></.> <F>ah</F> <..></..> <SC>I'm very</SC> <..></..> <R>I</R> <..></..> <F>uh</F> I'm <.></.> very <.></.> hasty.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>So <R>please</R> <F>ah</F> <..></..> <F>ah</F> please the <F>ah</F> ticket <R>which</R> <F>er</F> <.></.> which <SC>I can most</SC> <.></.> <F>uh</F> I can arrive <.></.> at New York <F>uh</F> <.></.> <R>fa</R> fastest.</B>
+<A>In that case, <F>er</F> express train will arrive to New York faster.</A>
+<B>Yes. How much?</B>
+<A>We have two classes, first and second class.</A>
+<B><F>Oh</F> <F>ah</F> please second class.</B>
+<A>That would be seventy-five dollars.</A>
+<B>Yes.</B>
+<A>Is that O K.</A>
+<B>O K.</B>
+<A>O K. <F>Ah</F> <SC>any other</SC> anything else?</A>
+<B><F>Um</F> <F>er</F> <R>where</R> where is the train I <.></.> have to get on?</B>
+<A><F>Um</F>. It's platform number seven.</A>
+<B><F>Oh</F> thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. That's the end of the role play. Have you ever traveled abroad?</A>
+<B><F>Oh</F> <F>mm</F> <R>I</R> <F>um</F> <.></.> <SC>I has</SC> <.></.> I have gone to <F>ah</F> London, <F>ah</F> <SC>and</SC> <F>uh</F> but <F>uh</F> <.></.> train in Britain is <F>uh</F> <.></.> <R>very</R> <F>uh</F> <..></..> <R>very</R> <F>uh</F> <..></..> <F>uh</F> very <F>er</F> <SC>right</SC>, <.></.> <F>eh</F> on time. So <F>uh</F> <R>I</R> <SC>I don't</SC> I have no trouble to <F>uh</F> move <SC>any place</SC> to any place.</B>
+<A><F>Um</F>. You only took trains within London?</A>
+<B><.></.> <F>Mm</F>. <R>Not</R> <SC>not London</SC> <F>ah</F> not only London but <F>er</F> <.></.> <F>er</F> <.></.> at that time, I went to <F>er</F> <.></.> Edinburgh. <.></.> That's no problem.</B>
+<A>How did you like it there?</A>
+<B><..></..> <F>Oh</F> Edinburgh. Yes, <F>er</F> Edinburgh Castle is very beautiful <SC>in night</SC> in the night.</B>
+<A>So you went there at night?</A>
+<B>No. <SC>I <.></.> went to</SC> <F>ah</F> <F>a</F> I went there <F>ah</F> in daytime <.></.> and <.></.> in the night.</B>
+<A>I see.</A>
+<B>And I compare.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K. Thank you. Now let me show you the last picture.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>Please make a story from one to six. O K? And please begin with "One day last week".</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>One day last week, <F>uh</F> <..></..> <SC>a man <F>uh</F> <..></..> invited</SC> <F>ah</F> <R>a</R> <..></..> a <R>man</R> man was <F>er</F> invited by his father <F>er</F> <.></.> to <F>uh</F> <R>eat</R> <F>uh</F> eat lunch <..></..> and <F>umm</F> <..></..> <SC>he is</SC> <F>ah</F> he <R>ac</R> <F>ah</F> accepted and <F>uh</F> <..></..> <SC>he</SC> <F>ah</F> <R>they have</R> they have a lunch and though <..></..> in <.></.> lunch time they have <F>uh</F> alcohol. <..></..> And <F>uh</F> <..></..> <F>uh</F> <R>he</R> <..></..> <SC>he</SC> <..></..> <R>his father</R> <F>er</F> <..></..> his father <F>uh</F> <SC>paid <F>uh</F> all</SC> <..></..> pay <.></.> <F>uh</F> all money. And <F>uh</F> <..></..> <R>a</R> after that <R>they</R> <F>uh</F> <..></..> they were <.></.> <?>at once</?>.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. O K. Thank you very much. <F>Ah</F> we are almost at the end of this interview. Do you have classes in the afternoon today?</A>
+<B>No, <.></.> I don't.</B>
+<A>So you are on vacation?</A>
+<B><F>Ahm</F> <.></.> <CO>I have to <F>uh</F> study <F>uh</F> the <F>uh</F> <R>English poems</R> <F>uh</F> English <R>po</R> poems <F>uh</F> <..></..></CO>.</B>
+<A>For the presentation?</A>
+<B>Yes, <??></??> for the presentation.</B>
+<A><F>Um</F>. So, you don't have any plans for the holiday?</A>
+<B><.></.> I have many plan.</B>
+<A>You have many plans? What are you going to study?</A>
+<B>Yes. And I'm very busy <R>in</R> <F>ah</F> <.></.> in politics.</B>
+<A>I see. O K, <F>oh</F> <SC>I hope you have very nice holiday</SC> I hope you have a very nice holiday. Thank you for coming. O K.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,170 @@
+<interview>
+<filename>file00211.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>735</TOEIC>
+<TOEFL>450</TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><F>Er</F> yes. My name is <H pn="B's name">XXX02</H>. Please call me <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>. How are you today?</A>
+<B>Yeah. I'm very fine.</B>
+<A><F>Huh-huh</F>. Where do you live?</A>
+<B><F>Er</F> I live in <F>er</F> <H pn="others1">XXX03</H> city</B>
+<A><OL><F>Huh-huh</F></OL>.</A>
+<B><OL><H pn="others2">XXX04</H></OL> prefecture.</B>
+<A>I see. <F>Ah-huh</F>. And, how do you come to this office?</A>
+<B><F>Uhm</F> by train.</B>
+<A><F>uh-huh</F>.</A>
+<B><F>Mhn</F> it takes me about one hour to get here.</B>
+<A>I see. Then, what do you do on train?</A>
+<B><nvs>laughter</nvs> Just sleeping or something. <nvs>laughter</nvs></B>
+<A><F>Ah</F> I see. So, that means crowded?</A>
+<B><F>Mm</F> yes. Little bit.</B>
+<A><F>Mm</F> I see. <F>Mm</F> <F>er</F> you grow up in <H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A>I see. So, you know about the town very much. O K. So, tell me about the town a little bit.</A>
+<B><F>Er</F> my town has a <H pn="others3">XXX05</H>. And, the <H pn="others3">XXX05</H> is the most important part of my city, because <R>many</R> many people came to our city to visit <H pn="others3">XXX05</H>. And, <SC>they</SC> they're <SC>making</SC> <R>makes</R> <SC>makes to</SC> they're making a new <R><JP>te</JP></R> <JP>teema</JP> park next to <H pn="others3">XXX05</H>. So, maybe the number of coming to a city is <R>getting</R> getting more.</B>
+<A>I see. Are you happy about that?</A>
+<B><F>Mm</F> Yeah. So-so.</B>
+<A><F>Mm</F>.</A>
+<B>Because, <R>if</R> if new <JP>teema</JP> park built, <F>ah</F> so, many people come to the city. So, The city become more famous and more popular. <R>It</R> it means, <F>a</F> very happy to me. But <F>mm</F> if people come to a city, train or road is very crowded. So it's a kind of trouble for me.</B>
+<A><F>Mm</F> I see. Good. O K. By the way, <F>erm</F> did you have a nice, <F>er</F> New Year holiday? <nvs>laughter</nvs></A>
+<B><R>Yeah</R> yeah. <R>I</R> I had a six day holidays, but I think it's very normal. <R>It's</R> it's no specials. <OL><?>Not good enough</?></OL>.</B>
+<A><OL><F>Mhn</F> but</OL>, what did you do?</A>
+<B><F>Er</F> I went to Nagano with my family. <F>Mm</F> actually I have my father, <SC>to drive to by car</SC> <F>a</F> to drive car. Because, <R>only</R> only I and my father can drive, so if I didn't go there, my father need to drive <R>all</R> all way to Nagano. It's very tough for him. So I helped.</B>
+<A>I see. So, how was the traffic on the way to Nagano?</A>
+<B><F>Mm</F>. <R>It's very</R> it's very normal. So, not crowding not busy. So it's very fine.</B>
+<A><F>Mm</F> but, one more question. Why did you go to Nagano?</A>
+<B><nvs>laughter</nvs> <R>My</R> my father <R>likes</R> likes to ski, but I don't like to ski. So, I just stay in kind of the hotel. Just stay and reading book. Yes. I went to Nagano to have a relax time.</B>
+<A><F>Oh</F> I see. And, did you have the relax time <OL>there</OL>?</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. That's good. O K. All right. Now, please look at this picture, and describe the picture.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>O K. <.></.> There is a snow mountain. And, many skier is here. And, as I said you before, <nvs>laughter</nvs> I don't like to ski <SC>because</SC> but, I used to like skiing. But, I went to skiing <R>many</R> many times, so it become kind of boring for me. But, <SC>they can</SC> <R>they</R> <SC>they can</SC> maybe they can enjoy skiing. It's very nice. And, <F>er</F> these children have a kind of <?>white</?> of snowball. It looks so funny. And, <F>ah</F> Yeah. I used to do this kind of thing. <.></.> Yes. That's all.</B>
+</task>
+<followup>
+<A>All right. O K. In this picture, different from the ski hills in Nagano?</A>
+<B><F>Mm</F> yeah. I think it's very similar to Nagano.</B>
+<A><F>Mm</F> why do you feel so?</A>
+<B><.></.> I think this picture is very normal. So <F>mm</F> <R>the</R> the skier, and a lift, a kind of house. I think it's very similar.</B>
+<A><F>Ah</F> I see. <F>Um</F> does that place have this kind of lift?</A>
+<B><F>Uh-huh</F>.</B>
+<A>I see. O K. Then, so, you said, <F>er</F> <R>you</R> you don't like skiing anymore. But, <SC>how</SC> why did you come to hate skiing?</A>
+<B><F>Mm</F> <.></.> it's kind of difficult question.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Er</F></OL> I liked skiing because of my father, <R>but</R> <F>mm</F> but <SC>I have</SC> I am more like, <F>mm</F>. Sorry. I like to rowing boat because I belonged to rowing boat when I was a university student. So, I like rowing boat better than ski.</B>
+<A><F>Ah</F> I see. <F>Mhn</F> and, do you still row a boat?</A>
+<B>No.</B>
+<A><F>Mm</F>. Then, do you do some sports now?</A>
+<B><F>Ah</F> <R>I want to</R> I want to do some sports, but, I have no time to do. So, <SC>I didn't</SC> <F>er</F> <R>I do</R> I don't do that.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. All right. Now, let's have a role-play.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K? This is your card. Please read it to yourself, and when you're ready, I will start the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. May I help you, sir?</A>
+<B>Yes. <F>Er</F> I want to go to abroad to have a fun, but <R>I don't know</R> I don't know the information of foreign country. <F>Mm</F> where should I go?</B>
+<A><F>Mm</F> we have some good tours to Europe.</A>
+<B><F>Mhm</F> <F>er</F> which country of Europe?</B>
+<A><F>Mmm</F> so, how about France?</A>
+<B><F>Mm</F>. <..></..> How about England?</B>
+<A><F>Oh</F> sure. England is good, too.</A>
+<B>Why do you recommend Europe to me?</B>
+<A><F>Er</F> now it's winter, so the price is very cheap.</A>
+<B><F>Ah</F>.</B>
+<A>Reasonable.</A>
+<B>Europe is <SC>the cheapest</SC> cheapest tour? How about in United States or Australia or Asian country?</B>
+<A><F>Oh</F> so, now, Asian countries are very popular, so, it's <F>er</F> <F>mm</F> a little bit more expensive than Europe.</A>
+<B>So, Europe is the cheapest one.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But, <R>I want</R> I want to go Asian country. Please tell me about Asian country. <R>Which</R> which country is most popular in Asia?</B>
+<A><F>Er</F> how about Malaysia?</A>
+<B><F>Mmm</F>.</B>
+<A>Do you like Malaysia?</A>
+<B>I don't know about Malaysia. Please tell me, or <F>er</F> <R>which</R> <SC>which</SC> <F>er</F> sorry, what is there, <F>er</F> in Malaysia?</B>
+<A><F>Ah</F> there are beautiful beaches.</A>
+<B><F>Mm</F>. <F>Er</F> so, I want to go Malaysia.</B>
+<A>Yes. We have nice tours to Malaysia. <F>Uh-huh</F>.</A>
+<B><R>Can I</R> can I <SC>bough</SC> buy Malaysia tour now?</B>
+<A>O K. But, we have some kinds of tour, so, <R>I need</R> anyhow I will give you pamphlets.</A>
+<B><F>Ah-huh</F> O K.</B>
+<A><CO>So, please look at them and</CO>.</A>
+<B><OL>And</OL> I want to know when <SC>it</SC> Malaysia tour is cheapest. <R>When</R> when is the cheapest?</B>
+<A><F>Mm</F> so the cheapest. O K. So, April.</A>
+<B><F>Mm</F> April. O K. So, I'll be here two or three weeks later. <OL>Thank you very much</OL>.</B>
+<A><OL>O K</OL>. <F>Well</F> <F>er</F> thank you very much. Yeah, I'll be waiting for you. Thank you. All right. So, the role-play is over.</A>
+</task>
+<followup>
+<A><F>Mm</F> <F>er</F> did you go a trip recently?</A>
+<B><F>Mm</F> no. Latest trip is going to Nagano.</B>
+<A><F>Ah</F> I see. O K. So, how about foreign countries?</A>
+<B><F>Er</F> I have been Wisconsin for one month from the last <R>end of</R> end of August and end of December</B>
+<A><F>Uh-huh</F>.</A>
+<B>to study English.</B>
+<A><F>Uh-huh</F> I see. So, how was the life in Wisconsin?</A>
+<B><F>Mm</F> <R>it was</R> it was first time for me to live in the foreign country. <SC>They</SC> <F>mm</F> at the beginning of staying, I couldn't speak English at all. So, it's kind of trouble and <F>ah</F> stress for me. But, second half of staying in the United States, very interesting and good experience for me.</B>	
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uh-huh</F> I see. All right. Thank you very much. <.></.> <F>Mm</F> now, have you done this before?</A>
+<B>No.</B>
+<A>No? O K. So, please look at this. And, <F>er</F> this time, <SC>make up a story</SC> make up a short story based on these six pictures. But, this happened last week. So, please start your story with "One day last week".</A>
+<B>O K. <.></.> One day last week, I was walking with my girlfriend. And, we hear little sound. And, <R>we checked</R> we checked the boxes. There is a <R>one ca</R> one cat. And, she want take it to my home, but I didn't like to take it to my home. But, she really liked it, and <F>er</F> I have no reason to reject <SC>his</SC> <R>her</R> her interesting. So, we will take it my home.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F> all right. Thank you very much. O K. <H pn="B's name">XXX02</H>-<JP>san</JP>, have you ever had a pet?</A>
+<B>Yes.</B>
+<A><F>Mm</F>.</A>
+<B>I have one pet. <F>Er</F> it is dog. <F>Mm</F> his name is Paul.</B>
+<A><F>Uh-huh</F>. O K. So, how do you take care of him or her?</A>
+<B><F>Er</F> how. Just playing with him and sleeping with him. He likes to sleep and, <R>he</R> he sleeping all the day, almost two-thirds of day. Yeah.</B>
+<A><F>Mm</F> I see. What is good about having a pet?</A>
+<B>Yes. I think so.</B>
+<A><F>Mm</F>. What is good?</A>
+<B>What? <F>Mm</F> because of pet, we can have a kind of fun. And, <SC>she's</SC> he's very cute. So, when <SC>I</SC> I'm with him, I can relax and, <F>er</F> I can have <R>kind of</R> kind of fun. <.></.> I think having pet is very nice for our lives.</B>
+<A><F>Mm</F> I see. And, do you keep it inside the house?</A>
+<B>Yes.</B>
+<A><F>Ah</F> I see. Why do you do so?</A>
+<B><nvs>laughter</nvs> He's very small. <F>Mm</F> to have him outside is very dangerous and he likes my family very much.</B>
+<A>Aren't you concern about the hair or something?</A>
+<B><F>Mm</F> yeah, sometimes.</B>
+<A><F>Mm</F> what do you do with the hair or other problems?</A>
+<B><F>Mm</F> I don't have other problems, but sometimes, <F>mm</F> we need clean <R>my</R> my house, maybe more often than you. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. All right. O K. Thank you very much. Interview is almost ending. Thank you for coming today.</A>
+<B>Thank you very much.</B>
+<A>O K. Do you have any plans for this weekend?</A>
+<B>No, I don't have plans. But, I need study, because I have <F>er</F> reading test. Reading and hearing test.</B>
+<A><F>Oh</F> you mean English test?</A>
+<B>Yes. On <R>next</R> next Wednesday. So, I need study. I couldn't get a <R>good</R> good score last time, so <SC>I need to take</SC> I need to get a good score.</B>
+<A><F>Wow</F>. O K. So, good luck for the test.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

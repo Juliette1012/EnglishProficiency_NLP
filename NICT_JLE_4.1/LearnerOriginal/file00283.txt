@@ -1,0 +1,161 @@
+<interview>
+<filename>file00283.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>570</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><H pn="B's name">XXX02</H> nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B><F>Urr</F> I'm <F>umm</F> a little <F>err</F> <.></.> tired.</B>
+<A>Tired?</A>
+<B>Yes.</B>
+<A><F>Mmm</F>. How was your day?</A>
+<B><F>Ah</F> pardon?</B>
+<A>Why <OL><R>you were</R> you were tired</OL>?</A>
+<B><OL><F>Urr</F></OL> because <F>err</F> still now <R>I met <F>err</F> our cust</R> <F>urr</F> I met our customer <F>err</F> about a <F>urr</F> material trouble.</B>
+<A><F>Uhhum</F>.</A>
+<B>So <F>umm</F> <F>err</F> for a long <F>ah</F> time I discussed <F>urr</F> him but <F>urr</F> <F>err</F> <SC>that <F>urr</F> problem is <F>err</F> settle <F>urr</F> <F>err</F></SC> the problem is not settle yet.</B>
+<A><F>Oh</F> I'm sorry to hear that. Too bad. All right <F>um</F> <H pn="B's name">XXX02</H> could you tell me <F>um</F> about your family?</A>
+<B>Family? <F>Urr</F> <F>urr</F> I have <F>err</F> father and mother and a younger brother. <F>Urr</F> my younger brother is now <F>err</F> instructor of scuba diving. And <F>urr</F> <R>he</R> <SC>he <R>teach</R> teaches</SC> <F>err</F> <F>ah</F> he taught me <F>err</F> <F>err</F> <.></.> about scuba diving. And <R>I</R> <.></.> I was licensed by him.</B>
+<A><F>Wow</F>. That's great. What's good about scuba diving?</A>
+<B><SC>Scu</SC> <F>umm</F> so <SC>in</SC> <F>ah</F> under the sea <F>urr</F> <SC>it's</SC> <SC>I feel</SC> <F>urr</F> <F>urr</F> so about <F>ur</F> <F>emm</F> <F>umm</F> <SC>I su</SC> <F>urr</F> feel that I stay in the <F>urr</F> space <F>urr</F>. <.></.> So space. <.></.> So and <F>urr</F> I can watch the many fish.</B>
+<A>Did you go any famous scuba diving spot?</A>
+<B><F>Urr</F> I always <F>urr</F> <F>err</F> scuba dive <F>urr</F> in Izu.</B>
+<A>O K.</A>
+<B>Because <F>err</F> <R>my</R> <R>my</R> my home is near by <.></.> <F>err</F> sea. So <F>urr</F> when I was childhood <F>urr</F> I <F>err</F> used to go <F>urr</F> sea. Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. All right. Thank you <H pn="B's name">XXX02</H>. Now, I'm going to show you a picture.</A>
+<B>Yes.</B>
+<A>Have you tried this before?</A>
+<B><F>Oh</F> yes.</B>
+<A>How about this one?</A>
+<B>O K.</B>
+<A>O K? All right. Please describe this picture for me.</A>
+<B><R>O K</R>. <F>Urr</F> <.></.> O K. <F>Err</F> so <F>umm</F> and the beautiful girl in the picture. And <F>err</F> she sit a chair <F>err</F> before the <F>urr</F> <F>urr</F> personal computer. And <F>umm</F> <SC>one dogs</SC> <F>ah</F> one dog <F>err</F> in the room. And one cat is <F>err</F> sleeping on the bed. <R>And</R> <F>umm</F> and she has a <SC>audi</SC> <F>urr</F> the big audio. <.></.> <F>Emm</F> so <F>umm</F>. <.></.> So <F>mm</F> <.></.> I think <F>urr</F> now <F>err</F> <F>err</F> it is <.></.> <F>err</F> <R>nine</R> <.></.> nine o'clock. <F>Umm</F>. And <.></.> so <.></.> <F>urr</F> <.></.> <JP><F>etto</F></JP> <.></.> I think <F>err</F> <SC>he</SC> <F>ah</F> she <F>err</F> likes <F>err</F> <.></.> animal.</B>
+<A><F>Hmm</F>.</A>
+<B><JP><F>Etto</F></JP>. <.></.></B>
+</task>
+<followup>
+<A>O K. Thank you <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><JP>Hai</JP></OL>.</B>
+<A>So you said she likes animals. Do you like animals?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>.</A>
+<B>I do. <F>Urr</F> now <F>err</F> <.></.> <R>I</R> I have a cat.</B>
+<A>Tell me about your cat.</A>
+<B><JP><F>Anto</F></JP> <F>urr</F> it is <F>err</F> <F>ah</F> <.></.> cat. <.></.> <F>Umm</F> so <.></.> cat. <.></.> <SC>Before</SC> <F>urr</F> <F>ah</F> when <F>urr</F> <R>the cat</R> <F>err</F> <F>ah</F> <.></.> <F>umm</F> <F>err</F> the cat is about <F>err</F> seven years old and <F>urr</F> <JP>sodanaa</JP> female.</B>
+<A><F>Hm</F>.</A>
+<B><F>Urr</F> she is female. And so, but <F>err</F> <SC>in order to</SC> <F>ah</F> <F>urr</F> because <JP>janeena</JP> <.></.> <F>ur</F> but <F>urr</F> <SC>she is</SC> she don't like me because I <F>urr</F> <.></.> don't <F>urr</F> go back home.</B>
+<A><F>Oh</F>. O K.</A>
+<B>So <F>urr</F> I <SC>think she</SC> <F>err</F> think that <F>urr</F> I was stranger.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><nvs>laughter</nvs> O K. All right. Thank you, <H pn="B's name">XXX02</H>. <F>Um</F> can I have that picture? All right. Now we are going to do a role-play.</A>
+<B>Yes.</B>
+<A>Did you try this one before?</A>
+<B><.></.> O K.</B>
+<A>O K. So, please read this to yourself and <OL>when you are ready</OL>,</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A>let me know. I'll start.</A>
+<B><F>Oh</F>.</B>
+<ctxt>The interviewee is reading the card to himself for a while.</ctxt>
+<B><F>Ah</F> sorry <F>err</F> could you tell me your name?</B>
+<A><F>Oh</F> <H pn="A's name">XXX01</H>.</A>
+<B><F>Ah</F> <H pn="A's name">XXX01</H>.</B>
+<A>Ready?</A>
+<B><F>Err</F>. <.></.> O K. I'm ready.</B>
+<A>All right. <R>Ring</R> Ring. Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello. <F>Urr</F> this is <H pn="B's name">XXX02</H> speaking.</B>
+<A>Hi <H pn="A's name">XXX01</H>.</A>
+<B>Hi <H pn="B's name">XXX02</H>. <SC>How ab</SC> how are you?</B>
+<A>Fine, thank you.</A>
+<B><F>Urr</F> I'm fine, too. <F>Urr</F> so, by the way <F>urr</F> <SC>I</SC> last time I got the free ticket of cinema.</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Urr</F>. So I want to go see it with you.</B>
+<A>Sounds good.</A>
+<B><F>Ah</F> <F>urr</F> how about <F>urr</F> next Sunday?</B>
+<A>O K.</A>
+<B>Really? <F>Urr</F> but <F>urr</F> I have to <F>urr</F> go <R>dental</R> dental clinic <F>urr</F> <SC>in mor</SC> <F>urr</F> in the morning.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>So</OL> <F>urr</F> how about <F>urr</F> one o'clock P M?</B>
+<A>O K.</A>
+<B>Yes. <F>Urr</F> so <F>urr</F> <R>I</R> I will pick up you <F>urr</F> at one o'clock by <F>urr</F> our car.</B>
+<A><F>Wow</F>. That's nice.</A>
+<B>So <F>urr</F> <F>urr</F> <.></.> see you later.</B>
+</task>
+<followup>
+<A>O K. See you then. Thank you for asking <H pn="B's name">XXX02</H>. Thank you. This is the end of the role-play. Do you often go to see a movie?</A>
+<B>Yes. <F>Urr</F> <R>I</R> <F>urr</F> <R>I</R> I go to see the movie <F>urr</F> <R>once a</R> <.></.> <F>um</F> once a month.</B>
+<A><F>Hmm</F>. When was the last time?</A>
+<B><F>Urr</F> I saw <F>urr</F> the "Vertical Limit" <SC>in</SC> on <F>err</F> <.></.> <R>January</R> <.></.> <F>ehh</F> <R>January</R> January ninth.</B>
+<A><F>Uhhum</F>. How was it?</A>
+<B><F>Urr</F> it is very interesting. <F>Urr</F> I was <F>er</F> very interested in <F>urr</F> winter mountain.</B>
+<A>Why?</A>
+<B>Because <F>urr</F> <.></.> <F>urr</F> <R>my</R> <SC>my country is</SC> <F>err</F> <F>ah</F> my country <F>err</F> has snow so I <F>err</F> <.></.> don't usually <F>err</F> see the <F>err</F> winter mountain, <F>err</F> snow or <.></.>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhhum</F>. O K. <F>Wow</F>. That's good. All right. Now, I'm going to show you a sequence of pictures. O K. Did you try this before?</A>
+<B><.></.> <F>Urr</F>. No.</B>
+<A>O K. Please make up a story based on these pictures from one to six. And this happened before, so please start your story with "One day last week". Go ahead.</A>
+<B>Yes. <F>Ahh</F> <.></.> <F>urr</F> last week <F>urr</F> I <F>err</F> went to the restaurant with my <F>err</F> father. And <.></.> <SC>which</SC> <F>ah</F> my father. And that restaurant is famous <F>urr</F> for the <.></.> <SC>meat</SC> <F>ah</F> <R>good</R> <F>urr</F> good meat. And <.></.> <JP><F>a</F></JP> <JP>sokaa</JP> <F>urr</F> my father <F>urr</F> <.></.> <F>err</F> <..></..> <JP>sodana</JP> <.></.> <R>so</R> <..></..> so my father <F>err</F> was negotiating <F>err</F> with <F>err</F> waiter about <F>err</F> <SC>good</SC> and to <F>err</F> make reservation <F>err</F> the good <F>err</F> table.</B>
+<A><F>Uhhhum</F>.</A>
+<B>So <F>urr</F> <F>urr</F> after minutes later <F>urr</F> I <F>err</F> got the good seat and <F>err</F> <R>I</R> <F>err</F> <F>err</F> <.></.> <SC>I</SC> <F>ah</F> we <F>err</F> ordered the <F>err</F> most famous <F>err</F> <R>meat</R> <F>urr</F> <.></.> meat cooking</B>
+<A><F>Uh-huh</F>.</A>
+<B>in the restaurant.</B>
+<A>O K. And then?</A>
+<B>And <F>urr</F> <SC>my</SC> <.></.> so <.></.> <F>ur</F> my father <F>err</F> <.></.> <F>err</F> likes meat very much so <F>urr</F> <SC>he eats</SC> <F>ah</F> he was <F>er</F> very happy and <R>I</R> <F>err</F> I like <.></.> <F>err</F> <.></.> beer so much so I <F>err</F> drank very much.</B>
+<A>O K.</A>
+<B><R>And</R> and we are <R>satif</R> satisfied with <F>err</F> this <F>err</F> restaurant. And <F>urr</F> <R>my father</R> <F>err</F> <.></.> <F>err</F> <R>my father</R> <.></.> <F>ah</F> my father <F>err</F> paid <R>all the</R> <F>urr</F> <.></.> all the fee,</B>
+<A><OL>O K</OL>.</A>
+<B><OL><SC>of this</SC></OL> <F>urr</F> <F>ah</F> <SC>fee of</SC> <F>err</F> that <F>err</F> fee.</B>
+<A><F>Uhhum</F>.</A>
+<B>And <.></.> so <R>after</R> <.></.> after that <F>urr</F> <SC>I have</SC> <F>urr</F> I had to go to meet <F>urr</F> my friend. <R>So I</R> <F>urr</F> <.></.> so I <..></..> <JP><F>etto</F></JP> I say <F>er</F> good-bye.</B>
+</task>
+<followup>
+<A>O K. Thank you <H pn="B's name">XXX02</H>. Do you often go out to eat?</A>
+<B><F>Urr</F> no, I don't.</B>
+<A><F>Hm</F>.</A>
+<B>Because <F>urr</F> <R>I work</R> <F>urr</F> <.></.> I work <F>err</F> <.></.> till midnight, so and <F>urr</F> now <.></.> <F>urr</F> the place I live in <F>urr</F> has <F>err</F> no <F>err</F> <.></.> restaurant. So I <F>err</F> have to go to <F>err</F> convenience store.</B>
+<A>Every day?</A>
+<B>Every day. <F>Urr</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Too bad. O K. <F>Oh</F> we are almost at the end of the interview. Do you have to go back to your job now?</A>
+<B>Pardon?</B>
+<A>Do you have to go back to your office now, after this interview?</A>
+<B><R>O K</R>. <F>Ah</F> O K. <JP>Janaku</JP> yes. I have to <F>urr</F> go back office.</B>
+<A>And you have to work? How long do you have to work today?</A>
+<B><F>Urr</F> I think <F>urr</F> <SC>I work</SC> I will work <F>urr</F> <.></.> till eleven o'clock P M.</B>
+<A><F>Oh</F> O K. Good luck. <F>Well</F> thanks for coming today. This is the end of the interview. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

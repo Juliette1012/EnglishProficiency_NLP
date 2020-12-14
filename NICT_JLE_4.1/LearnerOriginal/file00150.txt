@@ -1,0 +1,270 @@
+<interview>
+<filename>file00150.txt</filename>
+
+<head version="1.3">
+<date>2000-10-05</date>
+<sex>male</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Mm</F>.</B>
+<A>May I have your name, please?</A>
+<B><F>Ah</F> <F>ah</F> my name is <H pn="B's name">XXX02</H>. Hello.</B>
+<A>Hello. How are you today?</A>
+<B><F>Ah</F> fine thank you. And you?</B>
+<A>Good. Thank you. Good. Where do you live?</A>
+<B><R>I</R> I live in <H pn="others1">XXX03</H>. <F>Um</F> near the <H pn="others1">XXX03</H> Station.</B>
+<A><F>Ahh</F>.</A>
+<B><F>Mm</F>.</B>
+<A>What kind of place is <H pn="others1">XXX03</H>?</A>
+<B><F>Ah</F> there are a lot of factories.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mmm</F> <SC>in my</SC> <F>ah</F> <SC>when</SC> <F>ah</F> <R>I</R> I live <R>in</R> in the shopping mall.</B>
+<A>O K. <nvs>laughter</nvs></A>
+<B>And there is a apartment</B>
+<A><F>Ah-huh</F>.</A>
+<B>in the <laughter>shopping mall</laughter>.</B>
+<A><F>Oh</F>.</A>
+<B>So I live there.</B>
+<A><F>Oh</F>. So do you like living in shopping mall?</A>
+<B><F>Mm</F> <F>mm</F> yes, I do. It is convenient to buy <F>ur</F> something.</B>
+<A><F>Mhm-uhu</F>. Isn't it noisy?</A>
+<B><F>Oh</F> no, it isn't.</B>
+<A><F>Mum-uhu</F>.</A>
+<B>In the midnight, <F>ah</F> <R>there are few</R> there are few <R>pe</R> people</B>
+<A><F>Ah-huh</F>.</A>
+<B><SC>in the shop</SC> <F>eh</F> even in the shopping mall.</B>
+<A><F>Ah</F> O K. So <F>ah</F> <SC>how</SC> why did you decide to live in <H pn="others1">XXX03</H>?</A>
+<B><F>Ah</F> <R>i</R> <F>uh</F> it is <R>con</R> convenient to go here. And <R>my</R> my country house is in <H pn="others2">XXX04</H>.</B>
+<A><F>Ah</F>.</A>
+<B>So it is <laughter><?>balanced</?></laughter> <R>to go</R> <F>ah</F> to go there and here.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL>Both</OL> there and here.</B>
+<A><F>Oh</F> I see. So <F>ah</F> your family is living in <H pn="others2">XXX04</H>?</A>
+<B>My parents <SC>lives in</SC> live in <H pn="others2">XXX04</H>.</B>
+<A><F>Ah</F> O K. Could you tell me a little about your parents?</A>
+<B><F>Mm</F> <F>mhm</F> <R>they were born in</R> they were born in <SC>Naga</SC> Nagoya.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>And <SC>my pe</SC> <SC>my father</SC> <R>my</R> my father <R>have</R> have been retired already. <F>Mhm</F>. So <SC>they</SC> <F>mm</F> <F>mm</F> <R>the</R> their hobby is taking photograph.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL>And</OL> recently, <R>they start to</R> they start to <F>ah</F> playing computer</B>
+<A><F>Oh</F>. <nvs>laughter</nvs></A>
+<B>after <SC>retiring</SC> retirement.</B>
+<A><F>Oh</F>. So do you teach them?</A>
+<B>A little. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Mm</F> O K. What do you think about <F>ah</F> those elderly people start using computers?</A>
+<B><F>Ah</F> <F>mm</F> recently, <F>ah</F> computer system is <R>developed</R> <F>ah</F> developed too much.</B>
+<A><F>Mm</F>.</A>
+<B>So even elder <R>pe</R> people <R>have to s</R> <F>ah</F> <F>er</F> have to study it.</B>
+<A>Yeah. O K. So what do you usually do on your free time?</A>
+<B><F>Mhm</F> my hobby is playing Japanese chess.</B>
+<A><F>Ah</F>.</A>
+<B>So sometimes <R>I</R> <R>I go to</R> I go to Japanese chess center to play it.</B>
+<A><F>Ahh</F>.</A>
+<B>I have a third grade on my <R>ama</R> amateur.</B>
+<A>Really?</A>
+<B>In Japanese, it is called <JP>sandan</JP>.</B>
+<A>Really? When did you start playing <F>er</F> <R>Ja</R> Japanese chess?</A>
+<B><F>Uh-huh</F> when I was elementary school student, <SC>I</SC> <SC>my parent</SC> <F>er</F> my father taught me <SC>to play</SC> how to play it.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So I started, and I was interested in playing Japanese chess.</B>
+<A><F>Ah</F>. What is so interesting about Japanese chess?</A>
+<B>It is <laughter>difficult</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Mm-mm</F> <R>whe</R> when I was elementary school student, <R>I</R> I read <R>the</R> the <SC>story of</SC> storybooks about Japanese chess.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So <SC>I could</SC> I was able to win <SC>other people</SC> <nvs>laughter</nvs></B>
+<A><OL><laughter>Really</laughter></OL>?</A>
+<B><OL><R>oth</R></OL> <SC>other students</SC> same generation students.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>So</OL> I was interested because it was comfortable for me. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. That's interesting.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. <F>Well</F> first, I'd like to show a picture.</A>
+<B><F>Mm</F>.</B>
+<A>O K. Please describe this picture.</A>
+<B><F>Mm</F>. <..></..> <R>Th</R> there is a scene <F>er</F> in the hotel or <R>an</R> and in the restaurant. <F>Mhm</F> <F>ah</F> I think they might have arranged meeting each other.</B>
+<A><F>Mum-huh</F>.</A>
+<B>So they try <R>to</R> to testing wine. <F>Ah</F> <R>and</R> and they began to drink it. <F>Mmm</F> so <F>mm</F> <F>er</F> <R>she</R> she played the piano.</B>
+<A><F>Mum-huh</F>.</A>
+<B><F>Mmm</F> I think <SC>it might be a <R>beau</R> beautiful song</SC> <F>uh</F> beautiful song might be flown.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Mm</F> it was seven o'clock.</B>
+<A><F>Mum-huh</F>.</A>
+<B><F>Ah</F> <SC>it is</SC> I think it is good time <R>to have a</R> to have a <SC>ss</SC> dinner. <..></..> There was some people <R>in</R> in the restaurant, but the space <SC>is wide</SC></B>
+<A><F>Mum-huh</F>.</A>
+<B><F>mm</F> <R>is not</R> is not so narrow.</B>
+<A><F>Mum-huh</F>.</A>
+<B><SC>I</SC> <R>so</R> <F>mm</F> <F>mm</F> so <SC>it is not</SC> <SC>it might not be easy</SC> <F>ah</F> it might not be noisy</B>
+<A><F>Mum-huh</F> <F>mm</F>.</A>
+<B><R>to ha</R> to have a lunch, and to have a conversation.</B>
+<A>O K. O K. Thank you.</A>
+</task>
+<followup>
+<A>So could you tell me about the time when you had a good time at a restaurant?</A>
+<B><F>Ah</F> <.></.> I think <F>mm</F> <R>for</R> for the lunch, <F>er</F> it is good time <SC>to</SC> <SC>from <R>th</R> <SC>three</SC> <SC>two or</SC> <SC>th</SC> two</SC> from <SC>two and three</SC> two to three o'clock. Because there are few people in the restaurant <SC>for</SC> <F>ah</F> <R>to</R> to have a lunch. <F>Mm</F> so I think <F>ah</F> it is good <laughter>time</laughter> to have a lunch.</B>
+<A>O K.</A>
+<B><F>Mm-hum</F>.</B>
+<A>O K. So could you tell me a little bit about your favorite restaurant?</A>
+<B><F>Mhm</F> <SC>Japanese restaurant, <SC>I thi</SC> I like</SC> I like Japanese restaurant. <F>Mm</F> <F>er</F> it is difficult for me to cook <F>er</F> traditional Japanese food.</B>
+<A><F>Mum</F>.</A>
+<B>So <R>I th</R> I think it is favorite for me.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL><F>Ah</F></OL> <F>er</F> Japanese restaurant.</B>
+<A>But isn't it expensive?</A>
+<B>A <laughter>little for me</laughter>.</B>
+<A>But do you sometimes go to such <OL>restaurant</OL>?</A>
+<B><OL><R>So</R></OL> <F>er</F> so it is expensive so that <SC>I have</SC> I don't have a chance <R>to go</R> to go there.</B>
+<A><nvs>laughter</nvs></A>
+<B>So <SC>I</SC>, <F>mm</F> but <SC>I rare</SC> I don't often <R>to go</R> to go <laughter>Japanese restaurant</laughter>.</B>
+<A><F>Mhm</F> O K. <F>Well</F> thank you <OL>very much</OL>.</A>
+<B><OL><F>Ah</F></OL> thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL>O K</OL> next, I'd like to do a little role-play with you.</A>
+<B><F>Ah</F>.</B>
+<A>O K. Please read this card. And when you are ready, I'll start a conversation.</A>
+<B><ctxt>the interviewee is reading the card</ctxt></B>
+<A><OL>O K</OL>?</A>
+<B><OL><F>Ah</F></OL> <R>I</R> <SC>I'd like to go</SC> <F>ah</F> excuse me.</B>
+<A>Yes?</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL>May I help you</OL>?</A>
+<B><F>Ah</F> <F>er</F> I'd like to go New York</B>
+<A><F>Mhm-hum</F>.</A>
+<B>as soon <R>a</R> as quickly.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So <F>mm</F> <F>mm</F> <SC>wha</SC> <SC>how</SC> <R>what line</R> <F>ur</F> <SC>what line <F>mm</F> <F>mm</F> <R>ha</R> <SC>have I</SC> <F>um</F> do I have to</SC> what do I have to <R>use</R> use?</B>
+<A><F>Mhm</F>. O K. <F>Ahm</F> there are some express trains.</A>
+<B>Yeah.</B>
+<A>But <F>er</F> mostly, the tickets are sold out.</A>
+<B><F>Ah</F>.</B>
+<A>So you have to wait for another <F>er</F> an hour and half.</A>
+<B>Hour and half.</B>
+<A><F>Mhm</F>. There are local trains.</A>
+<B><F>Mhm</F>.</B>
+<A>But it takes <F>ur</F> about two hours to New York.</A>
+<B>Two hours to New York. <F>Er</F> in the other company, <F>er</F> <SC>is it useful to</SC> is it possible to use to go New York?</B>
+<A><F>Mm</F> other company?</A>
+<B><F>Mm</F> <F>i</F> <F>er</F> other company trains.</B>
+<A><F>Oh</F>.</A>
+<B><R>Do</R> do you have information about go New York quickly?</B>
+<A><F>Oh</F>. <F>Er</F> I don't think there are <F>er</F> any other <F>er</F> trains to go to New York</A>
+<B><F>Mhm-hum</F>.</B>
+<A>at this time of day other than our company.</A>
+<B><F>Mhm-hum</F> <F>muh-huh</F> O K. <.></.> O K. <F>Er</F> <R>I</R> <SC>I'd like to go</SC> <R>I</R> I'd like to buy a ticket</B>
+<A><F>Mhm-hum</F>.</A>
+<B><F>er</F> for New York.</B>
+<A><F>Mhm-hum</F>.</A>
+<B><F>Ahm</F> how much is it?</B>
+<A><F>Er</F> which train? Local or express?</A>
+<B>Express.</B>
+<A><F>Er</F> express is <F>er</F> two hundred dollars.</A>
+<B>Two hundred dollars. O K. I'll pay it. So <SC>I</SC> <F>em</F> <F>mm</F> <R>may</R> <SC>may I have</SC> is it possible to reserve about the seat?</B>
+<A><F>Er</F> yes. <F>Er</F> <R>but</R> but you have to wait for one hour and half. <OL>Is it O K</OL>?</A>
+<B><OL>One hour and half</OL>. <nvs>breath taking</nvs> <F>Mhm</F> compared with local train and <R>express</R> express train,</B>
+<A><F>Mhm-hum</F>.</A>
+<B><F>er</F> <R>which</R> <SC>which po</SC> which quickly is it possible to go New York?</B>
+<A><F>Oh</F> the local train will arrive at New York <F>er</F> ten minutes earlier than the <OL>express train</OL>.</A>
+<B><OL><F>Ah</F></OL> ten minutes earlier <?>there</?>. <F>Ah</F> O K. <F>Er</F> <R>I'll</R> I'll cancel. Sorry. <F>Er</F> <SC>I'll</SC> <SC>I'd like to go</SC> I'd like to buy <F>er</F> <F>ur</F> local train tickets.</B>
+<A>O K.</A>
+<B>Because I'd like to go <SC>quickly</SC></B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>as soon</OL> as possible quickly.</B>
+<A>O K. That's eighty dollars.</A>
+<B><F>Ah</F> O K.</B>
+<A>O K. Thank you. Have a nice trip.</A>
+<B><F>Ah</F> thank you.</B>
+</task>
+<followup>
+<A><F>Well</F> thank you. So have you ever traveled abroad?</A>
+<B><F>Er</F> for sight seeing,</B>
+<A><F>Mhm-hum</F>.</A>
+<B><R>I have been to</R> I have been to Paris.</B>
+<A><F>Mhm</F>. Could you tell me the best time you had in Paris?</A>
+<B><F>Mm</F> but it was packaged tour.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>So I was busy <R>to</R> to go around</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> there. <laughter>So</laughter> <F>er</F> <.></.> <R>I</R> I have impression about the <SC>museum</SC> <F>er</F> art museum.</B>
+<A><F>Mhm-hum</F>.</A>
+<B>Sorry, I <laughter>forgot the name of museum</laughter>. But there are a lot of famous pictures</B>
+<A><F>Mhm</F>.</A>
+<B>in the museum. If <F>er</F> <SC>such mu</SC> such pictures <R>went to</R> went to Japan, <F>er</F> <R>it</R> it might <R>be</R> become a <SC>big to</SC> <SC>large</SC> big topics.</B>
+<A><F>Mhm</F>.</A>
+<B>But <SC>such topics</SC> <F>er</F> such pictures <SC>were</SC> <R>was put <F>i</F> in</R> was put in museum generally.</B>
+<A><laughter><F>Ah-huh</F></laughter>. Yeah.</A>
+<B>So <SC>about what</SC> <SC>about that</SC> <F>er</F> about it, <F>er</F> I was impressed too much.</B>
+<A><F>Oh</F> I see. How about the food?</A>
+<B><F>Mm</F> <.></.> <F>mm</F> <F>um</F> <SC>my</SC> <F>er</F> <R>our</R> our guide <R>introduced</R> <F>ah</F> introduced us <F>er</F> to the restaurant. So <F>ge</F> general food was <R>ser</R> <R>ser</R> served.</B>
+<A><F>Ahh</F>.</A>
+<B>So I don't have a <laughter>impression</laughter></B>
+<A><laughter>About food</laughter>.</A>
+<B><laughter>about food</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. <F>Well</F> I'd like to show another picture.</A>
+<B><F>Mhm</F>.</B>
+<A><ctxt>the interviewer is taking out the picture</ctxt> O K. This is the story that happened one day last week.</A>
+<B><F>Mhm</F>.</B>
+<A>O K. So please make up your own story, and start with, "One day last week".</A>
+<B><F>Mhm</F>. O K. <nvs>sniff</nvs> <ctxt>the interviewee is looking at the cards</ctxt> <F>Mm</F> <.></.> I have a received telephone <F>er</F> from my girl friend. So <SC>she said <F>er</F> <nvs>sniff</nvs> <R>as a we</R> as a weekend</SC> <F>er</F> <R>she</R> <F>er</F> she said as a weekend, <F>er</F> she would like to <R>go to</R> go to the zoo. So <F>mm</F> I'd like to <R>go</R> <F>mm</F> <R>go</R> go there <R>with</R> with her. So <SC>I ride on my car</SC> <F>er</F> <SC?>I rode</SC?> <?>change of</?> <??></??> <R>I</R> <R>I</R> <R>I ride</R> I ride on the car, and in the way, I caught her. And <R>I go to the</R> <SC>I go to the zoo</SC> I went to the zoo with her. <.></.> So <SC>we watch</SC> <F>er</F> we watched the <R>li</R> lion. And after that, <F>er</F> <SC>wa</SC> we watch the monkey. And monkey had a bananas. So <R>we</R> <SC>we tried to</SC> <R>we</R> we tried to the food <R>to</R> to the monkey. But <SC>in the adverti</SC> <F>mm</F> in the poster, <F>er</F> it was prohibited <R>to</R> <laughter>to give a food</laughter>. So <SC>I gave</SC> we gave up <F>er</F> <R>to</R> <nvs>sniff</nvs> <R>to</R> <SC>to serve the</SC> <R>to</R> <F>mm</F> <R>to give</R> to give a food to the monkey.</B>
+<A>O K. <nvs>laughter</nvs></A>
+<B>After that, <SC>I come back</SC> <R>we</R> we come back <R>to</R> to my house.</B>
+<A><F>Mhm</F>.</A>
+<B>And <F>er</F> <SC>we</SC> <R>I</R> <R>I</R> <R>I send</R> I send her <R>to her</R> to her house.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>Do you remember the last time you went to the zoo?</A>
+<B><.></.> <F>Oh</F> I don't remember.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Mm</F> <R>when I was a</R> <.></.> <F>em</F> <F>ah</F> when I was a high school student, maybe <F>er</F> I went to Ueno Zoo.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mm</F> <R>I</R> I remember that <SC>I watch the</SC> <R>I</R> <R>I saw</R> I saw <R>pa</R> panda.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah.</B>
+<A>O K. I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> the interview is almost over. O K. So are you going to join in any <F>er</F> <F>er</F> Japanese chess competition? Something?</A>
+<B><F>Mm</F> <SC>I will</SC> <F>eh</F> <SC>tu</SC> <SC>ninetieth</SC> <F>mm</F> twenty-ninth October, the Japanese chess competition <SC>were</SC> will be held.</B>
+<A><F>Ahh</F>.</A>
+<B>So I'd like to participate in.</B>
+<A>Really?</A>
+<B>Yes.</B>
+<A>Do you have to keep winning to keep your <F>er</F> <JP>sandan</JP>?</A>
+<B><F>Ah</F> yes. I'd like to keep it. Further more, I'd like to <SC>have a</SC> get a fourth grade.</B>
+<A><F>Oh</F>.</A>
+<B>But it is said that it is difficult to have a fourth grade.</B>
+<A><F>Mhm</F>. If you win the fourth grade person, you will become the fourth grade? No? <OL>Not that easy</OL>?</A>
+<B><OL><F>Mhm</F></OL>. In the Japanese chess competition of amateur, <F>er</F> <SC>I will</SC> <F>er</F> <SC>we</SC> if we will <R>wi</R> win the <SC?>prerie</SC?> <SC>pre-selection</SC> <SC>pre</SC> tournament of pre-selection, <F>er</F> <R>we</R> <R>we</R> <R>we are</R> we are allowed to get a fourth grade.</B>
+<A><F>Mhm</F>. O K. <F>Well</F> good luck.</A>
+<B><F>Ah</F> thank <OL>you</OL>.</B>
+<A><OL>O K</OL>. Thank you for coming to the interview.</A>
+<B><F>Ah</F> thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

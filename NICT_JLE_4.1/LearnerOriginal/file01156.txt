@@ -1,0 +1,212 @@
+<interview>
+<filename>file01156.txt</filename>
+
+<head version="1.3">
+<date>2002-07-08</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's start. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>How are you? I'm fine.</B>
+<A>O K. Good. Where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uhm</F>. What kind of place is that?</A>
+<B><.></.> There is many rivers and many animals. There is many natures.</B>
+<A><F>Uhmm</F> I see. <F>Uhm</F> how long does it take you to come here?</A>
+<B><F>Er</F> about one hour and twenty</B>
+<A><F>Oh</F>.</A>
+<B>minutes.</B>
+<A><F>Humm</F>. It's a long train ride, but what do you usually do on the train?</A>
+<B><F>Uhm</F> I'm studying Germany because I take <SC>German</SC> Germany in the university.</B>
+<A><F>Uhmm</F> I see. Which do you like better, German or English?</A>
+<B><F>Uhm</F> I think English is better because I studied long time before.</B>
+<A><F>Um</F>.</A>
+<B><F>Mm</F>.</B>
+<A>I see. Why did you choose German as a second <SC>language</SC> foreign language?</A>
+<B><F>Uhm</F> I want to watch soccer game in Germany, but I don't know the team names and detail in Germany's soccers. But I heard the Germany soccer is very interesting so I choose German.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A><F>Ohh</F>. So what did you think of the World Cup</A>
+<B><F>Ohh</F>.</B>
+<A>soccer games?</A>
+<B>It was fantastic, but I wanted to win Japanese <OL>team, yes</OL>.</B>
+<A><OL><F>Uhm</F> <F>uh-huh</F></OL>. I see. <F>Uhm</F>. O K. Do you play soccer?</A>
+<B>No, I played baseball in high school and junior high school.</B>
+<A><F>Uhmm</F>.</A>
+<B>So I like baseball better.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. O K. Please tell me more about your team in high school. <nvs>cough</nvs></A>
+<B><F>Uhm</F> <SC>my team was <.></.> <F>uhm</F> <.></.> <R>so</R> <F>em</F> <F>uhm</F> so-so</SC> <SC>strong</SC> the strength <SC>i</SC> was so-so. And <SC>we are play <SC>with interest</SC> <F>um</F> with a entertain</SC> we entertained the baseball. We didn't want to win match and match. <OL>We just</OL></B>
+<A><OL>I see</OL>.</A>
+<B>interested in baseball. <F>Uhm</F>.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A><F>Uh-huh</F>. O K. Good. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now please take a look at this picture, and describe it.</A>
+<B><.></.> O K. <F>Er</F> <F>uhm</F> <..></..> O K.</B>
+<A><F>Mm</F>.</A>
+<B><F>Ur</F> this is restaurant, and <SC>the</SC> a couple <F>uhm</F> come to <SC>dinner</SC> eat dinner. And waiter bring wine to couples. And <R>the man</R> the man wearing yellow suits <F>err</F> drinking wine, and <SC>the</SC> they are smiling.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Mm</F>. <CO>And</CO>. <F>Eh</F> all pictures <??></??>?</B>
+<A><F>Ah</F> O K. That's enough. Thank you.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A><F>Erm</F> <H pn="B's name">XXX02</H>, do you like this kind of restaurant?</A>
+<B>No, I don't.</B>
+<A><nvs>laughter</nvs> <OL>Why not</OL>?</A>
+<B><OL>Because</OL> this is too formal.</B>
+<A><F>Ahh</F>.</A>
+<B>I want to go more casual restaurant. <OL>I</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>like casual restaurant better.</B>
+<A>I see.</A>
+<B><F>Uhm</F>.</B>
+<A><F>Uhm</F>. So please tell me about your favorite restaurant.</A>
+<B>My favorite restaurant?</B>
+<A><F>Um</F>.</A>
+<B><F>Uhm</F> <R>I</R> I don't go restaurant usually, but <SC>I like</SC> my favorite restaurant is, <F>uhm</F> for example, <F>oh</F> Jonathan</B>
+<A><F>Hum</F>.</A>
+<B>or <F>err</F> <F>ehh</F> <F>ohh</F> <R>I</R> I can't remember, but</B>
+<A><F>Hum</F>.</A>
+<B>like family restaurant.</B>
+<A><F>Uhm</F>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>What</OL> do you like best about Jonathan?</A>
+<B><F>Oh</F> just I <F>um</F> remember it.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>But</OL> the best is <F>ehh</F> Saizeria <OL>because the cost</OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>is very low, so it is good for <OL><SC>students</SC></OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>universal students.</B>
+<A>I see. Do you have a part-time job?</A>
+<B>No, I haven't.</B>
+<A><F>Uhm</F> I see. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then, next, please read this card, and when you are ready, let's start the role-play.</A>
+<B><F>Uhm</F>. O K. <F>Ah</F>.</B>
+<A>Hello. May I help you?</A>
+<B><F>Oh</F>. Yes, please. <F>Ohh</F> <SC>I want</SC> <R>I</R> I'd like to take <F>err</F> interesting book.</B>
+<A><F>Mm</F>.</A>
+<B>So please tell me about the Japanese society book.</B>
+<A><F>Uhmm</F>. <F>Uhm</F>. <F>Err</F> O K. <F>Er</F> there are many books <F>err</F> in that genre. Please explain more.</A>
+<B><F>Oh</F> I want to know <F>er</F> Japanese society and <F>uhm</F> about <JP><SC>matsuri</SC></JP> Japanese <JP>matsuri</JP>.</B>
+<A>What is <JP>matsuri</JP>?</A>
+<B><JP>Matsuri</JP> is <F>uhm</F> the party. People enjoys <F>uhm</F> in summer. There is many <JP>hanabi</JP>, <JP>omikoshi</JP>. <CO><F>Uhm</F> <SC>Japanese</SC> so <JP><F>ano</F></JP> <F>ehh</F> Japanese <..></..> <OL><R>o</R> old</OL></CO>.</B>
+<A><OL><F>Mm</F> O K, then I</OL> recommend this book. <OL><F>Er</F></OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>it's written in English.</A>
+<B>No, I want to Japanese book.</B>
+<A><F>Ahh</F>. O K. Then, how about this one, Japanese culture?</A>
+<B>O K. <F>Er</F> <F>uhm</F> but I want more pictures</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>about <JP>matsuri</JP></OL> and more details. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. O K. Then, this one is best for you, <OL>many</OL></A>
+<B><OL><F>Ohh</F></OL>.</B>
+<A>pictures.</A>
+<B>O K.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>This is</OL> good.</B>
+<A>O K. O K. How would you like to pay?</A>
+<B><.></.> <F>Mm</F>?</B>
+<A>Cash?</A>
+<B><F>Ohhh</F> cash, please.</B>
+<A><F>Um</F>. O K. Here you go. Thank you.</A>
+<B>Thank you.</B>
+<A>O K. Good.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX02</H>, are you interested in Japanese culture?</A>
+<B><F>Uhm</F> not so much. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Then, how about the <JP>matsuri</JP>?</A>
+<B><JP>Matsuri</JP>? <F>Uhm</F> I don't like <JP>matsuri</JP> because I don't know why people <SC>so</SC> very excited about <JP>matsuri</JP>. <SC>I want to</SC> <F>uhm</F> <SC>I can enjoy</SC> I can't enjoy <JP>matsuri</JP>, but I can enjoy sports <F>uhm</F> <SC>or</SC> <F>uhm</F> so <R>I</R> I don't know why people <F>uh</F> excited in <JP>matsuri</JP>.</B>
+<A><OL><F>Ahh</F> O K</OL>.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><F>Uhm</F>. Then what do you usually do on weekends with friends</A>
+<B><CO><OL><F>Oh</F> I u</OL></CO>.</B>
+<A><OL>besides</OL> baseball?</A>
+<B><F>Uhmm</F> baseball?</B>
+<A>Besides</A>
+<B><F>Ohh</F> O K. O K. <OL><F>Uhm</F></OL>.</B>
+<A><OL>baseball</OL>.</A>
+<B><R>I'm</R> I'm belonging in ski's club so <SC>I <SC>drank with</SC> drink</SC> I usually drink with my <R>ss</R> <SC>ski school</SC> ski teammates.</B>
+<A><F>Um</F>.</A>
+<B>Yes. <CO>I</CO>. <F>Um</F>.</B>
+<A><F>Um</F>. So please compare your skiing circle with baseball club you belonged to in high school days.</A>
+<B>O K. <F>Er</F> <F>uhm</F> my baseball team was <F>uhm</F> <.></.> just enjoying baseball. <SC>Not</SC> they don't want to win so the club was not so <F>uhm</F> hard. It was <F>uhm</F> enjoyment, but ski team, <F>uhm</F> they are top of the <R><H pn="school name1">XXX04</H></R> <H pn="school name1">XXX04</H> University's ski club. So <SC>they</SC> <SC>it wa</SC> it is <R>hard</R> hard <F>uhm</F> practice. So <F>uhm</F> I can train my body very much.</B>
+<A><F>Uhm</F>. I see. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, <nvs>cough</nvs> finally, let's do this. Please make a story with these four pictures, and please start the story with, "One day last week," because it happened last week.</A>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<B>O K. <F>Uhm</F> <F>um</F>. <CO>Three person</CO>.</B>
+<A><F>Mm</F>. One day last week.</A>
+<B><F>Ah</F> one day last week, three person <SC>was</SC> <F>ah</F> went to cinema. <F>Uhm</F> they wanted to see a <R>plane</R> <.></.> plane movie. <F>Uhm</F> a person wearing yellow jacket gets ticket, and they enter the cinema. And they bought drinks and popcorn, and they began to <F>ehh</F> see movies. <F>Uhm</F> <R>they</R> they were scared about the movie.</B>
+<A><F>Uhm</F>.</A>
+<B>And after that, they finished to see movies, <F>uhm</F> they wanted to see another movie, so they planned another schedule to <.></.> <SC>see</SC> <SC>watch</SC> <F>mm</F> see movies.</B>
+<A><F>Mm</F>. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Please tell me about the last time you saw the movie.</A>
+<B><F>Uhm</F> I saw in <R>May</R> <R>May</R> <.></.> May. <OL>So</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>er</F> I watched "Asama-sanso Jiken"</B>
+<A><F>Uhm</F>.</A>
+<B>with my <SC>scho</SC> ski school teammates.</B>
+<A>How was it?</A>
+<B>It was interesting because <.></.> <F>uhm</F> I could know about <SC>policeman <?>there</?></SC> <F>err</F> <F>er</F> policeman's problems. <F>Uhm</F> <SC>the top of policeman can't move theirselves</SC> <F>uhm</F> <F>ah</F> <R>Nagano</R> Nagano policeman can't move, but the Tokyo policeman <F>ehh</F> <SC>move</SC> <F>uhm</F> so <F>ehh</F> make them to move.</B>
+<A><F>Uhm</F> I see.</A>
+<B><F>Er</F>.</B>
+<A>Why did you choose that movie?</A>
+<B><F>Err</F> <SC>I don't</SC> I didn't know about that movie, but my teammates wanted to see that movie, <F>er</F> so I join the plan.</B>
+<A>I see. <F>Um</F>. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview, but what are your plans for tomorrow?</A>
+<B><F>Uhm</F> <SC>my</SC> <SC>I will go to</SC> I will come to university <SC>and studies</SC> and <SC>study about the tests</SC> <SC>study <F>um</F> because test</SC> I will study because the test will <.></.> <JP><F>nnto</F></JP> next Thursday.</B>
+<A><F>Oh</F> I see. <F>Uhm</F> what kind of tests?</A>
+<B>Germany</B>
+<A><F>Ahh</F>.</A>
+<B>and Economic</B>
+<A><F>Ahh</F>.</A>
+<B>and Mathematics.</B>
+<A><F>Wow</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+<A>O K. Good luck on those tests.</A>
+<B>Yes. Thank you.</B>
+<A>Thank you very much for coming in today.</A>
+<B><JP>Hai</JP>.</B>
+<A>Good-bye.</A>
+<B>Bye.</B>
+</stage5>
+</body>
+</interview>

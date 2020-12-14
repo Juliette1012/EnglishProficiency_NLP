@@ -1,0 +1,149 @@
+<interview>
+<filename>file00940.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B>I'm fine, thank you.</B>
+<A>O K. <F>Urr</F> it's Wednesday today. And what do you usually do on Wednesdays?</A>
+<B><R>I usually do</R> I usually do <.></.> some classes and <.></.> after that, <F>uhm</F> <.></.> <R>I</R> I usually <SC>do</SC> <.></.> go shopping or <F>uhm</F> going with my friend <.></.> <F>uhmm</F> and so on.</B>
+<A><F>Uhm</F>. Where do you usually go for shopping?</A>
+<B><R>I</R> <.></.> I go to <.></.> in Aoyama,</B>
+<A><F>Uhm</F>.</A>
+<B>Shinjuku, <.></.> <F>uhm</F> yes.</B>
+<A><F>Uhm</F>. Would you please tell me about your favorite shop?</A>
+<B><F>Uhm</F>. I like <.></.> Comme des Garcons shop.</B>
+<A><F>Uhmm</F>. Why do you like it?</A>
+<B>Because <F>uhm</F> <.></.> Comme des Garcons <R>is</R> <.></.> is <.></.> <R>very</R> <.></.> very good clothes for me.</B>
+<A><F>Urm</F> I see. <F>Um</F>. O K. Besides shopping, what is your hobby?</A>
+<B><.></.></B>
+<A><nvs>cough</nvs></A>
+<B>My hobby?</B>
+<A><F>Uhm</F>.</A>
+<B>My hobby is <.></.> playing soccer and traveling abroad.</B>
+<A><F>Uhm</F>. I see. <F>Ur</F> which countries have you been <OL>to</OL>?</A>
+<B><OL><F>Uhm</F></OL> I have <.></.> ever been to China, Hawaii and Taiwan.</B>
+<A>I see. Which is your favorite place?</A>
+<B><F>Uhmm</F> <.></.> <SC>I like <.></.> China the</SC> <F>er</F> I like the best <.></.> China.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>O K. Please tell me about your trip to China.</A>
+<B><F>Uhm</F> <..></..> <R>I</R> I went to <.></.> China <..></..> <R>one</R> one years ago <F>uhm</F> as graduational <.></.> trip <.></.> <SC>in my co</SC> in my high school. <SC>The trip is</SC> <.></.> <F>ur</F> <R>I</R> I have exchange <.></.> the Beijing University</B>
+<A><F>Uhm</F>.</A>
+<B>in <.></.> the trip. <.></.> <F>Uhm</F> <.></.> <R>their</R> <SC>their English skill is <R>more</R> <.></.> more</SC> <F>ur</F> <R>the</R> their English skill is better than us <laughter>so</laughter> <R>I</R> I surprised.</B>
+<A><F>Uhm</F>. I see. What do you like best about China?</A>
+<B><..></..> <F>Uhm</F> <R>I like</R> I like the best place is Great Wall <.></.> and <.></.> Acrobatic <..></..> Circus.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhm</F>. I see. O K. Thank you. Now, please describe this picture.</A>
+<B><.></.> <F>Uhm</F> <..></..> in this room, there are <.></.> six student <.></.> and one teacher. The teacher is teaching math. <.></.> A teacher <R>is</R> <.></.> is lady. <SC>Some</SC> <JP><F>unto</F></JP> <.></.> most of student <.></.> don't listen to her. But maybe <.></.> one student is studying hard. <.></.> The student and the next to student is eating chewing gum. <JP><F>unto</F></JP> the student <.></.> <R>on the</R> on the left hands, <SC>she is</SC> <.></.> <R>sh</R> <F>uhm</F> she is doing portable phone. <.></.> <SC>Behinds</SC> <R>behind</R> <.></.> behind <R>he</R> <.></.> <SC>he's drinking a</SC> <F>er</F> he is drinking. That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you. What do you think of these students?</A>
+<B><JP><F>Unto</F></JP>. <.></.> <R>They</R> <.></.> <R>they are not</R> <.></.> <SC>they are not</SC> <..></..> <F>urr</F> <SC>they are no</SC> <R>they</R> they don't like studying <.></.> very much.</B>
+<A>I see. Were you like them when you were a high school student?</A>
+<B><F>Um</F>? Once <OL>more</OL>.</B>
+<A><OL>Were you</OL> like them? Your attitude was <.></.> like?</A>
+<B><.></.></B>
+<A>Were you this kind of student</A>
+<B><.></.> <F>Er</F>.</B>
+<A>when you were a high school student?</A>
+<B>No. <.></.> My school student is <R>very</R> <.></.> <SC>very <.></.> <JP>majime</JP></SC> <.></.> very <.></.> good student.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Ahh</F> that's good. O K. Thank you. Now, <.></.> O K. Please read this card. And let's do a role-play. <R>When you're ready</R> when you're ready, I'll start conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B><.></.> <JP>hai</JP>. O K.</B>
+<A>O K. Hello. May I help you, sir?</A>
+<B><.></.> <R>I want to</R> I want to buy a coat. <.></.></B>
+<A><OL>Yes</OL>.</A>
+<B><OL>What</OL> kind of coat do you have?</B>
+<A>We have all sorts of coat.</A>
+<B><.></.> <R>I</R> I'm looking for <.></.> like this coat.</B>
+<A><F>Ahh</F>. <.></.> O K. <OL><F>Uhm</F></OL>.</A>
+<B><OL><R>The</R></OL> the color is black. The size is M.</B>
+<A><F>Uhm</F>. Yes. We have many coats like that. But why don't you buy something very different?</A>
+<B><.></.> <R>On</R> once more? <nvs>laughter</nvs></B>
+<A>O K. Why don't you buy something very different because you have that coat already?</A>
+<B><JP><F>Unto</F></JP>. <.></.> <R>Because</R> <.></.> <F>uhh</F> <.></.> because I like <.></.> the <R>same</R></B>
+<A><nvs>laughter</nvs></A>
+<B><SC>same <R>fo</R> form</SC> same form like this coat.</B>
+<A>O K. I see. Then how about this one?</A>
+<B><.></.> <F>Uhm</F>. <F>Er</F> it's very good. I want to buy it.</B>
+<A>O K. This is ten thousand yen.</A>
+<B><F>Urr</F> O K. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> How would you like to pay?</A>
+<B><F>Uhm</F> <..></..> <R>I</R> I want to pay <.></.> <F>uhmm</F> <.></.> <R>nine</R> <R>nine</R> nine thousand yen. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Then I give you a discount. Here you go.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Uhm</F> O K. Thank you. So <F>uhmmm</F> <.></.> <F>ur</F> when you go shopping, what are most important points for you <.></.> <SC>to have</SC> <.></.> to buy something very nice?</A>
+<B><JP><F>Unto</F></JP>. <..></..> The most important point is the design and price.</B>
+<A><F>Uhm</F>. <F>Uh-huh</F>. How about the material?</A>
+<B><..></..> Material? <F>Uhm</F> <.></.> I don't care <.></.> <SC>what</SC> all materials.</B>
+<A><F>Ahh</F> why not?</A>
+<B><..></..> <F>Uhmm</F> <.></.> why not? <.></.> I don' know.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhm</F>. O K. Now, please make a story with these six pictures. And please start with "One day last week" because it happened before.</A>
+<B><.></.> <JP><F>Uunto</F></JP>. <.></.> One day last week, <.></.> <JP><F>eeto</F></JP> <..></..> <R>he</R> <R>he and</R> <SC>he and his father</SC> <.></.> <R>at one picture</R> at one picture, he and his father <JP><F>eeto</F></JP> <.></.> <R>wen</R> <SC>went</SC> going <SC>restaurant</SC> <.></.> a restaurant. At two picture, <.></.> his father is talking to the restaurant's staff. <R>Th</R> three picture, <.></.> <R>he</R> <.></.> <R>he is</R> <SC>he is decide</SC> he was deciding <.></.> <R>what</R> <.></.> <R>what he</R> <.></.> what he ate. <.></.> Four picture, <R>he</R> <.></.> <SC>he drink</SC> <R>he</R> he drank beer and his father <.></.> was <R>eat</R> eating chicken and drinking wine. At five picture, <R>he</R> <R>he is very</R> <.></.> he is very satisfied and his father <.></.> was paying money. At <SC>six picture</SC> <JP>are</JP> <laughter>six <R>picture</R></laughter> <.></.> picture, <JP><F>unto</F></JP> <.></.> <F>uhm</F> <R>h</R> <R>his father</R> <.></.> his father say good-bye <.></.> him.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you. <F>Ur</F> please compare this restaurant with the restaurant you often go to.</A>
+<B><..></..> Maybe <.></.> this <R>re</R> restaurant is more expensive than <.></.> a restaurant <R>I</R> <R>I</R> I often go to restaurant.</B>
+<A><F>Uhm</F>. <.></.> O K. Then please tell me about the last time you went to that restaurant? I mean your favorite.</A>
+<B><F>Uhm</F>? Favorite <OL>restaurant</OL>?</B>
+<A><OL><F>Uhm</F></OL> restaurant. Last time.</A>
+<B><..></..> <F>Uhm</F> <F>uhm</F> <R>I</R> <..></..> <F>uhmm</F> I went to Gyukaku.</B>
+<A><F>Uhm</F>.</A>
+<B><nvs>laughter</nvs> My favorite restaurant is Gyukaku, too.</B>
+<A><F>Uhm</F>. <.></.> When did you go there?</A>
+<B><.></.> Maybe <R>I</R> <.></.> I went to there <F>uhm</F> <.></.> <SC>one month ago</SC></B>
+<A><F>Uhm</F>.</A>
+<B><.></.> about one month ago.</B>
+<A><F>Uhm</F>. Aren't you afraid of eating beef?</A>
+<B><F>Uhmm</F> <.></.> <SC>I don't</SC> <R>I'm</R> I'm not afraid of eating beef.</B>
+<A><F>Uhm</F>.</A>
+<B><.></.></B>
+</followup>
+</stage4>
+<stage5>
+<A><nvs>laughter</nvs> O K. Thank you very much. <F>Urr</F> the interview is almost over. But what are you going to do tomorrow?</A>
+<B><.></.></B>
+<A>What are you going to do tomorrow?</A>
+<B><.></.> <JP><F>Eeto</F></JP>. <.></.> I want to go <.></.> to my friend's house.</B>
+<A><F>Uhmm</F>. O K. And what are you going to do?</A>
+<B><.></.> <F>Uhh</F> <.></.> <R>I</R> <.></.> I will eat dinner with my friend</B>
+<A><F>Uhm</F>.</A>
+<B>in his house.</B>
+<A>I see. O K. Then, have a nice time. Thank you very much for coming today.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

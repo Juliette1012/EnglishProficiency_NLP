@@ -1,0 +1,201 @@
+<interview>
+<filename>file00335.txt</filename>
+
+<head version="1.3">
+<date>2001-03-02</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>landlord_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>O K. <JP><F>Etto</F></JP> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Where are you from?</A>
+<B><F>Mm</F> I'm from <F>mm</F> <H pn="others1">XXX03</H> in <H pn="others2">XXX04</H>.</B>
+<A><F>Mhn</F> were you born in <H pn="others1">XXX03</H> City?</A>
+<B>No. <F>Mm</F>. Now I live in <F>eh</F> <R><H pn="others3">XXX05</H></R> <H pn="others3">XXX05</H> City.</B>
+<A><F>Mhn-huh</F>. O K. Do you live with your family?</A>
+<B>No. I live on my own.</B>
+<A><F>Ah</F> O K. How do you like living by yourself?</A>
+<B><F>Mm</F> <F>eh</F> I beg your pardon?</B>
+<A><F>Ah</F> how do you like living on your own?</A>
+<B><F>Ah</F> <JP>sodesune</JP> <F>mm</F> I can <F>eh</F> hung around with my friends <F>mm</F> anytime.</B>
+<A><F>Ah</F> I see. <F>Mhm</F>. O K. So <R>in high s</R> in high school days, where did you live?</A>
+<B><F>Eh</F> I live in <H pn="others4">XXX06</H>.</B>
+<A><F>Ah</F> O K.</A>
+<B>With my parents.</B>
+<A><F>Ah-huh</F>. Where in <H pn="others4">XXX06</H> did you live?</A>
+<B><F>Mm</F> <.></.> excuse me.</B>
+<A><F>Ah</F> O K. <CO>Did you live in <H pn="others4">XXX06</H> City <OL>or</OL></CO>?</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Ah</F> O K. Then tell me about your hometown, please.</A>
+<B><F>Mhm</F> I lived in <H pn="others2">XXX04</H> for fifteen years, and my father was ordered to move to <H pn="others4">XXX06</H>. So <R>I</R> <F>mm</F> I had difficulty in understanding <H pn="others4">XXX06</H> <JP>ben</JP>.</B>
+<A><F>Oh</F> I see. Is it very different?</A>
+<B>No, but <F>mm</F> intonations is different from <H pn="others2">XXX04</H> <OL>dialect, I think</OL>.</B>
+<A><OL><F>Oh</F> I see</OL>. <F>Ah</F> how long did it take you to get used to <H pn="others4">XXX06</H> dialect?</A>
+<B><F>Mm</F> <F>eh</F> <F>mmm</F> two years after.</B>
+<A>Two years. O K. Now, do you speak <H pn="others4">XXX06</H> <JP>ben</JP>?</A>
+<B>No. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> <laughter>O K, O K</laughter></OL>. <F>Eh</F> what is your hobby?</A>
+<B><F>Mm</F> my hobby is to listen to music.</B>
+<A><F>Mhn</F>. What kind of music do you listen to?</A>
+<B><F>Mm</F> a kind of relaxing music. <F>Ur</F> for example, Enya.</B>
+<A><F>Ahh</F>.</A>
+<B>Do you know Enya?</B>
+<A><F>Ah-huh</F>. Yeah, <F>ah</F> O K. Do you like Japanese music, too?</A>
+<B>Yes.</B>
+<A><F>Ah</F>.</A>
+<B>Of course.</B>
+<A>Of course.</A>
+<B><nvs>laughter</nvs></B>
+<A>Why, of course?</A>
+<B><F>Mm</F> I work at C D shop now. So</B>
+<A><F>Ah</F> <F>Ah-huh</F>.</A>
+<B>I always listen to Japanese music.</B>
+<A><F>Ah</F> who is your favorite singer?</A>
+<B><F>Mm</F> I often listen to Dreams Come True.</B>
+<A><F>Ah</F> Dreams Come True. <F>Ah</F> yes. I like them, too. O K. Do you sing a song, too?</A>
+<B>Sometimes.</B>
+<A>Sometimes. Do you go to <JP>karaoke</JP>?</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ah</F> O K. O K. Then look at this picture, please.</A>
+<B>Yes.</B>
+<A>And please describe it.</A>
+<B><F>Mm</F> it's a classroom.</B>
+<A><F>Mhn</F>.</A>
+<B><F>Mm</F> <F>eh</F> teacher teaches mathematics. <JP><F>Etto</F></JP> <F>mm</F> a girl have a calculator. He's drinking a juice. <.></.> They don't listen to her. And chat each other. <F>Mm</F>. He's chewing gum. <F>Mm</F>. He only <laughter>listen to her</laughter>.</B>
+<A>O K. I see.</A>
+<B><JP><F>Etto</F></JP> <F>mhm</F> I think <F>mm</F> this class is <F>mm</F> smaller than Japanese class. <JP><F>Etto</F></JP> it's fine today. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>O K, O K</OL>. O K, good. Thank you very much. O K. Why do you think they are not listening their teacher?</A>
+<B><F>Mm</F> maybe, <SC>he don't have</SC> he doesn't have interest in math. Or <F>mm</F> it's difficult <R>for him to</R> <F>er</F> for him to understanding what her says.</B>
+<A><F>Mm</F>. Do you want to be a teacher of this class?</A>
+<B>No. <nvs>laughter</nvs></B>
+<A>O K. Why not?</A>
+<B><F>Mm</F> I want students to listen to me. <F>Mm</F>. And <SC>I</SC> I'm not good at teaching something to someone.</B>
+<A>Have you ever experienced to teach someone?</A>
+<B>No. But <R>I</R> I think so.</B>
+<A>You think so.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Ah</F> O K. <F>Er</F> what type of high school student were you?</A>
+<B><F>Mm</F> <.></.> <R>I</R> I was eager to study to <F>mm</F> pass the examination for university, but <F>mm</F> <F>mm</F> <R>it</R> it was very difficult. <CO>So I <F>mm</F> <F>ah</F> <F>mm</F></CO>. It was very difficult.</B>
+<A>O K. So you were very good student.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>You study very hard</OL>.</A>
+<B><F>Er</F> yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Yes. O K. Good. Next, let's do role-play. This is your card. Please read it. O K?</A>
+<B><ctxt>the interviewee is reading the card</ctxt> <F>Mm</F> O K.</B>
+<A>O K. Then I'll start. May I help you?</A>
+<B>Yes. <JP><F>Eeto</F></JP> I'm looking for good <F>eh</F> apartment. <F>Mm</F> <JP><F>eeto</F></JP> <JP><F>nnto</F></JP> do you have any good one?</B>
+<A>Yes. We have many.</A>
+<B><nvs>laughter</nvs> <F>Eh</F> <R>I</R> <R>I rent</R> I rent <R>the</R> the apartment <F>mm</F> at <F>mm</F> fifty thousand yen</B>
+<A><F>Mhn-huh</F>.</A>
+<B>a month.</B>
+<A><F>Mhn</F>.</A>
+<B>And <.></.> <F>ur</F> I need two rooms and a kitchen and bathrooms.</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>Mhm</F>. <JP><F>Etto</F></JP> <.></.> <F>mmm</F>. <.></.></B>
+<A>O K. So how about this one?</A>
+<B><JP><F>N</F></JP>?</B>
+<A>This has two rooms and one kitchen and a bathroom.</A>
+<B><F>Oh</F> it's great. So <F>eh</F> is the walls thin? <F>Mm</F> <JP><F>anou</F></JP> <JP><F>nnto</F></JP> <F>mm</F> <F>mm</F> <JP>nanteiunoka</JP>. The noise</B>
+<A><F>Ah-huh</F>.</A>
+<B><R>through</R> <R>through</R> through the wall?</B>
+<A>No.</A>
+<B>No. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Don't worry</OL>.</A>
+<B><F>Er</F> the apartment I live now <SC>is <nvs>laughter</nvs> <F>mm</F> <R>small</R> small</SC> has small thin walls.</B>
+<A><F>Oh</F> I see. <F>Ha</F> <F>ha</F> <OL><F>ha</F></OL>.</A>
+<B><OL>So</OL> I can't sing. <nvs>laughter</nvs></B>
+<A>You can not sing. Too bad. This one is all right. O K. <OL>You don't have to worry</OL>.</A>
+<B><OL>Good</OL>. Good.</B>
+<A>O K.</A>
+<B><F>Mm</F> <R>is</R> is it <F>er</F> near the supermarket or <F>mm</F> post office?</B>
+<A>Yes. <F>Eh</F> you can walk to a supermarket, and post office, yes, <F>er</F> you have to walk about ten minutes.</A>
+<B>Yeah. <F>Eh</F> how about station?</B>
+<A>Station. <F>Er</F> fifteen minutes</A>
+<B>Fifteen minutes.</B>
+<A>by walking.</A>
+<B><JP><F>Etto</F></JP>. <F>Eh</F>. <JP><F>Nnto</F></JP> <SC>is it easy to</SC> <JP><F>nnto</F></JP> <F>ah</F> <SC>is it easy with <R>bicycle</R> bicycle</SC> <F>mm</F> <nvs>laughter</nvs> is it <R>to</R> to go to <F>mm</F> station with bicycle?</B>
+<A><F>Ah</F> yes. Of course, you can take a bicycle.</A>
+<B><F>Mm-hm</F>. <F>Eh</F> <.></.> <R>how</R> <SC>how</SC> another good point, do you think <OL><SC>this</SC> about this</OL>?</B>
+<A><OL><F>Ah</F> this</OL> apartment is very new.</A>
+<B>New.</B>
+<A>One year old.</A>
+<B><F>Oh</F>. <F>Ah</F>.</B>
+<A>Do you like this one?</A>
+<B>Yes.</B>
+<A>Would you like take this one?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K. O K. Good. Thank you very much. Thank you. O K. This is the end of roll play. O K? So you live in an apartment house now.</A>
+<B>Yes.</B>
+<A>How did you find that apartment?</A>
+<B><F>Mm</F> <F>eh</F> <F>eh</F> I found it <F>mm</F> at university recommend. <F>Mm</F>. So <F>mm</F> <R>my</R> my mother and I <F>mm</F> discuss <F>mm</F> the price <F>mm</F> of rent price, <F>mm</F> and <F>mm</F> the distance <F>eh</F> to university. And <F>mm</F> the apartment I live now is <F>mm</F> <laughter><?>better</?></laughter>. But <laughter><R>the</R> the wall is thin</laughter>.</B>
+<A>Yes. <F>Ah</F> too bad. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Here's another picture for you. This time please make up a story.</A>
+<B>O K.</B>
+<A>O K? From one to six. And it happened before, so please start with, "One day last week".</A>
+<B><F>Mhm</F>. <ctxt>the interviewee is looking at the cards</ctxt> Do I think of <F>eh</F> their relationship?</B>
+<A><F>Mm</F>. It could be anyone. <F>Mhn</F>.</A>
+<B><JP><F>Etto</F></JP>. <.></.> He is his uncle. One day last week, <F>mm</F> they decided to go to a restaurant to have a dinner. <JP><F>Etto</F></JP> <F>mm</F> <F>mm</F> <F>mm</F> <R>his uncle</R> <F>mm</F> his uncle often goes to this restaurant, <R>and</R> and <R>he</R> he knows him.</B>
+<A><F>Oh</F> O K.</A>
+<B><JP><F>Etto</F></JP> <R>they</R> they had a good seat to eat, <F>mm</F> and <F>mm</F> <R>they</R> <.></.> they asked for a <JP>korewanannteiuno</JP> <JP><F>eeto</F></JP> <R>waitress</R> waitress <F>mm</F> a beer, chicken and <JP><F>etto</F></JP> <R>fish</R> fish. <JP><F>Unto</F></JP> <F>er</F> <?>they ate</?> dinner. <nvs>laughter</nvs> <JP><F>Etto</F></JP> they enjoyed the dinner <F>mm</F> with talk. <JP><F>Nnto</F></JP> <F>mm</F> <F>mm</F> it took <F>mm</F> thirty minutes <F>mm</F> to finish eating dinner. <JP><F>Nntto</F></JP> <SC>it costs</SC> it cost <F>mm</F> five thousand yen. <F>Mm</F>. He was very satisfied, but <R>he</R> he didn't want to pay <laughter><R>five</R> five thousand yen</laughter>. It was <SC>high</SC> <laughter>expensive for him</laughter>. But he gave up for his nephew.</B>
+<A><F>Mhn</F>. O K.</A>
+<B>And <F>eh</F> they said good-bye, and left.</B>
+</task>
+<followup>
+<A>O K. O K. Good. Thank you very much. O K. <F>Er</F> which do you like better, to eat at home or in the restaurant?</A>
+<B><F>Mm</F> at home because <F>nnto</F> <R>I</R> I don't have to <F>mm</F> think <R>o</R> other people manner.</B>
+<A><F>Ah</F> I see. <F>Mm</F>.</A>
+<B><R>I</R> <CO><laughter>I don't have good manner so</laughter></CO>.</B>
+<A><F>Well</F> O K. Do you cook?</A>
+<B>Sometimes.</B>
+<A><F>Ah</F> sometimes.</A>
+<B>But not good.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Not good. O K. Thank you. This is almost the end of interview. O K? Tomorrow is <F>uh</F> Saturday. Do you have any special plans to do for weekend?</A>
+<B>No. <SC>I plan to work at my <JP><F>untto</F></JP></SC> I work at book store.</B>
+<A><F>Mhn</F>.</A>
+<B>Now, <F>mm</F> I'm <SC>vacation</SC> <F>mm</F> spring vacation so <R>I</R> <F>mm</F> I work much <SC>as</SC> <F>mm</F> than usual.</B>
+<A><F>Ah</F> O K.</A>
+<B><CO><F>Mm</F> so</CO>.</B>
+<A>O K. But anyway, please enjoy your weekend.</A>
+<B>Yeah. <OL>Thank you</OL>.</B>
+<A><OL>Don't</OL> work very hard.</A>
+<B>Yes. <??></??>.</B>
+<A>O K. Thank you. This is all. Thank you.</A>
+</stage5>
+</body>
+</interview>

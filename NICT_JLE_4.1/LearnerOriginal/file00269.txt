@@ -1,0 +1,191 @@
+<interview>
+<filename>file00269.txt</filename>
+
+<head version="1.3">
+<date>2001-01-24</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>510</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Mhm</F> So, <H pn="B's name">XXX02</H>, please tell me, where do you live?</A>
+<B>I'm live in <H pn="others1">XXX03</H> City in <H pn="others2">XXX04</H> Prefecture.</B>
+<A>I see. What kind of city is <H pn="others1">XXX03</H> City?</A>
+<B><F>Urrr</F>. <R>Very general city</R> very ordinary city.</B>
+<A><F>Uh-huh</F>. I see. How is it different from Tokyo, for example, maybe, Ichigaya?</A>
+<B><F>Arr</F>. There is a lot of <OL>forest and</OL></B>
+<A><OL><F>Mm</F></OL>.</A>
+<B>lots of <SC>field</SC> <F>arr</F> rice field.</B>
+<A><F>Urr</F>. That's nice. Do you live there with your family?</A>
+<B>Yes.</B>
+<A>Can you tell me about your family?</A>
+<B><F>Ur</F>. I have my <.></.> father, mother, and younger brother and sister.</B>
+<A><F>Oh</F> I see. Tell me about your <SC>sister</SC> younger sister.</A>
+<B><F>Ur</F>. O K. My younger sister is working for a <R>me</R> medical office. And <F>er</F> she loves brand bag,</B>
+<A><nvs>laughter</nvs></A>
+<B>for example, Louis Vuitton.</B>
+<A>I see.</A>
+<B>But <R>she is</R> she loves very cheap clothes.</B>
+<A><nvs>laughter</nvs></A>
+<B>I think that is very unmatch.</B>
+<A><nvs>laughter</nvs> <F>Oh</F> I see.</A>
+<B>Sure. <F>Er</F>. Yeah?</B>
+<A><F>Erh</F>. O K.</A>
+<B>Go ahead.</B>
+<A>I'm sorry. O K. So, how about you, then? <F>Um</F>.</A>
+<B>About <R>my</R> my sister?</B>
+<A><?>No</?>. <F>Erh</F>. Compared to your sister, <SC>how <?>can</?></SC> what do you like to wear and buy?</A>
+<B><F>Er</F> <F>mm</F>. I like good quality clothes. And <SC>I</SC> <.></.> <F>er</F> concerning <SC>bag</SC> carrying bag, I like very <F>mm</F> convenient bag.</B>
+<A><F>Mmm</F>. I see. O K. How often do you go shoppping?</A>
+<B><F>Ehrr</F>. Recently, I never been to shopping. Because I love skiing. And I have no money, <OL>in this season</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Oh</F> I see. <F>Eh</F>. How did you become interested in skiing?</A>
+<B><F>Eh</F>. First time I went to skiing when I was high school student. And, <F>mm</F> <.></.> about <.></.> two or three <R>years</R> years, <F>ah</F> sorry, <.></.> <R>I</R> <R>I had</R> I had been belonging to ski club. And <F>eh</F> I found ski is very interesting sports.</B>
+<A><F>Er</F>. I see. What is so interesting about skiing?</A>
+<B><F>Er</F>. It's very difficult to <R>do</R> explain, but <F>er</F> <.></.> it is very simple reason. And <F>mm</F> <F>er</F> I wanna be wind.</B>
+<A><F>Oh</F> I see. You like the wind.</A>
+<B>Yeah.</B>
+<A>O K. Good.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K, then, today, first, I'm going to show you a picture.</A>
+<B><F>Ah-huh</F>.</B>
+<A>Please look at this picture, and tell me what you see.</A>
+<B>O K. <.></.> <nvs>laughter</nvs> It's <R>very</R> very similar with me.</B>
+<A><F>Oh</F>.</A>
+<B>O K. <F>Er</F>. There's a dog <F>er</F> and sitting. <.></.> <F>Ah</F>. <.></.> <F>Eh</F>. <.></.> <JP>Dou shiyou kana</JP>. <F>Uh</F>. There's a girl and dog and cat in the room. And door is open. And <F>uh</F> <R>a</R> a cat is <.></.> <F>eh</F> sleeping on the bed, and dog is sleeping on the floor. <F>Ah</F>. She is looking at cat and dog. <F>Uh</F>. <.></.> On her desk, there is computer and typewriter. <.></.> That's all.</B>
+</task>
+<followup>
+<A><F>Mm-hmm</F>. O K. So you said it was similar. Can you compare this room to your room?</A>
+<B>Yes. <F>Eh</F>. I have a cat, and my cat is always sleeping on my bed.</B>
+<A>I see. Right. O K. So, that's how it's similar. O K. So, can you tell me how do you usually spend your evenings in your room?</A>
+<B><F>Oh</F>. <.></.> <F>Eh</F>. About one years ago, <R>I started to</R> I started to learn English <OL>accounting</OL>.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B>And, <F>eh</F> <.></.> not every day, but I running <SC>accounting</SC> accountings in my room.</B>
+<A>I see. Can you tell me more about English accounting?</A>
+<B><F>Uhh</F>. <.></.> <R>A</R> accounting? About what?</B>
+<A>So it's accounting. And do it in English?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. How did you become interested in English accounting?</A>
+<B><F>Eh</F>. About several years ago, <SC>I'm</SC> I was working for <F>eh</F> <SC>trading</SC> big trading company as a temporary staff. And <F>eh</F> I know about that <SC?>je</SC?> routine works. But I can't understand <F>uh</F> accounting matters, so <F>eh</F> <SC>I can't do</SC> <F>a</F> <R>I</R> I coudn't do my work <F>eh</F> as well.</B>
+<A><F>Mm</F>. I see. <F>Wow</F>. Very hardworking.</A>
+<B>Yeah. Thank you.</B>
+<A>Good. Thank you very much.</A>
+<B><F>Uh-huh</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now we are going to do a role play, so I want you to look at this card. O K, so, when you are ready I'll start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? <F>Um</F>. Hello?</A>
+<B>Hello. <F>Eh</F>. This is <H pn="B's name">XXX02</H> on the phone.</B>
+<A><F>Oh</F>. Hi, <H pn="B's name">XXX02</H>. How are you?</A>
+<B>I'm fine, thank you. And you?</B>
+<A>I'm not bad, thanks.</A>
+<B><F>Eh</F>. I'm very sorry, but I can't go <.></.> dinner party tonight.</B>
+<A><F>Oh</F>. No. Why not?</A>
+<B><F>Eh</F>. My cat has sick, and I <R>take</R> take that cat to the doctor.</B>
+<A><F>Oh</F>. I see. <F>Well</F>. You can leave your cat at home, can't you?</A>
+<B>No.</B>
+<A>Why not?</A>
+<B><F>Eh</F>. <CO>Because</CO>. <F>Eh</F>. <.></.></B>
+<A>Your sister can look after your cat?</A>
+<B><F>Eh</F>. She's out now.</B>
+<A><F>Oh</F>. That's too bad. <F>Eh</F> <F>mm</F>. <SC>What do you have to do to pre</SC> <.></.> <R>what</R> what do you have to do to look after the cat?</A>
+<B><F>Eh</F>. <.></.> <F>Mm</F>.</B>
+<A>Why don't you bring your cat with you?</A>
+<B>With your house?</B>
+<A><F>Mhm</F>. It's not far away.</A>
+<B><F>Hh</F>. <F>Oh</F>. I think that is good idea, but my cat is very bad condition. And <F>er</F> she doesn't like <R>people</R> lot of people.</B>
+<A><F>Oh</F>. I have some friends waiting for you whom I want you to meet.</A>
+<B><F>Oh</F>. I'm very sorry, but I can't go.</B>
+<A><F>Mmm</F>. What shall we do?</A>
+<B><F>Eh</F>. <..></..> O K. I will plan another dinner party <F>eh</F> next month.</B>
+<A><F>Oh</F>. O K. Good. That sounds great.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K. Then, we look forward to that party. O K. And, take after your cat.</A>
+<B><F>Uh-huh</F>. Thank you very much.</B>
+<A>O K. See you then.</A>
+<B>See you.</B>
+<A>O K. Bye. O K. Thank you very much. That's the end of the role play.</A>
+</task>
+<followup>
+<A>O K, so. Thank you. O K, so, has your cat ever been sick?</A>
+<B>No.</B>
+<A><F>Oh</F> <laughter>I see</laughter>. O K, then, <F>em</F> if your cat became sick, what will you do?</A>
+<B><F>Ah</F>. <SC>I will take that</SC> <F>eh</F> I will take cat the doctor. <F>Er</F>. Last week, <F>er</F> I went to the doctor with my cat to <.></.> avoiding sick.</B>
+<A>How do you do that?</A>
+<B><F>Uhh</F>. <.></.> <JP><?>Denai kedo</?></JP>. <R>The doc</R> <F>mm</F> the doctor <R>gave</R> <R>gave</R> gave him a <?>medical</?>.</B>
+<A><F>Mmm</F>. What does it do?</A>
+<B><F>Uh</F>. Sorry, I can't explain, because <R>I</R> I do not know the word.</B>
+<A>O K. I see. All right, O K. So <R>you</R> your cat not going to get sick for a while. That's good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Then, the last thing today is, <??></??> look at this picture.</A>
+<B><F>Mm-hmm</F>.</B>
+<A>I want you to make a story from one to six.</A>
+<B><F>Mm-hmm</F>.</B>
+<A>This is something that happened one day last week.</A>
+<B><F>Mm-hmm</F>.</B>
+<A>O K, please start with "One day last week".</A>
+<B>O K. <.></.> <F>Err</F>. Last Sunday, <F>eh</F> I felt hungry, and <R>I</R> I tried to cook something to eat. And I looked <.></.> <F>eh</F> refrigerator, and there is nothing. So I went to supermarket to buy <.></.> <R>some</R> some food. <F>Uh</F>. <.></.> I choose <F>eh</F> some materials, and <F>eh</F> <R>I</R> I paid the fee. And <F>er</F> <F>eh</F> <nvs>laughter</nvs> <.></.> I bring the <.></.> <F>mm</F> shopping bag. <F>Uh</F>. I put <.></.> shopping bag back of the car. <SC>And I</SC> <.></.> And after I <.></.> arrive at home, <SC>I've making</SC> <.></.> <F>uh</F> <JP>nan darou</JP> <..></..> <R>I</R> I made a meal with egg. That's all.</B>
+</task>
+<followup>
+<A>O K. Good. Thank you very much. O K, so, tell me, how often do you cook?</A>
+<B><F>Mhm</F>. <.></.> About once a week.</B>
+<A><F>Oh</F>. Not bad. <F>Eh</F>. Tell me the last time you cooked.</A>
+<B><F>Eh</F>. <.></.> <F>Oh</F>. I don't remember, though. <.></.> <JP>Nani tukutta darou</JP>. <.></.> <F>Mm</F>. <.></.> <F>Ah</F>. <.></.> I made noodles. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> O K. Tell me more about the kind of noodles.</A>
+<B>It's <SC>a</SC> very simple. <F>Eh</F>. <.></.> Instant noodle. <nvs>laughter</nvs> Just put in boiled water. And wait three minutes, and eat. That's all. <nvs>laughter</nvs></B>
+<A><OL>I see</OL>. <F>Mhm</F>. So that's cooking.</A>
+<B>I think that is not <SC>cooking</SC> real cooking.</B>
+<A>I see. <SC>Do you</SC> what kind of instant noodles do you choose?</A>
+<B><F>Uhh</F>. I got very small one, because <F>uh</F> I feel <F>mm</F> hunger during <R>I</R> <R>I</R> I am studying accountings. I eat that.</B>
+<A><F>Ahh</F>.</A>
+<B><F>Oh</F>. Because <SC>that</SC> <R>last</R> <.></.> <F>eh</F> last weekend, I had examination.</B>
+<A><F>Mmmm</F>. What kind of examination?</A>
+<B><F>Eh</F>. Of course, English accounting.</B>
+<A><F>Oh</F>. I see. <F>Oh</F>. So you had to study hard.</A>
+<B>Yeah. <F>Eh</F>. Not hard.</B>
+<A><OL>Why</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Er</F>. Just study.</B>
+<A><F>Oh</F> I see. O K. Good.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F>. We're almost at the end of the interview now. O K? So, what are your plans after this?</A>
+<B>After this? After this <R>interview</R> interview?</B>
+<A><F>Mm-hmm</F>.</A>
+<B><F>Mm</F>. I back to work. <F>Oh</F>. I have to go to <.></.> <H pn="company name1">XXX05</H></B>
+<A><F>Mm</F>.</A>
+<B>to hand in <.></.> <F>eh</F> documents.</B>
+<A><F>Oh</F> I see. It's quite a nice weather outside.</A>
+<B>Yes.</B>
+<A>So it should be pleasant.</A>
+<B><F>Mhm</F>. Yeah.</B>
+<A>O K. That's the end. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+<B>Thank you very much, <H pn="A's name">XXX01</H>.</B>
+<A>O K. Thank you remembering my name. O K.</A>
+</stage5>
+</body>
+</interview>

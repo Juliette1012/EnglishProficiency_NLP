@@ -1,0 +1,183 @@
+<interview>
+<filename>file00007.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name?</A>
+<B><F>Ah</F> my name is <H pn="B's name">XXX01</H>.</B>
+<A>Nice to meet you <OL><H pn="B's name">XXX01</H></OL>.</A>
+<B><OL>Nice to</OL> meet you <H pn="A's name">XXX02</H>.</B>
+<A>O K. So, where did you just come from?</A>
+<B><F>Ah</F>. <.></.></B>
+<A>Today.</A>
+<B><F>Er</F> <R>I</R> <R>I</R> <CO>I come from</CO>. <.></.> <F>Ah</F> <SC>I</SC> you mean, <.></.> my home?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>A</F> <SC>it's</SC> <F>er</F> I come from <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Oh</F> so, how did you come here?</A>
+<B><F>Er</F> <F>er</F>. <R>I</R> <.></.> I walked to the station as just a few minutes walk <.></.> from my home. And I got a <H pn="others2">XXX04</H> line, and I change the train at the <H pn="others1">XXX03</H> Station <SC>to the <H pn="others2">XXX04</H></SC> <F>a</F> from <H pn="others2">XXX04</H> line to <H pn="others3">XXX05</H> line, and I got a <H pn="others3">XXX05</H> line and I got off at a <H pn="others4">XXX06</H> Station and I took the bus. <.></.></B>
+<A>And you came here.</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>. O K. What kind of place do you live?</A>
+<B><F>Ah</F> <SC>I live in</SC> <.></.> <F>er</F> it's a kind of suburb.</B>
+<A><F>Mhm</F>.</A>
+<B>Yes. So there's a many condominiums. And, <SC>my city is</SC> <F>er</F> at first, <SC>it's <R>pla</R> planning</SC> <F>er</F> it planned. So, the first, the roads <SC>are</SC> were built.</B>
+<A><F>Mhm</F>.</A>
+<B>So it's very <F>er</F> neat. <SC>It kin</SC> <F>er</F> I don't know how to say, but it's a neat.</B>
+<A><F>Mm</F>. So, how long have you been living in that place?</A>
+<B><F>Oh</F>. I have lived <.></.> there for <.></.> more than fifteen years.</B>
+<A><F>Mhm</F>. Do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Er</F> please tell me about your family.</A>
+<B><F>Ah</F> <F>ah</F> I have <F>mm</F> two boys and a husband. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>So all my family members are four.</B>
+<A><SC?>And</SC?> so, what do your sons do?</A>
+<B><F>Ah</F> my elder son is a <.></.> college student, and my younger one is a <.></.> <F>er</F> <.></.> student of a cram school.</B>
+<A><F>Mhm</F>. So he's studying very hard.</A>
+<B>I hope so. <OL><nvs>laughter</nvs></OL></B>
+<A><nvs>laughter</nvs> O K. So, besides studying English, <F>mhm</F> do you have any hobbies?</A>
+<B><F>A</F> <F>ah</F>. I'm interested in <.></.> green plants, and <R>I</R> I like a herb. So I'm learning about herbs.</B>
+<A><F>Mhm</F>. So, do you have a garden?</A>
+<B>No. <F>Ah</F>. I live in a condominium, so I don't have any garden. But I have many pots in my balcony.</B>
+<A><F>Mhm</F>. <.></.> <F>Wow</F>. <?>They</?> should be very beautiful.</A>
+<B><.></.> <nvs>laughter</nvs> yeah. <nvs>laughter</nvs> But, now, it's a winter season. So a little bit <F>er</F> <R>to</R> to sorry for the <.></.> green plants <?>because</?> it's too cold for them.</B>
+<A>What is the hardest thing to keep plants?</A>
+<B><F>Oh</F>. <SC>It's</SC> <F>mhm</F> <.></.> <F>er</F> <.></.> <F>a</F> I think it's <F>er</F> <.></.> to keep the green plants <R>vivid</R> vividly. Sometimes, I forgot <R>to</R> to water them, so, sometimes, <SC>they die</SC> <nvs>laughter</nvs> they died. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+</stage1>
+<stage2>
+<task>
+<A><F>Mhm</F>. O K. All right. So the first thing today. Please take a look at this picture.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>And</OL>, please describe this <?>for me</?>.</A>
+<B><F>Ah</F>.</B>
+<ctxt>The examinee is looking at the picture and thinking what to say.</ctxt>
+<B>Yeah, <F>er</F> yes. <F>Er</F>. <..></..> The girl in this room <.></.> seems to like a computer, <SC>and <.></.> she</SC> <.></.> and, <.></.> yeah, <.></.> I think <R>she</R> <.></.> <SC>she is a</SC> <..></..> she is neat, and her room is a very clean. <R>And</R> <.></.> and <.></.> even though she has two pets a dog and cat, but the room is still clean. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><.></.> <F>Mm</F>. And, <..></..> <F>m</F> <F>m</F> <..></..> <F>mhm</F> <.></.> yes, <F>er</F> <..></..> <F>oh</F> what should I describe? <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL><F>Oh</F></OL> that's O K. O K. So, <F>er</F> recently, many people keep their pets in their own house</A>
+<B><F>Mh-huh</F>.</B>
+<A>not outside. <F>Mhm</F>. What do you think of that?</A>
+<B><F>Erm</F>. <.></.> If someone who has pets <F>ah</F> <.></.> keep their room clean, <SC>it's</SC> I think it's O K. <SC>Bu</SC> otherwise <SC>if some</SC> <F>er</F> if <SC>she</SC> he or she <SC>doesn't <F>er</F> maintenace</SC> <SC>main</SC> <F>er</F> <SC>doesn't <.></.> maintain</SC> doesn't have enough maintainance, <F>er</F> <SC>it's</SC> <.></.> it would be very unclean.</B>
+<A><F>Mhm</F>.</A>
+<B>So, <.></.> depends on <SC>the</SC> a <SC>person's character</SC> personality.</B>
+<A><F>Well</F> I understand. O K. Very good. All right.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So, next, <SC>please</SC> <?>let's try</?> a role play. <.></.> O K. Please read this card, and, when you're ready, I will start.</A>
+<ctxt>The examinee is reading the card.</ctxt>
+<A>O K?</A>
+<B><F>Ah-huh</F>.</B>
+<A>Ring-ring. Hello.</A>
+<B>Hello. <R><H pn="A's name">XXX02</H></R> <H pn="A's name">XXX02</H>?</B>
+<A>Yes.</A>
+<B><H pn="A's name">XXX02</H>, <F>er</F> I would like <SC>to see a mo</SC> <F>er</F> <R>to</R> to watch a movie <F>er</F> "The Sixth Sense". <F>Er</F> would you like to go with me?</B>
+<A>Sure.</A>
+<B>O K. Let's go together.</B>
+<A>Sounds nice.</A>
+<B><F>Er</F>. <SC>How abou</SC> <F>er</F> when would you like to go?</B>
+<A>I'll be free this weekend.</A>
+<B>So, O K. Let's go this Saturday.</B>
+<A>Great.</A>
+<B>Where <R>shall</R> shall we meet?</B>
+<A><F>Mm</F>. Anywhere.</A>
+<B><nvs>laughter</nvs></B>
+<A><OL>Wherever you like</OL>.</A>
+<B><OL><F>Er</F> O K</OL>. <F>Er</F>. O K. <R>let's</R> <R>let's</R> <SC>let's meet together</SC> <F>er</F> let's meet <.></.> just in front of the Big Box near <?>police box</?></B>
+<A><OL>O K</OL>.</A>
+<B><OL><R>at</R></OL> at noon.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F>. Shall we have a lunch together?</B>
+<A>Sounds great.</A>
+<B><F>Er</F>. Do you know <F>er</F> <F>oh</F> where is the theater?</B>
+<A><F>Mhm</F>. There are many theaters.</A>
+<B><OL><F>Ah-huh</F></OL>.</B>
+<A><OL>So</OL> we can discuss when we meet.</A>
+<B>O K. <F>Er</F>. Shall we go to Ginza?</B>
+<A>Sounds great. Yeah.</A>
+<B>O K. So, <SC>let's take</SC> <.></.> O K, let's take the <.></.> Tozai line and <SC>go to the</SC> go to Ginza and have lunch <.></.> in Ginza.</B>
+<A>Perfect.</A>
+<B>O K. So, see you <SC>this Satureday</SC> <.></.> on Saturday noon. <.></.></B>
+<A>O K. All right. Thank you for calling.</A>
+<B>O K. See you.</B>
+</task>
+<followup>
+<A>Thank you. This is the end of role play. <F>Er</F>. Do you often go out with your friends?</A>
+<B><F>A</F> sometimes.</B>
+<A>Sometimes?</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Mhm</F>. What do you do with your friends?</A>
+<B><F>Ah</F>. <R>My</R> my friends are usually middle aged, so, <SC>we</SC> sometimes, we took <SC>a town-watching</SC> <??></??> like a town-watching.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F>. Last week, my friends I went to a Asakusabashi, and we went to some Japanese paper shop. It's a very traditional shop. They have a long history, and we went to a some wholesaler. And we droped so many <F>er</F> shops. It was fun.</B>
+<A><F>Mm</F>. So, <F>er</F> did you buy anything in Japanese paper shop?</A>
+<B><F>Er</F>. Yes. I bought <R>a</R> a several <F>er</F> pieces of Japanese paper for New Year's decoration.</B>
+<A>Decoration?</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>. How do you use it?</A>
+<B><F>Er</F>. I use it <R>for</R> <F>er</F> <SC>for the <.></.> sheet</SC> <SC>she</SC> for the sheet <R>for</R> for the <JP><R>ka</R> kagamimochi</JP>. I bought a red and white paper.</B>
+<A><F>Mhm</F>. O K. <.></.> Should be very beautiful.</A>
+<B><F>E</F>? Yeah, <F>a</F> I hope so.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. All right. Last thing today. <F>Mhm</F>. I'd like you to take a look at these pictures. O K? There are six pictures one two three four five six. And, please make up a story based on these pictures.</A>
+<ctxt>The examinee is looking at the pictures.</ctxt>
+<B><F>Er</F>. One day, <F>er</F> a women went <.></.> for shopping <SC>to a</SC> to the department store. <F>Er</F> <R>she</R> she wanted to buy <R>a</R> <.></.> a present <F>er</F> <R>for</R> for her husband. And <R>she</R> <SC>she chose</SC> <SC>she chosed</SC> <.></.> she chose the necktie for her husband. And <R>she</R> <.></.> she select a <.></.> yellow dot on a green <.></.> tie. And she asked the salesclerk <.></.> to wrap it as a gift. <SC>And she</SC> <.></.> and, <R>after <.></.> finishing</R> <.></.> after finishing <R>to</R> to buy a present, she wanted to buy something for herself. <R>She</R> <F>er</F> she asked the salesclerk, "Where is the women's department?". And he said, "It's the third floor.". So <SC>she went to the</SC> she went there <F>er</F> <R>by</R> <F>er</F> <.></.> <R>by</R> <.></.> by stairways.</B>
+</task>
+<followup>
+<A>O K. All right. Good. So, have you bought a <SC>present</SC> <R>Chri</R> Christmas present <SC>for her</SC> for your husband?</A>
+<B><F>Er</F>. Not yet.</B>
+<A>Are you going to buy one?</A>
+<B><F>Ah</F>. <.></.> Yes, <F>ah</F> I will.</B>
+<A><F>Mhm</F>. <F>Er</F>. What are some points you keep in your mind when you buy a present for your husband?</A>
+<B><F>Er</F> <F>er</F>. <.></.> If I <.></.> buy something <F>er</F> which he doesn't like it, <F>er</F> it's a kind of a trash.</B>
+<A><F>Mm</F>.</A>
+<B><??></??>. It would be a kind of trash. So <SC>it's a</SC> <SC>it's waste</SC> it's a kind of waste. So <F>er</F> <F>er</F> he likes some wine or something. It's consumable, so I'm going to buy <F>er</F> some wine or champagne. <SC>It's</SC> <.></.> we can consume. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> So, how do you decide which wine or champagne you buy?</A>
+<B><F>Ah</F> <F>er</F> anyway, <F>er</F> <SC>I</SC> if I select <.></.> wine, <R>he</R> <R>he</R> he would drink.</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter><R>So</R></laughter> so it will disappear. So it's O K.</B>
+<A><laughter>It's O K</laughter>?</A>
+<B><SC>Something <F>er</F> <R>for</R> for him</SC>, if he doesn't like it, <SC>it's always</SC> <SC>it's</SC> we have to keep it. So <F>oh</F> I live in a condominium, so we don't have enough space to keep <SC>the</SC> <F>er</F> something we <SC>wan</SC> don't want. So I'd like <SC>something to have</SC> some to consumable.</B>
+<A><F>Mm</F>. And you can enjoy it too.</A>
+<B><laughter>Yes</laughter>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><laughter>O K</laughter>. All right. And we come almost end of the interview. So, are you going back to <H pn="others1">XXX03</H> now?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. Do you have to cook tonight?</A>
+<B>Yes I do.</B>
+<A><F>Mhm</F> <F>er</F>. What are you going to cook?</A>
+<B><F>Er</F> <F>oh</F> <.></.> <F>er</F>. <SC>I</SC> when <R>I arrived at ho</R> I arrived at home, it would be <F>er</F> around six o'clock. So it's little bit late. So I'm going to cook a simple one.</B>
+<A><F>Mhm</F>. O K. All right. O K. This is the end of the interview. Thank you very much for coming.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

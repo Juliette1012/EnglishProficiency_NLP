@@ -1,0 +1,365 @@
+<interview>
+<filename>file00072.txt</filename>
+
+<head version="1.3">
+<date>1999-12-15</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>600</TOEIC>
+<TOEFL>500</TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>.</A>
+<B>Yes.</B>
+<A>Can I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>. Nice to meet you.</B>
+<A>Nice to meet you. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. <OL>Of course</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. <F>Er</F> tell me what <SC>you</SC> <F>er</F> did you do today.</A>
+<B><F>Eh</F> today's topic? <F>Ah</F> <OL>no <??></??></OL>.</B>
+<A><OL><F>Ah</F> no, no, no</OL>.</A>
+<B><CO><OL>Today, I</OL></CO>.</B>
+<A><OL>Until now</OL>, what did you do?</A>
+<B>Until, today?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F> at first, <R>I</R> <F>er</F> I got up at <F>err</F> seven o'clock, and I ate big breakfast</B>
+<A><F>Um</F>.</A>
+<B>every day. So, after that <R>I</R> <F>ur</F> I go to <F>urr</F> university, <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>err</F> <R>second</R> second period lecture</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> which is <F>mhm</F> English conversation</B>
+<A><F>Uh-huh</F>.</A>
+<B>class. <F>Err</F> today lesson is Christmas party.</B>
+<A><F>Hum</F>.</A>
+<B>I enjoy it very much.</B>
+<A><F>Hum</F>.</A>
+<B>Yes.</B>
+<A>Tell me about this Christmas party. What did you do?</A>
+<B><F>Urr</F> sing a song, <F>urr</F> <SC>something</SC> <F>urr</F> <SC>one</SC> for example, <SC>one is</SC> <F>urrrr</F> I don't know <R>the</R> the sing's name.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>Urr</F></OL> <laughter>but</laughter>, I forget <OL>the</OL></B>
+<A><OL><F>Ah</F></OL>.</A>
+<B>melody line. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>. It's O K. So, you sing a song.</A>
+<B>Sing a song, yes. <OL><R>Three</R></OL></B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B>three or four</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> Christmas song. <R?>Let</R?> <F>errr</F> let's <F>err</F> sing together</B>
+<A><F>Mhm</F>.</A>
+<B><SC>every</SC> with everybody.</B>
+<A><F>Mhm</F>. I see. And, where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H> Station</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> which is <SC><H pn="others2">XXX04</H></SC> on the <H pn="others2">XXX04</H> line.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. Very far from here.</B>
+<A><F>Uhmm</F>. Do you live with your family?</A>
+<B>No. <R>I</R> <SC>I live in</SC> <F>er</F> I live alone.</B>
+<A><F>Ahh</F>.</A>
+<B>So, because <F>urr</F> I used to work <F>err</F> at <F>err</F> <H pn="others3">XXX05</H>, so <F>urr</F> <.></.> <SC><H pn="others1">XXX03</H> Station</SC> <F>err</F> from <H pn="others1">XXX03</H> Station to <H pn="others3">XXX05</H>, between them, <F>err</F> only one <F>err</F> change.</B>
+<A><F>Ahh</F>.</A>
+<B>Yes. It is very <SC>ex</SC> <F>err</F> convenient</B>
+<A><F>Uhm</F>.</A>
+<B>for me. <OL>But</OL>,</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><SC>the job, I quit</SC> I quit the job.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Errr</F> at that time, <R>I</R> <F>err</F> I go to <H pn="school name1">XXX06</H>,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ur</F> very far from here.</B>
+<A><F>Uhm</F>. What makes you come to <H pn="school name1">XXX06</H>?</A>
+<B>So, <F>mhm</F> many reason, I have. <OL>But</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>especially, <R>I have</R> <F>uhmm</F> <R>I have</R> I have a dream which is to be English teacher.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Maybe in high school.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because junior high school is very violent. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I'm very nervous. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Why do you want to become an English teacher?</A>
+<B>So, <F>uhm</F> <R>I</R> I'm interested in, <?>yeah</?>, English education.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So, <F>uhm</F> five or six years later, <F>err</F> if <R>I</R> <SC>I could became</SC> I could become <F>urr</F> English teacher, but <F>err</F> after five years ago, I will quit the job and return to graduate school.</B>
+<A><F>Uhm</F>.</A>
+<B>And <R>after</R> after that, <F>err</F> I will be scholar about English education.</B>
+<A><F>Uhm</F>.</A>
+<B>Maybe.</B>
+<A><F>Oh</F> you have a definite plan.</A>
+<B><F>Oh</F> thank you.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. <F>Well</F>. Thank you. First, please describe this picture. Have you done this before?</A>
+<B>No.</B>
+<A>No? O K.</A>
+<B><F>Ohh</F> it's a very shiny day.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And, <F>urr</F> <F>urr</F> a car <F>ur</F> stopped on the street</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ehh</F> <R>near</R> <SC>near</SC> this is my <laughter>house</laughter>,</B>
+<A><F>Uh-huh</F>.</A>
+<B>near my house.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And, I like cats.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> <SC>cats <F>err</F> sleep</SC> <SC>cats</SC> <F>er</F> a <R>cat</R> cat is sleeping <R>on my</R> on my car.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And, my father running <SC>around my</SC> <F>urr</F> <SC>around</SC> on the street.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So, <F>urr</F> sometimes, <R>I</R> <F>uhmm</F> <R>I</R> I run <F>err</F> with my father.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And, <F>err</F> this is <R>my</R> <R>my</R> <F>er</F> my mother</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> <R>take</R> take my dog</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>to</R> <F>err</F> to walk</B>
+<A><F>Mhm</F>.</A>
+<B>every day.</B>
+</task>
+<followup>
+<A>Good. Thank you. <CO><OL>Is</OL></CO>.</A>
+<B><OL>It</OL> is my pleasure.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Is the neighborhood similar to your neighborhood now?</A>
+<B>No. But, <F>er</F> I'm from <H pn="others4">XXX07</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> <R>my hometown</R> <F>ur</F> my hometown's house <F>er</F> very similar</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>to this picture</OL>.</B>
+<A>I see.</A>
+<B>Very large field</B>
+<A><F>Uhm</F>.</A>
+<B>and <F>urr</F> only one building.</B>
+<A><F>Uhm</F>.</A>
+<B>But, <F>err</F> in case of <H pn="others5">XXX08</H>, <F>err</F> <R>we</R> <R>we can seldom</R> we can seldom have <F>er</F> one building,</B>
+<A><F>Uhm</F>.</A>
+<B>one <F>er</F> house.</B>
+<A><F>Mhm</F>. So, <H pn="others1">XXX03</H> Station isn't similar to this one.</A>
+<B><F>Oh</F> some people <F>er</F> have <R>one</R> <F>ehh</F> one, maybe mansion,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urmm</F> but <F>urr</F> some people like me</B>
+<A><F>Uhm</F>.</A>
+<B><F>errr</F> <F>errrr</F> lived in small apartment.</B>
+<A><F>Hum</F>. which do you prefer, living in <H pn="others4">XXX07</H> or living in <H pn="others5">XXX08</H>?</A>
+<B>Of course, live in <H pn="others4">XXX07</H>.</B>
+<A><F>Uhm</F>. Why?</A>
+<B>So, <R>I like</R> <F>urr</F> I like at first, nature,</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>and</OL> <R>I like</R> <F>urr</F> <F>mhm</F> I like <F>urr</F> my friend <OL><R>in</R></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>in <H pn="others4">XXX07</H>,</B>
+<A><F>Uhm</F>.</A>
+<B>and I like my relative</B>
+<A><F>Uhm</F>.</A>
+<B><R>surroun</R> surrounding me. <F>Er</F> I love them, so <F>urr</F> instead of <?>the</?> <H pn="others4">XXX07</H> family,</B>
+<A><F>Uhm</F>.</A>
+<B><F>er</F> <H pn="others5">XXX08</H> people very <F>er</F> behave cold <laughter>to me</laughter>.</B>
+<A>Yeah? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Because <SC>they're</SC> <F>urr</F> they have no knowledge to me,</B>
+<A><F>Uhm</F>.</A>
+<B>and me, too. <OL><F>Urr</F></OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><R>I</R> I have no knowledge to them.</B>
+<A><F>Uhm</F>.</A>
+<B>So, <R>only</R> <F>err</F> only address to him</B>
+<A><F>Uhm</F>.</A>
+<B><R>even if</R> <F>er</F> even if <R>no</R> no others.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhm</F>. I see. O K. Thank you. Now let's do the role play. Have you done this before?</A>
+<B>No.</B>
+<A>No? O K. Here is your card. Please read it. And when you're ready, I'll start.</A>
+<B>I can't go</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><?>go</?></OL> home?</B>
+<A><F>Uh-huh</F>.</A>
+<B>I can't go</B>
+<A><F>Um</F>.</A>
+<B><F>Oh</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Ohhh</F>.</B>
+<A>O K?</A>
+<B><laughter>O K, <??></??></laughter>.</B>
+<A>Ring-ring. Hello.</A>
+<B>Hello. <F>Urr</F> this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. What happen to you?</A>
+<B><F>Oh</F> I'm sorry. <F>Err</F> <F>err</F> in fact, <F>er</F> to tell the truth, <F>er</F> my grandmother <F>er</F> passed away suddenly.</B>
+<A><F>Oh</F> I'm sorry <OL>to hear that</OL>.</A>
+<B><OL>So</OL>, <R>I</R> I must go back to my hometown,</B>
+<A><F>Uhm</F>.</A>
+<B><H pn="others4">XXX07</H>. So, that's why <F>eh</F> I cannot <F>err</F> go this dinner party. I'm sorry.</B>
+<A><F>Oh</F> I see. But, you know, we're waiting for you.</A>
+<B><F>Oh</F> I'm sorry. I have no cellular phone.</B>
+<A><F>Ahh</F>.</A>
+<B>And, I'm very upset to hear my <R>grandma</R> grandma <F>err</F> died.</B>
+<A><F>Uhm</F>.</A>
+<B>So I'm sorry. <F>Err</F> when I <F>er</F> <SC>came to myself</SC> came to me, <F>urr</F> I remember <F>er</F> the party <R>held</R> held. But, <F>err</F> <SC>you're</SC> I'm sorry for <SC>you're rea</SC> you're waiting for me.</B>
+<A><F>Uhm</F>. <F>Well</F> I can understand. O K. <F>Urr</F> so, please <R>re</R> relax and have a nice trip to <H pn="others4">XXX07</H>.</A>
+<B><F>Ohh</F>. Thank you, <F>er</F> but <F>urr</F> <R>I</R> I'm <F>mm</F> still upset.</B>
+<A><F>Uhmm</F>. I can <OL>understand you</OL>.</A>
+<B><OL><R>I</R></OL> I'm very sad. Every night, <laughter>crying</laughter>.</B>
+<A><F>Ohh</F>. I'm sorry to your <OL>bad</OL>.</A>
+<B><OL>No</OL>. <F>Ohh</F> I'll call you later, <F>urr</F> when I came back to <H pn="others5">XXX08</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>O K?</B>
+<A>O K.</A>
+<B><F>Ohh</F>.</B>
+<A><OL>O K, thank you</OL>.</A>
+<B><OL>Bye-bye</OL>. <OL>Thank you</OL>.</B>
+<A><OL>Bye-bye</OL>.</A>
+</task>
+<followup>
+<A><OL>O K</OL>.</A>
+<B><OL>See you</OL>.</B>
+<A>Thank you very much.</A>
+<B>Thank you.</B>
+<A>Thank you. <.></.> So, <F>urr</F> do you like traveling?</A>
+<B>Traveling?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> yes. I used to travel <F>err</F> once a year,</B>
+<A><F>Uh-huh</F>.</A>
+<B>but these days, I have no money</B>
+<A><nvs>laughter</nvs></A>
+<B>and I have no <F>er</F> vacation or holiday.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So, <F>uhmm</F> <R>I</R> <F>urmm</F> <R>I ma</R> <F>er</F> I make up my mind to trip to <F>urr</F> maybe, Viet Nam</B>
+<A><F>Uhm</F>.</A>
+<B><F>eh</F> before graduation.</B>
+<A><F>Uhmm</F>. <OL>Why</OL>?</A>
+<B><OL><R>Because</R></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>because</OL> Viet Nam is everything cheap, <OL>I think</OL>.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><F>Urr</F> I will <F>urr</F> bought everything <OL>like</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>a king.</B>
+<A><F>Uh-huh</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<B>Your <??></??> is very beautiful color.</B>
+<A><F>Oh</F></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>thank you very much</laughter></OL>. So, this is the picture story that happened last week. <OL>And it</OL></A>
+<B><OL><F>Ahhh</F></OL>.</B>
+<A>starts from here to here. Please make up a story starting with "One day last week".</A>
+<B>Yes. <F>Err</F> one day last week, <F>err</F> <SC>my uncle from <H pn="others4">XXX07</H></SC></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> <F>ah</F> my uncle <R>from</R> from <H pn="others4">XXX07</H> <F>err</F> <R>came</R> came to <R><H pn="others5">XXX08</H></R> <F>er</F> <H pn="others5">XXX08</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> and, <F>err</F> <R>meet</R> meet me at <R>Shinjuku</R> <F>errr</F> Shinkuku Washington Hotel.</B>
+<A><F>Uh-huh</F>. <nvs>laughter</nvs></A>
+<B>So, <F>err</F> my uncle <F>err</F> take me to very expensive restaurant.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So, <R>I'm</R> <F>err</F> I'm very glad to hear <F>urr</F> my uncle <F>err</F> treat on me</B>
+<A><F>Uhm</F>.</A>
+<B>today. So, my uncle asked <F>err</F> the waiter, <F>urr</F> "Take us to very good view point seat.". <F>Err</F> the waiter said, "Yes, of course," <F>errr</F> <.></.> the waiter said. <F>Err</F> after that, <F>err</F> the waiter <SC>take me to</SC> take us to expensive seat.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And, <SC>I have</SC> we have very expensive food or drink. <F>Errr</F> I ordered <R>many</R> many food and many drink.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>And</SC> <F>err</F> but, <F>er</F> my uncle <F>err</F> can little drink,</B>
+<A><F>Hum</F>.</A>
+<B>but <SC>I have</SC> <F>er</F> <SC>I am</SC> <R>I can</R> I can drink very much.</B>
+<A><F>Uh-huh</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>So, <F>ur</F> that's why <F>urr</F> my uncle eat too much and <R>I</R> <SC><laughter>I am</laughter></SC> <R>I</R> I can drink very much. And, <F>err</F> I'm very <R>sa</R> satisfied. <F>Err</F> <R>my</R> <F>err</F> my uncle <F>err</F> pay cash</B>
+<A><F>Uh-huh</F>.</A>
+<B>at the spot</B>
+<A><F>Uh-huh</F>.</A>
+<B>because my uncle is president.</B>
+<A><F>Oh</F>.</A>
+<B><F>Oh</F>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> <SC>in the</SC> in other words,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> he is very rich man,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and we had very <F>err</F> <SC>nice day</SC> nice time at this restaurant talking many things. And after that, <SC>my</SC> we are separate.</B>
+</task>
+<followup>
+<A><F>Hum</F>. O K. Thank you very much.</A>
+<B>You're welcome.</B>
+<A>So, you're heavy drinker?</A>
+<B><nvs>laughter</nvs> <laughter>Yes, I <SC>used to <F>ehh</F> bartender</SC></laughter> <SC>used to work</SC> <F>er</F> <R>used to</R> used to be bartender.</B>
+<A><F>Uhm</F>.</A>
+<B>Yes. <F>Er</F> but now, I seldom drink.</B>
+<A><F>Uhm</F>.</A>
+<B>When I drink with my friend, <R>I</R> <SC>I</SC> <?>but</?> I can manage to little drink,</B>
+<A><F>Uhm</F>.</A>
+<B>because if I drink too much, <F>er</F> <SC>I</SC> <F>urr</F> <R>my</R> my memory sleep</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>immediately</OL>. <nvs>laughter</nvs> So, <SC>drink</SC> if I drink too much, <F>urr</F> and very <R>fas</R> <SC>fast time</SC></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><R>fa</R></OL> fastly time, so <SC?>next tai</SC?> next day, <F>urr</F> talking with my friend, so <R>I</R> <SC>I can</SC> I cannot remember</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> what I said yesterday.</B>
+<A><F>Wow</F>.</A>
+<B>So, my friends said to me, "I'm very surprised to hear that I can't remember.". <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> It's <OL>sometimes</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>convenient, maybe. <OL><nvs>laughter</nvs> O K</OL>.</A>
+<B><OL><nvs>laughter</nvs> Yes</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>This is almost the end of interview.</A>
+<B>Yes.</B>
+<A>What are you going to do after this interview?</A>
+<B><laughter>So</laughter>, <R>I</R> <SC>I must to go</SC> <F>er</F> I must go dentist</B>
+<A><F>Ah</F>.</A>
+<B><F>ohh</F> to check my teeth.</B>
+<A><F>Mhmm</F>. Do you have bad tooth?</A>
+<B>No. <F>Urr</F> before graduation, <R>I</R> <.></.> <SC>I ended</SC> I finish remedy <OL><R>of</R></OL></B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><F>er</F> of my teeth.</B>
+<A><F>Uhm</F> I <OL>see</OL>.</A>
+<B><OL>So</OL>, <F>urr</F> if I'm very tired, <F>urr</F> <SC>my teeth</SC> <F>eh</F> I have <F>er</F> teethache.</B>
+<A><F>Oh</F> I see. <OL><F>Uhm</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>So this <F>err</F> <SC>deis</SC> dentist, you don't have to be afraid of.</A>
+<B><F>Oh</F></B>
+<A><OL>They'll only</OL></A>
+<B><OL>sometime</OL>,</B>
+<A>check you?</A>
+<B><F>urr</F> sometime, <F>err</F> <F>err</F> <SC>a large</SC> <R>a</R> <laughter><SC>a large</SC></laughter> <R>a</R> a <F>uhm</F> middle size injection.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Err</F> this is, <nvs>laughter</nvs> what can I say, <JP>masui</JP>, <OL><nvs>laughter</nvs> <JP>masui</JP></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>injection, <F>errr</F> when injection, I feel ache, <OL>but</OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><SC>other time</SC> another time is O K.</B>
+<A><F>Mhm</F>. <OL>I see</OL>.</A>
+<B><OL>But</OL>, <R>I'm</R> I'm stress <SC>every time</B>
+<A><F>Uh-huh</F>.</A>
+<B>to</SC> <F>ur</F> every time I went to dentist.</B>
+<A>Me, too.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you very much <OL>and have a nice day</OL>.</A>
+<B><OL><F>Ohh</F> <R?>you're welcome</R?></OL> <F>ohh</F> you're welcome.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

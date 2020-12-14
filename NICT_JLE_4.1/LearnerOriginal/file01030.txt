@@ -1,0 +1,250 @@
+<interview>
+<filename>file01030.txt</filename>
+
+<head version="1.3">
+<date>2002-03-06</date>
+<sex>female</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please.</B>
+<A>O K. <F>Ur</F> where are you from?</A>
+<B><F>Urr</F> I'm from <H pn="others1">XXX03</H> City.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F>. <F>Urr</F> <SC>I was</SC> but I was born in <H pn="others2">XXX04</H> Ward in Tokyo.</B>
+<A><F>Oh</F> I see. Please tell me about your town.</A>
+<B><F>Ur</F> about <OL><H pn="others2">XXX04</H></OL>?</B>
+<A><OL>In <H pn="others1">XXX03</H></OL>.</A>
+<B>In <H pn="others1">XXX03</H>?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> <F>uhh</F> <H pn="others1">XXX03</H> City has a <F>urr</F> <F>uhm</F> <R>Sa</R> <F>un</F> <H pn="others3">XXX05</H>Super Arena.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> that was built <F>urr</F> <SC>two years ago</SC></B>
+<A><F>Un-huh</F>.</A>
+<B>about two years ago. <F>Urr</F> it is <F>urr</F> <R>lan</R> landmark</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>of the city</OL>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> <F>uhm</F> <R>that</R> <F>uhm</F> <SC>that</SC> <F>urr</F> the <H pn="others3">XXX05</H> Super Arena</B>
+<A><F>Mm-huh</F>.</A>
+<B><F>urr</F> is a very <F>ah</F> big stadium</B>
+<A><F>Hm</F>.</A>
+<B><F>urr</F> and has a <H pn="others4">XXX06</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urm</F> <F>uhm</F> <F>urm</F> <SC>it</SC> <F>uhm</F> many concerts</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>or</OL> <F>urr</F> events <F>urr</F> <SC>were</SC> are <R>held</R> <SC>held in it</SC> <R>held</R> <R>held</R> held <R>at</R> <R>at the</R> at the stadium.</B>
+<A>I see. Sounds like an interesting city.</A>
+<B><F>Um</F>.</B>
+<A>O K, so <H pn="B's name">XXX02</H>, what do you do?</A>
+<B><F>Urr</F> I'm a housewife.</B>
+<A><F>Um-huh</F>.</A>
+<B><F>Urr</F> I live with my husband</B>
+<A><F>Um-huh</F>.</A>
+<B>and <F>ur</F> seven-years-old daughter.</B>
+<A><F>Um-huh</F>.</A>
+<B><F>Urr</F> <F>uhm</F> <SC>she</SC> <F>urr</F> <SC>my daughter is in the elementary</SC> <F>ur</F> <SC>she</SC> <F>urr</F> my daughter is in first grade</B>
+<A><F>Um-huh</F>.</A>
+<B>of elementary school.</B>
+<A><F>Hm</F>.</A>
+<B><F>Urr</F> I've been <F>urr</F> working <F>urr</F> at <SC>a member of committee</SC> a member of <.></.> public relation</B>
+<A><F>Hm</F>.</A>
+<B>committee of P T A activities.</B>
+<A><F>Oh</F> I see. Do you find any difficulties?</A>
+<B><F>Urr</F> <F>un</F> sometimes I find difficulties because <F>urr</F> I have to <F>uhh</F> write <F>urr</F> <SC>draft</SC></B>
+<A><F>Mm</F>.</A>
+<B>manuscript. <F>Uhm</F> <F>un</F> but <F>urr</F> <F>uhm</F> <R>I</R> <F>uhh</F> I participated <F>urr</F> <SC>some events</SC> some school events <F>urr</F> as a member of public relation committee.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>uh</F> <R>we</R> we can <F>uhm</F> take many pictures.</B>
+<A><F>Um</F>.I see.</A>
+<B>It's fun.</B>
+<A><F>Uhm</F>. O K. <F>Urm</F> so with your seven-years-old daughter, <F>urm</F> how do you spend time together?</A>
+<B><F>Urrm</F> she is <F>urr</F> still <F>urr</F> <SC>infant</SC> <SC>young</SC> too young</B>
+<A><F>Mm</F>.</A>
+<B>so <F>urr</F> she wants to play with me.</B>
+<A><F>Um</F>.</A>
+<B><F>Urr</F> <F>uhm</F> we <F>urr</F> play together <F>urr</F> <SC>after she go</SC> <SC>she</SC> after she comes home.</B>
+<A><F>Mm</F>.</A>
+<B><F>Uhm</F> <F>urr</F> <SC>we play</SC> <F>urr</F> <F>uhmm</F> for example, <R>we play</R> <F>urr</F> <F>uhm</F> we play with <F>er</F> <?>talking globe</?>. <?>Talking globe</?>. <F>Urr</F> <SC>there was a</SC> <F>ur</F> <SC>that</SC> <F>uhh</F> <R>we</R> <R>we bought</R></B>
+<A><F>Hm</F>.</A>
+<B>we bought from A L C.</B>
+<A><F>Uhm</F>.</A>
+<B>Yes. <nvs>laughter</nvs> <F>Uhm</F> <SC>that is</SC> that <?>globe</?> is <F>urr</F> <SC>made in the</SC> <R>made</R> made in the U S.</B>
+<A><F>Um-huh</F>.</A>
+<B><F>Urr</F> <F>uhm</F> it is very interesting <SC>to</SC></B>
+<A><F>Hm</F>.</A>
+<B><F>ur</F> for <F>urr</F> learning English and <F>urr</F> <?>world atlas</?>.</B>
+<A><F>Oh</F>. Good. O K. So your daughter enjoys that.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>Good. Very good. O K. Now, let me show you a picture. Could you describe it for me?</A>
+<B><F>Uh-huh</F>. <F>Urr</F> <R>this is a <F>urr</F> restaurant</R> <F>urr</F> this is a restaurant. <F>Urr</F> three couples are <F>urr</F> <R>eating</R> eating the dinner. <F>Uhm</F> <F>uhmm</F> <R>the</R> <F>uhm</F> <F>urr</F> <F>un</F> there is <R>a</R> <R>a</R> <F>urr</F> <.></.> a <F>eh</F> <F>un</F> <R>two</R> <F>un</F> <SC>two</SC> <F>urr</F> <F>ur</F> three couples are <F>ur</F> <R>eating</R> eating a dinner and <F>uh</F> drinking wine. <F>Uhh</F> <.></.> <F>uhm</F> <SC>the</SC> <F>uhmm</F> <F>uhm</F> <SC>and there</SC> <F>urm</F> and <F>uhm</F> a pianist <F>uhh</F> behind them are <R>playing</R> a <F>uhm</F> <SC>playing the</SC> playing piano <R>and</R> and give <F>ur</F> very <R>com</R> comfortable atmosphere. <F>Urr</F> <F>un</F> <F>uhmm</F> <SC>the <F>uhm</F> restaurant</SC> <F>urr</F> <SC>a waiter</SC> <R>a</R> a waiter <F>ur</F> <R>shows a</R> <F>ur</F> shows a wine bottle <F>uh</F> <R>to a</R> <F>uhm</F> <SC>to a man of <SC>the</SC> <F>uhm</F> a</SC> <R>to a man</R> <SC>to a man of a one</SC> <F>uhm</F> to a man of one couple. <F>Urr</F> <SC>maybe she</SC> <F>er</F> <R>maybe he</R> <F>uhm</F> maybe he says, "It tastes good". And <R>the <F>uhm</F> waiter</R> the waiter <F>ur</F> shows smile. <F>Urr</F>.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. So for what occasion do you <F>urr</F> go to this kind of restaurant?</A>
+<B><F>Uhmm</F> I think <F>uhmm</F> <F>uhmm</F> <R>if</R> <F>uhm</F> <SC>if I were a</SC> <SC>if I were them</SC> <F>ur</F> <SC>if I were them <F>ur</F> <R>I</R> <R>I</R> I would</SC> <F>uhh</F> <F>urr</F> <.></.> if I were them <R>I would go</R> <F>urr</F> <R>I would go</R> <F>urr</F> <.></.> <SC>I would go to the restaurant</SC> <F>uhh</F> <F>ur</F> <SC>I want</SC> <R>I</R> <SC>I'd like to</SC> <F>un</F> I would go to such a restaurant</B>
+<A><F>Mm</F>.</A>
+<B><F>urr</F> for example, <F>urr</F> <R>for <F>urr</F> birthday</R> for birthday or <F>urr</F> wedding anniversary.</B>
+<A><F>Mm</F>.</A>
+<B><F>Um</F>.</B>
+<A><R>How</R> how did you celebrate <SC>your last wedding cele</SC> <F>urr</F> <R?>oc</R?> occasion?</A>
+<B><CO><F>Urrr</F> <.></.> birthday or</CO>.</B>
+<A><F>Ah</F> for your anniversary.</A>
+<B><F>Uhm</F> <OL>wedding anniversary</OL>?</B>
+<A><OL><R>How</R> how do you normally</OL> celebrate</A>
+<B><F>Ur</F> for wedding</B>
+<A>your wedding anniversary?</A>
+<B>anniversary?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urrr</F> <F>uhm</F> <R>for us</R> <F>urr</F> <SC>for us the latest</SC> <F>urr</F> the latest wedding anniversary was <F>ur</F> last April. <nvs>laughter</nvs></B>
+<A><F>Hm</F>.</A>
+<B><F>Uhm</F> <R>we</R> we went to <R>a</R> a restaurant</B>
+<A><F>Um-huh</F>.</A>
+<B>and together with my daughter.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And we enjoyed the <SC>Italian meal</SC> Italian food.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uh-huh</F>. <F>Un</F> I see. O K. Thank you. O K. Now, let me show you picture. <F>Ah</F> <R>no</R>, <R>no</R>, no. I'm sorry. We have to do a role-play first. I'm sorry. <nvs>clearing of throat</nvs>. O K. Would you read it to yourself? And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready? May I help you?</A>
+<B><.></.> <F>Ah</F> <F>urr</F> <R>I</R> <R>I</R> <F>uhm</F> <SC>I'd like to</SC> <F>ur</F> <R>I</R> <SC>I'd like to go to New York</SC> <F>urr</F> <R>would you</R> <F>urr</F> <SC>would you</SC> <F>urr</F> <F>uhm</F> <SC>I would like to <F>urr</F> go to New York <F>ur</F> <R>with</R> <F>ur</F> with</SC> <F>urr</F> <F>urr</F> <F>ah</F> I'd like to go to New York as soon as possible. <F>Ur</F> <R>would you like to <F>ur</F> give</R> <F>urr</F> would you like to <R>give</R> <F>urr</F> <F>urr</F> <F>ur</F> <R>give an</R> give an information <F>err</F> <SC>that would</SC> <SC>that I can <F>er</F> go to</SC> <F>ur</F> that <R>I</R> I get to New York as soon as possible?</B>
+<A>Sure. <F>Uh</F> we have three kinds of trains.</A>
+<B><F>Urr</F> do you have express train?</B>
+<A><F>Oh</F> yeah, we do.</A>
+<B><F>Urr</F> <R>please</R> <F>urr</F> <R>please</R> <F>urr</F> <F>ur</F> please <JP>nandakke</JP> <F>un</F> <F>ah</F> <R>please give <R>a</R> a ticket</R> please give <R>a</R> a ticket for a express train.</B>
+<A>Express train? Sure. <F>Oh</F> but <F>urm</F> it just left. So you have to wait for another one hour. Is it O K?</A>
+<B>Another one hour? <F>Ohh</F>. <.></.> <F>Uhm</F> <F>uhm</F> let me see. <F>Urr</F> <.></.> do you have <R>another way</R> <F>ur</F> another way to get to <F>ur</F> New York?</B>
+<A>Yeah. <F>Urm</F> <F>ur</F> we have a local train.</A>
+<B>Local train?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urm</F> when does it start? <CO><OL>When does it</OL></CO>.</B>
+<A><OL><F>Urr</F></OL> about in ten minutes.</A>
+<B>In ten minutes?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Un</F>. I take this.</B>
+<A>O K.</A>
+<B><F>Uhm</F> <F>un</F> <SC>please</SC> <F>urr</F> <F>uhm</F> I'd like to buy the ticket. <OL><R>Please</R></OL></B>
+<A><OL>Sure</OL>.</A>
+<B>please give the ticket.</B>
+<A><F>Uh-huh</F>. O K. Here.</A>
+<B>Thank you. <F>Urr</F> how much?</B>
+<A><F>Ah</F> fifty dollars.</A>
+<B>Fifty dollars?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Fifty dollars.</B>
+<A>O K. So no more question?</A>
+<B><.></.> <F>Ah</F> another question?</B>
+<A><F>Ah</F> <R>do</R> do do you have?</A>
+<B><F>Urrr</F>. <.></.>.</B>
+</task>
+<followup>
+<A><F>Oh</F> O K. Yeah. O K. Thank you. Have a nice day. O K. This is the end of the role-play. So <F>urm</F> which place did you like most?</A>
+<B>Which place?</B>
+<A>Yeah. I suppose you traveled some places.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And so please tell me one of your memorable</A>
+<B><F>Uh</F>.</B>
+<A>place or trip memory.</A>
+<B><F>Uhm</F> <F>uhm</F> place. <F>Urr</F> <F>uhm</F> my memorable place is <F>urr</F> <H pn="others5">XXX07</H>.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Urr</F> <SC>I live there</SC> <F>ur</F> I lived there <F>ur</F> from <R>ni</R> nineteen ninety-seven</B>
+<A><F>Mm</F>.</A>
+<B>to nineteen ninety-eight.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhh</F> <R>I</R> <F>uhm</F> I went there <R>because</R> <F>ur</F> because of my husband's <F>ur</F> study.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Un</F>. <R>I</R> <SC>I</SC> there <SC>I lived <F>urr</F> in</SC> I live in guesthouse of <F>ur</F> <H pn="others6">XXX08</H>University.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> <F>urr</F> <SC>I live</SC> <F>uhm</F> <SC>many <F>urr</F> foreigners</SC> many foreigners live there. <F>Urr</F> <R>my neigh</R> my neighbors were <F>urr</F> American, Indian, or <R>Rus</R> Russian,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>and</R> and Chinese. And <SC>so many</SC> <F>urr</F> <SC>with <F>urr</F> <.></.> <F>uhm</F> many foreigners</SC> <F>uhh</F> <F>uhh</F> with <F>uhm</F> <F>un</F> various kinds of nationality. <F>Urr</F> <F>uhm</F>.</B>
+<A><OL>Most of</OL>?</A>
+<B><OL><SC>Most</SC></OL></B>
+<A><F>Ur</F>. Yeah, sorry.</A>
+<B>the most <F>uhm</F> <F>urr</F> <R>impressive</R> <F>urr</F> impressive thing <F>urr</F> was <F>urr</F> <F>uhm</F> <SC>when we first</SC> <F>urr</F> <F>un</F> <SC>that was a first day</SC> <F>urr</F> that was first day <SC>when I <F>uhm</F> live</SC> when I <F>er</F> <SC>start</SC> started to live</B>
+<A><F>Un</F>.</A>
+<B><F>Ur</F> in a guesthouse.</B>
+<A><F>Un</F>.</A>
+<B><F>Urr</F> I saw a Japanese in a house. And <R>I</R> <F>uhm</F> I said to him "<JP>Konnichiwa</JP>". But no reply.</B>
+<A><laughter><F>Uhm</F></laughter>.</A>
+<B><nvs>laughter</nvs> <F>Uhm</F> I was puzzled. <F>Uhm</F> and <F>urr</F> few days later <F>urr</F> <SC>some</SC> <F>uhm</F> other <F>uhm</F> <R>my</R> <R>my neighbor</R> my neighbor <F>ur</F> American</B>
+<A><F>Un</F>.</A>
+<B>said to me <F>urr</F> he was from Uzbekistan.</B>
+<A><F>Oh</F>.</A>
+<B><F>Urr</F> <R>the</R> <F>uhm</F> <SC>the man</SC> <F>ur</F> <SC>the boy</SC> <F>ur</F> <SC>was</SC> <F>ur</F> the boy lived <R>with</R> <F>uhm</F> <R>with hi</R> with his <F>uhm</F> sister and <F>urr</F> his mother.</B>
+<A><F>Un</F>.</A>
+<B><F>Urr</F> the mother was a scholar. <F>Urr</F> the mother was <F>uhm</F> German language expert.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Um</F>. <F>Um</F>. So <F>urr</F> the <F>uhm</F> Uzbekistan people are <F>urr</F> very similar to Japanese.</B>
+<A><F>Oh</F> really?</A>
+<B><F>Uhm</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I didn't know that. O K. Thank you very much. Now, let me show you the last sequence picture. Please make up a story based on one to six. And it happened before. So please start your story with "One day last week".</A>
+<B><F>Uhm</F>.</B>
+<A>Short story is O K.</A>
+<B><F>Uh-huh</F>. <.></.> <F>Urr</F> one day last week, <F>uhh</F> <R>the</R> the wife <F>urr</F> <F>urr</F> <R>was</R> was going to cook. <F>Uh</F> she opened the refrigerator. But <F>ur</F> the refrigerator was empty <?>side</?>. <F>Urr</F> so she decided to go to supermarket <R>and</R> <R>and</R> <SC>and to</SC> and she was going to buy some groceries. <F>Ah</F>she took a cart and <F>uhm</F> <R>she</R> <F>uhm</F> she <F>uhm</F> chose <F>ur</F> many things. <F>Urr</F> vegetables and meat <SC>and</SC> <SC>or</SC> and other things. <F>Uhm</F> <R>she</R> <F>uhm</F> <SC>she paid</SC> <R>she</R> <F>uhm</F> she paid <F>urr</F> the cash for the groceries. And she <F>ur</F> <R>put</R> put she put them <F>uhh</F> in the back of her car. <F>Urr</F> and she went home. <R>She</R> <F>er</F> <F>er</F> <SC>she</SC> <.></.> after she got home <F>uhh</F> she started to cooking. <F>Uhh</F> <R>she</R> she cooked fried eggs <SC>and <F>uh</F> some</SC> <R>and cook</R> <F>uhm</F> and cook <.></.> <R>stew</R> stew. <F>Un</F>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>And <R>she</OL> enjoyed</R> she enjoyed the cooking.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. <H pn="B's name">XXX02</H>, we are almost at the end of the interview. <F>Urm</F> what are you going to do after this?</A>
+<B><F>Urr</F> <R>I'm</R> <F>ah</F> I'm going to buy a present <R>for my</R> <F>ur</F> for my friend</B>
+<A><F>Mm</F>.</A>
+<B>from high school <F>urr</F> <R>who gave</R> <SC>who gave her</SC> <F>ur</F> <R>who</R> <F>ur</F> who gave <F>urr</F> birth to her first baby</B>
+<A><F>Oh</F>.</A>
+<B><F>ah</F> last year.</B>
+<A><F>Oh</F> really?</A>
+<B><F>Ur</F> <F>urr</F> <R>I had known</R> <F>uhm</F> <R>I had known that <F>ur</F> she was <F>ur</F> pregnant</R></B>
+<A><F>Mm</F>.</A>
+<B><F>urr</F> but <F>uhm</F> <R>I had</R> <F>un</F> I had known <F>ur</F> that <R>she</R> she was pregnant</B>
+<A><F>Un</F>.</A>
+<B><F>er</F> <R>with the</R> <F>ur</F> with the New Year Card</B>
+<A><F>Un</F>.</A>
+<B>last year.</B>
+<A><F>Un</F>.</A>
+<B><R>But</R> <F>ur</F> but I didn't know <R>wh</R> <R>whe</R> <R>when</R></B>
+<A><F>Un</F>.</A>
+<B><R><F>un</F> she</R> <R>when she would</R> <F>un</F> when she would <F>uhm</F> give birth.</B>
+<A><F>Oh</F>.</A>
+<B>So <F>uhm</F> <R>with</R> <F>uhm</F> with the New Year Card <F>uhh</F> this year</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>un</F> <SC>two years ago</SC> <F>ur</F> <F>ah</F> <R>two</R> two months ago</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urr</F> <F>uhm</F> <R>I</R> <R>I</R> <F>uhm</F> I've known</B>
+<A><F>Mm</F>.</A>
+<B>that she <R>gave</R> gave birth to her first baby</B>
+<A><F>Oh</F>.</A>
+<B><R>last</R> <F>urr</F> last May or June.</B>
+<A><F>Oh</F> I see. I hope you can find something nice <R>for</R> for her baby. <F>Uhm</F> O K, thank you so much for coming</A>
+<B>Thank you.</B>
+<A><H pn="B's name">XXX02</H>.</A>
+</stage5>
+</body>
+</interview>

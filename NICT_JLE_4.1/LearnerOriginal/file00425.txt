@@ -1,0 +1,180 @@
+<interview>
+<filename>file00425.txt</filename>
+
+<head version="1.3">
+<date>2001-04-04</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Er</F>. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>O K. <F>Er</F>. How do you feel <laughter>today</laughter>? You look a little bit nervous.</A>
+<B>Better. <nvs>laughter</nvs></B>
+<A>Yeah? O K. Why are you nervous?</A>
+<B><F>Ee</F>?</B>
+<A>Why are you nervous?</A>
+<B><nvs>laughter</nvs> <..></..> <R>I</R> <R>I</R> <..></..> <R>I</R> <SC>I'm not at</SC> <R>I</R> I'm not good at English.</B>
+<A>I don't think so. Don't worry.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. So Mr. <H pn="B's name">XXX02</H>, can you tell me about your family?</A>
+<B>Family?</B>
+<A><F>Um</F>.</A>
+<B>My family is father, mother and sister.</B>
+<A><F>Hum</F>.</A>
+<B><F>Mm</F>. <F>Mm</F>.</B>
+<A>What does your sister do?</A>
+<B><nvs>laughter</nvs> <F>Hmm</F>. <SC>My sister is</SC> <nvs>laughter</nvs> <.></.> my sister don't work. <nvs>laughter</nvs></B>
+<A><F>Hum</F>.</A>
+<B><F>Eh</F>. She is looking for job.</B>
+<A>I see. O K. And when you have a free time, what do you like to do?</A>
+<B>I like watching sports.</B>
+<A><F>Uhu</F>.</A>
+<B>Baseball and soccer.</B>
+<A>O K. <F>Er</F>. Why do you like soccer?</A>
+<B><laughter>Why</laughter>? <F>Erm</F>. <CO>Because</CO>. <nvs>laughter</nvs> <F>Uum</F>.</B>
+<A>Can you tell me the good points of soccer?</A>
+<B>Good point?</B>
+<A><F>Um</F>.</A>
+<B><..></..> Soccer is exciting. <nvs>laughter</nvs> <F>Erm</F>. <..></..> <nvs>laughter</nvs></B>
+<A><R>Who</R> who is your favorite player?</A>
+<B>Player? <..></..> <R>I don't</R> I don't have favorite player. But <SC>I li</SC> <F>uh</F> I have <F>er</F> favorite team <SC>J</SC> in J League. <F>Eh</F>. It's <H pn="others1">XXX03</H>.</B>
+<A><F>Uhu</F>. Why?</A>
+<B>My hometown is <H pn="others2">XXX04</H>.</B>
+<A>I see. Do you like <H pn="others3">XXX05</H>?</A>
+<B>Yes.</B>
+<A><F>Um</F>. What's the sales point of <H pn="others3">XXX05</H>?</A>
+<B><F>Err</F>. <nvs>laughter</nvs> <SC><H pn="others3">XXX05</H> is</SC> <..></..> <F>er</F> <.></.> food is delicious.</B>
+<A>Yeah. I heard that. Anything else?</A>
+<B><F>Ur</F>. <.></.> <JP>Tonkotsu</JP> <R>no</R> noodle.</B>
+<A><F>Uhu</F>. Yeah.</A>
+<B><F>Uhm</F>. <.></.> <JP>Mentai</JP>. <nvs>laughter</nvs></B>
+<A>So food is very delicious. That's wonderful. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>So Mr. <H pn="B's name">XXX02</H>, first of all today, O K, please look at this picture. And tell me about it.</A>
+<B><..></..> She is sitting chair. <.></.> <F>Hmm</F>. <nvs>laughter</nvs> <.></.> <F>Hm</F>. <F>Hm</F>. <F>Hmm</F>. Cat is sleeping. <laughter>And dog is sleeping, too</laughter>. <.></.> <F>Uum</F>. <..></..> <F>Mm</F>. <..></..> <nvs>laughter</nvs> Door is <R>open</R> <R>opening</R> opening.</B>
+<A>Yeah.</A>
+<B><nvs>laughter</nvs> <.></.></B>
+</task>
+<followup>
+<A>O K. Mr. <H pn="B's name">XXX02</H>, do you have your own room?</A>
+<B><.></.> <F>Err</F>. No. <nvs>laughter</nvs></B>
+<A>You live with your family now?</A>
+<B><.></.> No. <.></.></B>
+<A>O K. Can you compare your living place to this room? What's different from your room to this picture's room?</A>
+<B><F>Err</F>. <nvs>cough</nvs> <..></..> <F>Um</F>. <..></..> There is no bed in my house.</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Um</F>. <.></.> <F>Err</F>. <..></..> My room is <F>urm</F> <laughter><JP>tatami</JP></laughter>.</B>
+<A><F>Uhu</F>.</A>
+<B>Not floor. <.></.> <F>Hmm</F>. <.></.> <SC>I have pet</SC> <R>I</R> <F>ah</F> I don't have pet.</B>
+<A><F>Uhu</F>.</A>
+<B><..></..></B>
+<A>Do you want a pet?</A>
+<B><F>Err</F>. <laughter>No</laughter>.</B>
+<A>Really? Why not?</A>
+<B><F>Ur</F>. <..></..> <F>Uum</F>. I don't like take care. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. It's too much trouble. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, please read this card. O K? Let's do a role-play. O K? So please read this carefully.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. So May I help you?</A>
+<B><F>Uu</F> I'm looking for <F>uum</F> jacket.</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> <F>Uu</F>. <.></.> <F>Uhm</F>. <.></.> <R>Do you have</R> <.></.> do you have jacket? <OL><F>Er</F></OL>.</B>
+<A><OL>Yes</OL>, we do.</A>
+<B><F>Er</F> I like black color.</B>
+<A><F>Hum</F>.</A>
+<B>Do you have <R>black</R> black jacket?</B>
+<A>Yes, we do. Black jackets are over here.</A>
+<B><F>Uum</F>. <nvs>laughter</nvs> <..></..> <SC>I like smaller than</SC> <F>uh</F> I like smaller jacket.</B>
+<A>O K. Size S is over here. We have three types.</A>
+<B><F>Uh</F>. <..></..> Please tell me three type jacket.</B>
+<A>O K. This one is casual. This one is formal. And this one is leather jacket. It's very warm.</A>
+<B><F>Err</F> I like leather jacket. How much <OL>is it</OL>?</B>
+<A><OL>O K</OL>. It's on sale now. It's only two hundred dollars.</A>
+<B>Two hundred <laughter>dollars</laughter>. Two <?>hundred dollars</?>. <laughter><F>Oh</F></laughter>. <R>It's</R> <F>ur</F> <..></..> it's so expensive for <laughter>me</laughter>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Hm</F>. <.></.> Discount, <laughter>please</laughter>.</B>
+<A>O K. <F>Er</F> I have to check with my manager.</A>
+<B><.></.> <?>Check</?>?</B>
+<A>I have to talk to him.</A>
+<B><F>Er</F>. <??></??>. <F>Er</F>. Please.</B>
+<A>O K. I'll call him. Yeah. He said it's O K. So how about one hundred and fifty dollars?</A>
+<B><.></.> <F>Oh</F>. O K. <nvs>laughter</nvs></B>
+<A>O K? O K. Great. So here is the leather jacket. And one hundred and fifty dollars, please.</A>
+<B><nvs>laughter</nvs></B>
+<A>Thank you. O K. Have a nice day.</A>
+<B>Thank you.</B>
+<A>All right. That's the end of the role-play.</A>
+</task>
+<followup>
+<A>So Mr. <H pn="B's name">XXX02</H>, have you ever been abroad?</A>
+<B>No.</B>
+<A>I see. Where do you usually go shopping?</A>
+<B><F>Uhm</F>. <..></..> <nvs>laughter</nvs> <F>Ur</F>. <R>Depart</R> department store. <.></.></B>
+<A>Tell me about one shopping you did in a department store.</A>
+<B><..></..></B>
+<A>Tell me what you bought at the department store.</A>
+<B><F>Err</F>. <F>Um</F> <.></.> I bought <.></.> sweatshirt. <nvs>laughter</nvs></B>
+<A><F>Uhu</F>. <F>Mh-hm</F>. What kind of sweatshirt?</A>
+<B>What kind? <laughter><F>Uum</F></laughter> <F>uum</F> <.></.> <F>uum</F>. Casual type. Color is read. <.></.> <F>Hm</F>. <.></.> <nvs>laughter</nvs> <F>Uum</F>.</B>
+<A>Do you wear the sweatshirt to work?</A>
+<B><laughter>No</laughter>.</B>
+<A>When do you wear the sweatshirt?</A>
+<B><F>Um</F>. <.></.> I wear sweatshirt <F>um</F> <..></..> <F>uum</F> go to <R>see</R> see a movie. <nvs>laughter</nvs></B>
+<A>I see. That's nice. Very fashionable. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, let's do one picture. O K? I would like you to make a story. O K? From number one to six. This happened last week. O K? So please start "One day last week". O K? Go ahead.</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Er</F>. She want to cooking but <.></.> she don't have food. <R>She</R> <.></.> she went to supermarket by car. <R>She</R> she is shopping. <..></..> <F>Hm</F>. <F>Uum</F>. <..></..> <R>She</R> she is cashing. <..></..> <F>Um</F>. <nvs>laughter</nvs> <F>Erm</F>. <R>She</R> she <.></.> go back by car. <F>Uh</F>. <F>Uhm</F>. <nvs>laughter</nvs> And she is cooking.</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>Mr. <H pn="B's name">XXX02</H>, do you like cooking?</A>
+<B>No. <OL>I don't like</OL> cooking.</B>
+<A><OL><R>Why</R></OL> why not?</A>
+<B><nvs>laughter</nvs> <F>Uum</F>. <F>Hmm</F>. <..></..> <F>Urm</F>. <.></.> <R>I</R> <F>mm</F> <SC>I'm good</SC> I'm not good at cooking. <F>Uhm</F>. <..></..> <F>Er</F>. <..></..> And <F>er</F> <..></..> food is delicious <SC?>in</SC?> <laughter>outside</laughter>.</B>
+<A><F>Hum</F> can you recommend me one restaurant outside?</A>
+<B>Restaurant. <F>Oh</F>. <..></..> <R>I</R> I don't know Tokyo. <nvs>laughter</nvs> I recommend <H pn="others2">XXX04</H>. <nvs>laughter</nvs> <F>Uum</F>. <..></..> <F>Uum</F>. <..></..> <SC><H pn="others4">XXX06</H> <JP>ramen</JP></SC> <H pn="others4">XXX06</H> noodle is delicious. <nvs>cough</nvs> <R>I</R> <F>um</F> <.></.> <SC>I like</SC> <F>uh</F> <R>I know</R> <.></.> <F>um</F> <.></.> I know good noodle shop.</B>
+<A><F>Hum</F> I see. So when you are in <H pn="others3">XXX05</H>, did you go the shop many times?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. That's good. O K. So if I go to <H pn="others3">XXX05</H>, I will try <H pn="others4">XXX06</H> noodle.</A>
+<B><F>Er</F>. Yeah.</B>
+<A>Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. So Mr. <H pn="B's name">XXX02</H>, we are almost at the end of this interview. What are you going to do tonight?</A>
+<B><F>Huum</F>. I like baseball.</B>
+<A><F>Uhu</F>.</A>
+<B><R>I want to</R> I want to watching baseball game <SC>in T V</SC> <OL>on T V</OL>.</B>
+<A><OL>Yeah</OL>. That's very exciting. O K. Thank you very much. That's all for today. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

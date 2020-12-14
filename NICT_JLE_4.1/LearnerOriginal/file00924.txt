@@ -1,0 +1,124 @@
+<interview>
+<filename>file00924.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B><R>My name</R> my name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><F>Um</F> <R>I'm</R> <R>I'm</R> I'm fine. But <R>I</R> I caught a little cold.</B>
+<A><F>Oh</F>. No. How do you feel now?</A>
+<B><F>Uum</F>. <SC>I'm</SC> I have <R>th</R> throat ache.</B>
+<A><F>Ah</F>. I see. Do you take any medicine?</A>
+<B>No.</B>
+<A>O K. All right. <F>Well</F> <F>um</F> what's your hobby, <H pn="B's name">XXX02</H>?</A>
+<B><F>Uhm</F> my hobby is <SC>listen</SC> listening to music. So <.></.> <SC>I</SC> now I usually <R>listen</R> listen to music in my free time.</B>
+<A>O K. What kind of music do you like?</A>
+<B>I like rock and Japanese pops.</B>
+<A><F>Uh-huh</F>. Why do you like rock music?</A>
+<B><..></..> I have no idea why. I feel <.></.> rocks and pops is very nice.</B>
+<A><F>Ah</F> I see. How can you get the information about new music?</A>
+<B><F>Huum</F> <R>I</R> <F>huum</F> I hear the information from my friends or T V or radio.</B>
+<A>I see. That's nice. Do you have any part-time job?</A>
+<B>Yes. <R>I</R> I work <R>in</R> in a bar. <R>T</R> today <R>I</R> I have <F>uh</F> work.</B>
+<A>That's interesting. Tell me more about your job?</A>
+<B><F>Ss</F> that's very hard and <R>I</R> <SC>I cook</SC> in the bar I cook some foods. The cooks is very difficult for me. <.></.> Because <R>I</R> I haven't cook <.></.> <R>before</R> before starting this job.</B>
+<A><F>Huum</F>. How did you find this job?</A>
+<B><R>I</R> <.></.> I found this job by <.></.> magazine of job, the title is 'From A'.</B>
+<A><F>Ah</F>. I see. The salary was good?</A>
+<B>Yes. But very hard.</B>
+<A><laughter>I see</laughter>. All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. So please describe this picture.</A>
+<B><.></.> <R>I have</R> I have see this.</B>
+<A><F>Hum</F>. That's O K.</A>
+<B><..></..> Express this? <.></.> <F>Eh</F> <R>on</R> on this card the cat is sleeping and <R>near</R> near this girl women <R>are</R> are talking and one of the womens <F>eh</F> <SC>take</SC> <.></.> have a dog <R>and</R> <F>eh</F> and <R>this</R> these dogs are <.></.> watching each other, and very very cute. And <SC>the</SC> <SC>this woman</SC> this man is jogging and <R>he</R> <R>he</R> he looks <R>very</R> very <.></.> tired and <R>by</R> <SC>by this</SC> near this <F>um</F> the two boys are play with a ball.</B>
+<A>O K.</A>
+<B>And maybe they play volleyball.</B>
+</task>
+<followup>
+<A>O K. All right. Thank you. <F>Um</F> where do you live now, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But my hometown is <H pn="others2">XXX04</H>.</B>
+<A><F>Oh</F>. O K. Then <F>um</F> what are the differences between this neighborhood and your living place in <H pn="others1">XXX03</H>?</A>
+<B><.></.> This picture is very <R>bro</R> <R>broad</R> broad, but <R>my</R> <SC>my</SC> near my house that's very confused because <SC>very</SC> many houses are crowded. <..></..> <SC>I think</SC> <R>I</R> I think <F>uh</F> I'd like to live like this picture.</B>
+<A><laughter>O K</laughter>. All right. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next we are going to do a role-play. <.></.> Please read this card to yourself, and when you're ready I will start.</A>
+<ctxt>The interviewee is reading a card.</ctxt>
+<A>Are you ready?</A>
+<B>O K.</B>
+<A>O K. May I help you?</A>
+<B><.></.> I'd like to buy a ticket for New York. <F>Eh</F> but <R>I</R> <SC>I don't</SC> I have no idea <SC>where to</SC> <SC>where should I</SC> where I should buy the ticket.</B>
+<A>You can buy it here.</A>
+<B><.></.> How much this ticket?</B>
+<A><F>Well</F> there are three kinds of train to go to New York.</A>
+<B><..></..> <F>Eh</F>. O K. But I don't know <SC>where sh</SC> where I should <R>get</R> get the train.</B>
+<A><F>Oh</F>. O K. One of super express train, <F>um</F> another one is express train, and the other one is local train.</A>
+<B><R>I</R> I'd like to go New York as possible as cheap.</B>
+<A>Cheap one?</A>
+<B>Cheap one.</B>
+<A>Then you can take local train.</A>
+<B><F>Oh</F>. So <R>I</R> <R>I</R> I'm going to buy the local train ticket.</B>
+<A>O K. That's <F>uh</F> fifty dollars.</A>
+<B><.></.> Thank you.</B>
+<A>All right. Thank you. Have a nice trip. All right. Thank you very much. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>So your hometown is <H pn="others2">XXX04</H>.</A>
+<B>Yes.</B>
+<A>How do you come to <H pn="others3">XXX05</H>?</A>
+<B><F>Uh</F> <..></..> first <F>um</F> <.></.> <R>my</R> my house in <H pn="others2">XXX04</H> to the nearest station <R>I</R> I use a bus <R>and</R> <.></.> and when I reach to station <SC>I</SC> the station is <H pn="others4">XXX06</H> Station and <R>I</R> <R>I get</R> I get on a train and the line is <H pn="others5">XXX07</H> Line and <SC>I</SC> about <SC>one and ten minute</SC> one hour and ten minute after <R>I</R> I reach to <H pn="others6">XXX08</H> and <R>I</R> <SC>I</SC> <R>when</R> when I reach to the <H pn="others6">XXX08</H> Station <SC>I exchange</SC> <R>I</R> I change trains <F>eh</F> to <..></..> subway, <H pn="others7">XXX09</H> Line and about <R>thir</R> thirty minutes after <.></.> <R>I</R> I change train <R>again</R> again and I get on <H pn="others8">XXX10</H> Line.</B>
+<A><F>Oh</F>. So it's not so far.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B>So <R>my</R> my house in <H pn="others2">XXX04</H> to <SC><H pn="school name1">XXX11</H></SC> <F>ee</F> <H pn="school name1">XXX11</H>, its takes about two hours and twenty minutes.</B>
+<A>It's not so bad. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Finally, <?>You'll</?> going to do a sequence of pictures. All right. Please make up a short story based on these pictures from one to six. And please start your story with "One day last week". Go ahead.</A>
+<B>Yes. <.></.> One day last week <F>eh</F> <SC>I s</SC> I open the refrigerator and <R>see</R> see the <R>inside</R> inside but there is no foods, so <R>I</R> I went to the <R>su</R> supermarket by car and I bought some foods <R>and</R> <.></.> <R>and</R> <.></.> <SC>and I</SC> <SC>some foods</SC> and <R>many</R> many foods and I <.></.> <SC>bring</SC> brought <SC>this food</SC> this foods to cashier and <.></.> I pay money. <F>Eh</F> that's very expensive <R>because</R> <.></.> because <R>I</R> I bought many many foods and <SC>the</SC> <SC>I</SC> after that I <R>brought</R> brought the foods to my car and <.></.> then <F>ee</F> after that <SC>I cook</SC> I cooked many foods <F>eh</F> that's very fun.</B>
+<A>O K. All right. Thank you very much.</A>
+</task>
+<followup>
+<A>Is there any good supermarket near your apartment?</A>
+<B><F>Ehm</F> no <SC>I</SC> <SC>my</SC> near my house there is no supermarket <SC>by</SC> <R>I can</R> I can go on foot.</B>
+<A><F>Oh</F>. I see. Then when you have to buy some food, where do you go?</A>
+<B><F>Eh</F>. <R>I</R> I go to supermarket <SC>near</SC> nearest but on foot by twenty minutes so I use bicycle. <R>I</R> I always use it when I go to supermarket.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. All right. Thank you, <H pn="B's name">XXX02</H>. We are almost at the end of the interview. Do you have any class today?</A>
+<B>No. But I have a part-time job.</B>
+<A><F>Oh</F>. Yes. You have to work. <F>Well</F> good luck on your job. And thank you very much. This is the end of the interview.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

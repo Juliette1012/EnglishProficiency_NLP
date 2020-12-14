@@ -1,0 +1,201 @@
+<interview>
+<filename>file00031.txt</filename>
+
+<head version="1.3">
+<date>1999-12-16</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi, good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="A's name">XXX01</H>, O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>I'm fine thank you, and you?</B>
+<A>I'm great. O K. <F>Ah</F> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><R>I'm</R> I live in <H pn="others1">XXX03</H>.</B>
+<A><OL>Where is it</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> It's <H pn="others2">XXX04</H> City and <.></.> on the <H pn="others3">XXX05</H> line.</B>
+<A>I see. O K. And how often do you come to school?</A>
+<B><F>Mm</F> it's <.></.> five times.</B>
+<A>Five days?</A>
+<B><F>Ah</F> yes.</B>
+<A>I see. But what do you do when you don't come to school?</A>
+<B><F>Mm</F> when I don't go to school <F>mm</F> I stay at home and I'm reading books or cooking or so. <nvs>laughter</nvs></B>
+<A>I see. You like reading.</A>
+<B>Yes.</B>
+<A>What kind of books do you like?</A>
+<B><F>Ah</F> I like mystery. <nvs>laughter</nvs></B>
+<A>I see. <F>Umm</F> what is so good about mystery?</A>
+<B><F>Mm</F> <.></.> <F>uum</F> I can't <F>umm</F> explain so clearly but it's very fun.</B>
+<A>I see. Good. Do you have a part time job?</A>
+<B>Yes.</B>
+<A>What do you do?</A>
+<B><F>Um</F> I'm a home teacher and <R>I</R> I teach math or English or so.</B>
+<A><F>Um</F> I see. But <H pn="B's name">XXX02</H>, why do you work?</A>
+<B><F>Mm</F> because <SC>I want many stuffs</SC> <F>uu</F> I want many goods or so or <R>I</R> I live alone so <R>I</R> I earn money <SC>so</SC> <R>to</R> <F>uu</F> to live.</B>
+<A><F>Oh</F> I see. O K. Where is your hometown?</A>
+<B>My home town is <H pn="others4">XXX06</H>.</B>
+<A><H pn="others4">XXX06</H>?</A>
+<B>Yes.</B>
+<A>I see. So your parents live in <R><H pn="others4">XXX06</H></R> <H pn="others4">XXX06</H>?</A>
+<B>Yes.</B>
+<A>O K. So how do you keep in touch with them?</A>
+<B><F>Mm</F>. Pardon?</B>
+<A>How do you keep in touch with them?</A>
+<B><F>Umm</F> <.></.> I telephone or <nvs>laughter</nvs> <F>uh</F> yes, I only telephone.</B>
+<A>I see. <F>Um</F>. Only telephone?</A>
+<B>Yes.</B>
+<A>O K. So tell me about your parents.</A>
+<B><F>Umm</F> <R>my</R> my father is <F>uu</F> <SC>forty</SC> <R>fifty</R> fifty four years old, and my mother is forty eight, no forty nine years old, and <SC>she works</SC> <F>um</F> <R>she</R> she sell lingerie or cosmetics.</B>
+<A><F>Oh</F> I see. So she has a job.</A>
+<B>Yes.</B>
+<A>O K. So you are the only child?</A>
+<B>No, <SC>I have <F>mm</F> <F>uh</F> <R>bro</R> brother</SC> I have brother. <.></.> And he is college student.</B>
+<A><F>Um</F>. That's good, good. O K. <F>Uh</F> <H pn="B's name">XXX02</H>, are you a freshman?</A>
+<B>Yes.</B>
+<A>So how did you make friends in <H pn="school name1">XXX07</H>?</A>
+<B><F>Umm</F> <R>I</R> <R>I</R> <SC>I'm belong to</SC> I'm belonging to a circle and <.></.> <F>uh</F> <R>I made</R> I made friends <SC>in cir</SC> in the circle <.></.> activity.</B>
+<A>I see. What circle do you belong to?</A>
+<B><F>Mm</F>. <?>It's</?> <R>fashion</R> fashion. <F>Uum</F>. And <SC>we have fash</SC> we had fashion show in October <SC>thirty one</SC> thirty first. <F>Umm</F> and only <F>uh</F> <F>mm</F> the activity's only fashion show. So we don't active <F>uu</F> so much.</B>
+<A>I see. <F>Well</F> you prepare for the fashion show.</A>
+<B><F>Mm</F> <F>mm</F> but <R>I</R> I didn't <R>b</R> <SC>but</SC> because <R>I'm</R> <F>ah</F> I'm a part of <F>mm</F> <.></.> <F>mm</F> camera, so <R>I</R> <SC>I don't</SC> I didn't prepare at all.</B>
+<A>I see. Good. All right. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'd like to show you one picture. So please tell me anything about this.</A>
+<B><F>Mm</F> <.></.> <F>uum</F> <.></.> <F>uum</F>. <R>The</R> <F>mm</F> <F>ah</F> a girl is <R>in</R> in this room and there is a cat and there is a dog and <SC>the</SC> <SC>that</SC> the girl has a computer system and audio system. And <.></.> the time is nine o'clock. <F>Um</F>. <F>Umm</F>. <..></..></B>
+</task>
+<followup>
+<A>That's all? O K. All right. Do you have a computer?</A>
+<B>Yes.</B>
+<A>At home?</A>
+<B>Yes.</B>
+<A>What do you do with the computer?</A>
+<B><F>Mm</F> <R>I</R> <SC>I do</SC> <F>mm</F> <R>I</R> I see e-mail and <R>use</R> use internet or <F>umm</F> make the report <F>mm</F>.</B>
+<A>I see. So what is the advantage of using a computer?</A>
+<B><F>Mm</F> <..></..> <R>I can</R> I can make report very easily <F>mm</F>. <nvs>laughter</nvs></B>
+<A>Good. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's have role-play. All right?</A>
+<B>Yes.</B>
+<A>Here you are. This is your card <.></.> and when you are ready I'll start.</A>
+<B><F>Mmm</F>.</B>
+<ctxt>The interviewee is thinking for a while.</ctxt> 
+<A>O K?</A>
+<B>O K.</B>
+<A>Trang, trang. Hello?</A>
+<B>Hello? This is <H pn="B's name">XXX02</H> speaking.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. What's up?</A>
+<B><F>Umm</F> very good. <F>Uhh</F> <laughter>no, no, no</laughter>. <R>Let's go</R> let's go to see the movie together?</B>
+<A><F>Hmm</F> sounds great.</A>
+<B>And <R>when</R> <R>when</R> when is your free time?</B>
+<A><F>Umm</F> this weekend.</A>
+<B><F>Mmm</F> how about Saturday?</B>
+<A>Saturday, all right. Good.</A>
+<B><R>And</R> <.></.> and <R>what</R> <R>what time</R> what time will we meet?</B>
+<A><F>Umm</F> how about one o'clock?</A>
+<B>O K. And <SC>let's</SC> <F>umm</F> <SC>do you have lunch</SC> <F>ah</F> <laughter>no</laughter>, will you have the lunch <.></.> together?</B>
+<A>Great.</A>
+<B>And <R>what</R> what dish do you want to eat?</B>
+<A>I like Chinese.</A>
+<B>O K. Let's eat Chinese. And <R>how</R> <R>how will you</R> <F>umm</F> <SC>how will you get to</SC> <.></.> no, <F>uh</F> <R>wehre</R> where will we meet?</B>
+<A>How about Marion, Yurakuchou?</A>
+<B><F>Oh</F>. O K. And <R>how</R> how will you come?</B>
+<A><F>Um</F> <R>by</R> by J R.</A>
+<B>O K. And <SC>we will</SC> <.></.> O K <SC>we will met</SC> <F>ah</F> we will meet <F>ah</F> Yurakuchou Marion <SC>and</SC> <F>ah</F> at one o'clock. And <.></.> <F>mmm</F> <R>do you</R> do you have <R>other</R> <nvs>laughter</nvs> other question?</B>
+<A><F>Oh</F> no. That would be fine. So let's meet at one o'clock.</A>
+<B>O K. <F>Oh</F>. Wait, wait, wait. And <R>what</R> what movie do you want to see?</B>
+<A><F>Ah</F> I love action movies.</A>
+<B><F>Ah</F>. O K. <SC>And</SC> <.></.> O K, but <R>I want to</R> I want to see horror movie.</B>
+<A>Horror movies. <F>Mmm</F>. O K, I'll try.</A>
+<B>O K.</B>
+<A><OL><laughter><??></??></laughter></OL>.</A>
+<B><OL>O K</OL>. And see you on Saturday.</B>
+<A>Saturday. O K. See you later.</A>
+<B>See you later. <OL>Good-by</OL>.</B>
+<A><OL>Thank you</OL>. Thank you for calling. Bye.</A>
+<B>Bye.</B>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>, do you like movies?</A>
+<B><F>Mm</F> yes.</B>
+<A>Do you like horror movies?</A>
+<B><F>Mm</F> yes, but I like <F>uu</F> <.></.> <SC>many</SC> <R>all</R> all type movie.</B>
+<A>I see. So which do you like better, American movies or Japanese movies?</A>
+<B><F>Um</F> I like American movies better.</B>
+<A><F>Mm</F>. Why?</A>
+<B>Because <F>uh</F> American movie <SC>have</SC> <SC>has <F>uh</F> many</SC> <F>mm</F> <.></.> is <R>more</R> more interesting than Japanese movie <F>mm</F> because <SC>the</SC> <.></.> <F>mmm</F> <laughter><F>uum</F></laughter> <SC>it's very</SC> <F>mm</F> <.></.> <SC>the actor and actress <.></.> see <F>umm</F> <.></.> is</SC> <F>umm</F> actor and actress are very <.></.> good.</B>
+<A>I see. Good. Good. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now I'd like to show you one more picture. All right?</A>
+<B>All right.</B>
+<A>O K. So let's see. Here you are. O K. <F>Ah</F> this time, please make up a story. O K? Based on these six pictures. And but this happened before, so please start your story with "One day last week". O K?</A>
+<B><F>Mm</F>.</B>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<A>O K?</A>
+<B>O K. And one day last week <R>a</R> a lady go to the department and <R>she</R> <SC>she want</SC> <R>she</R> <F>ah</F> <R>she</R> <R>she</R> she wanted to <SC>buy <.></.> some</SC> buy a present for her husband. And <R>she</R> <SC>she bought one tie</SC> <F>ah</F> she want a tie and <R>she</R> <.></.> <R>she</R> <R>she said</R> <.></.> <SC>she said to wrap for present <R>to the</R> <F>mm</F> to the</SC> <F>uh</F> <laughter><F>eh</F></laughter> <R>she</R> she said to wrap for the present. And <SC>she asked <.></.> to</SC> <R>she</R> she asked <F>um</F> <R>where</R> <R>where was</R> <F>uh</F> where was the cosmetic floor <SC>and <R>the</R> <.></.> <R>the</R> <F>umm</F> <..></..> the</SC> <F>mm</F> <.></.> and <F>ah</F> man tell <SC>the</SC> it's third floor. And <R>she went to</R> she went to the third floor buy <?>theres</?>.</B>
+</task>
+<followup>
+<A>Thank you very much. O K. So <H pn="B's name">XXX02</H>, are you interested in the fashion?</A>
+<B><F>Ah</F> yes.</B>
+<A>So where do you usually go <F>er</F> to buy your clothes?</A>
+<B><R>I</R> I usually go to Aoyama or Harajyuku or so.</B>
+<A><R>Why</R> why are you going to those places?</A>
+<B><F>Mh</F>. Because <F>ah</F> <SC>the</SC> <SC>there is</SC> there are many shops <SC>I like</SC> <R>I want to</R> <R>I want to wear</R> <.></.> I want to wear clothes. <F>Mm</F>.</B>
+<A>I see. But how do you find fashionable goods?</A>
+<B><F>Mm</F> <.></.> <R>I</R> I go to many shops and I watch <R>many</R> many goods and <F>um</F> <.></.> <R>I</R> I use my foot very much.</B>
+<A>I see.</A>
+<B>I walk around and around.</B>
+<A><F>Uh-huh</F>. O K. But other than walking around, how do you get the up to date fashion information?</A>
+<B><F>Mmm</F> <R>I</R> <R>I don't</R> <R>I don't</R> <.></.> I don't see any magazine <SC>or</SC> <.></.> <SC>so</SC> <F>mm</F> <SC>and I</SC> but I often go to the shop very much <R>so</R> <F>um</F> <.></.> so <R>I</R> <R>I</R> <SC>I only see</SC> <F>mm</F> <.></.> <R>I</R> <SC>I find</SC> I usually find by <R>see</R> seeing.</B>
+<A>I see. Why you don't see magazines?</A>
+<B><F>Mm</F> <.></.> I don't have so many times. I forget to buy magazine and <F>um</F> <R>I</R> <SC>I found</SC> I find <R>after</R> after <R>it</R> <R>it</R> it is published. <F>Um</F>.</B>
+<A>I see. By the way, Christmas is coming. <OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>So are you planning to give a present to somebody?</A>
+<B><F>Mm</F> no. Nothing.</B>
+<A>No?</A>
+<B>Yes. And I don't have any plan.</B>
+<A>I see. Have you ever given a present to your <R>mother</R> mother or father?</A>
+<B>No. <R>I</R> I was always given.</B>
+<A><laughter><F>Oh</F></laughter> all right. O K. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Um</F>. <H pn="B's name">XXX02</H>, interview is almost ending. Thank you for coming today.</A>
+<B>Thank very much, too.</B>
+<A>O K. So are you going back to <H pn="others4">XXX06</H>?</A>
+<B>Yes.</B>
+<A>This month?</A>
+<B>Yes.</B>
+<A><F>Umm</F>.</A>
+<B>Twenty seventh.</B>
+<A>Twenty seventh. That's great. So what do you want to do there?</A>
+<B><F>Umm</F> I want to go <.></.> <F>mmm</F> <F>uum</F> <R>many</R> many place with my friends. And I want to go many restaurant with my <.></.> <laughter>family</laughter>.</B>
+<A><F>Ah</F>. Great. O K. All right. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

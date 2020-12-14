@@ -1,0 +1,172 @@
+<interview>
+<filename>file00716.txt</filename>
+
+<head version="1.3">
+<date>2001-10-26</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Er</F>. I'm fine, thank you.</B>
+<A>That's good.</A>
+<B><R>And</R> and you?</B>
+<A>I'm good. <OL>Thank you</OL> very much.</A>
+<B><OL><F>Er</F></OL>.</B>
+<A><H pn="B's name">XXX02</H>, what did you eat for today's lunch?</A>
+<B><.></.> <R>I</R> I ate <.></.> stamina lunch in <H pn="others1">XXX03</H> Cafeteria.</B>
+<A>Can you tell me more about the stamina lunch? What is like?</A>
+<B><SC>Stamina lunch was beef and onion and pilaf</SC> <SC>stamina</SC> <R>it</R> it was <R>made</R> made of beef and onion and pilaf.</B>
+<A><F>Hum</F>.</A>
+<B><F>Ee</F> <F>ee</F>. It tastes <.></.> good. <F>Er</F>. But I think it <?>was</?> a little bad.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Er</F>.</B>
+<A>Why do you think it's a little bad?</A>
+<B><F>Ee</F>. <.></.> <R>Qu</R> <SC>Quali</SC> its quality is bad.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>And</OL> its quantity is cheap.</B>
+<A>I see. I understand. Where do you usually eat lunch?</A>
+<B><R>I go</R> <SC>I go to</SC> I usually go to <H pn="others1">XXX03</H> Cafeteria.</B>
+<A><F>Hum</F>. Can you tell me more about <H pn="others1">XXX03</H> Cafeteria?</A>
+<B><.></.> It is very large, and <R>it</R> it has many menu, and the price is reasonable. And <R>I</R> I can find <R>ma</R> <SC>man</SC> <SC>my</SC> many my friends <F>er</F> there. <F>Mm</F>. And <.></.> <R>I</R> I can go there <R>su</R> soon after the class.</B>
+<A><F>Um</F> I see. <H pn="B's name">XXX02</H>, are you busy these days?</A>
+<B>Yes. <R>I'm</R> I'm busy because <.></.> <SC>next</SC> on next Saturday, my band's live will be holding <SC>and</SC> so I must practice the songs every day.</B>
+<A><F>Hum</F>.</A>
+<B>And I go to the studio with my band <F>err</F> <R>almost <F>err</F> on</R> almost on every nights.</B>
+<A><F>Hum</F>.</A>
+<B><R>I</R> <R>I will go</R> I will go to the studio today, too.</B>
+<A>I see. So you are musician.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. What kind of band? Can you tell me a little bit about it?</A>
+<B>My band plays <F>ur</F> punk rock music. But sometimes we play pop music. For example, Beatles. <R>And</R> <..></..> and <R>I</R> I play base in my band. But sometimes I take a vocalist. <.></.> <F>Ur</F>. But <R>I</R> I'm <R>poor at</R> poor at singing a song. So <F>err</F> <F>er</F> <R>I</R> I sometimes feel <F>er</F> <R>sh</R> <F>er</F> shy.</B>
+<A>I see. Which do you like better, punk rock or <SC>a popular</SC> just <F>ur</F> ordinary popular music?</A>
+<B><F>Er</F> I like both.</B>
+<A>Both?</A>
+<B>Both.</B>
+<A><F>Hum</F>. <R>What's a</R> what's good about punk rock music?</A>
+<B><F>Er</F> <SC>Punk rock music is</SC> <F>er</F> <SC>punk rock music</SC> <F>er</F> <SC>when we play punk rock music</SC>, <F>er</F> <SC>punk rock music</SC> <F>er</F> music line of punk rock music is very easy. So <SC>we can</SC> <F>ee</F> <R>we</R> we can play punk rock music easily. And <R>when</R> when we play punk rock music in our live, <R>it</R> <R>it makes</R> it makes listeners very excited.</B>
+<A><F>Er</F> I see. <F>Hum</F>. Sounds exciting. Yes. All right. Thank you <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>I'm going to show you this picture. so please describe this picture for me.</A>
+<B><F>Er</F>. <..></..> <SC>The <.></.> girl</SC> a boy and girl <R>d</R> <R>drink</R> drink a coffee in the log house. And <.></.> the man in <R>black</R> black ski wear <..></..> is <..></..></B>
+<A><OL>All right, <H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><F>Er</F> I'm sorry</OL>.</B>
+<A><R>Th</R> that's O K.</A>
+</task>
+<followup>
+<A>Do you enjoy any sports?</A>
+<B><F>Oh</F>. Yes. I enjoy. I like ski and snowboard.</B>
+<A><F>Hum</F>. Can you tell me the difference between skiing and snowboarding?</A>
+<B><F>Er</F>. Snowboarding is very easy <R>to</R> <SC>to</SC>. <F>Er</F>. And <SC>the beginner of snowboarding</SC> even the beginners of snowboarding <F>ee</F> <R>can</R> can enjoy it. But <R>ski</R> <SC>ski is</SC> skiing is very difficult. <.></.> Sometimes the beginners go skiing can't enjoy it. <F>Um</F>. And <R>they</R> they say, <.></.> "<R>I</R> I won't try it again.". <R>But</R> but <SC>the beginner of skiing</SC> <F>er</F> when the beginner of skiing <R>do</R> do the snowboarding, they say, <.></.> "This is good, <F>er</F> <R>I will</R> I will try it again and again.".</B>
+<A><F>Hum</F>. Really?</A>
+<B>But <SC>snowboarding is</SC> <.></.> <R>snow</R> snow boarding is more dangerous than skiing because <R>snowboarding</R> <.></.> snowboarding's top speed is very fast.</B>
+<A><F>Err</F> I see.</A>
+<B>Faster than skiing.</B>
+<A><F>Um</F>. All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So let's do a role-play. So I'll give you this role-play card. So when you are ready, I'll start. Are you ready?</A>
+<ctxt>The interviewee is reading a card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Can I help you, sir?</A>
+<B><F>Um</F> I want to go to New York <F>ur</F> <F>ur</F> as soon as possible. So what kind of ticket should I buy?</B>
+<A>We have two types of train to New York. Express and local.</A>
+<B><F>Er</F>. Express, please. <F>er</F> <CO><R>I</R> <OL>I</OL></CO>.</B>
+<A><OL>All right</OL>. Express is fast, but it's very expensive.</A>
+<B><F>Er</F> <.></.> <F>um</F>. But <R>I</R> I want to go New York as soon as possible. So I will buy it. <.></.> <F>er</F> <R>Where</R> where should I buy?</B>
+<A>Here.</A>
+<B>Here. <F>Uh</F>. Yeah, I will buy it.</B>
+<A>O K.</A>
+<B><R>How much</R> how much <OL>it is</OL>?</B>
+<A><OL>One hundred</OL> dollars.</A>
+<B><F>Er</F>. All right. <R>Here</R> <OL><F>er</F></OL> here you are.</B>
+<A><OL>O K</OL>. Thank you. Here it is. This is ticket. O K. Thank you very much. Have a nice trip.</A>
+<B><F>Er</F>. Thank you.</B>
+<A>That's the end of the role-play. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you like traveling by train?</A>
+<B><F>Er</F> <R>I</R> I love it.</B>
+<A><F>Hum</F>.</A>
+<B><F>Er</F>. Because <.></.> <R>I</R> <SC>I enjoy</SC> I can enjoy the scene of beauty, and <.></.> <R>I</R> I don't need to try <R>drive</R> drive a car.</B>
+<A>I see.</A>
+<B><F>Ur</F> <R>And</R> and <R>I</R> I can sleep <R>in</R> in the train.</B>
+<A>I see. So tell me the last trip you took by train.</A>
+<B><.></.> <SC>A trip</SC> <..></..> these days <F>er</F> I can't remember.</B>
+<A><F>Err</F>.</A>
+<B><R>I</R> I travel by bus <.></.></B>
+<A><F>Um</F>.</A>
+<B>almostly.</B>
+<A><F>Err</F>. Why?</A>
+<B><SC>The</SC> <R>my</R> my latest trip is the <SC>my</SC> <F>er</F> training camp of my circles. It uses bus.</B>
+<A><F>Um</F>.</A>
+<B>And the trip of my family uses my father's car. <.></.> My family always uses my father's car. So <.></.> I rarely <R>u</R> <R>use</R> use train.</B>
+<A>I see. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I'll show you another picture. This is a picture sequence. So please make up one short story using these pictures from one to six. And this happened before. So please start "One day last week," and begin the story.</A>
+<B>Pardon? I'm sorry. I beg your pardon?</B>
+<A>Sure.</A>
+<ctxt>The interviewee is looking at pictures.</ctxt>
+<A><OL>Go ahead</OL>.</A>
+<B><OL><F>Er</F></OL> <R>There</R> there are no food and drinks in her refrigerator. So she <?>must</?> go shopping. <F>Um</F>. And <R>she</R> <SC>she drive to</SC> she drives to the supermarket to buy food and drinks. <F>Uum</F> <.></.> And <R>she</R> <R>she</R> <.></.> she finished the shopping. And <SC>she carry</SC> <R>sh</R> she carries food and drinks into a car. <SC>And <R>s</R> <R>she</R> she makes <.></.> <SC>the</SC> <R>she can</R> she can cook</SC> <F>um</F> <.></.> <F>er</F> the finally she can <OL>cook</OL>.</B>
+<A><OL><F>Um</F></OL> O K. <OL>Thank you</OL>.</A>
+<B><OL>That's it</OL>.</B>
+<A>Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Can you tell me your one of the favorite shops or store?</A>
+<B><F>Er</F> I like C D shops. For example, Tower Records and H M V <.></.> because <R>I</R> <R>I am</R> I am a musician <R>so I like</R> so I like to listen to music.</B>
+<A>Why Tower Record is so nice?</A>
+<B><F>Er</F>. There are various C Ds and various genres. <F>Um</F>. The store is very large <F>er</F> and <SC>the store</SC> the mood of stores <R>I</R> I like it.</B>
+<A><F>Err</F> I see. O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is <OL>almost over</OL>.</A>
+<B><OL><F>Er</F></OL> <F>er</F></B>
+<A>So this weekend you are very busy.</A>
+<B>Yes.</B>
+<A><F>Uum</F>.</A>
+<B><F>Er</F> I'm tired.</B>
+<A><laughter>Tired</laughter>. <F>Uum</F>. But it's fun for you.</A>
+<B>Yes. <OL><F>err</F></OL></B>
+<A><OL><F>Uum</F></OL> So what kind of song are you going to perform?</A>
+<B><F>Um</F>.</B>
+<A>Punk and?</A>
+<B>Punk and pop music</B>
+<A>Pop music. <OL><F>Err</F></OL>.</A>
+<B><OL>on next live</OL>.</B>
+<A><F>Um</F> <F>um</F>. What is your favorite song?</A>
+<B><.></.> <F>Uum</F>. These days I like <..></..> <F>ee</F> Mad Capsules Markets. It's very aggressive.</B>
+<A><F>Err</F> I see. All right. Thank you very much for coming in today. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

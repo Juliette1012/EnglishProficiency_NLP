@@ -1,0 +1,212 @@
+<interview>
+<filename>file00123.txt</filename>
+
+<head version="1.3">
+<date>2000-10-05</date>
+<sex>female</sex>
+<age>41</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hi.</B>
+<A><F>Uh-huh</F>. Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Mm</F>. My name is <H pn="A's name">XXX01</H>. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F>. Yes. Sure.</B>
+<A><F>Uhu</F>. Thank you very much. So, <H pn="B's name">XXX02</H>, <F>urm</F> are you busy today?</A>
+<B><F>Umm</F> not so much. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>Not so much</laughter></OL>? What do you do actually in this company?</A>
+<B><F>Ah</F> I'm working as a secretary to sales <R>mana</R> manager.</B>
+<A><F>Umm</F>.</A>
+<B>Yes.</B>
+<A>A little bit more?</A>
+<B><F>Ah</F>.</B>
+<A>Detail?</A>
+<B><F>Ahh</F> <SC>I make</SC> <F>ahh</F> I receive many phone calls, and make many phone calls, and arrange his schedule and send E-mails, etc.</B>
+<A><F>Um-huh</F> <F>oh</F> I see. So where do you live?</A>
+<B><F>Ah</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Umm</F>. Nice city?</A>
+<B><F>Umm</F> <laughter>so so</laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Ur</F> I moved <SC>he</SC> there about two years ago. So I'm not <R>i</R> <SC>in</SC> <JP>nandaro</JP> good at around there. <F>Ah</F>. <CO>But</CO>. <F>Umm</F>.</B>
+<A>From where did you <OL>move in</OL>?</A>
+<B><OL><F>Ahh</F></OL> before moved to <H pn="others1">XXX03</H>, I lived in <H pn="others2">XXX04</H> in <H pn="others3">XXX05</H>, yes.</B>
+<A>Why did you move in?</A>
+<B><F>Ah</F> our apartment was so small so I wanted to live more big space. <nvs>laughter</nvs></B>
+<A>You said, "our" means? <OL>With your family</OL>?</A>
+<B><OL><F>Ah</F> yes, <F>ah</F></OL>, yes. With my husband.</B>
+<A><F>Ahh</F> tell me about your husband.</A>
+<B><F>Ahh</F> he is working as a salesman of garden products, yes. And <F>ah</F> <SC>he</SC> his office is in Nihonbashi. And he is <R>two</R> two years older than me, and we married about seven years ago. <OL>Yes</OL>.</B>
+<A><OL><F>Umm-hmm</F></OL>. <F>Wow</F> I see. O K, then what do you like to do in your free time?</A>
+<B><F>Ahh</F> <R>I</R> <SC>I like to play golf, but</SC> <F>ur</F> I used to like to play golf, but <SC>after I had <JP>nanda</JP> backache</SC>, <SC?>us</SC?> <F>ahh</F> <SC>I</SC> <F>er</F> for about two years ago, I had very heavy backache. <CO>So</CO>.</B>
+<A>Did you get it?</A>
+<B><F>Ur</F> after I played golf and returned home, my back was <R>a</R> <R>a</R> aching. <F>Ah</F> I couldn't move. <F>Ahh</F> <JP>nantsuttaraiindaro</JP> <F>mm</F> I couldn't move during the midnight time. <SC>So</SC> and I was crying, "<F>Oh</F> no.", <laughter>all night</laughter>. <nvs>laughter</nvs></B>
+<A>How did your husband take care of you <OL>at that time</OL>?</A>
+<B><OL><F>Ah</F> <R>he</R></OL> he wasn't know so in the morning, <R>he took</R> he took me to the hospital, yes.</B>
+<A>Now, are you O K?</A>
+<B>Yes. But <SC>after</SC> <F>ur</F> when I'm very tired, my back aches.</B>
+<A><F>Ah</F>.</A>
+<B>Yeah.</B>
+<A><F>Mm</F>. Please take care. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Uh</F> thank you very much</OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. O K. The first thing to do today is to describe the picture. O K? So please look at this picture, and then tell me anything about this picture.</A>
+<B><F>Ah</F> O K. <F>Ah</F> they are at restaurant <F>ah</F> to <SC>cala</SC> celebrate their fifth marriage. <nvs>laughter</nvs> And husband is tasting <SC>wine</SC> red wine, and waiter is asking the <F>nh</F> taste. And this restaurant is very nice restaurant, and they have <.></.> <JP>namaensou</JP> piano. They can hear <R>li</R> <R>live s</R> live sound. <CO><R>And</R> <F>er</F> <nvs>laughter</nvs></CO>.</B>
+</task>
+<followup>
+<A>I see. O K. Thank you very much. So <F>ah</F> do you sometimes go to this kind of restaurant?</A>
+<B>Yes. <F>Ahh</F> at our <R>wedding</R> wedding anniversary day. <CO>And</CO>.</B>
+<A><F>Wow</F>. How do you celebrate? Tell me.</A>
+<B><nvs>laughter</nvs> <F>Umm</F> <F>ah</F> <SC>we</SC> every year, we go to restaurant <SC>within the m</SC> <F>ah</F> <F>ah</F> where we had a wedding party, yes. So every year, <SC>I wan</SC> <F>ah</F> <SC>we wen</SC> we go to there.</B>
+<A>And then what do you do, actually?</A>
+<B><laughter><F>Ahh</F></laughter>. <F>Umm</F> just <F>ah</F> eat at restaurant, and walk around there.</B>
+<A><F>Hum</F> O K. Tell me about the atmosphere of the restaurant.</A>
+<B><F>Ahh</F> it's very nice restaurant. <F>Ahh</F> it's in the Makuhari New Otani Hotel. <F>Ahh</F> so very quiet and <F>er</F> good mood. Yes. But <SC>aroun</SC> Makuhari area, <SC>is very</SC> <F>ah</F> wind is very strong because it's facing the <F>er</F> ocean. So outside the hotel, <laughter>my hair is blown <JP>Nanteittaraiinokana</JP></laughter>. <F>Umm</F>.</B>
+<A><F>Oh</F> I see. All right. O K. And then please tell me <F>um</F> the last time you celebrate something <F>um</F> for another person.</A>
+<B><F>Ahh</F> <.></.> last time, <JP>itsudarou</JP> <F>uhm</F> about a year ago, my friend was married. <CO>So <F>ahh</F> I went to the <SC>celebrate party</SC> celebration party <OL>in</CO></OL>.</B>
+<A><OL>What was</OL> like? The party.</A>
+<B><F>Ah</F> it's very casual style <F>urm</F> at <F>ur</F> Harajuku. <SC>Whole restaurant was</SC> <F>uh</F> they <.></.> reserved whole restaurant, and we eat and listen to music and dancing, yes.</B>
+<A>So could you compare your anniversary <OL>to that party, you know</OL>?</A>
+<B><OL><F>Ahh</F> <nvs>laughter</nvs></OL> <F>ahh</F>. Their party was so casual and so <R>frien</R> friendly. So it was very nice. <SC>Bet</SC> I think better than our celebration. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Better than yours?</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><F>Oh</F> don't say that.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K, thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, I'd like to do a role play with you. O K. Please read this card. O K? I am your friend.</A>
+<B><F>Um-huh</F>.</B>
+<A>We'll do a mini drama.</A>
+<B>O K.</B>
+<A>O K? I'll start. Hello.</A>
+<B>Hi.</B>
+<A><F>Um-huh</F>.</A>
+<B>Sorry, <??></??>.</B>
+<A><H pn="A's name">XXX01</H>. <F>Um-huh</F>.</A>
+<B>Hi, <H pn="A's name">XXX01</H>. <F>Ah</F> would you like to go to movie together with me?</B>
+<A>Sure.</A>
+<B><F>Ahh</F> <.></.> <SC>when</SC> <F>ah</F> how about this weekend? Are you free?</B>
+<A><F>Um-huh</F>. Yes.</A>
+<B><F>Uh</F> so let's meet at twelve noon at the Yurakucho Station. <.></.> Will you come by J R train?</B>
+<A><F>Um-huh</F> yes.</A>
+<B><F>Ah</F> O K.</B>
+<A>But Yurakucho Station is very big.</A>
+<B><F>Ahh</F> yes. <F>Ah</F> at the <F>mm</F> entrance of Hankyu Department Store.</B>
+<A><F>Um-huh</F>.</A>
+<B>O K?</B>
+<A>Sure.</A>
+<B>So after we had lunch, let's go to movie.</B>
+<A><F>Ah</F> sure. <F>Um-huh</F>. What kind?</A>
+<B><F>Um</F>?</B>
+<A><CO>What kind of movie <OL>do you</OL></CO>?</A>
+<B><F>Ahh</F> <JP>sokka</JP>. <F>Ur</F> I want to see "<R?>U</R?> <?>U five seven eight</?>". <F>Ha</F>?</B>
+<A>What's that?</A>
+<B><F>Ahh</F> it's a <.></.> kind of movie about submarine, to <F>er</F> escape from the submarine, I think.</B>
+<A>Is it a good movie?</A>
+<B><F>Ah</F> yes. Maybe it's so exciting movie.</B>
+<A>O K. Sounds nice. <F>Um-huh</F>.</A>
+<B><CO>So</CO>.</B>
+<A>So O K, then see you then.</A>
+<B>See you then.</B>
+<A><F>Ah-ha</F> thank you very much for inviting.</A>
+<B>Bye bye.</B>
+<A>Bye.</A>
+</task>
+<followup>
+<A>O K. So the end of role play. Good. O K. So do you like seeing a movie?</A>
+<B><F>Umm</F> actually, I like, but it's very expensive. It's about <R>ei</R> eighteen thousand yen? So <SC>I u</SC> usually, I rent a video from video shop, <nvs>laughter</nvs> yeah.</B>
+<A><F>Uh-hm</F>. And then tell me about your favorite movie.</A>
+<B><F>Ahhh</F> favorite movie. I don't remember the title. But it was a <F>nh</F> detective story. <F>Ur</F> <.></.> a man has a floppy disk, and someone want to <F>a</F> get back the floppy. So <SC>the</SC> <JP>nanteyundaro</JP> <F>umm</F> he <F>er</F> <.></.> tie up with NASA, and try to get back the floppy disk from the man. And <SC>NASA's <JP>nanteiu</JP> technology is very very</SC> <F>ah</F> <JP>nanteiundaro "odoroita"</JP> NASA's technology <R>makes me</R> <F>ah</F> <R>makes me</R> <JP>nandaro "odoroku"</JP> surprised very much.</B>
+<A><F>Oh</F> I see. All right. So you like exciting movie, maybe?</A>
+<B>Yeah. <nvs>laughter</nvs></B>
+<A>Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Then I'll show you another picture now. O K. So please make a story using these picture from one to six. Then this thing happened before. So please <SC>use the s</SC> <SC>the</SC> please start your story with, "One day last week".</A>
+<B><F>Uh-huh</F>. O K. <F>Ah</F> one day last week, she wanted to cook something, but <SC>sh</SC> <F>ah</F> in her refrigerator, nothing was in. So <SC>she went to</SC> <F>ah</F> she drive to the supermarket to buy some foods. And she bought a lot of foods at the store, and she paid the money. Then <F>ahh</F> <.></.> <SC>they</SC> <F>ah</F> she carried to her car, and drive back to home. Then she cook a <F>ahh</F> sunny-side up. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K. Thank you very much. So <F>ahn</F> <SC>do you</SC> of course, you always go to grocery shopping.</A>
+<B><F>Ah</F> Yes.</B>
+<A><F>Ah-huh</F>. What kind of store do you go?</A>
+<B><F>Ah</F> I usually <R>go</R> <SC>go s</SC> go to Nagasakiya. <nvs>laughter</nvs> It's about five minutes from my house.</B>
+<A><F>Hmm</F>. Why Nagasakiya is good?</A>
+<B><nvs>laughter</nvs> <F>Umm</F> because it's very near to my house.</B>
+<A><F>Um-huh</F>.</A>
+<B>Yes. And very convenient.</B>
+<A><F>Mm-hm</F>. Don't you go to the department store?</A>
+<B>For the groceries?</B>
+<A><F>Mm-hm</F>.</A>
+<B><laughter>No, <?>sorry</?></laughter>.</B>
+<A>Why not?</A>
+<B>It's so expensive <SC>in</SC> <SC>at</SC> department store, yes.</B>
+<A>Which is your favorite department store?</A>
+<B><F>Ahh</F> I like Takashimaya in Nihonbashi, yes.</B>
+<A>Why?</A>
+<B>Why? <F>Ah</F> <F>umm</F> our office was in Nihonbashi about seven or eight years ago. So I'm very common to that <SC>sta</SC> <F>ur</F> department store. Yes. Takashimaya and Mitsukoshi. So <R>I</R> I know where it is at that department.</B>
+<A><F>Ahh</F> that's convenient.</A>
+<B>Yeah.</B>
+<A>And <F>urm</F> then when you buy your clothes, what do you care most about?</A>
+<B><F>Ahh</F>. I care about its quality most.</B>
+<A>Quality?</A>
+<B>Yes.</B>
+<A>Doesn't care about price?</A>
+<B><F>Ahh</F>. Price is next. <nvs>laughter</nvs></B>
+<A>Quality?</A>
+<B>Yes.</B>
+<A>Or why the quality?</A>
+<B><F>Ah</F> if I buy good one, I can wear many years. But if I buy cheap one, it couldn't wear for few years.</B>
+<A>That's true?</A>
+<B>Yeah.</B>
+<A><F>Oh</F> you are smart,</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>I think</laughter></OL>. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. So this is almost the end of the interview.</A>
+<B><nvs>laughter</nvs></B>
+<A>How do you feel now?</A>
+<B><F>Ahh</F>. I was so nervous.</B>
+<A>No, no, no. You're very very good.</A>
+<B><F>Ah</F> <JP>mou</JP> <nvs>laughter</nvs> sweaty.</B>
+<A>Sweaty?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> So are you going back to your work?</A>
+<B>Yeah.</B>
+<A><F>Umm</F>. Is it busy today?</A>
+<B><F>Umm</F>. Maybe not so much.</B>
+<A><F>Umm</F>.</A>
+<B>Because <F>er</F> my boss is not in his office <R>af</R> <SC>after</SC> <nvs>laughter</nvs> <SC>af</SC> in afternoon. <nvs>laughter</nvs></B>
+<A>That's good.</A>
+<B>Yeah.</B>
+<A>So you can do whatever you want to. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>All right. So thank you for coming in today.</A>
+<B>Thank you very much.</B>
+<A><F>Um-huh</F>. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,187 @@
+<interview>
+<filename>file00922.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>, may I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you this morning <H pn="B's name">XXX02</H>?</A>
+<B>I'm fine, thank you. And you?</B>
+<A>Good. <F>Well</F> but it's getting really cold. Do you like winter?</A>
+<B>No. I like summer. <nvs>laughter</nvs></B>
+<A>But <F>well</F> what do you usually do on <SC>winter vacation</SC> winter holidays?</A>
+<B><F>Uum</F>. I work part-time job.</B>
+<A><F>Oh</F> really. Would you tell me about your part-time job?</A>
+<B><F>Uum</F> <R>I</R> I work at bar in <H pn="others1">XXX03</H>. And from five o'clock to ten o'clock I work.</B>
+<A>And <R>wh</R> what do you actually do in that bar?</A>
+<B><F>Uum</F> I carry drinks and foods and <R>I</R> I hear order. <.></.></B>
+<A><R>Do</R> do you like your job?</A>
+<B>Yes.</B>
+<A><F>Huum</F>. And <R>wh</R> what is good about your job? What do you enjoy the most?</A>
+<B><F>Huum</F>. <.></.> I meet many people.</B>
+<A>I see.</A>
+<B>And I talk with part-job's friends.</B>
+<A>I see. And maybe you can save a lot of money out of work, and <SC>what</SC> do you have any plan to use the money?</A>
+<B>I will go to snowboarding <.></.> this winter.</B>
+<A><F>Oh</F> really. O K. Is it difficult?</A>
+<B><F>Huum</F>. At first I can't snowboard, but <F>uum</F> second days I can <.></.> <R>s</R> snowboard.</B>
+<A><F>Ah</F> really. O K. So <F>well</F> tell me about the last time you went for snowboarding?</A>
+<B><F>Uum</F> <.></.> <F>eh</F> <..></..> this year <F>uum</F> <SC>on Fe</SC> on March <R>I</R> <.></.> I passed exam at <SC>uni</SC> <H pn="school name1">XXX04</H>. <..></..> With my friends <SC>I go</SC> I went to Niigata to snowboard. <.></.></B>
+<A>And what do you usually do after snowboarding?</A>
+<B><F>Huum</F> <.></.> I enjoyed <.></.> with friends at hotel.</B>
+<A><F>Oh</F> O K. <F>Well</F> by the way where do you live?</A>
+<B>I live in <H pn="others2">XXX05</H>.</B>
+<A><F>Uh-huh</F>. With your family?</A>
+<B>Yes.</B>
+<A><F>Ah</F> O K. <F>Well</F> do you have any brothers or sisters?</A>
+<B>I have a sister <F>uum</F> eighteen years old.</B>
+<A><F>Uhu</F>. Can you tell me more about her?</A>
+<B>She is high school student. <F>Uum</F>. <CO>Recently <JP>are</JP> <.></.> we hardly talk to</CO>. <.></.></B>
+<A>Why is that?</A>
+<B><R>I</R> I was late to come back home. <R>She sleeps</R> she sleeps everyday.</B>
+<A><F>Hum</F> <F>well</F> would you tell me about her appearance?</A>
+<B>She is taller than I.</B>
+<A><F>Oh</F> really.</A>
+<B>She is big. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><..></..></B>
+<A>Anything else? Differences?</A>
+<B><F>Ah</F> <F>uum</F> we are called <.></.> we are like. <.></.></B>
+<A>She looks like you.</A>
+<B>Yes.</B>
+<A><F>Oh</F> I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. O K. This one. And would you describe this picture for me?</A>
+<B>O K. <.></.> She have a dog and cat. <.></.> <R>She likes</R> she likes to use computer <.></.> and <R>her</R> her hobby is <..></..> listen to music and <SC>she is</SC> she lives alone. She lives apart from her family. <F>Uhm</F> on Sunday <R>she</R> <.></.> she studying homework <SC>with computer</SC> by computer. <..></..> And she likes cat. <..></..></B>
+</task>
+<followup>
+<A>O K. Good. <F>Well</F> you said <R>you</R> you live with your family. Right? You live with your family in <H pn="others2">XXX05</H>. <F>Well</F> <R>wh</R> what do you like most about living with your family compared to living alone like her?</A>
+<B><laughter>I beg your pardon</laughter>?</B>
+<A><F>Er</F>. O K. So <R>what</R> what is good about living with your family?</A>
+<B><OL><F>Er</F> O K</OL>.</B>
+<A><OL>You said</OL> <R>sh</R> she lives alone. Compared to living alone and living with your family.</A>
+<B><..></..></B>
+<A>What is good point?</A>
+<B><F>Ah</F> I live with my family.</B>
+<A>Right.</A>
+<B><F>Uum</F> I am not sad with my family, and <.></.> I get up early, <F>ah</F> and I can eat breakfast <SC>and I</SC> with my family and <.></.> clothes washing my mother <nvs>laughter</nvs> works.</B>
+<A>That's great. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <F>uh</F> we are doing a role-play. O K. This one. Please read this card, and when you're ready, I'll begin the conversation. O K?</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading a card.</ctxt>
+<A>Are you ready?</A>
+<B>Yes.</B>
+<A>O K. Hi. May I help you, ma'am?</A>
+<B>Excuse me. <F>Uhm</F> I want snowboard wear.</B>
+<A>O K. <F>Well</F> we have many types of wear here.</A>
+<B><F>Huum</F> I like <.></.> <F>uum</F> green. <F>Huum</F> green color do you have?</B>
+<A>Sure. <F>Well</F> how about this one?</A>
+<B><F>Uum</F> <SC>I like</SC> <.></.> <F>uh</F> <R>I</R> I want <.></.> shorter <nvs>laughter</nvs> than this.</B>
+<A>O K. <F>Well</F> how about this one?</A>
+<B><F>Huum</F>.</B>
+<A>You can try it, if you like.</A>
+<B>O K. Thank you. <F>Huum</F>. May I try it on?</B>
+<A>Sure.</A>
+<B><F>Huum</F>. <.></.></B>
+<A>Looks perfect on you. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs> Thank you</OL>. <F>Uum</F> I want to try red color.</B>
+<A><F>Oh</F>. O K. Here you go.</A>
+<B>That's pretty. <R>I</R> I decided it.</B>
+<A>O K. <F>Uh-huh</F>.</A>
+<B><F>Uum</F>. And I want glove, too.</B>
+<A><F>Oh</F>. O K. <F>Well</F> we have many pairs of gloves here.</A>
+<B><F>Uum</F> <.></.> which is the best?</B>
+<A><F>Huum</F> I guess this one.</A>
+<B><.></.> And but <R>I</R> <R>I have</R> <F>uum</F> <.></.> I have few money.</B>
+<A><F>Uh-huh</F>. <F>Oh</F> don't worry it's on sale.</A>
+<B>It's on sale.</B>
+<A><F>Uhu</F>.</A>
+<B><SC>About</SC> how about?</B>
+<A><F>Well</F> it's half price.</A>
+<B>Half price. <nvs>laughter</nvs> <F>Uh</F> <R>I</R> I will buy snowboard wear and this.</B>
+<A>O K.</A>
+<B><.></.></B>
+<A>So <F>uh</F> <F>well</F> I can give you some discount. And O K, <F>well</F> how about fifteen thousand?</A>
+<B>Fifteen?</B>
+<A>All together.</A>
+<B>Fifteen thousand dollar?</B>
+<A>Yen.</A>
+<B>Yen. <OL><nvs>laughter</nvs></OL> O K.</B>
+<A><OL><nvs>laughter</nvs> <laughter>O K</laughter></OL>.</A>
+<B>I'll pay.</B>
+<A>O K. Here you go.</A>
+<B>Thank you.</B>
+<A>Enjoy it. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Good. <F>Well</F> that is the end of the role-play.</A>
+</task>
+<followup>
+<A><F>Well</F> do you like do shopping?</A>
+<B>Yes. <R>I</R> I bought snowboarding wear yesterday <OL>with my friend</OL>.</B>
+<A><OL><F>Oh</F> really</OL>. O K. Can you tell me about the wear you bought? Tell me about the snowboarding wear?</A>
+<B><F>Uh</F>. O K. <F>Uum</F>. <R>We</R> <.></.> we went to Ochanomizu. <F>Um</F>. <R>We</R> we go to there at five o'clock.</B>
+<A>O K.</A>
+<B>And we <..></..> have chosen at eight o'clock.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uum</F> about for three hours we are puzzled <F>um</F> because of many snowboarding wear. And I decided to buy <.></.> yellow-green color tops and charcoal gray bottoms, and we bought goggle and gloves. <F>Uh</F> and <F>uh</F> <nvs>laughter</nvs> <.></.> different shops <F>um</F> maybe. <..></..> The shop I bought <F>um</F> <..></..> that is reasonable than I bought the shop I bought.</B>
+<A><F>Oh</F> really.</A>
+<B>But I like <.></.> the <R>s</R> snowboard wear <F>um</F> so I bought the shop.</B>
+<A>I see. O K. But you enjoy the shopping. Right?</A>
+<B>Yes.</B>
+<A>O K. Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So finally, I'm going to show you another picture. It is a picture sequence, number one to four, and <F>well</F> I'd like you to make up a story about this picture.</A>
+<B>O K. <F>Huum</F> a boy and a girl <.></.> promised to meet <.></.> zoo. <..></..> The boy likes her and take her <.></.> the zoo. <..></..> They look many animals but she likes lion, so he explains lion's life. And <R>she</R> she want to eat ice cream and so he bought ice cream for her.</B>
+<A>O K.</A>
+<B>And they look <.></.> monkey <nvs>laughter</nvs> <F>um</F> so monkey also eat. <SC>She</SC> the monkey like banana. And the zoo was closed <.></.> time so <R>they</R> <.></.> <SC>they ap</SC> they are apart. <CO>And they are</CO>.</B>
+</task>
+<followup>
+<A>O K. I see. <F>Well</F> do you think zoo is a nice place for date?</A>
+<B>Yes. My friends <F>um</F> went to <.></.> zoo with her boyfriend and she was happy. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs> <laughter>Really</laughter></OL>.</A>
+<B><SC>I hear</SC> I heard.</B>
+<A>O K. How about you? For you? <F>Well</F> where is the nice place for date?</A>
+<B><JP><F>Eh</F></JP>?</B>
+<A>For you.</A>
+<B><R>I</R> I haven't <F>uum</F> gone to zoo with my <R>boy</R> boyfriend, so I want to go. <.></.></B>
+<A>Really. Maybe you can try. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now this is the end of the interview. Thank you very much <OL>for coming</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>So <F>uh</F> <R>w</R> what are you going to do today? What's your plan?</A>
+<B><F>Huum</F> <.></.> after this test <R>I</R> I eat lunch with my friends and I have lesson.</B>
+<A><F>Oh</F> really. O K. So thank you very much and enjoy your lunch and happy holidays. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

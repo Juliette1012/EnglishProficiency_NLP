@@ -1,0 +1,148 @@
+<interview>
+<filename>file00835.txt</filename>
+
+<head version="1.3">
+<date>2002-02-12</date>
+<sex>male</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A><F>Um</F>. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, Mister <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A>O K, how are you today?</A>
+<B><.></.> I'm fine, thank you. And you?</B>
+<A>I'm very well, thank you. <F>Um</F> where do you live now?</A>
+<B>I live <.></.> in Takahagi.</B>
+<A><F>Hum</F> O K. Where is Takahagi?</A>
+<B>Takahagi is <.></.> <SC>Ibaragi</SC> <F>a</F> in Ibaragi.</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> <nvs>laughter</nvs></B>
+<A>O K. <nvs>laughter</nvs> <F>Er</F> <SC>what's the place like</SC> what kind of place is it?</A>
+<B><.></.> It is near the sea.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.></B>
+<A>O K, I see. <F>Um</F>. Do you live with your family in Takahagi?</A>
+<B>Yes.</B>
+<A><F>Uh-huh</F> tell me about your family.</A>
+<B><.></.> My family is only <F>ah</F> <.></.> my wife. <.></.></B>
+<A>I see. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K, if you don't mind, tell me about your wife, please.</A>
+<B><.></.> <F>Er</F> <F>er</F>.</B>
+<A><F>Hum</F> could you tell me about your wife? <F>Um</F>.</A>
+<B><F>Er</F> she is <.></.> very tall.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Same <..></..> <R>a</R> as me.</B>
+<A><F>Uh-huh</F> <F>oh</F> <OL>really</OL>?</A>
+<B><OL><JP>Hai</JP></OL>. Now <SC>she is</SC> <F>mm</F> <.></.> <JP><F>eeh</F></JP> <.></.> she will <R>born</R> born <.></.> next month.</B>
+<A><F>Oh</F> really? <laughter>Congratulations</laughter>. <F>Uum</F>.</A>
+<B>Thank you.</B>
+<A>I see <F>mm</F>. O K. <F>Um</F> how do you help her?</A>
+<B><.></.> <F>Ah</F> <..></..> <F>mm</F> <SC>bu</SC> <laughter>I help</laughter> <JP><F>eeh</F></JP> <..></..> a part of her work.</B>
+<A><F>Hum</F> <F>oh</F> for example?</A>
+<B><JP><F>Eeh</F></JP>. <.></.> Washing the bathtub. <CO>And</CO>. <..></..> <F>E</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see, O K, I understand. <F>Um</F> <F>er</F> what is your hobby?</A>
+<B><.></.> My hobby is tennis. <.></.></B>
+<A>O K, how often do you play it?</A>
+<B><JP><F>Eeh</F></JP> I play tennis <.></.> twice a week.</B>
+<A><F>Uh-huh</F> O K, <F>um</F> are you a good player?</A>
+<B><JP><F>Eeh</F></JP> yes, I am a good player.</B>
+<A><laughter><F>Uh-huh</F> I see</laughter>. Why do you think so?</A>
+<B><JP><F>Eeh</F></JP> <..></..> <JP><F>uunto</F></JP> <..></..> recently <.></.> I can win <JP><F>eeh</F></JP> <.></.> game.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see, all right. <F>Um</F> now I'm going to show you a picture. <R>Look at</R> look at this picture, and tell me anything about this picture, please.</A>
+<B><.></.> A man and a <R>woma</R> woman <SC>is</SC> <F>er</F> are dining.</B>
+<A><F>Uhu</F>.</A>
+<B><..></..> The waiter <..></..> is <?>playing the</?> wine. <..></..></B>
+</task>
+<followup>
+<A>O K, <F>um</F> yeah, that' all right. <F>Hum</F> <F>um</F> do you and your wife have any favorite restaurant?</A>
+<B><..></..> Yes.</B>
+<A>Yes? <F>Hum</F> O K, tell me about that restaurant, please.</A>
+<B><..></..> She likes <..></..> Italian restaurant.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> We often eat <.></.> spaghetti.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see, O K, good. Now, <F>er</F> next, we will do a role-play. So this is your role. I'll be a sales clerk at the shop.</A>
+<ctxt>The interviewee is thinking.</ctxt>
+<A>O K. When you are ready, please start.</A>
+<B><..></..></B>
+<A>So, may I help you?</A>
+<B><nvs>laughter</nvs> <.></.> <JP>Hai</JP> <JP><F>eeh</F></JP>. <..></..> I want tennis racket.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..></B>
+<A>Do you have any specific brand in your mind?</A>
+<B><..></..> I want Wilson's.</B>
+<A>Wilson's, I see. Wilson's is on this shelf. <nvs>laughter</nvs></A>
+<B><..></..></B>
+<A>And here is a newest model.</A>
+<B><..></..> It's good.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs> <..></..> I want one <SC>to</SC> <F>er</F> for professionals.</B>
+<A>Professionals. O K, this newest model is good.</A>
+<B><..></..> Is there another color?</B>
+<A>Color <F>ah</F> O K. <F>Er</F> we have <F>e</F> red and blue.</A>
+<B><.></.> I want red one.</B>
+<A>Red one, yes, O K. <F>Uh-huh</F>. So is it O K?</A>
+<B>O K. <..></..></B>
+<A>So please come to the cash register, <nvs>laughter</nvs> please.</A>
+</task>
+<followup>
+<A>Yes, O K, all right, thank you very much. <F>Hum</F>. So, do you like shopping?</A>
+<B><F>Mm</F> <.></.> I don't like shopping <SC>very</SC> <.></.> so much.</B>
+<A>So much. O K <F>hum</F> so <F>er</F> when you choose tennis racket, O K, what is the most important?</A>
+<B><..></..> Please speak one more <OL>time</OL>.</B>
+<A><OL><F>Uh-huh</F></OL> O K, when you choose a tennis racket</A>
+<B>Tennis racket.</B>
+<A>what is the most important?</A>
+<B><..></..> It is weight.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uh-huh</F> weight, O K, I understand. All right, now, I'm going to show you another picture. O K, look at this picture and this time, please make a short story.</A>
+<B><..></..> a boy and a girl <.></.> went to <.></.> a zoo. <..></..> They <..></..> looked <.></.> <R>at</R> at <SC>la</SC> <F>er</F> <SC>an</SC> <R>a</R> a lion. <..></..> Next, <..></..> they <..></..> look at a <R>mon</R> monkey. <..></..> The monkey was <F>er</F> eating <.></.> a banana. <..></..></B>
+<ctxt>Alarm goes off.</ctxt>
+<A>O K. <F>Um</F>.</A>
+<B><.></.></B>
+</task>
+<followup>
+<A>So, do you think they enjoyed the zoo?</A>
+<B>Yes, <OL>I do</OL>.</B>
+<A><OL><F>Uh-huh</F></OL> O K, all right. <F>Hum</F> so, <F>um</F> when you go to the zoo, what kind of animals do you like best?</A>
+<B><.></.> I like monkeys <OL>the best</OL>.</B>
+<A><OL><F>Uh-huh</F></OL> <F>hum</F> O K, why is that?</A>
+<B><..></..> They are move like human.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see, O K, all right. Interview is almost over now. So <F>um</F> you are going to be a father soon. <nvs>laughter</nvs></A>
+<B>Yes.</B>
+<A>Yes? <F>Hum</F> so, what do you want to do with your first child? <nvs>laughter</nvs></A>
+<B><..></..> I want <SC>to</SC> <.></.> him or her to be healthy.</B>
+<A>Healthy. I see. O K, thank you very much. Interview is over now.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,254 @@
+<interview>
+<filename>file00704.txt</filename>
+
+<head version="1.3">
+<date>2001-10-25</date>
+<sex>male</sex>
+<age>34</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>615</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>O K. <F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>. Nice to meet you.</A>
+<B><F>Ur</F>. Nice to <R>meet</R> meet you.</B>
+<A>O K. How are you today?</A>
+<B><F>Er</F>. Yes. <F>Err</F>. Pretty good.</B>
+<A>Pretty good. That's nice. Mister <F>er</F> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F>. I'm live in <F>err</F> <F>er</F> <SC>na</SC> <R><H pn="others1">XXX03</H></R> <R><H pn="others1">XXX03</H></R></B>
+<A><F>Uhu</F>.</A>
+<B><R><H pn="others1">XXX03</H></R> <F>ee</F> <H pn="others1">XXX03</H> <F>ee</F> <H pn="others2">XXX04</H> City.</B>
+<A>I see. <OL>I see</OL>.</A>
+<B><OL><F>Um</F></OL> <F>ee</F>. I live in <F>ee</F> <JP>nanda</JP> <R>company</R> company mansion <OL>now</OL>.</B>
+<A><OL><F>Um</F></OL> I see. I see. <F>Well</F>, I have never been to <H pn="others2">XXX04</H> City.</A>
+<B><F>Um</F>.</B>
+<A><F>Er</F>. What kind of city is that?</A>
+<B><F>Err</F>. It's nice place <F>uum</F> because <F>uum</F> we have a lot of <F>um</F> big tree. And <F>uum</F> <R>my</R> my house, <F>err</F> <F>um</F> there are <R>many</R> <JP>nantsunokana</JP> many <F>uum</F> <F>uum</F> green fields and park, <R>and</R> <F>uum</F> and <F>uum</F> we have a <F>mm</F> <R>little</R> <F>uum</F> little farms.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. For example, <F>uum</F> <SC>such sma</SC> <F>err</F> we have some small market <F>err</F> that market <F>uum</F> <JP>nanda</JP> <R>provide</R> <R>provide</R> <F>er</F> provide <F>er</F> <F>uum</F> fresh <F>mm</F> vegetable</B>
+<A>Right.</A>
+<B>directly.</B>
+<A>I see. That's nice. Now how do you enjoy your weekends?</A>
+<B><F>Err</F> <F>err</F>. In fact, I have three <SC>child so</SC> <F>er</F> children so <F>um</F> usually we go to <F>uum</F> park <F>uum</F> for my children.</B>
+<A><F>Oh</F>. What do you do there?</A>
+<B><F>Um</F>.What do you do. <F>Uum</F> <F>er</F>. I have <F>uum</F> three children so <F>uum</F> <SC>he</SC> <R>they like</R> <F>uum</F> <F>uum</F> they like <R>play with</R> <F>uum</F> <JP>nanda</JP> <R>play with</R> <JP>nanteiukana</JP> <F>err</F> play with <F>uum</F> <R>ru</R> running and <JP>nanteiukana</JP> <F>err</F> <R>hai</R> <SC>hide play</SC> <F>er</F> <R>hai</R> hide game.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. <R>We</R> we say <JP>kakurenbo</JP>.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>. And <F>uum</F> <JP>nanishiterukana</JP></B>
+<A><F>Uhu</F>. O K.</A>
+<B><laughter>O K</laughter>?</B>
+<A><F>Ur</F>. <CO><OL>Can you tell me more about</OL></CO>.</A>
+<B><OL><R>And</R> and so on</OL>. <?>And that's all</?>.</B>
+<A>I see. Can you tell me more about your children?</A>
+<B>O K. <F>Uum</F>. I have <F>uum</F> three children, you know. <F>Uum</F>. <SC>Top</SC> <F>err</F> I have two son and one daughter.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. <R>Ol</R> <F>er</F> <R>o</R> <R>oldest chi</R> oldest child is five <F>er</F> years old. <F>Ur</F>. And second, <F>ee</F> my daughter is <F>uum</F> three years old.</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. Last, <F>uum</F> <R>ya</R> younger <F>mm</F> child is just ten months.</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL>So</OL> <F>uum</F> <SC>I'm</SC> <F>mm</F> I am tired <OL><nvs>laughter</nvs></OL> every weekend.</B>
+<A><OL><nvs>laughter</nvs></OL> I see. I see. All right. Now thank you very much, Mister <R><H pn="B's name">XXX02</H></R> <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>First of all, I would like to show you a picture.</A>
+<B><F>Um</F>.</B>
+<A>O K? <F>Err</F>. Let's see. O K. Let's do this. <SC>Please</SC> here is a picture, please describe this picture for me.</A>
+<B><F>Um</F> <F>er</F>. O K. <F>Uum</F>. There is <F>uum</F> luxury restaurant. <F>err</F> <SC>One</SC> <F>err</F> <R>some couple</R> <F>err</F> <R>some couple</R> <SC>some couple eaten</SC> <F>err</F> some couple <F>err</F> <R>enjoy</R> <F>uum</F> enjoy <F>ee</F> to have <F>uum</F> maybe dinner. <F>Err</F> <F>ur</F>. <SC>One couple</SC> <JP><F>a</F> janai</JP> <R>one</R> <F>ee</F> <.></.> <F>ee</F> <SC>one couple <F>er</F> su</SC> <F>er</F> sorry, <F>ee</F> <F>uum</F> <JP>nandarona</JP> <JP><F>unto</F></JP> <SC>a waiter</SC> <F>er</F> <F>er</F> <F>uh</F> one waiter <F>err</F> suggest <F>er</F> <F>um</F> <SC>champagne to</SC> <F>ee</F> a good champagne to <F>uum</F> <JP>nanteiukana</JP> <F>err</F> one couple. <F>Err</F> <F>uum</F>. And <F>uum</F> maybe <F>ee</F> <R>that</R> that waiter <F>uum</F> confirm <F>uum</F> the new wine taste. <.></.> <R>And</R> and <?>also</?> so <F>ee</F> this restaurant have a piano.</B>
+<A><F>Um</F>.</A>
+<B><F>Ee</F>. So <SC>they are enjoy</SC> <F>uum</F> <F>ee</F> <F>er</F> <SC>they enjoyed</SC> <F>er</F> they enjoy <F>err</F> having dinner with playing piano. <F>Um</F>.</B>
+<A>All right.</A>
+<B><.></.> <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+</task>
+<followup>
+<A>Now, what kind of restaurant do you like?</A>
+<B><F>Er</F>. I like?</B>
+<A>Yes.</A>
+<B><F>Er</F> <F>uum</F>. I like <F>uum</F> <R>Chinese restaurant</R> <SC>or</SC> <F>err</F> Chinese restaurant.</B>
+<A><OL><F>Um</F>. Why do you <R>like</R> like Chinese <?>plate</?></OL>?</A>
+<B><OL><F>Uum</F> <R>that</R> <F>er</F></OL> <F>er</F> that's because <F>uum</F> <SC>I like</SC> <F>uum</F> <R>I</R> I liked <F>uum</F> Italian or French food, but <F>uum</F> now <SC>we have</SC> <F>er</F> I have <F>mm</F> <R>some children so</R> <F>uum</F> some children so <F>uum</F> <SC>French or Italian restaurant</SC> <F>er</F> in French or Italian restaurant, <F>er</F> <R>we must</R> <F>uum</F> we must be <SC>politely</SC> <F>er</F> polite. <F>Uum</F>. So <F>uum</F> but <SC>Chinese style restaurant</SC> <F>er</F> in Chinese style restaurant, <F>err</F> <SC>we didn't</SC> <F>er</F> <SC>we must not</SC> <F>ee</F> <SC>must not</SC> <R>we didn't have</R> <F>er</F> we didn't have <R>to</R> <F>uum</F> to be quite. So we can relaxed <F>uum</F> in Chinese restaurant.</B>
+<A>I see. I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now next, <SC>I would like to show</SC> <F>er</F> I would like to do a role-play.</A>
+<B><F>Um</F></B>
+<A>Let's see. Right. Here's a card. Please read it to yourself. And when you are ready, I will start.</A>
+<B><.></.> <F>Um</F>.</B>
+<ctxt>The interviewee is reading a card.</ctxt>
+<B>O K.</B>
+<A>O K? All right. Yes, sir. How may I help you?</A>
+<B><F>Uum</F> <JP>doushiyoukana</JP> <SC>I'm looking forward to <F>err</F> sorry</SC>, <F>err</F> <F>um</F> I'm looking for <F>uum</F> <F>ur</F> good wrist watch.</B>
+<A>Good what?</A>
+<B>Wrist watch.</B>
+<A><F>Oh</F>. Watch. O K.</A>
+<B>Wrist watch. So <F>ee</F> <SC>do you have</SC> <F>err</F> <JP>nanteiou</JP> <F>err</F> <F>err</F> <R><R>wha</R> what kind of</R> <F>uum</F> what kind of wrist watch do you have now?</B>
+<A><OL>We have many kinds</OL>.</A>
+<B><OL><F>Er</F>. Many kinds of</OL>. <F>Errm</F> <JP>naninishiyoukana</JP>. O K. So <F>uum</F> <R>I</R> I looking for a casual watch.</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. So <F>uum</F> <F>uum</F> casual watch <F>uum</F> <SC>prai</SC> that price is almost <SC>ten <F>er</F> sorry</SC>, <JP>doregurai</JP> <SC>two</SC> <F>er</F> <SC>one hundred <F>er</F> sorry</SC> <F>uum</F> <SC>hun</SC> <F>mm</F> <R>one thousand</R> <F>uum</F> <SC>one thousand <F>uum</F> <F>er</F> sorry</SC> <..></..> <F>er</F> one hundred thousand <F>uum</F> yen, I hope. So <F>uum</F> and <JP>nanteiunokana</JP> <F>er</F> <R>I want</R> <F>uum</F> <JP>nanteiu</JP> <SC>I want <R>new</R> <F>er</F> new</SC> <.></.> <SC>I want</SC> <F>er</F> I didn't like <F>err</F> so <F>err</F> very <F>err</F> luxury style.</B>
+<A><F>Hum</F>.</A>
+<B>So I hope to <F>uum</F> casual style watch. So would you recommend me such a watch?</B>
+<A>O K. We have lots of different types of casual watch here. And you mentioned one hundred thousand <OL>yen</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>That's pretty high price <OL>for casual watch</OL>.</A>
+<B><OL><F>Um</F> <F>um</F></OL>. O K. <F>Um</F>.</B>
+<A>So you have so many choices here.</A>
+<B><F>Uum</F>. O K. <F>Uum</F> <JP>muzukashina</JP>. O K. <F>Uum</F>. <R>I like</R> <F>er</F> <SC>I like</SC> <F>ee</F> of course I don't like <SC>too casual</SC> <F>er</F> too luxury.</B>
+<A><F>Uhu</F>.</A>
+<B><R>I</R> <R>I want</R> <JP>nanteiunda</JP> <SC>I want <F>uum</F> stylish and <F>uum</F> not so</SC> <F>uum</F> <..></..> I like stylish and <F>um</F> <R>not</R> <F>uum</F> not luxury style.</B>
+<A>O K. All right.</A>
+<B><F>Um</F>.</B>
+<A>Maybe this corner here,</A>
+<B><F>Um</F>.</B>
+<A><F>er</F> we have a few different types of selection <R>for a</R> for gentlemen.</A>
+<B><F>Um</F>.</B>
+<A>Casual,</A>
+<B><F>Um</F></B>
+<A><SC>but not</SC> <.></.> and stylish.</A>
+<B><F>Uhu</F>. But <F>err</F> I want <F>uum</F> wear <F>err</F> in business <OL>time</OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><CO>So</CO> <F>uum</F>.</B>
+<A>O K.</A>
+<B><SC>That design is so</SC> <F>uum</F> <F>er</F> <SC>I didn't like</SC> <F>er</F> I didn't' hope so <F>uum</F> characteristic or very strange type.</B>
+<A><F>Er</F>. I see. All right. Then I recommend you these three types.</A>
+<B><F>Uhu</F> <F>err</F>.</B>
+<A><F>Um</F>.</A>
+<B><JP>Nanigaiika</JP>. <R>I like</R> <F>uum</F> I like <F>uum</F> light, <F>uum</F> <R>not</R> not heavy <F>err</F> watch,</B>
+<A><F>Uhu</F>.</A>
+<B><F>um</F> <F>err</F>. I like. So <F>uum</F> <SC>I want <R>most</R> <F>uum</F> most</SC> <F>um</F> I like <R>light</R> light weight watch.</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+<A><F>Er</F>. In that case, this one, sir,</A>
+<B><F>Um</F>.</B>
+<A>is the lightest.</A>
+<B><F>Um</F> <F>uum</F>. <SC>It</SC> <SC>this <F>err</F> type watch</SC> <F>err</F> <SC>do you have <F>err</F> such a type of watch</SC> <F>ee</F> but I didn't like that color. So do you have <F>er</F> another colors</B>
+<A>Sure.</A>
+<B>watch? <F>Err</F>. So please show me <F>er</F> another colors watch, please.</B>
+<A>O K. Here's a different types. We have three different types.</A>
+<B><F>Um</F>. O K. <OL><F>Er</F></OL>.</B>
+<A><OL><?>They all</?></OL> same style, but <SC>colo</SC> only color is different.</A>
+<B><F>Um</F> <F>mm</F>. May I try to <OL>this one</OL>?</B>
+<A><OL>Sure</OL>.</A>
+<B><laughter>O K</laughter>. Thank you.</B>
+<A>O K? Do you like it?</A>
+<B><F>Uum</F>. Yes. <F>um</F> <R>It's</R> <F>um</F> it's not bad.</B>
+<A>O K.</A>
+<B><F>Um</F>. Excuse me, but <F>er</F> <SC>how many</SC> <F>ee</F> how much is this?</B>
+<A>O K. This is <F>er</F> much lower than you expected. This will cost only fifty thousand yen.</A>
+<B><F>Er</F>. Fifty thousand yen. <OL><F>Err</F></OL>.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><F>Um</F> <F>um</F>.</B>
+<A>But very good quality.</A>
+<B><F>Um</F>. And <F>uum</F> O K. <SC>But <F>uum</F> it's <R>automatical</R> automatical <F>er</F> sorry</SC> <F>err</F> <F>err</F> <SC>this movement is <F>err</F> <F>er</F> sorry</SC>. <.></.> Yes. <F>Um</F>. <.></.></B>
+<A><F>Um</F>. Do you like it?</A>
+<B>Yes, <F>ee</F> I like it.</B>
+<A>O K. <F>Well</F>, <F>urm</F> you can get it, and if you don't like it, you can always refund.</A>
+<B><F>Um</F>.</B>
+<A>O K?</A>
+<B><F>Um</F>. O K. <.></.> <F>Um</F>. <.></.> But <F>mmm</F> <SC>it's</SC> <F>ur</F> I think it's too expensive. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <CO><OL><F>Well</F>, maybe</OL></CO>.</A>
+<B><F>Er</F> <OL><R>Beca</R> <SC>beca</SC></OL> <F>err</F> of course, <F>er</F> <R>I</R> I have <SC>ten</SC> <F>er</F> one hounded thousand yen. <F>Um</F>. But <R>it's <F>uum</F> not so expensive</R></B>
+<A><F>Um</F>.</A>
+<B><F>er</F> it's not so expensive, I think.</B>
+<A>O K. <F>Well</F>, then I will give you sometime.</A>
+<B><F>Um</F>.</B>
+<A>And you can always look around in the store.</A>
+<B><F>Um</F> <OL>O K</OL>.</B>
+<A><OL>So</OL> please <SC>can you tell me</SC> tell me when you decide?</A>
+<B><F>Er</F>. O K.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Uum</F></OL></B>
+<A>Great. Thank you. I will talk to you later then.</A>
+<B><F>Er</F>. O K.</B>
+<A>All right. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>O K. <F>Ur</F>. This is the end of the role-play.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A><nvs>laughter</nvs> O K. Now <F>ur</F> when you go shopping, where do you usually go?</A>
+<B><F>Er</F>. Usually?</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. I don't like shopping.</B>
+<A>Why not?</A>
+<B><nvs>laughter</nvs> Do you like shopping?</B>
+<A>I love it.</A>
+<B>Why? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Well</F>, I'm a woman, I think</OL>.</A>
+<B><F>Uum</F>.</B>
+<A>So how do you get your belongings then?</A>
+<B><F>Uum</F>. But <F>uum</F> example, <F>mm</F> <R>this</R> this suits bought <F>ur</F> ten years ago.</B>
+<A><F>Oh</F>. I see. So you can use your things.</A>
+<B>But <F>er</F> <R>usually</R> <F>uum</F> <.></.> usually I buy <F>er</F> something <R>by</R> <JP>nanteiunokana <F>eeto</F></JP> by <OL>catalog shopping</OL>.</B>
+<A><OL><F>Oh</F></OL> I see. O K. Good. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now lastly, I would like to show you a sequence of pictures.</A>
+<B><F>Um</F>. <nvs>coughs</nvs></B>
+<A><.></.> O K? Here's a picture for you. And <R>I would</R> I would like you to make up a short story,</A>
+<B><F>Um</F>.</B>
+<A>very short story based on these pictures from number one to four.</A>
+<B><F>Um</F>.</B>
+<A>And this happened before.</A>
+<B><F>Um</F>.</B>
+<A>So please start your story with "One day last week".</A>
+<B>One day last week.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>.</B>
+<A>Go ahead. Very quickly.</A>
+<B>O K. Last week, <F>uum</F> <F>er</F> man and woman <F>err</F> went to <F>mm</F> <R>animal museum</R> <F>uum</F> animal museum. <F>Err</F>. First, <F>err</F> they go to <F>err</F> <F>err</F> a lion, and <SC>they talked about <F>er</F> <F>err</F> <JP>nanteiunokana</JP> <F>er</F> sorry</SC> <SC>one</SC> <F>ee</F> the boy <F>er</F> <R>explain</R> <F>err</F> explain about lion. <F>Ur</F> <R>Next</R>, <F>err</F> <JP>nandaro</JP> <F>err</F> next, <R>they go to</R> <F>uum</F> they go to see a monkey. <F>ur</F> <R>The monkey</R> <F>er</F> the monkey eat a banana. <F>Err</F>. And <SC>a man</SC> <F>er</F> <R>a</R> a girl <F>uum</F> had <F>ur</F> ice-cream.</B>
+<A>O K.</A>
+<B><F>Uum</F> <.></.> <JP>nanteiukana</JP> <R>And <laughter>then</laughter></R> and then <F>err</F> they leave a <F>er</F> animal museum. <F>Er</F>. So <F>err</F> <R>they</R> <R>they go to</R> <SC>they go to home</SC> <F>er</F> <R>they go to</R> <F>uum</F> <..></..> <SC>they go to ho</SC> <F>er</F> they go to <F>uum</F> <SC>their house</SC> their each house. <F>Uum</F>. And say good-bye.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>.</B>
+<A>O K. All right. Thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>Now Mister <H pn="B's name">XXX02</H>, this is almost the end of the interview.</A>
+<B><F>Um</F>.</B>
+<A>Now are you going to work late tonight?</A>
+<B><F>Um</F>? <OL><F>err</F></OL></B>
+<A><OL>Going to stay up late</OL>?</A>
+<B>No, no, no. <F>Uum</F>. <CO><OL><laughter>Beca</laughter></OL></CO>.</B>
+<A><OL>You can go home early</OL>?</A>
+<B>In fact, <F>uum</F> <R>yester</R> yesterday my condition is not so good.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>So</OL> <R>I</R> <R>I leave</R> <F>uum</F> I leave <R>earlier</R> earlier yesterday.</B>
+<A><F>Er</F>. O K. So tonight you are going to stay late?</A>
+<B><F>Er</F>. No, no. <CO>So</CO>.</B>
+<A><R>You</R> you can go home tonight early?</A>
+<B><F>Er</F>. Yes, yes, yes, yes.</B>
+<A><F>Er</F>. That's nice. That's nice. <F>Well</F>, so are you recovering from your cold?</A>
+<B><F>Er</F>. Yes. Almost good. <F>Um</F> <OL><F>um</F> <F>um</F></OL>.</B>
+<A><OL><F>Oh</F>. That's</OL> nice. That's nice. <F>Well</F>, take care of your children.</A>
+<B><F>Er</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs> And take them to the zoo, I think</OL>.</A>
+<B><laughter>O K, O K</laughter>.</B>
+<A>O K. All right. Thank you very much. This is the end of the interview.</A>
+<B><F>Er</F>. Thank you very much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

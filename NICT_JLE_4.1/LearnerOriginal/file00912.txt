@@ -1,0 +1,139 @@
+<interview>
+<filename>file00912.txt</filename>
+
+<head version="1.3">
+<date>2001-12-07</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><??></??> <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. So <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine, but <F>uh</F> <SC>I</SC> I'm a little tired because <R>I</R> <F>ur</F> I have to do homework <F>um</F> because <F>uhm</F> <SC>I have <R>com</R> computer</SC> I have computer class in <H pn="school name1">XXX03</H>. I have to <R>compose</R> <F>ur</F> compose my homepage <SC>until</SC> <F>uhm</F> <F>uh</F> by next Thursday. So <F>uhm</F> <.></.> <F>uhm</F> from nine o'clock, <R>I</R> <F>ur</F> I'm in the computer room.</B>
+<A>Right.</A>
+<B>And <R>I</R> <F>uhm</F> <.></.> <SC>I make my</SC> <R>I</R> I was making my <R>home</R> home homepage. <F>Mm</F>. So <SC>I am the</SC> I was little tired and very sleepy.</B>
+<A>I see. So <F>ur</F> you said you are a student at Waseda. So <F>uh</F> what do you usually do after school?</A>
+<B>After school. I belong to <R><JP>Noh</JP></R> <JP>Noh</JP> club.</B>
+<A><F>Mm-hm</F>.</A>
+<B><JP>Noh</JP> is Japanese traditional art. And so <F>ur</F> after school, I directly go to my club room <F>um</F> in <R>students center</R> <F>uh</F> students center. <F>Um</F>. And <F>uhm</F> <SC>I have to</SC> <F>ur</F> I practice <JP>Noh</JP>. <F>Uhm</F>. <SC>Next Sun</SC> <R>next</R> <F>ur</F> next Sunday, I have <JP>Noh</JP> recital so I have to practice hard.</B>
+<A>I see. So what's so interesting about playing <JP>Noh</JP>, or the practicing that?</A>
+<B>When I practice.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urm</F> I like <F>um</F> <JP>Noh</JP>'s <JP>Utai</JP>.</B>
+<A><JP>Utai</JP> is?</A>
+<B><F>Um</F>. <R>Like</R> <F>um</F> like <F>um</F> singing.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So I like <R>the vo</R> the voice of <R><JP>Noh</JP></R> <JP>Noh</JP> players. So <SC>I like</SC> <F>ur</F> <SC>I</SC> I'm very interested in <R><JP>Noh</JP></R> <JP>Noh</JP> players' voice.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F>. <.></.></B>
+<A>Yeah, O K. So <F>um</F> except <JP>Noh</JP>, what are your hobbies?</A>
+<B>Hobby. I like movies.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urm</F> <SC>I</SC> <F>um</F> <F>mm</F> <F>ur</F> the movie theater is near by my house so I often go see movies. <F>Um</F> <.></.> <F>ur</F>. Recently, I have <F>um</F> <JP>Noh</JP> practice <R>on</R> on weekends so I seldom go to see movie.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. So <F>um</F>. O K, thank you very much. So the first thing today, I'm going to show you a picture, so please describe it.</A>
+<B><F>Mmm</F>. She is in her room. And she is <F>huum</F> using computer. And <.></.> there is two animals there. <F>Um</F>. <SC>A dog</SC> there's a dog and a cat. Maybe <R>they are</R> they are her pets. <F>Um</F> <F>um</F>. She show the screen to her pets. <F>Um</F> <F>um</F> <F>uhm</F> <..></..> <F>uh</F>. <SC>Door</SC> the door is open. <R>And</R> and <F>um</F> <R>it's</R> it's nine o'clock. <F>Um</F> <F>um</F> <..></..> <F>um</F>.</B>
+<A><F>Mm</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>So, I'm sure you have your own room, and <F>uh</F> what do you dislike about your room?</A>
+<B>I explain my room?</B>
+<A><F>Uhm</F>. No. You have your own room, you have your room, right?</A>
+<B><F>Uhm</F>. <OL>Yes</OL>.</B>
+<A><OL>O K</OL>. So what do you dislike</A>
+<B>Dislike</B>
+<A>about your room?</A>
+<B>about this room?</B>
+<A>No your room.</A>
+<B><F>Um</F>. Dislike. <F>Uhm</F> <F>uhm</F> <F>uhm</F>. <..></..> Sorry. <F>Ur</F> I have to explain <SC>my</SC> about my room?</B>
+<A>No. <F>Uhm</F>. What are things you don't like about your room?</A>
+<B><.></.> <F>Uhm</F> <..></..> <F>uhm</F>. Actually, I have nothing <F>uhm</F> because <F>urr</F> I everyday try clean my <?>hard</?> room. <F>Uhm</F>. And my room is very large. <CO><SC>And</SC> <F>huum</F> <F>uhm</F> so but I have to <F>huum</F> <..></..> <R>dislike</R> dislike</CO>.</B>
+<A><F>Uhm</F> <F>ur</F>. What do you usually do in your room to relax yourself?</A>
+<B><F>Uh</F> I often listen to music. <R>I like</R> <F>uh</F> I like Utada Hikaru so often I listen to <R>her</R> her songs. And <F>uhm</F> I like writing story. <F>Uhm</F> <F>uhm</F>. <R>So</R> <..></..> <F>uhm</F> so <F>uhm</F> I like Japanese literature. So <F>uhm</F> <..></..> <SC>have to try</SC> <F>uhm</F> <F>uh</F> <R>I</R> <SC>I <R>try to</R> <F>um</F> try to long story</SC> <SC>I have to</SC> <F>uh</F> I try to write long story.</B>
+<A><F>Uhh</F> I see.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Thank you very much. So the next thing, we are going to do a role-play. So please read this <?>yellow</?> card in Japanese. And <F>ur</F> when you are ready, please let me know.</A>
+<ctxt>The examinee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K. So <F>um</F> good afternoon. How can I help you?</A>
+<B><F>Urr</F> I want to go New York</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> by train. So <F>um</F> <..></..> <F>um</F> I want to buy ticket from here to New York.</B>
+<A>O K.</A>
+<B>So <F>urr</F> <.></.> how much <R>is</R> is it?</B>
+<A><F>Uhm</F>. We have two types of trains to go to New York.</A>
+<B>Two types?</B>
+<A>Right.</A>
+<B><SC>What</SC> please explain two types train. What is two types?</B>
+<A>Two kinds of trains to go to New York.</A>
+<B><F>Uh</F>. <..></..> <R>Two</R> two kinds. <SC>One is</SC> <F>um</F> <SC>what is</SC> <F>uh</F> <SC>which is more</SC> <F>uhm</F> <R>which is</R> <SC>which is</SC> <F>uh</F> <R>I want</R> I want to go New York right now. <SC>So please more</SC> <F>um</F> <..></..> <F>um</F> <..></..> <F>uh</F> <R>I want</R> I want to buy express train.</B>
+<A>O K.</A>
+<B>Two types is one is express train, <??></??> and normal train?</B>
+<A>That's right.</A>
+<B>Yeah. I want to ride <F>um</F> express train.</B>
+<A>O K.</A>
+<B><F>Uhm</F> I want to buy the ticket</B>
+<A>O K.</A>
+<B>express train.</B>
+<A>O K.</A>
+<B>So <..></..> <F>uhm</F>. <..></..> can I buy the ticket?</B>
+<A>Sure.</A>
+<B><.></.> <F>Mm</F>.</B>
+<A>So <F>uh</F> how many tickets do you need?</A>
+<B>I need one ticket.</B>
+<A>O K. So here you go. And I hope you have a <F>uh</F> wonderful trip to New York. O K. Thank you very much. So this is the end of the role-play.</A>
+</task>
+<followup>
+<A>So, <F>urm</F> do you sometimes go traveling?</A>
+<B><F>Mmm</F>. Yeah. <F>Um</F>. This summer vacation, <SC>I visit</SC> <F>uh</F> <R>I</R> I went to Kumano in Wakayama. <F>Uhm</F>. <SC>Next</SC> <F>uh</F> O K, <SC>Kumano</SC> <SC>I</SC> I'm interested in Kumano history very much. So <F>ur</F> <SC>there is</SC> <F>uhm</F> <.></.> last week, <F>ur</F> <SC>I have</SC> I had <JP>Noh</JP> recital. <F>Um</F>. <SC>This</SC> <F>ur</F> <SC>I act</SC> I performanced <JP>akiginu</JP>. <R>It</R> <SC>it</SC> this story from Kumano. <SC>I research</SC> <F>uh</F> I <SC>go</SC> went to Kumano for research.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Mm</F>. <..></..></B>
+<A>So was it fun?</A>
+<B><F>Ah</F>. Yes. It was very fun.</B>
+<A>O K. Good. All right, thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So the last thing today, <F>uhm</F> I want you to make a story using these six pictures from one to six. And this story was happened last week. So please start your story with "One day last week," O K? Go ahead.</A>
+<ctxt>The examinee is looking at the pictures.</ctxt>
+<B><F>Uum</F>. One day last week, <SC>I</SC> <F>uh</F> <R>she</R> <.></.> <F>mm</F> she wake up at nine o'clock. And she was very hungry, but <F>um</F> there is no food <R>in</R> in the refrigerator. So <F>ur</F> <SC>she go to</SC> <F>uh</F> she went to supermarket to buy some foods for <F>uhm</F> <R>bre</R> <F>um</F> breakfast. And <R>she</R> <..></..> <F>uhm</F> she bought a <R>lot of foods, and</R> <.></.> <F>um</F> <..></..> lot of foods, <R>and <.></.> <F>uhm</F> <..></..> <F>um</F> <F>um</F> <.></.> she</R> <F>uhm</F> <.></.> and <F>uh</F> <R>she went</R> she went back home by car. <.></.> <F>Um</F> after <.></.> <SC>she wen</SC> <R>she</R> <F>mm</F> she <SC>ca</SC> came back home, <SC>she cooked</SC> <F>um</F> she cook the breakfast. <..></..></B>
+<A><F>Mm</F>. All right. Thank you very much.</A>
+</task>
+<followup>
+<A>So what is your favorite recipe?</A>
+<B>Recipe. <F>Ahh</F> I don't like cooking, but <F>uhm</F> <.></.> my mother often cook stew. So I like it so <F>urm</F> before <SC>I</SC> <F>uhm</F> my mother <SC>tea</SC> <F>uh</F> taught me he recipe. This is my only recipe <R>I</R> I can cook.</B>
+<A><F>Uh</F>. Really? All right. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So <F>uh</F> we are almost at the end of the interview. So <F>uh</F> do you have any plans for tonight?</A>
+<B>Tonight.</B>
+<A><F>Mm</F>.</A>
+<B><F>Urr</F>.</B>
+<A>Are you going to cook a stew? <nvs>laughter</nvs></A>
+<B><laughter>No</laughter>. <F>Uhm</F>. <SC>After</SC> <F>urr</F> maybe after <SC>I <??></??> go</SC> <F>uh</F> I'll back home, <F>mmm</F> I have to do homework, <F>uh</F> Chinese homework. And after that, <F>mmm</F> if I have extra power, <F>um</F> <F>um</F> I want to see <F>uh</F> some movies.</B>
+<A><F>Mm-hm</F>. O K. So, <F>ur</F> I hope you have a wonderful night, and thank you very much for coming in today. <OL>This is the end of</OL> the interview.</A>
+<B><OL>Thank you very much</OL>.</B>
+</stage5>
+</body>
+</interview>

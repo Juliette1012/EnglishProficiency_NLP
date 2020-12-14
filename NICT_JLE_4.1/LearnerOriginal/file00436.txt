@@ -1,0 +1,298 @@
+<interview>
+<filename>file00436.txt</filename>
+
+<head version="1.3">
+<date>2001-04-17</date>
+<sex>male</sex>
+<age>36</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>400</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good morning.</A>
+<B>Good <laughter>morning</laughter>.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B><R><H pn="A's name">XXX01</H></R> <R><H pn="A's name">XXX01</H></R> <OL><H pn="A's name">XXX01</H></OL>?</B>
+<A><OL><H pn="A's name">XXX01</H></OL>. Yes.</A>
+<B><F>Uh</F> I'm <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Uh</F>. <CO><R>Yes, I</R> <SC>yes, I</SC></B>
+<A>Thank you.</A>
+<B><SC>yes you do</SC> <OL>yes you</OL></CO>.</B>
+<A><OL>Thank you</OL>. O K. How are you feeling today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F> <SC>I could</SC> <F>er</F> <F>eh</F> <F>uh</F> I had a headache <F>ah</F> last night.</B>
+<A><F>Oh</F> <OL>that's too bad</OL>.</A>
+<B><OL>So <SC>I'm</SC></OL> <R>I fi</R> I feel so <SC>good</SC> bad. <OL><F>Ur</F></OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>And my wife was sick in bed <F>er</F> <SC>until</SC> <F>ur</F> from <R>last</R> <R>last</R> last night.</B>
+<A><F>Hmm</F> I see. That's too bad. <OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Oh</F></OL> yes.</B>
+<A><F>Hmm</F>.</A>
+<B>I feel <R>s</R> so-so bad. <nvs>laughter</nvs></B>
+<A>I see. <F>Hmm</F> O K. Do you have any children?</A>
+<B><F>Ah</F> <R>no</R> no. <R>We</R> <R>we</R> we don't have children.</B>
+<A>O K. So, tell me about your wife a little bit.</A>
+<B>A little bit? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><F>Ah</F> <R>she</R> <SC>she was</SC> <F>uh</F> <R>she is</R> she is <R>thirty</R> thirty-five years old. And <F>eh</F> <F>ah</F> <R>we</R> <SC>we <R>met</R> <F>ur</F> <R>met</R> met her</SC> <F>uh</F> I met her <F>ur</F> at sports <SC>club</SC> gym <F>mm</F> <SC>la</SC> <F>er</F> before ten years ago.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Uhm</F></OL> and <R>we</R> we were playing squash <F>uh</F> there. And <R>she</R> <R>she</R> she was <F>uhm</F> <R>so-so</R> so-so pretty. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Mm</F> <R>not</R> not beautiful, <OL><F>ur</F> I think</OL>.</B>
+<A><OL><F>Oh</F> I see</OL>. O K. Why do you decide to play squash?</A>
+<B><F>Oh</F> when I entered the sports gym,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> <R>I</R> <R>I</R> <F>hm</F> <R>I saw</R> I saw the other people playing squash.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Er</F> <SC>s</SC> <F>hm</F> <R>I</R> I felt <F>oh</F> <R>i</R> <SC>i</SC> this sports was <F>er</F> <F>mm</F> <F>urm</F> mysterious,</B>
+<A><F>Hmm</F>.</A>
+<B><F>uhm</F> because <F>er</F> <F>erm</F> <R>two</R> <SC>two pe</SC> <F>uh</F> <R>there</R> there were two person <F>er</F> <SC>in the</SC> in the box,</B>
+<A><F>Uh-huh</F>.</A>
+<B><laughter>and</laughter> <F>er</F> <SC>playing <F>ur</F> th</SC> throwing a racquets and hit the ball.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Uhm</F> <R>I</R> I felt <SC>it's a mysterious</SC> it was <OL>mysterious</OL>.</B>
+<A><OL><F>Hmm</F></OL> I see. What kind of physical strengths are necessary for playing squash?</A>
+<B><F>Ah</F> <R>i</R> <R>if</R> if <R>we</R> <R>we</R> <R>we</R> <SC>we play</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> <F>uh</F> <R>we</R> we play and enter the tournament, <F>ur</F> then <R>we</R></B>
+<ctxt>Phone rings.</ctxt>
+<B><R>we have</R> we have to <R>get</R> get <R>the</R> <F>mm</F> the physical <F>ur</F> <R>thi</R> things <OL><R>and</R></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><nvs>laughter</nvs></B>
+<ctxt>Both interviewer and interviewee are annoyed by the phone.</ctxt>
+<A>I see.</A>
+<B>and <R>i</R> if we enjoy</B>
+<A><F>Uh-huh</F>.</A>
+<B>squash,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>erm</F> so <R>we</R> <R>we</R> <SC>we don't <SC>have</SC> have to get</SC></B>
+<ctxt>Knocking.</ctxt>
+<B><F>hm</F> <nvs>laughter</nvs> <F>mm</F> <R>we</R> we don't have</B>
+<ctxt>Phone rings.</ctxt>
+<B>to get <F>er</F> <F>hm</F> <F>mm</F> stress.</B>
+<A><F>Oh</F> I see. <F>Hm</F> so playing squash is helpful to you?</A>
+<B><F>Ah</F> <F>ah</F> <laughter>yes</laughter>. Probably, <R>yes, I</R> yes, I do.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>O K. Good. O K. Besides playing squash, what are your hobbies?</A>
+<ctxt>Phone rings.</ctxt>
+<B><F>Ur</F> hobbies? <R>My</R> <SC>my hobbies</SC> <F>ur</F> <F>er</F> my hobby is taking a <R>bath</R> <OL><nvs>laughter</nvs></OL></B>
+<A><F>Umm</F>.</A>
+<B>bath and <R>I</R> <F>uu</F> <R>I</R> <F>hm</F> <F>er</F> I like to go to <SC>hos</SC> <F>mm</F> hot springs, <F>mm</F> somewhere <OL><F>er</F></OL></B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><R>to</R> <R>to</R> to relax myself.</B>
+<A><F>Oh</F> yeah. O K. <SC?>E</SC?> recommend me</A>
+<B>Yes.</B>
+<A>one of the good hot springs</A>
+<B><nvs>laughter</nvs></B>
+<A>you have ever been.</A>
+<B>Have been?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>I have been to</SC> <F>er</F> recently, <SC>I</SC> <JP>dokodakke</JP> <F>uh</F> <F>uh</F> <R>I</R> <R>I</R> <R>I</R> I've been Hatsu Island near Atami.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F> <F>hmm</F> <F>mm</F> <?>and</?> near Atami. <nvs>laughter</nvs> <R>We</R> we <SC>went <R>to</R> to there</SC> <F>uh</F> went there <F>eh</F> by <R>li</R> little ship. <F>Uhm</F> <F>um</F> yeah. <SC>Spring</SC> <F>uh</F> I felt <SC>s</SC> hot spring <F>ur</F> salty</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>uhm</F></OL> <SC>to</SC> <F>hm</F> <R>wh</R> when I drank</B>
+<A><F>Mh-hmm</F>.</A>
+<B>it.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Mh-hmm</F> I see. That's interesting. O K. Good. O K. I'm going to show you a picture now.</A>
+<B><SC><JP>Hai</JP></SC> yes.</B>
+<A><ctxt>The interviewer is taking out a picture.</ctxt> O K. Can you describe this picture for me?</A>
+<B><F>Erm</F> it is sunshine. <nvs>laughter</nvs> The girl playing rope near <.></.> her house. And <SC>there wa</SC> there are two dogs <F>ur</F> <F>hm</F> and <F>eh</F> two kids playing with their balls <F>ur</F> like volleyball. <F>Eh</F> a gentleman running through the road. And <nvs>laughter</nvs> <F>ah</F> an old gentleman <R>ri</R> reads a newspaper on the bench.</B>
+<A><F>Umm</F>.</A>
+<B>And <F>er</F> <nvs>sigh</nvs> <R>cat</R> <R>cat</R> cat is sleeping <R>on</R> on the car because it was hot. <nvs>laughter</nvs></B>
+<A>Good.</A>
+<B>And <R>two</R> two beautiful ladies <F>er</F> conversation <F>ur</F> to <F>uhm</F> <R>about</R> <F>uu</F> about their families. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hm</F></OL>.</A>
+</task>
+<followup>
+<A>Good. O K. Thank you, <H pn="B's name">XXX02</H>. O K. Does your wife do like this often?</A>
+<B><CO>This of</CO>.</B>
+<A>Does your wife</A>
+<B>Yes.</B>
+<A>chat with other house wives</A>
+<B><F>Ah</F>.</B>
+<A><SC>near</SC> in your neighborhood often?</A>
+<B><F>Hm</F> <F>uhm</F> probably yes,</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>we</OL> do. <OL>But</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><R>sh</R> <SC>she is s</SC> she <SC>studying and</SC> <F>uu</F> <F>er</F> <F>uh</F> <R>s</R> studying <F>uu</F> <F>hm</F> <R>someone</R> <laughter><SC>someone</SC></laughter> something. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mh-hmm</F> <F>mh-hmm</F> <F>mh-hmm</F></OL>.</A>
+<B><R>S</R> so, <F>er</F> <F>er</F> <R>she</R> she is not <R>in</R> in house.</B>
+<A><F>Oh</F> I see. Can you compare this house to your house you live with your wife?</A>
+<B><F>Ah</F> <F>erm</F> <R>m</R> <SC>my</SC> <F>uh</F> <R>we li</R> we <R>live in</R> <F>em</F> live in <JP>nandarou</JP> <R>building</R></B>
+<A><F>Hmm</F>.</A>
+<B>building. And <R>tha</R> <R>that is</R> that is not apartment. <laughter>That is a</laughter> mansion.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mh-hmm</F>. So <F>uh</F> <SC>please</SC> <R>p</R> <SC>please <R>te</R> <R>tell</R> tell</SC> <F>er</F> <F>hm</F> please repeat <laughter>your question</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> sure</OL>. O K. O K. Tell me the similarities <OL>or</OL></A>
+<B><OL><F>Eh</F></OL>.</B>
+<A>differences</A>
+<B>Yes.</B>
+<A>between this house and your <OL>apartment house</OL>.</A>
+<B><OL><F>Oh</F> <R>my</R> my house</OL>?</B>
+<A>Yes.</A>
+<B><F>Ah</F> <F>hum</F> <F>hum</F> <F>hum</F> <F>hum</F> <F>er</F> maybe <R>the</R> <SC>their <R>ha</R> house</SC> <F>ur</F> this house <SC><OL>is</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>four</SC> has four rooms,</B>
+<A><F>Uh-huh</F>.</A>
+<B>maybe. And <R>two</R> two floors.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <R>we</R> <SC>we</SC> <R>my</R> <F>hm</F> <R>my house</R> my house is, one, two, three, <F>uh</F> <SC>three hou</SC> <F>uh</F> three rooms</B>
+<A><F>Uh-huh</F>.</A>
+<B>only. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. O K. Thank you, <H pn="B's name">XXX02</H>. That's the end of this picture. Then, let's do a role-play.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. Please read this card to yourself.</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><OL>And</OL> when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Hm</F> yes.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Uh</F> <F>uh</F></OL> I'm <F>hm</F> passenger?</B>
+<A>Sure.</A>
+<B><F>Uh</F> yes.</B>
+<A>O K. Hello, sir. How may I help you?</A>
+<B><F>Ah</F> <R>I</R> I want to go to New York <F>er</F> A S A, <SC>as a possible</SC> <R>as su</R> as soon as possible.</B>
+<A>Sure.</A>
+<B>And <.></.> please <R>te</R> <R>tell</R> tell me <F>er</F> how to get the ticket for New York by train.</B>
+<A><F>Hm</F> you can buy a ticket from me.</A>
+<B>From me? <laughter><JP>A sokka</JP></laughter>. <F>Uh</F> yes, yes. <laughter><F>Er</F></laughter> and <SC>how</SC> <R>ha</R> <F>hm</F> how much does it cost to buy ticket for New York?</B>
+<A><F>Mh-hmm</F>. <F>Well</F> we have two types of trains.</A>
+<B>Yes.</B>
+<A>One is a local train.</A>
+<B>Yes.</B>
+<A>And the other one is express <OL>train</OL>.</A>
+<B><OL><F>Uh-huh</F></OL>. <F>Ah</F> <R>we</R> we have a lot of time. <OL>So</OL></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><F>er</F> <R>we</R> we want to get <F>er</F> local train tickets, <OL>please</OL>.</B>
+<A><OL>Sure</OL>. <F>Mh-hmm</F>. O K. That's twenty dollars from here to New York.</A>
+<B>Twenty dollars?</B>
+<A>Yes. For one person.</A>
+<B><F>Ah</F> <F>oh</F> <F>uh</F> <F>hm</F> <R>we</R> <R>we</R> we will go to New York <OL>with</OL></B>
+<A><F>Mh-hmm</F>.</A>
+<B>my wife.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>er</F> please give us two tickets, <OL><R>one</R></OL></B>
+<A><OL>Sure</OL>.</A>
+<B>one way.</B>
+<A>Sure. That will be forty dollars.</A>
+<B>Forty dollars?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><laughter><F>Ah</F> <F>oh</F></laughter> O K.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> <F>mm</F> <.></.> <R>c</R> <R>can I</R> can I use credit card, please?</B>
+<A><F>Oh</F> I'm sorry. We cannot accept credit cards. It's a station.</A>
+<B>Yes. <F>Ah</F> cash <laughter>only</laughter>.</B>
+<A>By cash. Yes.</A>
+<B><F>Oh</F> O K. <F>Er</F> <F>eh</F> <R>forty</R> <SC>forty dollars,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>ur</F> I will <R>give</R> give you</SC> <JP>janaina</JP> I will give you forty dollars.</B>
+<A>O K. Thank you.</A>
+<B><JP><SC>Hai</SC></JP> yes. <OL><?>Yes</?></OL>.</B>
+<A><OL>O K</OL>. So these are your tickets.</A>
+<B>Thank you.</B>
+<A>O K. For you and for your wife.</A>
+<B>Thank you very <OL>much</OL>.</B>
+<A><OL>O K</OL>. Have a very good time to New York.</A>
+<B><F>Uh</F> you are welcome.</B>
+<A><F>Mh-hmm</F>. <OL>O K, good</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you. That's the end of the role-play.</A>
+<B><F>Uh</F> O K.</B>
+</task>
+<followup>
+<A>Good. <H pn="B's name">XXX02</H>, do you like traveling?</A>
+<B><F>Oh</F> yes, yes, <F>er</F> yes, I do.</B>
+<A><F>Hmm</F> tell me the last trip you made with your wife.</A>
+<B><F>Ah</F> <F>erm</F> <R>honestly</R> honestly to say, <nvs>laughter</nvs> <laughter><R>I</R> <R>I</R></laughter> I want to go somewhere <F>er</F> <SC>only one</SC> only me. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> why is that</OL>?</A>
+<B><F>Uh</F>?</B>
+<A>Why?</A>
+<B><laughter>Why</laughter>? <F>Er</F> <R>I</R> <R>I like</R> <R>I like</R> <F>eu</F> <F>hm</F> I like to be one person, <OL><R>on</R></OL></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><R>only</R> <SC><OL>only</OL></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B>me</SC> <laughter>only</laughter>.</B>
+<A><F>Hmm</F> <OL><F>hmm</F></OL>.</A>
+<B><OL>And</OL> <R>we</R> <F>uu</F> <SC>we</SC> <F>uh</F> <SC>I</SC> my wife and I <SC>went to</SC> <JP>dokoitta</JP> went to <F>oh</F> Hatsu Island.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Uh</F></OL> <F>uhm</F> <R>last</R> last year</B>
+<A><F>Umm</F>.</A>
+<B>with <SC>my</SC> our friends</B>
+<A><OL>Good</OL>.</A>
+<B><OL>by</OL> local train</B>
+<A><F>Mh-hmm</F>.</A>
+<B>to Tokyo from Atami.</B>
+<A><F>Hmm</F> good. Did you have a good time?</A>
+<B><F>Oh</F> <SC>it's a</SC> <F>oh</F> <F>uhm</F> I have relaxing time to take a hot spring.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Good. <OL>O K, thank you</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Now, I'm going to show you a picture lastly.</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>O K. This time, <H pn="B's name">XXX02</H>, please make a story based on these pictures. When you are ready, you can start.</A>
+<B><F>Uhm</F> <R>we</R> <F>er</F> we promised to go to <R>zee</R> zee <F>eh</F> <R>la</R> <F>ur</F> last week. And <SC>we met</SC> <F>eh</F> <R>we</R> <R>we</R> <F>mm</F> we met <F>er</F> in front of zee. So <F>urm</F> first, <R>we are</R> we are walking around the <SC>see</SC> zee, and <F>ur</F> <R>we</R> <R>we s</R> we saw a lion and <R>we</R> <.></.> <R>we</R> <R>we wer</R> we were chatting the lion's life, and <F>hmm</F> <SC>the lion</SC> <SC>what kind of <F>hm</F> things does lions</SC> <F>hm</F> <R>what</R> what does lion <SC>thinking</SC></B>
+<A><F>Umm</F>.</A>
+<B>think about.</B>
+<A><F>Mh-hmm</F> <OL>good</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uhm</F> <F>ee</F> so <SC>we</SC> maybe <F>er</F> <R>he</R> <SC>he</SC> <F>ur</F> <R>li</R> <R>lion is</R> <.></.> <F>ur</F> lion is wanted to eat us.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> And <F>uhm</F> <R>n</R> <R>n</R> next, <F>er</F> <SC>we are</SC> we were <F>uhm</F> walking to monkey's gage,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and then <SC>emp</SC> <R>m</R> monkey eats bananas <laughter>and</laughter> so <F>mm</F> my girlfriends says, "<R>I</R> I'd like to eat <R>some</R> <F>mm</F> something.". So, <F>er</F> <laughter><F>ah</F></laughter> <R>I</R> I bought her <F>er</F> ice cream <R>tha</R> <R>that</R> <SC>that was</SC> that she liked. <laughter>And</laughter> lastly, <F>eh</F> <R>we</R> we have a good time and we enjoyed <R>to</R> <R>to</R> to date <R>in the</R> in the <R>zee</R> zee.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So, <F>eh</F> we <R>said to</R> said to <F>mm</F> <laughter><R>good-bye</R></laughter></B>
+<A>Good. <OL>O K</OL>.</A>
+<B><OL>good-bye</OL>.</B>
+</task>
+<followup>
+<A>Thank you. Thank you for the story.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A><OL>Now</OL>, we are towards the end of the interview, <H pn="B's name">XXX02</H>. So,</A>
+<B>Yes.</B>
+<A>after this, are you going back to your work?</A>
+<B><F>Uh</F>. <CO><R>Y</R> <R>yes</R> yes, I</CO>. Work? No, no, no, no, no, no. I will take a lunch.</B>
+<A><F>Oh</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Sure</OL>, it's almost lunch time <OL>now</OL>.</A>
+<B><OL><F>Uh</F> <?>lunch time</?></OL>.</B>
+<A>O K. Please have a very good lunch. And then, please have a very good time today.</A>
+<B>Yes. Thank you.</B>
+<A>Thank you very much for coming.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>That's</OL> the end of the <OL>interview</OL>.</A>
+<B><OL><F>Uh</F></OL>.</B>
+<A>Yes. Thank you.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

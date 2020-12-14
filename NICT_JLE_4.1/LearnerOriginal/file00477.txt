@@ -1,0 +1,168 @@
+<interview>
+<filename>file00477.txt</filename>
+
+<head version="1.3">
+<date>2001-06-23</date>
+<sex>female</sex>
+<age>16</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>3</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><SC>My</SC> I'm <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>Where do you live?</A>
+<B><F>Mm</F>. I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Hum</F> <F>wow</F>. Far away. <nvs>laughter</nvs></A>
+<B>Yes.</B>
+<A>Please tell me about <H pn="others1">XXX03</H>.</A>
+<B><H pn="others1">XXX03</H>? <F>Uum</F>. <..></..></B>
+<A>Do you like it?</A>
+<B><F>Eh</F>. Yes, I like.</B>
+<A><F>Um</F>. Why?</A>
+<B><F>Uum</F> <F>um</F>. <SC>Natural</SC> <SC>nat</SC> <F>uum</F> <SC>green</SC> <SC>green</SC> <SC>many green is there</SC> <R>there</R> there're many greens, and <F>um</F> <F>uum</F> <.></.> <JP><F>unto</F></JP> <R>ox</R> oxygen is very <R>good</R> good and delicious.</B>
+<A>Really? <F>Uhm</F>. I see. So you are a student?</A>
+<B>Yeah. <F>Err</F>. Yes. <.></.> But I went to Yokohama school.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A><F>Um</F>. Please tell me about your school.</A>
+<B>My school?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Uum</F>. <.></.> My school students is very honest. <F>Uum</F>. Teachers and student is very friendly. So I like it.</B>
+<A>I see. O K. Can you describe your class room?</A>
+<B>Class room?</B>
+<A><F>Um</F>. What does it look like?</A>
+<B><F>Err</F>. <CO>My class is</CO>. <F>Uum</F>. <.></.> <F>Uum</F>. <.></.> They <SC>cheerfully</SC> cheerful. <F>Um</F>. <.></.> <F>Uum</F>. All <SC>st</SC> classmate is very kind to me.</B>
+<A>I see. O K. And, <.></.> are you in any sports club or activities?</A>
+<B><F>Er</F>. I joined <JP>igo</JP> club.</B>
+<A><F>Oh</F>. What's fun about <JP>igo</JP>?</A>
+<B><JP>Igo</JP>? <F>Uum</F>. Very interesting. <F>Uum</F>. <CO>It is used</CO>. <F>Uum</F>. <.></.> <F>Uum</F>. <..></..> <F>Uum</F>. I'm sorry.</B>
+<A><nvs>laughter</nvs> It's O K. All right. <F>Um</F>. Outside of the school, how do you play with your friends?</A>
+<B><F>Uum</F>. <.></.> Outside school, <F>hmm</F> I have no friends.</B>
+<A><F>Oh</F>. <nvs>laughter</nvs></A>
+<B><F>Uum</F>. Outside the school.</B>
+<A><F>Oh</F>.</A>
+<B>But, <F>err</F> <R>when I was</R> <F>uum</F> <.></.> when I was <.></.> <F>uum</F> <.></.> junior high school student, <SC>is</SC> <F>um</F> live <SC>in my</SC> near my home. So I sometimes <SC>meeting</SC> meet them.</B>
+<A><F>Hum</F>. O K. All right. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, the first thing, I want you to do is to look at this picture.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL>, please tell me about this picture.</A>
+<B><.></.> <F>Uum</F>. <.></.> <SC>She is si</SC> she is in her room. And she have a cat indoor, and dog indoor. <F>Uum</F> <F>umm</F>. <.></.> <R>She</R> <.></.> <SC>she</SC> <..></..> cat is on the bed. She sit down in front of personal computer. <F>Uum</F>. <.></.> <F>Uum</F>. <.></.> <F>Uum</F>. <.></.> She have computer. <CO>She have</CO>. <.></.> <F>Uum</F>. <.></.> I'm sorry.</B>
+<A><F>Um</F>. It's O K. Thank you.</A>
+</task>
+<followup>
+<A>So, do you use a personal computer?</A>
+<B>Yes.</B>
+<A><F>Hum</F>.</A>
+<B><F>Uum</F>. I used <R>E-mail</R> E-mail with my host family.</B>
+<A><F>Oh</F>. Your host family?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Tell me about that.</A>
+<B><F>Uum</F>. My host family</B>
+<A><F>Uh-hm</F>.</A>
+<B>is <F>uum</F> one <R>mo</R> mother, and one father, and <R>one</R> one daughter, my host sister. <F>Uum</F>. Mother is <F>uhm</F> <SC>very</SC> <.></.> language specialist.</B>
+<A><F>Uh-hm</F>.</A>
+<B>She can speak English, and Spanish, and Japanese, and so on. <F>Um</F>. She is very <.></.> <F>uum</F> kind. <R>She is</R> <F>uum</F> she is kind of me very much.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Uum</F>. <SC>Father <R>is</R> <F>uum</F> <.></.> <SC>is</SC> can all things</SC> <SC>he can all</SC> he can do all things <SC>his</SC> himself. <R>He</R> he can cook and <.></.> take care of <F>uum</F> his pets. And <R>he</R> <R>he</R> he is computer technician. He have four <JP>pasokons</JP>, personal computers. <F>Uum</F>. <SC>My</SC> and my host sister is <F>uum</F> <.></.> twelve years old. Same <R>my</R> <SC>my son</SC> <SC>my</SC> no no, my little brother. <R>Same</R> same old. And she is very cheerful girl. <R>She</R> <R>she like</R> <F>um</F> <R>she like</R> she like to play horseback riding. <F>Um</F>. <CO>And <R>she</R> <F>um</F> <F>um</F> <SC>she is very</SC> <R>she is</R> <.></.> <F>uum</F> <.></.> she is</CO>. <.></.> <F>Uum</F>. I'm sorry I <??></??>.</B>
+<A>Don't worry. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, we are going to do a role play.</A>
+<B>Yes.</B>
+<A>O K?</A>
+<B>Yes.</B>
+<A>I want you to read this card. It's in Japanese. O K? Read it quietly. And, when you are ready, we'll start the role play.</A>
+<B><.></.> <F>Um</F>? <R>One</R> one more please.</B>
+<A>Read it quietly. O K?</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K. I see.</B>
+<A>O K? All right. So, may I help you?</A>
+<B><F>Uum</F>. I want to go to New York.</B>
+<A><F>Uh-hm</F>.</A>
+<B>So I want to a ticket to New York.</B>
+<A><F>Uh-hm</F>.</A>
+<B>So <R>I</R> <F>uum</F> <.></.> <SC>I <.></.> als</SC> <F>uum</F> I want to go to New York <F>uum</F> <R>as</R> as fast as possible.</B>
+<A>O K.</A>
+<B><SC>Go</SC> <F>mm</F> so <SC>I</SC> <R>which</R> which ticket <R>I</R> I should buy?</B>
+<A>The fastest train</A>
+<B>Yes.</B>
+<A>is the super express.</A>
+<B>Yes. <F>Er</F>. I see. <F>Um</F>. <..></..> How much is this cost?</B>
+<A>One ticket is one hundred dollars.</A>
+<B>O K. I see. Thank you very much.</B>
+<A>O K. So you want one ticket?</A>
+<B>Yes.</B>
+<A>O K. <F>Um</F>. What time?</A>
+<B><F>Um</F>?</B>
+<A>What time do you want to leave?</A>
+<B><F>Uum</F>. <.></.> <F>Uum</F>. <.></.> <F>Uum</F>. <.></.></B>
+<A>There is a train in ten minutes. Do you want that?</A>
+<B>Yes.</B>
+<A>O K, O K. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>It's a hundred dollars. <nvs>laughter</nvs> And here is your ticket.</A>
+<B>Thank you.</B>
+<A>That's the end of the role play. All right?</A>
+</task>
+<followup>
+<A><F>Uum</F>. <.></.> Have you been to New York?</A>
+<B><.></.> <F>Um</F> <F>uum</F>. <.></.> No, I haven't.</B>
+<A>No.</A>
+<B>Yeah.</B>
+<A><F>Um</F>. When you travel, do you like to take the train or airplane?</A>
+<B><F>Um</F>. No. <.></.></B>
+<A>Which do you like better train or airplane?</A>
+<B>Travel?</B>
+<A><F>Uh-hm</F>.</A>
+<B><.></.> <F>Uum</F>. <.></.> Train.</B>
+<A>Why do you like the train?</A>
+<B><.></.> <F>Uum</F>. <.></.> I often use <?>those</?> train. <CO>So I'd <?>like</?></CO>.</B>
+<A>I see. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, the last thing I want you to do is to look at <.></.> this picture sequence. O K? But the pictures are one, two, three, four. O K?</A>
+<B>O K.</B>
+<A>And, please make a story.</A>
+<B>Story?</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<A>O K?</A>
+<B>O K. <.></.> <F>Uum</F>. <.></.> <F>Uum</F>. There are three people, <F>um</F> friends. And they planned to go to watch cinema. <F>Um</F>. So <SC>they go</SC> they went to the theater. <F>Uhm</F>. <.></.> <SC>She</SC> <F>er</F> <SC>they want</SC> they bought three ticket. And they <R>bought</R> <F>uum</F> bought foods to watch cinema. <F>Uum</F>. <.></.> Popcorn and cola, and so on. So <.></.> <R>they</R> <SC>they watch</SC> <F>er</F> <.></.> <R>they</R> <.></.> <F>uhm</F> <.></.> they watched cinema <F>uum</F> which is <F>err</F> <.></.> trouble of <.></.> <R>pla</R> plane. <.></.> <SC>So</SC> and, <F>ur</F> after the cinema, they talked about the <.></.> <SC>plane trouble</SC> <R>cinema</R> cinema's feelings.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. So we are almost finished with the interview.</A>
+<B>Yeah.</B>
+<A>What are you going to do today?</A>
+<B><F>Um</F>. <.></.></B>
+<A>After this?</A>
+<B><F>Err</F>. <R>I</R> <.></.> <F>uum</F> I will go home.</B>
+<A><nvs>laughter</nvs> I see. And relax?</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs> O K. Thank you. All right.</A>
+</stage5>
+</body>
+</interview>

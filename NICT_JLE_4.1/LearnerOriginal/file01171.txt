@@ -1,0 +1,224 @@
+<interview>
+<filename>file01171.txt</filename>
+
+<head version="1.3">
+<date>2002-07-09</date>
+<sex>female</sex>
+<age>37</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. <F>Er</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>. Nice to meet you.</B>
+<A>Nice to meet you, too. <F>Err</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A><F>Uhu</F>. O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine, thank you.</B>
+<A>It's very hot today.</A>
+<B>Yeah. <F>Um</F> <F>er</F> <laughter>but</laughter> <R>I</R> <F>err</F> <SC>I don't</SC> <R>I</R> <SC>I don't</SC> <F>er</F> I didn't go out <F>um</F> <SC>my office</SC> from my office.</B>
+<A><F>Um</F>. I see. Because it's very hot?</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. So do you work?</A>
+<B><F>Uum</F> yes.</B>
+<A><F>Um</F> tell me about your job.</A>
+<B>My job? <F>Uum</F> <R>I</R> I work at <F>uum</F> publishing company</B>
+<A><F>Uhu</F>.</A>
+<B>for <F>um</F> business magazine and books at <H pn="others1">XXX03</H>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F> but <R>I</R> <R>I'm</R> I'm not so busy. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>Yes.</B>
+<A>What is the difficult part of your job?</A>
+<B>Part. <F>Uum</F> <F>err</F> <R>I</R> <..></..> <F>um</F> <R>I</R> I'm <SC>assistant <F>um</F> so</SC> <F>um</F> assistant.</B>
+<A><F>Uhu</F>. I see. <F>Er</F> in your free time, what do you do?</A>
+<B><F>Er</F> <F>uum</F> <SC>I</SC> sometime <F>uum</F> <.></.> <F>uum</F> <R>I sing</R> I <R>sing</R> <F>um</F> sing <F>er</F> classic song and <SC>play</SC> playing the piano.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. <R>And</R> <F>uum</F> and <R>I like</R> <F>uum</F> I like to go swimming.</B>
+<A><F>Hum</F>.</A>
+<B>It's <??></??> to pool.</B>
+<A>I see.</A>
+<B><F>Um</F>.</B>
+<A>How did you know how to play the piano?</A>
+<B><laughter>Piano</laughter>?</B>
+<A><F>Um</F>.</A>
+<B><laughter>But piano <R>is</R> <R>is not</R></laughter> <R>is not go</R> is not <R>good</R></B>
+<A><F>Hum</F>.</A>
+<B>good at.</B>
+<A>I see. Good. By the way, where do you live?</A>
+<B><F>Um</F> I live in <H pn="others2">XXX04</H> Ward</B>
+<A><F>Uhu</F>.</A>
+<B>from this <F>um</F> April.</B>
+<A><F>Uhu</F>. I see.</A>
+<B>Before I <R>lived</R> lived in <H pn="others3">XXX05</H> City <SC>with <R>my</R> my</SC> with my father.</B>
+<A><F>Hum</F>.</A>
+<B><SC>Now <F>um</F> he <SC>live</SC> lived</SC> <F>um</F> <F>uum</F> now he live in <F>ee</F> <SC><H pn="others4">XXX06</H></SC> <F>uum</F> <R><H pn="others4">XXX06</H></R> <R><H pn="others4">XXX06</H></R> <F>um</F> <R><H pn="others4">XXX06</H></R> <R><H pn="others4">XXX06</H></R> <R><H pn="others4">XXX06</H></R> <H pn="others4">XXX06</H> City in <H pn="others5">XXX07</H> with my brother's family.</B>
+<A>I see. <F>Uhu</F>. Tell me about your father.</A>
+<B>Father? <nvs>laughter</nvs> My father is very gentle.</B>
+<A><F>Uhu</F>.</A>
+<B>And <SC>he's</SC> <R>he</R> <F>err</F> he likes <F>uum</F> <R>potte</R> <F>er</F> pottery.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>Um</F></OL> <SC>he make</SC> <F>um</F> he often make <F>uum</F> Japanese bowl.</B>
+<A><F>Hum</F>.</A>
+<B>And <F>um</F> flower vase.</B>
+<A>I see. <F>Um</F> that's good. O K. Thank you very much.</A>
+<B>Thank you.</B>
+</stage1>
+<stage2>
+<task>
+<A>Now I want you to look at this picture.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>And</OL> please describe this picture.</A>
+<B><F>Um</F> "this like"?</B>
+<A><OL><F>Oh</F> please explain</OL>.</A>
+<B><OL><F>Er</F> <F>um</F> <R?>explain</R?></OL> explain.</B>
+<A><F>Uum</F>.</A>
+<B><F>Um</F>. <F>Er</F> <.></.> <F>um</F> <nvs>laughter</nvs> <F>um</F> <R>she</R> <F>err</F> <R>she likes</R> she likes <F>uum</F> to use computer. <R>And she had</R> and she had a dog and a cat. And <F>ah</F> she used <F>uum</F> typewriter, too. <F>Uum</F> <F>ah</F> <.></.> maybe she work in her house because <F>um</F> that time is <F>uum</F> about nine <.></.> A M. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><F>Um</F>. <F>Uum</F> <F>um</F> <F>ah</F> maybe she <.></.> is <F>uum</F> scenario writer. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. O K.</A>
+<B><OL>Yeah</OL>.</B>
+</task>
+<followup>
+<A><OL>Can you</OL> compare this room with your own room?</A>
+<B><F>Uum</F> <.></.> I don't have computer and typewriter. <R>And</R> <F>uum</F> and <R>I</R> I don't have <SC>dog</SC> dogs and cats <F>um</F>. <.></.> And I have audio sets <F>um</F> and telephone. <.></.></B>
+<A>I see.</A>
+<B><F>Um</F>.</B>
+<A><F>Erm</F> you said you live in <H pn="others2">XXX04</H>.</A>
+<B>Yeah.</B>
+<A>And <SC>can you compa</SC> <F>err</F> why did you decide to live there?</A>
+<B>Decided?</B>
+<A><F>Um</F>.</A>
+<B><R>I</R> <R>I have</R> <F>uum</F> <SC>I have <F>um</F> piano <F>uum</F> but <F>uum</F> <F>uum</F> <.></.> an apartment</SC> <F>um</F> <F>uum</F> <F>um</F> <F>uum</F> <F>um</F> <F>err</F> I live <SC>in</SC> at <H pn="others6">XXX08</H> near <H pn="others7">XXX09</H> Station.</B>
+<A><F>Um</F>.</A>
+<B><SC><H pn="others7">XXX09</H> Station ne</SC> <F>ah</F> <F>ah</F> <JP>asoko nanda</JP> <JP><F>eeto</F></JP> <H pn="school name1">XXX10</H> <SC>ne</SC> <F>um</F> <F>um</F> is near <H pn="others7">XXX09</H> Station. <SC>Na</SC> <R>I</R> I have a piano <SC>I can</SC> <R>I</R> <SC>I can play</SC> I search <F>uum</F> <SC>to play the piano</SC> <?>apart</?> piano can play. <OL>Yeah</OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><F>Um</F>.</B>
+<A>O K. Thank you very much.</A>
+<B>Yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next we'll do a role-play.</A>
+<B>Yeah.</B>
+<A>And <.></.> I want you to read this card.</A>
+<B>Shopping.</B>
+<A>And <SC>I</SC> after you finish reading, I'll start.</A>
+<B><F>Um</F> <F>um</F> <??></??>.</B>
+<A><F>Um</F>?</A>
+<B><CO>I</CO>.</B>
+<A>I'll start.</A>
+<B><F>Um</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>O K.</B>
+<A><F>Uhu</F>. O K. Hi. May I help you?</A>
+<B><R>I</R> <F>um</F> I want <R>to</R> to look for <F>uum</F> <.></.> brother's clothes. <F>Uum</F> do you have <F>uum</F> any sweater?</B>
+<A>Yes. Here we have so many kinds of sweaters.</A>
+<B>Sweaters. <F>Uum</F> <F>uum</F> O K. <F>Um</F> <R>but</R> <F>um</F> <F>um</F> <SC>but too</SC> <F>uum</F> but <F>um</F> this is too big. <F>Um</F> do you have <F>uum</F> <R>su</R> smaller than it?</B>
+<A><F>Uhu</F> <OL>yeah</OL>.</A>
+<B><OL><R>Mi</R></OL> middle size, <OL>please</OL>.</B>
+<A><OL><R>O K</R></OL> O K. These are <OL>middle size sweater</OL>.</A>
+<B><OL><??></??></OL>. <F>Hum</F> O K. <F>Um</F> do you have <F>uum</F> else color sweater?</B>
+<A><F>Uhu</F>. O K. Here are different colors.</A>
+<B><F>Oh</F> <?>that's good</?>. <..></..> O K. Please take it.</B>
+<A><F>Uhu</F>. <F>Er</F> do you want to know the price?</A>
+<B><F>Um</F> good.</B>
+<A>O K. So this is about eight thousand yen.</A>
+<B><F>Uhu</F>. O K. <R>May I</R> may I pay <?>at</?> credit card?</B>
+<A>Sure. O K. So this is your card</A>
+<B><F>Uhu</F>.</B>
+<A>and this is the sweater. <OL>O K</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+<B><OL><R>Thank</R></OL> thank you very much.</B>
+</task>
+<followup>
+<A>O K. Thank you. So this is the end of the role-play.</A>
+<B><F>Um</F>.</B>
+<A><F>Uum</F> when you buy something for your father</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>how you decide</OL> <laughter>which one to buy</laughter>?</A>
+<B><F>Uum</F> <F>um</F> <laughter><R>I</R></laughter> <F>um</F> <R>I</R> <F>err</F> <F>um</F> <..></..> <R>I</R> I bought a <F>um</F> hat <F>um</F> for him.</B>
+<A><OL><F>Uum</F></OL>.</A>
+<B><OL><F>Um</F></OL> last Christmas present. <R>He likes</R> he likes <F>uum</F> <F>um</F> red color.</B>
+<A><F>Err</F>.</A>
+<B><F>Um</F>.</B>
+<A>Why does he like red color?</A>
+<B><F>Uum</F>. <R>I</R> I don't know. <CO>But <F>uum</F> <R>I</R> I think <R>he</R> <F>um</F> he <F>uum</F> <.></.> <F>uum</F> <JP>nante ittakana</JP> <SC>I don't like</SC> <F>uum</F> <SC>I don't</SC> <F>er</F> <R>I</R> I thought he</CO>. <F>Uum</F>. Sorry. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K that's O K</OL>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Next <F>um</F></A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>I want</OL> you to <F>er</F> look at this picture.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>And</OL> please make up <F>er</F> a story</A>
+<B><OL>Story</OL>.</B>
+<A><OL>based on</OL> these pictures from one to six.</A>
+<B><F>Uhu</F>.</B>
+<A>And this happened last week. So please start your story with <F>er</F> "One day last week".</A>
+<B><F>Um</F>.</B>
+<A>And just brief short story is O K.</A>
+<B>Yeah.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Uum</F>. <.></.></B>
+<A>O K?</A>
+<B><F>Um</F> one day last week, <F>um</F> I and my boyfreind <nvs>laughter</nvs> <F>err</F> walked near <R>my</R> my house. <F>Um</F> <F>um</F> and it was rainy day. <F>Um</F> when we walked <F>uum</F> <F>uum</F> <SC>near my</SC> <F>er</F> street near my house <F>uum</F> <.></.> <F>uum</F> <R>he</R> he heard <F>er</F> anything songs. We <F>um</F> <SC>look</SC> <F>er</F> looked for around. <F>Uum</F> <SC>there is</SC> <R>there</R> <R>there</R> <F>um</F> there was <R>a cat</R> <F>er</F> a cat <F>uum</F> <F>uum</F> on street in the box. <SC>I</SC> <F>er</F> <F>um</F> <F>uum</F> the cat, <R>it</R> <SC>it is</SC> it was very cute and <F>uum</F> <F>um</F> child. I want to have it. But <R>my</R> <F>er</F> my boyfriend <F>um</F> <SC>is</SC> don't want not to. <R>I</R> <..></..> <SC>I tu</SC> I <F>uum</F> decided to have a cat. He was troubled. <nvs>laughter</nvs> But <SC>he</SC> <F>uum</F> <F>uum</F> <SC>the</SC> at last <F>um</F> <R>he</R> <F>uum</F> he <SC>decided to have</SC> <R>decided</R> decided to have a cat <SC>with you</SC> with me.</B>
+<A><F>Hum</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Tell me about the last time you saw an animal.</A>
+<B><F>Err</F> <SC>I can</SC> <R>I</R> <R>I</R> <R>I like <F>um</F> dogs</R> <F>um</F> I like dogs. <F>Uum</F> before, I had <F>uum</F> two dogs.</B>
+<A><F>Oh</F>.</A>
+<B>Yes.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>Um</F></OL>. It's very <F>uum</F> cute.</B>
+<A><F>Hum</F>. I see. How did you <F>er</F> decide to keep that dogs?</A>
+<B><OL><F>Uum</F></OL>.</B>
+<A><OL>Where</OL> did you get them?</A>
+<B><F>Err</F> first time, I bought at pet shop.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>uum</F> <F>um</F> <SC>the dog <F>uum</F> have</SC> <F>er</F> a dog had <F>uum</F> <R>four</R> four children</B>
+<A><F>Um</F>.</A>
+<B>in my house.</B>
+<A><F>Uhu</F>.</A>
+<B>and <R>I</R> I didn't leave one child. And we had two dogs.</B>
+<A><F>Hum</F>. I see. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Err</F> this is almost the end of today's interview. So do you like animals?</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><laughter>I love it</laughter>.</B>
+<A>But you don't have any pets right now?</A>
+<B><F>Uum</F> no.</B>
+<A>I see.</A>
+<B><R>I</R> I can't <R>have</R></B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>have</OL> <F>uum</F> in my apartment.</B>
+<A>But you can play the piano.</A>
+<B><laughter><F>Er</F> yeah</laughter>.</B>
+<A><OL><laughter>That's good</laughter></OL>.</A>
+<B><OL><laughter>Yeah</laughter></OL>. Yes.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>O K</OL>. Thank you.</A>
+</stage5>
+</body>
+</interview>

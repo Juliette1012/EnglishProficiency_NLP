@@ -1,0 +1,166 @@
+<interview>
+<filename>file01151.txt</filename>
+
+<head version="1.3">
+<date>2002-07-08</date>
+<sex>male</sex>
+<age>26</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, <OL>please</OL>.</B>
+<A><OL>O K</OL>. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>Yeah, it's fine.</B>
+<A>O K. <F>Eeh</F> so <H pn="B's name">XXX02</H>, what do you do?</A>
+<B><.></.> <F>Er</F> my occupation?</B>
+<A><F>Hm</F>.</A>
+<B><F>Erm</F> <SC>my</SC> <F>er</F> I'm student. <F>Er</F> my major is International Economics.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> I'm student in <H pn="school name1">XXX03</H>.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> degree is master two.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> next year, I will graduate <F>er</F> the university.</B>
+<A><F>Um</F>.</A>
+<B>That's all.</B>
+<A>I see. Why did you choose this major?</A>
+<B><F>Er</F> because <F>er</F> I'm interested in <R>environ</R> environment. And when I was undergraduate school, <F>er</F> my major was <F>er</F> management, <F>mm</F> but now, <F>er</F> my <F>er</F> interested in environment and trade. And <F>er</F> now, <F>er</F> I study <F>er</F> international economics and environmental economics.</B>
+<A>I see. Next year, you are graduating. What are you going to do after graduation?</A>
+<B><F>Er</F> <R>I</R> I will go to France to study <F>er</F> more. <F>Er</F> <R>I</R> I will study <R>practi</R> practical <F>er</F> <R>commerce</R> commerce and in the future, <F>er</F> I will <F>er</F> work <F>er</F> in France.</B>
+<A><F>Ah</F> that's nice. Are you good with French?</A>
+<B>Yes. <F>Er</F> two years ago, <F>er</F> <R>I</R> <F>er</F> I have return to Japan. For two years, <F>er</F> I was in France.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Er</F> in France, <F>er</F> I studied economics and management <F>er</F> in University <SC><H pn="school name2">XXX04</H></SC> of <H pn="school name2">XXX04</H>.</B>
+<A><F>Hmm</F>. I see. O K. Then, <F>er</F> what do you like to do when you have free time here in Tokyo?</A>
+<B>In Tokyo? <F>Mm</F>. <.></.> <F>Er</F> I like shopping <F>er</F> in book store or C D store. <F>Eh</F> and <SC>I walk</SC> <F>um</F> <R>I</R> <R>I</R> I like walk <F>er</F> in Shinjuku or Shibuya,</B>
+<A><F>Um</F>.</A>
+<B>or Roppongi.</B>
+<A><F>Ah</F> you said you buy C Ds. What kind of music do you like?</A>
+<B><F>Er</F>. I like <F>er</F> <SC>domes</SC> <F>er</F> Japanese singer and foreign singer. <F>Er</F> for example, <F>er</F> for Japanese singer, I like Utada Hikaru, <F>er</F> because I like her voice and I think <F>er</F> she is good singer.</B>
+<A><F>Hmm</F>. Yeah. Do you sing?</A>
+<B><laughter>No</laughter>. <R>I</R> <F>er</F> <R>I</R> <F>er</F> <R>I'm not</R> <F>er</F> I'm not good at <R>sing</R> singing.</B>
+<A>I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then,</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>please describe this picture.</A>
+<B><F>Er</F> <.></.> the situation is the school. <F>Er</F> <R>in</R> in the classroom, <F>er</F> there are many student and one <SC>woman s</SC> woman teacher. I think the class is for <R>math</R> mathematics. <F>Er</F> <.></.> <SC>fe</SC> a few student, he study hard but <F>er</F> many student, they are not interested in <R>mathema</R> mathematics, I think. And two woman talks <F>er</F> each other and <R>one</R> one student, he drinks the juice <F>er</F> <R>with</R> with <F>er</F> listening the music. And one student, he eat chewing gum. <F>Er</F> I think <R>he</R> he doesn't listen to <SC>tea</SC> <F>er</F> the class. That's all.</B>
+</task>
+<followup>
+<A>O K. <F>Hm</F>. <F>Er</F> would you please tell me one of your classes now?</A>
+<B>Now?</B>
+<A><F>Hmm</F>. You take classes <OL>in <H pn="school name1">XXX03</H></OL>.</A>
+<B><OL><F>Uh</F> <R>in</R> in <H pn="school name1">XXX03</H></OL>.</B>
+<A>Right?</A>
+<B>Yes. <F>Er</F> <R>in gra</R> in graduate school, <F>er</F> <R>there</R> there are not many student. <F>Er</F> on average, in the class, <F>er</F> <R>four s</R> four student. And <..></..> my major is International Economics, and the class of International Economics, <F>er</F> there are <SC>three s</SC> <F>uh</F> four student. <F>Er</F> <SC>a week</SC> <R>per</R> per a week, <F>er</F> one student, <F>er</F> <R>we</R> <R>we have to</R> <F>er</F> we have to speech for our interest and we have make resume. That's all.</B>
+<A><F>Hm</F>. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then next, please read this card and when you are ready, let's do a role-play.</A>
+<B>Role-play.</B>
+<A><nvs>cough</nvs></A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B><F>Er</F> <OL>yes</OL>.</B>
+<A><OL>Hello</OL>. May I help you, sir?</A>
+<B>Yes. <F>Er</F> <R>I</R> <R>I</R> I want a book about <F>er</F> French. <F>Er</F> next month, I will go to France and <R>I</R> I will buy the book for guide book in France.</B>
+<A><F>Hm</F>. O K. Then there's <F>um</F> <F>er</F> guide books here.</A>
+<B><F>Er</F>. <CO>Which is the <SC>most bought</SC> <SC>mo</SC> <F>er</F> the best-seller <OL>about the</OL></CO>.</B>
+<A><OL><F>Hmm</F> this one</OL> sells very <F>well</F>.</A>
+<B><F>Er</F> how much?</B>
+<A><F>Er</F> two thousand yen.</A>
+<B>Two thousand yen. And I want a cheaper.</B>
+<A><F>Hmm</F>. Then how about this one, one thousand <OL>yen</OL>.</A>
+<B><OL><laughter>One thousand yen</laughter></OL>. But I think <F>mm</F> <SC>i</SC> <R>there are no</R> there are not much information. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Hum</F>.</A>
+<B><F>Er</F> I want the book, <R>much</R> much more information and not so much expensive. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>And <nvs>laughter</nvs> its write in Japanese.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>Because</OL> <F>er</F> <R>I</R> I can't understand English and <.></.> French.</B>
+<A><F>Hmm</F>. Then, this is the only choice for you.</A>
+<B><F>Oh</F> <laughter>thank you</laughter>. <F>Er</F> it's very match for me.</B>
+<A>O K. Thank you. And how would you like to pay?</A>
+<B><F>Er</F> <..></..> in card. <nvs>laughter</nvs></B>
+<A>O K. Here you go. Thank you very much.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL>.</A>
+</task>
+<followup>
+<A><F>Hm</F>. O K. So, do you buy guide books before you travel?</A>
+<B>Yes. <F>Er</F> in Japan and in France,</B>
+<A><F>Um</F>.</A>
+<B>I bought <F>er</F> some guide books.</B>
+<A><F>Hmm</F>. I see. And you travel. O K. Please tell me about one nice place in France.</A>
+<B>In France? <OL><F>Er</F></OL>.</B>
+<A><OL>Which you traveled</OL>.</A>
+<B>I like Paris and Nice. <F>Er</F> <R>I wi</R> I will talk about Paris. <F>Er</F> the Paris is the most famous city in the world and <R>there are</R> there are most tourists in the world, I think. <F>Er</F> the Paris is very nice because <F>er</F> in Paris, <F>er</F> there are classic and modern. <F>Er</F>. <.></.> It's very much mixed. <F>Er</F> <SC>i</SC> <F>er</F> I like that. And <.></.> <R>in</R> in Paris, <F>er</F> there are many <SC>sh</SC> mode shop. <F>Err</F> for example, Chanel and Louis Vuitton. <F>Er</F> but <nvs>laughter</nvs> <F>er</F> <.></.> <R>in</R> <R>in</R> in those shop, <R>there are</R> there are many Japanese and there are a few foreigners, I think.</B>
+<A><F>Um</F>.</A>
+<B><CO>And <.></.> inter</CO>.</B>
+<A>O K. Then, which do you like better, Paris or Tokyo?</A>
+<B><laughter><F>Er</F></laughter> <R>I</R> I prefer Paris because <..></..> <F>er</F> I did <R>s</R> say before, <F>er</F> in Paris, <F>er</F> <R>there</R> <F>er</F> there are <F>er</F> <R>classics</R> <SC?>classic <?>show</?></SC?> <F>uh</F> <R>classic</R> classic things and modern things.</B>
+<A><F>Um</F>.</A>
+<B>It's very much mixed. And <.></.> <R>in</R> in Tokyo, for me, it's <SC>very</SC> <F>er</F> too modern and <R>the</R> <F>er</F> there are not so much classic things.</B>
+<A>I see. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, finally, let's do this. Please make a story using these six pictures.</A>
+<B>Yeah.</B>
+<A>Please start with "One day last week," because it happened last week.</A>
+<B>Yes. <SC>One day last week</SC> <R>it</R> it's me? <OL>No</OL>?</B>
+<A><OL><F>Hmm</F></OL>. Sure. Anyone <OL>is O K</OL>.</A>
+<B><OL><F>Er</F></OL> <R>it</R> it rained. And <R>I</R> I walked with my girlfriend. <R>We</R> we had umbrellas. <F>Um</F> <R>I</R> I heard the sound and I looked there. <F>Er</F> <R>the</R> <R>there</R> there was a children cat. My girlfriend, <F>er</F> she caught it and we talked about it. <R>She</R> she demanded me to have our home, and I accepted it and we returned to my home.</B>
+<A><F>Um</F>.</A>
+<B><OL>That's all</OL>.</B>
+</task>
+<followup>
+<A><OL>O K</OL>. O K. <F>Um</F>. Thank you. <H pn="B's name">XXX02</H>, <F>er</F> do you have a pet?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. What kind of pet <OL>do you have</OL>?</A>
+<B><OL><F>Er</F></OL> I had one dog.</B>
+<A><F>Hmm</F>. O K. <F>Er</F> do you have any problems with the dog? Or difficulties?</A>
+<B><laughter>Difficulties</laughter>? <F>Er</F> <.></.> <SC>we</SC> in our home, we have one dog and <SC>we ha</SC> <SC>we could</SC> we can't go to trip <.></.> <F>err</F> because <SC>one</SC> at least one person,</B>
+<A><F>Err</F>.</A>
+<B><F>er</F> will take care of it.</B>
+<A>I see. <F>Hmm</F>. <.></.> And you take care of it?</A>
+<B><F>Er</F> me and my parents.</B>
+<A><F>Ah</F> I see. <F>Hm</F>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>. We are almost at the end of the interview. But what are you going to do this weekend?</A>
+<B>This weekend? <F>Er</F> I will study because <F>er</F> <R>last</R> last week, <SC>I had</SC> <F>uh</F> I have one test for Macro Economics. <F>Er</F> I'm not good at Macro <laughter>Economics</laughter>. <F>Er</F> after this test, <F>er</F> I will <SC>study for Ma</SC> <F>er</F> study Macro Economics, too.</B>
+<A><F>Ah</F>. You study a lot.</A>
+<B>Yes.</B>
+<A>You always study. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes, I always study</OL>. It's my life. <nvs>laughter</nvs></B>
+<A>I see. <F>Hmm</F>. O K. Thank you very much for coming.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>And</OL> have a nice weekend.</A>
+<B>Have a nice weekend.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

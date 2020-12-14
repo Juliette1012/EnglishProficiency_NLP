@@ -1,0 +1,183 @@
+<interview>
+<filename>file00730.txt</filename>
+
+<head version="1.3">
+<date>2001-10-26</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's start. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><F>Um</F>. O K. <H pn="B's name">XXX02</H>, <F>uh</F> where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>-<JP>ku</JP>.</B>
+<A><F>Hum</F>.</A>
+<B><R><H pn="others2">XXX04</H></R> <.></.> <H pn="others2">XXX04</H> <nvs>laughter</nvs> <.></.> <H pn="others3">XXX05</H>.</B>
+<A>I see. Do you live with your family?</A>
+<B>No. I live alone.</B>
+<A><F>Ah</F> I see. Do you like to live alone?</A>
+<B>No. <nvs>laughter</nvs></B>
+<A><F>Hm</F>.</A>
+<B><F>Um</F>. My boyfriend <.></.> come,</B>
+<A><F>Er</F>.</A>
+<B>my house.</B>
+<A><F>Er</F> I see. <F>Um</F>. Tell me about your boyfriend.</A>
+<B><F>Uum</F>. My boyfriend is shy. <nvs>laughter</nvs> <CO><SC>But I like <.></.> him <.></.> such a</SC> <..></..> <nvs>laughter</nvs> <JP><F>eeto</F></JP> he is</CO>. <..></..> <laughter>I don't know</laughter>.</B>
+<A><F>Uum</F>. O K. <F>Er</F>. Then, <F>er</F> your hometown and where you live now, how different are they?</A>
+<B><F>Err</F>. <CO>Different from</CO>. <F>Uum</F> <.></.> <JP><F>eeto</F></JP>. <..></..> I don't notice <OL>it</OL>.</B>
+<A><OL><F>Um</F></OL>. <F>Oh</F> you don't notice. O K. <F>Well</F> then, do you have any part-time job?</A>
+<B>Part-time job? Yes.</B>
+<A>What do you do?</A>
+<B>I worked at <?>baked</?> shop.</B>
+<A><F>Err</F>. <F>Hm</F>?</A>
+<B><SC>I</SC> <JP>regi</JP>.</B>
+<A><F>Hum</F>. <OL>What do you</OL> like about your job?</A>
+<B><OL><??></??></OL>. What do you like? <..></..> I don't know <JP>sekkyaku</JP> in English.</B>
+<A><F>Um</F>. <F>Oh</F> anything is O K. <F>Hum</F>. O K. <F>Hm</F>. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then, I'll show you a picture. Please describe this picture.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A><F>Um</F>. Please tell me anything about this picture.</A>
+<B>There are three people in the center. So <nvs>sniff</nvs> <R>they</R> <.></.> they're in the restaurant. So enjoy <R>eating</R> eating or drinking <SC>or</SC> <R>some</R> something, wine,</B>
+<A><F>Um</F>.</A>
+<B>or brandy. So maybe I think they are <.></.> dating. <..></..></B>
+<A>O K.</A>
+</task>
+<followup>
+<A>Do you like this kind of restaurant?</A>
+<B>Yes.</B>
+<A><F>Hum</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Why?</A>
+<B><.></.> I like <laughter>wine</laughter>.</B>
+<A><F>Hum</F>.</A>
+<B>So <..></..> <F>hm</F> <..></..> I like eating dinner listening <.></.> piano.</B>
+<A><F>Err</F> O K. Yes. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role-play. Please read this card. And when you are ready, I'll start the conversation.</A>
+<B><F>Hm</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>Hi.</B>
+<A>Hello?</A>
+<B><OL>Hello</OL>?</B>
+<A><OL><H pn="A's name">XXX01</H></OL> speaking.</A>
+<B><.></.> <H pn="B's name">XXX02</H>.</B>
+<A><F>Er</F> hi, <H pn="B's name">XXX02</H>.</A>
+<B>Shall I go to cinema with me?</B>
+<A>O K. Sure.</A>
+<B><SC>How</SC> <.></.> <JP><F>uunto</F></JP> <R>what time do you</R> <.></.> <JP><F>uunto</F></JP> <..></..> what time <R>do you like</R> <..></..> do you like go to cinema?</B>
+<A><F>Um</F>. Anytime is O K. How about you?</A>
+<B><F>Uum</F>. <SC>I</SC> <..></..> three o'clock.</B>
+<A>O K.</A>
+<B><nvs>sniff</nvs> <laughter><F>Uh</F> thank you</laughter>. <nvs>sniff</nvs> <.></.> How do you go to cinema?</B>
+<A><F>Er</F>. Where is the <SC>cinema</SC> movie theater?</A>
+<B><JP><F>Ee</F></JP> in Shinjuku.</B>
+<A><F>Er</F> Shinjuku? <F>Uum</F> by Yamanote Line.</A>
+<B><F>Um</F>. <CO>By</CO>. O K. <F>Uum</F>. <.></.> We'll meet <SC>Yamanote Station</SC> <SC>Ya</SC> <F>um</F> Shinjuku Station at three o'clock. <OL>O K</OL>?</B>
+<A><OL>O K</OL>. O K. Yes. Thank you, <H pn="B's name">XXX02</H>. See you then. Good-bye.</A>
+<B>Good-bye.</B>
+<A>O K. Good. Thank you.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX02</H>, which do you like better, <F>er</F> seeing movies at the movie theater or videos at home?</A>
+<B><F>Err</F> I don't see this <SC>vide</SC> cinema <.></.> at video, <OL><?>yeah</?> <??></??></OL>.</B>
+<A><OL><F>Hum</F> why not</OL>?</A>
+<B><laughter><R>I</R></laughter> <SC>I'm interested in</SC> <R>I</R> I'm not interested <R>in</R> in it.</B>
+<A><F>Hum</F>. Then, what are you interested in,</A>
+<B>Interest?</B>
+<A><.></.> doing?</A>
+<B><F>Err</F> <F>um</F>. Sports.</B>
+<A><F>Oh</F> O K. What kind of sports?</A>
+<B><F>Uum</F>. Marine sports.</B>
+<A><F>Err</F> O K. <F>Eh</F> please tell me about the last time you had marine sports.</A>
+<B>Last time?</B>
+<A><F>Um</F>. What did you <OL>do</OL>?</A>
+<B><OL><F>Hm</F></OL>. <F>Er</F> I dived in the sea. Scuba diving,</B>
+<A><F>Hm</F>.</A>
+<B>in the summer.</B>
+<A><F>Um</F>.</A>
+<B>So <.></.> I like <F>ur</F> see dolphins <F>uh</F> <.></.> and <R><JP>makkou kujira</JP></R> <nvs>laughter</nvs> <JP>makkou kujira</JP>. Beautiful <.></.> fish. I like see <..></..> it.</B>
+<A><F>Hum</F>. How did you feel when you saw it?</A>
+<B><F>Err</F> I feel <SC>happy or</SC> <..></..> <laughter>happy</laughter>.</B>
+<A><F>Er</F> O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, <SC>I'm</SC> <F>erm</F> let's do this. Please make a story with <?>these</?> pictures. And start with "One day last week," O K?</A>
+<B>One day last week. One day last week, <SC>the girl and</SC> <.></.> <F>er</F> one girl and one boy went to the zoo. <..></..> <R>They</R> they looked at <R>tiger</R> tiger. <..></..> They looked <.></.> fun. <.></.> The girl eat ice cream. <..></..> The monkey eat the banana. <.></.> They looked <.></.> the monkey <SC>how eat</SC> how he eat the banana. <.></.> The last, <..></..> they go home. <..></..> They say good-bye.</B>
+<A><F>Um</F>. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you think a zoo is a nice place for a date?</A>
+<B><F>Um</F>.</B>
+<A>Why?</A>
+<B><.></.> <F>Er</F> pardon?</B>
+<A>A zoo is a nice place,</A>
+<B><F>Hm</F>.</B>
+<A>to have a date?</A>
+<B><F>Err</F>. <nvs>sniff</nvs> <..></..> <R>I</R> <nvs>sniff</nvs> I don't think so.</B>
+<A><F>Um</F>.</A>
+<B>Because <F>eh</F> I like <R>s</R> <laughter>seeing</laughter> <..></..> lion or <laughter>monkey</laughter>.</B>
+<A><F>Um</F>.</A>
+<B><R>I</R> <.></.> I like <.></.> <F>uum</F> <JP>suizokukan</JP> better zoo.</B>
+<A><F>Um</F>. I see. O K. Please tell me about your last date.</A>
+<B>Last date?</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> I went to Jingu <JP>Kyujou</JP> yesterday.</B>
+<A><F>Um</F>.</A>
+<B><SC>I</SC> <F>um</F> Yakult Swallows win <OL><laughter>the game</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><nvs>sniff</nvs> <SC>I</SC> <F>er</F> very exciting. <nvs>sniff</nvs></B>
+<A><F>Err</F> <F>hum</F>.</A>
+<B><F>Hm</F>. Very interesting day.</B>
+<A>I see. Your boyfriend is a big fan of Yakult, too?</A>
+<B>No. <CO>He <R>i</R> is <JP>Kyojin</JP></CO>.</B>
+<A>Fan?</A>
+<B><nvs>laughter</nvs> <nvs>sniff</nvs></B>
+<A><F>Hm</F>.</A>
+<B>But <F>hm</F> he don't like Kintetsu Buffalos.</B>
+<A><R>So</R></A>
+<B><CO><laughter>So</laughter></CO>.</B>
+<A>so what did he say?</A>
+<B><?>Is</?> so-so. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Er</F> so-so</OL>.</A>
+<B><nvs>sniff</nvs></B>
+<A>O K. I see. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now, the interview is almost over. But <F>er</F> what are you going to do after this today?</A>
+<B><F>Uum</F>. I <.></.> go to home.</B>
+<A><F>Um</F>.</A>
+<B>And I cook <.></.> dinner.</B>
+<A>I see. What are you going to cook?</A>
+<B><F>Uum</F>. <SC>I cook</SC> I'll cook <laughter><JP>butano <SC>shoga</SC> <SC>shu</SC> shogayaki</JP></laughter>.</B>
+<A>I see. O K. Thank you. Enjoy your dinner. Thank you for coming.</A>
+<B>Thank you.</B>
+<A>Good-bye.</A>
+<B>Good-bye.</B>
+</stage5>
+</body>
+</interview>

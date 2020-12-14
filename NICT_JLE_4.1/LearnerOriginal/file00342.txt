@@ -1,0 +1,212 @@
+<interview>
+<filename>file00342.txt</filename>
+
+<head version="1.3">
+<date>2001-03-05</date>
+<sex>female</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>915</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. And, can I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you do today?</A>
+<B>Yes. I'm very fine. And, you?</B>
+<A>Yes. <F>Er</F>. Pretty good. Thank you. <R>And</R> and, where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H> city in <H pn="others2">XXX04</H> prefecture, yes.</B>
+<A>Is it far from here?</A>
+<B><F>Oh</F>. <CO>I think it's about forty minutes <?>by</?></CO>.</B>
+<A><F>Oh</F>. Really? What's <H pn="others1">XXX03</H> like? <nvs>laughter</nvs></A>
+<B>Like? <nvs>laughter</nvs> Like? <F>Mm</F> <F>well</F>. It's very countryside. <F>Mm</F>. So <F>mm</F> there are plenty natural things like river, mountain. <F>Mm</F>. Yes.</B>
+<A>Do you live with your family?</A>
+<B>Yes. So, with mother, father and my sister, yes.</B>
+<A><F>Er</F>. Could you tell me about your sister?</A>
+<B>Yes. <F>Er</F>. My sister is one year older than me. And <SC>she is now working</SC> she now works <SC>for</SC> <F>mm</F> on system company. I don't know. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K.</A>
+<B><F>Mm</F>. <R>She is</R> she is a system engineer, yes.</B>
+<A><F>Ah</F>. Sounds difficult.</A>
+<B><F>Mm</F>. Yes. <F>Mm</F>. I don't know the detail of her work. <F>Er</F>. Yes. <F>Mm</F>.</B>
+<A>So, are you a good sisters? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes</OL>. <nvs>laughter</nvs> I think so.</B>
+<A>What do you mean I think so? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> You know, <F>mm</F> because there are sometimes <F>mm</F> problems <F>mm</F> and the relationship between sisters, yes.</B>
+<A><F>Mhn</F>. Yeah.</A>
+<B>Right. <F>Mm</F>. Basically,</B>
+<A>Yeah.</A>
+<B>she's a very good sister, yes.</B>
+<A>O K. <F>Erm</F>. What do you do?</A>
+<B>Yes. <F>Ah</F>. Now, I'm a student and learning interpretation skill, yes.</B>
+<A>At school?</A>
+<B>Yes. At school. In <H pn="school name1">XXX05</H>. Yes. Do you know <?>of them</?>? Yes?</B>
+<A>Why did you get interested in interpretation? <nvs>laughter</nvs></A>
+<B><F>Well</F>. After graduating from university, I worked for an air line company as a flight attendant. And I had many <F>mm</F> opportunities to talk to foreign passengers. Then, it was <R>very</R> <F>mm</F> very exciting experience to talk to foreigners, and I wanted to <F>mm</F> expand my English skills. <CO>So</CO>. <F>Mm</F>.</B>
+<A>That's nice.</A>
+<B>Thank you.</B>
+<A>And, how do you spend your free time?</A>
+<B>Free time? <F>Well</F> <F>mm</F>. Free time? <F>Er</F>. Especially, in winter, <F>er</F> I enjoy skiing, yes, in my free time. <F>Mhn</F>.</B>
+<A>And? <nvs>laughter</nvs></A>
+<B>And, <F>mm</F> <R>not</R> not special, but <F>mm</F> listening to music or reading books, et cetera. <nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much. O K. First, <F>er</F> I'll show you a picture here.</A>
+<B>O K.</B>
+<A>This is a very good picture for you. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Thank you.</B>
+<A>Please <F>er</F> describe this picture in detail.</A>
+<B>In detail?</B>
+<A><F>Mhn</F>.</A>
+<B>Yes. It's very fine day. And many people are enjoying their own skiing style or snow place. <F>Well</F> <F>mm</F>. <R>There are couple</R> there are couple, and children and young woman. <nvs>laughter</nvs> <F>Mm</F>. However, <F>er</F> some people don't enjoy skiing. And, inside a log house, <F>mm</F> <.></.> a couple is talking over a cup of tea, yes. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K. <OL><CO>Thank</CO></OL>.</A>
+<B><OL>More</OL>?</B>
+<A><OL>O K, thank you very much</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Could you tell me the last trip for skiing <OL><?>or</?></OL>?</A>
+<B><OL>Sorry</OL>?</B>
+<A>Could you tell me the last ski trip <OL>for you</OL>?</A>
+<B><OL>Last ski</OL> trip?</B>
+<A><F>Mhn</F>.</A>
+<B>Yes. <F>Mm</F>. Last December, I went to Hokkaido <F>mm</F> for two days. Only one stay, it was. <F>Mm</F>. And I went to Sapporo international ski field. <nvs>laughter</nvs> Yes. And <F>mm</F> I enjoy skiing from very early morning to night, yes. <F>Mm</F>. <nvs>laughter</nvs></B>
+<A>O K. Compare to other ski gelande, what's good in Hokkaido?</A>
+<B>Yes. <F>Mm</F>. The snow is very fine.</B>
+<A><F>Mhn</F>.</A>
+<B>Yes. <F>Mm</F>. So, maybe, <R>I</R> <R>I</R> I felt I'm more <F>mm</F> excellent skier than I do ski in other gelande. <F>Mm</F>.</B>
+<A>So, was it <F>er</F> ideal place for you? <nvs>laughter</nvs></A>
+<B>Yes. <nvs>laughter</nvs> It's very ideal. Not only because of the gelande, but also, <F>mm</F> the foods, very delicious. <SC>Foods</SC> food in Hokkaido, yes.</B>
+<A><F>Mm</F>. What was good <nvs>laughter</nvs> especially? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Especially, yes, crab.</B>
+<A><F>Ah</F>. <OL>Yeah, sounds delicious</OL>.</A>
+<B><OL>It's very nice</OL>. <?>Good</?>. Yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much. O K. Next. I'll do a role play. And, O K. Here you are. Please read this card.</A>
+<B>Yes.</B>
+<A>And, when you're ready, I will start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Turu. Hello.</A>
+<B>Hello. <F>Er</F>. Hi. I'm <H pn="B's name">XXX02</H>.</B>
+<A>Hello, <H pn="B's name">XXX02</H>. What are you doing?</A>
+<B>I'm so sorry, <F>er</F> but I couldn't <F>mm</F> go to your <SC>home party</SC> dinner party. <R>I'm</R> I'm so sorry, but I couldn't, because my sister is really sick. And <F>mm</F> I couldn't leave her alone. <SC>So</SC> and I was very upset, and I couldn't call you at that time. So I'm so sorry. I really wanted to go to your dinner party. <CO><SC>But</SC> <F>mm</F> so</CO>.</B>
+<A>But <F>er</F> this was actually a party for you.</A>
+<B>Yes. <F>Oh</F>. <R?>Wa</R?> <R?>wa</R?> was it?</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Mm</F>. Sorry. <F>Er</F>. I didn't thought <F>mm</F> the party was for me. I thought just I'm a <F>mm</F> <SC>guest</SC> only a guest. <F>Er</F>. <?>But</?>, next time, I'd like you to invite me again. So, next time, surely I will go. <nvs>laughter</nvs></B>
+<A>O K. Next time, don't fail to show up. <nvs>laughter</nvs></A>
+<B><F>Oh</F>. Thank you. Sorry. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. So, see you then, <F>er</F> next time.</A>
+<B>Sure. <OL>Thank you</OL>.</B>
+<A><OL>Bye</OL>.</A>
+<B>Bye.</B>
+<A>Thank you for calling.</A>
+<B>Thank you. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>Thank you very much. That's end of role play.</A>
+<B>O K.</B>
+<A>So, have you ever had the same experience like this?</A>
+<B>No. <nvs>laughter</nvs></B>
+<A>No. <nvs>laughter</nvs></A>
+<B>First time. <nvs>laughter</nvs></B>
+<A>O K. Have you ever <F>er</F> been to a party in another country?</A>
+<B>In another country, no.</B>
+<A>No?</A>
+<B>I've never been to.</B>
+<A>O K. When you are an flight attendant,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>you</OL> must <R>have</R> have been to lots of places.</A>
+<B><F>Mhn</F>.</B>
+<A>So, <SC>where is a</SC> what is the most impressive country?</A>
+<B><F>Oh</F>. <R>It's</R> it's England.</B>
+<A>England?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><OL>Why</OL>?</A>
+<B><OL>England</OL>. <F>Mm</F>. Because I'm very interested in gardening and afternoon tea. <nvs>laughter</nvs></B>
+<A><F>Mhn</F>.</A>
+<B>And English people enjoy <F>mm</F> <??></??> gardening and afternoon tea very much. And also, I can feel very comfortable in England than I'm in other countries like <F>mm</F> United States, et cetera. <?>Because</?>, maybe, <F>mm</F> I like the atmosphere. <F>Mm</F>. I think <F>mm</F> it's not really so exciting, but <F>mm</F> very, <F>mm</F> in a way, comfortable for me. Yes.</B>
+<A>Do you want to visit again?</A>
+<B>Yes. Again and again, <?>I want to</?>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Thank you very much. O K. Now, <F>er</F> here's another picture. O K. Here you are. And, <F>er</F> please make up your own story based on these pictures, and this happened last week. So, please start with "One day last week".</A>
+<B><F>Ah</F>. O K.</B>
+<ctxt>The interviewee is looking at the cards.</ctxt>
+<B>One day last week, <.></.> Michiko-<JP>san</JP> noticed that there was nothing in the refrigerator. So she decided to go to a supermarket to buy some foods. <F>Er</F>. <SC>They</SC> she chose <F>mm</F> many things needed, from bread to <F>mm</F> fruits. And she bought a lot. <SC>And</SC> <F>er</F> <SC>because</SC> however, <F>er</F> she went to the supermarket by car, so there was no problem to carry the all things. And, after coming back to home, she was able to make very delicious dishes. That's all. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K. Thank you very much. So Michiko-<JP>san</JP> went to the supermarket.</A>
+<B>Yes.</B>
+<A>But, could you compare the supermarket in Japan and England?</A>
+<B>Japan and England.</B>
+<A><F>Mhn</F>.</A>
+<B><F>Mm</F> <F>well</F>. In England, I think I don't see, actually, a big supermarket, just like, <F>er</F> <SC>very small</SC> I don't know how to say, but very small shop.</B>
+<A><F>Mhn</F>.</A>
+<B><F>Mm</F>. So it was different in its size and <F>mm</F> <R>vari</R> variety of foods, <F>mm</F> et cetera. And, yes. <R>I think</R> I think, <F>mm</F> so the fruits and vegetables are different in the United Kingdom from those in Japan. <F>Mm</F>. The shape, or color, size, <F>mm</F> anything are different, <F>mm</F> although they are <SC>same <F>mm</F> <R>species</R> species</SC> same kinds. <nvs>laughter</nvs> <F>Mm</F>. Yes.</B>
+<A>O K. Are there <SC>anything</SC> any strange or very interesting food completely different from Japanese?</A>
+<B>Completely different from. <F>Mm</F>. No. I'm sorry, but I don't remember. <F>Mm</F>. But the different thing is that the supermarket in the United Kingdom didn't offer a plastic bag.</B>
+<A><F>Mhn</F> <F>ah</F>.</A>
+<B>Also, customers <F>mm</F> brought their own <SC>bag</SC> <F>mm</F> shopping bag, <F>mm</F> by themselves. <OL><??></??></OL>.</B>
+<A><OL><F>Mm</F> really</OL>? <F>Mm</F>. So, how do you usually enjoy afternoon tea in England? <nvs>laughter</nvs></A>
+<B>In England? <nvs>laughter</nvs> Yes. <F>Er</F> <F>mm</F>. Do you know Piccadilly Circus?</B>
+<A><F>Er</F>. Yes, I <?>know</?> this.</A>
+<B><F>Er</F>. So, from Piccadilly Circus station, maybe only just two minutes walk, <F>mm</F> there is <SC>a very</SC> <F>mm</F> my favorite <nvs>laughter</nvs> shop, afternoon tea. Yes. It's very cheap and delicious. Yes. <OL><CO>So</CO></OL>.</B>
+<A><F>Ah</F>. <OL>How good</OL> is it? O K, please go on.</A>
+<B><F>Oh</F>. No, no. <nvs>laughter</nvs></B>
+<A><F>Mm</F>. O K.</A>
+<B>So, every time I went to London,</B>
+<A><F>Mhn</F>.</A>
+<B>yes, <F>mm</F> I visited there.</B>
+<A><F>Er</F>. What is the specialty of <SC>that sho</SC> <F>er</F></A>
+<B><F>Ah</F>.</B>
+<A><SC>the store</SC> <F>er</F> the shop?</A>
+<B>Yes. So it's special blend tea. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>Yeah</laughter>.</B>
+<A>Of their own? <nvs>laughter</nvs></A>
+<B>Yes, their own. So there are, of course, a normal tea like Darjeeling or <F>mm</F> Earl Grey, et cetera. <F>Mm</F>. The shop's original tea is wonderful.</B>
+<A><F>Er</F>. Sounds nice.</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>Now, almost end of the interview.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>So</OL>, what are you going to do in the afternoon?</A>
+<B><F>Ah</F>. Now, firstly, I will go to a bookstore to <F>mm</F> buy some books.</B>
+<A><F>Mm</F>. Near here?</A>
+<B>No. In Umeda. There is <R>very</R> very big shop. <CO>So</CO>. After that, I don't know. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <R>You</R> you don't have any school today?</A>
+<B>No. <nvs>laughter</nvs></B>
+<A>O K. Have a nice day.</A>
+<B>Thank you. <OL>You, too</OL>.</B>
+<A><OL>Thank</OL> you very much for coming today.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

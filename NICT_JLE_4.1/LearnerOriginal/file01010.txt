@@ -1,0 +1,348 @@
+<interview>
+<filename>file01010.txt</filename>
+
+<head version="1.3">
+<date>2002-03-26</date>
+<sex>male</sex>
+<age>34</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>815</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name again?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>Mister <H pn="B's name">XXX01</H>.</A>
+<B>Yes. Nice to meet you.</B>
+<A>Nice to meet you. So, mister <H pn="B's name">XXX01</H> did you have lunch?</A>
+<B><OL><F>Ahhh</F></OL>.</B>
+<A><OL>Already</OL>?</A>
+<B>Yes, I had <F>ahh</F> <SC>lunch</SC> late lunch. <F>Er</F> because <F>ummm</F> <F>ahh</F> I had a <F>mm</F> meeting <F>er</F> in this morning from eight-thirty <F>er</F> but <SC>this</SC> <F>ahh</F> the meeting <F>ah</F> <SC>was about</SC> to finish <F>uh</F> until <F>ah</F> <R>twelve</R></B>
+<A><F>Uh-huh</F>.</A>
+<B>A M. <F>Ahh</F> <R>twelve</R> twelve P M <F>umm</F> but it was <R>ex</R> extended until <F>ahh</F> <SC>thirty</SC> one fifteen.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>One fifteen P M</OL> so <F>um</F> after finished the meeting I had lunch.</B>
+<A>I see. Where do you usually have lunch?</A>
+<B><F>Ah</F> I usually <JP><F>eeh</F></JP> eat lunch <F>ahh</F> at restaurant <F>ah</F> around this office.</B>
+<A><F>Hmmm</F>.</A>
+<B>And there are <F>mm</F> a lot of <F>uhh</F> restaurant <F>uh</F> for <F>uh</F> eating lunch.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Umm</F> <R>I</R> I usually <SC>go restaurant</SC> go up about <SC>ten</SC> fifteen restaurants.</B>
+<A><F>Hmmm</F>.</A>
+<B><SC>I had</SC> <F>umm</F> <F>ahh</F> <F>ahh</F> <SC>I have</SC> <F>uhhh</F> I can select</B>
+<A><F>Uh-huh</F> <F>uh-huh</F>.</A>
+<B>among of these</B>
+<A><F>Uh-huh</F>.</A>
+<B>restaurants usually.</B>
+<A><F>Hmm</F>. <F>Ahh</F> where is the best restaurant?</A>
+<B><F>Ahh</F> <laughter>it's</laughter> difficult question.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Er</F> I think <F>uhhh</F> most of the restaurants are best</B>
+<A><F>Ahh</F>.</A>
+<B>for me.</B>
+<A><F>Ahh</F>.</A>
+<B>Maybe I can select <F>ahh</F> <F>um</F> I can eat <F>er</F> lunch <F>ahh</F> select it from <F>ah</F> <SC>hundred</SC> over hundred restaurants around <OL><F>uhh</F></OL></B>
+<A><OL><F>Oh</F> <F>wow</F></OL>.</A>
+<B><OL>this office</OL></B>
+<A><F>Hmm</F> <F>hmm</F>.</A>
+<B>I usually go. <F>Oh</F> the most favorite</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> restaurant. Ten or fifteen of them.</B>
+<A>I see. <F>Hmm</F> O K. Mister <H pn="B's name">XXX01</H> do you have any hobby?</A>
+<B><F>Ahhh</F> yes. I <F>ummm</F> like go abroad</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>for pleasure</OL>. And <F>umm</F> I like driving.</B>
+<A><OL>Driving</OL>?</A>
+<B><OL><F>Umm</F> driving</OL> <F>uhh</F> in Japan and in foreign countries.</B>
+<A>I see. Why do you like to drive?</A>
+<B><F>Ahhh</F> I don't know why I like drive. <F>Umm</F> but <F>ahh</F> when I was a child, <F>mm</F> my father <F>uhh</F> <R>had</R> had often <F>er</F> drove with my family.</B>
+<A><F>Hmm</F> <F>hmm</F> <F>hmm</F>.</A>
+<B>And to go anywhere <SC>beca</SC> <F>um</F> so, therefore, I like cars.</B>
+<A>I see. What kind of car do you have now?</A>
+<B><F>Ahhh</F> <.></.> I like <F>ahh</F> <F>umm</F> not sports car but <F>umm</F> the cars <F>umm</F> <F>ahh</F> which run very fast <nvs>laughter</nvs>.</B>
+<A><OL><F>Humm</F></OL>.</A>
+<B><OL>Which</OL> <SC>run</SC> <OL>runs</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>very fast</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Ummm</F> now <R>I</R> <R>I</R> I have <F>uhh</F> my own car</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ahh</F> whose name is <F>ahh</F> Skyline <F>eh</F> made by Nissan.</B>
+<A><F>Hmm</F>.</A>
+<B>And the car <F>ahh</F> is very nice.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Ahh</F> and <F>mm</F> I can <F>umm</F> drive it <F>ahh</F> over one hundred sixty kilometers per hour</B>
+<A><OL>Have you tried</OL>?</A>
+<B><OL>on highway</OL>. <SC>The very <JP><F>eeh</F></JP> stiff and</SC> the body <OL>was very stiff</OL></B>
+<A><OL><F>Umm</F> <F>umm</F></OL>.</A>
+<B>and suspension was very good so very <R>s</R> stable</B>
+<A><OL><F>Umm</F> <F>umm</F></OL>.</A>
+<B><OL>in</OL> high speed.</B>
+<A>I see. <OL>O K</OL>.</A>
+<B><OL><R>I like</R></OL> <F>ahh</F> <F>umm</F> I like speed. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>You do</OL>? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Ummm</F> I often</OL> watch Formula One car race</B>
+<A><F>Uhhh</F>.</A>
+<B>held in European country as well as <R>in Ja</R> in Japan, America <F>ummm</F>. <F>Ahh</F> the season <F>ahh</F> just started</B>
+<A><OL>Right</OL>.</A>
+<B><OL><F>uhh</F></OL> two weeks ago</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Ah</F></OL> do you know?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ahh</F> I like <F>er</F> Formula One race <OL>very much and</OL></B>
+<A><OL>I see</OL>.</A>
+<B>and <SC>Japanese maker</SC> <F>er</F> Japanese car maker Honda</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ahhh</F> started to <F>uhh</F> take part in the <F>uh</F> Formula One <F>uhh</F> two years ago.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And especially <F>uhhh</F> this season, <F>ahh</F> Japanese driver Sato who got champion at three <F>uhh</F> England</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ahh</F> started to <R>drive</R> <F>ahh</F> drive F One <SC>in Honda car</SC></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>by Honda car</OL></B>
+<A><F>Hmmmm</F>.</A>
+<B>So <..></..> <F>ah</F> I was looking forward to <F>uhh</F> watching</B>
+<A><F>Ummm</F>.</A>
+<B>F One this season.</B>
+<A>I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <F>ahh</F> first thing today.</A>
+<ctxt>The interviewer is selecting a picture.</ctxt>
+<A>O K. Please describe this picture.</A>
+<B><F>Uh-huh</F>. Describe?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Describe. <F>Ummm</F>. It is sunny day and <F>ahh</F> this <F>uhh</F> district <F>uhhh</F> <F>uhh</F> <SC>is</SC> <F>mm</F> seem to be residential district. And <F>ummm</F> <.></.> <F>umm</F> maybe <F>er</F> it's Sunday <F>ahh</F> because <F>ahh</F> <F>uh</F> a man is running. Sunday or <F>ahh</F> early morning <F>ahh</F> because <F>ahh</F> this guy <F>uhh</F> is exercising.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>umm</F> <.></.> <F>umm</F> some <F>umm</F> houses are located <F>uhh</F> <SC>on the <F>ahh</F>street</SC> on the <F>ahh</F> road. And <nvs>sniff</nvs> <F>umm</F> in this road there are not so many <F>uhh</F> <F>uhh</F> traffics and pedestrians. <F>Uh</F> this is very safe <F>uhh</F> area.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So some <F>ummm</F> children and <F>uhh</F> some dogs <F>uh</F> are playing <F>uhh</F> <R>near the</R> <F>uh</F> <SC>near the road</SC>.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>Near the area</SC>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>This area</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><CO>And</CO></OL>. <F>Ummm</F>.</B>
+<A><OL>Thank you mister <H pn="B's name">XXX01</H></OL>.</A>
+<B><OL><F>Hmm</F></OL>.</B>
+</task>
+<followup>
+<A>Can you compare this picture with your hometown?</A>
+<B><F>Ahh</F> yes. <F>Hm</F> <F>ahh</F> <R>my hometown</R>. My hometown?</B>
+<A><F>Ummm</F>.</A>
+<B>My hometown <F>ummm</F> is <H pn="others1">XXX02</H>, <H pn="others2">XXX03</H> Prefecture.</B>
+<A><F>Umm</F>.</A>
+<B>And <F>ummm</F> <nvs>sniff</nvs> <F>ahh</F> my house was located <F>ahh</F> in a part of residential district.</B>
+<A><F>Umm</F>.</A>
+<B><F>Uhh</F> and <F>umm</F> <..></..> <SC>there are</SC> <F>ahh</F> there is <F>ahh</F> not much <F>uhh</F> place around <F>uhh</F> the house but <F>ummm</F> atmosphere is similar to the picture.</B>
+<A><F>Hmm</F> <F>hmm</F>.</A>
+<B>The people <F>uhh</F> <nvs>sniff</nvs> can <F>umm</F> speak each other on the road</B>
+<A><F>Hmm</F> <F>hmm</F>.</A>
+<B>and <F>umm</F> the children</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>ahh</F></OL> can play <F>uh</F> on the road and <F>ah</F> <SC>near the</SC> <F>ahh</F> near their houses.</B>
+<A><F>Hmmm</F>.</A>
+<B>So <F>mmm</F>. <.></.> <OL><CO>It's simi</CO></OL>.</B>
+<A><OL>So</OL> <F>ahh</F> it's different from the place you live now?</A>
+<B><F>Ahh</F> now <F>ahh</F> just different.</B>
+<A><F>Hmmm</F>.</A>
+<B>I live <F>uh</F> in <H pn="others3">XXX04</H> City.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F> <.></.> where is <F>ummm</F> closer to Tokyo than <F>ah</F> my hometown</B>
+<A><F>Uh-huh</F>.</A>
+<B>in <H pn="others2">XXX03</H> Prefecture.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>uh</F> there are lots of <JP>manshon</JP></B>
+<A><F>Hmm</F>.</A>
+<B>and apartment. So the density of <F>ahh</F> population is very high.</B>
+<A><F>Hmm</F>. <OL><F>Hmm</F> <F>hmm</F></OL>.</A>
+<B><OL>And <F>Umm</F></OL> <SC>traffics</SC> <F>ahh</F> <R>there are</R> there are much <F>eeh</F> traffics around <F>ahh</F> my home</B>
+<A><F>Hmm</F>.</A>
+<B>now.</B>
+<A>I see. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, mister <H pn="B's name">XXX01</H> let's try a role-play. <nvs>cough</nvs> O K. Please read this card and tell me when you are ready. Then I'll start.</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<B>Hi, excuse me.</B>
+<A>Yes, may I help <OL>you</OL>?</A>
+<B><OL><F>Ahh</F></OL> <F>umm</F> I'd like to <F>umm</F> New York by train <F>ahh</F> <F>umm</F> <F>ahh</F> I should buy ticket to New York. <F>Uhh</F>. Where can <F>er</F> I get ticket for New York?</B>
+<A>O K. You can buy the tickets here.</A>
+<B><F>Uh</F> ticket here?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhh</F> where is the station? This is <OL><F>ah</F> <F>ah</F></OL></B>
+<A><OL>This is the station</OL></A>
+<B><OL><F>Ah</F> <F>ah</F> this is the station</OL>.</B>
+<A><OL>and this is the ticket booth</OL>.</A>
+<B><F>Ah</F> <F>ah</F> O K.</B>
+<A>O K.</A>
+<B><F>Ahh</F> <R>where</R> <F>er</F> where can I get ticket?</B>
+<A>O K. <R>I</R> I will</A>
+<B><F>Umm</F> <F>umm</F>.</B>
+<A><OL>give you the ticket</OL>.</A>
+<B><OL><F>Ahh</F></OL>. So</B>
+<A><F>Umm</F>.</A>
+<B><F>ohhh</F> <F>umm</F> how much does it cost to <F>uhh</F> New York?</B>
+<A><F>Oh</F> O K. <F>Well</F> actually, we have <OL>three types of trains to New York</OL>.</A>
+<B><OL><F>Uh-huh</F> <F>uh-huh</F></OL>. <F>Ahh</F> what kind of trains <F>ahh</F> <.></.> can I have?</B>
+<A><F>Umm</F> <F>umm</F>. O K. <OL><CO>One su</CO></OL>.</A>
+<B><OL><R>Can I</R> can I get <??></??></OL>?</B>
+<A><OL>O K</OL>. O K. One super express, express, and local.</A>
+<B><F>Uh-huh</F>. <F>Ahhh</F> <F>uh</F> <.></.> <F>hm</F> <R>I'd like to</R> <F>uhh</F> <F>er</F> I'd like to <R>go</R> go there, <F>ahh</F> <F>umm</F> <.></.> <F>ahhh</F> <.></.> <F>ah</F> <JP>sohka</JP>, <F>uhh</F> by the <F>uh</F> fastest way.</B>
+<A><F>Ummm</F>.</A>
+<B>In <R>fast</R> <F>ahhh</F> <F>umm</F> fastest way.</B>
+<A>O K. <F>Well</F> in that case, the super express is the fastest.</A>
+<B><F>Uh-huh</F> <F>umm</F>.</B>
+<A>But <SC>it's</SC> it has just left.</A>
+<B><F>Uhhh</F>?</B>
+<A>So you have to wait another thirty minutes</A>
+<B><F>Uh-huh</F>?</B>
+<A>for the next super express.</A>
+<B><F>Uhh</F>. <F>Ahh</F> <F>ahh</F> by taking the super express <F>ahh</F> what time <F>uhh</F> can I get at New York?</B>
+<A><F>Ahh</F> it will take forty minutes.</A>
+<B><F>Ahh</F> <SC>every</SC> <F>umm</F> forty minutes <nvs>sniff</nvs> so <F>ahh</F> one hour and ten <F>ah</F> minutes later <F>ahh</F> from now.</B>
+<A>Yes.</A>
+<B><F>Ahhh</F> how about <F>ahh</F> <F>ummm</F> local train next?</B>
+<A><F>Ahh</F> express <OL>train</OL>?</A>
+<B><OL><F>Ahh</F></OL> express train?</B>
+<A><F>Uh-huh</F>. There's one leaving in five minutes.</A>
+<B>Five minutes and <F>er</F> how long does it <F>er</F> <R>take</R> to New York?</B>
+<A>It'll take one hour.</A>
+<B>One hour. So <F>ohhh</F> <F>ummm</F> I'll take <F>uhh</F> the express train.</B>
+<A><R>O K</R> <OL>O K</OL>.</A>
+<B><OL>May I</OL> have the ticket?</B>
+<A>O K. One person?</A>
+<B><F>Uh-huh</F> yes.</B>
+<A>O K. Let me get the ticket for you. Can you wait a moment, please?</A>
+<B>Yes.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>O K. Thank you very much mister <H pn="B's name">XXX01</H>. You said you like traveling.</A>
+<B><F>Uh</F>?</B>
+<A>You said you like traveling.</A>
+<B>Yes. I like <OL>traveling</OL>.</B>
+<A><OL><F>Hmmm</F></OL> <F>ahh</F>.</A>
+<B>But <F>umm</F> <R>I</R> <F>ahh</F> <.></.> I have <SC>never</SC> <F>ah</F> one time just <F>ahh</F> I have <F>mm</F> got on train <SC>just one time</SC> <F>ah</F> two times.</B>
+<A><F>Hmmm</F>.</A>
+<B>At New York.</B>
+<A>At <OL>New York</OL>?</A>
+<B><OL>and in Europe</OL>.</B>
+<A><F>Hmmm</F> <F>ahh</F> so, otherwise you <R>of</R> often drive.</A>
+<B><OL>Often drive</OL></B>
+<A><OL>Abroad</OL>.</A>
+<B><OL>Always</OL> <R>I</R> <laughter>I drove</laughter></B>
+<A><OL><F>Hmmm</F></OL></A>
+<B><OL><??></??></OL>.</B>
+<A><OL>Can you tell me</OL> how you rent a car?</A>
+<B><OL><F>Ahhh</F></OL></B>
+<A><OL>in a foreign country</OL>.</A>
+<B>Foreign country. <F>Ahh</F> I always <F>ahh</F> <F>umm</F> <SC>reserv</SC> <F>ahh</F> <SC>have a reser</SC> get <F>ahh</F> reservation</B>
+<A><F>Hmm</F>.</A>
+<B><F>ahh</F> at Hertz or Europe</B>
+<A><F>Uh-huh</F>.</A>
+<B>cars</B>
+<A><F>Uh-huh</F>.</A>
+<B>in Japan.</B>
+<A><F>Ah</F> <OL>in Japan</OL>?</A>
+<B><OL><F>Uhh</F></OL> Japanese office</B>
+<A><F>Uh-huh</F>.</A>
+<B>or <F>ah</F> <SC>internet</SC> via internet</B>
+<A><F>Hmm</F> <F>hmm</F> <OL><F>hmm</F></OL>.</A>
+<B><OL>reservation</OL>.</B>
+<A><F>Hmmm</F>.</A>
+<B>Internet reservation <F>umm</F> <.></.> it's <F>ummm</F> cheap.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ummm</F> <SC>cheap</SC> cheapest way</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>um</F> than by <F>a</F> calling.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhh</F> <R>in</R> <R>international</R> international calling or <F>er</F> by booking at Japanese office or <R>f</R> foreign rent-a-car <F>ahh</F> companies.</B>
+<A><F>Hmm</F> O K. O K. thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Mister <H pn="B's name">XXX01</H> last thing today, I would like to show you a picture sequence. <OL>If I can find one</OL>.</A>
+<B><OL><F>Hmm</F></OL>.</B>
+<A>O K? O K, here it is. Please make a story from one to six.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K?</A>
+<B><F>Oh</F> <OL>yes</OL>.</B>
+<A><OL>Please</OL> begin the story with "One day last week".</A>
+<B><F>Oh</F>.</B>
+<A>Because this is a story that happened before.</A>
+<B><F>Ummm</F>.</B>
+<ctxt>The interviewee is looking at the picture sequence and thinking.</ctxt>
+<B><F>Hmm</F> <F>ahh</F> one day last week <F>uhh</F> <F>uhh</F> is she my mother? O K?</B>
+<A>Sure.</A>
+<B><F>Ahh</F> my mother was <SC>going to have</SC> <F>ahh</F> going to <F>uhhh</F> <F>um</F> cook dinner <F>ahh</F> but <F>uhh</F> there were nothing <F>uhh</F> in her refrigerator <R>so</R> so <F>ohh</F> she decided to <F>uhh</F> go to <F>umm</F> <F>uhh</F> get some foods. <F>Ahh</F> she went to <F>uhh</F> supermarket <F>ahh</F> around <F>uhh</F> <SC>her home</SC> around my home <F>ah</F> <SC>by car</SC> <R>by he</R> by her own car. <R>And</R> and <F>ummm</F> <F>ummm</F> she got <F>umm</F> <F>mm</F> some foods. She got <F>uhh</F> bread and <F>umm</F> vegetables and <F>umm</F> eggs <F>um</F> and meats. And <F>umm</F> she <F>umm</F> paid for them <F>uhh</F> at <F>mm</F> <JP>nante yuundakke</JP> cashier. And <F>uhh</F> <SC>she had</SC> <F>ummm</F> <..></..> <F>ahh</F> she took <F>ur</F> the foods <F>umm</F> <SC>into his</SC> <F>ahh</F> <R>into her car's</R></B>
+<ctxt>Somebody knocks and comes into the room.</ctxt>
+<B>into her car's luggage. And <F>uhh</F> she get back <F>uhh</F> to her home. And she cooked <.></.> her dinner.</B>
+</task>
+<followup>
+<A>O K. Thank you. Mister <H pn="B's name">XXX01</H> do you sometimes go grocery shopping?</A>
+<B>Grocery shopping?</B>
+<A>To the supermarket.</A>
+<B>To supermarket. <F>Ah</F> sometimes.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Ahh</F> <F>m</F> Saturday</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>and</OL> Sunday.</B>
+<A><OL><F>Hmmm</F></OL>.</A>
+<B><OL><F>Em</F> <R>I</R></OL> <F>ahh</F> <SC>I often</SC> <F>ahh</F> I'm often asked <F>uhh</F> <F>mm</F> to get some foods for <F>ah</F> dinner or lunch.</B>
+<A><F>Uh-huh</F>.</A>
+<B>For my wife.</B>
+<A>I see.</A>
+<B>For my wife. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Hm</F></OL>. So you help with the housework?</A>
+<B><F>Ahh</F> <F>umm</F> I don't <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><laughter>No</laughter></OL>?</A>
+<B>Not so much.</B>
+<A><F>Ummmm</F>.</A>
+<B><F>Hm</F>. <F>Ummm</F>. <SC>I help <F>uh</F> only</SC> <F>ahh</F> I do only <F>uhh</F> <F>umm</F> cleaning of bathroom.</B>
+<A><F>Ahh</F>. That's <R>your job</R>. Your job.</A>
+<B>Just my job.</B>
+<A>O K, O K. I see. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Mister <H pn="B's name">XXX01</H> we're almost at the end of the <F>er</F> interview.</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Ahhh</F> recently, do you go home late?</A>
+<B>Yes.</B>
+<A>You have to work? I see. So you take train home to <H pn="others3">XXX04</H>? <OL>No sorry</OL></A>
+<B><OL>Yes</OL>.</B>
+<A><OL>was it <H pn="others3">XXX04</H></OL>?</A>
+<B><OL>Take <F>ahh</F></OL> <SC>train</SC>. <OL>Commuter train</OL>.</B>
+<A><OL><F>Hmm</F></OL> I see. How long does it take?</A>
+<B><F>Ahh</F> forty-five or fifty minutes. <F>Ahh</F> it takes fifty minutes in morning time because there are much <F>ah</F> forty-five minutes <F>umm</F> in morning time</B>
+<A><F>Uh-huh</F>.</A>
+<B>because there are much trains</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ahh</F> frequently.</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>But</OL> <F>umm</F> it takes fifty to fifty-five minutes for getting back <R>to</R> to my home.</B>
+<A><F>Ahh</F> I see.</A>
+<B><F>Ahh</F> It's night time. Late night.</B>
+<A><F>Uh-huh</F> <F>uh-huh</F>.</A>
+<B><R>So</R> <.></.> so there are not so many trains.</B>
+<A><F>Ummm</F>. I see. O K. Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,156 @@
+<interview>
+<filename>file00056.txt</filename>
+
+<head version="1.3">
+<date>2000-04-27</date>
+<sex>male</sex>
+<age>40</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Er</F> for the record, may I have your name please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>Mister <H pn="B's name">XXX01</H>, where are you from originally?</A>
+<B>I'm from <SC><H pn="others1">XXX02</H> Prefecture</SC> south part of <H pn="others1">XXX02</H> Prefecture.</B>
+<A><F>Mhm-huh</F> <OL><F>mhm-huh</F></OL>.</A>
+<B><OL><JP><F>Ee</F></JP></OL>. It is name the <H pn="others2">XXX03</H> City.</B>
+<A><F>Hum</F>. Do you like your city?</A>
+<B>Yes, I like very much.</B>
+<A><F>Hm</F>. What kind of city is it?</A>
+<B>What kind?</B>
+<A><F>Mm</F>.</A>
+<B><F>Oh</F> it's <F>er</F> suburb of <F>er</F> <H pn="others1">XXX02</H> City</B>
+<A><F>Uum</F>.</A>
+<B>And <SC>which is</SC> <F>er</F> <F>er</F> <H pn="others2">XXX03</H> City <SC>is a very</SC> <F>er</F> <F>er</F> <R>ha</R> have a very <R>lots of</R> lots of <F>uh</F> <F>er</F> nature <F>er</F> mountain and river. <F>Er</F> they are very beautiful.</B>
+<A><F>Oh</F> O K. That's nice. <F><?>Well</?></F> were you born in <H pn="others2">XXX03</H>?</A>
+<B>Yes. I was born in <H pn="others2">XXX03</H>.</B>
+<A><F>Oh</F> I see. Have you lived anywhere else besides <H pn="others2">XXX03</H>?</A>
+<B>Yes, <SC>I had live</SC> I had lived in <F>er</F> <H pn="others3">XXX04</H>, <F>ah</F> <H pn="others4">XXX05</H> Prefecture,</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> <H pn="others5">XXX06</H> Prefecture, <H pn="others6">XXX07</H> City,</B>
+<A>O K.</A>
+<B>And <F>er</F> <F>eh</F> <H pn="others7">XXX08</H></B>
+<A><OL><H pn="others7">XXX08</H></OL>.</A>
+<B><OL>City</OL> in <H pn="others8">XXX09</H> prefecture.</B>
+<A>I see. <F>Oh</F> good. So outside of <H pn="others2">XXX03</H>, <F>er</F> which one of those place do you like most?</A>
+<B><F>Urm</F> I <F>mm</F> <F>well</F> <H pn="others4">XXX05</H> is a best.</B>
+<A><F>Mhm-huh</F>. <F>Hum</F>.</A>
+<B>Yeah.</B>
+<A>Why is that?</A>
+<B><F>Er</F> I had <F>er</F> <..></..> student life <laughter><F>er</F> in <H pn="others4">XXX05</H></laughter> Prefecture, so I had a lot of pleasure in <H pn="others4">XXX05</H>. Yes.</B>
+<A>Mister <H pn="B's name">XXX01</H>, please tell me about your hobbies.</A>
+<B>My hobby?</B>
+<A>Yes.</A>
+<B><laughter><F>Oh</F></laughter> in these days, I started to play golf, and <F>er</F> I play golf <JP><F>aa</F></JP> <SC>once a month</SC> <?>over all</?> once <JP><F>aa</F></JP> and <F>er</F> <SC>I</SC> now <R>I</R> I'm <SC>practicing golf in</SC> <F>er</F> practicing course <F>er</F> very hard. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. <F>Ah</F> <F>ahm</F>. <F>A</F> what's so special about playing golf?</A>
+<B>Special?</B>
+<A><F>Mm</F>. <R>Why</R> why do you like it so much?</A>
+<B><F>Er</F> <F>womh</F> <F>er</F> <.></.> golf is very <F>er</F> difficult for me. <F>Er</F> now <R>I</R> <F>aa</F> I cannot get <SC>good score</SC> not enough score, so I'm challenging it. Challenging is <F>er</F> very <R>good</R> good for me.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. Good good. All right. Let me show you a first picture. <OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A><F>Ah</F> please take a look and please describe this scene for me.</A>
+<B><F>Er</F> it's a <F>a</F> sunny day. <F>Er</F> it's <F>mm</F> <.></.> <F>er</F>. Describe?</B>
+<A><F>Uh-hhuh</F>.</A>
+<B><nvs>laughter</nvs> In front of the <F>er</F> house, <F>er</F> there is a car. <F>Er</F> a cats is sleeping on the car and beside of the car, <F>er</F> <SC>two woman</SC> two womens are <F>er</F> speaking with a dog. And <F>er</F> in front of <?>ro</?> the house, <F>er</F> <SC>a girl</SC> one girl is <F>a</F> playing <F>er</F> <F>aa</F> <JP>nawatobi</JP>. <laughter><R>I</R> <R>I</R> I don't know <SC>the English</SC></laughter> how to say in English. <SC>And then</SC> and the <R>two dogs</R> <F>er</F> <.></.> <F>er</F> two dogs <SC>are</SC> <F>er</F> <JP>nan</JP> <F>u</F> <F>er</F> <SC>is</SC> are like <F>a</F> speaking <nvs>laughter</nvs> each other. <SC>And is</SC> <.></.> <R>and</R> <F>a</F> <R>and</R> and field, <F>er</F> two boys are playing <F>er</F> volleyball. And <F>er</F> <R>one</R> one person <F>ah</F> is jogging on the street. And <F>er</F> opposite side of the house, <F>er</F> one man is reading newspaper in front of his house. <.></.> <F>Mm</F>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>It's a</OL> very good day. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>That's</OL> all right. O K. <F>Erm</F> Mister <H pn="B's name">XXX01</H>, do you live in a house or an apartment?</A>
+<B><F>Er</F> <R>I'm</R> <F>er</F> I'm living in <F>er</F> my house. <OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Can you tell me about your house a little?</A>
+<B><F>Er</F> my house very old which is <SC>built in</SC> <F>er</F> built one, so sorry, <F>eh</F> forty years ago.</B>
+<A><F>Um</F>.</A>
+<B>And <.></.> <F>er</F> <SC>my</SC> <JP><F>ee</F></JP> <JP>nanteiunokana</JP> my house is <.></.> like a temple. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> O K.</A>
+<B><SC>Old type</SC> <SC>old-fashioned house</SC> <JP><F>un</F></JP> Japanese old-fashioned type. And so <F>er</F> <R>i</R> it's made of a <F>er</F> wood</B>
+<A><OL><F>Mhm-huh</F></OL>.</A>
+<B><OL>and</OL> <R>so</R> <SC>soul</SC> soil. So <F>er</F> <F>er</F> it's <.></.> good enough to keep <F>er</F> <JP>nanteiunokana</JP> temperature inside the house. So <SC>it's</SC> <F>er</F> in winter, it's very cold, <F>er</F> so it's a very problem <OL>for me</OL>.</B>
+<A><OL><F>Ah</F> O K</OL>.</A>
+<B><JP><?>Chotto</?></JP>.</B>
+<A><F>Urm</F> now coming back to this picture, <F>er</F> you say <H pn="others2">XXX03</H> is a very nice area. Can you compare <SC>this scenes</SC></A>
+<B><OL><JP><F>Un</F></JP> <JP><F>un</F></JP></OL>.</B>
+<A><OL>yeah, this neighborhood</OL> with your own neighborhood?</A>
+<B>Yes. <F>Erm</F> <R>un</R> <F>er</F> <SC>unfortunately</SC> <JP>teiuka</JP> regret, <SC>my hou</SC> <F>ee</F> <R>in ne</R> <SC>in near ma</SC> near my house, there's no <F>u</F> field <F>er</F> <F>er</F> like this, so my children <F>er</F> cannot play <F>er</F> soccer or baseball <F>er</F> near my house so it's a very <F>er</F> <JP>nanteiukana</JP> regret. <JP><F>Un</F></JP> <JP><F>un</F></JP>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><?>All</?> right, thank you. Now, let's do a role play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K. Take a look. When you're ready, I'll begin the role play.</A>
+<ctxt>The interviewee is looking at the card and thinking of what to say.</ctxt>
+<B><F>Uum</F>.</B>
+<A>O K?</A>
+<B>It's a very tough. <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL>. Ready? <F>Er</F>. O K. Yes, Sir, may I help you?</A>
+<B><F>Er</F> <SC>I lost my train</SC> <F>er</F> <JP><?>tsukana</?></JP> <nvs>laughter</nvs> <F>er</F> <R>I</R> <R>I</R> I delayed to get on the train so <nvs>lip sound</nvs> <F>er</F> <.></.> <SC>ha</SC> <R>I ha</R> I have a <F>aa</F> reservation ticket for the train so <F>mm</F> <SC>I'd like to</SC> <SC>I'd like you to</SC> <F>er</F> <R>I'd like to</R> I'd like to take the next train with this <R>reservation</R> reservation. <R>Please</R> <F>er</F> <R>please</R> please permit it. <nvs>laughter</nvs></B>
+<A><R>I</R> I'm sorry, that reservation ticket is good only for the train you missed, I'm sorry.</A>
+<B><F>Err</F> <.></.> I know it's but <nvs>laughter</nvs> <F>er</F> <R>I</R> <F>mm</F> I already <F>er</F> <JP>nantendakke</JP> pay <F>er</F> much money <SC>for the reservation</SC> <F>er</F> for the ticket, so <F>er</F> <F>er</F> this time, <F>er</F> please give me your <F>er</F> permission.</B>
+<A><F>Oh</F> I'm sorry, I can't do that. It's against our company policy.</A>
+<B><laughter><F>Er</F> <F>er</F></laughter> <F>er</F> <F>uu</F> <F>u</F>. <R>Frankly speaking</R>, frankly speaking <JP>nanteiunokana</JP> <F>er</F> <.></.> actually, <SC>I</SC> <F>er</F> my bag was on <R>the train</R> the train so I have a problem. <F>Er</F>. So <SC>next train</SC> on the next train, <F>ah</F> <SC>let me take <SC>the</SC> <F>err</F> my</SC> <JP><?>nanteiu</?></JP> <R>let me <.></.> take</R> let me take the next train and <.></.> so <laughter><JP><?>nanteiunokana</?></JP></laughter> <F>erm</F> <.></.> <F>er</F> <SC>I have to</SC> <R>I</R> I need <SC>the</SC> my bag so <R>I</R> I'd like to <SC>get back my bag</SC> <SC>get back</SC> get my bag, so <F>eh</F> please <F>eh</F> let me take a next train.</B>
+<A><F>Oh</F> O K. <R>We</R> <R>we</R> we can keep your luggage <F>er</F> for you. That's no problem. <F>Er</F> but we cannot <SC>get</SC> let you get on the next train, unless you have a good reason for missing the train.</A>
+<B><F>Er</F>. <..></..> <F>Oh</F> my God. <F>Mm</F> <..></..> <F>mm</F> <CO><R>I</R> <OL><R>I</R> I</OL></CO>.</B>
+<A><OL>What happened</OL>? Why did you miss the train in the first place?</A>
+<B><F>Ah</F> <.></.> <SC>I</SC> <F>er</F> <F>er</F> before the <SC>leave the train</SC> leaving the train, <R>I</R> <R>I</R> I went to toilets <F>er</F> <SC>because of a</SC> because I had a stomachache, so <F>oh</F> <F>er</F> once <SC>I'm</SC> I got on <R>the train</R> the train, but I get off the train and go to toilet. So I lost.</B>
+<A><F>Oh</F> I see, you had a medical situation. O K. In that case, <F>er</F> probably I can get you a new ticket. So just a moment, all right? Get back to you.</A>
+</task>
+<followup> 
+<A>O K. Thank you. That's the end of role play.</A>
+<B><OL><JP><F>Aa</F></JP> <JP>arigatougozaimasu</JP></OL>.</B>
+<A><OL><F>Um</F> <F>um</F></OL>. <F>Urm</F> <R>have you</R> <F>ah</F> have you been to foreign countries?</A>
+<B><F>Mm</F>. Yes, I have.</B>
+<A>Have you been on a train anywhere in a foreign country?</A>
+<B>Yes, I have, <F>aa</F> one time.</B>
+<A><F>Um</F>. Have you run into any problems?</A>
+<B><laughter>Yeah</laughter>. <F>Er</F> when I went to <F>er</F> <R>Amsterdam</R> Amsterdam in Europe, <F>er</F> I <R>got</R> got the train, <F>ah</F> from <F>ah</F> airport to the <SC>city</SC> <F>eh</F> center of city, and in a Amsterdam, the train <F>e</F> does not make a announce inside the train, so I didn't know <F>ah</F> <SC>what</SC> when <R>I</R> I may <R>get</R> get off the train, <F>er</F> I didn't know <F>er</F> <F>er</F> how many stations <F>er</F> on the line <laughter>so</laughter> <R>I</R> <F>er</F> I asked the <SC>other</SC> another passenger <F>er</F> <SC>what</SC> when I have to get off the train.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A><OL>Did you get off</OL></A>
+<B><OL><?>Did you</?></OL>?</B>
+<A>O K?</A>
+<B>Yes, that's O K. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><laughter>O K, good</laughter></OL>. Now let me show you our last picture today. <nvs>cough</nvs> This one. <F>Er</F> this is a story that began here, number one, like this, and that's the ending, so please come up with your own story based on these pictures, beginning with "One day last week".</A>
+<B>One day last week.</B>
+<ctxt>The examinee is looking at the pictures and thinking of what to say.</ctxt>
+<B><F>Um</F> <F>hmm</F> one day last week, <F>er</F> I went to a department store <.></.> <F>er</F> <F>er</F> to buy <F>er</F> <F>ah</F> tie for my husband. <F>Er</F> <R>I</R> <R>I</R> <F>ur</F> I was <SC>looking for <F>u</F> <JP><F>ee</F></JP> the</SC> looking for a tie <F>eh</F> <nvs>lip sound</nvs> <?>have a</?> <JP><F>un</F></JP> <SC>when I looking for</SC> when I was looking for a tie, <F>er</F> <F>er</F> <SC>one</SC> <JP><?>nanteiunokana kore</?></JP> one <F>er</F> <JP><?>nanteiundakke</?> kore</JP> <SC>clerk</SC> <JP>tte <?>iunyanakattakana</?></JP> <SC>clerk <JP>tte</JP></SC> clerk come to me and asked <F>er</F> <F>eu</F> which one <R>is</R> is the best. <F>Er</F> <..></..> <F>mm</F> <R>I</R> I don't know which one is the best for my husband, so <F>er</F> <SC>I didn't</SC> <R>I</R> I could not decide which one is the best. <R>The</R> the clerk <F>er</F> recommended <F>um</F> green one. The color is green. <F>Er</F> I thought <F>er</F> this green tie is <F>er</F> <R>lo</R> <F>er</F> looks good for my husband so <SC>I took</SC> <F>er</F> I decided to <F>u</F> buy this one. <..></..> <F>Eh</F>. <.></.> <R>The</R> the purpose of my buying tie <SC>is</SC> was <F>er</F> present for <SC>my husband</SC> <F>er</F> my husband's birthday, so I asked him to wrap the tie <..></..> and then <F>ahm</F> <JP><F>ee</F></JP> <SC>I paid the</SC> <R>I</R> I paid the money <.></.> for the tie to clerk. And then, <SC>she</SC> <JP><F>a</F></JP> <JP>chigauna</JP> I wanted to <F>uu</F> buy <F>er</F> <F>er</F> <R>golf</R> golf club. <F>Er</F> <F>er</F> <F>u</F> <F>u</F> <R>a</R> I wanted to buy not only <F>er</F> tie, <F>er</F> <R>I</R> I wanted to <F>er</F> buy a golf club for my husband. <F>Mm</F> my husband <F>eh</F> like to play golf, <SC>so</SC> <R>but</R> but <R>I didn't know</R> I didn't know where the golf club is sold in the department store, so I asked him. <R>He</R> <F>ee</F> <nvs>cough</nvs> <R>he</R> he taught me where the golf club is sold. The golf club is sold <SC>in</SC> on <F>en</F> third floor of the department store, so I went to buy the golf club.</B>
+<A>O K. Right. <OL><laughter>Thank you, thank you</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> we're almost at the end of this interview. <F>er</F> so <R>you</R> you wanted to buy some golf clubs there.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Urm</F></OL>. So where do you go to play golf around here?</A>
+<B><F>Er</F> <JP><F>su</F></JP> <JP><F>ettone</F></JP> <JP><F>ee</F></JP> <R><H pn="others5">XXX06</H></R> <R><H pn="others5">XXX06</H> prefec</R> <H pn="others5">XXX06</H> Prefecture. <F>Er</F> <SC>my co-workers</SC> <R>I</R> <R>I play</R> I play golf with my co-workers of company. <SC>My co-workers are living in</SC> <F>er</F> most of the co-workers are living in <H pn="others5">XXX06</H> Prefecture, so we play a golf in <H pn="others5">XXX06</H> Prefecture sometime.</B>
+<A><F>Ah-huh</F>. Is there nice courses there?</A>
+<B><F>Mm</F> yes.</B>
+<A>Yeah?</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. All right, thank you very much. <OL>This is the end of the interview</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+</stage5>
+</body>
+</interview>

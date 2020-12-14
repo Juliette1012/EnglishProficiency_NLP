@@ -1,0 +1,151 @@
+<interview>
+<filename>file00748.txt</filename>
+
+<head version="1.3">
+<date>2001-10-26</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's get started. Hello. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>Yes. My name is <R><H pn="B's name">XXX02</H></R> <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to</OL> meet you, too.</B>
+<A>O K. It's Friday today. But what do you usually do on Fridays?</A>
+<B><F>Uum</F>. I <..></..> circle activity. <F>Uum</F>. <SC>And</SC> or <F>uum</F> sometimes <F>uum</F> drink with <?>the</?> friends.</B>
+<A><F>Err</F> I see. Where do you usually go for drinking out?</A>
+<B><JP><F>Uunto</F></JP>. I often go Ikebukuro.</B>
+<A><F>Hum</F>. <F>Er</F> why Ikebukuro?</A>
+<B><nvs>laughter</nvs> <.></.> <F>Hm</F>. Cheap and <.></.> near <F>er</F> <H pn="school name1">XXX03</H>.</B>
+<A><F>Um</F>.</A>
+<B>And <..></..> <JP><F>eeto</F></JP> other universities' friends</B>
+<A><F>Err</F>.</A>
+<B><R>go</R> <..></..> <??></??> <.></.> go Ikebukuro so <?>easily</?>.</B>
+<A><F>Uum</F>. I see. You said you belong to a circle. Please tell me about the circle.</A>
+<B>Yes. <F>Ee</F> it's Latin-American music circle. <..></..> Not so interesting.</B>
+<A><F>Err</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>Why not?</A>
+<B><F>Err</F> <F>uum</F>. <R>I</R> <..></..> <SC>I'm not</SC> I don't like friends.</B>
+<A><F>Err</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Hm</F>. <.></.> I see. What do you do there in that circle?</A>
+<B><JP><F>Eeto</F></JP>. It's behind the <H pn="others1">XXX04</H>. <..></..></B>
+<A>And?</A>
+<B>And?</B>
+<A>Do you sing?</A>
+<B><F>Uum</F>. Sometimes.</B>
+<A><.></.> I see.</A>
+<B>I play guitar.</B>
+<A><F>Er</F> I see. O K.</A>
+<B>Not so <F>uum</F> <F>well</F>.</B>
+<A><laughter>I see</laughter>. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A><H pn="B's name">XXX02</H>, now,</A>
+<B><JP>Hai</JP>.</B>
+<A>please look at this picture. And describe it.</A>
+<B><JP><F>Uunto</F></JP>. It describes <F>uum</F> <..></..> dinner. And <.></.> <F>uum</F> they <.></.> drink wine. And <..></..> <F>mm</F> <F>mm</F> <..></..> the guests <.></.> eat dinner. <F>Hm</F>. She <laughter>plays</laughter> the piano.</B>
+<A><F>Um</F>.</A>
+<B><F>Hmm</F>. <.></.></B>
+<A><F>Um</F>. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Is this restaurant different from the restaurant you often go to in Ikebukuro?</A>
+<B><F>Um</F>. No.</B>
+<A>Different? Same?</A>
+<B>No.</B>
+<A>No? <F>Uum</F>. Does this look like <SC>the restaurant</SC> your favorite restaurant?</A>
+<B><.></.> <laughter>No</laughter>. <R>I</R> <.></.> I don't go <.></.> that restaurant.</B>
+<A><F>Uum</F>. Then, what kind of restaurant <OL>do you go to</OL>?</A>
+<B><OL><F>Uum</F></OL>. Me? <JP><F>Eeto</F></JP>. It's cheap restaurant. And <R>I</R> <.></.> I sometimes go Saizeria <.></.> near from here.</B>
+<A><F>Er</F> I see. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <F>erm</F> please look at this. And let's do a role-play. When you are ready, I will start.</A>
+<B>Yes. <JP><F>Eeto</F></JP> <laughter><JP>denwa</JP></laughter>. Hello?</B>
+<A>Hello? <H pn="A's name">XXX01</H> speaking.</A>
+<B>I'm <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B><F>Eh</F>. <..></..> <??></??>. <JP><F>Eeto</F></JP>. <..></..> <R>Are you f</R> are you free tomorrow?</B>
+<A>Tomorrow? Yes.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>I'm</OL> free all day.</A>
+<B><F>Oh</F>. And <F>er</F> <.></.> could you go to the movie?</B>
+<A>Yes. Sure.</A>
+<B><F>Oh</F> <F>uum</F>. <F>Hm</F>. <..></..> <JP><F>Eeto</F></JP> <R>what time</R> <.></.> <F>uum</F> <..></..> <F>er</F> what time <.></.> do you want to go?</B>
+<A><F>Uum</F>. How about ten A M?</A>
+<B>O K. <F>Uum</F> <F>um</F>. So <laughter><R>I</R></laughter> <..></..> I catch you by car.</B>
+<A><F>Err</F> that's great. <nvs>laughter</nvs></A>
+<B><laughter>O K</laughter>?</B>
+<A>Yes. Thank you.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>I'll be</OL> waiting for you. Thank you.</A>
+</task>
+<followup>
+<A>Now, O K. <H pn="B's name">XXX02</H>, do you drive?</A>
+<B><JP><F>Uunto</F></JP> <R>I</R> <.></.> I have car license yesterday.</B>
+<A><F>Err</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>Congratulations.</A>
+<B><laughter>Thank you</laughter> very much.</B>
+<A><F>Err</F>. So have you driven already?</A>
+<B>Yes.</B>
+<A><F>Ah</F>. O K. Please tell me about that. Your first time driving.</A>
+<B><laughter>Your first time driving</laughter>. <JP><F>Uunto</F></JP> <JP><F>uunto</F></JP> <F>err</F> my first driving time is before <R>I</R> <.></.> I went to car driving school.</B>
+<A><OL>laughter</OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Hm</F>. <R>No</R> no license.</B>
+<A><F>Wow</F>.</A>
+<B><JP><F>Uunto</F></JP> <F>uum</F>. My friend <.></.> want to drive me. <nvs>sniff</nvs> And <F>er</F> two o'clock A. M. <F>um</F> midnight. <F>Uum</F> <JP><F>uunto</F></JP> <R>the stree</R> the street is not so crowded. <JP><F>Uunto</F></JP> <F>hmm</F>. <.></.> <SC>Very, very</SC> <JP><F>uunto</F></JP> <..></..> <JP><F>uunto</F></JP> <JP>nandaro</JP> <.></.> <JP><F>eeto</F></JP> <JP><F>uunto</F></JP> <laughter><SC?>not toward</SC?></laughter> <JP><F>uunto</F></JP> no <.></.> other cars. <nvs>laughter</nvs> <..></..> <laughter><R>That's</R></laughter> <OL>that's all</OL>.</B>
+<A><OL>Were you</OL> scared?</A>
+<B><laughter>No, <JP><F>eeto</F></JP> that's interesting</laughter>.</B>
+<A><F>Oh</F> I see. <nvs>laughter</nvs> O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, please look at these. And make a story using these four pictures. And please start with "One day last week," and your own story after that. O K?</A>
+<B>Yes.</B>
+<A>Go ahead.</A>
+<B><JP><F>Ee</F></JP> one day last week, I went to zoo with my girlfriend. And first, I see lion. And <.></.> <SC>lion is so s</SC> <F>err</F> I think lion is so scared. But <SC>it is</SC> it was <JP><F>uunto</F></JP> not so scared. <R>And</R> <.></.> and after, <SC>I see</SC> <F>er</F> <SC>we see</SC> we saw monkey. And monkey ate banana. And my girlfriend ate soft cream. <F>Err</F> <.></.> we enjoyed zoo. And <R>we</R> <F>uum</F> <..></..> <JP><F>uunto</F></JP> we so bye <F>um</F> in front of the zoo.</B>
+<A><F>Um</F>. <.></.> O K. Good. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you think a zoo is a nice place for a date?</A>
+<B><F>Ee</F>. <CO><SC>Not</SC> <F>mm</F> I think not <OL>so</OL></CO>.</B>
+<A><OL><F>Hm</F></OL>. Why not?</A>
+<B><laughter><F>Ee</F></laughter> <F>ee</F>. <..></..> <?>And</?> I'm twenty years old now. And <SC>I <.></.> go <.></.> to zoo with girlfriend is</SC> <F>err</F> I think I go to the zoo with the girlfriend is not so interesting.</B>
+<A><F>Er</F> I see. Then, where do you usually go</A>
+<B><laughter><JP><F>Ee</F></JP></laughter>?</B>
+<A>for a date?</A>
+<B>I'm not have girlfriend. And, yeah, <JP><F>uunto</F></JP> <.></.> <JP><F>uunto</F></JP> shopping, <F>err</F> movies <..></..> and so on. <CO><R>And</R> <..></..> and</CO>. <.></.> <OL>But</OL>,</B>
+<A><OL>O K</OL>.</A>
+<B><SC>I'm</SC> I don't have girlfriend <laughter>now</laughter>.</B>
+<A>I see. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Then, good luck in the future.</A>
+<B><laughter>Thank you very much</laughter>.</B>
+<A>O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Thank you for coming today.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,205 @@
+<interview>
+<filename>file00533.txt</filename>
+
+<head version="1.3">
+<date>2001-07-24</date>
+<sex>female</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC>605</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Um</F>. So <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine, thank you. And you?</B>
+<A>Fine, thank you. So, it's really hot outside.</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>But</OL> how did you get here?</A>
+<B><F>Um</F>. <R>I'm</R> I'm <SC>get</SC> <SC>got to</SC> <F>um</F> got in train.</B>
+<A><F>Err</F>. And then, you walked here?</A>
+<B><F>Er</F>. Yes.</B>
+<A><F>Uhu</F>. It must've been really hot.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>Yeah.</A>
+<B><.></.> So I'm <laughter>tired</laughter>.</B>
+<A>Right.</A>
+<B><nvs>laughter</nvs></B>
+<A>I see. So <F>er</F> <H pn="B's name">XXX02</H>, <F>um</F> do you do any part-time jobs?</A>
+<B><F>Um</F>. <F>Err</F>. <R>S</R> <SC>s</SC> yes. <R>I</R> <R>I work</R> <F>mm</F> I work in convenience store,</B>
+<A><F>Uhu</F>.</A>
+<B><F>uum</F> <F>um</F> two times a week.</B>
+<A>Right.</A>
+<B>Yes. And another, <R>I</R> <F>um</F> <F>erm</F> <SC>I wor</SC> <F>mm</F> <R>I</R> <F>mm</F> I <SC>teach <F>uum</F> the brass band</SC> teach in the brass band club.</B>
+<A><F>Ah</F>. You teach.</A>
+<B>Yes.</B>
+<A><F>Err</F>.</A>
+<B><F>Er</F> I'm conductor <F>hm</F> <.></.> so in brass band club.</B>
+<A><F>Uhu</F>.</A>
+<B><R>So</R> <.></.> <F>er</F> <F>um</F> <R>so <F>uum</F> my</R> so <R>my</R> my teacher in <R>junior high school</R> junior high school,</B>
+<A>Right.</A>
+<B><F>hm</F> <.></.> <R>teached the</R> teached the brass band club. And <R>she</R> she asked me to teach <SC>with me</SC> <F>er</F> <R>with</R> with her.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Uum</F>. <CO>So</CO>. <SC>Because I</SC> <F>err</F> <F>er</F> because <R>when I</R> when I was <R>ju</R> <F>er</F> junior high school students, <R>I</R> <SC>I was a conductor</SC> <SC>as</SC> <F>um</F> so <F>um</F> <R>I</R> <F>er</F> I was a conductor.</B>
+<A><F>Err</F>. I see. So what's so interesting about doing that? <?>How about that</?>?</A>
+<B><F>Hm</F>? <CO>Interested</CO>.</B>
+<A>Yeah. What's so interesting or exciting <OL>about <??></??></OL>?</A>
+<B><OL><F>Err</F></OL> so <R>I</R> <R>I like</R> <F>um</F> I like <F>erm</F> <R>j</R> junior high school students. And <F>uum</F> <R>they</R> <R>they a</R> <R>they are</R> <R>they are very</R> <F>er</F> <??></??> <F>uum</F> they are very honest.</B>
+<A><F>Ah</F>.</A>
+<B>So <R>if</R> <SC>if they <F>uum</F> can't play</SC> <F>er</F> <??></??> <R>if</R> if they <F>uum</F> can't play well,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>um</F> <R>they</R> <nvs>laughter</nvs> they say, <F>err</F> "<R>I</R> I want to stop <laughter>exercising</laughter>.". <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Right</OL>. Yeah.</A>
+<B><F>Hm</F>. <R>But</R> <F>err</F> but I <SC>pointed out</SC> <F>er</F> pointed their <F>um</F> <R>nice</R> <R>nice</R> <F>uum</F> nice <R>play</R> playing,</B>
+<A>Right.</A>
+<B><F>hm</F> <SC>they ve</SC> <R>they are very</R> <F>uum</F> <nvs>laughter</nvs> they are very <F>uum</F> happy.</B>
+<A><F>Uhu</F>.</A>
+<B>So <R>they</R> they are very honest.</B>
+<A><F>Um</F>. I see. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>So, the first thing today, I'm going to show you a picture. So please describe it.</A>
+<B>Yes. <F>Uum</F>. <SC>In a room, <F>uum</F> a girl <F>uum</F> <R>sitting</R> sitting a chair</SC>. <CO>And</CO>. <F>Uh</F>. Sorry. <F>Er</F> in the room, <F>uum</F> a girl stay with a dog. <F>Hm</F>. She face to a computer <R>and</R> <F>hm</F> <R>and</R> <??></??> and <R>talked</R> <.></.> talked with <.></.> the cat. But the <SC>cat were</SC> <F>er</F> cat is <R>sleep</R> sleeping. And <F>uum</F> the room is very clean. <F>Uum</F>. <R>She has</R> she has <F>uum</F> very nice audio. <R>And</R> <F>uum</F> and <SC>the room has</SC> the room, there is very big window and <F>mm</F> beautiful orange curtain.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Hm</F>.</B>
+<A>All right. Thank you very much.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX02</H>, <F>um</F> <.></.> what are some differences between the room in this picture and your own room?</A>
+<B><F>Oh</F>. <F>Uum</F>. <.></.> <F>Uh</F>. Different <OL>things</OL>?</B>
+<A><OL>Difference</OL>. Right.</A>
+<B>O K. <F>Uum</F>. <F>Uh</F>. So <F>um</F> in her room,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>mm</F> <R>she</R> she has desk-top computer.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>But I</SC> <F>uum</F> and <R>I</R> I have <F>um</F> <SC>note <JP>pasokon</JP></SC> note-type computer,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>um</F> <R>in</R> in my room.</B>
+<A>Right.</A>
+<B><F>Hm</F>. <R>And</R> and maybe she has <F>um</F> <R>stereo</R> stereo. But <R>I</R> <F>uum</F> I have M D player and not have <F>uum</F> stereo.</B>
+<A><F>Uum</F>.</A>
+<B><F>Hm</F>.</B>
+<A>O K. So you said you have a computer. And what do you use it for?</A>
+<B><F>Mh-hmm</F>. <F>Uh</F>. <?>I'm</?> sorry?</B>
+<A>You said you have a computer at home.</A>
+<B><F>Um</F>.</B>
+<A>And what do you use it for?</A>
+<B><F>Err</F>. <F>Uum</F>. <F>Er</F> <R>I write</R> <F>uum</F> <F>um</F> <R>I write</R> <JP>a chigauna</JP> yeah, I write novels and poems,</B>
+<A>Right.</A>
+<B>and so on. <R>I</R> I use my computer <F>uum</F> <SC>with</SC> as <JP>waapuro</JP>.</B>
+<A><F>Ah-huh</F>. <OL>All right</OL>.</A>
+<B><CO><OL><R>And</R></OL> and other</CO>. <F>Uum</F>. <CO>So</CO>. <F>Uh</F> <R>I</R> I make my homepage.</B>
+<A><F>Er</F>. <OL>Really</OL>?</A>
+<B><OL>And so</OL>, every day, <R>I</R> <F>uum</F> <R>I</R> <.></.> I update my homepage.</B>
+<A><F>Uhu</F>.</A>
+<B>And write diary with my computer.</B>
+<A><F>Uhu</F>. So what kind of things do you <.></.> write?</A>
+<B><F>Err</F>. <CO>In my homepage, I introduced <F>uum</F> my favorite <SC>cinema</SC> <R>mo</R> movie <R>and</R> and novels <R>or</R> or</CO>. <CO>So</CO>. <SC>I</SC> <F>uum</F> <.></.> so I write <F>mm</F> <R>my</R> <F>um</F> my care diary.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F> <R>I</R> <.></.> <F>err</F> I play with <F>um</F> a handicapped boy.</B>
+<A>Right.</A>
+<B><F>Uum</F>. For <.></.> <F>um</F> <R>I</R> I play with a handicapped boy,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>um</F> sometimes. <F>Um</F>. <R>So</R> so I write about the day with a handicapped boy.</B>
+<A>Right. I see. All right. So, thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So, the next thing today, we are going to do a role-play. So please read that card silently. And when you are ready, please let me know.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><OL><??></??></OL>.</B>
+<A><OL>So are</OL> you ready?</A>
+<B>Yes.</B>
+<A>O K. So, good afternoon. How can I help you?</A>
+<B><F>Er</F> excuse me. <R>I</R> <SC>I want to</SC> <F>er</F> I would like to go to New York,</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL><F>ur</F></OL> fastly.</B>
+<A>Right.</A>
+<B><F>Hm</F>. So <R>what</R> <F>er</F> what should I buy a ticket?</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>Mm</F></OL>? <JP>A chigauna</JP>. What type should I buy?</B>
+<A><F>Uh-huh</F>.</A>
+<B><CO><SC>What type</SC> <nvs>laughter</nvs> <.></.> what</CO>. <.></.> <F>Er</F> <CO>so</CO>. <F>Er</F> <F>er</F> <CO>so <.></.> <F>erm</F> please</CO>. <F>Uum</F>. <JP>Na na nante iundattakke</JP>. <.></.> <F>Uum</F>. <F>Er</F> what times <F>mm</F> should I get the train?</B>
+<A><F>Um</F>. We have two types of trains to go to New York.</A>
+<B><F>Um</F>. <R>Which</R> which types? <OL><F>Mm</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><.></.> Which types should I <SC>get to</SC> <F>mm</F> get in train?</B>
+<A><F>Uhu</F>. <F>Well</F> it depends. <..></..> <F>Uh-huh</F>. <..></..> O K. We have <F>um</F> two types of trains. And one is express train, another one is super express train.</A>
+<B><F>Ah</F>. <F>Um</F>. <CO><R>Please</R> <F>um</F> <R>please get me</R> <F>um</F> please</CO>. <F>Er</F>. <.></.> <F>Er</F> <R>I</R> I would like to buy a <R>super</R> <R>super</R> <JP>nandattakke</JP> <.></.> super express train,</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> ticket.</B>
+<A>Right.</A>
+<B><.></.> So <R>I</R> I need to one ticket.</B>
+<A><F>Uhu</F>. All right.</A>
+<B><F>Hm</F>. <F>Uum</F>. <.></.> <F>Hm</F>. <R>What times</R> <F>um</F> <.></.> what times can I get the train,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>um</F> in the fast?</B>
+<A><F>Um</F>. You can take the train at three o'clock.</A>
+<B>Three o'clock?</B>
+<A>Right.</A>
+<B>Yes. O K. <SC>I</SC> <F>um</F> <.></.> <F>erm</F> <R>s</R> so I want to three o'clock ticket.</B>
+<A>All right. So here is your ticket. So <F>um</F> please enjoy your trip to New York.</A>
+<B>Yes. <OL>Thank you</OL>.</B>
+<A><OL>O K</OL>. So <H pn="B's name">XXX02</H>, this is the end of the role-play.</A>
+</task>
+<followup>
+<A>So <F>er</F> do you like taking trains?</A>
+<B><F>Um</F>?</B>
+<A>Do you like to take trains?</A>
+<B><F>Um</F>. Yes.</B>
+<A><F>Uhu</F>. Why?</A>
+<B><F>Uum</F>. So <SC>my</SC> <F>uum</F> <R>I</R> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And the <H pn="others1">XXX03</H> is very <R>small</R> small city.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <SC>with</SC> <F>um</F> if <R>I</R> I <R>get</R> <F>um</F> <F>er</F> get train,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>hm</F> <R>I</R> I can go to <R>far</R> far place.</B>
+<A>Right.</A>
+<B><CO>And</CO>. <F>Um</F>. For example, Tokyo and <F>er</F> Chiba or <F>um</F> another place. <R>I</R> I can go fast.</B>
+<A><F>Um</F>. All right. I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So the last thing today, I'm going to show you another picture. And this time, please make a story using these four pictures.</A>
+<B><F>Ah</F>.</B>
+<A>And this story was happened last week, so please start your story with "One day last week".</A>
+<B>Last week.</B>
+<A>O K?</A>
+<B>Yes. O K. <nvs>cough</nvs> <F>Uum</F>. <R>On the day last week</R> <F>um</F> on the day <F>mm</F> last week, <F>uum</F> <F>um</F> two boys and one girl <F>mm</F> went to <SC>theater</SC> <F>hm</F> <SC>and <.></.> <?>if</?></SC> <F>um</F> theater to watch the movie. The <R>movie was</R> <F>uh</F> movie was <F>um</F> <SC>nac</SC> action. <F>Uum</F>. <CO>And</CO>. <CO>So</CO>. <F>Uum</F>. <R>Before</R> before they watched the movie, <F>uum</F> <R>they</R> they bought <F>uum</F> popcorn and <F>er</F> <R>soft</R> soft drink. <F>Uum</F>. <.></.> <CO><R>S</R> <.></.> so</CO>. <F>Mm</F>. <SC>And then, <F>mm</F> the movie was</SC> <F>um</F> <F>er</F> <SC>and then, in the theater is</SC> <F>er</F> <SC>there is</SC> there was many people to watch the movie. But <R>they</R> <F>er</F> they got the <R>nice</R> nice seat to watch <F>um</F> and enjoying <SC>the ci</SC> <F>um</F> the movie. <F>Uum</F>. So after the movie, <R>they</R> <F>um</F> <F>uum</F> <SC>they don't</SC> <F>er</F> they didn't want to go to the home. <SC>So they</SC> <F>uum</F> <R>so a</R> so a <R>girl</R> <F>uum</F> <SC>girl say, <F>um</F> "Let's go to"</SC> <F>er</F> a girl said, <F>er</F> "Let's go to karaoke.". <F>Um</F>. And the <R>two boys</R> <F>um</F> <R>two boys</R> <F>um</F> <.></.> <F>um</F> <F>hm</F> <SC>two boys is</SC> <F>mm</F> <.></.> the two boys <R>went</R> went to karaoke with her.</B>
+<A><F>Um</F>. All right. Thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>So, we are almost at the end of the interview. So <F>er</F> do you have any plans after this interview?</A>
+<B><F>Err</F>. Yes.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Er</F></OL> Yes. <R>I</R> I will meet my friend,</B>
+<A>Right.</A>
+<B>and <F>uum</F> look <F>um</F> and buy <F>um</F> <F>err</F> <JP>nandaro</JP> <JP><R>ga</R> gakufu</JP> <SC>no</SC> <SC>musi</SC> <F>mm</F> <nvs>laughter</nvs> <JP>nante iundaro</JP> <F>mm</F> and the <SC>score in</SC> <F>er</F> score of <.></.> gospel,</B>
+<A>Right.</A>
+<B>in Ginza.</B>
+<A><F>Er</F>. I see. So I hope you have a wonderful time,</A>
+<B><nvs>laughter</nvs> Thank <OL>you</OL>.</B>
+<A><OL>with your</OL> friend. And thank you so much for coming in.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

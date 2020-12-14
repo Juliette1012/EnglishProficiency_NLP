@@ -1,0 +1,235 @@
+<interview>
+<filename>file00063.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B><F>Mhm</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><OL>O K, <?>nice to meet you</?></OL>.</A>
+<B><OL>Please call me <H pn="B's name">XXX02</H></OL>.</B>
+<A><H pn="B's name">XXX02</H>? O K. O K. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>In</SC> I live in <H pn="others2">XXX04</H>. Do you know <H pn="others2">XXX04</H>?</B>
+<A>No. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>No</OL>?</B>
+<A><laughter>No</laughter>.</A>
+<B>Do you know "<JP><H pn="others3">XXX05</H></JP>"?</B>
+<A><F>Er</F> yes, I've heard of that.</A>
+<B><F>Mhmm</F> very famous Japanese singer, <SC>Hosokawa</SC> Takashi Hosokawa</B>
+<A><F>Hu-huh</F>.</A>
+<B>sing a song,</B>
+<A><F>Hu-huh</F>.</A>
+<B>"<JP><H pn="others3">XXX05</H></JP>".</B>
+<A>O K. And then, <R>how</R> how do you come here? <.></.> How? How did you come here?</A>
+<B><F>Mhm</F> <F>mhmm</F> from my <OL>house</OL>,</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>I go to station. The station name is <H pn="others2">XXX04</H>,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and from <H pn="others2">XXX04</H> to <H pn="others4">XXX06</H>,</B>
+<A><F>Hu-huh</F>.</A>
+<B>it takes, so, <SC>one hour</SC> about one hour by train.</B>
+<A><F>Hu-huh</F>. O K. And, how often do you come to university?</A>
+<B>Today?</B>
+<A>How often?</A>
+<B><F>Ah</F>. <F>Mhm</F>.</B>
+<A>How many days in a week?</A>
+<B><..></..> Every day.</B>
+<A>Every day?</A>
+<B>Yeah. Because <F>mhmm</F> at Sunday, I will come to <H pn="others4">XXX06</H>, and I meet friends</B>
+<A><F>Hu-huh</F>.</A>
+<B>many time.</B>
+<A>I see. <F>Urr</F> does that mean, do <R>you</R> you have the club activity?</A>
+<B>Yes.</B>
+<A><F>Uh-huh</F>. Please tell me about your club activity.</A>
+<B>Yeah. <F>Uhmm</F> <R>I</R> <.></.> I belong to the dance and <SC>play circle</SC> drama circle.</B>
+<A><F>Uh-huh</F>.</A>
+<B>The name is <H pn="others5">XXX07</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter><H pn="others5">XXX07</H> sounds interesting, O K</laughter></OL>.</A>
+<B><laughter>Its name is <R>very</R> very fantastic</laughter>,</B>
+<A><OL><laughter>Yes</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>I think so</laughter>.</B>
+<A>O K. And what do you do in the club?</A>
+<B><F>Mhmm</F>. Last year, <R>I</R> <SC>I dance</SC> <R>I</R> I was dancing and <.></.> play drama, but now, <.></.> I'm staff.</B>
+<A><F>Uh-huh</F>.</A>
+<B>I help many dancers.</B>
+<A><F>Hu-huh</F>.</A>
+<B><SC>I</SC> <R?>su</R?> so, <F>mhmmm</F> I help many members <R>for</R> <.></.> for stage.</B>
+<A><F>Hu-huh</F>. O K. <F>Well</F> do you have any other hobbies?</A>
+<B>Yes. I like travel and snow boarding.</B>
+<A><F>Uh-huh</F>. So the winter has come. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yeah</laughter>, I'm very happy</OL>.</B>
+<A>Do you have any plan?</A>
+<B>Yeah. I will go to Niigata and Nagano for snow boarding.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Mhmm</F> three or four times</B>
+<A><F>Hu-huh</F>.</A>
+<B><SC>a winte</SC> one winter.</B>
+<A><F>Hu-huh</F>. Is it dangerous? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes</OL>. <nvs>laughter</nvs></B>
+<A>Then why do you like it? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Mhmm</F> now <R>I'm</R> I'm going to driving license school,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and I will get driving license maybe <R>one</R> <SC>one month <R>a</R> ago</SC> <F>ah</F> one month after.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> so, <SC>I will go to</SC> <F>um</F> <SC?>mon</SC?> I will go to Nagano or Niigata by car.</B>
+<A><F>Hu-huh</F>.</A>
+<B>It is very very dangerous.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>But, maybe it's interesting. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>It's very fun.</A>
+<B>Yeah.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. <F>Well</F> I have some picture to show you. Please look at this picture. Please describe this picture.</A>
+<B><F>Oh</F> <..></..> <F>mhmm</F> it's a very very sunny days. And, <SC>many people</SC> <F>ah</F> there is a many people. <F>Um</F> children play ball game, and <.></.> old man read newspaper sitting on a <F>mm</F> brown chairs. And <.></.> cat is sleeping on the car. <SC?>And</SC?> <R>so</R> so <R>younger</R> <F>mm</F> <R>younger</R> younger lady and older lady are talking. <..></..> And, <.></.> <F>mhmm</F> <.></.> <F>huhh</F> <.></.> <R>small</R> small girl <R>i</R> is playing <JP><R>nawa</R></JP> <JP>nawatobi</JP></B>
+<A><F>Hu-huh</F>.</A>
+<B><..></..> on the garden. <.></.> And dogs are maybe talking, but <laughter>maybe</laughter>. <..></..> <?>Its</?> picture is very very fine. And <.></.> <SC>big house</SC> <F>ah</F> <R>there is</R> there is a big house, maybe <.></.> some people is family, <.></.> and <R>they</R> they live in this house. <F>Mhm</F>. And, <SC>there is</SC> there are many many green. <..></..></B>
+</task>
+<followup>
+<A>O K.</A>
+<B>Yeah.</B>
+<A><?>O K</?>. And, does your neighborhood look like this picture?</A>
+<B>Yes.</B>
+<A><F>Uh-huh</F>. So, <F>er</F> do you have much green around your house?</A>
+<B>Yeah. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Please tell me about your neighborhood.</A>
+<B><F>Mhmm</F>. <SC>So, <..></..> <F>mhmm</F> <R>my neighborhood</R> <.></.> <F>mhmm</F> my neighborhood</SC> <F>uhmm</F> <.></.> so <F>mhmm</F> <..></..> near my house, there are much greens,</B>
+<A><F>Hu-huh</F>.</A>
+<B><R>and</R> <.></.> and very silent</B>
+<A><F>Hu-huh</F>.</A>
+<B>because <R>there is</R> <F>ah</F> there is a few car and few house.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F>. <SC>It is very very</SC> <..></..> so, <F>mhm</F> it is very very <SC>quie</SC> <F>er</F> silent city.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F>.</B>
+<A>O K. Thank you. <F>Oh</F> now, <nvs>cough</nvs> let's play a role play.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL> please read this card. And, when you're ready, we will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>Yeah.</B>
+<A>O K. Hello. May I help you?</A>
+<B>Yeah. <F>Err</F> I want to go to New York by train.</B>
+<A><F>Hu-huh</F>.</A>
+<B>I want to ticket <R>fo</R> for New York. Please tell me <F>er</F> <R>about</R> <F>uhmm</F> <.></.> <R>about</R> <.></.> about <R>from</R> from this place to New York.</B>
+<A><F>Hu-huh</F>.</A>
+<B><SC>How</SC> <.></.> <F>mhm</F> <F>mm</F> <F>mhm</F> <F>mm</F> sorry, I want to go to New York so I want to ticket for New York, and please tell me <F>um</F> how much is it.</B>
+<A>O K. It depends on the train.</A>
+<B>Yeah.</B>
+<A>And, we have three kinds of trains.</A>
+<B><F>Mm</F> please tell me three kind of train.</B>
+<A>O K. We have super-express, and express, and local train.</A>
+<B>Local train? <OL><F>Mhmm</F></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>so, <R>I have</R> I have not much money, <OL>so</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>I want to go to local train.</B>
+<A>O K.</A>
+<B><R>How</R> how much is it?</B>
+<A><F>Oh</F> it costs twenty dollars.</A>
+<B>Twenty dollars?</B>
+<A><F>Hu-huh</F>.</A>
+<B>O K. <F>Oh</F> I <laughter>have</laughter>.</B>
+<A><laughter>O K</laughter>.</A>
+<B>Lucky. <laughter>I'm lucky</laughter>.</B>
+<A>O K. <F>Well</F> we have <SC>five co</SC> five trains for New York today.</A>
+<B>Really?</B>
+<A>Yes, so what time?</A>
+<B><F>Mhmm</F>. <R>Now</R> <F>ah</F> <SC>now</SC> so now, <..></..> <F>mhmmm</F> <.></.> I want to go to New York at six o'clock.</B>
+<A><F>Uh-huh</F>.</A>
+<B>What train is best?</B>
+<A>O K. <F>Urr</F>, Probably <SC>four time</SC> <R>four</R> four o'clock train, yeah, would be the best.</A>
+<B>Yeah. I want to.</B>
+<A>O K. Do you need one ticket?</A>
+<B>Yeah.</B>
+<A>O K. O K, here is the ticket. O K?</A>
+<B><F>Ah</F> O K.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Thank</OL> you very much.</B>
+<A>And, twenty dollars, please. <.></.> O K. Thank you very much.</A>
+<B><OL>You're welcome</OL>.</B>
+<A><OL>Have a</OL> nice trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you. <OL>O K</OL>.</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>And lastly, I have another picture to show you.</A>
+<B>Yeah.</B>
+<A>O K. <?>Please take a look at</?>. O K. Please look at this picture, and please make up a story from one through six. And this happened last week, so please start the story with "One day last week".</A>
+<B><F>Hum</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>O K. <..></..> "I"?</B>
+<A>Yeah. Anyone is O K.</A>
+<B>Yeah.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>. <..></..> Last week, <F>mhm</F> I went to department for buying a present for my husband, because <F>mhmm</F> <R>two week</R> <SC>two week later, my husband</SC> <F>ah</F> two week later, <F>um</F> <F>uhmm</F> <.></.> my husband birthday, so I went to department. <SC>I want to <R>floor</R> <.></.> <SC>floor of</SC> floor</SC> <R>I want to</R> <SC>I want to go</SC> I want to buy a good things, <F>eh</F> <F>ah</F> and I think, "What is good?". I think <F>ah</F> <F>hum</F> tie is good, so I went to tie shop. <.></.> And <R>I talk with</R> <..></..> I talk with <F>mhmm</F> seller. <.></.> <F>Mhmm</F> <SC>I choice</SC> I choose <F>uhmm</F> green tie, <.></.> <R>a</R> and I say <.></.> "<R>I want to</R> I want to see this green tie.". <..></..> The <R>se</R> seller say, "It is good. <.></.> <R>Maybe</R> <.></.> maybe, <F>uhmm</F> many people <F>um</F> bought <R>this</R> <SC>this color and</SC> <F>ah</F> this color.". <.></.> <F>mm</F> I see this tie. I think it will match my husband. <.></.> <F>Uhmm</F> and then, I said seller, "I want to this tie. How much is it?". The seller say, <F>um</F> "<R>It's</R> it's <R>thirty</R> thirty hundred yen.". I think it is very very cheap. I want to it. So, I bought it. But, <F>mhm</F> today, <SC>I have one hun</SC> <F>uhm</F> <F>mhmm</F> I have <SC>seven</SC> <F>ah</F> seventy hundred yen, so <..></..> now <SC>I have</SC> I haved <F>uh</F> <SC>forty thousand</SC> <F>ah</F> forty hundred yen, so I want to another thing. Then, <SC>I think</SC> <SC>I thi</SC> I thought, <F>uhmm</F> "What is good?". <.></.> <F>Oh</F> <R>I</R> I thought the <F>uh</F> wallet is good. So I asked seller <.></.> where the wallets was <SC>sell</SC> <R>se</R> selled. The seller say, <F>uhmm</F> "<SC>Go up</SC> <R>go</R> go upstair.". Then, <R>I</R> I went to upstair.</B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Well</F> the Christmas is coming.</A>
+<B>Yeah.</B>
+<A>Do you have any plans to buy any present <OL>to anyone</OL>?</A>
+<B><OL><F>Mhmm</F></OL> now, I have no plan.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>I'm <F>er</F> very</OL> very sad.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. How about your parents?</A>
+<B><F>Mhmm</F>. I don't know, <SC>but my parents</SC> <..></..> so, my parents will go to restaurant</B>
+<A><F>Hu-huh</F>.</A>
+<B>and eat dinner, <.></.> maybe.</B>
+<A>O K. Have you ever bought any present?</A>
+<B><F>Uhmmm</F> I have a much money.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Oh</F> but I want to present something.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hu-huh</F>. O K.</A>
+<B><F>Um</F>.</B>
+<A>O K. <F>Well</F> the interview is almost at the end.</A>
+<B>Yeah.</B>
+<A><F>Um</F> do you have any plan after the interview?</A>
+<B><F>Mhmm</F> <R>I will go to</R> I will go to <H pn="others4">XXX06</H> campus,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and I will study about economics.</B>
+<A><F>Uh-huh</F>. I see. Do you like the class?</A>
+<B>Yes, I like.</B>
+<A><F>Uh-huh</F>. O K. <F>Well</F> have a nice day. Thank you very much for coming.</A>
+<B>You're welcome. <OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL>.</A>
+</stage5>
+</body>
+</interview>

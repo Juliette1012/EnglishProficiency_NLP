@@ -1,0 +1,198 @@
+<interview>
+<filename>file01134.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC>470</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. <F>Er</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mh-hm</F>. <F>Er</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>. How are you today?</A>
+<B>I'm fine, thank you.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> where do you live?</A>
+<B><.></.></B>
+<A><H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Ah</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Mh-hmm</F>. Do you live there <F>er</F> with your family?</A>
+<B>No, <SC>sin</SC> <R>I</R> I live single.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> where is your hometown?</A>
+<B><F>Mm</F> my hometown is now <H pn="others2">XXX04</H>, but <R>I'm</R> I'm <JP>tenkin zoku</JP>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>So where did you grew up?</A>
+<B><F>Mm</F> <H pn="others3">XXX05</H>, <H pn="others4">XXX06</H>, <H pn="others5">XXX07</H>, <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F>. I see. Which <F>ee</F> city do you live best?</A>
+<B>I like <H pn="others5">XXX07</H> is very best.</B>
+<A><F>Hmm</F>. Tell me about <H pn="others5">XXX07</H>.</A>
+<B><F>Hmm</F>. Sea is beautiful and food is very delicious and sightseeing very beautiful.</B>
+<A><F>Mhm</F> I see.</A>
+<B>It's very beautiful place.</B>
+<A>I see. <F>Hmm</F>. What kind of food is famous?</A>
+<B><F>Mmm</F>. <F>Mmm</F>. Fishes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. <F>Hmm</F>. I see. O K. <F>Er</F> <F>ur</F> here, what do you study?</A>
+<B>I study <F>mm</F> <.></.> <laughter>information <??></??></laughter>.</B>
+<A><F>Mh-hmm</F>. <F>Mh-hmm</F>. Information. I see. And how do you like <F>er</F> studying?</A>
+<B><F>Hmm</F>. Studying is very <F>mmm</F> hard, but <F>mm</F> interest.</B>
+<A><F>Hmm</F>. I see. In your free time, what do you do?</A>
+<B><F>Mm</F> I usually listening to music and watching movies and reading book.</B>
+<A><F>Mh-hmm</F>. What kind of books do you read?</A>
+<B><F>Mm</F> I like critics.</B>
+<A><F>Hmm</F>. Critics. <F>Uh-huh</F>. <F>Er</F> could you tell me a little more about your favorite book?</A>
+<B><F>Hmm</F>. <F>Hmm</F>. For example, Kobayashi Hideo.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F>. And <F>mm</F> <R>re</R> recently <R>I</R> <R>I</R> I usually read Tadao Ando</B>
+<A><F>Hmm</F>.</A>
+<B><F>mm</F> books.</B>
+<A>I see. What's so interesting about Ando Tadao?</A>
+<B><F>Mmm</F> <R>I</R> I respect his very much.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <R>I</R> I want to know <R>his</R> his thinking and study, and <R>I</R> I grew up with his <F>mm</F> thoughts.</B>
+<A><F>Mh-hmm</F>. I see. <F>Mh-hmm</F>. <F>Erm</F> do you have a part time job?</A>
+<B>No.</B>
+<A><F>Mh-hmm</F>. O K. <F>Er</F> could you tell me about your family?</A>
+<B><F>Hmm</F>. My father, <H pn="others6">XXX08</H> is <F>mm</F> forty five years old. My mother, <H pn="others7">XXX09</H> is same age. And my little brother is now <R>s</R> seventeen years old. <F>Er</F> my little brother is live in <H pn="others5">XXX07</H>. And father and mother is live in <H pn="others2">XXX04</H>.</B>
+<A>I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I want you to <F>er</F> look at this picture. And please describe this picture.</A>
+<B><JP><F>Nnto</F></JP> girl <laughter>sitting</laughter> on the <laughter>chair</laughter>. And dog is on the floor. Cat is on the bed. <F>Mmm</F>. Door is open. <F>Mm</F> time is nine o'clock. <JP><F>Nnto</F></JP> <F>mmm</F> it's <SC>Jan</SC> June. <.></.></B>
+</task>
+<followup>
+<A>O K. <F>Erm</F> <F>er</F> <R>i</R> <SC?>is new</SC?> could you compare this room with your own room?</A>
+<B><F>Mmm</F>. <R>I</R> I don't have bed. <F>Mhm</F>. <F>Mm</F> I have a computer, but I don't have a word processor.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F>. <F>Mmm</F>. And I don't have cat and <?>the</?> dogs. <F>Mmm</F> <.></.> <F>mm</F>.</B>
+<A>O K. Thank you very much. So what do you use your computer for?</A>
+<B><.></.> <?>Mabius</?>.</B>
+<A><R>For</R> for what purpose, do you use</A>
+<B><F>Ah</F> <F>ah</F> <F>ah</F>.</B>
+<A>your computer?</A>
+<B><JP><F>Nnto</F></JP> for internet and <F>mm</F> <SC>li</SC> to write report. <F>Mm</F>.</B>
+<A><F>Mmm</F>. What kind of <F>er</F> web site do you often visit?</A>
+<B><F>Mm</F> <laughter>Recently</laughter>, I often do visit <SC><JP>sado</JP> page</SC> <JP><SC>sado</SC></JP> Japanese <JP>Sado</JP> pages and mathematic pages.</B>
+<A><F>Mh-hmm</F>. <F>Oh</F>. Why are you <SC>i</SC> so interested in <JP>sado</JP>?</A>
+<B><F>Mm</F>. <R>I</R> <R>I</R> I <R>jo</R> join <JP>sado</JP> club in high school. <R>And</R> and more interest in <JP>sado</JP> <F>mm</F> <OL>now</OL>.</B>
+<A><OL><F>Oh</F> I</OL> see. Why did you become interested in <JP>sado</JP>?</A>
+<B><F>Mhm</F> <F>mm</F> <..></..> <F>mm</F> <SC>I knows</SC> <F>mm</F> <R>I</R> <R>I</R> <R>I</R> I <R>fi</R> <R>find</R> find to know <JP>sado</JP> is one of <JP>syugyo</JP>. <F>Mmm</F> <SC>s</SC> and maybe <R>I</R> I read <F>ur</F> <JP><R>Sai</R></JP> <JP>saigyo</JP> books and I like <JP>waka</JP>. <CO>And <JP>nandaro</JP> <.></.> <JP><F>nnto</F></JP></CO>. <.></.></B>
+<A>Anyway that's why you <OL><??></??></OL>.</A>
+<B><OL><nvs>laughter</nvs> <laughter>Sorry</laughter></OL>.</B>
+<A>That's O K. That's O K. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now <SC>I want you</SC> I want to do a role play. And <F>er</F></A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>I want you to read this card. This is written in Japanese. And when you finish reading, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Mmm</F>.</B>
+<A>O K?</A>
+<B><F>Mm</F>.</B>
+<A>Hi, may I help you?</A>
+<B><F>Mm</F>. <F>Uh</F> I'm <R>hurry to</R> hurry to go to New York, and I want to ticket. <F>Er</F> <SC>what</SC> <F>uh</F> <R>where</R> <SC>where to</SC> where can I get ticket to go?</B>
+<A><F>Er</F> you can but it here.</A>
+<B><F>Oh</F>. <F>Oh</F> <laughter>sorry</laughter>. <F>Mmm</F> <.></.> <F>mm</F> how much is it?</B>
+<A><F>Er</F> we have two kinds of trains. <F>Er</F> express and local.</A>
+<B><F>Mm</F>. Express, please.</B>
+<A>Express train, <F>er</F> twenty dollars.</A>
+<B><F>Mm</F>. <.></.> <laughter>Twenty dollar</laughter>.</B>
+<A><F>Ah</F>. <F>Ur</F> do you want next train?</A>
+<B>Yes.</B>
+<A><F>Er</F> next train is full.</A>
+<B>Full?</B>
+<A>Already booked. Sold out.</A>
+<B>Sold out?</B>
+<A><F>Hmm</F>.</A>
+<B><JP><F>Nnto</F></JP> what time next train start?</B>
+<A><F>Er</F> the next train after that is, you have to wait two hours.</A>
+<B>Two hours. <F>Hmm</F>. <F>Mm</F> <F>erm</F>. <SC>I</SC> <F>mm</F> <.></.> <F>er</F> so I don't use train. <nvs>laughter</nvs></B>
+<A>O K. So you are not buying.</A>
+<B>Not buying.</B>
+<A><nvs>laughter</nvs> O K.</A>
+<B><?>And</?> I use plane. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. O K. Thank you very much. This is the end of the role play.</A>
+</task>
+<followup>
+<A><F>Erm</F> do you like travelling?</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> tell me about the last trip you took.</A>
+<B>Last trip. <F>Mmm</F>. Last trip. Last trip. <F>Ah</F> Hong Kong.</B>
+<A><F>Mh-hmm</F>. Tell me about that.</A>
+<B>Many people there.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>. <CO>And <F>mmm</F></CO>.</B>
+<A>What did you do in Hong Kong?</A>
+<B><F>Mm</F> shoppings and sightseeing <F>mmm</F>.</B>
+<A>How did you like Hong Kong?</A>
+<B><F>Um</F> Very emotional place. <F>Mmm</F>. People are now <laughter>agressive</laughter>.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mmm</F>. And many religions <R>are</R> are there. <F>Mmm</F>. Very powerful town.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now the last thing I want you to do is a picture sequence. And I want you to look at these pictures from one to six. And I want you to make up a story based on these pictures. And this happened last week. So I want you to start your story with, "One day last week".</A>
+<B><F>Mm</F>. One day last week, <JP><F>nnto</F></JP> <..></..> boy and girl are walking on the street. The boy heard anything. <..></..> <F>Mm</F>. <F>Ah</F> <R>girl</R> girl find cats. <.></.> <R>The girl want to</R> <.></.> <F>mm</F> <F>mm</F> <F>er</F> the girl want to take the cats her <R>ho</R> <R>ho</R> home, but the boy <F>mm</F> can't <R>asep</R> asept it. <F>Mm</F>. But the girl take the cat her home.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Have you ever kept any pet?</A>
+<B>No.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> what kind of pet do you want to keep?</A>
+<B><F>Mm</F> <SC>May</SC> <R>I</R> <R>I</R> <SC>I don't like</SC> <F>ah</F> <F>hmm</F> <F>ah</F> I want to <F>mm</F> <laughter>horse</laughter>.</B>
+<A><F>Oh</F>. Why do you want to keep a horse?</A>
+<B><F>Er</F> <R>I</R> <.></.> <SC>I</SC> <F>ah</F> <F>mm</F> <.></.> <R>ho</R> <JP><F>nnto</F></JP> <SC>horse</SC> <SC>ho</SC> <SC>ha</SC> horse riding experience.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yes.</B>
+<A><F>Oh</F>. How interesting was the horse riding?</A>
+<B><F>Hmm</F>. Horse is pretty.</B>
+<A><F>Ah</F>. <F>Ah</F>. Horse racing excuse me.</A>
+<B><F>Ah</F>?</B>
+<A><R>Horse</R> horse racing, not horse riding?</A>
+<B><F>Ah</F> <R>riding</R> riding.</B>
+<A>Riding?</A>
+<B><R>Riding</R> riding.</B>
+<A><F>Ah-huh</F>. <R>How</R> how did you enjoy it?</A>
+<B><F>Mm</F>. <F>Mm</F> horse is pretty and <F>mm</F> to ride is feeling good.</B>
+<A><F>Hmm</F>. <F>Oh</F> that sounds great. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>This is almost the end of today's interview. And what are you going to do after this interview?</A>
+<B><F>Hmm</F>. <laughter>To</laughter> eat <R>lun</R> lunch.</B>
+<A><F>Hmm</F>. What kind of food do you <SC>go</SC> want to have?</A>
+<B><laughter>Japanese food</laughter>.</B>
+<A>Japanese food? Are you going to have lunch with your friends?</A>
+<B><F>Er</F> <F>mm</F> no. <F>Mm</F> <F>mm</F> <JP>nanka youjitte nani</JP>.</B>
+<A><nvs>laughter</nvs> Anyway <SC>so</SC> <F>er</F> and <SC>where <F>er</F> do you goi</SC> <F>ah</F> <?>I'm sorry</?>, are you going to <F>er</F> eat at <F>ur</F> college cafeteria?</A>
+<B><F>Hm</F> yes.</B>
+<A><F>Hm</F>. Do you like the food there?</A>
+<B>Yes.</B>
+<A><F>Hm</F>. O K. That's good. I hope you'll enjoy your lunch <OL><??></??></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>especially after this interview.</A>
+<B><??></??>.</B>
+<A>O K. Thank you very much for coming.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

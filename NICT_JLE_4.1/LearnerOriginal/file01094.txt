@@ -1,0 +1,164 @@
+<interview>
+<filename>file01094.txt</filename>
+
+<head version="1.3">
+<date>2002-04-12</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>530</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ur</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>,</A>
+<B>Yes.</B>
+<A><F>ur</F> where are you from?</A>
+<B><nvs>cough</nvs> I'm from <H pn="others1">XXX03</H>.</B>
+<A><F>Mm-hm</F>. O K. Were you born in <H pn="others1">XXX03</H>?</A>
+<B><F>Ur</F> yes. <nvs>laughter</nvs> I'm born in <H pn="others1">XXX03</H>.</B>
+<A>O K. So do you like living in <H pn="others1">XXX03</H>?</A>
+<B>Yes. I like <H pn="others1">XXX03</H> very much because <H pn="others1">XXX03</H> is <SC>very beautiful <F>mm</F> place</SC> very beautiful city. And there're many <F>ur</F> mountains and sea. <F>Ur</F> the night view <F>ur</F> from the mountain is very beautiful.</B>
+<A>O K. And what is your hobby?</A>
+<B>My <laughter>hobby</laughter> <F>er</F> is listenning music and playing T V game. <nvs>laughter</nvs></B>
+<A>O K. What kind of music do you listen to?</A>
+<B><F>Urr</F> I usually listen Japanese pop music and classic music and <nvs>laughter</nvs> <SC>another</SC> various music and reggae <nvs>laughter</nvs> and <F>mm</F> jazz <F>urr</F> <F>mm</F>. <laughter>I listen <SC>anytime</SC> anything</laughter> <F>erm</F> various type of music.</B>
+<A>O K. Do you play any instrument?</A>
+<B>No. <nvs>cough</nvs> <F>Ur</F> <nvs>cough</nvs> <R>I</R> I don't play <F>ur</F> instrument. <SC>I</SC> but <nvs>cough</nvs> I'm a <F>mmm</F> singer. <nvs>laughter</nvs> <F>Uh</F> no, no. <F>Mhm</F> I belong to a quior. <F>Ur</F> <F>mm</F> I like singing.</B>
+<A><F>Mm-hm</F>. O K. So now?</A>
+<B><F>Urr</F> no, <F>ur</F> when I was a <F>ur</F> <R>university student</R> university student.</B>
+<A><F>Uhh</F> O K. So do you also like to sing <JP>karaoke</JP>?</A>
+<B><F>Urm</F> <R>I</R> I don't like <JP>karaoke</JP> <F>mm</F> because <F>mm</F> <JP>karaoke</JP> is very <F>ee</F> loud. <.></.> <R>I</R> I like sing <F>er</F> <SC>no</SC> <R>unplugged</R> unplugged <JP>janaina</JP> <F>er</F> <..></..> <nvs>cough</nvs> <F>mhm</F> <nvs>laughter</nvs> sorry.</B>
+<A>O K. That's all right.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then <F>urr</F> please look at this picture, and please describe it.</A>
+<B>Describe it.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urm</F> this is a female's room. <F>Urr</F> <nvs>cough</nvs> there is a <F>ur</F> desktop P C and typewriter on the desk. And <nvs>cough</nvs> <F>err</F> the dog is in the room, and <SC>cat</SC> a cat <F>ur</F> on the bed. And <nvs>cough</nvs> there's a <F>err</F> <F>err</F> <R>A V</R> <SC>A V system</SC> <R>audio</R> audio <F>ur</F> vision. <nvs>laughter</nvs> <F>Urr</F> there's a C D compo <nvs>sniff</nvs> <F>er</F> <nvs>cough</nvs> <SC>on the long <F>uum</F> <R>shelf</R> shelf</SC> <JP>janai</JP> on the long and <R>short</R> short desk. <F>Mm</F>. <.></.> <nvs>cough</nvs> <F>Er</F> and calender of June <F>er</F> on the wall. <nvs>sniff</nvs> <R>And</R> <nvs>cough</nvs> and <R>clock</R> clock on the wall. And <nvs>cough</nvs> this room's door is opened. <nvs>cough</nvs> And this room's curtain is orange. <nvs>sniff</nvs> <F>Uhm</F>. <F>Urr</F> a woman <R>sit</R> sit on the chair. <.></.> <F>Uhm</F> <F>ur</F> there's a <R?>trust</R?> <?>trust</?> bag is in the room. <nvs>sniff</nvs> <R>The telephone <F>err</F> is</R> <F>mhm</F> the telephone <nvs>cough</nvs> is among the book. <F>Ur</F> <R>there're many</R> there're many books. <..></..></B>
+<A>O K.</A>
+</task>
+<followup>
+<A>O K. <F>Ur</F> then do you have your room.</A>
+<B>No, this is not my room.</B>
+<A><F>Uh</F> do you have <OL><R>your</R> your own room</OL>?</A>
+<B><CO><R>Do you ha</R> <F>uh</F> do you have <nvs>laughter</nvs></CO>. Yes, I have my own room.</B>
+<A><F>Uhh</F> then <F>ur</F> tell me about your room, please.</A>
+<B><F>Urm</F> my room is a very small. <nvs>cough</nvs> <F>Ur</F> there's a one desk. <F>Er</F> <R>on the desk</R> <F>ur</F> <nvs>cough</nvs> on the desk, <F>ur</F> <R>there</R> there is a one T V and and P C's display. And under the desk, <F>urr</F> there is a printer and P C's box. And in my room, there is a tall mirror, and <nvs>cough</nvs> there is a <.></.> <F>mm</F> bed. <nvs>cough</nvs> <F>Urr</F> there is a <F>mm</F> one chair. <F>Mhm</F>. And there are many hanger in my room. <nvs>laughter</nvs> <laughter><F>Urr</F></laughter> <R>I</R> <F>urr</F> <..></..> <F>urm</F> <.></.> <R>I</R> I hang my clothes in my room. <F>Mm</F>. <..></..> <F>Urr</F> <..></..> <F>mhm</F> <.></.> <F>uh</F> <SC>I have</SC> <F>uh</F> <SC>there is a <R>little</R> <SC>little large close</SC> <F>mm</F> little large</SC> <nvs>cough</nvs> <F>ur</F> there is a large closet. And <SC>there're many</SC> <F>ur</F> many clothes is in the closet.</B>
+<A>O K. O K. Fine. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>And next is role-play.</A>
+<B>Yes.</B>
+<A>O K. This is your card. Please read it.</A>
+<B>Yes. <nvs>sniff</nvs></B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>When you're ready, I will start.</A>
+<B><F>Urr</F> I have a question.</B>
+<A><F>Uh</F>. O K.</A>
+<B><F>Ur</F> what kind of shop is this?</B>
+<A>You can decide.</A>
+<B><R>You</R> <laughter><SC>you</SC></laughter> I decide.</B>
+<A>You can choose. Yes.</A>
+<B><F>Uhh</F> <nvs>laughter</nvs> <..></..> <F>mm</F> <F>mm</F> <F>mm</F>. <.></.> I decide.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A>Then can we start?</A>
+<B>Yes. O K.</B>
+<A>May I help you?</A>
+<B><F>Ur</F> I'm looking for a clothes <F>ur</F> <R>for</R> <F>mm</F> <F>ur</F> for the summer. <nvs>cough</nvs> <F>Urr</F> <..></..> <F>err</F> <..></..> <F>urr</F> <nvs>cough</nvs> <R>I look</R> <SC>I look</SC> I'm looking for <F>err</F> <nvs>laughter</nvs> <F>um</F> <SC>no sl</SC> <R>no</R> no sleeve <F>ur</F> shirt. <nvs>cough</nvs> <F>Urr</F> are there any no sleeve shirt?</B>
+<A>Yes, we have.</A>
+<B><F>Urr</F> <.></.> which kind of shirt <F>urr</F> do you think <F>ur</F> I'm suit?</B>
+<A><F>Mm-hm</F>. O K. How about this one?</A>
+<B>This one. <F>Urr</F> <nvs>laughter</nvs> <F>mhm</F> <F>mm</F> <F>ur</F> this is best fit <nvs>laughter</nvs> to me. <F>Mhm</F> <F>ur</F> <SC>another one</SC> <.></.> are there <SC>another one</SC> another shirt?</B>
+<A><F>Mm</F> right now, this is <R>only</R> <OL>only one</OL>.</A>
+<B><CO><OL><laughter>This is</laughter></OL></CO>. <F>Urr</F> I'm looking for <F>ur</F> pants, too. <nvs>sniff</nvs> <F>Urr</F> <SC>are there anything</SC> what kind of pants are there in?</B>
+<A><F>Well</F> we have many kinds.</A>
+<B><laughter><F>Ur</F> many kinds</laughter>. Many kinds. <F>Urr</F> <nvs>cough</nvs> <.></.> <F>mhm</F> <..></..> <F>mm</F> <F>mm</F> <F>mm</F>. <F>Urr</F> <nvs>cough</nvs> are there a black and <F>mm</F> <R>short</R> short pants?</B>
+<A><F>Mm-hm</F>.</A>
+<B><..></..> Are there <F>ur</F> such one?</B>
+<A>Black?</A>
+<B>Black and short.</B>
+<A>O K. <F>Urr</F> here you are.</A>
+<B><F>Oh</F> it's <laughter>nice</laughter>.</B>
+<A>Yes, it is nice.</A>
+<B>I like it.</B>
+<A>O K.</A>
+<B><R>I</R> I will buy <R>this</R> this one.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A><F>Uh</F> thank you. Twenty thousand yen.</A>
+<B><F>Oh</F> <F>erm</F> <nvs>laughter</nvs> <laughter><?>here is the money</?></laughter>. <nvs>sniff</nvs> Thank you.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A><JP>Hai</JP>. Thank you. This is the end of role-play.</A>
+</task>
+<followup>
+<A>O K. Where do you usually go shopping?</A>
+<B>Go shopping. I usually go to <H pn="others2">XXX04</H> in <H pn="others1">XXX03</H>.</B>
+<A>In <H pn="others1">XXX03</H>. O K. Now do you want to buy anything special?</A>
+<B><F>Uhm</F> <.></.> <SC>I</SC> <R>now</R> now I want to buy a P C goods.</B>
+<A>O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Then here's another picture for you.</A>
+<B>Yes.</B>
+<A>And this time, please make up a story.</A>
+<B>Story.</B>
+<A>O K, using six pictures. And this happened before so please start your story with, "One day last week,"</A>
+<B>One day last week. <nvs>cough</nvs> <F>Uhm</F> <nvs>cough</nvs> <.></.> <SC>I</SC> <R>can</R> can I decide <F>urm</F> this person's name?</B>
+<A>Yes, you can.</A>
+<B><F>Urm</F> so <F>um</F> he is Tsutomu. <nvs>laughter</nvs></B>
+<A>O K. <OL>Good</OL>.</A>
+<B><OL>She is</OL> <F>ur</F> Kaori. <nvs>laughter</nvs> <F>Erm</F> Tsutomu and Kaori is a best friend.</B>
+<A>O K.</A>
+<B><F>Urm</F> one day, they <F>ur</F> <R>come back</R> come back <R>to home</R> to home together. <nvs>cough</nvs> Tsutomu <F>erm</F> heard the <F>erm</F> <R>crying</R> <R>crying</R> <SC>crying</SC> <F>mm</F> <R>some</R> <R>something</R> something crying. <F>Mm</F>. <F>Ur</F> this is a cat. <nvs>cough</nvs> Kaori <F>urm</F> <nvs>sniff</nvs> <SC>hold</SC> <R>ho</R> <R>hold</R> hold this cat. <F>Urm</F> Kaori <F>erm</F> <SC>like a</SC> like <R>cat</R> cat. But <nvs>cough</nvs> <R>Tsutomu</R> <F>erm</F> <nvs>cough</nvs> Tsutomu think <nvs>sniff</nvs> <F>ur</F> the <F>uhm</F> <R>cat</R> cat should not be bring out to the home. <nvs>cough</nvs> But <SC>Kaori is <F>mhm</F> <R>very</R> <F>mhm</F> very <R>ple</R> pleased</SC> <F>mm</F> Kaori is <F>ur</F> like cat <laughter>very much</laughter>. And so <nvs>cough</nvs> <nvs>sniff</nvs> Tsutomu and Kaori <F>ur</F> take cat to the home together.</B>
+<A>O K. Fine. Thank you very much.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Do you like pets?</A>
+<B><F>Urr</F> I like pets, but <R>I haven't</R> <F>urr</F> <F>mm</F> I haven't have a pet. <R>My</R> <SC>my</SC> <F>ur</F> because <F>ur</F> my father <F>err</F> don't like pets.</B>
+<A><F>Uhh</F>. Do you know why he doesn't like pets?</A>
+<B><F>Uhm</F> <.></.> <F>er</F> it's a <laughter>difficult</laughter>. <F>Urr</F> <F>um</F> plants and animals <SC>have a <F>mhm</F> many <R>insects</R> <F>ur</F> insects no, no, <F>urr</F> <R><JP>nomi</JP></R> <JP>nomi</JP> <F>uh</F> flea</SC> <F>urr</F> have a flea. So <F>ur</F> my father <R>hei</R> <R>hei</R> <F>uh</F> hate <F>er</F> having a pet.</B>
+<A>O K. I understand.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Then this is almost the end of interview.</A>
+<B><F>Huh</F> <laughter>thank you very much</laughter>.</B>
+<A>And <F>urr</F> tomorrow is <F>ur</F> Saturday.</A>
+<B>Saturday.</B>
+<A>Do you have any plans to do for a weekend?</A>
+<B><F>Urr</F> <SC>I have almost</SC> <F>mhm</F> I have plan for Sunday. <F>Ur</F> but <F>um</F> <SC>plan for Saturday is not <??></??></SC> <F>mm</F> <F>ur</F> <R>I</R> I haven't a plan for Saturday.</B>
+<A>O K. O K. Are you going out on Sunday?</A>
+<B>Yes. I go to <F>ur</F> Osaka Stadium to <R>watch</R> <F>urr</F> watch baseball game.</B>
+<A>Osaka Dome?</A>
+<B>Yes, <F>ur</F> <laughter><R>Osaka Dome</R></laughter> <OL>Osaka Dome</OL>.</B>
+<A><OL><F>Uhh</F> O K, I see</OL>. O K. O K. So enjoy baseball game.</A>
+<B>Yes, thank you.</B>
+<A>Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>That's all.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,193 @@
+<interview>
+<filename>file00135.txt</filename>
+
+<head version="1.3">
+<date>1999-12-14</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>electric shop</SST_task2>
+<SST_task3>landlord_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>Yes. I'm <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. How are you today?</A>
+<B>I'm fine, <?>thank you</?>. How are you?</B>
+<A><?>Fine</?> great, thank you. <F>Eh</F> did you have class this morning?</A>
+<B>No. I didn't have <OL>any classes</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>today.</B>
+<A>I see. Good. O K. <F>Em</F> where do you live, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H> and <H pn="others2">XXX04</H>, <R>which</R> which is a small town. And <R>it</R> it about two hours long from here.</B>
+<A>Two hours?</A>
+<B>Yes. <OL>By train</OL>.</B>
+<A><OL><F>Ahh</F></OL>. I see. Good. What do you do on a train every day?</A>
+<B><nvs>laughter</nvs> <SC?>I</SC?> sometimes I read books, and sometimes I do nothing and <nvs>laughter</nvs> just sleep.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah.</B>
+<A><F>Eh</F> don't you ever think about moving into <H pn="others3">XXX05</H>?</A>
+<B>Yes. I <laughter>always thinking about that</laughter>. But, <F>urr</F> my parents <SC>does</SC> <R>don't</R> <F>urr</F> don't <?>excuse</?> that <F>urr</F> <SC>if</SC> they don't like <SC>to</SC> <F>mm</F> my moving to living alone.</B>
+<A><F>Oh</F> really?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Urr</F></OL> is there any reason?</A>
+<B>I think it's just living alone cost a lot, and I think that is the <SC>big</SC> biggest thing they don't agree with that, I think.</B>
+<A>I see. O K. But <F>er</F> <H pn="B's name">XXX02</H>, <F>eh</F> what do you usually do when you don't come to school?</A>
+<B><F>Urm</F> <F>urm</F> <R>I have</R> I have part-time job, <F>um</F> so <F>um</F> on Tuesday and Wednesday evening, I work at the <F>ah</F> cram school, <R>and</R> <.></.> and other free time <R>I</R> <.></.> <F>um</F> I like to <SC>sho</SC> go shopping, so <R>I</R> I often go shopping <nvs>laughter</nvs> with my friends or my parents.</B>
+<A><F>Ah</F> I see. You have a part-time job.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Ah</F></OL> but, why do you work?</A>
+<B>Why?</B>
+<A><F>Hum</F>.</A>
+<B>Because <laughter><F>ah</F></laughter> <R>I</R> I need money. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>and <F>um</F> <nvs>cough</nvs> <R>I</R> I get <F>eh</F> some money from my parents monthly, but <F>ah</F> it's not enough to me, and I need to get more money</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>um</F></OL> myself. So, and <R>I</R> <F>ah</F> I want to experience the <R>social</R> <F>urm</F> social things. So I think working and having part-time job is good to experience many things. So <F>uhm</F> <R>I</R> I work at cram school.</B>
+<A><F>Umm</F> I see. So what did you learn from your job so far?</A>
+<B><F>Urm</F> <F>well</F> <F>urm</F> at the <R>cram</R> cram school, <F>em</F> I teach <F>eh</F> English and Japanese and Math to the junior high school students, so <R>I</R> <nvs>laughter</nvs> I think <SC?>I'll</SC?> I'm learning the <R>commu</R> <SC>communi</SC> how to communicate with the children <R>and</R> and <R>other</R> other teachers. <F>Um</F> I think <F>um</F> it's a good experience to me.</B>
+<A><F>Uh-huh</F>. That's good.</A>
+<B>Yeah.</B>
+<A>Good. O K. Are you a freshman?</A>
+<B>Yes.</B>
+<A>I see. So, tell me about <F>er</F> what you like about <H pn="school name1">XXX06</H>.</A>
+<B><F>Urm</F> <F>ah</F> <R>I like</R> I like <H pn="school name1">XXX06</H>, <F>ah</F> <F>um</F> because <R>there</R> there are <SC>a lot</SC> many kinds of people in <H pn="school name1">XXX06</H>, and especially, the <SC>literature</SC> <F>em</F> my <.></.> <F>uhm</F> <R>lite</R> literature campus, <R>and</R> and <SC>there are <F>um</F> <R>many</R> <F>ah</F> many</SC> <F>ah</F> there are many people <?>there</?>, <R>variety</R> variety <SC>ages</SC> <SC>age</SC> ages. <nvs>laughter</nvs></B>
+<A><F>Uuh</F>.</A>
+<B><F>Um</F> so, <F>uhm</F> sometimes <R>I</R> I become friend with the <F>ah</F> person <R>who</R> who are <SC>a lot of</SC> <R>much</R> much older than me. And <R?>that</R?> <F>um</F> that's really interesting to be <?>friend with</?> <SC?>that</SC?> the kind of person.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ahh</F> I see. Good. Thank you very much. All right. Now, I like to show you one picture. <.></.> O K. Here you are. Please look at this,</A>
+<B>Yes.</B>
+<A>and describe the picture for me.</A>
+<B><F>Um</F>. <.></.> It looks like <F>uhm</F> an audio shop and maybe <F>ah</F> one man is asking <R>to</R> <.></.> <F>urm</F> to buy something, <F>ah</F> <R>and</R> and <SC>the man in the shop</SC> <F>ah</F> <R>a</R> a man working at the shop is, maybe, <R>explain</R> explain something to that man. And <.></.> <F>hun</F> there are many audios in the store, and <.></.> <F>um</F> some telephone and some stereos, and two TV and video cameras, and <.></.> <F>um</F> and watches. <R>And</R> <.></.> <F>um</F> <..></..> <F>um</F> and, now is the three o'clock <R>maybe</R> <nvs>laughter</nvs> maybe at evening. <F>Em</F> <.></.> <R>and</R> and I don't know what this young man is going to buy. <F>Uhm</F>. <CO>But</CO>. <F>Erm</F> <F>urr</F> <.></.> <F>urr</F> <F>um</F>.</B>
+</task>
+<followup>
+<A>O K?</A>
+<B><F>Uhm</F> <OL><??></??></OL>.</B>
+<A><OL><R>All right</R></OL> all right. Thank you. Do you want to buy one of the things in this picture?</A>
+<B>Yes. <R>I</R> I would like to buy that <R>stereo</R> <OL>stereo</OL>.</B>
+<A><OL><F>Hum</F></OL>. O K. So when you buy stereo set, how do you find a good one?</A>
+<B><F>Urm</F> <F>ah</F> <F>ur</F> <F>ur</F> firstly, <R>I</R> I will look at <R>that</R> that the price, and maybe, <SC>four</SC> <JP>a chiga</JP> <F>ah</F> forty thousand yen is good for the stereo, I think. So, under forty thousand yen,</B>
+<A><F>Hum</F>.</A>
+<B><nvs>laughter</nvs> <R>and</R> and <F>ah</F> <R>there</R> <F>ah</F> <SC>there're</SC> <F>mm</F> the stereo need to <R>have</R> have two cassettes recorder, and one C D recorder, and one M D recorder. <F>Mm</F>. Yes. <nvs>laughter</nvs></B>
+<A><F>Urm</F> but now, there are many ways to buy things.</A>
+<B>Yes.</B>
+<A><F>Uh-huh</F>. Where do you go to buy those things?</A>
+<B><F>Urm</F> I think <R>I</R> I will go to the discount shop, because it's <F>mhm</F> much cheaper than any other shops. <F>Mhm</F> so, maybe I will look around the discount shops. Yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hum</F>. Good. Good. O K. Now, I'd like to have a role-play with you. <OL>O K</OL>?</A>
+<B>Yes.</B>
+<A>Please read this card, and when you are ready, I'll start conversation.</A>
+<ctxt>The interviewee is looking at the card.</ctxt>
+<A>O K?</A>
+<B><F>Ah</F> <OL><?>yes</?></OL>.</B>
+<A><OL>All</OL> right. Trun-trun. Hello?</A>
+<B>Hello? <F>Erm</F> <F>ah</F> excuse me, but I am living in <F>erm</F> <SC>this</SC> <F>ah</F> your apartment and first floor.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But, <R>when I</R> when I came back to home, and I found that <R>my</R> <F>mm</F> my <SC>house</SC> house's window is broken. <F>Mm</F> I don't know why, and maybe <R>somebody</R> <SC>somebody had</SC> <F>mm</F> somebody broke <R>my</R> my house window or something. But <F>erm</F> <SC>I'd like to re</SC> <R>I'd</R> I'd like to this window repaired, but <R>how</R> how should I do? <nvs>laughter</nvs></B>
+<A><F>Urm</F> <F>er</F> could you wait <F>er</F> till the day after tomorrow?</A>
+<B>Day after tomorrow?</B>
+<A>Yes.</A>
+<B><F>Ah</F> but, <F>ah</F> outside is freezing. And I need to be <F>um</F> repaired as soon as possible. Could you do that?</B>
+<A><F>Uhm</F> I'm really sorry, but now I am baby-sitting.</A>
+<B><F>Oh</F> <F>urm</F> but, <F>ah</F> <F>um</F> <F>oh</F> <R>can I</R> can I ask to <R>the</R> <F>um</F> the repairing company to <F>err</F> fix <SC>that</SC> the window?</B>
+<A><F>Uhm</F> but, today's Saturday.</A>
+<B><OL><?>I see</?></OL>.</B>
+<A><OL>Maybe</OL> it's closed.</A>
+<B><F>Erm</F> <F>ah</F> is there extra <laughter>window <R>to</R></laughter> <F>erm</F> <R>to put</R> to <R>put</R> put my <SC>ha</SC> window cage?</B>
+<A><F>Ah</F> I don't have a window,</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>but <F>err</F></OL> I have a big cardboard box.</A>
+<B><?>Cardboard</?> box?</B>
+<A>Yes. Cardboard box.</A>
+<B><F>Ah</F> <F>ah</F> <R>is</R> <F>ah</F> <SC>is that <R>good for</R> good for <SC>the</SC> keep the <F>em</F> <R>cold</R> <R>cold</R> <F>ahh</F> cold wind to</SC> <F>ahh</F> is that enough to warm?</B>
+<A>Sure. Sure.</A>
+<B>Sure? <F>Erm</F> <F>ah</F> <F>well</F> <R>I</R> I'd like to <F>um</F> have <R>that</R> that card cage?</B>
+<A><F>Um</F>.</A>
+<B>Card?</B>
+<A>Cardboard?</A>
+<B>Cardboard. Yes. To my window? <F>Eh</F> is that O K?</B>
+<A>Yeah. <R>Sure</R> sure.</A>
+<B><F>Oh</F>. Please do that.</B>
+<A>O K. So, please come over to my place and <F>er</F> pick them up.</A>
+<B><F>Ah</F> yes, sure. <OL>I will go soon</OL>.</B>
+<A><OL>O K, all right</OL>. So, I'll be waiting.</A>
+<B>O K. Thank you.</B>
+<A>Thank you very much.</A>
+</task>
+<followup>
+<A>Thank you. All right. So, have you ever had this kind <OL>of problem at home</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>No</laughter>, no. <SC>I'm</SC> I've <SC>ever</SC> never had my window broken.</B>
+<A><F>Ah</F> I see.</A>
+<B><F>Uhm</F>.</B>
+<A>But, when so things at home <OL>get</OL></A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A>broken,</A>
+<B><F>Uhm</F>.</B>
+<A>so what do you usually do?</A>
+<B><F>Urm</F> I think my father will <laughter>do that kind of</laughter> <R>j</R> <SC>job</SC> <F>ah</F> work. But, <F>uhm</F> <F>ah</F> <R>al</R> <SC>always</SC> <SC?>al</SC?> <F>ah</F> <JP>shoji</JP> <R?>u</R?> <SC?>will</SC?> <F>um</F> <?>is</?> in my house broken, always. <nvs>laughter</nvs> So, <F>ur</F> sometimes we repair that paper of that <JP>shoji</JP> <F>erm</F> <F>um</F> regularly. <nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task> 
+<A><F>Ah</F> that's good. O K. All right. Now, I'd like to show you one more picture. O K? <.></.> So, this time, O K, please look at this. And, please make up a story, based on these six pictures. O K? The story goes this way, one, two, three, four, five, six. But this happened before,</A>
+<B><F>Hum</F>.</B>
+<A>please start your story with "One day last week".</A>
+<B><F>Hum</F>.</B>
+<ctxt>The interviewee is looking at the picture for a second.</ctxt>
+<B>O K. <.></.> <F>Urm</F> one day last week, a man <R>is <F>urm</F> going</R> is going to go to Tokyo station, so he <R>left his</R> left his home, and went to the nearest station <SC>with</SC> <F>ah</F> to his home. <R>And</R> <nvs>cough</nvs> and then, he was waiting for the train, then <F>erm</F> <F>um</F> <F>er</F> one man next to him is <F>er</F> talking to <SC>other</SC> <F>ah</F> another man, but <F>err</F> <R>his</R> his elbow is <SC>atta</SC> <SC>hil</SC> <F>er</F> <SC>hi</SC> <F>hum</F> he attacked him. And <R>he throw</R> <F>ah</F> he throw <R?>that</R?> that his backpack <R>to the</R> <.></.> to the train line, and so he <R>couldn't</R> couldn't <R>get</R> <F>ah</F> <R>get</R> get that his backpack back, and he was angry <R>to</R> <nvs>cough</nvs> to <SC>that ma</SC> that guy, <R>but</R> <F>um</F> <F>um</F> but <SC>he</SC> <F>ah</F> that guy <SC>seems</SC> seemed like <R>didn't</R> didn't care. So, he asked to the station man to pick that backpack back <R>and</R> and he got <SC>that</SC> his bag, and then the train came, and he rode the train with his bag, and he's sit down to one seat on the train <F>um</F> with his bag.</B>
+<A><F>Hmm</F>. I see. Thank you very much. So, you have a long train ride almost every day.</A>
+</task>
+<followup>
+<B>Yes.</B>
+<A>What is the most unpleasant thing on the train?</A>
+<B><F>Ah</F> the person sitting next to me is <R>some</R> sometimes sleeping on the train. And <F>hum</F> <R>he</R> he sometimes <F>mm</F> use my shoulder <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><R>when</R> when he's sleeping. <OL>So</OL>,</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><F>um</F> <SC>I'm</SC> I feel very uncomfortable <nvs>laughter</nvs> the person do that thing <OL><laughter>to me</laughter></OL>.</B>
+<A><OL><F>Hum</F></OL> but then, what do you do with those guys? <nvs>laughter</nvs></A>
+<B><F>Err</F> I will show that <nvs>laughter</nvs> and <F>mm</F> I don't say anything, but <F>erm</F> I just move shoulder or <F>uhm</F> yes, <R>I</R> <SC>I move my body</SC> <F>ah</F> I turn <laughter>my body or something like that</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+</followup>
+</stage4>
+<stage5>
+<A>I see. <F>Ah</F>. Yeah. That's unpleasant. <OL><?>I can't</?></OL>.</A>
+<B><OL><?>Yes</?></OL>.</B>
+<A>I know. Yeah. All right. Thank you very much, interview is almost ending.</A>
+<B>Yes.</B>
+<A>Thank you for coming today.</A>
+<B>Thank you.</B>
+<A><F>Err</F> Christmas is coming. So do you have any plans for Christmas?</A>
+<B><nvs>laughter</nvs> I don't have any plan. <nvs>laughter</nvs> <OL><??></??></OL>.</B>
+<A><OL>No</OL>?</A>
+<B><laughter><?>I don't</?></laughter>. <nvs>laughter</nvs></B>
+<A><OL><F>Ohh</F></OL>.</A>
+<B><OL><F>Urm</F></OL>. But maybe, <SC>I'll</SC> I stay at home, or I will go somewhere with my friends.</B>
+<A><F>Hum</F>.</A>
+<B>Maybe.</B>
+<A><F>Hum</F>.</A>
+<B>I think. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. All right. Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

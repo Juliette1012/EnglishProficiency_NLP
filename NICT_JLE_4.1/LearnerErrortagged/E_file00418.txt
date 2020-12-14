@@ -1,0 +1,171 @@
+<interview>
+<filename>E_file00418.txt</filename>
+
+<head version="1.3">
+<date>2001-04-02</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>450</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K, let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K, <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>Fine, thank you.</B>
+<A>O K. So it's a very nice place here, isn't it?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. What do you like best about this area?</A>
+<B><nvs>laughter</nvs> <F>Ee</F>. <.></.> This area?</B>
+<A><F>Um</F>.</A>
+<B>So, Yokohama.</B>
+<A><F>Ah</F>. You are from Yokohama.</A>
+<B><JP>Iya <F>a</F></JP>, no, no, no. <F>E</F> <F>ee</F>. <R>I</R> I come from <H pn="others1">XXX03</H>.</B>
+<A><F>Err</F>. I see.</A>
+<B><JP>Hai</JP>.</B>
+<A><F>Hum</F>. O K, then, please tell me more about <H pn="others1">XXX03</H>.</A>
+<B><JP><F>E</F></JP>?</B>
+<A>Please tell me anything about <H pn="others1">XXX03</H>.</A>
+<B><F>Ee</F>. <.></.> <H pn="others1">XXX03</H>? <R>Food</R> food <v_lxc odr="1" crr="is"></v_lxc> very delicious.</B>
+<A><F>Ah</F>. For example?</A>
+<B><JP>Okonomiyaki</JP>, <JP>takoyaki</JP>, <JP>udon</JP>, and so on.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>What are they?</A>
+<B><JP><F>E</F></JP>?</B>
+<A>What are they?</A>
+<B><.></.></B>
+<A>Are they Japanese food?</A>
+<B><JP><F>e</F></JP>?</B>
+<A>Are they Japanese food?</A>
+<B>Yes.</B>
+<A><F>Um</F>. O K. Then, please tell me about your home town.</A>
+<B><.></.> <F>Mm</F>. <..></..> I live in <H pn="others2">XXX04</H> city. <.></.> <H pn="others2">XXX04</H> <.></.> <v_lxc odr="1" crr="is"></v_lxc> near <H pn="others3">XXX05</H>.</B>
+<A><F>Err</F>. O K. Then, <F>er</F> your family, is there?</A>
+<B>Yes. <.></.></B>
+<A>O K. Then, please tell me about your family.</A>
+<B><.></.> Father, mother and sister and grandmother.</B>
+<A><F>Um</F>. Nice grandmother?</A>
+<B><F>Uum</F>. <laughter>Nice</laughter>. <nvs>laughter</nvs></B>
+<A><F>Hum</F>. What do you talk about with her, your grandma?</A>
+<B><F>Mm</F>. <..></..> She likes <JP>syodo</JP> <.></.> very <av_lxc odr="1" crr="much">well</av_lxc>. <.></.></B>
+<A><F>Mm</F>. How about you?</A>
+<B>I <..></..> not well. <nvs>laughter</nvs></B>
+<A>I see. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. Please tell me anything about this picture.</A>
+<B><JP><F>e</F></JP>? <.></.> <JP><F>Ee</F></JP>. There is a cat on the bed. The dog <v_lxc odr="1" crr="is"></v_lxc> on <at odr="2" crr="the"></at> floor. <..></..> <R>There</R> there is a personal computer on the desk.</B>
+<A>O K, good. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A><F>Er</F>. In your free time like weekends, what do you like to do in your room?</A>
+<B>Sleeping.</B>
+<A><F>Ah</F>. And?</A>
+<B>And <.></.> <F>mm</F> watching television.</B>
+<A><F>Ah</F> <F>hum</F>. What kind T V programs do you like?</A>
+<B>Baseball.</B>
+<A><F>Uhu</F>. Do you play baseball?</A>
+<B><F>Ummm</F>. <.></.> <n_lxc odr="1" crr="Catch">Catch ball</n_lxc>.</B>
+<A><F>Ah</F>. I see. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <nvs>cough</nvs> I'm going to give you a card. So, O K, here you are. Let's do a role play.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K? O K. Hello, may I help you, sir?</A>
+<B><JP><F>Ee</F></JP>. This wear, please.</B>
+<A><F>Er</F>. I cannot see well. What's that?</A>
+<B><JP><F>e</F></JP>?</B>
+<A>What is that?</A>
+<B>Wear.</B>
+<A>Wear? <F>Hum</F>. Shirt?</A>
+<B><.></.> Yes, shirt.</B>
+<A><F>Ah</F>. O K. <F>Um</F>. Actually, we have nice shirts on discount, cheaper shirts there.</A>
+<B><.></.> <JP><F>e</F></JP>? <CO>I'm for</CO>. <F>Er</F>.</B>
+<A><nvs>laughter</nvs> So?</A>
+<B><.></.> So, <o_odr odr="1" crr="this one, please">please this one</o_odr>.</B>
+<A>This one? <F>Erm</F>. What color?</A>
+<B><.></.> <F>Er</F>. Blue.</B>
+<A><F>Uum</F>. O K. <F>Er</F>. There are various prices. How much?</A>
+<B><.></.></B>
+<A>How much can you pay?</A>
+<B><.></.> Three thousand yen.</B>
+<A><F>Er</F>. O K. Then, how about this one?</A>
+<B><.></.> Yes.</B>
+<A>O K, O K. Here you are. Thank you.</A>
+<B><.></.> You're welcome.</B>
+<A>O K, good. Thank you <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>So you are wearing a nice shirt, nice shirt.</A>
+<B>Shirt.</B>
+<A><F>Hum</F>. Where did you buy that shirt?</A>
+<B><F>Mm</F>? <.></.> <JP><F>Ee</F></JP>. <.></.> I <v_cmp odr="1" crr="bought this">bought</v_cmp> <prp_lxc1 odr="2" crr="at">in</prp_lxc1> Aoyama.</B>
+<A><F>Hum</F>. Why Aoyama?</A>
+<B>Very cheap.</B>
+<A><nvs>laughter</nvs> I see. O K, thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, <.></.> finally, O K, <.></.> <F>mm</F> please make a story using these four pictures one, two, three, four. O K?</A>
+<ctxt>The nterviewee is thinking for a while.</ctxt>
+<B>Two men and one girl <JP><F>ee</F></JP> go to <at odr="1" crr="the"></at> theater. <JP><F>Ee</F></JP>. <.></.> They buy popcorn and juice. <JP><F>E</F></JP>. <.></.> <JP><F>Ee</F></JP>. Then, <.></.> they watch <at odr="1" crr="a">the</at> movie. <nvs>cough</nvs> <.></.> <JP><F>Ee</F></JP>. They enjoy very much.</B>
+<A><F>Um</F>. Very good. Thank you.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>. Do you like movies?</A>
+<B><F>Uum</F>. Yes.</B>
+<A><F>Um</F>. So, please tell me about your favorite movie? The movie you like best.</A>
+<B><JP><F>Eeee</F></JP>. <.></.> <R>I</R> <R>I like</R> <JP><F>eee</F></JP> <.></.> I like "Star Wars" best. <.></.></B>
+<A>What is the best scene in that movie?</A>
+<B><F>Err</F>. <..></..> <JP><F>Ee</F></JP>. I like <?>Harison</?>. <JP><F>Ee</F></JP>. <..></..> <JP><F>ee</F></JP>.</B>
+<A><F>Mm</F>. O K. Then, which do you like better seeing a video or watching a baseball game on T V?</A>
+<B><F>Er</F>. Baseball game.</B>
+<A><F>Err</F>. Why?</A>
+<B><laughter><F>Humm</F></laughter>. <.></.> <JP><F>Ee</F></JP>. Baseball is very interesting.</B>
+<A><F>Hum</F>. O K, thank you. Who is your favorite player?</A>
+<B><F>Er</F>. I like Ichiro.</B>
+<A><F>Hum</F>. What is he doing now?</A>
+<B><.></.> <R>He</R> <R>he go to</R> <JP><F>ee</F></JP> he <v_tns odr="1" crr="went">go</v_tns> to <at odr="2" crr="the"></at> major league.</B>
+<A><F>Hum</F>. And?</A>
+<B><CO>And</CO>. <.></.></B>
+<A>He is in America now, and?</A>
+<B>And, <.></.> in Seattle.</B>
+<A><F>Er</F>. O K, thank you. Thank you <R>very</R> very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now, the interview is almost over. What are you going to do after this test?</A>
+<B><.></.></B>
+<A>What are you going to do today?</A>
+<B>Today? <F>Mm</F>. Drink.</B>
+<A>Drink? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>With your friends?</A>
+<B><.></.> <JP><F>Ee</F></JP> <F>am</F>. <n_num odr="1" crr="Friends">Friend</n_num> and <JP><F>ee</F></JP> <.></.> <laughter><JP><F>eee</F></JP></laughter> <.></.> <F>mm</F>. <nvs>laughter</nvs></B>
+<A><F>Mm</F>. O K. Then, <R>where</R> where are you going? The name of the restaurant?</A>
+<B><F>Er</F>. I don't know.</B>
+<A><F>Mm</F>. O K, thank you. So, enjoy yourself.</A>
+<B><.></.></B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

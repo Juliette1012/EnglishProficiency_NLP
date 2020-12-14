@@ -1,0 +1,216 @@
+<interview>
+<filename>file00115.txt</filename>
+
+<head version="1.3">
+<date>2000-09-04</date>
+<sex>male</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests>e</other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello, my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Hum</F>. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. So <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F> I'm in <H pn="others1">XXX03</H>.</B>
+<A><F>Hum</F>. <F>Ah</F> from <H pn="others1">XXX03</H> to here, <SC>how did you come h</SC>, how did you come?</A>
+<B><.></.> By train.</B>
+<A><F>Hum</F>. O K. So do you live there with your family?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Tell me more.</A>
+<B><..></..> <F>Er</F> with my parents.</B>
+<A><F>Mhm-huh</F>. So tell me more about your mother.</A>
+<B><..></..> <F>Mm</F>. <nvs>laughter</nvs></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. That's O K.</A>
+<B>Sorry.</B>
+<A><F>Mhm-huh</F>. No problem. So <H pn="B's name">XXX02</H>, are you a student?</A>
+<B>No.</B>
+<A>What do you do?</A>
+<B><F>Er</F> <.></.> <F>er</F> <JP>free arbiter</JP>.</B>
+<A><F>Hum</F>. What kind of job</A>
+<B><F>Uhm</F>.</B>
+<A>do you do?</A>
+<B><F>Uhm</F>. <.></.> Restaurant.</B>
+<A><F>Ahhm</F>. Are you busy?</A>
+<B><F>Uhm</F> <laughter>no</laughter>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>So besides part time job, what do you do <SC>on your free time</SC></A>
+<B><F>Mm</F>.</B>
+<A>in your free time?</A>
+<B><F>Er</F> I study <F>er</F> English.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>mm</F> <.></.> <F>mm</F> <.></.> I play with my friends,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and read book.</B>
+<A><F>Hum</F>. What kind of books do you like to read?</A>
+<B><CO>I <F>mm</F></CO>. <..></..></B>
+<A>Tell me the name of <R>th</R> the book.</A>
+<B>Sydney Sheldon.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>Do you know</OL>?</B>
+<A><F>Hum</F>. <F>Hum</F>. O K. So you said you study English</A>
+<B>Yes.</B>
+<A>in your free time.</A>
+<B><F>Mm</F> yes.</B>
+<A><SC>Why</SC> what do you like most about studying English?</A>
+<B><F>Uh</F> yes. <R>I</R> <F>mm</F> <.></.> I want to go to America. <SC>So</SC> <F>ah</F> <F>mhm</F> and I want to work in America. So <SC>I want to</SC> <F>er</F> I <SC>ss</SC> <.></.> decided to study English.</B>
+<A><F>Hum</F>. I see. Why do you want to work in the United States?</A>
+<B><F>Eh</F> <.></.> <F>er</F> I like music. So <R>I want to</R> <F>err</F> <.></.> I want to work <.></.> music job. <nvs>laughter</nvs></B>
+<A><F>Hum</F>. Interesting. <OL>Thank you very much</OL>.</A>
+<B><OL>Yes</OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>All right. So <H pn="B's name">XXX02</H>, I'd like to show you a picture. O K? Please describe the picture.</A>
+<B><F>Um</F> <.></.> in the room, <F>ehh</F> dog and cat are sleeping. <F>Err</F> <.></.> woman <..></..> sit <R>o</R> on the chair. And <R>she</R> <..></..> she has a <nvs>laughter</nvs> personal computer. <.></.> <F>Er</F> the door is open. <.></.> <F>Um</F>. <.></.> <F>Uhmm</F>. <..></..></B>
+</task>
+<followup>
+<A>O K. So thank you. Is this room similar to your room?</A>
+<B><F>Mm</F>?</B>
+<A>Is this room the same as yours?</A>
+<B><F>Mhm</F> yes. <F>Err</F> <R>my roo</R> my room looks like this.</B>
+<A><F>Hum</F>. O K. So do you like pets?</A>
+<B><F>Ah</F> Yes, <R>I</R> <F>eh</F> I have a cat.</B>
+<A><F>Ohh</F>. How do you take care of your cat?</A>
+<B><F>Uhm</F> <R>I</R> <F>er</F> I clean <F>eh</F> their <nvs>laughter</nvs> <F>um</F> toilet.</B>
+<A><F>Oh</F> good. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <SC>I'd like to</SC> <R>we</R> we are going to play a role-play.</A>
+<B>Role play?</B>
+<A><F>Um</F>. O K. So <F>er</F> please read this card, and when you are ready, I'll start.</A>
+<B><ctxt>the interviewee is reading the card</ctxt> <F>Um</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Ring ring. Hello.</A>
+<B><F>Uh</F> hello, <F>er</F> this <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. How are you?</A>
+<B><F>Ah</F> I'm fine. And <F>er</F> <F>eh</F> <R>let's</R> let's go to the movies.</B>
+<A>Good. Sure.</A>
+<B>O K?</B>
+<A>Yeah.</A>
+<B>And <F>ur</F> <F>mm</F> <nvs>cough</nvs> <R>where</R> <F>mm</F> <F>mmm</F> where <laughter>do you live</laughter>?</B>
+<A><F>Oh</F> <R>I live in</R> <.></.> I live in Shinagawa.</A>
+<B><F>Oh</F> Shinagawa. <F>Um</F> <SC>it</SC> <F>mm</F> yeah, and let's go to <R>Sh</R> Shinjuku. O K?</B>
+<A>Sure.</A>
+<B>And <F>ur</F> <F>eh</F> <SC>I</SC> I'll go to <R>Sh</R> Shinjuku <F>uhm</F> <.></.> two o'clocks.</B>
+<A>O K.</A>
+<B>O K? And <F>ur</F> let's <F>eh</F> have a lunch. O K?</B>
+<A>Sure. What kind of lunch?</A>
+<B><F>Uhm</F> <SC>do you</SC> <F>mm</F> what do you like?</B>
+<A><R>Any</R> any dish is O K.</A>
+<B>O K. <JP><F>Unja</F></JP> <F>mm</F> do you like <?>ramen</?>? O K?</B>
+<A>Yeah. I love <JP>ramen</JP>. And what kind of movie</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL>are we going to watch</OL>?</A>
+<B><F>Ehh</F> I want to <F>mm</F> watch 'Mission Impossible Two'.</B>
+<A><F>Hum</F>.</A>
+<B><F>Eh</F> have you ever <SC>watched</SC> watch <F>eh</F> this movie?</B>
+<A>Actually, no.</A>
+<B><SC>There</SC> <F>ah</F> so let's watch</B>
+<A><F>Mh-huh</F>.</A>
+<B>it.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><R>And</R></OL> <R>and</R> <F>ur</F> <F>mhm</F>? <CO>And</CO>. <.></.></B>
+<A>And where in Shinjuku are we going to meet?</A>
+<B><F>Um</F> <F>eh</F> <..></..> <F>mhmm</F>. <..></..></B>
+<A>Do you know any good place?</A>
+<B><F>Mm</F>?</B>
+<A>Do you know any good place in Shinjuku?</A>
+<B><F>Ah</F> <F>oh</F> <..></..> near Komageki.</B>
+<A>Sure. O K, then see you. Bye.</A>
+<B>Bye.</B>
+<A>O K. Thank you. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>But what was the last movie you saw?</A>
+<B><F>Um</F>? What?</B>
+<A><F>Hum</F>. What was the last movie you saw?</A>
+<B><F>Mm</F> I saw the last movie is <F>mm</F> <..></..> I can't <laughter>remember</laughter>.</B>
+<A><F>Hum</F> <F>mh-hm</F>.</A>
+<B><R>I</R> <.></.> I watched the <F>em</F> rental video</B>
+<A><F>Oh</F>.</A>
+<B>recently.</B>
+<A><F>Oh</F>.</A>
+<B><CO>So I</CO>.</B>
+<A>O K. Then let's see, what are the good points and bad points of watching a video at home and go to the theater?</A>
+<B><F>Er</F> good points is <F>er</F> <F>ah</F> going to the movie <F>er</F> <nvs>breath</nvs> is <F>eh</F> <SC>big sound</SC> <F>um</F> feel <SC>big sound and</SC> <.></.> <R>bi</R> <.></.> <JP><F>unto</F></JP> <nvs>breath</nvs> <.></.> <R>big</R> big sound and big <..></..> television? <nvs>laughter</nvs></B>
+<A><F>Mh-huh</F>.</A>
+<B><F>Mm</F>. Big view? <F>Um</F>?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Eh</F> <R>but</R> <F>eh</F> <F>ah</F> but going to movie <F>err</F> <.></.> is <F>erm</F> <.></.> <F>mmm</F> <.></.> decided <nvs>laughter</nvs> <??></??> <..></..> <F>er</F> <R>time</R> timetable.</B>
+<A><F>Mhm</F>.</A>
+<B>Timetable. <CO><F>Er</F> <.></.> <R>it</R> it is <.></.> <F>mm</F> <.></.> <F>mm</F> <nvs>laughter</nvs> <..></..> mi <F>um</F></CO>? <nvs>breath</nvs> <F>Mm</F> sorry. <F>Err</F>.</B>
+<A>That's O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Mm</F>. No problem. Thank you very much.</A>
+<B><?>Sorry</?>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, finally, I'd like to show you a picture sequence. So from one to six, please make a story. O K? And this happened last week. So please start your story with, "One day last week".</A>
+<B>One day last week.</B>
+<A><F>Mm</F>.</A>
+<B><F>Er</F> <nvs>cough</nvs> <.></.> <F>er</F> he telephoned <F>er</F> his girlfriend. And <F>er</F> <SC>he <F>err</F> planned</SC> <.></.> <F>err</F> <R>he</R> he planned to <F>er</F> go to zoo. <F>Er</F> and <R>he</R> <F>uhmm</F> <..></..> <R>he</R> <..></..> he promise her <F>mhm</F> to drive to the zoo. <.></.> <R>And</R> <F>ehh</F> <SC>and he</SC> and they arrive the zoo. <F>Er</F> <nvs>cough</nvs> they watched lion, and they watched the monkey. <F>Er</F> <R>she</R> <..></..> she looks <F>er</F> the monkey <F>er</F> eating banana. <..></..> And they leave the zoo.</B>
+<A><F>Mm</F> <F>mm</F>.Thank you.</A>
+</task>
+<followup>
+<A>O K. So <H pn="B's name">XXX02</H>,</A>
+<B><JP>Hai</JP>.</B>
+<A>tell me where is the best place for date.</A>
+<B><F>Err</F> <.></.> they watched the monkey.</B>
+<A>No, no, no. I mean if you are this man, you know, if you are going to date with your girlfriend, where is the best place</A>
+<B><F>Ah</F>.</B>
+<A>to go?</A>
+<B><F>Er</F> <SC>I went to</SC> <F>ah</F> <SC>I want to</SC> <F>um</F> <.></.> I think <F>er</F> <..></..> <F>mm</F> <R>sea</R></B>
+<A><F>Mhm</F>.</A>
+<B>Sea. <F>Er</F>. <.></.></B>
+<A>Why?</A>
+<B><F>Um</F> <nvs>cough</nvs> <.></.> <F>mm</F> swimming and <..></..> <R>playing</R> <R>playing</R> playing with body board <.></.> are fun.</B>
+<A><F>Mhm</F>. Sounds good. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>This is almost the end of the role-play. But you know, <SC>during the summer vacation</SC> during August, did you go to the sea?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. And did you enjoy swimming there?</A>
+<B>Yes.</B>
+<A><F>Oh</F> <SC>Which place</SC> which <SC>shore</SC> seashore did you go?</A>
+<B><F>Mm</F> <SC><H pn="others2">XXX04</H>'s</SC> <H pn="others2">XXX04</H>.</B>
+<A>That's pretty far.</A>
+<B><H pn="others2">XXX04</H> <F>er</F> and Shizuoka</B>
+<A><F>Mh-hm</F>.</A>
+<B>and Shonan.</B>
+<A><F>Wow</F>. So many places.</A>
+<B>Yeah.</B>
+<A><F>Uhm</F>.</A>
+<B>My brother lives in <H pn="others2">XXX04</H>.</B>
+<A><F>Ahh</F>.</A>
+<B>So <F>ur</F> I went to there.</B>
+<A><F>Mhm</F>.</A>
+<B>And <SC>go to the se</SC> go to sea.</B>
+<A><F>Oh</F> I see. O K. Thank you very much. <SC>This is the end of the role-p</SC> no, this is the end of the interview.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

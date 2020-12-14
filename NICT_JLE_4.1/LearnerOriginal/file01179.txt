@@ -1,0 +1,301 @@
+<interview>
+<filename>file01179.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>44</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>.</A>
+<B><OL><H pn="A's name">XXX01</H></OL>.</B>
+<A><OL>May I</OL> have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. O K. <OL>Sure</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+<B>You're welcome.</B>
+<A>It's a bad weather today, isn't it?</A>
+<B>Yes, it is.</B>
+<A><F>Uum</F>.</A>
+<B>Sure <SC>it was very</SC> it is very humided.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>.</B>
+<A>Do you like summer season?</A>
+<B><F>Uum</F> <F>er</F> I don't like summer, actually.</B>
+<A><F>Err</F>.</A>
+<B>It's too hot in Japan.</B>
+<A><F>Err</F> I see. O K. <H pn="B's name">XXX02</H>, what do you do?</A>
+<B>What do you do?</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> I'm a pediatrician.</B>
+<A><F>Uhu</F>.</A>
+<B>And I have my own private clinic in my house. But I think most of my part is housewife. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Err</F></OL>. O K. What is the most difficult thing about being a pediatrician?</A>
+<B><F>Uum</F>. <.></.> Being a pediatrician?</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <F>er</F> <R>s</R> so I have much responsibility</B>
+<A><F>Err</F></A>
+<B>to practice, not only for children or baby, but also the whole family, I think.</B>
+<A><OL><F>Err</F> I see</OL>.</A>
+<B><OL>I feel very</OL> heavy responsibility.</B>
+<A><F>Uum</F>. O K. So how do you relax yourself?</A>
+<B><F>Uum</F> sometimes I see a movie, <F>err</F> like a very humor</B>
+<A><F>Um</F>.</A>
+<B>or sometimes I talk to my family.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>I have</OL> three daughters. And they are very cute. <nvs>laughter</nvs> Having a talk or chat with them <F>er</F> <SC>very</SC> make me very relax.</B>
+<A>I see. Tell me a little about one of your daughters.</A>
+<B>One of? Yeah. My eldest daughter is <SC>forty</SC> fourteen years old. She is now third <SC>graud</SC> grade of junior high school. And she loves English very well.</B>
+<A><F>Uum</F>.</A>
+<B>So <F>um</F> I'd like to study English again.</B>
+<A><F>Um</F> <F>um</F>.</A>
+<B>Because she is studying English very hard everyday.</B>
+<A><F>Um</F>.</A>
+<B>She listen the English education program in radio every day.</B>
+<A><OL>That's great</OL>.</A>
+<B><OL><F>Er</F> Yes</OL>. So from this April, just I started to listen the different program but radio English program.</B>
+<A><F>Um</F> <F>um</F> <F>um</F>.</A>
+<B>It is very good for me, I think.</B>
+<A><OL><F>Uum</F></OL>.</A>
+<B><OL>And</OL> also, I took this class.</B>
+<A><F>Err</F>. <OL>Thank you very much</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>You mentioned you like going to the movie.</A>
+<B><F>Uum</F>.</B>
+<A>Did you see a good movie recently?</A>
+<B><F>Er</F> Yeah. <F>Err</F> last weekend, I saw a movie named "Spots". <F>Uum</F> it was <SC>story of</SC> <F>er</F> very funny story.</B>
+<A><F>Err</F>.</A>
+<B><F>Um</F> <SC>we</SC> <F>err</F> a man who doesn't like kids or dog, <.></.> but he have to treat kids and dogs.</B>
+<A><F>Uhu</F>.</A>
+<B>And then <F>er</F> finally, she loves kids and dogs. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. Someday I should try.</A>
+<B><nvs>laughter</nvs></B>
+<A>Thank you very much, <H pn="B's name">XXX02</H>.</A>
+<B>Thank you.</B>
+</stage1>
+<stage2>
+<task>
+<A>Firstly I'm going to show you this picture.</A>
+<B>Yes.</B>
+<A>This is a neighborhood picture.</A>
+<B><OL><F>Uhu</F></OL>.</B>
+<A><OL>Please</OL> describe it for me.</A>
+<ctxt>The interviewee is looking at the picture for a moment.</ctxt>
+<B>Neighbors. <F>Um</F>. It's a sunny day. And it seems a holiday. So <F>err</F> <SC>how to describe the</SC> in front of the house, a girl is jumping rope. And <..></..> there is a car in front of the <.></.> house <R>on</R> on <SC>ri</SC> left side of the street and there is a cat on the top of car. And there are two women. They are talking about something. And other side of the house, <F>um</F> two boys playing <F>er</F> with ball on the grass. <F>Um</F> a young man <.></.> jogging. <F>Um</F>. And <SC>this</SC> the other side of the street, a man sitting in the bench and he is reading a newspaper.</B>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Where do you live now?</A>
+<B>Now, I live in <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H>.</B>
+<A>I see. So then, please compare this picture with your neighborhood.</A>
+<B><F>Err</F> yes.</B>
+<A><H pn="others1">XXX03</H>, <OL><H pn="others2">XXX04</H></OL>.</A>
+<B><OL><H pn="others1">XXX03</H></OL> <H pn="others2">XXX04</H>. <F>Uum</F>. O K. <..></..> In my town there is so many buildings. And there are no trees or no grasses. <F>Umm</F> <..></..> <F>uum</F> <.></.> <F>um</F> <.></.> <SC>my</SC> in my town, there is so may offices</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL><SC>and</SC></OL> or shops. There are few houses to live.</B>
+<A>I see.</A>
+<B><F>Um</F> it's very different from <OL>this picture</OL>.</B>
+<A><OL><F>Err</F></OL>. I see.</A>
+<B><.></.> <F>Uum</F> and <F>er</F> also, there is <SC>few</SC> <F>err</F> <.></.> more less children in my town than in this picture.</B>
+<A><F>Um</F>.</A>
+<B><SC>There is many old</SC> there are many older persons in my town.</B>
+<A><F>Err</F> I see.</A>
+<B><F>Um</F>.</B>
+<A><F>Uum</F>.</A>
+<B><..></..> <F>Uum</F>.</B>
+<A>O K. So <H pn="B's name">XXX02</H>, what is the best point about living in a city center? I think <H pn="others2">XXX04</H> is the <OL>city center</OL>.</A>
+<B><OL><F>Um</F> <F>um</F></OL>. <F>Uhu</F>.</B>
+<A>So what is the best point?</A>
+<B>Best point. I think the best point living in city is very convenient</B>
+<A><F>Err</F>.</A>
+<B>to go <F>uum</F> anywhere, to go to school or to go to movie or shops or museums.</B>
+<A><F>Wow</F>.</A>
+<B>Yes.</B>
+<A>I see.</A>
+<B>So it's very convenient for business</B>
+<A><OL><F>Um</F> <F>um</F></OL>.</A>
+<B><OL>or to</OL> study.</B>
+<A>I see. I agree with you.</A>
+<B><OL><laughter>Thank you</laughter></OL>.</B>
+<A><OL>Thank you very much</OL> <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, I'm going to give you this role-play card. This is a role-play.</A>
+<B><F>Uhu</F>.</B>
+<A>So I'd like to do a role-play with you.</A>
+<B><JP>Hai</JP>.</B>
+<A>When you are ready, I'll start. Are you ready?</A>
+<B><F>Er</F>. <CO>So I have to <OL>decide <R>something</R> something</OL></B>
+<A><OL>Yes you are customer <F>uhu</F></OL>.</A>
+<B><R>to</R> to</CO>.</B>
+<A><R>I'm a</R> I'm a <F>err</F> shop clerk. <OL>O K</OL>?</A>
+<B><OL><F>Uhu</F></OL> <F>uhu</F>. O K.</B>
+<A>All right?</A>
+<B><F>Um</F>.</B>
+<A>How can I help you, ma'am?</A>
+<B><F>Er</F> yes. Now I'm looking forward to some handbag.</B>
+<A>I see.</A>
+<B>Yes. <F>Er</F>.</B>
+<A>We have many.</A>
+<B><laughter>Many</laughter>. So <F>er</F> I like <F>er</F> small</B>
+<A><F>Um</F>.</A>
+<B>but a little bit feminine.</B>
+<A>I see.</A>
+<B>And the color is not so dark but <F>uum</F> a little bit bright brown.</B>
+<A>Bright brown. <OL>O K</OL>.</A>
+<B><OL>Bright brown</OL>. And I like there is many pockets</B>
+<A><F>Uhu</F>.</A>
+<B>in the handbag. Do you have <OL>that kind of bag</OL>.</B>
+<A><OL>Yes</OL>. How about this one?</A>
+<B><F>Err</F> it looks good. How much is this?</B>
+<A>It's <F>er</F> ten thousand yen.</A>
+<B>A little bit <nvs>laughter</nvs> expensive, so <F>er</F> do you have more <.></.> cheap one</B>
+<A>O K.</A>
+<B><OL>like this</OL>?</B>
+<A><OL>Then how about</OL> this one? This is eight thousand yen.</A>
+<B><OL>Eight thousand yen</OL>.</B>
+<A><OL>And with</OL> many pockets inside.</A>
+<B><F>Err</F> it looks nice. <F>Uum</F> but I don't like this <F>ee</F> fastener.</B>
+<A><F>Err</F>.</A>
+<B>I like <F>er</F> magnet type.</B>
+<A>I see. Then how about this one?</A>
+<B>I <OL>see</OL>.</B>
+<A><OL>This is</OL> same price.</A>
+<B><F>Uhu</F>. <F>Er</F> it looks good. But <F>er</F> <.></.> <R>i</R> <.></.> <SC>is this have</SC> <F>er</F> <F>oh</F> no, do this have some shoulder?</B>
+<A>Yes. You can use it.</A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL>Yes</OL>.</A>
+<B>I see.</B>
+<A>There is a shoulder belt</A>
+<B>Yes.</B>
+<A>inside <OL>the bag</OL>.</A>
+<B><OL>Inside</OL>. <OL>I see</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B>O K.</B>
+<A>Take a good look.</A>
+<B><F>Uum</F>. It looks nice.</B>
+<A><nvs>laughter</nvs></A>
+<B><.></.> O K. I'll take this.</B>
+<A>All right. Thank you very much. O K. Come again.</A>
+<B>Thank you. <nvs>laughter</nvs></B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>Thank you, <H pn="B's name">XXX02</H>.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>That's the end</OL> of role-play.</A>
+<B><JP>Hai</JP>.</B>
+<A>So do you like shopping in your real life?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Err</F></OL>.</A>
+<B><laughter>I like very much</laughter>.</B>
+<A>So where is your <F>err</F> favorite shopping place?</A>
+<B><F>Uum</F> <.></.> I don't have <.></.> <F>er</F> certain place <OL><SC>to shopping</SC> to go to shopping</OL>.</B>
+<A><OL><F>Um</F> <F>um</F> <F>um</F></OL>.</A>
+<B><SC>Anywhere I</SC> <F>err</F> <F>um</F> <.></.> usually, I'm so busy and I have no chance to go to shopping. But I go to somewhere <..></..> I go to shop and quickly look around.</B>
+<A>I see. <OL><F>Um</F></OL>.</A>
+<B><OL><SC>I</SC></OL> ordinary, I shop <F>er</F> <F>er</F> many places.</B>
+<A>O K. So when you go shopping</A>
+<B><F>Uhu</F>.</B>
+<A><F>er</F> what is most important thing to decide which one to buy?</A>
+<B><F>Uum</F> it depend on <F>er</F> <.></.> <F>uum</F> object.</B>
+<A>O K.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>For the</OL> <OL>clothes yes</OL>.</A>
+<B><OL>Clothes</OL> <F>um</F>. Clothes. It's a design <F>er</F> <F>uum</F> <SC>good for me</SC></B>
+<A><F>Um</F>.</A>
+<B><F>er</F> it's <SC>good</SC> fit for me. And to easy care, is very important for me.</B>
+<A>I see. Very good policy. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I'm going to show you another picture. This is a sequence of pictures. Please make up short picture <F>er</F> <R>so</R> sorry, short <F>er</F> story</A>
+<B>Story.</B>
+<A>to use these pictures from one to six. And this happened before. So please start your story with "One day last week," and go.</A>
+<B><F>Uhu</F>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B>Two person or maybe, son and father went to the restaurant. And <..></..> they take a seat and they ordered menu. And son <SC>eat</SC> ate fish and drunk a <SC>cup</SC> <F>er</F> glass of beer. And father had some chicken and had a glass of wine. And the son was full stomach. And the father pays all. And then they say good-bye. <F>Uum</F> I think <SC>the son is</SC> <SC>the son was</SC> <F>er</F> <SC>li</SC> the son lived separately. And son <SC>go back</SC> went back to his house.</B>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>, do you sometimes eat out?</A>
+<B><F>Uum</F> sometimes.</B>
+<A>All right. So please tell me last time you went to a restaurant.</A>
+<B>Last time. <.></.> <F>Err</F> <F>ee</F> last Saturday, I and my family went to <SC>the chicken</SC> <F>er</F> the restaurant for <R>the</R> the chicken dishes.</B>
+<A><F>Hum</F>.</A>
+<B>They served the all chicken foods.</B>
+<A>Only chicken, <OL>you mean</OL>?</A>
+<B><OL>Only chicken</OL>. <R>Only</R> only chicken. <OL>Only chicken</OL>.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B>And my husband loves chicken very much. And he loves <F>um</F> chicken plates</B>
+<A><F>Um</F>.</A>
+<B>like <F>er</F> <F>err</F> chicken sautees and chicken <F>um</F> meatballs and like them. And I and two of my daughters <F>er</F> took <F>er</F> <R>same</R> <F>um</F> same plates. And my eldest daughter doesn't like chickens very well.</B>
+<A><F>Um</F>.</A>
+<B>So she is served but she left only <laughter>chicken</laughter>. <nvs>laughter</nvs> <laughter>So she eats <F>er</F> besides chicken</laughter>.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A>O K.</A>
+<B>So <OL>it's really funny</OL>.</B>
+<A><OL>So how</OL> did you find that kind of so special restaurant?</A>
+<B><F>Er</F> the restaurant just opened near my house. So my family went to go there.</B>
+<A><F>Hum</F>.</A>
+<B>So <R>la</R> last Saturday, we tried.</B>
+<A>I see. Did your eldest daughter enjoyed <SC>the lu</SC> <F>er</F> the dinner?</A>
+<B><nvs>laughter</nvs></B>
+<A>Was she O K?</A>
+<B>O K. She seems to having dinner <F>um</F> with my family.</B>
+<A><F>Err</F>.</A>
+<B>But <SC>she</SC> just <SC>she didn't like</SC> <OL>she doesn't like</OL></B>
+<A><OL><F>Err</F></OL>.</A>
+<B>chicken.</B>
+<A>But you enjoyed a lot.</A>
+<B>Yes.</B>
+<A>That's wonderful.</A>
+<B>Yes.</B>
+<A>All right. Thank you very much <H pn="B's name">XXX02</H>.</A>
+<B><OL>Thank you very much</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><OL>Interview is</OL> almost over.</A>
+<B><F>Uhu</F>.</B>
+<A>So do you have any plan after this interview?</A>
+<B><.></.> No. <F>Er</F> because of Typhoon is coming, so my <F>err</F> youngest daughter came back home early.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>So</OL> <F>er</F> after this test</B>
+<A>Yeah.</A>
+<B>I have to go back home quickly.</B>
+<A>I see. O K. So do you prepare something for the typhoon?</A>
+<B><nvs>laughter</nvs> <laughter>Just water</laughter>.</B>
+<A><F>Er</F> <OL>just water</OL>.</A>
+<B><OL>Water</OL>. Yeah.</B>
+<A>And some food?</A>
+<B><F>Uum</F> some foods. Water is very important, I think.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Thank you very much for coming.</A>
+<B><laughter>Thank you very much</laughter>.</B>
+<A>Interview is over.</A>
+<B><OL><JP>Hai</JP></OL>.</B>
+<A><OL>So</OL> take care for your daughter. <nvs>laughter</nvs></A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

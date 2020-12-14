@@ -1,0 +1,173 @@
+<interview>
+<filename>file01064.txt</filename>
+
+<head version="1.3">
+<date>2002-03-07</date>
+<sex>male</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>. Nice to meet you.</B>
+<A>Nice to meet you, too. May I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>O K, how are you today, <H pn="B's name">XXX01</H>?</A>
+<B><F>Hm</F>. <F>Mm</F> so-so. Fine</B>
+<A>So-so.</A>
+<B>Yes.</B>
+<A>O K. Very busy <OL>every day</OL>?</A>
+<B><OL><F>Mm</F> not so busy</OL>, but I catch a cold now.</B>
+<A><F>Oh</F> are you O K?</A>
+<B><F>Mm</F> yes.</B>
+<A>O K. So <F>er</F> could you tell me about your work?</A>
+<B>Work.</B>
+<A><F>Mm</F>.</A>
+<B>O K. <F>Mm</F>. I'm system engineer for our <SC>pro</SC> <??></??> products, <F>mm</F> especially <?>Divid</?> product. <?>Divid</?> <?>means</?> <H pn="company name1">XXX02</H> database. So <F>un</F> we support <F>um</F> <?>Divid</?> <F>um</F> products. <F>Um</F>. I've been engaged <SC>at</SC> for my office on thirty-six floor. <F>Um</F>. I worked at telephone support center. <F>Mm</F> <F>mm</F> I answer to the <R>cl</R> client, <F>mm</F> if the client ask our center <F>mm</F> about products.</B>
+<A><F>Ah</F>. Do you like working hard?</A>
+<B>Yes.</B>
+<A>What's good about your job?</A>
+<B>Sorry?</B>
+<A>Why do you like your job?</A>
+<B>Because <F>mm</F> <R>I can</R> I can recommend some solution <F>mm</F> to client, <F>mm</F> if the client confusing or trouble. So <F>mm</F> <R>I</R> <.></.> <R>I</R> I can give the <F>um</F> power to the client, so <SC>client is</SC> client <F>hm</F> become to happy, I think.</B>
+<A>I see. What do you consider the most when you give some solution or support to your customer?</A>
+<B>Sorry? <R>Co</R> consider?</B>
+<A>Yeah. What are you <F>er</F> careful</A>
+<B>Careful.</B>
+<A><OL>the most</OL>?</A>
+<B><OL><F>Ah</F></OL>. Most careful <F>um</F> I think is <F>mm</F> maybe <F>um</F> meaning <R>spe</R> <R>speed</R> speed answer. <F>Um</F>. And I answer to the clients <F>mm</F> as soon as possible, if the client ask me.</B>
+<A>I see. <F>Mm</F>.</A>
+<B>Yes. <R>If</R> if the solution is not <SC>complete</SC> completed, but <F>um</F> <R>I must</R> <F>mm</F> I must answer <F>er</F> something else.</B>
+<A>O K. What about weekend? What do you usually do?</A>
+<B><F>Ah</F>. <R>I usually</R> I usually on weekend <F>mm</F> almost have a rest <SC>home</SC> at home. <F>Mm</F> sometimes go exercise, <F>er</F> for example, swimming and running. And <F>uu</F> often shopping.</B>
+<A><F>Ah</F> shopping.</A>
+<B>Yes.</B>
+<A><F>Ah</F>. Could you tell me about your favorite shop?</A>
+<B><F>Ah</F> <F>mm</F> my favorite shopping is going to Akihabara <F>mm</F> <R>to buy</R> <F>mm</F> to buy or to watch the electric products. <F>Mm</F>. Especially personal computer.</B>
+<A>O K. <F>Ah</F> so <F>er</F> how do you usually choose a computer for yourself?</A>
+<B>How?</B>
+<A>How do you usually <SC>choose</SC></A>
+<B>Choose?</B>
+<A><F>mm</F> buy computer for yourself?</A>
+<B><F>Ah</F> <F>mm</F> first, <F>mm</F> <R>I th</R> I think <F>mm</F> <.></.> <R>so</R> so <R>personal</R> <F>um</F> personal computer I want to <R>b</R> buy <F>mm</F> is cheap or expensive.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Mm</F>. <R>But</R> <.></.> but <R>I don't</R> I don't like old-type personal computer. <F>Mm</F> <R>I'd like to</R> I'd like to choice <F>mm</F> one general former, meaning <F>um</F> sold last year <R>I</R> <R>I try to</R> I try to find.</B>
+<A><F>Mm</F>. Why?</A>
+<B><F>M</F> because <F>mm</F> nearest product is expensive.</B>
+<A><F>Oh</F> I see.</A>
+<B>So I can't buy.</B>
+<A><F>Oh</F> I see.</A>
+<B><F>Smm</F> but <F>umm</F> <R>one</R> one general former product is sometimes prices <R>d</R> down.</B>
+<A>I see.</A>
+<B><F>Oh</F> about ten or twenty percent lower.</B>
+<A>O K. Yeah.</A>
+<B><CO>So</CO>.</B>
+<A><F>Mm</F>. O K. Thank you.</A>
+<B>Thank you very much.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. First of all, I'll show you a picture.</A>
+<B>Yes.</B>
+<A>Could you describe this picture for me?</A>
+<B>Yes. <F>Er</F> I try to describe this picture. <F>Ah</F>. It is sunny day. And <F>mm</F> there are some <R>houses</R> houses <F>um</F> close up one house. <F>Er</F>. Some children playing. <F>Er</F>. Some <SC>are</SC> looks like volleyball or <F>mm</F> another girl <F>um</F> <R>jumping</R> jumping rope. And in front of house, there are two dogs. <F>Um</F>. And <F>uu</F> <.></.> a man <F>mm</F> running in the road in front of house. And <F>uu</F> <.></.> there are white car <F>mm</F> in the front of house. <JP><F>Ee</F></JP>. On the car, <JP><F>ee</F></JP> there are a cat. <F>Mm</F> maybe <R>she</R> <F>mm</F> <SC>she sleep</SC> <R>she</R> she's sleeping. <R>And</R> <F>uu</F> <.></.> and then, <F>um</F> there are two women. <F>Hm</F>. <F>Mm</F>. They are talking about <F>mm</F> <R>what is</R> <F>mm</F> what is <laughter>I don't know</laughter>. <F>Um</F>. <R>One</R> <R>one wo</R> one woman with a dog. <R>And</R> <F>uu</F> <F>um</F> and then, <F>mm</F> the garden of the house, <F>um</F> <F>er</F> there are a few tree, <R>small tree</R> <F>er</F> small tree. <F>Um</F>. <nvs>sniff</nvs> <F>Mm</F>. And there are very good <F>um</F> spaces.</B>
+<A><F>Mm</F>. O K.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>Yeah. Thank you. Now, could you tell me about your place where you live now? <F>Hm</F>.</A>
+<B>My house?</B>
+<A><F>Mm</F>.</A>
+<B><F>Ah</F>. <F>Um</F>. My house is, <F>mm</F> I feel, <SC>fe</SC> far from the <F>um</F> nearest station. <F>Um</F> walking about ten or fifteen minutes on foot. But <.></.> <F>mm</F> neighborhood is very quiet. It is very good. And <.></.> there are some school, elementary or junior high school. <F>Mm</F>. <F>Mm</F>. <R>There</R> <.></.> there are near my house. <F>Mm</F> so <F>mm</F> in the morning, <F>mm</F> <F>um</F> <F>um</F> <?>there're</?> <F>mm</F> <R>many</R> many of children <F>mm</F> <R>walking</R> <F>ar</F> walking around my house. But <R>aroun</R> around my house, <F>mm</F> there are many <R>car</R> car, also. So <F>um</F> it is dangerous, I feel.</B>
+<A>How did you decide to live there?</A>
+<B>Decide is houses. <F>Um</F> <F>um</F> <F>mm</F> <.></.> so my house is in <.></.> living <F>mm</F> <JP>nanda</JP> <.></.> area of many <SC>house</SC> houses. <F>Mm</F> <F>er</F> beside of my house, <F>um</F> <F>um</F> there are similar <SC>to house</SC> of my house. <R>In front of</R> in front of my house, <F>ee</F> also there are <laughter>similar <R>hou</R> house</laughter>.</B>
+<A>I see. <F>Mm</F>. O K. Thank you.</A>
+<B>Thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, show you another card. <F>Um</F>. Please read it, and when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A><F>Um</F>. Let's say it's on the phone. Ring-ring. Kacha. Hello?</A>
+<B>Hello. <F>Mm</F> this is <H pn="B's name">XXX01</H>.</B>
+<A><F>Oh</F> hi, <H pn="B's name">XXX01</H>. This is <H pn="A's name">XXX03</H>.</A>
+<B><SC>Ne</SC> how are you?</B>
+<A>Yes, fine.</A>
+<B><F>Um</F>. <F>Um</F>. <F>Um</F> <R>I th</R> I think <F>um</F> <R>I</R> <R>I</R> I'd like to go <F>mm</F> <F>mm</F> watching movie <F>um</F> <SC>by</SC> at movie theater with you. <F>Um</F> how about you?</B>
+<A>Sounds good.</A>
+<B>O K. <F>Um</F>. <F>Uu</F> O K. <R>Let's</R> <R>let's</R> let's go with me. <F>Mm</F>. <F>Um</F>. So I think <F>um</F> movie starts <F>um</F> one o'clock in the afternoon. <F>Um</F> so <F>mm</F> <SC>would</SC> <F>um</F> I'd like to see you <F>um</F> twelve-thirty <F>ee</F> at the station. <R>Can you</R> can you <R>come</R> <SC>come to here</SC> come to there at <R>twenty</R> <.></.> <SC>twenty thirty</SC> twelve thirty?</B>
+<A>O K. Which station?</A>
+<B><F>Ah</F> Shinjuku Station. How about you?</B>
+<A>O K.</A>
+<B>O K. And <R>how do you</R> how do you come there?</B>
+<A>By train.</A>
+<B>By train. <F>Mm</F>. <F>Mm</F>. Is it <R>Yamanote Line</R> <F>er</F> Yamanote Line?</B>
+<A>By <F>er</F> Toei Line.</A>
+<B>Toei Line. O K, <F>Mm</F> <R>I</R> I use Seibu Shinjuku Line. So <F>mm</F> <R>I</R> I try to go <R>Toei</R> Toei Line's <F>ee</F> <SC>station</SC> <F>mm</F> Shinjuku Station. <F>Mm</F>. <F>Mm</F>. <.></.> <F>Mm</F> <R>could you</R> <R>could you wait</R> <F>u</F> could you wait for me at the <.></.> station of <.></.> exit?</B>
+<A>Sure.</A>
+<B>O K?</B>
+<A>Yeah.</A>
+<B>O K, <F>um</F> <R>I</R> <F>um</F> <R>I</R> I'll go to there <F>um</F> at twelve-thirty.</B>
+<A>Tomorrow?</A>
+<B><F>Mm</F>. <F>Oh</F> I'm <laughter>sorry</laughter>. <laughter>Today</laughter>.</B>
+<A>Today. Sure.</A>
+<B>O K.</B>
+<A>Yeah.</A>
+<B>O K. <F>Um</F>. <F>Ahm</F> <F>er</F> <laughter>so</laughter> <F>mm</F> <R>I</R> <F>um</F> <R>I have</R> <F>er</F> I have <F>er</F> two ticket <F>um</F> <F>um</F> for this movie. <F>Um</F> <F>um</F> don't worry <F>er</F> <SC>this</SC> about this.</B>
+<A>Great. I'm looking forward.</A>
+<B>O K. <F>Um</F>. <SC>See you next</SC> <F>er</F> see you after.</B>
+<A>Sure. O K.</A>
+<B>O K. Bye.</B>
+<A>Thank you. Bye-bye. Kacha. O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>This is the <.></.> end of the role-play.</A>
+</task>
+<followup>
+<A><F>Ahm</F> do you like watching T V programs or watching movies?</A>
+<B><F>Ah</F> I like watching T V. <F>Um</F> recently, I don't <SC>see movie theater</SC> <F>mm</F> <OL><R>wa</R> watching movie</OL>.</B>
+<A><OL>Why not</OL>?</A>
+<B>Because <R>I</R> <F>er</F> I don't enough <laughter>time</laughter> <SC>for this</SC> for <F>u</F> <R>go</R> going movie theater.</B>
+<A><F>Ah</F>. <F>Mm</F>. O K. But any difference watching movies at a theater and <F>er</F> at home?</A>
+<B><F>Mm</F>. At the theater, <F>um</F> <R>I</R> I can concentrate <F>ee</F> to the movie, <F>Um</F>. <F>Ah</F> <SC>at the T V</SC> <R>o</R> on the T V <F>um</F> I watch movie, <F>um</F> <F>um</F> <R>I</R> I must wait <F>um</F> while T V <laughter>commercial</laughter>.</B>
+<A>I see. <laughter>O K</laughter>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So it's the final one. <F>Ahm</F>. Could you make up a story using these six pictures? And this happened last week, so please start your story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>O K. <F>Mm</F>. <nvs>sniff</nvs> First, <F>um</F> <.></.> there are <R>one student</R> <F>um</F> one student. <R>He</R> he met <F>er</F> <R>his</R> his teacher when he was high school student. <F>Mm</F>. They want to talk about <F>um</F> each other, so <R>he</R> <SC>he try to <F>mm</F> go to the</SC> <R>he try</R> he try to go to the restaurant <F>mm</F> in order to talk about them. And <..></..> next, <F>um</F> teacher <F>er</F> <R>talked</R> talked about <F>mm</F> <F>er</F> boy of restaurant and he requested <F>um</F> non-smoking <F>er</F> <F>er</F> table. And then, <F>um</F> <R>they</R> they ordered <F>ee</F> some food and <SC>drink</SC> <SC>drinki</SC> drinks. And they <SC>talk about</SC> <F>um</F> talked about maybe former story for them <F>ee</F> with drinking and eating. Teacher eating <F>um</F> maybe chicken and non-alcohol <?>water</?>. And student <F>mm</F> drank beer and some food. <F>Mm</F>. <R>It looks like</R> it looks like fish. <F>Mm</F>. And then, <F>mm</F> they finished <F>er</F> <SC>talk</SC> <R>tal</R> talking and eating. So <F>um</F> <F>mm</F> <R>they</R> they <SC>go out</SC> <F>um</F> went out the restaurant and <R>paid</R> <F>um</F> paid by teacher <F>mm</F> because he has a rich man.</B>
+<A><?>O K</?>.</A>
+<B>And <SC>student <nvs>laughter</nvs> was</SC> student had not so much money. And then, <F>mm</F> <SC>he</SC> <R>they</R> <R>they s</R> they said <F>mm</F> good-bye and maybe promise <F>um</F> <R>see</R> see you next time.</B>
+<A>Sure. O K. Thank you very much.</A>
+<B>You're welcome.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>So are you</OL> going <F>er</F> to have lunch after this?</A>
+<B>Yes, maybe. But <R>I have</R> I have <F>er</F> <R>one</R> one trouble for the client, so <F>mmm</F> I don't decide <F>mm</F> lunch or <laughter>job</laughter>.</B>
+<A>Sure. O K. So thank you very much <OL>for coming</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

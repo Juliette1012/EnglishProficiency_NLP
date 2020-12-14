@@ -1,0 +1,180 @@
+<interview>
+<filename>file00219.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>female</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>775</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. Nice to meet you <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B>Fine.</B>
+<A>Good. What do you do on Friday usually?</A>
+<B>On Friday. <F>Um</F> usually I have a job, so from nine to five <R>I'm</R> <F>umm</F> I'm in job. And after five <F>umm</F> I play with my friends or go home and watching <R>T</R> T V.</B>
+<A><F>Ahhh</F> O K. <F>Urr</F> where do you live?</A>
+<B><F>Urr</F> at <H pn="others1">XXX03</H>-<JP>ku</JP>.</B>
+<A><F>Uhhum</F>. Could you tell me about <H pn="others1">XXX03</H>?</A>
+<B><F>Um</F> <JP>nandaronaa</JP> <F>umm</F> <SC>there</SC> <F>umm</F> it's very comfortable area and <F>umm</F> there is many <F>err</F> residence and park. And <F>um</F> it's very useful to go <F>um</F> Shinjuku or Ikebukuro. So I like there.</B>
+<A><F>Hmm</F> Why did you decide to live in <H pn="others1">XXX03</H>?</A>
+<B><F>Am</F> <.></.> It's very useful and <R>my</R> <F>err</F> my house fee is very cheap. And <R>my</R> <F>umm</F> my room is <R>very</R> <JP>nante yuundaro hiroi</JP> very big so</B>
+<A><F>Uhhum</F>.</A>
+<B>I decided that.</B>
+<A>I see. <F>Um</F> is that your hometown, too?</A>
+<B>No. My family live in <H pn="others2">XXX04</H></B>
+<A><F>Hmm</F>.</A>
+<B>in <H pn="others3">XXX05</H> prefecture.</B>
+<A>I see. Could you tell me about your family?</A>
+<B><F>Ur</F> I have parents and <SC>my</SC> I have two brothers, elder brothers, <R>and</R> <nvs>cough</nvs> and <R>my</R> my father is <F>umm</F> <JP><F>etto</F> nante yunndarou</JP> publisher? <F>Umm</F> <R>he is</R> he is publishing newspaper <SC>for the me</SC> for the doctors. And <R>my</R> my mother helps him and <F>umm</F> she is now <R>couns</R> counseling other people.</B>
+<A><F>Ah</F> sounds very interesting. Do you have any hobby?</A>
+<B><F>Umm</F> I like playing ukulele.</B>
+<A><F>Hmm</F>.</A>
+<B><nvs>laughter</nvs> <F>Umm</F> I <F>umm</F> started <F>umm</F> about two years ago. <F>Umm</F> my friend introduced me, so, I'm not going to schools but <F>umm</F> I like playing ukulele.</B>
+<A><F>Hmm</F>. What is most difficult thing to play the ukulele?</A>
+<B><F>Urm</F> <F>umm</F> finger technique,</B>
+<A><F>Hmm</F></A>
+<B><F>urm</F> it's very difficult.</B>
+<A>So, how do you practice?</A>
+<B><F>Ur</F> just reading books.</B>
+<A><F>Hmmm</F>.</A>
+<B>And <R>prac</R> practice every day or <.></.></B>
+<A><OL><F>Wow</F></OL></A>
+<B><OL><??></??></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>That's very interesting. O K. Thank you <H pn="B's name">XXX02</H>. Now I'm going to show you a picture. Here you are. Please describe this picture for me.</A>
+<B><nvs>cough</nvs> <F>Umm</F> a <R>woman</R> woman is sitting <.></.> chair. And <F>mm</F> <R>she is</R> <F>mm</F> she is now <.></.> playing personal computer. And a cat is lying on the bed. And the dog is lying under the bed. And door is open. And <.></.> now nine o'clock. <.></.> <F>Urr</F> it's June. <nvs>laughter</nvs> <F>Umm</F> <.></.> <F>umm</F> <F>umm</F> there is telephone and typewriter <F>umm</F> and <.></.> audio player. <.></.> And the woman wearing green <R>swe</R> sweater and blue skirt. <.></.> That's it.</B>
+</task>
+<followup>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>. Now, can you compare your room in <H pn="others1">XXX03</H></A>
+<B><OL><F>Urr</F></OL>.</B>
+<A><OL>and</OL> this room?</A>
+<B><nvs>cough</nvs> <F>Umm</F> <.></.> I have no bed and I have <F>umm</F> <R>no</R> no pets. <.></.> And I also have personal computer. <JP><F>Eetto</F></JP> <.></.> <F>umm</F> my room has bigger window. <.></.> <R>And</R> and perhaps this room is in the house. But my <SC>hou</SC> room is one apartment.</B>
+<A>I see. O K. And you mention personal computer in the picture. <F>Um</F> how do you use your computer?</A>
+<B><F>Umm</F> I use it for the e-mail and Internet. <JP>Atowa</JP> and sometimes I write diary.</B>
+<A>On the computer?</A>
+<B>Yeah.</B>
+<A>So, what's the difference writing diary on a notebook <OL>and</OL></A>
+<B><OL><F>Urr</F> notebook</OL>.</B>
+<A>writing on the computer?</A>
+<B><F>Umm</F> <F>umm</F>. If I write in the paper, I have to erase when I <SC>mistmake</SC> mistakes but <F>unn</F> personal computer, it's very easy to erase and rewrite.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. Yeah. <F>Oh</F> that's interesting. Thank you. Now we are going to do a role-play.</A>
+<B>Yes.</B>
+<A>Let me see. O K. Please read this card to yourself and when you are ready, let me know. I'll begin.</A>
+<B><F>Uhhum</F>.</B>
+<ctxt>The interviewee is reading the card to herself for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A><F>Well</F> <R>may I help</R> may I help you ma'am?</A>
+<B><F>Umm</F> I want <F>umm</F> brown coat for this winter</B>
+<A>O K.</A>
+<B>and <F>umm</F> I like to buy a <SC>longer</SC> long coat. So, show me <OL>brown</OL></B>
+<A><OL>O K</OL>. We have lots of coat here. How about this?</A>
+<B><F>Oh</F> <F>umm</F> <SC>I</SC> <R>I'd</R> I'd like to try this one.</B>
+<A>Sure.</A>
+<B>O K. And <.></.> <F>umm</F> <.></.> <JP><F>de</F></JP> <JP><F>etto</F></JP> <F>umm</F> it's little longer than I thought <OL>so</OL></B>
+<A><OL>O K</OL>. How about this one?</A>
+<B>Can I try it?</B>
+<A>Sure.</A>
+<B><nvs>cough</nvs> <F>Umm</F> it just suit so how about <F>umm</F> <F>umm</F> you <F>mm</F> <.></.> <JP>nanteieba iindarouna</JP> <JP><F>etto</F></JP>. <SC>How</SC> <.></.> <F>umm</F> <JP><F>etto</F></JP> <.></.> <F>umm</F>. It suit for me?</B>
+<A>Yes. <OL>It's beautiful</OL>.</A>
+<B><OL><F>Oh</F> Thank you</OL>. Then I'll take this one.</B>
+<A>O K. That would be three hundred fifty dollars.</A>
+<B>Three hundred fifty dollars. <.></.> <F>Umm</F> O K. I'll buy it.</B>
+<A>O K.</A>
+<B><F>Umm</F>. <.></.> <JP><F>Eeto</F></JP>. <.></.></B>
+<A>Would you like to pay by cash or credit card?</A>
+<B><F>Ah</F> <F>umm</F> cash please.</B>
+<A>O K. All right. <OL>Thank you</OL>.</A>
+<B><OL>Here you are</OL>.</B>
+<A>Here you are.</A>
+<B><F>Umm</F> Thank you.</B>
+<A>Thank you very much. Have a nice day. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A>That's the end of the role-play. Now <H pn="B's name">XXX02</H> do you often go shopping?</A>
+<B>Yeah.</B>
+<A>So <F>um</F> when you go shopping,</A>
+<B><F>Uhhum</F>.</B>
+<A>how do you choose your clothes?</A>
+<B><F>Urm</F> <F>umm</F> <SC>I</SC> <F>mm</F> first <F>mm</F> color and <R>design</R> design and when I <F>umm</F> try it <F>mm</F> it suits or not. And the price is very <R>imp</R> important.</B>
+<A><F>Hmm</F>. Did you go to the last sales?</A>
+<B>Last sales? Yeah. <laughter>I buy this shirt</laughter>.</B>
+<A><F>Oh</F>. That really suits you.</A>
+<B><F>Uh</F> thank you.</B>
+<A>Anything else?</A>
+<B><F>Urr</F> <F>mm</F> I bought some skirt and another blouse.</B>
+<A><F>Uhhum</F> do you like go shopping by yourself or with your friend?</A>
+<B><F>Ah</F> by myself.</B>
+<A>Why is that?</A>
+<B><F>Urr</F> <F>umm</F> <SC>I'm</SC> <F>mm</F> I take much time to choose <F>umm</F> one good thing. So <F>umm</F> if my friend is <F>umm</F> worrying with me, it's <F>umm</F> not good for me. So, I like by myself.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. All right. Thank you <H pn="B's name">XXX02</H>. Now, I'm going to show you a picture.</A>
+<B><F>Hm</F>.</B>
+<A>And please make up a story based on these pictures form one to six.</A>
+<B><F>Uhhum</F>.</B>
+<A>And this happened before, so please start your story with "One day last week". Go ahead.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><JP><F>Etto</F></JP>. <.></.> One day last week <F>urr</F> I thought <F>umm</F> I will try to cook new <F>mm</F> menu. But <R>no</R> <F>umm</F> no stuff is in the <R>refrig</R> refrigerator. So I go to supermarket <R>by</R> <F>umm</F> by car. And I choose the stuffing and ingredients in the market. And <.></.> I bought some meat or <F>umm</F> fruits or something and <R>I</R> <.></.> <JP><F>unnto</F></JP> <JP>nandarou</JP> I put the stuff in <SC>my trunk</SC> my car's trunk of the car. And I go home and I cook the <R>nice</R> nice meal.</B>
+</task>
+<followup>
+<A>O K. Thank you. Do you often cook?</A>
+<B><F>Ah</F> sometimes.</B>
+<A>Sometimes. <F>Umm</F> when you don't cook at home, what do you do?</A>
+<B><F>Urr</F> I bought <R>some</R> <F>umm</F> some, <F>umm</F> <JP>nante yundaro</JP>, <JP>obento</JP>? <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B><R>Some lun</R> some <JP><F>unnto</F></JP> lunch box in the market or go to eat with my friends.</B>
+<A><F>Uhhum</F>. So, when you go out to eat at a restaurant <F>urr</F> where do you want to go Where? <F>Uhhum</F> do you have any favorite restaurant?</A>
+<B><F>Urr</F> yes. <F>Umm</F> I like <F>umm</F> Shinjuku area so <F>umm</F> some restaurant I like to go.</B>
+<A>Could you tell me about the restaurant?</A>
+<B><F>Ohh</F> <JP><F>etto</F></JP> one restaurant is the <R>very narrow</R> very narrow and high building. So not so much popular, so it's very <F>umm</F> comfortable to <F>umm</F> eating and the bread is very nice taste, so I like it.</B>
+<A><F>Uhhum</F> how did you find the restaurant?</A>
+<B><F>Um</F> my friend told me.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hmm</F> That's good. All right. So, we are almost at the end of the interview.</A>
+<B>Yes.</B>
+<A>Do you have any plan this weekend?</A>
+<B>This weekend.</B>
+<A><F>Uhhum</F>.</A>
+<B>I have to clean up <laughter>my room</laughter>.</B>
+<A><laughter>Why</laughter>?</A>
+<B><F>Urr</F> <SC>this</SC> <F>umm</F> <.></.> <JP><F>etto</F></JP> last weekend I had job and not so good <F>mm</F> weather, so <F>umm</F> I don't want to <F>umm</F> do cleaning. But <F>urr</F> <R>this</R> <F>urr</F> <SC>this weekend is</SC> <F>urr</F> <JP>nandakke</JP>? This weekend's weather is very good, I heard. So, I'd like to.</B>
+<A><F>Hmm</F>. Any other plan, except cleaning?</A>
+<B><F>Umm</F> no. <nvs>laughter</nvs></B>
+<A>No plan.</A>
+<B><F>Umm</F>.</B>
+<A><F>Well</F> I hope you can clean completely <OL>your apartment</OL>.</A>
+<B><OL><F>Ah</F> Thank you</OL>.</B>
+<A>O K. <F>Well</F> this is the end of the interview. Thanks for coming today.</A>
+<B><F>Ah</F> thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

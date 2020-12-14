@@ -1,0 +1,320 @@
+<interview>
+<filename>file01263.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>17</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step>1.5</step> 
+<TOEIC>790</TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>8</SST_level> 
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. I'm <H pn="A's name">XXX01</H>. Tell me your name, please.</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. How can I call you?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. O K. So <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine. And you?</B>
+<A><nvs>laughter</nvs> Fine, thank you. So what did you study today at school?</A>
+<B><F>Ur</F> the subjects I studied?</B>
+<A><F>Mm-hm</F>.</A>
+<B>O K. First period, I had English understanding which is reading a book and understanding. And second period, I had the computer science.</B>
+<A><F>Oh</F>.</A>
+<B>I think that's it's called in English. And third period, I had physical education,</B>
+<A><F>Hm</F>.</A>
+<B>but not the sports, but <R>the</R> <F>urm</F> <SC>the</SC> the academical one.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And the forth period, I had ancient Japanese.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Urm</F> fifth period, <SC>I had</SC> yeah, I had physical <laughter>education</laughter> like this time the sports one.</B>
+<A><F>Ahh</F> <OL><CO>I</CO></OL>.</A>
+<B><OL>And</OL> sixth period, I had <R>English expression</R></B>
+<A><F>Mm</F>.</A>
+<B>English expression <??></??>. And it's where I write essays or write English.</B>
+<A><F>Ahh</F> I see. So which subject do you like?</A>
+<B>Out of today or out of all?</B>
+<A><F>Ur</F> out of all.</A>
+<B>Out of all, I like either French or English.</B>
+<A><F>Mhm</F>. French or English.</A>
+<B><F>Mm-hm</F>.</B>
+<A>O K. So why do you like French?</A>
+<B>Because I used to live in France,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and I speak French.</B>
+<A><F>Hm</F>.</A>
+<B>And <R>I</R> I like languages. <CO>So</CO>.</B>
+<A>I see. So tell me about your French teacher.</A>
+<B><F>Oh</F> my French teacher. He is Quebec.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And he has different accent from me.</B>
+<A>Really?</A>
+<B>Yeah. <F>Mm</F> <SC>French</SC> like <R>in</R> in <?>American</?>,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>you know the accents are different <SC>in the</SC> in certain parts of America, it's like that. I used to live in France, but actually I went to a school in Switzerland in Geneva.</B>
+<A><F>Oh</F> really?</A>
+<B>So I have a Swiss accent in my French.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And he has a Quebec accent in French. So it's really different. It's really fun. <laughter>He is</laughter> a really interesting person, <OL>a little</OL> artistic.</B>
+<A><OL>Really</OL>. <F>Oh</F>. Is it difficult to listen to the different accent?</A>
+<B>No, no, no, no. But Quebec, <F>ur</F> in the beginning I did, but now, I got used to it. <CO>So</CO>.</B>
+<A>So you used to live in France.</A>
+<B><F>Mm-hm</F>.</B>
+<A><SC?>You</SC?> <SC>what</SC> <F>ur</F> what's it like?</A>
+<B>France. <F>Ooh</F>. <SC?>S</SC?> I lived in the countrysides. There were a lot of farms and calm. It was really peaceful.</B>
+<A>Really?</A>
+<B><F>Mm-hm</F>.</B>
+<A><F>Ur</F> could you compare France to <H pn="others1">XXX03</H>?</A>
+<B><F>Well</F> there's a lot of differences. <H pn="others1">XXX03</H>, for example, <R>where</R> where I live, is really the center. For example, <H pn="others2">XXX04</H>, it just there's just so many buildings and so many people. But France is rather, it's calm. Even in Paris, it's still calm.</B>
+<A><F>Mhm</F>.</A>
+<B><SC>It's not</SC> <F>well</F> it is busy compared to countryside, but <SC>it's still</SC> I don't know, <SC>it's just</SC> <F>urm</F> yeah, it's nice and peaceful.</B>
+<A><F>Mhm</F>. I see. So where do you like the best in France?</A>
+<B><R>Whe</R> where or what?</B>
+<A><R>Whe</R> where. <OL>Where</OL> do you like?</A>
+<B><OL>Where</OL>. <F>Urm</F> I like the <F>ur</F> south of France.</B>
+<A><F>Mhm</F>.</A>
+<B>I went there with my family once.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And there was really nice sea there.</B>
+<A><F>Mm-hm</F>.</A>
+<B><??></??> so that was a really nice place.</B>
+<A>O K. And let's talk about your family. Tell me about your family.</A>
+<B>O K. I have a little sister.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I have a big sister.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Urm</F> <F>uh</F> and my dad and my mom. I have two cats.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And my big sister, she lives alone. But she lives thirty seconds away from my house so <SC?>quite</SC?></B>
+<A><?>Sure</?></A>
+<B><F>mm</F> there isn't much meaning living by <OL>herself</OL>.</B>
+<A><OL>Right</OL>.</A>
+<B>But appearently she needs it for studying <?>English</?> <??></??>. She can't concentrate at our house.</B>
+<A>O K. <F>Mm</F>. So tell me about your little sister.</A>
+<B><F>Oh</F> little sister goes to the same school as me.</B>
+<A>Really?</A>
+<B><F>Mm-hm</F>. And <F>er</F> she speaks English, but her vocabulary, <F>urm</F> it's not that good.</B>
+<A><nvs>laughter</nvs> Really? O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Ur</F> I wanted to show you one picture.</A>
+<B><OL><F>Mm-hm</F></OL>.</B>
+<A><OL>Please</OL> describe this picture for me.</A>
+<B>O K. <F>Urm</F> <F>mm</F> it's a skiing place. <F>Urm</F> <F>urm</F> people are skiing.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>Some people</SC> there's one person snowboarding.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>There's one person having a whiteout.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And the children <F>uh</F> are throwing <SC>snow bals</SC> snow balls <SC?>in</SC?> at each other.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I think on the bottom right, they're having a ski course, learning skiing.</B>
+<A><F>Hm</F>.</A>
+<B><F>Mhm</F>. <.></.> And there's a cottage to rest and eat.</B>
+<A><F>Hm</F>.</A>
+<B>There's snow man.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And there's trailer covered with <laughter>snow</laughter>. Yeah.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Have you skied?</A>
+<B>Yeah.</B>
+<A>Do you like skiing?</A>
+<B>I like skiing but I prefer snowboarding better.</B>
+<A>Really. What's the difference between snowboarding and skiing?</A>
+<B><F>Well</F> as <?>you</?> look at it, snowboarding, there is only one board. But <OL>skiing, <laughter>it's two boards</laughter></OL>.</B>
+<A><OL><laughter><?>All right</?></laughter> <nvs>laughter</nvs></OL>.</A>
+<B><CO>Not boards, but</CO>. And the snowboarding, <F>urm</F> you need to be good at tripping as well.</B>
+<A><F>Hmm</F>.</A>
+<B>The thing is, <SC>skiing</SC> I don't know, like snowboarding, <SC>you can</SC> <SC>you should</SC> <SC>you shu</SC> yeah, you always have to try to fall on your bottom.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><CO>Because if you fall front, you</CO>. So <F>urm</F> snowboarding, you really have to be careful how to trip.</B>
+<A>Right. So how did you learn how to snowboard?</A>
+<B>How did I learn. I was really small, so I don't remember. <SC>I don't</SC> yeah, I think I could snowboard <?>with</?> out of nowhere.</B>
+<A>Really?</A>
+<B>Yeah.</B>
+<A>So who was the teacher?</A>
+<B><.></.></B>
+<A><?>Maybe you don't have one</?>.</A>
+<B><F>Urm</F> <F>mm</F> I think I had an instructor <?>look at me</?>.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>O K. So <SC>do you</SC> did you go skiing or snowboarding with your family?</A>
+<B>Yeah.</B>
+<A>In France?</A>
+<B><F>Urm</F> in France, I only went with friends snowboarding. But <SC>in</SC> <SC>when I li</SC> I used to live in America.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And in America, I went with my family all the time.</B>
+<A>O K. So could you compare this <F>mm</F> ski area in America to France?</A>
+<B><F>Well</F> tough question because I lived in America when I was really small. <CO>So</CO>.</B>
+<A><F>Oh</F> really?</A>
+<B><F>Well</F> <F>urm</F> the ones that I went in France was, I think small compared to the ones in America. <R>Because</R> because me and my family would take hours to get to the skiing place. So it would be really up in the mountains where <SC>those</SC> it was really big. But in France, I went to <F>ur</F> <F>ur</F> rather small ones that you can go there <?>about</?> an hour by car. <OL><CO>So</CO></OL>.</B>
+<A><OL><F>Oh</F></OL> O K. Now, <F>mm</F> O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then next, I'm going to show you one card.</A>
+<B><F>Mm-hm</F>.</B>
+<A><F>Mm</F> this one. Please read this <?>please</?> and <F>ur</F> we're going to do a role-play.</A>
+<B><F>Mm-hm</F>.</B>
+<A>When you are ready, <OL>I'll</OL> start.</A>
+<B><OL>All right</OL>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>Yeah.</B>
+<A>O K. This is on telephone. So ring, ring. Hello.</A>
+<B>Hello. <F>Ur</F> it's <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. We've been waiting for you.</A>
+<B><F>Oh</F> <F>urm</F> about the dinner party tonight, <SC>I'm so</SC> I'm very, very <F>uh</F> sorry, but <R>I happened to <F>mm</F> have</R> <F>ur</F> <F>mm</F> <.></.> I happened to have <F>ur</F> emergency today so I can not go today. I can not make it. I'm very sorry.</B>
+<A><F>Oh</F> so what happened?</A>
+<B><F>Oh</F> my little sister got in a car accident, and I have to run to the <R>ho</R> <F>ur</F> hospital. I'm very sorry.</B>
+<A><F>Ahh</F>. I didn't know that. So we've been waiting for you because it was a surprise party for you.</A>
+<B><F>Oh</F> I'm so sorry.</B>
+<A><F>Well</F> we couldn't tell you that.</A>
+<B><laughter><F>Oh</F></laughter> I'm so sorry. <SC>So</SC> but <F>urm</F> if you ever have a party again, please invite me. And <SC>I hope it <laughter>go</laughter></SC> I hope the party goes well. <??></??> I'm so sorry.</B>
+<A>O K. So do you think you can come late at night tonight?</A>
+<B><F>Urm</F> if my sister is fine because <R>I ha</R> I have no idea in what kind of state she is in right now. So <SC>if she isn't</SC> if she is not in a too bad condition, <R>I</R> I will.</B>
+<A>O K. So I'll talk to my friends about that.</A>
+<B><F>Oh</F> I'm so sorry.</B>
+<A><F>Oh</F> that's O K. Then please take care of your sister.</A>
+<B>O K.</B>
+<A>O K. Thank you very <OL>much</OL>.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+</task>
+<followup>
+<A>Have you cancelled your friend's appointments or your family's appointment with some reason?</A>
+<B><F>Uh</F> in the past?</B>
+<A>Yeah.</A>
+<B>Yeah.</B>
+<A>So in that case, when you have to cancel your friend's appointment, how do you say <??></??>?</A>
+<B><F>Well</F> I just tell him if I had the reason I have to. And just apologize as well.</B>
+<A>O K. Then when you had some trouble with your friends,</A>
+<B><F>Mm-hm</F>.</B>
+<A>how do you solve that <SC>trouble</SC> problem?</A>
+<B><F>Oh</F> <OL>what kind of troubles</OL>?</B>
+<A><CO><OL>A little fight</OL> or misunderstanding <OL>between</OL></CO>.</A>
+<B><OL><F>Uh-huh</F></OL>. Me, I just talk and</B>
+<A><F>Hm</F>.</A>
+<B><F>um</F> get organized because I don't like it to leave it alone, let it be. So I just talk it through.</B>
+<A>Do you get along with your sisters well?</A>
+<B>No. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>My little sister, yes. But my big sister, no.</B>
+<A>What's the problem?</A>
+<B><F>Well</F> <SC>maybe since they're</SC> <F>urm</F> I don't know, we just don't get along. It's been like that since we were really small.</B>
+<A>Really?</A>
+<B>But my little sister and my big sister gets along <OL><?>well</?></OL>.</B>
+<A><OL>Really</OL>? <F>Oh</F>. So when you have some trouble with your big sister,</A>
+<B><F>Mm-hm</F>.</B>
+<A>how does your little sister or your mother react?</A>
+<B><F>Oh</F> <SC>they just try not to get</SC> <R>they</R> <R>they</R> they just stay impartial.</B>
+<A><nvs>laughter</nvs> <F>Ooh</F> that's interesting.</A>
+<B><F>Mm-hm</F>.</B>
+<A>O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Next, I'm going to show you one card. O K. This one.</A>
+<B>O K.</B>
+<A>There are six pictures. And I want you to make a short story using all six pictures.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>And</OL> it happened last week.</A>
+<B><OL><F>Mm-hm</F></OL>.</B>
+<A><OL>So</OL> please start the sentence "One day last week".</A>
+<B>So I pretend as if I was one of <?>them</?>?</B>
+<A>Yes, <OL>please</OL>.</A>
+<B><OL>O K</OL>. <F>Urm</F> my name is Mary.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>And I was</SC> <F>ur</F> last week, I went camping with my friend, Joana.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>When we got there, we started to make the tent, and we were having a fun time, cooking and everything. But <SC>as soon as the</SC> as soon as we finished building the tent, it started to rain.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And it started to storm. And <R>the</R> the winds <SC>were</SC> <R>b</R> blown so fast that we had to pack up immediately. <SC>And then</SC> <R>so</R> so we decided to go stay at a hotel, and we found a hotel called Hotel Cosmos.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And by then <R>it was</R> <SC>it was</SC> <R>it</R> <F>ur</F> it was lightening everywhere. So <R>when</R> when we got there, we were so happy. <SC>And we</SC> and in the end, we stayed in the hotel, and had a nice time, but I wish I could have gone camping.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Well</F> <F>ur</F> what do you usually do with your friends?</A>
+<B>With friends. <F>Urm</F> <F>mm</F> what I do?</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>I go</OL> to karaoke.</B>
+<A><laughter><F>Oh</F> really</laughter>?</A>
+<B>Yeah.</B>
+<A><F>Oh</F> how often do you go?</A>
+<B>Not much these days because I'm having my TOEFL and S A T coming up very soon. So I'm studying a lot these days.</B>
+<A>O K. So when you go to karaoke with your friends,</A>
+<B><F>Mm-hm</F>.</B>
+<A>how to decide where to go?</A>
+<B><F>Urm</F> we decide <F>uh</F> which one's not too crowded. For example, depends on what time of day you go there's a lot of people. <CO>So</CO>. Or we decide <F>urm</F> which karaoke has most songs or clean and there's a lot. <nvs>laughter</nvs></B>
+<A>So where do you usually go to play with your friends?</A>
+<B><F>Ur</F> <H pn="others2">XXX04</H>.</B>
+<A><F>Ur</F> <H pn="others2">XXX04</H>. <OL><F>Mhm</F></OL>.</A>
+<B><OL><H pn="others2">XXX04</H>, <H pn="others2">XXX04</H></OL>. It's really near and a lot of people are in that direction, you know. Because our school, people <SC>are</SC> <SC>go</SC> <F>ur</F> live at the <H pn="others3">XXX05</H> <SC><JP>hou</JP></SC> <F>ur</F> direction or the <H pn="others2">XXX04</H> direction.</B>
+<A><F>Oh</F>.</A>
+<B>So many of my friends are the <H pn="others2">XXX04</H> direction so we go over there.</B>
+<A>But do you have any favorite store in <H pn="others2">XXX04</H>?</A>
+<B>Store?</B>
+<A>Yeah, or shop, cafe.</A>
+<B><F>Mhm</F>. <..></..> <F>Oh</F> I like the <H pn="others4">XXX06</H>, you know, <R>the</R> <R>the</R> the big ball?</B>
+<A><F>Uh-huh</F>.</A>
+<B><??></??> It's nice and cheap there.</B>
+<A>So what store do you often go</A>
+<B><F>Ur</F>.</B>
+<A>in that building?</A>
+<B><F>Mm</F> the underwear store, Peach John.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>I'm</R> I'm obsessed with underwears. So <OL>I go there</OL> a lot.</B>
+<A><OL>Really</OL>?</A>
+<B>Yeah.</B>
+<A>I see. So how do you decide what to buy at that shop?</A>
+<B>What to buy at <OL>that shop</OL>?</B>
+<A><OL>Yeah, what to buy</OL>.</A>
+<B><F>Urm</F> the design. And <SC>when you sho</SC> when I try it on, and it fits comfortable or not. Yeah. And it's pretty <?>cheaped</?> underwear at Peach John compare to the other underwears. So <F>mm</F>.</B>
+<A>So the <F>ur</F> the important thing is size.</A>
+<B>Size and comfortableness. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><?>Comfortable</?>, <laughter>right</laughter></OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. This is almost end of the interview.</A>
+<B><OL><F>Mm-hm</F></OL>.</B>
+<A><OL>Do</OL> you have any plan after this interview today?</A>
+<B><F>Urm</F> I'm gonna go buy some books for my S A T.</B>
+<A><F>Ahh</F>. What is S A T?</A>
+<B><F>Urm</F> it's an exam <?>term</?> to the <F>ur</F> universities in the northern America.</B>
+<A><F>Mm-hm</F>.</A>
+<B>But some schools apply that in Japan</B>
+<A><F>Hmm</F>.</A>
+<B>as to see <R>how</R> how high your English level is.</B>
+<A><F>Oh</F> I see. Are you going to take that test <?>someday</?>?</A>
+<B>Yeah, I'm gonna take mine in May.</B>
+<A>May.</A>
+<B>So that's pretty soon.</B>
+<A>Right. So are you going to go to the university in the States?</A>
+<B>No, but I might <SC>go to the</SC> the go to a Japanese university that applies S A T. It's like the <R>Cent</R> Center <JP>shiken</JP> in Japan.</B>
+<A><OL><F>Ohh</F></OL>.</A>
+<B><OL>It's</OL> kind of like that.</B>
+<A><OL><?>I see</?></OL>.</A>
+<B><OL>Because</OL> you know, a lot of schools use that as the standard.</B>
+<A><F>Mm</F>.</A>
+<B>So it's like that.</B>
+<A>O K. Thank you very much for coming today.</A>
+<B>O K. Thank you very much.</B>
+</stage5>
+</body>
+</interview>

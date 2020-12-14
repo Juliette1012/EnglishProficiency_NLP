@@ -1,0 +1,257 @@
+<interview>
+<filename>file00801.txt</filename>
+
+<head version="1.3">
+<date>2001-11-22</date>
+<sex>male</sex>
+<age>39</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>790</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. <F>Um</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Uh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B>Fine, thank you. And you?</B>
+<A>Good. Thank you. <F>Well</F> did you have lunch yet?</A>
+<B>Yes. <R>I</R> I took lunch <R>little</R></B>
+<ctxt>The bell is ringing.</ctxt>
+<B><.></.> little bit earlier.</B>
+<A><F>Err</F> I see. Where do you usually go for lunch?</A>
+<B><F>Err</F> we have <F>err</F> internal dinner room.</B>
+<A><F>Uhu</F>.</A>
+<B>And we always go to that dinner room.</B>
+<A><F>Er</F> really? Good. <F>Well</F> would you tell me a little bit about the dinner room?</A>
+<B><nvs>sniff</nvs> <F>Uum</F> <F>err</F>. Large place.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> But <F>err</F> I'm not working in this office.</B>
+<A><F>Er</F> O K.</A>
+<B>And <SC>I'm working</SC> <R>I</R> <SC>I work in</SC> I'm working in <F>er</F> <F>um</F> Itabashi, <F>um</F> Azusawa area.</B>
+<A><F>Uhu</F>.</A>
+<B>And that is a original <F>err</F> R and D center of this company.</B>
+<A>I see.</A>
+<B><F>Erm</F> so <SC>dining room is</SC> <R>that</R> <F>er</F> that place of our office is large enough for us.</B>
+<A>Good. O K. So <SC>y</SC> <F>er</F> the place you are working at is very different from this building?</A>
+<B>Yes. <F>Er</F> this is a newest building for us. And <R>we</R> we are working in <R>the</R> the oldest one.</B>
+<A><nvs>laughter</nvs> And what is the differences between those two places?</A>
+<B><F>Uum</F>. It is <.></.> very difficult to explain. But <F>err</F> <F>uum</F> our office have <F>er</F> factory area, and research area and some other <F>er</F> staff area.</B>
+<A><F>Uhu</F>.</A>
+<B>And originally, most of <.></.> employees working in this building now <SC>are</SC> were working in our office. So <F>er</F> this time, we have much room.</B>
+<A><F>Er</F> really?</A>
+<B><F>Um</F> <.></.> but <F>um</F> <F>uum</F> <SC>there is much</SC> <F>er</F> there is many empty rooms.</B>
+<A><F>Er</F> really. I see. O K. <F>Well</F> are you busy everyday?</A>
+<B><F>Um</F>. I think so. <OL><??></??></OL></B>
+<A><OL><F>Uhu</F></OL>. But when you have free time, what do you like to do?</A>
+<B><F>Err</F> excuse me? <F>Um</F>. <laughter><R>Plea</R></laughter> please repeat again.</B>
+<A><F>Er</F> <OL>O K</OL>.</A>
+<B><OL><R>I</R> I</OL> couldn't catch you.</B>
+<A>O K. <F>Well</F> when you have free time,</A>
+<B><F>Um</F>.</B>
+<A>what do you like to do?</A>
+<B><F>Err</F>. <.></.> During the <R>day</R> day time, <R>I enjoy</R> I enjoy reading, <F>mm</F> watching <R>video</R> video movies or <F>uum</F> <.></.> go to <JP>pachinko</JP>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>And</OL> during night time, I always go to bars.</B>
+<A><F>Er</F> really? Why do you like <JP>pachinko</JP>?</A>
+<B><laughter><F>Mm</F> I can't explain</laughter>. <F>Err</F>. <CO><JP>Pachinko</JP>, they have some <SC>mysterious</SC> <SC>in</SC> <F>er</F> <.></.> <F>uum</F> <SC>mysterious</SC> <F>um</F> <SC>interesting</SC> curious</CO>. <F>Uum</F>. How can I say? <F>err</F> <R>I</R> <nvs>laughter</nvs> I can't explain what is attractive <R><JP>pachi</JP></R> <JP>pachinko</JP> for me.</B>
+<A><F>Er</F> really. But very <R>at</R> attractive for you?</A>
+<B>Yes.</B>
+<A><F>Oh</F> maybe I should try that.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. This one.</A>
+<B>Yeah.</B>
+<A><F>Um</F> would you describe this picture for me?</A>
+<B><F>Um</F>. <.></.> A girl is staying in her room. And she is sitting <.></.> on the chair. And <.></.> the chair is located in front of the desk. And she face to her pets, a dog and cats. <..></..> <F>Um</F>. There is a personal computer and a typewriter on her desk.</B>
+<A><F>Uhu</F>.</A>
+<B>That's all.</B>
+<A><F>Err</F> O K.</A>
+</task>
+<followup>
+<A><F>Well</F> <F>err</F> do you have your own room?</A>
+<B><??></??></B>
+<A>Yeah?</A>
+<B>I wish to have it. But I can't.</B>
+<A>Why not?</A>
+<B><F>Err</F>. <.></.> <R>Because</R> <F>er</F> <nvs>cough</nvs> <F>err</F> <..></..> because <F>er</F> we live in very narrow apartment room. <SC>That</SC> so <.></.> <F>er</F> the rent for the room is very expensive in Tokyo area.</B>
+<A>Right.</A>
+<B>So <R>I can't</R> I can't rent <.></.> larger rooms.</B>
+<A><F>Er</F> O K. So where is the most comfortable spot in your apartment?</A>
+<B><F>Uum</F>. <.></.> It is <??></??>. <.></.> <F>Uum</F> it is different by time. Because <F>err</F> <F>um</F> <R>in the</R> in the night,</B>
+<A><F>Uhu</F>.</A>
+<B>bed room is very nice for me.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL><laughter>And</laughter></OL> daytime <SC>it's</SC> <F>er</F> living room is best for me. And lunch time, dinning room.</B>
+<A><laughter><F>Mh-hmm</F></laughter>.</A>
+<B>And how can I say, kitchen is the best for me. <R>I li</R> I like to cook.</B>
+<A><F>Er</F> really?</A>
+<B>Yeah.</B>
+<A>I see. Good. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <F>um</F> we are doing a role-play.</A>
+<B>Yeah.</B>
+<A><.></.> O K. Please read this card. And when you are ready I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A><OL>Ready</OL>?</A>
+<B><OL><F>Uhu</F></OL>.</B>
+<A>O K. Hi. May I help you, sir?</A>
+<B><F>Err</F> <F>err</F>. Today, <R>I</R> I come to here <R>to</R> to see some <.></.> personal computers.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Er</F>. Is there any lap computers good for me?</B>
+<A><F>Err</F>. Maybe this one is good for you.</A>
+<B><F>Err</F>. <.></.> <R>I</R> I think <F>err</F> price is the most important for me.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL>And</OL> the next, <F>err</F> the performance,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>is also important for me.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Err</F></OL>. So <SC>please let me know the price</SC> <F>err</F> how can I say, <F>uum</F> <.></.> <R>please show</R> please show me computers by <R>p</R> price.</B>
+<A><F>Er</F> O K. Here is a price list.</A>
+<B><F>Er</F>. Thank you.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>er</F> some people say <SC>cheaper one</SC> <F>um</F> <..></..> <R>ch</R> <nvs>cough</nvs> <R>cheap</R> <SC>cheap goods</SC> <F>er</F> <R>some</R> sometimes cheap good <R>is not good</R> <F>err</F> <.></.> is not good <OL>for performance</OL>.</B>
+<A><OL><F>Err</F> it's not always</OL> true. <F>Well</F> <F>er</F> for example, this one is on sale.</A>
+<B><F>Uhu</F>.</B>
+<A><F>Um</F>. <SC>It is originally</SC> <F>well</F> it was originally very expensive.</A>
+<B>Really?</B>
+<A>So why don't you try it?</A>
+<B><F>Err</F> <F>hum</F>. It sounds nice for me. <F>Uum</F>. How long do you guarantee <.></.> <F>ur</F> about this?</B>
+<A>One year.</A>
+<B>One year. <F>Hm</F> And during that period, <F>um</F> I can request the <F>er</F> repairment?</B>
+<A><F>Uhu</F>. <OL>Sure</OL>.</A>
+<B><OL><R>Wi</R></OL> <F>uu</F> without fee?</B>
+<A>Right.</A>
+<B><F>Hum</F> <F>uum</F> <F>err</F> <SC>what can I</SC> what kind of <nvs>sniff</nvs> repairment we need some repair fee?</B>
+<A><F>Er</F> O K. <F>Er</F> You can take a look at this catalog.</A>
+<B><F>Uhu</F>.</B>
+<A>It says,</A>
+<B><F>Uhu</F>.</B>
+<A>all about this computer.</A>
+<B><F>Uum</F> <F>um</F> <F>um</F> <F>um</F> <F>hm</F>.</B>
+<A>O K. You can take a look at this.</A>
+<B><OL><??></??></OL></B>
+<A><OL>And you</OL> can come back to me.</A>
+<B><F>Uhu</F>.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>All right. So do you use a computer?</A>
+<B>Yes. I'd like to change it.</B>
+<A><laughter><F>Err</F></laughter> really? O K. Are there any favorite sites?</A>
+<B><F>Err</F> I need some good performance machine.</B>
+<A><F>Uhu</F>. For example?</A>
+<B><F>Err</F> <R>I'd like to</R> <F>er</F> <.></.> I'd like to enjoy Internet,</B>
+<A><F>Uhu</F>.</A>
+<B><F>um</F> <R>in</R> in very good speed.</B>
+<A><F>Er</F> really.</A>
+<B>So I need <F>um</F> <nvs>cough</nvs> high performance P Cs.</B>
+<A>I see. And what kind of information do you get from the computer?</A>
+<B><F>Hum</F> <F>er</F> <SC>most of the</SC> most of information is regarding to hobby. <F>Err</F> <.></.> what kind of hobby?</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Uum</F> it's very difficult, <?>too</?></OL>. Challenging to explain. But <F>er</F> I love <F>um</F> <R>mo</R> motorcycles.</B>
+<A><OL><F>Er</F></OL>.</A>
+<B><OL>And</OL> sports.</B>
+<A><F>Uhu</F>.</A>
+<B>But <F>err</F> this kind of information <SC>always ne</SC> <F>err</F> always follows some photographs.</B>
+<A>Right.</A>
+<B>So every time I watch the kind of web sight.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Err</F> <R>I</R> <.></.> I'm frustrating,</B>
+<A><OL><F>Er</F> really</OL>.</A>
+<B><OL>to <??></??></OL> <F>er</F> wait,</B>
+<A>I see.</A>
+<B><SC>the</SC> <F>um</F> until the <SC>ta</SC> page is shown.</B>
+<A>I see. O K. Good luck with your new computer.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So finally,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>I'm going</OL> to show you another picture. And now, I want you to make a short story about this picture. And the story happened before.</A>
+<B><F>Hm</F>.</B>
+<A>So please start with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<A>Just a short story <OL>is O K</OL>.</A>
+<B><OL><F>Uhu</F></OL>. <nvs>snap</nvs> Yes. <nvs>cough</nvs> <F>Err</F> I'm a university student.</B>
+<A><F>Uhu</F>.</A>
+<B>And <.></.> one day last week, my father <F>er</F> said me to go to some restaurant after his work. <F>Er</F> we went to <?>a</?> small restaurant. And <.></.> <F>err</F> I enjoyed beer and some <R>s</R> small dishes.</B>
+<A>Right.</A>
+<B>And my father also enjoyed. After the <nvs>cough</nvs> dinner, he paid all of the bill.</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> I don't pay.</B>
+<A><nvs>laughter</nvs></A>
+<B>But my stomach is almost full.</B>
+<A><F>Uhu</F>.</A>
+<B>And <.></.> I say good-bye to father,</B>
+<A><F>Uhu</F>.</A>
+<B>in front of the restaurant. It was a very delicious day <OL>for me</OL>.</B>
+<A><OL>Right</OL>.</A>
+</task>
+<followup>
+<A>O K. Now, you said you like to cook.</A>
+<B>Yes.</B>
+<A>Right. What's your specialty?</A>
+<B><F>Err</F> I love <R>Chinese</R> Chinese dishes.</B>
+<A><F>Hm</F>.</A>
+<B>And <nvs>cough</nvs> <F>err</F> <.></.> <CO>I always use <F>er</F> <JP>nanda</JP> Chinese</CO>. <F>Err</F>. What can I say? <nvs>laughter</nvs> I don't know the English name <OL>of the</OL>,</B>
+<A><OL><laughter>Yeah</laughter></OL>.</A>
+<B><F>um</F> <SC>baking pan</SC></B>
+<A><OL>That's fine</OL>.</A>
+<B><OL><F>er</F></OL> Chinese baking pan.</B>
+<A>O K.</A>
+<B>And most of dishes I make by Chinese <SC>fry</SC> <F>er</F> baking pan.</B>
+<A><OL><F>Er</F> really</OL>?</A>
+<B><OL>So</OL> <F>uum</F> <R>I</R> I make <F>err</F> <.></.> <F>uum</F> <.></.> baked egg,</B>
+<A><F>Uhu</F>.</A>
+<B>using that round pan.</B>
+<A><F>Uhu</F>.</A>
+<B>And I bake meat using that cooking pan.</B>
+<A><OL>Really</OL>?</A>
+<B><OL>And</OL> <F>um</F> as well as <F>er</F> original Chinese dishes,</B>
+<A><F>Uhu</F>.</A>
+<B><F>um</F> such as <F>um</F> <.></.> <SC>fried rice</SC> <F>er</F> <R>baking</R> baking rice,</B>
+<A><F>Uhu</F>.</A>
+<B><SC?>I don't know</SC?> or <F>uum</F> fried chicken or some baking dishes.</B>
+<A>Really? Sounds delicious. You must be a great cook.</A>
+<B>Yes.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><R>I</R></OL> I love it.</B>
+<A>I wish I could try.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. Now, we are almost at the end of the interview. <F>Well</F> <F>er</F> tomorrow is a national holiday.</A>
+<B><OL>Yes, yes</OL>.</B>
+<A><OL>Do you have</OL> any plans?</A>
+<B><F>Err</F> I don't have <SC>s</SC> a special plan. But <.></.> <F>er</F> yes, <SC>I have to work tomorrow</SC></B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><R>I</R></OL> I will have to work tomorrow. Because <F>err</F> <nvs>cough</nvs> <.></.> I couldn't finish <F>err</F> this week's work. <OL><F>Erm</F></OL>.</B>
+<A><OL>Really</OL>?</A>
+<B>So I have to work, <?>I guess</?>.</B>
+<A>O K. Sorry to <R>hear</R> hear that. But just take it easy.</A>
+<B>Yes.</B>
+<A>Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

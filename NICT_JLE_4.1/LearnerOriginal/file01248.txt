@@ -1,0 +1,282 @@
+<interview>
+<filename>file01248.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>16</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step>1.5</step> 
+<TOEIC>895</TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>9</SST_level> 
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>So <??></??> my name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>Yeah. <F>Ur</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Urm</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>All right, <H pn="B's name">XXX02</H>. Nice to see you.</A>
+<B>Nice to meet you.</B>
+<A><F>Urm</F> how are you this afternoon?</A>
+<B>I'm good except <SC>I have a kin</SC> I have a cold today so</B>
+<A><F>Oh</F>.</A>
+<B>my voice is <nvs>laughter</nvs> <?>bad</?>. <CO>It's</CO>.</B>
+<A><F>Oh</F> that's too bad. Are you all right?</A>
+<B>I'm O K. Yes.</B>
+<A><F>Oh</F> thanks for coming anyway to this interview. All right, <H pn="B's name">XXX02</H>, <F>urm</F> what year are you in?</A>
+<B>I'm in the <?>during</?> the first year. Yeah.</B>
+<A>O K. How do you like your school so far?</A>
+<B>It's pretty good. <F>Urm</F> <F>well</F> I like how there is a lot of returnee students that I can relate with. <R>So</R> so people that have come from abroad with like the same background as I so it's pretty easy to relate with them.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><??></??></OL> now.</B>
+<A>All right. You said same backgrounds.</A>
+<B>Yeah.</B>
+<A>Where have you been?</A>
+<B><F>Oh</F> I've been in the United States and Canada.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Yeah.</B>
+<A>All right. <F>Urm</F> how do you compare your life in Japan to the life in Canada?</A>
+<B><F>Oh</F> <F>well</F> <SC>in Canada</SC> <F>urm</F> <nvs>sigh</nvs> I don't know, <SC>it's</SC> in Japan, I feel like I'm always busy like I'm constantly busy because <F>well</F> I'm also <R>in the</R> in the cheerleading club. And that takes up a lot of my time.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And also <F>well</F> it takes a lot of time just <R>f</R> from the transportation</B>
+<A><F>Mm-hm</F>.</A>
+<B>because I live kind of far from the school so I feel like I have no time. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>.</A>
+<B><nvs>cough</nvs></B>
+<A>I see. <F>Ur</F> how did you get interested in cheerleading?</A>
+<B><F>Well</F> I've always been interested in dancing and <F>urm</F> even when I lived in Canada and in the United States, I was in dance. And that's why <F>well</F> <SC>from</SC> like from when I was little I've always wanted to see how it felt to be like <SC>a cheerleading</SC> <F>ur</F> a cheerleader. So that's why I joined this club.</B>
+<A>I see. How do you like cheering boys?</A>
+<B><F>Well</F> in this school, we don't really cheer for any sports teams.</B>
+<A><F>Oh</F>.</A>
+<B><?>Because it's</?> basically, kind of weird, but we cheer for ourselves <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B>because we go to competitions and stuff. And we don't really cheer for the sports team. <CO>So</CO>.</B>
+<A><F>Mhm</F>. <OL>All right</OL>. <?>So</?> interesting.</A>
+<B><OL><nvs>laughter</nvs></OL> <nvs>cough</nvs></B>
+<A>All right, <H pn="B's name">XXX02</H>. Now, please tell me a little bit about your family.</A>
+<B><F>Oh</F> <F>urm</F> I have an older brother. He is nineteen. And I have a younger sister who's in the sixth grade right now. <OL><nvs>cough</nvs></OL></B>
+<A><OL>Can you</OL> tell me more about your brother?</A>
+<B><F>Oh</F> <SC>my</SC> he goes to a university here in Japan. And <F>well</F> I'm really close to him so sometimes he takes me to movies and stuff like that.</B>
+<A><F>Mhm</F>.</A>
+<B><nvs>cough</nvs></B>
+<A>I see. Right. All right. So you have a good relationship with your brother.</A>
+<B>Yeah.</B>
+<A>Sister as well?</A>
+<B>Yeah.</B>
+<A>Good. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now <H pn="B's name">XXX02</H>, first of all today, I'm going to show you a picture <F>urm</F> of a neighborhood.</A>
+<B>O K.</B>
+<A>O K? Please describe it to me.</A>
+<B>O K. <F>Urm</F> it looks like a pretty nice neighborhood because <nvs>sniff</nvs> <F>well</F> in front of the car, there's <SC>two lady in this</SC> or two ladies <R>con</R> conversing probably about the neighborhood or something, maybe, they saw.</B>
+<A>O K.</A>
+<B><F>Urm</F> and there's also <F>well</F> children playing <F>urm</F> which means that there's probably like a lot of families living in that neighborhood. <nvs>cough</nvs> <nvs>sniff</nvs> And <F>well</F> to me, it looks like a pretty normal neighborhood. <OL><R>And</R></OL></B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><F>well</F></B>
+<A>O K.</A>
+<B>and then like how there's a lot of trees.</B>
+<A>All right.</A>
+<B>So <OL>yeah</OL>.</B>
+<A><OL>It's</OL> good. Thank you very much.</A>
+</task>
+<followup>
+<A>So you said this looks like real normal.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>That</OL> means, does this look like <F>ur</F> your neighborhood in Canada or <OL>in America</OL>?</A>
+<B><OL><F>Uh</F></OL> yeah. <F>Mm</F> <OL><?>mine as well</?></OL></B>
+<A><OL><F>Oh</F></OL> I see. Can you tell me <F>urm</F> one of <F>ur</F> most memorable experience you had in your neighborhood <OL>in</OL></A>
+<B><OL><CO>In my</CO></OL>.</B>
+<A>America or in Canada?</A>
+<B><F>Urm</F> <F>well</F> my most memorable experience was probably when I was like in the first grade. And <nvs>cough</nvs> <F>well</F> ever since I was little I used to play with my brother. And this one time or actually a couple of times in the summer, <nvs>sniff</nvs> <F>urm</F> my friends and I and also my brother's friends, <SC>we all</SC> <F>urm</F> we used to play in the street in front of our house. <F>Urm</F> we'd set up two goal posts and we played <??></??> hockey <R>in</R> in front of our houses. So that was pretty fun and <SC>that</SC> we always used to do that in the summer.</B>
+<A><F>Ah-huh</F> good.</A>
+<B><nvs>cough</nvs></B>
+<A>Can you play that <?>little</?> hockey <F>ur</F> game in Japan <OL>like</OL> you did?</A>
+<B><OL><F>Ur</F></OL> no. I live in an apartment house so I don't really have the street in front of my house. <nvs>laughter</nvs></B>
+<A>I see. Then <SC>what do you do</SC> <F>ur</F> what do you enjoy doing most in Japan <F>ur</F> in your free time?</A>
+<B>In my free time, <F>well</F> lately I don't have that much free time since <SC>I always</SC> <F>well</F> I have practice until late and when I get home, I usually just eat dinner and do my <laughter>homework</laughter> and go to sleep.</B>
+<A><F>Mhm</F>.</A>
+<B>But when I do have time, like on the train, I like to read books.</B>
+<A><F>Mm</F>. <OL>I see</OL>.</A>
+<B><OL>Yeah</OL>. <OL><nvs>cough</nvs></OL></B>
+<A><OL>What</OL> books do you like to read?</A>
+<B><F>Well</F> <F>urm</F> lately I was reading "Harry Potter," but now <SC>I s</SC> <F>urm</F> I've switched to a book called "A Child Called It".</B>
+<A><F>Uh-huh</F>.</A>
+<B>And there's three series <?>the</?> book. I finished reading the book and I'm on the last book which is called "A Man Called Dave".</B>
+<A><F>Mhm</F>.</A>
+<B>Yeah.</B>
+<A>Can you tell me a little bit about the story briefly?</A>
+<B><F>Oh</F> <F>urm</F> "A Child Called It," it's about a little boy who gets abused by his mother. It's about child abuse and domestic abuse <R>and</R> and <nvs>cough</nvs> it's really, <F>uhh</F> I don't know, like terrifying because like I just can't believe that a mother would treat like her own child that badly. And like to the verge where <SC>he</SC> she almost killed him. <nvs>smack</nvs> <OL><SC>And</SC></OL></B>
+<A><OL>I see</OL>.</A>
+<B><nvs>cough</nvs> but <F>well</F> <??></??> <F>well</F> that author really inspired me because even though that was happening and <SC>he tric</SC> <F>ur</F> he was like about to give up, he didn't give up on <?>himself</?>. And <nvs>sniff</nvs> now I think because of that experience, he's a lot stronger than he used to be. <OL><nvs>cough</nvs></OL></B>
+<A><OL>I see</OL>. <F>Well</F> very suggestive story <??></??>.</A>
+<B>Yeah.</B>
+<A>Yeah. O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's move on the role-play.</A>
+<B>O K.</B>
+<A>O K. I'm going to have a role-play with you. O K. There. Please read it to yourself. <F>Urm</F> it's written both in English or <R>Ja</R> Japanese so</A>
+<B><OL>O K</OL>.</B>
+<A><OL>you</OL> can choose</A>
+<B><OL>O K</OL>.</B>
+<A><OL>either</OL> side. So now, <F>urm</F> when you're ready, please tell me. I'll begin.</A>
+<B>O K.</B>
+<A>O K. So please read it to <OL>yourself <F>uh</F> first</OL> of all. Sorry.</A>
+<B><OL><F>Oh</F> O K</OL>. <CO><F>Oh</F> shall I read out loud or</CO>?</B>
+<A>No, no, no.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>Just</OL> yeah, silently.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K. All right. <F>Ur</F> good afternoon. Can I help you, ma'am?</A>
+<B><F>Urm</F> hi. <nvs>laughter</nvs></B>
+<A>Hi.</A>
+<B><.></.> I would like to buy C D. <F>Urm</F>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.></B>
+<A>Sure.</A>
+<B>Sorry, I don't really get this. <nvs>laughter</nvs></B>
+<A>O K. What about reading back side? Maybe <??></??> to get,</A>
+<B><F>Uh-huh</F>.</B>
+<A>let me know.</A>
+<B>All right.</B>
+<A>We can take more time.</A>
+<ctxt>The interviewee is reading the card again.</ctxt>
+<B>O K. <nvs>laughter</nvs> <laughter>I'm sorry</laughter>.</B>
+<A>All right.</A>
+<B><nvs>cough</nvs></B>
+<A>May I help you?</A>
+<B>Hi, yes. <F>Urm</F> <SC>I would like to purchase this C D <F>ur</F> but</SC> or I purchased it but I realize that this isn't the C D that I wanted. <F>Urm</F></B>
+<A>How?</A>
+<B>it's a different album.</B>
+<A>O K.</A>
+<B><nvs>sniff</nvs> <SC>Can I have a</SC> can I exchange it for another one?</B>
+<A><F>Urm</F> we're very sorry we can't do that in our shop.</A>
+<B><F>Urm</F> then can I return it and probably <F>ur</F> get a refund or something?</B>
+<A>No, we're sorry.</A>
+<B><nvs>cough</nvs></B>
+<A>It's our store policy. We can't do any exchanges or give you <R>re</R> refund.</A>
+<B><F>Oh</F> O K. Then thank you very much. I'll be careful next time. <nvs>laughter</nvs></B>
+<A>Yeah, but if you have a real good reason,</A>
+<B><F>Uh-huh</F>.</B>
+<A>I can do something for you.</A>
+<B>O K. <F>Urm</F> <F>well</F>.</B>
+<A>Why you bought the different one?</A>
+<B><F>Well</F> <SC>I was looking for</SC> <nvs>cough</nvs> <F>urm</F> I borrowed a C D from my friend but then I accidentally misplaced it. And now <F>well</F> I came here to buy <F>urm</F> a replacement for my friend, but <SC>I</SC> when I got home I realized that this wasn't the album that I needed. So <F>urm</F> <SC>it's really urgent to me that</SC> <F>ur</F> it's really important that <R>I get this</R> <F>uh</F> I get this C D exchanged for the other one.</B>
+<A><nvs>smack</nvs> O K. <nvs>laughter</nvs> Maybe that's a good reason for asking us for refund or exchanging. Only this time.</A>
+<B>O K.</B>
+<A>O K. I'll <R>acc</R> accept it. So don't tell any one.</A>
+<B><OL><laughter>O K</laughter></OL>.</B>
+<A><OL><laughter>All right</laughter></OL>?</A>
+<B><OL><laughter>Thank you very much</laughter></OL>.</B>
+<A><OL>Special treatment for you</OL>. All right. Here you go.</A>
+<B>O K. Thank you <OL>very much</OL>.</B>
+<A><OL>All right</OL>. Please come again.</A>
+<B><OL>O K</OL>.</B>
+<A><OL><laughter>O K</laughter></OL>. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A><F>Ur</F> can I have the <R>car</R> card back?</A>
+<B>O K.</B>
+<A>All right. <F>Ur</F> did you ever have <F>ur</F> this kind of experience in America or in Canada</A>
+<B><F>Urm</F>.</B>
+<A>or in Japan?</A>
+<B><nvs>cough</nvs> <F>Er</F> <F>um</F>. Yeah. I have, but then <F>well</F> if that's the store policy, then I thought like you can't really fight it because if, let's say, the person <?>that's</?> <F>urm</F> exchanged it for me, if they weren't allowed, then <R>if</R> if they get in trouble, then it's probably my fault, <OL>too</OL>.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B>And I don't like putting people in problems because of my fault. So</B>
+<A>O K.</A>
+<B>yeah.</B>
+<A>How kind you are. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. How do you compare <SC>the sh</SC> <F>ur</F> shopping in Japan <F>urm</F> to shopping, O K, in America?</A>
+<B><F>Urm</F> <F>well</F> <nvs>sniff</nvs> I know in Japan, <F>ur</F> I guess it's so much like more <F>urm</F> accessible because if I just hop on the train, I can go to Shibuya, I can go to Ikebukuro, I can go anywhere.</B>
+<A><F>Mm</F>.</A>
+<B>But <SC>when I was on</SC> when I was in the States, <F>well</F> I had to get my mom to drive me there or my friend's mom. <nvs>sniff</nvs> And <F>well</F> I couldn't really easily go to the mall or anything. So</B>
+<A><F>Mhm</F>.</A>
+<B><nvs>cough</nvs> I think it's easier to shop in Japan if you have money. <OL><nvs>laughter</nvs></OL></B>
+<A><laughter><F>Oh</F> O K</laughter>. <nvs>laughter</nvs></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A><OL>I <??></??></OL> I agree. Yeah, if you have money, <OL>you can <??></??></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. It's finally, I would like <F>ur</F> you to do one more thing.</A>
+<B>O K.</B>
+<A>O K. There you go. Now, what I like you to do here is to make up a story</A>
+<B><F>Mm-hm</F>.</B>
+<A>based on these six pictures.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>It</OL> goes this way.</A>
+<B>O K.</B>
+<A>And it happened sometime before. So please start your story with "One day last week".</A>
+<B>O K.</B>
+<A>O K, just brief one. Please.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><nvs>sniff</nvs> <nvs>cough</nvs></B>
+<A>Please start.</A>
+<B>O K.</B>
+<A>Please.</A>
+<B>One day last week, <nvs>cough</nvs> <F>urm</F> a man <nvs>sniff</nvs> was driving his car, and at the same time, there's another man who's driving <R>a</R> <F>ur</F> a moped. <nvs>sniff</nvs> <F>Urm</F> this man on the moped was talking to his girlfriend and wasn't really watching the road or being careful. <nvs>sniff</nvs></B>
+<A><F>Mm</F>.</A>
+<B>And <nvs>cough</nvs> <SC>when he di</SC> <F>ur</F> <SC>when he's</SC> while he was driving, <nvs>sniff</nvs> <F>urm</F> the man in the yellow car or the orange car <F>urm</F> <F>ur</F> hit or kind of crushed into the man in the scooter <nvs>sniff</nvs> <SC>causing the cell phone that he was usi</SC> <F>ur</F> causing the man on the scooter <R>t</R> to drop his cell phone. <nvs>cough</nvs> <nvs>sniff</nvs> <F>Urm</F> after that incident, both men got off the vehicles and started arguing about who had the fault. <nvs>sniff</nvs> The man on the scooter <nvs>cough</nvs> <F>urm</F> insisted that the man in the yellow car had the fault because he wasn't paying attention <F>urm</F> when he was driving even though the man on the scooter had <F>ur</F> <nvs>cough</nvs> just the same amount of fault because he wasn't paying attention to the road either because he was talking on the cell phone. <nvs>cough</nvs> And so after a while, a police officer arrived, and they both explained the <nvs>cough</nvs> incident. <nvs>sniff</nvs> And both men told their stories. <nvs>cough</nvs> But <F>urm</F> after hearing both men's side of the story, the policeman <SC>decided or</SC> yeah, decided that the man on the scooter had the fault. And <R>that</R> <nvs>sniff</nvs> <F>ur</F> that he had to <F>urm</F> get his scooter towed away and probably <F>ur</F> <F>urm</F> <SC>get another</SC> <F>ur</F> take another exam for his license because obviously <SC>he did</SC> he wasn't <F>urm</F> worthy of having that license.</B>
+<A>O K. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A><F>Ur</F> do you use your mobile phone very often?</A>
+<B><F>Urm</F> not really.</B>
+<A><F>Ah</F> <OL>O K</OL>.</A>
+<B><OL>Only</OL> E-mailing sometimes.</B>
+<A><F>Oh</F> right. But so many people like for example, like high school students,</A>
+<B>Yeah.</B>
+<A><F>ur</F> use so often. Why <SC>is it so</SC> do you think it's so necessary to them?</A>
+<B><F>Well</F> <nvs>cough</nvs> for me, <F>well</F> when I lived in the United States, I'd talk on the phone a lot with my friends. But in Japan, <nvs>sniff</nvs> <SC>I</SC> like the phone bill is really expensive and so I guess <F>urm</F> to take the place of like making phone calls, they <F>urm</F> send each other E-mails to talk like the times <F>er</F> they aren't there at school.</B>
+<A>O K.</A>
+<B><nvs>cough</nvs></B>
+<A>I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Thank you very much, <H pn="B's name">XXX02</H>. We're almost at the end of the interview.</A>
+<B>O K.</B>
+<A>Thank you very much for coming in today. <F>Urm</F> what are your plans after this interview today?</A>
+<B><F>Well</F> I have to go back to class, <SC>but then</SC> and then after that, I have cheerleading practice. <OL>So</OL></B>
+<A><OL><F>Oh</F></OL> right, right. You told me that. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>I have to get back</OL>.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>O K. <F>Um</F> how long are you going to practice?</A>
+<B><F>Urm</F> usually practice is from four to six.</B>
+<A><F>Mm</F>.</A>
+<B>But</B>
+<A>Four to six. <OL><F>Hm</F></OL>.</A>
+<B><OL>sometimes</OL> we practice even more than that. So I'm not sure what time I'm gonna get home yet.</B>
+<A><F>Oh</F> I see. <F>Well</F> I hope you'll have a nice <F>ur</F> time,</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>enjoy</OL> practicing cheerleading. And</A>
+<B><OL>O K</OL>.</B>
+<A><OL>thanks</OL> again for coming in today.</A>
+<B>O K.</B>
+<A>Thank you.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>This is the</OL> end.</A>
+</stage5>
+</body>
+</interview>

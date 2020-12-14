@@ -1,0 +1,185 @@
+<interview>
+<filename>file00663.txt</filename>
+
+<head version="1.3">
+<date>2001-11-13</date>
+<sex>female</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Are you ready?</A>
+<B>Yes.</B>
+<A>Let's begin. My name is <H pn="A's name">XXX01</H>. For the record, can I have your name?</A>
+<B><F>Uh</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, <OL>of course</OL>.</B>
+<A><OL><F>Mhm</F></OL>. O K. All right. So <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Ur</F> I live in <H pn="others1">XXX03</H> <JP>shi</JP>. <F>Um</F>. <SC>It</SC> <H pn="others1">XXX03</H> <R><JP>shi</JP></R> <JP>shi</JP> is full of forest. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>laughter</OL></A>
+<B>So the air is very clear, <OL><??></??></OL>.</B>
+<A><OL><F>Mhm</F></OL>. Do you live there with your family?</A>
+<B>Yes. <F>Um</F>. My family <SC>is</SC> <F>uh</F> consists of <F>um</F> <R>four</R> four people including me. <F>Ur</F>. My parents and my older sister.</B>
+<A><F>Mhm</F>. I see. Can you tell me about your sister?</A>
+<B><F>Um</F>. My sister is now <F>um</F> twenty nine years old. And she is working, and <F>um</F> she speaks English very well. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mhm</F> <nvs>laughter</nvs></OL> why does she speak English very well?</A>
+<B><F>Ur</F>. Because <F>urm</F> she is an English teacher. And <F>ur</F> I talked about this program <F>ur</F> with her <R>al</R> <F>um</F> also. <F>Ur</F>. But she is very busy. So she didn't come here.</B>
+<A><F>Mhm</F> I see. <F>Oh</F>. So what do you usually do with your sister on weekend?</A>
+<B>On weekend, <F>ur</F> she usually <F>ur</F> read books, or sleep. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> How about you? On weekend, what do you to?</A>
+<B><F>Ur</F> Sometimes I go <F>ur</F> out with my friends, or I just <F>ur</F> watch the videos, or <F>um</F> also read books.</B>
+<A><F>Mhm</F>. When you go out with your friends, where do you usually go?</A>
+<B>Usually, to the department store just <F>urm</F> <SC>win</SC> for <SC>ja</SC> <F>ur</F> window shopping.</B>
+<A><F>Mhm</F>. Do you have your favorite department store?</A>
+<B><F>Ur</F> I like <H pn="others2">XXX04</H> <F>um</F> Department Store because <F>um</F> I like <H pn="others2">XXX04</H>, and <R>I</R> I like <OL><laughter><H pn="others2">XXX04</H> Department Store</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> What's special about <H pn="others2">XXX04</H> Department?</A>
+<B><F>Urm</F> <F>mm</F>. Not so noisy, and I can find out what I need. <F>Um</F>. And I have <H pn="others2">XXX04</H> passport card. So I can get five percent reduction. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> That's nice.</A>
+<B>Yes.</B>
+<A>O K. You mentioned you like reading books. But do you have any other hobbies?</A>
+<B><F>Um</F> I like <R>dan</R> dancing.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Um</F> <R>I</R> I was a member of dancing club <F>um</F> when I was a high school student. So <F>um</F> I need some exercise. So sometimes I do dancing in my room.</B>
+<A>What kind of dancing?</A>
+<B><F>Urm</F>. Hip hop.</B>
+<A><F>Mhm</F>.</A>
+<B><OL><nvs>laugher</nvs></OL></B>
+<A><OL><laughter>Can you</laughter></OL> tell me more about that kind of dancing?</A>
+<B><F>Um</F> I just <F>um</F> listen to <F>ur</F> the dance music, and I stretch my body for my health. That's all. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. All right. You should be living in a big room.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. The first thing today, please look at this picture. Please describe this picture.</A>
+<B><.></.> <F>Um</F>. <.></.> The place is <F>um</F> <SC>moun</SC> <F>uh</F> on the mountain. And <SC>the mountain</SC> <F>uh</F> <SC>it</SC> where <SC>it's snowing</SC>, <F>uh</F> <R>not</R> not snowing, <F>erm</F> <SC>it has</SC> it have snowed. <nvs>laughter</nvs> And people are skiing. And one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen people are there. And one of them are fell down and he looks in needing help. <nvs>laughter</nvs> And another person is doing, <R>I</R> I forgot the name, <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B><F>ur</F> <R>snow board</R>,</B>
+<A>All right.</A>
+<B>snow board.</B>
+<A><F>Mhm</F>.</A>
+<B>And four kids are playing, <R>I</R> I don't know the name, <R>wh</R> white ball game.</B>
+<A><F>Mhm</F>. O K. All right. Thank you.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX02</H>, can you ski?</A>
+<B><F>Urm</F>. No.</B>
+<A>No?</A>
+<B><nvs>laughter</nvs> <F>Uh</F> <F>uh</F>. I guess I went skiing twice or third times.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urm</F> <F>ur</F>. But <F>ur</F> I was very afraid of skiing because I felt <F>ur</F> that I would <F>er</F> get injured. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> So what happened when you skied the last time?</A>
+<B><F>Urr</F>. Just I was scared, and I tried <F>mm</F> following my friends. And my friends are <F>ur</F> good at skiing. So I was very lonely. <nvs>laughter</nvs> And I just <F>ur</F> tried following them very hard.</B>
+<A><F>Mhm</F> I see. <laughter>O K</laughter>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. So next, let's try a role play. Please read this card. And when you are ready, I will begin the role play.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>Yeah.</B>
+<A>O K. Good afternoon, ma'am. How may I help you?</A>
+<B><F>Ur</F> I would like to go to <F>ur</F> New York by train. <F>Er</F> So would you tell me <SC>how can I get</SC> <F>uh</F> how I can get there?</B>
+<A><F>Oh</F>. You can take a train from here.</A>
+<B><F>Ur</F>. Which line?</B>
+<A><F>Ur</F>. There're three kinds of lines.</A>
+<B><F>Mm</F>. <F>Ur</F>. So <F>uu</F> I'd like to get there as soon as possible.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Uh</F> <F>mm</F>. <SC>What</SC> <F>ur</F> which line do you recommend?</B>
+<A>I would recommend super express train.</A>
+<B>Super express train. <F>Urm</F>. Would you tell me where it is?</B>
+<A><F>Ur</F>. It leaves from track number two.</A>
+<B>Track number two. <F>Ur</F>. So <R>I</R> I think I can find out now.</B>
+<A>O K. <F>Ur</F>. But you need a ticket.</A>
+<B>A ticket? <nvs>laughter</nvs> <F>Ur</F>. <R>So</R> <F>ur</F> so <F>um</F> <SC>would you</SC> <F>uh</F> can I have the ticket?</B>
+<A>O K. Next super express?</A>
+<B>Yes.</B>
+<A>O K. Let me check. <F>Oh</F>. The next super express train is full.</A>
+<B>Full.</B>
+<A>Yeah. What should I do?</A>
+<B><F>Urr</F>. So is there <F>um</F> <SC>other</SC> <F>ur</F> <R>a</R> another ticket <F>ur</F> for <R>a</R> other trains? <F>Ur</F></B>
+<A>O K. <F>Ur</F>. Express train will leave in thirty minutes.</A>
+<B><F>Mm</F>. <F>Uh</F>. So <F>u</F> is it the fastest way <F>um</F> to get to New York?</B>
+<A>Yes, because the next super express is full.</A>
+<B>O K. So <R>I</R> I have it.</B>
+<A>O K. Here is one ticket for express train.</A>
+<B>Thank you very much.</B>
+<A>O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A>O K. Thank you. This is the end of the role play. So have you been abroad?</A>
+<B><F>Uh</F>. Yes.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Ur</F> I went to <F>ur</F> <R>En</R> England.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Urm</F>. But I didn't like <OL><laughter><??></??></laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <laughter>Why didn't you like it</laughter>?</A>
+<B>Because <F>ur</F> the food is not so delicious. So <F>urm</F> the taste is very <R>li</R> light. And almost <F>ur</F> taste <R>no</R> nothing. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>So <F>urr</F> I knew <F>ur</F> Japanese food is <R>very</R> very nice.</B>
+<A><F>Uhh</F>. But didn't you have a good memory from England?</A>
+<B><F>Mmm</F>. <R>Al</R> almost nothing. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. <laughter>All right</laughter>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So let's try another picture. Here, there're six pictures from one to six. And please make up a story based on these pictures. And this happened before. So please start your story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Urm</F>. One day last week, <F>ur</F> Taro and Hanako <SC>are walking on the street</SC> <F>ur</F> <SC>where I</SC> <F>uh</F> <R>wer</R> were walking on the street <SC>where it was <F>mm</F> raining</SC> <F>uh</F> when it was raining. And <F>mmm</F> beside Taro, <R>the</R> there is one box. And he listen to the <F>ur</F> <SC>cats <F>ur</F> crying</SC> <F>uh</F> <R>ca</R> cat crying. And <F>ur</F> Hanako open the box, and she helped the cat. And Taro <F>urm</F> didn't agree with Hanako's idea that <F>er</F> she <F>uu</F> would like to take this cat home. But <F>urm</F> finally, he <F>ur</F> agreed with Hanako's idea. And Hanako <SC>hug</SC> hugged the cat. And Taro <F>urm</F> <.></.> and Hanako <SC>are</SC> <F>uh</F> were going home.</B>
+<A><F>Mhm</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>, so when you have a disagreement with your sister or <SC>your</SC> with your friends or your parents, what do you do?</A>
+<B><F>Urm</F> I try to explain my idea in detail. And I try to find out what the conflicts are. And <R>I</R> I solve <F>er</F> each <laughter>problem</laughter>. And <R>i</R> if I can <F>ur</F> make the situation better, <F>um</F> I feel very happy. But <F>urm</F> <SC>it</SC> <F>ur</F> sometimes it's impossible to <F>ur</F> solve all the problems. <F>Urm</F> <SC>When the</SC> <F>uh</F> at that time, <F>urm</F> I give it up. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> You give it up.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. All right. Thank you very much. We have come to almost the end of the interview.</A>
+<B><F>Mm-hm</F>.</B>
+<A>So are you going back to <H pn="others1">XXX03</H> now?</A>
+<B>Yes.</B>
+<A>How long does it take to go to <H pn="others1">XXX03</H>?</A>
+<B><F>Urr</F>. About one hour.</B>
+<A>From here?</A>
+<B>Yes.</B>
+<A><F>Wow</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>So you are a student?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. How long does it take to your school?</A>
+<B><F>Urm</F>. Usually, one hour thirty minutes.</B>
+<A><F>Wow</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>But you're used to a long commuting?</A>
+<B>Yes. <F>Urm</F>.</B>
+<A><nvs>laughter</nvs></A>
+<B>And <SC>So</SC> <SC><R>I</R> I hear <F>ur</F> some of the students <F>urr</F> <F>uh</F> said</SC> <F>uh</F> <R>so</R> some of <SC>my</SC> <F>uh</F> the students said that <F>um</F> it takes <R>two</R> two hours for them to get to school. <CO><OL>So</OL></CO>.</B>
+<A><OL>O K</OL>. So you are better</A>
+<B>Better.</B>
+<A><laughter>than those people</laughter>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>I see</OL>. O K. Thank you very much for coming.</A>
+<B><F>Uh</F>. Thank you <OL>very much</OL>.</B>
+<A><OL>Have a</OL> safe trip to <H pn="others1">XXX03</H>. This is the end of the interview.</A>
+<B><F>Uh</F>. Thank you.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,139 @@
+<interview>
+<filename>file00259.txt</filename>
+
+<head version="1.3">
+<date>2001-02-23</date>
+<sex>male</sex>
+<age>42</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step>2</step>
+<TOEIC>960</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>8</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>travel_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><F>Ur</F> my name is <R><H pn="B's name">XXX02</H></R> <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Oh</F> just call me <H pn="B's name">XXX02</H>. <OL>That's much</OL> easier. Yeah.</B>
+<A><OL><H pn="B's name">XXX02</H></OL>? O K.</A>
+<B>Yeah.</B>
+<A><H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Er</F> I'm fine. How about yourself?</B>
+<A><F>Hm</F> I'm O K.</A>
+<B>Yeah. <OL>Good</OL>.</B>
+<A><OL>O K</OL>. So, <OL><F>hmm</F></OL></A>
+<B><OL>All right</OL>.</B>
+<A>it's Friday today. But what do you usually do on Friday?</A>
+<B><F>Oh</F>. Friday. This is a working day. Yeah. But <F>er</F> <F>well</F> Friday afternoon, <F>well</F> <SC>to some ex</SC> <R>t</R> to some extent, I feel relaxed, Friday afternoon, <F>er</F> having <F>er</F> the weekend closer.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah. That's <?>the</?> feeling. But <F>er</F> <SC>sh</SC> <F>well</F> today, <F>er</F> I have a different feeling. <F>Er</F> because since yesterday, I have been suffered with hay fever. <F>Well</F> <nvs>laughter</nvs> <F>ur</F> I have a headache, I have a sneeze, I have a red eye, itchy. <F>Ur</F> <F>er</F> <R>I</R> I feel <SC>con</SC> <F>ur</F> uncomfortable this afternoon.</B>
+<A>Yeah. I understand it, too. O K. Then, what do you do?</A>
+<B><F>Ur</F> I'm working for the American company, <H pn="company name1">XXX03</H>. <F>Ur</F> I'm in charge of <R>the</R> <F>ee</F> the plastic business. <F>Ur</F> <F>ur</F> <SC>I'm the</SC> <.></.> <F>ur</F> I'm so-called product manager to be responsive for <F>ur</F> product development, <F>ur</F> product business itself and profit. <nvs>snap</nvs> Yeah. To be contribute to the company and share holders.</B>
+<A><F>Hm</F>. O K. Then, what do you do on weekends?</A>
+<B><F>Oh</F> weekend? Yeah. <F>Well</F> <SC>the</SC> I have a hobby <F>ur</F> <R>to</R> to have a <R>trek</R> trekking and hiking or say, <F>er</F> mountain walking. So, I like <F>ur</F> any <SC>sports</SC> <F>ur</F> outdoor sports. So, in the summer season, <R>I</R> I often <SC>come up to</SC> <F>ur</F> go up to the mountain site to enjoy camping, <F>ur</F> to have a one-day hiking with mountain cooking. Yeah.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah. <R>That</R> that's the idea in the weekend. <SC>So, but</SC> and <F>oh</F> <F>well</F> in the wintertime, <F>ur</F> I sometimes <F>er</F> go up to the mountain site <F>ur</F> to <.></.> enjoy skiing. Yeah. But <F>well</F> since this spring, <F>ur</F> I got hay fever. I have no idea how I can do outside. <nvs>laughter</nvs></B>
+<A>You have to stay inside. So, what would you do at home?</A>
+<B><F>Ah</F> <F>well</F> <SC>the</SC> yeah, actually, internet. <nvs>laughter</nvs> That's the idea. <SC>Actually through internet</SC> <F>ur</F> <F>well</F> since the beginning of the <R>last</R> <F>ur</F> last month, <F>ur</F> <.></.> <F>ur</F> <F>well</F> <SC>the</SC> <.></.> <F>er</F> <SC>ev</SC> almost every night, <F>ur</F> I log on myself to the internet auction site. Yeah. Because I'm planning to move my house <F>er</F> in June this year. So, I try to <.></.> reduce the number of my belongings. <R>So</R> <SC>so</SC> therefore, through the internet auction, <F>ur</F> I try to dispose <F>ur</F> my stuff <.></.> <F>ur</F> to the buyers. Yeah. Actually, it's really exciting to see <.></.> <F>ur</F> <.></.> <F>well</F> <SC>the</SC> my house <F>ur</F> is coming very neat <F>er</F> as well, <F>ur</F> I can get small money.</B>
+<A><F>Ah</F>.</A>
+<B>Yeah.</B>
+<A>That's interesting.</A>
+<B>Good idea. Yeah.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you. Now, I'm going to,</A>
+<B>What?</B>
+<A>show you a picture.</A>
+<B>All right. <nvs>cough</nvs></B>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>O K. Please describe it.</A>
+<B><F>Hm</F> <F>hm</F> <.></.> Question.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> Question. What should I do?</B>
+<A>Please describe it.</A>
+<B><F>Oh</F> describe. <F>Ur</F> <F>wow</F> <F>ur</F> <.></.> <F>ur</F> this is scene of the classroom. <F>Ur</F> <F>well</F> maybe junior high school. <F>Ur</F> because the <SC>pupil</SC> student <.></.> <F>ur</F> their age <.></.> group <F>ur</F> something like <F>er</F> twelve to fifteen. <F>Well</F> <R>the</R> the <SC>teacher</SC> <F>ur</F> female teacher, <F>ur</F> she is teaching <R>math</R> mathematics. But <F>well</F> the <.></.> <SC>only two student</SC> <F>ur</F> <F>oh</F> no, only one student <F>ur</F> in the front line <F>ur</F> is concentrating <R>on the</R> <SC>on the class</SC> on the lecture. But <SC>the rest of the pupil</SC> the rest of the student, <nvs>laughter</nvs> they are not. <F>Well</F> <SC>the</SC> <SC>a girl</SC> the female student of the front row, she's <F>ur</F> communicating with <F>er</F> maybe, internet or playing with <F>er</F> cell phone. And <F>well</F> <SC>the</SC> <nvs>sniff</nvs> a guy, <F>well</F> <SC>the</SC> <.></.> he's seated at the <R>is</R> <F>er</F> isle side <F>ur</F> on a front row. <F>Ur</F> <.></.> <F>well</F> <R>he looks st</R> <F>ur</F> he looks sleepy and having a chewing gum. <nvs>sniff</nvs> And <?>of</?> second row <.></.> and third row, there's <F>er</F> no student <F>ur</F> who are paying the attention <OL>on the lecture</OL>.</B>
+</task>
+<followup>
+<A><OL><F>Hmm</F> <F>hm</F></OL>. O K. Good. Thank you. So, how can you compare the <R>hi</R> <F>er</F> high school students these days with the ones in your days?</A>
+<B><F>Oh</F> my days? <F>Urm</F> <F>well</F> <F>um</F> <R>not so much</R> <SC>not so much</SC> but <F>er</F> <F>well</F> <SC>the</SC> <nvs>cough</nvs> not so much different, I suppose. <F>Well</F> actually, <F>well</F> <SC>the</SC> <F>ur</F> I had the same behavior in the classroom. Yeah. But <F>er</F> <F>well</F> <.></.> <F>well</F> <SC>I can assu</SC> <SC>I can presume</SC> <R>I</R> I can assume, <F>well</F> <SC>we know</SC> we knew how to control <F>ur</F> the extent of the behavior. <SC>So</SC> therefore, <F>well</F> <SC>the</SC> recently, <F>ur</F> I could see out of the <R>newsp</R> <F>ur</F> newspaper report and the articles <F>er</F> the people <.></.> they play <.></.> so much violence. Yeah. <R>W</R> <F>er</F> <SC>when I was child</SC> <F>er</F> <SC>when I was <F>ur</F> this</SC> <F>ur</F> <R>in m</R> in my school days, <F>ur</F> I have not see such a radical violence.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hm</F>. <F>Hm</F>. O K. Thank you. Now, <OL>let's do</OL>,</A>
+<B><OL>Welcome</OL>.</B>
+<A>a role-play. Please read this card.</A>
+<B>All right.</B>
+<A>When you are ready, I'll start the conversation.</A>
+<B><?>To the</?> examinee? <.></.> <F>Oh</F> <F>ur</F> examinee. That's me. O K. <nvs>laughter</nvs></B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? Are you ready?</A>
+<B>All right. O K. <F>Ur</F> <OL>Tru-ru-ru-ru-ru</OL>.</B>
+<A><OL>Tu-tu</OL>. Hello. Hello.</A>
+<B><F>Ur</F> <F>well</F> <F>er</F> my name is <H pn="B's name">XXX02</H>. <F>Er</F> good afternoon. Can I speak to <.></.> <F>er</F> the person <F>ur</F> who was in charge of <F>ur</F> <F>well</F> the Singapore three-days tour <F>ur</F> which you conducted end of last month?</B>
+<A><F>Hm</F>?</A>
+<B>Can I speak to the person?</B>
+<A>O K. Wait a moment.</A>
+<B>Thank you.</B>
+<A>Hello? This is <.></.> <H pn="A's name">XXX01</H>.</A>
+<B><OL><H pn="A's name">XXX01</H></OL>?</B>
+<A><OL>Can I help you</OL>?</A>
+<B><F>Oh</F> <F>well</F> <F>ur</F> my name is <H pn="B's name">XXX02</H>, <F>ur</F> <F>well</F> <H pn="B's name">XXX02</H> <F>ur</F> of <H pn="others1">XXX04</H>, <H pn="others2">XXX05</H>. <F>Ur</F> <F>well</F> <F>ur</F>. <OL><CO>I ju</CO></OL>.</B>
+<A><OL><F>Ah</F> Mister <H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>How was</OL> your trip?</A>
+<B><F>Oh</F> <laughter>yeah</laughter>. Thank you very much. You remembering me. <F>Well</F> <SC>the</SC> <F>er</F> actually I call up to you <F>ur</F> to talk about my trip. <F>Ur</F> <F>well</F> <SC>the</SC> <F>ur</F> I came back last night. But <F>ur</F> <R>I</R> I was really upset. <F>Ur</F> <F>well</F> because, <F>well</F> there are so much discrepancy between what you <R>ex</R> explained <F>ur</F> before my departure and what I experienced <F>ur</F> during my tour. <F>Ur</F>.</B>
+<A><F>Hm</F>?</A>
+<B>Yeah. <F>Well</F> <SC>there are</SC> <SC>there's <.></.> two issues</SC> there were two issues. Number one the hotels. <F>Ur</F> hotel accommodation. <F>Ur</F> in your brochure and in your explanation, <F>ur</F> you told me <F>ur</F> <F>well</F> <R>the</R> <SC>the</SC> my accommodation <F>ur</F> would be with <F>ur</F> Raffles Hotel. <F>Ur</F> yeah. Actually, <F>well</F> <SC>the</SC> that is <F>um</F> one of the best hotel <F>ur</F> located in Singapore. <F>Ur</F> because of this accommodation, <F>ur</F> <F>well</F> I booked <.></.> <F>ur</F> the tour with you and I paid <F>ur</F> such a extra premium <F>urm</F> compared with <R>the</R> <F>ur</F> the other tour <F>ur</F> which other tour <SC>co</SC> <F>ur</F> agent conducts. <F>Ur</F> but <F>ur</F> when I reached to Singapore, <F>ur</F> there's nobody <F>ur</F> who received me at the airport. And <F>well</F> when I got contact with your <F>ur</F> <.></.> <SC>local con</SC> <F>ur</F> local <SC>agent</SC> tour agent, <F>ur</F> <R>he</R> <SC>he</SC> <F>well</F> <SC>the</SC> somebody of the local agent told me <F>uh</F> <.></.> I must go <R>to</R> to Oriental Hotel instead of the Raffles Hotel. <F>Well</F> <SC>the</SC> <.></.> <SC>when I went t</SC> yeah, but <F>ur</F> there was no choice but I have to be there. So, <SC>I took my</SC> I took taxi <SC>my</SC> by myself, <nvs>cough</nvs> <R>and</R> <F>ur</F> <F>well</F> and I went to Oriental Hotel. And I expected <F>ur</F> somebody of the local agent to be there and, <F>well</F> <F>ur</F> he <R>coul</R> could make <F>ur</F> some kind of the explanation about the sudden change of the hotel accommodation. But <R>no one there</R> no one there. And <F>well</F> <F>er</F> <F>ur</F> when I inquired with <F>er</F> the Oriental Hotel receptionist, <F>well</F> <SC>the</SC> <SC>my re</SC> the reservation was there since two weeks ago before my departure. <F>Er</F> <F>well</F> anyway, <F>well</F> there was no choice. I stayed there. Oriental Hotel is one of the <SC>first hot</SC> <nvs>cough</nvs> first-class hotel. So, <nvs>cough</nvs> I accepted that. <nvs>cough</nvs> <F>Urm</F> next day, <F>well</F> <SC>the</SC> in the itinerary, which <F>ur</F> your brochure describes, <F>ur</F> <.></.> <F>ur</F> was <R>the</R> the limousine car tour <F>ur</F> <.></.> <F>ur</F> <R>should</R> should be set for my first day <F>ur</F> activities. But <F>ur</F> when I <F>ur</F> came out <R>the</R> the hotel entrance nine A M, <F>ur</F> there was no limousine car. There was only one local taxi <F>ur</F> waiting without any <SC>tour agent</SC> tour conductor. So, I have some difficulty to speak <F>ur</F> local language. <F>Ur</F> therefore, <F>well</F> <SC>the</SC> I had a very hard time <F>ur</F> <SC>to go</SC> <F>ur</F> <R>t</R> to take a tour with the local taxi drivers. So, <F>well</F> it was been really <R>disappo</R> <F>uh</F> disappointing me. Therefore, <F>well</F> <R>I</R> I need you <R>to</R> <F>ur</F> <.></.> to describe why, and what kind of the compensation you can afford to me.</B>
+<A><F>Hmm</F> I'm <SC>sor</SC> really sorry, Mister <H pn="B's name">XXX02</H>. So, I've never heard this kind of complain before. So, <SC>ha</SC> first, I have to talk to <?>our</?> manager. So, and after that, we'll get back to you as soon as possible. Is that O K?</A>
+<B><F>Oh</F> <F>well</F> as soon as possible, but <F>ur</F> <F>well</F> <F>ur</F> I'm really <SC>s</SC> <F>ur</F> upset <R>so</R> so tell me, <F>ur</F> how long <F>ur</F> does take for you to investigate the issue,</B>
+<A>It won't take long. Maybe five minutes.</A>
+<B>Five minutes? That's fine. <OL>O K</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B>Thank you very much. I will be waiting. <F>Urn</F> <R>I</R> I can give you my <F>ur</F> contact number now, because I'm outside of the house. So, this is my cell phone number. <CO><OL>Is that O</OL></CO>.</B>
+<A><OL>O K</OL>. Thank you. <F>Hm</F>.</A>
+<B>I'm looking forward to <R>having you</R> <F>ur</F> <OL>having your reply soon</OL>.</B>
+<A><OL>O K, thank you for calling and</OL> sorry for the trouble. O K. Very good. So, all right. <OL><nvs>laughter</nvs></OL></A>
+</task>
+<followup>
+<B><OL><F>Ur</F> <nvs>laughter</nvs></OL> too long?</B>
+<A>That was a true story?</A>
+<B><F>Ur</F> no, actually. <F>Well</F> <F>ur</F> <R>I</R> <R>I ha</R> <SC>I haven't had</SC> <R>I</R> <SC>I n</SC> I have never had this kind of disappointment. <F>Er</F> because <F>well</F> always <F>ur</F> I chose <F>ur</F> the first class travel agent.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah. Maybe that's <F>ur</F> tips to avoid <?>any failure</?>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you. Now, finally,</A>
+<ctxt>The interviewer is selecting a card.</ctxt>
+<A>this. O K?</A>
+<B>Yep.</B>
+<A>Please make a story using these six pictures. And please start with "One day last week,"</A>
+<B>All right. So, <R>ho</R> how many minutes can I spend <F>ur</F> to make a whole story?</B>
+<A><F>Ur</F> just a few minutes.</A>
+<B><F>Oh</F> just few minutes. O K. <F>Well</F> <R>the</R> <SC>the</SC> <F>well</F> there's one guy <F>ur</F> who is driving <F>ur</F> the orange color passenger car <.></.> <F>ur</F> to west to east. <nvs>snap</nvs> <F>Er</F> <F>well</F> <SC>the</SC> there's another guy who is driving <F>er</F> the green <SC>car</SC> motorcycle while taking a call <.></.> by cell phone with, say, his girlfriend. <F>Well</F> <SC>the</SC> <.></.> <F>well</F> <SC>there</SC> it seems there's <R>minor acciden</R> <F>uh</F> <F>ur</F> minor accident <F>ur</F> between <SC>orange passenger car</SC> orange color passenger car and green color motorcycle. And <F>well</F> <R>the</R> the door mirror <F>ur</F> hit <.></.> <F>ur</F> the <.></.> right hand of the motorcyclist. And unfortunately, the motorcyclist <F>ur</F> dropped the cell phone. <.></.> And <SC>drop s</SC> <F>uh</F> the cell phone got serious damage <F>uh</F> as well, <F>ur</F> the motorcycle the <F>ur</F> rear lamp <F>ur</F> <.></.> was broken. <SC>So</SC> <F>well</F> and <SC>the motorcyclist</SC> <F>well</F> <R>the both</R> the both parties <F>ur</F> they stop to turn the motorcycle. And they <F>ur</F> <.></.> began to dispute. And <F>well</F> the motorcyclist made a strong complain about the damage of rear headlamp as well as the cell phone. <nvs>sniff</nvs> <F>Er</F> <F>well</F> <SC>the</SC> <.></.> either party might report to the police. And <F>ur</F> police came up there. <F>Ur</F> <SC>but</SC> <F>ur</F> and when <F>ur</F> police made interview with the both parties, <F>ur</F> the passenger car driver, <nvs>snap</nvs> <F>ur</F> he <.></.> pointed out <F>well</F> <R>the</R> the motorcyclist, <F>ur</F> <.></.> <R>he</R> he was making a call while <SC>he</SC> <F>ur</F> driving. So, <F>ur</F> it seems <R>the</R> <F>well</F> <R>the</R> the police man, <F>ur</F> he accept his explanation and <F>ur</F> <F>well</F> <SC>the</SC> he agree <F>ur</F> to release the passenger car drivers. Because, <F>well</F> passenger <SC>cr</SC> drivers <F>ur</F> <.></.> looks innocent and <SC>the</SC> <F>well</F> there is fault <F>ur</F> <SC>of</SC> with the motorcyclist. Eventually, the motorcyclist <F>ur</F> called <F>ur</F> the workshop <F>ur</F> <R>to</R> to load his motorcycle <F>ur</F> to the workshop.</B>
+</task>
+<followup>
+<A><F>Hm</F>. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B>You're welcome.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Er</F> the interview is almost over. But what are you going to do this weekend?</A>
+<B><F>Ah</F> <F>well</F> <SC>the</SC> actually since I have the <SC>ha</SC> serious hay fever, I'll take a rest.</B>
+<A>O K. Have a nice rest. And thank you very much for coming in <OL>today</OL>.</A>
+<B><OL>Thank you</OL> very much. Have a nice weekend. Bye-bye.</B>
+</stage5>
+</body>
+</interview>

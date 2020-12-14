@@ -1,0 +1,194 @@
+<interview>
+<filename>file00680.txt</filename>
+
+<head version="1.3">
+<date>2001-11-20</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Mm</F> My name is <H pn="B's name">XXX02</H>.</B>
+<A>Yes, <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Er</F> <F>um</F> Fine, thank you.</B>
+<A>Good. <OL>Good</OL>.</A>
+<B><OL>And</OL> you?</B>
+<A>I am fine, thank you. <H pn="B's name">XXX02</H>,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>urm</F></OL> <R>where</R> where do you live?</A>
+<B>Yes. <F>Urm</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Mhm</F> Can you tell me <SC>about mo</SC> about your place where you live?</A>
+<B><F>Mm</F> <.></.> <R>I live</R> I live in <H pn="others2">XXX04</H>. <OL><F>Mm</F></OL></B>
+<A><OL><F>Mm</F></OL></A>
+<B><.></.></B>
+<A>Do you live with your family?</A>
+<B>No. <F>Urm</F> <SC>I'm <F>mm</F> do</SC> I'm living in dormitory of this company.</B>
+<A>I see.</A>
+<B><F>Mm</F></B>
+<A>I see. O K. <F>Ur</F> Can you tell me about how you live in the dormitory?</A>
+<B><.></.> <F>Ur</F> <F>ur</F> One more time, please.</B>
+<A>O K. <F>Ur</F> How is the life like?</A>
+<B><F>Uhh</F> <F>um</F> <nvs>laughter</nvs> Not so good. <nvs>laughter</nvs> So-so.</B>
+<A>O K. Can you tell me more?</A>
+<B><F>Mmm</F> <SC>This</SC> <F>mm</F> <SC><R>there</R> there is</SC> <F>mm</F> <F>mm</F> <R>I have</R> I have no privacy. Yes. <F>Um</F> <SC>I</SC> when <R>I</R> I have a bath, <F>mm</F> <F>err</F> the bath <SC>on</SC> in this company <F>mm</F> <R>together</R> together <F>er</F> have a bath. So I'm <F>mm</F> <SC>care</SC> take care <F>mm</F> of <SC>he</SC> him. <F>Mm</F></B>
+<A>I see. O K. Now <SC>where is your</SC> <SC>where's</SC> <F>ur</F> where are your parents?</A>
+<B><F>Mm</F> My parent is in Kyoto.</B>
+<A><F>Oh</F></A>
+<B>Yes.</B>
+<A>O K. What do they do?</A>
+<B><F>Mmm</F> <SC>He</SC> <R>they</R> <..></..> <F>errr</F> <.></.> <R>they</R> <SC>they</SC> <F>mm</F> <SC>my parents</SC> <R>my</R> my father <F>ur</F> work in company. My mother is house keeping.</B>
+<A>O K. So you're originally from Kyoto?</A>
+<B>Yes.</B>
+<A><F>Uhh</F> O K. <F>Ur</F> Which do you like better, the life in <R>Kyo</R> Kyoto or Tokyo?</A>
+<B><F>Mhm</F> <.></.> <F>mmm</F> <SC>It's</SC> Tokyo life is more <F>mm</F> useful, <F>ur</F> <R>many</R> many town, <F>mm</F> many shop, <F>mm</F> <R>many</R> <F>mm</F> many <SC>train</SC> metro, <R>but</R> <F>mm</F> but so crowded. <F>Mm</F> Kyoto is <F>mm</F> <F>mm</F> I feel four seasons. <OL><F>Mm</F> <R>But</R></OL></B>
+<A><OL><F>Mhm</F> I see</OL>.</A>
+<B>but <SC>ss</SC> not so useful. <F>Mm</F> <.></.> <SC>Trans</SC> <F>mmm</F> <R>there is</R> there is not many <F>mm</F> transportation.</B>
+<A><F>Mhm</F> I see. O K. Good. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>First of all, I would like to show you a picture. Let's do this. Here is a picture for you. And please describe this picture for me.</A>
+<B><..></..> <R>The door</R> the door is opened. And <F>mm</F> <F>err</F> cat is <R>on</R> on the bed. And <F>mm</F> dog is on floor. And <.></.> <SC>the girl <F>mm</F> wearing</SC> <F>uh</F> <SC>the girl is</SC> <F>uh</F> the girl <SC>wear</SC> is wearing <F>mm</F> <R>green</R> green sweater and blue skirt. <F>Mm</F> And <.></.> the time is <F>mmm</F> nine o'clock. So <..></..> <F>urrr</F> <R>she</R> <F>um</F> <SC>she is</SC> she is seating <R>on</R> <SC>on the</SC> <R>on</R> on a <F>mm</F> chair in front of the desk. <SC>The desk is</SC> <F>ur</F> <F>ur</F> on the desk, there is personal computer and typewriter and mouse.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>Good.</A>
+</task>
+<followup>
+<A>Now <H pn="B's name">XXX02</H>, what's the difference between this room and your own room in the dormitory?</A>
+<B><F>Mhm</F> <.></.> This room <R>is</R> is wider than <R>my</R> my room perhaps. <F>Mm</F> <nvs>cough</nvs> <F>uh</F> <SC><R>The</R> <F>err</F> the color is</SC> <SC>the color of curtain</SC> <F>mm</F> <R>this room</R> <R>this room</R> <SC>this room curtain</SC> <F>er</F> the curtain of this room is orange, but <SC><R>my room</R> my room</SC> <F>er</F> that one of my room is blue. <R>And</R> <F>mmm</F> and in my room, there's no personal computer. <R>And</R> <.></.> and there's no animal.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>Good. Thank you very much.</A>
+<B>Thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now next, I would like to do a role play.</A>
+<B>Role play?</B>
+<A>Yes. Now here is a card. This is written in Japanese. So please read it to yourself. And when you're ready, I will begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>Yes.</B>
+<A>All right. Yes, sir. How may I help you?</A>
+<B><F>Mmm</F> <.></.> <F>uhh</F> <R>I want</R> <R>I want</R> <F>ur</F> <F>mm</F> I want the suit.</B>
+<A>Sure.</A>
+<B><F>Urm</F> <SC>My</SC> <F>mm</F> <SC>do you have</SC> <F>uh</F> what color do you have suit?</B>
+<A>What <??></??>?</A>
+<B><SC><R>What color</R> <F>ur</F> what color do you have</SC> <F>mm</F> <SC><R>what</R> <F>mmm</F> what color</SC> what color of suits do you have?</B>
+<A><F>Oh</F> We have many <OL>many colors</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Ehhh</F> <F>uh</F> <nvs>cough</nvs> I want <F>mm</F> charcoal gray.</B>
+<A>Sure.</A>
+<B><R>And</R> <F>mm</F> <F>er</F> and <F>um</F> suits with stripe.</B>
+<A>Of course.</A>
+<B><F>Mmm</F> <SC>That</SC> <..></..> <F>mm</F> <SC><R>how</R> how do you have</SC> <F>mmm</F> <SC>how</SC> <JP>ja naina</JP> <..></..> what design do you have?</B>
+<A><F>Oh</F> We have many designs,</A>
+<B>Many design.</B>
+<A>but <F>urm</F> charcoal gray with stripe is <F>ur</F> those corner.</A>
+<B>Those corner.</B>
+<A><R>He</R> here is a corner.</A>
+<B><F>Uh</F></B>
+<A><F>Mm-hm</F></A>
+<B><F>Mhm</F> <nvs>cough</nvs> <..></..> <SC>This suit</SC> <F>mm</F> <F>mm</F> <SC>where the suit</SC> <F>uh</F> <SC>where do</SC> where does this suit <F>mm</F> <SC><R>made</R> made from</SC> made in?</B>
+<A><F>Oh</F> This one?</A>
+<B>Yeah.</B>
+<A>This one is made in China.</A>
+<B>China? <F>Mhm</F> How much?</B>
+<A><F>Ur</F> This one is pretty cheap. It's ten thousand yen.</A>
+<B>Ten thousand yen. <F>Mm-hm</F> <F>Mhm</F> <.></.> <SC>This is</SC> <F>ee</F> is this strong?</B>
+<A>Sure.</A>
+<B><nvs>laughter</nvs> <F>Erm</F> <..></..> <SC>You have more chi</SC> do you have more cheap suit?</B>
+<A>Cheaper one? <F>Urm</F> We have eight thousand yen suit.</A>
+<B>Eight thousand yen. <F>Mm</F> Which one?</B>
+<A><F>Oh</F>, Right next to it.</A>
+<B>Right next, yes. <F>Mm</F> But <F>ur</F> the design is bad. <nvs>laughter</nvs></B>
+<A><F>Mhm</F></A>
+<B>Not so good.</B>
+<A><F>Mhm</F></A>
+<B>Another one.</B>
+<A>This one is thirty thousand yen.</A>
+<B>Thirty thousand.</B>
+<A>But very good quality.</A>
+<B>Very good quality?</B>
+<A><F>Mhm</F></A>
+<B><F>Mhm</F> Where made from?</B>
+<A><F>Oh</F> This one is made <SC>from</SC> in Japan.</A>
+<B>In Japan.</B>
+<A><OL>Yes</OL>.</A>
+<B><OL><F>Mm-hm</F></OL> <..></..> <SC>This one and</SC> <R>this one</R> this one and that one, <F>mm</F> what is different?</B>
+<A><F>Ohh</F> The quality. <R>The fir</R> the first thing is the quality.</A>
+<B><F>Mm-hm</F> <..></..> <F>eee</F> <..></..> <R>What</R> <R>what</R> <F>uhm</F> what quality?</B>
+<A><F>Oh</F> This one <R>has</R> <F>ur</F> has a silk in it.</A>
+<B>Silk in it? <F>Mm-hm</F></B>
+<A>That's why it's most expensive.</A>
+<B><F>Mhm</F> <.></.></B>
+<A>O K. Would you like to try?</A>
+<B>Yes.</B>
+<A>Sure. O K. And after you try, will you let me know which one you want to buy?</A>
+<B><F>Mm</F></B>
+<A>O K?</A>
+<B>Yes.</B>
+<A>Good. <F>Ur</F> I will talk to you later then.</A>
+<B><F>Mm</F></B>
+<A>Great. Thank you very much. Good.</A>
+<B><JP>sumimasen</JP></B>
+</task>
+<followup>
+<A>All right. Now <F>ur</F> when you go shopping to buy a suit, how do you decide which one you want?</A>
+<B><F>Mhm</F> Firstly, <F>mm</F> I decide design.</B>
+<A>Design.</A>
+<B>Design.</B>
+<A><F>Mm</F></A>
+<B>Yes. <F>Mm</F> <R>Price is</R> <F>mm</F> price is next.</B>
+<A>O K. All right. Good. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, <nvs>coughs</nvs> lastly, I would like to show you sequence of pictures. <F>Er</F> Let's do this. Here is the picture. And I would like you to make up a short story based on these pictures from number one to six. And this happened before. So please start your story with "One day last week". O K? Go ahead.</A>
+<B><nvs>cough</nvs> <.></.> One day last week, <F>mm</F> <..></..> <F>mm</F> <SC><R>I</R> <.></.> I met</SC> I met my father. <R>He</R> he come to Tokyo. <F>Ur</F> <R>So</R> <F>mm</F> <R>so we</R> so we have a lunch together. <F>Mm</F> <SC><R>He</R> <F>er</F> he wanted <F>err</F> <SC>the</SC> this <F>er</F> <F>ur</F> restaurant</SC> <SC>he wanted <F>er</F> en</SC> he wanted to enter <SC>the</SC> a restaurant. <F>Err</F> Then <F>err</F> <R>they</R> they enter there. <..></..> <R>In</R> in the restaurant, <nvs>cough</nvs> <R>my father</R> <F>mm</F> my father <R>tell</R> <F>er</F> <.></.> tell the staff <F>mm</F> <SC><R>he</R> <.></.> he want to</SC> he want to seat <F>mm</F> <F>ur</F> the table <F>um</F> in window side. <.></.> <F>Mm</F> <F>mm</F> <R>And</R> and the seat of window side <R>is</R> <F>erm</F> is empty <SC><R>so</R> <R>so</R> so we</SC> <F>er</F> so <R>we</R> we could <SC>seated</SC> sit. <F>Mm</F> <nvs>cough</nvs> <R>When I</R> <F>err</F> <F>err</F> <.></.> when I <F>urr</F> <R>decide</R> decided <F>mm</F> <SC>what <R>I</R> I</SC> <F>er</F> what I eat, my father said, <F>err</F> <..></..> "Don't mind the price.". <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B><SC><R>So</R> so we</SC> <F>uh</F> so I order the most expensive food. <..></..></B>
+<A>O K.</A>
+<B>So <F>err</F> <SC>have a lun</SC> <F>er</F> <F>err</F> <F>ur</F> <SC>why</SC> <SC>in</SC> <F>mm</F> <SC>why I</SC> <SC><R>when</R> when I</SC> when we have a lunch, <F>mm</F> <SC>we are</SC> <F>mm</F> <R>we</R> <..></..> we talked about various topic. <F>Mm</F> But <R>my father</R> <F>uhh</F> <R>my father is</R> <SC>my father <F>um</F> is <R>con</R> concen</SC> my father <SC>was</SC> were concentrated to eat. <F>Ehh</F> <R>So</R> so he don't <R>listen</R> listen to me seriously.</B>
+<A>O K.</A>
+<B><F>Err</F> After we have lunch, <nvs>cough</nvs> <R>I'm</R> <F>ur</F> <R>I</R> I'm <R>full</R> <..></..> <F>mm</F> <.></.> full <F>mm</F> <SC>so</SC> but <R>my father</R> my father <F>mm</F> wallet is empty. <.></.> <F>Mm</F> <SC>I <..></..> so have</SC> <F>ur</F> <F>ehh</F> <SC>when <F>err</F> <R>we are</R> we are</SC> <F>mm</F> <..></..> <SC>we</SC> <F>er</F> then <R>I</R> I say him good bye. <F>Mm</F> <SC>I</SC> we go home. <.></.></B>
+<A>O K. All right. Thank you very much.</A>
+<B>Sorry.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>Now <H pn="B's name">XXX02</H>, this is almost the end of the interview. Now <F>urm</F> are you going to work late tonight?</A>
+<B><F>Mm</F> <.></.> Yes, perhaps.</B>
+<A><F>Uhh</F> Do you usually work,</A>
+<B>Yes.</B>
+<A>until very late?</A>
+<B><F>Mm</F> Recently, <SC>I <R>return</R> <F>mm</F> return</SC> <R>I</R> I return <F>mm</F> early. <R>But</R> <CO><OL>but</OL></CO>.</B>
+<A><OL>So</OL> it totally depends <R>on</R> on your job?</A>
+<B>Yes.</B>
+<A><F>Ohh</F></A>
+<B>Yes.</B>
+<A>I see. But don't work too hard.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. All right. Thank you very much. This is the end of the interview. Good.</A>
+</stage5>
+</body>
+</interview>

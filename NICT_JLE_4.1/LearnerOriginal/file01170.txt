@@ -1,0 +1,176 @@
+<interview>
+<filename>file01170.txt</filename>
+
+<head version="1.3">
+<date>2002-07-09</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uhu</F>. <F>Er</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><F>Uhu</F>. So <H pn="B's name">XXX02</H>, it's very hot today.</A>
+<B>Yes.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>I'm</OL> very tired. <nvs>laughter</nvs></B>
+<A>Yeah. Why are you so tired?</A>
+<B><F>Uum</F> because today, I have a class at university. <F>Er</F> and <R>I have something to buy</R> I have something to buy, so I go <SC>s</SC> department store, so I have to walk outside. So it's very hot.</B>
+<A>Yeah, <OL>it's very hot</OL>.</A>
+<B><OL>I'm very</OL> tired.</B>
+<A><F>Hum</F>. <F>Er</F> so are you a student?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. What do you study?</A>
+<B><F>Erm</F> <SC>I ma</SC> <F>um</F> Commercial Science.</B>
+<A><F>Uhu</F> <F>hum</F>.</A>
+<B>And today I study bookkeeping.</B>
+<A><F>Hum</F>. Why did you decide to study Commercial Science at the university?</A>
+<B><F>Hum</F> <F>er</F> actually <R>I</R> <.></.> I falled <R>the</R> the department I wanted to enter. So I can pass the test only Commercial Science. But <R>I</R> I interested in marketing. And I take the class of marketing, and it is interesting.</B>
+<A>I see. O K. So in your free time, what do you do?</A>
+<B><F>Uum</F> most of time, I meet my friends. Because <F>uum</F> the university is <R>very</R> <.></.> very big, so I can't meet friends <F>uum</F> <.></.> <F>um</F> without <SC>I ha</SC> we make promise. So we <.></.> <OL><??></??></OL>.</B>
+<A><OL>I see</OL>. <F>Hum</F>. <F>Er</F> do you live by yourself, or do you live with your family?</A>
+<B>With my family.</B>
+<A><F>Hum</F>. Tell me about your family.</A>
+<B><F>Uum</F> <R>I ha</R> I have a <SC>sister</SC> big sister, she is two years <R>old</R> older than I, and she go to the university, too. She majored in Law. <F>Err</F> <.></.> we are <R>good</R> good relationship and we shared our clothes <SC>and</SC> so we go to shopping together.</B>
+<A><F>Hum</F>.</A>
+<B>And <SC>my mother is</SC> my mother like go shopping, too. So <SC>me and</SC> I and my sister and my mother go shopping at holidays.</B>
+<A><F>Hum</F>.</A>
+<B>And my father is captain of the ship. So <SC>he isn't <F>er</F> stay</SC> <F>er</F> he <SC>sta</SC> don't stay home most of the time.</B>
+<A><F>Hum</F>. So how do you communicate with your father?</A>
+<B><F>Hum</F> sometimes I write letter or <F>uum</F> sometimes I called him, but <F>uum</F> <R>I</R> I communicate with him only few days in a year.</B>
+<A><F>Er</F> I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I want you to <F>er</F> look at this picture.</A>
+<B>Yes.</B>
+<A>And please describe this picture.</A>
+<B><F>Hum</F> <F>hum</F> the teacher taught them mathematics. <SC>And</SC> but most of the student <R>don't</R> <R>don't listen her</R> don't listen her. <F>Err</F> <R>some</R> <F>uum</F> some people talk together or <F>ee</F> drink or <F>uum</F> <.></.> <F>uum</F> <F>ee</F> <..></..> mailing. And <R>one</R> one student listen to her.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Erm</F> please compare this classroom with your own classroom in your high school days.</A>
+<B>High school. <F>Erm</F> my high school, we listen <SC>the c</SC> the teacher <F>uum</F> very well because <SC>the tea</SC> most of the teacher were very interesting so we enjoyed the class.</B>
+<A><F>Hum</F>.</A>
+<B><..></..></B>
+<A>Tell me about <F>er</F> the favorite teacher.</A>
+<B><F>Hum</F> <F>uum</F> especially language <F>uum</F> and <R>she</R> <SC>she come</SC> now <R>she</R> she comes our university to study an year and <R>we</R> we met her <R>some</R> sometime at university.</B>
+<A><F>Hum</F>.</A>
+<B><.></.> <R>Her</R> her class is <SC>very fun</SC>.</B>
+<A><F>Hum</F>.</A>
+<B>Very interesting.</B>
+<A>I see. <SC>Why was she so</SC> <F>er</F> why was her lecture so interesting?</A>
+<B><F>Uum</F> <R>she</R> she is strict to teach but kind to <F>uum</F> communicate us.</B>
+<A><F>Um</F>. O K. Thank youy very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><.></.> Now <F>er</F> we'd like to do a role-play. And I want you to read this card. This is written in Japanese. And after you finish reading, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes.</B>
+<A>Ready?</A>
+<B>Yes.</B>
+<A>Hi. <F>Er</F> may I help you?</A>
+<B><F>Um</F> <.></.> <F>ee</F>? I decide something to buy?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Ah</F> <SC>we ask</SC> <F>er</F> I want to get <F>erm</F> <R>um</R> umbrella to cut the sunshine.</B>
+<A><F>Hmm</F>.</A>
+<B>Yes.</B>
+<A>O K. Here are <R>many</R> many umbrellas. <nvs>laughter</nvs></A>
+<B><F>Um</F> I want white color one.</B>
+<A><F>Um</F>.</A>
+<B>Please show me the <SC>white colo</SC></B>
+<A><F>Uhu</F>.</A>
+<B>white one.</B>
+<A>O K. These three are the white</A>
+<B>Yes <R>what</R></B>
+<A>umbrellas.</A>
+<B>what the different of the three.</B>
+<A><F>Err</F> I think <SC>the quality is</SC> this one quality is best but very expensive. And this one <F>uum</F> so-so and price is <F>um</F> <laughter>so-so</laughter> and this one, very cheap. <F>Erm</F> that's maybe the <SC>diffe</SC> price difference.</A>
+<B>Yes. <F>Uum</F> I decided that one. The middle one.</B>
+<A><F>Hum</F>.</A>
+<B>Yes.</B>
+<A><F>Err</F> but this one is a little small.</A>
+<B><F>Oh</F> <F>uum</F> <R>but it</R> but it is too expensive for me and <R>the</R> the cheap one is maybe quality is not good.</B>
+<A><F>Uum</F>. But you didn't ask me the price.</A>
+<B><F>Oh</F>. How much <?>it fee</?>?</B>
+<A>O K. This is <F>erm</F> ten thousand yen. <F>Er</F> this is five thousand. And this is three thousand.</A>
+<B><F>Uum</F> <.></.> I have only six thousand, so <R>I</R> I decided to buy this one.</B>
+<A><R>O K</R> O K. So this is <?>the money</?> and this is your umbrella. O K. Thank you very much.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. So this is the end of the role-play. So you said you like <F>er</F> going shopping with your sister and your mother.</A>
+<B>Yes.</B>
+<A>Where do you usually go?</A>
+<B><F>Uum</F> at Ikebukuro or Sinjuku.</B>
+<A><F>Uhu</F>.</A>
+<B>And we <F>um</F> go to Marui.</B>
+<A><F>Hum</F>. Why do you like Marui?</A>
+<B><F>Uum</F> there are many brands <SC>to</SC> that I like, so.</B>
+<A><F>Hum</F>.</A>
+<B>And we can buy many things without going out. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. And when you <R>buy s</R> <F>er</F> buy something, how do you decide which one <OL>to buy</OL>?</A>
+<B><OL><F>Hum</F></OL> the price and the color. <F>Uum</F> so <SC>it</SC> the most of clothes is very expensive for me so <R>I</R> I go many times to the shop and choose the best one.</B>
+<A><F>Um</F>. And what is the advantage of going shopping with your sister and your mother?</A>
+<B><F>Uum</F> I can get advice <F>um</F> from them, and if it is not <SC>suit</SC> fit for me, they said it's not good.</B>
+<A><F>Uum</F>. I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Next, <F>uum</F> I want you make up a story based on these pictures from one to six. And <F>er</F> this happened last week, so please start your story with "One day last week," And just <SC>broke</SC> brief story is O K.</A>
+<B><F>Um</F> <..></..> <F>uum</F> <..></..> one day last week, <F>err</F> <.></.> <R>they</R> <.></.> <SC>they are</SC> <F>um</F> the old man is a teacher and he is a student. <R>They</R> <SC>they met</SC> <F>uum</F> <SC>they don't</SC> they haven't met long time and <SC>this</SC> that day, <SC>they meet</SC> they promised to take lunch. And <.></.> <F>ee</F> at the restaurant, <SC>he</SC> they ordered their favorite foods. And the <R>the young</R> <R>the young man</R> <F>ee</F> young man ate fish and the old man ate chicken. And after that, the old man paid the all money <SC>so he</SC> and <R>the young</R> <F>er</F> the young man is very happy. And after that, <SC>they go back</SC> they went back their each home.</B>
+<A>I see.</A>
+</task>
+<followup>
+<A><F>Um</F> tell me about the last time you ate at a restaurant.</A>
+<B><F>Um</F> <F>er</F> yesterday</B>
+<A><F>Hum</F>.</A>
+<B>at lunch. <F>Uum</F> <F>ee</F> there is near <SC>the</SC> my university, and <SC>my</SC> always there are many of my circle members. So I go there twice a week.</B>
+<A><F>Uhu</F>.</A>
+<B>And the food is very delicious.</B>
+<A><F>Uhu</F>. I see. What kind of food do you like?</A>
+<B><F>Uum</F> I think the best one is <JP>omu hayasi</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <laughter>What is that</laughter>?</A>
+<B><F>Uum</F> it's <F>um</F> <.></.> rice and covered egg and the beef sauce. And it's very good. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL>. How's the price?</A>
+<B><F>Uum</F> it's seven hundred fifty yen. But it's very big</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>so</OL> I shared with friends.</B>
+<A><F>Hum</F>.</A>
+<B>So the price is half.</B>
+<A><F>Um</F>. I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Er</F> this is almost the end of today's interview. And what are you going to do after this interview?</A>
+<B><F>Er</F> I have to study because <F>er</F> on Thursday, I have a test.</B>
+<A><F>Um</F>. That's the day after tomorrow. <nvs>laughter</nvs></A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><F>Erm</F> so you have to study.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. I see. Is it going to be very hard?</A>
+<B><SC>Maybe <R>not</R> not</SC> maybe easy test.</B>
+<A><F>Oh</F>. O K. <F>Um</F> <R>I</R> I hope <R>you</R> you can do well. <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>O K. Thank you very much for coming. <OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,189 @@
+<interview>
+<filename>file00034.txt</filename>
+
+<head version="1.3">
+<date>1999-12-17</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL>513</TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>landlord_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ahh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K. So <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Ah</F> good. But <?>a bit</?> sleepy.</B>
+<A><laughter>Sleepy</laughter>?</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+<A><OL>Why</OL>?</A>
+<B>I don't know. <F>Ah</F> I think I had enough sleeping time, but I don't think it's good time <F>ah</F> to get up.</B>
+<A><F>Ah</F> <nvs>laughter</nvs> I see. All right. So <H pn="B's name">XXX02</H>, <F>ah</F> can you tell me about yourself?</A>
+<B><F>Ah</F> O K. So I'm <F>um</F> junior <H pn="school name1">XXX03</H> <F>um</F> commercial department, and now <F>umm</F> I'm major in <F>umm</F> <F>umm</F> manager accounting. So, I will study it in detail from next year. And now I am joining the club of amateur radio. It's in science division.</B>
+<A>I see.</A>
+<B>So I've been <F>um</F> enjoying amateur radio club <F>mm</F> when I was junior high school.</B>
+<A><F>Oh</F>. So a long history. <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL>Yeah</OL>. Kind of.</B>
+<A>I see. So <R>I</R> I am not familiar with this amateur <OL>radio club</OL>.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>Can you describe it for me?</A>
+<B><F>Uh-huh</F> O K. <F>Um</F> of course, it's a club of amateur radio, and <.></.> <F>umm</F> to enjoy amateur radio, we need to get license <F>um</F> because <F>um</F> we use public <F>um</F> radio wave, and after you get the license of amateur radio, you can enjoy, and <F>mm</F> at first you need <F>uh</F> antenna and <F>nn</F> transceiver, <.></.> and yeah. I think <R>that's</R> that's it. <OL><CO>And</CO></OL>.</B>
+<A><OL>I see</OL>. So what made you become interested in this?</A>
+<B><F>Umm</F> O K. <F>Um</F> I think so one interest is <.></.> to speak to other people, and <SC>the</SC> <.></.> <F>nn</F> another interest is <F>umm</F> <R>ex</R> experiment. So, we can make <F>mm</F> antenna or transceiver <F>n</F> by ourselves, so unlike telephones we can use our own stuff. So, it's our major interest.</B>
+<A>I see. <F>Hum</F>. Sounds very interesting but difficult <laughter>maybe</laughter>.</A>
+<B><F>Ah</F> but it's just a hobby so.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>We don't have to study so much.</B>
+<A><F>Um</F>. I see. All right. Very good. <F>Ah</F> <R><H pn="B's name">XXX02</H></R> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Umm</F> I live in <H pn="others1">XXX04</H>.</B>
+<A><F>Aa</F>. <F>Ah</F> were you born there?</A>
+<B><F>Ah</F> no. So actually, I was born in <H pn="others2">XXX05</H>.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>And I moved to <H pn="others1">XXX04</H> when <F>umm</F> I was in kindergarten.</B>
+<A><F>Ah</F>. So, how do you like <H pn="others1">XXX04</H>?</A>
+<B>So I think that <H pn="others1">XXX04</H> is a best town so far.</B>
+<A>Yes.</A>
+<B>So <H pn="others1">XXX04</H> is of course <F>um</F> city but <F>um</F> not so big <F>um</F> like <F>um</F> <H pn="others3">XXX06</H> or <H pn="others4">XXX07</H>. So we also have nature like <H pn="others5">XXX08</H> park. So in <H pn="others1">XXX04</H>, we have <F>um</F> cities, <F>n</F> so many shops and also nature. So <R>it's a</R> it's a good point of <H pn="others1">XXX04</H>.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. <F>Hum</F> all right, thank you very much. Now let's move onto the next stage. <F>Ah</F>.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>I want you to look at this picture</A>
+<B><F>Mhm-huh</F>.</B>
+<A>And describe it for me.</A>
+<B>O K. So I think there it's a scene of the party. So maybe dinner. And there are <F>umm</F> three couples <F>uh</F> enjoying dinner. And one lady is playing the piano. So I think it's classic. And the <R>boy</R> <F>uh</F> boy brought the <.></.> champagne or wine. <F>Ah</F> I guess it's a Beaujolais Nouveau, <laughter>maybe</laughter>. Yeah, and <.></.> let's see. <.></.> <F>Ahm</F> one couple <F>uh</F> don't begin to eat yet. Maybe, so they are just <F>mm</F> enjoying their <F>er</F> first wine. So probably, <F>ah</F> they'll start to eat after drinking. <F>Uh</F> let's see. So, but <F>umm</F> nobody <F>nn</F> is dancing, so maybe <F>um</F> this party is held in Japan.</B>
+<A>O K. <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+<A>Very good observation.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Do you like to party?</A>
+<B>Yeah, <OL>I like</OL>.</B>
+<A><OL>Yes</OL>? <F>Ahh</F> so, can you describe how different your party is from this party?</A>
+<B>So <F>umm</F> I like American style party. <CO><R>So</R> so I like dancing <.></.> or music or</CO>.</B>
+<A>I see. So <F>uh</F> have you ever lived in the United States?</A>
+<B>So I have stayed in the States for one year. So at that time, I joined many party.</B>
+<A>I see. So, <F>uh</F> what did you find most <F>ah</F> different from Japanese <F>um</F> culture?</A>
+<B><F>Um</F> <F>um</F>. You mean, O K. So I think the big difference between Japanese and American culture is <F>umm</F> <.></.> <F>um</F> whether you can do <F>umm</F> <F>ah</F> what you like or not. So in Japan, <F>ah</F> when you <F>a</F> play your own interest <SC>so much because</SC> <F>um</F> <F>ah</F> no so much, maybe so other people don't like you because so there is no <F>mm</F> topic to speak or something. So we sometimes call <F>um</F> such people <JP>otaku</JP>, and I don't think so. It's not word to respect, <F>uh</F> although <SC>they are</SC> they specialize in <F>ah</F> some hobby or interest. <CO>But in the States, we can <.></.> do our own interest, our own hobby, so without <F>um</F> <.></.> <F>umm</F> you know</CO>. O K. <F>Umm</F> I think in the States as long as <F>umm</F> <F>uh</F> we don't prevent <F>um</F> other's hobby or profit in the States, we can do anything. So, I think it's a big difference.</B>
+<A>O K. Yes, that's a good point. <F>Um</F>. All right, thank you.</A>
+<B>Yeah.</B>
+</followup>
+</stage2> 
+<stage3>
+<task>
+<A>Now, <F>uh</F> I want you to read this card and we will do a role play.</A>
+<B><F>Mhm-huh</F>.</B>
+<A>O K? When you are ready, let me know.</A>
+<B><F>Ah</F> O K.</B>
+<ctxt>The interviewee is reading a card and thinking of what to say.</ctxt>
+<B>O K.</B>
+<A>O K? Ring ring. Hello.</A>
+<B><F>Ah</F> hello, so <R>I've</R> I've just now came back to my home, but I found so my <F>m</F> windows are broken.</B>
+<A><F>Uh</F> it's too bad.</A>
+<B>Yeah. It's too bad. So as you know, so it's winter so it's too cold, so I can't endure <F>nn</F> such cold environment, so <R>I</R> I would like you to repair the windows as soon as possible.</B>
+<A><F>Umm</F> <F>well</F> yes. But I'm busy at the moment.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Ah</F></OL> the problem is because it's the end of the year, I need to do a lot of <OL>clean ups</OL>.</A>
+<B><OL><F>Ah</F></OL> yeah. I know so you are so busy, but I can't sleep <F>um</F> <.></.> <SC>such a</SC> in such a environment.</B>
+<A><F>Aah</F> <F>well</F> <OL><F>ummm</F></OL>.</A>
+<B><OL>So, maybe</OL> <SC>I will be</SC> <F>um</F> I will catch a cold.</B>
+<A><F>Um</F>. I see. <F>Ahm</F> did you try to cover up?</A>
+<B>Yeah. So I tried <F>ah</F> to cover so by papers, but it doesn't <F>um</F> work. So, still cold.</B>
+<A><F>Ummm</F> that's too bad. <F>Well</F> you know <SC>d</SC> <SC>w</SC> right now we have water problem, and I have to take care of it right away. Otherwise, the whole apartment will be wet.</A>
+<B>Yeah. It's problem. <F>Umm</F>.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Let's see. So <.></.> <F>mmm</F> but so after you <F>eh</F> repair the water problem, so could you <F>mmm</F> repair my windows?</B>
+<A>O K, yeah, sure. <F>Ah</F> maybe I can come <F>ahh</F> tomorrow.</A>
+<B><F>Ah-huh</F>.</B>
+<A>Is that O K?</A>
+<B>Yeah, so, O K, so, I try to ask <F>um</F> somebody <F>n</F> to sleep in their room tonight.</B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> Sorry about that.</A>
+<B>O K, thank you.</B>
+<A>O K. Bye-bye.</A>
+<B>Bye.</B>
+</task>
+<followup>
+<A>All right. Has something like this ever happened to you?</A>
+<B><F>Ahh</F> no.</B>
+<A>No? No problem with your home or?</A>
+<B><F>Oh</F> yeah. There are many problem.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So at my house, <F>um</F> there are so many insects. So in summer,</B>
+<A><F>Ah-huh</F>.</A>
+<B>so <.></.> there is one <F>mm</F> special insect, so we call <F>uu</F> <JP>Himekatsuobushimushi</JP>.</B>
+<A><OL><laughter><F>Ah</F> O K</laughter></OL>.</A>
+<B><OL>I don't think</OL> it not so popular one, but it's pretty small bug and <F>mm</F> black one. And <SC>they have</SC> <F>umm</F> <F>ah</F> they can fly, but they don't try to fly so much. So they usually <F>uh</F> stick to white stuff.</B>
+<A>Really.</A>
+<B><R>So</R> so we can find them in soap or towel, the front of <F>mm</F> refrigerator, the pillow.</B>
+<A><F>Oh</F> really.</A>
+<B>Yeah, it's so weird.</B>
+<A>Yeah. I see. <F>Well</F> I hope you will not have this <laughter><OL>problem next summer</OL></laughter>.</A>
+<B><OL><nvs>laughter</nvs></OL>. Yeah.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. All right. Now finally, <F>Ah</F> O K, please look at the pictures. Now, I want you to <F>uh</F> describe the pictures in a short story. O K? This happened in one day. And please start your story <F>ah</F> with "One day last week".</A>
+<B><F>Mhm-huh</F>. O K.</B>
+<ctxt>The interviewee is looking at the picture and thinking of what to say.</ctxt>
+<B><F>Um</F>. <..></..> <F>Um</F>. O K. <F>Um</F> so one day last week, <F>umm</F> I drove <F>umm</F> along the beach side,</B>
+<A>O K.</A>
+<B><F>Um</F> but <F>um</F> at that time, I had a terrible accident. So, one <F>mm</F> rider <F>ah</F> bumped into my car. And unfortunately, <F>uh</F> I attacked <F>uh</F> his bike. So as a result, so his bike <F>umm</F> broke. So of course, <F>umm</F> he got angry so much, but I also got angry so because so my cart <SC>are broken</SC> were broken, too. So <F>ah</F> we <F>mmm</F> we quarreled so much. But <F>um</F> we realized we couldn't <F>uh</F> solve the problem. So finally, <F>um</F> we called the <F>uh</F> police. Then, <F>ah</F> we talked a lot. <F>Umm</F> so but <F>uum</F> we didn't find the result, <SC>so because</SC> so police said so <.></.> he would tell us the result later. But <F>uh</F> <F>um</F> <R>we can't</R> <F>umm</F> <F>uh</F> we can't change the result our bikes and cars are broken. So <SC>cars us</SC> <F>uu</F> <SC>our car</SC> <F>ah</F> no <F>um</F> my car is so big <SC>but</SC> <F>uh</F> and the engine still work. So I can <F>n</F> <SC>back</SC> <F>um</F> go back to home. But his bike <SC>is</SC> <F>mm</F> <SC>doesn't work</SC> didn't work <SC>yet</SC> <F>ah</F> no already, something. <R>So</R> so we can't help but <F>umm</F> we need to <F>um</F> deal with <F>ah</F> his broken bike. So we called to the <F>ah</F> repair center. And he came here. So it took one hour, so we waited so much. And as a result, <F>ah</F> <R>he</R> <F>umm</F> he said good bye to his bike, and <.></.> but <R>I can't</R> <F>mmm</F> I can't leave him alone, so I felt <F>uh</F> sorry a little, so <.></.> I allowed him to <F>uh</F> get on board <F>uh</F> to my car. So <F>ah</F> we had <R>a</R> <F>uh</F> a terrible accident, but after that, we enjoyed <F>uh</F> the drive together. So <F>uh</F> since this accident, <F>ah</F> we had been a good friend.</B>
+</task>
+<followup>
+<A><F>Oh</F> O K. All right. Very good. Now, <F>uhh</F> do you have driver's license?</A>
+<B><F>Ah</F> yes, <OL>I have</OL>.</B>
+<A><OL>Yes</OL>? Have you ever encountered an accident?</A>
+<B><F>Uh</F> not yet.</B>
+<A>Not yet?</A>
+<B>Yeah, fortunately.</B>
+<A>O K. Have you ever seen an accident?</A>
+<B><F>Ah</F> I have seen the accident of <F>ah</F> motor <OL>bike twice</OL>.</B>
+<A><OL><F>Ah</F></OL> I see. Can you describe it for me?</A>
+<B><F>Uh</F> so actually, so one accident was in <H pn="others3">XXX06</H>. So <.></.> the bike <F>ah</F> <F>u</F> <F>um</F> couldn't stop, so actually and in front of the bike, <F>ah</F> <R>one</R> one car <F>uu</F> acrosses so quickly. So as a result, bike didn't stop and <R>cra</R> crashed. Yeah.</B>
+<A>I see.</A>
+<B>But <F>uh</F> <R>the dri</R> <SC>the driver</SC> a rider so was alive.</B>
+<A><F>Um</F>. That's good.</A>
+<B>And the other <F>um</F> happened <F>um</F> this week, maybe.</B>
+<A>Really.</A>
+<B>Yeah. So I think the situation <F>umm</F> was almost same, so the rider couldn't stop.</B>
+<A>I see. <F>Uh</F> what do you think is <R>the</R> the appropriate procedure</A>
+<B><F>Mhm-huh</F>.</B>
+<A>when there is an accident?</A>
+<B><F>Uh</F> so you mean so people around the accident?</B>
+<A><F>Uh</F> no. If you have an accident, what do you need to do?</A>
+<B><F>Um</F>. So if <F>umm</F> I were a rider, <.></.> <F>umm</F> <.></.> <SC>I</SC> maybe so I couldn't do anything because <F>umm</F> maybe <R>I</R> I'm injured.</B>
+<A><F>Uum</F>.</A>
+<B>So <SC>I need to</SC> <F>uh</F> I need help. But if I have the driver, <.></.> so it's not good to idea to leave him alone, so I need to call the police or <F>uh</F> of course hospital.</B>
+</followup>
+</stage4>
+<stage5>
+<A>That's right. O K. Very good. <F>Well</F> this is almost the end of the interview.</A>
+<B><F>Mhm-huh</F>.</B>
+<A><F>Um</F>. What is your plan for the New Years?</A>
+<B>New Year? <F>Nn</F>. So New Year, I think so I am going to <JP>Meiji Jingu</JP> to pray so with my friends.</B>
+<A>All right. So have a nice holiday.</A>
+<B>Yeah.</B>
+<A>And <F>uh</F> I hope you will eat well on <laughter>New Year's <OL>day</OL> and enjoy</laughter>.</A>
+<B><OL><nvs>laughter</nvs></OL>. Yeah.</B>
+<A>All right. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

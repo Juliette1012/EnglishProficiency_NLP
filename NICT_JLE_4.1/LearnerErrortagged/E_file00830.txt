@@ -1,0 +1,231 @@
+<interview>
+<filename>E_file00830.txt</filename>
+
+<head version="1.3">
+<date>2002-02-12</date>
+<sex>male</sex>
+<age>41</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yeah <F>ah</F> I'm <F>ah</F> <H pn="B's name">XXX02</H>.</B>
+<A>O K, Mister?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A><R><H pn="B's name">XXX02</H></R> <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <F>Um</F> where do you live?</A>
+<B><F>Ah</F> <R>I</R> I <R>li</R> live in Shizuoka Prefecture.</B>
+<A>Shizuoka?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>.</A>
+<B>And <F>ah</F> I live in <F>ah</F> Yaizu City.</B>
+<A>Yaizu?</A>
+<B>Yaizu.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Ah</F></OL> do you know Yaizu? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Actually</OL>, I've never been there. <nvs>laughter</nvs></A>
+<B>Yeah.</B>
+<A>Can you tell me about the town?</A>
+<B><F>Oh</F> <F>umm</F> <nvs>sniff</nvs> <F>um</F> <laughter>sorry</laughter>, <F>ah</F> <JP><F>etto</F></JP> <F>ah</F> <R>my</R> my town is famous <prp_lxc2 odr="1" crr="for"></prp_lxc2> <JP><F>etto</F></JP> <F>ah</F> <JP><R>katsuo</R></JP> <JP>katsuo</JP>. <JP><F>etto</F></JP> <F>Mm</F>. <SC>What to say</SC> <o_uk odr="1" crr="what do you call katsuo in English">what speak English <JP>katsuo</JP></o_uk>? <F>Er</F> like a tuna. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B><F>Ah</F> sorry, I don't know.</B>
+<A><F>Mm-hum</F>.</A>
+<B><SC>I</SC> <F>um</F> <.></.> <SC>and</SC> <F>er</F> <nvs>sniff</nvs> <F>um</F> <JP>nandaro ato nanika yuumeikana</JP> <nvs>laughter</nvs> <JP>wakarimasen</JP>. <nvs>laughter</nvs></B>
+<A>So, <SC>you</SC> do you live there with your family?</A>
+<B><SC>No</SC> <F>ah</F> yes. <F>Ah</F> only my wife.</B>
+<A><F>Mm-hum</F>. Can you tell me about your wife?</A>
+<B><F>Ah</F> my wife? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B>O K. <F>Oh</F> <R>wife's name is</R> <pn_lxc odr="1" crr="my"></pn_lxc> wife's name is <H pn="others1">XXX03</H>.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Ah</F> <R>thirty-seven</R> thirty-seven years old. <CO>And</CO>. <F>Er</F> <nvs>sniff</nvs> <F>umm</F> <.></.> <JP><F>etto</F></JP> <JP><F>are</F></JP> <JP>nandaro</JP> <..></..> <laughter><F>oh</F></laughter> <JP>nanteieba indarona</JP> <.></.> <JP>sonnamonkana</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Do you know her</OL> hobbies? <nvs>laughter</nvs></A>
+<B><F>Er</F> my hobby?</B>
+<A>Your wife's hobbies. <nvs>laughter</nvs></A>
+<B><F>Ah</F> my wife's hobby <JP>da</JP>. <OL><F>Oh</F></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Eh</F> maybe, <F>ah</F> walking.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Ah</F> <SC>walking <SC>and</SC> <F>ah</F> <R>around <F>ah</F> <F>umm</F> my</R> around my <nvs>sniff</nvs> house</SC> <F>ah</F> usually, <SC>he</SC> <F>er</F> walking around <pn_agr odr="1" crr="our">my</pn_agr> house. <R>And</R> <F>ah</F> <F>umm</F> and <F>ah</F> <prp_lxc1 odr="1" crr="on">at</prp_lxc1> <F>ah</F> <SC>weekend</SC> <at odr="3" crr="">the</at> <n_num odr="2" crr="weekends">weekend</n_num>, <F>er</F> <SC>we walk</SC> <SC>we will walk</SC> <F>er</F> <SC>we</SC> usually, <R>we</R> we go to <F>oo</F> <F>oo</F> <JP><F>ootto</F></JP> <SC>mountain and</SC> <F>er</F> <at odr="4" crr="a"></at> mountain but a <R>low</R> <R>low</R> <R>low</R> <SC>low</SC> not <at odr="5" crr="a"></at> high mountain.</B>
+<A><F>Mm-hum</F>.</A>
+<B>Yeah.</B>
+<A><F>Oh</F> that's nice. O K. How do you usually spend your free time?</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>Your free time</OL>.</A>
+<B>My free <OL>time</OL>?</B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B>O K. <JP><F>Etto</F></JP> I watch T V, or <nvs>laughter</nvs> I play tennis.</B>
+<A><F>Mm-hum</F>. So you said you like watching T V. <OL><F>Ah</F></OL>.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>Tell me about your favorite T V program.</A>
+<B><F>Oh</F> <F>hmm</F> <at odr="1" crr="a"></at> Japanese traditional <F>umm</F> program. <F>Umm</F> <at odr="1" crr="the"></at> Japanese name is <JP>jidaigeki</JP>. <nvs>laughter</nvs></B>
+<A><F>Mm-hum</F>.</A>
+<B><JP>Teiunokana</JP>. <nvs>laughter</nvs></B>
+<A>What's so good about that program?</A>
+<B><F>Eh</F> <nvs>laughter</nvs> <F>aahh</F> <JP>nandaro</JP> <R>I</R> <R>I</R> <R>I</R> <laughter><SC>I</SC></laughter> <o_uk odr="1" crr="the only program that I recommend you is Mitokoumon">only <F>umm</F> <JP><F>maa</F></JP> <R>I</R> I recommend you <JP>Mitokoumon</JP></o_uk>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. <F>Ah</F> so, your office <OL>is</OL> in Yaizu?</A>
+<B><OL>Yes</OL>. Yes.</B>
+<A>So, what do you do?</A>
+<B><nvs>sigh</nvs> Very busy and <F>ah</F> <nvs>sniff</nvs> <F>umm</F> <R>my office</R> <o_uk odr="1" crr="there are many people working in our office">my office is <F>umm</F> many people <F>er</F> live <SC>in my room</SC> <F>ah</F> <R>in</R> <R>in</R> in our room</o_uk>. So very noisy. <nvs>laughter</nvs></B>
+<A><laughter>Really</laughter>?</A>
+<B><laughter>Yes</laughter>.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Mm-hum</F> I see, O K. Now I'd like to show you a picture. <F>Mmm</F>. Let's see. O K. Please describe this picture.</A>
+<B><F>Oh</F> O K <.></.> I think <nvs>sniff</nvs> this room is <F>er</F> <R>her</R> <F>ah</F> her room. <F>Ah</F> <..></..> <F>oh</F> <JP><F>de</F></JP> <JP><F>eh</F></JP>. <SC>She <F>eeee</F> <R>gi</R> <R>gi</R> <R>gi</R> gi</SC> <nvs>sniff</nvs> <JP>nante ieba iindarouna</JP>, <.></.> <F>ah</F> <.></.> <F>umm</F> she <v_agr odr="1" crr="lives">live</v_agr> with <at odr="2" crr="a"></at> cat and <at odr="3" crr="a"></at> dog. And <SC>she <F>um</F> have</SC> she has a <SC>pri</SC> personal computer and <at odr="1" crr="a"></at> typewriter <F>er</F> and <at odr="3" crr="an"></at> audio <n_lxc odr="2" crr="set">kit</n_lxc> <F>ah</F> and a telephone. <nvs>laughter</nvs></B>
+<A><F>Mm-hum</F>.</A>
+<B>Yeah, O K. <CO>And</CO>. <F>Er</F>. <..></..> O K. <F>Oh</F> <JP><F>de</F></JP>. <CO>This</CO>. <F>Umm</F>. <.></.> <JP>Ato naniwo setsumeisurundesuka</JP>? <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>Anything's O K</OL>. <nvs>laughter</nvs> O K. <F>Um</F>. Do you have pets?</A>
+<B><F>Eh</F> <F>eh</F>? <OL>Pardon</OL>?</B>
+<A><OL>Do you have pets</OL> like <OL><at odr="1" crr="a"></at> dog, <at odr="2" crr="a"></at> cat</OL>?</A>
+<B><OL><F>Ah</F></OL> I don't know, <F>ah</F> I don't know. <JP>Janai</JP>. <R>I don't have</R> I don't have <at odr="1" crr="a"></at> pet.</B>
+<A>You don't like animals?</A>
+<B><av_lxc odr="1" crr="Yes">No</av_lxc>, I like <F>mm</F> animals, but <F>ah</F> <nvs>sniff</nvs> <SC>animal is very <F>mm</F> <JP><F>etto</F></JP> <JP><R>temakakaru</R></JP> <JP>temakakaru</JP> very</SC> <F>ee</F> <JP>nanteiu</JP>, <.></.> <JP><F>unto</F></JP> <F>ah</F> sorry, <F>ah</F> <F>mm</F> <SC>animal is</SC> <F>ah</F> <SC>in Japanese</SC> <F>er</F> <SC>animal</SC> <F>um</F> <F>er</F> <JP><F>etto</F></JP> <v_fin odr="2" crr="traveling">travel</v_fin> with <at odr="3" crr="an"></at> animal is very <F>um</F> difficult.</B>
+<A><F>A-ha</F>.</A>
+<B><F>Ah</F> my parents <F>er</F> <v_agr odr="1" crr="live">lives</v_agr> in Kagoshima, so I <JP><F>etto</F></JP> return <R>to my hou</R> to my <JP><F>etto</F></JP> house <F>eh</F> every <n_num odr="2" crr="year">years</n_num>.</B>
+<A><F>Ah</F> every <OL>year</OL>.</A>
+<B><OL>Yes</OL>. So I <nvs>sniff</nvs> don't have <at odr="1" crr="an"></at> animal.</B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much. Now I'd like to try a role-play. Please read this. And when you're ready, I'll start.</A>
+<B><F>Eh</F> <prp_lxc1 odr="1" crr="in">by</prp_lxc1> English?</B>
+<A><F>Oh</F> no, no. Just <v_cmp odr="1" crr="read it">read</v_cmp> silently.</A>
+<B>Yeah. <F>Ah</F>. O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Um</F>.</B>
+<A>Ready?</A>
+<B>Yeah.</B>
+<A>O K. May I help you?</A>
+<B><.></.> <F>Ah</F> <F>ha</F> <F>ha</F> <F>ha</F> O K. <nvs>sniff</nvs> O K. <..></..> O K. <R>Could you tell me how</R> <F>ah</F> <SC>could you tell me how about</SC> <F>ah</F> <JP>chigauna</JP>, <.></.> could you tell me <SC>how buy</SC> <F>mm</F> <R>how</R> how <v_fin odr="1" crr="to buy">buy</v_fin> <F>ee</F> <at odr="2" crr="a"></at> train ticket?</B>
+<A><F>Oh</F> you can buy tickets here.</A>
+<B>Yes.</B>
+<A>I sell tickets.</A>
+<B><F>Mm</F> O K. <SC>Could you</SC> <F>uuum</F> so, could you <v_lxc odr="1" crr="give">buy</v_lxc> me a <F>eh</F> train ticket to New York?</B>
+<A><F>Mm-hum</F>. But we have many trains.</A>
+<B><F>Oh</F> O K. <JP><F>Etto</F></JP> <F>mm</F> <SC>earliest train</SC> <R>what</R> what time <o_uk odr="1" crr="does the earliest train leave this station">leave earliest train <OL>this station</OL></o_uk>?</B>
+<A><OL>Earliest train</OL>? The next train</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>will</OL> leave in <F>er</F> one minute.</A>
+<B>One minute?</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Oh</F> no. <F>ah</F> <R>next train</R> <F>ah</F> <JP><F>etto</F></JP> <o_uk odr="2" crr="what time does the next train leave"><at odr="1" crr="the"></at> next next train is <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>what time leave</o_uk>?</B>
+<A>O K, in <F>um</F> ten minutes.</A>
+<B>Ten minutes.</B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B><OL>O K</OL>. Could you <F>er</F> <F>hum</F> <v_lxc odr="1" crr="give">send</v_lxc> me <F>eh</F> <at odr="2" crr="the">this</at> train ticket?</B>
+<A>But that train is a local train. Is that O K?</A>
+<B><F>Oh</F> <R>no</R> <R>no</R> no. <JP><F>Etto</F></JP> <SC>fastest train is</SC> <SC>I want to</SC> <F>oo</F> <R>I want</R> I want to <F>oo</F> <F>oo</F> <JP><F>are</F></JP> <SC>leave</SC> <JP>janai</JP> arrive at New York <o_lxc odr="1" crr="as soon as possible">at fastest</o_lxc>.</B>
+<A><F>Mm-hum</F> O K, we have super-express train.</A>
+<B>Yeah. <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B>Super-express.</B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B><OL>Yes</OL>. I want <F>eh</F> <SC>super-expre</SC> <R>su</R> <at odr="1" crr="a"></at> super-express train ticket.</B>
+<A><F>Mm-hum</F>.</A>
+<B>Yeah. <F>Ah</F> <.></.> how much, yeah, <v_lxc odr="1" crr="is"></v_lxc> <at odr="2" crr="the"></at> ticket fee?</B>
+<A>Eighty dollars.</A>
+<B>Eighty dollars. O K. <F>Umm</F> <nvs>sigh</nvs> <nvs>sniff</nvs> <OL>O K</OL>.</B>
+<A><OL>One</OL> ticket is O K?</A>
+<B>Yes, one ticket, please.</B>
+<A>Here's your ticket. Have a nice trip to New York.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. O K. <F>Um</F> <nvs>laughter</nvs> Do you often travel by <n_num odr="1" crr="train">trains</n_num>?</A>
+<B><F>Eh</F> sorry? <OL>Pardon</OL>?</B>
+<A><OL><R>Do you</R></OL> do you often travel by train?</A>
+<B>Open?</B>
+<A>Do you often?</A>
+<B>Often.</B>
+<A>Travel?</A>
+<B>Yes <F>er</F>.</B>
+<A>By train?</A>
+<B>Yes. <F>er</F> <SC>in Japanese</SC> <nvs>laughter</nvs></B>
+<A><F>Mm-hum</F>.</A>
+<B>in Japan.</B>
+<A><F>Mm-hum</F>.</A>
+<B>Yes. <nvs>sigh</nvs> <laughter><JP>suimasen chotto kyukei sasete kudasai</JP></laughter> <..></..> O K. <OL>O K</OL>.</B>
+<A><OL>O K, so</OL> <SC>you often</SC> you said you often visit your parents.</A>
+<B><F>Ah</F> <F>ah</F> <R>I</R> <R>I</R> <R>I</R> <F>mhmm</F> <F>er</F> I <v_tns odr="1" crr="go">went</v_tns> to <F>er</F> Kagoshima <F>um</F> <SC>meet</SC> to meet my parents. I use <F>er</F> <at odr="1" crr="a"></at> train and <F>er</F> <at odr="2" crr="an"></at> airplane.</B>
+<A><F>Mm-hum</F>.</A>
+<B>Because <F>eh</F> Kagoshima is, <SC>very</SC> <F>ee</F> <JP><F>etto</F></JP> <JP><F>etto</F></JP> <JP>nanda</JP>, very <JP><F>etto</F></JP> <F>ah</F> <JP>chigauna kotobaga detekonakunachatta</JP> <.></.> <aj_lxc odr="1" crr="far">long distance</aj_lxc>. <nvs>laughter</nvs></B>
+<A><F>Mm-hum</F>.</A>
+<B>Yes. <R>So</R> so <nvs>sniff</nvs> I <v_tns odr="1" crr="use">used</v_tns> <F>eh</F> <R>airpla</R> <at odr="2" crr="an"></at> airplane <F>er</F> from Nagoya City.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Eh</F> Shizuoka Prefecture <F>eh</F> <R>ha</R> <v_ng odr="2" crr="does not have"><v_agr odr="1" crr="has">have not</v_agr></v_ng> <F>eh</F> <JP><F>etto</F></JP> <F>oh</F> <at odr="3" crr="an"></at> airport.</B>
+<A><F>Oh</F>.</A>
+<B>So I <v_cmp odr="2" crr="use a train">use to <at odr="1" crr="a"></at> train</v_cmp>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Oh</F> I see. O K. Now I'd like to show you another picture. O K. This is <at odr="1" crr="a">the</at> picture story, so, please make a story based on these pictures from one to four. O K?</A>
+<B><F>A-ha</F> O K. <nvs>sigh</nvs> <..></..> <F>Mm</F>. <.></.> O K. <R>I went to</R> <F>ah</F> <R>I went to</R> I went to <at odr="1" crr="a"></at> movie <F>eh</F> with my friend. <nvs>sniff</nvs> <JP><F>De</F></JP> <JP><F>etto</F></JP> <prp_cmp odr="1" crr="before watching">before watch</prp_cmp> <at odr="2" crr="a"></at> movie, <SC>I</SC> <F>mm</F> we <v_tns odr="3" crr="bought">buy</v_tns> <F>eh</F> popcorn and a Coke. <F>Ah</F> <nvs>sigh</nvs> <JP>Yon wa nandarouna kore</JP>. <.></.> <at odr="1" crr="The"></at> <cap odr="2" crr="movie" ch="1">Movie</cap> story was, <F>eh</F> <SC>airplane accide</SC> <F>eh</F> <JP>chigauna</JP>, <prp_lxc1 odr="3" crr="about"></prp_lxc1> <at odr="5" crr="a"></at> <n_lxc odr="4" crr="survival">recovery</n_lxc> <prp_lxc1 odr="6" crr="from">of</prp_lxc1> <at odr="7" crr="an"></at> airplane <laughter>accident</laughter>, <nvs>laughter</nvs> yeah. <F>Eh</F> <F>mm</F> <at odr="1" crr="the"></at> movie <v_tns odr="2" crr="was">is</v_tns>, <SC>very fantastic</SC> <F>mm</F> <JP>soukana chigauna</JP>, <SC>very fantastic</SC> very exciting and fantastic. Yeah. <F>Eh</F> that's all. <nvs>laughter</nvs></B>
+<A><F>Mm-hum</F>.</A>
+<B><OL>O K</OL>.</B>
+</task>
+<followup>
+<A><OL>O K</OL>. Thank you very much. Do you like movies?</A>
+<B>Yes.</B>
+<A><F>Mm-hum</F>.</A>
+<B><R>I like</R> <F>ah</F> <SC>I like <R>a</R> <SC>a</SC> <F>um</F> some kind of</SC> <F>um</F> <F>ah</F> <JP>chigauna</JP> I like Hayao Miyazaki's movies.</B>
+<A><F>Mm-hum</F>.</A>
+<B>And <F>ah</F> <SC>very</SC> <nvs>sniff</nvs> a kind of, <JP>nandaro</JP>, <n_num odr="1" crr="fantasies">fantasy</n_num>.</B>
+<A><F>Mm-hum</F>.</A>
+<B>Like "Harry Potter". <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>A-ha</F></OL>. I see.</A>
+<B><F>Mm</F>. <nvs>sniff</nvs></B>
+<A><F>Ah</F> which do you prefer, going to the theater or renting videos?</A>
+<B><F>Ah</F> <F>mm</F> usually, <SC>I went</SC> I go to <at odr="1" crr="the"></at> theater.</B>
+<A><F>Hmm</F>. Why is that?</A>
+<B><OL>Yeah</OL>?</B>
+<A><OL>Why</OL> do you prefer going to the theater? I think it's more expensive.</A>
+<B>Yes. <SC>Very expan</SC> very expensive.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Mm</F> so <SC>very</SC> <F>mm</F> <F>ah</F> <F>ah</F> <nvs>sniff</nvs> <n_lxc odr="1" crr="once">one time</n_lxc> or two times every <F>mm</F> <n_num odr="2" crr="year">years</n_num>.</B>
+<A><F>Mm-hum</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>I see, O K, this is almost the end of the interview.</A>
+<B><F>Mm-hum</F>.</B>
+<A>So, after today's <OL>session</OL>,</A>
+<B><OL>Yeah</OL>.</B>
+<A>are you going back to Yaizu?</A>
+<B>Yes.</B>
+<A>Tonight?</A>
+<B>Yes.</B>
+<A><F>Wow</F> <nvs>laughter</nvs> busy day.</A>
+<B>Yes. Very busy. <nvs>laughter</nvs></B>
+<A>So you'll be tired <av_lxc odr="1" crr="later">after</av_lxc>. <nvs>laughter</nvs></A>
+<B><F>Oh</F>.</B>
+<A>Everything <v_vo odr="2" crr="has been done"><v_agr odr="1" crr="has">'ve</v_agr> done</v_vo>. O K, so thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,139 @@
+<interview>
+<filename>file00137.txt</filename>
+
+<head version="1.3">
+<date>2000-07-18</date>
+<sex>female</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC>710</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Nice to</OL> meet you.</B>
+<A>Nice to meet you, too, <H pn="B's name">XXX01</H>. How are you today?</A>
+<B><F>Mhm</F> I'm fine. <.></.> And you? <nvs>laughter</nvs></B>
+<A><F>Oh</F> pretty good, thank you. Is it hot outside?</A>
+<B>Yes.</B>
+<A><F>Uhmm</F>. Do you like summer?</A>
+<B><F>Mhm</F> so-so.</B>
+<A>So-so?</A>
+<B><nvs>laughter</nvs></B>
+<A>How do you spend summer usually?</A>
+<B><F>Mhmm</F> <.></.> I play saxophone in circle in college. So <F>mhm</F> <SC>yu</SC> <F>mhm</F> <R>my holiday <.></.> is</R> <F>mhmm</F> <..></..> <F>mhm</F> <F>er</F> <R>I stay</R> <F>er</F> I spend time <.></.> <nvs>cough</nvs> mainly playing saxophone.</B>
+<A><F>Oh</F> I see. O K. <F>Urmm</F> <H pn="B's name">XXX01</H>, where is your home?</A>
+<B><nvs>laughter</nvs> <F>Mhm</F> my home <.></.> is <.></.> <nvs>cough</nvs> very near <F>er</F> from here. <R>I</R> <R>I can</R> <.></.> I can come here within ten minutes.</B>
+<A><F>Oh</F> <OL><?>that's right</?></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Do you like this area?</A>
+<B><F>Um</F>. Yes.</B>
+<A><F>Mhm</F> what do you like about?</A>
+<B><F>Mhmm</F> <.></.> there are <nvs>cough</nvs> <F>uhm</F> a lot of stores, <.></.> and <F>mhmm</F> <..></..> <F>mhmm</F> <R>I</R> <.></.> <SC>I don't</SC> <F>er</F> <SC>it is</SC> <F>mhm</F> <..></..> <F>er</F> <R>my</R> <F>mhm</F> my home is not far from <F>mm</F> <F>mhm</F> <.></.> <R>mail</R> <SC>mail station</SC> mail office <.></.> so <F>mhm</F> it is very convenient.</B>
+<A><F>Uhmm</F>. I see. O K. Do you have many friends?</A>
+<B><F>Mhmm</F> <.></.> <R>I</R> I don't <.></.> have many friends, but <F>mhm</F> <.></.> I have <nvs>cough</nvs> some good friends. <nvs>laughter</nvs></B>
+<A><F>Mhmm</F>. Can you tell me about them?</A>
+<B><F>Mhmmm</F> <..></..> <F>Mhm</F> they all have <.></.> the way of thinking <F>uhmm</F> <.></.> <F>uhh</F> <F>mhm</F>. <.></.></B>
+<A>For example?</A>
+<B><.></.> <F>Mhmm</F>.</B>
+<A>You can tell me about one good friend.</A>
+<B><.></.> <F>Mhm</F> she is <F>er</F> <F>mhm</F> <.></.> <JP>maipesu</JP> <nvs>laughter</nvs> girl. <F>Mhm</F> <nvs>cough</nvs> <.></.> she <F>mhm</F> sometimes cut the classes. <nvs>laughter</nvs> But <F>uhmm</F> <..></..> <R>she</R> <F>mhmm</F> <..></..> <nvs>cough</nvs> <.></.> <F>uhmm</F> <CO>she <..></..> <F>er</F> <nvs>laughter</nvs> <F>uhmmm</F></CO>. <..></..></B>
+<A><F>Mm</F>. It's <OL>O K</OL>.</A>
+<B><OL><F>Mm</F></OL>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Urm</F> you can tell me</OL> how she looks like and what major she is in.</A>
+<B><F>Uhm</F> she is <F>uhmm</F> <.></.> very cute. <nvs>laughter</nvs> <F>Mhm</F> and <.></.> <R>she</R> <R>she will <nvs>cough</nvs> <F>er</F> wor</R> <F>er</F> <SC>she will work as</SC> <..></..> <F>urr</F> <..></..> <F>er</F> she will work in N H K <SC>last year</SC> <OL>from last year</OL>. <nvs>laughter</nvs></B>
+<A><OL><R>Really</R></OL>? Really? That's great.</A>
+<B><nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you, <H pn="B's name">XXX01</H>. So we're gonna move on to next stage. And take a look at this picture, and I would like you to describe it for me.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Mhmm</F>. <nvs>cough</nvs> <..></..> The <R>wo</R> woman have a computer and typewriter. And <F>uhmm</F> <..></..> <SC>the</SC> <F>er</F> a dog and a cat is sleeping <.></.> in <nvs>cough</nvs> her room. <F>Uhmm</F> <..></..> <F>mhm</F> it is nine o'clock. <nvs>laughter</nvs> <.></.></B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Urm</F> how different is this room to your room in <H pn="others1">XXX02</H>?</A>
+<B><F>Mhmm</F>. <.></.> <F>Mm</F> her room is very clean, <laughter>but</laughter> my room is like a mess. <nvs>laughter</nvs> And <F>mhm</F> I don't have any pets. <.></.></B>
+<A>Why do you keep your room messy?</A>
+<B><nvs>laughter</nvs> <F>Uhmm</F> <SC>I don't like</SC> <.></.> <R>I</R> <F>err</F> I don't like <.></.> to clean <laughter>my room</laughter>. <nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><nvs>laughter</nvs>. That's a good reason.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Thank you, <H pn="B's name">XXX01</H>. Now next, we're going to do a role play. O K. This is your role. It's in Japanese. Please read it for a moment. And when you're ready, I'll begin.</A>
+<ctxt>the interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K? Good afternoon, ma'am. How can I help you?</A>
+<B><F>Mhmm</F> I have to go to New York soon. So <F>uhm</F> <..></..> please tell me <F>mhm</F> <.></.> <R>what</R> <F>mhm</F> what the <F>uhm</F> best way to get there in the shortest time, and <F>uhmm</F> <R>how much is <.></.> <nvs>cough</nvs> the</R> <F>uhm</F> how much is the ticket?</B>
+<A><F>Mhm</F>. O K. You could probably take an express train. It costs five hundred dollars, but it takes only an hour from here.</A>
+<B><F>Mhm</F>. <.></.> <F>Mhm</F> <nvs>cough</nvs> <SC>is it the</SC> <F>uhmm</F> <F>er</F> <F>uhmm</F> are there <R>any</R> <.></.> <F>uhmm</F> any <F>eh</F> way that <F>mhm</F> <R>I</R> I can <.></.> save the money? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. In that case, you can take the next local train which leaves in about five minutes. <F>Err</F> you'll arrive in New York <F>urm</F> in about two hours.</A>
+<B><F>Uhh</F> two hours.</B>
+<A><F>Uh-huh</F>. And it costs only forty-five dollars.</A>
+<B><F>Uhm</F> <.></.> <F>uhm</F> so I will take the <SC>expec</SC> <F>mm</F> express train.</B>
+<A><F>Oh</F> <OL><laughter>I see</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><laughter>Thank you</laughter>. Here is your ticket.</A>
+<B>Thank you.</B>
+<A>O K. Have a nice trip.</A>
+<B><nvs>laughter</nvs> Bye-bye.</B>
+</task>
+<followup>
+<A>O K. Bye-bye. This is the end of the role play. O K, <H pn="B's name">XXX01</H>, which do you like better, traveling by train or traveling by airplane?</A>
+<B><F>Uhmmmm</F> <.></.> I like <F>mhm</F> a traveling by train.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> because <nvs>cough</nvs> <F>uhm</F> <..></..> although the <SC>train takes <F>uhmm</F> <.></.> much</SC> <F>uhm</F> <F>mhm</F> train takes <.></.> time than airplane, <R>I</R> <.></.> <F>uhmmm</F> I always enjoy the scenery from the window.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>cough</nvs> <F>Uhm</F>. <.></.> If I <F>mhm</F> take the airplane, I can see only <.></.> sky. <nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. That's right. O K. Thank you, <H pn="B's name">XXX01</H>. So lastly, I'm going to show you another picture. The sequence of pictures from one to six. And I would like you to make a story.</A>
+<B>O K.</B>
+<A>O K? You use your imagination. And this happened before so please start your story with, "One day last week".</A>
+<B><ctxt>the interviewee is looking at the pictures</ctxt> <nvs>cough</nvs> <F>Mhm</F> <nvs>cough</nvs> it's me?</B>
+<A><F>Uhmm</F>. <SC>Me</SC> you or whoever.</A>
+<B><OL><F>Uhmmmm</F></OL>.</B>
+<A><OL>Doesn't matter</OL>.</A>
+<B><.></.> <nvs>cough</nvs> <F>Uhm</F> one day, <F>uhm</F> the woman <.></.> went to department store to buy a tie. <F>Uhmm</F> <R>it</R> <R>it</R> it was for <.></.> her husband <nvs>cough</nvs> <F>mm</F> birthday present. <.></.> <F>Uhmm</F> <..></..> she asked <F>mhm</F> <R>to</R> <..></..> <F>err</F> to <.></.> a clerk for help, and <nvs>cough</nvs> <R>he</R> <.></.> he recommended her a green tie. <.></.> <F>Mhm</F> and then <R>she</R> she bought it, and she asked <F>mhm</F> <R>where</R> <.></.> <nvs>cough</nvs> where <.></.> the wallets. <F>Uhmm</F> <.></.> <F>uhmm</F> <..></..> <nvs>laughter</nvs> <F>mhm</F> <F>mhmm</F> <nvs>cough</nvs> he asked that <F>uhm</F> there are <.></.> in <.></.> <F>mhm</F> forth floor. So she <R>wen</R> went to <F>uhm</F> the forth floor, and <SC>she also</SC> <F>er</F> <R>sh</R> she also bought a wallet for his husband.</B>
+</task>
+<followup>
+<A><F>Mhmm</F>. <OL>O K, thank you, <H pn="B's name">XXX01</H></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Er</F> what did you give <F>urm</F> <R>for your friend's birthday present</R> for birthday? Like your best friend?</A>
+<B><..></..> <F>Er</F> <F>mhm</F> <nvs>cough</nvs> <R>I</R> <.></.> I bought <.></.> C Ds for my friend.</B>
+<A><F>Mh-hm</F>.</A>
+<B>My favorite <F>uhm</F> jazz pianist's C D.</B>
+<A><F>Uhm</F>. Tell me a little more about your favorite <OL>jazz pianist</OL>.</A>
+<B><OL><F>Mhmm</F></OL>. <..></..> <F>Mhmm</F>. <.></.> The name of <.></.> my favorite pianist is Bill Evans. <nvs>cough</nvs> Bill Evans <F>uhmm</F> <.></.> have already <.></.> died, <nvs>cough</nvs> but <F>uhmm</F> even now, he is very popular among <.></.> <F>mhm</F> jazz fan. <nvs>laughter</nvs> <F>Mm</F>. <nvs>cough</nvs> <.></.> <R>He</R> <F>mhm</F> he played very <.></.> <SC>fantastic, but</SC> <F>er</F> fantastically, but <F>uhmm</F> <R>he</R> <.></.> <nvs>cough</nvs> <R>he</R> <SC>he ha</SC> <F>mhm</F> he <.></.> always <.></.> took drug.</B>
+<A><F>Uhmm</F>.</A>
+<B><F>Uhm</F> so <F>uhmm</F> <.></.> he died because of drug.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. O K. All right, <H pn="B's name">XXX01</H>, <laughter>we are almost at the end of the interview</laughter>. Have you finished all the tests?</A>
+<B><F>Mhm</F> yes. <F>Mm</F> but <R>I</R> <F>uhm</F> I have to finish <.></.> one report <.></.> about <F>uhm</F> Mark Twain.</B>
+<A><F>Oh</F> I see. O K. And I hope you'll have a nice summer vacation after you finish the report.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Thank you very much, <H pn="B's name">XXX01</H>.</A>
+<B>Thank you.</B>
+<A>It's been nice meeting you.</A>
+</stage5>
+</body>
+</interview>

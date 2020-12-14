@@ -1,0 +1,229 @@
+<interview>
+<filename>file00120.txt</filename>
+
+<head version="1.3">
+<date>2000-09-08</date>
+<sex>male</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>sales</category>
+<step></step>
+<TOEIC>590</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Good morning. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, Mister <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>Where do you live now?</A>
+<B><F>Ur</F> I live in <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H>, near <H pn="others3">XXX05</H>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><H pn="others1">XXX03</H></OL>. <F>Ah</F>. <nvs>laughter</nvs> I see. <F>Ah</F>. What's <H pn="others1">XXX03</H> like?</A>
+<B><F>Ahh</F>. <.></.> <F>Ahh</F> what's <H pn="others1">XXX03</H> like? <OL><F>Ah</F></OL>?</B>
+<A><OL>Yes</OL>. What kind of place is it?</A>
+<B><.></.> <F>Ah</F> <F>nh</F> <.></.> <F>mm</F> <H pn="others1">XXX03</H> is <F>mmm</F> <.></.> comfortable town.</B>
+<A><F>Mh-hm</F>.</A>
+<B><.></.></B>
+<A>Do you like your living place?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. <.></.> So why is that?</A>
+<B><F>Ahh</F> <H pn="others1">XXX03</H> is <F>mm</F> <.></.> <R>qu</R> quiet area.</B>
+<A><F>Mhn</F>.</A>
+<B><F>Mm</F> <.></.> <F>mhm</F> <R>co</R> convenience.</B>
+<A>O K.</A>
+<B><F>Eh</F> shopping and <R>e</R> eat.</B>
+<A>I see. Do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. Tell me about your family.</A>
+<B><F>Erm</F> <SC>my family is</SC> <.></.> <F>uh</F> <R>I</R> I live <SC>in</SC> <F>uh</F> with my wife.</B>
+<A><F>Mhm</F>.</A>
+<B><R>Tw</R> two only.</B>
+<A>I see. <F>Mm</F>. O K. <F>Urm</F> would you tell me a little bit more about your wife?</A>
+<B><.></.> <OL><F>Mm</F></OL>?</B>
+<A><OL>Would you</OL> tell me a little bit more about your wife?</A>
+<B>Little? <F>Mm</F> <F>mm</F>?</B>
+<A>A little more about your wife.</A>
+<B><CO>Little more about your</CO>?</B>
+<A><F>Ah</F>. Tell me about your wife.</A>
+<B><F>Ah</F>. My wife is <R>ss</R> same age. <F>Er</F> she is <.></.> work <.></.> now. <F>Eh</F> <.></.> <R>ss</R> <.></.> <F>em</F> she is <F>mm</F> secretary.</B>
+<A><F>Mhn</F> I see. O K. <F>An</F> how do you spend on weekends?</A>
+<B><.></.> <R>Thi</R> this week?</B>
+<A><F>Ah</F> usually.</A>
+<B>Usually? <F>Ahh</F> <R>we are</R> <.></.> we are going shopping. I play the basketball and running. <.></.> <F>Ah</F> <F>ah</F>.</B>
+<A>O K. So what did you do this weekend?</A>
+<B><R>I</R> <.></.> <R>I partici</R> <F>mm</F> participate</B>
+<A><F>Mhn</F>.</A>
+<B><R>ru</R> running.</B>
+<A><F>Mhn</F>.</A>
+<B><.></.> <F>Nh</F> <R>ne</R> <F>mm</F> next Sunday.</B>
+<A><F>Mhn</F> <F>oh</F> will you participate in a race or marathon?</A>
+<B><F>Ah</F> <R>triathlon</R> triathlon relay.</B>
+<A><F>Ah</F> that sounds hard.</A>
+<B>Yes. Very hard.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. So now, I'm going to show you a picture. So please look at this picture. And tell me anything about this.</A>
+<B><.></.> <F>Mm</F> <R>this picture</R> <.></.> <F>mm</F> <F>ur</F> this picture <.></.> is in restaurant.</B>
+<A><F>Mhn</F>.</A>
+<B><.></.> Three groups</B>
+<A><F>Mhn</F>.</A>
+<B>enjoy <.></.> talking and <.></.> eating.</B>
+<A><F>Mhn</F>.</A>
+<B><.></.> <F>Urrm</F> <.></.> <F>ah</F> <.></.> <JP>nanteiunndarou</JP>. <F>Mmm</F> <.></.> boy recommend <F>mm</F> <.></.> some wine.</B>
+<A><F>Mhn</F>.</A>
+<B>He is tasting.</B>
+<A>O K. <F>Mm</F>.</A>
+<B><.></.> And <.></.> the woman playing piano.</B>
+<A><F>Mhn</F>.</A>
+<B><.></.> And <R>ss</R> <.></.> some trees in this restaurant. <F>Mhm</F>. <.></.> <F>Mhm</F> <.></.> <F>mhm</F> <.></.> It's seven o'clock.</B>
+</task>
+<followup>
+<A>I see. O K. All right. Thank you very much. <F>Mm</F>. Do you have any favorite restaurant in <H pn="others1">XXX03</H>?</A>
+<B><F>Ahh</F> best?</B>
+<A><F>Ur</F> favorite.</A>
+<B>Favorite. <F>Err</F> Kobe-ya restaurant.</B>
+<A><F>Mm</F>.</A>
+<B><.></.> I like <F>mm</F> bread and <.></.> some <F>mm</F> <.></.> <R>me</R> meat foods.</B>
+<A><F>Mm</F>. O K. <F>Ah</F>. Do you often go there with your wife?</A>
+<B>Yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. So now, we'll do a role play. Do you know what the role play is?</A>
+<B><.></.> Yeah.</B>
+<A>Yes? O K. So this is your role. <.></.> You'll be a customer at a shop, and I'll be a sales clerk.</A>
+<B><F>Ah</F>. <..></..> <R>What</R> what kind is your shop?</B>
+<A>Any kind.</A>
+<B>Any kind?</B>
+<A>Yes.</A>
+<B><F>Urr</F> I'd like to <.></.> see <.></.> some your <.></.> basketball shoes.</B>
+<A>O K. Basketball shoes are here.</A>
+<B><F>Urr</F> do you have a Nike shoes?</B>
+<A>Of course.</A>
+<B><F>Oh</F>.</B>
+<A>On the top shelf.</A>
+<B>Top shelf. <F>Ah-huh</F>. <.></.> Do you have <F>urr</F> <.></.> twenty six point five centimeter shoes?</B>
+<A><F>Ah</F> let me see. <F>Oh</F> I'm sorry. We don't have any twenty six point five. But we have twenty seven and twenty six.</A>
+<B><F>Ah-huh</F>. <..></..> <F>Mhm</F>. <.></.> In case of Addidas shoes,</B>
+<A><F>Mhn</F>.</A>
+<B>do you have a twenty six point five centimeter?</B>
+<A><F>Ur</F> yes. Yes, we do.</A>
+<B>Do you have a black shoes?</B>
+<A>O K. <F>Erm</F> we have some black <OL>in Addidas</OL>.</A>
+<B><OL><F>Ah</F></OL> Addidas. O K. <F>Eh</F> May I try to <SC>ss</SC> this shoes?</B>
+<A>Sure. <F>Mm</F>. <.></.> It's O K? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yeah</laughter></OL>. <F>Urr</F>. <..></..></B>
+<A>How do they fit?</A>
+<B>Yes, it's fit. <.></.> <?>I'd like</?> to buy this.</B>
+<A>O K. <F>Mm</F>.</A>
+<B><.></.> <R>Could I</R> could I use credit card?</B>
+<A><F>Ah</F> what kind of card do you have?</A>
+<B>J C B card.</B>
+<A><F>Ah</F> sorry, we can't accept J C B.</A>
+<B><F>Ah</F> VISA card?</B>
+<A>Sure.</A>
+<B><?>All right</?>.</B>
+<A>O K. Thank you.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Thank you for shopping <OL>with us</OL>.</A>
+<B><OL><F>Ah</F></OL>.</B>
+</task>
+<followup>
+<A>All right. Thank you very much. <F>Mm</F>. So do you often go sports shop?</A>
+<B>Yes.</B>
+<A>For shopping?</A>
+<B>Yes.</B>
+<A>So what did you buy in the last shopping?</A>
+<B>Last shopping? <F>Mhm</F> <..></..> I shopped <F>mm</F> <.></.> last weekend.</B>
+<A><F>Mhn</F>. What did you buy?</A>
+<B><F>Urr</F> <SC>T-shirts</SC> I bought <SC>a</SC> the T-shirt and pants.</B>
+<A><F>Mm-hm</F>.</A>
+<B><.></.></B>
+<A>For what?</A>
+<B><F>Ah</F> for running.</B>
+</followup>
+</stage3>
+<stage4> 
+<task>
+<A>Running.</A>
+<B>Yeah.</B>
+<A>I see. O K. Now <F>ur</F> I'm going to show you another picture. <F>Mm</F>. <F>Ah</F> this time, <ctxt>the interviewer is taking out the picture</ctxt> I want you to make a short story.</A>
+<B><F>Ah</F>.</B>
+<A>O K. The story goes like this. <..></..> <SC>So</SC> and this happened last week. So start your story, "One day last week".</A>
+<B>Last week. <F>Ah</F>. <ctxt>The interviewee is looking at the pictures</ctxt> <F>Ah</F> <R>s</R> <R>s</R> story?</B>
+<A>Yes.</A>
+<B>Speaking? <F>Ah</F> <.></.> <F>nh</F> <.></.> <F>ah</F> <.></.> <R>three</R> <F>mm</F> <SC>three person</SC> three person's <R>scheduled</R></B>
+<A><F>Mhn</F>.</A>
+<B><F>mm</F> <.></.> scheduled <R>outside</R> <.></.> <F>mm</F> outside <.></.> <F>nh</F> something.</B>
+<A>O K.</A>
+<B>But <F>mm</F> it's rained</B>
+<A><F>Mhn</F>.</A>
+<B>one day last week.</B>
+<A>O K.</A>
+<B><.></.> <R>They</R> <.></.> <SC>they <.></.> thought</SC> <F>ah</F> <F>mm</F> they considers <F>mm</F> another plan.</B>
+<A><F>Mhn</F>.</A>
+<B><.></.> <SC>They</SC> <F>mm</F> <.></.> <F>mm</F> then <R>they <F>mm</F> went to</R> they went to theater.</B>
+<A><F>Mhn</F>.</A>
+<B><..></..> They bought some drink and popcorn.</B>
+<A><F>Mhn</F>.</A>
+<B>They saw <.></.> <F>mm</F> action cinema.</B>
+<A><F>Mhn</F>.</A>
+<B><.></.> The plane is burn.</B>
+<A><F>Mhn</F>.</A>
+<B>They enjoyed one day last week. <F>Um</F> <..></..> <R>they</R> <.></.> <F>mm</F> <.></.> they were happy.</B>
+</task>
+<followup>
+<A>Yes. O K. All right. Thank you very much. <F>Mm</F>. Do you like to watch movies?</A>
+<B><F>Mm</F> just so-so.</B>
+<A>So-so? <nvs>laughter</nvs> O K. So what do you usually do on rainy holidays?</A>
+<B>Rainy holidays?</B>
+<A><OL><F>Mhn</F></OL>.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><CO>What do you <OL>usually</OL></CO>?</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A>Yes?</A>
+<B>Rainy holidays, <F>er</F> <..></..> I go shopping,</B>
+<A><F>Mm</F>.</A>
+<B>and <.></.> watch T V.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. So by the way, <F>ah</F> how did you get interested in triathlon?</A>
+<B><.></.> <F>Mm</F> <.></.> <F>ah</F> <F>ur</F> <R>I</R> I will get to triathlon by car.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL><R>Ho</R></OL> <R>ho</R> How?</B>
+<A>Why are you interested?</A>
+<B><F>Ah</F> <R>why</R> why? <F>Ah</F> <.></.> I like <.></.> <R>mo</R> <F>ur</F> moving. <F>Ah</F> <F>a</F> <.></.> I like <R>ru</R> running and basketball. <R>Ha</R> hard sports.</B>
+<A><F>Mhm</F> O K. <nvs>laughter</nvs> I see. So you will join the race next week.</A>
+<B><F>Er</F> <R>this week</R>.</B>
+<A><OL>This week</OL>.</A>
+<B><OL>This</OL> weekend. <F>Er</F>.</B>
+<A><F>Mm</F> O K. What will you do during the race?</A>
+<B><..></..></B>
+<A>So running and?</A>
+<B>Running and swimming and <F>mm</F> <R>c</R> <R>cy</R> cycling.</B>
+<A>Cycling. O K. <R>How</R> how long or how far?</A>
+<B><F>Ah</F> how far?</B>
+<A><F>Mm</F>.</A>
+<B><F>Mhm</F> swimming is one point five kilometer.</B>
+<A><F>Mh-hm</F>.</A>
+<B>Cycling is forty kilometer.</B>
+<A><F>Mh-hm</F>. Forty?</A>
+<B>Forty. Running is ten kilometer.</B>
+<A>I see. <F>Ah</F> O K. <nvs>laughter</nvs> I hope you will do very well on the race.</A>
+<B>Thank you.</B>
+<A>Thank you very much today. Interview is all over <OL>now</OL>.</A>
+<B><OL><F>Ah</F></OL>.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,196 @@
+<interview>
+<filename>file01155.txt</filename>
+
+<head version="1.3">
+<date>2002-07-08</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin.</A>
+<B>Yeah.</B>
+<A>My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>. Please call me <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Um</F> I'm fine. <nvs>laughter</nvs></B>
+<A>O K, it's very hot today, isn't it?</A>
+<B>I think so. <nvs>laughter</nvs></B>
+<A><OL><F>Uum</F></OL>.</A>
+<B><OL>It's</OL> too hot <OL><R>for</R></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>for me.</B>
+<A><F>Um</F>. What do you usually do <F>er</F> on a hot day like this?</A>
+<B><F>Uum</F> <.></.> <F>uum</F> in <F>um</F> more cool house, <F>mm</F> usually <R>I</R> I read books.</B>
+<A><F>Ahh</F>. What kind of books do you like to read?</A>
+<B>For example, economics, business and so on.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>My major</OL> is <F>uum</F> Asian Economics.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>Yeah</OL>. So I have to study so much.</B>
+<A><F>Hum</F>. Why did you choose that major?</A>
+<B><F>Uum</F>. My <JP>zeminaaru</JP> have to go to Vietnam. So <F>uum</F> I think this opportunity is <F>uum</F> very important for me.</B>
+<A><F>Um</F>.</A>
+<B>And my teacher is not Japanese. He is Vietnamese. So <F>um</F> I think my <JP>zeminaaru</JP> is very international.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>So I choose</OL> <F>um</F> this topic.</B>
+<A><F>Hum</F>.</A>
+<B>That's all.</B>
+<A>That's good. O K. Then, when you have free time, what do you like to do?</A>
+<B><F>Uum</F> <F>uum</F> my hobby is <F>uum</F> to play guitar.</B>
+<A><F>Uum</F>.</A>
+<B><F>Uum</F>. <.></.> And <SC>melody score</SC> <F>err</F> <F>er</F> <R>melo</R> melody score <SC>is</SC> <F>uum</F> <SC>i</SC> <F>um</F> <F>um</F> <R>when</R> when <R>I su</R> <F>er</F> I surf the internet, <SC>I can get more</SC> <F>um</F> <F>er</F> I can get a lot melody score.</B>
+<A><F>Hum</F>.</A>
+<B>So <F>um</F> I can play guitar a lots.</B>
+<A>I see. <F>Hum</F>. It's good. Do you play any sports?</A>
+<B>Yeah. <F>Uum</F> <.></.> <SC>I pla</SC> <F>er</F> I have played basketball for ten years.</B>
+<A><F>Hum</F></A>
+<B><F>Uum</F>. And now I play basketball with my friends.</B>
+<A><F>Hum</F>. <F>Er</F> please tell me about your basketball friends.</A>
+<B><SC>Bask</SC> <F>uum</F> <F>er</F> my basketball friends is <F>uum</F> <SC>junior high school studen</SC> <F>uum</F> <R>when</R> when I was junior high school student. <SC>This is my</SC> <F>err</F> <SC>he</SC> they are my colleagues.</B>
+<A><F>Hum</F>.</A>
+<B>And now, <nvs>cough</nvs> <F>uum</F> on Sunday, I play <SC>with</SC> <F>uum</F> basketball with them.</B>
+<A><.></.> I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then <H pn="B's name">XXX02</H></A>
+<B>Yeah.</B>
+<A>please describe this picture.</A>
+<B><.></.> <F>Uum</F> I <laughter>think</laughter> <F>uum</F> <..></..> he is very <laughter>dull</laughter>. And he's very <F>um</F> <?>ingilent</?>. <F>Uum</F> <..></..> <F>uum</F>. This class is <F>uum</F> <laughter>dull</laughter>.</B>
+<A><F>Uum</F>.</A>
+<B><F>Uum</F>. But <F>uum</F> the teacher is <R>very</R> <F>uum</F> very <?>ingilent</?>. <F>Um</F> <SC>but</SC> <F>um</F> <.></.> <F>uum</F> and <R>she</R> <F>uum</F> she use mobile phone.</B>
+<A><F>Um</F>.</A>
+<B>And a man drink water.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <..></..> <F>uum</F> the window is open. <F>Uum</F> sorry, that's all.</B>
+<A><F>Um</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, <F>Um</F> what are big differences between high school classes</A>
+<B>Yeah.</B>
+<A>and university classes?</A>
+<B><F>Uum</F> <..></..> <F>uum</F> high school students and university student? O K. <F>Uum</F> I think high school <SC>student is</SC> <F>um</F> student have to study so much because <F>uum</F> <R>they</R> <F>um</F> <SC>they take</SC> <F>um</F> they will take <SC>exami</SC> <R>en</R> entrance tests. So <F>uum</F> I think <F>uum</F> high school student is very <F>uum</F> <?>ingilent</?>. But <F>um</F> university student is very dull. Because they don't have to take tests so much. And <F>uum</F> <R>if</R> <F>um</F> <SC>if they <F>uum</F> take part in this class</SC> <F>um</F> <R>if</R> <F>um</F> if <F>uum</F> <R>they don</R> <F>um</F> they don't take part in <F>uum</F> their class, they can get more information from friends. So <R>they don't</R> <F>uum</F> they don't have to <nvs>sniff</nvs> take parts in the class, I think.</B>
+<A><F>Uhu</F>. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then, let's do a role-play. Please read this card. And when you are ready</A>
+<B>Yeah.</B>
+<A>I'll start the conversation.</A>
+<B>O K.</B>
+<A>O K? Hello. May I help you?</A>
+<B>Hello. <F>Uum</F> I want to some guitar.</B>
+<A><F>Hum</F>.</A>
+<B><F>Uum</F>. <SC>Please show me</SC> <F>uum</F> <F>err</F> please <F>er</F> explain for <laughter>me</laughter>.</B>
+<A><F>Err</F>. I'm sorry. I'm a part timer, and I don't know much <OL>about guitars</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>But please take a look at guitars here. <F>Um</F> what kind of guitars would you like?</A>
+<B><F>Uum</F> I think <F>um</F> <.></.> <F>uum</F> your shop have <F>uum</F> cheap one and expensive one. <F>Uum</F> <R>please <F>uum</F> explain</R> <nvs>laughter</nvs> <F>um</F> <F>uum</F> please explain <F>uum</F> these two guitars.</B>
+<A><F>Err</F>. O K. These are cheaper ones. And here are expensive ones.</A>
+<B>Yeah.</B>
+<A><F>Um</F>. So maybe you know something about guitars. You can check for yourself.</A>
+<B><F>Um</F> <F>uum</F> I think <F>uum</F> <SC>expensive one <SC>is</SC> 's melody</SC> <F>err</F> <F>err</F> expensive one's <F>uum</F> tone is very good.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>But</OL> it's <F>um</F> <SC>expensive</SC> too expensive for me.</B>
+<A><F>Hum</F></A>
+<B><F>Uum</F> <.></.> <F>uum</F> <R>cou</R> <F>uum</F> could you discount <OL><nvs>laughter</nvs></OL></B>
+<A><OL>laughter</OL></A>
+<B>this one?</B>
+<A><F>Um</F>. What's your budget?</A>
+<B>About <F>uum</F> <SC>five</SC> <F>uum</F> one hundreds dollars.</B>
+<A><F>Hum</F>. O K. Then this one's original price is one hundred twenty dollars.</A>
+<B><F>Oh</F> <OL>really</OL>?</B>
+<A><OL>But</OL> <F>um</F> I'll make it just one hundred dollars. How about that?</A>
+<B><F>Uum</F>. O K. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I'll take it.</B>
+<A>O K. Good. How would you like to pay?</A>
+<B><F>Uum</F>. By cash. O K?</B>
+<A><F>Hum</F>. O K. Here you go. Thank you very much.</A>
+<B>Thank you.</B>
+<A>Please come again. O K. Good.</A>
+</task>
+<followup>
+<A>And so, do you often <SC>to</SC> go to guitar shops?</A>
+<B>No, I don't. But <F>uum</F> <.></.> <F>uum</F> last spring vacation, I went to <F>um</F> Australia to <OL>study English</OL>.</B>
+<A><OL><F>Ahh</F></OL> <F>ahh</F>.</A>
+<B><R>And</R> and there, <F>uum</F> I went to guitar shop.</B>
+<A><F>Hum</F>.</A>
+<B>So I <laughter>discount it</laughter>.</B>
+<A><F>Ah</F> good. Please tell me more about your stay in Australia.</A>
+<B>Australia?</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <F>uum</F> I went to Australia <F>um</F> and I stayed in homestay family.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F> homestay family is <F>uum</F> immigrants from <F>um</F> South America. So I <F>uum</F> I think <SC>I can</SC> I could absorb <F>uum</F> <F>uum</F> a lot of culture. <F>Um</F>. And there are many Japanese culture in Australia. For example, Japanese comic is very popular.</B>
+<A>Huum.</A>
+<B><F>Uum</F>. So <F>uum</F> my host family say that <F>uum</F> please <SC>tell</SC> <F>uum</F> explain Japanese culture. And I explain it.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>That's great. <F>Hum</F>. O K. Did your English improve a lot?</A>
+<B><F>Hum</F> I think <laughter>so</laughter>. But <F>uum</F> when I came back to Japan, my skill <R>is</R> <F>uum</F> is <R>d</R> <F>uum</F> decrease day by day, I think.</B>
+<A>O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now</A>
+<B>Yeah.</B>
+<A>please look at these six pictures and <F>er</F> make a story</A>
+<B><OL><F>Er</F></OL>.</B>
+<A><OL>with them</OL>. And plese start with,"One day last week," because it happened before.</A>
+<ctxt>The interviewee is thinking for a moment.</ctxt>
+<B>O K. <F>Uum</F> <.></.> one day, <F>uum</F> <SC>a co</SC> <F>uum</F> a boy and girls walk on the street. And <F>uum</F> <R>a boy</R> <F>um</F> a boy heard <F>um</F> <R>strange</R> <SC>strange tone</SC> <R>s</R> <F>uum</F> strange tone. <F>Um</F> <SC>he sa</SC> <F>err</F> he think <F>uum</F> this voice is cat's. And <.></.> <F>uum</F> <F>uum</F> <.></.> <R>in</R> in strange box, <F>uum</F> <R>there is</R> <nvs>sniff</nvs> <SC>there is a cat</SC> there was a cat. And a <SC>a wo</SC> <F>err</F> <R>a girl</R> <F>uum</F> <SC>a girl finds</SC> a girl find a cat. And <F>er</F> <SC>she</SC> <F>ee</F> <SC>he</SC> she thought <F>uum</F> <.></.> <R>s</R> she wants to <R>take</R> take a cat <F>um</F> to home. <R>But</R> <nvs>sniff</nvs> <F>uum</F> <SC>but a ma</SC> but a man <SC>don't like to</SC> don't like cats. <F>Uum</F> but <R>a woman</R> <F>uum</F> <.></.> a woman told to him <R>told h</R> told him to <F>uum</F> to take a cat back home. And after all, <F>uum</F> they came to home with a cats. That's all.</B>
+<A>O K. Good.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, do you have any pet?</A>
+<B>No, I don't.</B>
+<A><F>Hum</F>. Why not?</A>
+<B><F>Uum</F> my house is apartment, so <R>I can't</R> <F>uum</F> I can't have <F>uum</F> some pets.</B>
+<A>I see. <F>Hum</F>. O K. Then <F>eee</F> <R>can you compare</R></A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>um</F></OL> can you compare cats to dogs? Of course they are different</A>
+<B><OL><F>Er</F></OL>.</B>
+<A><OL>but</OL> as pets, how are they different?</A>
+<B><F>Uum</F>. Cat and dog. <F>Err</F> a dog is more louder than cats. <F>Uum</F> so <nvs>laughter</nvs> <F>uum</F> I think <F>uum</F> <SC><SC>neighborhood</SC> <F>uum</F> <.></.> neighbor <F>uum</F> <R>scold to</R> <F>mm</F> <SC>scold to</SC> <nvs>sniff</nvs> <SC>scold</SC> <SC>was</SC></SC> <F>uum</F> neighbor was scold to dog. But <F>uum</F> I think cat is not so much. So <F>uum</F> <.></.> <F>uum</F> cat is very <F>uum</F> easy to deal with</B>
+<A><F>Hum</F>.</A>
+<B>in my house.</B>
+<A><F>Hum</F>.</A>
+<B>That's <laughter>all</laughter>. <OL><nvs>sniff</nvs></OL></B>
+<A><OL>O K</OL>. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. But what are you going to do tonight?</A>
+<B><.></.></B>
+<A>Your plans for tonight?</A>
+<B>Yeah. <F>Uum</F> <.></.> <R>at night</R> <F>um</F> at night, I think <F>um</F> I'm going to <R>study</R> <F>um</F> study economics.</B>
+<A><F>Hum</F>.</A>
+<B>Because <F>uum</F> tomorrow I have to reports my study.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>So <F>uum</F></OL> <F>uum</F> I have to <F>uum</F> examine about Asian economics.</B>
+<A>I see. You have to study even on Friday night.</A>
+<B><nvs>laughter</nvs>.</B>
+<A>O K.</A>
+<B>Too bad. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Good luck with your study. Thank you very much for coming today.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>.</A>
+</stage5>
+</body>
+</interview>

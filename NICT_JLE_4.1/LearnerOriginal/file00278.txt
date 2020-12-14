@@ -1,0 +1,345 @@
+<interview>
+<filename>file00278.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>male</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>815</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>For the record, may I have your name, please?</A>
+<B><F>Uh</F>. My name is <H pn="B's name">XXX01</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>So <H pn="B's name">XXX01</H>, where do you live?</A>
+<B><F>Uh</F> I live in <H pn="others1">XXX02</H> City.</B>
+<A><F>Mm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>So how long have you been living in <H pn="others1">XXX02</H>?</A>
+<B>I have lived for ten years. <OL><F>Hm</F> <F>hm</F></OL>.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B>And I was born in <H pn="others2">XXX03</H>, <H pn="others3">XXX04</H> Prefecture. Do you know?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Hm</F>. And I have lived in <H pn="others2">XXX03</H> for two years, and after, I transferred to <H pn="others4">XXX05</H>, <H pn="others5">XXX06</H>.</B>
+<A><F>Mm</F>.</A>
+<B>And <R>I</R> <F>ur</F> I was <F>mm</F> living in <H pn="others5">XXX06</H> <F>mm</F> in my <F>em</F> junior high school student.</B>
+<A><F>Hmm</F>.</A>
+<B>After the graduate,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I transferred to <H pn="others1">XXX02</H>.</B>
+<A><F>Hmm</F>.</A>
+<B>And now, I still live in <H pn="others1">XXX02</H> City. <F>Hm</F>.</B>
+<A>How do you like living in <H pn="others1">XXX02</H>?</A>
+<B>Yeah. <H pn="others1">XXX02</H> is nice city. <F>Hm</F>.</B>
+<A><F>Mm</F>.</A>
+<B>I like it.</B>
+<A><F>Mm</F>. What is especially nice about <H pn="others1">XXX02</H>?</A>
+<B>Mitaka?</B>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F> <H pn="others1">XXX02</H> <F>mm</F> is <F>mm</F> very close to <H pn="others6">XXX07</H>, which is the very popular place to go shopping.</B>
+<A><F>Hm</F>.</A>
+<B>But <F>mm</F> <SC>this is not</SC> <F>mm</F> <F>er</F> <F>ah</F> <H pn="others1">XXX02</H> is a nice city because <F>mm</F> <H pn="others1">XXX02</H> <F>er</F> <F>er</F> 's air is very clean.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>O K. So do you live there alone?</A>
+<B>No. I live with my family.</B>
+<A><F>Mm</F>.</A>
+<B><F>Hm</F>.</B>
+<A><F>Er</F> could you tell me about your family?</A>
+<B><F>Ah</F> <SC>I have two</SC> I have a parents and a brother.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>. My parents <F>mm</F> <F>mm</F> have get good along with them. And <F>er</F> <R>my</R> <F>er</F> my father <SC>is about fif</SC> <F>a</F> is fifty something.</B>
+<A><F>Hm</F>.</A>
+<B>And my mother is forty something. <SC>My m</SC> my father is <F>er</F> tall and fat.</B>
+<A><nvs>laughter</nvs></A>
+<B>The other hand, my mother is <.></.> short and slim.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>So opposite</OL> <OL>couple</OL>.</B>
+<A><OL><F>Oh</F></OL>. So why aren't you tall and fat? <nvs>laughter</nvs></A>
+<B><F>Eh</F>?</B>
+<A>You are tall, right?</A>
+<B>I'm <OL>tall</OL>.</B>
+<A><OL>You're</OL> pretty tall but not fat.</A>
+<B>Yeah.</B>
+<A>Why is that?</A>
+<B><F>Oh</F> because <R>I'm</R> I'm similar to the mother.</B>
+<A><F>Oh</F>.</A>
+<B><F>Hm</F>.</B>
+<A>O K. Right. So do you have any hobbies?</A>
+<B><F>Er</F> my hobby is baseball.</B>
+<A><F>Hm</F>.</A>
+<B>I like baseball very much.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Even in foreign countries, <R>I</R> I would like to know the result of baseball in Japan. So I often buy <OL>newspaper</OL> even in foreign countries.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Mm</F> which is your favorite team?</A>
+<B>I like Giants.</B>
+<A><F>Mm</F>.</A>
+<B>Do you know Japanese baseball camp has started yesterday?</B>
+<A><F>Mm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>And how do you feel about that?</A>
+<B>Yeah. <OL><F>Er</F></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><R>I'm</R> <SC>I'm so excited</SC> I was so excited because <F>mm</F> <F>er</F> <F>erm</F> <SC>from</SC> <F>mm</F> <F>er</F> we can watch the news on T V everyday <OL>about</OL> Japanese baseball.</B>
+<A><OL>Right</OL>. <nvs>laughter</nvs></A>
+<B>Yeah. So I was looking forward <F>mm</F> <R>to</R> <SC>w</SC> to watching games on T V on April.</B>
+<A><F>Mm</F> so how do you think the Giants will do next season?</A>
+<B>Yeah. <F>Uh</F> maybe it will win again</B>
+<A><F>Hmm</F>.</A>
+<B><F>hm</F> <R>as</R> <F>mm</F> as it won last year.</B>
+<A><F>Hmm</F>.</A>
+<B>Two in a row.</B>
+<A><F>Wow</F>. <laughter>O K</laughter>. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>So the first thing today, please take a look at this picture.</A>
+<B>O K.</B>
+<A>And please describe this picture.</A>
+<B>O K. <F>Em</F>. May I start?</B>
+<A>Sure.</A>
+<B><F>Oh</F>. Let me describe the situation of the picture. This is a very nice restaurant.</B>
+<A><F>Mhm</F>.</A>
+<B>And <F>er</F> <F>mm</F> the restaurant is very expensive, so the wealthy people are coming. And <F>er</F> there are some people <F>er</F> sitting. There are three tables and now, I will explain the <F>er</F>people who is sitting in front of everything. <F>Hm</F>. <F>Er</F> as you can easily guess, <F>er</F> they are couple. And maybe, I guess, <F>er</F> this is the anniversary of the <SC>barri</SC> marriage of them. And <F>er</F> <.></.> the husband looks to be very handsome and tall and slim. He is wearing suits because this is a nice restaurant. On the other hand, the wife looks to be very cute. And she seems to be very happy because <F>er</F> today is an anniversary of marriage.</B>
+</task>
+<followup>
+<A>O K. All right. That's fine.</A>
+<B><F>Hm</F>.</B>
+<A>All right, so you mentioned that he is wearing a suit but you are so dressed so casually today.</A>
+<B>Yeah.</B>
+<A>Is there any reason?</A>
+<B><F>Em</F> because <F>em</F> my company <SC>allows m</SC> allows us to be casual only on Friday.</B>
+<A><F>Mm</F>.</A>
+<B><F>Hm</F>. Yeah. It's a good idea.</B>
+<A><F>Mm</F>.</A>
+<B>Because we can be <R>ref</R> refreshed.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Hm</F>.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A>But don't you have some hard time to pick up clothes <OL>on Friday</OL>?</A>
+<B><OL><F>Oh</F> no, no</OL>, no, no. And I don't like tie because <F>er</F> I feel strangled by tie</B>
+<A><F>Hm</F>.</A>
+<B>if I <SC>s</SC> I wear suits.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>. But on Friday, <SC>I can</SC> <F>em</F> I don't have to wear tie. This is a very important point for me.</B>
+<A><F>Mm</F>. What do <SC>other people think about that policy</SC> <.></.> other employees think about no tie on Friday?</A>
+<B><F>Er</F> <F>mm</F> some of them likes it and the others <.></.> hate it.</B>
+<A><nvs>laughter</nvs> Why?</A>
+<B><F>Eh</F>?</B>
+<A>Why?</A>
+<B>Why?</B>
+<A><F>Hm</F>.</A>
+<B>Because <F>mm</F> some of them <F>mm</F> <F>mm</F> is wearing <F>mm</F> jeans</B>
+<A><F>Hm</F>.</A>
+<B>and the older people hate it <F>hm</F></B>
+<A><F>Hmm</F>.</A>
+<B>because <SC>his conception</SC></B>
+<A><F>Hm</F>.</A>
+<B><SC>he</SC> <F>em</F> they doesn't have conception of wearing jeans,</B>
+<A><F>Hmm</F>.</A>
+<B><F>hm</F> in the company.</B>
+<A><F>Hmm</F>. <OL>Interesting</OL>.</A>
+<B><OL><F>Hm</F> but</OL> <R>for</R> <SC>for me, like</SC> <F>er</F> for <F>er</F> new employee like me,</B>
+<A><F>Hm</F>.</A>
+<B><SC>it's not</SC> <SC>it's a common</SC> it's not <F>oh</F> <SC>common</SC> ordinary.</B>
+<A><F>Hmm</F>. I see.</A>
+<B>So I like it.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. So next, so we'd like to try a role-play.</A>
+<B>O K.</B>
+<A><F>Mm</F>. O K. Please read this card and when you're ready, I will begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>O K.</B>
+<A>O K. May I help you, sir?</A>
+<B><F>Eh</F> could you help me? <F>Er</F> I would like to go to New York Station</B>
+<A><F>Mh-hmm</F>.</A>
+<B>by train. And I'm looking for the vending machine.</B>
+<A><F>Hmm</F>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Ah</F></OL> actually, there's no vending machine.</A>
+<B>Really?</B>
+<A><F>Mm</F>.</A>
+<B>So how can I do it?</B>
+<A><F>Ah</F> I can sell you a ticket.</A>
+<B><F>Ah</F> <R>you can</R> you can sell it.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Oh</F> O K. <F>Ah</F> <R>I</R> I need one ticket.</B>
+<A><F>Ah</F> there are many kinds of trains today.</A>
+<B><F>Mm</F>. <F>Er</F> <F>er</F> <R>what kind of</R> <F>er</F> what kind of tickets <F>er</F> can I go to New York?</B>
+<A><F>Ah</F> you can take express, super express or local train.</A>
+<B>Super express, because I would like to get <R>Ne</R> New York <SC>as much as possible</SC></B>
+<A><F>Hm</F>.</A>
+<B>as quickly as possible.</B>
+<A><F>Mm</F>.</A>
+<B><F>Hm</F> <OL><CO>So</CO></OL>.</B>
+<A><OL>But it's very expensive</OL>.</A>
+<B>Yeah. I have a lot of money. <OL>No problem</OL>.</B>
+<A><OL><nvs>laughter</nvs> <laughter>O K</laughter></OL>. All right. So super express?</A>
+<B>Yes. <CO><OL><?>It is</?></OL></CO>.</B>
+<A><OL>All right</OL>. <OL>Let me check</OL>.</A>
+<B><OL>How much</OL>?</B>
+<A><F>Eh</F> it's two hundred fifty dollars.</A>
+<B>Two hundred fifty?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> could you discount, please?</B>
+<A><F>Ah</F> no. <nvs>laughter</nvs></A>
+<B>No?</B>
+<A>We usually <OL>give discounts</OL>.</A>
+<B><OL>Why</OL>? Why?</B>
+<A>We don't usually give discounts to train tickets. It's decided by the government. We can't <laughter>give you</laughter> any discount. I'm so sorry.</A>
+<B><F>Oh</F> really? <F>Er</F> could you ask <F>oh</F> <R>the g</R> the government?</B>
+<A>But you're in a hurry, right?</A>
+<B><F>Er</F> I'm in a hurry.</B>
+<A>It takes weeks and months. <nvs>laughter</nvs></A>
+<B>O K. So I pay two hundred fifty in advance. And could you ask the government?</B>
+<A><nvs>laughter</nvs> All right.</A>
+<B>And after the government admits the discount, <F>mm</F> <SC>the</SC> <F>er</F> could you pay back me?</B>
+<A><F>Ahhh</F> I can't decide it.</A>
+<B><R>Yo</R> you can't decide it. <OL><F>Ah</F></OL>.</B>
+<A><OL><F>Mm</F></OL> because I'm just a part-time <OL>worker</OL>.</A>
+<B><OL>O K</OL>. So I pay now.</B>
+<A>O K.</A>
+<B><F>Hm</F>.</B>
+<A>All right.</A>
+<B>So <OL>please</OL>.</B>
+<A><OL>So super</OL> express is O K?</A>
+<B><F>Mm</F>. Quickly. <OL>Give me</OL>.</B>
+<A><OL>All right</OL>. All right. One ticket.</A>
+<B><F>Oh</F> thank you.</B>
+<A><F>Mm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>So have a nice trip.</A>
+<B><F>Ah</F> I'm in a hurry.</B>
+<A><OL>All right</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A>Thank you. All right. O K. So this is the end of the role-play.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>So have you been abroad?</A>
+<B>Yes. I have been to Sydney <OL>last year</OL>.</B>
+<A><OL><F>Hm</F></OL>. <F>Mm</F>. What did you do there?</A>
+<B><F>Er</F> only in Sydney.</B>
+<A><F>Hm</F>.</A>
+<B>Because <R>I watch</R> I watch Olympics. <F>Hm</F>.</B>
+<A><F>Mm</F>. How did you get the ticket?</A>
+<B><F>Er</F> <SC>I get</SC> I got ticket in Japan <F>er</F> six month ago</B>
+<A><F>Hm</F>.</A>
+<B>before the Olympics.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>. And I phoned the company</B>
+<A><F>Hm</F>.</A>
+<B>which is called Ticket Pia <F>mm</F> and I started to phone <F>hm</F> from nine o'clock A M and I finally got the ticket <SC>by</SC> at four o'clock. I have phoned for about seven hours.</B>
+<A><F>Mm</F>. <nvs>laughter</nvs></A>
+<B>It was a hard day for me.</B>
+<A>Right.</A>
+<B><F>Hm</F>. But I was so happy because I could get the ticket. <F>Er</F>.</B>
+<A><F>Mm</F>. So how long did you stay in Sydney?</A>
+<B><F>Eh</F> only for a week.</B>
+<A><F>Wow</F>. So did you have a good time there?</A>
+<B>Yeah. I had a good time. I watched <SC>Ta</SC> Naoko Takahashi</B>
+<A>Really? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><?>run</?> goal</OL>. <F>Mm</F>. Yes.</B>
+<A><nvs>laughter</nvs></A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So lastly, please take a look at another picture.</A>
+<B><F>Mm</F>.</B>
+<A>There are six pictures from one to six. And please make up a story based on these pictures.</A>
+<B><F>Hm</F>.</B>
+<A>And this happened before. So please start your story with "One day last week".</A>
+<B><F>Er</F>. One day last week, it rained a lot.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And a couple is walking on the street. So let me <SC>s</SC> describe the picture. One. They are talking. They looks to be very happy because <F>mm</F> the man loves the woman and the woman loves the man. Yeah. They loves each other. <F>Hm</F>. So <F>er</F> no problem about rain. And, <nvs>sniff</nvs> <F>hm</F> yeah, I move on number two. <F>Ah</F> he hears the voice. But he doesn't know. And number three. <F>Er</F> <F>mm</F> <SC>she fi</SC> she found the cat, but <F>mm</F> the cat <F>er</F> appears to be very tired. <F>Mm</F> and it looks to be dying and she <F>mm</F> picked up the cat. <F>Erm</F> number four. <F>Er</F> she asked him to bring the cat to the hospital. "Please, please.". But <SC>he disclined</SC> <R>he declined the</R> he declined the offer. Next. <F>Em</F> she hugged the cat because <F>mm</F> the cat is very cold and is dying. So he was in trouble because <F>mm</F> he is not <F>mm</F> a good person for the cat. And finally, he decided to go to the hospital to bring the cat. And <F>mm</F> <F>mm</F> <F>mm</F> one umbrella with her.</B>
+</task>
+<followup>
+<A><F>Mm</F> O K.</A>
+<B><??></??></B>
+<A>Thank you. <F>Er</F> have you ever had a pet in your life?</A>
+<B>No.</B>
+<A>No?</A>
+<B>No, I haven't.</B>
+<A><F>Mm</F>. <F>Er</F> there are many cats living in Tokyo, wild cats. What do you think of them?</A>
+<B><F>Er</F> I hate it.</B>
+<A>Why? <nvs>laughter</nvs></A>
+<B>Because the voice of cats, I don't like.</B>
+<A><F>Mm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>So when you find a cat <R>like this</R> like this,</A>
+<B><F>Hm</F>.</B>
+<A>what will you do?</A>
+<B>Yeah. Maybe I will ignore.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Sorry</OL>. <F>Hm</F>.</B>
+<A>Don't you feel guilty?</A>
+<B><F>Er</F> <SC>I feel not guilty</SC> I don't feel guilty.</B>
+<A><F>Mm</F>.</A>
+<B>Because <F>er</F> it doesn't matter for me.</B>
+<A><nvs>laughter</nvs> O K.</A>
+<B>Yeah. <F>Em</F> you think <SC>I'm not good</SC> I'm a bad person.</B>
+<A><F>Mmmm</F>. <nvs>laughter</nvs></A>
+<B><F>Hm</F>. But <F>er</F> <F>er</F> yeah, in fact, I'm a good person.</B>
+<A><laughter>All right</laughter>. So when it rains really hard, what do you usually do?</A>
+<B><F>Er</F> <F>er</F> <R>I</R> <R>I</R> I always <F>mm</F> take an umbrella <F>hm</F> with me <F>hm</F> but <F>er</F> I sometimes forget my umbrella. <F>Hm</F> <F>em</F> when I <F>er</F> forget umbrella, I buy <F>hm</F> new umbrella in a convenience store. <F>Hm</F>. And I use it. <F>Em</F> <F>em</F> for me, the rain doesn't matter.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>So you have many umbrellas you bought <laughter>in a convenience store</laughter>.</A>
+<B>Yeah. But <F>uh</F> <SC>you</SC> I often forget on a train.</B>
+<A><nvs>laughter</nvs></A>
+<B><CO>So</CO>. <F>Hm</F>.</B>
+<A>O K. So it's plus-minus zero.</A>
+<B>Yeah, plus-minus zero.</B>
+<A><laughter>All right</laughter>.</A>
+<B>About three average.</B>
+<A><F>Mmm</F>. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So we have come to almost the end of the interview.</A>
+<B><F>Mm</F>.</B>
+<A>Are you going to be busy today?</A>
+<B>Yeah. I'm busy now.</B>
+<A><F>Mmm</F>. So what time do you think you can go home?</A>
+<B><F>Er</F> maybe in the midnight.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A><F>Wow</F>.</A>
+<B><F>Er</F> so no lunch and no dinner today.</B>
+<A>Really?</A>
+<B>Yeah. Because I spent <F>er</F> the test</B>
+<A><F>Hm</F>.</A>
+<B>for one hour. <F>Hm</F>.</B>
+<A><F>Wow</F>.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. <laughter>It's not healthy</laughter>.</A>
+<B>Yeah. Not <OL>healthy</OL>.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B>Yeah, I have to be healthy but I'm not <?>sure</?>.</B>
+<A><F>Wow</F>. O K. So good luck with your work. And I hope you have a nice relaxing weekend.</A>
+<B>Thank you.</B>
+<A>O K. Thank you very much for your time.</A>
+<B>You, too.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,137 @@
+<interview>
+<filename>file01161.txt</filename>
+
+<head version="1.3">
+<date>2002-07-09</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>470</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. Are you a student?</A>
+<B>Yes.</B>
+<A><F>Um</F>. <SC>What are</SC> what do you study?</A>
+<B><F>Mm</F> <R>I</R> I study English Literature.</B>
+<A>O K.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Uhu</F></OL>. Are you a freshman?</A>
+<B><F>Um</F>?</B>
+<A>Are you a freshman? <OL>First grade</OL>?</A>
+<B><OL>No</OL>. Second.</B>
+<A><?>Year</?>. <F>Uhu</F>. O K. So where do you live <H pn="B's name">XXX02</H>?</A>
+<B><F>Um</F> <R>I</R> I <SC>live in near</SC> live <SC>near there</SC></B>
+<A>There?</A>
+<B>live near here.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <SC><H pn="others1">XXX03</H> Station</SC> <F>uum</F> from <H pn="others1">XXX03</H> Station, I take five minutes.</B>
+<A>O K. All right. So what is your hobby, <H pn="B's name">XXX02</H>?</A>
+<B><F>Mm</F> my hobby is reading books and singing in <JP>karaoke</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. So when you go to <JP>karaoke</JP>, what do you feel?</A>
+<B><..></..> After I drink <nvs>laughter</nvs> with my friend, <F>uum</F> I go to <JP>karaoke</JP>.</B>
+<A><F>Hum</F>. O K. So do you live with your family?</A>
+<B>No. I live <R>my</R> <SC>myself</SC> <R>by</R> by myself.</B>
+<A>O K. So where is your hometown?</A>
+<B>I'm from <H pn="others2">XXX04</H>.</B>
+<A>O K. Tell me a little bit about your hometown.</A>
+<B><F>Hum</F>. <.></.> my hometown is <nvs>cough</nvs> <R>ce</R> center of <H pn="others2">XXX04</H> City. There are many <JP>birus</JP> <F>uum</F> <..></..> and many <R>children</R> children live there. <..></..> My hometown is famous for food. For example, <JP>okonomiyaki</JP> or <JP>takoyaki</JP>. And <R>I</R> I have <JP><R>takoyaki</R></JP> <JP>takoyaki</JP>-<JP>ki</JP>. <nvs>laughter</nvs> And <SC>now</SC> these days, I make often <JP>takoyaki</JP> with my university friends. <R>They are</R> <R>they are</R> they are glad to eat <laughter><JP>takoyaki</JP></laughter>. <..></..></B>
+<A>O K. So what is the biggest difference between <H pn="others2">XXX04</H> and <H pn="others3">XXX05</H>?</A>
+<B><..></..> How to speak. <F>Uum</F> maybe <F>er</F> <R>I</R> I feel <F>uum</F> <H pn="others3">XXX05</H>'s people are cool.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. Maybe it is because how to speak. <..></..></B>
+<A>O K. All right. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>So first of all, <F>er</F> please take a look at this picture, and please describe this picture for me.</A>
+<B><F>Uum</F>.</B>
+<ctxt>The interviewee is thinking for a moment.</ctxt>
+<B>There are bed and desk and computer and <..></..> C D stereo <.></.> <F>uum</F>. <.></.> She is sitting on chair. <..></..> <R>She</R> she have dog and cat. <.></.> They are sleeping. And <..></..> the time is nine o'clock maybe at night. <.></.> <F>Uum</F> the door is open. <..></..></B>
+</task>
+<followup>
+<A>O K. So what is the difference between your room in <H pn="others2">XXX04</H> and this room?</A>
+<B><F>Uum</F> <R>I</R> I don't have computer, <..></..> <R>C</R> C D stereo. And I don't have any pet. <..></..> But <..></..> <SC>it</SC> this is like <R>my</R> my room. <F>Um</F> I have bed and desk. <.></.></B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So next, what I'd like to do is a role-play. Please read this. And when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K. Good afternoon, miss. May I help you?</A>
+<B><F>Er</F> <R>I</R> I want <F>uum</F> <R>tripping</R> <SC>tripping goods</SC> <F>um</F> travel goods. <F>Er</F> because <R>I</R> I wil go to Canada next month. So I want travel goods, <F>uum</F> for example, <F>uum</F> <.></.> suitcase <F>uum</F>. What kind of suitcase <F>err</F> are there in this?</B>
+<A>O K. We have small size, middle size and large size. Some are very light.</A>
+<B><R>I want</R> I want <R>very</R> very light one.</B>
+<A><F>Uhu</F>. O K. This is light.</A>
+<B>O K. It's good. <F>Um</F> I want another thing. <F>Uum</F> <..></..> <R>I</R> <R>I want</R> I want to give any goods <SC>my</SC> to my host family. <F>Uum</F> <SC>Japanese</SC> <R>Ja</R> Japanese traditional goods. Do you have anything?</B>
+<A><F>Oh</F> we have Japanese <JP>furosiki</JP> here. And also we have <JP>hagoita</JP>.</A>
+<B><R>This</R> this <JP>hagoita</JP>, <R>how</R> how should I do with this <JP>hagoita</JP>?</B>
+<A><F>Um</F>? <OL>Excuse me</OL>?</A>
+<B><OL><F>Um</F></OL> how <R>do</R> do I play this <JP>hagoita</JP>?</B>
+<A>This is for decoration.</A>
+<B><F>Oh</F>. Good. <F>Uum</F> <.></.> or anything?</B>
+<A><F>Erm</F> we have <F>erm</F> here is the picture, <.></.> traditional picture.</A>
+<B><.></.> <R>Is</R> <SC>is this</SC> what <R>is</R> is this painted?</B>
+<A>Is this the colored painting?</A>
+<B>No. <F>Err</F>. <CO>What</CO>.</B>
+<A>It is Mount Fuji</A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL>like a</OL> <JP>ukiyoe</JP>.</A>
+<B><F>Oh</F> good. <F>Um</F> <R>I</R> <R>I</R> I want this one.</B>
+<A>O K.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>Here you are</OL>. You're very welcome. <R>Have a</R> have a nice trip.</A>
+<B>Thank you.</B>
+<A>All right. So this is the end of the role-play.</A>
+</task>
+<followup>
+<A>Is this true? Are you going to Canada this <OL>summer</OL>?</A>
+<B><OL>Yes</OL>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. What is your plan? <F>Um</F> what are you going to do in Canada?</A>
+<B><R>I</R> I stay in <R>Cana</R> Canada for two month. <F>Um</F> I'll go to English seminar. Because I want to speak English naturally, and I want to speak with <R>many</R> many foreign people. And <nvs>sniff</nvs> <R>I</R> <R>I</R> I will stay in host family. But <SC>I didn't</SC> <R>I</R> I haven't known <.></.> what kind of people yet. <F>Uum</F> so I'm nervous.</B>
+<A><nvs>laughter</nvs> Why did you choose Canada?</A>
+<B><F>Uum</F> because I went to America, and <R>next</R> next, I think <R>Ca</R> Canada is best. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. I see. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. Next, I'd like you to look at this picture. And one through six, please make a story. And this happened before. So please start with your story with <F>er</F> "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures for a while.</ctxt>
+<B>One day last week, <F>uum</F> <..></..> <R>he</R> <R>he</R> he meet with <R>his</R> his father <F>uum</F> <.></.> after a lot of time. <F>Um</F> <R>they</R> they decide to go restaurant. <.></.> <SC><R>They</R> <.></.> they order <.></.> to <F>er</F> <R>and</R> <..></..> and</SC> <..></..> <R>center</R> center of restaurant seat, <SC>they are</SC> <F>uh</F> <SC>they were</SC> they ordered <.></.> today's special course. <..></..> They were <SC>talk</SC> talking about <F>uum</F> <..></..> <R>they</R> <SC>they</SC> his mother. And <SC>they were</SC> they had a good time. <..></..> <R>The fa</R> the father paid money <F>uum</F> for lunch. <SC>He</SC> <F>uum</F> <SC>the child is <..></..> <F>uum</F> glad</SC> <R>child</R> child was glad. And <.></.> <SC>they were</SC> they said bye-bye and <.></.> see you next month. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>So when you go out with your friend, what is the most important thing?</A>
+<B><.></.></B>
+<A>How do you decide where to eat?</A>
+<B><F>Uum</F> <.></.> first <..></..> <R>we</R> <SC>we</SC> <SC>how ma</SC> <R>how</R> how much we have money. And <R>we</R> <SC>we want</SC> what we want to eat. <F>Uum</F> and atmosphere of <.></.> lunch <F>er</F> restaurant, <F>um</F> I think.</B>
+<A>O K. All right. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So this is almost the end of the interview. What is your plan this afternoon?</A>
+<B><F>Uum</F> <SC>I'll</SC> I will go back to university and I'll study French.</B>
+<A><nvs>laughter</nvs> O K. <F>Well</F>. Good luck to you.</A>
+<B>Thank you.</B>
+<A>All right. So <SC>this</SC> thank you very much for coming today. This is the end. Thank you.</A>
+</stage5>
+</body>
+</interview>

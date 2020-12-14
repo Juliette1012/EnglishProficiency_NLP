@@ -1,0 +1,160 @@
+<interview>
+<filename>file01092.txt</filename>
+
+<head version="1.3">
+<date>2002-04-12</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC>545</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Well</F> nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>, what is your hobby?</A>
+<B><F>Mm</F> my hobby <R>is</R> is playing soccer.</B>
+<A><F>Mm-hm</F>. How long have you been playing soccer?</A>
+<B><F>Mmm</F> <..></..> <R>ten</R> ten years.</B>
+<A>Ten years.</A>
+<B>Yeah.</B>
+<A>O K. So why did you start soccer?</A>
+<B>My friend play soccer when I was <F>ur</F> <.></.> <R>stu</R> <laughter>student</laughter>.</B>
+<A><F>Mm-hm</F>. <F>Ur</F> junior high school student?</A>
+<B><F>Urr</F> <R>ye</R> yes.</B>
+<A><F>Mhm</F>. O K. So now, do you play soccer, too?</A>
+<B>Now, I don't play soccer because <F>urr</F> <SC>I wa</SC> <F>uh</F> I lived in <H pn="others1">XXX03</H>, but I get a job at <H pn="others2">XXX04</H> so I move <H pn="others3">XXX05</H>. So <R>I</R> I can't play soccer.</B>
+<A><F>Uhh</F>. O K. I see. Does this company have a soccer club or circle?</A>
+<B><F>Uh</F> yes, <F>err</F> <..></..> it <laughter>does</laughter>.</B>
+<A>So are you going to join the club?</A>
+<B><F>Mm</F> <SC>I think ss</SC> I think I join team.</B>
+<A>O K. I see. So <F>urr</F> do you live in <H pn="others3">XXX05</H> now?</A>
+<B>Yes.</B>
+<A><F>Uhh</F> so where in <H pn="others3">XXX05</H> do you live?</A>
+<B><R>Near</R> <F>ur</F> near company.</B>
+<A>Near the company?</A>
+<B>Yes.</B>
+<A><F>Uhh</F> so how do you come to the office?</A>
+<B><F>Urr</F> <F>er</F> <R>walk</R> walk to company.</B>
+<A>How long do you walk?</A>
+<B><F>Urr</F> maybe about five minutes.</B>
+<A><F>Oh</F> <?>pretty</?> close. O K. Tell me about your family, please.</A>
+<B>O K. <SC>My</SC> there're <F>urr</F> three people in my family. My father and younger sister. <F>Ur</F> my father is retire, and younger sister worked at part time job.</B>
+<A><F>Mm-hm</F>. So where do they live?</A>
+<B>They live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>. How often do you go back to <H pn="others1">XXX03</H>?</A>
+<B><F>Uhm</F> <..></..> once a month.</B>
+<A><F>Oh</F> once a month. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then please look at this picture, and please describe it.</A>
+<B>O K. <.></.> Girl <R>sit</R> sit that chair. And <R>she</R> she looks <R>dog</R> <R>dog</R> dog. And <SC>cat sleep the</SC> <F>ur</F> a cat sleep on the bed. <.></.> <F>Urm</F> <..></..> <F>urr</F> <.></.> <SC>the room door is</SC> <F>uh</F> room door opened. <..></..> <F>Uhm</F> <.></.> there is <R>com</R> computer near window. <..></..> And typewriter <.></.> is located near computer. <..></..> <F>Mhm</F> there is <F>ur</F> stereo and telephone and book. <..></..> And the time is nine o'clock. <..></..> <F>Urm</F> the carpet is yellow. <nvs>laughter</nvs></B>
+<A><F>Uh</F> O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you have your own room?</A>
+<B>Yes. Yes, I have.</B>
+<A>Please tell me about your room?</A>
+<B>Room. <F>Urr</F> <.></.> now I <R>live</R> live in the company's <R>do</R> <R>do</R> <R>domine</R> domine.</B>
+<A><F>Mm-hm</F>.</A>
+<B>So <F>urr</F> that domine is very dirty and <R>ol</R> old. <F>Urr</F> <SC>and bathroom</SC> and <F>uh</F> <SC>bathroom is</SC> <F>uh</F> <SC>bath</SC> <SC>we</SC> <R>I</R> <.></.> I use bathroom <F>ur</F> other <F>er</F> co-worker.</B>
+<A><F>Mm</F>. O K.</A>
+<B>And <R>my</R> my room is very <laughter>dirty</laughter>, too.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Uhm</F> I have a bed and one desk and one clothes box and telephone. <F>Ur</F> and the room is very small. <.></.> <F>Uhm</F> but I <laughter>like it</laughter>.</B>
+<A><laughter>That's good</laughter>. But you like it.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Next is role-play. Yeah. This is your card. Please read it.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>Then I will start. May I help you?</A>
+<B>Yes. I'd like to go New York using train. And I want to go <.></.> <SC>early</SC> earlier as <SC>I can possible</SC> I possible.</B>
+<A><F>Mm-hm</F>.</A>
+<B>So <SC>could you tell me what I</SC> <F>ur</F> could you tell me <F>err</F> which ticket I <SC>should be buy</SC> should buy?</B>
+<A>O K. <F>Well</F> why don't you take a express?</A>
+<B><F>Uh</F> O K.</B>
+<A><F>Mm-hm</F>.</A>
+<B><.></.> <F>Urr</F> <.></.> <R>I</R> <.></.> I will do that.</B>
+<A>O K.</A>
+<B>Yeah. So <R>where</R> <F>urr</F> <SC>where is ticket</SC> <F>uh</F> where can I buy ticket?</B>
+<A><F>Oh</F> you can buy ticket here.</A>
+<B><F>Uh</F> here? <F>Oh</F> so <.></.> <F>err</F> <R>I</R> I buy the express ticket to New York.</B>
+<A>O K. O K. Here you are.</A>
+<B>Thank you.</B>
+<A>O K. Have a nice trip.</A>
+<B><F>Uh</F> thank you very much.</B>
+<A>Thank you. O K. Good. This is the end of role-play.</A>
+</task>
+<followup>
+<A>Have you been abroad?</A>
+<B>Yes, I have.</B>
+<A>Where did you go?</A>
+<B><R>I</R> I went to go <SC>U</SC> United States.</B>
+<A><F>Uh-huh</F>. So please tell me about your trip.</A>
+<B>Trip.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Mhm</F> when I was <F>err</F> eleven years old, I <SC>went to go</SC> <F>uh</F> went to <SC>U A</SC> <F>uh</F> United States. So I don't <laughter>remember</laughter>.</B>
+<A><OL><F>Uhh</F></OL>.</A>
+<B><OL><F>Ur</F></OL> <R>but</R> <F>ur</F> but I watched <F>ur</F> <SC>free</SC> <R>liber</R> <SC>liberty of</SC> <F>eh</F> <laughter>statue of liberty</laughter></B>
+<A>O K.</A>
+<B>and Niagara Fall, and went to Washington D. C.</B>
+<A><F>Ohh</F> <F>mhm</F> I see. Who did you go with?</A>
+<B><F>Mhm</F> <.></.> <SC>child</SC> children tour.</B>
+<A>Children tour?</A>
+<B>Tour.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>urr</F> <SC>only I</SC> <F>uh</F> I joined <SC>children</SC> <F>uh</F> other children, and went to go <SC>U S</SC> United States.</B>
+<A><F>Uhh</F>. How many children were there?</A>
+<B>About <R>ten</R> ten children.</B>
+<A><F>Uhh</F> only ten children. O K. And now, do you want to U S A again?</A>
+<B><F>Mhm</F> <.></.> yes. <laughter>Yes, I want to go</laughter>.</B>
+<A>O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Then this is another picture for you. This time, please make up a story. O K? Using six pictures. And this happened before. So please start your story with, "One day last week,"</A>
+<B><.></.> <F>Uh</F> <R>par</R> pardon?</B>
+<A>O K. This happened before. So please start your story with, "One day last week,"</A>
+<B>One day last week, <F>urr</F> <SC>the <F>ur</F> couple <F>mm</F> <SC>walking the</SC> <F>uh</F> <SC>walk to street</SC> <F>urr</F> walked street</SC> <F>uh</F> <SC>when the couple walked street</SC> when couple was walking street, <F>urr</F> they heard <F>ur</F> <.></.> sounds of <R>some</R> something. <..></..> <R>The</R> the man heard the sound. <R>They</R> <..></..> <R>they</R> they <R>look up</R> <SC>look up a cat</SC> looked up a cat. <R>The girl</R> the girl <F>err</F> <R>hold</R> hold to the cat. <SC>She said <F>urr</F> the cat</SC> she said <.></.> <F>mhm</F> <..></..> she want to be with the cat. But the man said no. <.></.> <F>Uhm</F> but the <SC>girl <.></.> is</SC> girl want to be a cat. The girl said, "Please," so the man changed the opinion. Then <SC>they're</SC> they and cat went to home.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>Do you like pets?</A>
+<B>No, I don't.</B>
+<A>Why not?</A>
+<B><R>I</R> I can't take care <SC>there</SC> <nvs>laughter</nvs> <F>uh</F> the pet.</B>
+<A><F>Uhh</F> O K. I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. This is almost the end of <OL><laughter>interview</laughter></OL>.</A>
+<B><OL><laughter>Thank you</laughter></OL>.</B>
+<A>And this weekend, are you going out?</A>
+<B><R>Yes</R> <R>yes, I am</R> yes, I am.</B>
+<A><F>Uh</F> where are you going?</A>
+<B><F>Urm</F> <SC>I</SC> I'm going to sightseeing in <H pn="others3">XXX05</H>.</B>
+<A><F>Uhh</F> O K. I see. <F>Ur</F> are you going with your friends?</A>
+<B><F>Mhm</F> maybe <SC>I</SC> <F>uh</F> only me.</B>
+<A><F>Uhh</F> O K. <F>Well</F> I hope you'll have a good time in <H pn="others3">XXX05</H>.</A>
+<B>Thank you.</B>
+<A>Thank you very much. That's all.</A>
+</stage5>
+</body>
+</interview>

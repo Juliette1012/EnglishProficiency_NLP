@@ -1,0 +1,152 @@
+<interview>
+<filename>file00197.txt</filename>
+
+<head version="1.3">
+<date>2001-01-16</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>student</category>
+<step>3</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. Can I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>Yes, <F>ah</F> I'm fine, thank you. And you?</B>
+<A>I'm O K. Thank you. O K, <F>ah</F> where do you live, <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F> <R>I</R> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Mm-mm</F>. Do you live in <H pn="others1">XXX03</H> with your family?</A>
+<B>No. <.></.> I live only me.</B>
+<A>I see. <F>Oh</F> how long have you lived in <H pn="others1">XXX03</H>?</A>
+<B><F>Eh</F> <R>I</R> <SC>I live</SC> I have lived for two years.</B>
+<A><F>Mm</F> I see. Are you satisfied with living in <H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. What do you like about that?</A>
+<B><F>Mm</F> I can reach for <SC>e</SC> <H pn="school name1">XXX04</H> <.></.> fast.</B>
+<A><F>Mm-mm</F> then, how do you come to <H pn="school name1">XXX04</H>?</A>
+<B><F>Ah</F> I come by bicycle.</B>
+<A>Bicycle, <F>wow</F> that's good. O K, <F>mm-mm</F>. And what do you study?</A>
+<B><nvs>sniff</nvs> <F>E</F> <F>eh</F> <R>I</R> I study <F>eh</F> <R>mechani</R> <F>eh</F> mechanic engineering.</B>
+<A><F>Mm</F>.</A>
+<B><nvs>sniff</nvs></B>
+<A><R>Why</R> why do you study that? <nvs>cough</nvs></A>
+<B><F>Mm</F> <SC>I</SC> <nvs>cough</nvs> <F>mm</F> <..></..> mechanic is <F>ah</F> fun, <.></.> <F>ah</F> <SC>I'm in</SC> <F>n</F> it is interesting <nvs>sniff</nvs> <F>ah</F> to study <.></.> <F>ah</F> <.></.> about a car.</B>
+<A><F>Ah</F> you like car. <F>Ah</F> I see. Then, do you drive a car?</A>
+<B><F>Ah</F> yes. <R>I</R> <nvs>cough</nvs> I drive a car <F>ah</F> <R>when</R> <R>when I</R> when I leave a home in <H pn="others2">XXX05</H>.</B>
+<A>I see. Then, tell me about your car. Your car or your family car, I don't know, but tell me about the car.</A>
+<B><F>Eh</F> my car is <F>uh</F> <H pn="others3">XXX06</H>.</B>
+<A><F>Mm-mm</F>. Anything else?</A>
+<B><.></.> <F>Uh</F>. <.></.></B>
+<A>The color or how big it is.</A>
+<B><nvs>sniff</nvs> <nvs>sniff</nvs></B>
+<A>What color is the car?</A>
+<B><F>A</F> <R>what color</R> <F>ah</F> what color. My car is <R>white</R> white color.</B>
+<A><F>Mm</F> so why do you like <H pn="others3">XXX06</H>?</A>
+<B><F>Eh</F> <nvs>sniff</nvs> <.></.> because <F>uh</F> <SC>it is</SC> <R>there is</R> <F>uh</F> <SC>there is a car</SC> there is the car in my house.</B>
+<A><laughter>O K</laughter>. All right. So <R>who</R> whose car is that actually?</A>
+<B><F>Ah</F> <nvs>cough</nvs> <nvs>sniff</nvs> family car.</B>
+<A>A family car. O K. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <nvs>cough</nvs> please look at this picture. And tell me what you see about this picture.</A>
+<B><nvs>sniff</nvs></B>
+<ctxt>The interviewee is looking the picture.</ctxt>
+<B>There is a <F>ah</F> happy family. <nvs>sniff</nvs> <F>Mm</F>. <.></.> There is a car front of house. <F>Uh</F> <nvs>sniff</nvs> <.></.> <nvs>sniff</nvs> <R>a man</R> a man is running <R>on the</R> on the road. <nvs>sniff</nvs> <F>Eh</F> <R>three</R> three children is playing. <nvs>sniff</nvs> <F>Eh</F>. <.></.> Two dog is <nvs>sniff</nvs> <F>eh</F> <?>bowing</?>. <.></.> <nvs>sniff</nvs> <..></..> Today is sunny day. <nvs>sniff</nvs> <..></..> <R>There</R> <SC>there isn't</SC> <nvs>sniff</nvs> <F>mm</F> <..></..> there are <F>uh</F> many green tree. <.></.></B>
+<A>That's all?</A>
+<B>That's all.</B>
+</task>
+<followup>
+<A>O K, thank you very much. <F>Ah</F> is this picture <nvs>cough</nvs> different from your neighborhood in <H pn="others2">XXX05</H>?</A>
+<B><F>Ah</F> <nvs>sniff</nvs> <F>nn</F> no.</B>
+<A><F>Mm</F> is there any difference between this picture and your neighborhood?</A>
+<B><F>Ah</F> yes.</B>
+<A><F>Mm</F>.</A>
+<B><F>Ah</F> <H pn="others1">XXX03</H> is <SC>many building</SC> many high building. <nvs>sniff</nvs></B>
+<A>Then, which do you like better?</A>
+<B><F>Ah</F> now, <R>I</R> <SC>I like better</SC> <F>ah</F> I like <F>eh</F> <H pn="others1">XXX03</H> better.</B>
+<A><F>Mm</F> why?</A>
+<B><nvs>cough</nvs> <F>Ah</F> <.></.> <F>a</F> <F>ah</F> <R>there are</R> <F>ah</F> there are many playing spot.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Ah-hah</F> I see. O K, thank you very much. Now, O K, <H pn="B's name">XXX02</H>, let's have a role-play, O K? This is your card. Please read it. And when you are ready, I'll begin. <nvs>cough</nvs></A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B><nvs>cough</nvs></B>
+<A>This is telephone conversation. Trun-trun. Hello?</A>
+<B>Hello? <F>An-m</F>.</B>
+<A><CO>This is</CO>. <OL><F>Mm</F></OL>.</A>
+<B><OL><R><H pn="B's name">XXX02</H></R> <H pn="B's name">XXX02</H></OL> speaking.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B><F>Ah</F> <F>mm</F> <R>shal</R> shall we <R>go</R> <F>ah</F> go to the movie?</B>
+<A>Sounds great.</A>
+<B><F>Ah</F> <.></.> <R>how</R> <R>how we</R> <..></..> <F>ah</F> how we <R>go</R> go to there?</B>
+<A><F>Ah</F> where <SC>sh</SC> are we going? Where is the movie theater?</A>
+<B><F>Ah</F> <nvs>sniff</nvs> <F>uh</F> <SC>there</SC> <F>ah</F> it is in Shinjuku-ku.</B>
+<A><F>A</F> Shinjuku. Then, I'm coming by J R.</A>
+<B>Yes, <F>eh</F> <.></.> <F>eh</F> <nvs>sniff</nvs> <..></..> so <F>er</F> <R>I</R> <.></.> I will wait <F>ah</F> at Takadanobaba Station.</B>
+<A><F>Mm-mm</F>. O K.</A>
+<B><F>Eh</F> <JP>ja</JP> <R>when</R> <F>ah</F> <SC>when we</SC> <F>er</F> <??></??> <SC>the movie</SC> <F>n</F> the theater <R>open</R> <F>ah</F> <nvs>cough</nvs> open at three o'clock. <F>Ah</F> so <SC>we</SC> <.></.> <F>ah</F> <R>I wait</R> <nvs>sniff</nvs> <F>eh</F> I wait at Takadanobaba Station <F>uh</F> <.></.> on two o'clock.</B>
+<A>O K. So Takadanobaba Station at two o'clock. O K. So thank you. Thank you for calling.</A>
+<B><nvs>sniff</nvs></B>
+<A>See you then.</A>
+<B>Bye.</B>
+<A>Bye. All right. Thank you.</A>
+</task>
+<followup>
+<A>The role-play is over. <nvs>cough</nvs> Do you like movies?</A>
+<B>Yes, <R>I</R> I do.</B>
+<A><F>Mm</F> <F>ah</F> what kind of movies do you like?</A>
+<B><F>Uh</F> <R>I</R> <R>I like</R> <F>ah</F> <.></.> <JP><F>etto</F></JP> I like <R>action</R> action better.</B>
+<A><F>Mm-mm</F>. O K. Then, which do you like better, Japanese movies or American movies?</A>
+<B>Of course, <R>I</R> I like American movies <OL>better</OL>.</B>
+<A><OL><F>Mm</F></OL> why?</A>
+<B><nvs>cough</nvs> <F>Uh</F> <F>ah</F> <SC>these are</SC> these <R>ha</R> have <F>ah</F> <.></.> <R>bi</R> big scale <F>ah</F> and <F>ah</F> strong impact.</B>
+<A><F>Ah</F> yeah, that's true. <F>Mm</F> I really love American movies, too.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, then, <nvs>cough</nvs> O K, <?>move on to this</?>. This time, please make up a story based on these four pictures. O K? But this story happened last week. So please start your story with "One day last week". And when you are ready, please start.</A>
+<B><nvs>sniff</nvs></B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>One day, <F>ah</F> a boy and a girl <F>ah</F> <R>come to</R> come to a zoo. <.></.> <nvs>sniff</nvs> <F>Ah</F> <R>they</R> <.></.> <R>they sto</R> <F>uh</F> they stopped to talk <nvs>cough</nvs> <nvs>sniff</nvs> <F>ah</F> <R>fro</R> front of lion. <.></.> <F>Uh</F> <F>uh</F> and <R>they</R> <.></.> <F>eh</F> they stop to <.></.> talk <nvs>sniff</nvs> <F>ah</F> front of a monkey, too. <F>A</F> <R>a monkey</R> <F>eh</F> a monkey was <nvs>sniff</nvs> <R>eating</R> eating a banana. <..></..> <nvs>sniff</nvs> <F>Ah</F> then, <R>they</R> <.></.> <F>ah</F> <R>they</R> <nvs>sniff</nvs> <.></.> they said good-bye front of <.></.> <R>the</R> the zoo.</B>
+</task>
+<followup>
+<A>Thank you, thank you for <?>the story</?>. <F>Ahn</F> do you think a zoo is a good place for a date?</A>
+<B><..></..> <F>Ah</F> no.</B>
+<A><F>Hm</F>.</A>
+<B>Because <F>ah</F> <R>it i</R> it is not to fun.</B>
+<A>It's not fun? I see. Then, where would you like to go with your girlfriend?</A>
+<B><F>Mm</F> <nvs>sniff</nvs> <F>eh</F> I want to <R>go</R> <F>ah</F> <.></.> <F>uh</F> <F>eh</F> go to amusement park like Tokyo Disney Land. <nvs>sniff</nvs></B>
+<A>I see. All right. Yeah. So maybe, <R>that's</R> that's fun. <nvs>laughter</nvs> O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Ah</F> interview is almost over. Thank you for coming today.</A>
+<B>Thank you very much.</B>
+<A><F>Mm</F> and do you have any plans for today?</A>
+<B><F>Ah</F> yes, <F>eh</F> <R>I</R> I go back to <JP>rikogakubu</JP>.</B>
+<A><F>Mm-mm</F> <F>a</F> you have a class</A>
+<B><OL>Yes</OL></B>
+<A><OL>today</OL>? I see. All right. Thank you very much. And <F>er</F> have a good day.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

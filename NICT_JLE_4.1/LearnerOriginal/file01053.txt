@@ -1,0 +1,174 @@
+<interview>
+<filename>file01053.txt</filename>
+
+<head version="1.3">
+<date>2002-03-08</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>300</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K. Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B><F>Er</F> I'm fine. <F>Er</F> <.></.> pretty good.</B>
+<A>O K, <F>er</F> <H pn="B's name">XXX02</H>, what do you do in this company?</A>
+<B><F>Hmm</F> <.></.> I'm work in C A <F>uh</F> <SC>I</SC> my job is technical support.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> I'm in charge of indirect <F>uh</F> <F>mm</F> channel <..></..> products support.</B>
+<A>Do you go to other companies?</A>
+<B><.></.> No.</B>
+<A>No?</A>
+<B><F>Mm</F> my job is back office <F>mm</F> <R>wo</R> work.</B>
+<A>I see. How did you learn computer?</A>
+<B><F>Mm</F> <..></..> maybe <F>erm</F> ten years.</B>
+<A><F>Uh-huh</F>. Did you go to <OL>school</OL>?</A>
+<B><OL><nvs>sniff</nvs></OL> Yeah. <F>Er</F> first <F>um</F> <..></..> I studied <SC>computer</SC> <F>uh</F> about computer in <R>s</R> school <nvs>cough</nvs> <.></.> <F>mm</F> next, <F>er</F> <SC>I wo</SC> I'm working still.</B>
+<A>I see. But sounds difficult. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>To me. O K. <F>Um</F> do you have any hobbies?</A>
+<B><nvs>sniff</nvs> <F>Um</F> <.></.> yeah, I like drive <F>erm</F> and skiing <.></.>.</B>
+<A>I see. Tell me about your car.</A>
+<B><nvs>sniff</nvs> <nvs>laughter</nvs> Now, <F>erm</F> my car is Toyota Vitz but a <F>mm</F> few years ago, I crashed a car <SC><laughter>my</laughter></SC> <..></..> <F>mm</F> because I <..></..> <R>lo</R> <F>mm</F> <R>lost</R> lost my way.</B>
+<A><F>Mm</F> that's too bad. Where do you usually go driving?</A>
+<B><F>Ah</F> <.></.> now I'm not driving but <F>mm</F> a few years ago, I usually drive <R>in</R> in <.></.> so Hakone and Okutama.</B>
+<A><F>Ah</F>, which season is the best?</A>
+<B><F>Er</F> Hakone's best seasons is maybe <F>er</F> winter.</B>
+<A>Winter. <F>Uh-huh</F>.</A>
+<B>Because <F>er</F> winter is clear <.></.> <F>mm</F> weather and <.></.> very nice view <F>er</F> but <JP><F>mmto</F></JP> in Okutama, <F>mm</F> Okutama's best seasons is fall <F>er</F> because fall is <F>mm</F> <.></.> change color and mountain and tree.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. <F>Woo</F>, sounds beautiful. O K, now please take a look at this picture</A>
+<B><F>Uh-huh</F>.</B>
+<A>and tell me about the picture.</A>
+<B><F>Um</F> <..></..> <R>sh</R> <..></..> she's a <F>mm</F> homeworker. And then, <SC>she now</SC> <R>sh</R> she have a break time <R>and</R> and <F>mm</F> then, <SC>she communicate</SC> she's <F>uh</F> communicate to she's pet she have. <F>Er</F> <R>she</R> she have the pet and <R>the</R> the <SC>pet</SC> is <F>uh</F> pets are dogs and cats and <SC>sh</SC> and <SC>she</SC> <F>uh</F> <F>mm</F> the dogs and the cats is very <F>mm</F> lovely <..></..> by her. <F>Mm</F> and <R>sh</R> she's <F>er</F> hobby is listen to music and <..></..> <R>she</R> <..></..> <F>mm</F> <.></.> <R>sh</R> she have a <F>mm</F> one computer and typewriter but the typewriter <.></.> <F>uh</F> <SC>sh</SC> but she didn't <F>uh</F> <R>do</R> <SC>do not</SC> <F>uh</F> <SC>doesn't</SC> does not use typewriter now because <F>er</F> she bought computer.</B>
+</task>
+<followup>
+<A>O K, thank you very much. O K, <H pn="B's name">XXX02</H>-<JP>san</JP>, have you ever kept a pet? Have you ever had a pet? <OL>A pet dog or a pet cat</OL>?</A>
+<B><OL><F>Ah</F></OL> <nvs>laughter</nvs> yeah. Dog.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <F>um</F> <R>my</R> my parents have a pets. <F>Mm</F> <R>th</R> three dogs.</B>
+<A>Three dogs. <F>Wow</F>.</A>
+<B><R>In</R> in parents' house.</B>
+<A>O K.</A>
+<B><SC>There is a</SC> <SC>there is very</SC> <F>mm</F> there is lovely pet but big <..></..></B>
+<A>Very big.</A>
+<B><nvs>laughter</nvs> Very <JP>nan</JP> very problem <OL><laughter><??></??></laughter></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL>Problem</OL>. <F>Oh</F> really? O K. So now, let's have a role-play. O K. This is your card. Please read it and when you're ready, I'll start the conversation.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K?</A>
+<B>Yeah. <nvs>sniff</nvs></B>
+<A>Alright.</A>
+<B><.></.> Yeah.</B>
+<A>May I help you sir?</A>
+<B>Yeah, <F>er</F> please show me <SC>the</SC> <F>hum</F> this <.></.> ring?</B>
+<A>Ring. Sure. Here you are.</A>
+<B><F>Um</F> <.></.> <R>so</R> <R>so</R> so, <F>um</F> <SC>mo</SC> <F>mm</F> <.></.> please show me more than small and cute ring?</B>
+<A>O K, how about this one?</A>
+<B>Yes. Thank you. <F>Mm</F> <..></..> <R>I</R> <F>um</F> I wanna <.></.> <F>mm</F> this one, <OL>please</OL>.</B>
+<A><OL>O K</OL>. But this is a little expensive. O K?</A>
+<B><F>Er</F> how much this is?</B>
+<A>Fifty thousand yen.</A>
+<B>Fifty thousan yen. <F>Ah</F> <..></..> so <SC>just lit</SC> please price down, just little.</B>
+<A>O K. Then forty thousand yen.</A>
+<B>Forty thousand yen. Yeah, <laughter>O K</laughter>.</B>
+<A>O K?</A>
+<B>Yeah.</B>
+<A>Would you like this?</A>
+<B>Yes.</B>
+<A>O K. Right. <F>Er</F> are you paying cash? Or card?</A>
+<B>Card.</B>
+<A>O K. Alright O K. Here you are.</A>
+<B>Thank you. <.></.> <F>Mm</F> <.></.>. Thank you. <OL>Bye</OL>.</B>
+</task>
+<followup>
+<A><OL>Thank you</OL>. Good bye. Alright, <H pn="B's name">XXX02</H>-<JP>san</JP>, do you like shopping?</A>
+<B><laughter>No</laughter>.</B>
+<A>No.</A>
+<B>I hate shopping.</B>
+<A>Why?</A>
+<B><F>Er</F> <.></.> <R>I</R> I hate choice of <F>mm</F> products. <F>Er</F> always I <.></.> lost the <F>er</F> <R>my fe</R> my feeling is very difficult. <nvs>laughter</nvs> <R>This one</R> <R>this one</R> <R>this one</R> this one.</B>
+<A>O K. <F>Oh</F> I see. Then, <F>er</F>, do you like to go shopping with somebody to ask for advice? <nvs>laughter</nvs></A>
+<B><F>Ah</F> <.></.> no, <R>I</R> I'm research <F>erm</F> in using Internet <F>mm</F> I go shopping alone.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uh-huh</F>. <F>Hmm</F>. That's good. You use Internet. That's great. O K. Now, I'm going to show you one more picture.</A>
+<B><F>Uh-huh</F>.</B>
+<A>This time, make a short story</A>
+<B><F>Uh-huh</F>.</B>
+<A>using these four pictures. One, two, three, four. O K?</A>
+<B><nvs>sigh</nvs> <..></..> <F>Mm</F>.</B>
+<ctxt>The interviewee is thinking.</ctxt>
+<B>Yeah. <..></..> Two man and a girl <F>er</F> <R>go to</R> <..></..> <SC>go to movie</SC> <.></.> <F>uh</F> go to theatre and then <..></..> <SC>there is</SC> <SC>there are</SC> <..></..> they think <R>the</R> <..></..> <R>they</R> they are hungry. Then, they go to food shop <.></.> and <R>they bought</R> they bought drink and popcorn and <.></.> any food. They hold that food and they watch the movie. The movie is <F>er</F> <..></..> <laughter>terrorist attack movie</laughter> and very <F>mm</F> very nice and fun <..></..> and <.></.> <SC>the finish</SC> the movies finish is very clearly and very <..></..> happy and they're enjoyed. Then they go <..></..> home.</B>
+</task>
+<followup>
+<A>Right, thank you very much <H pn="B's name">XXX02</H>-<JP>san</JP>. Do you like movies?</A>
+<B><F>Ah</F> yeah, <laughter>I like movie</laughter> but <R>I don't</R> I don't watch the movie usually.</B>
+<A><F>Oh</F>, why not?</A>
+<B><F>Ummm</F> <laughter>I don't know</laughter> but <F>mm</F> <..></..> <SC>I have not</SC> <F>er</F> I not have <SC>time</SC> free time and <.></.> <F>mm</F> <..></..> weekend</B>
+<A><F>Uh-huh</F>.</A>
+<B>I sleep <..></..> all days <nvs>laughter</nvs>.</B>
+<A>Really?</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><F>Ah</F>, do you always work overtime?</A>
+<B>Yeah, always.</B>
+<A>What time do you usually get home?</A>
+<B><F>Mm</F>. Usually, I go home about <F>mm</F> two A M.</B>
+<A>Two A M?</A>
+<B>Yeah</B>
+<A><F>Oh</F>, but how do you go home?</A>
+<B><nvs>sniff</nvs> <F>Mm</F>.</B>
+<A>By train?</A>
+<B>Yeah, by train.</B>
+<A><F>Oh</F> really? <OL>There's train</OL>?</A>
+<B><OL>Last train</OL>.</B>
+<A>Last train. <F>Wow</F>. Then, when you miss the last train, what do you do?</A>
+<B><F>Ah</F>, <laughter>I</laughter> go back to office. <nvs>laughter</nvs></B>
+<A><OL><laughter>Really</laughter></OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A>You stay in the office?</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Wow</F>, you must be so busy.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. But <H pn="B's name">XXX02</H>-<JP>san</JP>, interview is almost ending. Thank you for coming today.</A>
+<B>Thank you.</B>
+<A><F>Um</F>, what do you want to do tomorrow?</A>
+<B><nvs>sniff</nvs> <nvs>sigh</nvs> <..></..> <R>I</R> I want refresh.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>Take a good rest.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,207 @@
+<interview>
+<filename>file00434.txt</filename>
+
+<head version="1.3">
+<date>2001-04-16</date>
+<sex>male</sex>
+<age>30</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>360</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>.</A>
+<B><JP>Hai</JP>.</B>
+<A>How are you today?</A>
+<B><F>Erm</F> fine, thank you. How are you?</B>
+<A>I'm fine, too. Thank you. <F>Er</F> O K. Mister <H pn="B's name">XXX02</H>, <F>mm</F> where do you live?</A>
+<B><F>Mm</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Eh</F> <..></..> <R><H pn="others2">XXX04</H></R> <..></..> <F>um</F> <H pn="others2">XXX04</H>. <nvs>laughter</nvs></B>
+<A><F>Hm</F> I see. So, <F>er</F> how do you come to the office everyday?</A>
+<B><F>Hm</F> about nine o'clock.</B>
+<A><F>Hm</F>. <F>Hm</F>? <F>Hm</F> O K. Do you have any hobbies?</A>
+<B><F>Hmm</F> nothing. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hm</F> <R>no</R> no hobbies</OL>?</A>
+<B><nvs>laughter</nvs></B>
+<A>So, what do you do in your free time?</A>
+<B><F>Urm</F> <..></..> almost <R>I</R> I read magazine.</B>
+<A>So, what kind of magazine do you read?</A>
+<B>That's <JP>manga</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <?>So you like to read</?>. <F>Hm</F> so, <F>er</F> can you tell me about your job?</A>
+<B><F>Hmm</F> yes. <F>Eh</F> <.></.> I support customer. <..></..> That's database <..></..> management system. <..></..> That's all. <nvs>laughter</nvs></B>
+<A>O K. Do you enjoy your job?</A>
+<B><F>Mmm</F> <.></.> yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Oh</F> I see. <F>Er</F> do you live <R>wi</R> <F>er</F> with your family?</A>
+<B><F>Ur</F> yes.</B>
+<A><F>Hm</F>.</A>
+<B>I have two children and</B>
+<A><F>Um</F>.</A>
+<B>my wife.</B>
+<A>I see. <F>Er</F> can you tell me about your children?</A>
+<B><F>Hm</F> my son</B>
+<A><F>Um</F>.</A>
+<B>is <H pn="others3">XXX05</H>.</B>
+<A><F>Um-huh</F>.</A>
+<B><F>Ehh</F> he is pretty boy.</B>
+<A><F>Hm</F>.</A>
+<B>And <.></.> my daughter is <H pn="others4">XXX06</H>.</B>
+<A><F>Um</F>.</A>
+<B>She is <..></..> very pretty. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F> I see</OL>. How old are they?</A>
+<B><F>Mm</F> he is <.></.> four.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> she is one.</B>
+<A><F>Hm</F> I see. So, <F>hm</F> what would you do with them?</A>
+<B><F>Hmm</F>. <.></.> <F>Mm</F>?</B>
+<A>So, how do you play with them?</A>
+<B><F>Urm</F> <.></.> <R>we</R> <..></..> we like drive. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><..></..> <F>Hm</F> <F>hm</F> that's all. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+</stage1>
+<stage2>
+<task>
+<A>O K.</A>
+<B><nvs>cough</nvs></B>
+<A><nvs>cough</nvs> Now, I'd like to show you a picture.</A>
+<B>Yes.</B>
+<A>O K? So, please tell me what you see in this picture.</A>
+<B><F>Mm</F> pardon?</B>
+<A>Please tell me <F>ah</F> what you see in this picture.</A>
+<B><F>Hmm</F> I can see</B>
+<A><F>Hm</F>.</A>
+<B>house and car <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>many people.</B>
+<A><F>Hm</F>.</A>
+<B><F>Uhm</F> <.></.> the sun</B>
+<A><F>Um</F>.</A>
+<B>is smiling. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><.></.> <F>Eh</F> <..></..> a cat is sleeping on the car. <..></..> A man is running on the road. <..></..> A man is reading a newspaper. <..></..> <F>Mm</F> the dogs <..></..> <F>hm</F> <..></..> looks each other. <nvs>laughter</nvs> <..></..> Two boys are playing volleyball. <..></..> A girl is <..></..> rope. <nvs>laughter</nvs> <laughter>That's all</laughter>.</B>
+</task>
+<followup>
+<A>O K. <F>Hm</F> you said you live in <H pn="others2">XXX04</H>.</A>
+<B>Yes.</B>
+<A>Right? Can you compare <F>er</F> your neighborhood and this picture?</A>
+<B><F>Mm</F> <F>erm</F> <..></..> this picture is <..></..> <F>mm</F> big house.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> But <H pn="others2">XXX04</H> <..></..> <F>mm</F> is <F>mm</F> a little house. <..></..> That's all.</B>
+<A><F>Hm</F>. O K. Thank you very much.</A>
+<B><?>Yeah</?>. Thank you very much.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>And now, I'd like to do a role-play.</A>
+<B>Yes.</B>
+<A>O K? O K. So, please look at this card. And when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A><F>Hm</F>?</A>
+<B>O K.</B>
+<A>O K. Hello?</A>
+<B>Hello? <F>Eh</F> this is <H pn="B's name">XXX02</H>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Eh</F> <..></..> <CO><OL><?>Would</?></OL></CO>.</B>
+<A><OL>Hi</OL>. How are you?</A>
+<B><nvs>laughter</nvs> <F>Eh</F> fine, thank you.</B>
+<A><F>Hm</F>.</A>
+<B><F>Urm</F> <laughter>how are you</laughter>?</B>
+<A>I'm fine, too. Thank you.</A>
+<B><F>Uhm</F> <SC>would you like</SC> <nvs>laughter</nvs> <R>wou</R> <F>eh</F> would you like see the movie?</B>
+<A><F>Hm</F> yeah. That's good idea.</A>
+<B><F>Urm</F> <..></..> <R>I</R> I want to <.></.> go to train there.</B>
+<A><F>Hm</F>.</A>
+<B><F>Eh</F>. <CO>What time <..></..> I</CO>. <..></..> <F>Urm</F>. <nvs>laughter</nvs> <..></..></B>
+<A>So, when are we going to watch the movie?</A>
+<B><F>Oh</F> <nvs>laughter</nvs> <F>eh</F> <F>eh</F> I want to go to the movie next Sunday.</B>
+<A>Yeah.</A>
+<B>About</B>
+<A><F>Um</F>.</A>
+<B>one P M.</B>
+<A><F>Hm</F> O K.</A>
+<B><F>Urm</F> <..></..> <nvs>cough</nvs> <..></..> where is <..></..> <R>me</R> meet you?</B>
+<A><F>Hm</F> how about <F>hm</F> Umeda Station?</A>
+<B>All right.</B>
+<A><F>Hm</F>.</A>
+<B><?>Yeah</?>. <..></..> <SC>We are</SC> <F>ah</F> <R>we</R> we will meet <.></.> platform three.</B>
+<A>Yeah. Sure.</A>
+<B>Thank you.</B>
+<A>O K. So see you on Sunday.</A>
+<B>Yes.</B>
+<A><F>Hm</F> bye-bye.</A>
+<B>Bye-bye.</B>
+</task>
+<followup>
+<A>O K. This is the end of role-play. <F>Hm</F> do you like movies?</A>
+<B><F>Urm</F> a little. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B>But now, I can't go to the movie.</B>
+<A><F>Hm</F> why?</A>
+<B><F>Mm</F> because my children is a very <R>s</R> small.</B>
+<A><F>Hmm</F>.</A>
+<B>So I can't go to the <laughter>movie</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. O K. I understand. <F>Mm</F> now, I'd like to show you one more picture.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>So, please look at this picture.</A>
+<B>Sure.</B>
+<A>And I would like you to make a story.</A>
+<B><F>Hm</F>.</B>
+<A>And please start your story with "One day last week".</A>
+<B><F>Hm</F>.</B>
+<A><?>All right</?>?</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Uhm</F>. <..></..> There isn't freezer,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so <SC>she is</SC> <nvs>cough</nvs> she will buy <..></..> something at <JP>super</JP>. <..></..> <SC>She is</SC> <..></..> <F>eh</F> she buys something <..></..> at the store. <.></.> So, she <..></..> buys <..></..> something <R?>at</R?> at register.</B>
+<A><F>Um</F>.</A>
+<B>And then, <SC>she is</SC> <F>uh</F> she will <..></..> return to the <SC>home</SC> house <F>hm</F> <.></.> by car. And she is cooking <.></.> in <?>your</?> house. <laughter>That's all</laughter>.</B>
+</task>
+<followup>
+<A>O K. <F>Er</F> do you go shopping by car with your family?</A>
+<B>Yes.</B>
+<A><F>Hm</F> so, <R>what kind of</R> <F>er</F> what kind of supermarket do you go?</A>
+<B><F>Hmm</F> <..></..> <R>we</R> we go to <..></..> <JP>super</JP> <SC>at my</SC> <JP>nanto iuka</JP> <..></..> near house.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> There is <..></..> almost food <..></..> there. <nvs>laughter</nvs></B>
+<A><F>Hm</F> how often do you go shopping?</A>
+<B><F>Mmm</F> <..></..> a day <F>aw</F> per week.</B>
+<A><F>Hmm</F> I see. <?>O K</?>, me, too. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. We are almost the end of the interview.</A>
+<B>Yes.</B>
+<A><F>Hm</F> do you have any plan for this weekend?</A>
+<B><F>Hmm</F> <..></..> I have no idea.</B>
+<A><F>Mh-hmm</F>. Will you go shopping?</A>
+<B><OL><F>Urm</F></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Maybe. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you very much for coming today.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>Thank you</OL>.</A>
+</stage5>
+</body>
+</interview>

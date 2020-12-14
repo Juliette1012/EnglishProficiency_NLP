@@ -1,0 +1,191 @@
+<interview>
+<filename>file00747.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. So how are you today, <H pn="B's name">XXX02</H>?</A>
+<B>I'm fine.</B>
+<A><F>Uhu</F>.</A>
+<B>How are you?</B>
+<A>I'm fine, thank you. O K. <F>Er</F> where do you live, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>? <F>Hm</F>. I see. <F>Err</F> with your family?</A>
+<B>Yes.</B>
+<A><F>Er</F>. Tell me about your family.</A>
+<B><F>Uum</F>. I have <.></.> one <laughter>father</laughter> and one mother and I don't have brothers and sisters.</B>
+<A><F>Err</F>. I see. <.></.> What does your father do?</A>
+<B><F>Uum</F>. My father is <.></.> businessman.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. <CO>My mother is</CO>. <..></..> <F>Hm</F>.</B>
+<A>O K. So what does she like to do?</A>
+<B><F>Uum</F>. <R>She like</R> <F>hm</F> <.></.> she like <F>uum</F> <.></.> <R><JP>shu</JP></R> <JP>shuuji</JP>.</B>
+<A><F>Oh</F></A>
+<B><nvs>laughter</nvs></B>
+<A>I see. <F>Uhu</F>. O K. Then, how about you? Do you have any hobbies?</A>
+<B><F>Er</F> my hobby is watching movie.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah.</B>
+<A>What kind of movies do you like?</A>
+<B><F>Uum</F>. I like <..></..> <laughter><R>any</R> anything</laughter>.</B>
+<A>I see. <F>Uum</F>. <F>Err</F> do you like American movies or Japanese movies?</A>
+<B><F>Err</F> <.></.> I like <.></.> <R>bo</R> both.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. <..></..></B>
+<A>O K. Then, when you want to see a movie, how do you choose the one you see?</A>
+<B><.></.> Please beg your <OL>pardon</OL>?</B>
+<A><OL>O K</OL>. So <.></.> you go to a movie theater and there are several movies are on. So how do you choose?</A>
+<B><F>Err</F> <..></..> <F>um</F>. I watch T V <laughter>commercial</laughter> and magazine <F>um</F> I <laughter>choose</laughter>.</B>
+<A><F>Uum</F> <F>uhu</F>. I see. O K. Then, <nvs>cough</nvs> <F>um</F> what do you study at <H pn="school name1">XXX04</H>, <H pn="B's name">XXX02</H>?</A>
+<B>I study economy.</B>
+<A><F>Hum</F>. O K. How often do you come to school?</A>
+<B>I come to school <.></.> five days a week.</B>
+<A>Five days a week? O K. <F>Erm</F> then, which day do you like best?</A>
+<B>I like Monday. <F>Er</F> <SC>Monday</SC> <..></..> <JP><F>ee</F></JP> on <laughter>Monday</laughter>, <F>ee</F> <R>I</R> <.></.> I choose <F>err</F> <.></.> <R>sports</R> sports.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL><F>Er</F></OL> <.></.> basketball. <F>Uum</F> I like Basketball.</B>
+<A><F>Err</F> you mean you take basketball class?</A>
+<B>Yes. Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Err</F></OL> I see. <F>Oh</F> sounds fun. O K. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I want to show you a picture. Here you are. Tell me about this picture.</A>
+<B><.></.> A dog is sleeping. And a cat is sleeping. <F>Er</F> the door is open. <F>Er</F> a girl <nvs>cough</nvs> is sitting chair <F>er</F> <.></.> in front of computer. <F>Er</F> <nvs>cough</nvs> <.></.> it is nine o'clock. <F>Uum</F>. <..></..> <F>Er</F> she <.></.> is smiling. <F>Er</F> <..></..> the dust box is full. <.></.> <F>Hm</F>. <??></??></B>
+<A>O K? All right. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Um</F>. Do you have a computer at home?</A>
+<B>Yes, <OL>I have</OL>.</B>
+<A><OL><F>Hm</F></OL>. What do you do with your computer?</A>
+<B><.></.> I do Internet <F>err</F> <R>mai</R> mainly <.></.> and so on.</B>
+<A>I see. So what is so good about Internet?</A>
+<B><..></..> I connected with Internet,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>uh</F> very recently.</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F> I <.></.> don't know Internet <laughter><R>mu</R></laughter> <SC>much</SC> very much.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>. <??></??></B>
+<A>I see. Then, where did you learn how to connect the computer to the Internet?</A>
+<B><F>Err</F> I called <F>ee</F> Internet <laughter>provider</laughter>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Err</F> I <.></.> was teached.</B>
+<A><F>Uhu</F>. <.></.> I see. Is it difficult?</A>
+<B><F>Er</F> little bit.</B>
+<A>Little bit? O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role-play.</A>
+<B>Role-play.</B>
+<A>O K? <.></.> This is your card. Please read it to yourself. And when you are ready, I will start the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Um</F>.</B>
+<A>Yes. O K. May I help you, sir?</A>
+<B>Yes. <JP><F>Ee</F></JP> <nvs>cough</nvs> today, <.></.> I am looking for <.></.> shoes.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Er</F> <.></.> what kind of shoes <F>er</F> do you recommend?</B>
+<A><F>Uum</F>. So we have sneakers, business shoes. But it depends on the occasion you wear <OL>the shoes</OL>.</A>
+<B><OL><F>Err</F></OL> <nvs>cough</nvs> <R>I</R> <nvs>cough</nvs> <F>err</F> I want <?>to</?> sneaker.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Er</F>. <.></.></B>
+<A>Then, how about these? Yeah. We have several pairs of <SC>shoes</SC> sneakers.</A>
+<B>Sneakers.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. <nvs>cough</nvs> <..></..> <F>Er</F> <.></.> would you show me <laughter>another one</laughter>?</B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>How about</OL> these pairs?</A>
+<B><F>Um</F>. <.></.> <F>Ee</F> <nvs>cough</nvs> what is this shoes' <F>er</F> sales point?</B>
+<A><F>Err</F>. It's easy to walk. It's very comfortable. Yeah. So they fit your foot.</A>
+<B><laughter>O K</laughter>. <F>Err</F> <.></.> I buy this one.</B>
+<A>O K. All right. So ten thousand yen. Is it all right?</A>
+<B><..></..> <F>Err</F> <.></.> <R>wo</R> would you show me <F>err</F> <SC>more cheap</SC> cheaper one? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, so</OL>, how about this? Yeah. <SC>This</SC> these are almost the same color and style. But this is five thousand yen.</A>
+<B>O K.</B>
+<A><OL>Are they O K</OL>?</A>
+<B><OL><nvs>laughter</nvs> I buy it</OL>.</B>
+<A>All right. So thank you <OL>very much</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A><F>Mh-hmm</F>. O K. Thank you. All right. So <H pn="B's name">XXX02</H>, <F>err</F> role-play is over.</A>
+</task>
+<followup>
+<A><F>Hm</F>. <F>Er</F> where do you usually go shopping?</A>
+<B><R>I</R> I usually go to Shinjuku.</B>
+<A>Shinjuku. <F>Hm</F>. Why?</A>
+<B><F>Hm</F>. <CO>In Shinjuku, <.></.> <F>uum</F> my</CO>. <..></..></B>
+<A>Is there any favorite store?</A>
+<B><R>Ye</R> yes.</B>
+<A><F>Um</F>.</A>
+<B><F>Ee</F> yes. <nvs>laughter</nvs></B>
+<A>I see. O K. <.></.> So what is it? Marui? <nvs>laughter</nvs> <laughter>No</laughter>?</A>
+<B><F>Oh</F> <F>er</F> yes.</B>
+<A>Is one of them? O K. Yeah.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I like to show you one more picture. O K? <.></.> O K. Sorry. This time, please make a short story using these four pictures. O K? So story goes this way. One, two, three, four. But this happened last week. O K?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Start</OL> your story with "Last week".</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B><F>Ee</F> last week, <F>ee</F> <SC>this boy</SC> <..></..> <R>thi</R> <.></.> this boy loves her. <F>Err</F> last week, <R>this boy</R> <..></..> this boy <..></..> said her, <F>err</F> <.></.> "Tomorrow <..></..> <F>er</F> <R>do</R> <.></.> <SC>do</SC> <F>er</F> shall we go to the zoo?".</B>
+<A><F>Uhu</F>.</A>
+<B><F>Ee</F> she said, "Yes, I shall.". <F>Err</F> <SC>they</SC> <F>ee</F> <.></.> the next day, they went to the zoo together. <F>Er</F> first, <R>they</R> they see a lion. <.></.> He likes lion very much. But <R><laughter>she</laughter></R> <SC>she don't</SC> she didn't like lion. <F>Uum</F>. Then second, <F>ee</F> they <.></.> see a monkey. The monkey <SC>is</SC> was eating banana. <F>Uum</F>. <.></.> And she was eating ice cream. <F>Uum</F>. <.></.> He said, "The monkey and you are <..></..> <SC>like</SC> <SC>liking</SC> like.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> <.></.> <F>uum</F>. <..></..> And finally, they <.></.> went out the zoo and said good-bye.</B>
+<A><F>Um</F>. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>And where would you like to go with your girlfriend when you go on a date?</A>
+<B><laughter><F>Err</F></laughter> <R>I go <.></.> to</R> <..></..> I go to watching movie with girlfriend.</B>
+<A>I see. <F>Er</F> yeah. I know you like movies. But other than movies?</A>
+<B><F>Err</F>.</B>
+<A>On a sunny day like today?</A>
+<B>Today.</B>
+<A><nvs>laughter</nvs></A>
+<B>Today?</B>
+<A><F>Um</F>. Beautiful day.</A>
+<B><laughter>Beautiful day</laughter>. <F>Uum</F>. <..></..> <R>I</R> I went to <laughter>Disneyland</laughter> <SC>at once</SC> <F>err</F> <..></..> <F>er</F> <laughter><SC>once</SC></laughter> <R>one</R> <OL>once</OL>.</B>
+<A><OL>O K</OL>. Yeah. Maybe Disneyland,</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>is a</OL> good idea. O K. <F>Hm</F>. I think so.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So <H pn="B's name">XXX02</H>, thank you for coming today. <F>Err</F> interview is almost ending.</A>
+<B><?><F>Oh</F> thank you</?>.</B>
+<A>Thank you very much.</A>
+<B>Thank you <laughter>very much</laughter>.</B>
+<A><F>Er</F> what are you going to do after this interview?</A>
+<B><F>Err</F> after this <laughter>interview</laughter>, my first tutorial program class <.></.> starts <F>er</F> at one o'clock.</B>
+<A>One o'clock. <F>Oh</F> you should hurry.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, sorry, O K</OL>. <OL><laughter>Thank you very much</laughter></OL>.</A>
+<B><OL><laughter>Thank you</laughter></OL>.</B>
+</stage5>
+</body>
+</interview>

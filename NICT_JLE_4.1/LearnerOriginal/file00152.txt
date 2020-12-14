@@ -1,0 +1,192 @@
+<interview>
+<filename>file00152.txt</filename>
+
+<head version="1.3">
+<date>2000-10-05</date>
+<sex>female</sex>
+<age>31</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello, My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes, <F>er</F> I'm <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you, today?</A>
+<B>Yes, fine. Thank you. <R>And</R> and you?</B>
+<A>Fine, thank you. O K. Where do you live?</A>
+<B><F>Ah</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>. So, with your family?</A>
+<B>Yes. <R>I live with</R> I live with my family.</B>
+<A><F>Uh-huh</F>. Could you please tell me a little about your family?</A>
+<B><F>Ah</F> <nvs>cough</nvs> yes. I live with mother, father and my grandmother. <R>And</R> <nvs>cough</nvs> and <SC>they have a</SC> they have job. <F>Ah</F> <nvs>cough</nvs> so, <F>ah</F> <.></.> <SC>we coul</SC> <F>ah</F> I can't take dinner with them <F>er</F> not so much.</B>
+<A>Is your grandmother also working?</A>
+<B><F>Er</F> yes. <F>Er</F> she is working for volunteer.</B>
+<A><F>Hm</F> I see. So, <F>er</F> you are living with your grandmother since you were born?</A>
+<B><F>Ah</F> sorry?</B>
+<A><F>Ah</F> you have been living with your grandmother since you were born?</A>
+<B>Yes, I have.</B>
+<A><F>Er</F> so, <F>ah</F> how do you like to live with your grandmother?</A>
+<B><F>Ah</F> <.></.> it was very nice because <SC>I could</SC> <F>er</F> I can study very much <F>er</F> <SC>to</SC> <F>ah</F> how to live or how to work in <SC>older age</SC> old age.</B>
+<A><F>Hm</F> I see. So, could you please tell me a little about <F>er</F> <H pn="others1">XXX03</H>, your neighborhood?</A>
+<B><F>Ah</F> <H pn="others1">XXX03</H>. <F>Er</F>. Are you interested in soccer?</B>
+<A><F>Oh</F> a little bit.</A>
+<B><F>Er</F> <nvs>cough</nvs> one of the <R>J-league</R> <F>er</F> J-league team <F>er</F> Flontare <H pn="others1">XXX03</H>, <SC>it is</SC> <F>er</F> it home ground is located in <H pn="others1">XXX03</H>, near my house. So, <F>er</F> <SC>most of</SC> most people in <H pn="others1">XXX03</H> like Flontare <H pn="others1">XXX03</H>.</B>
+<A>Really?</A>
+<B>Yes.</B>
+<A>Do you sometimes go watch the game?</A>
+<B><F>Er</F> yes, sometimes. But, <F>um</F> <.></.> not so much, not so many times.</B>
+<A>So, what do you usually do on your free time?</A>
+<B><F>Ah</F> I enjoy swimming. So, <F>ah</F> I usually go to sports club for swimming in holiday.</B>
+<A><F>Hm</F>.</A>
+<B><F>Ah</F> in weekend.</B>
+<A><F>Hm</F> I see. So, <F>ah</F> what kind of a style do you swim?</A>
+<B><nvs>laughter</nvs> <F>Ah</F> <nvs>cough</nvs> <R>I'm</R> I'm not good at swimming, but, I like crawl.</B>
+<A><F>Hm</F> O K. So why did you start swimming?</A>
+<B><F>Er</F> <nvs>cough</nvs> yes <F>er</F> five years ago, I had backache. So, <F>m</F> <SC>my doctor <F>ah</F> told me</SC> <F>mm</F> <F>er</F> my doctor advised me that I have to swim.</B>
+<A><F>Hm</F>. Is it good for backache?</A>
+<B>Yes, I think so.</B>
+<A><F>Hm</F> I see.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. First, I would like to show a picture.</A>
+<B>Yes.</B>
+<A>O K. Please describe this picture for me.</A>
+<B><nvs>cough</nvs> <F>Ah</F> <..></..> <R>at the restaurant</R> <F>er</F> <..></..> <F>mm</F> <..></..> at the restaurant, <F>er</F> <.></.> <R>some</R> some people visit this restaurant for dinner. <F>Ah</F> <SC>two of th</SC> <SC>two of pe</SC> <F>er</F> <.></.> <SC>two people</SC> <..></..> <F>er</F> <..></..> <R>two</R> <F>ah</F> two people start to order and <.></.> they wants to chose a wine for their dinner. So, <F>ah</F> <R>the man</R> <F>ah</F> the man on the left <F>um</F> <R>ask</R> <F>er</F> ask waiter a wine. That's all.</B>
+<A>O K. Thank you.</A>
+<B><nvs>cough</nvs></B>
+</task>
+<followup>
+<A>So, you said you don't have dinner with your family, usually.</A>
+<B>Yes, I do.</B>
+<A>Do you eat at restaurant, usually?</A>
+<B><F>Um</F> yes, I usually eat dinner at restaurant <R>or</R> or bar.</B>
+<A><F>Oh</F> so, do you like drinking?</A>
+<B>Yes, I like drinking very <laughter>much</laughter>.</B>
+<A><F>Wow</F> so, what do you drink?</A>
+<B><F>Er</F> one of my favorite drinking is <F>er</F> Japanese Sake.</B>
+<A><F>Um</F>. Why do you like sake?</A>
+<B><F>Er</F> <.></.> <F>mm</F> yes, <R>because</R> <F>um</F> <..></..> because <..></..> <SC>I</SC> <nvs>cough</nvs> <..></..> <F>er</F> <R>my</R> my father also likes drinking very much. And he recommends me Japanese sake.</B>
+<A><F>Oh</F> tell me a little bit about your <F>ah</F> favorite brand.</A>
+<B><F>Ah</F> <R>I</R> <F>mm</F> I have been studying about Sake recently. So, <F>um</F> <nvs>cough</nvs> I like <F>ah</F> <..></..> <F>ah</F> <..></..> <F>mm</F> <SC>my favorite</SC> one of my favorite brand is <R>Otoko</R> <JP>Otokoyama</JP>.</B>
+<A><F>Um</F>. What kind of taste?</A>
+<B><F>Ah</F> it's not so sweet and very fresh.</B>
+<A><F>Um</F> <.></.> why do you like <JP>Otokoyama</JP>?</A>
+<B>Because <F>ah</F> <nvs>cough</nvs> <R>I</R> <R>I don't like</R> <F>ah</F> I don't like <F>um</F> Japanese sake, which taste sweet, yes, also wine. So, <F>mm</F> <R>I like</R> I like <JP>Otokoyama</JP>, which taste <R>not</R> not so sweet.</B>
+<A><F>Hmm</F> I see. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, I would like to do a role-play with you.</A>
+<B>Yes.</B>
+<A>O K. Please read this card and when you are ready I will start a conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. Hello. May I help you?</A>
+<B><F>Ah</F> yes. <F>Ah</F> I'm looking for <F>er</F> <R>my s</R> my <R>s</R> sneaker.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F>. But, I don't know my size.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So, <SC>do you know <R>what size</R> <F>ah</F> what size my</SC> <F>er</F> <.></.> do you have something recommend to me?</B>
+<A><F>Oh</F> <F>ah</F> <F>well</F> you can try any shoes on. So, <R>you</R> you've got a lot of kinds of sneakers.</A>
+<B><F>Ah</F> I would like to buy black one.</B>
+<A><F>Uh-huh</F>. O K. <F>Ah</F> how about this? This is made of leather.</A>
+<B>O K. <F>Er</F> can I try this?</B>
+<A>Sure.</A>
+<B><F>Er</F> I'm sorry. <R>It is</R> it is too small. <R>Do you</R> do you have bigger one?</B>
+<A>O K. How about this? But, this is brown. We don't have a bigger black one.</A>
+<B><F>Ah</F> so, you don't have black one, don't you?</B>
+<A>No. Not the leather one.</A>
+<B><F>Ah</F> <R>can I</R> can I order it?</B>
+<A>Yes, sure.</A>
+<B><R>So</R> <F>er</F> so, <R>when</R> when can I <R>take</R> take the shoes?</B>
+<A><F>Oh</F> we'll take about two weeks.</A>
+<B>Two weeks.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F> O K. <R>I</R> I will buy this.</B>
+<A>O K. <F>Well</F> fill in this form.</A>
+<B><F>Ah</F> O K.</B>
+<A>O K. And how would like to pay?</A>
+<B><F>Er</F> can I use this credit card?</B>
+<A>Yes, sure.</A>
+<B>So,here you are.</B>
+<A>O K. Thank you.</A>
+<B>O K. Thank you very much.</B>
+<A>Thank you. See you in two weeks.</A>
+<B>Good-bye.</B>
+<A>Bye.</A>
+</task>
+<followup>
+<A>O K. Do you like shopping?</A>
+<B><F>Er</F> <SC>yes I like shop</SC> yes, I enjoy shopping very much.</B>
+<A><F>Oh</F> what would you like to buy?</A>
+<B><F>Er</F>. <.></.> <F>Mmm</F> recently, I bought a <F>um</F> CD-R drive.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> <R>to</R> to record a song or to save a graphic.</B>
+<A><F>Uh-huh</F>. So, <F>ah</F> using computers?</A>
+<B>Yes, <F>er</F> <SC>this</SC> <F>ah</F> I bought a computer this March.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <R>yes</R> yes. <SC>I</SC> almost <SC>I use everyday</SC> I use it everyday.</B>
+<A><F>Oh</F> what do you do with your computers?</A>
+<B><F>Ah</F> <F>um</F> <R>I send</R> I send a E-mail or to enjoy Internet.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. What about you?</B>
+<A>Yes, I use Internet and I use <F>er</F> for work. <SC>Sometimes <F>ah</F></SC> <SC>so do you</SC> have you had any big problem when using the computer?</A>
+<B><F>Um</F> no, <F>ah</F> no, I am lucky to that <SC>I don't have a big</SC> <F>ah</F> <R>I have</R> I have had big problem yet.</B>
+<A>Really.</A>
+<B>Yeah.</B>
+<A><F>Oh</F> you must be good. <laughter>O K</laughter>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Finally, I would like to show you <F>er</F> a sequence of pictures. This is the story that happened one day last week. So, please make up your own story and start with "one day last week".</A>
+<B><nvs>cough</nvs> <.></.> <F>Er</F> one day last week, <F>er</F> a woman tried to make a dinner for her family. But, she found that there are no food in the refrigerator. So, <R>she decide</R> she decide to buy some food at the supermarket near her house. And she went there by car. At the supermarket, <F>er</F> <R>she could buy</R> <F>er</F> <.></.> she could buy meat or something like that. <R>And</R> <..></..> and she paid in cash. <.></.> <R>And</R> <F>um</F> <..></..> and <R>she</R> <..></..> <F>er</F> she drived a car to her home <R>with</R> with meat that she bought at super market. And at last, <F>er</F> she could make <F>er</F> wonderful dinner for her family.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>So, what do you think about Internet shopping?</A>
+<B>Internet shopping. <F>Hm</F> yes, I am very interested in Internet shopping. But, I'm afraid that, <SC>many people <.></.> has</SC> <F>um</F> many people have opportunity <R>to</R> <.></.> to know my, for example, credit card numbers, something like that. So, <R>I haven't</R> <F>ah</F> I haven't done Internet shopping yet. But, I'm very interested <OL>in it</OL>.</B>
+<A><F>Oh</F> what are you interested in buying on Internet?</A>
+<B><F>Ah</F> <F>um</F> <.></.> yes, <SC>I</SC> <F>um</F> <.></.> my hobby is to listen to rock music or British pop music. So, <F>um</F> I would like to buy <R>their</R> <F>um</F> their <R>C D</R> C Ds.</B>
+<A><F>Uh-huh</F> I see. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> the interview is almost over. O K, so, are you going to swim today?</A>
+<B><F>Ah</F>.</B>
+<A>Not on the <R>wee</R> week days?</A>
+<B><R>No</R> no, <F>um</F> I'm going to go to concert of Ricky Martin, today.</B>
+<A>Tonight?</A>
+<B><OL>Tonight yes</OL>.</B>
+<A><OL><F>Oh</F></OL> really. <F>Oh</F> so, where is the concert be held?</A>
+<B><F>Ah</F> it will be held at <JP>Budoukan</JP>.</B>
+<A>It's a big place.</A>
+<B>Yes.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Yes yesterday</OL>, he also had a show at <R>Budou</R> Budoukan.</B>
+<A>Really?</A>
+<B><R>Yes</R>. Yes I think, yes.</B>
+<A>Two days in a row.</A>
+<B>Yes. <F>Ah</F> two days in Osaka, and two days in Yoyogi, and <SC>this two day</SC> these two days is the last concert in Japan.</B>
+<A><F>Um</F>.</A>
+<B>So, it will be held in <JP>Budoukan</JP>.</B>
+<A>O K. I think they're making a lot of money. <F>Ah</F>. <OL><nvs>laugh</nvs></OL></A>
+<B><OL>I think so</OL>.</B>
+<A><laughter>O K</laughter>. Thank you for coming to interview today.</A>
+<B><F>Ah</F> thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

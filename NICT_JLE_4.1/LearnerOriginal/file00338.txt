@@ -1,0 +1,227 @@
+<interview>
+<filename>file00338.txt</filename>
+
+<head version="1.3">
+<date>2001-03-05</date>
+<sex>female</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good morning.</A>
+<B><F>Uh</F> good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. And can I have your name, please?</A>
+<B><F>Ah</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F> yes.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B><F>Ah</F> nice to meet you, too.</B>
+<A>How are you today?</A>
+<B><F>Ah</F> <F>mm</F> <laughter>fine</laughter>, thank you. And you?</B>
+<A>I'm fine, too. Thank you. So where do you live?</A>
+<B><F>Er</F> I live in <H pn="others1">XXX03</H> City in <H pn="others2">XXX04</H>.</B>
+<A><F>Mhn</F>. And could you tell me more about <H pn="others1">XXX03</H> City?</A>
+<B><F>Mm</F> <F>e</F> do you know <H pn="others1">XXX03</H> City?</B>
+<A><F>Ah</F> just a little bit.</A>
+<B><F>Erm</F> <F>mmm</F> <CO>it's <SC>in the middle of <H pn="others3">XXX05</H></SC> in the middle <F>a</F> <F>ee</F></CO>. <F>Mm</F> it's quite convenient place.</B>
+<A><F>Mhn</F>.</A>
+<B>Near from <H pn="others3">XXX05</H> and near from <H pn="others2">XXX04</H>.</B>
+<A><F>Mhm</F> <F>oh</F> really? And do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Mhm-huh</F>. You and?</A>
+<B>And my father and mother.</B>
+<A><F>Mhn</F>. <F>Er</F> really? And could you tell me about your parents?</A>
+<B><F>Mhm</F> <F>mm</F> <F>ah</F> my father is working for a pharmaceutical company in <H pn="others2">XXX04</H>. My mother is a housewife. <F>Mm</F>.</B>
+<A>And what do you do?</A>
+<B><F>Er</F> I'm a student.</B>
+<A>Are you student?</A>
+<B>Yes.</B>
+<A>What is your major?</A>
+<B><F>Er</F> I major in Chinese literature.</B>
+<A><F>Wow</F> sounds difficult.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>How come you got interested in Chinese literature?</A>
+<B><F>Ah</F> <F>mm</F> <F>mm</F> I've been interested in Chinese movies.</B>
+<A><F>Mhn</F>.</A>
+<B>And I found the Chinese language very beautiful. <F>Mm</F>.</B>
+<A>Beautiful?</A>
+<B><F>Ah</F> sound very beautiful.</B>
+<A><F>Ah</F> really? Isn't it difficult?</A>
+<B><F>Ah</F> very difficult <F>uh</F> pronunciate. <F>Mm</F>.</B>
+<A><F>Mhn</F> <F>mm</F>. Pronunciate?</A>
+<B>Yeah.</B>
+<A>How different?</A>
+<B><F>Erm</F> there are <R>many</R> many sounds <F>er</F> which are not used in Japanese.</B>
+<A><F>Mhm</F>.</A>
+<B><CO>So</CO>.</B>
+<A>Yes. <F>Oh</F> really? O K. So <R>what</R> <F>er</F> what are your hobbies?</A>
+<B><F>Mm</F> I like watching movies and listening to music.</B>
+<A><F>Mhn</F>. What kind of music?</A>
+<B><F>Ah</F> <F>mm</F> I like <F>mm</F> <JP>nandaro</JP> British pop music.</B>
+<A>British pop music.</A>
+<B>Especially, <F>er</F> I like <F>er</F> many Scottish bands.</B>
+<A>Scottish bands? <F>Mm-hm</F>. Have you ever been to Scotland?</A>
+<B>No. <nvs>laughter</nvs> I've never been there.</B>
+<A><F>Ahh</F>. What is the image about Scotland? <nvs>laughter</nvs></A>
+<B><F>Mm</F> sensitive.</B>
+<A>Sensitive. What do you mean by sensitive?</A>
+<B><F>Er</F> the lyrics <SC>of the</SC> of many Scottish bands have very <F>mm</F> sensitive, <OL>delicate</OL>.</B>
+<A><OL><F>Ah</F> really</OL>? <F>Oh</F>. Who do you like best?</A>
+<B><F>Ah</F> I like <?>Bernard Sebastian</?>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <laughter>I don't know them</laughter>.</A>
+<B><R>I</R> I join their mailing list, too. <OL><F>Mm</F></OL>. Very interesting.</B>
+<A><OL><F>Ah</F> really</OL>. <F>Oh</F> is it fun?</A>
+<B>Fun.</B>
+<A><F>Wow</F> sounds interesting.</A>
+<B><nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much. Now, I will show you a picture here <?>today</?>. And <R>please</R> <F>ur</F> please explain this picture in detail.</A>
+<B><F>Mm</F> <.></.> a girl is sitting on a chair in front of a personal computer. And in the room, there are her cat and her dog. And <F>mm</F> she's <F>ur</F> looking at her dog, but her dog is looking down the floor, and maybe sleeping. And <..></..> maybe this is the room where <R>she</R> she studies or <F>mm</F> works. <..></..> A door is open. <..></..></B>
+<A><?>Is that all</?>?</A>
+<B><..></..> <F>Mm</F>.</B>
+</task>
+<followup>
+<A>O K. Thank you very much.</A>
+<B><nvs>laughter</nvs></B>
+<A>Thank you very much. And do you have your own room?</A>
+<B><F>Ah</F> yes.</B>
+<A>O K. Is it different from this room?</A>
+<B><F>Ahh</F> <nvs>laughter</nvs> <F>mm</F>. <F>Er</F> there isn't a personal computer in my room. It's in another room.</B>
+<A>Another room.</A>
+<B>Another room. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mm-hm</F></OL>. And?</A>
+<B>And <F>mm</F> <F>er</F> we don't keep any pet.</B>
+<A><F>Mhn</F>.</A>
+<B><F>Mm</F>. <..></..> <F>Mm</F> <.></.> <F>mm</F> quite similar <OL>the other ways</OL>.</B>
+<A><OL><F>Ah</F> really</OL>? So your room is quite neat. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Thank you</laughter></OL>.</B>
+<A>O K. So what do you use <F>uh</F> your computer for?</A>
+<B><F>Ah</F> <JP><F>etto</F></JP> for <SC>doing my</SC> <F>er</F> doing homework.</B>
+<A>Homework. <F>Wow</F>. <CO>And send</CO>.</A>
+<B><F>Ah</F> <F>mm</F> send e-mails.</B>
+<A><F>Mhn</F>.</A>
+<B>And internet.</B>
+<A><F>Mm-hm</F>. <F>Ah</F> really? Is it convenient for you?</A>
+<B><F>Mm</F> yes. I think so.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much. And O K. Now, we'll do a role-play. And please read this card, and when you're ready, I will start.</A>
+<B><ctxt>the interviewee is reading the card</ctxt></B>
+<A>Are you ready? O K. Tlulululu. Hello.</A>
+<B><F>A</F> hello. <F>A</F> <F>a</F> this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. How are you?</A>
+<B><F>A</F> fine, thank you. <R>And</R> and you?</B>
+<A>I'm fine. What's up?</A>
+<B><.></.> <F>Ah</F> <.></.> <F>mm</F> <F>er</F> a very interesting movie is showing in the theater near our school.</B>
+<A><F>Oh</F> really? I didn't know that.</A>
+<B><F>Ah</F> <F>erm</F>.</B>
+<A>What's that?</A>
+<B><F>Ah</F> <.></.> <F>mm</F> <F>mm</F> <R>it's a</R> it's a new French movie.</B>
+<A><F>Mhn-huh</F>.</A>
+<B>And I saw the director's movie <F>um</F> before, and it was very <F>mm</F> interesting.</B>
+<A><F>Mhn</F>. <F>Wow</F> sounds interesting.</A>
+<B>So what would you say to going to the movie with me?</B>
+<A>Yeah. Sounds good.</A>
+<B>So <..></..> when will you be free?</B>
+<A>Anytime is O K.</A>
+<B><F>Eh</F> <F>ah</F>.</B>
+<A>Anytime <OL>is O K</OL>.</A>
+<B><OL>Anytime is</OL> O K? So <F>mm</F> how about next Saturday?</B>
+<A>Next Saturday? Perfect.</A>
+<B><F>Oh</F> so <F>er</F> next Saturday evening is all right?</B>
+<A>Yes.</A>
+<B>And <..></..> do you have a train pass?</B>
+<A>Train pass? <F>Er</F> no. I don't think so. O K. Where is it showing? Where? Where is the theater?</A>
+<B><JP><F>Etto</F></JP> in Umeda.</B>
+<A>Umeda. O K. And where will we <R>meet</R> meet?</A>
+<B>So <SC>let's meet at</SC> <F>mm</F> let's meet in front of Kinokuniya.</B>
+<A>O K.</A>
+<B><CO>So</CO>.</B>
+<A>And what time?</A>
+<B><JP><F>Eeto</F></JP> <R>Four</R> four.</B>
+<A>Four o'clock?</A>
+<B>Four o'clock.</B>
+<A><F>Mm</F> O K. Four o'clock. Yes. Perfect. <F>Mhn</F>. O K. Now, <F>er</F> let's <SC>see</SC> meet at four o'clock at Kinokuniya <R>sho</R> <JP>shoten</JP>. O K.</A>
+<B>O K. <nvs>laughter</nvs></B>
+<A>Thank you very much.</A>
+<B>Thank you.</B>
+<A>Good-bye. <OL>See you then</OL>.</A>
+<B><OL>Good-bye</OL>. See you.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. That's the end of role-play. So you said you like Chinese movie.</A>
+<B><F>Ah</F> yes.</B>
+<A>Not French movie, <OL><laughter>actually</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. <F>Er</F> could you compare the Chinese movie and Japanese movie?</A>
+<B><F>Mhm</F>. <..></..> <F>Mm</F> in Chinese, <F>er</F> <SC>they are not</SC> <F>er</F> they don't make <F>mm</F> so many movies, but quality is quite high.</B>
+<A>Quality?</A>
+<B>Quality. <F>Mm-huh</F>.</B>
+<A>For example?</A>
+<B>For example, <F>er</F> a famous Chinese movie director, <F>er</F> <..></..> <JP>are</JP> <.></.> <laughter>his name just slips my mind</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F> it's O K</OL>. So could you tell me the last movie you saw?</A>
+<B><F>Er</F> <F>a</F> <F>mm</F>. <F>Mm</F> <F>er</F> <..></..> <F>mmm</F> <R>the</R> the movie is <F>mm</F> <R>a little</R> a little famous in Japan.</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>Er</F> it's about a girl. <F>A</F> <JP><F>ntto</F></JP> <SC>she became</SC> <F>er</F> <F>mm</F> very young girl became a teacher in village in China. Do you know that?</B>
+<A><F>Er</F> maybe just the title.</A>
+<B><F>Ah</F>.</B>
+<A>Yeah. Was it interesting?</A>
+<B><F>Er</F> interesting.</B>
+<A><F>Mhn</F>.</A>
+<B>I like the director, but <SC>l don't</SC> <R>I</R> I forgot his name.</B>
+<A><F>Oh</F> it's O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <R>And</R> and he won <F>er</F> <F>er</F> Berlin, <F>er</F> I don't know <SC>the prize</SC> a prize name, <OL><??></??></OL>.</B>
+<A><OL>It's O K</OL>.</A>
+<B><F>Er</F> won the prizes in Berlin two times, and prize in Cannes, too. Only one director. Very famous director.</B>
+<A><F>Wow</F>. I should see it. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you very much. And then, I'll show you another picture here. O K. Please look at this picture, and make up your story based on these pictures. And this happened last week, so please start your story with, "One day last week".</A>
+<B>Last week. <F>E</F> <F>uh</F> this is me?</B>
+<A><OL>Anybody's O K</OL>.</A>
+<B><OL>Anybody</OL>.</B>
+<A>You or your friend, your mother.</A>
+<B><ctxt>the interviewee is looking at the pictures</ctxt> One day last week, <.></.> I want to <R>cook</R> <.></.> cook a meal <F>er</F> for my family. But <F>mm</F> <F>ur</F> when I open the refrigerator, <SC>it was an</SC> I found out it was empty. So I decided <R>to</R> <F>mm</F> to go shopping, and I drove to the nearby supermarket. <JP><F>Etto</F></JP> and <F>mm</F> <F>er</F> we bought many foods there. <..></..> <JP><F>Ntto</F></JP> the supermarket was not very crowded. So <SC>it didn't much time</SC> it didn't take me much time to finish the shopping. <R>And</R> <..></..> <F>ur</F> and <SC>the woman</SC> <SC>the wi</SC> <F>a</F> the woman at <F>eh</F> the register was very quick, too. Then, I <F>ur</F> load it what I had bought onto my car, and then, went back home. And using the food, I cooked. <.></.> <SC>I made</SC> <R>I</R> <R>I made</R> I made a fried egg. <..></..></B>
+<A>Finished?</A>
+<B><F>Ah</F> finished.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. Thank you. Now, it's <SC>the en</SC> almost the end of the interview. So are you going to school in the afternoon?</A>
+<B><F>A</F> today?</B>
+<A><F>Mhn</F>.</A>
+<B><F>A</F> no.</B>
+<A>No. What are you going to do?</A>
+<B><F>Mmm</F> maybe, <F>mm</F> I'll do a little shopping and go home.</B>
+<A>Around here?</A>
+<B><JP><F>N</F></JP>?</B>
+<A>Around here?</A>
+<B>Around here.</B>
+<A><F>Oh</F> really? Have a good time.</A>
+<B><F>A</F> thank you.</B>
+<A>O K. Thank you very much <OL>for coming</OL>.</A>
+<B><OL><F>A</F></OL> thank you very much.</B>
+</stage5>
+</body>
+</interview>

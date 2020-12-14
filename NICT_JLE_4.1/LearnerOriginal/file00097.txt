@@ -1,0 +1,238 @@
+<interview>
+<filename>file00097.txt</filename>
+
+<head version="1.3">
+<date>1999-12-14</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>Good morning.</B>
+<A><F>Er</F> may I ask your name?</A>
+<B><H pn="B's name">XXX01</H>.</B>
+<A><H pn="B's name">XXX01</H> <JP>san</JP>. All right. O K. How are you today?</A>
+<B><F>Mhm</F> I'm fine.</B>
+<A>Great. Where do you live, <H pn="B's name">XXX01</H>?</A>
+<B>Pardon?</B>
+<A>Where do you live, <H pn="B's name">XXX01</H>?</A>
+<B><F>Mhmm</F> you know <R><H pn="others1">XXX02</H></R> <H pn="others1">XXX02</H> county? <H pn="others1">XXX02</H>?</B>
+<A><?>I see</?>. I don't know <H pn="others1">XXX02</H>.</A>
+<B><F>Mhm</F> <H pn="others1">XXX02</H> is near <H pn="others2">XXX03</H>, but in <H pn="others3">XXX04</H>.</B>
+<A>I see.</A>
+<B><F>Uhm</F>.</B>
+<A>How do you come to school every day?</A>
+<B><F>Mhm</F> <.></.> <R>I</R> I ride <H pn="others4">XXX05</H>. <.></.> And <R>my</R> my nearest station is <H pn="others5">XXX06</H>. <F>Um</F> <SC>it is from</SC> from <H pn="others6">XXX07</H> Station, it takes about <R>twen</R> twenty minutes.</B>
+<A>I see.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Do you live there <R>with</R> with your family?</A>
+<B>Yes. <SC>I live in</SC> I live with my mother and my brother <F>um</F> <F>ah</F> and my cat.</B>
+<A>Your cat?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. So tell me about your cat?</A>
+<B><F>Uhmm</F> her name is Nyanda. <.></.> <F>Mhm</F> she came to my house at about October.</B>
+<A><F>Ahh</F>.</A>
+<B><SC>She</SC> recently she gained weight. <F>Ah</F> and she can <JP>osuwari</JP> and <JP>ote</JP>.</B>
+<A>But, that's your cat?</A>
+<B>Yes. <R>I</R> <R>I</R> I tried <R>to</R> <.></.> to lesson her <JP>osuwari</JP> and <JP>ote</JP>.</B>
+<A><laughter>Amazing</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+<A>I see. <F>Oh</F> but, how did you get her?</A>
+<B><F>Mhm</F> she is <SC?>suwaring cat</SC?> wandering cat. <.></.> <F>Mhm</F> <.></.> she was at <R>my</R> <.></.> my apartment's entrance.</B>
+<A><F>Oh</F>.</A>
+<B><F>Um</F>.</B>
+<A>I see. And you put her up.</A>
+<B>Yes.</B>
+<A><F>Oh</F> that's good.</A>
+<B><F>Um</F>.</B>
+<A>O K. <F>Oh</F> by the way, <F>er</F> <H pn="B's name">XXX01</H>, <F>urr</F> what do you usually do when you don't come to school?</A>
+<B><F>Uhmm</F> I join to basketball club, so <.></.> almost <R>I</R> <.></.> I am practicing basketball <SC>on</SC> in <R>Ogi</R> Ogikubo.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Mhm</F></OL>.</B>
+<A><F>Uhm</F>. What is good about playing basketball?</A>
+<B><F>Uhmm</F>. <..></..> <R>I</R> I started basketball on this summer, so <.></.> <F>mhmm</F> <R>I</R> I can exercise myself. <F>Mhm</F>.</B>
+<A><F>Mhm</F>.</A>
+<B>I lose weight.</B>
+<A><OL><F>Err</F> I see</OL>.</A>
+<B><OL>Yes <F>um</F></OL>.</B>
+<A>But, why did you choose basketball? There are many <OL>sports</OL></A>
+<B><OL><F>Mhmm</F></OL>.</B>
+<A>around there.</A>
+<B>I am a bit <R>taller</R> <SC>taller</SC> tall, <F>mhm</F> <SC>so</SC> <.></.> and I think basketball is <..></..> <F>uhmm</F> <.></.> <SC>look nice</SC> <OL><F>ah</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>nice looking. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ahh</F> that's great</OL>. O K. Thank you very much.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like to show you one picture. O K? So, please look at this and tell me about this picture.</A>
+<B><.></.> Anything is O K?</B>
+<A>Anything is O K.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>There is six people. And, <.></.> three is female, <.></.> and <SC>three</SC> another three is male. <.></.> And, there is three children. <.></.> A girl <.></.> is jumping with <.></.> string. And, two boys is playing with white ball, and near the <.></.> boys, there is two dogs. <.></.> And, <SC>they</SC> <.></.> their tail is moving. <..></..> <F>Oh</F> <F>mhmm</F> <.></.> and, there is a car, and <R>on</R> on the car, <.></.> a cat is sleeping. <.></.> And, <R>it is</R> it is <R>fine</R> fine day. <.></.> <SC>The sun is</SC> <..></..> the sun's color is yellow and <R>hi</R> his face is smile. <F>Um</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>. <nvs>laughter</nvs></A>
+</task>
+<followup>
+<A>All right. O K. Thank you very much. Is this picture</A>
+<B><F>Uh-huh</F>.</B>
+<A>different from your neighborhood?</A>
+<B><F>Mhmm</F> <.></.> <R>there isn't</R> there isn't such a <R>nice</R> <.></.> nice house in my <SC>neighborhood</SC> neighbor.</B>
+<A>So what do you have in your neighborhood?</A>
+<B><F>Um</F> there is many mansions <F>um</F> and <.></.> apartment.</B>
+<A><F>Um</F>.</A>
+<B><F>Mhm</F>.</B>
+<A>Which do you like better?</A>
+<B><F>Uhm</F> I like this <.></.> better.</B>
+<A>Why?</A>
+<B><F>Uhhmm</F> because <R>my</R> <SC>my neighbor is so</SC> <..></..> <SC>there is many sounds</SC> <.></.> <SC>noisy</SC></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>my</OL> neighbor is noisy and <..></..> there is many exhaust gas. <F>Uhm</F> so <.></.> it seems very <R>clean</R> clean, so I like this better <F>um</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much. Now,</A>
+<B><F>Um</F>.</B>
+<A>let's have a role play.</A>
+<B>Yes.</B>
+<A>O K. So, please read this card and when you're ready, I'll start. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>Yes. O K.</B>
+<A>All right. Hello. May I help you?</A>
+<B>Yes. I want to buy a basketball shoes. <F>Um</F> I want to ASICS red color basketball shoes. <.></.> <R>Please</R> <..></..> please bring it</B>
+<A><F>Uh-huh</F>.</A>
+<B>to me.</B>
+<A>O K. All right. All right. <F>Er</F> I'm sorry. We <OL>don't</OL></A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>have red shoes.</A>
+<B><F>Oh</F> <?>yeah</?> another color is O K.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><R>Please</R></OL> please bring <F>hum</F> twenty-five centimeters shoes.</B>
+<A>O K. So, how about these? <?>So</?>, white, yellow, and pink.</A>
+<B><F>Mhmm</F> <.></.> white.</B>
+<A>White? <OL>Good</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Good. <OL>O K</OL>.</A>
+<B><OL><F>Hum</F></OL>. <R>Can I</R> can I try to it?</B>
+<A>Sure. Here you are.</A>
+<B><..></..> It is a bit narrow.</B>
+<A>I see.</A>
+<B><F>Mhm</F> please bring <.></.> twenty-five point five centimeter.</B>
+<A>Good. O K. <F>Er</F> <F>ah</F> I'm sorry. We <OL>don't</OL></A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>have <F>er</F> twenty-five point five, white, but we have <F>er</F> pink.</A>
+<B><F>Ah</F> yes, pink is O K.</B>
+<A>All right?</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><OL>O K</OL>, here you are.</A>
+<B>Thank you. <F>Hum</F>. <..></..> <F>Uhmm</F> it is suitable for me.</B>
+<A>All right.</A>
+<B><F>Um</F> I take it.</B>
+<A>O K. Thank you very much, so please come over to the cashier.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B><F>Hum</F>.</B>
+<A>How would you pay?</A>
+<B><F>Uhmm</F>. Pardon?</B>
+<A><F>Er</F> how do you want to pay?</A>
+<B><F>Uhm</F> <.></.> I want to pay in cash.</B>
+<A>Good. Good. O K. <F>Err</F> five thousand yen.</A>
+<B>Yes. <.></.> It is <..></..> ten thousand <OL><??></??></OL>.</B>
+<A><OL>Ten thousand</OL>. O K. So, here are your shoes <OL>and</OL></A>
+<B><OL>O K</OL>.</B>
+<A>the change.</A>
+<B>O K.</B>
+<A>Thank you very much.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Good. All right. Thank you. All right, <H pn="B's name">XXX01</H>. Do you like shopping?</A>
+<B>Yes.</B>
+<A><F>Hum</F> where do you usually go for shopping?</A>
+<B><F>Uhmm</F> <SC?>I buy</SC?> I usually go to Koenji, <SC>or Harajuku</SC> <F>ah</F> <SC>Harajuku or Shibuya is expensive</SC> <.></.> <F>mhm</F> <R>clo</R> clothes is expensive in Harajuku or Shibuya. Koenji is cheaper than them.</B>
+<A>I see. But, <H pn="B's name">XXX01</H>, how do you find <SC>good clothes</SC></A>
+<B><OL><F>Uhmm</F></OL>.</B>
+<A><OL>a</OL> fashionable clothes?</A>
+<B>the best way of <.></.> looking <..></..> good clothes is <.></.> walking around often. <OL><F>Mhm</F></OL>.</B>
+<A><OL><F>Mhm</F></OL> I see. <.></.> So, you mean that walk in to the shop?</A>
+<B><F>Uhmm</F> yes, shop to shop.</B>
+<A><OL><laughter>I see, O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Um</F>.</B>
+<A>All right. So, you do that</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><OL><?>when</?></OL> you are shopping.</A>
+<B>Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. All right. Thank you very much. Now, this time, I'd like you to make up a story.</A>
+<B><F>Hum</F>.</B>
+<A><R>The</R> the story <F>ehh</F> should be based on these six pictures,</A>
+<B><F>Hum</F>.</B>
+<A>but this happened before,</A>
+<B><F>Um</F>.</B>
+<A>so please start your story with "One day last week".</A>
+<B>Yes.</B>
+<A>O K?</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><SC>One day last week</SC> <F>mhmm</F> <.></.> <R>one</R> one day last week, my mother tried to cook our meal. But, <SC>she hasn't</SC> <.></.> she didn't find anything in refrigerator so <.></.> she had to go shopping to supermarket. And, she went to supermarket <R>by</R> by the car. <.></.> <F>Mhm</F> and <R>she</R> <.></.> she choosed many things. <..></..> <F>Mhm</F> <..></..> And, <R>she</R> <.></.> she paid money. <..></..> And, <R>she</R> <..></..> she lay <.></.> baggage <R>in</R> in the car. <.></.> And in my home, she cook <.></.> <F>um</F> egg, <.></.> and <R>she</R> she had <.></.> water boiled.</B>
+</task>
+<followup>
+<A><F>Hum</F> thank you very much. <H pn="B's name">XXX01</H>, do you like cooking?</A>
+<B><F>Uhm</F> yes, but <SC>my</SC> <.></.> the food I cook is not so tasty. <F>Hum</F>.</B>
+<A><R>Wh</R> why not?</A>
+<B><F>Uhmm</F> maybe <.></.> I have <.></.> only a few experience, so I can't understand <.></.> how much sugar or <.></.> salt or <.></.> alcohol</B>
+<A><OL>I see</OL>.</A>
+<B><OL>I should</OL> <SC>in</SC></B>
+<A><F>Um</F>.</A>
+<B>put in. <F>Hum</F>.</B>
+<A>Do you see a cooking book?</A>
+<B>I <laughter>should</laughter> look cooking book, but <..></..> <F>mhm</F> <.></.> <SC>it is <..></..> irritate</SC> <R>i</R> it irritate to me</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>mhm</F> <F>uhm</F> so I don't like see cooking book.</B>
+<A><OL>I see</OL>.</A>
+<B><OL><F>Uhmm</F></OL>.</B>
+<A><laughter>O K</laughter>. All right. Thank you very much.</A>
+<B>Thank you.</B>
+</followup>
+</stage4>
+<stage5>
+<A><H pn="B's name">XXX01</H>,</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL><F>err</F></OL> interview is almost over.</A>
+<B><F>Hum</F>.</B>
+<A>Thank you for coming, and <F>er</F> what are you going to do after this interview?</A>
+<B><F>Um</F> <R>I</R> <F>err</F> <SC>I have science</SC> <.></.> I have to attend a science lesson <OL>after</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>this <.></.> test.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>O K. Are you interested in science?</A>
+<B><F>Mhm</F> yes, but <R>this</R> <SC>this lesson is</SC> <..></..> this lesson's theme is <SC>brain</SC> human brain, <OL>so</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>it is difficult for me <OL>to understand</OL>.</B>
+<A><OL><F>Ahh</F></OL> I <OL>see</OL>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><F>Hum</F> yeah, sounds difficult.</A>
+<B><nvs>laughter</nvs>.</B>
+<A>Yeah, but also interesting. Yeah, thank you for coming again, and <?>also</?>, I hope you have a good time.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

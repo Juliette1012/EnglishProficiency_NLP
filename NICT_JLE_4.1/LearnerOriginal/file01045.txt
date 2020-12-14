@@ -1,0 +1,155 @@
+<interview>
+<filename>file01045.txt</filename>
+
+<head version="1.3">
+<date>2002-03-08</date>
+<sex>male</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B><OL>Hello</OL>.</B>
+<A><OL>My</OL> name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B><JP><F>Eeh</F></JP> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B>Please.</B>
+<A><H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Um</F>, <R>I'm</R> I'm fine.</B>
+<A>That's good. So <H pn="B's name">XXX02</H>, what do you do?</A>
+<B><JP><F>Eeh</F></JP> <R>I</R> <JP><F>eeh</F></JP> <.></.> I <JP><F>eeh</F></JP> <R>go</R> <.></.> go library <JP><F>eeh</F></JP> <R>after</R> <R>after this</R> <JP><F>eeh</F></JP> after this <SC>examinations</SC></B>
+<A><F>Ah</F>.</A>
+<B>examination.</B>
+<A>I see. Now, what is your job?</A>
+<B><JP><F>Eh</F></JP>?</B>
+<A>What is your job?</A>
+<B><F>Ah</F> <F>oh</F> <JP><F>eeh</F></JP> my job is <JP><F>eeh</F></JP> <.></.> <SC>write</SC> <R>writing</R> writing <F>um</F> <JP><F>eeh</F></JP> <JP><F>eeh</F></JP> <JP><F>eeh</F></JP> advertising article.</B>
+<A><F>Hmm</F>. I see, so you are working at a publishing company?</A>
+<B><JP><F>Eeh</F></JP> <F>uh</F> <JP><F>eeh</F></JP> <SC>I</SC> I'm <JP><F>eeh</F></JP> <JP><F>eeh</F></JP> independent.</B>
+<A><F>Ah</F> O K. So, <R>do you</R> <F>um</F> <F>um</F> do you live with your family?</A>
+<B>Yes. <F>Er</F> my father and mother.</B>
+<A><F>Hmm</F>. Can you tell me a little bit about your father?</A>
+<B><JP><F>Eh</F></JP> <SC>my father is</SC> my father <JP><F>eh</F></JP> manages a company. <JP><F>Eeh</F></JP> company <JP><F>eeh</F></JP> <..></..> <JP><F>eeh</F></JP> mineral <JP><F>eeh</F></JP> <R>pro</R> <R>product</R> producting <JP><F>eeh</F></JP> mineral water.</B>
+<A><F>Ah</F> I see. Mineral water.</A>
+<B>Mineral water.</B>
+<A>I see. Alright, so Nobushige <F>um</F> <.></.> <F>uh</F> <H pn="B's name">XXX02</H> sorry <H pn="B's name">XXX02</H>, what is your hobby?</A>
+<B>My hobby is <JP><F>eeh</F></JP> listening to the music.</B>
+<A><F>Hmm</F>. What kind of music do you like?</A>
+<B><JP><F>Eeh</F></JP> <R>I</R> <R>I like</R> I like <JP><F>eeh</F></JP> <.></.> R and B, rhythm and blues music.</B>
+<A>Why do you like <.></.> <OL>it</OL>?</A>
+<B><OL><F>Hmm</F></OL>. <F>Hem</F>, <R>that</R> that rhythm <R>fits</R> fits me. <JP><F>Eeh</F></JP> that music <JP><F>eeh</F></JP> <R>makes</R> makes me <JP><F>eeh</F></JP> very fun.</B>
+<A><F>Hm</F>. I see. So in weekend, what do you usually do?</A>
+<B><F>Er</F> <R>I</R> <F>uh</F> <R>I go</R> <JP><F>eeh</F></JP> I go to the <JP><F>eeh</F></JP> <R>thea</R> <R>thea</R> <R>thea</R> theatrical lessons usually. <JP><F>Eeh</F></JP> <.></.> <JP><F>eeh</F></JP> and <F>er</F> <R>I play</R> <SC>I play the</SC> <JP><F>eeh</F></JP> <R>I play</R> I play many role.</B>
+<A>I see. So you are an actor?</A>
+<B><JP><F>Eeh</F></JP> <F>mm</F> <..></..> <JP><F>eeh</F></JP> <R>half</R> half act. <nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>Alright. Thank you very much. So <F>er</F> the first thing for today, I'm going to show you this picture. Please describe this picture for me.</A>
+<B><JP><F>Eeh</F></JP> <..></..> <JP><F>eeh</F></JP> <R>cen</R> center of the picture <JP><F>eeh</F></JP> <..></..> <R>three people</R> three people is skiing down the slope. <JP><F>Eeh</F></JP> <.></.> <JP><F>eeh</F></JP> <..></..> at left side <JP><F>eeh</F></JP> <.></.> <F>er</F> <R>four</R> four children <JP><F>eeh</F></JP> <.></.> <F>mm</F> <.></.> is <R>throwing</R> throwing snowball <JP><F>eeh</F></JP> and <JP><F>eeh</F></JP> <.></.> <JP><F>eeh</F></JP> <..></..> <JP><F>eeh</F></JP> <.></.> <JP><F>eeh</F></JP> <R>there</R> there is a <R>woo</R> <JP><F>eeh</F></JP> <R>woo</R> woody house and <JP><F>eeh</F></JP> <.></.> two persons <JP><F>eeh</F></JP> is <R>drinking</R> drinking and talking. <..></..> And <JP><F>eeh</F></JP> <R>one</R> one <R>snow</R> snowboarder <JP><F>eeh</F></JP> <..></..> <F>uh</F> <F>uh</F> <R>there</R> there is a snowboarder.</B>
+</task>
+<followup>
+<A>Alright, thank you <H pn="B's name">XXX02</H>, alright, thank you very much. In winter, what kind of sports do you enjoy?</A>
+<B><JP><F>Eeh</F></JP> I enjoy <R>s</R> skiing very well.</B>
+<A><F>Hm</F>. What's good about skiing?</A>
+<B><JP><F>Eeh</F></JP> <F>er</F> <R>I'm</R> I'm pretty good.</B>
+<A><F>Hmm</F>.</A>
+<B>Because <F>er</F> <SC>I live</SC> <R>I</R> <JP><F>eh</F></JP> <JP><F>eh</F></JP> <R>I have</R> I have <F>ur</F> <R>lived in Ish</R> lived in <H pn="others1">XXX03</H> Prefecture near <JP><F>eeh</F></JP> Mount <H pn="others2">XXX04</H>.</B>
+<A>I see. <F>Hmm</F>. So what is the most difficult thing about skiing?</A>
+<B><JP><F>Eeh</F></JP> <JP><F>eeh</F></JP> I think that is <R>strong</R> strong <R>h</R> heart <JP><F>eeh</F></JP> <JP><F>eh</F></JP> <R>if you</R> <JP><F>eeh</F></JP> if you want to be good at skiing, <JP><F>eeh</F></JP> <..></..> <JP><F>eeh</F></JP> <..></..> <R>don't</R> don't <JP><F>eeh</F></JP> afraid <JP><F>eeh</F></JP> <R>a</R> afraid <F>er</F> the <JP><F>eeh</F></JP> slope.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hm</F>. I see. Alright. Next, let's do a role-play.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>I'm</OL> going to give you this card. So please read it to yourself and when you're ready, I'll start. Are you ready?</A>
+<ctxt>The interviewee is thinking.</ctxt>
+<A><OL>How can I help you sir</OL>?</A>
+<B><OL><F>Ah</F> <F>ah</F></OL>. <.></.> <JP><F>Eeh</F></JP> <F>uh</F> <R>I wan</R> <R>I want to</R> I want to go to New York. <F>Um</F> <.></.> <F>mm</F> <R>I am</R> I am very busy and <F>er</F> <R>must</R> <JP><F>eeh</F></JP> must go quickly <JP><F>eeh</F></JP> <.></.> <F>mm</F> <.></.> <R>what</R> <R>what train</R> what train <JP><F>eeh</F></JP> <R>reaches</R> reaches <R>New York</R> <.></.> <F>er</F> <JP><F>eeh</F></JP> New York <.></.> <SC>the</SC> <F>uh</F> <R>what is the</R> <JP><F>eeh</F></JP> <.></.> what is the fastest train?</B>
+<A>Alright. Express train is the fastest.</A>
+<B><F>Uh</F> <R>express</R> <JP><F>eeh</F></JP> <SC>express</SC> ex <JP><F>eeh</F></JP>. <.></.> <R>How</R> how often <JP><F>eeh</F></JP> <..></..> <JP><F>eh</F></JP> <F>er</F> express is running?</B>
+<A>O K. Every fifteen minutes.</A>
+<B>Every fifteen minutes. <JP><F>Eeh</F></JP> <.></.> <JP><F>eeh</F></JP> <JP><F>eeh</F></JP> sorry <JP><F>eeh</F></JP> <.></.> what time <JP><F>eeh</F></JP> <R>is</R> is it now?</B>
+<A><SC>It's</SC> O K, twelve o'clock noon.</A>
+<B>Twelve o'clock and <JP><F>eeh</F></JP> <SC>an express i</SC> <SC>next</SC> <SC>ex</SC> <JP><F>eeh</F></JP> <SC><R>is</R> is next</SC> <F>uh</F> does <SC>ne</SC> the next express <JP><F>eeh</F></JP> <F>uh</F> <F>uh</F> <R>wha</R> what time <R>th</R> the next train starts?</B>
+<A><F>Er</F> twelve fifteen.</A>
+<B>Twelve fifteen. <F>Er</F> I want to ride <F>er</F> that train.</B>
+<A>O K.</A>
+<B><OL><JP><F>Eeh</F></JP></OL>.</B>
+<A><OL>The express</OL> is very fast but it's expensive.</A>
+<B>Yes. <F>Er</F> I want to ride this.</B>
+<A>O K.</A>
+<B><R>O K</R>. O K.</B>
+<A>Two hundred dollars.</A>
+<B>Two hundred dollars <JP><F>eeh</F></JP> <..></..> <R>O</R> O K. <OL><JP><F>Eeh</F></JP></OL>.</B>
+<A><OL>O K</OL>. Alright. Here you are. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Have a nice trip. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A><SC>It</SC> that's the end of role-play. Thank you very much. So do you sometimes go travelling?</A>
+<B><F>Er</F> <R>I'm</R> <SC>I'm</SC> <.></.> recently I was very busy</B>
+<A><F>Mmm</F>.</A>
+<B><F>er</F> so <R>I don't</R> I don't go travelling.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Er</F> I can't go travel.</B>
+<A>So <F>um</F> if you're free <OL>and</OL></A>
+<B><OL>Yes</OL>.</B>
+<A>you can go anywhere, which place do you want to go?</A>
+<B><F>Er</F> <R>I want to</R> <F>er</F> I want to <.></.> go <.></.> to European countries and I want to ride <.></.> the Orient Express.</B>
+<A><F>Hm</F>. Why?</A>
+<B><JP><F>Eeh</F></JP> <.></.> because <JP><F>eeh</F></JP> <.></.> <JP><F>eeh</F></JP> <.></.> <R>I</R> <SC>I <R>re</R> <R>read</R> read the</SC> <F>uh</F> <R>I like</R> <F>uh</F> <F>uh</F> <F>uh</F> I like Agatha Chrities' novels, <JP><F>eeh</F></JP> especially <JP><F>eh</F></JP> <R>ti</R> titled by <JP><F>eh</F></JP> "The Murder <R>in the Orie</R></B>
+<A><OL><F>Mmm</F> <F>mmm</F></OL>.</A>
+<B><OL>in the Orient Express</OL>". I want to see that train.</B>
+<A><F>Ah</F> I see.</A>
+<B><OL>Yes</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL>Alright</OL>. Thank you very much. Lastly, I'll show you another picture. <SC>Please re</SC> please make up one short story using these pictures from one to four.</A>
+<B>Story? <.></.> <JP><F>Eeh</F></JP>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<A>Just a short story.</A>
+<B>Short story?</B>
+<ctxt>The interviewee is still thinking.</ctxt>
+<B><JP><F>Eeh</F></JP> <R>three</R> three people <JP><F>eeh</F></JP> <R>en</R> <SC>entered</SC> <F>um</F> <R>en</R> entered the theater <R>and</R> <JP><F>eeh</F></JP> <SC>and buy</SC> and bought drinks and popcorns <..></..> and <R>they</R> <R>they want to</R> <.></.> <JP><F>eeh</F></JP> <..></..> <R>they want to</R> <.></.> <SC>they want to be <..></..> <R>st</R> stress free</SC>. They wanted to be stress free. <JP><F>Eeh</F></JP> <SC>the movie is</SC> the movie <JP><F>eeh</F></JP> <F>uh</F> <F>uh</F> that is an action movie <JP><F>eeh</F></JP> <R>so</R> <JP><F>eeh</F></JP> <.></.> so after they <R>wa</R> watched it <JP><F>eeh</F></JP> <SC>they were</SC> <R>they</R> they are <JP><F>eeh</F></JP> very <JP><F>eeh</F></JP> <JP><F>eeh</F></JP> <.></.> <SC>they were</SC> they are very <.></.> fine.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. When you meet with your friend, where do you usually go?</A>
+<B><F>Er</F> <R>I</R> <F>er</F> I usually <R>go</R> <F>er</F> <.></.> go <F>er</F> watching <OL>movies</OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>And <JP><F>eeh</F></JP> <..></..> <JP><F>eeh</F></JP> <SC>I</SC> <F>uh</F> <SC>we are</SC> <SC>we</SC> <F>uh</F> <R>m</R> <R>my friends</R> <SC>my friends are</SC> <SC>my</SC> <F>er</F> <SC>me</SC> my friends <.></.> <F>er</F> <R>like</R> <F>er</F> <R>like</R> <JP><F>eeh</F></JP> <F>er</F> like action movies so <R>we</R> we <..></..> <R>so</R> so we go <JP><F>eeh</F></JP> <.></.> <R>a</R> <SC>a</SC> <SC>s</SC> a <R>when</R> <R>when</R> when we <JP><F>eeh</F></JP> <R>watch</R> watch movie <F>er</F> that <F>er</F> <.></.> <R>al</R> always <JP><F>eeh</F></JP> <.></.> <SC>they</SC> those are <R>al</R> <.></.> <R>all</R> <F>uh</F> <SC>all those</SC> all the movie we watch is action movie.</B>
+<A><laughter>I see</laughter>. <OL>Do you like it</OL>?</A>
+<B><OL>Action movie</OL>. <R>Ye</R> yes.</B>
+<A>O K. That's <OL>nice</OL>.</A>
+<B><OL><R>Yes</R> yes</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Alright. Interview is almost over. Do you have any plan for this weekend?</A>
+<B><R>This weekend</R> <JP><F>eeh</F></JP> <.></.> this weekend <F>uh</F> <JP><F>eeh</F></JP> <R>I</R> I have to do <.></.> <R>my</R> my job.</B>
+<A><F>Hmm</F>. You're so busy.</A>
+<B>Yes.</B>
+<A><F>Ah</F> I see. Alright. Thank you very much for <OL>coming today</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

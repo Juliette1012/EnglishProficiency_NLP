@@ -1,0 +1,204 @@
+<interview>
+<filename>file00504.txt</filename>
+
+<head version="1.3">
+<date>2001-06-28</date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX01</H> how are you today?</A>
+<B><R>I'm</R> I'm fine.</B>
+<A><F>Uh-hm</F>.</A>
+<B>And you? <nvs>laughter</nvs></B>
+<A>I'm good. Thank you very much. All right, <H pn="B's name">XXX01</H> what do you do?</A>
+<B>I'm <JP>furiitaa</JP>.</B>
+<A><F>Uh-hm</F> O K. Please tell me a little more about your job.</A>
+<B><nvs>laughter</nvs> <F>Err</F> <R>I work</R> <SC>I work at <H pn="others1">XXX02</H></SC>.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Ur</F> I work in <H pn="others1">XXX02</H></B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>at <R>ten</R> <SC>ten</SC></SC> <F>er</F> from ten to <JP><F>aa</F></JP> <JP>nandaro</JP> three.</B>
+<A><F>Uh-hm</F>.</A>
+<B>And after that, I work in <H pn="others2">XXX03</H></B>
+<A><F>Uh-huh</F>.</A>
+<B>from four to <R>nine</R> nine o'clock.</B>
+<A><F>Uh-hm</F>.</A>
+<B><nvs>laughter</nvs> <R>That's</R> <OL>that's all</OL>.</B>
+<A><OL>So what</OL> do you do?</A>
+<B><F>Uum</F> I work at <R>restaurant</R> restaurant.</B>
+<A><F>Hum</F>. Do you like your job?</A>
+<B><laughter>So-so</laughter>.</B>
+<A><F>Hum</F>. O K. <F>Um</F> where do you live?</A>
+<B>I live in <H pn="others3">XXX04</H>-<JP>ku</JP>. <nvs>cough</nvs></B>
+<A>O K. Do you live with your family?</A>
+<B>Yes.</B>
+<A>O K. Please tell me about your family.</A>
+<B><F>Uum</F>. <R>My</R> my father and mother and three cats.</B>
+<A><F>Uh-hm</F>. <F>Oh</F> you have three cats.</A>
+<B>Yes.</B>
+<A>O K. Please tell me about your pets.</A>
+<B><.></.> <R>My</R> my pet is <R>brown</R> brown cat and <R>black</R> black cat,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <R>Japanese</R> Japanese <JP>mike</JP> cat.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. <R>They</R> <R>they</R> they are</B>
+<A><F>Uh-huh</F>.</A>
+<B>old cats. <nvs>laughter</nvs></B>
+<A><F>Oh</F> really?</A>
+<B><.></.></B>
+<A>Who take care of them?</A>
+<B><F>Urr</F> <JP><F>unto</F></JP> <R>my</R> my mother. My mother <SC>was</SC> <.></.> <laughter><JP>nandaro</JP></laughter> <R>take</R> <SC>take</SC> took them.</B>
+<A><F>Ah</F>. O K. I see. <F>Um</F> can you tell me a little more about your father and mother?</A>
+<B><R>My</R> my father is cook.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>He</R> he works <SC>at</SC> in <R>ho</R> <R>hotel</R> hotel. And my mother has <JP><F>eto</F></JP> <R>clo</R> <R>clothes shop</R> clothes shop. And she runs coffee shop, too. <.></.> <CO>That's</CO>.</B>
+<A>How about your mother?</A>
+<B><.></.> My mother has coffee shop,</B>
+<A><F>Ahh</F>. <OL>O K</OL>.</A>
+<B><OL>and clothes shop</OL>.</B>
+<A><F>Er</F> O K. I see. All right. O K <H pn="B's name">XXX01</H> do you have any hobbies?</A>
+<B><R>I</R> I like to <R>sun bathing</R> sun bathing. So every Sunday,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>I</R> I took <F>er</F> <R>sun</R> <R>sun bath</R> <SC>sun bath</SC> sun bathing in my balcony.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <nvs>laughter</nvs> That's all.</B>
+<A>O K. All right. Thank you very much <H pn="B's name">XXX01</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Er</F> first, I'm gonna show you a picture. O K? <.></.> Please describe the picture.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><R>She</R> she has a <.></.> personal computer. And she has one dog and cat.</B>
+<A><F>Uh-huh</F>.</A>
+<B>The cat sleeping on the bed. She has <R?>great</R?> <laughter><?>great</?></laughter> <R>com</R> <R>com</R> <JP><R>compo</R></JP> <JP>compo</JP>?</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <R>It</R> it is nine o'clock. <.></.> <F>Ahh</F>. The door is open.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <JP>Nandaro</JP>. <.></.> <R>She</R> she likes <.></.> computer. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much, <H pn="B's name">XXX01</H>.</A>
+</task>
+<followup>
+<A>Do you have your own room?</A>
+<B><F>Er</F> yes.</B>
+<A>O K. <F>Ur</F> is your room similar to this room?</A>
+<B>No, no. <nvs>laughter</nvs></B>
+<A>No? Please tell me the difference.</A>
+<B><F>Mmm</F> <R>I</R> I don't have <laughter>personal computer</laughter>.</B>
+<A><F>Urr</F> O K.</A>
+<B>And <.></.> <R>I</R> I have <R>pia</R> piano. And <.></.> <JP><F>eeto</F></JP> glass keys.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>In the glass keys</R> in the glass keys <SC>many</SC> there are many pharmacy mascot.</B>
+<A><F>Uh-hm</F> <F>hum</F>.</A>
+<B><.></.> <R>That's</R> that's all.</B>
+<A>O K. So you said you have piano.</A>
+<B>Yes.</B>
+<A>O K? <F>Er</F> how did you get interested in playing piano?</A>
+<B><..></..> <F>Mmm</F>. <R>I</R> I don't know <nvs>laughter</nvs>.</B>
+<A>O K. Do you like playing piano?</A>
+<B>Yes.</B>
+<A>Why do you like it?</A>
+<B><F>Mm</F> maybe <.></.> I played piano, I feel <R>relax</R> <laughter>relax</laughter>.</B>
+<A><F>Uh-hm</F>.</A>
+<B><R>And</R> and <.></.> it is <.></.> good for my finger.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <CO>So</CO>.</B>
+<A><R>O K</R>. O K. <H pn="B's name">XXX01</H>. Thank you very much. All right.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Let's move on to a role-play. O K? <.></.> All right. <F>Um</F> I'm gonna show you this card. This is written in Japanese. So please read it to yourself. And when you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K. Are you ready? Hello. What's up?</A>
+<B><F>Mm</F> <R>I'm plan</R> I'm planning to <SC>go the</SC> go to the movie.</B>
+<A><F>Uh-hm</F>.</A>
+<B>So <.></.> <JP><F>eeto</F></JP> <.></.> <R>do you</R> <R>do you have free time</R>?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Do you have free time?</B>
+<A>Yeah. When do you like to go?</A>
+<B><.></.> I want to go <R>tomorrow night</R> tomorrow night.</B>
+<A>Tomorrow night. O K. I'm free.</A>
+<B><.></.> <SC>When</SC> <F>mm</F> <..></..> <SC>I</SC> <..></..> <R>can you</R> can you go Shibuya Station?</B>
+<A><F>Uh-hm</F>.</A>
+<B><..></..> <R>We</R> <R>we</R> we meet at Shibuya Station,</B>
+<A><F>Uh-huh</F>.</A>
+<B>at seven o'clock.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Err</F>. <JP><F>Eto</F></JP>. <JP><F>Ee</F></JP>. <.></.></B>
+<A><H pn="B's name">XXX01</H> but Shibuya Station is huge.</A>
+<B><nvs>laughter</nvs> <.></.> So <.></.> <R>do you</R> do you know <R>po</R> police station in Shibuya?</B>
+<A><F>Mm-hm</F>. O K.</A>
+<B><CO>So <..></..> <F>ahh</F> <F>mmm</F> the <.></.> we</CO>. <..></..></B>
+<A>So I'll be waiting for you in front of the police station in Shibuya.</A>
+<B>Yes, yes. <??></??></B>
+<A>O K. Anyway, what are we going to watch tomorrow?</A>
+<B><.></.> <R>I'm</R> I'm going to watch the <.></.> <R>new</R> <R>new</R> new movie. <R>That</R> <SC>that is</SC> that's looks very <R>in</R> interesting. <.></.> <F>Err</F>.</B>
+<A>O K. <H pn="B's name">XXX01</H>. How about dinner?</A>
+<B><F>Mm</F>. <.></.> <R>Shall we</R> shall we go the Italian restaurant?</B>
+<A><F>Mm</F> O K. Maybe after movie?</A>
+<B>Yes.</B>
+<A>O K. All right. So <F>er</F> I'll see you tomorrow night at seven o'clock in Shibuya Station. O K, <H pn="B's name">XXX01</H> thanks for calling. Thank you very much. O K. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>Do you like watching movies?</A>
+<B><F>Uum</F>. <R>No</R>. No.</B>
+<A>O K. <F>Er</F> what do you like to do with your friends?</A>
+<B><F>Mm</F> I like to go <laughter><JP>karaoke</JP></laughter>.</B>
+<A><F>Uh-hm</F>.</A>
+<B>Or shopping in Shibuya or Harajuku.</B>
+<A><F>Err</F>. O K. Please tell me last time you went shopping with your friends.</A>
+<B><.></.> <R>We</R> <R>we went</R> we went to Harajuku</B>
+<A><F>Uh-huh</F>.</A>
+<B>for shopping. And there're many clothes shop in Harajuku. And <F>um</F> <SC>I bought new</SC> I bought shoes. And <JP><F>eeto</F></JP> <F>uum</F> <R>one</R> one <R>pan</R> pants. <R>And</R> and my friends bought <R>ba</R> <R>ba</R> bag.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uum</F> <R>I</R> <.></.> I enjoyed it. <.></.></B>
+<A>O K. <H pn="B's name">XXX01</H> thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So finally I'm gonna show you a sequence of pictures. O K? I want you to make up a story based on these pictures from one to six. O K. Starts here and ends here. All right? And this happened before. So please start your story with "One day last week".</A>
+<B><.></.> One day last week, <R>I</R> I <R>walking</R> walking with my friend <SC>at</SC> <.></.> in <R>ra</R> <SC>rain</SC> rainy day.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Uum</F> then <SC>my friend is <R>hear</R> <SC>hear</SC> <SC>hearing</SC> hear</SC> my friend heard <R>strange</R> strange sound. <F>Uum</F> <.></.> And <JP>nandarou</JP> <F>uhm</F>. There is poor cat in the box. I want to go my house with poor cat. But <R>he</R> <SC>he wants</SC> he don't wants take the cat.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But <.></.> <R>I</R> <.></.> <R>I told him to</R> I told him to take the cat. <.></.> And <R>he</R> <R>he</R> <.></.> <R>he</R> <SC>he was</SC> <.></.> <R>he</R> <SC>he allow</SC> he allowed <R>to</R> to my <R>o</R> offer. <nvs>laughter</nvs> So <R>I</R> <SC>I went</SC> I took the cat. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much, <H pn="B's name">XXX01</H>. O K.</A>
+</task>
+<followup>
+<A><F>Um</F> what do you think about people who leave their pets on the street?</A>
+<B><.></.> <R>I</R> <nvs>laughter</nvs> <R>I</R> <R>I</R> <SC>I don't <nvs>laughter</nvs> think about</SC> I hate about <R>per</R> <SC>person</SC> that person.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <R>I</R> <.></.> <nvs>laughter</nvs> <R>I</R> I can't leave the cat <SC>on</SC> at the street.</B>
+<A>O K. Thank you very much, <H pn="B's name">XXX01</H>.</A>
+<B><OL>Thank you</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><OL>This is almost</OL> end of the interview. <F>Er</F>. What are you going to do today after this interview?</A>
+<B><R>I</R> <SC>I go</SC> <R>I</R> <SC>I'll</SC> I'm going to <SC>go my home</SC> go back home. And <F>err</F> <SC>the</SC> that <SC>I</SC> <SC>I'll</SC> <JP>nani</JP> I'm eat a lunch.</B>
+<A><F>Hmm</F>.</A>
+<B>And <R>I</R> I work at coffee shop from four o'clock.</B>
+<A><F>Mm</F>. O K. I hope you have a nice day. Thank you for <OL>coming today</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

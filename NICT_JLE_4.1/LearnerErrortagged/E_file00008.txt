@@ -1,0 +1,208 @@
+<interview>
+<filename>E_file00008.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>820</TOEIC>
+<TOEFL>560</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>map</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A><F>Er</F>. My name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B><F>Um</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K. Sure.</B>
+<A>O K. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B><aj_cmp odr="1" crr="Nice to meet">Nice meet</aj_cmp> you.</B>
+<A>Good. How are you today?</A>
+<B><F>Um</F>. I'm fine. Thank you. And you?</B>
+<A>Good. Thank you. O K. <F>Well</F> <F>er</F>. Where are you from?</A>
+<B><F>Um</F>. I was born in <H pn="others1">XXX03</H> <n_num odr="1" crr="prefecture">prefectures</n_num>. But, <SC>I'm</SC> <F>mm</F> now, I'm living in <H pn="others2">XXX04</H>.</B>
+<A><F>Oh</F>. O K. So it's getting dark, but is it O K for you to come out? <CO>Is that</CO>?</A>
+<B>Yes. Because I'm using <at odr="1" crr="a"></at> bicycle. <CO>So</CO>.</B>
+<A><F>Oh</F>. O K. What kind of bicycle do you ride?</A>
+<B><JP><F>Ee</F></JP>. Just <at odr="2" crr="an" ch="1">a</at> <aj_lxc odr="1" crr="ordinary">normal</aj_lxc> type. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Ah</F>. But I don't know everybody <v_cmp odr="2" crr="calls it"><v_agr odr="1" crr="calls">call</v_agr></v_cmp> <R>ka</R> <at odr="3" crr="a"></at> kind of <JP>mama-chari</JP> style. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>What's <JP>mama-chari</JP></OL>? Can you <OL><?>show me</?></OL>?</A>
+<B><OL>It's not</OL> <at odr="1" crr="a">the</at> sports type or <SC>ma</SC> not <at odr="2" crr="a"></at> mountain bike style. Just <prp_lxc1 odr="1" crr="for"></prp_lxc1> <at odr="2" crr="">a</at> using <prp_lxc1 odr="3" crr="on">in</prp_lxc1> a <SC>normal road</SC> <aj_lxc odr="4" crr="ordinary">normal</aj_lxc> street.</B>
+<A>Why <v_qst odr="1" crr="is it">it's</v_qst> called <JP>mama-chari</JP>?</A>
+<B><F>Mm</F>. Because <SC>many</SC> <R>ma</R> <F>a</F> many <n_num odr="1" crr="mothers">mother</n_num> <SC>is</SC> <F>er</F> I think <v_agr odr="2" crr="are">is</v_agr> <v_lxc odr="3" crr="using"></v_lxc> <JP>mama-chari</JP>. <CO>So</CO>. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> So, do you have kids?</A>
+<B>No. I'm single.</B>
+<A><F>Oh</F>. O K. All right. <SC>What's</SC> what are your hobbies?</A>
+<B><F>Ah</F> <F>ahm</F>. This year, I started learning Danish. It's <at odr="1" crr="a"></at> language, but <R>I'm</R> I'm very busy <prp_lxc2 odr="2" crr="with">for</prp_lxc2> school right now. So I didn't attend <prp_lxc2 odr="1" crr="to"></prp_lxc2> the Danish class for a week. <laughter><CO>So</CO></laughter>. <F>Mm</F>.</B>
+<A>Why did you decide to learn Danish?</A>
+<B><F>Um</F>. I just want to learn the second foreign language. Then, <F>um</F> <F>a</F> I'm a <H pn="school name1">XXX05</H> student, so <SC><H pn="school name1">XXX05</H> has the many</SC> <H pn="school name1">XXX05</H> is teaching a lot of languages. <SC>Then</SC> <F>um</F> but <SC>I choo</SC> I wanted to learn the North European language, but <SC>only Danish is</SC> it's a only one <n_num odr="1" crr="language">languages</n_num> <rel_lxc odr="2" crr="of which"></rel_lxc> we can take a <n_num odr="3" crr="class">classes</n_num>.</B>
+<A><F>Mm</F>.</A>
+<B>So, <F>mm</F> actually, I wanna learn <at odr="1" crr="">the</at> Swedish, but <nvs>laughter</nvs> it's O K.</B>
+<A>Really? Why Swedish?</A>
+<B><F>Er</F>. Because many Swedish singers are <o_uk odr="1" crr="becoming worldwide">coming to the world</o_uk>, then <R>we</R> <SC>we listen</SC> we can listen <prp_lxc2 odr="2" crr="to"></prp_lxc2> some of them. Then <o_uk odr="1" crr="now they are"></o_uk> very <R>famous</R> famous. <CO>So</CO>. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. O K. <F>Er</F>. Have you ever been to foreign countries?</A>
+<B><F>Um</F>. Yes. <R>I</R> I've been to <at odr="1" crr="the"></at> United States and <at odr="2" crr="the"></at> U K.</B>
+<A><F>Ah-huh</F> <F>mm</F>. So, which one was the most impressive country for you?</A>
+<B><JP><F>Ee</F></JP>. Actually I was living <SC>in the</SC> in Indiana.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Then, Indiana <SC>is</SC> was a <SC>so</SC> very <n_lxc odr="1" crr="countryside">country type</n_lxc>. And there are few people there, but the land is <aj_lxc odr="1" crr="huge">huges</aj_lxc>. It's <SC>very</SC> totally different from Japan, so I really like that place even though it's <SC>a <laughter>very</SC></laughter> <SC>like a small town</SC> like a village. <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F> <F>mm</F>. So, how were the people?</A>
+<B><F>Erm</F>. Most of them were white people, so <SC>there are some kind of</SC> <F>um</F> <.></.> they are <SC>not <F>er</F> like <.></.> open</SC> not <aj_lxc odr="1" crr="sociable">open</aj_lxc>, but <F>er</F></B>
+<A><F>Ah-huh</F>.</A>
+<B>some of them really like to talk to us because <F>um</F> I'm <SC?>bit like</SC?> a, you know, foreign <n_lxc odr="2" crr="person">people</n_lxc>. So <SC>they thin</SC> they <.></.> gotta kind of interest <prp_lxc2 odr="1" crr="in"></prp_lxc2> me. <.></.> <F>Mm</F>. They came to talk to me. <CO><SC>Then</SC> <F>mm</F> so</CO>. <.></.></B>
+<A><F>Mhm</F>. Good for you.</A>
+<B>Yes. <nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>Good. O K. Now I'm gonna show you a picture.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K. <F>Er</F>. Take a look at this, and, <R>can you</R> can you describe the picture?</A>
+<B><F>Mm</F>. It's a map. <nvs>laughter</nvs> <laughter><CO>And</CO></laughter>. <JP><F>Ee</F></JP>. <..></..> <F>Mm</F>.</B>
+<A>Just <?>pretend</?> that I know nothing about the map.</A>
+<B>O K. <F>Oh</F>. <R>There is a</R> there is a station, and this town is located between the rivers. <?>It's</?> a north river and <at odr="2" crr="a" ch="1"></at> south <n_num odr="1" crr="river">rivers</n_num>. And <F>mm</F> <..></..> <F>mhm</F> also, there is a bus <n_num odr="1" crr="service">services</n_num> in this town, and <F>er</F> <..></..> <F>mm</F> <F>er</F> there is a <R>zo</R> <R>zoo</R> zoo. And <F>mm</F> <.></.> <JP><F>ee</F></JP> <..></..> <SC>a many</SC> <SC>many line</SC> many lines are <v_lxc odr="1" crr="concentrating">passing</v_lxc> <prp_lxc1 odr="2" crr="at"></prp_lxc1> the station, so, maybe, it's a big town.</B>
+<A><F>Ah-huh</F>.</A>
+<B><..></..></B>
+</task>
+<followup>
+<A>O K. Now, <F>er</F> just use your imagination if you <v_tns odr="1" crr="were">are</v_tns> a mayor of this city,</A>
+<B>O K.</B>
+<A>what do you think is the most important thing for you to do right now? <nvs>laughter</nvs></A>
+<B><JP><F>Ee</F></JP>. <F>Er</F> <F>er</F>. I wanna <?>build</?> a kind of rotary <v_lxc odr="1" crr="">be</v_lxc> in front of the station because <F>er</F> <.></.> <o_uk odr="2" crr="it doesn't seem wide enough">it seems like a not wide area</o_uk>. It's <.></.> in front of the station now. <CO>So</CO>. <F>Mm</F>. <..></..></B>
+<A><??></??>. <.></.> Anything else?</A>
+<B><JP><F>Ee</F></JP>. <..></..></B>
+<A>O K. So you're gonna change this city a bit.</A>
+<B><F>Ah-huh</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now we're going to do a role play. O K?</A>
+<B><F>Uh-huh</F>.</B>
+<A>All right. <F>Er</F>. Have you tried this before?</A>
+<B><..></..> No.</B>
+<A>O K. Let's try it. <??></??>. If you are ready, I'll start.</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K. Hi. May I help you?</A>
+<B>Yes. <F>Er</F>. Just a couple of minutes ago, I came to this store and bought this stuff.</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B><OL>But</OL>, actually, I <v_tns odr="1" crr="returned">return</v_tns> to my house. <R>I didn't</R> <.></.> <SC>I <.></.> didn't feel like</SC> I didn't like this stuff. So, <R>if</R> <F>erm</F> if you don't mind, I wanna return this stuff.</B>
+<A><F>Oh</F>. I'm afraid I can't.</A>
+<B>But <F>erm</F> I know <o_uk odr="1" crr="I am a bit rude">some kind of <?>rude</o_uk></?>. <CO><R>But</R> <F>er</F> but</CO>. <nvs>laughter</nvs> <JP><F>Ee</F></JP>. <.></.> O K. I will return this stuff. So, can I have <at odr="1" crr="a">the</at> different one <.></.> instead of this?</B>
+<A><F>Ah</F>. O K. In that case, I have to ask <F>er</F> our manager, but he is out of town. He is on the buisiness trip.</A>
+<B><F>Erm</F>. <.></.> But <SC>I wanna</SC> I don't wanna come back <av_lxc odr="1" crr="again">the different day</av_lxc>. <CO>So</CO>. <.></.></B>
+<A><??></??>.</A>
+<B><F>Mm</F>. If you don't mind. <..></..></B>
+<A><F>Oh</F> <F>erm</F>. You know, I'm just a <R>part-time</R> <F>er</F> part-time <F>er</F> clerk.</A>
+<B>Yes.</B>
+<A>So I cannot decide anything.</A>
+<B>But I didn't open the bag. <CO>So <??></??> you know the</CO>. <.></.></B>
+<A><R>I wish I could</R> I wish I could do it. But, sorry.</A>
+<B><F>Mhm</F>. <..></..></B>
+<A><F>Oh</F> did you bring a receipt?</A>
+<B><F>Ah</F> yes.</B>
+<A>O K. Let me check.</A>
+<B>O K.</B>
+<A>O K. <F>Erm</F>. I'll ask our sub-manager.</A>
+<B>O K.</B>
+<A>O K? <.></.> O K. He says it's O K <SC>for us to</SC> <F>er</F> <F>er</F> <R>for</R> <R>for</R> for you to change something else.</A>
+<B><F>Uh-huh</F>.</B>
+<A>I think <??></??>.</A>
+<B>Thank you so much</B>
+<A><OL>O K</OL>.</A>
+<B><OL>for your help</OL>.</B>
+<A>O K. Don't worry. So you can take a <?>look here</?>.</A>
+<B>O K. Thank you.</B>
+</task>
+<followup>
+<A>Good. <nvs>laughter</nvs> O K. The role play was over. When you are in States, <SC>have you</SC> <F>er</F> <R>ha</R> have you had any kind of <F>er</F> this experience?</A>
+<B><F>Erm</F>. No. Never. I <mo_lxc odr="1" crr="haven't">didn't</mo_lxc>.</B>
+<A>Really?</A>
+<B>Yes.</B>
+<A>Do you think you are good at negotiating?</A>
+<B>No.</B>
+<A>Why not?</A>
+<B><F>Er</F>. Because, even in Japan, <F>er</F> I don't know how to explain my feeling and how to control <SC>the</SC> their feeling <.></.> <F>erm</F> <??></??> <.></.> words or good explation. So <F>mm</F> I'm not good <prp_lxc2 odr="1" crr="at"></prp_lxc2> doing this stuff.</B>
+<A><OL>Really</OL>?</A>
+<B><OL><F>Mhm</F></OL>. Yes. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. But <R>if</R> if it happens to you, what would you react?</A>
+<B><OL><F>Er</F></OL>.</B>
+<A><OL>If</OL> the sales person is not very friendly.</A>
+<B><F>Mhm</F>. <.></.> Maybe, ask someone like my friends. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B><?>Like a</?> <R>f</R> from, <F>erm</F> you know, <prp_lxc1 odr="1" crr="in"></prp_lxc1> the eastern side of Japan, <SC>like a</SC> <nvs>laughter</nvs></B>
+<A><??></??>.</A>
+<B><SC>they really like to the</SC> you know, <R>the</R> <SC>they really want</SC> they really <v_cmp odr="2" crr="like to discount">like discount</v_cmp> the prices. <CO>So</CO>. <.></.></B>
+<A>Maybe. <F>Wow</F>. I didn't know that. Why do you think that?</A>
+<B><F>Mhm</F>. <SC>I heard that</SC> I heard my friend <v_tns odr="1" crr="said">say</v_tns> that. <F>Mm</F>. For example, in Tokyo, <at odr="1" crr="">the</at> people never <SC>ask so</SC> <v_cmp odr="2" crr="ask to discount">ask discount</v_cmp></B>
+<A><F>Ah-huh</F>.</A>
+<B>the prices. <CO>So</CO>. But <F>erm</F> <pn_lxc odr="1" crr="my">the</pn_lxc> friends <?><prp_lxc1 odr="2" crr="in">on</prp_lxc1> <at odr="3" crr="">the</at></?> Osaka, <SC>li</SC> they <SC>try to</SC> always try to discount the prices. <CO>So</CO>. <nvs>laughter</nvs></B>
+<A><F>Oh</F>. That's interesting.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. <??></??> friends from the western part of Japan.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Good. <F>Well</F> I'm gonna show you another picture.</A>
+<B><F>Oh</F> yeah.</B>
+<A>Have you tried this before?</A>
+<B><F>Er</F>. No.</B>
+<A>O K. Please try this. <F>Er</F>. I'd like you to make a short story about this picture, but this happened before. So, please start your story with "One day last week".</A>
+<B><F>Mhm</F>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B>Can I talk <o_lxc odr="1" crr="as if">if</o_lxc> I were this <OL>person</OL>?</B>
+<A><OL>Sure</OL>.</A>
+<B>O K. One day <at odr="1" crr="">a</at> last week, I went to the station to take a train. And, <SC>the</SC> on the platform, <.></.> the man who <v_agr odr="1" crr="was">were</v_agr> standing in front of me hit me. Then, I dropped my <SC>suitcase in</SC> suitcase on the <?><n_lxc odr="1" crr="line">rail</n_lxc></?>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Then, it was too high <R>to step</R> <F>n</F> <.></.> to step down <nvs>laughter</nvs> on the <n_lxc odr="1" crr="line">rail</n_lxc>, so <pn_lxc odr="2" crr="I"></pn_lxc> asked that man to <.></.> bring back the suitcase. <SC>And</SC> but <.></.> <F>er</F> <.></.> he was not kind, so he <v_cmp odr="3" crr="pretended not to notice"><v_tns odr="1" crr="pretended">pretend</v_tns> not <v_lxc odr="2" crr="noticing">knowing</v_lxc></v_cmp>. <SC>So</SC> and, finally, I <v_tns odr="1" crr="asked">ask</v_tns> <R>the</R> <.></.> <F>er</F> <nvs>laughter</nvs> the person who was working at the station <??></??>. <..></..> I don't know, <SC>but</SC> then, finally, he <o_lxc odr="1" crr="picked up">picked</o_lxc> my suitcase, then I could <.></.> get on the train, <.></.> yeah. <nvs>laughter</nvs> And, <SC>I went to the</SC> <F>er</F> finally, I could go to the place I wanted to.</B>
+</task>
+<followup>
+<A><F>Mhm</F>. O K. Great. O K. <F>Erm</F>. Have you ever lost something very important?</A>
+<B><F>Er</F>. Yes. <R>I</R> <F>er</F> I have lost my credit card <.></.> in my room.</B>
+<A><F>Ah-huh</F>.</A>
+<B><nvs>laughter</nvs> <F>Er</F>. But, finally, I found it in the <R>drawer of my</R> drawer of my <F>a</F> desk <??></??>, <SC>then</SC> but I thought I lost somewhere in the town. And then, I called <R>the</R> <.></.> <F>mm</F> the <SC>card company</SC> credit card company, <SC>then</SC> so they stopped the service.</B>
+<A><F>Ah-huh</F>.</A>
+<B>And, maybe, a week later, I got a new card. <.></.> But, <SC>after <SC>call</SC> <F>er</F> I called</SC> <F>er</F> <.></.> <JP><F>ee</F></JP> after <o_lxc odr="1" crr="a few">few</o_lxc> minutes I called, I found the cards. <laughter><CO>So</CO></laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B><CO>I should find <R>more</R> <F>er</F> <SC>more</SC> <.></.> <JP><F>e</F></JP> much more <.></.> <JP><F>e</F></JP></CO>. I don't know how to say, but <SC>to</SC> I should <v_lxc odr="1" crr="have given"></v_lxc> more care <.></.></B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> to find it.</B>
+<A><F>Ah</F>. O K. And, how did you feel, when you found your credit card in your room?</A>
+<B>I thought I was so stupid.</B>
+<A><nvs>laughter</nvs></A>
+<B>I should <v_tns odr="1" crr="have taken">take</v_tns> much more time to find it.</B>
+<A><nvs>laughter</nvs> <laughter>That's true</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. We almost at the end of the interview. <nvs>laughter</nvs> What are you going to do after this interview?</A>
+<B><F>Er</F>. I will return to my school.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>Yes. My friend <v_tns odr="1" crr="is waiting">was waiting</v_tns>.</B>
+<A><F>Oh</F>. O K.</A>
+<B>Yeah. Then, we get together to study.</B>
+<A><F>Oh</F> <OL>really</OL>?</A>
+<B><OL>Yeah</OL>. For <pn_lxc odr="1" crr="my"></pn_lxc> senior thesis.</B>
+<A><F>Ah</F>. O K. Good luck for your senior thesis. And, <?>thank you for coming</?>.</A>
+<B><laughter>Thank you</laughter>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

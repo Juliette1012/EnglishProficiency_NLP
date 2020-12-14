@@ -1,0 +1,181 @@
+<interview>
+<filename>file00717.txt</filename>
+
+<head version="1.3">
+<date>2001-12-18</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's get started. Good afternoon. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Uhh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>.</A>
+<B>Yeah.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B><F>Mmm</F> I'm fine.</B>
+<A>That's good. <F>Uhh</F> <H pn="B's name">XXX02</H>, where are you from?</A>
+<B><F>Mm</F> I'm from <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H> Prefecture.</B>
+<A>Very far from here.</A>
+<B>Yes. It takes about two hours to come here.</B>
+<A>Do you live with your family,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><SC>with</SC></OL></A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+<A><OL><R>in</R></OL> in <H pn="others1">XXX03</H>? My goodness. <F>Wow</F>. What do you do on the train?</A>
+<B><F>Mmm</F> I usually reading books <laughter>or</laughter> only to sleep.</B>
+<A>I see. I see. All right. Now, what is your plan during <SC>Christmas break</SC> Christmas or New Year's holiday?</A>
+<B><F>Mm</F> maybe I <R>go</R> go to somewhere, <F>mm</F> interesting place with my friend <laughter>or</laughter> maybe only to sleep. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Interesting place. What do you mean by that?</A>
+<B><F>Mmm</F> <nvs>laughter</nvs> <F>uhh</F> it means <F>uh</F> many people there and <SC>something</SC> <F>uhh</F> special event will happen. For example, <F>uhh</F> Christmas event or <.></.> <F>err</F> <laughter><SC>something</SC></laughter> <F>uhh</F> <R>cerem</R> ceremonical event.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F> I like watching such events.</B>
+<A>I see. How do you usually spend <F>um</F> <F>uh</F> New Year's Day?</A>
+<B><F>Mm</F> on New Year's Eve, <F>uhh</F> I always <R>go to</R> <.></.> <F>er</F> go to temple with my friend and hit the bell. It is called <JP>joya no kane</JP>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F> I'm looking forward to <R>going</R> going there this year, too. But <F>uhh</F> <.></.> usually, <F>uhh</F> New Year Day <.></.> <?>won't</?> have plan.</B>
+<A><F>Hm</F>.</A>
+<B>Maybe <F>mm</F> only to watch the T V show or <F>mm</F> go somewhere.</B>
+<A><laughter>I</laughter> see.</A>
+<B>Yeah.</B>
+<A>When you go to a shrine, what do you usually ask for God?</A>
+<B><CO><OL>What</OL></CO>.</B>
+<A><OL><R>What</R></OL> what do you usually pray? What do you say?</A>
+<B><laughter><F>Ahh</F></laughter> it's depends on my feeling. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Maybe last year, <F>uh</F> I hoped a peaceful year.</B>
+<A><F>Hm</F>.</A>
+<B>Because <F>uhh</F> last year doesn't <R>ha</R> happened <R>some happy</R> some happy things to <laughter>me</laughter>.</B>
+<A><laughter>That's too bad</laughter>. I see. O K. <F>Er</F> Mister <SC><H pn="B's name">XXX02</H></SC> <H pn="B's name">XXX02</H>, can you tell me about your family?</A>
+<B><F>Mmm</F> I live with <F>uhh</F> my father and mother. And I have one elderly sister and <.></.> also have two cats.</B>
+<A><F>Mmm</F>. I see. I see. Good. What about your father? What does he do?</A>
+<B><F>Mmm</F> <SC>he's</SC> <F>er</F> now, <R>he</R> he works at <.></.> company but <F>uhh</F> next year, he will be retire. <SC>And</SC> so <.></.> from <SC>this</SC> <F>uhh</F> next year's April, <F>uhh</F> <R>he wi</R> he will be always in home <?>but</?> <laughter><F>mm</F></laughter> maybe only to kill time.</B>
+<A>I see. I see. O K. Good. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now first, I would like to show you a picture. <F>Hmm</F> let's see. Let's do this. O K? Here's a picture and please describe this picture for me.</A>
+<ctxt>The interviewee is looking at the picture and thinking for a moment.</ctxt>
+<B>It's lovely day. And <R>there is a</R> there is a house <F>uhh</F> faced on the road. And <.></.> <F>mm</F> in front of the house, <F>uhh</F> two children playing with a ball and <R>a man running</R> <F>uhh</F> a man running <F>uhh</F> next to the children. And <.></.> <R>behi</R> behind him, <F>uhh</F> two dogs playing. <laughter><F>Uhh</F></laughter> <SC>I seems to they</SC> I seems they make friends with each other. <?>And</?> <.></.> the house has <F>uhh</F> <.></.> big window <F>uhh</F> <R>faced</R> faced the road. And <SC>in front of the gard</SC> <F>uh</F> in front of the window, <F>uh</F> <.></.> a girl <R>playing with</R> what can I say, <laughter><F>uhh</F></laughter> playing with rope. <F>Mm</F> there is <R>a</R> a car in the road. And <R>on the</R> on the car, <nvs>sniff</nvs> a cats is sleeping. And next of the car, <F>uhh</F> two woman talking. And one of the woman has his dogs. <F>Uhh</F> <R>in</R> in the other side of the road, <SC>there also have</SC> <F>um</F> there is also a house. And in front of the house, <R>a old</R> a old man reading papers, <R>sitting on the</R> sitting on the chair. That's all.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Now, does this neighborhood seems like <R>your</R> <SC>your house</SC> your neighborhood?</A>
+<B><F>Mm</F> <laughter>no</laughter>.</B>
+<A>What's the difference?</A>
+<B><F>Mmm</F> <.></.> yeah. <F>Uhh</F> <R>my</R> my neighborhoods <R>never</R> never runs around the house. And <F>mm</F> around my house doesn't have such big road. And <.></.> <F>mm</F> <SC>my neighbor never</SC> <F>uh</F> <R>my</R> my neighbor never talks on the road.</B>
+<A><laughter>I <OL>see</laughter></OL>.</A>
+<B><OL>And</OL> maybe <SC>go to</SC> go into the garden and talks there.</B>
+<A>O K. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now next, I would like to do a role-play. Let's see. Let's do this. Here's a card for you. This is written in Japanese so please read it to yourself. When you are ready, I will start.</A>
+<B><F>Ahh</F> excuse me.</B>
+<A>You've done it before?</A>
+<B><laughter><F>Ah</F></laughter> yes.</B>
+<A>O K. Then, how about this one?</A>
+<ctxt>The interviewee reads the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Good. This is a phone call. O K?</A>
+<B>Yes.</B>
+<A>Trrum. Hello?</A>
+<B><nvs>laughter</nvs> Hello? <F>Uhh</F> I'm <H pn="B's name">XXX02</H>. <OL><F>Er</F></OL>.</B>
+<A><OL>Hi</OL>. This is <H pn="A's name">XXX01</H>.</A>
+<B>Yeah. <F>Uh</F> do you have a time <R>next</R> next Sunday?</B>
+<A>Next Sunday? <F>Uhh</F> I'm sorry. I already got a plan. Why is that?</A>
+<B><F>Uh</F> I would like to go to movie with you <SC>and</SC> so how about next Monday?</B>
+<A>Monday? Sure.</A>
+<B>Do you have time?</B>
+<A>Yeah.</A>
+<B><F>Uhh</F> <.></.> <R>is</R> is that free time is <SC>afternoon or</SC> <.></.> yeah, afternoon?</B>
+<A>Afternoon? <F>Mm</F>. I think so.</A>
+<B><laughter>Yeah</laughter>. <F>Uhh</F> so <R>how abou</R> how about watching <F>er</F> "Harry Potter"?</B>
+<A><nvs>laughter</nvs> Sounds interesting.</A>
+<B><F>Hm</F>?</B>
+<A>Sounds fun.</A>
+<B>Yeah. <F>Uh</F> so I'm always O K. <SC>Is</SC> <F>uhh</F> it's on Monday. So <.></.> how about go watching <F>uhh</F> at three o'clock in Shinjuku?</B>
+<A>Sounds good.</A>
+<B>Yeah. <F>Uh</F> <.></.> how do you come there?</B>
+<A><F>Um</F> I take <H pn="others3">XXX05</H> Line from <H pn="others4">XXX06</H> Station.</A>
+<B>Yeah. <F>Uhh</F> that's good. <F>Uhh</F> but I have bus card <SC>of</SC> <F>uhh</F> from <H pn="others4">XXX06</H> Station to Shinjuku Station. So <R>how about</R> <R>how about</R> <F>uhh</F> <.></.> how about see in <H pn="others4">XXX06</H> Station and go to <.></.> Shinjuku Station by bus?</B>
+<A><nvs>laughter</nvs> That's O K.</A>
+<B>O K. So see you next Monday.</B>
+<A>O K. So I'll be there at three o'clock?</A>
+<B>Yeah.</B>
+<A>Sure. O K. Great. Thank you very much for calling. Thank you.</A>
+<B><nvs>cough</nvs></B>
+</task>
+<followup>
+<A>Now, did you watch "<R>Ha</R> Harry Potter"?</A>
+<B>No.</B>
+<A>No? Did you read the book?</A>
+<B><F>Uh</F> no.</B>
+<A><F>Oh</F> O K. <F>Um</F> what do you <SC>do</SC> usually do in your free time, then?</A>
+<B><F>Hmm</F> usually, listenning to the music or reading books. <F>Uhh</F> <.></.> my favorite books is <F>uhh</F> history novels. So <R>I</R> I don't have so much interested in "Harry Potter".</B>
+<A><nvs>laughter</nvs> <OL>I see</OL>.</A>
+<B><OL>I like</OL> fantasy.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Erm</F> I don't know <SC>it's</SC> <.></.> <F>uh</F> how it say. <OL><??></??></OL></B>
+<A><OL><F>Oh</F></OL>. So you like history.</A>
+<B>Yeah.</B>
+<A>Why do you like history, then?</A>
+<B><F>Hmm</F>. <nvs>laughter</nvs> <.></.> <F>Er</F> <SC>it <SC>imply</SC> <F>er</F> implies <F>uhh</F> some</SC> <F>uhh</F> <.></.> how can I <laughter>say</laughter>, <..></..> I think <F>uhh</F> <SC>human makes re</SC> <F>uhh</F> <R>hu</R> human life is repeats.</B>
+<A><F>Hmm</F>.</A>
+<B>So <.></.> studying history means <F>uhh</F> <.></.> to know <F>uhh</F> what will happen, I think.</B>
+<A>I see. I see. Wonderful. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now lastly, I would like to show you a sequence of pictures. Let's do this. <nvs>cough</nvs> Here's a sequence of picture and I would like you to make up a short story based on these pictures from number one to six. And this happened before. So please start your story with "One day last week". O K? Go ahead.</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a moment.</ctxt>
+<B><F>Uhh</F> one day last week, <F>uhh</F> <.></.> it was raining. And <R>I walked with my girlfriend</R> <F>uhh</F> <.></.> I walked with my girlfriend to my house. On the way, <F>uhh</F> I heard something, faint voice from the box which is <.></.> <SC>throwed in the road</SC> throwed on the road. <F>Uhh</F> <SC>I found the voice and <.></.> <R>looked for</R> looked for</SC> <F>uhh</F> <.></.> I checked the voice and we found <.></.> a cats. <F>Uh</F> because I already have two cats in my house, I can't <R>fe</R> feed him. So <.></.> I asked my girlfriend to feed. <F>Uhh</F> first, she complained about that. But <.></.> after that, <F>uhh</F> <.></.> I pleased her from all my heart and <.></.> she agreed to feed him. It's happy end.</B>
+<A>O K. Good.</A>
+</task>
+<followup>
+<A>Now, you said you have two cats.</A>
+<B>Yeah.</B>
+<A>O K. <SC>What's great</SC> <SC>what's</SC> what is so great about having two cats at home?</A>
+<B><F>Hm</F>. <F>Ahh</F> I always say about it. They never speaks. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> So?</A>
+<B>So <F>uhh</F> <.></.> for example, <F>uhh</F> when I feel sad, <F>uhh</F> they never speaks and <R>come to my</R> <F>uhh</F> come to my knee and sit on my knee. And with no words but <.></.> <F>mm</F> gaze me and <F>mm</F> <F>er</F> usually only sleep. But <F>uhh</F> <.></.> such time, I feel something <F>uhh</F> comfortable and happy.</B>
+<A>Right. Great. Great. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now, <F>uhh</F> Mister <nvs>cough</nvs> <H pn="B's name">XXX02</H>, this is almost the end of the interview. O K? <F>Ur</F> what is your plan after this interview is over?</A>
+<B><F>Uhh</F> <R>I have</R> <F>uhh</F> <.></.> I have circle <F>uh</F> at six o'clock in <H pn="others5">XXX07</H>.</B>
+<A><F>Hm</F>.</A>
+<B>So <.></.> maybe after this three or two hours, <F>uhh</F> around this university and I will play something. <F>Uhh</F> maybe go to computer's room,</B>
+<A><OL>I see</OL>.</A>
+<B><OL>and</OL> check the Internet.</B>
+<A>O K. Good. And <SC>are you</SC> you're gonna stay <F>er</F> in <H pn="others5">XXX07</H> <SC>for wh</SC> for a while and it takes about two hours to go home?</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. Get really late.</A>
+<B><F>Ah</F> I don't care.</B>
+<A>You don't care?</A>
+<B>Time doesn't matter.</B>
+<A>I see. So your parents O K when you come back home,</A>
+<B><F>Ah</F>.</B>
+<A>pretty late. <F>Oh</F> that's nice. O K. Pretty <OL>good</OL>.</A>
+<B><OL>They</OL> never complains.</B>
+<A>That's nice. O K. Good. Thank you very much. Now, this is the end of the interview. <OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

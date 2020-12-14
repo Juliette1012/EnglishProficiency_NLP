@@ -1,0 +1,134 @@
+<interview>
+<filename>file00928.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B><F>Er</F> I'm fine, thank you. But <R>it's</R> it's getting cold <.></.> day by day, I think, <OL>so</OL></B>
+<A><OL>Yeah</OL>.</A>
+<B><R>I</R> <F>uhm</F> I caught cold yesterday. But today I'm fine.</B>
+<A><F>Oh</F> O K. Do you like winter?</A>
+<B><F>Er</F> yes. I'm from <H pn="others1">XXX03</H>. So I like snow. <nvs>laughter</nvs></B>
+<A><F>Wow</F>. What do you do in winter, usually?</A>
+<B><F>Ahh</F> <F>uhm</F> in <H pn="others1">XXX03</H>, <R>I</R> <.></.> I did skiing or skating every winter. <R>But</R> <.></.> but this year, <R>I</R> <.></.> I did not able to stay long time in <H pn="others1">XXX03</H>, so <R>I</R> <.></.> I will not be able to skiing, <OL>I think</OL>.</B>
+<A><OL><F>Ahh</F></OL> I see. <F>Wow</F>. Do you have any hobby?</A>
+<B>Yes. I like playing instrument. <R>My</R> my instrument is clarinet. And <F>urr</F> <F>uhm</F> I'm a member of club activity of <SC>music circle so</SC> music club.</B>
+<A>When did you start?</A>
+<B><F>Urr</F> <.></.> <F>uhmm</F> first, I started to play clarinet at elementary school. <.></.> <R>And</R> <.></.> and elementary school and at high school, I played clarinet.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> <F>uhm</F> again <R>I</R> I started the instrument the university.</B>
+<A><F>Uh-huh</F>. What's most difficult to play the musical instrument?</A>
+<B><F>Uhmm</F>. <.></.> <R>It</R> it is very difficult to arrange pitch. <.></.> So <F>uhm</F> <R>when</R> when <R>the</R> the <R>pitch</R> <F>uhm</F> <.></.> pitch <F>uhm</F> <.></.> is not <R>be</R> be arranged, <R>music is not</R> music is not be <?>harmonize</?>.</B>
+<A><F>Uhmm</F> I see.</A>
+<B>It's difficult.</B>
+<A><F>Uhm</F> that's interesting. Do you have any part-time job?</A>
+<B>Yes. <F>Uhm</F> I'm a waitress of Italian restaurant in <H pn="others2">XXX04</H>.</B>
+<A><F>Uhm</F>.</A>
+<B>And <R>I</R> <.></.> I have the waitress work <F>uhmm</F> three times in a week.</B>
+<A><F>Er</F> I see. How did you find the job?</A>
+<B><F>Urm</F> <R>my</R> <SC>my senior of high school days</SC> <.></.> one of my senior of my high school days <F>uhm</F> worked this restaurant <F>uhm</F> <.></.> <R>since</R> <.></.> <R>since</R> <.></.> since <.></.> half year. So <R>I</R> I was introduced by her.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ahh</F>. O K. That's good. All right. All right, <H pn="B's name">XXX02</H>, now I'm going to show you a picture. O K. Please describe this picture.</A>
+<B>Yes. <..></..> A husband and a wife <.></.> <SC>taking</SC> is taking supper in a restaurant. <.></.> The dinner room of this restaurant is very big. <R>And</R> <.></.> and there is a woman who is playing piano. And there is <R>old</R> old clock and the clock is big. <.></.> <SC>There is</SC> <.></.> there are <.></.> three couples <R>who</R> <.></.> who are taking supper. <.></.> And <.></.> this couple is <R>going to</R> <R>going to</R> <.></.> going to drink a bottle of wine. And <.></.> the <R>husband</R> <.></.> husband <R>is</R> is doing tasting of wine. And this wine <.></.> is smelling <?>for</?> this husband. So <.></.> this couple <R>decided</R> decided to drink this wine. <R>And</R> <.></.> and this couple is <R>waiting for</R> <.></.> waiting for <.></.> meals for supper.</B>
+</task>
+<followup>
+<A>O K. All right. Thank you. And what are the differences between this restaurant and the Italian restaurant you are working?</A>
+<B><F>Urrr</F>. <..></..> <F>Uhm</F> the restaurant which <SC>I work</SC> I'm working <R>have</R> have not round table. <R>And</R> and <.></.> <R>we</R> we don't use such a court <R>for <.></.> <R>wine</R> wine</R> for wine. <R>And</R> <.></.> and <R>the</R> the waiters don't have to wear the formal suits.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><nvs>laughter</nvs> O K. O K. Thank you. Next, we are going to do a role-play. O K. Please read this card to yourself. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading a card.</ctxt>
+<B>Yes.</B>
+<A>O K? May I help you?</A>
+<B>Yes. <F>Uhm</F>. <.></.> <R>I</R> <R>I'm seeking</R> <.></.> I'm seeking desk of my room. <F>Uhmm</F> <..></..> <R>my</R> my room is not so big. So I want to get a small desk.</B>
+<A>O K.</A>
+<B><F>Uhm</F> <R>I</R> I would like to buy a desk <F>uhm</F> <.></.> which made of wood.</B>
+<A>O K.</A>
+<B>And <R>I like</R> <.></.> I like the white wood so <F>uhm</F> <.></.> I prefer the color of white <R>or</R> or something bright color.</B>
+<A><F>Uh-huh</F>. <F>Well</F> then, how about this one? <F>Urr</F> the color is light blue.</A>
+<B><F>Urrr</F> <.></.> it's beautiful. <F>Uhm</F> <.></.> <F>uhm</F> <.></.> so <.></.> <R>this one</R> <.></.> this one have no drawing.</B>
+<A>No.</A>
+<B><.></.> <CO>So</CO>.</B>
+<A>Because the compact design.</A>
+<B>Yes. <F>Urm</F> there are any desk which have <SC>drawing</SC> small drawing?</B>
+<A><F>Oh</F> yes. <F>Urrm</F> how about this one? This one is yellow and has <SC>drawing</SC></A>
+<B>Yes.</B>
+<A>drawers.</A>
+<B><R>Draw</R> drawer? <nvs>laughter</nvs> <F>Urr</F> how much is this?</B>
+<A><F>Er</F> it's <F>urm</F> two hundred dollars.</A>
+<B>Two hundred dollars? <F>Uhmm</F> <..></..> <R>are</R> are there <.></.> any desk <R>a bit</R> a bit cheaper?</B>
+<A><F>Urm</F> this one is one hundred fifty dollars.</A>
+<B>One hundred fifty. <F>Urm</F> <.></.> does this desk <R>ha</R> have any drawer?</B>
+<A>Yes.</A>
+<B><F>Uhm</F> <.></.> <F>uhm</F> what color is this?</B>
+<A><F>Oh</F> we have a pink and light blue and yellow.</A>
+<B>Yellow? O K. <F>Ur</F> I'll buy this one, yellow.</B>
+</task>
+<followup>
+<A>O K. Here you go. Thank you very much. All right. Thank you. This is the end of the role-play. Do you like shopping?</A>
+<B>Yes.</B>
+<A>Where do you go shopping usually?</A>
+<B><F>Urm</F> I live in Nakano-ku so I usually go to Shinjuku or Nakano usually shopping.</B>
+<A>I see. Do you have any favorite store?</A>
+<B><F>Urm</F> <F>uhm</F> yes. In Shinjuku, there are many shops I like. And <R>I</R> I can buy everything in Shinjuku.</B>
+<A><F>Uhm</F> like what?</A>
+<B><F>Urrm</F> <R>I</R> I like <??></??> <F>uhm</F> <.></.> the shop of variety goods or interior goods. <F>Uhm</F> <.></.> so <..></..> whenever I go shopping, <R>I</R> <.></.> <SC>I visit</SC> I always visit interior goods shop.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uh-huh</F>. That's interesting. O K. Finally, we are going to do a sequence of pictures. O K.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>All right. Please make up a short story based on these pictures from one to six. And please start your story with "One day last week". Go ahead.</A>
+<B><.></.> <F>Urm</F> one day last week, a couple of a boy and girl <.></.> was walking in a street. It was rainy day. <.></.> <R>When</R> when they <SC>are</SC> were walking, a boy <R>heard</R> <.></.> heard cat's voice. <F>Uhm</F> <.></.> then, <R>there</R> there was a <R>box</R> <.></.> box along the street. <.></.> And the girl found a cat <SC>in a box</SC> <.></.> in the box. <F>Uhm</F> <.></.> <F>uhm</F> <.></.> <R>the girl</R> the girl wanted to <R>ta</R> take a cat <R>to</R> <.></.> to their home. But the boy rejected her suggestion. <.></.> <R>The girl</R> <.></.> the girl <R>thought</R> thought that the cat is very <R>pity</R> <..></..> <F>urr</F> pity. <F>Urr</F> and the girl <R>insis</R> insisted on taking a cat to home. <F>Uhm</F> <.></.> the boy was very embarrassed. And finally, they took a cat to their home <SC>in the</SC> in a rain.</B>
+</task>
+<followup>
+<A>O K. All right. Thank you. Then <H pn="B's name">XXX02</H>, <F>um</F> what will you do if the same thing happens to you?</A>
+<B><F>Urrm</F> <.></.> I'm <??></??> thought <R>the cat</R> the cat is very pity, <R>but</R> <F>uhm</F> <..></..> but the cat's family <.></.> <R>perhaps</R> perhaps <R>back to</R> back to take this cat. So <R>I</R> <R>I wo</R> I would not <SC>having</SC> <R>have</R> <SC>have to</SC> have taken this cat.</B>
+<A><F>Uhm</F> I see. Do you have any pet in your <F>er</F> parents' house?</A>
+<B><F>Er</F> no. <.></.> My parents said that <F>uhm</F> <.></.> <R>it</R> <R>it is</R> it is very sad <R>to</R> <R>to look</R> to look the pets when they die.</B>
+<A><F>Uhm</F>.</A>
+<B>So <SC>they</SC> <R>my parents</R> my parents don't like to have any pet.</B>
+<A><laughter>I see</laughter>. <OL>I understand</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you. We are almost at the end of the interview. Do you have any class after this interview?</A>
+<B>No. Today, I have no class.</B>
+<A>Can you go home now?</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Well</F></OL> please enjoy your free time.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>And thanks</OL> for coming. This is the end of the interview.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

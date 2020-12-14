@@ -1,0 +1,191 @@
+<interview>
+<filename>file01007.txt</filename>
+
+<head version="1.3">
+<date>2002-03-25</date>
+<sex>female</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>780</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B><F>Ah</F>. Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Mmm</F>. Yes.</B>
+<A>O K. <F>Er</F>. <H pn="B's name">XXX02</H>. Where do you live?</A>
+<B><F>Er</F>. Now I live in <H pn="others1">XXX03</H></B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <SC>my</SC> <F>er</F> I moved to <H pn="others1">XXX03</H> three years ago.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <R>before</R> before moving to the <H pn="others1">XXX03</H>, <R>I</R> <R>I live</R> I live in <H pn="others2">XXX04</H> with my family.</B>
+<A><F>Hmm</F>. Why did you move to <H pn="others1">XXX03</H>?</A>
+<B><F>Ah</F>. It's due to my job.</B>
+<A><F>Mh-hmm</F>. <..></..> So in <H pn="others1">XXX03</H>, do you live alone?</A>
+<B><F>Ah</F>. Yes.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL>Yes, I do</OL>.</B>
+<A><F>Mmm</F>. How do you enjoy living alone?</A>
+<B>Living alone? <F>Er</F>. <F>Er</F>. First, I feel is I can use my time freely.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>It's very good thing. But to live alone is very lonely. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>It's my first time to live alone.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>mm</F> I feel very lonely when I come back to my house and the light is off. And <F>mm</F> <F>er</F> especially in winter, the room temperature is <R>very</R> very low. And I feel <F>mmm</F> <F>mmm</F> <F>mm</F> <SC>ve</SC> <F>mm</F> colder <R>than</R> than <laughter>real temperature</laughter>. <nvs>laughter</nvs> <F>Er</F>. And <F>mm</F> <F>mm</F> <SC>I</SC> but it's good for me to know <R>I</R> I love my family.</B>
+<A><F>Mh-hmm</F>. And <F>er</F> when you feel lonely, what do you usually do?</A>
+<B>What? <F>Mmm</F>. <F>Er</F>. I often call my house at first. But <F>mm</F> gradually, I spend my time to read a book or listen to the music.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So now, it's O K to live <laughter>alone</laughter>.</B>
+<A>I see. <F>Oh</F> <F>er</F> how do you spend your weekend?</A>
+<B>Weekend? <F>Mmm</F> I like shopping. So, not every weekend, but I often <R>go</R> go shopping <F>mm</F> in <H pn="others1">XXX03</H>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And once a month or once <F>er</F> <SC>two</SC> every two months, I come back to Tokyo and <R>meet</R> meet my friend in my university or high school.</B>
+<A><F>Mmm</F>. Then what do you do with them?</A>
+<B><F>Ah</F>. Mainly <SC>I talk with</SC> talk about many things.</B>
+<A><F>Mh-hmm</F>. For example?</A>
+<B>For example? <F>Er</F>. <R>About</R> <SC>about our job or</SC> <F>mm</F> about our job and <F>mm</F> <SC>anoth</SC> <F>mm</F> about another friend.</B>
+<A><F>Hmm</F>. I see. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like to show you a picture. Please describe this picture.</A>
+<B><nvs>cough</nvs> <F>Mmm</F>. <F>Mmm</F>. <F>Mmm</F>. This is her private room. And <R>she</R> she has a cat and dogs. And <F>mm</F> she might have <F>er</F> <F>mm</F> <SC>a job</SC> <R>about</R> <R>about</R> <F>er</F> about a job related to the computer.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Mmm</F>.</B>
+<A><nvs>cough</nvs></A>
+<B><F>Mmm</F>. <..></..> <F>Mm</F>. Or she might be a writer. So she writes her books or report or translate <R>in her</R> in her room. <F>Mmm</F>. <..></..> <F>Mmm</F>. And her face is calm. So <R>she</R> <SC>she is</SC> <R>she work</R> <F>mm</F> she works but she is very relaxed. <..></..> <F>Mmm</F>. And <SC>that</SC> that's all.</B>
+<A>O K. Thank you very much. <nvs>cough</nvs></A>
+</task>
+<followup>
+<A>O K. Please compare this room with your own room.</A>
+<B><F>Erm</F>. <F>Well</F>. <F>Mm</F>. <..></..> <SC>Compare</SC> <F>mm</F> compared to my room, it's <F>er</F> <..></..> <F>mmm</F> <R>her</R> her room is very clean. <..></..> <F>Mmm</F>. <F>Mmm</F>. <..></..> <F>Mmm</F>. And this room seems to be warmer than my house.</B>
+<A><F>Hmm</F>.</A>
+<B>Because <R>she</R> <SC>she wear short skirt</SC> she wears short skirts. But <SC>in my house is colder than</SC> <F>ah</F> <R>my room is</R> <F>mm</F> my room is colder than her room. So <R>I can't</R> <.></.> I can't stay wearing the skirt. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Interesting. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I'd like to try a role-play. O K. Please read this. And when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><nvs>cough</nvs> <nvs>sniff</nvs> <..></..> <F>Mmm</F>. <..></..> <F>Mm</F> O K.</B>
+<A>Ready?</A>
+<B>Ready.</B>
+<A>May I help you?</A>
+<B><F>Ah</F>. Yes. <F>Er</F>. <R>I</R> I'd like to know what is the <SC>fast</SC> fastest train to the New York. <R>What time</R> what time is the train start?</B>
+<A>O K. The fastest one is super-express train. And it leaves in one hour.</A>
+<B>One hour?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> <F>Ah</F>. What time the train <SC>start</SC> <SC>will s</SC> will leave?</B>
+<A><OL>The station</OL>?</A>
+<B><OL><F>Er</F></OL> yes.</B>
+<A><F>Er</F>. Three thirty.</A>
+<B>Three thirty?</B>
+<A><F>Mh-hmm</F>.</A>
+<B>O K. <R>And</R> <.></.> and <SC>how much is it</SC> how much does it cost?</B>
+<A><F>Well</F> two hundred dollars.</A>
+<B>Two hundred dollars. <F>Mmm</F>. Is it <R>first</R> first class or second class?</B>
+<A><F>Oh</F>. The train has only normal class.</A>
+<B>Normal class. O K. And <F>mm</F> <F>mm</F> <F>ah</F> <..></..> <F>mm</F> and <R>where</R> where is the platform for the train?</B>
+<A><F>Oh</F>. Platform number ten.</A>
+<B>Number ten?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F>. So <R>I</R> I want to buy the ticket. But can I use credit card?</B>
+<A>Sure.</A>
+<B>O K. <..></..></B>
+<A>O K. One <laughter>ticket</laughter> is O K? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>O K</laughter></OL>.</B>
+<A>O K. Here is your ticket. <laughter><OL>And can I have your credit card</OL></laughter>?</A>
+<B><laughter><OL>It's O K</OL></laughter>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you. Have a nice trip to New York.</A>
+</task>
+<followup>
+<A>O K. <F>Um</F> have you ever been to New York?</A>
+<B><F>Ah</F>. Yes. <SC>I have</SC> <R>I</R> I've been to New York <R>for</R> <F>mm</F> <R>for</R> four years ago.</B>
+<A><F>Mh-hmm</F>. Why did you go there?</A>
+<B>Why? <F>Erm</F>. It's my <F>mm</F> sightseeing. <F>Mm</F>. <F>Mm</F>. When I went to the New York, the trade center <SC>is</SC> was not broken.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>And</R> <F>mmm</F> and I went to museums. Metropolitan and MOMA.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I walked around the New York City.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <F>mm</F> <F>mm</F> <SC>the</SC> <F>mmm</F> I like musical so <R>I watched</R> I watched the musical in Broadway.</B>
+<A><F>Mmm</F>.</A>
+<B>It was very exciting.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And the ticket price was much cheaper than Japan. So many people could see the play easily.</B>
+<A><F>Mmm</F>. I see. Do you want to visit the city again?</A>
+<B><F>Ah</F> yes.</B>
+<A><F>Mmm</F> I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now I'd like to show you another picture.</A>
+<ctxt>The examiner is choosing the picture.</ctxt>
+<A>O K. This is the picture story. And this happened last week. O K. So please make a story</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A><OL>and</OL> start with "One day last week".</A>
+<B>One day <OL>last week</OL>.</B>
+<A><OL>O K</OL>. Please start here like this.</A>
+<B><F>Mmm</F>.</B>
+<A>O K? Please start. Yes.</A>
+<B><F>Er</F>. <R>She</R> she went to the department store <R>to</R> to buy <SC>someone</SC> <.></.> <R>so</R> <F>ah</F> something. And <nvs>sniff</nvs> <F>er</F> <F>er</F> the purpose she went to the department store is to buy birthday present <R>for</R> for her husband. She choose the tie <SC>for he</SC> for his present. <nvs>sniff</nvs> And <R>she</R> <.></.> <F>mm</F> <SC>she fai</SC> found a good one. So she bought it. <SC>After she</SC> after buyig the present, <R>she</R> she walked around the department store. And <R>she</R> she found <F>mm</F> <R>many</R> many things <SC>was</SC> were <R>sold</R> <R>sold by</R> sold by sale. So <.></.> <R>she</R> <..></..> <R>she</R> <R>she</R> she was very exciting <R>to</R> to buy things for herselfs. So <R>at</R> at last <SC><R>she bought <R>more</R> more things</R></SC> <SC>she bought more things</SC> <F>mm</F> she bought more things than her husband. She <SC>many</SC> <R>she bought</R> <F>mm</F> she bought for herself. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Mh-hmm</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>You said you like shopping.</A>
+<B><F>Hmm</F>.</B>
+<A><F>Mmm</F>. Tell me about your shopping strategies.</A>
+<B>Strategy. <F>Mmm</F>. I think I'm not a good shopper. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><R>Be</R> Because <R>I</R> <SC>I ha</SC> before I go shopping, I have no plan <laughter>to what I buy</laughter>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>So</R> so everytime I go to the <R>sho</R> shops, <F>mmm</F> <R><laughter>I</laughter></R> <R>I</R> <F>mm</F> I buy many things. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>Really</laughter></OL>?</A>
+<B><F>Mmm</F>. <CO>What <R>I</R> I see or</CO>.</B>
+<A><nvs>laughter</nvs> So tell me about the most expensive thing you've ever bought.</A>
+<B>Most expensive <F>mmm</F> <F>ah</F> <.></.> <SC>most</SC> <F>ah</F> <R>I</R> <F>mm</F> I bought electric piano.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>In</R> in the electrical shop.</B>
+<A><F>Hmm</F>.</A>
+<B>But at that time, <R>I</R> <R>I wan</R> I wanted to buy, but I didn't decide it when <R>I</R> I would buy. But when <SC>I saw</SC> I went to the shop and see the piano, I strongly <OL><laughter>want to buy it</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>So I decided to buy it at one day.</B>
+<A><F>Hmm</F>. <OL><laughter>I see O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. This is almost at the end of the interview.</A>
+<B><F>Ah</F>. <OL>Thank you</OL>.</B>
+<A><OL>So</OL> do you have any plan for shopping <SC>this weekend</SC> this coming weekend?</A>
+<B><F>Ah</F>. This coming weekend <F>er</F> yes, I will go to U K next month so <nvs>laughter</nvs> I want to buy many things, for example, my clothes or shoes or. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B>Small things.</B>
+<A><F>Uh-huh</F> I see.</A>
+<B><laughter>So</laughter>.</B>
+<A>I think you should make a shopping list <OL>before you shopping O K</OL>.</A>
+<B><OL><laughter>yeah</laughter></OL> I think <OL>so</OL>.</B>
+<A><OL>O K</OL>. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you</OL>. <OL>Thank you very much</OL>.</B>
+<A><OL>This is the end of the</OL> interview.</A>
+</stage5>
+</body>
+</interview>

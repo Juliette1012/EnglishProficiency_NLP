@@ -1,0 +1,264 @@
+<interview>
+<filename>file00473.txt</filename>
+
+<head version="1.3">
+<date>2001-07-10</date>
+<sex>female</sex>
+<age>45</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>4</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. <F>Ah</F> hello, my name is <H pn="B's name">XXX02</H>. Nice <OL>to meet you</OL>.</B>
+<A><OL>Nice to meet you</OL>. <F>Hmmm</F> <H pn="B's name">XXX02</H> where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H></B>
+<A><F>Uhhum</F>.</A>
+<B>in <H pn="others2">XXX04</H> <F>urr</F> Prefecture.</B>
+<A><F>Uhhum</F>. Can you tell more about <H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A>Can you tell me more about the area?</A>
+<B><F>Um</F> <F>urr</F> sorry, I couldn't understand what the term mean.</B>
+<A><F>Urr</F> <F>umm</F> <R>tell</R> tell me more</A>
+<B><JP><F>A</F></JP> <laughter><F>ahh</F> yes</laughter>.</B>
+<A>about <H pn="others1">XXX03</H>. I have never been to <H pn="others1">XXX03</H>.</A>
+<B><R><F>Ahh</F> really</R>.</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Ahh</F> really. Yes. <F>Ahh</F> <H pn="others1">XXX03</H> is <SC>mo</SC> <F>mm</F> very commercial <F>umm</F> town with some <?>historical</?></B>
+<A><F>Uhhum</F>.</A>
+<B>long times ago. <F>Mm</F> <SC><JP>Edo</JP> age</SC> <F>mm</F> Edo ages. Now <F>ummm</F> <F>mmm</F> near <.></.> from <H pn="others3">XXX05</H> City.</B>
+<A><F>Hmm</F>.</A>
+<B><H pn="others1">XXX03</H> is <F>umm</F> <F>umm</F> very <.></.> <F>mmmm</F> <F>eh</F> sorry. <nvs>laughter</nvs></B>
+<A>That's O K. <R>Do you</R> do you live with your family?</A>
+<B>Yes, with my family.</B>
+<A><F>Hmm</F>. Can you tell me about your family members?</A>
+<B><F>Urr</F>. O K. <F>Umm</F> <F>urr</F> I married <F>umm</F> about twenty-three years ago. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhhum</F></OL>.</A>
+<B>And my husband and my three daughter and then my parents-in-law,</B>
+<A><F>Wow</F>.</A>
+<B>now.</B>
+<A><F>Uhhum</F>. What does your oldest daughter do?</A>
+<B><F>Urr</F>. She is very <F>umm</F> musician <OL><R>and</R></OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>and <R>she</R> she likes <F>umm</F> music and play the piano now. <F>Urr</F> she <F>mm</F> teaches piano</B>
+<A><F>Uhhum</F>.</A>
+<B><F>umm</F> children.</B>
+<A><F>Uh-hum</F>. Do you play instruments?</A>
+<B><F>Ohhh</F> <nvs>laughter</nvs> only listening.</B>
+<A><OL>Only listening</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Uhhum</F>. What other hobbies do you have?</A>
+<B><F>Umm</F> <SC>I</SC> my hobbies is <F>umm</F> write fairy tale.</B>
+<A><F>Uhhum</F>.</A>
+<B>It's my <SC>biggest</SC> <F>urr</F> important hobby</B>
+<A><F>Hmm</F>.</A>
+<B>for me in my life.</B>
+<A><F>Uhhum</F>.</A>
+<B>And I continue till die I want to do and studying and write a simple and <?>deeply</?> story</B>
+<A><F>Uhhum</F>.</A>
+<B>for children.</B>
+<A><F>Hmmm</F>. Why do you like that?</A>
+<B><F>Umm</F>. <.></.> <F>Umm</F> maybe honest and very <F>umm</F> difficult things at <.></.> <F>mm</F> <?>say</?></B>
+<A><F>Uhhum</F>.</A>
+<B>simply,</B>
+<A><F>Umm</F>.</A>
+<B>and then I <.></.> love that.</B>
+<A><F>Hmmm</F>. Wonderful.</A>
+<B><nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now, the first thing I want you to do today,</A>
+<B><F>Uh</F> yes.</B>
+<A>is to look at this picture.</A>
+<B>Yes.</B>
+<A>And please tell me about the picture.</A>
+<B><F>Ahh</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<A>Anything. Just describe the picture.</A>
+<B>Yes. <R>I</R> <R>I thought</R> I thought this couple is and <R>re</R> <R>re</R> <?>remember</?> for <F>umm</F> wedding <F>mmm</F> nearly fifteen years <OL><laughter>later</laughter></OL>.</B>
+<A><OL><F>Uhhum</F></OL>.</A>
+<B>And fifteen years passed and <.></.> <F>umm</F> they enjoy dinner with their husband and their wife. And <F>umm</F> nice scene on dinner <F>urr</F> listening to piano <.></.> quiet sound. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B><F>Mmm</F> so very peaceful sound in <?>close</?> this place.</B>
+<A><F>Uhhum</F>.</A>
+<B>But everybody now without children. They spend their own time. <F>Umm</F>.</B>
+</task>
+<followup>
+<A>O K. Thank you. So when did you have a nice dinner recently? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Urr</F> nice dinner and almost all I make the special dinner for <F>urm</F> family.</B>
+<A><F>Uhhum</F>.</A>
+<B>Dinner. <F>Umm</F> two months ago, <JP>osushi</JP>. <nvs>laughter</nvs></B>
+<A><F>Uhhum</F>.</A>
+<B>Sushi. <SC>We</SC> my family went to sushi bar</B>
+<A><F>Uhhum</F>.</A>
+<B>Special. <F>Mmm</F> delicious sushi,</B>
+<A><F>Mmm</F>.</A>
+<B>we ate. Enjoy.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mmm</F>. Good. O K. Now, the next thing is a role-play. O K? I want you to read this,</A>
+<B>Yes.</B>
+<A>in Japanese and when you're ready, I'll begin. So please read it</A>
+<B><F>Ah</F> yes.</B>
+<A>quietly. <OL>Just read</OL>.</A>
+<B><OL>I <?>just</?></OL>. O K.</B>
+<ctxt>The interviewee is reading the card to herself.</ctxt>
+<A>O K? All right. May I help you?</A>
+<B><F>Uh</F> yes. <F>Um</F> <SC>could you</SC> <F>umm</F> <SC>I looking for</SC> <F>urr</F> could you <F>mm</F> find <F>umm</F> <SC>brooch</SC> <F>er</F> stone brooch?</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Mm</F> <SC>I want to</SC> I looking for the brooch <F>mm</F> with stone <F>er</F> <SC?>not</SC?> the color is blue <F>urr</F> on a very <R>s</R> simple only stones, and shape is round. <F>Umm</F>.</B>
+<A><F>Uhhum</F>. We have many with blue stones.</A>
+<B><F>Urr</F>.</B>
+<A><OL><F>Uhhum</F></OL>.</A>
+<B><OL><SC?>And maybe</SC?></OL> and the size is</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Mmm</F> <.></.> two inches in <R>sa</R> size. <F>Mmm</F> very simple.</B>
+<A><F>Uhhum</F>.</A>
+<B>Only <SC>stone</SC> blue stone.</B>
+<A>O K. How about these three?</A>
+<B><F>Ah</F> <F>umm</F> I like this one.</B>
+<A><F>Uhhum</F>.</A>
+<B><R>The</R> the costs is important for me.</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Mmm</F>. About <R>ten thousand yen</R> ten thousand yen.</B>
+<A><F>Aha</F>.</A>
+<B><F>Urr</F>.</B>
+<A>This one is <F>urr</F> ten thousand yen. This one is <SC>wha</SC> <F>urr</F> twelve thousand yen.</A>
+<B>Twelve thousand?</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Umm</F>. I prefer this <F>umm</F> ten thousand yen.</B>
+<A><F>Uhhum</F>. O K. You want to take it?</A>
+<B>Yes. I want.</B>
+<A>O K.</A>
+<B>Yes.</B>
+<A>All right. So, here you are.</A>
+<B>Yes. Thank you very much. <nvs>laughter</nvs></B>
+<A>Thank you.</A>
+<B><F>Umm</F>. Is it very suit me?</B>
+<A><F>Umm</F>. Looks very good on you. <nvs>laughter</nvs></A>
+<B>Thank you.</B>
+<A>Please enjoy.</A>
+<B>Yes.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>This is the end of the role-play. <F>Mmm</F> <F>umm</F> when you buy accessories,</A>
+<B>Yeah.</B>
+<A>how do you decide which one to buy?</A>
+<B><F>Ahh</F> very difficult. <SC>I almost <?>always</?></SC> <R>I</R> <F>em</F> <SC>I</SC> if I buy the accessory,</B>
+<A><F>Uhhum</F>.</A>
+<B><R>I</R> I take so many times.</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter>Many times</laughter>. And one times <SC>ten or</SC> <F>umm</F> ten years <F>umm</F> used <F>mm</F> to buy <SC>my</SC> <F>mm</F> <.></.> <SC>I</SC> <F>mm</F> very difficult to my desire accessory.</B>
+<A><F>Uhhum</F>.</A>
+<B><.></.> Even if <R>I</R> I want to buy, go to shopping</B>
+<A><F>Uh-hum</F>.</A>
+<B>in the center, but <F>mm</F> nothing.</B>
+<A><F>Hmm</F>.</A>
+<B>Very difficult. <F>Umm</F>. Almost my <F>umm</F> antique accessory.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F>. <.></.> I looked so far.</B>
+<A><F>Uhhum</F>. You like antique.</A>
+<B>Yeah, I like <OL>antique</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL>Great</OL>. O K. All right. Now <F>err</F> the last thing I'd like you to do is to look at picture sequence.</A>
+<B>Yes.</B>
+<A>O K. There are six pictures.</A>
+<B>Yes.</B>
+<A>O K. Please make a story,</A>
+<B>Yes.</B>
+<A>and this happened last week, so I want you to start the story with "One day last week".</A>
+<B>Yeah.</B>
+<A>O K?</A>
+<B>Yes.</B>
+<ctxt>The interviewee is silently making up a story.</ctxt>
+<B>Miss <F>er</F> Yuri and Makoto, <F>urr</F> <R>they</R> <F>emm</F> <F>emm</F> <.></.> <F>mmm</F> they were going to go to see the movie.</B>
+<A><F>Uhhum</F>.</A>
+<B>At that days <R>rain</R> <?>rains</?>. <F>Mm</F> on the way, <F>mm</F> they <F>emm</F> <.></.> <F>er</F> heard so strange voice. And Makoto, <F>urr</F> "What's the sounds"? <SC>The sound <F>urr</F> with rainy sounds</SC> <F>mm</F> <R>they</R> <F>err</F> they heard the sound with rain sound. And <F>mm</F> Yuri <F>um</F> <R>looking</R> <SC>looking out</SC> look out to the <F>mm</F> street <R>kitty</R> kitty cat to live. <F>Mm</F>. "<F>Ohh</F> that's so poor cat. <F>Umm</F> you are alone. <F>Oh</F> what can I do? I want to go with this cat". But, Makoto, "No, no, no, no, we will going to go to movie, enjoy our time.". "But the cat is alone, in rain, no food. I'll go back with <R>ki</R> <SC>kitty</SC> <F>mmm</F> <SC>this cat</SC> to this cat.". <F>Umm</F> Makoto worry <F>mm</F> but <.></.> they decided <F>umm</F> pick up the cat and they go back <.></.> with <SC>kit</SC> <F>mm</F> cat <.></.> <R>un</R> under one umbrella. <.></.></B>
+</task>
+<followup>
+<A>O K. Thank you.</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>Nice story</OL>. <F>Hmm</F>. So <F>em</F> do you have any pets?</A>
+<B>Yes, I have pets. Yeah. Dog.</B>
+<A><F>Oh</F> I see. <F>Umm</F>. Can you tell me about your dog?</A>
+<B>Yes. The dog is very clever dog. The dog is <nvs>laughter</nvs> <F>em</F> <SC>he</SC> <R>she</R> <R>she</R> <.></.> she doesn't recognize she is dog.</B>
+<A><nvs>laughter</nvs></A>
+<B><R>She is</R> she is daughter</B>
+<A><F>Uhhum</F>.</A>
+<B>with the my family.</B>
+<A><F>Uhhum</F>.</A>
+<B>I have three daughters,</B>
+<A><F>Uhhum</F>.</A>
+<B>but my youngest daughter say the dog's name Miffi. <R>Miffi's</R> <F>urr</F> Miffi's my sister.</B>
+<A><nvs>laughter</nvs></A>
+<B>My sister, but Miffi <R>say with</R> say with eyes <?><OL>I</OL> find</?>.</B>
+<A><OL><F>Uhhum</F></OL>.</A>
+<B><F>Umm</F>. My youngest <?>daughter's</?> name <F>emm</F> <H pn="others3">XXX05</H>.</B>
+<A><F>Uhhum</F>.</A>
+<B><H pn="others3">XXX05</H> is my sister.</B>
+<A><nvs>laughter</nvs></A>
+<B>Very clever. <H pn="others3">XXX05</H>, when she <??></??> like youngest daughter <H pn="others3">XXX05</H>, <F>urr</F> she was three years old, Miffi played with her.</B>
+<A><F>Hmmm</F>.</A>
+<B>For example <F>mm</F> like <F>mmmm</F> <.></.> rope,</B>
+<A><F>Uh-huh</F>.</A>
+<B>pick <R>and</R> and pull</B>
+<A><F>Uh-huh</F>.</A>
+<B>the rope <SC>with <H pn="others5">XXX06</H></SC> with <H pn="others3">XXX05</H>, and Miffi and <SC>hidden</SC> <R>one car</R> <SC>one</SC> <SC>my</SC> <F>emm</F> <H pn="others3">XXX05</H> hide <F>emm</F> big car's <.></.> shadow. Miffi looking <JP>wan-wan</JP>.</B>
+<A><nvs>laughter</nvs></A>
+<B><JP>Wan-wan</JP>. <?>I see</?>.</B>
+<A><nvs>laughter</nvs></A>
+<B>And Miffi can play with <H pn="others4">XXX07</H>.</B>
+<A><F>Hmmm</F>. Amazing. <nvs>laughter</nvs></A>
+<B><F>Ohh</F> amazing.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Wow</F>. O K. <F>Well</F> we're almost finished with this interview.</A>
+<B>Yes.</B>
+<A>Are you going to take Miffi for a walk today?</A>
+<B><F>Umm</F>.</B>
+<A>You will go for a walk?</A>
+<B>Sorry, I couldn't understand.</B>
+<A>Will you go home?</A>
+<B>Yes.</B>
+<A>After this?</A>
+<B>Yes.</B>
+<A>And take Miffi for a walk?</A>
+<B><JP>A</JP>. <F>Oh</F> yes. Especially just <R>wa</R> walking with <F>ah</F> my husband.</B>
+<A><F>Aha</F>.</A>
+<B>My husband <F>umm</F> <F>umm</F> <R>bu</R> <SC>buy the shopping</SC>,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>umm</F> go to shopping <F>mmm</F> <SC>Miffi</SC> with <R>Miffi</R></B>
+<A><F>Ummm</F>.</A>
+<B>Miffi. <??></??> they quickly walking, running.</B>
+<A><nvs>laughter</nvs> <F>Wow</F>.</A>
+<B>She is waiting every day.</B>
+<A><F>Ahh</F> <OL>nice dog</OL>.</A>
+<B><OL>Everything</OL>.</B>
+<A><F>Wow</F>. O K. <F>Well</F> thank you for the interview.</A>
+<B>Thank you very much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

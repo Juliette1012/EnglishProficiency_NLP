@@ -1,0 +1,140 @@
+<interview>
+<filename>file00417.txt</filename>
+
+<head version="1.3">
+<date>2001-03-19</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>606</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <?><H pn="A's name">XXX01</H></?> can I have your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>Can you call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><H pn="B's name">XXX02</H>, can you tell me a little bit about what you do?</A>
+<B><F>Er</F>. Yes, <R>I</R> <F>mm</F> <F>er</F> I'm a sales man at <H pn="company name1">XXX03</H>. <F>Uu</F> I sale steel <F>mm</F> from steel maker to <?>plus</?> manufacturer and parts makers and <F>uu</F> and <R>I</R> <SC>I</SC> also I deliveries <F>uu</F> from steel maker, too, some suppliers. <F>Ee</F> <F>mm</F>. <R>My</R> my assignment <F>uu</F> is to trade <F>uu</F> steel materials. <F>Mm</F>. My job is very challenging and <F>uu</F> tough, because <F>uu</F> <SC>auto pa</SC> <R>au</R> <SC>auto parts manufacturers</SC> automakers <F>uu</F> <SC>don't have</SC> <F>uu</F> don't keep <F>uu</F> much steel in stock. So <R>I</R> <F>mm</F> <SC>I strict</SC> <R>I</R> I keep <F>uu</F> strictly <F>ee</F> dead-line. So <F>oo</F> always <F>uu</F> I <R>s</R> <F>uu</F> sensitive about stock and <F>uu</F> delivery situation.</B>
+<A>O K, sounds very tough job.</A>
+<B>Yes.</B>
+<A>So you are so busy during a week, what are your hobbies?</A>
+<B>Yes, <F>er</F> I don't have a lot of spare time, but <R>if</R> <F>mm</F> if I were spare time, <F>er</F> <SC>I'd like to have <SC>go</SC> <F>er</F> gone</SC> <F>mm</F> <SC>I'd like to ha</SC> I'd like to <F>uu</F> go abroad. Because <F>uu</F> in my collage days <F>er</F> I went a lot of countries. For example, <F>uu</F> Mexico, Australia, Turkey, <SC>Egyptian</SC> Egypt and <F>uu</F> Russia, of course, in the U S. <F>Uu</F>. My favorite country is <F>mm</F> Egypt. I want to go again Egypt. Because <SC>I don't have</SC> <F>uu</F> <F>er</F> I didn't have <F>uu</F> a time to visit Egypt. So <F>uu</F> I want to again.</B>
+<A>O K, so <?>when is your</?>.</A>
+<B>Yeah, <?>rarely</?>.</B>
+<A>How do you have <??></??>?</A>
+<B><F>Uum</F>. Relax <F>mm</F> <F>er</F> on weekend if I have spare time, <F>mm</F> <F>err</F> I read book. I usually read book about administration and economic and <SC>novelist</SC> <R>no</R> novel. <F>Uu</F>. <R>Now I'm</R> <nvs>cough</nvs> now I'm reading about <F>uu</F> novel <SC>abo</SC> <F>uu</F> "Wild Swan". <F>Ee</F> the book is <R>written by</R> written by <F>uu</F> <R>woman</R> woman <SC>authozer</SC> <R>author</R> author. <F>Er</F> <F>mm</F>. This is written about <F>uu</F> <F>mm</F> <SC>Chi</SC> after war <F>mm</F> Chinese situation. Very very interesting. <F>Mm</F>. <.></.> Interesting and <F>mm</F> surprising <F>uu</F> <.></.> information.</B>
+<A>Can you tell me more about the story.</A>
+<B><F>Er</F>. <R>After war</R> after war two <F>mm</F> Chinese country <SC>is</SC> was changing about <F>uu</F> communist. <F>Uu</F>. In this situation <F>mm</F> <..></..> communist <F>er</F> <F>err</F> <.></.> <R>Mo</R> <SC>Moutakuto</SC> yeah, Motakuto is <F>ee</F> just <F>mm</F> <?>domitory</?> in Chinese country. <F>Ee</F>. Author is <SC>thinking but</SC> thinking about <F>uu</F> what is <SC>communis</SC> <F>er</F> commune country. So <F>mm</F> <R>she</R> <F>mm</F> she worry about her future, and <F>uu</F> <SC>she</SC> after she was grown up <F>mm</F> she <F>er</F> <SC>went to abroad</SC> <F>uu</F> went to <F>uu</F> <R>En</R> England to enter university. <SC>After graduation</SC> after her graduation <F>mm</F> she wrote down it novelist <F>mm</F> about <F>er</F> for ten years. <F>Mm</F>. <?>Labeled</?> one story <F>er</F> is very interesting.</B>
+<A>O K, I have to read it someday.</A>
+</stage1>
+<stage2>
+<task>
+<A>I'd like to show you a picture now.</A>
+<B>Yes.</B>
+<A><.></.> I'd like you to tell me about this picture.</A>
+<B>Yes. <F>Er</F>. <nvs>cough</nvs> <R>In this picture</R> <F>er</F> in this picture <F>uhu</F> <F>ee</F> <F>mm</F> <SC>there is a</SC> <SC>there is outside</SC> <F>uu</F> <F>ee</F> there is a car on the road. <F>Uu</F>. And <SC>a few people</SC> <F>uu</F> there is a few people the road. And <F>uu</F> <SC>near hou</SC> near the house. For example, <R>the man</R> <SC>the man walking</SC> <F>er</F> <F>uu</F> the man is running along the street. And <F>uu</F> <R>the</R> the children is using rope, and they are talking about <F>mm</F> the <?>pork</?>. <F>Uu</F> <F>uu</F>. It's Sunday. And <F>uu</F> <F>uu</F> these children <F>uu</F> <F>er</F> <R>playing</R> playing ball. And <F>mm</F> <F>uu</F> <F>mm</F> that's all.</B>
+</task>
+<followup>
+<A>Could you compare this picture <?>maybe with the picture of your grown-up place</?>?</A>
+<B><F>Oh</F>. Yes. <F>Uu</F> I think this picture is not Japan. <SC>Because <F>uu</F> a big</SC> <F>er</F> because <F>err</F> Japanese road is not so <SC>long</SC> wide and <F>uu</F> don't have <R>a</R> <F>er</F> <R>a lot of</R> a lot of space. <F>Uu</F>. But this picture is a lot of space. <F>Uu</F>. <SC>My</SC> <F>mm</F> I live <SC>in <H pn="others1">XXX04</H></SC> <F>mm</F> in the <SC>centra</SC> <SC>center</SC> central of <F>uu</F> <H pn="others1">XXX04</H>. So <F>uu</F> road and <F>uu</F> buildings very close <F>uu</F> compared with this picture. <F>Uu</F>. Very different. <R>I'd like to live</R> I'd like to live here.</B>
+<A><nvs>laughter</nvs> Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I'd like to do a role-play now.</A>
+<B>Yes.</B>
+<A>I'd like you to</A>
+<ctxt>The interviewer is taking out the card.</ctxt>
+<A>read this card</A>.
+<B>Yes.</B>
+<A><..></..> Could you read this card?</A>
+<B>Yes.</B>
+<A>When you are ready, I will start the role-play.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>Yes. O K.</B>
+<A>May I help you, sir?</A>
+<B><F>Er</F>. Yes. <F>Er</F> <R>I can't</R> I can't make it to <R>this train</R> this train. <F>Er</F> I bought <F>uu</F> reserved seat. But <SC>I can't make it</SC> <F>er</F> I could 't make it. So <F>uu</F> <SC>if it possible</SC> <F>uu</F> <SC>if it</SC> <F>uu</F> <F>er</F> <R>is i</R> <SC>is it possible <F>uu</F> if</SC> <F>uu</F> <SC>can</SC> <F>er</F> you can change another non-received seat, <SC>is it right</SC> is it possible?</B>
+<A><F>Er</F>. Why were you late?</A>
+<B><F>Er</F> <F>mm</F> because <F>uuu</F> my children <SC>is sick</SC> <F>er</F> was sick this morning. So <R>I</R> <.></.> I took him to the hospital. So I'm <SC>s</SC> late. <R>I can't</R> I can't <F>uu</F> avoid.</B>
+<A><F>Er</F>. <R>We</R> we have no policy to refund tickets.</A>
+<B>Yeah, <F>hum</F> <R>what</R> <SC>what should I do if</SC> <F>er</F> what should I do? This ticket is <F>mm</F> invalid or <SC>change</SC> <F>er</F> <SC>pay cancel</SC> <F>er</F> pay canceled fee, change another ticket? <SC>Is it</SC> <F>er</F> <R>can I</R> <SC>can I s</SC> <SC>can</SC> <F>er</F> what should I do?</B>
+<A>What would you like to do?</A>
+<B><F>Er</F> I would like to, of course, <F>uu</F> <.></.> change <F>uu</F> another received seat.</B>
+<A>O K. So I'll see our manager and see what we can do.</A>
+<B>Yes.</B>
+<A>I've just talked manager, we can't refund the money, but we can exchange the ticket,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>for the next train</OL>.</A>
+<B>Yes, O K. Here you are.</B>
+<A>Thank you very much, here is your new ticket.</A>
+<B>Yes. Thank you.</B>
+</task>
+<followup>
+<A>O K. You said <F>er</F> that you like to travel.</A>
+<B>Yes, I like travel.</B>
+<A>Have you ever had a situation troubles <SC>you have</SC> you missed the train or plane?</A>
+<B><F>Oh</F> <R>I</R> I don't have <R>this situation</R> <F>er</F> this situation. But <F>uu</F> <R>when I</R> when I go to Thailand, <F>uu</F> and when I went to back to Japan, this airplane is hijacked. But <F>uu</F> <R>in</R> in this situation it is very difficult. <SC>My</SC> <F>uu</F> <F>uu</F> <R>when</R> <F>er</F> when I went back to Japan, <SC>I went</SC> I was <F>uu</F> waiting <F>uu</F> at the airport. But <F>mm</F> the plain, maybe Thai airplane <SC>is</SC> <SC>can't</SC> <F>uu</F> <SC>one</SC> the fright is couldn't run. Because hijacked. So I <F>eee</F> transfer another line <F>uu</F> it's business class. <SC>Very</SC> <SC>it is</SC> <F>err</F> for me, <SC>it is</SC> it was very good experience for me.</B>
+<A>You are very lucky that <OL>the plane was hijacked</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I'd like to show you one more picture now.</A>
+<B>Yes.</B>
+<A>I'd like you to tell me about this picture.</A>
+<B>Yes.</B>
+<A>Please explain from picture one to six.</A>
+<B>Yeah.</B>
+<A>Begin with "One day last week".</A>
+<B>"One day last week," a moment.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>O K.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. <F>Er</F>. One <F>er</F> <F>um</F> <R>last</R> <F>uu</F> <R>last week</R> <F>uu</F> last week <F>mm</F> <.></.> Masao and his uncle <F>uu</F> <R>went to the</R> went to the restaurant. <F>Uu</F>. <SC>He choo</SC> <SC>he chose</SC> <F>er</F> <R>they</R> they chose <F>uu</F> <F>mm</F> steakhouse. <F>Er</F> <F>uu</F>. And Masao ordered <F>uu</F> a lot of meals. And <F>uu</F> ordered beer and <F>uu</F> some alcohole. <R>They</R> They were talking about <F>uu</F> Masao's future. <F>Er</F> <SC>the uncle is</SC> <F>er</F> <SC>he</SC> <F>er</F> <R>his uncle</R> his uncle <F>uu</F> <R>li</R> like him. Because he is <F>er</F> <F>mm</F> ambitious person. So <F>uu</F> <SC>he take</SC> he took him last week <F>mm</F> talking about in his future. <F>Er</F>. <SC>After lunch</SC> <R>after</R> <SC>after eve</SC> <F>ee</F> after eating, his uncle <.></.> pay for him for all thing. And <F>uu</F> his uncle and <F>uu</F> <R>Masao</R> <.></.> <F>ee</F> <F>um</F> Masao went to home.</B>
+</task>
+<followup>
+<A>O K. And when you go to dinner,</A>
+<B>Yeah.</B>
+<A>with customers or <?>someone in personal</?>,</A>
+<B>Yes.</B>
+<A>how do you decide who pay?</A>
+<B><F>Erm</F>. It's very <F>mm</F> emotional. <SC>Because <F>uu</F> for</SC> maybe case by case. <F>Uu</F> of course, <F>uu</F> when I went to with my customer, <SC>I</SC> <F>mm</F> of course, I pay <R>for</R> for them. <F>Ee</F>. A passport getting new business. <F>Uu</F>. On the other hand, in personal, <F>uu</F> for example, with my wife, of course, <R>I pay</R> I paid <R>for</R> <R>for</R> <R>for</R> for her. <F>Mm</F>. It's case by case.</B>
+<A>O K. O K, thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So <F>um</F> It's the beginning of the week.</A>
+<B>Yes.</B>
+<A>Can you tell me a little bit about your week ahead?</A>
+<B>Yes, <F>uum</F> this week, maybe <SC>I</SC> after this test <F>er</F> <F>err</F> I will go back to <H pn="others1">XXX04</H>, because I live in <H pn="others1">XXX04</H> and <R>I</R> <F>ee</F> <F>mm</F> <R>I</R> I'm belonging in <H pn="others1">XXX04</H> branch at <H pn="company name1">XXX03</H>. <F>Uu</F> <F>um</F>. And this week I had a lot of <F>mm</F> negotiation with my customer, so <SC>I have to</SC> <R>I</R> <SC>I have to ready</SC> I have to be ready to make report. <F>Mm</F> I think <F>mm</F> <.></.> busy as ever.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>That's the way.</A>
+<B>Yes.</B>
+<A><F>Uhu</F>. O K. How will you be going back to <H pn="others1">XXX04</H>?</A>
+<B><F>Er</F> <R>I will</R> I will take <F>uu</F> airplane from <F>mm</F> Haneda.</B>
+<A>Hopefully this one might be hijacked. Maybe you'll be <?>able to fly by</?> business.</A>
+<B>Yes.</B>
+<A>Thank you for your time today. It was very nice to speak with you.</A>
+<B>Thank you.</B>
+<A>Thank you. Have a good day.</A>
+</stage5>
+</body>
+</interview>

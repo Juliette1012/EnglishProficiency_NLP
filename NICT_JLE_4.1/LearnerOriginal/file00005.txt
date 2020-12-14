@@ -1,0 +1,137 @@
+<interview>
+<filename>file00005.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name?</A>
+<B><R>My</R> <F>er</F> my name is <H pn="B's name">XXX01</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX01</H>.</A>
+<B>Nice to meet you, too.</B>
+<A><??></??>. So, <H pn="B's name">XXX01</H>, what is your job?</A>
+<B><F>Umm</F>. I work <F>umm</F> in <H pn="company name1">XXX02</H>.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F>. But, <F>umm</F> in this year, <R>I</R> I am <F>mm</F> studying at <F>um</F> <.></.> <H pn="school name1">XXX03</H>.</B>
+<A><F>Mhm</F>. <F>Er</F>. Which do you like better, working or studying?</A>
+<B><F>Ah</F>. Studying is better. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> Why is that?</A>
+<B><F>Um</F> <R>I</R> <F>eh</F> <R>I don't</R> <.></.> <F>huh</F> <.></.> I don't have <F>mm</F> time in my working days, but now, <F>um</F> I have <F>um</F> <.></.> a lot of time <F>um</F> to study. <F>Mm</F>. <.></.> So I like <F>um</F> better <F>um</F> studying life. <F>Mm</F>.</B>
+<A><nvs>laughter</nvs> So, besides studying, what do you usually do in your free time?</A>
+<B><F>Mhm</F> <F>ah</F> <F>m</F> <F>ah</F>. <R?>Be</R?> <F>ah</F> beside? <F>Mm</F>.</B>
+<A><F>Mm</F> <F>ah</F>. Except studying, what do you do in your free time?</A>
+<B>Free time? <F>Umhm</F> <F>mm</F>. Usually, <F>eh</F> I <.></.> read <F>umm</F> many book and <F>uhu</F> <F>mhm</F> <.></.> <R>play</R> play sports. <.></.></B>
+<A><F>Mm</F>. What kind of sports?</A>
+<B><F>Mhm</F>. I like <F>um</F> baseball <F>mm</F> and ski. <F>Mm</F>. So I usually <F>ii</F> play baseball. <F>Mm</F>. And I like <F>umm</F> <SC>training</SC> <F>er</F> gym training. So I often go to <F>uhu</F> <R>gy</R> <F>er</F> gym club.</B>
+<A><F>Ah</F>. Do you belong to any baseball team?</A>
+<B>Yes. <F>Ah</F> I <F>i</F> belong to two baseball team.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Umm</F>. One of two is <F>umm</F> my company <R>te</R> team, and <F>um</F> another team is my <F>ii</F> <R>hign school</R> <F>mm</F> high school <F>uh</F> O B team.</B>
+<A><F>Mm</F>. <.></.> <F>Ah</F>. Which is a stronger team?</A>
+<B><F>Mhmm</F>. <F>Huh</F>. <SC>School</SC> <F>m</F> high school team is stronger than <F>mm</F> other one.</B>
+<A>Why do you think that high school baseball team is stronger?</A>
+<B><F>Umm</F>. I think <F>mm</F> <R>they are</R> <F>er</F> <F>er</F> they are <F>er</F> <R>play</R> <F>m</F> play baseball. But <F>uh</F> <SC>my company team member is</SC> <F>umhm</F> <F>umhm</F> <F>umhm</F> some of <F>um</F> team member is <F>um</F> not good at <F>um</F> play baseball.</B>
+<A>O K. All right. So, <F>ah</F> do you live with your family?</A>
+<B>Yeah. <SC>I <F>i</F> live in</SC> <F>ah</F> I live with my wife <.></.> and my cat.</B>
+<A><F>Mhm</F>. Tell me about your cat.</A>
+<B><F>Mhm</F> <F>m</F>. Cat? <F>Mm</F>.</B>
+<A>Yeah. Please tell me about your cat.</A>
+<B><F>Ah</F>. <F>Mhm</F>. My cat <R>is</R> <F>er</F> <.></.> <?>is</?> <R>teeth</R> <R>teeth-lost</R> teeth-lost cat. Because <F>um</F> <SC>she</SC> when she <F>ii</F> was child, <R>she run</R> <F>mm</F> she run around <F>um</F> my room, and she <F>eh</F> <R>crashed</R> <nvs>laughter</nvs> crashed <F>uh</F> corner. So she lost <F>umm</F> <F>mm</F> front teeth.</B>
+<A><F>Wow</F>. That's very unusual for cat. <nvs>laughter</nvs></A>
+<B>But very <F>eh</F> pretty cat. <OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A><OL><F>Mm</F></OL>. <F>Wow</F>. Interesting. All right. So, first thing today. <?>O K</?>. Please take a look at this picture, and, please describe this picture for me.</A>
+<B><F>Mm</F>. <F>Mhm</F>. This is <F>uhu</F> <R>one of the</R> <F>er</F> <F>er</F> one of the town picture. <F>Mhm</F> <.></.> <F>mm</F>. There are <F>mm</F> <SC>many <F>eh</F> child</SC> many children and <F>uhu</F> <F>uh</F> dog. <F>Mm</F>. And <SC>she</SC> <F>er</F> they play <F>mm</F> volleyball. <F>Mm</F>. And <F>umhm</F> <F>mm</F> <R>he</R> <F>eh</F> he is running. <.></.> And <F>uhu</F> <F>mm</F> they are talking about <F>mhm</F> something. And <F>mhm</F> <.></.> the cat <F>er</F> is <R>on the</R> <F>er</F> on the car. <F>Mm</F>. And <F>uh</F> <.></.> <F>um</F> she is <F>uhu</F> <.></.> <SC>jump</SC> <F>er</F> <R>ro</R> <SC>roping</SC> jumping <F>um</F> <F>um</F> by <F>eh</F> herself. And <SC>she</SC> <F>a</F> he is <F>uhu</F> reading <.></.> a newspaper. <F>Mm</F>. It is very <F>eh</F> <R>fine</R> fine day. <OL><F>Mm</F></OL>.</B>
+</task>
+<followup>
+<A><OL><F>Mm</F></OL>. O K. <?>So</?>, please compare this neighborhood to the neighborhood where you live.</A>
+<B><F>Mhm</F>. <F>Mm</F>. I live in <F>mm</F> <.></.> <R>mansion</R> mansion <R>ty</R> <R>ty</R> type. <F>Mm</F>. So <F>um</F> <SC>we have <F>uhu</F> not</SC> <R>we</R> we <F>umhm</F> don't have <F>uhu</F> <F>uh</F> some green like this picture. <F>Mm</F>. I like <F>mhm</F> green, so <F>mm</F> I want to <F>uh</F> live <F>uh</F> in like this picture.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mhm</F>. O K. All right. Thank you very much. <.></.> So, next, let's try a role play. <.></.> <??></??>. You've done this before?</A>
+<B><.></.> <F>M</F>? <.></.></B>
+<A>Have you read this card before?</A>
+<B><F>Mm</F>. No.</B>
+<A>No? O K. Please read this card.</A>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<A>O K?</A>
+<B><F>Er</F>. <SC>Please</SC> <F>mhm</F> <F>mhm</F> I'd like have <F>uh</F> <R>some <F>mm</F> shirt</R> <F>mhm</F> some shirt <F>uh</F> for men. <F>Mhm</F>. Where <F>ah</F> do you have <F>mhm</F> <F>m</F> men's shirt?</B>
+<A><F>Mhm</F>. We have many right here.</A>
+<B><F>Uuh</F> <F>uh</F> <F>uh</F> please <F>mhm</F> show me <F>eh</F> some of one.</B>
+<A><F>Mm</F>. O K. There are many <laughter>kinds</laughter> of shirts.</A>
+<B><F>Mm</F>. And <F>mm</F> <SC>color of</SC> <F>mhm</F> <F>er</F> blue color shirt. <F>Mm</F>. Do you have?</B>
+<A>Yes.</A>
+<B>Please show me <F>eh</F> that?</B>
+<A><F>Er</F>. There are many blue shirts made of many kinds of materials.</A>
+<B><F>Mhm</F> <F>mm</F>. I have <F>uh</F> blue striped shirt and <F>mhm</F> made of <F>uh</F> cotton.</B>
+<A>Cotton?</A>
+<B><F>Mhm</F> <F>mm</F> <F>mhm</F> <.></.> <F>mm</F>. Please <F>mm</F> show me.</B>
+<A>Yeah. <R>O</R> O K. We have <F>um</F> three kinds of blue striped shirt. And this is <F>er</F> fifteen thousand yen. This is ten thousand yen and this is eight thousand yen.</A>
+<B><F>Mhmm</F> <.></.> <F>mm</F> <F>mm</F>. <.></.> <R>Can I</R> <F>er</F> can I <F>uuh</F> <.></.> <SC>take this one</SC> <F>ah</F> <.></.> <F>mhm</F>. <R>try</R> try this one?</B>
+<A>Sure.</A>
+<B><F>Mm</F>. O K. <F>Mm</F>. <.></.> I think it is <R>too</R> <F>uuh</F> too big for me. <F>Mm</F> <F>mm</F>. <SC>Do you have <F>uhu</F> smaller</SC> <F>uhh</F> <F>er</F> do you have something smaller <F>mm</F> <.></.> one?</B>
+<A><F>Er</F>. Yes. We have smaller size.</A>
+<B><F>Mm</F> <F>a</F> <F>ah</F>. I have <F>uh</F> this ten-dollars shirt. <F>Mm</F>. I want to this one.</B>
+<A>O K.</A>
+<B>Please <F>uhu</F> <F>m</F> show me <F>eh</F> smaller size.</B>
+<A>Right here is the smaller size.</A>
+<B>O K. And I <F>eh</F> want to <F>uh</F> this one.</B>
+</task>
+<followup>
+<A>Good. O K. <F>Er</F>. This is the end of role play. So, do you usually buy your clothes by yourself?</A>
+<B>No.</B>
+<A>How do you decide?</A>
+<B>I don't like <F>uh</F> <R>chose</R> <F>uhu</F> <F>uhu</F> chose <SC>the</SC> <F>ah</F> <SC>a</SC> many <F>eh</F> of <F>uh</F> clothes. So <SC>I usually</SC> <.></.> <F>eh</F> <F>a</F> my wife usually <F>eh</F> <.></.> <R>cho</R> <SC>choose</SC> chooses <F>uh</F> my shirt.</B>
+<A><F>Mhm</F>. <F>Ah</F>. Do you sometimes buy a present for her?</A>
+<B><.></.> <R>Ye</R> yes. <F>Mm</F>. I have present <F>umm</F> <.></.> <SC>in</SC> <.></.> <F>a</F> <SC>when I</SC> <F>ah</F> <SC>when <SC>we are</SC> we have</SC> <F>u</F> before <F>mm</F> we have marry. <F>Mm</F>. But <laughter><SC>after marry</SC></laughter> <nvs>laughter</nvs> after <R>we</R> <F>eh</F> we have marriage, <F>mm</F> <F>uuhn</F> <laughter><R>I don't</R></laughter> <nvs>laughter</nvs> I don't present. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Yeah. Maybe, you should. This Christmas. <nvs>laughter</nvs></A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All rihgt. So, the last thing today. <.></.> Please take a look at these pictures. O K? There are pictures from one to six. And, please make up a story based on these pictures. O K? And this happened before. So, please start your story with "One day last week".</A>
+<B><F>Mhm</F> <F>mhm</F>. One day last week, <F>mhm</F> they <F>eh</F> <R>want to</R> <F>uh</F> <F>u</F> want to go <F>mhm</F> somewhere, but <F>mm</F> it is <F>mhm</F> rainy day. So <F>uh</F> <R>they <F>eh</F> thin</R> <F>mhm</F> <.></.> <SC>they <F>eh</F> thinking</SC> they are <F>er</F> <R>thinking</R> <F>umm</F> <.></.> <F>mm</F> <.></.> thinking about <F>uh</F> schedule. So <F>mm</F> <SC>he</SC> <F>er</F> they <SC>decide to <F>uh</F> go to <F>uh</F> movies</SC> <.></.> <F>er</F> decided movies. And, <F>uh</F> in the <F>er</F> movie theater, <R>they</R> <F>um</F> <SC>they buy</SC> <F>er</F> they bought <F>um</F> <.></.> some drink and popcorn. And they <F>eh</F> <.></.> were <F>ah</F> <.></.> looking <.></.> movie theater <F>ah</F> <R>with</R> <F>um</F> with drink and popcorns. And <SC>they fee</SC> <SC>they felt</SC> <F>umhm</F> <.></.> <F>umm</F> <R>they</R> <SC>they think</SC> <F>uh</F> they thought <F>um</F> the movie is <F>uhu</F> very interesting. <F>Mm</F>. So, <F>mm</F> <R>they</R> <F>umm</F> they were talking about <F>mhm</F> <SC>a movies</SC> <R>a</R> a movie <F>eh</F> <R>after</R> <F>ah</F> <.></.> after <F>a</F> movies.</B>
+</task>
+<followup>
+<A>O K. All right. When you go to see a movie with your wife, how do you decide which movie to see?</A>
+<B><F>Mhm</F>. <.></.> <SC>I like</SC> <F>umm</F> <.></.> <F>mm</F> <F>mhm</F> <JP>nandarona</JP> I like <F>mhm</F> <.></.> <R>action</R> action movie, <F>mm</F> and <F>mm</F> my wife <SC>is <.></.> <F>umhm</F> <.></.> action</SC> <F>er</F> likes <F>um</F> action movies, <.></.> too. <F>Mm</F>. So <R>we</R> <F>eh</F> <?>we</?> often <F>m</F> <.></.> <SC>action movies</SC> <F>er</F> action movie. <F>Mm</F>. <.></.> But, <F>mm</F> before <SC>I</SC> we are marriage, <F>mm</F> we <F>eh</F> often went to love romance <nvs>laughter</nvs> movie.</B>
+<A><nvs>laughter</nvs> O K. <F>Ah</F>. So, in the theater, do you usually buy like popcorns or drinks?</A>
+<B>Yes. <F>Mm</F> I <F>mm</F> usually <F>eh</F> <.></.> <SC>go to</SC> <F>a</F> went to <F>umhm</F> driving theater. <OL>Do you know</OL>?</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B>So <F>mm</F> <.></.> we are <F>ah</F> <.></.> <F>ah</F> eating <F>ah</F> in the <F>ah</F> car.</B>
+<A><F>Mhm</F>. <F>Er</F> what are some good points of a driving theater?</A>
+<B><F>Mm</F> <F>mhm</F>. It is <F>um</F> <.></.> <F>mm</F> <R>I can</R> <F>mm</F> I can be <F>eh</F> relaxed <F>mm</F> in <.></.> my <.></.> <F>um</F> car. The movie theater's seat is very <F>mm</F> hard <R>for</R> for me. <F>Mm</F>. So <R>I</R> I like <F>umm</F> <R>mo</R> movie driving theater.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Good. All right. O K. We have come to almost end of the interview. So, what are you going to do today?</A>
+<B>I <F>eh</F> go to <F>uh</F> my university, <F>mm</F> and I study <F>eh</F> <SC>here</SC> <F>er</F> there.</B>
+<A><F>Mhm</F>. Are you going to take some class or studying in library?</A>
+<B>Yeah. <F>Er</F>. Studying <F>uh</F> <R>la</R> laboratory.</B>
+<A><F>Uhm</F>. <.></.> <F>Mm</F>. All right. So, have a good time.</A>
+<B>Thank you.</B>
+<A>Thank you very much <?>for coming</?>.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

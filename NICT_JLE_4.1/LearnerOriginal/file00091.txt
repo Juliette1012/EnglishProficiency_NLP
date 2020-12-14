@@ -1,0 +1,130 @@
+<interview>
+<filename>file00091.txt</filename>
+
+<head version="1.3">
+<date>2000-06-19</date>
+<sex>female</sex>
+<age>41</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>housewife</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello, my name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine <F>mm</F> yes.</B>
+<A>O K, good. <F>Umm</F> did you have breakfast <OL>this morning</OL>?</A>
+<B><OL>Yes</OL>, yes. <F>Er</F> I have a bread and coffee and <SC>ham</SC> with ham <F>aa</F> bread with ham and I drank coffee.</B>
+<A>I see. <F>Uh-huh</F>. Do you like bread?</A>
+<B>Yes.</B>
+<A>Better than rice?</A>
+<B><F>Mm</F> <F>ah</F>. I like rice better than bread <F>mm</F> yes.</B>
+<A><F>Oh</F> then, why you had bread this morning?</A>
+<B><F>Ah</F> <F>mm</F>. <.></.> This morning, <F>mm</F> I was busy <nvs>laughter</nvs> so <F>mm</F> <SC>I cook</SC> I cooked bread <F>er</F> easy <R>more than</R> more <.></.> than rice. <F>Mm</F>.</B>
+<A>I see, O K, good. <H pn="B's name">XXX02</H>, do you live with your family?</A>
+<B>Do you live with <SC>your</SC> my family? <F>Er</F> <SC>my family</SC> <F>er</F> I and my husband <F>mm</F> and dog. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>O K. Please tell me about your dog.</A>
+<B><F>Ah</F> my dog? <F>Er</F> <F>mm</F>. My dog name's <H pn="others1">XXX03</H>. He's six years old. <F>Er</F> he favorite food is cheese. He likes <R>walking</R> <SC>walking</SC> walking around <F>er</F> near my house with my husband and me. <F>Mm</F>. <OL>So</OL></B>
+<A><OL>I see</OL>. How did you get that dog?</A>
+<B><F>Ah</F> yeah, <F>er</F>. I bought <F>a</F> pet shop at department store, <laughter>in <H pn="others2">XXX04</H></laughter></B>
+<A>I see. <F>mm</F> O K. Thank you. Then do you have any hobbies?</A>
+<B><F>Er</F>. My hobby is <F>mm</F> reading a book and making <F>ah</F> gardening <F>mm</F> and <F>mm</F> I watch movie <F>er</F> and <F>mm</F> I'm walking <F>mm</F> with my dog.</B>
+<A>What is the best movie you have ever seen?</A>
+<B><F>Ah</F> yeah. <.></.> My best movie is "Green Mile", <R>one of</R> one of best movies <F>mm</F> "Green Mile" and <F>mm</F> "Field of Dreams". <.></.> <F>Mm</F> <F>er</F>. <.></.> <SC>Green mile</SC> <F>mm</F> I watched <F>mm</F> "Green Mile" <SC>about</SC> <.></.> <F>ah</F> <R>last</R> last month <F>mm</F>. It was made <F>er</F> I forgot <JP>kando</JP> <nvs>laughter</nvs> <F>mm</F>.</B>
+<A>That's O K. I see. Good, I should see that.</A>
+<B><nvs>laughter</nvs> <F>mm</F>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K, thank you. Now please describe this picture.</A>
+<B>Yeah. <F>Mm</F>.</B>
+<ctxt>The examinee is looking at the picture and thinking what to say.</ctxt>
+<B>It is fine day. <.></.> <R>There are</R> there are <R>five</R> five big trees and <F>mm</F> <F>um</F> man is reading a newspaper. <F>Mm</F> a girl is jumping. <F>Um</F> a man is running hard. <F>Um</F> two boys <F>mm</F> passing a ball, <F>mm</F> <nvs>cough</nvs> a cat <SC>on the car</SC> on the white car <F>erm</F>. Two womens are saying <F>mm</F> and <laughter>there are three dogs there</laughter>.</B>
+</task>
+<followup>
+<A>O K. Good. Thank you, <H pn="B's name">XXX02</H>. You said this guy is running hard.</A>
+<B>Yeah.</B>
+<A>Why did you think "hard"?</A>
+<B><F>Oh</F> <F>mm</F>. <R>He</R> <SC>he is</SC> <F>mm</F> he has sweat <F>ah</F> <F>er</F> <F>mm</F> yeah,</B>
+<A>I see.</A>
+<B>Yeah, it's a sweat <nvs>laughter</nvs>.</B>
+<A><F>Mm</F>. I see. O K. <F>Er</F>. Can you compare this neighborhood with your neighborhood?</A>
+<B><F>Er</F> <F>mm</F>. <.></.> Yeah <R>this</R> <SC>this is <F>mm</F> wide and</SC> <F>mm</F> <F>ah</F> this house is big. <.></.> And <F>mmm</F> it's <R>nice</R> <F>mm</F> nice neighborhood. <F>Mm</F> <SC>my neighborhood is</SC> <F>ah</F> my neighborhood there are <.></.> small house <F>mm</F> and they aren't <.></.> <F>er</F> <SC>little</SC> <SC>like a park</SC> little park.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see, O K, thank you. Now let's do a role-play. Please read this card. <.></.> When you are ready, I'll start the conversation.</A>
+<ctxt>The examinee is looking at the card to prepare for the role-play.</ctxt>
+<A>O K, are you ready?</A>
+<B>Yeah.</B>
+<A>Hello, may I help you, miss?</A>
+<B>Yes. <F>er</F> I'd like to go to New York.</B>
+<A><F>Mm</F>. Yes.</A>
+<B><F>Mm</F> <F>er</F>. <.></.> <F>Mm</F> I want to ticket to New York.</B>
+<A>What kind of tickets would you like to buy?</A>
+<B><F>Ah</F> <R>train</R> train ticket.</B>
+<A><F>Uh-huh</F> and we have two kinds of train tickets to New York. Local or express.</A>
+<B>Express? <F>Ah</F> I'd like to Express train ticket, please.</B>
+<A>O K, <F>er</F> twenty dollars.</A>
+<B>Yes, O K.</B>
+<A>O K, thank you. O K, have a nice trip.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</task>
+<followup>
+<A>O K, <H pn="B's name">XXX02</H>, do you like traveling by train?</A>
+<B>Yes. <F>Mm</F>. <R>I like</R> I like all of trip <F>um</F> train, car.</B>
+<A>O K, so please tell me about your last trip.</A>
+<B>Last trip? <F>Ah</F> <laughter>last trip</laughter> yesterday.</B>
+<A><F>Oh</F> I see.</A>
+<B>I went to Kyoto <F>er</F> to <R>wedding ceremony</R> <F>er</F> <?>on</?> <F>ah</F> wedding ceremony for my cousin <.></.> on <R>last</R> last Friday. <F>Mm</F>. Wedding ceremony <R>ha</R> had <?>about</?> <F>urm</F> last Saturday. We went to Kyoto, last Friday. <F>Er</F> wedding ceremony finished at six. <F>Er</F> we couldn't go back to <H pn="others3">XXX05</H> the day. We stay the day. And <R>we</R> we go back to my home <F>er</F> yesterday.</B>
+<A>I see. O K, you must be tired.</A>
+<B><laughter>Yes</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, thank you for coming. O K. Now I'm going to show you this picture. Please make a story using these six pictures. Please start with "One day last week".</A>
+<B>One day last week. <F>Erm</F> <F>mm</F>. <R>She</R> <R>she opened</R> <SC>she opened</SC> <F>ah</F> <R>One day last week</R> one day last week, she opened refrigerator <F>er</F> <?>then</?> <F>ah</F> she opened refrigerator, it was empty. <.></.> She went to a supermarket <F>er</F> by car <.></.> <R>She buy</R> <F>ah</F> <SC>she buy</SC> <F>ah</F> <SC>she was buying</SC> <F>ah</F> she buy <F>um</F> some <F>mm</F> grocery <.></.> for cook <F>mm</F>. <R>She paid</R> <R>she paid money</R> <.></.> she paid money <F>er</F> for grocery <F>mm</F>. She taked in her car <.></.> some grocery. <SC>She was</SC> <F>ah</F> <R>she cooked</R> <R>she cooked</R> <F>mm</F> she cooked fry egg <F>mm</F>.</B>
+</task>
+<followup>
+<A>O K, thank you, <H pn="B's name">XXX02</H>. Good. Do you go grocery shopping by car?</A>
+<B>Yeah.</B>
+<A>like her in this picture?</A>
+<B><F>E</F>? <F>e</F>?</B>
+<A>Do you go yourself?</A>
+<B>Myself?</B>
+<A>Go grocery shopping by car?</A>
+<B><F>Ah</F>.</B>
+<A>Or by bicycle? <OL>Or on foot</OL>?</A>
+<B><OL><F>Ah</F></OL> usually <F>er</F> <R>I'm</R> I'm going to shop by bicycle.</B>
+<A><F>Ah</F> Why?</A>
+<B>Why? I don't have car license <F>mm</F> and bicycle is <F>mm</F> convenience more than car in <H pn="others3">XXX05</H>.</B>
+<A><F>Mm</F>. Why do you think so? Why bicycle is <OL>more</OL> convenient?</A>
+<B><OL><F>Ah</F></OL> Yeah, <F>mm</F> <R><H pn="others3">XXX05</H></R> <F>ah</F> <SC><H pn="others3">XXX05</H> is</SC> <F>um</F> <F>ah</F> supermarket has not <F>er</F> big parking. <F>mm</F> <R>We</R> <F>mm</F> <F>mm</F> we looking for <R>park space</R> <F>mm</F> park space <F>mm</F> hard.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Ah</F> I understand. O K. Thank you <H pn="B's name">XXX02</H>. This is almost the end of the interview but <SC>what are you going to do</SC> O K, what are you going to cook tonight?</A>
+<B>Tonight? <nvs>laughter</nvs> <F>Mm</F>. <R>I'm</R> I'm not decided <F>er</F>. <R>My husband</R> <.></.> <R>my husband <F>mm</F> <R>will</R> <.></.> will</R> <F>mm</F> my husband <F>er</F> will not <F>mm</F> go back house <F>ah</F> late <F>mm</F> <F>er</F> today. <F>Um</F> <R>may</R> <F>ah</F> maybe <F>er</F> I will eat <F>er</F> dinner alone. <F>Er</F> I will cook easily <nvs>laughter</nvs>.</B>
+<A>O K, I understand. Thank you very much for <OL>coming today, <H pn="B's name">XXX02</H></OL></A>
+<B><OL>Thank you</OL></B>
+</stage5>
+</body>
+</interview>

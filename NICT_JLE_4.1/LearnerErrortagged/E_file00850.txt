@@ -1,0 +1,272 @@
+<interview>
+<filename>E_file00850.txt</filename>
+
+<head version="1.3">
+<date>2002-02-21</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>570</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. And, could I have your name, please?</A>
+<B><F>Erm</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, <OL>Mister</OL></A>
+<B><OL>Nice to meet you</OL>.</B>
+<A><H pn="B's name">XXX02</H>.</A>
+<B>Yes.</B>
+<A>O K. How are you today?</A>
+<B><F>Erm</F> fine.</B>
+<A>O K.</A>
+<B>How are you?</B>
+<A>I'm fine, too. Thank you. And, O K, could you tell me about your family?</A>
+<B><F>Erm</F> <F>hum</F> I live with my family. <F>Uhm</F> my father is forty-nine years old. He is <at odr="1" crr="a"></at> taxi driver. <R>My</R> my mother is forty-four years old, and she works for <??></??> <at odr="1" crr="a"></at> company. And my sister is <.></.> twenty years old. <F>Err</F> she's <F>erm</F> <at odr="2" crr="a"></at> <o_je odr="1" crr="part-time worker">free arbeiter</o_je>.</B>
+<A>I see. O K. Where do you live?</A>
+<B><F>Erm</F> I live in Osaka.</B>
+<A><F>Hu-huh</F>.</A>
+<B>I have lived in Osaka for <?>twenty-four</?> years.</B>
+<A><?>Twenty-four</?> years. <F>Ah</F>. <?>O K</?>. Do you like Osaka?</A>
+<B>Yes.</B>
+<A>O K. How do you like Osaka?</A>
+<B><F>Erm</F> I think <F>erm</F> people in Osaka <v_agr odr="1" crr="are">is</v_agr> <F>ah</F> <F>err</F> very noisy.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Hum</F> but <F>uhm</F> I can relax in Osaka.</B>
+<A><?>I see</?>. O K. And, what are your hobbies?</A>
+<B><F>Erm</F> my hobby is playing sports. <F>Um</F> <R>I have played</R> I have played rugby for ten years. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>But <av_lxc odr="1" crr="">now</av_lxc> <F>um</F> I <v_tns odr="2" crr="injured">injure</v_tns> my waist <F>er</F> years ago.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><F>Erm</F></OL> do you know hernia?</B>
+<A>Yes.</A>
+<B><F>Um</F> so <F>um</F> I take a medicine everyday.</B>
+<A>I see. That's too bad. So you don't play rugby at all?</A>
+<B><?><av_lxc odr="1" crr="No">Yes</av_lxc></?>, now. <F>Hum</F> but <F>uhm</F> I will play rugby again in the future.</B>
+<A>Yeah. <?>I see</?>. <F>Er</F> but, why did you get interested in rugby?</A>
+<B><F>Erm</F> I started to play rugby <F>err</F> in <pn_lxc odr="1" crr="">my</pn_lxc> junior high school. <F>Um</F> <F>uhm</F> <SC>rugby</SC> <F>um</F> <R>i</R> <F>um</F> <SC>in rugby</SC> <F>um</F> <F>um</F> <aj_lxc odr="1" crr="any">every</aj_lxc> people can play rugby. <F>Erm</F> for example, big, tall people, <F>um</F> small people, fat people <F>um</F> <R>ebu</R> everybody can play rugby, and I think rugby is <F>err</F> <at odr="1" crr="the"></at> hardest sports <prp_lxc1 odr="2" crr="of">in</prp_lxc1> all sports.</B>
+<A>I see. But <R>you</R> you like it?</A>
+<B><F>Eh</F>?</B>
+<A>But you like it very much.</A>
+<B>Yes.</B>
+<A>I see. O K. So, other than rugby, <F>err</F> what do you do in your free time?</A>
+<B>Free time? <F>Huum</F> <.></.> <F>em</F> <F>hum</F> <.></.> <F>um</F>. I <v_lxc odr="1" crr="go out">play</v_lxc> with my girlfriend or <F>err</F> drink with my colleagues.</B>
+<A><F>Hum</F>. I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>First of all, I'll show you a picture. <F>Erm</F> here you are. O K. Please describe this picture.</A>
+<B>Yes. <F>Err</F> <nvs>cough</nvs> <F>uhm</F> <..></..> <F>um</F> <F>ih</F> <F>err</F> <SC>there is</SC> <.></.> <F>um</F> <..></..> I think <F>uhm</F> there <v_agr odr="1" crr="are">is</v_agr> a lot of people <F>um</F> <F>uhm</F> <.></.> <SC>they</SC> <..></..> <SC>hill</SC> <prp_lxc1 odr="2" crr="on">in</prp_lxc1> <at odr="3" crr="a"></at> hill. <JP><F>Etto</F></JP> <F>hum</F> there is a lift <F>um</F> on the side of <at odr="1" crr="the"></at> hill, <F>um</F> and some are skiing and snowboarding very well. But <at odr="2" crr="a"></at> <n_num odr="1" crr="person">some</n_num> is falling down <prp_lxc1 odr="3" crr="from">on</prp_lxc1> the hill. And, at <at odr="1" crr="the"></at> bottom of <at odr="2" crr="the"></at> hill, <F>err</F> <at odr="3" crr="a"></at> ski school is held <prp_lxc1 odr="4" crr="">on</prp_lxc1>. <F>Err</F> I think <F>err</F> <SC>green wear</SC> <F>ah</F> the man wearing <at odr="1" crr="a"></at> green wear is <at odr="2" crr="a" crr2="the"></at> teacher. And people wearing <R>orange</R> orange <n_num odr="1" crr="wears">wear</n_num> <v_agr odr="2" crr="are">is</v_agr> <n_num odr="3" crr="students">student</n_num>. They practice <F>err</F> skiing. And some are <F>erm</F> <.></.> throwing <at odr="2" crr="" ch="1">a</at> <n_num odr="1" crr="snowballs">snowball</n_num>. And <prp_lxc1 odr="1" crr="on"></prp_lxc1> the top of the hill <SC?>is</SC?> <F>um</F> there is <at odr="2" crr="a"></at> cabin. I think <F>err</F> <.></.> <o_uk odr="1" crr="it is very warm in this cabin">this cabin is very warm</o_uk>. <F>Uhm</F> <SC>they</SC> <F>ah</F> <R>people</R> <.></.> people <F>er</F> <R>in</R> in this cabin are <R>break</R> <v_lxc odr="1" crr="taking"></v_lxc> <at odr="2" crr="a"></at> break. That's all.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>So, do you ski?</A>
+<B>A little.</B>
+<A><F>Oh</F> <OL>really</OL>?</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><R>I</R></OL> <R>I</R> <R>I</R> I play snowboarding.</B>
+<A><F>Oh</F> snowboarding.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>So</OL> <F>err</F> you said rugby is the hardest sport.</A>
+<B><?>Yes</?>.</B>
+<A><laughter>But, compared to rugby</laughter>, <F>err</F> what is good about snowboarding? <nvs>laughter</nvs>.</A>
+<B><F>Errr</F> <.></.> <F>uhm</F> <SC>snowboarding and skiing is</SC> <F>err</F> <.></.> yeah, people <F>um</F> <SC>play</SC> do skiing and snowboarding <F>um</F> <prp_lxc1 odr="1" crr="by"></prp_lxc1> <pn_agr odr="2" crr="themselves">oneself</pn_agr>.</B>
+<A><F>Oh</F>. Yes. <OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL> but <prp_lxc1 odr="1" crr="as for"></prp_lxc1> rugby, <pn_lxc odr="2" crr="we"></pn_lxc> <v_agr odr="3" crr="have">has</v_agr> <F>um</F> <.></.> fifteen people, <prp_lxc1 odr="4" crr="in"></prp_lxc1> one team. So I like <o_lxc odr="1" crr="team sports">team play sports</o_lxc>.</B>
+<A>I see. O K. But, could you tell me the best <JP>gerende</JP> in Japan for snowboarding?</A>
+<B><F>Ee</F>? <OL><?>What</?></OL>?</B>
+<A><OL>Could</OL> you tell me the best <JP>gerende</JP> in Japan for snowboarding? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Oh</F> <.></.> I have been to Nagano, <F>err</F> Hakuba.</B>
+<A>I see.</A>
+<B><F>Um</F> <F>uhm</F>. That <JP>gerende</JP> <v_tns odr="1" crr="was">is</v_tns> very nice <??></??>.</B>
+<A><F>Hum</F>. I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role-play. <.></.> <?>O K</?>. Here you are. <.></.> Now <F>err</F> please read this card.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><OL>And</OL>, when you are ready,</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><OL>I'll</OL> start. O K?</A>
+<B>O K.</B>
+<A>O K. Trun.</A>
+<B><OL>Hello</OL>.</B>
+<A><OL>Hello</OL>.</A>
+<B>This is <H pn="B's name">XXX02</H> speaking.</B>
+<A>Hi. Mister <H pn="B's name">XXX02</H>. This is <H pn="A's name">XXX01</H>.</A>
+<B>Yes. <F>Oh</F> <F>err</F> how are you?</B>
+<A>I'm good. Thank you. And you?</A>
+<B><F>Eh</F> me, too.</B>
+<A><F>Hu-huh</F> what's up?</A>
+<B><F>Err</F> did you see a movie <av_lxc odr="1" crr="recently">recent</av_lxc>?</B>
+<A>No.</A>
+<B>No?</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Oh</F> <F>oh</F>. <F>Err</F> <R>I want to go to</R> I want to <.></.> go <.></.> to see <at odr="1" crr="a"></at> movie</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>um</F></OL> <F>err</F>. <.></.> "Ocean's Eleven".</B>
+<A>"Ocean's <OL>Eleven</OL>".</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>Do you</OL> know "Ocean's Eleven"?</B>
+<A>No.</A>
+<B><OL>No</OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><F>Um</F>.</B>
+<A>What kind of movie is it?</A>
+<B><F>Err</F> I don't know well. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>But <F>uhm</F> very famous <n_num odr="1" crr="actors">actor</n_num> and <n_num odr="2" crr="actresses">actress</n_num></B>
+<A>Yes. <OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>um</F></OL> <v_agr odr="3" crr="are">is</v_agr> in the movie.</B>
+<A><F>Hu-huh</F>.</A>
+<B>So I want to see this movie.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. Next Sunday, I have free <n_num odr="1" crr="tickets">ticket</n_num> for this movie.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Er</F></OL> <pn_lxc odr="1" crr="it"></pn_lxc> <v_agr odr="2" crr="starts">start</v_agr> at three o'clock.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Hum</F>. <.></.> How about <F>um</F> going <v_lxc odr="1" crr="">to go</v_lxc> to <at odr="2" crr="the"></at> movie with me?</B>
+<A><F>Ah-huh</F>. When? <F>Er</F> did you say Saturday?</A>
+<B><SC>Next Sa</SC> yes.</B>
+<A>Next Saturday?</A>
+<B><laughter><R>Saturday</R></laughter> <OL>Saturday</OL>.</B>
+<A><OL><F>Err</F></OL> I'm sorry. I'm not free on Saturday.</A>
+<B><laughter><F>Oh</F> really</laughter>?</B>
+<A><F>Ah-huh</F>.</A>
+<B>I have free <n_num odr="1" crr="tickets">ticket</n_num> <prp_lxc1 odr="2" crr="for">on</prp_lxc1> <..></..> Saturday. <OL><??></??></OL>.</B>
+<A><OL>Is</OL> it only <prp_lxc1 odr="1" crr="for"></prp_lxc1> Saturday?</A>
+<B><F>Oh</F> <aj_agr odr="2" crr="these">this</aj_agr> <n_num odr="1" crr="tickets">ticket</n_num> <v_agr odr="3" crr="are">is</v_agr> available <F>uhm</F> <prp_lxc1 odr="4" crr="for"></prp_lxc1> Sunday.</B>
+<A>Sunday?</A>
+<B><F>Hum</F>.</B>
+<A><F>Huum</F> Sunday is better for me.</A>
+<B><F>Oh</F> O K. <F>Uhm</F> let's meet in front of OPA, Shinsaibashi</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>eh</F> at <F>err</F> one o'clock.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL>. Let's <F>err</F> take a cup of coffee</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>err</F></OL> before <at odr="1" crr="the"></at> movie <v_agr odr="2" crr="starts">start</v_agr>.</B>
+<A>O K. But, by the way, where is OPA?</A>
+<B><F>Err</F> OPA is in Shinsaibashi.</B>
+<A>Shinsaibashi.</A>
+<B><?>Yeah</?>.</B>
+<A>How do you get there? <.></.> Could you tell me how to get there?</A>
+<B><F>Err</F> <.></.> <prp_lxc1 odr="1" crr="By"></prp_lxc1> <cap odr="2" crr="subway" ch="1">Subway</cap>,</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>erm</F></OL> <at odr="3" crr="the"></at> Midosuji Line,</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>um</F> Shinsaibashi station <OL><F>um</F></OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>And <con_lxc odr="1" crr="when"></con_lxc> you get <prp_lxc2 odr="2" crr="to"></prp_lxc2> <F>erm</F> Shinsaibashi station, <F>erm</F> <R>you</R> <.></.> you can <F>um</F> find OPA easily.</B>
+<A>I see. Is it a big building?</A>
+<B>Yes.</B>
+<A>O K. Maybe I can get there. O K. So, see you on Sunday.</A>
+<B><?>This</?> Sunday. <OL>Yeah</OL>.</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B>Thank you.</B>
+<A>Thank you for calling.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>See you then</OL>.</A>
+<B>See you.</B>
+<A>Good-bye.</A>
+<B>Bye-bye.</B>
+<A>O K. Thank you very much. O K. That's <SC>all</SC> <F>err</F> the end of <SC>int</SC> <F>err</F> <at odr="1" crr="the"></at> role play.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>So, do you like movies?</A>
+<B>Yes. <OL><F>Um</F></OL>.</B>
+<A><OL>I</OL> see. Do you like "Ocean's Eleven"? <nvs>laughter</nvs>.</A>
+<B><F>Uhm</F>. <CO>So</CO>. <F>Um</F>. <nvs>laughter</nvs>.</B>
+<A>What kind of movies do you like?</A>
+<B><F>Err</F> I like <F>uhm</F> sports <n_num odr="1" crr="movies">movie</n_num> <F>err</F> for example, "Major League".</B>
+<A>I see. What is good about sports <n_num odr="1" crr="movies">movie</n_num>?</A>
+<B><F>Uhm</F> <.></.> I played rugby,</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>oh</F> so I can <v_lxc odr="1" crr="understand">feel</v_lxc> <F>err</F> <at odr="2" crr="the"></at> player's feeling. <OL><F>Erm</F></OL>.</B>
+<A><OL>I</OL> see. <F>Oh</F> O K. Which do you like better, going to <v_cmp odr="1" crr="see a movie">see</v_cmp> <SC>a movie theater</SC> at the movie theater or <SC>at home</SC></A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL>watch a video</OL> at home?</A>
+<B><..></..> <F>Er</F> I like <F>uhm</F> <.></.> watching <n_num odr="1" crr="movies">movie</n_num> <o_lxc odr="2" crr="at home">in my home</o_lxc>.</B>
+<A><nvs>laughter</nvs> O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'll show you another picture. <..></..> Here you are. O K. Please make up your own story from one to six.</A>
+<B><F>Hu-huh</F>.</B>
+<A>And this happened last week. So, please start with "One day last week".</A>
+<B><F>Erm</F> one day, <F>uhm</F> <R>she</R> <.></.> she <v_tns odr="1" crr="looked">look</v_tns> for <F>err</F> <n_num odr="2" crr="foods">food</n_num> <F>mm</F> <prp_lxc1 odr="3" crr="in"></prp_lxc1> her refrigerator, but <F>err</F> <SC>there is</SC> there was nothing. So <R>she</R> she went to <F>uhm</F> <R>buy</R> buy <n_num odr="1" crr="foods">food</n_num> by her car. And <nvs>cough</nvs> <R>she</R> she <v_tns odr="1" crr="bought">buy</v_tns> <F>um</F> a lot of <n_num odr="2" crr="foods">food</n_num>. <.></.> And <R>she pay</R> <SC>she pay</SC> she paid <prp_cmp odr="2" crr="for them"><prp_lxc2 odr="1" crr="for"></prp_lxc2></prp_cmp>. <R>And she</R> <F>uhm</F> <..></..> and <nvs>sigh</nvs> she <v_lxc odr="2" crr="put"><v_tns odr="1" crr="parked">park</v_tns></v_lxc> <at odr="3" crr="the">their</at> <n_num odr="4" crr="foods">food</n_num> in her car. At last, she <v_cmp odr="1" crr="cooked dinner">cooked</v_cmp> <F>er</F> very well. That's all.</B>
+<A>O K. Thank you <OL>very much</OL>.</A>
+<B><OL><JP>Muzukashii</JP></OL>.</B>
+<A><nvs>laughter</nvs>.</A>
+</task>
+<followup>
+<A>Do you often cook by yourself?</A>
+<B><F>Oh</F>. No.</B>
+<A><OL>No</OL>?</A>
+<B><OL><F>Um</F></OL>. I live with my family</B>
+<A><F>Hu-huh</F>.</A>
+<B>and my mother <SC>cook</SC></B>
+<A><OL>I see</OL>.</A>
+<B><OL>cooks</OL>. <F>Um</F>.</B>
+<A>Is she a good cook?</A>
+<B>Yes.</B>
+<A>What is your favorite?</A>
+<B><F>Err</F> I like <F>uhm</F> <F>err</F> <n_num odr="1" crr="hamburgers">hamburger</n_num>. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><F>Hum</F> her hamburger is very <?>well</?>.</B>
+<A><F>Oh</F> really? <F>Wow</F>. O K. So, compared to <F>err</F> other kind of food, for example, Chinese food,</A>
+<B><F>Uhm</F>.</B>
+<A><F>err</F> which do you like better, Japanese food or Chinese food?</A>
+<B><F>Uhm</F> I like Japanese food. <F>M</F>.</B>
+<A>What is good? <nvs>laughter</nvs>.</A>
+<B><F>Err</F> Japanese food <.></.> is very healthy.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL>. So I like Japanese food.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>But</OL> Chinese, <F>err</F> French or Italian, I <v_cmp odr="1" crr="like them">like</v_cmp>.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>Do you know a good restaurant around here?</A>
+<B><F>Um</F> <F>mmm</F> <.></.> <F>um</F> <SC>there i</SC> there are many good restaurants <OL><F>um</F></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>near this office.</B>
+<A>I think so. Could you tell me one of them? <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><F>Err</F></OL> <.></.> <F>uhm</F> near this office, <F>uhm</F> <F>err</F> Japanese restaurant <F>um</F> named <F>err</F> Tsukinosato <OL><F>um</F></OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>Uhm</F> It is <at odr="1" crr="a"></at> very nice restaurant, I think.</B>
+<A><laughter>O K</laughter>. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>And, now it's <av_pst odr="1" crr="almost the end">the almost <R>end of</R> <F>erm</F> end</av_pst> of the interview. So, <F>err</F> <SC>do you often</SC> <F>err</F> do you have <F>er</F> any plan to see a movie <nvs>laughter</nvs> <OL>next <?>Saturday</?></OL>?</A>
+<B><OL><F>Erm</F></OL>. <laughter>No</laughter>.</B>
+<A>No? <?>Nothing</?>? What are you going to do on weekend?</A>
+<B><F>Uhm</F> this weekend?</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL> <F>err</F> I'm going to go <n_num odr="1" crr="hot springs">hot spring</n_num> with my girlfriend in Shimonoseki.</B>
+<A>Are there any good <n_num odr="1" crr="places">place</n_num>?</A>
+<B><F>Erm</F> maybe.</B>
+<A><OL>I see</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Have a nice <F>err</F> weekend.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

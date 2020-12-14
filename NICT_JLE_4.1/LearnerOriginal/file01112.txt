@@ -1,0 +1,459 @@
+<interview>
+<filename>file01112.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>720</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Err</F> My name is <H pn="A's name">XXX01</H>.</A>
+<B><OL><F>Hu-huh</F></OL>. <F>Hu-huh</F>.</B>
+<A>May I have your name, please? <OL><F>Hum</F></OL>.</A>
+<B><OL>Yeah</OL>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you,</A>
+<B><OL><F>Err</F> <R>nice to</R></OL></B>
+<A><OL>Mister</OL> <H pn="B's name">XXX02</H>.</A>
+<B><nvs>laughter</nvs> nice to meet you, too.</B>
+<A><F>Hum</F>. O K. Now, Mister <H pn="B's name">XXX02</H>, <OL>where</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>do you live now?</A>
+<B><F>Um</F> I live in <H pn="others1">XXX03</H> in <H pn="others2">XXX04</H>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Hu-huh</F></OL>. <?>O K</?>.</B>
+<A><F>Oh</F> <F>err</F> <SC>da</SC> do you live with your family in <H pn="others1">XXX03</H>?</A>
+<B><F>Err</F> yeah, <SC>I</SC> <F>um</F> my family live in <H pn="others3">XXX05</H> <OL><F>um</F></OL>.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B>O K.</B>
+<A>O K.</A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A><OL><F>Hum</F></OL> so why do you live in <H pn="others1">XXX03</H>?</A>
+<B><F>Err</F> because <F>err</F> <F>errr</F> <F>um</F> <SC>my</SC> <F>erm</F> this company <F>erm</F> made a reservation</B>
+<A><F>Um</F>.</A>
+<B>for us <OL>so</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><R>we</R> we now <SC>live in</SC> live there.</B>
+<A><F>Um</F> I see.</A>
+<B><F>Hu-huh</F>.</B>
+<A>O K. <F>Erm</F> can you tell me about your hometown?</A>
+<B><F>Mm</F> <F>er</F> my hometown in now? <OL><F>Ah</F></OL></B>
+<A><OL>Yes</OL></A>
+<B><F>oh</F> now,</B>
+<A><F>Ah</F>.</A>
+<B>in <H pn="others1">XXX03</H>?</B>
+<A>No, <OL>hometown</OL>.</A>
+<B><OL><F>Ah</F></OL> hometown.</B>
+<A><OL><H pn="others3">XXX05</H></OL>.</A>
+<B><OL>Yeah</OL>, <F>hu-huh</F> <F>err</F> my hometown is very <F>um</F> silent place.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And, <R>there</R> <F>err</F> there are a lot of houses</B>
+<A><F>Hu-huh</F>.</A>
+<B>near my house.</B>
+<A><F>Hum</F>.</A>
+<B>And, <F>err</F> near my house, <F>err</F> <SC>there are</SC> <SC>there is</SC> there are also a lot of mountains.</B>
+<A><F>Oh</F>. <OL>O K</OL>.</A>
+<B><OL><F>Um</F></OL> so <OL><F>um</F></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><SC>it</SC> <F>um</F> its view is very nice. <OL><F>Hum</F></OL>.</B>
+<A><OL><F>Oh</F></OL> I see.</A>
+<B><F>Hum</F>.</B>
+<A><F>Hum</F>. <F>Err</F> what is the biggest difference between living in <H pn="others3">XXX05</H> <OL>and</OL></A>
+<B><OL><F>Um</F></OL>.</B>
+<A>living in <H pn="others2">XXX04</H>?</A>
+<B><F>Hum</F>. <SC>The most</SC> <.></.> <F>mm</F> so, I think <..></..> <SC>the most</SC> <F>ah</F> the biggest difference is <F>ah</F> <F>mm</F> <F>err</F> the number of people.</B>
+<A><F>Hu-huh</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Hu-huh</F></OL>. <nvs>laughter</nvs> <F>Err</F> <R>last</R> last night, I went to Shibuya,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and there are many <laughter>many people</laughter>,</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>so</laughter></OL> <F>err</F> <SC>I thin</SC> I thought <F>err</F> <R>I like</R> I like <H pn="others3">XXX05</H> better than <H pn="others2">XXX04</H>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter><F>Err</F> I see</laughter></OL>. O K.</A>
+<B><F>Um</F>.</B>
+<A>So <F>err</F> your family live in</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL><H pn="others3">XXX05</H></OL>.</A>
+<B>Yes. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Um</F></OL>. Tell me about your family. <OL><F>Hum</F></OL>.</A>
+<B><OL><F>Hu-huh</F></OL>. <F>Err</F> <SC>my family</SC> <F>erm</F> <R>my</R> my family has <F>mm</F> <SC>three mem</SC> three people, and my father, my mother, and <SC>ma</SC> me.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And <F>err</F> my big sister has already get <R>marr</R> married.</B>
+<A><F>Oh</F> <OL>O K</OL>.</A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A><F>Hum</F>.</A>
+<B><R>So</R> so <SC>my parents and</SC> <F>ah</F> <R>my parents</R></B>
+<A><F>Hum</F>.</A>
+<B><F>err</F> <F>err</F> <F>umm</F> my parents live there, <F>err</F> perhaps, <F>err</F> lonely</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter><R>because</R> because now, <R>I have</R></laughter> I have</OL> <?>in be now</?>.</B>
+<A><F>Um</F>. <OL>I see</OL>.</A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>O K. <F>Err</F> do you enjoy living alone?</A>
+<B>Yes. Yes. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B>Because <F>um</F> when I went to my university</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>in</OL> <H pn="others4">XXX06</H>,</B>
+<A><F>Hu-huh</F>.</A>
+<B>I lived <F>er</F> alone.</B>
+<A><F>Um</F>.</A>
+<B>So <F>err</F> <R>I'm</R> I'm used to living alone. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Hum</F></OL>. O K. But, your parents</A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+<A><OL>missed</OL> you a lot.</A>
+<B><F>Err</F> I think <OL><laughter>so</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. What do they enjoy?</A>
+<B><F>Err</F> <R>perha</R> <F>err</F> perhaps, <SC>they</SC> <R>every</R> every weekend, they go to the spot <R>and</R> and parks <OL><F>umm</F></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>and temples, <OL>or</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>shrine,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and so on. So,</B>
+<A><F>Hum</F>.</A>
+<B><F>um</F> <F>mm</F> I think it's good. O K. <OL><F>Um</F> <laughter>good, good, good</laughter></OL>.</B>
+<A><OL><laughter>I see</laughter></OL>. O K. I see. I understand.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'm going to show you a picture. <OL><F>Um</F></OL>.</A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>So look at this picture, <OL>and</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>describe it for me.</A>
+<B><F>Hu-huh</F>.</B>
+<A><F>Um</F>.</A>
+<B><F>Oh</F> <F>err</F> <.></.> <F>mm</F> <F>err</F> a lady is sitting in a chair,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and there is <F>er</F> one dog <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>one cat <OL>in a</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>room. And one dog is on a floor, <OL>and</OL></B>
+<A><OL>O K</OL>.</A>
+<B>one cat is on a bed.</B>
+<A>O K.</A>
+<B>And <F>mm</F> she is looking at a cat,</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>erm</F> but cat is sleeping.</B>
+<A><laughter>All right</laughter>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Erm</F> and <SC>it is</SC> <F>err</F> I think <R>it is</R> <F>mm</F> <R>it is a fine</R> it is a fine day.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And <.></.> <F>mm</F> <R>sh</R> <F>mm</F> <R>she is worki</R> <F>mm</F> she is <OL>working</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>now, because I think <F>um</F> the <.></.> copy machine <OL>is</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>umm</F> moving now <OL><F>um</F></OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><F>Err</F> <F>err</F> <R>it's</R> <.></.> <F>um</F> it's nine o'clock. <OL><??></??></OL>.</B>
+<A><OL>I see</OL>. <F>Um</F>.</A>
+<B><F>Mm</F> that's all.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><?>O K</?></OL>.</B>
+</task>
+<followup>
+<A><F>Er</F> is this room similar to your room?</A>
+<B>No, my room is <F>m</F> <F>mm</F> smaller <OL>than this</OL> room.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>Hum</F> <SC>and</SC> but <R>in</R> <F>err</F> <SC>in my home</SC> <F>ah</F> in my room</B>
+<A><F>Hum</F>.</A>
+<B>of hometown,</B>
+<A><F>Hu-huh</F>.</A>
+<B><SC>it's sim</SC> <F>eh</F> it's very similar</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>with</OL> this.</B>
+<A><F>Oh</F>. O K. <OL><F>Um</F></OL>.</A>
+<B><OL>O K</OL>.</B>
+<A><F>Err</F> do you use computers?</A>
+<B>Yes. Yes. <OL>Of</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>course. <OL><F>Um</F></OL>.</B>
+<A><OL>O K</OL>. <F>Erm</F> how do you make use of your computer?</A>
+<B><F>Umm</F> <R>I</R> <F>er</F> I make use of it for <SC>getting a</SC> getting information,</B>
+<A><F>Um</F>.</A>
+<B>and <SC>pa</SC> <F>err</F> for example, <F>err</F> <F>umm</F> reading a news,</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>erm</F> and I like tennis very much,</B>
+<A><F>Oh</F> <OL>O K</OL>.</A>
+<B><OL><F>ah</F> so</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>err</F></OL> <F>err</F> when in Japan, <OL><F>erm</F></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><R>there is</R> there is little information about tennis.</B>
+<A><F>Hum</F>.</A>
+<B>But, <F>err</F> <SC>if I</SC> <F>err</F> when I <.></.> get a information by Internet</B>
+<A><F>Hu-huh</F>.</A>
+<B>in English site,</B>
+<A>O K.</A>
+<B><OL><F>um</F></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>I can get a lot of information</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>about</OL> tennis.</B>
+<A><CO><F>Oh</F> can you give me an example <OL>of</OL></CO>?</A>
+<B><OL>Example</OL>? <F>Oh</F> <F>umm</F> <F>ehh</F> so, very small tournament <OL><R>in</R></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><R>in</R> in Mexico.</B>
+<A>O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> When in Japan, I can't get the tournament results,</B>
+<A><F>Hu-huh</F>.</A>
+<B>but in the Internet,</B>
+<A><F>Hu-huh</F>.</A>
+<B>I can get <F>erm</F> results.</B>
+<A><F>Oh</F> I see. <laughter>That's interesting</laughter>. O K. <OL>Thank you very much</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, next, we will do a role-play.</A>
+<B>Yeah. <OL><F>Um</F></OL>.</B>
+<A><OL>Do</OL> you know what's the role-play is?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. O K. So this is your role.</A>
+<B><F>Hu-huh</F>.</B>
+<A>I'll be your sales clerk <OL>at the</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>shop.</A>
+<B><F>Hu-huh</F>.</B>
+<A>O K? So when you're ready, please start.</A>
+<B><F>Hu-huh</F>.</B>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<B><F>Hum</F> <F>hum</F> <F>oh</F> O K. <OL><F>Um</F></OL>.</B>
+<A><OL>O K</OL>? <F>Um</F>.</A>
+<B>Excuse me?</B>
+<A>Yes. May I help you? <F>Um</F>.</A>
+<B>Yeah, <F>err</F> I want get a tennis racket.</B>
+<A>Racket?</A>
+<B>Yeah, <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>what's the most popular one?</B>
+<A>Most popular one.</A>
+<B>Yeah.</B>
+<A><F>Hum</F>. O K. How about Wilson?</A>
+<B><F>Err</F> Wilson. <F>Err</F></B>
+<A><F>Um</F>.</A>
+<B><F>er</F> I want <OL>to <F>er</F></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><R>Yo</R> Yonex.</B>
+<A><R>Yo</R> <OL>you like</OL></A>
+<B><OL>Yonex</OL>.</B>
+<A>Yonex?</A>
+<B>Yeah, <OL>yeah, yeah, yeah</OL>.</B>
+<A><OL>All right</OL>. <F>Um</F>.</A>
+<B><F>Mm</F> <F>mm</F> <F>mm</F> which is the <R>most</R> <R>most</R> <F>um</F> most <R>heavy</R> heavy one?</B>
+<A>Heavy one? <F>Hum</F>. O K. So, <F>err</F> this type <OL>is</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>the heaviest so far.</A>
+<B><F>Oh</F>.</B>
+<A><F>Um</F>.</A>
+<B><F>Hum</F>. How much is it?</B>
+<A>It's thirty-thousand yen.</A>
+<B>Three-thousand yen?</B>
+<A>Thirty- <OL>thousand</OL>.</A>
+<B><OL><R>Sa</R></OL> thirty-thousand. <OL><F>Err</F></OL></B>
+<A><OL>Yes</OL>.</A>
+<B>yeah, it's <F>er</F> little <F>m</F> <F>mm</F> expensive. <OL><F>Hum</F></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Can you <laughter>discount</laughter>?</B>
+<A><F>Erm</F> <F>mm</F> <F>mm</F> <F>mm</F> <SC>not</SC> we can't discount this one, but we can discount <OL>the</OL></A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>old type.</A>
+<B><F>Err</F> old type.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>Err</F></OL>. <F>Oh</F>. O K. <F>Mm</F> <SC>you</SC> O K, <R>I</R> I want the new one.</B>
+<A>New one.</A>
+<B><OL><laughter>New one</laughter></OL>.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B>O K. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B>So <F>err</F> <.></.> <R>would you</R> would you have a string?</B>
+<A>Yes.</A>
+<B><OL>Yeah</OL>?</B>
+<A><OL>Of</OL> course.</A>
+<B>Of course? <OL><F>Um</F></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>Er</F> <F>ehh</F> so <SC>including</SC> <F>ehh</F> it cost thirty-thousand yen including strings?</B>
+<A><F>Err</F> <SC>su</SC> no,</A>
+<B>No?</B>
+<A><F>err</F> with <?>in</?> strings, <F>err</F> thirty-two thousand.</A>
+<B>Thirty-two thousand.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Hu-huh</F></OL>. O K. <F>Erm</F>. O K, <R>I</R> I'll get <R>the</R> <SC>the</SC> <F>ehh</F> them.</B>
+<A>I see.</A>
+<B><F>Um</F>.</B>
+<A><OL><laughter>Thank you very much</laughter></OL>.</A>
+<B><OL><laughter>Thank you very much</laughter></OL>.</B>
+<A><laughter><?>Come to</?></laughter> the cash register.</A>
+<B><F>Hu-huh</F>. <F>Hu-huh</F>. <OL>Thank you</OL>.</B>
+<A><OL>O K</OL>.</A>
+</task>
+<followup>
+<A>So you like play tennis.</A>
+<B>Yes, <OL>very</OL></B>
+<A><OL>Yes</OL></A>
+<B>much.</B>
+<A><F>Hum</F>. So how often do you play tennis?</A>
+<B><F>Huum</F>. When I was a college student,</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>err</F></OL> I played three or four times a week.</B>
+<A><F>Hu-huh</F>.</A>
+<B>But, since I came to <H pn="others2">XXX04</H>,</B>
+<A><F>Hu-huh</F>.</A>
+<B>I haven't played tennis.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>Yeah</OL>, because there is no court.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And if I can get a court, <OL><R>it</R></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><R>it</R> it is very expensive.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>. So <R>a</R> I can't play tennis now.</B>
+<A><F>Oh</F> <OL><laughter>I see</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. <F>Um</F>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'm going to show you <OL>another</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>picture. <OL><F>Hum</F></OL>.</A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A><.></.> So this time, <OL><F>err</F></OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>please make a short story,</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>O K</OL> using <OL>those six</OL></A>
+<B><OL>One, two, three</OL>.</B>
+<A>pictures.</A>
+<B><F>Oh</F>.</B>
+<A>And it happened last week, <OL>so</OL></A>
+<B><OL>Last</OL> week.</B>
+<A>start your story, "<OL>One</OL></A>
+<B><OL><F>Hum</F></OL></B>
+<A>day last week,"</A>
+<B>Yeah.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B><F>Hum</F>. O K. <OL><F>Hu-huh</F></OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>Mm</F> one day last week, <F>ehh</F> <F>mm</F> <R>a</R> <R>a lady</R> <OL>a lady</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>went to a department store <SC><OL>to</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>buy his</SC> <F>mm</F> to buy a gift for her husband's birthday,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and she get a very nice tie, <F>eh</F> <SC>it's</SC> <F>er</F> <F>err</F> and <R>she paid</R> she paid ten thousand yen.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And when <R>she</R> she get off a department store,</B>
+<A><F>Hum</F>.</A>
+<B><R>she saw a</R> she saw a shoes <OL><R>which</R></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>which was discounted.</B>
+<A><F>Um</F>.</A>
+<B>And <.></.> <R>she bought</R></B>
+<A><F>Um</F>.</A>
+<B>she bought one of them.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And next floor, she saw a dress</B>
+<A><F>Hum</F>.</A>
+<B>which was discounted fifty percent off,</B>
+<A>O K.</A>
+<B><laughter>so</laughter> <R>she also</R> <F>mm</F> she also bought one of them.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And <SC>la</SC> at last, she bought a <R>lot of</R> lot of clothes,</B>
+<A><F>Ah-huh</F>.</A>
+<B>and shoes, and accessories.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <SC><laughter>So</laughter> <F>err</F> <SC>hi</SC> <F>umm</F> a tie for <SC>his fa</SC> <F>err</F> her father</SC> <F>erm</F> <.></.> <SC?>and</SC?> so perhaps, when she <SC>get off a department</SC> got off a department, <F>mm</F> <SC>she was</SC> she forgot <SC>her</SC> his tie.</B>
+<A><F>Ah-huh</F>. <OL>I see</OL>.</A>
+<B><OL>That's</OL> <laughter>all</laughter>.</B>
+<A>All right. Thank you. <F>Um</F>.</A>
+</task>
+<followup>
+<A><F>Erm</F> where is the best shopping place in your hometown?</A>
+<B>Hometown? <OL><F>Hum</F></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B>In <SC><H pn="others3">XXX05</H></SC> <R>in</R> in <H pn="others5">XXX07</H>.</B>
+<A>O K. <OL><F>Um</F></OL>.</A>
+<B><OL>Do you</OL> know <H pn="others5">XXX07</H>? <OL><F>Hum</F></OL>.</B>
+<A><OL><F>Hum</F></OL> not much.</A>
+<B><F>Ah</F> in <H pn="others4">XXX06</H>,</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>um</F></OL> <F>err</F> <R>I</R> <F>mm</F> I like <F>er</F> <F>ehh</F> <H pn="others6">XXX08</H> department store.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> and <F>mm</F> once a month, <R>I</R> <SC>I go de</SC> I went there</B>
+<A><F>Hu-huh</F>.</A>
+<B>to buy <F>er</F> clothes, shoes</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>umm</F> <F>eh</F> <F>um</F>.</B>
+<A>O K. How is that department store different from other department stores?</A>
+<B><F>Hum</F> <F>erm</F> <R>ze</R> <SC>there were a lot of</SC> <F>erm</F> there are a lot of kinds of clothes,</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>um</F> and casual,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and formal, <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><F>um</F> of course business <OL>casual wears</OL></B>
+<A><OL><F>Um</F> <F>um</F> <F>hu-huh</F></OL>.</A>
+<B><F>err</F> was gotten. <F>Mm</F>.</B>
+<A>I see. O K. Have you found a good place to shop in <H pn="others2">XXX04</H>?</A>
+<B>Yes, <F>err</F> last Saturday,</B>
+<A><F>Um</F>.</A>
+<B>I went to <F>err</F> yeah, <R>Harajuku</R>,</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Harajuku</OL>.</B>
+<A><F>Um</F>. <nvs>laughter</nvs></A>
+<B><SC>And I</SC> and <R>in</R> in this company, <F>um</F> <R>we can</R> we can have a business casual wear. Business casual.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>Hum</F></OL>. <CO><F>Ehh</F> <OL>we can</OL></CO>.</B>
+<A><OL><R>What does</R></OL> <F>um</F> what does it mean? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Uum</F></OL> <F>err</F> we don't need wear suit.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Err</F> <F>oh</F> we can wear <F>mm</F> <SC>pan</SC> <F>ah</F> rough pants</B>
+<A><F>Ah-huh</F>.</A>
+<B>and polo shirts,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so I bought <F>ah</F> them <OL><F>um</F></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>last Sunday.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>I see. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So interview is almost over.</A>
+<B><F>Hum</F>. <OL>Thank you</OL>.</B>
+<A><OL><F>Err</F></OL> what are you going to do after this?</A>
+<B>After this. <F>Err</F> now <SC>we are</SC> we're having <F>er</F> a small project.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Mm</F> so, I will do that and <F>mm</F> after forty-five minutes,</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>erm</F> we will take a lunch.</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>So thank you very much <OL>for coming today</OL>.</A>
+<B><OL>Thank you very much</OL>. Thank you very much.</B>
+</stage5>
+</body>
+</interview>

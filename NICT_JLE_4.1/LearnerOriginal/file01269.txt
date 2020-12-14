@@ -1,0 +1,450 @@
+<interview>
+<filename>file01269.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>male</sex>
+<age>42</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category>graduate student</category> 
+<step></step> 
+<TOEIC></TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>8</SST_level> 
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. <F>Er</F> my name is <H pn="A's name">XXX01</H>. So can I have your name, please?</A>
+<B><F>Er</F> <R><H pn="B's name">XXX02</H></R></B>
+<A><OL><CO><H pn="B's name">XXX02</H></CO></OL>.</A>
+<B><OL><H pn="B's name">XXX02</H></OL>.</B>
+<A>O K.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL>How are you</OL> today, <H pn="B's name">XXX02</H>?</A>
+<B><OL>I'm sorry</OL>?</B>
+<A><OL><R>How are you</R></OL> how are you?</A>
+<B><F>Oh</F> good.</B>
+<A><nvs>laughter</nvs> O K.</A>
+<B>Yeah.</B>
+<A><F>Oh</F> where do you live?</A>
+<B><F>Oh</F> I live in <H pn="others1">XXX03</H>, you know? <OL><H pn="others1">XXX03</H></OL>.</B>
+<A><OL>Where</OL>? <F>Ah</F> <OL>no</OL>.</A>
+<B><OL><H pn="others1">XXX03</H></OL>. <F>Er</F> <OL><H pn="others2">XXX04</H></OL>?</B>
+<A><OL>Could you tell me</OL> about the area a little more?</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>I have</OL> never been there. <OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Oh</F></OL> <H pn="others1">XXX03</H>?</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><F>Er</F></OL> yeah, <F>um</F> I don't know much about <laughter>the area</laughter>. <OL><laughter><?>See</?></laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs> Really</OL>?</A>
+<B>Yeah. I've been living there only for <R>how many</R> how many months, four months or five months.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>So</OL> yeah, I don't know much about <H pn="others1">XXX03</H>. Yeah. Usually <SC>usu</SC> use that station, <OL><H pn="others1">XXX03</H> Station</OL>.</B>
+<A><OL><F>Ah</F></OL>. <OL>O K</OL>.</A>
+<B><OL>Yeah, for</OL> <SC>commute</SC> you know, commuting purpose. So <OL><nvs>laughter</nvs></OL></B>
+<A><OL>That's it</OL>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>yeah, that's it</OL>. So, yeah, I can see like, you know, <F>oh</F> the Daiei</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>or</OL> I can see some other supermarket</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>or</OL> book shops, <OL>something like</OL> that.</B>
+<A><OL><F>Hmm</F></OL>. O K. Then</A>
+<B><OL><SC>But</SC></OL>.</B>
+<A><OL><R>whe</R> <SC>whe</SC></OL> <F>uh</F> sorry. <F>Mh-hmm</F>.</A>
+<B>yeah, <SC>but</SC> and then also I'm living little away from the station. So it takes, <R>how many</R> how many minutes, about five minutes <R>by</R> <R>by</R> bike.</B>
+<A><F>Ah</F>.</A>
+<B>So yeah.</B>
+<A><?>Really</?> convenient.</A>
+<B>Is it <?>condominium</?>?</B>
+<A>Convenient to get to station.</A>
+<B><F>Aw</F> I think so.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>Yeah</OL>. It's relatively convenient.</B>
+<A><F>Ah</F>.</A>
+<B><R>It's</R> it's a nice location, though, <SC>the</SC> my apartment. <F>Er</F> it was the <?>distance</?>, right? To <H pn="others1">XXX03</H> and then some other station called <H pn="others3">XXX05</H>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>It's about the same</OL>.</B>
+<A><F>Ah</F> O K.</A>
+<B>So yeah, and I can use both stations.</B>
+<A>Sure. So where did you live before?</A>
+<B>Before?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Oh</F> <OL><H pn="others4">XXX06</H>, <H pn="others5">XXX07</H></OL>.</B>
+<A><OL>For living in</OL>. <OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>Yeah</OL>. <H pn="others4">XXX06</H>, <H pn="others5">XXX07</H>. <OL>Yeah</OL>.</B>
+<A><OL>I see</OL>. <F>Oh</F> could you tell me about the life in <H pn="others5">XXX07</H>?</A>
+<B><H pn="others5">XXX07</H>?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F> I'm a graduate student over there. So I've been living in <F>er</F> <H pn="others4">XXX06</H> for about five years.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><CO>So</CO></OL>. And it is nice area. It's very liberal.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>You know</OL> it's very wild. <F>Er</F> it's interesting. <SC>It's</SC> so the community is so diverse.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Um</F> on <SC>the one side</SC> on the one, <F>um</F> there's a <F>uh</F> intellectual community.</B>
+<A><F>Hmm</F>.</A>
+<B>On the other hand, <F>ur</F> bunch of homeless people.</B>
+<A><F>Ah</F>.</A>
+<B>And also there, the street called <H pn="others6">XXX08</H>,</B>
+<A><F>Hmm</F>.</A>
+<B><F>er</F> <R>i</R> it's located just in front of the campus. <?>But</?> however that street is famous for drug dealing.</B>
+<A><nvs>sigh</nvs></A>
+<B>Yeah. So it's a supermarket for drugs. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><?>All right</?>. So yeah, <SC>bunch of different kind</SC> so in a way, you know, bunch of different kinds of people living there. And then also artists are there. And then <H pn="others4">XXX06</H> is famous for <F>er</F> political <F>er</F> <SC>activiti</SC> <SC>ac</SC> you know, activists.</B>
+<A><F>Hmm</F>.</A>
+<B>So yeah, different kinds of political <F>er</F> <F>er</F> the <?>regime</?>. <F>Er</F> <F>er</F> you can divide it in different categories. So <OL>yeah</OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><SC>So it's really</SC> and <R>e</R> ethnically <F>er</F> also it's really interesting place. So it's really diverse.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Almost</OL> you can see <R>any</R> any <F>er</F> ethnic <F>er</F> groups</B>
+<A><F>Hm</F>.</A>
+<B>from all over the world.</B>
+<A><F>Hm</F>.</A>
+<B>So right. So for example, if you go to <R>coff</R> coffee shop, right? So there you can see different kinds of people <R>in</R> in a <?>big theater</?> and then, you know, Afro Americans there, the Asians there, and then the even among them,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>are totally different <F>er</F> the ethnicity <??></??>.</B>
+<A><F>Hm</F>.</A>
+<B>So in a way, like <F>um</F> it's so hard to categorize like, <R>so</R> so African American which means so many percentage of do you know <F>er</F> there <F>er</F> the black <?>is from</?>.</B>
+<A><F>Ah</F> right.</A>
+<B><?>With each</?> category. <F>Er</F> maybe like, you know, <F>er</F> Ghanaian, British, Scottish, <nvs>laughter</nvs> whatever. <OL><laughter>You know</laughter></OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><nvs>laughter</nvs> All right.</B>
+<A>So why did you decide to live in <H pn="others4">XXX06</H>?</A>
+<B><H pn="others4">XXX06</H>?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Oh</F> one thing is about the school.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>Right</OL>. So yeah. I like the school.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hmm</F>. <SC>It's</SC> I know it's very, very liberal school. And then I'm studying about Japan.</B>
+<A><F>Hmm</F>.</A>
+<B>So in terms of Japan studies, <SC>one of the</SC> one of best school. And then also I'm studying about <F>er</F> medical and policy. I don't know if you're familiar with this. <F>Er</F> but the theme is the medicine. Right. But at the same time, <F>um</F> <SC>study per se</SC> study itself is <F>ur</F> <F>er</F> anthropology.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So yeah, studying about social medicine <SC>within <R>the</R> the regime of anthropology</SC> yeah, in the field of anthropology. So yeah, that's a sort of unique subjects. Yeah. So that's the oldest school in the world,</B>
+<A><F>Hmm</F>.</A>
+<B>this sort of study.</B>
+<A><OL><F>Oh</F> <F>ah</F></OL>.</A>
+<B><OL>So yeah</OL>. <F>Er</F> so that's why I chose to <OL>live there, yeah</OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><CO>So</CO>.</B>
+<A>So now you came back to <laughter>Japan</laughter>,</A>
+<B>Yeah.</B>
+<A>I guess your life now is quite different from the life in <OL><H pn="others5">XXX07</H></OL>.</A>
+<B><OL>Yeah, of course</OL>.</B>
+<A>So what's the <SC>most d</SC> biggest difference between lives?</A>
+<B>One is space. Right.</B>
+<A><F>Ah</F>.</A>
+<B>And so living space.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Um</F> <R>it's</R> <F>er</F> it's very wide, open space <OL><?>I think</?></OL></B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>in the States. Especially in the <H pn="others7">XXX09</H>. Right. So but at the same time <SC>if you go t</SC> because of that, right, <SC>so if you</SC> wherever you go, you have to use <F>er</F> automobile.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>Yeah</OL>. Or yeah. Or <SC?>mo</SC?> at least you need a bike or something. All right. <F>Um</F> but here, wherever you go, you have to use commuter trains. Right? So that's a huge differences. Of course you know, <R>there</R> <R>there</R> there are some commute trains <R>in</R> in that area. <SC>However</SC> yeah, so here, you know the train system and bus system are really complicated.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>So <?>you get</?> used to it. And <R>then</R> then <SC>also this is</SC> you know for me, this is the first time to live in <F>er</F> <H pn="others8">XXX10</H>.</B>
+<A><F>Hm</F>.</A>
+<B>So I have to know everything.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>Almost everything</OL>.</B>
+<A><laughter>O K, everything, O K</laughter>.</A>
+<B><OL><SC>But</SC> so yeah, so that's why, you know</OL> if you ask me you know, <SC>what</SC> you know what's going on in <H pn="others1">XXX03</H>, it's so hard to say, "<F>Oh</F> <OL><F><?>well</?></F>."</OL>.</B>
+<A><OL>I see</OL>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>I have to think about it</OL>.</B>
+<A>Right. <OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Thank you</OL>.</A>
+<B><OL><?>Hundred</?> times</OL>.</B>
+<A><nvs>laughter</nvs> Sure.</A>
+</stage1>
+<stage2>
+<task>
+<A>So first thing today, I'll show you a picture. <F>Hmm</F>. So could you describe this picture for me?</A>
+<B>O K.</B>
+<A><OL>O K</OL>?</A>
+<B><OL>It's a</OL> skiing place, obviously. I can see a lift. And I can see people are skiing <nvs>laughter</nvs> and snowboarding. <F>Um</F> it's hard to describe it. <nvs>laughter</nvs> Yeah. So I don't know. So this guy is <F>uh</F> playing with snow. And I think they stop. <R>And</R> and so this guy's flipped over. So then <F>er</F> only kids I can see in this pictures. So their the clothes are very <F>er</F> bright. You know, the skis are also bright colors. So I don't know. <laughter>Not much to say</laughter>. So yeah something like that.</B>
+<A>Sure</A>
+<B>Yeah.</B>
+<A><F>Hm</F>.</A>
+</task>
+<followup>
+<A>So</A>
+<B><F>Mh-hmm</F>.</B>
+<A>about yourself, do you have any special hobbies to enjoy?</A>
+<B><F>Er</F> special what?</B>
+<A>Hobbies.</A>
+<B><F>Oh</F> yeah.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Oh</F> a lot.</B>
+<A><F>Hm</F>.</A>
+<B>So primarily, <F>er</F> recently I play <JP>wadaiko</JP>.</B>
+<A><F>Oh</F>.</A>
+<B><F>Uh</F> <F>ur</F>. So <R>I</R> I can see peoples.</B>
+<A><F>Ah</F>.</A>
+<B>So I wish to <??></??> yeah, whatever. Yeah. So</B>
+<A><F>Hm</F>.</A>
+<B>all right. And also I ski. When I was in college, I skied, how many times? Saying it like in about two months a year. Yeah.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><R>I</R></OL> I went to Hokkaido.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah.</B>
+<A>I stayed in Furano.</A>
+<B><F>Oh</F>.</B>
+<A>Yeah. So two months a year, <R>I</R> <SC>I con</SC> I did it for about four or five years. So then <F>er</F> yeah, before I moved to <H pn="others4">XXX06</H>, I was in <H pn="others9">XXX11</H>.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL>So I surf</OL> a little bit.</A>
+<B><F>Oh</F> <F>wow</F> you are very active. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Yeah, <R>I like</R> <F>urm</F></OL> I like outdoors.</A>
+<B>Yeah. <JP>Wadaiko</JP>. <F>Hmm</F>. <R>Ho</R> how have you become interested in playing <OL><JP>wadaiko</JP></OL>?</B>
+<A><OL><JP>Wadaiko</JP></OL>?</A>
+<B><F>Mh-hmm</F>.</B>
+<A><F>Umm</F> <F>um</F> <SC>it's a</SC> probably it's a long story. <F>Er</F> the my first encounter of <JP>wadaiko</JP> was in Sado. You know in Sado Island?</A>
+<B>Right.</B>
+<A>That's <R>the</R> the place where the professional group called Kodo <F>oh</F> they establish group, yeah, in order to invite people to the countryside</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>rather than</OL>, you know, <F>er</F> <.></.> <F>er</F> seeing, you know, local people away from <OL>the countryside</OL>.</A>
+<B><OL><F>Hmm</F></OL>.</B>
+<A><R>So</R> so then they establish <?>it</?>. And then they decide to invite, you know, all the musicians and people from all over the world.</A>
+<B><F>Wow</F>.</B>
+<A>And they have a festival during the summertime.</A>
+<B><F>Hmm</F>.</B>
+<A>The <R>end of</R> end of <R>Au</R> August. So for week-long festival and they also invite <F>um</F> different kind of percussionists from all over the world.</A>
+<B><F>Hmm</F>.</B>
+<A>And then they collaborate. <OL>And</OL></A>
+<B><OL><F>Hm</F></OL>.</B>
+<A>yeah, so everybody like the jam together. <F>Um</F> and every single day, <SC?>they sh</SC?> <F>er</F> they hold concert. So then that was my first encounter. I said "<F>Wow</F>. This is cool.". Then I became notice the existence of <JP>wadaiko</JP>. Right. So before that, <SC>I</SC> <JP>wadaiko</JP> mean it's a instrument for the festival.</A>
+<B>I see. <OL><F>Uh-huh</F></OL>.</B>
+<A><OL>Right</OL>.</A>
+<B><JP>Fue</JP>, <JP>wadaiko</JP>, and <JP>kane</JP>.</B>
+<A>Right.</A>
+<B>Just for <JP>bon-odori</JP> or something.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But since then, <F>er</F> my view on <JP>wadaiko</JP> has totally changed. <F>Uh-uh</F>. This is a musical instrument. And they're so serious. And then this Kodo, you know, <R>this</R> this group, you know about the Kodo, they travel all the world to play <SC>abo</SC> for about hundred days a year. <R>They</R> <R>they</R> they play outside of Japan.</B>
+<A><F>Hmm</F>.</A>
+<B>And the other hundred days, <F>er</F> stay in <F>er</F> Japan and then playing over Japan.</B>
+<A><F>Hm</F>.</A>
+<B>And the other hundred days they practice. All right. <R>To</R> <R>to</R> to play their new music <OL><??></??></OL>.</B>
+<A><OL>I see</OL>.</A>
+<B>Yeah. And then I move to the States <R>nine</R> nine or ten years ago. Then as I told you, like in <F>er</F> last five years or so I lived <R>in</R> in <H pn="others5">XXX07</H>. So then I can see them as <F>well</F> as the local people. I can <R>see</R> see in <H pn="others10">XXX12</H>. And then the guy called <H pn="others11">XXX13</H> who brought the <JP>taiko</JP> <F>er</F> from <H pn="others8">XXX10</H>, <F>er</F> he also establish his own group <F>oh</F> there for the <H pn="others10">XXX12</H> <JP>taiko dojo</JP>.</B>
+<A><F>Hmm</F>.</A>
+<B>So <SC>that's</SC> <F>er</F> yeah, <F>er</F> that's one of the main group in the States. So I join them. <F>Ee</F> <OL><F>er</F> <F>oh</F></OL> this is cool.</B>
+<A><OL><F>Huh</F></OL>.</A>
+<B>Yeah. <??></??>.</B>
+<A><F>Uh-huh</F>. So you joined <F>er</F> in <H pn="others5">XXX07</H>. Not here.</A>
+<B>No.</B>
+<A><OL>I see</OL>.</A>
+<B><OL><F>Er</F> yeah</OL>.</B>
+<A>O K. <OL><F>Hm</F></OL>.</A>
+<B><OL>And</OL> yeah then <SC>I</SC> since I came back here,</B>
+<A><F>Hm</F>.</A>
+<B>in <H pn="others12">XXX14</H>, there's a group called <F>er</F> <H pn="others13">XXX15</H>. <F>Er</F> <R>I join</R> I join this group.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL>Yeah</OL>. And I've been practicing with them. <R>So</R> so</B>
+<A><F>Hm</F>.</A>
+<B><R>it's</R> it's fun.</B>
+<A><F>Oh</F> O K. Thank you.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So now we are going to do a role-play.</A>
+<B><F>Ah</F>.</B>
+<A><F>Hm</F>. First of all, could you read this card?</A>
+<B><OL>O K</OL>.</B>
+<A><OL>And when</OL> you are ready, I will start the role-play.</A>
+<B>O K. <nvs>cough</nvs></B>
+<A>O K?</A>
+<B><F>Er</F> wait. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. <nvs>laughter</nvs></A>
+<B><F>Errrrr</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Er</F> O K.</B>
+<A>O K?</A>
+<B><F>Mh-hmm</F>.</B>
+<A>O K. Let's say it's on the phone, O K?</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>Ring, ring</OL>. C'tch. Hello?</A>
+<B><F>Oh</F> hello?</B>
+<A><CO>Ho</CO>.</A>
+<B><F>Oh</F> <OL>O K</OL>. I have to tell you first?</B>
+<A><OL><F>Oh</F></OL>. <OL>Right</OL>.</A>
+<B><OL>O K</OL>. <F>Oh</F> all right. So <F>oh</F> I'm sorry, <F>er</F> I can't go to your party tonight.</B>
+<A><F>Oh</F> no.</A>
+<B>Yeah. So yeah, there was a sort of emergency <F>er</F> in my family, so I have to go back to my hometown. So I can't go tonight. <SC>So</SC> but I'm still interested in <F>er</F> going to your party if you have, you know, some other occasions. So <SC>could you invite me</SC> or could you let me know the next time? I'm very sorry about this.</B>
+<A><F>Um</F> no. <F>Well</F> actually <R>I</R> I've invited twenty guests <OL>for you</OL></A>
+<B><OL><?><F>Oh</F></?></OL> <F>Mh-hmm</F>.</B>
+<A>to celebrate your coming back to Japan.</A>
+<B><F>Oh</F>.</B>
+<A>No, no, no. <R>I</R> I made it the secretly.</A>
+<B><OL><F>Uh</F></OL>.</B>
+<A><OL>It was</OL> surprise party for you.</A>
+<B><F>Ohh</F> really? <F>Oh</F> I'm really, <laughter>really sorry</laughter> <R>to</R> <F>er</F> to hear that. So I don't know what to say. But hopefully you can understand me. <F>Um</F> this is <?>so</?> emergency <F>er</F> condition, so I have to go back, you know.</B>
+<A><OL><F>Ah</F></OL> really.</A>
+<B><OL>But</OL> yeah. My mom is dying. So</B>
+<A><F>Oh</F>.</A>
+<B>yeah, so <R>I have to</R> I have to go back. Yeah.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah.</B>
+<A><F>Well</F> actually they've been waiting for you</A>
+<B><F>Mh-hmm</F>.</B>
+<A>for hours to prepare to surprise you here.</A>
+<B><F>Ah</F> <OL>yeah</OL>.</B>
+<A><OL>What</OL> should I tell them?</A>
+<B>Yeah. I don't know. <F>Er</F> <nvs>laughter</nvs> <laughter>I don't know what do say</laughter>. <laughter>Yeah, but hopefully they can understand this is emergency</laughter>. Yeah. So normally I'm not doing this, you know. But this is totally <SC>the</SC> <F>er</F> I don't know, the thing what <SC>I'm</SC> I haven't been expected. So</B>
+<A><F>Ah</F>.</A>
+<B>yeah. So</B>
+<A><OL><F>Oh</F></OL></A>
+<B><OL><SC>can you please</SC></OL> <F>er</F></B>
+<A>O K.</A>
+<B>so yeah, I hope you guys can do something <F>er</F></B>
+<A><OL>Without you</OL>?</A>
+<B><OL><?>someone</?></OL> <F>er</F> having fun. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, are you really sure</OL>?</A>
+<B>Yeah.</B>
+<A>And <F>uh</F> I bought <R>a</R> a lot of drinks and food.</A>
+<B><F>Ah</F> sounds so good. <nvs>laughter</nvs> <laughter><??></??> to go there</laughter>. <CO>But</CO>.</B>
+<A><F>Ah</F> it's all for you. But in this case, <F>oh</F> your mother is sick. <CO>So</CO>.</A>
+<B><F>Hm</F>. Yeah. So I'm sorry. <nvs>laughter</nvs> I don't know what to say. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>.</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Oh</F> I hope your mom gets better soon.</A>
+<B>Yeah, I hope <OL>so, too</OL>.</B>
+<A><OL>So when</OL> you come back here, please contact us.</A>
+<B>Yeah.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>I'll</OL> give you a call. <OL>Yeah</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>O K. So take care to <SC>get home</SC></A>
+<B><F>Mh-hmm</F>. <OL>Thanks</OL>.</B>
+<A><OL>get back</OL>. O K. Bye.</A>
+<B>Bye.</B>
+<A><F>Huh</F>. <OL><nvs>laughter</nvs> <laughter>O K, this is the end</laughter> of the <F>er</F> role-play</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uh-huh</F>.</B>
+</task>
+<followup>
+<A>So I guess <F>er</F> many parties in <H pn="others4">XXX06</H> <F>Huh</F>.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Could you tell me one of the most memorable party for you?</A>
+<B>Party?</B>
+<A><F>Huh</F>.</A>
+<B><F>Oh</F> yeah one is <F>er</F> my friend wedding.</B>
+<A><F>Hm</F>.</A>
+<B>You know wedding party. <F>Er</F> both of them are <JP>taiko</JP> player.</B>
+<A><F>Oh</F>.</A>
+<B>So and then, you know, many of their guests are <JP>taiko</JP> players</B>
+<A><F>Hmm</F>.</A>
+<B><nvs>laughter</nvs> and some other musicians. So that was really fun party. So one of the thing is everybody they're connected <F>er</F> through <F>er</F> playing <JP>taiko</JP>.</B>
+<A><F>Hm</F>.</A>
+<B>Right. So <F>err</F> in <R>a</R> a <JP>taiko</JP> practice, <F>um</F> <R>we</R> we engaged a lot of our time.</B>
+<A><F>Hm</F>.</A>
+<B>So twice or three times a week, <OL>like</OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>So then <F>er</F> yeah, so <SC>s</SC> you know going through this <F>uh</F> stage, we establish our friendship.</B>
+<A><F>Hm</F>.</A>
+<B>And then there, <R>lu</R> luckily, you know, these two <SC>got</SC> they got married and then <SC?>they're</SC?> <F>uh</F> <F>uh</F> but within five years somebody moved to Portland, Oregon and some other parts of the States.</B>
+<A><F>Hm</F>.</A>
+<B>But <F>er</F> this is occasion everybody united.</B>
+<A><F>Hm</F>.</A>
+<B>And then <SC?>if</SC?> <R>they</R> <R>they</R> <SC>they pra</SC> they're playing individually, you know. They're playing a different groups <OL>right now</OL>.</B>
+<A><OL>I see</OL>.</A>
+<B>However they get together, we jam together <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>.</A>
+<B>playing <JP>taiko</JP> together. <OL><nvs>laughter</nvs></OL></B>
+<A>I see.</A>
+<B>The wedding, you know, ceremony. That was really amazing. <F>Er</F> <OL>so</OL></B>
+<A><OL><F>Ah</F></OL>.</A>
+<B>yeah we were so connected.</B>
+<A><F>Oh</F> O K. Then <F>um</F> when you see <F>er</F> the way of spending their</A>
+<B><F>Mh-hmm</F>.</B>
+<A><F>er</F> free time, could you compare the style of American people to Japanese one? How to spend their spare time or</A>
+<B><F>Oh</F>.</B>
+<A><?>use your</?> time. <OL><F>Hm</F></OL>.</A>
+<B><OL>Free time</OL> activities? <OL>Yeah</OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><F>Um</F> yeah in a way, like the <H pn="others14">XXX16</H> is one of the area <F>er</F> <F>um</F> people who are living there, they are very spoiled.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah, because you can do anything. Like arts are there. Right. So if you really like arts, any kind of arts including painting and music or performing arts, so you know, if you wait for two years, so within two years, one famous musicians, <R>the</R> they all come in to <H pn="others14">XXX16</H>. You only need to wait <R>one or two years</R> one or <R>two</R> two years. So you can't imagine that kind of place in the world. Maybe Tokyo.</B>
+<A><F>Hm</F>.</A>
+<B>But Tokyo is little bit too crowded. Right. So it's so hard to get a ticket. But <H pn="others14">XXX16</H>, it's not that crowded. So most likely, you can get tickets to see this, you know, other performers. So that's one thing. Right? <F>Erm</F> also in terms of the sports, also if you want surf, you can surf, although <SC>it's real cold</SC> the water is really cold. But wave is so good. Right? And also there's mountain, <F>er</F> <R>the</R> the place called <H pn="others15">XXX17</H> the <H pn="others15">XXX17</H>. If you go there, you can do any sort of, you know, <F>er</F> sports which means like you can go to skiing, <F>er</F> snowboarding, <F>er</F> you name it. So then there are bunch of hot springs along the <H pn="others16">XXX18</H>, the mountain.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>er</F> <?>already</?> you know, <SC>you</SC> there's a <R>casi</R> casino <R>in</R> in <H pn="others17">XXX19</H>. And if you go to <H pn="others18">XXX20</H>, and <H pn="others19">XXX21</H> county, so there are vineyards. So you can enjoy bunch of different kinds of wines. You know the <H pn="others20">XXX22</H> is the best in the world. <nvs>snap</nvs> <OL><nvs>snap</nvs></OL></B>
+<A><OL><F>Wow</F></OL>. <nvs>laughter</nvs></A>
+<B>Yeah. Seriously, yeah. Yeah. <F>Er</F> because the soil and the weather.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah. <F>Er</F> the French wine, it's famous because of their marketing, you know. Right. But in terms of quality, the <H pn="others5">XXX07</H> is best. We are so spoiled. Yeah.</B>
+<A><F>Ah</F>.</A>
+<B>So even the supermarket, we can get wine, but it's really, really good wine. Yeah.</B>
+<A><F>Hm</F>.</A>
+<B>So yeah. <F>Uh</F> <F>uh</F> so <SC>y</SC> <SC>after you live in</SC> <F>uh</F> you know, after you live in <H pn="others5">XXX07</H> <F>er</F> I don't know, <F>er</F> how much you can enjoy wine in Japan. <nvs>laughter</nvs></B>
+<A><OL>Really</OL>?</A>
+<B><OL><laughter>All right, yeah</laughter></OL>. <nvs>laughter</nvs></B>
+<A><F>Oh</F>.</A>
+<B>All right. So yeah.</B>
+<A>Yeah.</A>
+<B><CO><R>Ye</R> yeah so</CO>. And then in terms of foods, <F>er</F> as you know, there are bunch of different community in <H pn="others14">XXX16</H>. If you go to, say even in <H pn="others10">XXX12</H> you can go to <H pn="others19">XXX21</H>, <F>er</F> there is an Italian community. <?>All right</?>, so also like in China Town, also Japan town, you know, <F>er</F> some other Latino people doing some other sort of things. So each area, <R>you can</R> you can enjoy different kind of food.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>So which</OL> means <SC>e</SC> living there means you can enjoy the world from all the world.</B>
+<A><F>Oh</F>. Sounds to me like a heaven.</A>
+<B>Yeah.</B>
+<A><laughter><??></??></laughter></A>
+<B>Right. Right. <??></??> is here, right? So <SC>it's</SC> <F>uh</F> in a way it's a cosmopolitan, <OL>right</OL>,</B>
+<A><OL>I see</OL>.</A>
+<B>the Tokyo is. However one of the <nvs>sigh</nvs> <F>er</F> <nvs>sigh</nvs> problem is <F>urm</F> <nvs>smack</nvs> cost. You know <??></??> like an accessibility. <OL>Right</OL>.</B>
+<A><OL>I see</OL>.</A>
+<B>So the other day, I went to Chinese food restaurant. <?>Like you know</?> each plate is <?>better</?>. <OL><??></??></OL> The cost is one thousand yen per plate. <laughter>So it's so expensive</laughter>.</B>
+<A>Right.</A>
+<B><F>Ur</F> So you can't afford to pay. All right. All right. Versus <H pn="others14">XXX16</H>, all right so even <F>er</F> for students, <R>it's</R> it's O K, like you know, all right, overnight, I spend only twenty or thirty buck a night. But <R>I</R> I can enjoy it.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>But</OL> here, like a hundred <OL>buck a night</OL>.</B>
+<A><OL>I know, right</OL>. <OL>Right</OL>.</A>
+<B><OL>But still</OL> it's not that enough. <OL>So</OL></B>
+<A><OL>Right</OL>.</A>
+<B>yeah, it's so hard. Yeah.</B>
+<A>Right. <F>Uh-huh</F>.</A>
+<B>Yeah. <OL><F>Well</F></OL>.</B>
+<A><OL>O K, yeah</OL>. Thank you.</A>
+<B><F>Mh-hmm</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So finally, I will show you another picture.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>So this time, could you make up a story using <OL>these six pictures</OL>?</A>
+<B><OL><nvs>laughter</nvs> <??></??></OL> That's <F>er</F> <OL>difficult</OL>.</B>
+<A><OL>Yeah</OL>. And this happened last week. So please start your story with "One day last week".</A>
+<B><F>Oh</F> O K.</B>
+<A>Yeah.</A>
+<B>So <F>hm</F> <nvs>smack</nvs> yeah, one day <F>er</F> last week, <F>er</F> a guy who drived a car really fast. Then <F>er</F> a scooter, yeah, are coming from <F>ur</F> the direction where he's going. And the guy was with <SC>cellar phone</SC> cellphone <F>er</F> talking to <F>er</F> his girlfriend, it seems. <F>Er</F>. And then <F>er</F> yeah, <F>er</F> the traffic accident occurred. <F>Urm</F> the car hits <R>the</R> the scooter. And <F>er</F> then the guy in scooter, <F>er</F> he blamed <F>er</F> to <R>the</R> the car driver <F>er</F> although <F>er</F> it seems it's <SC>his</SC> probably his mistake <?>of</?> cellphone. He was claiming <R>the</R> <F>er</F> the cellphone was destroyed. Right. So then police came. <nvs>laughter</nvs> Still they are talking about cellphone rather than accident, <laughter><?>see</?></laughter>. Yeah. Then <F>er</F> yeah, <F>er</F> they're reporting. <F>Er</F> also the guy, the <SC>driver</SC> car driver <F>er</F> is <F>er</F> explaining about cellphone. Then <F>er</F> <SC>a car came</SC> <F>er</F> the pick-up came. And it picked the scooter up. Yeah. And that's it.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>O K. Thank you <OL>very much</OL>.</A>
+<B><OL><F>Mm-hm</F></OL>. <F>Mh-hmm</F>.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>So we're almost at the end of the interview.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>So <F>um</F> <laughter>thank you for coming</laughter></A>
+<B><F>Ah</F> no problem.</B>
+<A><nvs>laughter</nvs> long way</A>
+<B><F>Uh-huh</F>.</B>
+<A>from <H pn="others1">XXX03</H>.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>And</OL> this is the end <laughter>of the interview</laughter>. <OL>Thank you</OL>.</A>
+<B><OL>O K</OL>. Thank you <OL>so much</OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+</stage5>
+</body>
+</interview>

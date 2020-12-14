@@ -1,0 +1,180 @@
+<interview>
+<filename>file01125.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>320</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>I'm <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>How are you, too?</B>
+<A><F>Mm</F>. O K. Good. <F>erm</F> did you have classes this morning.</A>
+<B>Yes.</B>
+<A><F>Mm</F>. O K. Please tell me about the classes.</A>
+<B><F>Er</F> I study English.</B>
+<A><F>Hm</F>. <F>Hm</F>. O K. Do you like it?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. O K. Then <F>ur</F> where do you live, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Ah</F> I see. How do you come here?</A>
+<B>I use train and school bus.</B>
+<A><F>Ahh</F> school bus. O K. How long does it take from your house to this school?</A>
+<B><F>Ur</F> about one hour.</B>
+<A>One hour. O K. What time did you get up this morning?</A>
+<B>I get up at seven o'clock.</B>
+<A><F>Hmm</F>. What did you do after that?</A>
+<B><.></.></B>
+<A>What did you do after that <OL>in the morning</OL>?</A>
+<B><OL><F>Urr</F></OL> <nvs>laughter</nvs> <R>I</R> I watch T V, and I eat breakfast.</B>
+<A><F>Mhm</F>. <F>Ah</F> I see. Do you like to watch T V?</A>
+<B><F>Er</F> so-so.</B>
+<A><F>Hmm</F>. What programs do you like best?</A>
+<B><F>Mmm</F> I like <R>ss</R> sports program.</B>
+<A><F>Hmm</F>. What sport?</A>
+<B><F>Er</F> soccer.</B>
+<A><F>Ah</F> I see. Which team do you like best?</A>
+<B><F>Er</F> I like Urawa Reds. It's J-League team.</B>
+<A><F>Mmm</F>. Why Urawa Reds?</A>
+<B><F>Er</F> Urawa Reds' supporter is <F>mm</F> many people. And <F>er</F> they are aggressive. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ahh</F></OL> I see. Are you aggressive, <OL>too</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A><nvs>laughter</nvs> <F>Oh</F> good. <F>Uhm</F>. Then do you play any sports?</A>
+<B><F>Er</F> I play soccer.</B>
+<A><F>Ahh</F>. <F>Mmm</F>. O K. So on weekends, you play soccer.</A>
+<B>Yes.</B>
+<A>And what else do you do on weekends?</A>
+<B><F>Ur</F> <.></.> shopping</B>
+<A><F>Mm</F>.</A>
+<B>and <..></..> play friends.</B>
+<A><F>Hmm</F>. When you are with friends, what do you like to do?</A>
+<B><F>Mm</F>? One <OL>more</OL>.</B>
+<A><OL>What</OL> do you like to do with your friends?</A>
+<B><F>Er</F> <nvs>laughter</nvs> <laughter>soccer</laughter>.</B>
+<A><F>Ah</F> <laughter>I see</laughter>. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'm going to show you a picture. Please tell me anything about this.</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<A>What do you see?</A>
+<B><.></.> <F>Er</F> it is a streets. Children play <SC>the</SC> with ball. He <laughter>is</laughter> running. They are talking. <.></.> <F>Er</F> he read newspaper. <..></..> <F>Er</F> today is the good weather.</B>
+</task>
+<followup>
+<A>Yes. Very good. Thank you. O K. We see a dog and a cat here. Which do you like better?</A>
+<B><F>Er</F> I like dog.</B>
+<A><F>Mmm</F>. Do you have a pet dog?</A>
+<B>Yes.</B>
+<A><F>Ahh</F>. Tell me about your dog.</A>
+<B><F>Er</F> my dog <R>is</R> is in my house <R>about</R> <F>er</F> about ten years.</B>
+<A><F>Mhm</F>.</A>
+<B><R>He</R> <F>er</F> <R>he</R> <R>he</R> <SC>he put</SC> <R>he</R> <laughter>he put on street</laughter>.</B>
+<A><F>Hmm</F>. <F>Hmm</F>. I see. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role play. Please read this card, and when you are ready, I'll start the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>O K</OL>? Hello, may I help you, sir?</A>
+<B><F>Er</F> <SC>I want to</SC> I wants <.></.> soccer game shirts.</B>
+<A><laughter>O K</laughter>. Soccer game shirts? <OL><F>Hm</F></OL>.</A>
+<B><OL><F>Er</F></OL> <.></.> it's Urawa Reds' game shirts.</B>
+<A>O K.</A>
+<B><.></.> <R>How</R> how much?</B>
+<A><F>Ahh</F>. O K. <F>Er</F> eight thousand yen.</A>
+<B>Eight thousand yen. <.></.> <F>Er</F> <..></..> <F>er</F> <laughter>eight thousand yen</laughter>.</B>
+<A><F>Ah</F> O K. This one is four thousand yen.</A>
+<B>Four thousand yen.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>Where</SC> <F>er</F> <SC>whi</SC> this is where team.</B>
+<A>Urawa Reds.</A>
+<B>Urawa Reds.</B>
+<A><F>Mm</F>.</A>
+<B>Yes? <F>Er</F>.</B>
+<A>But a little old</A>
+<B><R>Old</R> old.</B>
+<A>type. This is the newest model.</A>
+<B><laughter>New</laughter>. I want a new type. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Then here, one is O K?</A>
+<B><OL><?>Yap</?></OL>.</B>
+<A><OL>O K</OL>. <F>Mm</F>. O K. Thank you. Good. <F>Mhm</F>.</A>
+</task>
+<followup>
+<A>So please tell me about the last time you went for shopping.</A>
+<B>Last time?</B>
+<A><F>Mm</F>. What did you buy?</A>
+<B>I go to <SC>soccer ball</SC> <?>Foot Sal Ball</?>.</B>
+<A><F>Mm</F>.</A>
+<B><..></..></B>
+<A>Where did you buy it?</A>
+<B>It's a sports shop.</B>
+<A><F>Mm</F>.</A>
+<B>Buy this.</B>
+<A><F>Ah</F> here?</A>
+<B><F>Ah</F> no. <F>Mm</F>?</B>
+<A>Where is the shop?</A>
+<B><F>Ah</F> <SC>This i</SC> <SC>it's</SC> this shop is <H pn="others1">XXX03</H>.</B>
+<A><F>Ahh</F> I see. Why do you like that shop?</A>
+<B><R>This shop is</R> <.></.> this shop <.></.> is more friendly.</B>
+<A><F>Ah</F> O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Next, now please make a story with these four pictures. Please start with number one.</A>
+<B><?>One</?>, three people buy tickets the movie. <.></.> <R>Thi</R> this ticket is two thousand yen. This movie start one o'clock. <..></..> <F>Mm</F> this movie finish three o'clock. They are one girl and them man. <.></.> <R>They are <R>bou</R> bou</R> <F>er</F> they are bought popcorn and cola. <.></.> <F>Erm</F> they bought three cola <laughter>and</laughter> three popcorn. <..></..></B>
+<A><F>Mm</F>.</A>
+<B><..></..> <F>Er</F> the movie is plane crash. <..></..> And <SC>the movie theater</SC> many people in movie theater.</B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>O K. <F>Er</F> who do you like, I mean, movie star?</A>
+<B>Movie star.</B>
+<A><F>Mmm</F>.</A>
+<B><.></.> <F>Er</F> <.></.> <R>I</R> I <?>like</?> Brad Pitt.</B>
+<A><F>Oh</F>.</A>
+<B>He is a guy.</B>
+<A><F>Mm</F>. <F>Hmm</F>. Why do you like him?</A>
+<B><F>Er</F> <..></..> <nvs>laughter</nvs> <..></..> <R>he</R> he is nice guy.</B>
+<A><F>Hm</F>. O K. Then how about actresses? Who is your favorite actress?</A>
+<B>Actress.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> <.></.> Camelon Dias.</B>
+<A><F>Hmm</F>. <F>Hm</F>. O K. <F>Mm</F>. Thank you, <H pn="B's name">XXX02</H>. Do you often go to the movies?</A>
+<B>Yeah.</B>
+<A><F>Hmm</F>. O K. What's the last movie you saw?</A>
+<B><F>Ah</F> <F>Mm</F> <SC>I wa</SC> <F>er</F> I rental video. <F>Er</F> <SC>Shu</SC> this movie is "Shuri," Korean movie.</B>
+<A><F>Mmm</F>. I see. Was it good?</A>
+<B>Yeah.</B>
+<A>O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Ur</F> now we are almost at the end of the interview. But what are you going to do after this? Are you going to eat <OL><??></??></OL>?</A>
+<B><OL><F>Er</F></OL> <R>I</R> <R>I</R> I go back home.</B>
+<A><F>Oh</F>. <F>Mmm</F>. Then what will you do?</A>
+<B><F>Er</F> after, I play soccer in <R>cir</R> circle.</B>
+<A><F>Ah</F> I see. <F>Hmm</F>. What position do you <OL>play</OL>?</A>
+<B><OL><F>Er</F></OL> I forward.</B>
+<A><F>Ah</F>. So you must be really good. <nvs>laughter</nvs> O K. Have a nice time then. Thank you very much for <OL>coming</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

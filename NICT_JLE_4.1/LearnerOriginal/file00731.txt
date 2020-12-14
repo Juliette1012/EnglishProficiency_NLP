@@ -1,0 +1,210 @@
+<interview>
+<filename>file00731.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>Yes. <F>Er</F>.</B>
+<A><F>Um</F>.</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>I'm fine. <R>But</R> <F>er</F> but <R>sleep</R> sleepy.</B>
+<A>Sleepy?</A>
+<B><OL>Sleepy</OL>.</B>
+<A><OL><F>Err</F></OL>. Why?</A>
+<B><F>Er</F> <.></.> <F>er</F> <R>I</R> I went to bed yesterday <.></.> at <SC>two</SC> one or two.</B>
+<A><.></.> What were you doing?</A>
+<B><F>Hmm</F>. <F>Er</F> <R>I</R> I was <R>doing</R> doing my homework yesterday.</B>
+<A><F>Hm</F>. What do you study in <H pn="school name1">XXX03</H>?</A>
+<B>Yeah. <SC>I study</SC> I major in economics and politics.</B>
+<A><F>Hm</F>.</A>
+<B><..></..> But <R>they</R> they are too difficult <laughter>for me</laughter>.</B>
+<A><nvs>laughter</nvs> I see.</A>
+<B><F>Eh</F>.</B>
+<A>Then, why did you choose that major?</A>
+<B>Yeah. Because <..></..> <R>my</R> <SC>my major <.></.> subject <.></.> <R>was</R> <.></.> <F>er</F> <SC>was</SC> is</SC> <..></..> <R>I</R> I'm interested in this subject.</B>
+<A><F>Er</F> that's good. O K. Then, <nvs>cough</nvs> when you are not busy,</A>
+<B>Yeah.</B>
+<A>what do you do?</A>
+<B><.></.> <R>I</R> I usually sleep or <F>eh</F> <SC>reading</SC> read books or play with my friends.</B>
+<A>I see. <F>Hm</F>. What kind of books do you read?</A>
+<B><F>Er</F>. <.></.> I read <SC>novels or</SC> <.></.> novels. <F>Eh</F>.</B>
+<A>Novels.</A>
+<B>Novels.</B>
+<A>O K. All right. And <F>er</F> do you belong to any club or circle?</A>
+<B>Yes. <JP><F>Eeto</F></JP> I belong to baseball circle <SC>and I</SC> my <?>role</?> is pitcher.</B>
+<A><F>Hm</F>. I see. Do you play games with other teams?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B>Sometimes <.></.> I <.></.> <SC?>play</SC?> pitch in a game.</B>
+<A><F>Hm</F>. O K. So tell me more about your team.</A>
+<B>Yes. <JP><F>Ee</F></JP> my team's <R>member</R> <F>er</F> member is <R>forty-five</R> forty-five members. And first grade student is seven members. <.></.> <R>My</R> <SC>my team was</SC> <.></.> my team won the tournament <.></.> to best eight. <.></.></B>
+<A><F>Uum</F>. That's good.</A>
+<B>But <JP><F>eh</F></JP> <R>semi-final</R> <..></..> semi-final game we cannot go.</B>
+<A>That's too bad. I see. <F>Hm</F>. Did you see American League's play off yesterday?</A>
+<B><laughter>Yes</laughter>.</B>
+<A><nvs>laughter</nvs> What did you think about it?</A>
+<B>Yeah. I'm very <?>critique</?> about that.</B>
+<A>Yeah. <OL><laughter>Thank you</laughter>, all right</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>So please take a look at this picture.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><??></??></OL> describe <?>the</?> picture.</A>
+<B>A girl, yeah, <.></.> is <SC>hopping</SC> <.></.> <F>eh</F> jumping <??></??>. <..></..> Yeah. And the boys playing with a ball. And <R>the</R> the man running. <JP><F>Eh</F></JP>. <.></.> The woman talking about something.</B>
+<A><F>Uhu</F>.</A>
+<B>The cat <.></.> <JP><F>eh</F></JP> sleeping <R>on</R> on the car. And the man read newspaper. <.></.> The sun is very fine.</B>
+<A><F>Um</F>. <.></.> O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Is there any difference between your neighborhood and this picture? <OL><nvs>cough</nvs></OL></A>
+<B><OL><F>Hm</F></OL>. Between the houses <.></.> is <.></.> very <?>road</?>. <R>And</R> and <SC>trees</SC> <.></.> there are <SC>trees</SC> four trees. But <JP><F>eh</F></JP> <R>our</R> our neighborhood we cannot see <SC>those trees</SC> like those trees. <..></..></B>
+<A>O K. Then, what do you like about your neighborhood?</A>
+<B><F>Hmm</F>. <..></..> I like <SC>my</SC> about my neighborhood is <..></..> <SC>the houses very</SC> <..></..> houses' distance very short.</B>
+<A><F>Uhu</F>.</A>
+<B>That's I like.</B>
+<A>O K. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now <H pn="B's name">XXX02</H>, let's have a role-play.</A>
+<B>Yes.</B>
+<A>O K?</A>
+<B><F>Hm</F>.</B>
+<ctxt>interviewer is taking out a role card</ctxt>
+<A>This is your card. Please read it to yourself. And when you are ready, I'll start the conversation.</A>
+<ctxt>Interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>This is telephone conversation. Trun-trun. <JP>Gacha</JP>. Hello?</A>
+<B><OL>Hello</OL>?</B>
+<A><OL>This</OL> is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Yes. This is <H pn="B's name">XXX02</H> speaking.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. What's up?</A>
+<B><.></.> <R>Let's go</R> let's go to the <R>mo</R> movie theater with me.</B>
+<A><F>Oh</F> sounds great.</A>
+<B><JP><F>Eh</F></JP> what time <R>should we</R> <..></..> should we go to the movie?</B>
+<A><F>Err</F> how about five o'clock?</A>
+<B>O K. <.></.> <R>How</R> <SC>how we go there</SC> how do we go there?</B>
+<A><F>Um</F>. So where are we going?</A>
+<B><.></.> <F>Eh</F>. <.></.></B>
+<A>So where is the movie theater you want to go to?</A>
+<B><F>Oh</F>.</B>
+<A><F>Um</F>.</A>
+<B><JP><F>Ee</F></JP> I would like to go Shinjuku.</B>
+<A><F>Oh</F>. O K.</A>
+<B>O K.</B>
+<A><F>Um</F>. Shinjuku?</A>
+<B>Shinjuku.</B>
+<A><F>Um</F>.</A>
+<B>So <SC>how we go</SC> how do we go <OL>there</OL>?</B>
+<A><OL><F>Oh</F></OL>. I'm going by J R.</A>
+<B>J R?</B>
+<A><F>Uhu</F>.</A>
+<B><R>I</R> I will go by Seibu Shinjuku <OL>Line</OL>.</B>
+<A><OL><F>Uhu</F></OL> <F>uhu</F>.</A>
+<B><R>So</R> <F>er</F> <F>er</F> <.></.> <F>err</F> <SC>so we</SC> so I <R>wait</R> wait <F>um</F> in front of <.></.> Shinjuku <JP>eki</JP>.</B>
+<A>O K. <CO>I s</CO>. At five?</A>
+<B>At five.</B>
+<A>All right. Thank you very much. Thank you for calling.</A>
+<B>Thank you for calling.</B>
+<A><OL>Yeah</OL>.</A>
+<B><OL>Good-bye</OL>.</B>
+<A>Good-bye. See you later.</A>
+<B>See you later.</B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A><F>Er</F> role-play is over. Do you sometimes see a movie?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B><R>I</R> I was going to <F>uu</F> movie theater <F>er</F> <.></.> <SC>thir</SC> three weeks ago.</B>
+<A><F>Um</F>.</A>
+<B>And <R>I</R> I <?>saw</?> "<JP>Sento Chihirono Kamikakushi</JP>".</B>
+<A><F>Err</F> I see. <F>Hm</F>.</A>
+<B>That's too wonderful.</B>
+<A>Wonderful.</A>
+<B>Wonderful.</B>
+<A><F>Um</F>.</A>
+<B>That's very wonderful.</B>
+<A>I see. <F>Um</F> when you want to see a movie, how do you choose the movie <OL>you see</OL>?</A>
+<B><OL><F>Hm</F></OL>. <SC>I go</SC> the movie, yeah, was very broadcasted on T V. So <.></.> <R>I</R> I'm very interested in this movie.</B>
+<A><F>Um</F>. I see. <F>Hm</F>. But isn't it expensive to see a movie in Japan?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B>A little <laughter>expensive</laughter>.</B>
+<A><F>Um</F>.</A>
+<B><.></.> <R>I</R> I'd like to go to more <.></.> cheaper.</B>
+<A><F>Hm</F>. Then, how about watching movies on video?</A>
+<B>No. <SC>M</SC> I don't have video <JP>dekki</JP>.</B>
+<A><nvs>laughter</nvs></A>
+<B>So <.></.> when I would like to <SC>movie</SC> go <F>mm</F> see movie, I have to go to movie theater.</B>
+<A>I see. <F>Hm</F>. Good. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'll show you one more picture.</A>
+<ctxt>Interviewer is taking out a card.</ctxt>
+<A>Here you are. This time, please make a short story based on these six pictures. O K? But this happened last week. Please start your story with "One day last week". O K. You can take a minute to think of a story.</A>
+<ctxt>Interviewee is looking at the pictures.</ctxt>
+<A>O K. If you are ready, please start.</A>
+<B>One day last week, <.></.> the <R>rain</R> rainy day we walk <.></.> <SC>about</SC> <F>mm</F> around my house. <..></..> <SC>When</SC> <..></..> <R>tha</R> that time, <.></.> I heard <.></.> something. <..></..> Then, <.></.> I searched around there. <R>A little</R> a little cat in the box. <R>My girl friend</R> <..></..> my girl friend <..></..> bring the cat to me and said, "<R>I'd</R> <R>I'd</R> <SC>I'd like to this</SC> I'd like to have this cat.". But I said, "No.". But <R>she</R> <SC>she don't <.></.> hear me</SC> she didn't hear me. <R>So</R> <..></..> <SC>so I</SC> <..></..> so we <.></.> take the cat <F>uh</F> and <.></.> went back to home.</B>
+<A><F>Um</F>. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. So <H pn="B's name">XXX02</H>, have you ever had a pet?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B>I have a dog.</B>
+<A>Dog? <F>Mh-hmm</F>.</A>
+<B>But the dog was go <laughter>away</laughter>.</B>
+<A><nvs>laughter</nvs> I see.</A>
+<B>Go away.</B>
+<A><F>Um</F> <F>um</F>. But how did you get the dog?</A>
+<B><F>Er</F> <R>I</R> I brought the dog <F>eh</F> from my neighborhood.</B>
+<A><F>Hum</F>. <.></.> And how did you take care of him or her? <laughter>I don't know</laughter>. How did you care of it <.></.> when the dog was at your house?</A>
+<B><.></.> Please one more time.</B>
+<A>O K. Did you take care of your dog?</A>
+<B><..></..> Sometimes.</B>
+<A><F>Um</F>. <CO><OL>What</OL></CO>.</A>
+<B><OL><SC>I ca</SC></OL> I take care my dog.</B>
+<A><F>Uhu</F>.</A>
+<B>But usually,</B>
+<A><F>Hm</F>.</A>
+<B><F>eh</F> my mother <SC>take</SC> takes care of the dog.</B>
+<A>I see. <F>Hm</F>. <F>Uhu</F>. O K. All right. <F>Uh</F>. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost ending. Thank you for coming today.</A>
+<B>Thank you very much.</B>
+<A><F>Um</F>. <F>Err</F> what are you going to do this afternoon?</A>
+<B><F>Err</F> <R>I</R> I don't have <??></??> <SC>nothing</SC> <SC>something</SC> anything special.</B>
+<A><F>Um</F>. That's good. O K. The weather is beautiful. <CO>So</CO>.</A>
+<B>So <.></.> I'd like to go somewhere.</B>
+<A><F>Um</F>. That's good. O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,173 @@
+<interview>
+<filename>file00955.txt</filename>
+
+<head version="1.3">
+<date>2002-01-29</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>travel_beginner</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B>Fine, thank you.</B>
+<A>Good. All right. <F>Urm</F> so <H pn="B's name">XXX02</H>, where is your hometown?</A>
+<B>My hometown is <.></.> <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F> <F>uhm</F>. Please tell me about your <.></.> neighborhood.</A>
+<B><.></.> Neighbor? <..></..></B>
+<A>What is around your house?</A>
+<B><..></..> Hometown? <..></..> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <?>Anything</?>.</A>
+<B><.></.></B>
+<A>Are there big buildings?</A>
+<B><.></.></B>
+<A>Or stores?</A>
+<B><..></..></B>
+<A>No? <nvs>laughter</nvs></A>
+<B><F>Urr</F>. <..></..></B>
+<A>It's O K. All right.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Urm</F></OL> <nvs>cough</nvs> are you living with your family?</A>
+<B>Yes.</B>
+<A>Yes? Please tell me about your family.</A>
+<B><..></..> Father and mother.</B>
+<A>O K. What does your mother do <.></.> every day?</A>
+<B><.></.> Cleaning. <.></.> Shopping. <.></.></B>
+<A><nvs>laughter</nvs> Do you help her?</A>
+<B><.></.> <F>Uhm</F> <..></..> a little.</B>
+<A><F>Uhm</F>. Doing what?</A>
+<B>Shopping.</B>
+<A><F>Ah</F> I see. Where do you like to go shopping?</A>
+<B>Yes.</B>
+<A>Where?</A>
+<B><F>Er</F>? <.></.></B>
+<A>In Shibuya or?</A>
+<B>Ebisu.</B>
+<A><F>Uhm</F>. Why Ebisu?</A>
+<B><..></..> <SC>Many store</SC> there is many store.</B>
+<A><F>Uh-huh</F>. O K. <.></.> O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>So <H pn="B's name">XXX02</H>, what are your hobbies?</A>
+<B><.></.> My hobby is <..></..> listen to music, <..></..> playing tennis.</B>
+<A><F>Uhmm</F>. <.></.> I see. <F>Urm</F> <.></.> when did you start tennis?</A>
+<B><..></..></B>
+<A>It's O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Urm</F> what is interesting</A>
+<B>Yes.</B>
+<A>about tennis?</A>
+<B><.></.> <F>Uhmm</F>. <..></..></B>
+<A>Do you like outdoor sports?</A>
+<B><.></.> Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>Yes? <F>Uhm</F> O K. Now, I'm going to show you a picture.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>Please tell me about this picture. Anything.</A>
+<B><..></..> In restaurant. <..></..></B>
+<A><F>Uh-huh</F>.</A>
+<B>Drinking wine. <..></..> <SC>There is a</SC> <.></.> <F>er</F> there is <.></.> tree.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> It's seven. <.></.> <F>Uhm</F>? <.></.></B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> <R?>Many</R?> many drink. <..></..></B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you. Do you like this kind of restaurant?</A>
+<B>No.</B>
+<A><nvs>laughter</nvs> Why not?</A>
+<B><..></..> It's not <??></??>.</B>
+<A><F>Uhm</F>. <.></.> O K. So tell me about your favorite restaurant.</A>
+<B><.></.> My favorite restaurant is <..></..> family restaurant.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhmm</F> <.></.> O K. <nvs>laughter</nvs> All right. Now, we are going to do a role-play. O K? Please</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>read this. And when you're ready, I will begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K? May I help you?</A>
+<B><.></.> Yes. <.></.> I want <.></.> <F>er</F> go to Hawaii</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> <?>in a</?> week. <..></..> I want <.></.> <?>buying</?> ticket.</B>
+<A>O K. <F>Urm</F> how many people <.></.> are going?</A>
+<B><.></.> One.</B>
+<A>O K. Do you want first class or economy?</A>
+<B>Economy, <OL>please</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> All right. <F>Urm</F> what day next week, do you want to go?</A>
+<B><.></.> Monday. <.></.></B>
+<A>O K. <F>Urm</F> <.></.> all right. What do you want to do in Hawaii?</A>
+<B>I want <.></.> to swimming.</B>
+<A><F>Uhm</F>. O K. So let me book a ticket. O K? It is <.></.> <F>urrm</F> <.></.> one hundred thousand yen.</A>
+<B>O K.</B>
+<A>O K? All right. So here is the ticket.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Thank you. This is the end of the role-play. <F>Uhm</F> do you like to travel?</A>
+<B><.></.> Yes.</B>
+<A><F>Oh</F>.</A>
+<B><..></..></B>
+<A><nvs>laughter</nvs> What do you usually do <.></.> when you travel?</A>
+<B><..></..> One more, please?</B>
+<A>What do you usually do <.></.> when you travel? Do you go swimming? <nvs>laughter</nvs></A>
+<B><laughter>No</laughter>. <JP><F>Ee</F></JP> shopping.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhmm</F>. <..></..></B>
+<A>Do you go to duty-free? <nvs>laughter</nvs></A>
+<B><.></.> Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><laughter><F>Oh</F> really</laughter>? O K. All right. Now the last thing, I'm going to show you another picture. O K? Here are four pictures, one, two, three, four. Please make a story. O K?</A>
+<B>O K.</B>
+<A>Please.</A>
+<B><..></..> In a fine day, <.></.> a girl <?>and</?> <?>a</?> boy <SC>going</SC> go to <.></.> a zoo. <..></..> They are <..></..> looking <..></..> lion.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> They are <..></..> looking monkey and <..></..> eat ice cream.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> And going to home.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you. <.></.> <F>Urm</F> <.></.> do you like going to the zoo?</A>
+<B>Yes.</B>
+<A>Yeah? <F>Uhm</F>. <..></..> What's interesting?</A>
+<B><..></..> <F>Uhmm</F> I like <..></..> elephant.</B>
+<A><F>Uh-huh</F>. Why?</A>
+<B><F>Uhm</F> <.></.> I don't know.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uhm</F>. O K. <.></.> All right. So we are almost finished with this interview. <F>Uhm</F> <F>urm</F> are you shopping at Ebisu today?</A>
+<B><.></.> No.</B>
+<A>No? <nvs>laughter</nvs> <.></.> Do you have plans?</A>
+<B><.></.></B>
+<A><F>Uh-huh</F>?</A>
+<B>Today?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> after school, <..></..> I'm <R>go</R> go home. <.></.></B>
+<A><F>Uh-huh</F>. O K. So please <.></.> relax at home. <nvs>laughter</nvs> O K. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,183 @@
+<interview>
+<filename>file00627.txt</filename>
+
+<head version="1.3">
+<date>2001-10-12</date>
+<sex>male</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>510</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>O K. So, how are you today?</A>
+<B><F>Um</F>. Fine. <F>Mm</F>. But I'm tired.</B>
+<A>You're tired?</A>
+<B>Yes.</B>
+<A>Are you busy?</A>
+<B><F>Uh</F>. Busy. Because, <F>um</F> <R>this week</R> <F>um</F> this week, <F>mm</F> I have only <R>four busi</R> four business day. <F>Um</F>. <SC>But</SC> <F>um</F> and, <F>um</F> this day, <R>I</R> <F>um</F> I <R>went</R> went out to attend meeting. <F>Um</F>. <SC>And <F>mm</F> <F>mm</F> <R>I</R> I have</SC> and <SC>I had</SC> <F>mm</F> I have <SC>three</SC> only three days.</B>
+<A><F>Err</F>. I see. <F>Hum</F>. O K. Then, please tell me about your job a little bit.</A>
+<B><F>Um</F>. <SC>Main</SC> <F>um</F> my main work is <F>um</F> screening <F>um</F> new herbiside.</B>
+<A>I see. <F>Um</F>. O K. And, when you feel very tired what do you do?</A>
+<B><F>Um</F>. <nvs>laughter</nvs></B>
+<A>What do you do to release your stress?</A>
+<B>Release? <F>Um</F> <F>mm</F> <F>uum</F> <F>um</F> <F>um</F>. I go to <F>um</F> hot spring. <F>Mm</F>. I like hot spring. <F>Um</F>.</B>
+<A>Is there any good hot spring around here?</A>
+<B>Around here, <F>uum</F> <SC>usually, I went</SC> <F>uh</F> usually, I go to <F>mm</F> public spa.</B>
+<A><.></.> O K. So, please tell me about your favorite public spa.</A>
+<B>Public <laughter>spa</laughter>? <R>My</R> <F>uum</F> my favorite public spa is <F>um</F> "<H pn="others1">XXX03</H> <JP>Yasuragi No Yu</JP>". <F>Mm</F> <F>mm</F> <F>uhm</F> <F>err</F>. "<H pn="others1">XXX03</H> <JP>Yasuragi No Yu</JP>" is in <F>um</F> <H pn="others1">XXX03</H> city near Route Fifty. <R>And</R> <F>um</F> <.></.> and there are <R>many</R> <F>uh</F> many bath <F>um</F> and sauna and <.></.> steam bath. <F>Um</F>. <R>I like</R> <F>um</F> I like it.</B>
+<A><F>Err</F>. That's good. So, is it open twenty-four hours?</A>
+<B><F>Um</F>. No, <F>mm</F> <F>uum</F> <R>it's opens</R> it's opens <F>uum</F> <.></.> about <F>um</F> <..></..> <SC>ten to</SC> <F>um</F> <R>ten A M</R> ten A M to <.></.> twelve P M.</B>
+<A>I see. <F>Hum</F>. That's good. O K. And, do you have any hobbies?</A>
+<B><F>Mm</F>. <R>I like to watch</R> I like to watch the movie.</B>
+<A>Did you see any movies recently?</A>
+<B>Recently? <F>Mm</F>. Recently, <R>I</R> <F>mm</F> I saw <F>um</F> <F>uh</F> Japanese animation. <F>Um</F>. <R>That t</R> that title is <F>mm</F> "Sento Chihiro No Kamikakushi". <F>Mm</F> <F>um</F>. It's good movie.</B>
+<A>I see. Then, when you see a movie, so, how do you choose?</A>
+<B>How do you choose?</B>
+<A>Yeah. The movie to see.</A>
+<B>How? How? <OL>That's difficult questions</OL>.</B>
+<A><OL>So there are many good movies</OL>, yeah, why did you see the "Sento Chihiro No Kamikakushi"?</A>
+<B><F>Uum</F> <F>uum</F>. Just a moment, please. <F>Uum</F>. <..></..> Because <F>uh</F> I saw T V commercial or <F>mm</F> <F>mm</F> news. <F>Um</F>. <R>I</R> <R>I want to</R> I want to go see <R>tha</R> that movie. <F>Um</F>.</B>
+<A><F>Um</F> <F>um</F>. I see. Good. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like to show you a picture. <.></.> Here you are. And, please describe the picture.</A>
+<B><F>Um</F> <F>um</F>. This is a restaurant. <F>Um</F>. There are three tables. <F>Um</F>. Three couples <R>are</R> are eating. <F>Mm</F>. <.></.> And, <R>the ce</R> the center table, <F>um</F> <.></.> now <F>mm</F> <SC>sommelier is</SC> sommelier recommends today's special wine. <R>And, now</R> and, now <F>um</F> <.></.> <F>um</F> the man is tasting <R>tha</R> that wine. <..></..></B>
+</task>
+<followup>
+<A>O K. So, <H pn="B's name">XXX02</H>, <nvs>coughs</nvs> do you sometimes eat out?</A>
+<B>Yes.</B>
+<A><F>Um</F>. So, tell me about your favorite restaurant?</A>
+<B>Favorite restaurant? <F>Mm</F> <F>mm</F>. <R>I like</R> I like <F>mm</F> Italian and <F>mm</F> Japanese <JP>sushi</JP>. <F>Mm</F>.</B>
+<A>Is there any good restaurant in <H pn="others1">XXX03</H>?</A>
+<B><F>Um</F>. Yes. <F>Uh</F> <F>uh</F>. <.></.> When I eat <JP>sushi</JP>, <F>um</F> <F>um</F> <R>I</R> <SC>I go <F>um</F> re</SC> <F>er</F> I go <.></.> "Super-<JP>Kaitenzushi</JP>". <laughter><SC>That round</SC> <R>that</R></laughter> that <JP>sushi</JP> <.></.> shop, <F>um</F> <.></.> <JP>sushi</JP> is <laughter>rounding</laughter>.</B>
+<A><F>Uhu</F>. O K. So, what is the good point of such a <JP>sushi</JP> bar?</A>
+<B><F>Um</F> <F>mm</F>. <R>We can choose</R> <SC>we can choose di</SC> we can choose the <SC>dish <F>mm</F> <F>mm</F> to</SC> <F>uh</F> dish <F>um</F> that <F>um</F> we want to eat. <F>Mm</F>.</B>
+<A>I see. <F>Um</F>. Then, what are the disadvantage or bad point?</A>
+<B>Bad point? <F>Uum</F>.</B>
+<A>Compared to regular <JP>suchi</JP> bar.</A>
+<B>Regular <JP>sushi</JP> bar? <F>Err</F>. <.></.> Regular <JP>sushi</JP> bar is more quiet, <F>um</F> but <JP>kaiten zushi</JP> <R>is</R> <F>mm</F> <.></.> is <R>lou</R> <R>lou</R> loudly. <F>Mm</F>. Because <F>mm</F> many family come, and <SC>many chil</SC> <laughter>there are many children</laughter>. <F>Um</F>.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role play.</A>
+<B>Yes.</B>
+<A>O K. This is your card. Please read it to yourself. And, when you are ready, I start. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>May I help you, sir?</A>
+<B>Yes. <F>Um</F>. <R>I want to</R> <F>um</F> I want to go to travel abroad. <F>Mm</F>. Where is recommend?</B>
+<A>How about Indonesia?</A>
+<B>Indonesia? <OL><F>Er</F></OL>.</B>
+<A><OL>Or</OL> other Asian countries?</A>
+<B>Asian country? Why do you recommend me Indonesia?</B>
+<A><F>Um</F>. There are many beautiful beaches.</A>
+<B>Beach. <F>Um</F>. <R>Indonesian</R> <SC>Indonesian <F>um</F> dishes is good</SC> <F>um</F> is Indonesian dishes good?</B>
+<A>Yes. It's very good. Yeah. <??></??> <F>um</F> spicy.</A>
+<B>Spicy? <F>Uh</F> <F>mm</F>. <.></.> <F>Uh</F>. <R>How ma</R> <F>uh</F> <R>how many</R> <F>mm</F> how many <R>it</R> it costs <F>mm</F> for travel?</B>
+<A><F>Uh</F>. You mean a package tour?</A>
+<B>Package tour.</B>
+<A>O K. So, one week, about <F>uh</F> a hundred and fifty thousand yen.</A>
+<B><F>Oh</F>. Hundred fifty thousand yen?</B>
+<A><F>Um</F>. One hundred fifty <OL>thousand yen</OL>.</A>
+<B><OL>One hundred</OL>. <.></.> <F>Oh</F>. <.></.> <F>Mm</F>. <.></.> <F>Um</F>. <.></.> <SC>If I did</SC> <F>uh</F> if I went to another Asian country, <F>mm</F> <R>where is</R> where is good?</B>
+<A>O K. So, Malaysia or Thailand.</A>
+<B>Thailand?</B>
+<A><F>Uhu</F>. Yes.</A>
+<B><.></.> <F>Mm</F>. <R>I</R> <F>uh</F> <SC>I haven't</SC> <F>uh</F> I have been Thailand. <R>And</R> and I haven't been <F>mm</F> Malaysia. <F>Mm</F>. <SC>Malay</SC> <F>mm</F> <SC>what is Malaysia</SC> <F>uh</F> what is best point of Malaysia?</B>
+<A><F>Hum</F>. O K. So also, there are many beautiful beaches.</A>
+<B>Beaches?</B>
+<A><F>Uh-huh</F>. And you can relax on the beach. You can do scuba diving</A>
+<B>Scuba diving?</B>
+<A>and tennis, golf, whatever.</A>
+<B><F>Hum</F> <F>um</F>. Which is cheaper <F>um</F> Malaysia <SC>and</SC> or Indonesia?</B>
+<A><F>Ah</F>. Malaysia is cheaper, I think.</A>
+<B><F>Oh</F>. <.></.></B>
+<A>O K?</A>
+<B>O K.</B>
+<A>So I'll give you some pamphlet.</A>
+<B>Yes.</B>
+<A>O K? So, please take them home and think of it. O K?</A>
+<B>Thank you.</B>
+<A>Thank you very much. So role play is over. O K, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A><F>Um</F> <F>ah</F>. <.></.> <SC>Did you go any</SC> did you go to any foreign countries?</A>
+<B><F>Um</F> <F>um</F>. I went to Thailand.</B>
+<A><F>Ah</F>. I see. So, what did you do in Thailand?</A>
+<B><F>Um</F>. That trip is business trip.</B>
+<A><F>Err</F>.</A>
+<B>I had to <SC>attend <F>um</F> meeti</SC> <F>er</F> attend, <F>uum</F> <.></.> <F>uh</F> sorry, <F>uum</F> <..></..> <F>um</F> <.></.> <SC>Asian Pacific Research</SC> <F>er</F> Asian Pacific With Research <F>um</F> Association <F>um</F> Meeting.</B>
+<A>I see. So, what was <SC>the</SC> your impression of Thailand?</A>
+<B>Thailand? <F>Um</F>. <R>Thai</R> <F>um</F> Thailand food is <SC>very beau</SC> <F>uh</F> very good. <F>Uum</F>. <SC>And Thailand</SC> <F>um</F> and <F>um</F> there are many beautiful place. <F>Mm</F>.</B>
+<A>I see. Do you want to visit Thailand again?</A>
+<B>Yes. <F>Um</F>.</B>
+<A>That's good. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'd like to show you one picture, <.></.> another picture. O K? <.></.> O K. So, please make a short story using <F>uh</F> six pictures. O K? But this happened last week.</A>
+<B>Last week?</B>
+<A>So, please start your story with "One day last week".</A>
+<B><F>Um</F>.</B>
+<ctxt>The interviewee is looking at the picture and thinking.</ctxt>
+<B>One day last week, <F>um</F> <..></..> she wanted to cook, and <SC>she search the</SC> <F>uh</F> she searched her refrigerator. But <R>she couldn't</R> <.></.> she couldn't find anything. <F>Um</F>. And <R>she went to</R> <R>she went to</R> <F>um</F> she went to supermarket to buy <F>um</F> some grocery. <.></.> And, <.></.> in supermarket, <R>sh</R> <R>sh</R> <F>um</F> <R>she</R> <..></..> <F>mm</F> <R>she</R> <..></..> she choise <R>many food</R> <..></..> many food. And <R>she</R> <..></..> she went back her home by car. <F>Um</F>. <.></.> After that, <F>um</F> <.></.> she cooked <F>mm</F> <..></..> fried egg <R>and</R> <.></.> <F>um</F> and some soups.</B>
+<A><F>Uum</F>. Thank you.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, do you like to cook?</A>
+<B>Yes.</B>
+<A><F>Ah</F>. So, what's your favorite dish?</A>
+<B>Favorite dish? <F>Um</F> <F>um</F>. I like <F>um</F> Japanese dish. <F>Um</F>.</B>
+<A>For example?</A>
+<B><R>For example</R> <F>uum</F> for example, <F>uum</F> <.></.> <F>um</F> <R>bo</R> boiled fish or <F>mm</F> <.></.> burned <F>uh</F> fish.</B>
+<A>I see. <F>Oh</F>. Then, how did you learn cooking?</A>
+<B>How?</B>
+<A><.></.> Who taught you cooking?</A>
+<B><F>Um</F> <F>mm</F>. <R>My mo</R> my mother <F>um</F> taught me. <F>Mm</F>. <.></.></B>
+<A>I see. Then, <.></.> <F>uh</F> when you go shopping for groceries, <F>err</F> <F>err</F> what kind of things do you keep in mind?</A>
+<B>Keep in mind?</B>
+<A><F>Um</F>. Yeah. <R>So</R> <nvs>coughs</nvs> so, when you go to supermarket, and when you choose food.</A>
+<B><F>Uh</F>. <..></..> When I select grocery, <F>um</F> <F>um</F> <R>which is</R> which is fresh. <F>Um</F>. And <F>um</F> <SC>that price <F>um</F> is</SC> <F>uh</F> is that price <F>um</F> reasonable? <.></.></B>
+<A>Anything else?</A>
+<B>Anything. <F>Mm</F>. <..></..></B>
+<A>Then, how can you see which one is <SC>fresher</SC></A>
+<B><OL>Fresher</OL>?</B>
+<A><OL>more</OL> fresh than the other?</A>
+<B><F>Um</F>. When <R>I</R> I select vegetable, <F>um</F> <F>um</F> <F>um</F> <R>I see</R> <R>I see, <R>and</R> <F>err</F> and</R> <F>er</F> <F>ah</F> sorry, <F>um</F> <..></..> <F>uh</F> I see and <R>com</R> compare <R>which is</R> which is fresh. <F>Um</F>. And <R>another</R> <F>um</F> another way. <F>Um</F>. When I select <F>um</F> milk, <F>um</F> <F>um</F> <SC>that</SC> I check that date. <F>Um</F>. And <R>I</R> I buy <F>um</F> <R>more</R> <F>um</F> more fresh. <F>Mm</F>.</B>
+<A><F>Wow</F>. That's great. O K. All right. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost over.</A>
+<B><OL><F>Er</F> thank you</OL>.</B>
+<A><OL>Thank you</OL> for coming today. Do you have any plans for tomorrow?</A>
+<B>Tomorrow?</B>
+<A>Yeah. This weekend.</A>
+<B>This weekend? <F>Um</F> <F>uum</F>. I will have my hair cut.</B>
+<A><F>Uh-huh</F>. I see. <F>Wow</F>. That's good. O K. So I hope you have a good day.</A>
+<B><F>Er</F>. <OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL>.</A>
+</stage5>
+</body>
+</interview>

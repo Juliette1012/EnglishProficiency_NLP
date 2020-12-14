@@ -1,0 +1,171 @@
+<interview>
+<filename>file01091.txt</filename>
+
+<head version="1.3">
+<date>2002-04-12</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>560</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Well</F> nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ur</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>,</A>
+<B>Yes.</B>
+<A>where are you from?</A>
+<B><F>Urm</F> I from <F>urm</F> <H pn="others1">XXX03</H>.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Um</F>. <.></.></B>
+<A>O K. <H pn="others1">XXX03</H> is a big city. So where in <H pn="others1">XXX03</H> <OL>are you from</OL>?</A>
+<B><OL><R>I</R></OL> I don't know. <F>Urm</F> I don't <F>ur</F> forget this place. <.></.></B>
+<A><F>Mm-hm</F>. O K. <F>Ur</F> where were you born?</A>
+<B><F>Urm</F> I was born in <H pn="others1">XXX03</H>. <F>Erm</F> <SC>to</SC> <F>mm</F> <.></.> <SC>me</SC> <F>uhm</F> <SC>I was</SC> <..></..> <SC>but</SC> <F>mm</F> sorry. <nvs>laughter</nvs></B>
+<A>O K. I see. Anyway, in <H pn="others1">XXX03</H>. O K. And now,</A>
+<B>Yes.</B>
+<A>where do you live?</A>
+<B><F>Um</F> I live in <H pn="others2">XXX04</H> <SC><H pn="others3">XXX05</H></SC> near <H pn="others3">XXX05</H> Station.</B>
+<A>O K. Do you like <H pn="others2">XXX04</H>?</A>
+<B>Yes.</B>
+<A><F>Uhh</F>. What do you like about <H pn="others2">XXX04</H>?</A>
+<B><F>Uhm</F> I like the <F>uhm</F> traditional temple and shrine.</B>
+<A><F>Mm</F>.</A>
+<B>And <..></..> I can see <F>ur</F> beautiful sightseeing.</B>
+<A><F>Mhm</F>. O K. So what is your favorite shrine or temple?</A>
+<B><CO><F>Uhm</F> what is your</CO>. <F>Uhm</F> for example, <F>urm</F> <H pn="others4">XXX06</H></B>
+<A><F>Mm-hm</F>.</A>
+<B>and <F>ur</F> <H pn="others5">XXX07</H>.</B>
+<A><F>Uhh</F>. Where is <H pn="others4">XXX06</H>?</A>
+<B><F>Mm</F> <.></.> <SC>the</SC> in <H pn="others2">XXX04</H> Prefecture <F>urm</F> <.></.> west side.</B>
+<A>West side. O K. O K. Mister <H pn="B's name">XXX02</H>, what is your hobby?</A>
+<B>Hobby. <F>Urm</F> my hobby is <F>uhm</F> <SC>play baseball</SC> <F>urm</F> playing baseball and scuba diving and skiing.</B>
+<A><F>Uh</F> O K. So which one do you like best?</A>
+<B><F>Um</F> <SC>I</SC> <F>uum</F> <.></.> most favorite sport is skiing.</B>
+<A>Skiing. O K. How long have you skied?</A>
+<B><F>Um</F> I have been playing skiing for six year.</B>
+<A>Six years. O K. And last winter where did you go for skiing?</A>
+<B><F>Ur</F> last winter. <F>Uhm</F> <R>I</R> I <SC>go to</SC> go skiing <F>mm</F> ten times.</B>
+<A>Ten times. Ten times?</A>
+<B>Yes.</B>
+<A><F>Uhh</F>. Last month, did you go skiing?</A>
+<B>Last, yes.</B>
+<A><F>Uh</F> where did you go?</A>
+<B><F>Um</F> I go to <F>uhm</F> Zaou in Yamagata Prefecture.</B>
+<A><F>Uhh</F>. Was it a good place for skiing?</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Then look at this picture, please.</A>
+<B>Yes.</B>
+<A>And please describe it.</A>
+<B><..></..> <F>Uhm</F>. <.></.> <F>Uhm</F>. <R>He</R> he is running. And two children play <F>ur</F> <.></.> and <.></.> they are fun. And <.></.> there're car on the road. And <R>two</R> <.></.> <F>ur</F> two woman are <R>talking</R> talking now on the road. <F>Uhm</F> <.></.> gentleman <F>um</F> sit on the seat, and reading the newspaper <F>mm</F> <R>ne</R> near the road. And <..></..> there are the big house <SC>on</SC> near the road. <.></.> <SC>The</SC> this house has <SC>the</SC> <..></..> many windows <nvs>cough</nvs> and big garden. <..></..> There're the cat on the <F>um</F> car roof. <..></..> The woman <F>um</F> <F>urm</F> <SC>wal</SC> talking <??></??> the her dog. Two dogs are playing. <..></..> The sun <R>s</R> smiles.</B>
+<A>O K.</A>
+<B><.></.></B>
+</task>
+<followup>
+<A>O K. Thank you very much. Do you want to live in this house?</A>
+<B><F>Urm</F> no.</B>
+<A>No? <OL>Why</OL>?</A>
+<B><OL><R>I</R></OL> I live in <F>um</F> small house <F>mm</F> because <.></.> <F>mm</F> <SC>I</SC> <SC>it's clear</SC> <..></..> <F>mm</F> <..></..> <SC>clean</SC> <F>uh</F> I clean easily.</B>
+<A><F>Uhh</F> O K. O K. I understand.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then next is role-play.</A>
+<B>Yes.</B>
+<A>O K. O K. This is your card. Please read it.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K. Are you ready?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Then</OL> I will start. Ring ring. Hello, This is Ms. <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello, <F>urm</F> <SC><H pn="B's name">XXX02</H> speaking</SC> this is <H pn="B's name">XXX02</H> speaking.</B>
+<A>O K. Hi, how are you today?</A>
+<B>I'm fine, and you?</B>
+<A>Yes, I'm good. Thank you.</A>
+<B><F>Urm</F> <F>ur</F> let's go to movie together.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Erm</F> <SC>how</SC> <F>mm</F> <SC>what time</SC> <F>mm</F> <..></..> <SC>what</SC> <F>mm</F> <R>when</R> when do you go to movie?</B>
+<A><F>Well</F> I can have time tomorrow.</A>
+<B>Yes. Tomorrow. <F>Um</F> <SC>where</SC> <nvs>cough</nvs> <SC>how</SC> I want to <F>um</F> go to the movie <F>um</F> by bus. <F>Um</F> how do you go?</B>
+<A>O K. Where is a movie theater?</A>
+<B><F>Urm</F> movie theater is in Osaka.</B>
+<A>Osaka. O K. So I will take J R.</A>
+<B>J R. O K. <F>Uhm</F> and what kind of movie <F>um</F> do you watch?</B>
+<A><F>Well</F> I'd like to watch <F>urr</F> comedy.</A>
+<B>Comedy. <F>Urm</F> so <F>um</F> just now comedy movie is showing.</B>
+<A><F>Mm</F>.</A>
+<B>Let's go to see comedy movie.</B>
+<A>O K. Good idea.</A>
+<B>And see you next tomorrow.</B>
+<A>O K. See you tomorrow.</A>
+<B><OL><F>Uh</F> tomorrow</OL>.</B>
+<A><OL>O K, thank you</OL> for calling. <F>Mm-hm</F>. Bye.</A>
+<B>Bye.</B>
+</task>
+<followup>
+<A>O K. Good. This is the end of role-play. O K. Do you often watch movies?</A>
+<B>Yes.</B>
+<A><F>Uhh</F> what is your favorite kind of <OL>movie</OL>?</A>
+<B><OL>Favorite</OL>. <F>Urm</F> I favorite movie is <F>urm</F> mysterious story.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Mm</F> <F>urr</F> <..></..> <F>mm</F> <R>I</R> <R>I</R> I want to see the <F>um</F> <.></.> <SC>no</SC> unpredicted movie.</B>
+<A><F>Mhm</F>. O K. Why do you like that kind of <OL>movie</OL>?</A>
+<B><OL>Why</OL>? <F>Urm</F> <SC>I see</SC> <R>I</R> <F>mm</F> <.></.> <SC>I</SC> <F>mm</F> I'm exciting the story <F>mm</F> I think the story.</B>
+<A><F>Mhm</F>. O K. Who's your favorite actor?</A>
+<B>Actor. <F>Mhm</F> I like <F>urm</F> <.></.> Jody Foster.</B>
+<A><F>Uhh</F>. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. This is another picture for you. This time, please make up a story.</A>
+<B>Story?</B>
+<A><F>Mm-hm</F>. Using six pictures.</A>
+<B>Yes.</B>
+<A>And this happened before. So please start your story with, "One day last week,"</A>
+<B>Last week?</B>
+<A><F>Mm-hm</F>.</A>
+<B><SC>This sto</SC> <F>uhm</F> <SC>the</SC> before the this story.</B>
+<A>Yes. This happened one day last week.</A>
+<B><CO><F>Uh</F> last <F>uh</F></CO>.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Erm</F>. <..></..> I?</B>
+<A>Yes.</A>
+<B><F>Urm</F> <..></..> <SC>I <F>mm</F> <.></.> listen to</SC> <F>uhm</F> <.></.> <F>mm</F> <.></.> <F>uh</F> I go to the restaurant with my uncle. And the <F>uhm</F> our <F>mm</F> going to the restaurant. <F>Uhm</F> <SC>I eat</SC> <R>I</R> I order the my favorite food. <F>Uhm</F> our eat many food, and <.></.> our are happy. <F>Uhm</F>. <.></.> <SC>I am ve</SC> <F>uh</F> I was very happy. <F>Em</F> <.></.> and <..></..> I said <F>ur</F> bye.</B>
+<A><F>Mm</F>. O K.</A>
+</task>
+<followup>
+<A>O K. Thank you. <F>Ur</F> please tell me about your favorite restaurant.</A>
+<B>Favorite restaurant. <F>Uhm</F> restaurant. <.></.> <F>Urm</F> my favorite restaurant is cheap and <F>urr</F> fast food. <F>Mm</F>. <F>Mm</F> <SC>have</SC> there is fast food in the restaurant.</B>
+<A><F>Mm-hm</F>. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. This is almost the end of interview. And it is Friday today. Are you going out tonight?</A>
+<B>Tonight. <F>Urm</F> no, I go back home, and today <SC>I</SC> I'll go to bed.</B>
+<A><F>Oh</F> O K. Are you very tired?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A>Sleepy?</A>
+<B>Yes.</B>
+<A><F>Uhh</F>. O K. Then I hope you'll have a good rest today.</A>
+<B>Yes. Thank you.</B>
+<A>Thank you very much. <OL>That's all</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,175 @@
+<interview>
+<filename>file01066.txt</filename>
+
+<head version="1.3">
+<date>2002-03-07</date>
+<sex>female</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>640</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. May I have your name, please?</A>
+<B>I'm <H pn="B's name">XXX01</H>.</B>
+<A>Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes, <OL>please</OL>.</B>
+<A><OL>O K</OL>. So how are you today, <H pn="B's name">XXX01</H>?</A>
+<B>I'm fine. And you?</B>
+<A>Yes. I'm fine, too, thank you. It's a beautiful day <OL>today</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Um</F>. Did you enjoy your lunch today?</A>
+<B>Yes, but <nvs>laughter</nvs> <R>I</R> <R>I</R> I took a lunch at my desk.</B>
+<A><F>Huh</F>.</A>
+<B>Because I'm very busy <nvs>laughter</nvs> in this morning.</B>
+<A><F>Wow</F>.</A>
+<B>Yeah.</B>
+<A><F>Well</F>. Could you tell me more about your work now?</A>
+<B><F>Mm</F>. More about?</B>
+<A>Your work.</A>
+<B><F>Ah</F> I'm in charge of technical support in <H pn="company name1">XXX02</H>. And I am responsible for management support engineers <F>er</F> for storage products. <F>Mm</F>. Do you know <.></.> storage products? <nvs>laughter</nvs></B>
+<A><OL>No</OL>.</A>
+<B><OL>Yeah</OL>. Storage products means <F>um</F> back up software. <F>Mm</F>. And <F>um</F> my customers try to back up their servers and if they had <SC>a</SC> any trouble, they <R>try to</R> try to <F>um</F> recover with some tapes and others. Yes.</B>
+<A><F>Ah</F>. Sounds difficult.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><F>Mm</F>. But do you enjoy your work?</A>
+<B>Yeah, but <F>um</F> as I said before, <F>er</F> I'm now very busy and <R>I want to</R> <F>uu</F> <R>I want to</R> <.></.> I want to take <R>f</R> free time more. Yeah.</B>
+<A><F>Um</F> <F>mm</F> <F>mm</F>. Then, how do you release your stress?</A>
+<B><CO>How do you</CO>. <SC>I</SC> <F>mm</F> every day I take a bath for long time at night. And <F>mm</F> sometimes I drink with my friend. <OL>Yeah</OL>.</B>
+<A><OL><F>Hum</F></OL>. Where do you usually go for drink?</A>
+<B><F>Um</F> at Shinjuku or Shimokitazawa.</B>
+<A><F>Ah</F>.</A>
+<B>Yeah.</B>
+<A>Could you tell me some good restaurant for me <??></??>? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yeah</laughter></OL>. But I used to go to <F>um</F> drink bar, <JP><F>unnto</F></JP> in Japanese, <JP>izakaya</JP>, <laughter>so</laughter> <R>I</R> <F>mm</F> I often go to <JP>yakitori</JP> bar or <F>um</F> ethnic food restaurant.</B>
+<A><F>Mm</F>. So what's good about Shimokitazawa and Shinjuku?</A>
+<B>What's good about?</B>
+<A><F>Mm</F>. <CO>To go, <OL>drink or to</OL></CO>.</A>
+<B><OL><F>Ah</F></OL>. Shinjuku is near my office and <F>ahm</F> my friend <F>um</F> belong to the other company <R>i</R> is also near <R>S</R> Shinjuku Station. And it is also good to go to after <F>er</F> work. But <R>I</R> I live in <H pn="others1">XXX03</H>. And</B>
+<A><F>Hum</F>.</A>
+<B><nvs>laughter</nvs> it's very <F>um</F> useful to <F>um</F> go back to my home. And I like Shimokitazawa town very much. And <F>um</F> <SC>there is</SC> there are many <F>um</F> restaurant and shops and the other <F>hm</F> funny place.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A><F>Mm</F>. Good. Thank you.</A>
+<B>You're welcome.</B>
+</stage1>
+<stage2>
+<task>
+<A>Now, first thing today, <F>er</F> could you describe this picture for me?</A>
+<B><F>Mm</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>A woman sitting in the chair <F>um</F> try to show the personal computer display to <SC>he</SC> her pets. But her pets, cats and dog, <F>mm</F> sleeps <SC>at</SC> on a bed or floor. <F>Um</F>. <F>Um</F>. <F>Mm</F>. <F>M</F>. <.></.> I can't see any other person in this room. And <F>mm</F> <.></.> it seems she is <SC>work</SC> working in her room. <CO>And <F>um</F> <.></.> <SC>put typewriter to <F>um</F> any</SC> <F>ahm</F> <.></.> put typewriter and</CO>. <F>Um</F>. <nvs>laughter</nvs> <..></..> <F>Mm</F>.</B>
+<A><F>Mm</F>. <OL>O K</OL>.</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+</task>
+<followup>
+<A>Could you tell me about <R>you</R> your room in <H pn="others1">XXX03</H>?</A>
+<B><F>Ah</F> I have two rooms. And one is a living room. And <R>there are</R> <F>hm</F> <R>th</R> <SC>there are <R>noth</R> nothing to</SC> <F>mm</F> <SC>the</SC> <F>um</F> <R>there i</R> there is nothing <.></.> to <F>mm</F> decorate the room because <F>ahm</F> I only lives in <H pn="others1">XXX03</H> <SC>for half</SC> for a half year. And I am <F>um</F> trying to decorate or put any furniture to put in my room. And <R>other</R> <F>er</F> other room is a bedroom, but it is very <laughter>small</laughter> room. And <R>last</R> last month, I bought a bed, but <nvs>laughter</nvs> it's too large to put in my room, so <nvs>laughter</nvs> there is nothing <SC>a but</SC> <F>er</F> no, except this bed in this room.</B>
+<A><laughter>I see</laughter>.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>So why did you move in <H pn="others1">XXX03</H>?</A>
+<B><F>Ah</F>. <F>Um</F> first, <SC>it is</SC> <F>um</F> <F>er</F> there is a chance to get my room in <H pn="others1">XXX03</H>. And for about a year, <SC>I looked li</SC> looked for my room to buy, but <F>um</F> <.></.> <SC>there were</SC> there was no chance to buy any house. But <F>m</F> <R>last <F>um</F> just</R> <F>um</F> <SC>last</SC> just a year ago, <F>um</F> I had a chance to buy <SC>the</SC> <F>er</F> my room.</B>
+<A><F>Ah</F> great.</A>
+<B>Yeah.</B>
+<A>Good. O K. <laughter>Thank you</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, <F>er</F> now please, O K, read this card. So we will do a role-play.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL><F>Hum</F></OL>. And when you are ready, I'll start. O K?</A>
+<ctxt>The interviewee reads the card for a while</ctxt>.
+<A>O K?</A>
+<B>Yeah.</B>
+<A>O K. Hi. May I help you?</A>
+<B><F>Ah</F> I <SC>'d</SC> would like to go to New York station <F>um</F> <SC>at the</SC> <F>um</F> <F>er</F> <SC>at</SC> as soon as possible, so please let me know how to go to New York.</B>
+<A><F>Mm</F>.</A>
+<B>Yes.</B>
+<A>So there are many trains go to New York form the station.</A>
+<B><F>Mm-hum</F>. <F>Um</F>. Which train <SC>is the</SC> <F>um</F> <.></.> is <.></.> fastest?</B>
+<A><F>Ah</F> the fastest one is super express train.</A>
+<B><F>Mm-hum</F>. <F>Um</F>. How can I take a ticket for the express?</B>
+<A><F>Ah</F> I can sell <OL>the ticket</OL> right here.</A>
+<B><OL>Yeah</OL>. How much is it?</B>
+<A>Super express?</A>
+<B><F>Mm</F>.</B>
+<A>It's one hundred fifty dollars.</A>
+<B>Yeah. <.></.> Thank you. <nvs>laughter</nvs></B>
+<A>O K. You want a ticket?</A>
+<B>Yeah.</B>
+<A>O K? O K. Here it is.</A>
+<B>Thank you.</B>
+<A>O K. O K.</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A><OL>This is</OL> the end of the role-play. Thank you.</A>
+</task>
+<followup>
+<A><F>Ahm</F>. Do you like traveling?</A>
+<B>Yes.</B>
+<A><F>Ah</F>.</A>
+<B><F>Um</F>.</B>
+<A>Could you tell me the last place you traveled?</A>
+<B>Yeah. Travel. <F>Mm</F>. <.></.> <F>Um</F>. <R>I</R> <R>I</R> I've not to go to abroad <R>for</R> for three years. <F>Um</F>. But <F>um</F> <.></.> <R>I</R> <F>um</F> <R>I</R> <R>I went to</R> <F>um</F> <.></.> <SC>I went to</SC> <R>I went</R> <.></.> I went to Honk Kong <F>mm</F> for three years ago. <SC>And</SC> because <F>ahm</F> my friend lives in Hong Kong for <F>mm</F> the business reason, so I visited her for two times. Yeah. But <SC>Hon</SC> <SC>I went to</SC> I've been to Hong Kong for three or four times, so <SC>I try to</SC> <F>er</F> I wanted to go to Taiwan. But <F>um</F> I plan to Taiwan for several years ago, <SC>and</SC> <F>um</F> but <F>um</F> <SC>the</SC> two days before for the trip, <F>um</F> <SC>the</SC> the big earthquake in Taiwan occurred, <laughter>and <F>er</F> we</laughter> cancelled to go to Taiwan.</B>
+<A><F>Mm</F>.</A>
+<B>And <F>um</F> went to Hokuriku. But <F>ehm</F> we enjoyed Hokuriku trip very much. <OL><F>Hm</F></OL>.</B>
+<A><OL>Good</OL>. O K. Yes.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So the last thing, <F>ahm</F> I'll show you another picture. O K. This time, excuse me. <ctxt>The interviewer is preparing the card</ctxt>. Could you make up a story using these pictures? This happened last week, so please start your story with "One day last week".</A>
+<B>One day last week. <ctxt>The interviewee is looking at the pictures for a while.</ctxt> Yeah. A woman try to cook a lunch for herself, but there was nothing in the <F>um</F> freezer, so they decided to go to super store. And she went to supermarket <F>um</F> by her car and <R>s</R> stopped the car at the front of supermarket. <F>Um</F>. They selected some food for <.></.> her <R>for</R> for week. And <F>um</F> paid a money at a <JP>regi</JP>. And <SC>she put their</SC> <F>um</F> <SC>she put her</SC> <F>um</F> <F>um</F> <SC>s</SC> <SC>her</SC> <F>um</F> she put the things she bought to <R>her</R> <F>um</F> her trunk of her car and she cooked a fried egg and <.></.> some boiled spaghetti at her kitchen.</B>
+</task>
+<followup>
+<A><F>Mm</F>.</A>
+<B>Yeah.</B>
+<A>O K. Yeah. Thank you very much. So do you cook?</A>
+<B>Yes.</B>
+<A><F>Ah</F>. O K. <F>Ah</F> how do you usually decide which dish to eat for yourself?</A>
+<B>How do you?</B>
+<A>Usually decide <F>hm</F> what kind of dishes to eat for your dinner <OL><?>when you cook</?></OL>?</A>
+<B><OL><F>Ah</F></OL> <R>when</R> <R>when I</R> when I can go back to my home at early time, <R>I cook</R> I cook <F>er</F> <F>um</F> I usually cook any pasta, example, spaghetti or Japanese <JP>soba</JP> <F>un</F> because it is <.></.> fast to cook and <laughter>I like</laughter> noodles.</B>
+<A><F>Hum</F>.</A>
+<B><SC>And</SC> but I usually drink a beer at dinner and I cook some <F>um</F> <R>ap</R> <R>ap</R> appetize for my beer.</B>
+<A><?>I see</?>.</A>
+<B>Yeah.</B>
+<A>Good. <OL><??></??></OL></A>
+<B><OL>But</OL> <F>um</F> sometimes I go back my room at <F>um</F> midnight, so <F>um</F> at that time, <R>I</R> <F>er</F> I never cook any food and I only drink a beer.</B>
+<A><F>Hum</F>.</A>
+<B>And <nvs>laughter</nvs> some snacks or <F>um</F> vegetables,</B>
+<A><F>Um</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>with beer</laughter></OL>.</B>
+<A>Yeah.</A>
+<B><R>I</R> I try to go back at early time and <F>um</F> tell my team members to go back at early time. But recently, <nvs>laughter</nvs> I have <R>no</R> <F>um</F> no time to take a dinner <OL>slowly</OL>.</B>
+<A><OL><F>Hum</F></OL>. I know. <F>Um</F>. O K. Yeah.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So we are almost at the end of the interview.</A>
+<B><F>Hum</F>.</B>
+<A>But I hope you can go back early today.</A>
+<B>Yeah. <OL><laughter>Thank you</laughter></OL>.</B>
+<A><OL>Are you plan</OL> to go back early?</A>
+<B><F>Um</F> I want to <SC>back</SC> <F>um</F> go back early time, but <F>um</F> <SC>I can't</SC> <R>I</R> I don't know <R>I</R> I'll go back early time or not.</B>
+<A><F>Oh</F></A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>please try</OL>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. So thank you very much.</A>
+<B>Thank <OL>you very much</OL>.</B>
+<A><OL><?>Glad to see you here</?></OL> today.</A>
+</stage5>
+</body>
+</interview>

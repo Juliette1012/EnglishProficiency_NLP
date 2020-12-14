@@ -1,0 +1,192 @@
+<interview>
+<filename>file00507.txt</filename>
+
+<head version="1.3">
+<date>2001-07-05</date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>Yes. My name is <H pn="B's name">XXX01</H>.</B>
+<A>Yeah. Thank you very much for coming. O K. So where did you come from today?</A>
+<B><F>Urr</F> here? I came from <F>err</F> <H pn="others1">XXX02</H> campus.</B>
+<A><F>Hmm</F>. Did you have a class?</A>
+<B><F>Um</F>. No. <F>Urr</F> I have no class today, but <F>umm</F> I have finished my homework at <F>mm</F> <JP>pasokon</JP> room.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A>O K. So what is your major?</A>
+<B>I major in <F>umm</F> Literature.</B>
+<A>English Literature?</A>
+<B><F>Umm</F> <F>ur</F> no. <F>Urr</F> I don't <F>urr</F> decide yet.</B>
+<A><F>Uhm</F>. So what do you want to study about literature?</A>
+<B><F>Umm</F> I want to study <F>err</F> about Human Literature next year.</B>
+<A><F>Hmm</F> I see. O K. So <H pn="B's name">XXX01</H> where do you live?</A>
+<B>I live in <H pn="others2">XXX03</H>. <H pn="others3">XXX04</H> City.</B>
+<A><F>Uhm</F> with your family?</A>
+<B>Yes.</B>
+<A><F>Oh</F> can you tell me about your family?</A>
+<B>Yes. <F>Mm</F> I have <F>mm</F> one younger sister. And I live with parents and her.</B>
+<A><OL><F>Hmm</F> I see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>Can you tell me more about your sister?</A>
+<B>Yes. She is third grade in junior high school. And she has to study hard for entrance examination.</B>
+<A><F>Hmm</F> do you recommend her to come to <H pn="school name1">XXX05</H> University?</A>
+<B><F>Mmmm</F> no.</B>
+<A><OL><nvs>laughter</nvs> Why</OL>?</A>
+<B><OL>She is</OL> different type from me.</B>
+<A><F>Oh</F>. How is she different from you?</A>
+<B><F>Urr</F> I couldn't <F>mmm</F> choose my own junior high school and high school because <F>umm</F> <OL>my mother decided</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>But <F>umm</F> my sister <F>mm</F> can choose her own school.</B>
+<A><F>Uhm</F> I see. O K. All right. So how long have you been living in <H pn="others3">XXX04</H>?</A>
+<B><F>Mmm</F>. I live in <H pn="others3">XXX04</H> for <F>mmm</F> about ten years.</B>
+<A><F>Hmmm</F>. Can you tell me about your neighborhood?</A>
+<B>Yes. <F>Umm</F> I like my home <F>umm</F> because <F>ur</F> I live in <H pn="others4">XXX06</H> in <H pn="others3">XXX04</H> City. And there are many good nature <F>umm</F> here. <.></.> <F>Umm</F> <F>ur</F> I often go to <H pn="others5">XXX07</H> Park.</B>
+<A><F>Hmm</F> What's in <H pn="others5">XXX07</H> Park?</A>
+<B><F>Urr</F>. It is a big park, and <.></.> <F>urr</F> we can enjoy walking and playing some sports.</B>
+<A><F>Hmm</F>.</A>
+<B>And <F>urr</F> I like to walk <F>mmm</F> every day for <F>mm</F> my university.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. Sounds like fun. O K. So first, please look at this picture, and please describe this picture.</A>
+<B>Yes. <F>Umm</F>. Here is a restaurant or French restaurant, and there are three couples there. <F>Umm</F> and two waiter <.></.> recommend <F>umm</F> their restaurant's wine. And <F>mmm</F> one of them bring <F>urr</F> their dishes. <F>Umm</F>. <.></.> And I think this restaurant is <F>mm</F> a little bit expensive because <F>mm</F> there is pianist. And <SC>the restaurant is</SC> <F>urr</F> the restaurant has big space.</B>
+<A><F>Hmm</F>. O K. Thank you.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX01</H> could you tell about the last time you ate in a restaurant?</A>
+<B><F>Hmm</F>. What kind of restaurant?</B>
+<A><F>Oh</F>. Any kind is <laughter>O K</laughter>.</A>
+<B><F>Urr</F> yes. <F>Urr</F> I often go to family restaurant. Last week, I went to Saizeria family restaurant with my friend.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Urr</F> I like drink bar <F>urr</F> <R>in</R> in that restaurant.</B>
+<A>What is "drink bar"?</A>
+<B>I can drink many time for one hundred and eighty yen.</B>
+<A><F>Wow</F> that's <OL><laughter>very cheap</laughter></OL>.</A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. All right. So next, let's try a role-play. O K. Please read this card. And when you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Hmm</F>.</B>
+<A>O K, ready?</A>
+<B><F>Urr</F>. Yes.</B>
+<A>O K. Let's begin. Good afternoon, ma'am. How may I help you?</A>
+<B><F>Urr</F> excuse me. I want to buy <F>mmm</F> schedule book <F>mmm</F> this year.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urr</F> I like binder type.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Could you show me that type?</B>
+<A><F>Oh</F> we have many binder type, made of leather, vinyl and cloth, and in many kinds of colors.</A>
+<B><F>Oh</F> I see. I like vivid color, so I want <F>mm</F> plastic or <F>urr</F> vinyl type.</B>
+<A><F>Uhm</F> how about this <F>urr</F> red one or pink one?</A>
+<B><F>Urr</F> I like red one. Can I look this one?</B>
+<A>Sure, here you are.</A>
+<B>Thank you. <F>Umm</F> <F>urr</F>. <R>This is</R> <.></.> this is a little bit small.</B>
+<A><F>Hm</F>.</A>
+<B>Do you have the bigger one?</B>
+<A>Yes. <F>Urr</F> we have a little bigger one. Here.</A>
+<B><F>Uh</F> thank you. <F>Urr</F> I like it. How much this one?</B>
+<A><F>Uh</F> it's <SC>two hun</SC> two thousand eight hundred yen.</A>
+<B><F>Urr</F> I see. So, <F>urr</F> <F>urr</F> I want this one.</B>
+<A>O K.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>All right</OL>. So <SC>two hundred</SC> two thousand eight hundred yen, please.</A>
+<B>Yes. Here you are.</B>
+<A>O K. Thank you. Here is your schedule book.</A>
+<B>Thank you.</B>
+<A>Thank you for <laughter>shopping with us</laughter>.</A>
+<B><F>Umm</F>.</B>
+</task>
+<followup>
+<A>O K. Thank you. This is the end of the role-play. So do you really have a schedule book?</A>
+<B>Yes.</B>
+<A><F>Hm</F>. Can you describe what kind of schedule book you have?</A>
+<B>Yes. <F>Urr</F> I often used <F>urr</F> a binder type, but this year I bought <F>mm</F> book type because when I searched my schedule book, <F>mm</F> I found very cute <F>mm</F> schedule book. That is "Winnie the Pooh" schedule book.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>So</OL> I decided to buy that one.</B>
+<A><F>Ohh</F>.</A>
+<B>Yes.</B>
+<A>So you are still using it.</A>
+<B>Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Umm</F>. Good. O K. So, lastly, <F>urr</F> there is another picture. O K? There are six pictures from one to six. And please make up a story based on these pictures. And this happened before, so please start your story with "One day last week".</A>
+<B>Yes. One day last week, my mother noticed <F>umm</F> her refrigerator was empty. So she decided to go shopping to supermarket. And she always goes to this supermarket. She bought a lot of food for that day's dinner. And she went to cash corner, and <F>ur</F> she brought many things on her own car. And she went to home, and she cooked that day's dinner. <F>Urr</F> that day's dinner is fried egg and beef stew. <R>That</R> that menus were <F>um</F> her favorite. <.></.></B>
+<A>O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><R>That's all</R></OL>. That's all.</B>
+</task>
+<followup>
+<A>Thank you. So, <H pn="B's name">XXX01</H> do you sometimes cook with your mother or sister?</A>
+<B>No.</B>
+<A>No? Why not?</A>
+<B>I like <F>ur</F> cooking, but I am very busy now. <F>Umm</F> but <F>umm</F> if it's possible, I want to cook some cookies or some cakes.</B>
+<A><F>Hmm</F>. I see. So your mother usually cooks for you?</A>
+<B>Yes.</B>
+<A><F>Hm</F>. <OL><F>Urr</F> O K</OL>.</A>
+<B><OL>I like</OL> <R>her</R> her dishes.</B>
+<A><F>Hmm</F> what's your favorite dish that she cooks?</A>
+<B><F>Mmm</F> I like <.></.> curry.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A>What's special about her curry?</A>
+<B><F>Ur</F> it is very hot,</B>
+<A><F>Hmm</F>.</A>
+<B><F>err</F> but I think <R>it is</R> <F>urr</F> <.></.> it is similar to Indian curry.</B>
+<A><F>Hmmm</F>.</A>
+<B>Because it is soup type. <.></.></B>
+<A>I see. <OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Thank you. We have come to almost the end of the interview.</A>
+<B>Yes.</B>
+<A>So do you have any plans today after this interview?</A>
+<B>Plan?</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urm</F>. <.></.> So <F>urr</F> <.></.> <F>urr</F> I planned a little</B>
+<A><F>Hm</F>.</A>
+<B><.></.> <SC>by</SC> on the web site.</B>
+<A><F>Hmm</F>.</A>
+<B>I saw this cards on the web site.</B>
+<A>Cars?</A>
+<B>Card.</B>
+<A><OL><F>Ohh</F></OL>.</A>
+<B><OL>Card</OL>. Yeah.</B>
+<A>What kind of card?</A>
+<B><F>Mmm</F>. <?>The same</?> card.</B>
+<A><F>Urr</F>. Really?</A>
+<B>Yes.</B>
+<A><laughter>O K</laughter>. On the web?</A>
+<B>Yes.</B>
+<A><F>Hmm</F> I see. O K. All right. So are you going to have dinner with your family tonight?</A>
+<B><F>Uh</F>?</B>
+<A>Tonight, <F>mm</F> are you going to have dinner with your family?</A>
+<B><F>Urr</F> no. I always don't have dinner with my family.</B>
+<A><F>Hmm</F> so where will you eat dinner?</A>
+<B>I will eat dinner at home. But maybe I will eat dinner with only my mother.</B>
+<A><F>Umm</F> I see. O K. All right. Thank you very much for coming. This is the end of the interview.</A>
+<B>Yes, <OL>thank you</OL>.</B>
+<A><OL>O K</OL>. Thank you.</A>
+</stage5>
+</body>
+</interview>

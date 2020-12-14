@@ -1,0 +1,338 @@
+<interview>
+<filename>file00710.txt</filename>
+
+<head version="1.3">
+<date>2001-10-23</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A><CO><OL>My name</OL></CO></A>
+<B><OL>Nice to meet you</OL>.</B>
+<A>Nice to meet you. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uum</F>. <R>Nice</R> nice to meet you. Yeah. So <H pn="B's name">XXX02</H>, <F>er</F> what do you study?</A>
+<B>What do you study. <F>Er</F>. I study political science.</B>
+<A><F>Err</F> <F>er</F>. Do you like your major?</A>
+<B><F>Uum</F>. So so. <nvs>laughter</nvs></B>
+<A><laughter><F>Uum</F></laughter>. So so. Why so so? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uum</F> <.></.> <F>uum</F> <R>I like</R> I like politics.</B>
+<A><F>Uhu</F>.</A>
+<B>But Politics include <F>uum</F> <R>many</R> many kind of study.</B>
+<A><F>Uhu</F>.</A>
+<B>So it's very difficult.</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>I see. <F>Err</F> <F>er</F>. Do you have your favorite teacher for subject?</A>
+<B><.></.> <nvs>coughs</nvs> <.></.> My favorite subject is mathematics.</B>
+<A><F>Oh</F>. Mathematics.</A>
+<B>Mathematics.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>You must be smart.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Err</F>. Yeah. So <H pn="B's name">XXX02</H>, where do you live now?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>. <F>Er</F>.</A>
+<B>In <H pn="others2">XXX04</H>.</B>
+<A><F>Er</F>. Could you tell me about your town <OL>little bit</OL>?</A>
+<B><OL><F>Uum</F></OL>. It's <R>very</R> very far from here.</B>
+<A><F>Uhu</F>.</A>
+<B>It takes ninety minutes.</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>coughs</nvs> <.></.> <F>Uum</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Wow</F></OL>. What is like <H pn="others1">XXX03</H>? <SC>What</SC> yeah, what <H pn="others1">XXX03</H> is like?</A>
+<B>Like?</B>
+<A><F>Um</F> <F>uum</F>. What kind of town?</A>
+<B>What kind of town?</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <..></..> <nvs>laughter</nvs> <F>uum</F> it's <OL><F>um</F></OL></B>
+<A><OL><F>Uum</F></OL>.</A>
+<B><R>City</R> <F>er</F> <.></.> city <.></.> <nvs>coughs</nvs> <??></??> and there're <R>many</R> <F>uum</F> many people.</B>
+<A><F>Uhu</F>.</A>
+<B><SC>To work</SC> to go to Tokyo <OL>for working</OL>.</B>
+<A><OL>I see</OL>. <F>Uum</F> <F>Wow</F>. So train must be very crowded.</A>
+<B>Yes.</B>
+<A><F>Er</F>.</A>
+<B>I'm very tired every day.</B>
+<A><F>Oh</F> <F>oh</F>. Yeah. <F>Er</F>. What do you usually do on the train?</A>
+<B><F>Uum</F>. I usually sleep,</B>
+<A><F>Uhu</F>.</A>
+<B>study,</B>
+<A><F>Uhu</F>.</A>
+<B>read books.</B>
+<A><F>Uum</F> <OL><F>uhh</F></OL>.</A>
+<B><OL>and</OL> listen to music.</B>
+<A>Yeah. Yeah, yeah, yeah. What kind of book do you read? Yeah.</A>
+<B><R>I like</R> I like <R>football</R> football.</B>
+<A>Football?</A>
+<B>Yeah.</B>
+<A><F>Hum</F>.</A>
+<B>So I like magazine of football.</B>
+<A><F>Uhu</F> <F>err</F>. So <F>er</F> can I ask your club activity?</A>
+<B>Club?</B>
+<A><F>Uum</F>.</A>
+<B><R>I</R> <R>I</R> I doing <H pn="others2">XXX04</H>.</B>
+<A><F>Uhu</F> <F>um</F>. Tell me about it. Yeah.</A>
+<B><F>Uum</F>. It's the club about communication with <SC>foreign students</SC> exchange students.</B>
+<A><F>Uhh</F>. Nice.</A>
+<B><R>But</R></B>
+<A><F>Uhu</F>.</A>
+<B>but we communicate by Japanese.</B>
+<A><OL><F>Ohh</F> <F>oh</F></OL>.</A>
+<B><OL><R>So</R> so</OL> <R>I</R> <R>I</R> <SC>I can't use</SC> <R>I can't</R> I can't speak English well.</B>
+<A><F>Err</F> <F>err</F>. Probably outside of the club you know, <laughter>you can take someone and</laughter> <F>err</F> speak English. O K. <F>Uum</F>. So <F>er</F> what is your hobby?</A>
+<B>Hobby?</B>
+<A><F>Um</F>.</A>
+<B><.></.> My hobby is playing tennis</B>
+<A><F>Uum</F>.</A>
+<B>and <?>pottering <JP>tougei</JP></?></B>
+<A><F>Hum</F>.</A>
+<B><.></.> and so on.</B>
+<A>I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>So now I'm going to show you a single picture for you. So <.></.> <F>Mm</F> could you describe about this picture?</A>
+<B><nvs>laughter</nvs> <.></.> Everything O K?</B>
+<A>Yeah. Yeah. You can start.</A>
+<B><..></..> <nvs>laughter</nvs></B>
+<A>Yeah. Anything is fine. <F>Um</F>.</A>
+<B><.></.> <nvs>coughs</nvs> <.></.> There are many people</B>
+<A><F>Uhu</F>.</A>
+<B>skiing.</B>
+<A><F>Uhu</F>.</A>
+<B><SC>And</SC> <..></..> <R>maybe and</R> <F>mm</F> maybe and <..></..> <nvs>coughs</nvs> <..></..> It looks <SC>very cool</SC></B>
+<A><F>Um</F>.</A>
+<B><.></.> <nvs>coughs</nvs> very cold.</B>
+<A><F>Um</F>. Yeah.</A>
+<B><nvs>coughs</nvs> But <..></..> everyone enjoy snow.</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>coughs</nvs> <..></..> I think children like snow.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> <..></..>But <..></..></B>
+<A>Yeah.</A>
+<B><..></..></B>
+<A>O K. <OL>O K</OL>.</A>
+<B><OL>I'm sorry</OL>.</B>
+<A><F>Er</F>. No, no, no. That's fine.</A>
+</task>
+<followup>
+<A>O K. So <F>err</F> is <H pn="others1">XXX03</H> cold?</A>
+<B>Yes. Very cold.</B>
+<A><nvs>laughter</nvs></A>
+<B><H pn="others1">XXX03</H> <R>in</R> <R>in</R> in summer.</B>
+<A><F>Uhu</F>.</A>
+<B>It's very hot.</B>
+<A><F>Uhu</F>.</A>
+<B>But <laughter>in winter, it's very cold</laughter>.</B>
+<A><F>Err</F> <F>err</F>. How do you prepare for the coldness?</A>
+<B>Prepare?</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. But <R>I</R> <F>uum</F> <.></.> I <F>uum</F> <nvs>coughs</nvs> <..></..> <nvs>laughter</nvs></B>
+<A><R>Are you</R> <SC>are you</SC> do you like?</A>
+<B>Yes. <R>I like</R> I like winter. I like.</B>
+<A><F>Er</F>. Really? <F>Er</F>. Why do you like winter? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uum</F>. Winter has Christmas.</B>
+<A><F>Err</F>. That's nice.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Mmm</F></OL> I see.</A>
+<B>I like winter.</B>
+<A>I see. <F>Err</F>. What did you do <F>er</F> for the last Christmas? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <..></..> <R>I</R> I spent last Christmas</B>
+<A><F>Uhu</F>.</A>
+<B>with <?>my</?> girlfriend.</B>
+<A><F>Uhu</F> <F>mm</F>. Nice.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Uum</F> <F>uum</F>. Did you exchange the gifts?</A>
+<B><F>Um</F>. <..></..> <??></??>.</B>
+<A>No? <laughter>Not really</laughter>? <OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Yeah. So now <F>er</F> we are going to do a role-play. O K? So I will show you this card. So please read this. And when you are ready, please let me know. And we will start.</A>
+<ctxt>The interviewee is reading a card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A><F>Um</F>. May I help you?</A>
+<B>I want to go to New York by train.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. Which train <R>should I</R> <.></.> should I take train?</B>
+<A><F>Um</F> <F>er</F>. We have actually two kinds of train. One is local. And one is express.</A>
+<B>Express?</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>coughs</nvs> I don't need <R>ex</R> express.</B>
+<A><F>Um</F>.</A>
+<B><.></.> I don't have so money.</B>
+<A><F>Um</F></A>
+<B><F>Um</F>. Which one cheaper ticket?</B>
+<A>O K. Local is definitely cheaper. <F>Um</F>.</A>
+<B><nvs>coughs</nvs> <R>Where</R> where can I get ticket?</B>
+<A><F>Er</F>. You can buy tickets here.</A>
+<B>Here?</B>
+<A>Yeah.</A>
+<B><..></..> How much?</B>
+<A><F>Err</F>. It costs <F>er</F> fifteen dollars.</A>
+<B>Fifteen dollars.</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>coughs</nvs> <..></..> <SC>What time is</SC> <.></.> what time <SC>does this train get</SC> does this train <??></??> New York?</B>
+<A><F>Er</F> <SC>This</SC> <SC>the</SC> that train <F>er</F> will arrive at New York <F>uum</F> three o'clock.</A>
+<B>Three o'clock.</B>
+<A><F>Uhu</F>.</A>
+<B>Thank you very much.</B>
+<A>O K. O K. Here is the ticket.</A>
+<B><nvs>laughter</nvs></B>
+<A>Yeah. Have a safe trip.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>O K</OL>. Good. Thank you. This is end of role-play.</A>
+</task>
+<followup>
+<A>So have you ever been to abroad?</A>
+<B><.></.> <nvs>coughs</nvs> This spring vacation,</B>
+<A><F>Uhu</F>.</A>
+<B><R>I</R> <SC>I went to New York</SC> <nvs>laughter</nvs> I went to Europe.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>.</B>
+<A><F>Wow</F>.</A>
+<B><??></??> <F>Uum</F>. <.></.> Britain,</B>
+<A><F>Uhu</F>.</A>
+<B>Germany,</B>
+<A><F>Uhu</F>.</A>
+<B>Italy,</B>
+<A><F>Wow</F>.</A>
+<B>France.</B>
+<A><F>Wow</F>. That's great. <F>Wow</F> <F>er</F>. Did you eat different kinds of foods?</A>
+<B>Yes, of course.</B>
+<A><F>Er</F>. Which one did you like the most?</A>
+<B><F>Er</F>. I like pizza in Italy.</B>
+<A>Pizza. What was the difference between pizza in Italy and pizza in Japan? <OL><nvs>laughter</nvs></OL></A>
+<B><F>Uum</F> <OL><nvs>laughter</nvs></OL> <F>uum</F>. I think <F>uum</F> <R>cheese</R> cheese</B>
+<A><F>Er</F>.</A>
+<B>is very different.</B>
+<A><F>Err</F> <F>err</F> <F>Wow</F>.</A>
+<B><nvs>coughs</nvs></B>
+<A>How was it different? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <..></..></B>
+<A><F>Uum</F>.</A>
+<B><F>Uum</F>. <..></..></B>
+<A>How <?>did</?> the taste?</A>
+<B>It's very good.</B>
+<A><F>Err</F>. O K. <F>Uum</F>. <.></.></A>
+<B><nvs>coughs</nvs> <.></.> Have you been to Italy?</B>
+<A><F>Er</F>. No. <F>Um</F>.</A>
+<B>Italy is very good place. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K, O K, I want to go</laughter></OL>. O K. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So now I'm going to show you a picture sequence. O K?</A>
+<B><nvs>coughs</nvs></B>
+<A>So I will show you <F>er</F> this picture. So this happened last week. So please make your own story starting from one to six. And start your own sentence with "One day last week".</A>
+<ctxt>The interviewee is looking at pictures and thinking.</ctxt>
+<B>One day last week,</B>
+<A><F>Uhu</F>.</A>
+<B><F>um</F> she wanted to cook</B>
+<A><F>Uhu</F>.</A>
+<B>sunny egg.</B>
+<A><F>Uhu</F>.</A>
+<B>but <nvs>coughs</nvs> in her house,</B>
+<A><F>Uhu</F>.</A>
+<B>there is no egg.</B>
+<A><F>Uum</F>.</A>
+<B>So</B>
+<A><F>Uhu</F></A>
+<B><R>she went to</R> she went to <.></.></B>
+<A><F>Uhu</F>.</A>
+<B>supermarket.</B>
+<A><F>Uhu</F>.</A>
+<B>to buy egg.</B>
+<A><F>Uhu</F>.</A>
+<B><..></..> <nvs>coughs</nvs> <.></.> She bought <F>ur</F> fruits.</B>
+<A><F>Uhu</F>.</A>
+<B><.></.></B>
+<A><F>Uhu</F>.</A>
+<B><nvs>coughs</nvs> <..></..> <nvs>coughs</nvs> <..></..> <nvs>coughs</nvs> <..></..></B>
+<A>And where?</A>
+<B><nvs>coughs</nvs> <..></..> <nvs>coughs</nvs> <..></..> She paid the</B>
+<A><F>Uhu</F>.</A>
+<B><OL>money <R>for</R></OL>.</B>
+<A><OL><F>Uhu</F> <F>uhu</F> good</OL>.</A>
+<B>for fruits.</B>
+<A><F>Uhu</F>.</A>
+<B><SC>And she</SC> <.></.> <R>and</R> <nvs>coughs</nvs> <.></.> and <..></..> <nvs>coughs</nvs> she returned her home by <OL>car</OL>.</B>
+<A><OL><F>Uhu</F> <F>uhu</F></OL>.</A>
+<B><..></..></B>
+<A>O K.</A>
+<B><R>She</R> she cooked sunny egg.</B>
+<A><F>Uhu</F> <F>uhu</F>. O K. Good. Thank you.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX02</H>, <laughter><R>Do you</R></laughter> do you cook sometimes?</A>
+<B><nvs>laughter</nvs> <F>Uum</F>. <.></.> Sometimes.</B>
+<A>Sometimes?</A>
+<B>Sometimes.</B>
+<A>What do you cook?</A>
+<B><..></..> Yesterday.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> <nvs>coughs</nvs> <R>I don't</R> I don't have class.</B>
+<A><F>Uhu</F>.</A>
+<B>So <F>uum</F> <R>yesterday</R> <..></..> yesterday <?>lunch</?></B>
+<A><F>Uhu</F>.</A>
+<B>I cook <.></.> Chinese food. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Wow</F> that's great</OL>. <F>Wow</F> <??></??> <F>wow</F>. What kind of Chinese food was it?</A>
+<B><SC>Chai</SC> Chinjaorousu.</B>
+<A>Chinjaorousu. <F>Wow</F>.</A>
+<B>It's very easy to cook.</B>
+<A><F>Err</F> <R>How</R> how did you cook Chinjaorousu?</A>
+<B><.></.></B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. <nvs>laughter</nvs> <R>Cut</R> cut beef,</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL>and</OL> <JP>piman</JP>,</B>
+<A><F>Uhu</F>.</A>
+<B><JP>takenoko</JP>,</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. <..></..></B>
+<A><F>Err</F>.</A>
+<B><R>Very</R> very easy <OL>to cook</OL>.</B>
+<A><OL><F>Err</F></OL>. <F>Wow</F>. That sounds great. <F>Err</F>. Your mother must be happy.</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> <F>Err</F>. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So we are almost at the end of the interview. Yeah. So do you have any plan after this interview?</A>
+<B><F>Uum</F>. I have class.</B>
+<A><F>Um</F>.</A>
+<B><..></..></B>
+<A>You have class. <F>Um</F>. What do you have over there <?>the brown front</?>? Yeah. <OL><F>Er</F></OL>.</A>
+<B><OL>It's</OL> pen case.</B>
+<A><F>Er</F>. Pen case. <F>Wow</F>.</A>
+<B>My grandmother made it for me.</B>
+<A><F>Wow</F>. Looks great. <F>Err</F>. It looks cool. <F>Er</F>. O K. <F>Um</F>. That makes you study hard. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Probably</laughter></OL>.</B>
+<A>O K. Thank you so much. O K. We <OL>finish the interview</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

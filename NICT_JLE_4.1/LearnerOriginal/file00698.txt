@@ -1,0 +1,190 @@
+<interview>
+<filename>file00698.txt</filename>
+
+<head version="1.3">
+<date>2001-10-25</date>
+<sex>male</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>795</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ur</F>. Good morning. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Yes, <R>A</R> <H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><F>Er</F>. Fine, thank you. <OL>And you</OL>?</B>
+<A><OL>Great</OL>. I'm fine, thank you. <H pn="B's name">XXX02</H>, <F>er</F> <R>where</R> where do you live?</A>
+<B><F>Err</F> <F>err</F>. I live <R>in</R> in <H pn="others1">XXX03</H>.</B>
+<A><OL><H pn="others1">XXX03</H></OL>.</A>
+<B><OL>Now</OL>.</B>
+<A>Very far from here.</A>
+<B><F>Err</F>. No. <F>er</F> <R>It</R> it takes about <F>err</F> one hour by train.</B>
+<A><F>Um</F>. Which train?</A>
+<B><F>Err</F> <F>err</F> <F>er</F> <H pn="others2">XXX04</H> Line.</B>
+<A>I see, I see. <F>Er</F>. Do you live alone?</A>
+<B><F>Err</F>. No. <F>Err</F>. I live with my family.</B>
+<A>O K. Would you tell me about your family a little bit?</A>
+<B><F>Err</F> <F>err</F>. I have a wife and <F>err</F> one daughter. <F>Err</F>. My daughter is <F>err</F> five years old. <F>Ee</F></B>
+<A>Can you tell me more about your daughter?</A>
+<B><F>Ur</F>. O K. <F>Err</F>. My daughter <F>err</F> is very attractive. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>And very noisy. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>I see</laughter></OL>.</A>
+<B><F>Ur</F>. But very cute. <F>err</F> <R>She</R> <F>er</F> <F>ee</F> she goes to kindergarten every day. And <F>ur</F> <R>she</R> <F>ee</F> <F>ee</F> she is very happy to play with her friend.</B>
+<A><R>How do you</R> how do you spend your free time with your daughter?</A>
+<B><F>Er</F> <R>I always</R> <F>err</F> I always play with my daughter <F>err</F> <R>such as</R> <F>err</F> <F>err</F> <F>uum</F> such as using a ball <SC>and</SC> or running <F>uum</F> and so on.</B>
+<A>I see. All right. And what do you like to do during <R>your</R> your free time without your daughter?</A>
+<B><F>Err</F>. O K. <F>Err</F> <R>I</R> <F>err</F> I like <F>err</F> listening <F>ue</F> music and <F>ur</F> <F>err</F> I like driving. <F>Err</F>. But now I'm <SC>very <F>err</F> busy <F>ee</F> in <F>er</F> day</SC> <F>er</F> <F>er</F> <F>er</F> very busy <F>ee</F> <SC>in the week time</SC> <F>er</F> <R>e</R> everyday.</B>
+<A><F>Uh-hm</F></A>
+<B>So <F>er</F> <F>err</F> <R>I</R> <F>er</F> I only <F>ee</F> play with my daughter only in <F>er</F> holidays. So <F>er</F> I spend <F>er</F> most time with my family.</B>
+<A><F>Oh</F>. That's very nice of you. O K. How do you like your work?</A>
+<B><F>Err</F> <F>er</F>. My work <F>err</F> is to design <F>err</F> building structure. And <F>ur</F> <F>err</F> recently, <F>er</F> I'm very busy. And I always <F>err</F> go home <SC>at night</SC> at midnight.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL>So</OL> <F>er</F> <F>err</F> <OL>I'm very busy</OL>.</B>
+<A><OL>Designing</OL> building sounds very interesting. <SC>Why are you</SC> why do you like that job?</A>
+<B><F>Err</F> <R>I</R> <F>uum</F> <R>I</R> <F>uum</F> <SC>I liked</SC> <F>er</F> I like <F>err</F> architecture <F>err</F> and <F>ur</F> building structure.</B>
+<A><F>Uh-hm</F></A>
+<B>And <F>ur</F> <SC>at the</SC> <F>err</F> when I was student, and <SC>I star</SC> <SC>I have been studying</SC> <F>er</F> <SC>I have been studied <F>uum</F> many</SC> I have been studied <R>structure</R> <F>err</F> <F>err</F> structure buildings. <CO>And <F>uhm</F></CO>.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A>All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now first of all, I would like to show you this picture.</A>
+<B>Yes.</B>
+<A>And please describe this picture for me.</A>
+<B>O K. <F>Oh</F>.</B>
+<A>Tell me what you see.</A>
+<B>All right. <F>err</F> <nvs>coughs</nvs> <F>err</F> <F>er</F> <SC>A big house is</SC> <F>err</F> <F>er</F> there is a big house <F>err</F> besides <F>um</F> big road. And <F>ur</F> <F>err</F> <SC>some people</SC> <F>er</F> <F>err</F> <F>err</F> no <F>er</F> the <F>err</F> <.></.> <F>er</F> <F>uh</F> <SC><R>wu</R> woman</SC> <F>er</F> <R>wu</R> womens are talking <F>err</F> <??></??> there. And <R>one</R> one woman has a dog. And <F>er</F> <F>err</F> a man is running along the road. And two childrens are playing <F>er</F> with a ball. And <F>ur</F> <R>one <F>err</F> girl</R> <F>err</F> one girl is playing <R>with</R> <F>ur</F> <F>uum</F> <F>uum</F> <F>uum</F> with a rope.</B>
+<A>O K.</A>
+<B><F>Um</F></B>
+<A>All right.</A>
+</task>
+<followup>
+<A>Now you said that you live in <H pn="others1">XXX03</H>.</A>
+<B>Yes.</B>
+<A>What is the difference between the area you live and this picture?</A>
+<B><F>Uh-huh</F> <F>err</F>. In this picture, <F>err</F> the <R>house and</R> <F>err</F> house and <F>ur</F> green field is <R>very</R> <F>err</F> <R>very big</R> <F>err</F> <F>err</F> very big. But <F>err</F> in the <H pn="others1">XXX03</H> that <SC>I lived</SC> <F>er</F> I was living is very <F>ee</F> crowded with <F>ur</F> many houses and <F>ur</F> apartments. And <F>er</F> <F>ur</F> roads is very shallow in the <H pn="others1">XXX03</H> area.</B>
+<A><F>Mm-hm</F>. O K. All right. Thank you very much. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, I would like to do a little role-play.</A>
+<B>Yes.</B>
+<A>Here is the card. This is written in Japanese. So please <SC>listen</SC> read it to yourself. When you are ready, I will start.</A>
+<ctxt>The interviewee is reading a card and thinking for a while.</ctxt>
+<A>O K?</A>
+<B>All right.</B>
+<A>O K. Yes, sir. How may I help you?</A>
+<B><F>Er</F>. Excuse me. <F>Err</F> <F>er</F> <R>I want</R> <F>err</F> I want <F>ur</F> C D player. <F>Err</F>. What kind of <F>err</F> C D player <F>err</F> do you have?</B>
+<A><F>Oh</F>. We have <R>many</R> many kinds of C D players here.</A>
+<B>All right. <F>Err</F> <R>I want to buy</R> <SC>I want to buy it</SC> <F>err</F> <SC>the</SC> <F>err</F> I want to buy it <F>err</F> with <F>ur</F> very cheap one.</B>
+<A><F>Uh-hm</F>.</A>
+<B>But <F>err</F> <F>er</F> <F>uum</F> I want to buy <F>er</F> with <F>ur</F> high quality sounds. <F>Uum</F>. <SC>What</SC> <.></.> <F>err</F> do you have that one?</B>
+<A><R>Sure</R>. Sure. We have very reasonable price and high quality sound.</A>
+<B><OL>All right</OL>.</B>
+<A><OL>Five</OL> different kinds.</A>
+<B>Five different kinds. All right. O K. <F>Urr</F>. <R>I like</R> <F>uum</F> I like this black one.</B>
+<A>O K.</A>
+<B><F>Err</F>. How much is it?</B>
+<A><F>Oh</F>. It costs twenty thousand yen.</A>
+<B><F>Oh</F>. Twenty thousand yen. <F>Err</F> <F>umm</F>. <R>Can you</R> <F>uum</F> can you make more cheap?</B>
+<A><F>Urm</F> I can give you three percent off.</A>
+<B><F>Uh-hm</F> <F>umm</F>. All right.</B>
+<A>Is that <OL>O K</OL>?</A>
+<B><OL><?>I buy it</?></OL>.</B>
+<A>O K. <OL>Great</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>O K. Here is the player. O K? Would you like to pay with cash?</A>
+<B><F>Err</F>. Yeah, <F>err</F> I'll pay by credit card.</B>
+<A>O K. Great. Thank you very much. Enjoy your music.</A>
+<B>Thank you.</B>
+<A>See you later. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. Now this is the end of the role-play. You mentioned about C D player.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Now</OL> you said you like listening to music.</A>
+<B>Yes.</B>
+<A>What kind of music do you like to listen?</A>
+<B><F>Uum</F>. I like <F>uum</F> Japanese pops.</B>
+<A><F>Um</F>.</A>
+<B>And <F>err</F> <F>ur</F> rock'n'roll and <F>err</F> American rock.</B>
+<A><F>Uh-hm</F>. Why American rock'n'roll? What's so good about listening to rock'n'roll?</A>
+<B><F>Uum</F> <F>err</F>. The musician?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Um</F> <F>uum</F></B>
+<A>Musician or music itself.</A>
+<B><F>Uum</F> <F>um</F>. I like <F>ur</F> <R>many</R> many kinds of American rock musicians.</B>
+<A><F>Um</F>. O K. All right. Good. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now lastly, I would like to show you a sequence of pictures.</A>
+<B>O K.</B>
+<A>Here is the card. And I would like you to make up a <SC>short story</SC> brief story based on these pictures from number one to six. And this happened before. So please start your story with "One day last week,"</A>
+<B><F>Uh-hm</F></B>
+<A>O K? Go ahead. Very very briefly.</A>
+<B><F>Er</F> <.></.> <F>uhu</F>. O K. <F>Err</F>. One day last week, <F>err</F> <SC>boy</SC> <F>err</F> a boy and <R>his</R> his father <F>er</F> <SC>go to</SC> <F>er</F> went to a restaurant. <F>err</F> <nvs>coughs</nvs> <.></.> The father and <R>the</R> the boy <F>urr</F> is seeking at the seats. But <F>err</F> <F>err</F> <SC>the waiter is coming</SC> <SC>and</SC> <F>err</F> <.></.> <F>uh</F> the waiter was coming, and lead them to the seats. <F>err</F> <nvs>coughs</nvs> <SC>The waitress</SC> a waitress <R>asked</R> <F>err</F> asked menu <F>uum</F> and <F>ur</F> <R>the boy</R> <F>ee</F> <F>ee</F> the boy requested <F>uum</F> <SC>meat</SC> <F>er</F> chicken and <F>ur</F> beer.</B>
+<A>O K.</A>
+<B>O K. And <F>err</F> <F>er</F> <SC>they are</SC> <F>ur</F> <SC>they were eating</SC> <F>er</F> <R>they</R> <R>they</R> they ate <F>err</F> many foods and enjoyed <F>err</F> <R>talking with</R> <F>er</F> <SC>talking with</SC> <F>er</F> talking about <R>the</R> <F>err</F> the family. And <F>ur</F> <nvs>coughs</nvs> when they finished the lunch, <F>err</F> <SC>his father <F>er</F> pay</SC> <F>er</F> his father paid <F>err</F> by cash. And <F>er</F> <R>they</R> <nvs>coughs</nvs> <F>uum</F> <.></.> <F>err</F> <.></.> <R>they</R> they returns to home. But <F>er</F> <nvs>coughs</nvs> <SC>the</SC> <SC>his father has</SC> <F>er</F> <F>err</F> <SC>his father</SC> <F>err</F> <.></.> <F>er</F> <F>mm</F> because of his hather had a <F>err</F> work at that afternoon.</B>
+<A><F>Uhu</F>.</A>
+<B>So <SC>his</SC> <F>er</F> the boy <F>err</F> <R>returned <F>err</F> alone</R> returned alone.</B>
+<A><F>Uh-hm</F>. O K. It's all right. Thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>Now <H pn="B's name">XXX02</H>, this is almost end of the interview. So how long are you working here in this company?</A>
+<B><R>How</R> how <??></??>?</B>
+<A>How long.</A>
+<B><F>Er</F>. How long?</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. <SC>I have been about</SC> I have been working for <F>ur</F> fourteen years <OL>here</OL>.</B>
+<A><OL>Fourteen</OL> years. <F>Wow</F>. Long time. <F>Wow</F>. So this is <H pn="others3">XXX05</H>, right?</A>
+<B>Yes.</B>
+<A>Middle of Tokyo.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>How</OL> do you feel?</A>
+<B><F>Oh</F> <F>uum</F>. <CO><SC>I don't</SC> <F>err</F> I <??></??> here and <F>um</F> about this area</CO>.</B>
+<A><F>Um</F>.</A>
+<B><CO>That <F>ur</F> very <F>ee</F> <F>uum</F></CO>.</B>
+<A><CO>Very crowded or</CO>.</A>
+<B>Crowded.</B>
+<A>Center of Tokyo.</A>
+<B>Yeah. <OL><F>err</F></OL></B>
+<A><OL><F>Uum</F></OL> O K.</A>
+<B><SC>I was only in</SC> <F>er</F> <R>I'm always</R> <F>er</F> I'm always <F>er</F> stay in only this building.</B>
+<A><F>Oh</F> <R>I see</R>. I see.</A>
+<B><CO>So <F>er</F> <F>ee</F></CO>.</B>
+<A>It's O K.</A>
+<B>O K.</B>
+<A><F>Err</F>. Are you going to work late tonight again?</A>
+<B><F>Er</F>. Yes.</B>
+<A>O K. <F>Well</F>, don't work too hard.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>All right</OL>. Thank you very much. This is the end of the interview.</A>
+<B><F>Er</F> <OL>Thank you very much</OL>.</B>
+<A><OL>Thank you</OL>. O K.</A>
+</stage5>
+</body>
+</interview>

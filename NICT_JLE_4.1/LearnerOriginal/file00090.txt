@@ -1,0 +1,142 @@
+<interview>
+<filename>file00090.txt</filename>
+
+<head version="1.3">
+<date>2000-06-19</date>
+<sex>female</sex>
+<age>40</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello, my name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><H pn="B's name">XXX02</H> yes.</B>
+<A>O K, <H pn="B's name">XXX02</H> how are you this morning?</A>
+<B>Yes, <SC>how are you</SC>? I'm fine, thank you, and how are you?</B>
+<A>Fine, thank you. <F>er</F> What time did you get up <OL>this morning</OL>?</A>
+<B><OL><R>I</R></OL> I got up a t six o'clock.</B>
+<A>Early.</A>
+<B>Yeah, because I make my old son's lunch box. So <R>I make up</R> <F>er</F> I wake up six o'clock.</B>
+<A><F>Mm</F>. So what kind of lunch box did you make?</A>
+<B>Yes.</B>
+<A>This morning?</A>
+<B>Yeah, today's menu is <JP>yakiniku</JP> <laughter>lunch box</laughter>.</B>
+<A>Is it difficult to make?</A>
+<B><F>Ah</F>. <R>No</R> <R>no</R> <R>no</R> no. It's so easy <F>mm</F> because I usually make lunchbox so <.></.> it's <F>er</F> so easy for me.</B>
+<A>I see. <F>Mm</F> <F>er</F>. So you have a family?</A>
+<B>Yes.</B>
+<A>Please tell me about your family now.</A>
+<B><F>Mm</F>. I live with husband and two sons. <F>Mm</F> my husband <F>mm</F> job is <.></.> realtor and old son go to <H pn="school name1">XXX03</H> High School every day and younger son go to elementary school near the house.</B>
+<A><F>Mm</F>. I see. <F>mm</F> <F>er</F> <SC>High school student</SC> <OL>High school</OL></A>
+<B><OL><F>Er</F> Junior High School</OL></B>
+<A><F>Er</F>. Junior high school boy is difficult to <F>er</F> look after?</A>
+<B>No, he is very kind so he joins in history club and boxing club so he is <laughter>busy</laughter> every day.</B>
+<A>I see.</A>
+<B>Yeah. So</B>
+<A>No problem at all?</A>
+<B>Yes.</B>
+<A><F>Oh</F> good. O K, then what is your hobby?</A>
+<B><F>Er</F> my hobby is flower arrangement and playing the piano. <F>mm</F> <.></.> because <SC>I</SC> when I was young, I play the piano everyday. So my job is pianist and electrone teacher.</B>
+<A><F>Mm</F>. I see. What is the <SC>best attraction</SC> best point of playing the piano?</A>
+<B>Best point? Do <OL><F>er</F></OL></B>
+<A><OL>Why do</OL> you like it so much?</A>
+<B><F>Mm</F>. Because it's a so confident for me to play the piano and <SC>classic</SC> I like classic very much.</B>
+<A>I see, who is your favorite composer?</A>
+<B><F>Er</F>. I'm sorry I don't know composer.</B>
+<A><F>Mm</F> <F>er</F> music <OL>writer</OL>?</A>
+<B><F>Ah</F> <OL><R>music</R></OL> <SC>music</SC> <F>mm</F> classical musician? Yeah, <SC>Horowitz</SC> and I like Horowitz and <??></??>, <F>mm</F> and I like conductor of <SC>Ozawa</SC> Seiji Ozawa.</B>
+<A>Why do you like him?</A>
+<B><F>Mm</F> <F>er</F>. <R>I</R> last week, I went to opera, conductor of Ozawa in Tokyo <JP>Bunkakaikan</JP> so it's a very <R>won</R> <R>won</R> wonderful <F>mm</F> and.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. Thank you. Now, <H pn="B's name">XXX02</H> please look at this and describe the picture.</A>
+<B>Yes.</B>
+<ctxt>The examinee is looking at the picture and thinking of what to say.</ctxt>
+<A>O K? So please describe?</A>
+<B>Yes. <.></.></B>
+<A>What do you see, please tell me.</A>
+<B>Yeah. <F>Um</F>. I see a big clock, the time is seven o'clock. And many couples are <R>eating</R> <F>er</F> eating dinner and to start dinner <F>er</F> <SC>I see</SC> this is <R>mem</R> <R>mem</R> memorial day. <F>Mm</F> because the sommelier sees him have this champagne and <F>mm</F> the man said "<F>Oh</F> it's a nice champagne so I want it". <SC>And he</SC> <F>er</F> and <SC>he drinks red wine</SC> <F>ah</F> he tasting a wine. And <F>er</F> both champagne and red wine <R>want</R> want <?>we</?>. And she likes him <.></.> <F>mm</F>. And some music is <.></.> classical music <F>ah</F> because she is playing a piano.</B>
+</task>
+<followup>
+<A>O K. Thank you <H pn="B's name">XXX02</H>. Great. So please tell me about your favorite restaurant.</A>
+<B><F>Um</F> <F>er</F>. I like Japanese food but sometimes I go to French restaurant. Because there're so many <R>fre</R> <F>er</F> French restaurants in Tokyo is great. So <SC>thi</SC> <F>mm</F> last week, I went to Continental Hotel <SC>so</SC> dining room, so I had lunch with my friend and it's a so delicious and <OL>great</OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL><F>Wow</F></OL> <nvs>laughter</nvs> O K, thank you. Now, let's do a role-play. Please read this card and when you're ready, I'll start.</A>
+<ctxt>The examinee is looking at the card and thinking of what to say.</ctxt>
+<A>O K?</A>
+<B>Yes.</B>
+<A>Trun, trun. Hello, <OL><H pn="A's name">XXX01</H> speaking</OL></A>
+<B><OL>Hello</OL>, hello, <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F> Hi <H pn="B's name">XXX02</H>, <OL>what's up</OL>?</A>
+<B><OL><F>oh</F> <R>How</R></OL> How are you?</B>
+<A>Fine, what's up?</A>
+<B><F>Mm</F> I want to go movies. <F>mm</F>. Last week, I wanted to go movies but I didn't see the movie so I want to go "Green Mile" with me? How about?</B>
+<A><F>Mm</F>. Yes, when?</A>
+<B><F>Mm</F>. This week and <SC>I</SC> <F>er</F> <R>tomorrow</R> <F>ah</F> tomorrow or <SC>the</SC> <R>nec</R> <SC>nec</SC> I'm sorry, <R>next</R> next day or <F>mm</F> this Saturday, I'm free.How about you?</B>
+<A>O K. This Saturday would be good.</A>
+<B>Good. Yes, this Saturday. <SC>What time do you</SC> <F>mm</F> <SC>do you</SC> what time do you go to the movie?</B>
+<A><F>Mm</F>. Anytime is O K, how about you?</A>
+<B><F>Mm</F>. <F>Mm</F>. Eleven clock I will go to shopping <SC>to</SC> <F>mm</F> for my husband, so after then, I will go to Shibuya at twelve o'clock, O K?</B>
+<A>Yes, great.</A>
+<B>Yeah, that's <SC>in</SC> <R>I</R> I'm, so <SC>glad you</SC> glad see you.</B>
+<A>Yes, thank you for calling. Bye bye.</A>
+<B>Bye bye.</B>
+<A>See you.</A>
+</task>
+<followup>
+<A>See you. O K. Great, <H pn="B's name">XXX02</H>. Do you like movies?</A>
+<B>Yes, <OL>very much</OL>.</B>
+<A><OL><F>Ah</F></OL> Really? What's your favorite movie?</A>
+<B><F>Mm</F>. <R>I</R> <F>mm</F> I like Audrey Hepburn very much so I saw many movies, <SC>the long</SC> <F>mm</F> old movies <R>I</R> I like so much.</B>
+<A>For example?</A>
+<B><F>Mm</F>. "<JP>Roomano Kyuujitsu</JP>" or "<JP>Tiffany's choshoku</JP>" or <F>mm</F> and French old movies for example <F>mm</F> "<JP>Sheruburu no Amagasa</JP>".</B>
+<A>I see. <F>Mm</F>. Why Audrey Hepburn do you like?</A>
+<B>She's cute and <SC>she likes</SC> she looks like so kind and her fashion is so <F>mm</F> fashionable.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Yeah, O K, I agree, thank you. Now, please make a story using these six pictures and please start with "One day last week".</A>
+<B>Yes.</B>
+<ctxt>The examinee is looking at the pictures and thinking of what to say.</ctxt>
+<B>It's O K?</B>
+<A>Yes, please start.</A>
+<B>One day last week, she went department store to buy necktie for her husband. So <F>mm</F> <R>she went to <F>mm</F> buy</R> she went to buy necktie <SC>to</SC> <.></.> <F>mm</F> and asked him, "How about this necktie? It's great, I like stripe best". But he said, "<F>Mm</F>. <SC>It's</SC> How about this <R>dot</R> dot necktie?". So she wanted this one please so it's present for him. And he "How about the color of ribbon?". And "<R>red</R> <R>red</R> red one please" so she bought it. And after, she wanted her clothes. "<R>What floor I</R> what floor I <SC>di</SC> did I go?". "It's a third floor.". So she went third floor to buy her clothes.</B>
+</task>
+<followup>
+<A><F>Mm</F>. Good, thank you <H pn="B's name">XXX02</H>. <F>Well</F> what was the last birthday present you got from your husband?</A>
+<B><F>Er</F> <.></.> perhaps necktie.</B>
+<A><F>Mm</F>. <F>Err</F>. You got from your husband?</A>
+<B>Yes, <F>ah</F> <SC>my</SC> I'm sorry, <F>er</F> only he went with me for dinner.</B>
+<A><F>Ah</F>. <laughter>I see</laughter>. Did you say anything for your birthday?</A>
+<B>But usually I asked him to buy anything <laughter><R>so</R></laughter> so he <F>mm</F> wanted nothing <nvs>laughter</nvs> for me.</B>
+<A><F>Ah</F> I see. <F>mm</F> So when <F>er</F> you get something you don't like from him, what do you do?</A>
+<B><F>Ah</F>. <SC>So</SC> and he thinks <SC>I</SC> <F>er</F> <R>he</R> he don't hear "I don't like this.". So <R>he</R> <F>mm</F> he always give me money <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B>It's O K <nvs>laughter</nvs> I'm very fun. I like this very much.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> <laughter>what a nice husband</laughter>. O K, <laughter>thank you very much</laughter> It's almost the end of the interview. But what are you going to do this afternoon?</A>
+<B><SC>I</SC> this afternoon, <F>er</F> I will go to my younger son's cram school. <F>Mm</F>. Because he <F>er</F> will <F>mm</F> challenge junior high school examination next year. So <SC>he</SC> now he studies very hard everyday so I will go to his cram school to buy his book and asked his teacher "how about he?".</B>
+<A><nvs>laughter</nvs> O K. Thank you very much for coming today.</A>
+</stage5>
+</body>
+</interview>

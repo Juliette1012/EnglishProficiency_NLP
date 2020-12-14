@@ -1,0 +1,231 @@
+<interview>
+<filename>file00205.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Let's begin. <F>Err</F> for the record, may I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>My name is <H pn="A's name">XXX02</H>. Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>So, how are you today?</A>
+<B>I'm fine, thank you. <nvs>laughter</nvs></B>
+<A>So, what time do you usually come to the office?</A>
+<B>I usually come to the office at eight thirty</B>
+<A><F>Hmm</F>.</A>
+<B>in the morning, and <F>urr</F> today <SC>I came to</SC> <F>urr</F> I came here at eight fifteen because I have a <F>err</F> meeting from eight thirty.</B>
+<A><F>Hmm</F>. How was the commuting from your home to this office?</A>
+<B><SC>I came</SC>, <SC>I use</SC> I'm using <F>err</F> <H pn="others1">XXX03</H> Line.</B>
+<A><F>Hmm</F>.</A>
+<B><F>ur</F> the <H pn="others1">XXX03</H> Line <SC>come to <H pn="others2">XXX04</H></SC> came to <H pn="others2">XXX04</H> <F>urr</F> <SC>from</SC> <F>ah</F> <SC>in December</SC> last December.</B>
+<A><F>Hmm</F>.</A>
+<B>So, it became nearer than before. <R>How</R> how about you? <nvs>laughter</nvs></B>
+<A><F>Oh</F> I took the subway, <H pn="others3">XXX05</H> Line. So, <H pn="others1">XXX03</H> Line the new train,</A>
+<B>Yes.</B>
+<A>New subway? I've never taken that. Could you describe what kind of train it is?</A>
+<B><F>Ah</F> <F>umm</F>. It is a round <F>urr</F> subway. <F>Urr</F> round. It means <F>ur</F> <F>umm</F> <SC>in</SC> like Yamanote Line, <R>the</R> <SC>the su</SC> <.></.> <F>err</F> <.></.> <SC>su</SC> it is <SC>sub</SC> <F>urr</F> like Yamanote Line, it is <F>a</F> <F>ah</F> <SC>in Tokyo</SC>, <F>urr</F> around Tokyo, <F>ur</F> <R>the</R> the <R>su</R> <SC>su</SC> <F>ur</F> <.></.> all the <F>urr</F> <F>err</F>. <nvs>laughter</nvs> <.></.></B>
+<A>O K. So, which station is nearest?</A>
+<B><F>Ah</F> <F>umm</F> <H pn="others4">XXX06</H> Station is the nearest from this office.</B>
+<A><F>Uhhum</F>.</A>
+<B>And <SC>my stati</SC> <F>urr</F> nearest station to my house is <H pn="others5">XXX07</H>.</B>
+<A><F>Hmm</F>.</A>
+<B><H pn="others5">XXX07</H> is near to <H pn="others6">XXX08</H>.</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Mm</F>. The <R>To</R> <H pn="others1">XXX03</H> Line <F>err</F> is from <H pn="others7">XXX09</H> to <H pn="others8">XXX10</H>.</B>
+<A><F>Uhhum</F>.</A>
+<B>Then <SC><H pn="others8">XXX10</H></SC> <SC>from <H pn="others8">XXX10</H></SC> <F>oh</F> no, I'm sorry from <SC><JP>Toei</JP></SC>, <F>ah</F> <H pn="others9">XXX11</H> the line became round.</B>
+<A><F>Hmm</F> I see. So, how long have you been living in <H pn="others5">XXX07</H>?</A>
+<B><SC>I'm living in <H pn="others5">XXX07</H></SC> <F>err</F> <R>I have</R> I have been living in <H pn="others5">XXX07</H> more than thirty years.</B>
+<A>Really?</A>
+<B><F>Hmm</F>.</B>
+<A>So, could you tell me about your neighborhood?</A>
+<B><F>Ah</F> it is a residential area, and about two years ago, <SC>the</SC> <F>ah</F> <SC>my</SC> near my house, there are two <F>urr</F> stations. One is <H pn="others5">XXX07</H> Station and the other is <H pn="others10">XXX12</H> Station. <H pn="others10">XXX12</H> Station is one of the station of <F>urr</F> <H pn="others11">XXX13</H> Line. It is <R>res</R> residential area and <F>er</F> nowadays, <F>urr</F> it became <F>err</F> convenient <R>to</R> to the shopping because <SC>the</SC> <SC>two big sa</SC> two <F>err</F> supermarket <SC>open</SC> was opened.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Hmm</F>.</A>
+<B><F>Uhhum</F>.</B>
+<A>O K. All right. Thank you. <nvs>cough</nvs> So, first thing today, I'd like you to take a look at this picture.</A>
+<B><F>Uhhum</F>.</B>
+<A>And please describe what you see in this picture.</A>
+<B>I can see a banquet. <F>Urr</F> like <F>er</F> in the hotel. <SC>But</SC> and there are three tables. They are round. And some people are <F>err</F> eating dinner. <F>Err</F> <F>umm</F> <SC>I can see a</SC> in front of the picture, I can see <R>a</R> <F>urr</F> a couple <SC>have</SC> is having a dinner. <F>Err</F> <.></.> <F>ah</F> and <F>err</F> <.></.> <F>umm</F> <.></.> <SC>i</SC> they are <SC>trying to</SC> trying wine which they recommend.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Uhhum</F>.</B>
+</task>
+<followup>
+<A>O K. All right. Thank you. So, is there a nice restaurant around <H pn="others12">XXX14</H> building?</A>
+<B>Yes. There are many nice restaurants near here.</B>
+<A>Tell me one of your favorite ones.</A>
+<B><F>Urr</F> <SC>one is</SC> <SC>shh</SC> the restaurant name is <?>Chehiro Iro</?>. It's French restaurant and very reasonable for lunch.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>It is</SC> <SC>I</SC> and <SC>I can <F>err</F> drink coffee</SC> <F>urr</F> I can choose coffee and dessert with lunch.</B>
+<A><F>Hmm</F>.</A>
+<B>So, I can relax <F>err</F> even one hour <R>lunch</R> lunch time.</B>
+<A><F>Hmm</F>. O K. Do you often go there?</A>
+<B>Yes, <R>I</R> I sometimes go there.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Good. All right. So, next please read this card. We are going to do a role-play.</A>
+<B><F>Uhhum</F>.</B>
+<A>And when you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card to herself for a while.</ctxt>
+<B>Yes.</B>
+<A>O K. May I help you, ma'am?</A>
+<B>Excuse me, I like to buy some nice jacket to go to office.</B>
+<A>O K.</A>
+<B><F>Uhhum</F>. <F>Err</F> do you have a black one or what kind of <F>err</F> textile do you have?</B>
+<A><F>Oh</F> we have many kinds of jackets and they are all nice.</A>
+<B><F>Ah</F> really?</B>
+<A><F>Uhhum</F>.</A>
+<B>Then <F>err</F> <SC>do you have</SC> I want black, <SC>na</SC> <F>urr</F> <R>soft</R></B>
+<A>O K.</A>
+<B>soft jacket. <F>Err</F> do you have that kind of jacket?</B>
+<A>Sure. How about this one or this one there? Black and really soft.</A>
+<B><F>Ah</F> really? <F>Ah</F> then, <F>err</F> how much are they?</B>
+<A><F>Err</F> this one is thirty thousand yen.</A>
+<B><F>Uhhum</F>.</B>
+<A>And this one is <F>err</F> twenty-five thousand yen.</A>
+<B><SC>Is</SC> which is <R>fashio</R> fashionable <R>do</R> do you think?</B>
+<A>I think both of them are <OL>really <laughter>fashionable</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> Then, <F>ur</F> <F>umm</F> can I try it on?</B>
+<A>Sure. Both of them?</A>
+<B><F>Um</F> <F>urr</F>. <.></.> <F>Umm</F>. <.></.></B>
+<A>It looks really nice on you.</A>
+<B>Thank you. And <..></..> <SC>Whi</SC> <SC>what size of</SC> <F>ah</F> <R>what</R> <SC>what is</SC> <SC>what are those</SC> <SC>wha</SC> <F>ah</F> do you think it is <R>big</R> big or smaller?</B>
+<A>I think it's a little too big for you.</A>
+<B><F>Ah</F> really?</B>
+<A>Yeah.</A>
+<B><F>Urr</F> <SC>can I</SC> <F>ur</F> will you <F>err</F> make it <.></.> <F>umm</F> tight?</B>
+<A>Sure. Yeah. We can do that.</A>
+<B>How long does it take?</B>
+<A><F>Urr</F> about one week.</A>
+<B>O K. Then, I'll take it.</B>
+<A>Thank you very much. O K. Here's the jacket.</A>
+<B><F>Ah</F> thank you very much.</B>
+<A>Thank you.</A>
+<B><F>Ah</F>. Then <.></.></B>
+<A>Yeah. <nvs>laughter</nvs></A>
+<B><R>I must pay</R> I must pay</B>
+<A><OL>O K</OL>.</A>
+<B><OL>for it</OL>.</B>
+<A>All right. Thank you. <F>Urr</F> please enjoy your jacket.</A>
+<B>Thank you. Bye.</B>
+</task>
+<followup>
+<A>Bye. O K. Thank you. This is the end of the role-play. So, you are dressed very nicely today.</A>
+<B><F>Ahha</F> thank you very much. <OL><laughter>Is that so</laughter></OL>?</B>
+<A><OL><nvs>laughter</nvs></OL> <CO>So where</CO>.</A>
+<B><OL><SC>I have</SC></OL> but I have to choose black jacket this time, too.</B>
+<A><F>Uhhum</F>. So is black your favorite color?</A>
+<B>Yes, <F>err</F> it's <F>umm</F> convenient <OL><R>for</R></OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>for <SC>su</SC> winter time.</B>
+<A><F>Umm</F>. What do you mean convenient?</A>
+<B><F>Umm</F> it's useful because the color <F>umm</F> black suit suits for every color.</B>
+<A><F>Hmm</F>. So, where do you usually go shopping?</A>
+<B>I usually go shopping to Shibuya.</B>
+<A><F>Hmm</F>.</A>
+<B><?>How</?> <??></??></B>
+<A>Yeah. But don't you think Shibuya is for <laughter>younger people</laughter>? There are so many <OL>young people</OL>.</A>
+<B><OL><F>Ah</F> yes</OL>. Exactly, it is. If I go to Shibuya on Sundays or Saturdays,</B>
+<A><F>Hmm</F>.</A>
+<B>especially in Sunday, Saturday <R>even</R> evening or afternoon,</B>
+<A><F>Hmm</F>.</A>
+<B><F>er</F> too many people are walking or terrible <OL>place</OL></B>
+<A><OL>Right</OL>.</A>
+<B><OL><R>for</R></OL> for me, too. But <F>err</F> after working, I can easily go to Shibuya.</B>
+<A><F>Hmm</F>.</A>
+<B>And some shops are good to buy <F>err</F> clothes,</B>
+<A><F>Hmm</F>.</A>
+<B>for me.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. All right. Thank you. So, the last thing today. <F>Umm</F> I'd like you to take a look at this picture. There are six pictures from one to six. And please make up a story</A>
+<B><F>Uhhum</F>.</B>
+<A>based on these pictures.</A>
+<B><F>Uhhum</F>.</B>
+<A>And this happened before, so please start your story with "One day last week".</A>
+<B><F>Uhhum</F>. <R>Is</R> is it me, <OL>no</OL>?</B>
+<A><OL><F>Oh</F></OL> anybody. You can decide.</A>
+<B><F>Uhhum</F>. Can I start?</B>
+<A>Yeah.</A>
+<B><F>Urr</F> last week, I opened <F>arr</F> refrigerator and I found it was empty. So I decided <R>to</R> <R>to</R> <F>err</F> to let the refrigerator <SC>fill</SC> <F>ah</F> full and I decided to go to supermarket. I drove a car to supermarket and I got off the car. In the supermarket <SC>I pushed the cart</SC> and I pushed the cart, and I <SC>chose</SC> <SC>choo</SC> I <SC>choo</SC> <SC>choose</SC> <SC>chose</SC> <SC>chosen</SC> I chose <F>urr</F> <nvs>laughter</nvs> <F>ur</F> <R>su</R> <F>ur</F> some <F>ur</F> <.></.> cans or <F>er</F> <SC>food</SC> foods. And <F>em</F> <SC>with pull</SC> with choosing, I decided what of the menu of today. <SC>At the <R>cash</R> <SC>cash</SC></SC> <F>ah</F> at the <SC>casher</SC> cashier, I paid <F>ur</F> for them. <.></.> <SC>I bought <R>muc</R> <SC>much of the</SC> <F>umm</F> much to make <SC>ma</SC></SC> I bought many and I paid <SC>for it</SC> for them. I put <R>the</R> <.></.> the things which I bought <F>err</F> back of the car. And I drove to my house. Then, in the kitchen, I cooked <R>ha</R> happily.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Uhhum</F>. Because <R>the re</R> the refrigerator became full. I made <F>urr</F> fried <.></.> egg and other many dishes.</B>
+</task>
+<followup>
+<A><F>Hmm</F> O K. Thank you. So, do you sometimes cook?</A>
+<B>Yes, I sometimes cook. But <F>err</F> only weekend I cook.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Because</OL> I don't have <OL>much time to cook</OL>.</B>
+<A><OL>Right, right</OL>. So, when was the last time you cooked? <nvs>laughter</nvs></A>
+<B><SC>It's last</B>
+<A><F>Oh</F>.</A>
+<B>Sunday</SC>.</B>
+<A><OL>So</OL></A>
+<B><OL>It was last Sunday</OL></B>
+<A>what did you make?</A>
+<B>I made a <.></.> <JP>marine</JP> <R>ma</R> <JP>marine</JP> of mushrooms.</B>
+<A><F>Oh</F> sounds tasty. <nvs>laughter</nvs></A>
+<B><laughter>I hope so</laughter>.</B>
+<A>Can you explain the recipe?</A>
+<B><F>Umm</F>. Please prepare <nvs>laughter</nvs> <F>um</F> <SC>some mushrooms</SC> some sort of mushrooms. Not one. For example, <JP>maitake</JP> mushroom, <F>err</F> <JP>shimeji</JP> and <JP>shiitake</JP></B>
+<A><F>Hmm</F>.</A>
+<B>that kind of mushrooms. More than three. And then cut and <F>umm</F> in the pan, you put the <F>er</F> garlic and olive oil,</B>
+<A><F>Hmm</F>.</A>
+<B><SC>and put</SC> <F>err</F> and it became hot, you put the mushrooms in it and make it. <F>Mm</F>. <.></.> Done.</B>
+<A><F>Hm</F>.</A>
+<B>Then, you put the can of <F>err</F> tomato,</B>
+<A><F>Hmm</F>.</A>
+<B>a little.</B>
+<A><F>Uhhum</F>.</A>
+<B>And after that, <F>ah</F> and white wine and <R>lemon</R> lemon <F>umm</F> juice in it.</B>
+<A><F>Hm</F>.</A>
+<B>Then <SC>I</SC> you sprinkle <F>err</F> basil and <OL>thyme on it</OL>.</B>
+<A><OL><F>Hmm</F> sounds good</OL>.</A>
+<B><OL>It's Italian</OL>.</B>
+<A><OL>Yeah</OL>.</A>
+<B><SC><OL>Italian dish</OL></SC>. One of the Italian dish.</B>
+<A>Very healthy. <F>Umm</F>.</A>
+<B>Yes, I think so.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Yeah. O K. So we have come to almost the end of interview.</A>
+<B><F>Uhhum</F>.</B>
+<A>Are you going to be busy today?</A>
+<B><OL>Not so</OL>,</B>
+<A><OL>Not really</OL>?</A>
+<B><OL><SC>I don't</SC></OL> <nvs>laughter</nvs> I <SC>hope so</SC> <SC>hope</SC> hopefully not.</B>
+<A><F>Umm</F>.</A>
+<B>It Friday.</B>
+<A><F>Uhhum</F> O K. All right. So have a great weekend.</A>
+<B><OL><laughter><F>Ah</F> you too</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs> Thank you very much</OL>.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much for your time.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

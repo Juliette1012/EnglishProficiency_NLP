@@ -1,0 +1,149 @@
+<interview>
+<filename>file00317.txt</filename>
+
+<head version="1.3">
+<date>2001-03-01</date>
+<sex>female</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>860</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, let's begin. <F>Ah</F> for the record, may I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>. Nice to meet you.</B>
+<A>Nice to meet you. Where are you from?</A>
+<B>I'm from <H pn="others1">XXX02</H>.</B>
+<A><F>Hm</F>. Where in <H pn="others1">XXX02</H>?</A>
+<B><F>Ah</F> I live in <H pn="others2">XXX03</H>.</B>
+<A><F>Um-hm</F>. O K. So nice area, I believe.</A>
+<B>Yes, very peaceful place.</B>
+<A><F>Um</F> O K. <F>Ah</F> have you lived anywhere else besides <H pn="others1">XXX02</H>?</A>
+<B>Yes. <F>Ahh</F> I was born and raised in <H pn="others3">XXX04</H> and moved to <H pn="others1">XXX02</H> two years ago.</B>
+<A><F>Oh</F> I see. Just two years ago?</A>
+<B>Yes.</B>
+<A><F>Ahh</F> <F>ah</F>. Which do you like better?</A>
+<B><F>Umm</F> <nvs>laughter</nvs> it's difficult to answer, but now, I'm getting use to living in <H pn="others1">XXX02</H>. <F>Umm</F> each area has a good point. In <H pn="others3">XXX04</H>, I had a very convenient life. But <F>ah</F> in the other hand, <H pn="others1">XXX02</H>, <SC>I have very peace</SC> <F>ah</F> I'm living in a very peaceful life and I can enjoy very delicious food and beautiful scenery.</B>
+<A>I see. Please tell me about your family.</A>
+<B><F>Am</F> I have a husband but we don't have any children.</B>
+<A><.></.> <F>Um</F> tell me more about your husband.</A>
+<B><nvs>laughter</nvs> <F>Ah</F> <R>my husban</R> my husband is working for construction company as a civil engineer.</B>
+<A><F>Um</F>.</A>
+<B>And <SC>he's working</SC> he's been working for the company for about twelve years. He's <F>ah</F> always very busy. He comes back to home around eleven o'clock. That's why I don't have to prepare dinner for him.</B>
+<A>I see. So do you have a lot of time for yourself?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F></OL>. What do you do?</A>
+<B><F>Ah</F> usually in the morning, I go to rehabilitation.</B>
+<A><F>Hm</F>.</A>
+<B>And in the afternoon, <F>am</F> sometimes I study English or go shopping with my friends. <R>And</R> <R>and take</R> and take a nap about one or two hours. And in the evening, I take my dog for a walk for one hour.</B>
+<A><F>Oh</F> I see. <F>Hm</F>. What kind of dog is it?</A>
+<B><F>Um</F> its kind is Welsh Corgi. <R>Its</R> <F>ahh</F> its origin is England or Scotland, I think.</B>
+<A><F>Um</F>. Yes, I've seen the kind. Very pretty.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>O K, thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Let me show you our first picture today. O K. Please describe this picture for me.</A>
+<B><F>Umm</F>. <.></.> This picture is <R>a</R> a scenery of residential area. And the weather is fine and there is a big house in the left of the picture. And there are three dogs. Two dogs are facing each other in front of the house. And another dog <R>is</R> <SC>is taking</SC> is taken by a woman <R>in pink</R> in pink. And a girl jumping a rope <R>seems to be</R> seems to be very cheerful. And a man is jogging on the street. And there is also <R>a</R> a elderly person reading a newspaper <F>ah</F> in front of two trees. And there is a sleeping cat on the car. This scenery is very peaceful and I think this place is very comfortable to <R>live</R> live in.</B>
+</task>
+<followup>
+<A>O K. Could you compare this neighborhood with your neighborhood in <H pn="others1">XXX02</H>?</A>
+<B><F>Um</F> in <H pn="others1">XXX02</H>, <F>umm</F> in my neighborhood, <F>ah</F> we have more houses and <R>we don't have a</R> we don't have a wide garden like this. But I think <F>ah</F> there is a <R>common</R> common things, <R>that is</R> <SC>that is ver</SC> <SC?>we</SC?> <F>ah</F> they are very peaceful and comfortable atmosphere. <..></..> But we don't have a wide road like this.</B>
+<A><F>Hm</F>.</A>
+<B>And <SC>traffic is more</SC> <F>ah</F> traffic is busier than this picture.</B>
+<A>O K, thank you.</A>
+<B>Thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Let's do a role-play. And this is the situation. Please take a look. And when you're ready, I'll begin the role-play.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>I'm ready.</B>
+<A>O K. Yes, <F>ah</F> ma'am. May I help you?</A>
+<B><F>Ahh</F> I'm sorry, but I have something to ask you. <F>Ah</F> I bought this skirt <F>am</F> here, but <F>um</F> after <R>I</R> I <R>wearing</R> wearing this at home, I noticed <SC>I didn't</SC> <F>mm</F> I don't like it. <F>Ah</F> could you change this skirt to <SC>another</SC> other one?</B>
+<A><F>Ah</F> I'm sorry, ma'am. <F>Ah</F> it's a policy not to exchange any item once it was purchased.</A>
+<B>But I have a receipt of this one. <F>Ah</F> <R>could you</R> <R>could you change</R> could you change another one?</B>
+<A><F>Hm</F>. <F>Ah</F> <F>well</F> against a store policy <R>to</R> to exchange <OL>an item</OL>.</A>
+<B><OL><F>Mh-hmm</F></OL>. <F>Ah</F> can I talk to the manager here?</B>
+<A>Yeah, she's usually here, but today she is taking a day off.</A>
+<B><.></.> But <F>ah</F> <R>why</R> <.></.> why <F>eh</F> can't I <F>ahh</F> change my skirt to <R>other</R> other ones?</B>
+<A><F>Um</F> <F>well</F> we cannot do that <F>er</F> unless you have a very good reason.</A>
+<B>Pardon?</B>
+<A><F>Ah</F> unless you have a very good reason to return the merchandise, we cannot give you any exchange or refund.</A>
+<B><F>Um-hm</F>. But <F>ah</F> <SC>I don't cut the price tag</SC> I haven't cut the price tag and <SC>I</SC> also I don't smear <F>ah</F> the skirt. It's very clean. And <SC>as it</SC> <F>ah</F> it is same as it was <SC>selled here</SC> <.></.> sold here. <F>Am</F> I appreciate it if you could <SC>change <F>eh</F> with</SC> change it with other ones, <F>ah</F> <SC>I</SC> and I would buy another things.</B>
+<A><nvs>sigh</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>That makes it easier for me. Right. <F>Ah</F> let me confirm with <R>my</R> my manager on the phone and let me <SC>come</SC> get back right away.</A>
+<B>Thank you.</B>
+<A>O K? Right. Thank you.</A>
+</task>
+<followup>
+<A>This is the end of the role-play. <F>Am</F> have you ever had experience like this? You bought something and you wanted to return it?</A>
+<B><F>Um</F> no.</B>
+<A><F>Um</F>. O K. Where do you usually shop, <F>er</F> at department stores <F>er</F> or specialty shops?</A>
+<B><??></??> I usually buy clothes in department store.</B>
+<A><F>Hmm</F>. <F>Hm</F>. Why's that? Why do you prefer a department store?</A>
+<B>Because when I buy something in department store, I got a point because I have a points card of department store. And by using the points, <F>ah</F> I can enjoy the discount of the goods.</B>
+<A><F>Um</F>. I see. O K, thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Er</F> let me show you our last picture today. <?>And</?></A>
+<ctxt>The interviewer is looking for a card.</ctxt>
+<A>O K. This one. This is the story, this is the beginning, that's the ending. And the story happened in the past, in fact, one day last week. So please come up with your own story and beginning with "One day last week".</A>
+<B><F>Um</F>.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>One day last week, <F>ah</F> in a rainy day, <F>ah</F> Hideki and Yuki were walking on the street. And <R>he</R> he noticed the strange voice like meow, meow. And they found a box near the utility pole. And when they opened the box, they found <R>a</R> a kitten. Kitten was wet and exhausted. And Yuki offered him to take a kitten to their home, but he didn't feel like to take it to their home, <R>because <F>er</F> <R>they</R> they</R> <F>ah</F> because they are living in apartment. But <F>ah</F> she persuaded him strongly to keep the cat and she put the cat <R>in</R> into her coat <SC>to warm her</SC> to warm the cat. Finally, <R>he</R> he reluctantly agree <?>to</?> her idea and took the kitten to their home.</B>
+</task>
+<followup>
+<A>O K, thank you. <F>Ah</F> you said you had a dog.</A>
+<B>Yes.</B>
+<A>Right. <F>Ah</F> please tell me how you got your dog in the first place.</A>
+<B>Pardon me?</B>
+<A>How you got your dog. Tell me about the day</A>
+<B><F>Ah</F>.</B>
+<A>you got your dog.</A>
+<B>Yeah. It was <F>uh</F> just one year ago. <F>Am</F> actually, I live in apartment <R>which</R> which doesn't allow to keep a pet. But in our apartment, there <R>are</R> are three or four households to keep pets. I think <F>umm</F> many residents <R>allo</R> allow to keep pets and <SC>I bought a</SC> <SC>I</SC> we decided to buy a dog. Because my husband is too busy to stay with me. <SC>So</SC> and since I move to <H pn="others1">XXX02</H>, <R>I</R> <R>I've been</R> I've been feel <SC?>s</SC?> lonely, that's why we've got dog.</B>
+<A>I understand. O K, thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost the end of the interview today. <F>Ah</F> I've seen pictures of Corgi, <F>ah</F> <R>do you</R> <F>ah</F> do you wanna get <SC>another dog</SC> another kind of dog in the future?</A>
+<B>In the future?</B>
+<A><F>Hm</F>.</A>
+<B><F>Umm</F> <R>if</R> if I could live in a big house, I would have <R>a</R> a Golden Retriever</B>
+<A><F>Hm</F>.</A>
+<B>or some big dog.</B>
+<A><F>Hm</F>. I see. Why do you like to have a bigger dog?</A>
+<B><F>Umm</F> they are very active and I can take <?>their</?> to the competition of agility.</B>
+<A><F>Oh</F> I see.</A>
+<B>But now, <SC>I'm</SC> <F>ah</F> we are training my dog for the competition.</B>
+<A><F>Hmm</F>. <F>Wow</F> <F>hm</F>. I see. When is the competition's going to be?</A>
+<B><F>Um</F> <F>ah</F> that was not decided, but in April, <F>ah</F> <R>we will</R> we will <SC>take her</SC> take the Good Citizen Test. <nvs>laughter</nvs> <R>That</R> that may sound strange. But <F>umm</F> <SC>to live with a dog</SC> <F>ah</F> to live with people, <F>ah</F> pets also need to be a good citizen. That's why there is such kind of test.</B>
+<A><.></.> I see.</A>
+<B><nvs>laughter</nvs></B>
+<A>And take her out for one hour everyday?</A>
+<B><F>Ah</F> for a walk?</B>
+<A><F>Ah-hm</F>.</A>
+<B>Yes.</B>
+<A><F>Hm</F>. It's a long time.</A>
+<B>Yeah. During a walk, <F>ah</F> I'm training her <F>er</F> some kinds of <F>uu</F> training.</B>
+<A><F>Um</F>. I see. O K, thank you. This is the end of interview.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>Thank you very much</OL>. Please wait a moment.</A>
+</stage5>
+</body>
+</interview>

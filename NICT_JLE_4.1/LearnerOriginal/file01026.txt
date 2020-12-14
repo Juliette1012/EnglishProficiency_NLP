@@ -1,0 +1,194 @@
+<interview>
+<filename>file01026.txt</filename>
+
+<head version="1.3">
+<date>2002-03-05</date>
+<sex>female</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>510</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. <F>Ur</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uh-huh</F>. <H pn="others1">XXX03</H>? Can I call you <OL><H pn="others1">XXX03</H></OL>?</A>
+<B><OL><H pn="B's name">XXX02</H></OL>. <H pn="B's name">XXX02</H>. Yes. <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F> <H pn="B's name">XXX02</H>. O K. So can I call you <R>Mi</R> <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> yes.</B>
+<A><F>Uh-huh</F>. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>Fine.</B>
+<A><F>Uhm</F>.</A>
+<B>And <F>uhm</F> little <F>uhm</F> tired.</B>
+<A><F>Uhm</F>. Why are you a little tired?</A>
+<B><F>Uhm</F> I'm work <F>ur</F> <F>ur</F> all day <R>and</R> and <F>uhm</F> <SC>I'm busy</SC> and I was busy today.</B>
+<A>I see. <F>Urr</F> tell me about your job.</A>
+<B><F>Uhm</F> <SC>my job is</SC> <F>urm</F> I am office worker. <F>Un</F> <SC>I work in</SC> <F>er</F> I work for pet food company.</B>
+<A><F>Um</F>.</A>
+<B><R>We</R> <F>err</F> we import <F>urm</F> <F>er</F> pet food for dogs and cats and sell.</B>
+<A><F>Uhm</F> I see. <F>Ur</F> where do you live?</A>
+<B><F>Uhm</F> I live <F>ur</F> at <H pn="others2">XXX04</H>.</B>
+<A><F>Uh-huh</F>. Do you live there with your family?</A>
+<B><F>Uhm</F> no, I live alone.</B>
+<A><F>Uh-huh</F>. Where is your hometown?</A>
+<B><F>Urm</F> my hometown is <F>uhm</F> <H pn="others3">XXX05</H> Prefecture.</B>
+<A><F>Oh</F>. Tell me about your hometown, please.</A>
+<B><F>Uhm</F> <SC>my hometown is</SC> <F>uhmm</F> <F>urr</F> <F>err</F> there are <JP><F>eeto</F></JP> river and mountains.</B>
+<A><F>Um-huh</F>.</A>
+<B><F>Uhm</F> <R>and</R> <F>urr</F> <.></.> <F>err</F> and <F>uhm</F> there <F>uhmm</F> <F>uhmm</F> beautiful <F>uhm</F> <F>err</F> air <F>uhm</F>.</B>
+<A><F>Uh-huh</F>. I see. So by the way, in your free time, <F>ur</F> what do you do?</A>
+<B><F>Uhm</F> <R>I</R> <.></.> <F>uhm</F> I listen to music <F>uhm</F> and <F>er</F> watch movie</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> <SC>and</SC> <F>uhm</F> or <F>uhm</F> cooking.</B>
+<A><F>Uh-huh</F>. What kind of music do you listen to?</A>
+<B><F>Uhm</F> I listen to <F>uhm</F> jazz or fusion.</B>
+<A><F>Ohh</F>. How do you feel <R>when</R> when you listen to jazz or fusion music?</A>
+<B><F>Uhmm</F> <R>I feel</R> <F>uhm</F> <.></.> <F>uhm</F> <.></.> I feel calm</B>
+<A>Good.</A>
+<B><F>um</F> and <F>uhm</F> I like <F>uhm</F> jazz rhythm.</B>
+<A><F>Uh-huh</F>. I see. <SC>And what kind of</SC> <F>ur</F> you said you like cooking.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Urr</F></OL> what kind of food do you cook?</A>
+<B><F>Urr</F> I cook Japanese food.</B>
+<A>Japanese food?</A>
+<B>Yes.</B>
+<A>Why?</A>
+<B><F>Uhm</F> <F>uhm</F> <R>I</R> <R>I like</R> <F>err</F> <SC>drunk</SC> I like drinking.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Uhm</F></OL> <F>er</F> beer or Japanese <JP>sake</JP>.</B>
+<A><F>Uhmm</F>.</A>
+<B><F>Um</F> and <F>err</F> so I eat</B>
+<A><F>Umh-huh</F>.</A>
+<B>Japanese food.</B>
+<A><F>Ahh</F>. when you drink <JP>sake</JP>, <F>urr</F> what kind of person do you become?</A>
+<B><F>Uhm</F> <F>err</F> <R>I</R> <.></.> <nvs>laughter in the background</nvs> <F>er</F> I talk <F>err</F> a lot</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> <F>ur</F> <.></.> and laugh.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uh-huh</F>. O K. Thank you very much. Now, I want to look at this picture. And please describe this picture.</A>
+<B><F>Uhm</F>. <.></.> There is a woman in the room. <F>Uhm</F> <F>um</F> and she is sitting on the chair. <F>Um</F> <SC>she look <F>er</F> a cat <R>an</R> and</SC> <R>she</R> she looks a cat and a dog. <F>Uhm</F>. And <.></.> <SC>a cat</SC> <F>err</F> the cat and <R>the</R> the dog <F>ehh</F> <SC>were</SC> are sleeping. <F>Urm</F> <.></.> <F>un</F> a big <F>uhm</F> <SC>ste</SC> <F>eh</F> <SC>audi</SC> stereo audio set <F>uhm</F> <SC>are</SC> <F>er</F> is in the room. <F>Uhm</F> <.></.></B>
+</task>
+<followup>
+<A>O K. Thank you very much. <F>Urm</F> please compare <F>urr</F> this room with your own room.</A>
+<B><F>Uhm</F> <F>err</F> <.></.> <F>er</F> there is a <F>err</F> notebook <F>er</F> computer in my room.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>But</OL> <F>uhm</F> this room <?>is</?> <F>er</F> <F>er</F> but <F>er</F> desktop <F>er</F> computer <F>uhm</F> <SC>is in</SC> <F>er</F> is there.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>uhm</F> <F>err</F> I have no pets.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Un</F>. But <F>uhm</F> <F>er</F> there are <F>err</F> <R>two</R> <F>ah</F> <F>er</F> two pets.</B>
+<A><F>Uh-huh</F>. I see. You said you have a <F>urr</F> <SC>note computer</SC> note type. And <F>urr</F> what do you use it for?</A>
+<B><F>Uhm</F> yes. <F>Er</F> I use for <F>uhm</F> explore <JP><F>eeto</F></JP> <R>my</R> <F>er</F> my <F>uhm</F> travel route</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>un</F> <SC>and</SC> or <JP><F>ehh</F></JP> <JP><F>eeto</F></JP> music concert</B>
+<A><F>Uh-huh</F>.</A>
+<B>schedule.</B>
+<A><F>Ahh</F>.</A>
+<B><?>Check</?> and <F>uhm</F> at the <F>urr</F> Internet. <F>Um</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much. Now, <F>urm</F> we'll do a role play. And</A>
+<ctxt>the interviewer is looking for the card.</ctxt>
+<A>I want you to read this card. This is written in Japanese. And when you finish reading, I'll start.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>Yes.</B>
+<A>Hi. May I help you?</A>
+<B><F>Erm</F> <F>err</F> I want to go to <F>er</F> New York. <F>Uhm</F> <.></.> <JP><F>eeto</F></JP> how much does it cost to New York?</B>
+<A><F>Urr</F> we have two kinds of trains.</A>
+<B>Two kinds of trains? <JP><F>Uunto</F></JP> <F>urm</F> <F>err</F> <JP><F>eeto</F></JP> <.></.> <JP><F>eeto</F></JP> <.></.> <F>err</F> which train <SC>do</SC> <F>err</F> should I get on <F>err</F> <SC>first</SC> <F>er</F> at first?</B>
+<A><F>Uh-huh</F>. <F>Urr</F> I recommend you to take a express train</A>
+<B><OL>express train</OL>.</B>
+<A><OL>because</OL> the other one is local train.</A>
+<B>Local train? O K. I see. And <F>err</F> <.></.> after <F>uhm</F> <F>er</F> <.></.> where <F>err</F> should I <F>er</F> <R>get off</R> <F>un</F> get off <F>eh</F> <R>the</R> the express train? <F>Umh</F>.</B>
+<A><F>Urrr</F>.</A>
+<B><F>Eh</F> <R>what's</R> <F>eh</F> <SC>what's station <F>err</F></SC> <F>ur</F> which station <F>er</F> should I <F>err</F> get off?</B>
+<A><F>Ah</F> I think you will get off New York.</A>
+<B>New York?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> O K. <F>Au</F> <JP><F>Eeto</F></JP> <.></.> <JP><F>eeto</F></JP> <.></.> <JP><F>eeto</F></JP> <.></.> <F>ur</F> O K <F>err</F> <.></.> <F>err</F> <R>I</R> <.></.> I don't need <F>uhmm</F> to change <SC>the express</SC> <F>er</F> the train?</B>
+<A>No.</A>
+<B>No? O K. Thank you. <R>And</R> and <F>er</F> <.></.>.</B>
+<A>So do you want to know the price?</A>
+<B><F>Eh</F> <F>uhm</F> <F>ah</F> yes. <F>Err</F> <F>err</F> <SC>how much <F>err</F> the</SC> <F>err</F> how much is <.></.> <SC>from the</SC> <F>er</F> <SC>from there</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ur</F> from here to New York?</B>
+<A>Twenty dollars.</A>
+<B>Twenty <OL>dollars</OL>?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Ur</F> O K. And <OL><F>err</F></OL>.</B>
+<A><OL>O K</OL>. So here is your ticket.</A>
+<B><F>Ah</F>.</B>
+<A>And twenty dollars. O K. Thank you very much. Have a nice trip. O K. Thank you very much.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A><F>Urm</F> tell me about the last trip you took.</A>
+<B><F>Uhm</F> <.></.> <F>err</F> <.></.> <F>err</F> I have <F>err</F> <R>a</R> a small trip.</B>
+<A><F>Uh-huh</F>. That's O K.</A>
+<B><F>Err</F> <F>err</F> <.></.> <F>ur</F> I had a small trip <R>last</R> <F>err</F> last Sunday.</B>
+<A><F>Umm</F>.</A>
+<B><F>Er</F> I went to <F>uhm</F> Okutama</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>to see</R> <F>err</F> <.></.> <R>to see</R> <.></.> <F>errr</F> <R>to see</R> <F>err</F> <JP>nandakke</JP> <F>un</F> to see flowers <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>urr</F> <F>eh</F>.</B>
+<A>How did you like Okutama?</A>
+<B><F>Err</F> <.></.> <F>uhm</F> <JP><F>eeto</F></JP> <SC>it</SC> <.></.> Okutama is near <F>err</F> <.></.> my house.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Un</F>. But <F>uhm</F> it is <F>uhm</F> <.></.> <F>err</F> natural</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>unn</F> town.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, O K. Thank you very much. Now, <F>ur</F> I want you to <F>urr</F> make up a story based on these pictures from one to four. And this happened last week, so I want you to start your story with "One day last week".</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><F>Err</F> I went to the <F>err</F> theater to watch the <R>mo</R> <F>err</F> movie <F>uhm</F> with my friends. <F>Uhm</F> <.></.> <F>err</F> <R>last week</R>?</B>
+<A>Last week.</A>
+<B>Last week. <F>Err</F> <F>uhm</F> <F>err</F> <.></.> <SC>I bought</SC> <F>uhm</F> <F>er</F> we bought popcorn and <F>uhm</F> drink. <F>Uhm</F> <.></.> <F>uhm</F> there. And <.></.> <F>err</F> <R>I sit</R> <F>err</F> <R>I</R> I sit <F>uhm</F> between <F>unn</F> my friends. <F>Uhm</F> <F>er</F> <SC>I</SC> <F>eh</F> <R>we</R> we watched the <F>un</F> action movie. <F>Un</F> and <F>uhm</F> <..></..> <F>un</F> <F>err</F> we are satisfied <F>uhm</F> <SC>this</SC> <F>err</F> the movie.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K. Thank you very much. <F>Urm</F> when you watch a movie, how do you decide which movie you should watch?</A>
+<B><F>Uhm</F> <F>urr</F> I like <F>er</F> action movie.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL><F>Uhm</F></OL>. <F>Uhm</F>.</B>
+<A>Why do you like action movies?</A>
+<B><F>Uhm</F> <F>err</F> <.></.> <F>uhm</F> I don't like <F>uhm</F> <.></.> <F>un</F> love story.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Un</F>. So <F>un</F> <R>I</R> <.></.> I want to feel <F>uhm</F> exciting.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. <F>Uhm</F>. O K. Thank you very much. <F>Urm</F> we will almost at the end of today's <SC>view</SC> interview. And what is your plan after this?</A>
+<B><F>Uhm</F> <F>err</F> <F>uhm</F> <R>I</R> I go to <F>err</F> <SC>buy the</SC> <F>uhm</F> <F>err</F> buy a <F>err</F> textbook</B>
+<A><F>Um</F>.</A>
+<B><F>eh</F> at the bookstore.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And I come back home.</B>
+<A><F>Oh</F>. What kind of textbook is it?</A>
+<B><F>Uhm</F> <F>err</F> <R>I</R> <R>I</R> I will buy <F>er</F> English textbook <F>uhm</F> <JP><F>eeto</F></JP> N H K <R>ra</R> radio.</B>
+<A>I see. O K. I hope you will find it. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Thank you very much for coming.</A>
+<B>Thank you very much.</B>
+<A>O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

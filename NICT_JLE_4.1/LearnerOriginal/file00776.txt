@@ -1,0 +1,161 @@
+<interview>
+<filename>file00776.txt</filename>
+
+<head version="1.3">
+<date>2001-12-18</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>, how are you today.</A>
+<B>I'm fine, thank you, and you?</B>
+<A>I'm good, thank you very much. <H pn="B's name">XXX02</H>, now holiday season is coming, do you have any plan in winter vacation?</A>
+<B><F>Uh</F> I have club activity in the winter, <.></.> so <.></.> I always <F>uh</F> not all days but most days <F>ah</F> for club activity.</B>
+<A><F>Um</F>. O K. Tell me more about your club activity.</A>
+<B>I am a member of a horse-riding club. Now <R>I</R> I ride a horse three times a week and <R>I</R> I started horse-riding in April this year, so I'm not so good at horse-riding, but I enjoy it very much.</B>
+<A><F>Huum</F>. O K. What's good about horse-riding?</A>
+<B><F>Huum</F> <..></..> <R>I</R> <F>uh</F> I can relax by touching animals.</B>
+<A><F>Ah</F>. Do you have any difficulties about horse-riding?</A>
+<B>Yeah, many difficulty.</B>
+<A>For example?</A>
+<B>For example, <F>uum</F> <R>to</R> <.></.> to make the horses go anywhere I want to go is difficult.</B>
+<A><F>Hum</F>. What do you feel like when you are riding on a horse?</A>
+<B>I feel very good. The view is nice because the <F>uh</F> <.></.> height of the horses.</B>
+<A>Sounds nice. O K, <H pn="B's name">XXX02</H>, at weekends what do you usually do?</A>
+<B>On weekends <.></.> <F>uhm</F> I have club activity. <nvs>laughter</nvs></B>
+<A>You are so busy. <F>Huum</F>. O K. So what do you study?</A>
+<B>I study political science.</B>
+<A>What is your favorite subject?</A>
+<B><F>Er</F>. My favorite subject now <F>uum</F> <.></.> it's not political because I do not study political very well because I'm freshman. So now I like French class.</B>
+<A>Tell me more about the class.</A>
+<B><F>Uum</F> <R>I</R> <F>uh</F> <.></.> I started to learn French since I became a university student, so it's very difficult, but the teacher is very nice and funny, so I like the class.</B>
+<A><F>Um</F>. Can you tell me about the teacher, <R>what's</R> what's he or she like?</A>
+<B><F>Uhm</F> <R>he</R> <SC>he always</SC> he's always laughing. <nvs>laughter</nvs> <R>When I</R> when I can't understand <.></.> the question, <.></.> <SC>he don't</SC> he doesn't <.></.> scold me but he laugh. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. Good teacher. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>So first thing for today, please look at this picture and describe it for me.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A>Go ahead.</A>
+<B><F>Um</F>. In a sunny day, <F>uhm</F> <..></..> many people are outside of their homes and some children are playing with balls and women are talking and a man is running <.></.> and there's also some animals for examples dogs and <.></.> cats. <..></..> The cat are sleeping <.></.> on the car.</B>
+</task>
+<followup>
+<A>O K. Thank you <F>eh</F> <H pn="B's name">XXX02</H>. Where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H> <.></.> near <H pn="others2">XXX04</H> station.</B>
+<A><F>Hum</F> I see. So can you compare you neighborhood to this picture?</A>
+<B><..></..> The houses around my home is not so big as this picture <R>and</R> <..></..> and <.></.> we do not have gardens or trees like this <R>and</R> <..></..> and there are lot a lot of apartment house near my home. <..></..> <CO>And</CO>.</B>
+<A>O K. Which do you like better your neighborhood and this picture?</A>
+<B><F>Um</F> I prefer this picture because <F>um</F> <..></..> there are not so many cars so and it looks calm. <F>Um</F>. We can feel relax.</B>
+<A>All right. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now I'm going to give you this card. This is a role-play card. I'd like to do a role-play with you. So when you're ready I'll start. <.></.> Do you understand the situation?</A>
+<B>Yes.</B>
+<A>O K. Are you ready? This is telephone conversation. Trr trr. Hello, this <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello, this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B>Hi, <F>uhm</F> how are you?</B>
+<A>Fine, and you?</A>
+<B>I'm fine, thank you. And how about going to see a movie together?</B>
+<A>Great.</A>
+<B><F>Uh</F>. What kind of movie do you want to see?</B>
+<A><F>Uhm</F>. You decide. I'm O K everything.</A>
+<B>O K. <F>Um</F> I'd like to see "Harry Potter".</B>
+<A>Good.</A>
+<B><.></.> <F>Uhm</F>. When are you free this week?</B>
+<A><F>Um</F> I'm a little bit busy this week.</A>
+<B>How about next week?</B>
+<A>That's fine.</A>
+<B><.></.> I'm free on Friday and Saturday next week. How about you?</B>
+<A>I'm O K on Friday.</A>
+<B>Friday. <.></.> So let's go on Friday.</B>
+<A>I see.</A>
+<B><..></..> And how about <.></.> eating lunch together and after that seeing the movie?</B>
+<A>Good idea.</A>
+<B><F>Uh</F>. <..></..></B>
+<A>Where can I meet you?</A>
+<B><F>Uhm</F> <.></.> How about Shibuya Station?</B>
+<A>Good, good. It's very convenient.</A>
+<B><.></.> <F>Uhm</F>. Let's meet <F>uhm</F> <R>twelve</R> twelve o'clock <SC>near</SC> <F>uh</F> in front of Hachikou.</B>
+<A>I see. O K. Thank you very much for calling.</A>
+<B>Thank you. <OL>See you</OL>.</B>
+<A><OL>See you</OL> then, bye-bye.</A>
+<B>Bye-bye.</B>
+<A>That's the end of role-play. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>So, do you like movies?</A>
+<B>Yes.</B>
+<A>So which do you like better watching video or going to the cinema?</A>
+<B>I like going to the cinema. <F>Uhm</F> I like the atmosphere of the movie theater.</B>
+<A><F>Hum</F>. Can you tell me the last time you went to a cinema?</A>
+<B>Last time <F>um</F> <..></..> I remember <.></.> I went to see "Go" with friends. I like the actor Yosuke Kubozuka <F>uh</F> so I enjoyed it very much.</B>
+<A>What's so nice about him?</A>
+<B><F>Uum</F> <..></..> <R>hi</R> <F>uh</F> his smile is very nice. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly I'll show you another picture, so please make up one short story using these pictures from one to six and this happened before so please start "One day last week,"</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<A>Are you ready?</A>
+<B><.></.></B>
+<A>Go ahead.</A>
+<B><..></..> One day last week <.></.> a man and his student went to restaurant together. <..></..> <R>They</R> they ordered fish and chicken and some alcohol <.></.> and they enjoyed eating and talking. <.></.> After that the teacher paid for his student <..></..> and student was very full. <..></..></B>
+<A>O K. All right, thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you sometimes go to a restaurant?</A>
+<B>Yes.</B>
+<A>When you go to a restaurant, how do you decide which restaurant to go?</A>
+<B><F>Uhm</F> <.></.> I usually go to a restaurant which my friends recommended.</B>
+<A><F>Huum</F>. Do you have any favorite restaurant?</A>
+<B><..></..> No, because I do not go to restaurant so often.</B>
+<A><F>Huum</F>. So do you remember last time you went to a restaurant with your friend?</A>
+<B>Yes.</B>
+<A>Can you tell me the situation?</A>
+<B><F>Uh</F> I went to a Italian restaurant with friends. We ate spaghetti and pizza. <F>Um</F>. It was very nice.</B>
+<A><F>Huum</F>. Nowadays Italian restaurant is a very popular among young people. Do you know why?</A>
+<B><..></..> I think because <R>Ita</R> <R>Italian food</R> <F>um</F> <..></..> Italian food is <??></??> and familiar and it's not so expensive than Japanese food or French food.</B>
+<A>I agree with you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>. The interview is almost over. Do you have any plan for Christmas party or something?</A>
+<B><F>Er</F> I will have a party with friends.</B>
+<A>I see. And <SC>you</SC> <F>uh</F> when are you gong to have that party?</A>
+<B><F>Uh</F>. Christmas day.</B>
+<A>On Christmas day?</A>
+<B>Yes.</B>
+<A><F>Ah</F>. In your house?</A>
+<B>In <.></.> friend's house.</B>
+<A>Your friend's house. So enjoy that party with your friends.</A>
+<B>Thank you.</B>
+<A>O K. Thank you very much for coming in today. Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

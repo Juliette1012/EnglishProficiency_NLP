@@ -1,0 +1,203 @@
+<interview>
+<filename>file01140.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. <F>Um</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Oh</F>. I'm <H pn="B's name">XXX02</H>.</B>
+<A><F>Uh-huh</F>. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A><F>Uh-huh</F>. <F>Er</F> <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Er</F> fine.</B>
+<A><F>Uh-huh</F>. Good. <F>Um</F> by the way, where do you live?</A>
+<B>I live in a <H pn="others1">XXX03</H>-<JP>ku</JP>.</B>
+<A><F>Hmm</F>. Do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Uhu</F>. Tell me about your family?</A>
+<B><F>Eeh</F> my family is <F>eeh</F> four member. <F>Eeh</F> father, mother, me and <SC>s</SC> my sister.</B>
+<A><F>Hmm</F>. Tell me about your mother.</A>
+<B>Mother is <.></.> <F>mm</F> <R>good</R> <laughter><R>good</R></laughter> good mother.</B>
+<A><F>Hm</F>. O K. <F>Er</F> do you belong to any club at university?</A>
+<B><F>Er</F> not yet. <F>Er</F> but <F>um</F> <.></.> I'm going to belong some tennis club acitivities.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah. <..></..></B>
+<A><F>Er</F> do you like playing tennis?</A>
+<B>Yes.</B>
+<A><F>Ah</F>. I see. What <SC>is</SC> are the good points about playing tennis?</A>
+<B><R>Tennis</R> tennis. <F>Um</F> <..></..> we can play tennis <F>er</F> <SC>long</SC> very long time. Still <F>um</F> <R>sixty</R> sixty years old, seventy years old. Very long time, so we enjoy it <F>eeh</F> all my life. <.></.> So, I'm playing tennis.</B>
+<A><F>Hmm</F>. I see. Do you have any other hobbies besides tennis?</A>
+<B><F>Um</F> my hobby is music. <F>Er</F> <R>D</R> D J. Disc Jockey.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes. I have <SC>a</SC> my <F>er</F> record table.</B>
+<A><F>Hmm</F>.</A>
+<B>I always play the turn-table.</B>
+<A><F>Oh</F> I see. Tell me about <F>er</F> Disc Jockey a bit more.</A>
+<B><F>Er</F> <..></..> <F>er</F> <R>one disc</R> one disc is example, hip-hop, and another disc is R and B <R>and</R> <.></.> and mix the <SC>tempo</SC> <F>er</F> <JP>soone</JP> <.></.> tempo <R>and</R> and make a one song, long song.</B>
+<A><F>Oh</F> that's interesting. <F>Hmm</F>. I see. <F>Er</F> which do you like better, <laughter>R and B or hip-hop</laughter>?</A>
+<B><F>Er</F>. <CO>Hip-hop is my</CO>.</B>
+<A>Why?</A>
+<B><F>Mm</F> I like it. I like hip-hop and <.></.> since <F>er</F> I'm seventeen, now I'm twenty years old, three years <F>erm</F> I like hip-hop and play hip-hop.</B>
+<A><F>Hmm</F>. I see.</A>
+<B>Yeah.</B>
+<A><F>Um</F>. What other music do you listen to?</A>
+<B><F>Er</F> <.></.> any kind of music <F>erm</F> <R>soul</R> soul, do you know soul? Classic.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>I see. When you listen to music, your favorite music, how do you feel?</A>
+<B><F>Er</F> relaxing, <F>erm</F> exciting.</B>
+<A><.></.> That's good. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <F>um</F> we're going to look at this picture and please describe this.</A>
+<B><.></.></B>
+<A>You can tell me anything about this picture.</A>
+<B>This picture?</B>
+<A><F>Huh</F>.</A>
+<B><F>Eeh</F>. There is a dog and cat in the bed. <F>Um</F> there's a stereo, telephone, <F>um</F> clock, computer. <F>Um</F> there's a woman in a chair. <..></..></B>
+</task>
+<followup>
+<A>O K. <OL><F>Um</F></OL>.</A>
+<B><OL>O K</OL>.</B>
+<A>Can you compare this room with your own room?</A>
+<B><F>Umm</F>. <.></.> <R>I</R> I haven't have a dog or a cat and <.></.> <R>my room</R> my room has a turn-table and <..></..> <JP>nanndaro</JP> <.></.> <F>mm</F> a lot of clothes. <CO>And</CO>. <OL><F>Uum</F></OL>.</B>
+<A><OL>O K</OL>. Do you have your own computer?</A>
+<B>Yes. <F>Er</F> not desktop but a note.</B>
+<A><F>Uh-huh</F>. What do you use it for?</A>
+<B><F>Er</F> playing game, <F>er</F> internet also.</B>
+<A>I see. <OL><F>Er</F></OL>.</A>
+<B><OL><nvs>sniff</nvs></OL></B>
+<A>Tell me about your favorite website.</A>
+<B>Website?</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> not an <?>expery like it <F>er</F> I think</?> but <F>er</F> <.></.> about the T V game, about music.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A><.></.> I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, next, <F>er</F> we'll do role-play. And I want you to read this card. <CO><OL>This is</OL></CO>.</A>
+<B><OL><nvs>sneeze</nvs></OL> Sorry.</B>
+<A>O K. Please read this card. And after you finish reading, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K. Hi. May I help you?</A>
+<B><F>Er</F> I want to go to New York in a train, <R>as</R> as possible as fast. <F>Ee</F> <SC>can I</SC> <F>er</F> can you tell me <F>eeh</F> <R>how do I</R> how do I get to train?</B>
+<A>Yeah. You can buy the ticket here.</A>
+<B><..></..> O K.</B>
+<A>And we have express train and local train.</A>
+<B><F>Er</F> I want to ride <R>ex</R> <F>eeh</F> extra train.</B>
+<A><F>Er</F> but express train, you have to wait two hours.</A>
+<B>Two hours? Local train, how long?</B>
+<A><F>Er</F> only <SC>thirty minutes</SC> in thirty minutes.</A>
+<B>Only thirty <OL>minutes</OL>?</B>
+<A><OL><?>It will be</?></OL>. <F>Hmm</F>.</A>
+<B><F>Eeh</F> how difference <F>er</F> extra train in between local train to New York? How difference <F>er</F> minutes? <OL>How long difference</OL>?</B>
+<A><OL><F>Oh</F></OL> <F>er</F> I think <F>er</F> about one hour difference.</A>
+<B>One hour differnce?</B>
+<A><F>Hmm</F>.</A>
+<B><.></.> O K. <F>Er</F> I get a local train.</B>
+<A><F>Uh-huh</F>. <.></.> <OL>Do you want</OL></A>
+<B><OL><F>Erm</F></OL>.</B>
+<A>to know the price?</A>
+<B><F>Oh</F> how much, the local train?</B>
+<A><F>Uh-huh</F>. <F>Er</F> it is ten dollars.</A>
+<B>Ten dollars?</B>
+<A><F>Uhu</F>.</A>
+<B>O K. <.></.> <F>Er</F>.</B>
+<A><.></.> O K.</A>
+<B>O K.</B>
+<A>So, there is your ticket.</A>
+<B><F>Oh</F> thanks.</B>
+<A><R>O K</R> O K. Thank you very much. Have a nice trip.</A>
+</task>
+<followup>
+<A>O K. This is the end of the role-play. <F>Erm</F> tell me about the last trip you took.</A>
+<B>Last trip?</B>
+<A>You took.</A>
+<B><F>Er</F> in <F>er</F> this Golden Week, <R>I</R> I tripped with my family to Kawaguchi-<JP>ko</JP>. <F>Um</F>. <F>Em</F> enjoyed playing tennis and golf.</B>
+<A><F>Hmm</F>. How was the weather?</A>
+<B><F>Er</F> at first, it is rainy, <F>er</F> but other two days, it is very fine.</B>
+<A><F>Uh-hmm</F>. <.></.> That sounds great. <F>Um</F> <.></.> what are the good things do you think <F>um</F> <R>to go</R> to go on a trip with your family?</A>
+<B><F>Err</F> <..></..> <F>hmm</F> <.></.> <?>let's see</?> <F>um</F> <..></..> <F>eeh</F> <SC>my family <F>eeh</F> not</SC> <F>err</F> my family doesn't <F>eeh</F> go together so much time, so I went to the trip <F>err</F> <.></.> we <.></.> get along with my family more.</B>
+<A><F>Hmm</F>. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, the last thing I want you to do is</A>
+<ctxt>The interviewer is choosing the picture.</ctxt>
+<A>picture sequence, and I want you to make up a story,</A>
+<B><OL>Story</OL>.</B>
+<A><OL>based</OL> on these pictures from one to six. And this happened last week, so I want you to start your story with "One day last week,"</A>
+<B><.></.> Story?</B>
+<A>Yeah, make up a short story.</A>
+<ctxt>The interviewee is thinking.</ctxt>
+<B><F>Hmm</F>.</B>
+<A><F>Hm</F> <R>just</R> just a story. <nvs>laughter</nvs> You can say I or I <laughter>or</laughter>.</A>
+<B><F>Oh</F> I see. <F>Oh</F>. <nvs>sniff</nvs> O K. <R>I</R> I'll be <R>this</R></B>
+<A><F>Uhu</F>.</A>
+<B>this boy. <F>Uum</F>. <.></.> "Let's have a lunch in this restaurant.". <.></.></B>
+<A>Yeah, so "One day last week,"</A>
+<B><R>One</R> one day last week, I went to the restaurant <SC>with my friend</SC> <F>ah</F> with my father.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Er</F> and <..></..> I choose <SC>the</SC> <R>my</R> <.></.> <F>eh</F> my meal and <.></.> I drank beer and <.></.> I have <F>erm</F> a lunch <.></.> very much and say good bye to my father.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K. Very good. <F>Um</F> when you <F>um</F> eat at a restaurant,</A>
+<B>Yes.</B>
+<A>how do you choose which restaurant to eat?</A>
+<B><F>Um</F> I talked about with my father.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And choose it.</B>
+<A>I see. <F>Um</F> tell my about your favorite restaurant.</A>
+<B><F>Hmm</F>. <.></.> Restaurant. <.></.> <F>Eeh</F> <.></.> <F>mm</F> <.></.> Chinese.</B>
+<A><F>Hmm</F>.</A>
+<B><.></.></B>
+<A>Why do you like Chinese food?</A>
+<B><F>Umm</F> I like <JP>Maabodofu</JP>.</B>
+<A><F>Hmm</F>.</A>
+<B><..></..></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. So <F>er</F> this is almost the end of today's interview. And what are you going to do after this interview this afternoon?</A>
+<B><F>Er</F>. I'm going to <F>mm</F> join tennis club activity, name <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F>.</A>
+<B><OL><F>Hmm</F></OL>.</B>
+<A><OL><F>Oh</F></OL> the name is <H pn="others2">XXX04</H>?</A>
+<B><H pn="others2">XXX04</H>.</B>
+<A><nvs>laughter</nvs> <F>Oh</F> I see. Is it your first time to join?</A>
+<B><F>Er</F> <H pn="others2">XXX04</H> is <SC>fine ti</SC> <F>er</F> first time but the other tennis club, <R>I</R> I joined <R>at</R> at once.</B>
+<A><F>Ah</F> so you're comparing the two</A>
+<B>Yes.</B>
+<A>clubs.</A>
+<B>Right.</B>
+<A>I see. <F>Hmm</F>. <F>Oh</F> I hope <F>er</F> you can find a nice <F>er</F> tennis club anyway.</A>
+<B><F>Oh</F> <OL>thanks</OL>.</B>
+<A><OL><F>Hmm</F></OL>. O K. <F>Well</F> thank you very much for coming <OL>today</OL>.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A>O K. Thank you.</A>
+<B>Me, too.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,209 @@
+<interview>
+<filename>file01051.txt</filename>
+
+<head version="1.3">
+<date>2002-03-08</date>
+<sex>male</sex>
+<age>44</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>350</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B><F>Mm</F>?</B>
+<A><OL>Hello</OL>.</A>
+<B><OL>Good afternoon</OL>.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>May I</OL> ask your name?</A>
+<B><F>Hem</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you.</A>
+<B><R>Ni</R> nice to meet you.</B>
+<A>It's very cold today.</A>
+<B><R>Ye</R> yes <F>mm</F> <.></.> <??></??> <laughter><R>very</R> very cold</laughter>.</B>
+<A>Yes, cold and windy. Do you like winter?</A>
+<B><R>Ye</R> yes. <R>I</R> I like winter sports. <nvs>laughter</nvs></B>
+<A>You like <OL>winter sports</OL>.</A>
+<B><OL>Winter sports</OL>, yeah.</B>
+<A>What kind of winter sports do you like?</A>
+<B><R>I like</R> <F>mm</F> I like <F>mm</F> <R>ska</R> skate and <R>ski</R> ski <F>mm</F>.</B>
+<A>Where is your favorite place for skiing?</A>
+<B><F>Mm</F> now, <nvs>laughter</nvs> <F>hem</F> Aiko, <F>mm</F> <F>mm</F> <F>mm</F> <SC>bo</SC> very specialist skier, <R>Ai</R> <R>Ai</R> Aiko.</B>
+<A>There are many ski hills in Japan, but where do you usually go skiing?</A>
+<B><F>Ah</F> yes. <F>Um</F> maybe <F>mm</F> <R>I</R> I want to <R>Ni</R> <SC>Ni</SC> <F>mm</F> <R>sk</R> ski <F>uh</F> <JP>gerende</JP> in Niigata. <F>Mm</F>.</B>
+<A>How do you go to Niigata?</A>
+<B><F>Mm</F> maybe two hour <.></.> by <F>m</F> train.</B>
+<A>O K, who do you go with?</A>
+<B>Maybe <F>mm</F> <SC>my wife</SC> <F>uh</F> with my wife. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Ah</F></OL>, I see. Is your wife a good skier, too?</A>
+<B><laughter><R>No</R> <R>no</R> no</laughter>. <R>She</R> she likes <F>mm</F> spa. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Mm</F> <F>um</F> <F>um</F> <R>good</R> <SC>good pla</SC> no <SC>pla good</SC> no good <R>pla</R> player. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Really</OL>? <F>Uh-huh</F>. But <F>um</F> <H pn="B's name">XXX02</H>-<JP>san</JP>, when did you start skiing?</A>
+<B><F>Mm</F> <..></..> <F>eeh</F> <.></.> <SC>I s</SC> <F>mm</F> <SC>s</SC> <.></.> <F>mm</F> <nvs>laughter</nvs> <JP><F>eeh</F></JP> <F>mm</F> I <.></.> first time <JP><F>eeh</F></JP> was <F>mm</F> <..></..> <R>elemen</R> elementary school <OL>student</OL>.</B>
+<A><OL><R><F>Wow</F></R></OL> <F>wow</F> you must be very good. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>O K, thank you. And what do you do in this company?</A>
+<B><F>Um</F> <.></.> <nvs>sniff</nvs> <.></.> <F>em</F> <.></.>.</B>
+<A>Tell me about your job.</A>
+<B><F>Mm</F> <JP><F>eeh</F></JP> my job is technical support for <.></.> <F>mm</F> <.></.> <R>cu</R> <R>cus</R> cutomer <F>mm</F> and <.></.> <R>cus</R> cutomer's problem <F>mm</F> <.></.> <F>mm</F> <..></..> <JP><F>nnto</F></JP> <R>I</R> <R>I'd</R> I'd clear.</B>
+<A>I see. <F>Hum</F>. Do you sometimes go to the client's?</A>
+<B><F>Ah</F> <R>ye</R> yes. <F>Mm</F> maybe <F>mm</F> I go to <.></.> customer <nvs>sniff</nvs> <.></.> <JP><F>eeh</F></JP> <.></.> <JP><F>eeh</F></JP> two of the month.</B>
+<A><F>Uh-huh</F>. O K. Alright. Thank you <OL>very much</OL>.</A>
+<B><OL><F>Mm</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>Now, please take a look at this picture and tell me about this picture.</A>
+<B><nvs>sigh</nvs> <.></.> <F>Mm</F> <nvs>sniff</nvs> <JP><F>eeh</F></JP> <.></.> <JP><F>eeh</F></JP> <JP><F>eeh</F></JP> <..></..> <F>mm</F> <SC>wa</SC> <..></..> <F>mm</F> <R>to</R> today is very <.></.> <F>mm</F> <JP><F>eeh</F></JP> fines day and <.></.> <SC>d</SC> <.></.> and <..></..> <nvs>sniff</nvs> maybe <F>mm</F> <.></.> <F>er</F> <R>ho</R> <SC>ho</SC> so <SC>holidays</SC> <SC>holiday</SC> <F>em</F> maybe today is holiday <F>mm</F> and <..></..> <JP><F>eeto</F></JP> <..></..> <JP><F>eeh</F></JP> <.></.> <F>mm</F> <F>mm</F> <.></.> many children <F>mm</F> <..></..> <JP><F>eeh</F></JP> <.></.> <F>um</F> <R>pla</R> <..></..> playing in garden. <F>Mm</F> <..></..> <JP><F>eeh</F></JP> <.></.> <nvs>sniff</nvs> <F>er</F> <SC>it</SC> <.></.> many dog in the picture <.></.> <SC>wha</SC> <.></.> <F>mm</F> <..></..> <nvs>sniff</nvs> <.></.> and <.></.> <R>an</R> and <SC>one cat</SC> a cat on the <.></.> car. <CO>It's <R>sle</R> sleeping and</CO>.</B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>Thank you very much</OL>. <H pn="B's name">XXX02</H>-<JP>san</JP>, where do you live?</A>
+<B><F>Mm</F> <F>ah</F>, I live in <F>mm</F> <R><H pn="others1">XXX03</H></R> <H pn="others1">XXX03</H> City.</B>
+<A><H pn="others1">XXX03</H> City.</A>
+<B><F>Ah</F> yes.</B>
+<A>Do you like <H pn="others1">XXX03</H>?</A>
+<B><F>Mm</F> <F>ah</F> <laughter><R>ye</R> <R>ye</R></laughter> <F>mm</F> yes. <nvs>laughter</nvs></B>
+<A>Why do you like <H pn="others1">XXX03</H>?</A>
+<B><F>Um</F> <F>mm</F> Zama is very <JP><F>eeh</F></JP> <R>f</R> <SC>fre</SC> <F>mm</F> <R>f</R> <R>fre</R> fresh water. <F>Mm</F> <SC>pe</SC> <R>very</R> <.></.> <F>mm</F> <.></.> <R>very</R> very <.></.> <SC>chi</SC> <JP>nan</JP> mineral water is very <nvs>laughter</nvs> <F>mm</F>. <F>ah</F> <F>mm</F> <JP>nan</JP></B>
+<A>Good?</A>
+<B><F>Ah</F>. <R>Go</R> good. <OL>Yeah</OL>.</B>
+<A><OL><F>Wow</F></OL>, I didn't know that.</A>
+<B><F>Mm</F>.</B>
+<A>O K. Have you lived in <H pn="others1">XXX03</H> for a long time?</A>
+<B><F>Um</F> <JP>nan</JP> <.></.> I live in <F>mm</F> <F>mm</F> <R>ten</R> ten years.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Ten years. That's good. O K now, let's have a role-play.</A>
+<B><F>Ah</F>.</B>
+<A>This is your card.</A>
+<B><F>Ah</F>.</B>
+<A>Please read it and when you're ready, I'll start.</A>
+<B>Yeah. <F>Mm</F>.</B>
+<ctxt>The interviewee is reading.</ctxt>
+<B><nvs>sigh</nvs> <F>Mm</F>.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A>May I help you, sir?</A>
+<B><JP><F>Eeh</F></JP> <..></..> <JP><F>eeh</F></JP> <.></.> <F>er</F> <R>I</R> I want to present for wife. <F>Mm</F> <..></..> <R>my</R> <..></..> <R>my</R> <.></.> my <SC>wife</SC> <F>mm</F> <.></.> <SC>wi</SC> <R>my</R> my wife's hobby <F>mm</F> <JP><F>eeh</F></JP> <JP>nanda</JP> <SC>te</SC> <F>mm</F> <nvs>sniff</nvs> <nvs>laughter</nvs> <F>m</F> <SC>me</SC> <JP><F>eeto</F></JP> <R>ma</R> <R>ma</R> make the <R>co</R> <R>cook</R> cook <F>mm</F> can <JP>nan</JP> <nvs>sniff</nvs> <SC>su</SC> <..></..> <SC>cake</SC> <R>ca</R> cake tools. <F>Mm</F> <R>I</R> I want to look at <R>ca</R> <SC>cake tool</SC> make tools.</B>
+<A>Yes, we have plenty. Here you are.</A>
+<B><F>Mm</F> <F>ah</F> <..></..> <R>wha</R> <F>er</F> wha <nvs>laughter</nvs> <R>what</R> what is this? <nvs>laughter</nvs></B>
+<A>O K <F>er</F> this is electric oven.</A>
+<B><F>Ah</F> <OL><F>oh</F> yeah</OL>.</B>
+<A><OL>You can make</OL> cake perfectly.</A>
+<B><OL><F>Ah</F> yes</OL>.</B>
+<A><OL>How about this</OL>?</A>
+<B><F>Er</F> <F>mm</F> <R>ni</R> <R>ni</R> nice. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Uh-huh</F>. How how much?</B>
+<A>This is fifty thousand yen.</A>
+<B><laughter>Fifty thousand yen</laughter>. <F>Mm</F> <..></..> <R>p</R> <R>plea</R> <SC>please <F>m</F> this function</SC> <F>er</F> <F>uh</F> please tell me this <R>fun</R> function.</B>
+<A>O K. <F>Er</F> it automatically adjust the temperature.</A>
+<B><F>Er</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>This is one of the major functions</OL>.</A>
+<B><nvs>laughter</nvs> <F>Mm</F> <F>mm</F> O K. <nvs>laughter</nvs></B>
+<A>Would you like to have this?</A>
+<B><nvs>laughter</nvs> <F>Er</F> <F>mm</F> <R>O</R> O K. <laughter>Please</laughter>.</B>
+<A>O K. I'll wrap it for you. Here you are.</A>
+<B><??></??></B>
+<A>Fifty <OL>thousand yen please</OL>.</A>
+<B><OL><nvs>cough</nvs></OL> <F>Oh</F> <F>oh</F> <F>er</F> <..></..> <JP><F>eeh</F></JP> <..></..> <JP><F>eeh</F></JP> <R>can</R> can I <SC>ca</SC> credit card?</B>
+<A>Sure. O K. Thank you. Here you are. Thank you very much.</A>
+<B><laughter><R>Than</R> thank you</laughter>.</B>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>-<JP>san</JP>, <OL>role-play is over</OL>.</A>
+<B><OL><nvs>laughter</nvs> <R>O</R> O K</OL>.</B>
+<A><F>Ah</F> <R>Your</R> your wife</A>
+<B><OL><JP>Hai</JP></OL>.</B>
+<A><OL>likes cooking</OL>.</A>
+<B><laughter><R>Ye</R> yes</laughter>.</B>
+<A><F>Hmm</F> What kind of food does she cook?</A>
+<B><F>Hum</F> <R>sh</R> she <R>ma</R> <R>ma</R> <R>ma</R> making <JP>nandaro</JP> <F>mm</F> <R>fish</R> fish <..></..> <R>fi</R> <R>fish</R> <R>fish</R> fishing.</B>
+<A><F>Uh-huh</F>. I see. Does she go to cooking school?</A>
+<B><F>Er</F> <laughter>I don't know</laughter>.</B>
+<A>How does she learn cooking?</A>
+<B><F>Mm</F>. <JP><F>Eh</F></JP> <JP><F>eh</F></JP> ha</B>
+<A>How?</A>
+<B><JP>Hai</JP>.</B>
+<A>Does she learn cooking?</A>
+<B>Learn <..></..>.</B>
+<A>Study.</A>
+<B><F>Hum</F>.</B>
+<A>Cooking. How?</A>
+<B><F>Ah</F> <F>um</F> maybe <F>mm</F> <JP><F>eeh</F></JP> <.></.> <R>she</R> <R>she</R> she's <R>mo</R> mother's <R>tea</R> teaching.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Wow</F> great. <F>Uh-huh</F>. That's good.O K now <H pn="B's name">XXX02</H>-<JP>san</JP>, please take a look at another picture and this time, please make a short story. O K, one two three four.</A>
+<B><JP>Hai</JP>.</B>
+<A>O K.</A>
+<B><nvs>sigh</nvs> <R>Short</R> short story <F>mm</F> <nvs>sniff</nvs> <..></..></B>
+<ctxt>The inteviewee is thinking.</ctxt>
+<B><F>Mm</F> they want to zoo <..></..> <F>mm</F> <.></.> in <R>s</R> <R>s</R> s in Sunday last <R>we</R> weekend. <..></..> <F>Mm</F> <..></..> <F>mm</F> <R>he</R> <..></..> <R>he</R> <..></..> <R>he</R> he announce <.></.> <SC>ani</SC> lions' life for <.></.> his <R>gir</R> girlfriend. <.></.> <nvs>cough</nvs> <F>Mm</F> <.></.> <JP>nanda</JP> <.></.> <F>mm</F> next <JP><F>eeh</F></JP> <R>ga</R> gage in <R>mon</R> monkey. Monkey is eat a banana <..></..> <F>mm</F> <..></..> <F>er</F> <..></..> <R>sh</R> <..></..> <F>mm</F> <R>she</R> she is eat <JP>softcream</JP> <..></..> <F>mm</F> <..></..> <F>er</F> <.></.> <F>mm</F> <..></..> <nvs>sniff</nvs> <.></.> <F>mm</F>.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs> <R>O K</R> O K <nvs>laughter</nvs> <F>mm</F>, <R>jus</R> <F>mm</F> <R>just</R> just closing time <JP><F>eeh</F></JP> <R>they</R> they go back to home. <.></.> <laughter><JP>Wakannnnai</JP></laughter>.</B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><R><OL>Thank you</OL></R>. Thank you very much. Do you like animals?</A>
+<B><laughter>Yes</laughter>.</B>
+<A>Do you have a pet?</A>
+<B><F>Um</F> <.></.> <R>I</R> <R>I</R> <R>I have</R> <F>mm</F> <JP><F>eeh</F></JP> I have <nvs>sniff</nvs> <R>hams</R> hamster <R>i</R> in my room <F>mm</F>.</B>
+<A>Really?</A>
+<B><F>Mm</F> <nvs>laughter</nvs> <nvs>sniff</nvs></B>
+<A>How do you take care of your hamster?</A>
+<B><F>Mm</F> <..></..> <F>mm</F> <.></.> <JP><F>eeh</F></JP> <.></.> my son's <R>friend</R> friend <.></.> give <F>em</F> son's friends <JP><F>eeh</F></JP> <..></..> <F>mm</F> a lot of baby. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F> I see</OL>. You got <OL>it from your</OL></A>
+<B><OL>got it</OL></B>
+<A>son's friend.</A>
+<B>Yeah, yeah</B>
+<A><F>Ah</F>, I see. What kind of food does it eat?</A>
+<B><F>Mm</F> <R>it</R> it's <JP>nan</JP> <laughter><JP><F>eeh</F></JP></laughter> <F>mm</F> <R>sh</R> shell</B>
+<A><OL>Shell</OL>?</A>
+<B><OL><R>Sh</R> <R>she</R></OL> <SC>shel l</SC> <F>mm</F> <R>sun</R> sunflower's shell</B>
+<A><OL>Sunflower's shell</OL>.</A>
+<B><OL><SC>She</SC> <laughter>Sunflower she</laughter></OL></B>
+<A><OL><F>Oh</F> seed</OL>.</A>
+<B><OL><R>Sh</R> she seed</OL>. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A><OL>I understand</OL>. <F>Wow</F>, interesting. I didn't know that. O K, <H pn="B's name">XXX02</H>-<JP>san</JP> thank you <OL>very much</OL>.</A>
+<B><OL><F>Ah</F> yes</OL>.</B>
+<A>Interview is almost ending.</A>
+<B><F>Ah</F>.</B>
+<A>Thank you for coming in today.</A>
+<B><laughter><R>Than</R> thank you</laughter>.</B>
+<A>Do you have any plans</A>
+<B><OL><F>Ah</F> yes</OL>.</B>
+<A><OL>for tomorrow</OL>?</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL>Tomorrow</OL> is Saturday.</A>
+<B><JP>Hai</JP>. <JP><F>Eeh</F></JP>.</B>
+<A>What do you want to do <OL>tomorrow</OL>?</A>
+<B><OL><F>Mm</F></OL>. <.></.> <F>Mm</F> <F>m</F> <F>um</F> tomorrow is <.></.> <F>mm</F> <JP><F>eeh</F></JP> <JP>nan</JP> <R>fare</R> <R>fare</R> farewell party, <R>my</R> my <F>mm</F> <R>son</R> <R>son</R> son's highschool <OL><F>mm</F> <JP>hai</JP></OL>.</B>
+<A><OL><F>Oh</F> I see</OL>. <F>Uh-huh</F>. You are attending the party.</A>
+<B><OL><F>Ah</F> attend</OL>.</B>
+<A><OL>O K</OL>, thank you very much. Have a nice day.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

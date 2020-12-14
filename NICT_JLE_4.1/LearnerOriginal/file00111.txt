@@ -1,0 +1,272 @@
+<interview>
+<filename>file00111.txt</filename>
+
+<head version="1.3">
+<date>2000-08-08</date>
+<sex>male</sex>
+<age>37</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>540</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><F>Ur</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah, please.</B>
+<A>O K. So how are you today?</A>
+<B><F>Er</F> I'm fine, thank you.</B>
+<A>Fine? Great. O K. <CO><OL>So</OL></CO>.</A>
+<B><OL>And you</OL>?</B>
+<A>I'm fine, thank you. Where do you live, <H pn="B's name">XXX02</H>?</A>
+<B><F>Ur</F> I'm live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Oh</F> so how long have you lived in <H pn="others1">XXX03</H>?</A>
+<B><F>Ur</F> <F>umm</F> it's just only <F>er</F> <.></.> two years.</B>
+<A>Two years. <F>Uh-huh</F>. So is there any good place to visit around <H pn="others1">XXX03</H>?</A>
+<B><F>Ur</F> I think so.</B>
+<A><OL><F>Mhmm</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><R>Wha</R> What are they?</A>
+<B><F>Ur</F> <.></.> <F>erm</F> there are <F>er</F> some department or store. It is very <F>er</F> convenience <SC>for us</SC> for family. And <SC>there is</SC> <F>urr</F> <F>ur</F> there are <F>er</F> some big park.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>Yes</OL>. So my children <F>er</F> favorite to play in <F>er</F> such kind of <F>er</F> park.</B>
+<A><F>Ahh</F>. That's good. O K. So <H pn="B's name">XXX02</H> <JP>san</JP>, please tell me about your family.</A>
+<B>Yeah.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Urr</F> <SC>we have my</SC> <F>er</F> we only one son.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Yeah. <F>Ur</F> he is <F>er</F> four years old now. So <.></.> <F>um</F> yes, <F>er</F> <F>mm</F> we live in three <.></.> <OL>in my house</OL>.</B>
+<A><OL>O K</OL>. <F>Uh-huh</F>. I see. And how about your wife? What does she like to do?</A>
+<B>Yeah, <.></.> she likes to <.></.> swimming.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>Yeah</OL>. So <F>er</F> there is a swimming school near my <F>er</F> house. <F>Urr</F> maybe you know <F>er</F> <.></.> Exas.</B>
+<A><F>Oh</F> yes, I've heard of it. <F>Uh-hm</F>.</A>
+<B>Yeah. So my wife and my son <F>er</F> go to Exas.</B>
+<A><F>Mm-hmm</F>.</A>
+<B>Yeah, <.></.> to swim.</B>
+<A><F>Ahh</F> that's good. So how about you?</A>
+<B><F>Ah</F> no. <nvs>laughter</nvs></B>
+<A>No? <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> I can't swim.</B>
+<A><laughter>You can't swim</laughter>. O K. Then what do you do when you have free time? <nvs>cough</nvs></A>
+<B><F>Er</F> <.></.> <SC>I went to</SC> <F>er</F> I like to go to another <F>er</F> town <.></.> <SC>for</SC> <.></.> around the town, and <.></.> go to <F>er</F> some kind of <F>er</F> restaurant.</B>
+<A><F>Ahh</F>.</A>
+<B>Yeah. So and <F>er</F> I like to window shopping.</B>
+<A>I see. <F>Uh-huh</F>. So <R>wher</R> where did you go recently?</A>
+<B><F>Er</F> I went to Machida City.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>How was it?</A>
+<B><F>Er</F> it is very <F>er</F> big town. Yeah. There are many many <SC>store</SC> interesting stores.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>I see. Now, <F>urm</F> of course <R>you</R> you live in <H pn="others1">XXX03</H> for two years, so <R>whe</R> where did you live before?</A>
+<B>Yeah. <F>Ur</F> <nvs>sniff</nvs> we had lived in <R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H> City, yeah.</B>
+<A><F>Mh-hm</F>.</A>
+<B><F>Urm</F> <F>ur</F> the <H pn="others5">XXX05</H> Line.</B>
+<A><F>Ah</F> I see. So that means <H pn="others2">XXX04</H> is your home town?</A>
+<B>No. <F>Ur</F> I came from <.></.> <H pn="others3">XXX06</H> City in <R><H pn="others4">XXX07</H> Pref</R> <H pn="others4">XXX07</H> Prefecture.</B>
+<A><F>Ahh</F> <F>ahh</F> interesting. So <R>plea</R> please tell me about <H pn="others3">XXX06</H>.</A>
+<B>Yeah. <.></.> The <F>er</F> most famous <F>er</F> festival in <H pn="others3">XXX06</H> <F>er</F> is <JP>Tanabata</JP>.</B>
+<A><F>Ahh</F> <F>uh-huh</F>.</A>
+<B>Just now, the <JP>Tanabata</JP> Festival <F>er</F> <SC>is <F>er</F> holded</SC> <F>ah</F> is held. Just now. Yeah. <SC>Aug</SC> from August sixth to August eighth, <.></.> <OL>yeah</OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>This is the festival period.</B>
+<A><F>Wow</F>. O K. So what do they do in a festival? <nvs>cough</nvs></A>
+<B><F>Ur</F> <.></.> <SC>it's a</SC> <.></.> there are many many of <SC>bamboo tree</SC> <OL>decorated bamboo tree</OL>.</B>
+<A><OL><F>Uh-hm</F></OL>.</A>
+<B>Yeah.</B>
+<A><F>Oh</F>.</A>
+<B>So along the <F>er</F> street side. <OL>Yeah</OL>.</B>
+<A><OL><F>Wow</F></OL>. That's great. O K. So when was the last time you went back to <H pn="others3">XXX06</H>?</A>
+<B><F>Ur</F> last year.</B>
+<A><F>Uh</F> last year? To see that festival?</A>
+<B>No. <nvs>laughter</nvs> So <R>I had</R> I had saw the <F>er</F> festival <F>er</F> many times <F>er</F> <.></.> in my <F>er</F> child time, yeah. So <F>ur</F> now <F>ur</F> I don't want to see Tanabata Festival.</B>
+<A><laughter>Any more</laughter>. <laughter>O K</laughter>. All right. <OL>Thank you very much</OL>. <nvs>laughter</nvs> <laughter>I see</laughter>.</A>
+<B><OL>I am tired to see</OL> the <OL>Tanabata Festival</OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL>Already</OL>?</A>
+<B>Yeah.</B>
+<A>O K. All right. So this is your picture. So now please describe the picture for me.</A>
+<B>Yeah.</B>
+<A>O K?</A>
+<B><F>Ur</F> <.></.> I think <F>er</F> this is <R>a</R> <.></.> a French restaurant. So <.></.> a man and woman are <R>enjoying</R> enjoying the dinner. So <F>er</F> <.></.> maybe <F>er</F> they asked the wine. So <F>er</F> this man <F>er</F> <.></.> is trying to taste the wine taste. <.></.> <F>Um</F>. That's all.</B>
+</task>
+<followup>
+<A><F>Mhm</F>. Thank you very much. <nvs>cough</nvs> <F>Ur</F> do you sometimes eat out with your family?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. What kind of restaurant do you usually go to?</A>
+<B>Yeah. We like to go to Japanese restaurant. <.></.> <F>Ur</F> and <F>er</F> Korean restaurant, <F>er</F> <JP>Yakiniku</JP>.</B>
+<A>Korean restaurant.</A>
+<B>Yes.</B>
+<A><F>Ah</F> I see. So could you tell me more about the restaurant you usually go to?</A>
+<B>Yeah. <F>Ur</F> we usually go to the Japanese restaurant near my house. So it is a <.></.> Japanese <F>er</F> pub style restaurant.</B>
+<A><F>Uh-hm</F>.</A>
+<B>So <SC>because</SC> <F>er</F> for me, <F>mm</F> I can drink alcohol.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>er</F> for my son, <F>er</F> there are many kind of foods. <.></.> So <F>mhm</F> we can choice the <F>mhm</F> foods <F>er</F> <.></.> we like. <OL>Yeah</OL>.</B>
+<A><OL><F>Ahh</F></OL> that's good. Good. O K. All right. So what does your son like to eat? <nvs>cough</nvs></A>
+<B><F>Umm</F> <.></.> he likes <JP>sashimi</JP>.</B>
+<A><F>Oh</F> <laughter>really</laughter>?</A>
+<B><OL>Yeah</OL>. <R>He loves tu</R> he loves <F>ur</F> tuna <JP>sashimi</JP>.</B>
+<A><F>Ohh</F> <nvs>laughter</nvs> <laughter>I see</laughter>. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role play.</A>
+<B><OL>Yes, O K</OL>.</B>
+<A><OL>O K</OL>. So this is your card. Please read this. And when you are ready, I will start.</A>
+<B>Yeah.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K.</B>
+<A>All right?</A>
+<B>Yes.</B>
+<A>So may I help you, sir?</A>
+<B><F>Ur</F> <.></.> I want to go to New York <.></.> so <.></.> can you tell me the <F>er</F> fast train <F>mm</F> for New York?</B>
+<A><F>Uh-huh</F>. You mean <F>ur</F> first train?</A>
+<B><F>Er</F> <.></.> sorry. <F>Ur</F> Can you tell me the train <F>umm</F> <.></.> that <F>er</F> I can <.></.> go to New York as soon as possible?</B>
+<A><F>Um</F> <OL>O K</OL></A>
+<B><OL>The</OL> most short time.</B>
+<A>All right. O K. So nine o'clock train <F>umm</F></A>
+<B>O K.</B>
+<A>is the earliest. <OL><F>Hmm</F></OL>.</A>
+<B><OL>Yeah</OL>. <F>Ur</F> how much <F>er</F> <SC>does it <.></.> takes to</SC> does it take to New York?</B>
+<A><R>How</R> how much?</A>
+<B>Yeah.</B>
+<A>O K. <F>Oh</F> two hundred dollars.</A>
+<B>O K. So <.></.> where <F>er</F> should I buy the ticket for New York?</B>
+<A><F>Oh</F> here.</A>
+<B>O K.</B>
+<A><OL>Yeah</OL>.</A>
+<B><OL>Thanks</OL>. <.></.> <F>Ur</F> that's all.</B>
+<A>O K. So how many people?</A>
+<B><F>Oh</F> one adult.</B>
+<A>One adult.</A>
+<B>Yeah.</B>
+<A>O K. All right. So are you paying in cash <OL>or card</OL>?</A>
+<B><OL>Yes, of course</OL>.</B>
+<A>O K. All right. So here is the ticket to New York.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much. You have a nice trip.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>Thank you. All right. So the role play is over. <F>Mm</F>. Have you ever been abroad?</A>
+<B><F>Oh</F> yes.</B>
+<A><F>Uhh</F>. Where did you go?</A>
+<B><F>Ur</F> Singapore and Palo Alto <OL>in California</OL>.</B>
+<A><OL><F>Oh</F> Where</OL>?</A>
+<B>Palo Alto.</B>
+<A><F>Ohh</F>.</A>
+<B><F>Ur</F> <H pn="company name1">XXX08</H>'s <F>er</F> headquarter <F>er</F> is in Palo Alto.</B>
+<A><F>Ahh</F> I see. So you went there on business?</A>
+<B>Yeah, business trip.</B>
+<A><F>Ahh</F> I see. O K. <F>Er</F> did you see around that area?</A>
+<B><F>Ah</F> no. <nvs>laughter</nvs> <F>Ur</F> <F>er</F> I had no time <.></.> <R>to</R> <F>er</F> to see around the California.</B>
+<A>I see. <F>Wow</F>. That's too bad.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>But</OL> how about <F>er</F> <nvs>cough</nvs> Singapore?</A>
+<B>Singapore is <F>ur</F> same. <nvs>laughter</nvs></B>
+<A>On business?</A>
+<B>Yeah, on business trip. Yeah.</B>
+<A><F>Uhh</F>. So which do you like better?</A>
+<B><F>Umm</F> I like <.></.> Singapore</B>
+<A><F>Hmm</F>.</A>
+<B>than <F>er</F> Palo Alto.</B>
+<A><F>Mm</F>. Why?</A>
+<B>Yeah. <SC>There are</SC> <F>mm</F> <.></.> there were many good <F>er</F> food restaurant in Singapore.</B>
+<A><F>Uhh</F>.</A>
+<B>So in Palo Alto, <F>er</F> <F>umm</F> <.></.> <F>um</F> <.></.> <R>there</R> <.></.> <R>there is <.></.> not</R> <F>er</F> there is not good <F>mm</F> food restaurant.</B>
+<A>I see. O K. <CO><OL>Then</OL></CO>.</A>
+<B><OL>And the</OL> in Palo Alto, the price is very high. <OL>Yeah</OL>.</B>
+<A><OL>Really</OL>? Even in America.</A>
+<B>Yes.</B>
+<A><F>Ah</F> I see.</A>
+<B><SC>It like</SC> it is like a <.></.> bubble economy, yeah,</B>
+<A><OL><F>Ah</F> I see</OL>.</A>
+<B><OL>like Japan</OL>.</B>
+<A><OL><F>Uh-hm</F> <F>uh-hm</F></OL>.</A>
+<B><OL>Past Japan</OL>.</B>
+<A>I see. And do you sometimes travel with your family?</A>
+<B>Yes. <F>Urm</F> but <F>errr</F> it is only domestic travel.</B>
+<A><F>Uh-hm</F>.</A>
+<B>Yeah.</B>
+<A>I see.</A>
+<B><F>Ur</F> we like to <.></.> go to <.></.> hot springs,</B>
+<A><OL><F>Ohh</F></OL>.</A>
+<B><OL><JP>onsen</JP></OL>.</B>
+<A><F>Uh-huh</F>. I see.</A>
+<B><F>Er</F> sometimes <F>er</F> we go to Izu.</B>
+<A><F>Uh-hm</F>.</A>
+<B>Yeah.</B>
+<A><F>Oh</F> Izu.</A>
+<B>Yes.</B>
+<A><F>Um</F> but a little dangerous now. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K All right. Thank you very much. Now, <nvs>cough</nvs> I want you to make up a story. Here. O K. Please look at this.</A>
+<B>Yeah.</B>
+<A><F>Ur</F> this time, please make up a story</A>
+<B><OL><F>Uh-hm</F></OL>.</B>
+<A><OL>based</OL> on these six pictures.</A>
+<B><F>Uh-hm</F>.</B>
+<A>O K? But this happened last week.</A>
+<B><F>Uh-hm</F>.</B>
+<A>O K. So please start your story with, "One day last week". O K.</A>
+<B><.></.> <F>Ur</F> one day last week, <F>er</F> <.></.> my mother <F>er</F> went to department store. And <F>er</F> <R>she went to</R> <F>er</F> <.></.> <SC>she went to</SC> <F>er</F> <.></.> <F>uh</F> she asked a <.></.> member of staff in department <F>er</F> where <F>er</F> is the <.></.> necktie <F>um</F> store. And <F>er</F> she selected the <F>er</F> necktie <F>er</F> for <.></.> husband's. <F>Er</F> <F>um</F> <SC>this</SC> that was the birthday <F>um</F> present for her husband. And <F>er</F> <.></.> she <F>er</F> bought a necktie, <F>er</F> and <F>er</F> she asked to the <SC>member of</SC> <.></.> staff of department store, <F>er</F> <.></.> "Where is toy store?". <F>Er</F> she wanted to buy <F>er</F> toy <R>for</R> <F>er</F> <.></.> <R>for her</R> <F>err</F> <..></..> for her daughter. So <R>she <.></.> went to</R> <F>um</F> she went to toy store <F>er</F> <.></.> by upstairs.</B>
+<A>All right. <OL>Thank you very much</OL>.</A>
+<B><OL>That's all <F>mm</F></OL>.</B>
+<A>Thank you very much. <nvs>cough</nvs></A>
+<B>It is difficult. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL><nvs>laughter</nvs></OL> Yeah? Yeah. O K. <F>Er</F> do you sometimes buy toys for your son?</A>
+<B>Yes.</B>
+<A><F>Mhmm</F>.</A>
+<B>Yeah. <F>Err</F> <.></.> do you know <F>er</F> Sogo Department Store?</B>
+<A>Yes.</A>
+<B>Yeah. The Sogo <SC>Depa</SC> <SC>spe</SC> <SC>stobe</SC> <F>er</F> <laughter>Department</laughter> Store is in <H pn="others1">XXX03</H> <.></.> Town. So sometimes <F>er</F> <SC>we went to</SC> <F>er</F> we go to Sogo Department Store for buying <F>er</F> toy for my son.</B>
+<A>I see. How do you choose the toys?</A>
+<B><F>Ahh</F> <.></.> ordinary, <F>er</F> we asked to my son, "What do you like?". <nvs>laughter</nvs> <SC>So</SC> and <F>ur</F> I selected the toys for son.</B>
+<A>O K. But when <F>erm</F> your son wants to buys something that you don't like him to buy, <.></.> what do you do?</A>
+<B>No. <F>Errm</F> <.></.> because <F>er</F> my son is just only <F>er</F> four years <OL>old now</OL>.</B>
+<A><OL><F>Uh-hm</F></OL>.</A>
+<B>So <F>er</F> <SC>he <.></.> don't</SC> <F>er</F> he doesn't <F>err</F> <.></.> have any complain <OL>for us</OL>.</B>
+<A><OL><F>Oh</F>really</OL>?</A>
+<B>Yeah.</B>
+<A>O K. So he doesn't want very very expensive toys? <nvs>laughter</nvs></A>
+<B><F>Ah</F> no.</B>
+<A>No? <laughter><F>Oh</F> That's a good son</laughter>.</A>
+<B>Yeah.</B>
+<A><nvs>laughter</nvs></A>
+<B><SC>They</SC> <R>there</R> <R>there is</R> there is not so <F>umm</F> expense toy. <F>Umm</F>. So still, <F>er</F> he <SC>does not</SC> doesn't interesting in expensive toy. <OL>Yeah</OL>.</B>
+<A><F>Oh</F> <OL>that's good</OL>. O K. All right. <nvs>laughter</nvs> Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So thank you. Interview is almost ending. <OL>O K</OL>.</A>
+<B><OL>Yeah, thank you very much</OL>.</B>
+<A><F>Oh</F> thank you for taking a time.</A>
+<B><F>Ah</F> no.</B>
+<A>All right. Thank you.</A>
+</stage5>
+</body>
+</interview>

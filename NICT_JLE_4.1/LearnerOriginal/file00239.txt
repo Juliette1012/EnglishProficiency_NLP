@@ -1,0 +1,135 @@
+<interview>
+<filename>file00239.txt</filename>
+
+<head version="1.3">
+<date>2001-02-20</date>
+<sex>male</sex>
+<age>17</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's get started. My name is <H pn="A's name">XXX01</H>. What's your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>How are you today <H pn="B's name">XXX02</H>?</A>
+<B><SC>It's fine</SC>. <F>Uh</F> it's so-so.</B>
+<A>So-so? <F>Umm</F>. So, how did you come here from your house today?</A>
+<B><R>I</R> I take Yamanote Line <F>err</F> at exchange Inogashira Line <.></.> at Shibuya.</B>
+<A><F>Hmmm</F>. <.></.> <F>Um</F> where is your house?</A>
+<B><F>Urr</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Urrr</F>. Could you tell me about the area?</A>
+<B><.></.> <F>Umm</F>. <..></..></B>
+<A>Do you like living there?</A>
+<B>Yes.</B>
+<A><F>Hmmm</F>. What's the good point of living in <H pn="others1">XXX03</H>?</A>
+<B><.></.> <F>Urrr</F>. <..></..></B>
+<A><F>Hmm</F>. <.></.> O K. Is it near your high school?</A>
+<B>No.</B>
+<A>No? <F>Urrr</F> so, O K. Then <F>um</F> please tell me about your school now.</A>
+<B><F>Um</F>. <.></.> <R>M</R> my school <F>err</F> in <H pn="others2">XXX04</H>. <F>Err</F> I take <.></.> one hour, every day sleep.</B>
+<A><F>Ohh</F> I see. <F>Umm</F>. What's your hobby?</A>
+<B><F>Um</F>. I like music.</B>
+<A><F>Wow</F>.</A>
+<B><.></.> I play <F>err</F> sax. <.></.> <F>Err</F>. <..></..></B>
+<A>So why did you start playing sax?</A>
+<B><.></.> <F>Um</F> I like Kenny G. <.></.> My father playing sax, too.</B>
+<A><F>Wow</F>. So by the way, who is Kenny G?</A>
+<B><F>Umm</F> American musician. <SC>He is</SC> <F>mhm</F> he's playing music <F>umm</F> beautiful. <.></.></B>
+<A><F>Wow</F>. So now please tell me a little more about your father.</A>
+<B><F>Uhmm</F>. <..></..> I hardly meet him. <F>Umm</F> when I go to school <SC>he</SC> he's sleeping. <..></..></B>
+<A><F>Umm</F>. <?>You like</?> saxophone, that's why he is <??></??>. <nvs>laughter</nvs></A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much.</A>
+<B><nvs>cough</nvs></B>
+<A>First of all, I'd like to show you a picture. So <F>urr</F> please tell me about this picture.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Uhmm</F>. <.></.> <SC>She is</SC> <.></.> she's playing computer. <F>Urrm</F>. Cat is on the bed. <.></.> Dog is near <.></.> her. <.></.> It's sunny day. <..></..> <F>Mm</F>. <..></..> Nine o'clock. <..></..></B>
+</task>
+<followup>
+<A><F>Umm</F>. O K. Thank you very much. So, is this room similar to your room?</A>
+<B>No.</B>
+<A><F>Uhh</F> how different?</A>
+<B><F>Uhmm</F>. This room is very clean. <nvs>laughter</nvs> <..></..></B>
+<A>So you mean your room is very messy?</A>
+<B>Dusty.</B>
+<A>Dusty? Why it <OL>became so dusty</OL>?</A>
+<B><OL><F>Uhmm</F></OL>. <..></..> Because <R>I</R> I hardly cleaning. <.></.></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much. Now we are going to do a role-play. <F>Urr</F>. O K. Please read this card. O K?</A>
+<B>Yeah.</B>
+<A>And when you're ready, I will begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A><F>Hum</F>. I'm your friend.</A>
+<B><F>Oh</F> yes.</B>
+<A>O K. Ready? O K? <F>Hum</F>. Let's say it's on the phone. O K. <R>Ring</R> ring. <JP>Kacha</JP>. Hello.</A>
+<B>Hello. <F>Uhmm</F>. <..></..></B>
+<A>This is <H pn="A's name">XXX01</H> speaking. Who's calling?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> hi <H pn="B's name">XXX02</H>.</A>
+<B><F>Err</F>. <.></.> <SC>Did you like</SC> do you like movie?</B>
+<A>Sure.</A>
+<B><..></..> I want to go to movie with you.</B>
+<A>Sounds good.</A>
+<B><..></..> <F>Umm</F>. <.></.> What kind of movies do you like?</B>
+<A>I like love romance.</A>
+<B><nvs>laughter</nvs> <..></..></B>
+<A>Is there any good movie in the movie theater?</A>
+<B><..></..></B>
+<A><F>Well</F> actually I'm free this weekend.</A>
+<B><..></..> How about Sunday?</B>
+<A>Sure.</A>
+<B><..></..> At Shinjuku.</B>
+<A><F>Uh-hum</F>.</A>
+<B><..></..></B>
+<A>Do you know what time the movie is starting?</A>
+<B><F>Humm</F>. <.></.> <SC>Second o'clock</SC>. <SC>At two second</SC> <F>un</F> two o'clock. <..></..></B>
+<A>O K. Then let's meet at one at Shinjuku.</A>
+<B>Yes.</B>
+<A><F>Uh</F>. O K. Thank you very much. O K. Bye-bye.</A>
+</task>
+<followup>
+<A>O K. This is the end of the role-play. <F>Urr</F> <H pn="B's name">XXX02</H> do you like watching movies or <F>urrr</F> watching T V?</A>
+<B><F>Umm</F> I like watching <.></.> movie.</B>
+<A><F>Urrr</F>. So what's your favorite movie?</A>
+<B><F>Uhmm</F>. <..></..> Example <F>umm</F> "Good Will Hunting".</B>
+<A>What is good about the movie?</A>
+<B><F>Uhmm</F>. <..></..> Music is very good <R>this</R> <F>umm</F> this movie's music. <.></.></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Hum</F>. I see. Thank you very much. O K. Finally, I'll show you another picture. So this time, please make up a story. O K? Using these six pictures from one to six. This happened last week. So please start your story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<A><F>Uh-hum</F>.</A>
+<B>One day last week <F>mhm</F> <..></..> <R>he</R> he come home. <F>Umm</F>. <.></.> And <R>he</R> he listen to <F>um</F> <.></.> noise. <F>Uhmm</F>. <..></..> <R>She</R> she look for <R>this</R> this sounds. <..></..> And <R>she</R> <nvs>cough</nvs> <R>she</R> <.></.> she discover this cat. And she wants to have this cat. <F>Mm</F> but <R>he</R> <.></.> he can't afford to have cat. <..></..> <SC>She like very</SC> she very like cat. <F>Uhmm</F>. <..></..> And <R>he</R> he allowed to have cat. Finally <R>he live</R> <F>umm</F> <.></.> <R>he</R> he live with her and cat. <.></.></B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hmm</F> O K. Thank you very much. So we are almost at the end of the interview. <F>Mm</F>. What are you going to do after this interview?</A>
+<B><F>Umm</F> I go to school.</B>
+<A><F>Urrr</F>. So, in the afternoon?</A>
+<B><F>Mhm</F>. Playing sax in my school.</B>
+<A>Sounds good. <nvs>laughter</nvs> Please enjoy it. Thank you very much for coming here to have this interview today.</A>
+</stage5>
+</body>
+</interview>

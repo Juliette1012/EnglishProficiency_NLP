@@ -1,0 +1,192 @@
+<interview>
+<filename>file00180.txt</filename>
+
+<head version="1.3">
+<date>2000-10-24</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>student</category>
+<step>1</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uhm</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. <OL>Sure</OL>.</B>
+<A><OL>O K</OL>. So <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Ur</F> fine, thank you. But <R>I</R> I got over slept.</B>
+<A><F>Oh</F>. O K. <OL>Why</OL>?</A>
+<B><OL>I'm sorry</OL>.</B>
+<A>What time did you go to bed last night?</A>
+<B><F>Urr</F> I went to bed last night, <F>er</F> in <.></.> about <.></.> four o'clock.</B>
+<A><F>Wow</F>. In the morning? So where do you live?</A>
+<B><F>Err</F> I'm live in <R><H pn="others1">XXX03</H></R> <H pn="others1">XXX03</H></B>
+<A><OL>O K</OL>.</A>
+<B><OL>near</OL> my University.</B>
+<A><F>Uh-huh</F>. So do you live with your family or do you live alone?</A>
+<B><SC>I'm live in alo</SC> I live alone.</B>
+<A><F>Uh-huh</F>. So, <F>er</F> where are you from?</A>
+<B>I'm from <H pn="others2">XXX04</H> Prefecture.</B>
+<A>O K. All right, so <F>urm</F> <H pn="B's name">XXX02</H>, can you tell me a little about your hometown, <H pn="others2">XXX04</H>?</A>
+<B><F>Urr</F> my hometown, <H pn="others2">XXX04</H> City is <.></.> a capital of <H pn="others2">XXX04</H> Prefecture. And <H pn="others2">XXX04</H> Prefecture is near <F>mhm</F> <R><JP>Nihon</JP></R> <JP>Nihon</JP> Sea.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Urr</F></OL> it has a lot of <F>err</F> mountain and also sea.</B>
+<A>O K. <F>Uhmm</F> so and <F>er</F> what do you study at <H pn="school name1">XXX05</H>? What is your major?</A>
+<B><F>Er</F> I'm major in <.></.> law.</B>
+<A><F>Uh-huh</F>. <SC>Do you stu</SC> <F>er</F> do you enjoy your study?</A>
+<B><F>Er</F> yes. <R>I</R> <.></.> <SC>I'm</SC> now I'm going to another law school near <H pn="others3">XXX06</H> station. Because I want to be a <.></.> <R>law</R> law writer, so,</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>I</SC> <F>uhm</F> <.></.> <SC>only in</SC> only study in university is not enough so <R>I</R> I'm going to it.</B>
+<A>O K. All right. And do you have any hobbies?</A>
+<B><F>Urr</F> I'm a member of a sport team in university.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>So</OL> <F>uhmm</F> last year, I enjoyed basketball once or twice a week. But <F>uhm</F> this year, I started to go another law school. So <SC>I get</SC> I become busy so <R>I</R> <SC>I hardly</SC> I can hardly play it.</B>
+<A><F>Uhmm</F>. But are you a good player?</A>
+<B><laughter><F>Er</F> not</laughter>. <laughter>I'm really poor player</laughter>.</B>
+</stage1>
+<stage2>
+<task>
+<A><laughter>O K, all right, good</laughter>. So, <F>urr</F> <H pn="B's name">XXX02</H>, first of all, <F>urm</F> I'm going to show you a picture.</A>
+<B>O K.</B>
+<A>Could you please describe it to me? O K?</A>
+<B>Yes.</B>
+<A>Here you are. When you're ready, please begin.</A>
+<B>O K. <F>Urm</F>. There are two persons sitting <.></.> table.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>They</R> <F>uhm</F> they seem to start a dinner and now they are choosing wine.</B>
+<A><F>Uh-huh</F>. Anything else?</A>
+<B><F>Err</F> the restaurant staff is explaining <.></.> wine they have. And, <F>uhm</F> <.></.> <F>err</F> <.></.> <F>er</F> gentleman is choosing <R>red</R> red wine and tasting it. And <R>over</R> over there, <SC>the</SC> a lady is playing piano and <R>ma</R> <.></.> <F>urr</F> make <.></.> the custom enjoy the music.</B>
+</task>
+<followup>
+<A><F>Uhmm</F>. Very good. O K. So, <H pn="B's name">XXX02</H>, do you think you like this kind of restaurant?</A>
+<B><.></.> <F>Er</F> pardon?</B>
+<A>Do you like <OL>this kind of restaurant</OL>?</A>
+<B><OL><F>Ah</F></OL> <F>urr</F> it is <laughter>too expensive to go for me</laughter>.</B>
+<A><F>Uh-huh</F>. O K. So please tell me your most favorite restaurant.</A>
+<B><F>Ahh</F> <.></.> <JP>yakitori</JP> restaurant I like best.</B>
+<A><F>Uhmm</F>. Where is it?</A>
+<B><F>Er</F> <SC>my</SC> <F>er</F> <JP>basho</JP>? Where <R>I</R> I do part time job is very famous for its good taste.</B>
+<A><F>Urm</F>.</A>
+<B>And sometimes I get a chance to eat it from my manager and I'm very like it.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. All right. So, O K, now <F>urm</F> <H pn="B's name">XXX02</H>, this time I'd like you to try a role- play, O K?</A>
+<B>Yes.</B>
+<A>So I'm going to show you a card.</A>
+<B><OL><JP>Hai</JP></OL>.</B>
+<A><OL>And it's written in</OL> Japanese. So please read it.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>And</OL> when you're ready, I'll begin. O K?</A>
+<B><..></..> O K. I'm <OL>ready</OL>.</B>
+<A><OL>Ready</OL>? O K. It's a telephone conversation. Right?</A>
+<B>Yes.</B>
+<A>Hello? <F>Oh</F> hi, <H pn="B's name">XXX02</H>.</A>
+<B><F>Er</F> hello. <F>Err</F> <R>I'm</R> <F>urr</F> I'm <H pn="B's name">XXX02</H>. <F>Err</F>.</B>
+<A>Hi. What's up?</A>
+<B><F>Er</F> <SC>what</SC> <F>urr</F> do you have any plan in this weekend?</B>
+<A><F>Well</F> no. Why?</A>
+<B><F>Ur</F> I have a movie ticket and <R>I</R> I'm looking for a person <R>who</R> <F>er</F> who I can enjoy it <OL>together</OL>.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B>How about you?</B>
+<A><F>Er</F> <SC>what ticket</SC> what kind of ticket is that?</A>
+<B><F>Er</F> it is ticket of movie "Invisible".</B>
+<A><F>Uhm</F>.</A>
+<B><R>Do</R> do you have commercials of it?</B>
+<A>Right. I saw it on T V.</A>
+<B>I'm very interested in it. And <R>I</R> I'm sure that it is very interesting.</B>
+<A><F>Uhm</F>. O K. What time would you like to meet me?</A>
+<B><F>Er</F> the movie <SC>is start i</SC> will be <R>start</R> start <.></.> in <.></.> <F>er</F> twelve o'clock.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <SC>I can</SC> <F>urr</F> I want to sit good place and I want to be the <SC>mo</SC> <F>er</F> theater in at least eleven o'clock. So how about ten thirty in station?</B>
+<A><F>Uhm</F>. O K. Sounds good.</A>
+<B>And the near station is <H pn="others1">XXX03</H>. So <F>urr</F> <.></.> <SC>do</SC> <F>er</F> <SC>will you</SC> <F>er</F> <.></.> <F>er</F> <SC>will us</SC> <F>er</F> will we <.></.> <R>me</R> meet in <H pn="others3">XXX06</H>?</B>
+<A>O K. Where in <H pn="others3">XXX06</H>? Where?</A>
+<B><F>Urm</F> in the front of Kiyosuku.</B>
+<A><F>Urm</F>. O K. So I'll meet you there at what time?</A>
+<B><F>Errr</F> <F>uhm</F> ten o'clock and thirty minutes.</B>
+<A>O K. Ten thirty. All right. I'll meet you there. O K. All right. Good.</A>
+<B>I'm very looking forward it.</B>
+<A><F>Uh-huh</F>. <OL>Me, too</OL>.</A>
+<B><OL>Good bye</OL>.</B>
+</task>
+<followup>
+<A>O K. Bye. O K. Good. So, <F>er</F> <H pn="B's name">XXX02</H>, <SC>do you like to go and see a movie</SC> do you like movies?</A>
+<B><.></.> Yes.</B>
+<A><F>Uhm</F>. So can you tell me the movie that you have seen most recently?</A>
+<B><F>Uhmm</F>. <F>Urr</F> <.></.> <SC>the movie</SC> <F>er</F> the Japanese movie, it's "Kuroi Ie", "The Black House".</B>
+<A><F>Ohh</F>. What kind of movie is that?</A>
+<B>It is a kind of a horror movie. <F>Urr</F> <F>uhmm</F> <.></.> <SC>Ja</SC> <F>urr</F> <.></.> <JP>sarariiman</JP> <F>uhmm</F> <F>urr</F> working in <.></.> <F>err</F> <R><JP>ho</JP></R> <R><JP>hoken</JP></R> <JP>hoken</JP> company.</B>
+<A><F>Uh-huh</F>. <F>Uh-huh</F>.</A>
+<B>And <R>there are <F>uhm</F> <.></.> <F>err</F> <.></.> surprise</R> <F>er</F> there are surprised things about <.></.> that kind of <JP>hoken</JP>.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B><OL><F>Uhm</F></OL> <.></.> <F>urr</F> a wife who has husband and a <.></.> child, <R>she is</R> she is mad and <.></.> <R>mu</R> <R>murder their</R> <F>er</F> murder their child and husband.</B>
+<A><F>Ahhh</F>. O K. Did you enjoy the movie? Did you like it?</A>
+<B><F>Uhmm</F>.</B>
+<A>Scary?</A>
+<B><R>Scary</R> very scary.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, <H pn="B's name">XXX02</H>. Very good. Now, <F>urr</F> this time I would like you to try a picture sequence.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>So</OL> I would like you to look at this picture.</A>
+<B>Yes.</B>
+<A>And <F>urm</F> please make up a story looking at these pictures from one to six. O K? And this happened before. So please begin your story with "One day last week". O K? It's a past tense. <.></.> And when you're ready, please begin.</A>
+<B>Yes. <F>Err</F> one day last week, I went shopping to <JP>depaato</JP>. <SC>It is</SC> <F>urr</F> <SC>the purpose</SC> <F>er</F> the one purpose <R>is buy</R> <F>er</F> is buying my father to his birthday.</B>
+<A><F>Uh-huh</F>.</A>
+<B>I choose <R>green</R> <F>uhm</F> green tie for him and <.></.> <F>uhmm</F> thinking about thirty minutes. After thinking, <R>I</R> I bought the tie,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I like best. And <.></.> first <SC>I ba</SC> <R>I</R> <F>err</F> I came home straightly but <.></.> on the way, <R>I</R> <F>err</F> I found the sale.</B>
+<A><F>Uh-huh</F>.</A>
+<B>There are thirty percent off or fifty percent off.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <R>I</R> <.></.> <F>err</F> <SC>I sho</SC> I enjoyed shopping around there for more two hours.</B>
+<A><F>Uhmm</F>.</A>
+<B><.></.> And I bought sweater or skirt. So <.></.> <R>fir</R> <F>uhm</F> first I have <R>only one</R> <.></.> <JP><F>eeto</F></JP> <.></.> <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <F>urmm</F> only one thing I bought. But I bought <R>four more</R> <F>err</F> four more <F>errr</F> <.></.> <R>to</R> topic.</B>
+</task>
+<followup>
+<A><F>Uhmm</F>. O K. So you bought a lot of things</A>
+<B>Yes.</B>
+<A>at the end. O K. Good. O K, so <H pn="B's name">XXX02</H>, do you like shopping?</A>
+<B><F>Er</F> yes.</B>
+<A><F>Uhm</F>. Where do you usually go shopping to buy <SC>your</SC> for example your clothes?</A>
+<B><R>I</R> <.></.> I usually go to <H pn="others1">XXX03</H> or Shimokitazawa.</B>
+<A><F>Uhm</F>. O K. Why <H pn="others1">XXX03</H>?</A>
+<B><F>Uhmm</F>.</B>
+<A>Is there any your favorite store?</A>
+<B>Yes. <SC>Near</SC> <F>uhm</F> one reason is <H pn="others1">XXX03</H> is near <R>my</R> <.></.> <F>er</F> my <R>ho</R> home.</B>
+<A><F>Uhm</F> Because you live in <H pn="others1">XXX03</H>.</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. All right. So <H pn="B's name">XXX02</H>, <F>urr</F> this is almost end of the interview. <F>Uhm</F> <OL>so</OL>,</A>
+<B><OL>Thank you</OL>.</B>
+<A>all right, do you have any plans after this interview or just straight go home or?</A>
+<B><F>Urr</F> <.></.> <R>I will</R> I will go <.></.> home straightly and <.></.> study law.</B>
+<A>O K. All right. O K, <H pn="B's name">XXX02</H>. Thank you very much for coming in for the interview today.</A>
+<B><F>Er</F> thank you.</B>
+<A>Thank you.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

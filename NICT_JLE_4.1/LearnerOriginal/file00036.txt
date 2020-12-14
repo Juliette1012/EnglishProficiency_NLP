@@ -1,0 +1,216 @@
+<interview>
+<filename>file00036.txt</filename>
+
+<head version="1.3">
+<date>1999-12-17</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi, my name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Then, can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Yes? O K. So <H pn="B's name">XXX02</H> how are you today?</A>
+<B>I'm fine. Thank you.</B>
+<A>O K, good. <F>Ah</F> <H pn="B's name">XXX02</H>, can you tell me about yourself?</A>
+<B><F>Ah</F> yes. <F>Um</F> <JP><F>ee</F></JP> I live in <H pn="others1">XXX03</H> Prefecture. <F>Mm</F> it's very far. It takes about two hours by train and so <F>mm</F> very tired</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter>Everyday</laughter>.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Um</F></OL>. And <SC>I live in</SC> <F>a</F> I live with my family, yes. My family is four people. And I have <F>mm</F> little sister.</B>
+<A>I see.</A>
+<B><F>Um</F>.</B>
+<A>All right. How do you like <H pn="others1">XXX03</H>?</A>
+<B><F>Mh</F> yes, <F>mh</F> <.></.> <F>ah</F> <F>mm</F> there are no place to play, but <F>mm</F> <SC>many</SC> <F>er</F> we have many <OL><R>na</R></OL></B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B>nature.</B>
+<A><F>Mhm-huh</F>. <?>I see</?>. That must be nice though.</A>
+<B><nvs>laughter</nvs> <laughter>Yes</laughter>.</B>
+<A>All right. You said you have one sister. <OL>Right</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>Can you tell me <OL>about</OL></A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>her?</A>
+<B><F>Ah</F> yes. <F>Umm</F> my little sister is <.></.> <F>nn</F> nineteen years old and <R>she</R> <SC>she is a</SC> she is also university student. <F>Nn</F> she is <F>mh</F> first grade, yes. <F>Mh</F> her university is in <H pn="others2">XXX04</H> Prefecture.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>So does she go to school from <H pn="others1">XXX03</H>, too?</A>
+<B><F>Mh</F> <OL>yes</OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL>Yes</OL>? <F>Ah</F> all right. Very good. Now <F>um</F> <.></.> let's move on to the next stage. <OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K. Please look at this picture.</A>
+<B>Yes.</B>
+<A>And describe it for me.</A>
+<B><F>Ah</F> yes. <F>Mm</F> this room is <F>mm</F> more big than my room. And <F>mm</F> there are a dog and a cat <SC>a</SC> the cat is on the bed and <.></.> sleeping <R>and</R> <F>ah</F> and a dog is also sleeping.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>And <.></.> a girl is sitting on chair, and in front of her <F>ah</F> computer. <CO>And there is a window <F>nn</F> so</CO>. <F>Nn</F>. <F>Ah</F>. <..></..></B>
+<A>O K?</A>
+<B><R>Ye</R> yes.</B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Ah</F> is this room similar to your room?</A>
+<B><F>Mh</F> <..></..> no.</B>
+<A>No? <R>How</R> how is it different?</A>
+<B><F>Ar</F>. <.></.> <F>Mh</F> <..></..> there are <F>uh</F> <..></..> a window in this room, but our room <R>ha</R> have two windows, and <.></.> there is a telephone, but my room is not telephone.</B>
+<A>I see. All right. Good. Now in Japan you can have the Japanese room or western style room. Which do you like better?</A>
+<B><F>Ah</F> <..></..> <F>mm</F> Western style's room is better.</B>
+<A><F>Ah</F> why do you think so?</A>
+<B>Yeah <F>um</F> <.></.> Japanese <.></.> style <.></.> is <F>mh</F> <F>mm</F> we can't use bed. <.></.> <F>Ah</F> I like bed because <F>mm</F> <.></.> <F>mm</F> bed is <.></.> useful <laughter><OL>for me</OL></laughter>.</B>
+<A><OL>Yeah, yeah</OL>. You're right.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Very good. Thank you.</A>
+<ctxt>The interviewer takes out the picture.</ctxt>
+<A>Now next we will do a role play.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K. I want you to read this card.</A>
+<B>Yes.</B>
+<A>And when you are ready, I will start.</A>
+<B>Yes.</B>
+<ctxt>The examinee reads the card silently.</ctxt>
+<B>Yes. <OL>O K</OL>.</B>
+<A><OL>O K</OL>. May I help you?</A>
+<B>Yes. <F>Ah</F> <R>I want to</R> <.></.> <F>ah</F> I want to a bicycle.</B>
+<A>O K. <F>Er</F> <F>well</F> this is a bicycle store so we have many kinds of <OL>bicycle</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Um</F> I want to <F>er</F> <F>mm</F> cheap one, and color is <F>mm</F> red.</B>
+<A>O K, <F>ah</F> <F>well</F> we have some cheap red bicycles, too. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Yes. <F>Uh</F> <F>ah</F> I want to twenty-four <SC>inch</SC> <R>i</R> inches one, <F>hum</F> <OL>please</OL>.</B>
+<A><OL>O K</OL>. <F>Er</F> yes, <F>ah</F> we have <OL>two types</OL></A>
+<B><OL>Yeah</OL>. <CO><OL>What</OL></CO>.</B>
+<A><OL>with that size</OL>.</A>
+<B><F>Oh</F> <F>mh</F>. What kind of type?</B>
+<A>O K. <F>Ah</F> <R>this</R> this one is <F>ah</F> <R>Brigi</R> Bridgestone and the other one is made in Korea.</A>
+<B>Korea. <F>Um</F>. I want to buy <R>Bri</R> Bridgestone one.</B>
+<A>O K. <CO>That's</CO>. <OL><F>Er</F></OL>.</A>
+<B><OL>How much</OL>?</B>
+<A><F>Mhm-huh</F>. The Bridgestone one is three hundred fifty dollars.</A>
+<B>Yeah. <F>Ah</F> <F>uh</F> <.></.> then <JP><F>e</F></JP> Korean bicycle is <F>ah</F> how much?</B>
+<A><F>Ah</F> this Korean one is one hundred <OL>twenty</OL></A>
+<B><OL><CO>One</CO></OL>.</B>
+<A>dollars.</A>
+<B>Yeah. <F>Ah</F> I want to a cheap one <F>mm</F> <SC>because</SC> <F>ah</F> but <F>um</F> is this Korean one <F>uh</F> easy to broken?</B>
+<A><F>Ah</F> no, it's very tough,</A>
+<B><OL>Tough</OL>?</B>
+<A><OL>and</OL> <F>uh-huh</F> it's good quality one.</A>
+<B><F>Ah</F> then <F>eh</F> I want to buy this <OL>Korean one</OL>.</B>
+<A><OL>O K. O K</OL>. <F>Er</F> the only problem is that we are out of stock now.</A>
+<B><F>Oh</F> yeah. <F>Mh</F> <SC>when <F>uh</F> do you</SC> <F>er</F> when can I buy it?</B>
+<A><F>Ah</F> we will get <R>a new</R> <F>uh</F> a new one <R>in</R> in ten days.</A>
+<B>In ten days. <F>We</F> O K. And then, I will <.></.> <F>aa</F> buy.</B>
+<A>O K. So <F>umm</F> maybe you can come back in ten days.</A>
+<B>Yes.</B>
+<A>All right. O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A>Thank you.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>So, <F>er</F> do you like shopping?</A>
+<B><F>Mh</F> <.></.> yes.</B>
+<A>Yes?</A>
+<B><F>Um</F>.</B>
+<A>O K. Please tell me about your last shopping.</A>
+<B>Last shopping. Yes <F>mh</F>. <..></..> <F>Ah</F> yes. Yesterday, I bought a book <F>uh</F> <.></.> about English. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL>.</A>
+<B>But <R>I</R> <F>ah</F> I haven't read this book yet.</B>
+<A>I see. O K. <F>Well</F> maybe you will enjoy reading it.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><laughter><OL><?>O K</?></OL></laughter>.</A>
+<B><OL><laughter>Thank you</laughter></OL>.</B>
+</followup>
+</stage3> 
+<stage4>
+<task>
+<A><laughter>O K</laughter>. <OL>Now</OL>,</A>
+<B><OL>Yeah</OL>.</B>
+<A>the next stage is <F>ah</F> story making.</A>
+<B>Yeah.</B>
+<A>Please look at <R>the</R> these pictures. O K? I want you to make a short story.</A>
+<B>Yes.</B>
+<A>And this happened last week. O K? So please start your story <SC>one</SC> with "One day last week".</A>
+<B><F>N</F>.</B>
+<A><OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<ctxt>The interviewee is looking at the picture and thinking of what to say.</ctxt>
+<B>Yeah, O K.</B>
+<A>Go ahead.</A>
+<B>Yeah. <F>Ahm</F>. <.></.> A boy is speaking <SC>with a girl</SC> with <SC>her</SC> his girlfriend on telephone and <.></.> they will <.></.> <SC>go</SC> <..></..> <F>mm</F> <.></.> drive and will go to zoo. And the boy <F>mh</F> <SC>put her <..></..> in</SC> <F>n</F> put her <F>uh</F> to her house and they go zoo. And they watched a lion and monkeys and so on and they enjoyed <.></.> very much.</B>
+</task>
+<followup>
+<A>O K. Very good. <F>Er</F> thank you. Do you like going to the zoo?</A>
+<B><F>Mh</F> yes.</B>
+<A>Yes? O K. Now I want you to tell me one good thing and one bad thing about the zoo.</A>
+<B><F>Ah</F> yes, <laughter>please</laughter>.</B>
+<A>O K. Please tell me what do you think is a good point and <OL>a</OL></A>
+<B><OL><F>Ah</F></OL>.</B>
+<A>bad point.</A>
+<B>Bad point. Yes. Good point is <F>mh</F> I like animals, so in zoo, <F>uh</F> we can see many kind of animals, and they are very cute. <SC>And</SC> but <F>mh</F> bad point is <F>uh</F> <SC>little</SC> <F>ah</F> <F>ah</F> <.></.> <F>mh</F> the smell is little bad. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K, all right</laughter></OL>. <laughter>Yeah, <R>that's</R> that's true</laughter>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Now</OL> <F>ah</F> what do you think about the animals <F>ah</F> like the lions and gorillas in a small cage?</A>
+<B><F>Ah</F> yeah. <.></.> I think it's <..></..> <R>s</R> <F>mh</F> sad for them because I think they want to <.></.> be in big <R>s</R> space.</B>
+<A><F>Nn</F> yeah.</A>
+<B><F>Nn</F>.</B>
+<A>What do you think we can do to improve this situation?</A>
+<B><F>Ah</F> <F>mh</F> I think <F>mh</F> with difficult for them <F>mm</F> I like <.></.> zoo, but for animals, <F>mh</F> if it's possible, I want to go wild</B>
+<A><F>Mhm-huh</F>.</A>
+<B>place.</B>
+<A>Yeah, you're right.</A>
+<B><F>Um</F>.</B>
+<A>O K. Very good opinion. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Thank you</laughter></OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K, now this is almost the end of the interview.</A>
+<B><F>Hum</F>.</B>
+<A><F>Er</F> what is your plan for the New Year?</A>
+<B>Yes, <F>mh</F> <F>ah</F> <SC>I'm</SC> <.></.> I will be in my house with my mother <.></.> and my sister. And I want to eat <JP>mochi</JP></B>
+<A><F>Mhm-huh</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>and</laughter></OL> <JP>osechi</JP> and so on. But my father <SC>i</SC> will be in his company.</B>
+<A><F>Hum</F> that's too bad.</A>
+<B>Yeah.</B>
+<A><F>Um</F>.</A>
+<B>So <.></.> <F>um</F> this New Year will be only three people.</B>
+<A><F>Uhm</F>. Are you going to help your mother cook?</A>
+<B><nvs>laughter</nvs> <laughter>Maybe not</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>No</laughter></OL>?</A>
+<ctxt>Somebody comes into the room.</ctxt>
+<A>O K.</A>
+<ctxt>The person apologizes in Japanese.</ctxt>
+<A><F>Well</F> <F>ah</F> I think it's about time <OL><laughter>so</laughter></OL>.</A>
+<B><laughter><OL><F>Ah</F> yeah</OL></laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B><CO><OL>So</OL></CO>.</B>
+<A><OL>Anyway</OL> thank you very much for coming.</A>
+<B><OL>Yes, thank you <??></??></OL>.</B>
+<A><OL>and this is all</OL> for the interview.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,142 @@
+<interview>
+<filename>file01089.txt</filename>
+
+<head version="1.3">
+<date>2002-04-12</date>
+<sex>female</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>600</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K? <F>Well</F> nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Miss <H pn="B's name">XXX02</H>, where are you from?</A>
+<B>I'm from <H pn="others1">XXX03</H>.</B>
+<A>O K. But <H pn="others1">XXX03</H> is a big city so where in <H pn="others1">XXX03</H> are you from?</A>
+<B><F>Ur</F> I lived in <H pn="others2">XXX04</H> City.</B>
+<A><F>Mm-hm</F>. But tell me about <H pn="others2">XXX04</H> City, please.</A>
+<B><F>Ur</F> <H pn="others2">XXX04</H> is in the south of <H pn="others1">XXX03</H>. <JP><F>Unto</F></JP> population is <F>ur</F> I can't remember.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>But</OL> <F>ur</F> <R>it</R> it takes about forty minutes from Shibuya <SC>by train</SC> by <R>taking</R> taking train.</B>
+<A><F>Mm-hm</F>. <F>Mm-hm</F>.</A>
+<B>And <F>ur</F> there're many department store in the center of <H pn="others2">XXX04</H> City. So we can enjoy shopping. And <F>err</F> <.></.> <R>I</R> <SC>I</SC> <F>mm</F> <R>in</R> in spring, <F>mm</F> we can enjoy the cherry blossoms. Yeah, it's so beautiful.</B>
+<A><F>Uhh</F>. O K.</A>
+<B><F>Mm</F>. <.></.> And <.></.> <F>mm</F> <R>I</R> <R>I like</R> I like <H pn="others2">XXX04</H> because <F>err</F> it's convenient to go to Shibuya, or go to Yokohama by train.</B>
+<A>O K. I see. <F>Well</F> thank you very much. Then what is your hobby?</A>
+<B><F>Uh</F> my hobby is doing <SC>sport</SC> <SC>some kind</SC> some sports. <F>Er</F>. <CO>For example, playing baseball and</CO>.</B>
+<A>Do you play baseball?</A>
+<B>Yes. <F>Ur</F>.</B>
+<A>O K.</A>
+<B>And playing tennis and running. And <F>mm</F> <SC>the other hobby is playing the</SC> <F>uh</F> the other hobby is <F>mm</F> camera, taking a photo and playing the guitar.</B>
+<A><F>Wow</F>.</A>
+<B>That's all. <nvs>laughter</nvs></B>
+<A><F>Wow</F> you have so many hobbies. O K. So do you have special cameras now?</A>
+<B><R>Ye</R> yes, but <F>mm</F> <R>it's</R> <F>mm</F> <F>um</F> it's <R>cheap</R> cheap camera, but <SC>I</SC> when I get first salary, I want to get a new camera. I want to buy <F>ur</F> more expensive camera.</B>
+<A>O K. That's good. Do you have any brothers or sisters?</A>
+<B><F>Uh</F> yes. I have an older sister. And she live in <H pn="others1">XXX03</H>, too. <F>Mm</F> she works at <H pn="others1">XXX03</H>.</B>
+<A><F>Mhm</F>. O K. So do you often contact her?</A>
+<B><F>Mm</F> yes. But by only e-mail.</B>
+<A>Only e-mail. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then look at this picture, please. And please describe it.</A>
+<B><.></.> <F>Mm</F> <SC>there're</SC> there are many people. <F>Err</F> and <..></..> <SC>one per</SC> <SC>one</SC> <F>mm</F> <SC>the</SC> one person is running <F>mm</F> along the road, and <.></.> <R>two</R> two women are <SC>talking each other</SC> talking together. <R>One</R> one woman <F>er</F> is touching a dog. And a cat is sleeping on the roof of a car. And a man is reading a newspaper <SC>on</SC> <F>mm</F> sitting on the bench. And <SC>it's very sunny</SC> it's very fine today <SC>this</SC> in this picture. And the two boys are playing with a ball. <F>Mm</F>. <..></..> A girl is playing with rope. <.></.> And there are <F>err</F> <.></.> some trees.</B>
+<A>O K. Very good. Thank you very much.</A>
+</task>
+<followup>
+<A>Then <F>urr</F> what is the big difference between your hometown in <H pn="others2">XXX04</H> and this picture?</A>
+<B><F>Uhh</F> <.></.> the big difference is <.></.> <R>the</R> the width of the road. <F>Uhm</F> in <H pn="others2">XXX04</H>, the width of road is <SC>na</SC> <SC>more narrow</SC> <R>na</R> <SC>narrower</SC> more narrower than in this picture. <.></.></B>
+<A>Any other differences?</A>
+<B><F>Mhm</F> and <.></.> <F>mmm</F> in <H pn="others2">XXX04</H>, there're many apartment. <F>Mhm</F> in this picture, <R>there're</R> <SC>there're only <.></.> not</SC> there is only house.</B>
+<A>O K. O K. <OL><laughter>Good, thank you very much</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>And next is role play. O K. This is your card. Please read it.</A>
+<B><.></.></B>
+<A>And when you're ready, I will start.</A>
+<B><F>Mm</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Mm</F>.</B>
+<A>Ready?</A>
+<B><CO>Ye</CO>. <OL><F>Uh</F> <F>uh</F> <F>uh</F> <F>uh</F></OL>.</B>
+<A><OL>O K, O K</OL>.</A>
+<ctxt>The interviewee keeps reading.</ctxt>
+<B>O K.</B>
+<A>O K. Then ring-ring. Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Ur</F> <R>I'm</R> <SC>I'm a</SC> I'm <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. What happened?</A>
+<B><F>Ur</F> <F>urr</F> <..></..> I'm going to <.></.> go to <R>your</R> <F>ur</F> your dinner party, but <R>I have cat</R> <SC>I have catch a cold</SC> I have caught a cold. So <F>erm</F> <R>I</R> <.></.> I am not be able to go to dinner party.</B>
+<A><F>Wow</F> too bad. But <F>ur</F> is your cold so bad?</A>
+<B><F>Ur</F> yes. <R>I</R> <SC>I have a stomach</SC> <F>mm</F> <SC>head</SC> I have a headache. And <R>I</R> <R>I can't</R> <F>mm</F> I can't go out.</B>
+<A><F>Uhh</F> too bad. But do you have a fever?</A>
+<B>Yes. <R>I</R> <R>I</R> I have a fever, but <R>I</R> <SC>I take a some</SC> <F>uh</F> I take some medicine <SC>so <F>uhm</F> I</SC> but <F>mm</F> <R>I</R> I want to stay in my home.</B>
+<A><F>Uhh</F> I see. But <R>I</R> I invited many friends, and they all want to see you so why don't you come?</A>
+<B><F>Ur</F> <F>urr</F> I'm sorry, but <F>err</F> I'm afraid <R>my</R> <.></.> <F>uhm</F> <R>my</R> <R>my virus</R> <nvs>laughter</nvs> my virus <F>uhm</F> <..></..> <R>tra</R> <SC>trans your</SC> trans to your <F>mm</F> customers.</B>
+<A><F>Uhh</F>. O K. O K. You're worrying about my friends. O K. I see. Then take care of yourself.</A>
+<B>Thank you. But <F>er</F> <R>please</R> please call me another time.</B>
+<A>Yes, of course. O K. Thank you for calling.</A>
+<B>You're welcome.</B>
+<A>O K. Then see you again.</A>
+<B>See you again.</B>
+</task>
+<followup>
+<A>Thank you. Good. This is the end of role-play. O K. <F>Urr</F> do you like a party?</A>
+<B><F>Ur</F> what kind of party?</B>
+<A>Any kind of party.</A>
+<B><F>Urr</F> <F>uhm</F> I like some party, but I don't like <R>a</R> <SC>any</SC> another kind of party. <F>Uhm</F>.</B>
+<A>O K. What kind of party do you like?</A>
+<B><F>Uh</F> I like party <F>uh</F> <F>uhm</F> <.></.> <SC>which is <.></.> taken for</SC> <F>mm</F> which is among my friends, but <R>I</R> <F>mm</F> I don't like party which is for <F>mm</F> business party. <nvs>laughter</nvs></B>
+<A>O K. I agree.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Then another picture for you. This time, please make up a story. O K? Using six pictures from number one to number six. And it happened before so please start your story with, "One day last week,"</A>
+<B><.></.> <R>I</R> <F>mm</F> <.></.> I must make the story?</B>
+<A><F>Mm-hm</F>. Yes.</A>
+<B><F>Uh</F>. <F>Mhm</F>. <.></.> <R>On</R> on Monday <R>I</R> I was going <R>to</R> to make a dinner, but <F>uhm</F> <F>er</F> <F>uhm</F> <R>when I</R> when I <F>mm</F> find out some food in refrigerator <F>er</F> <SC>there were</SC> there weren't any food. So <SC>I was going to go</SC> <F>uh</F> <SC>I was</SC> I went to supermarket for buying food by my car. And <R>I</R> <..></..> I took some food into shopping cart, and <R>I</R> I paid at register. And <R>I</R> <.></.> <F>ur</F> <R>I</R> I took <F>er</F> <..></..> the food what I bought. And <R>after</R> after shopping, <R>I</R> <..></..> <R>I</R> <R>I cook</R> <SC>I cook</SC> I made a dinner. <..></..> <nvs>laughter</nvs> <..></..> <F>Hm</F>. <nvs>laughter</nvs></B>
+<A>O K. O K. Good.</A>
+</task>
+<followup>
+<A>O K. <F>Ur</F> do you like cooking?</A>
+<B><F>Ur</F> yes, I like cooking.</B>
+<A>O K. Then what is your favorite cooking?</A>
+<B><F>Uh</F> <R>I like</R> <.></.> <F>mm</F> I like cooking Japanese food.</B>
+<A><F>Mm-hm</F>.</A>
+<B><SC>Like</SC> for example, <F>uhm</F> <..></..> <laughter><JP>nikujaga</JP></laughter> and <JP>miso</JP> soup. <F>Uhm</F> but <R>I</R> I can't cook <F>uhm</F> European food. For example, steak or <..></..> spaghetti.</B>
+<A><laughter>O K</laughter>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. And this is almost the end of interview. <OL>O K</OL>?</A>
+<B><OL><laughter>Thank you</laughter></OL>.</B>
+<A><F>Well</F> today is Friday. Do you have any plans to do after <F>ur</F> English lesson?</A>
+<B>After English lesson? <F>Mhm</F> I don't have any appointment because <F>uhm</F> <.></.> <SC>it</SC> <.></.> <F>er</F> <SC>when</SC> <.></.> <R>on</R> on last March, <..></..> <R>I</R> I went to Kyoto from <H pn="others1">XXX03</H> so I don't have many friends to meet.</B>
+<A><F>Uhh</F>. O K.</A>
+<B><CO>So <R>I</R> I don't have friends to meet <SC>this</SC> tonight <laughter>or</laughter></CO>.</B>
+<A><laughter>O K, I understand</laughter>. O K. But anyway, enjoy your weekend.</A>
+<B>Thank you.</B>
+<A>Thank you very much, and this is all.</A>
+<B><nvs>laughter</nvs></B>
+<A>Good.</A>
+</stage5>
+</body>
+</interview>

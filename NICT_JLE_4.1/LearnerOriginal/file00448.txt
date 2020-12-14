@@ -1,0 +1,129 @@
+<interview>
+<filename>file00448.txt</filename>
+
+<head version="1.3">
+<date>2001-05-31</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <?>So</?> where do you live?</A>
+<B><F>Erm</F> <SC>I'm</SC> <F>erm</F> <..></..> near here and <SC>it's</SC> <?>there</?> <F>er</F> is next to <..></..> <F>er</F> center library.</B>
+<A>So do you live there alone?</A>
+<B>Yes.</B>
+<A>Where is your hometown?</A>
+<B><F>Ee</F> my hometown is <F>ee</F> <.></.> <R><H pn="others1">XXX03</H></R> <F>ee</F> <H pn="others1">XXX03</H>. <..></..></B>
+<A>Which do you like better, <H pn="others2">XXX04</H> or <H pn="others1">XXX03</H>?</A>
+<B><F>Err</F> <..></..> <R>I</R> I don't very like <H pn="others1">XXX03</H>. <R>But</R> <..></..> but very like <H pn="others2">XXX04</H>, too.</B>
+<A><nvs>laughter</nvs> So what about <H pn="others1">XXX03</H> don't you like most?</A>
+<B><F>Uum</F> <..></..> south town is <F>mm</F> not clean. <.></.> <F>Er</F> <..></..> its atmosphere <.></.> is <F>mm</F> I don't like. <OL><nvs>laughter</nvs></OL></B>
+<A><F>Um</F> <OL><laughter>I see</laughter></OL>. O K. So do you belong to any clubs or circles in <H pn="school name1">XXX05</H>?</A>
+<B><F>Ee</F> I belong to modern jazz</B>
+<A><F>Hum</F>.</A>
+<B>club.</B>
+<A>What do you do in the modern jazz club?</A>
+<B><F>Um</F> I plays the wood bass.</B>
+<A><F>Hmm</F> <.></.> what do you like most about playing the wood bass?</A>
+<B><F>Er</F> <F>err</F> I like Sam Jones, <F>um</F> he play with <F>um</F> Miles Davis and <..></..> John Coultlane and so on.</B>
+<A><F>Hm</F> I see. O K. So in your free time, what do you usually do except playing the bass?</A>
+<B><F>Er</F> <R>I</R> <..></..> I <R>always</R> always reads books and <..></..> <F>eh</F> through the <R>nai</R> night. <F>mm</F>?</B>
+<A><F>Hum</F> what kind of books do you read?</A>
+<B><F>Err</F> <..></..> <F>eh</F> <..></..> I read <F>er</F> many kind of books. <F>Er</F> recently, I read <F>er</F> <.></.> Hemingway's and Dostoevsky and Haruki Murakami.</B>
+<A><F>Oh</F> I see. O K. All right. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>So first thing today, please look at this picture. And please describe this picture.</A>
+<B><F>Err</F> <.></.> it's restaurant. <F>Er</F> <..></..> some people enjoy eating. And <..></..> <F>er</F> <..></..> a sommelier <F>ee</F> <..></..> introduce a wine <.></.> to <.></.> a couple.</B>
+<A><F>Hm</F> O K. All right.</A>
+</task>
+<followup>
+<A>So could you tell me about the restaurant you often go?</A>
+<B><OL><laughter><F>Err</F></laughter></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I <.></.> don't <F>er</F> often go restaurant. But <F>er</F> <..></..> I have <.></.> worked in restaurant once.</B>
+<A><F>Um</F> can you tell me about the restaurant where you worked?</A>
+<B><F>Err</F> <..></..> <SC>there is</SC> <F>er</F> <F>er</F> that restaurant is in <H pn="others3">XXX06</H>. And <..></..> it's very big restaurant. And <..></..> perhaps <..></..> it's have <F>er</F> hundreds of seat.</B>
+<A><F>Hm</F> I see. So it's a very big restaurant.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. So next, please read this card. And we will have a role-play. O K? And when you are ready, I will begin the role-play.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready? O K. Let's start. Good afternoon, sir. May I help you?</A>
+<B><F>Err</F> I want to go to New York <F>er</F> <..></..> <R>as</R> as fast as I could. <F>Er</F> <..></..> where <R>I</R> <SC>I</SC> can I get <F>er</F> tickets?</B>
+<A>You can buy a ticket here from me.</A>
+<B><F>Ah</F>. <..></..></B>
+<A>We have a local train and express train.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>And</OL> the prices are different.</A>
+<B><F>Er</F> how much is it, <F>er</F> express train?</B>
+<A>Express is eighty dollars.</A>
+<B><SC>And local is</SC> <F>er</F> <F>er</F> how much is it, local's?</B>
+<A><F>Er</F> local's is forty dollars.</A>
+<B><OL><laughter><F>Err</F></laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><..></..> <F>Err</F> <..></..> I get express train tickets.</B>
+<A>O K. So that'll be eighty dollars.</A>
+<B><.></.></B>
+<A>O K. <OL>So here is your ticket</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> Thank you.</B>
+<A>Anything else?</A>
+<B><.></.> <F>Er</F> <..></..> no, thank you. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K, all right</laughter></OL>. <laughter>Have a nice trip</laughter>. O K. So this is the end of the role-play.</A>
+</task>
+<followup>
+<A>So, have you been abroad?</A>
+<B>Yes. I have been to <F>er</F> <.></.> <SC?>U K's</SC?> U K and French and German.</B>
+<A><F>Hm</F> can you tell me about the best memory you had?</A>
+<B><F>Err</F> <..></..> in German, I played the hang glider.</B>
+<A><F>Huum</F>.</A>
+<B>It's <F>er</F> <..></..> as if I were a bird. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. <nvs>laughter</nvs></A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So last thing today, please look at this picture. There are four pictures from one to four. And please tell me what's happening in these pictures from one to four.</A>
+<B><F>Erm</F> <..></..> a couple went to a zoo. And <R>they</R> <..></..> they first <.></.> <F>eh</F> saw the lion. <R>And</R> <..></..> and <..></..> after, they saw <F>er</F> monkeys <F>ee</F> eating banana. <..></..> And then, a girl have <.></.> a <.></.> soft cream. And boy talked to her. <..></..> And <..></..> they went out <?>along to</?>. And <..></..> divide.</B>
+<A><F>Um</F> <F>um</F> O K. All right. Thank you. Good.</A>
+</task>
+<followup>
+<A>So what's your favorite animal?</A>
+<B><F>Err</F> animal? <F>Er</F> <nvs>laughter</nvs> <.></.> <F>er</F> <nvs>laughter</nvs> I like <F>er</F> cats. <SC>I</SC> <F>ee</F> <..></..> home <F>er</F> in <H pn="others1">XXX03</H>, I have a cat.</B>
+<A>Can you describe what kind of cat it is?</A>
+<B><F>Err</F> it's like <F>er</F> American shorthair, but <..></..> is, perhaps, not. <.></.> She is <F>ern</F> <F>er</F> mix. <..></..> <R>She</R> <..></..> she <F>er</F> lost her way,</B>
+<A><F>Uhm</F>.</A>
+<B>and I <R>pick</R> pick up.</B>
+<A>Really? <F>Oh</F> O K. You are such a nice person. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>Good. Thank you. We have come to almost the end of the interview. So do you have any plans this afternoon?</A>
+<B><F>Err</F> <..></..> after <.></.> <R>this</R> this, I <.></.> go to eat lunch with my friends. He is <F>er</F> sleeping now.</B>
+<A><nvs>laughter</nvs> <laughter>O K, just like you this morning</laughter>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs> He is sleeping in my room</OL>.</B>
+<A><laughter><F>Oh</F> In your room</laughter>? <laughter>O K</laughter>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>All right. Thank you very much. This is the end of <OL><laughter>the interview</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage5>
+</body>
+</interview>

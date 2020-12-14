@@ -1,0 +1,274 @@
+<interview>
+<filename>E_file00803.txt</filename>
+
+<head version="1.3">
+<date>2001-11-22</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>820</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yeah. <F>Er</F> my name is <H pn="B's name">XXX02</H>. <F>Er</F> please call me <H pn="B's name">XXX02</H>.</B>
+<A>O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><H pn="B's name">XXX02</H></OL>, nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B>Yes. <F>Er</F> pretty good. <OL>Yeah</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><F>Er</F> how are you?</B>
+<A>Good.</A>
+<B>Yeah.</B>
+<A>Thank you.</A>
+<B>It's good.</B>
+<A><F>Well</F> tomorrow is a national holiday.</A>
+<B>Yes.</B>
+<A>Do you have any plans?</A>
+<B>Yeah. <F>Err</F> my parents <F>err</F> <v_tns odr="1" crr="will come">come</v_tns> to my house. And <F>er</F> my wife is <F>er</F> <SC>now</SC> maybe now <v_cmp odr="2" crr="preparing lunch">preparing of <at odr="1" crr="">the</at> lunch</v_cmp>. <R>Co</R> cooking.</B>
+<A><F>Er</F> <OL>really</OL>?</A>
+<B><OL>Yes</OL>. <F>Hm</F>.</B>
+<A><F>Er</F> would you tell me about your wife?</A>
+<B>Yes. <F>Err</F> <R>we</R> <F>er</F> we got married <R>abou</R> about a year ago.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. And <F>er</F> <F>er</F> my friends <F>err</F> <v_tns odr="1" crr="introduced">introduce</v_tns> her, <F>err</F> <F>um</F> <R>it</R> it was just, yeah, two years ago.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Uum</F>. Yes. <?>And</?> now <SC>she is</SC> <F>mm</F> <R>sh</R> <F>er</F> she doesn't <R>wo</R> work. <F>Uum</F>. Yeah, Just housekeeping,</B>
+<A><OL><F>Er</F> really</OL>.</A>
+<B><OL>or watching T V</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>You must be really happy with her.</A>
+<B>Yeah.</B>
+<A>O K. So <F>er</F> do you remember your honeymoon? Can you tell me about that?</A>
+<B>Yes. <F>Err</F> <F>err</F> <SC>this Frid</SC> <F>err</F> sorry, this February <F>err</F> we went to Cancun <F>er</F> in Mexico.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F>. Yeah. <F>Er</F> it was <F>er</F> <R>seven days</R> <F>um</F> <at odr="1" crr="a"></at> seven <n_cs odr="2" crr="days'">days</n_cs> trip. <F>Mh-hmm</F>. But <F>err</F> <F>er</F> the next day, <F>err</F> <F>err</F> we got to <F>mm</F> the place, <F>err</F> <F>er</F> I <v_tns odr="1" crr="got">'ve got</v_tns> a fever and, <F>er</F> <F>err</F> sorry, <R>di</R> diarrhea. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>Yeah</laughter>. <F>Um</F> <nvs>laughter</nvs> yes. <F>Er</F> I was staying <prp_lxc2 odr="1" crr="in"></prp_lxc2> bed <F>er</F> for <R>t</R> two days. Yes. And <R>the</R> <F>ur</F> <F>er</F> <prp_lxc1 odr="1" crr="on"></prp_lxc1> the <SC>last day</SC> <F>er</F> <SC>las</SC> final day, <F>err</F> my wife <nvs>laughter</nvs> got a fever and <F>er</F> <SC>get</SC> got off. <F>Uh</F> <SC>and</SC> <R>so</R> <F>er</F> so <R>the</R> <F>err</F> <prp_lxc1 odr="1" crr="on"></prp_lxc1> the <SC>plane</SC> air plane <F>er</F> to Japan <F>err</F> she couldn't stay at <R>her</R> her seat.</B>
+<A><OL>Really</OL>.</A>
+<B><OL><R>Ye</R></OL> yes. <F>Er</F> <SC>it jus</SC> <F>err</F> <F>um</F> <SC>but <F>er</F> it was</SC> <R>of</R> of course, it was <at odr="1" crr="a"></at> nice trip but <nvs>laughter</nvs> we have <at odr="2" crr="a"></at> bad memory also. <nvs>sniff</nvs></B>
+<A>Really.</A>
+<B>Yeah.</B>
+<A>Sorry to hear that. But why did you choose Cancun?</A>
+<B>Yeah. <F>Err</F> <F>er</F> I love <F>err</F> resort <n_num odr="1" crr="areas">area</n_num>. <F>Uh-huh</F>. <SC>And</SC> but <F>er</F> my wife doesn't like <F>err</F> resort <n_num odr="1" crr="areas">area</n_num>. <R>She</R> she likes to <F>er</F> <v_fml odr="1" crr="go">going</v_fml> around and <v_lxc odr="2" crr="do"></v_lxc> sightseeing. So <F>er</F> at first, <F>uh</F> <F>er</F> I'd like to go to, <F>er</F> for example, <F>err</F> Hawaii or <R>Fiji</R> Fiji or just <F>er</F> <at odr="1" crr="a"></at> resort island. <F>Uhu</F>. <F>Er</F> but <F>er</F> my wife <F>err</F> didn't agree with me. <F>Erm</F> <R>if</R> if we <v_tns odr="1" crr="go">went</v_tns> to <F>err</F> Mexico, <R>we can see</R> we can see, <F>err</F> <R>wha</R> what can I say, <F>uum</F> <at odr="2" crr="">the</at> very old <F>er</F> historical <F>err</F> <n_num odr="3" crr="architectures">architecture</n_num> <SC>or</SC> <nvs>sniff</nvs> <F>um</F> yes, <F>uum</F> <F>uum</F> <F>er</F> <R>what</R> <SC>what</SC> <F>err</F> and <R>w</R> <R>we</R> we <mo_lxc odr="4" crr="can"></mo_lxc> <v_fml odr="5" crr="swim" ch="4">swam</v_fml> with <F>er</F> <n_num odr="6" crr="dolphins">dolphin</n_num>.</B>
+<A><F>Uhu</F>.</A>
+<B>So <F>er</F> <R>s</R> such kind of <n_num odr="1" crr="attractions">attraction</n_num> <F>um</F> <.></.> yeah, attracted her.</B>
+<A><F>Uhu</F>.</A>
+<B>So <F>err</F> we decided. <F>Err</F> <SC>we both</SC> both of <pn_cs odr="1" crr="us">we</pn_cs> <F>er</F> compromised. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B>And we decided.</B>
+<A>I see. But both of you got sick.</A>
+<B>Yes.</B>
+<A><F>Hm</F>. <R>Wh</R> <R>wh</R> what was the first thing you did? When you had a fever, how did you deal with your body condition?</A>
+<B>Yeah. <F>Err</F> <F>err</F> to tell the truth, <F>err</F> <.></.> <SC>so</SC> <R>we</R> we were very upset <laughter>and</laughter> we didn't know how to do, so <?>now</?> <F>err</F> I just <v_tns odr="1" crr="stayed">staying</v_tns> in bed <F>err</F> and, yeah, <F>er</F> <v_tns odr="2" crr="took">take</v_tns> <F>er</F> some kind of <R>me</R> medicine <F>mm</F> <R>I</R> I <R>brought</R> brought <prp_lxc1 odr="3" crr="">to</prp_lxc1> there. <SC>But</SC> and <F>err</F> yes, <F>err</F> it couldn't heal my <F>er</F> <n_lxc odr="1" crr="illness">sick</n_lxc>. So my wife <F>mm</F> <v_tns odr="1" crr="called">calls</v_tns> to <F>err</F> <at odr="2" crr="a">the</at> person of <at odr="3" crr="the"></at> hotel. <CO><R>And</R> yes, and <R>they</R> <R>they</R> they told us <F>err</F> <R>to</R> <F>er</F> to</CO>. So <nvs>laughter</nvs> in Japan, <F>er</F> when we <v_tns odr="1" crr="get">got</v_tns> a fever, <F>err</F> we usually <F>err</F> make our body <SC>warm</SC> hot, but they said, "<R>Please k</R> please keep the room very cold".</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> And so she took off my <F>err</F> <laughter>blanket</laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B><R>I</R> <R>I</R> <F>err</F> <F>er</F> yes, <F>err</F> <R>I</R> I was <SC>s</SC> shivering. But <F>er</F> <R>it</R> it was <at odr="1" crr="a"></at> good way.</B>
+<A><OL><F>Er</F> really</OL>.</A>
+<B><OL><CO>So</CO></OL>. Yeah.</B>
+<A>You can never forget.</A>
+<B>Yeah. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture.</A>
+<B><F>Uhu</F>.</B>
+<A>This one.</A>
+<B>Yeah.</B>
+<A>Could you describe it to me?</A>
+<B>Yes. <F>Err</F> so <F>mm</F> <F>err</F> <.></.> yeah, <F>err</F> <F>mm</F> they're in a restaurant <F>uhu</F> and <SC>taking</SC> yeah, maybe <v_lxc odr="1" crr="having">taking</v_lxc> dinner. <F>Erm</F> because <F>err</F> <SC>they drunk</SC> <R>they</R> they're drinking <F>err</F> wine. And <F>er</F> it looks <prp_lxc2 odr="1" crr="like"></prp_lxc2> <F>err</F> yeah, <R>ve</R> <at odr="2" crr="a"></at> very <R>e</R> expensive <laughter>restaurant</laughter>. <nvs>sniff</nvs> <F>Hmm</F>. <SC>And a waiter</SC> <F>err</F> <F>uum</F> so <F>er</F> maybe <F>err</F> <R>the</R> the man is just now tasting the wine. <F>Mh-hmm</F>. And, yeah, he looks <F>err</F> fine with that wine. And <F>um</F> maybe <F>er</F> after that, <F>err</F> <at odr="1" crr="a"></at> waiter <F>err</F> <v_tns odr="2" crr="will serve">serve</v_tns> the wine to this lady and him. <nvs>sniff</nvs></B>
+<A><F>Uhu</F>.</A>
+<B><F>Err</F> yes, <F>err</F> <R>there</R> <F>err</F> there <v_agr odr="1" crr="is">are</v_agr> no meal <F>err</F> <R>on</R> on the table. So <F>er</F> they've just <F>err</F> <v_fml odr="1" crr="come">came</v_fml> to this restaurant,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>err</F> just minutes ago. <F>Um</F> <F>er</F> <nvs>laughter</nvs> <nvs>sniff</nvs> and, yeah, <R>it's</R> it's <laughter>seven o'clock</laughter>.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>O K. That's <OL>fine</OL>.</A>
+<B><OL><F>Hm</F></OL>.</B>
+</task>
+<followup>
+<A>All right. So did you have a wedding reception after the ceremony in a restaurant?</A>
+<B>Yeah. Yes. <OL><F>Err</F></OL>.</B>
+<A><OL>Can</OL> you compare the atmosphere with this restaurant?</A>
+<B><F>Err</F> <F>um</F> <F>err</F> <F>uh</F> <F>uu</F> we didn't have <F>err</F> <F>uu</F> such a <F>er</F> very <F>er</F> enough space.</B>
+<A><F>Um</F>.</A>
+<B><F>Hum</F>. Yeah. But all the <n_num odr="1" crr="tables">table</n_num> <v_agr odr="2" crr="were">was</v_agr> <F>er</F> put <F>er</F> very closely. <nvs>sniff</nvs></B>
+<A><F>Uhu</F>.</A>
+<B><F>Uhu</F>. <SC>And</SC> but <F>er</F> <SC>the one</SC> <F>err</F> the restaurant <rel_lxc odr="1" crr="where"></rel_lxc> we did <F>err</F> <pn_lxc odr="2" crr="our"></pn_lxc> wedding reception <F>er</F> <v_lxc odr="3" crr="was"></v_lxc> also <F>err</F> just a little bit <F>er</F> expensive.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>So</OL> <F>um</F> yes, <pn_lxc odr="1" crr="it"></pn_lxc> just <v_agr odr="2" crr="looks">look</v_agr> like this one.</B>
+<A>I see.</A>
+<B>Yeah. <nvs>sniff</nvs></B>
+<A>O K. Thank you very much.</A>
+<B><F>Uhu</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <F>err</F> we'll do the role-play.</A>
+<B>Yeah.</B>
+<A><F>Hmm</F>. <.></.> O K. Please read this card.</A>
+<B><F>Uhu</F>.</B>
+<A>When you <v_lxc odr="1" crr="are"></v_lxc> ready, I'll begin.</A>
+<B><F>Uhu</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready? <nvs>laughter</nvs> O K?</A>
+<B>Yes.</B>
+<A>Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello. This is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B><OL>Hi</OL>.</B>
+<A><OL>How are</OL> you doing?</A>
+<B>Yes. <F>Er</F> it's good. And how are you?</B>
+<A>Good.</A>
+<B>Yeah. <F>Um</F> <F>well</F> <F>err</F> <F>um</F> <F>mm</F> now, <F>err</F> <R>I have</R> I have <F>er</F> two tickets of <F>err</F> <at odr="1" crr="a">the</at> movie. <F>Ee</F>. It's just started <F>err</F> last Saturday. And <F>err</F> if you are <aj_lxc odr="1" crr="free">available</aj_lxc>, <F>err</F> <R>how about</R> <F>err</F> how about going to <v_fml odr="2" crr="watch">watching</v_fml> the movie with me?</B>
+<A>Sounds nice.</A>
+<B><F>Oh</F> <F>er</F> good. And <nvs>cough</nvs> <F>well</F> <F>er</F> how about <F>err</F> next Saturday?</B>
+<A><F>Err</F> O K.</A>
+<B><F>Er</F>. And <F>err</F> <F>err</F> <F>uum</F> <F>well</F> <F>err</F> the <R>m</R> <R>movie s</R> movie <F>err</F> <v_tns odr="1" crr="starts">started</v_tns> <F>err</F> <R>about</R> yes, about one o'clock.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uhu</F>. And <F>err</F> <.></.> <F>well</F> <F>err</F> <F>well</F> <F>err</F> <.></.> so <F>err</F> <F>uh</F> <F>err</F> <R>ho</R> <R>how about <F>err</F> meeting with</R> how about <v_cmp odr="1" crr="meeting you">meeting with you</v_cmp> at <F>er</F> Hibiya Station at <F>err</F> twelve o'clock?</B>
+<A>O K. But I don't know so much about Hibiya Station.</A>
+<B><F>Oh</F> really? <F>Well</F> <F>err</F> <F>err</F> <.></.> <F>err</F> <R>wh</R> where do you know well about <F>err</F> that area, Yurakucho or Ginza or <F>erm</F> Tokyo Station?</B>
+<A>Shibuya is fine with me.</A>
+<B><R>Sh</R> Shibuya? <laughter><F>Well</F></laughter></B>
+<A><nvs>laughter</nvs></A>
+<B><F>err</F> <R>it</R> <F>err</F> <R>it is</R> <F>err</F> it <v_lxc odr="1" crr="takes">is</v_lxc> about <F>uum</F> twenty minutes <SC>f</SC> <F>er</F> from <R>sh</R> Shibuya to <F>err</F> Hibiya. So O K. <F>Err</F> <F>well</F> <F>err</F> I'll pick you up at Shibuya Station,</B>
+<A><F>Uhu</F>.</A>
+<B><F>err</F> at eleven-thirty.</B>
+<A>O K.</A>
+<B><F>Um</F> yeah. <F>Well</F> <F>err</F> how about Hachiko?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. Yes. So <F>err</F> O K. <F>Er</F> next Saturday,</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>err</F></OL> at <R>eleven</R> <F>er</F> eleven-thirty.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Er</F> I'll pick you up.</B>
+<A>O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Looking forward</OL> to seeing you.</A>
+<B>Yeah.</B>
+<A><OL>Thank you</OL>.</A>
+<B><OL>I'll <v_lxc odr="1" crr="see">meet</v_lxc> you</OL>. Thank you.</B>
+<A>Bye.</A>
+<B>Bye.</B>
+<A>O K. O K. Great. <nvs>laughter</nvs></A>
+</task>
+<followup>
+<A>Before your marriage, did you go to see <n_num odr="1" crr="movies">movie</n_num> with your wife?</A>
+<B><F>Err</F> <F>er</F> <R>ye</R> <F>err</F> yes. <F>Err</F> <R>we</R> <F>err</F> we saw <F>er</F> <at odr="2" crr="a" ch="1"></at> <n_num odr="1" crr="movie">movies</n_num> <F>er</F> only once. <OL><F>Uhu</F></OL>.</B>
+<A><OL><F>Er</F></OL> O K. And <F>well</F> what <v_tns odr="1" crr="was">is</v_tns> the best way for you to spend with her after watching <at odr="2" crr="the"></at> movie?</A>
+<B><F>Mh-hmm</F>. <F>Er</F> <F>er</F> <F>err</F> sorry? <F>Err</F> <pn_lxc odr="1" crr="you">they</pn_lxc> mean <R>what</R> what <OL>did we do</OL>?</B>
+<A><OL><F>Hm</F></OL> <R>after</R> yeah, after watching <at odr="1" crr="the">a</at> movie,</A>
+<B><F>Uhu</F>.</B>
+<A><R>what</R> what did you do?</A>
+<B><F>Well</F> <F>err</F> <nvs>sigh</nvs> <F>hmm</F> it <v_lxc odr="1" crr="is"></v_lxc> just <F>err</F> about two years ago.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><SC>So</SC> but <nvs>laughter</nvs></OL> <F>well</F> <F>err</F> <F>uh</F> <F>oh</F> <F>oh</F> <F>err</F> <R>we</R> we watched <at odr="1" crr="the">a</at> movie <F>er</F> <R>at Sh</R> yeah, <prp_lxc1 odr="2" crr="in">at</prp_lxc1> Shibuya. <F>Uum</F>. And <R>I</R> I didn't know <F>well</F> about Shibuya.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But <F>uh</F> my wife did. So, yes, <F>err</F> she took me, <F>um</F> yeah, <prp_lxc1 odr="1" crr="to"></prp_lxc1> <at odr="2" crr="a"></at> very nice restaurant.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah. <R>It was</R> it was our first date.</B>
+<A><OL><laughter><F>Er</F> really</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <CO>So</CO>. <OL>Yeah</OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><SC>We take</SC> <R>we</R> we <v_lxc odr="1" crr="had">took</v_lxc> dinner and, yeah, drank some alcohol.</B>
+<A>O K.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Sounds romantic. Great. All right.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Um</F> finally, I'm going to show you another picture.</A>
+<B><F>Uhu</F>.</B>
+<A>O K. This one.</A>
+<B>Yeah.</B>
+<A>And I'd like you to make up a short story</A>
+<B><OL><F>Uhu</F></OL>.</B>
+<A><OL>about</OL> this picture.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL>And the</OL> story happened before. So please start your story with "One day last week".</A>
+<B><F>Hm</F>. <F>Hm</F>. <F>Hm</F>.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><nvs>laughter</nvs> Yes. <OL>O K</OL>.</B>
+<A><OL>O K, go ahead</OL>.</A>
+<B><F>Well</F> <F>err</F> <F>err</F>. <CO>One day last week</CO>. <F>Er</F>. <SC>Sorry</SC> I'm sorry. <F>Err</F>. <R>I</R> <R>is</R> is this me or someone <OL>else</OL>?</B>
+<A><OL><laughter><F>Oh</F></laughter> anyone would be fine</OL>.</A>
+<B><OL>Yes, yes</OL>. <F>Um</F>. Yes. <F>Err</F> one day last week, <F>err</F> a lady <R>w</R> <R>w</R> went to <at odr="1" crr="a"></at> department store <F>err</F> <R>to buy</R> <F>err</F> to buy a tie <F>er</F> for his father.</B>
+<A><F>Uhu</F>.</A>
+<B>Because <F>err</F> <F>well</F> next weekend is <pn_agr odr="1" crr="her">his</pn_agr> father's birthday.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Hum</F>. So <F>err</F> <F>mm</F> <R>she</R> <F>err</F> <.></.> <F>mm</F> she got that tie wrapped. <F>Hm</F>. And <F>err</F> <R>on the way to</R> <F>err</F> <SC>on the way to</SC> <.></.> <o_lxc odr="1" crr="on the way home">on the way back to home</o_lxc>, <R>she fo</R> she found <F>er</F> the <F>err</F> department <o_uk odr="2" crr="was having a bargain sale at that time">is now on sale</o_uk>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. So <F>er</F> she bought <F>err</F> shoes and clothes. Those <v_tns odr="1" crr="were">are</v_tns> very <F>err</F> cheap for her. So <nvs>laughter</nvs> when <F>err</F> she went out from the department store, yeah, <F>err</F> <R>she</R> she got so many, many <n_num odr="1" crr="souvenirs">souvenir</n_num>, not only <.></.> for her father,</B>
+<A><F>Uh-huh</F>.</A>
+<B>yeah, <o_lxc odr="2" crr="but also"></o_lxc> for herself.</B>
+<A><OL>Yeah</OL>. I <OL>see</OL>.</A>
+<B>That's it. <nvs>sniff</nvs></B>
+<A>O K.</A>
+<B><OL>Yeah</OL>.</B>
+</task>
+<followup>
+<A><OL><F>Well</F></OL> do you like shopping?</A>
+<B>Yes. <F>Uh</F>.</B>
+<A><F>Um</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Tell me about your favorite shop.</A>
+<B><nvs>laughter</nvs> Favorite shop? <F>Uum</F> <F>err</F>. <.></.> <F>Well</F> <F>err</F> yeah, <F>err</F> I like <R>d</R> <F>uh</F> department <n_num odr="1" crr="stores">store</n_num>. <F>Uum</F>. <con_lxc odr="1" crr="But">And</con_lxc> <F>uum</F> I rarely buy <F>um</F> at department <n_num odr="2" crr="stores">store</n_num>. <F>Erm</F>. But <F>er</F> just <F>err</F> <v_cmp odr="2" crr="watching clothes">watching of <at odr="1" crr="">the</at> <F>err</F> clothes</v_cmp> and <F>err</F> for example, personal <n_num odr="3" crr="computers">computer</n_num>. <OL><CO>Or</CO></OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>Yes. And <F>er</F> <F>uh</F> <F>err</F> twice a month or so, <F>err</F> my wife <R>and</R> <F>er</F> <SC>and me</SC> and I <F>err</F> go to department <n_num odr="1" crr="stores">store</n_num> <F>mm</F> <F>er</F> <R>to</R> to look for <F>er</F> <R>what we want</R> <F>err</F> what we want to buy <F>err</F> <SC>with the</SC> with <SC>next</SC> <at odr="3" crr="the"></at> <aj_lxc odr="2" crr="next">nearest</aj_lxc> <F>err</F> <R>bo</R> bonus. <F>Uum</F>. <R>So</R> <F>err</F> <F>err</F> <F>er</F> so <F>er</F> <pn_lxc odr="1" crr="we"></pn_lxc> <v_tns odr="2" crr="go">going</v_tns> department <n_num odr="3" crr="stores">store</n_num> <F>err</F> twice a month, twice a month, twice a month. And finally, <F>err</F> after <F>err</F> getting, yeah, <R>the</R> the <n_lxc odr="1" crr="bonus">bonus payment</n_lxc>,</B>
+<A><F>Uhu</F>.</A>
+<B><F>um</F> <F>er</F> we go to a department store to buy</B>
+<A><F>Uhu</F>.</A>
+<B><F>er</F> what <F>er</F> we want.</B>
+<A>I see. O K. And Christmas is coming.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>Do you have any plan for <at odr="1" crr="a"></at> Christmas gift to your wife?</A>
+<B>Yes. <F>Err</F> <F>err</F> <R>sh</R> she told me <F>err</F> <R>she</R> she <v_tns odr="1" crr="wanted">wants</v_tns> <F>err</F> boots.</B>
+<A><F>Um</F>.</A>
+<B><F>Uhu</F>. <F>Err</F> and so <F>err</F> <SC>I gave</SC> <F>err</F> <R>I</R> I'm planning <F>er</F> to give her <F>er</F> boots and <F>er</F> something <F>er</F> <F>mm</F> she won't expect.</B>
+<A>Nice husband. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>So <F>er</F> now, we are almost at the end of the interview.</A>
+<B><F>Uhu</F>.</B>
+<A>But what are you going to do after this <F>er</F> interview and counseling?</A>
+<B><.></.> <F>Um</F> <F>uh</F> <F>uu</F> sorry?</B>
+<A>What are you going to do after this interview and counseling?</A>
+<B>"<R>What</R> what are you"?</B>
+<A><F>Um</F>. What is your plan</A>
+<B><OL><F>Er</F></OL>.</B>
+<A><OL>after</OL> this interview and counseling?</A>
+<B><F>Err</F> <F>err</F> <R>I</R> I'm planning to <F>err</F> take a TOEIC test.</B>
+<A><F>Oh</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>I see.</A>
+<B>Yes. It's <R>v</R> <at odr="1" crr="a"></at> very good <F>err</F> <F>er</F> <R>what</R> what can I say, <R>wa</R> warming up <laughter>for me</laughter>.</B>
+<A>I see.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>O K. <F>Well</F> good luck with the TOEIC.</A>
+<B>Yeah. Thank you very much.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

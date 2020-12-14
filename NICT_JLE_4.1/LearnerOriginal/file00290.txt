@@ -1,0 +1,165 @@
+<interview>
+<filename>file00290.txt</filename>
+
+<head version="1.3">
+<date>2001-02-22</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>665</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>travel_advanced</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. What's your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>? Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A>O K. So where do you come from, <H pn="B's name">XXX02</H>?</A>
+<B>I come from <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>I</R> <R>I</R> I have grown up <?>at</?> <H pn="others1">XXX03</H>.</B>
+<A>I see. Where in <H pn="others1">XXX03</H>?</A>
+<B><F>Er</F> <.></.> <R><H pn="others2">XXX04</H></R> <.></.> <H pn="others2">XXX04</H>.</B>
+<A>I see. Do you live there with your family?</A>
+<B>Yeah.</B>
+<A><F>Uh-huh</F>. Can you tell me about your family?</A>
+<B>O K. <F>Urm</F> my family consists of my father, my mother, <SC>my</SC> me, and my little sister and my little brother.</B>
+<A><F>Ohh</F> I see. Tell me about your sister and brother.</A>
+<B>O K. My little sister is, <F>ur</F> <.></.> first grade in high school. And my little brother is <.></.> second grade in junior high. <.></.> They are very cheerful, and <nvs>laughter</nvs> we are very <.></.> close to each other.</B>
+<A><F>Ahh</F> that's good. <R>What do</R> <F>urr</F> what do you do together?</A>
+<B><F>Urm</F> <.></.> we <F>em</F> <.></.> mainly chatting <F>uh</F> or play the game together, <nvs>laughter</nvs> T V game.</B>
+<A><F>Ohhh</F> I see.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Right, and <F>urm</F> what else do you do in your free time?</A>
+<B><F>Urm</F> <.></.> my free time?</B>
+<A><F>Mh-hum</F>.</A>
+<B><F>Urrm</F> <F>urr</F> <SC>mai</SC> <F>urr</F> my mainly <?>concerned</?> is, <F>er</F> <F>er</F> to make money. <F>Ur</F> so I'm very hard to <F>urr</F> work in part-time job. And since <SC>my</SC> <F>urr</F> I am an university student, so, <F>er</F> I have to study a lot.</B>
+<A><F>Oh</F> I see. <F>Oh</F> tell me about your part-time job.</A>
+<B>I see. <F>Urm</F>. <.></.> My part-time job is <F>urr</F> <F>hmm</F> assistance of <SC>official</SC> office work <.></.> <?>in</?> office. It is a <F>urr</F> <?>share</?> trading company. And I put some information in the computer, <.></.> and response some call from <F>urr</F> their customers or something like that.</B>
+<A>I see. <F>Er</F> what is the most enjoyable aspect of it?</A>
+<B>Of that job?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urm</F> <.></.> I can see <SC>the</SC> <.></.> how the <.></.> <F>uhmm</F> businessman working, of their work or <F>urr</F> <.></.> what they do or how to use official Japanese words, or how to use a little bit official English.</B>
+<A><F>Uhmm</F> I see.</A>
+<B>It's very interesting, but <.></.> they work very hard, so <SC>it is very</SC> <F>em</F> <F>urm</F> <R>I'm</R> <SC>I'm worried about</SC> it makes me worried about <F>er</F> what I will do in the future.</B>
+<A><F>Oh</F> I see.</A>
+<B><nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A><F>Oh</F>. That sounds interesting. O K. Thank you very much. O K. Then first today, <F>urm</F> I want you to look at this picture.</A>
+<B>Yes.</B>
+<A>O K? And can you tell me what you see?</A>
+<B><.></.> O K. It <.></.> seems to be <F>err</F> in restaurant. And <.></.> <F>uhmm</F> <.></.> there're three tables. And <.></.> there's a sound because there is a <F>urr</F> piano. And <.></.> it seems to be a very expensive, elegant type of restaurant. And <.></.> in there, <F>er</F> <.></.> there are three tables, but <SC>the main</SC> <SC>it is</SC> the most big table <F>ur</F> in front of this picture <R>is</R> <F>er</F> is <F>urr</F> two person. They seems to be a couple. And there's a woman. <R>And</R> and they are ordering wine and <.></.> <SC>there's some</SC> <.></.> there's <R>one</R> <.></.> one serviceman <F>em</F> who serve a wine.</B>
+</task>
+<followup>
+<A><F>Uh-hmm</F> I see. Thank you very much. O K. Do you often go to restaurants like this?</A>
+<B>No. <nvs>laughter</nvs></B>
+<A><laughter>O K</laughter>.</A>
+<B>Yeah. <F>Uhmm</F> <SC>just</SC> <R>no</R> <.></.> no I don't go such kind of <SC>very</SC> French restaurants. <nvs>laughter</nvs></B>
+<A><F>Uh-hum</F>. Can you tell me about restaurants you usually go to?</A>
+<B><F>Urm</F> <SC>I'm</SC> <F>ur</F> I often go to <F>urr</F> just a very casual restaurant. And <SC>like</SC> I like Italian so, <F>uhm</F> <F>em</F> <F>urr</F> where we can chat in a loud voice, <R>and</R> and talk with friends <SC>and</SC> <F>uhm</F> in long time, <.></.> and not so expensive one but <F>urr</F> delicious one.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. I see. Good. O K. Thank you very much then. O K. Now I want to do a role play. Please look at,</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K, this card. O K? And when you're ready, we'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Yes? Are you ready? O K. The Japanese is fine.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Are you ready?</A>
+<B>O K.</B>
+<A>O K. Hello. May I help you?</A>
+<B><F>Er</F> hello, <R>I</R> <F>uhm</F> I am a participant of <SC>the</SC> <.></.> <F>urm</F> <.></.> <F>urr</F> your travel agency.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> this is a <.></.> <F>uhm</F> <.></.> <??></??>?</B>
+<A><F>Uhm</F>. Yes. Use your imagination.</A>
+<B>O K. <.></.> O K. <.></.> I'm a participant of <?>Kenya</?> study tour.</B>
+<A>Right.</A>
+<B><SC>So</SC> <F>urm</F> <.></.> <R>and</R> and today <SC>what</SC> why I <F>urm</F> call up you is <F>urr</F> <F>urr</F> it is <.></.> far from what I have expected were different, it is very different. So <SC>I'd like to</SC> <F>ur</F> <.></.> I'd like you to explain what it is <R>and</R> and if you can, <F>urm</F> I'd like your compensation. <.></.> <CO>So</CO>.</B>
+<A>I see. Can you tell me what happened?</A>
+<B>O K. <F>Urr</F> <.></.> first of all, you said that, <F>urr</F> <.></.> we will stay <SC>at</SC> <F>eh</F> in the <F>urr</F> <.></.> most <.></.> <SC>luxurious one</SC></B>
+<A>Yes.</A>
+<B><SC>luxurious and</SC> <.></.> luxurious <F>urm</F> hotel where we can eat <F>er</F> Japanese food in the morning and in evening. But actually, there's no Japanese food <R>and</R> <.></.> and <.></.> I've got a stomachache <SC>and</SC> <F>urr</F> because of <SC>the</SC> <SC>this</SC> <.></.> <SC>the</SC> these foods are not so clean <SC>but</SC> <SC>and</SC> <.></.> for us, Japanese.</B>
+<A>I see. <F>Well</F> did you complain that <SC>to the officer</SC> to the <F>urr</F> person in the hotel?</A>
+<B><F>Mhm</F> <.></.> no, because <.></.> there's a tour conductor of our <.></.> tour and I asked her. But she said that <F>urm</F> <.></.> she cannot <F>er</F> talk with the officer of the hotel. And since I was very sick, so I had to go to hospital, and <SC>there's no time</SC> there was not time to <F>urr</F> talk with the officer of the hotel.</B>
+<A>I see. <F>Well</F> usually in that case, the tour conductor should have talked with the hotel manager.</A>
+<B>Yeah. <R>Her</R> <F>er</F> her treatment of me was very rude for me, and was unbelievable. And she didn't <F>er</F> fulfill her responsibility. <SC>So, <.></.> <F>urm</F> I didn't</SC> <F>er</F> so <.></.> <R>she</R> she was <.></.> <F>uhm</F> not <F>urr</F> suitable for this tour. So <R>I'd like to</R> <F>urr</F> <.></.> I'd like to hear the explain.</B>
+<A>I see. O K. We will check the tour conductor, and talk to her. Yes. O K? Would that solve the problem?</A>
+<B><.></.> Solve?</B>
+<A>Is that all then?</A>
+<B><.></.> O K. Yeah.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>It</OL> is almost all.</B>
+<A>Right. O K. We're very sorry to cause you a trouble. O K. And we'll <?>cut off the person's</?> charge.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. O K. Thank you. Has this ever happened to you? <F>Urm</F> <SC>did you</SC> when you traveled, did you have any troubles?</A>
+<B><F>Urrr</F> <.></.> sometimes. <F>Urm</F>. <.></.></B>
+<A>Yes.</A>
+<B>It's over?</B>
+<A>Yes. This is the end of the role play. I'm sorry. Yes. It's the end of <OL>the role play</OL>.</A>
+<B><OL>O K</OL>. Yeah. <F>Urm</F> <SC>I</SC> <F>urm</F> <.></.> last summer, I have <F>er</F> joined the <.></.> <F>urr</F> tour <F>um</F> <R>in Germany</R> in Germany. And <.></.> German students organized the <F>err</F> whole tour so, <F>er</F> it was pretty nice, and I enjoyed myself. But, <F>ur</F> <.></.> sometimes, <F>urr</F> <SC>it is</SC> <F>urr</F> what <F>er</F> foreigners would like to see or go to sightseeing is different from what they would like to show.</B>
+<A><F>Uhmm</F>.</A>
+<B>So for example, <.></.> <SC>there is</SC> <F>urr</F> <.></.> <F>uhm</F> <F>er</F> <R>where</R> <F>urr</F>, where we go is different from <F>um</F> <SC>the</SC> <F>er</F> what the <.></.> guidebook recommend. For example, if there is one city and tour, <F>urm</F> guidebook recommend to go to some <F>urr</F> <.></.> sights, historical sight, very important sights. But, <F>urr</F> <F>urr</F> German students would like to show <F>urr</F> <.></.> <SC>industrial</SC> industry or something.</B>
+<A><F>Uhmm</F>.</A>
+<B><SC>So</SC> but <SC>we are not so in</SC> <F>uh</F> as for me, I'm <??></??> Japanese, Maybe almost all of Japanese <??></??> that kind of <F>urr</F> industry.</B>
+<A>Right. Then what do you think you could have done to solve that problem?</A>
+<B>Sorry?</B>
+<A>What could you have done to solve that problem?</A>
+<B><F>Urrm</F> <.></.> I couldn't do almost <F>urm</F> anything. But <.></.> <SC>I <F>hmm</F> asked them to</SC> <.></.> <F>uhm</F> maybe <R>I have</R> <SC>I have</SC> <.></.> I should have <F>er</F> check where to go <.></.> in the <??></??> or homepage or so.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Urr</F> I see. All right. O K. Thank you very much. O K. Then, one last thing. I want you to look at, O K, this picture.</A>
+<B>O K.</B>
+<A>And please make a short story. This is something that happened one day last week. So using these pictures from one to six, make a short story. O K? Start when you're ready.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>O K. <.></.> <F>Em</F>. Last week, <.></.> <F>urr</F> one woman <F>ur</F> <.></.> went to <R>de</R> department store because she had <.></.> maybe her husband's birthday. And she would like to <.></.> buy <F>urr</F> some present for her husband. So, <.></.> <F>urr</F> in the department store, she got a some nice tie. And <.></.> <F>uhm</F> <SC>after buying the tie</SC> after buying the <SC>pro</SC> present for her husband, <SC>she found it</SC> <.></.> she found <F>er</F> there is a sale <.></.> in the department store. And <.></.> she was glad to buy her all <.></.> materials <SC>like</SC> something like <F>urr</F> <.></.> shoes or clothes. And <.></.> she <F>urr</F> bought <F>urr</F> a lot of materials and come back to her house.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. O K. Did you do any shopping recently?</A>
+<B>Any? <F>Hmmm</F>. Yeah. <F>Em</F> <F>urr</F> but it was <?>New Year</?>.</B>
+<A>Right. I see. So how do you decide what you buy?</A>
+<B>How? O K. <SC>I</SC> <.></.> <F>urr</F> at that time <F>urr</F> <SC>I want</SC> I wanted <F>urr</F> some <SC>new coat</SC> new winter coat because the old one was <F>urr</F> pretty old. And I got <R>bore</R> bored with the <F>urr</F> design of the coat. So first of all, I mainly <F>ur</F> look around the coat. And after buying this, <.></.> <SC>I got</SC> <R>I</R> <.></.> <F>uhm</F> I had looked on everything. And <F>uhm</F> buy <R>some</R> something <.></.> which <F>err</F> I liked.</B>
+<A>I see. So you found one that you liked.</A>
+<B><.></.> <F>Uhm</F> yeah.</B>
+<A>Yeah? <OL>O K, I see</OL></A>
+<B><OL><??></??></OL></B>
+<A>O K.</A>
+<B><R>three</R> three or four clothes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. <F>Oh</F> that's good. O K. Thank you very much. We are almost at the end of the interview. O K. So what are your plans for today?</A>
+<B><F>Er</F> <OL>today</OL>?</B>
+<A><OL>After this</OL>.</A>
+<B>After this?</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>I</R> <.></.> I will go to part-time job and then <F>urm</F> <.></.> have a shopping, <F>er</F> and <F>urr</F> I will go to <F>urr</F> <H pn="school name1">XXX05</H>.</B>
+<A><F>Oh</F> translations?</A>
+<B>No, no, no.</B>
+<A><F>Oh</F> <H pn="school name1">XXX05</H>?</A>
+<B>Yeah. <H pn="school name1">XXX05</H>.</B>
+<A>I see. <F>Oh</F> O K. I hope you'll have a nice day then.</A>
+<B>Yes. Thank you.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>O K. Good.</A>
+</stage5>
+</body>
+</interview>

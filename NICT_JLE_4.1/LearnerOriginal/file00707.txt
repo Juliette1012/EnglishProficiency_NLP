@@ -1,0 +1,198 @@
+<interview>
+<filename>file00707.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>male</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><??></??> is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. So how are you today?</A>
+<B>How are you? Fine, thank you.</B>
+<A>Fine? Great. O K. <F>Um</F>. How long have you been studying in <H pn="school name1">XXX03</H>?</A>
+<B><F>Uum</F>. A half year.</B>
+<A><F>Um</F>?</A>
+<B>Half year.</B>
+<A><F>Err</F> <OL>I see</OL>.</A>
+<B><OL>Because</OL> I <F>uum</F> <F>uum</F> was <F>ee</F> <H pn="school name2">XXX04</H> student <F>uum</F> until this spring. <SC>Graduate school</SC> <F>uum</F> <SC>I</SC> <F>um</F> <F>ee</F> since this spring I am graduate school studying in <H pn="school name1">XXX03</H>.</B>
+<A>I see. Then compared to <H pn="school name2">XXX04</H>, is there any difference?</A>
+<B><F>Uum</F>. <SC>A lot of study</SC> <F>er</F> <SC>a lot of students in <H pn="school name1">XXX03</H></SC> <F>er</F> there are a lot of students in <H pn="school name1">XXX03</H>.</B>
+<A><F>Uhu</F>. I see.</A>
+<B>And <F>uum</F> <SC>around <F>um</F> building</SC> <.></.> <F>er</F> <R>there</R> <R>there</R> <F>uum</F> there is university around many buildings.</B>
+<A><F>Hum</F>. I see. Then <H pn="B's name">XXX02</H> <JP>san</JP>, why did you <F>er</F> decide to go to graduate school?</A>
+<B>I like to become <.></.> professor.</B>
+<A><F>Uhu</F>.</A>
+<B>So <F>uum</F> in <H pn="school name2">XXX04</H>, <F>uum</F> there is not <F>uum</F> <SC>graduate</SC> <F>ee</F> doctor course. And <.></.> <F>ee</F> in <H pn="school name1">XXX03</H>, there is doctor course. <.></.> So I decide to go to <H pn="school name1">XXX03</H> Graduate School.</B>
+<A><F>Uhu</F>. I see. Then how do you like living in <H pn="others1">XXX05</H>?</A>
+<B>Very much.</B>
+<A><F>Hum</F>.</A>
+<B><.></.> My <laughter><?>belief</?></laughter> is <F>uum</F> live in <H pn="others1">XXX05</H>.</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> I'd like to <F>uum</F> go to <.></.> <F>mm</F> university in <H pn="others1">XXX05</H> when I was high school student. But <R>I</R> <F>uum</F> <..></..> <R>I don't have</R> <..></..> I don't have <..></..> <R>study</R> studying level <F>um</F> <F>mm</F> examination.</B>
+<A><F>Uhu</F>.</A>
+<B>So I went to <H pn="school name2">XXX04</H>.</B>
+<A><OL>I see</OL>. <F>Uhu</F>. Then <R>actually</R>, actually, so what do you do in <H pn="others1">XXX05</H>? Or how do you enjoy the life in <H pn="others1">XXX05</H>?</A>
+<B><F>Uum</F>. For example, <F>mm</F> there are big <F>uum</F> book store in <H pn="others1">XXX05</H>. It is convenient. And <SC>my <F>ee</F> live in</SC> I live in <H pn="others2">XXX06</H> <F>ee</F> near cinema complex. And there are supermarket near my house. <..></..></B>
+<A>O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'd like you to take a look at this picture. Have you done this before?</A>
+<B><..></..></B>
+<A>No?</A>
+<B><.></.> <F>er</F> <OL><F>er</F> <F>er</F></OL></B>
+<A><OL>O K, so</OL> tell me about this picture.</A>
+<B><F>Er</F> <F>ee</F> <.></.> <F>er</F>. A man <.></.> <F>ee</F> <.></.> drink a cup of wine. <.></.> <F>ee</F> <.></.> <SC>A man</SC> <F>er</F> <F>uh</F> gentleman and <F>err</F> lady <F>ee</F> <..></..> <SC>eating</SC> <F>er</F> eat dinner. <..></..> A boy shows wine bottle to gentleman and lady. <F>mm</F> On the table, there are three cups and two dishes. <F>uum</F> <.></.> In the place, <F>ee</F> big o'clock. <.></.> This time is seven o'clock. And <F>um</F> <R>a girl</R> <SC>a girl <SC>play</SC> playing</SC> <F>er</F> a girl is playing the piano. <F>Err</F>. There are <F>er</F> three couples.</B>
+<A>O K. So thank you, <H pn="B's name">XXX02</H> <JP>san</JP>.</A>
+</task>
+<followup>
+<A><F>Um</F>. Do you sometimes go to a restaurant like this?</A>
+<B><..></..></B>
+<A>Do you sometimes go to a restaurant like this?</A>
+<B><.></.> <F>Uh</F> <SC>I</SC> <OL>me</OL>?</B>
+<A><OL>Yes</OL>, <H pn="B's name">XXX02</H> <JP>san</JP>.</A>
+<B><SC>I</SC> <R>I'm</R> I'm student.</B>
+<A><F>Uhu</F>.</A>
+<B><laughter>But I hardly go to restaurant</laughter>.</B>
+<A>O K. Then tell me about your favorite restaurant or bar.</A>
+<B>Favorite restaurant?</B>
+<A><F>Um</F>. Yes.</A>
+<B><SC>I</SC> my favorite food is <F>um</F> Japanese. <F>Um</F>. <.></.> My favorite restaurant is Japanese name <JP>ryoutei</JP>.</B>
+<A><JP>Ryoutei</JP>. <F>Err</F>. O K. So is the <nvs>coughs</nvs> <SC>restaurant</SC> <JP>ryoutei</JP> different from this?</A>
+<B><F>Um</F>. Yes. <F>Um</F>.</B>
+<A>So how is it different?</A>
+<B>In <JP>ryoutei</JP>, <F>err</F> <.></.> we can't hear playing piano. <F>Um</F> <F>ee</F>. Instead <SC>I heard</SC> I hear <F>uum</F> Japanese music.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. <SC>Classical music</SC> <OL>Japanese classical</OL> music.</B>
+<A><OL><F>Hum</F> <F>wow</F></OL>. That's good. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's have a role-play. O K? <..></..> Here you go. This is your card. Read it to yourself. And when you are ready, I will start the conversation.</A>
+<B>Excuse me?</B>
+<A>Hi. May I help you, sir?</A>
+<B><F>Ee</F>. I'd like to <F>mm</F> New York <F>uum</F> <F>ee</F> by train.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>ee</F> if possible, I <F>mm</F> like to New York fastest. <SC>Could you tell me <F>uum</F> could I get on</SC> <F>er</F> could you tell me <F>er</F> which <F>ee</F> could I <R>get on</R> get on?</B>
+<A>O K. So how about the next train, <F>ur</F> eleven o'clock.</A>
+<B><F>Er</F> Eleven o'clock.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. <SC>Where do</SC> where <F>ee</F> does it leave?</B>
+<A><F>Err</F>. It's from platform number six.</A>
+<B>Platform number six. <F>Um</F>. I'd like to <F>um</F> get on this train. <F>Ee</F>. Please <F>ee</F> sell me ticket.</B>
+<A>O K. <F>Oh</F>. Today we have two kinds of tickets.</A>
+<B>Yes.</B>
+<A><F>Uhm</F>. Two <OL>kinds</OL> of tickets.</A>
+<B><OL>Two</OL>. <F>Er</F> <F>er</F>.</B>
+<A><OL>So, which would you like</OL>?</A>
+<B><OL><F>Er</F> <F>er</F> <F>er</F></OL> <F>um</F>. <R>Two</R> two types?</B>
+<A>Yes.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><.></.> What <SC>is di</SC> is it difficult?</B>
+<A><F>Er</F>. First class or economy.</A>
+<B><nvs>laughter</nvs> <F>Ee</F>. Please <F>er</F> sell me economy.</B>
+<A>O K. Economy.</A>
+<B>How much?</B>
+<A><F>Er</F>. Fifty dollars.</A>
+<B>Fifty dollars. So I <F>mm</F> have one hundred dollars.</B>
+<A>O K. I'll give you a change. And this is ticket. Thank you very much. <OL>And</OL> have a nice trip.</A>
+<B><OL>Thank you</OL>. Thank you.</B>
+<A>Good-bye.</A>
+<B>Good-bye.</B>
+<A>All right.</A>
+</task>
+<followup>
+<A>O K. So <H pn="B's name">XXX02</H> <JP>san</JP>, have you ever been abroad?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Where did you go?</A>
+<B><F>Um</F>. I <F>ee</F> went to England, France, <F>ee</F> United States, Korea and Taiwan.</B>
+<A><F>Oh</F>. I see. <F>um</F> <F>err</F> Did you take a train in those countries?</A>
+<B><F>Um</F>. I <F>ee</F> have <SC>gone</SC> <F>ur</F> <F>ur</F> <.></.> got on <F>um</F> train between London and Paris.</B>
+<A>London and Paris. O K. So tell me more about the train trip.</A>
+<B>This <SC>train is</SC> <F>er</F> train name is Euro Star.</B>
+<A><F>Uhu</F>.</A>
+<B><R>I</R> I <F>ee</F> went to Paris a day.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. I <F>uum</F> got on <SC>fastest</SC> <F>er</F> <F>uh</F> most early Euro Star.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>ee</F> when I came back, last Euro Star.</B>
+<A><F>Err</F>. I see. So you took a one day trip.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. I see. So the <R>train</R> trains are different from Japanese trains?</A>
+<B><.></.> I <F>ee</F> experienced <F>uum</F> <.></.> <?>first frontier</?>.</B>
+<A><F>Uhu</F> <F>uhu</F>.</A>
+<B><SC>In Japanese</SC> <F>er</F> in Japan, <.></.> no railways go to <F>uum</F> foreign country.</B>
+<A><F>Uhu</F>.</A>
+<B>But <F>ee</F> British <SC>is run</SC> is runned. But <F>uum</F> tunnel</B>
+<A><F>Uhu</F> <F>uhu</F>.</A>
+<B>between <F>ee</F> London and Paris.</B>
+<A><F>Er</F>. I see. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now I'd like to show you one more picture. O K? So this time please make a short story using these four pictures. O K? But this happened last week. So please start your story with "Last week," O K?</A>
+<B><.></.> I watch <.></.> the movie <F>um</F> with <F>ee</F> <.></.> my friends. <F>ee</F> <.></.> Ticket is two thousand yen. <F>Um</F>. And <..></..> <SC>the thea</SC> <F>ee</F> the <SC>movie is</SC> movie start <F>ee</F> <.></.> one P.M. o'clock. <.></.> <F>Ee</F>. In theater, <.></.> I <F>ee</F> bought a cup of drink. <F>ee</F> My friends <F>ee</F> bought popcorn and drink. <.></.> <F>Uum</F>. <.></.> Content of <F>uum</F> movie is <.></.> airplane is falling <F>ur</F> down.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Err</F>. I remembered <F>ee</F> that last month <F>er</F> accident in New York.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Mm</F>. <.></.> <SC>And <F>ee</F> it finished</SC>. <F>Ur</F> <SC>So</SC> <F>um</F> since it finished, we <F>ee</F> <SC>leave</SC> left to the theater.</B>
+<A>O K. All right. Thank you very much.</A>
+</task>
+<followup>
+<A>So you said you live near the theater complex?</A>
+<B><F>Er</F> <R>Comple</R> complex. <OL>Yes</OL>.</B>
+<A><OL>Yeah</OL>. Movie theaters.</A>
+<B>Yes. Yes. Yes.</B>
+<A><F>Hm</F>. Do you sometimes go there?</A>
+<B><F>Uum</F> <SC>I</SC> <F>umm</F> <R>Once</R> once.</B>
+<A>I see. <F>Mm</F>.</A>
+<B><SC>I saw</SC> <F>er</F> I <F>er</F> watched "A I". <.></.></B>
+<A>I see. <F>Um</F>. Which do you like better, Japanese movies or American movies?</A>
+<B><F>Mmm</F> <R>I</R> I like <F>uum</F> American movie. <.></.> Japanese movie is <F>ee</F> same in T V drama.</B>
+<A><F>Err</F>.</A>
+<B><.></.></B>
+<A>I see. O K. Thank you very much, <H pn="B's name">XXX02</H> <JP>san</JP>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost ending. O K. <F>Um</F>. Do you have any plans for today?</A>
+<B>Do you?</B>
+<A><F>Um</F>.</A>
+<B>Plan?</B>
+<A>Yes.</A>
+<B><F>Er</F>. Plan.</B>
+<A>Do you have any special plan <OL>for today</OL>?</A>
+<B><OL><F>Er</F>. Special plan</OL>.</B>
+<A><nvs>laughter</nvs></A>
+<B>I have <F>err</F> class graduate school. <OL><F>Uum</F></OL>.</B>
+<A><OL><F>Err</F></OL></A>
+<B>It's start <F>uum</F> two forty</B>
+<A>Two forty.</A>
+<B>P.M.</B>
+<A><F>Uum</F>. So what are you going to do until then?</A>
+<B>Until then. <F>Uum</F> <.></.> I study <.></.> in library.</B>
+<A><F>Wow</F>. You always study. O K. Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

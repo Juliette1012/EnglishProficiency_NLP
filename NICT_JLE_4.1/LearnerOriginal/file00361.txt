@@ -1,0 +1,150 @@
+<interview>
+<filename>file00361.txt</filename>
+
+<head version="1.3">
+<date>2001-03-07</date>
+<sex>female</sex>
+<age>49</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Hmmm</F>. It's windy today, isn't it?</A>
+<B>Yes. It's windy, but <F>urr</F> today is <SC>hot</SC> warm. <R>I</R> <SC>I was</SC> I <R>hurried</R> hurried up to here. <nvs>laughter</nvs></B>
+<A><F>Urrr</F>. <R>Wh</R> why were you late?</A>
+<B><nvs>laughter</nvs> <R>I</R> I made <F>erm</F> breakfast for children. <laughter>I'm sorry to be late</laughter>.</B>
+<A>No, that's O K. O K. So <F>urr</F> <H pn="B's name">XXX02</H> <JP>san</JP> <F>uh</F> where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H> <H pn="others2">XXX04</H>.</B>
+<A><F>Mmm</F>. Do you live with your family?</A>
+<B>Yes.</B>
+<A>Please tell me about your family.</A>
+<B><F>Ummm</F> <F>eh</F>. My husband and two children and I. It's four families.</B>
+<A><F>Mm</F>. Would you please tell me about your <F>urr</F> children?</A>
+<B><nvs>laughter</nvs> <F>Mmm</F> <F>urr</F>. Two children are boys. <F>Urr</F>. <R>Elder</R> <.></.> elder children is <F>mm</F> university students. <F>Mm</F>. Younger children is university student <F>urr</F> <.></.> <R>on</R> on April.</B>
+<A>I see. <F>Ummm</F>.</A>
+<B><F>Urr</F> tomorrow is <F>urr</F> his <F>err</F> graduated ceremony. <nvs>laughter</nvs></B>
+<A><F>Wow</F>. Are you going to attend it?</A>
+<B>Yes. Of course, yes.</B>
+<A><F>Ohh</F>. Good. So <H pn="B's name">XXX02</H> <JP>san</JP> are you a house wife?</A>
+<B>Yes.</B>
+<A><F>Mm</F> Would you tell me about yourself a little bit?</A>
+<B><F>Urm</F>. Myself? <F>Hmm</F>. My age? No? <nvs>laughter</nvs></B>
+<A>Tell me about your hobbies.</A>
+<B><F>Uh</F> <F>urrr</F>. I enjoy walking with my friend or <F>ur</F> my husband around <F>mm</F> the <H pn="others3">XXX05</H> Park, <.></.> near my house.</B>
+<A>O K. Tell me about that park a little bit more. I've never been to the <H pn="others3">XXX05</H> Park. <nvs>laughter</nvs> What kind of park is that?</A>
+<B><F>Urrr</F>. <F>Um</F>. <H pn="others3">XXX05</H> Park <F>urm</F> has <.></.> library and gym and swimming pool and <.></.> <F>urr</F> outdoor athletic. <F>Mm</F>. <F>Urr</F>. It's very <F>ur</F> <R>wide</R> wide park.</B>
+<A>Good. O K. <F>Urr</F> <H pn="B's name">XXX02</H> <JP>san</JP> tell me about your typical day.</A>
+<B>Typical day? <F>Uh</F>?</B>
+<A>As a wife. <nvs>laughter</nvs> <OL>Wife</OL>.</A>
+<B><F>Err</F>. <R>I</R> <R>I</R> <F>mm</F> I cook. <R>I</R> <.></.> I cook <.></.> and washing <SC>clothe</SC> clothes, <F>urr</F> and <.></.> cleaning my house. <F>Urr</F>. And my free time, <R>I</R> <F>urr</F> I read books <F>mm</F> <SC>on</SC> and I study English. <nvs>laughter</nvs> And <R>I watch</R> I watch the video. <F>Urrn</F>. And I take a nap, <nvs>laughter</nvs> so. <nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A><F>Wow</F>. Good. O K. Thank you very much. O K. At first <nvs>cough</nvs> I'd like to look at this picture, and describe it for me.</A>
+<B><F>Urrm</F> <F>mm</F>. <SC>They</SC> <R>there</R> there are</B>
+<ctxt>The interviewee is counting the number of children.</ctxt>
+<B>six childrens and <.></.> <F>huur</F> <R>n</R> no, I mistake. <JP>Ichi, nii, san, shi, go, roku</JP>. <SC>Seven childrens</SC> there are seven childrens and <.></.> three dogs and a cat. <F>Urr</F>. <SC>It's sunny days</SC> it's sunny day. <F>Urr</F>. <R>Children play</R> <F>urr</F> children play <F>urr</F> <.></.> volley ball. <R>And</R> <.></.> <R>and</R> <F>mm</F> and a man are reading the newspaper. And <SC>another man are <.></.> jogging</SC> another man is jogging. <F>Urm</F> And <R>two</R> two wife is <F>urr</F> <R>talking</R> talking about her children. <F>Urrm</F>. <R>A girl</R> <.></.> <F>urr</F> <R>a girl</R> <SC>a girl <F>urr</F> jump</SC> a girl is jumping <.></.> the rope. <F>Mmm</F>. <R>This place is</R> <F>urr</F> this place is, <F>mm</F> <F>uh</F> I forgot, <R>this place is</R> <F>urrrm</F> <R>this place is</R> <F>urr</F> <R>this place is</R> for <F>urm</F> <F>mmm</F> <SC>for house</SC> for living house, <F>mmm</F> <JP>nan darou</JP></B>
+</task>
+<followup>
+<A>O K, <H pn="B's name">XXX02</H> <JP>san</JP></A>
+<B><JP>Hai</JP>.</B>
+<A>Is this neighborhood</A>
+<B>neighbour.</B>
+<A>similar to your neighborhood?</A>
+<B><.></.> <SC>You</SC> my neighborhood?</B>
+<A>O K. Yes. Are this neighborhood and your neighborhood same?</A>
+<B><F>Urrm</F>. No. <OL><R>My</R></OL></B>
+<A><OL>How</OL> different?</A>
+<B><R>my</R> my neighborhood <F>urr</F> is <F>mmm</F> <SC>office girl</SC>. <.></.> <F>Urr</F>. The office girl <.></.> and <.></.> <F>mm</F> <.></.> <R>she</R> <R>she has</R> she has no children. <.></.> <F>Mmm</F>. <SC>My</SC> <F>urr</F> <SC>near my</SC> <F>mm</F> <F>mmm</F> <R>there</R> <R>there are no</R> there are no children <.></.> near my house.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. Thank you very much. O K. Then next, <F>urr</F> let's do a role play. Please read this card carefully. And when you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Urr</F>.</B>
+<A>O K? <OL>Are you ready</OL>?</A>
+<B><R><OL>Would you</OL></R> <SC>would you tell me the</SC> <R>would you</R> <SC>would you tell me the <F>urr</F> <R>ti</R> <F>urr</F> <.></.> ticket</SC> <F>mmm</F> would you tell me to get ticket to New York?</B>
+<A>Yes. I can sell the ticket here.</A>
+<B><.></.> <F>Umm</F>. <JP>dou natte rundeshou</JP></B>
+<A><R>Where</R> where would you like to go?</A>
+<B><F>Urrr</F> <F>urr</F>. I'd like to go New York.</B>
+<A>O K.</A>
+<B><F>Urmm</F>. <R>I</R> I'd like to get the ticket. <R>Where</R> <F>urrr</F> where can I <OL>get the ticket</OL>?</B>
+<A><R><OL>Right here</OL></R>. Right here.</A>
+<B>Yeah. <F>Urrm</F>. <R>I</R> I'd like to ticket.</B>
+<A>O K. We have several different kinds of <F>ur</F> ticket. Super express, express, and local.</A>
+<B><F>Urrm</F>. Local please.</B>
+<A>O K. <.></.> O K. <F>Urrr</F> when do you want to leave?</A>
+<B><.></.> <F>Uh</F> leave. <F>Mm</F>. Today.</B>
+<A>Yes. But <F>urr</F>.</A>
+<B>Now.</B>
+<A>Now? So sooner is better.</A>
+<B>Yes.</B>
+<A>O K. Here is the ticket.</A>
+<B>Thank you.</B>
+<A>It's fifty dollars.</A>
+<B><laughter><JP>Aa, sokka</JP></laughter> Fifty dollars. <F>Ehh</F>. <F>Umm</F>. <F>Opp</F>. <JP>nan te iun de shou</JP> <R>He</R> <F>errr</F> here.</B>
+</task>
+<followup>
+<A>O K. Thank you. Thank you very much. O K. Thank you, <H pn="B's name">XXX02</H> <JP>san</JP>. O K. <F>Urm</F> do you like traveling?</A>
+<B>Yes. I like traveling.</B>
+<A><F>Hmmm</F>. Where do you usually travel?</A>
+<B><F>Mmm</F>. <F>Urrm</F>. <SC>Next</SC> <F>um</F> last year, <F>urm</F> I went to Hokkaido,</B>
+<A>You did?</A>
+<B><F>Mmm</F> with my family. <F>Urrr</F>. <R>I</R> <F>mmm</F> <R>I</R> <F>urr</F> I went to <F>mm</F> Kushiro and Hirata and Hurano. <SC>It's very nice trip</SC>. It was very nice trip.</B>
+<A><F>Urr</F> <R>What's</R> what's so good <.></.> about Hokkaido?</A>
+<B><F>Urrr</F>. <F>Um</F>. <R>Na</R> nature is <.></.> beautiful. <F>Urr</F>. <R>I watched <F>er</F> fox</R> I watched fox.</B>
+<A>Folks?</A>
+<B>Fox.</B>
+<A><F>Urrr</F>. <OL>O K, O K</OL>. O K. Fox.</A>
+<B><OL>Fox</OL>. <laughter>Sorry, fox</laughter>. <R>I</R> <F>mm</F> I watched fox.</B>
+<A><F>Urr</F> How was it?</A>
+<B><F>Urm</F>. <.></.> <SC>It's very</SC> it was very pretty. <F>Mm</F>. <F>Urrr</F>. Maybe, <F>urrr</F> <.></.> it was family. <.></.> Three fox.</B>
+<A><F>Hmmm</F>. <F>Wow</F>. That must be a very enjoyable trip.</A>
+<B>Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Was it? O K. Thank you very much. O K. <F>Urr</F> Lastly, please. <F>Urr</F>. O K, this picture. And this is a <F>urr</F> sequence of the pictures. I want you to make up your own story from one to six. But this happened before, so please start your story with 'one day last week, <OL>O K, please</OL>.</A>
+<B><F>Ahh</F> <OL>last week</OL>. Yes, <F>Urrrm</F>. <.></.> <F>Mmmm</F>. <.></.> One day, <F>urrr</F> a father and a son <F>urm</F> <.></.> <F>ehh</F> went to the restaurant. <F>Emm</F> <.></.> <F>Urr</F> <R>His son</R> his son <F>urr</F> passed the examination. <F>Mm</F>. <.></.> <F>Eer</F>. <R>His</R> <.></.> <R>his father</R> <F>urr</F> <R>his father</R> <F>mmm</F> <.></.> <SC>his father, <SC>pleasure</SC> ple</SC> <F>mmm</F> his father <F>mmm</F> was pleasured, <F>urrr</F> <OL><laughter><R>I</R> I don't know</laughter></OL>.</B>
+<A><OL>That's O K</OL>. Go on.</A>
+<B>Go. <F>Mm</F>. <R>He</R> he appointed <F>mm</F> the restaurant. W M. <F>Mm</F>. <.></.> <F>Hmm</F>. <F>Ehh</F>. <R>The wai</R> the waitress <F>urr</F> <.></.> <F>urr</F> <F>mmm</F> <JP>taihenda</JP> <F>urr</F> <F>uh</F> <F>um</F> <R>His son</R> his son ordered <F>umm</F> some dishes. <F>Urm</F>. <.></.> <F>Ehh</F>. <.></.> His <F>uh</F> father and his son <SC>are <.></.> <F>eh</F> congratulated</SC> <F>mmm</F> congratulated to pass the examination. <.></.> <F>Mm</F>. <F>Ehh</F>. <R>His</R> <R>his son</R> <F>umm</F> his son ate <SC>fishes</SC> fish, <F>um</F> and father <F>err</F> ate meat. And both drank beer. <F>Hmmm</F> <.></.> <F>mm</F>. <SC>A father <F>errr</F> paid</SC> <F>um</F> <F>um</F> father <SC>pay</SC> paid. <F>Hmm</F>. <R>His son</R> <SC>his son <R>ha</R> had</SC> <R>his son <.></.> couldn't</R> his son couldn't eat more. <.></.> <F>Hum</F>. <SC>His son <F>mmm</F> stop</SC> his son stopped <.></.> off his <F>umm</F> his friend. <F>Umm</F>. <R>So</R> <F>urr</F> <.></.> <F>urr</F> <R>so <F>umm</F> they</R> so they said good-bye. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A><F>Mmm</F>. O K. Thank you very much, <H pn="B's name">XXX02</H>. <F>Urr</F> Do you sometimes go to the restaurant?</A>
+<B>Yes.</B>
+<A><F>Umm</F>. What kind of restaurant do you like?</A>
+<B><F>Urrr</F>. <.></.> <R>I</R> I like <F>mmm</F> Japanese restaurant.</B>
+<A>Why do you like Japanese restaurant?</A>
+<B><F>Urm</F>. <SC>It's</SC> Japanese food is very <F>urr</F> simple taste. <F>Urrr</F>. <.></.> <R>French dishes</R> <F>urr</F> <F>urr</F> <R>French dishes is</R> <F>urrm</F> <.></.> <F>urrm</F> <JP>tyotto matte</JP> <F>ah</F> <R>French dishes <.></.> is</R> <F>urm</F> <JP>nan daro</JP> <.></.> is <F>ah</F> <laughter><JP>chotto wakan nai</JP></laughter></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. O K. Good, good, <H pn="B's name">XXX02</H> <JP>san</JP>. Thank you very much. We are <SC>al</SC> <SC>at the</SC> <R>al</R> almost end of the interview. So are you going to go to the restaurant tomorrow, after the graduation ceremony?</A>
+<B>Yes. Yes. <nvs>laughter</nvs></B>
+<A>O K. What kind of restaurant are you going to go?</A>
+<B><F>Urrm</F>. <SC>P</SC> <H pn="others4">XXX06</H> <F>urrr</F> Prince Hotel.</B>
+<A><F>Wow</F>. That must be gorgeous.</A>
+<B>Yes.</B>
+<A>Well, thank you very much for coming.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

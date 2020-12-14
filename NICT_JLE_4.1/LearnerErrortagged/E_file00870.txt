@@ -1,0 +1,170 @@
+<interview>
+<filename>E_file00870.txt</filename>
+
+<head version="1.3">
+<date>2002-02-27</date>
+<sex>male</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, <OL>Mister <H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you</OL>.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>, <F>er</F> where do you live now?</A>
+<B><F>Erm</F> I'm living in <H pn="others1">XXX03</H>, <F>er</F> <H pn="others2">XXX04</H>-<JP>ku</JP>.</B>
+<A>O K.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Umm</F></OL> <F>ur</F>. Do you live with your family there?</A>
+<B><F>Erm</F>. <.></.> I live with my wife. So, before getting married, <F>erm</F> <R>I lived in</R> <F>er</F> I lived in <H pn="others3">XXX05</H> with my parents.</B>
+<A><F>Uh-huh</F>. <F>Oh</F> I see. <F>Umm</F>. O K. <F>Er</F>. Which do you like better living in <H pn="others3">XXX05</H> or living in <H pn="others2">XXX04</H>-<JP>ku</JP>?</A>
+<B><F>Erm</F>. I prefer <H pn="others1">XXX03</H> to <H pn="others3">XXX05</H> because <F>er</F> <SC>the</SC> it takes less time to <SC>commute the</SC> <SC>co</SC> <F>er</F> <??></??> commute <prp_lxc2 odr="1" crr="to"></prp_lxc2> the office. So <R>I</R> <F>erm</F> I like <H pn="others1">XXX03</H>.</B>
+<A><F>Umm</F>. I see. O K. <F>Erm</F>. <SC>Could you</SC> if you don't mind, could you tell me about your wife? <nvs>laughter</nvs></A>
+<B>My wife?</B>
+<A>Yes.</A>
+<B>O K. <F>Er</F>. <n_cs odr="1" crr="My wife's name">My wife name</n_cs> is <H pn="others4">XXX06</H>. <F>Er</F> she is working in <H pn="company name1">XXX07</H>. And, <F>ur</F> especially last year, she was very very busy because she <F>er</F> works for <F>er</F> the trading <prp_lxc1 odr="1" crr="of">about</prp_lxc1> <R>the</R> the <n_num odr="2" crr="souvenirs">souvenir</n_num> <F>er</F> sold in <F>er</F> Tokyo Disneyland or Tokyo Disney Sea. And then, <SC>last</SC> <F>erm</F> this year, <F>er</F> Tokyo Disney Sea was opened. That's why, last year, very very busy. So <F>erm</F> <.></.> she came home very very <F>er</F> late <av_lxc odr="1" crr="sometimes">randomly</av_lxc>. So that's why <SC>I</SC> <F>er</F> my cooking ability <v_vo odr="1" crr="improved">was improved</v_vo>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter><F>Oh</F> I see</laughter></OL>. <laughter>That's nice</laughter>. <F>Umm</F>. So, <F>erm</F> what do you enjoy on holidays or <prp_lxc1 odr="1" crr="in"></prp_lxc1> free time?</A>
+<B><F>Erm</F>. <.></.> Holiday?</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Er</F>. So, because <SC>my</SC> <SC>I</SC> <F>er</F> my wife and <pn_cs odr="1" crr="I">me</pn_cs> <F>er</F> <v_agr odr="2" crr="are working">is working</v_agr>. So, <F>er</F> <prp_lxc1 odr="1" crr="on">in</prp_lxc1> <at odr="3" crr="">the</at> <n_num odr="2" crr="holidays">holiday</n_num>, we have to <F>er</F> do <SC>the</SC> some <n_cnt odr="4" crr="housework">homeworks</n_cnt>, I mean, cleaning or such kind of things. So, <F>erm</F> sometimes, <SC>we go to</SC> we go shopping or go to <??></??> <at odr="1" crr="a"></at> restaurant. So <F>erm</F> <R>we</R> we often go to <n_cs odr="1" crr="my wife's hometown">the hometown of my wife</n_cs>.</B>
+<A>Hometown? <F>Umm</F>.</A>
+<B>Hometown, <OL>yeah</OL>.</B>
+<A><OL>O K</OL>. <F>Umm</F>.</A>
+<B><nvs>snap</nvs> Because <F>er</F> we have to get <at odr="1" crr="">the</at> <F>er</F> food.</B>
+<A>Food?</A>
+<B>Food. Yes. <OL><CO>So</CO></OL>.</B>
+<A><OL><F>Oh</F></OL>. Can you explain a little bit <OL><laughter>more about that</laughter></OL>?</A>
+<B><OL>Yeah</OL>. So <F>er</F> we have no time to <F>er</F> cook everyday, so <F>er</F> we go to her house then get <at odr="1" crr="">the</at> food for a week.</B>
+<A><F>Oh</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yeah</laughter></OL>. So her mother <v_tns odr="1" crr="cooks">cooked</v_tns> very well. So <.></.> <F>er</F> we need <F>er</F> food.</B>
+<A><F>Oh</F>. That's a nice mother. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. Now, I'm going to show you a picture.</A>
+<B>O K.</B>
+<A>O K.</A>
+<ctxt>The interviewer is taking out the picture.</ctxt>
+<A>So, look at this picture and tell me anything about this picture, please.</A>
+<B><nvs>laughter</nvs> <F>Erm</F>. This is <at odr="1" crr="a"></at> mountain, and <F>ur</F> many people are <v_lxc odr="2" crr="skiing">playing skiing</v_lxc> and enjoying skiing. Or <.></.> I don't know how to say, but <SC>the</SC> many <n_num odr="1" crr="children">child</n_num> play <F>er</F> <prp_lxc1 odr="2" crr="with"></prp_lxc1> <n_num odr="3" crr="snowballs">snowball</n_num>. And also, there <v_agr odr="1" crr="is">'re</v_agr> <F>er</F> one <R>snow</R> <.></.> snowman. <laughter><?>I don't know</?> <o_uk odr="1" crr="why it is here">that meaning</o_uk></laughter>. And also, <SC>that</SC> <F>er</F> one couple <F>er</F> is talking <prp_lxc1 odr="1" crr="over">with</prp_lxc1> some drinks. <SC>And also, there're</SC> <JP>nandaro</JP>, <..></..> <F>er</F> <JP>nan</JP>, <..></..> <F>erm</F> <laughter><JP>nandaro</JP></laughter>, and <F>er</F> <..></..> one <n_num odr="1" crr="person">people</n_num> <v_agr odr="2" crr="is">are</v_agr> <v_lxc odr="4" crr="snowboarding"><v_fml odr="3" crr="playing">play</v_fml> snowboarding</v_lxc>, and <F>ur</F> one skier is <SC>very</SC> <?>laying</?> down <SC>on the way</SC> on this <F>er</F> <JP><n_lxc odr="5" crr="skiing slope">gerende</n_lxc></JP>. <F>Uhm</F>. <laughter>That's all</laughter>.</B>
+</task>
+<followup>
+<A>O K. All right. Thank you. <F>Mm</F> <F>ur</F>. Do you enjoy any winter sports?</A>
+<B><F>Erm</F>. Not especially. <F>Erm</F>. <.></.> <R>I</R> <R>I</R> <F>erm</F> I <v_lxc odr="2" crr="skied"><v_tns odr="1" crr="played">play</v_tns> skiing</v_lxc> <F>erm</F> about ten years ago. So, since I joined the company about <F>erm</F> eighteen years ago, <F>er</F> <SC>I go to</SC> I go skiing every year. But <at odr="2" crr="">the</at> only <av_lxc odr="1" crr="once">one time</av_lxc> a year. So I'm not good at skiing <OL>very <av_lxc odr="1" crr="much">well</av_lxc></OL>. <nvs>laughter</nvs></B>
+<A><OL><laughter>I see</laughter></OL>. O K. The winter Olympic game <F>er</F> has just finished last weekend. <F>Er</F>. <itr_lxc odr="1" crr="Which">What</itr_lxc> event did you enjoy watching?</A>
+<B><F>Erm</F>. I enjoyed <F>er</F> <SC>skate</SC> <F>er</F> <o_lxc odr="1" crr="speed skating">speed skate</o_lxc>. So <F>er</F> Mister Shimizu <F>er</F> got the silver medal. So I was very impressed because <F>erm</F> <.></.> his condition was not so good, but <SC>he very very</SC> <F>er</F> he tried <.></.> <F>er</F> very very <av_lxc odr="1" crr="hard">much</av_lxc> and <v_fin odr="2" crr="got">to get</v_fin> <SC>the gold</SC> not <at odr="3" crr="the"></at> gold, but <at odr="4" crr="the"></at> silver medal.</B>
+<A><F>Umm</F>. <.></.> I see. <nvs>laughter</nvs> So, were you excited? <nvs>laughter</nvs></A>
+<B><F>Erm</F>. A little bit. <OL>Yeah</OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL>I see</OL>. O K. So, next, we will do a role-play.</A>
+<B>Yeah.</B>
+<A>Do you know what <at odr="1" crr="a">the</at> role-play is?</A>
+<B><F>Uh-huh</F>.</B>
+<A>Yes. <.></.> So this is your role.</A>
+<B>Yes.</B>
+<A>O K. And I'll be a sales clerk at the shop.</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Uh-huh</F>. O K. So, excuse me. <OL><F>Erm</F></OL>.</B>
+<A>Yes, <OL>may I help you</OL>? <F>Umm</F>.</A>
+<B>Yes, <F>erm</F> <R>I would like to</R> <F>er</F> <.></.> I would like to return this product.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>Return? <F>Umm</F>.</A>
+<B>So, would you please <F>er</F> <.></.> <v_lxc odr="1" crr="refund">give</v_lxc> me <at odr="2" crr="the"></at> money <SC>for</SC> of this product?</B>
+<A>What's wrong with that product?</A>
+<B><F>Erm</F>. I bought this <F>er</F> <n_num odr="1" crr="shirt">shirts</n_num>, but the size is not <aj_lxc odr="2" crr="right">available</aj_lxc> for me. That's why <F>er</F> <R>I don't want</R> <F>er</F> I don't want this <n_num odr="1" crr="shirt">shirts</n_num>. So I <v_cmp odr="1" crr="exchange it">exchange</v_cmp> <prp_lxc2 odr="2" crr="for">to</prp_lxc2> money.</B>
+<A><F>Oh</F>. O K. But <R>you</R> you tried it on.</A>
+<B><F>Erm</F>. No. <F>Er</F>. I just <v_cmp odr="1" crr="bought this">bought</v_cmp> <F>er</F> by just looking. Then <F>er</F> I <v_lxc odr="2" crr="liked"><v_tns odr="1" crr="preferred">prefer</v_tns></v_lxc> this design, but the size is not fit to my body.</B>
+<A>O K. <F>Ur</F>. We have some other sizes here.</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Umm</F>.</A>
+<B><F>Er</F>. But <SC>the</SC> when I <v_lxc odr="1" crr="saw">looked at</v_lxc> other shirts in <at odr="2" crr="">the</at> <SC>different store</SC> <aj_lxc odr="3" crr="another">different</aj_lxc> shop, <F>er</F> I found <at odr="4" crr="a">the</at> much better one. That's why I don't need <F>er</F> <aj_lxc odr="5" crr="this"></aj_lxc> <n_num odr="6" crr="shirt">shirts</n_num> anymore.</B>
+<A><F>Oh</F>. O K. <F>Erm</F>. Do you have the receipt?</A>
+<B><F>Erm</F>. Yes.</B>
+<A>O K. Please show me your receipt. O K.</A>
+<B>Here you are.</B>
+<A><F>Oh</F>. Thank you. <F>Oh</F>. That <n_lxc odr="1" crr="shirt">good</n_lxc> was on sale yesterday.</A>
+<B><F>Oh</F>. Yeah.</B>
+<A><F>Umm</F>. So we can not refund any kinds of <OL>sale goods</OL>.</A>
+<B><OL><F>Erm</F></OL>. But <F>ur</F> <.></.> I don't need this shirt anymore because the size is not <aj_lxc odr="1" crr="fit">fitting</aj_lxc> to me. <F>Er</F> that's why I <v_cmp odr="1" crr="want you">want</v_cmp> to refund.</B>
+<A><F>Mm</F>. <F>Umm</F>. O K. <F>Erm</F>. Let me ask my <laughter>manager</laughter>.</A>
+<B>O K.</B>
+<A>Yes. <F>Umm</F>. <F>Er</F>. O K. Our manager says O K, we can refund, but only this time.</A>
+<B>O K. <OL><laughter>Thank you very much</laughter></OL>.</B>
+</task>
+<followup>
+<A><OL><nvs>laughter</nvs></OL> So, thank you very much. Yes. <F>Umm</F>. <F>Erm</F>. What kind of <n_num odr="1" crr="shops">shop</n_num> do you like to shop around?</A>
+<B><F>Erm</F> <..></..> <F>erm</F>. I <SC>like</SC> <v_lxc odr="1" crr="like">prefer</v_lxc> <F>erm</F> <at odr="3" crr="">the</at> <n_lxc odr="2" crr="clothes">wear</n_lxc>.</B>
+<A><F>Uh-huh</F>. <F>Umm</F>. Do you have any favorite shop?</A>
+<B><F>Erm</F>. Not especially, but recently, <F>er</F> <.></.> I often go to UNIQLO</B>
+<A><laughter>O K</laughter>.</A>
+<B><SC>when I wa</SC> <F>er</F> when I buy or when I <SC>look at</SC> <F>er</F> look for <at odr="2" crr="">the</at> casual <n_num odr="1" crr="wears">wear</n_num>. Because every day I <F>erm</F> <.></.> <v_lxc odr="1" crr="wear">have</v_lxc> <at odr="2" crr="a">the</at> suit <con_lxc odr="3" crr="and">or</con_lxc> <at odr="5" crr="a"></at> <n_num odr="4" crr="shirt">shirts</n_num> <SC>or</SC> with <at odr="6" crr="a"></at> necktie. That's why <F>erm</F> when I look for <at odr="2" crr="">the</at> casual <n_num odr="1" crr="wears">wear</n_num>, I go to UNIQLO because of <pn_lxc odr="3" crr="its"></pn_lxc> very cheap price.</B>
+<A><F>Umm</F>. I see. <F>Erm</F>. Are there any more good points in UNIQLO? <OL><??></??></OL>?</A>
+<B><OL><F>Erm</F></OL>. Yes. <F>Erm</F>. Although the price is very reasonable, <con_lxc odr="1" crr="">but</con_lxc> the quality of the <n_num odr="2" crr="products">product</n_num> <SC>is</SC> <F>er</F> <v_agr odr="3" crr="seems">seem</v_agr> to be high, good quality. That's why I love UNIQLO.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Umm</F>. I see. O K. Now,</A>
+<B>Yeah.</B>
+<A><F>Ur</F>. I'm going to show you another picture.</A>
+<B>Yes.</B>
+<A>Yes. So, this time, I want you to make a short story.</A>
+<B><F>Mm-hm</F>.</B>
+<A><.></.> O K. So the story goes like this. And it happened last week. So, start your story <prp_lxc1 odr="1" crr="with"></prp_lxc1> "one day last week", please.</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><F>Er</F>. From here?</B>
+<A>Yes.</A>
+<B><F>Er</F>. <.></.> Who is <laughter>who</laughter>?</B>
+<A><F>Oh</F>. O K. You can decide.</A>
+<B><F>Oh</F>. O K. <JP><F>Etto</F></JP>. <.></.> So I took my father to <pn_lxc odr="1" crr="my">the</pn_lxc> favorite restaurant. <SC>And then</SC> <..></..> and my father asked the <n_lxc odr="1" crr="waiter">clerk</n_lxc>, "<F>Er</F> <R>do you have the</R> <F>erm</F> do you have <at odr="2" crr="a">the</at> good seat?". And <R>I ordered</R> <F>erm</F> I ordered steak. <.></.> <laughter>And then</laughter>, <F>er</F> <pn_agr odr="1" crr="I">we</pn_agr> <v_tns odr="2" crr="had">have</v_tns> <at odr="3" crr="a"></at> good time with my father <F>er</F> with <at odr="4" crr="">the</at> beer and <F>ur</F> very tasty food. And I <v_tns odr="2" crr="had"><v_asp odr="1" crr="have">have had</v_asp></v_tns> <av_lxc odr="3" crr="quite">very</av_lxc> enough, but <at odr="4" crr="">the</at> <R>my father paid</R> <F>er</F> <.></.> my father paid. <nvs>laughter</nvs> Then, <F>er</F> we <v_tns odr="1" crr="said">say</v_tns> good-bye <prp_lxc2 odr="2" crr="to"></prp_lxc2> each other, then, <.></.> <F>er</F> <pn_lxc odr="3" crr="I" crr2="he"></pn_lxc> <v_lxc odr="4" crr="said"></v_lxc>, "I'm looking forward to seeing you soon. Bye-bye.". <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL><laughter>I see</laughter></OL>. <laughter>O K</laughter>. <F>Umm</F>. <F>Erm</F>. When you go out <F>erm</F> for dinner or drinking with your <n_num odr="1" crr="co-workers">co-worker</n_num>, O K, usually who <v_agr odr="2" crr="pays">pay</v_agr>?</A>
+<B><F>Erm</F>. <.></.> It depends on the case. <F>Er</F>. For example, <con_lxc odr="1" crr="when"></con_lxc> we have <o_lxc odr="2" crr="a kind of">the kind of</o_lxc> <F>erm</F> party, <F>er</F> we pay equally. But, <o_lxc odr="1" crr="according to">depends on</o_lxc> <.></.> the job class. <F>Er</F>. The cost is different. And, <F>ur</F> when we <R>go</R> <F>erm</F> go drinking with <n_num odr="1" crr="colleagues">colleague</n_num>, especially <o_uk odr="2" crr="friends on the same level or of the same age">same level or same age friends</o_uk>, <F>er</F> we pay equally.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A>So, in what case you don't pay equally?</A>
+<B><F>Erm</F>. <SC>The case</SC> <F>er</F> <R>in</R> in <at odr="1" crr="the"></at> case, the company pays. <nvs>laughter</nvs></B>
+<A>Company pays?</A>
+<B>Yes.</B>
+<A>Can you tell me <OL>a little bit more about that</OL>?</A>
+<B><OL><F>Erm</F></OL>. For example, when we have <at odr="1" crr="a">the</at> welcome party or <at odr="2" crr="a"></at> farewell party, <F>er</F> in that case, the company <F>er</F> <v_agr odr="3" crr="holds">hold</v_agr> <at odr="4" crr="">a</at> such kind of party. So we don't have to pay.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Oh</F>. O K. <nvs>laughter</nvs> <laughter>I see</laughter>. All right. Thank you very much.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>So the interview</OL> is almost over.</A>
+<B>Yeah.</B>
+<A><F>Erm</F>. So, what <F>er</F> do you usually do after work?</A>
+<B>After work? <F>Erm</F>. <.></.> I usually work <F>erm</F> <prp_lxc1 odr="1" crr="till" crr2="until">at</prp_lxc1> late at night. That's why <F>er</F> what I do is only going home.</B>
+<A><OL><laughter><F>Uhh</F> I see</laughter></OL>.</A>
+<B><OL><R>And</R></OL> and have dinner.</B>
+<A><F>Uh-huh</F>. O K. <F>Er</F>. Does your wife come home earlier <SC>usual</SC> <F>er</F> <OL>these days</OL>?</A>
+<B><OL><F>Erm</F></OL> yes. Recently, <F>er</F> she <v_tns odr="1" crr="comes">came</v_tns> home earlier than me. <.></.> <con_lxc odr="1" crr="And">But</con_lxc> <F>ur</F> there <v_agr odr="2" crr="is">'re</v_agr> some food <laughter>for us</laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B>So we don't need <F>er</F> cooking. Yeah.</B>
+<A>I see. That's good. <nvs>laughter</nvs> O K. Thank you very <OL>much today</OL>, and the interview is over.</A>
+<B><OL>Thank you very much</OL>.</B>
+</stage5>
+</body>
+</interview>

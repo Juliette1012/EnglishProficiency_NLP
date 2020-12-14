@@ -1,0 +1,155 @@
+<interview>
+<filename>file00094.txt</filename>
+
+<head version="1.3">
+<date>2000-06-19</date>
+<sex>female</sex>
+<age>40</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, my name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. <H pn="B's name">XXX02</H> nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Mm</F> <F>er</F>. <SC>I</SC> is it hot outside?</A>
+<B>Yes, it's a hot day like summer.</B>
+<A><F>Mm</F>. It was hot too yesterday. What did you do yesterday?</A>
+<B>Yesterday,</B>
+<A>It was Sunday, right?</A>
+<B><F>Ah</F>. Yesterday, I cleaned up my house <nvs>laughter</nvs> Because <laughter><F>er</F></laughter> <R>last</R> last week <F>er</F> <R>I</R> I had busy.</B>
+<A><F>Mm</F>. I see. All day were you cleaning?</A>
+<B><F>Er</F>. Almost all days. <nvs>laughter</nvs></B>
+<A><F>Ah</F>. I see. <F>Uh-huh</F>. O K then, what is your hobby?</A>
+<B>Hobby? My</B>
+<A>Cleaning?</A>
+<B>No. <nvs>laughter</nvs> <R>My hobby</R> <F>er</F> my hobby is <F>er</F> take a walk with my dog.</B>
+<A><F>Ah</F> I see. <F>Oh</F> you have a dog.</A>
+<B>Yes.</B>
+<A>Please tell me about it.</A>
+<B><F>Er</F>. <R>My</R> my dog is a female, <F>er</F> about two years old and <F>mm</F> called <R><H pn="others1">XXX03</H></R> <H pn="others1">XXX03</H>. <F>Er</F>. She is mixed <F>er</F> Japanese dog. And she's <R>very</R> <F>er</F> very kind of my cat. <nvs>laughter</nvs> I have a cat and dog in my house.</B>
+<A><F>Ah</F>. I see.</A>
+<B><F>Oh</F> <R>they</R> they are like, the <SC>brothers</SC> brother and sister. <nvs>laughter</nvs> Yes.</B>
+<A><F>Ah</F>. <F>Mmm</F>. What do they like to do?</A>
+<B><F>Erm</F> <F>er</F> <nvs>laugher</nvs> <R>they</R> they're run and <laughter>run</laughter> <SC>in the house</SC> in the room.</B>
+<A>And you too?</A>
+<B>Yes. <nvs>laughter</nvs> <laughter>"Stop, stop.", I said</laughter>.</B>
+<A>I see. Then <H pn="B's name">XXX02</H> <F>eh</F>do you live with your family?</A>
+<B><F>Ah</F>. No. I live with my partner.</B>
+<A><F>Ah</F>.</A>
+<B>Yes. <.></.> And <F>er</F> cat and dog.</B>
+<A><F>Mm</F> I see. Then, do you have a job?</A>
+<B>Yes, <F>er</F>.</B>
+<A>What do you do?</A>
+<B><F>Er</F>. I'm an artist. I make objects by iron and clothes and <F>er</F> a lot of materials I used.</B>
+<A><F>Ah</F> interesting. How did you get interest in doing that?</A>
+<B><F>Erm</F>. Excuse me <F>erm</F>.</B>
+<A>How did you become interested in making objects?</A>
+<B><F>Er</F>.</B>
+<A>How did you start?</A>
+<B><F>Er</F> <F>erm</F>. <R>I</R> <F>er</F> I started my job about fifteen years ago <F>er</F> but <R>I</R> <F>er</F> I learned <R>at the school</R> at the school <F>er</F> <R>I</R> I go my own road.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K, thank you. Now, I'm going to show you a picture. Please describe it.</A>
+<B>Yes. <F>Um</F> <F>erm</F>. I think this room is <F>er</F> <SC>the girl</SC> her rooms. And there is a <.></.> desk, chair, <F>um</F> stereo-set, bookshelf <R>and</R> and bed. And <R>the</R> the personal computer on the desk. And the typewriter next to the personal computer and the desk in front of the big window with curtain and <R>she</R> she sit the chair <F>er</F> in front of the <.></.> personal computer. And <R>she</R> <F>mm</F> she wearing green sweater and blue mini-skirt. <R>And</R> <.></.> and <.></.></B>
+</task>
+<followup>
+<A>O K, great, thank you, <H pn="B's name">XXX02</H>. <F>Er</F>. Green or blue are your favorite colors?</A>
+<B><F>Mm</F>. <nvs>laughter</nvs> I think not <laughter>too bad</laughter></B>
+<A><F>Mm</F>.</A>
+<B>My favorite color is black or white.</B>
+<A><F>Ah</F> I see. <F>Mm</F>. So you're wearing black today.</A>
+<B>Yes. You too <nvs>laughter</nvs>.</B>
+<A><nvs>laughter</nvs> O K, then, <F>er</F> do you have a computer?</A>
+<B>Yes.</B>
+<A>What do you use it for?</A>
+<B><F>Er</F>. <R>I want to use</R> <F>er</F> I want to use the computer for <R>de</R> <R>design</R> design for my job but <F>er</F> <R>I bought</R> <F>er</F> I bought computer last month so <laughter>now <R>I</R> <R>I can't</R> <R>I can't</R> <F>er</F></laughter> <F>er</F> <F>mm</F> <SC>I can't <F>er</F> for design</SC> I can't use for design now. Because <F>er</F> <F>er</F> <SC>I used</SC> I use a <F>mm</F> <SC>illustrator's</SC> name the illustrator's software and illustrator's very difficult <F>Uh-huh</F>.</B>
+<A>I see,</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, thank you. Now, let's do a role-play. Please read this card and when you're ready, I'll start the conversation.</A>
+<B>Yes.</B>
+<ctxt>The examinee is looking at the card and thinking of what to say.</ctxt>
+<A>O K? <?>Ring ring</?>. hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hi, this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi <H pn="B's name">XXX02</H>, what's up?</A>
+<B><F>Oh</F> <F>er</F>. <R>Do</R> <F>er</F> <.></.> <F>mm</F> <R>do you have a</R> <F>ah</F> do you have a free time this Saturday evening?</B>
+<A>Yes, sure.</A>
+<B><F>Er</F>. I'd like to go to the movie with you.</B>
+<A><F>Oh</F>. That sounds great.</A>
+<B>O K?</B>
+<A><F>Mm</F>.</A>
+<B><F>Er</F>. <R>Wh</R> <R>where is</R> <F>eh</F> <SC>where's we</SC> <SC>we</SC> <F>ah</F> O K, <F>er</F>. <R>The</R> the theater is near Shibuya station, <F>er</F> I wait to <F>er</F> in front of the Hachikomae <R>rr</R> right?</B>
+<A>Yes, sure.</A>
+<B>O K, and after that, <F>er</F> we have to <F>uu</F> Italian cook, right? <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B>Do you like Italian food?</B>
+<A><F>Ah</F>. Yes.</A>
+<B>O K, and the Italian restaurant is <R>at</R> at Omotesandou. <F>Oh</F> <F>er</F>. And <SC>I</SC> <F>ah</F> we show the movie <F>er</F>. <R>After</R> after that, we take a taxi <F>er</F> about ten minutes <F>er</F> to Italian restaurant in Omotesandou.</B>
+<A><F>Ah</F> Yeah, that's a good idea, <H pn="B's name">XXX02</H>, thank you.</A>
+<B>O K.</B>
+<A>So see you then.</A>
+<B>See you.</B>
+<A>Bye bye.</A>
+<B>Bye Thank you.</B>
+</task>
+<followup>
+<A>O K, very good. <H pn="B's name">XXX02</H>, do you like movies?</A>
+<B>Yes.</B>
+<A><F>Ah</F> So please tell me about one of your <F>mm</F> favorite <OL>movies</OL>?</A>
+<B><OL><F>Ahh</F></OL>. My favorite movie is <F>er</F> <R>Berlin</R> <SC>Berlin</SC> <F>er</F> "Angel's Song". <F>Er</F> it's very sensitive movie about nineteen seventy-five or seventy-six. <F>Er</F>. Directors is Vim Wenders and the movie is <F>er</F> <SC>a lot of angels</SC> <laughter><SC>angles</SC></laughter> <SC>a <F>er</F> angels</SC> there is a lot of angels. They are <R>sitting</R> <F>erm</F> sitting next to the human. And <R>they</R> <SC>they listen</SC> they listening to humans <F>er</F> <SC>in mind voice</SC> in my mind voice.</B>
+<A>That's interesting.</A>
+<B>Yes. <nvs>laughter</nvs> But human <F>er</F> can't see the angels. <R>The human can</R> <F>ah</F> <SC>the angel can</SC> the human can see the human.</B>
+<A>I see. <F>Wow</F>. That's interesting.</A>
+<B>Yes.</B>
+<A>I think I should see the movie.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>And <F>mm</F> now, let's make a story using these six pictures and please start with "One day last week".</A>
+<B><F>Er</F>. One day last week, <F>er</F> my father and I went to the new restaurant. And then <F>erm</F> <SC>we're</SC> we were entrance and <R>the</R> the boys waited us. <R>And</R> <.></.> and <R>he</R> <F>er</F> he say <F>erm</F> "Good evening" <nvs>laughter</nvs>. And then <F>um</F> my father and I sat <F>er</F> table. And the waitress <F>er</F> brought us the menu. And we choosed <F>er</F> fish steak and <SC>chicken</SC> maybe chicken? <nvs>laughter</nvs> And <R>I</R> I drank draft beer and my father drank <F>er</F> white wine. And <R>that's very</R> <F>er</F> <F>mm</F> that's very nice dinner. <R>We talk</R> <F>er</F> we talk each other <F>erm</F>. And we talk about we future <R>and</R> and then my father paid all. I happy. <nvs>laughter</nvs> And I say my father "Thank you for dinner and see you later" I love father.</B>
+</task>
+<followup>
+<A><F>Mm</F>. Good, great, thank you, <H pn="B's name">XXX02</H>. Would you please compare <SC>the restaurant</SC> this restaurant in the picture <F>er</F> with your favorite one?</A>
+<B><F>Oh</F> difference? <F>Uh-huh</F> <F>er</F> <.></.> My favorite restaurant is more dark <.></.> than that restaurant. And <F>er</F> more romantic <nvs>laughter</nvs> than <R>that</R> that one.</B>
+<A>Why do you like that dark restaurant?</A>
+<B><F>Oh</F>. Because <R>dark</R> dark restaurant is <F>er</F> <.></.> if I went to dark restaurant with my boyfriend, <nvs>laughter</nvs> and the <F>er</F> little candle on the table and <F>er</F> if I laughed and, but the restaurant is dark <F>er</F> he can't see my <laughter><JP>karasunoasiato</JP></laughter>. <laughter><R>Da</R> dark restaurant is nice, I think</laughter>.</B>
+<A>I see. <F>mm</F> O K, then, <F>erm</F> do you like cooking?</A>
+<B>Yes, I like cooking.</B>
+<A><F>Mm</F>. What do you cook often?</A>
+<B><F>Erm</F>. I often cook Italian cook. <F>Mm</F>. <R>I</R> I learned Italian cook <F>er</F> at Italian restaurant in <H pn="others2">XXX04</H>. And I learned <F>mm</F> in Florence.</B>
+<A><F>Mm</F>. I see.</A>
+<B>I like Italian cook.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mm</F>. I see. O K. Thank you <H pn="B's name">XXX02</H>. This is almost the end of the interview but what are you going to cook tonight?</A>
+<B><F>Ah</F>. <R>I</R> <F>mm</F> I probably cook <F>er</F> <.></.> <F>mm</F> pasta <SC>in a <.></.> tomato sauce</SC> with tomato sauce and inslato misto. <nvs>laughter</nvs> insalato misto means <F>um</F> <.></.> <F>er</F> <F>en</F> it's salad with <F>er</F> seafood.</B>
+<A><F>Mm</F>. Sounds delicious.</A>
+<B>Yes.</B>
+<A>O K, thank you very much.</A>
+<B>Thank you very much.</B>
+<A>Thank you for coming.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

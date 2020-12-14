@@ -1,0 +1,176 @@
+<interview>
+<filename>file00762.txt</filename>
+
+<head version="1.3">
+<date>2001-12-17</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>O K. So where do you live, <H pn="B's name">XXX02</H>?</A>
+<B><F>Erm</F> I live in <H pn="others1">XXX03</H>.</B>
+<A>Do you live with your family?</A>
+<B>No, I live alone.</B>
+<A>O K. So can you tell me about <H pn="others1">XXX03</H> City?</A>
+<B><F>Erm</F> <R>I</R> <F>erm</F> <.></.> I don't know <F>erm</F> a lot <laughter>about</laughter> <H pn="others1">XXX03</H> only <F>erm</F> supermarket <laughter>and</laughter> <F>erm</F> convenience <laughter>store so</laughter> <F>er</F> I never <F>erm</F> <SC>go sho</SC> <F>er</F> went shopping <H pn="others1">XXX03</H> so <laughter><R>I</R> I don't know</laughter>.</B>
+<A>O K. So where is your family?</A>
+<B><F>Er</F>. My family live in <F>er</F> <H pn="others2">XXX04</H> Prefecture.</B>
+<A><F>Oh</F>. So can you tell me about your family?</A>
+<B><F>Erm</F>. There are <F>erm</F> seven people in my family, and I have two big brothers and one big sister.</B>
+<A>Can you tell me a little bit more about your <OL>family members</OL>?</A>
+<B><OL><F>Erm</F></OL>. All of my <F>erm</F> brothers and sister are already get married, and they have children.</B>
+<A>All right. So what do you do in your free time?</A>
+<B><F>Erm</F> <R>I</R> <.></.> <F>erm</F> I often work as a part time.</B>
+<A>O K. Tell me about your part time job.</A>
+<B><F>Erm</F> <R>I</R> I am working at Japanese food restaurant as waitress.</B>
+<A>So what's the difficult thing when you work at that Japanese restaurant?</A>
+<B><F>Erm</F>. To remember the name of <OL><laughter>dishes</laughter></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>and we have to explain how to eat and so on so. <nvs>laughter</nvs></B>
+<A>O K. So do you have any hobbies?</A>
+<B><F>Erm</F>. <.></.> Shopping. <nvs>laughter</nvs></B>
+<A><F>Ah</F>. Where do you usually go shopping?</A>
+<B><F>Erm</F> I often go <F>erm</F> Harajuku.</B>
+<A>Why Harajuku?</A>
+<B><F>Erm</F> <F>erm</F>. <SC>There</SC> <F>erm</F> Harajuku doesn't have <F>er</F> big <F>erm</F> mall, but <SC>there small</SC> <F>er</F> there are many small <F>erm</F> shops. I like those shops.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. All right. O K. Thank you very much. O K. Now I'm going to show you a picture. <..></..> O K. So please look at this picture and tell me about this picture.</A>
+<B>O K. <.></.></B>
+<A><F>Erm</F>. Describe it for me.</A>
+<B><F>Erm</F>. <SC>There are</SC> <F>erm</F> there is a girl, and <F>erm</F> there are dog and cat. And <F>erm</F> <SC>girl</SC> the girl <SC>sit</SC> sitting <F>erm</F> on chair, and <..></..> <F>erm</F> <..></..> <F>er</F> the dog and cats are sleeping. <nvs>laughter</nvs> <CO>And</CO>. <F>Erm</F>. <..></..></B>
+</task>
+<followup>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><laughter>O K</laughter>. Thank you. So <SC>do you</SC> <F>erm</F> what's your room like?</A>
+<B><F>Erm</F>. Very small room. <nvs>laughter</nvs></B>
+<A>What do you have in your room?</A>
+<B><F>Erm</F>. Bed and television and <F>erm</F> M D <R>com</R> compo? <nvs>laughter</nvs></B>
+<A>Do you have a computer?</A>
+<B>No.</B>
+<A><F>Oh</F>. Why not?</A>
+<B><F>Erm</F> I'm not good at those <laughter>thing</laughter>.</B>
+<A>O K. <F>Er</F>. In <H pn="others2">XXX04</H>, does your family keep any pets?</A>
+<B><F>Er</F> Yes. I have a dog.</B>
+<A>Can you tell me about that dog?</A>
+<B><F>Erm</F> <F>erm</F>. His name is Keisuke, and <.></.> he is <R?>mu</R?> <?>mu</?>, <nvs>laughter</nvs> and he is eleven years old. <.></.> <F>Er</F>. But he is very <F>erm</F> active. <nvs>laughter</nvs></B>
+<A>Do you sometimes go back to <H pn="others2">XXX04</H> to meet that dog?</A>
+<B><F>Er</F>. Yes.</B>
+<A>How often?</A>
+<B><F>Erm</F>. <..></..> Twice a year, maybe.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. O K. Thank you very much. O K. Now let's do a role-play. O K? <.></.> O K. <.></.> So please look at this card. This is written in Japanese. Please read it to yourself, and when you're ready, I'll begin the role-play.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K.</B>
+<A>O K. Hello.</A>
+<B>Hello. <nvs>laughter</nvs> <F>Erm</F> <F>erm</F> <F>er</F> <F>erm</F> <nvs>laughter</nvs> <F>erm</F>. Why don't we have a party?</B>
+<A>O K. That's nice.</A>
+<B><F>Erm</F>. When <F>erm</F> will you be free?</B>
+<A><F>Er</F>. This weekend?</A>
+<B><F>Er</F> <F>erm</F>. Where do you want to <F>erm</F> have party?</B>
+<A><F>Er</F> How about your house?</A>
+<B><laughter>O K</laughter>. But my house is too small. O K?</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Erm</F>. And can you bring some dishes?</B>
+<A>I'll bring.</A>
+<B><nvs>laughter</nvs> <F>Erm</F> <.></.> What can you have?</B>
+<A><F>Er</F>. Meat?</A>
+<B><F>Er</F> <.></.> <F>er</F>. What can you bring?</B>
+<A><F>Erm</F> O K. I'll bring some fried chicken.</A>
+<B><laughter>O K</laughter>. <F>Erm</F> <R>I</R> <F>erm</F> I want to eat pizza. <nvs>laughter</nvs></B>
+<A>O K. I'll bring some pizza, too.</A>
+<B><F>Ah</F>. <laughter>O K</laughter>. <laughter>Thank you</laughter>. <F>Er</F> I'll make <F>erm</F> cake.</B>
+<A>Sounds nice. So when is the party?</A>
+<B><F>Er</F> I think the Saturday is nice.</B>
+<A>What time?</A>
+<B>From five o'clock P M.</B>
+<A>O K. So Saturday at five o'clock. I'll be there.</A>
+<B><laughter>O K</laughter>.</B>
+<A>O K. See you.</A>
+<B><nvs>laughter</nvs> See you.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. This is the end of the role-play. So do you sometimes have parties at your <OL>house</OL>?</A>
+<B><OL><F>Ah</F></OL>. Yes.</B>
+<A>What kind of food do you have?</A>
+<B><F>Er</F> <laughter>kimchi <JP>nabe</JP></laughter>.</B>
+<A>Do you cook for yourself?</A>
+<B>Yes, <F>er</F> with friends.</B>
+<A>O K. So what do you talk about when you have parties?</A>
+<B><F>Erm</F>. About school and <.></.> <OL><laughter>boys</laughter></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>and so on. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><nvs>laughter</nvs></OL> <laughter>O K</laughter>. <laughter>Thank you very much</laughter>. O K. Now I'm going to show you another picture. O K? So please look at this picture and make up a story.</A>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<B>O K. <..></..> <F>Erm</F>. Two boys and a girl went to <F>erm</F> movie, and <F>erm</F> they bought some food. And they watched the movie, <F>erm</F> <.></.> maybe <R>vio</R> violent movie. And they enjoy that. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K. Thank you very much. So <F>er</F> do you like to watch movies?</A>
+<B><F>Erm</F>. Yes.</B>
+<A>O K. What kind of movies?</A>
+<B><.></.> Anything. <nvs>laughter</nvs></B>
+<A>O K. When was the last time you saw the movie?</A>
+<B><F>Erm</F> <..></..> <F>erm</F>. Three weeks ago. Maybe.</B>
+<A>Can you tell me about that movie?</A>
+<B><F>Erm</F> <F>er</F> I went with friends <F>erm</F> <F>erm</F> <R>girl</R> girl, and <SC>there are</SC> the movie is <F>erm</F> love story. <laughter>And</laughter> there are many couples <OL><laughter>so</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. So <F>erm</F> can you tell me a little bit about the story?</A>
+<B><F>Erm</F> <.></.> <F>erm</F>. <SC>The</SC> <F>erm</F> <F>erm</F> <F>erm</F> <laughter>difficult</laughter>. <F>Erm</F>.</B>
+<A>O K. What is your favorite movie?</A>
+<B><F>Erm</F> <.></.> <SC>I</SC> <F>er</F> my favorite <R>mo</R> movie is <laughter>maybe</laughter> "<JP>Totoro</JP>". <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Why do you like that movie?</A>
+<B><F>Erm</F>. <SC>There are many</SC> <F>erm</F> the people and <R>ani</R> animal are <F>erm</F> very pretty. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. O K. Thank you very much. So this is almost the end of the interview. So what are you going to do after this interview?</A>
+<B><F>Erm</F> <F>er</F> I will go <F>er</F> aroma <R>ma</R> massage.</B>
+<A><F>Oh</F>. Where?</A>
+<B>Shinjuku.</B>
+<A><SC>Do you usually</SC> how often do you go <OL>there</OL>?</A>
+<B><OL><F>Erm</F></OL>. First time.</B>
+<A><F>Oh</F>. With your friend?</A>
+<B><F>Er</F>. <.></.> Alone. <nvs>laughter</nvs></B>
+<A><F>Oh</F> <OL><F>er</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Have you ever tried other <R>kind</R> kind <OL>of massage</OL>?</A>
+<B><OL><F>Ah</F> yeah</OL>.</B>
+<A>What type of massages?</A>
+<B><F>Er</F>. Footbath.</B>
+<A><F>Oh</F>. In Japan?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. <OL><laughter>Enjoy</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Massage <OL><laughter><??></??></laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Thank you very much for coming today.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

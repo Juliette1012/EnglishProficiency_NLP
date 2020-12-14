@@ -1,0 +1,204 @@
+<interview>
+<filename>file00256.txt</filename>
+
+<head version="1.3">
+<date>2001-02-23</date>
+<sex>male</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>.</A>
+<B><OL><H pn="A's name">XXX01</H></OL>?</B>
+<A><OL>What is</OL> your name?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F>. <H pn="B's name">XXX02</H>?</A>
+<B>Yes. <OL><H pn="B's name">XXX02</H></OL>.</B>
+<A><OL><F>Ah</F></OL>. O K. So, <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Ah</F> I'm fine, thank you. And you?</B>
+<A>I'm all right, <OL>thank you</OL>.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>So, did you have lunch?</A>
+<B>Yes.</B>
+<A>What did you have?</A>
+<B><F>Ur</F> <SC>I have a <R><JP>su</JP></R> <JP>sushi</JP></SC> I had a <R><JP>sushi</JP></R> <F>er</F> sushi lunch.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah. <.></.> <F>Ern</F> very cheap and <F>er</F> good taste.</B>
+<A><F>Ah</F> <OL>I see</OL>.</A>
+<B><OL><F>Ur</F> it was good</OL>.</B>
+<A><F>Ah</F>. Where did you have it?</A>
+<B><F>Ern</F> <F>er</F> very near here. <F>Er</F> <F>er</F> station name is <H pn="others1">XXX03</H>.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A><F>Hmm</F> I see. O K. <F>Eh</F>. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F> I live in <SC>Sug</SC> <F>er</F> <H pn="others2">XXX04</H>. <F>Er</F> near here. <F>Er</F> walk by <.></.> <F>ur</F> <SC>ten minutes</SC> maybe ten minutes.</B>
+<A><F>Ah</F>.</A>
+<B>Yeah.</B>
+<A>I see. Tell me more about your place.</A>
+<B><F>Um</F>. Pardon?</B>
+<A>Tell me more,</A>
+<B>More?</B>
+<A>about your town.</A>
+<B><F>Ahh</F>. <F>Erm</F> <.></.> <F>em</F> <SC>near <R>my</R> my house</SC> near <F>er</F> <H pn="school name1">XXX05</H>, <F>er</F> a lot of <F>ur</F> <SC>st</SC> <H pn="school name1">XXX05</H> student <F>erm</F> <.></.> very <SC>ko</SC> <F>mm</F> noisy. And <F>er</F> a lot of <R>dus</R> dust. <F>Er</F> <.></.> I don't like <F>ur</F> this point. <F>Erm</F>. But <F>er</F> <F>ur</F> I like <F>er</F> <.></.> very <.></.> <F>eh</F> <.></.> <SC>ch</SC> <F>eh</F> <SC>stores</SC> <F>ur</F> restaurant and <F>er</F> store are <.></.> cheap, <F>mhm</F> <R>n</R> not <F>er</F> expensive. <.></.> You understand?</B>
+<A><F>Hm</F>. O K. O K.</A>
+<B>Thank <OL>you</OL>.</B>
+<A><OL><F>Hmm</F></OL>. So, on weekends, what do you like to do?</A>
+<B><F>Ern</F> <F>mm</F> <F>ur</F> I don't have a weekend. <F>Erm</F>. Because <F>er</F> <F>erm</F> <.></.> <R>I am</R> I'm a <.></.> <F>er</F> <.></.> company <F>ur</F> president. Very busy. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B><F>Erm</F> <.></.> <F>ur</F> <R>my</R> my look <F>er</F> baby face <F>erm</F> <.></.> just like a <JP>arubaito</JP>. <nvs>laughter</nvs> <.></.> <F>Urm</F> <.></.> <F>ur</F>. <nvs>laughter</nvs> But <F>er</F> <laughter>I'm a president</laughter>.</B>
+<A><F>Wow</F>. <OL><F>Hmm</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>That's nice.</A>
+<B>Thank you.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you. Now, I'm going to show you a picture. Please</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>describe it.</A>
+<B><.></.> <F>Um</F>?</B>
+<A>Please <SC>describe</SC> tell me anything about the <OL>picture</OL>.</A>
+<B><OL>Yeah</OL>. <F>Erm</F> this is <F>er</F> a <.></.> <JP>gerende</JP>. <.></.> <F>Er</F> <..></..> <F>ur</F> <SC>li</SC> this is a <SC>lift</SC> <F>uh</F> pair lift. And <.></.> <R>he</R> he playing snowboard. <F>Erm</F>. <R>She</R> she playing ski. <.></.> And <.></.> they playing ski, too. <.></.> <F>Erm</F>. <.></.> <R>He</R> he's crash. <F>Er</F>. <.></.> This is <F>ur</F> restaurant <F>eh</F> in <JP>gerende</JP>. <F>Er</F> <.></.> <F>urm</F>. <.></.> They <.></.> drink a coffee. <F>Ur</F>. <.></.> Kids <F>ur</F> playing <F>er</F> <.></.> <F>erm</F> <.></.> Japanese say <JP>yukigassen</JP>. <F>Er</F> <R>I don</R> I don't know in English <JP>yukigassen</JP>.</B>
+</task>
+<followup>
+<A>That's O K. O K. So, <H pn="B's name">XXX02</H>, do you go skiing?</A>
+<B>Yes, I like it.</B>
+<A><F>Ah</F> really?</A>
+<B>Yes.</B>
+<A>Then how about snowboarding?</A>
+<B><F>Erm</F> <.></.> <F>er</F> <.></.> <R>I</R> <SC>I'm ski</SC> I think <F>er</F> I'm skies very well. <F>Ur</F>. But <F>er</F> I snowboard is very beginner.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah. <F>Erm</F> <JP><F>unto</F></JP> <R>la</R> <R>last</R> last week, <F>er</F> first time <.></.> start snowboard.</B>
+<A><F>Hmm</F> I see.</A>
+<B>Yeah.</B>
+<A>Which is more difficult?</A>
+<B>Yeah, <F>Erm</F> I think <F>er</F> ski. But <F>er</F> I play the ski <F>er</F> <.></.> a <R>lon</R> long ago. <.></.> <SC>Sno</SC> now <SC>s</SC> I'm <R>dif</R> difficult snowboard.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hm</F> I see. O K. Thank you. Then, let's do a role-play. Please read this card. When you are ready, I'll start the conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Uh-huh</F>. <..></..> Hello?</B>
+<A>Hello?</A>
+<B>Hi, this is <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F> this is <H pn="A's name">XXX01</H>.</A>
+<B><F>Ah</F>. <H pn="B's name">XXX02</H>, <F>ur</F> <.></.> <F>er</F> how are you?</B>
+<A>Fine. How are you?</A>
+<B><F>Oh</F> good.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Erm</F> I have a good idea. <F>Er</F>. Please <F>er</F> <.></.> <F>er</F> <.></.> follow me <F>er</F> go to <F>mm</F> movie.</B>
+<A><F>Hmm</F>.</A>
+<B><..></..> <F>Mmm</F>. Now open movie is very <F>erm</F> interesting.</B>
+<A><F>Hm</F>.</A>
+<B><F>Uh</F> <F>er</F>. Do you know "Pay Forward"?</B>
+<A><.></.> <F>Mmm</F>. <.></.> No. I'm sorry. I don't know,</A>
+<B>Really?</B>
+<A><OL>anything about it</OL>.</A>
+<B><OL><F>Ah</F> <F>oh</F></OL>. <F>Ur</F>. "Pay Forward" <F>ur</F> movie is very very <F>er</F> good movie.</B>
+<A><F>Hm</F>.</A>
+<B><F>Ur</F> <.></.> <F>mhm</F>. <.></.> Could you please <F>er</F> <.></.> go to movie?</B>
+<A><F>Hm</F>. O K. <OL>Sure</OL>.</A>
+<B><OL>O K</OL>? Really? <F>Oh</F> nice. <F>Erm</F> <.></.> <F>er</F>. <R>Which</R> which do you like better, <F>uh</F> today or tomorrow?</B>
+<A><F>Hm</F>. Tomorrow.</A>
+<B>Tomorrow? <F>Er</F>. What time tomorrow <F>ur</F> <.></.> do you best?</B>
+<A>Any time is <OL>O K, how about you</OL>?</A>
+<B><OL>Any time is O K</OL>? O K. <F>Urm</F>. O K. <F>Ur</F> <.></.> <F>ur</F>. <R>Last</R> last movie <.></.> <F>er</F> <F>eh</F> <.></.> maybe seven o'clock. <F>Urm</F>. It's O K?</B>
+<A>Yeah.</A>
+<B>O K. <F>Errm</F>. <.></.> O K. <F>Er</F> <.></.> <F>eh</F>. <.></.> Tomorrow, <F>er</F> are you <R>st</R> stay?</B>
+<A><F>Hm</F>.</A>
+<B><F>Ur</F>. Where are you tomorrow, <OL>stay</OL>?</B>
+<A><OL><F>Hm</F></OL> at home.</A>
+<B>Home?</B>
+<A><F>Hm</F>.</A>
+<B>O K. O K. <F>Ur</F>. <.></.> Your home is <H pn="others3">XXX06</H>?</B>
+<A><.></.> <F>Umm</F>. No.</A>
+<B>No?</B>
+<A><H pn="others3">XXX06</H>.</A>
+<B><H pn="others3">XXX06</H>?</B>
+<A><F>Hm</F>.</A>
+<B>O K. Good. <F>Eh</F> <F>um</F> <..></..> <SC>sh</SC> <F>eh</F> do you know <H pn="others5">XXX07</H>? <CO><OL><R>I</R> in <H pn="others4">XXX08</H></OL></CO>.</B>
+<A><OL>Yes</OL>.</A>
+<B>O K. <F>Erm</F>. <.></.> Six-thirty o'clock, <F>ur</F> <.></.> <R><H pn="others5">XXX07</H></R> <F>mm</F> <H pn="others5">XXX07</H>, <F>ur</F> second floor, <F>ur</F> coffee shop,</B>
+<A><F>Hm</F>. <OL>O K</OL>.</A>
+<B><OL><F>er</F></OL> you know?</B>
+<A><F>Hmm</F>. <OL>Yes</OL>.</A>
+<B><R><OL>O K</OL></R>. O K. <.></.> <F>Ur</F>. <.></.> <SC>You</SC> <F>ur</F> <.></.> <F>ur</F> <SC>how do you <.></.> <H pn="others5">XXX07</H></SC> <.></.> <F>ur</F> are you <R>wa</R> walk or taxi?</B>
+<A><F>Hm</F> I can walk there.</A>
+<B><R>W</R> walk? O K. <F>Urm</F> <.></.> <F>mm</F>. O K. <F>Er</F> I drive a car. <F>Ur</F> <F>urm</F>. <R>You</R> you home, <R>I</R> <F>erm</F> I pick up <.></.> you, <F>ur</F> <R>ss</R> <F>ur</F> six o'clock.</B>
+<A>O K.</A>
+<B>O K?</B>
+<A>Thank you.</A>
+<B>O K. <OL>See you</OL>.</B>
+<A><OL>See you</OL>.</A>
+<B>See you tomorrow.</B>
+<A>Bye-bye.</A>
+<B>Bye-bye.</B>
+</task>
+<followup>
+<A>O K. Good. So, do you like movies?</A>
+<B>Yes.</B>
+<A><F>Hmmm</F>? <F>Oh</F> please tell me about your favorite movie.</A>
+<B><F>Mmm</F> <.></.> I like <F>er</F> <F>ur</F> <.></.> <F>mm</F> <SC>Italian <JP>eiga</JP></SC> Italian movie, <F>ur</F> "Life Is Beautiful". <.></.> You know?</B>
+<A><.></.></A>
+<B><F>Er</F> "Life Is Beautiful" number one.</B>
+<A><F>Hm</F>. <SC>What do you</SC> why do you like it so much?</A>
+<B>Yeah. <F>Erm</F> I have <F>er</F> three children, <F>er</F> two <.></.> son. <F>Erm</F> <.></.> "Life Is Beautiful" boy <F>eh</F> <.></.> <F>mm</F> <.></.> <R>bo</R> both <F>er</F> <R>my</R> my son is <F>er</F> <.></.> ten years old. And <.></.> if <F>mm</F> <.></.> <R>my</R> my life <.></.> <R>change</R> change this movie <F>erm</F> <.></.> <F>er</F> I think <F>er</F> <.></.> <F>erm</F> <F>ur</F> "Life Is Beautiful" <F>ur</F> <R>father</R> father <.></.> is <F>er</F> very positive thinking and <F>er</F> <F>erm</F> very <.></.> kindness. <F>Umm</F>. <.></.> His wife is very nice, too. <F>Erm</F>. And <F>er</F> <.></.> boy is very cute. <.></.> Yeah. <F>Umm</F>. <.></.> Yeah. <OL>Thank you</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><F>Hm</F></OL>. O K. Thank you. So, finally, let's do this. Please make a story using these six pictures. <OL>And</OL>,</A>
+<B><OL>Make a story</OL>?</B>
+<A><OL>please</OL> start with "One day last week,"</A>
+<B><F>Ah-huh</F> one day last week. <.></.> O K. <F>Er</F>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Mm-huh</F>. O K. <.></.> <F>Er</F> <F>er</F>. <R>She</R> <F>er</F> <SC>she have</SC> she has <F>er</F> boy friend. <F>Erm</F> <.></.> <F>er</F> <.></.> <F>ur</F>. She like cooking. <SC>And</SC> but <F>er</F> <F>err</F> <F>urr</F> this refrigerator is <F>er</F> empty. <F>Eh</F>. <.></.> <R>Sh</R> she go to the <JP>super</JP> <.></.> by car. She shopping <F>er</F> <F>er</F> some food and <F>er</F> <.></.> breads and <F>er</F> eggs <.></.> and meat. And <.></.> <R>she</R> she pay <F>uh</F> <.></.> <F>er</F> <F>eh</F> <.></.> <F>mhm</F> <..></..> <F>ur</F> <R><JP>regi</JP></R> <F>ur</F> <JP>regi</JP> counter. <.></.> <F>Umm</F>. <..></..> <SC>Sh</SC> <.></.> <R>her</R> her <..></..> <F>umm</F> <.></.> <F>erm</F> <..></..> <R>car</R> <.></.> <R>ca</R> car baggage space open. <F>Er</F> <..></..> <F>mhm</F>. <..></..> And <F>er</F> she cooking <F>er</F> <R>fried</R> fried egg. <F>Ur</F>. <.></.> She's <F>ur</F> very happy.</B>
+</task>
+<followup>
+<A>O K. Good. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B><JP>Hai</JP>.</B>
+<A>Do you cook?</A>
+<B>Yes, a little.</B>
+<A>A little?</A>
+<B>Yeah.</B>
+<A><F>Hm</F>. What do you cook?</A>
+<B><F>Umm</F> <F>ur</F> <F>er</F>. Curry and <F>er</F> <F>uh</F> <.></.> <SC>spa</SC> <F>erm</F> pasta. <F>Um</F> I like pasta.</B>
+<A><F>Mm-huh</F>. <.></.> I see. Then <F>er</F> what <F>er</F> do your children say <SC>when you</SC> when they eat,</A>
+<B><F>Uh-huh</F>.</B>
+<A>your pasta?</A>
+<B>Yeah. <OL><F>Urn</F></OL>.</B>
+<A><OL>What do they say</OL>?</A>
+<B>Daddy, <R>it'</R> it's nice. Delicious. <R>My ki</R> my kids is very <F>er</F> kindness. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs> O K</OL>. Thank you.</A>
+<B>You're welcome.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Er</F>. We are almost at the end of the interview. But what are you going to do tonight?</A>
+<B>Tonight?</B>
+<A><F>Um</F>.</A>
+<B><F>Ur</F> tonight? <F>Er</F>. Yes. <F>Ur</F> I'll go to <.></.> <F>err</F> Shinjuku, <F>ur</F> <R>Hi</R> Hilton Hotel. <F>Urm</F> <.></.> <F>er</F> <R>my f</R> <SC>my friends</SC> <F>err</F> <SC>with</SC> <F>er</F> <SC>ha</SC> <R>we</R> we have a dinner with my friend.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A>I see.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>That's</OL> nice. So, <F>er</F> enjoy yourself.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>Thank you very much</OL> for coming in today.</A>
+<B>Yeah.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,131 @@
+<interview>
+<filename>file00030.txt</filename>
+
+<head version="1.3">
+<date>1999-12-16</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>750</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>electric shop</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. Good afternoon</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><OL>All right</OL>.</A>
+<B><OL>Sure</OL>.</B>
+<A>So how are you today?</A>
+<B><F>Ah</F>. I'm not very fine because <SC>I slept at six o'clock</SC> <F>umm</F> <R>I</R> I went to bed at six o'clock.</B>
+<A>You mean this morning?</A>
+<B>Yeah. <nvs>laughter</nvs></B>
+<A><F>Wow</F> what happened?</A>
+<B><F>Um</F>. <SC>I've hold</SC> I've held a party with my friends <R>and</R> <nvs>laughter</nvs> <SC>and</SC> so. <F>Umm</F>. <SC>I have</SC> I had a class in this morning, <F>um</F> I mean the class of English conversation, and I was very, very late for that class. But <F>um</F> I was never absent for <R>eight</R> eight weeks <F>mm</F> <SC>and</SC> so I'm very proud of it.</B>
+<A><F>Mh</F> that's great.</A>
+<B>Yeah. <nvs>laughter</nvs></B>
+<A>You are diligent student. O K. By the way, <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Um</F>. I live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>.</A>
+<B>Yes.</B>
+<A><F>Wow</F>. How do you come to school?</A>
+<B><F>Um</F> at first, I get <F>umm</F> <H pn="others2">XXX04</H> line <SC>to</SC> <F>ah</F> from <H pn="others1">XXX03</H> Station to <H pn="others3">XXX05</H> Station and <R>I</R> I go for walk to the <H pn="others4">XXX06</H> Station then I change the train to the <H pn="others5">XXX07</H> line.</B>
+<A><F>Uh-huh</F>. I see. So what do you do on the train?</A>
+<B><F>Ah</F>. <nvs>laughter</nvs> When I'm very tired <R>I</R> I sleep a little bit or now I'm very busy for preparing the job hunting, so in a train <SC>I</SC> sometimes I read some books about the job hunting.</B>
+<A>I see. O K. Do you sometimes give away your seat to the <OL>elderly</OL> or handicapped?</A>
+<B><OL>Yes</OL>, yes, sure. Because <F>um</F> <R>I</R> I do it because <SC>when I was</SC> <F>mm</F> <F>ah</F> <SC>about</SC> it was about <F>mh</F> <SC>one</SC> <SC>six year</SC> <F>ah</F> six month ago, I had an accident, and <SC>I</SC> <.></.> <F>ah</F> at that time <R>I</R> I was wearing some protection around my body and I really wanted to seat. <SC>And some</SC> and <F>oh</F> <F>um</F> there were always some people <SC>who get me</SC> <F>ah</F> who give me the seat <SC>and</SC> so I decided to do like them. <F>Hum</F>.</B>
+<A>That's good.</A>
+<B>But <F>mm</F> <R>it's</R> it's normal.</B>
+<A><F>Mmm</F> yeah, yeah. That's right. O K, all right. What do you usually do when you don't come to school?</A>
+<B><F>Mm</F>. Actually <R>I</R> I go to school five times <F>mm</F> a week, so <nvs>cough</nvs> <SC>I</SC> <R>on</R> on Sunday <SC>I stay</SC> I always stay at home <R>to</R> to read a book or to watch the T V or to listen the music or <F>umm</F> <R>if</R> <R>if I</R> if I have a free time <F>um</F> <R>after</R> after the class <R>I</R> I meet some friends or go for shopping.</B>
+<A><F>Hum</F> that's good.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K, all right. So now I would like to show you one picture.</A>
+<B><F>Uh-huh</F>.</B>
+<A>All right. Here you are. Please describe this picture.</A>
+<B><F>Ah</F>. O K, <.></.> <F>mm</F> <.></.> <F>ah</F> <R>two</R> two men are <R>in a</R> <R>in a</R> in a shop and one men are looking for a watch in that shop. And there, there are <F>mm</F> two T Vs <R>and</R> and some cameras or some telephones <F>umm</F> and, how can I say, <.></.> <F>ah</F> <.></.> <F>mh</F> I don't know how do you call it in English but <F>mm</F> <F>ah</F> <SC>C D recorders</SC> some C D recorders. And <nvs>cough</nvs> a man asked to another man <R>to</R> <F>ah</F> to get some informations about the watches and it is three o'clock. <F>Mm</F> it is not very crowded in the shop. <.></.> <F>Mh</F> I think that's all.</B>
+</task>
+<followup>
+<A>Thank you very much, Is there anything you want to buy now?</A>
+<B><F>Ah</F> yes. I want to buy <F>ah</F> <F>um</F> <.></.> <F>mm</F> <.></.> video recorders because <F>um</F> a friend of mine have one and <F>em</F> actually <R>last</R> last night <R>we</R> <F>ah</F> <SC>we had</SC> <F>ah</F> we made a <JP>nabe</JP> and at the party and <F>ah</F> friend of mine <SC>took a pictures about</SC> <nvs>cough</nvs> sorry, <nvs>cough</nvs> <F>ah</F> took a pictures of that party and in the morning <R>we saw</R> <F>ah</F> we saw that videos and it is very funny, <nvs>laughter</nvs> so I want to buy it.</B>
+<A>I see. Good. O K. Now, so we have many this kind of products that are made in China or Southeast Asia countries. What do you think of those products?</A>
+<B><F>Um</F> you mean the qualities or something?</B>
+<A><OL>Anything</OL>.</A>
+<B><OL>Anything</OL>? <F>Mm</F>. I think <F>um</F> the reason why the most of the Japanese companies <F>er</F> made some products in Chinas or <SC>some</SC> in somewhere else because <F>mm</F> <R>if we</R> <SC>if we</SC> if they do it in Japan it would cost very much. But <R>if</R> <SC>if they made</SC> <F>mm</F> if they make some products <R>in a</R> <SC>in a chi</SC> in China, for example, <F>um</F> there are a lot of people who want to work <R>and</R> and <F>um</F> recently I saw <F>um</F> <R>T V</R> T V documentaries and <SC>at that</SC> in that program <F>um</F> the Chinese people said <F>um</F> <SC>they</SC> that they very <R>wanted</R> wanted to work for a Japanese company. And I don't know why but <SC>they</SC> <F>mm</F> I think <R>they</R> they love Japan and <R>if</R> if they work for the Japanese company <F>mm</F> in China <R>it is</R> it is kind of <.></.> how can I say, <F>mm</F> <F>ah</F> <F>ah</F> <R>they</R> they can get <R>some</R> <.></.> <F>ah</F> some advantages <SC>if</SC> <F>um</F> <SC>when they want to</SC> <F>mm</F> <SC>they</SC> when they look for another job <R>it would</R> <F>um</F> it would <R>help</R> help them <R>to</R> <F>mm</F> to get the job so <F>mm</F>. And as to the qualities, <F>um</F> I think <SC>it is</SC> <F>ah</F> there is <F>mm</F> no problem and the <?>tip</?> is very important for the students.</B>
+<A>I see. <nvs>laughter</nvs> Good. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role-play. O K? All right. <..></..> So, all right. Here you are. Please read this card and when you are ready, I'll start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading a card and thinking for a while.</ctxt>
+<A>O K?</A>
+<B>Yes. O K.</B>
+<A>All right. <F>Em</F>. This is telephone conversation. Trang-trang. Hello.</A>
+<B>Hello. <F>Umm</F>. <R>I</R> I'm <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F>. Hi, <H pn="B's name">XXX02</H>.</A>
+<B>I'm so sorry, I call you because I can't go to your party tonight.</B>
+<A>Why?</A>
+<B><F>Umm</F> because <F>um</F> my mother is very, very ill and you know, I have no brother or no sister so I should take care of her.</B>
+<A><nvs>sigh</nvs></A>
+<B><F>Umm</F> I'm so sorry <SC>be</SC> but <F>um</F> maybe next time, I can see you or if you have another party <R>I</R> <R>I'd like to</R> I'd like to go.</B>
+<A>O K. So how is she now?</A>
+<B><F>Umm</F> she's not quite bad but <F>mm</F> <R>I'm</R> <SC>I'm very worry about</SC> <F>um</F> I'm a little bit worry about her. <CO><OL>So</OL></CO>.</B>
+<A><OL><F>Ah</F></OL> but one of our guest is a very famous <F>ah</F> doctor so why don't you bring with your mother with you, too.</A>
+<B><F>Um</F> but you know, she is very tired and <SC>she is no</SC> now she is in the bed so <R>I think</R> <F>ah</F> I think it's better <R>to</R> <F>er</F> to leave her in the bed. And <R>if</R> if I need, I call a doctor by telephone so. But thank you.</B>
+<A>O K.</A>
+<B><OL>It's very kind</OL>.</B>
+<A><OL><SC>But</SC></OL> <F>er</F> yeah, but can you come later?</A>
+<B><F>Um</F> I don't think so <R>but</R> <F>mm</F> but <F>mm</F> it depends on her conditions. So maybe or probably.</B>
+<A>O K. All right. So I'll be waiting for you but anyhow take care of her.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>All right. Thank you very much. So you said you had a party last night?</A>
+<B><F>Mm-huh</F>. <nvs>laughter</nvs></B>
+<A>How did you organize it?</A>
+<B><F>Um</F>. O K. <F>Mm</F> I held a party with my friends whom I met in France, and <R>I've been</R> I've been in France for a year to study French and <SC>we are</SC> <R>we had</R> <F>um</F> we had a lot of experience together <R>and</R> and now <R>we all</R> <F>um</F> we all <R>in</R> <F>er</F> in Japan and <SC>we are now the same</SC> we are now at the same university but <F>mm</F> about <R>once</R> once a month <F>er</F> we organize some kind of party or, for example, <R>we go to</R> <F>um</F> we go to some restraints or <R>to</R> <SC>to see</SC> <R>to</R> <F>er</F> to see. And <SC>last night <F>um</F> a friend of mine</SC> <F>er</F> sorry, <F>um</F> about a week ago, a friend of mine called me that because <F>er</F> she wanted to see me and have a party. <R>And</R> and <SC>I</SC> <F>er</F> <F>ah</F> <F>um</F> at that time <R>I</R> I've just returned from Korea <SC>I</SC> and I had <F>um</F> some Korean food so I decided to take some food to the party <R>and</R> and so we held <F>er</F> <laughter>Korean party <R>last</R> last night</laughter>.</B>
+<A><F>Ah</F>. <F>Oh</F> that's good. O K. Yeah. That's great.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, this time, I'd like to show you one more picture. Please make up a story based on this six parts. And the story goes this way. But this happened before, so please start your story with "One day last week".</A>
+<ctxt>The interviewee is watching pictures.</ctxt>
+<B><F>Um</F>. One day last week, <F>um</F> <R>Tom</R> Tom called <F>er</F> Sophie. And Sophie is his girlfriend. <R>He</R> he suggested that <R>they</R> they will go to the zoo. <R>And</R> <.></.> and she was agreed. <nvs>sigh</nvs> <F>Mm</F> <..></..> and <.></.> Tom decided to go to her house <R>to</R> <F>er</F> to pick her up to the zoo. <R>And</R> <SC>and now</SC> <F>um</F> <R>and</R> <.></.> and <.></.> <SC>they go</SC> they went to the zoo. <F>Mm</F> <.></.> <F>er</F> <..></..> they went for a walk in the zoo. And <R>they saw</R> <F>mm</F> they saw a lion. And <R>they saw</R> they saw a monkey <F>um</F> eating an bananas. <nvs>cough</nvs> <R>And they</R> <F>mm</F> <..></..> <SC>and <R>they</R> <..></..> <F>er</F> they</SC> and they went home <R>in</R> in talking about some animals of the zoo. And they were very enjoyed.</B>
+</task>
+<followup> 
+<A>Thank you very much. O K. So <F>er</F> <H pn="B's name">XXX02</H>, where would you like to go with your boyfriend?</A>
+<B><F>Um</F> <R>I like</R> <F>mm</F> I like French movies so <R>I</R> I often go to the cinema with my boyfriend <R>to see</R> <F>mm</F> to see movies. But <F>um</F> there is a big problem between <SC>he</SC> him and me. <F>Ah</F> <R>he</R> <SC>he loves <F>um</F> some</SC> <F>ah</F> <R>he</R> <R>he doesn't</R> he doesn't like romantic movie but I love it. So when we go to the cinema and when we decide <SC>what we would do</SC> <F>ah</F> what we would see, <SC>we always have</SC> <F>mm</F> <SC>we always are</SC> we are not always <SC>agreed with</SC> <F>ah</F> agree and <F>ah</F> <SC>they</SC> <F>um</F> <SC>he want to</SC> he wants to see <F>er</F> a movie, for example, some <F>er</F> <SC>made by</SC> made in Hollywood or <SC>some about</SC> <R>they</R> <F>mm</F> <.></.> <SC>they love</SC> <F>ah</F> he loves <F>ah</F> attraction movies. <SC>And <.></.> I</SC> <.></.> <F>er</F> <.></.> <SC>so</SC> <F>mm</F> and sometimes <R>we</R> we rent a video tape and we see a movie at home and I think <F>er</F> I'd like to stay at home <R>and</R> <.></.> and talk to my boyfriend <R>about</R> <F>mm</F> about the job hunting or <OL>about my study</OL>.</B>
+<A><OL>About anythihng</OL>. <F>Hum</F>. That's good.</A>
+</followup>
+</stage4>
+<stage5>
+<A><laughter>Yeah, good solution, O K</laughter>. All right. <F>Er</F> thank you very much <H pn="B's name">XXX02</H>. Interview is almost ending. Thank you for coming today.</A>
+<B>O K. Thank you very much.</B>
+<A>And do you have any class for this afternoon?</A>
+<B>Yes. I'm going to see my friend in <H pn="others1">XXX03</H>.</B>
+<A><F>Ah</F> in <H pn="others1">XXX03</H>. You are going to <H pn="others1">XXX03</H> now.</A>
+<B><F>Ah</F> yes.</B>
+<A>O K. All right. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

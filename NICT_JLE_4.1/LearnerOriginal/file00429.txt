@@ -1,0 +1,161 @@
+<interview>
+<filename>file00429.txt</filename>
+
+<head version="1.3">
+<date>2001-04-16</date>
+<sex>male</sex>
+<age>39</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>550</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>All right, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B>Fine, thank you. And you?</B>
+<A>Fine, thank you. <F>Um</F> are you going to be busy today?</A>
+<B><F>Er</F> a little bit. <F>Ur</F> but <F>er</F> <F>er</F> every <F>mm</F> Monday, <F>er</F> Monday is <F>er</F> <F>ur</F> beginning of a <F>er</F> a week, so <F>er</F> Monday is always <F>er</F> busy to me.</B>
+<A><F>Mh-hmm</F> I see. <F>Eh</F> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F> I lives in <F>er</F> <H pn="others1">XXX03</H> City. And <F>ur</F> <H pn="others2">XXX04</H> Ward. I <R>li</R> lives <F>er</F> there <F>er</F> about <R>fo</R> four years this year. <F>Er</F> <R>four</R> four years ago, I moved <F>ur</F> that area from <F>er</F> <F>er</F> <H pn="others3">XXX05</H> Ward in <H pn="others4">XXX06</H>.</B>
+<A>All right.</A>
+<B><F>Er</F> I'm married with <F>er</F> <R>four</R> four <R>y</R> years ago.</B>
+<A><F>Hum</F>. <F>Oh</F> could you tell me about <SC>the</SC> your neighborhood a little bit?</A>
+<B><F>Er</F> that area is <F>er</F> <F>er</F> residential area. And <F>er</F> no <F>mm</F> big <F>er</F> <.></.> building and <F>er</F> <R>ma</R> manufacture of factory. So, that area is <F>er</F> very comfortable for me, and <F>er</F> <F>er</F> <nvs>cough</nvs> <F>er</F> <.></.> there is a <F>erm</F> very <F>mm</F> <F>eh</F> <.></.> not <F>er</F> noisy, and <F>eh</F> <F>er</F> many <F>mm</F> nature, <F>er</F> many <F>er</F> tree and <F>er</F> <F>er</F> wide place.</B>
+<A>Sounds nice place.</A>
+<B>Yeah.</B>
+<A>And what is your hobby?</A>
+<B><F>Hmm</F> especially nothing, but <F>er</F> <F>er</F> I like <F>er</F> <F>er</F> drawing a picture and <F>er</F> <F>er</F> <R>watch</R> <F>ur</F> watching the <F>er</F> movie video.</B>
+<A>What kind of painting do you <OL>draw</OL>?</A>
+<B><OL><F>Oh</F></OL> <.></.> <F>ur</F> movie stars' <F>er</F> illustration <.></.> and <F>er</F> <.></.> <F>ah</F> other kind of a <F>eh</F> <.></.> <R>fe</R> face.</B>
+<A><F>Hmm</F> did you learn by yourself?</A>
+<B><F>Hm</F> yeah.</B>
+<A><F>Hmm</F> that's interesting.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Thank you, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. Please describe this picture.</A>
+<B>Yes. <F>Ah</F> maybe <F>er</F> there is <SC>a</SC> <F>er</F> some restaurant, and <F>er</F> maybe <SC>in the</SC> in a hotel. <F>Er</F> <SC>many</SC> <F>er</F> three couples in there. <F>Er</F> <R>each coup</R> <.></.> <F>ur</F> each couples are <F>mm</F> pair, <F>eh</F> man and a woman. And <R>ze</R> they are <F>er</F> <.></.> having a dinner. <.></.> And <F>er</F> there is the <F>er</F> live piano performance and big clock. <R>One</R> <F>er</F> one table <F>er</F> with couple are <F>erm</F> <.></.> <F>eh</F> take a server of wine. <R>A</R> another <F>er</F> couples are eating a <F>mm</F> dinner. They are <F>er</F> very fun in that time.</B>
+</task>
+<followup>
+<A><F>Hm</F> O K. Thank you. <?>O K</?>. <H pn="B's name">XXX02</H>, when was the last time you went out to eat with your <F>er</F> wife?</A>
+<B><F>Oh</F>. <.></.> Now, my wife is <F>er</F> <F>mm</F> pregnant, so they <F>oh</F> move too hard. <F>Er</F> our last dinner <.></.> was the <F>mm</F> <SC>half month</SC> <F>er</F> half years ago. <nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah. <SC>That is</SC> <F>er</F> that was last, maybe.</B>
+<A>I see. Where did you go?</A>
+<B><F>Oh</F> Ginza. <R>And</R> and <F>er</F> <R>that</R> that <F>er</F> dinner was <F>er</F> <F>er</F> my wife's <F>urm</F> birthday. So I <F>hm</F> reserved <F>er</F> some <F>er</F> restaurant and <F>er</F> we eat <F>er</F> dinner.</B>
+<A>That's very nice. How did you choose the restaurant?</A>
+<B><F>Er</F> I <F>mm</F> researched the <F>er</F> book of <F>er</F> <SC>som</SC> many <F>mm</F> restaurant and hotel guidebook. And I researched that.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Thank you, <H pn="B's name">XXX02</H>. Now, we are going to do a role-play.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>This is your card. Please read this card to yourself. And when you are ready, let me know. I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>Ready? O K. May I help you, sir?</A>
+<B>Yes. <F>Er</F> I want to buy a <F>er</F> wristwatch. <F>Er</F> what kind of wristwatch <R>is</R> is there?</B>
+<A><F>Oh</F> we have everything.</A>
+<B><F>Oh</F> nice. <F>Hmm</F> <.></.> <F>er</F> <nvs>cough</nvs> is <F>mm</F> Rolex watch there?</B>
+<A>Yes. We have all kinds of <OL>Rolex here</OL>.</A>
+<B><OL><F>Oh</F></OL> great. <F>Oh</F> please show me <F>er</F> <F>er</F> any that watch.</B>
+<A>How about this one? This is the latest design.</A>
+<B><F>Uh-huh</F>. <F>Ur</F> how much is that?</B>
+<A>That is <F>um</F> <.></.> three thousand dollars.</A>
+<B><F>Oh</F> too <laughter>expensive</laughter>. But <F>er</F> <F>hm</F> most popular <F>er</F> Rolex watch is there? <R>Which</R> which one?</B>
+<A><F>Oh</F> this one. This one is very popular among young people.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>It's two thousand five hundred dollars.</A>
+<B><F>Oh</F> <F>well</F> is that <F>er</F> <F>er</F> <R>new</R> <SC>new one</SC> <R>new</R> new model? O K. <.></.> Is that <F>er</F> discount?</B>
+<A><F>Oh</F> I'm sorry, sir. But I can't give you discount.</A>
+<B><F>Oh</F> O K. <F>Er</F> <F>er</F> <R>which</R> which cheaper than that one watch? <OL><F>Er</F></OL>.</B>
+<A><OL>Do</OL> you want to have cheaper one?</A>
+<B>Yeah.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><R>Whi</R></OL> which one?</B>
+<A>How about this one? This one is only one thousand dollars.</A>
+<B><F>Uh-huh</F>. O K. <F>Mm</F> <F>ah</F> <.></.> price is O K, but <F>er</F> designs <R>are</R> are <R>no</R> not so good.</B>
+<A><F>Hmm</F>.</A>
+<B>So, <F>mm</F> <R>I</R> I <nvs>cough</nvs> thinking again and I <F>er</F> <.></.> talk to my wife.</B>
+<A>O K. <F>Well</F> please come back, then.</A>
+<B>Thank you.</B>
+<A>All right. Thank you. Have a nice day, sir.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. This is the end of the role-play. O K. <H pn="B's name">XXX02</H>, when you go shopping,</A>
+<B><F>Uh-huh</F>.</B>
+<A>how do you chose the product?</A>
+<B><F>Mh-hmm</F>. <F>Oh</F> first, I <F>mm</F> research <F>er</F> <F>er</F> some magazine. <F>Er</F> and <F>er</F> <SC>I</SC> <nvs>cough</nvs> <F>mm</F> first <F>mm</F> priority when I choose <F>er</F> that <F>er</F> something, <F>er</F> first is the <F>mm</F> design, and <F>er</F> <R>se</R> second is <F>er</F> <F>mm</F> price.</B>
+<A>Do you ask any advice from your wife?</A>
+<B>Yeah. <F>Er</F> sometimes, but <F>er</F> she <F>mm</F> <F>er</F> decide to buy herself <R>some</R> <F>ur</F> something she buy.</B>
+<A><?>I see</?>. <F>Oh</F> but when she choose something you don't like,</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><OL>what</OL> do you do?</A>
+<B><F>Er</F> <..></..> <nvs>laughter</nvs> when I <F>mm</F> the things I <R>don't</R> don't like, <F>er</F> I <F>mm</F> tell her <F>er</F> <SC>that is</SC> <F>er</F> that one is I don't like, because <F>mm</F> design is <F>ur</F> out of date or price is too expensive.</B>
+<A><F>Mh-hmm</F>. <laughter>O K</laughter>.</A>
+<B><laughter>So, I</laughter> <F>ur</F> <F>mm</F> that <F>er</F> change to another one.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mh-hmm</F>. O K. All right. Thank you. Now, I'm going to show you another pictures. Here <OL>you go</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>This is a sequence of picture.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And please make up a story based on these pictures from one to six,</A>
+<B><OL>O K</OL>.</B>
+<A><OL>and</OL> this happened before.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>So</OL> please start your story with "One day last week".</A>
+<B><F>Oh</F> <F>er</F> <R>ze</R> they are <F>erm</F> <.></.> <F>mm</F> <..></..> friend and <F>er</F> <R>ze</R> they <F>mm</F> go back to each house, after, maybe, <SC>their</SC> they were <F>mm</F> <.></.> part-time job and finish, they <F>er</F> walk to house. And then, on the way to <F>uu</F> go to house, <F>er</F> he heard a <R>s</R> <.></.> strange sound. And <F>er</F> they look at the <F>er</F> electric post. <R>The</R> the small cat is there. Maybe <F>er</F> the cat is <SC>the</SC> <F>mm</F> <..></..> alone <nvs>laughter</nvs> is there. And then <R>she</R> she said, <F>mm</F> <..></..> "We <F>mm</F> take care that cat <F>er</F> <..></..> which <F>er</F> house.". But <F>er</F> <R>he</R> he is <F>mm</F> <laughter>reject</laughter>. So <F>mm</F> she is <F>er</F> <F>er</F> bring that cat with her house.</B>
+<A>O K.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>All right. Thank you. All right. So when you have a different opinion</A>
+<B><F>Uh-huh</F>.</B>
+<A>from your co-workers here,</A>
+<B><F>Uh-huh</F>.</B>
+<A>how do you solve the problem?</A>
+<B>Different opinion? <F>Hmm</F> <..></..> talk and talk, and <F>er</F> <F>ah</F> we <F>mm</F> <..></..> negotiate <F>er</F> <..></..> <R>with co</R> with colleague and <F>er</F> we are maybe <F>mm</F> <..></..> <R>se</R> <SC>same</SC> <F>mm</F> similar <F>er</F> <.></.> opinion becomes to each other. So,</B>
+<A><OL><nvs>cough</nvs> Excuse me</OL>.</A>
+<B><OL><F>hmm</F></OL> <.></.> many time <R>we</R> <F>mm</F> <.></.> we have a meeting and <F>er</F> talk and talk.</B>
+<A>I see. <OL>All right</OL>.</A>
+<B><OL><laughter><?>Yeah</?></laughter></OL>. Maybe. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>. We are almost at the end of the interview.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Do</OL> you have any plan for the Golden Week?</A>
+<B><F>Ah</F> <R>my</R> my wife's <F>er</F> born <F>er</F> <R>s</R> schedule is <F>er</F> maybe <F>er</F> Golden Week.</B>
+<A><nvs>cough</nvs> <?>Excuse me</?>.</A>
+<B>So <F>er</F> <.></.> I have <R>n</R> <F>mm</F> no plan and no idea because <F>erm</F> I <F>ur</F> prepare to <R>preg</R> pregnant</B>
+<A><?>I see</?>.</A>
+<B>on my house. <nvs>laughter</nvs></B>
+<A><F>Wow</F>. Good luck on that.</A>
+<B>Thank you.</B>
+<A>All right. This is the end of the interview. Thank you for coming.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,615 @@
+<interview>
+<filename>N_file00006.txt</filename>
+
+<head version="1.3">
+<date>2002-11-07</date>
+<sex>female</sex>
+<age>21</age>
+<country>USA</country>
+<overseas>1_12m</overseas>
+<category>International Relations</category>
+<SST_task2>neighborhood</SST_task2>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_beginner</SST_task3>
+<SST_task3>landlord_beginner</SST_task3>
+<SST_task3>travel_beginner</SST_task3>
+<SST_task4>grocery store</SST_task4>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>For the record, can I have your name?</A>
+<B>Sure. <H pn="B's name">XXX01</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Sure.</B>
+<A>O K. All right. How are you?</A>
+<B>I'm fine, thank you. How are you?</B>
+<A>I'm pretty good. So where are you from?</A>
+<B>I'm from <H pn="others1">XXX02</H>. <R>I live</R> I live about one hour north of <H pn="others2">XXX03</H>, in a really small town.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>O K. And now, where do you live?</A>
+<B>Now I <OL>live <R>in</R></OL> in <H pn="others3">XXX04</H>.</B>
+<A><OL>Near here</OL>? <H pn="others3">XXX04</H>?</A>
+<B>In <H pn="others4">XXX05</H> City.</B>
+<A><F>Mm-hmm</F>.</A>
+<B>I have a host family.</B>
+<A><F>Oh</F> I <OL>see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>Could you tell me more about your host family?</A>
+<B>Sure. I would love to. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Erm</F> <F>er</F> it's actually not a whole family. It's just a host mother.</B>
+<A><F>Hm</F>.</A>
+<B>And she has a cat. <F>Erm</F> and she's a single woman. <R>She works</R> she works late and she comes home pretty late at night, which is nice. I get some independence and some time alone <F>erm</F> in the apartment. And I cook dinner sometimes. And she's great. <R>It's a great</R> <F>mm</F> it's a great situation. She's really nice and <SC>she's very</SC> <F>er</F> she gives me a lot of independence, which I appreciate.</B>
+<A><F>Hm</F>. So what do you usually do in your <SC>apartment</SC>? <OL>House or apartment</OL>?</A>
+<B><OL><SC>Usually</SC></OL> it's an apartment. Usually <R>I come home</R> I come home <F>erm</F> pretty late <F>er</F> maybe <F>well</F> not that late, but seven or eight o'clock at night. And I usually just cook dinner if she's not home. And if she is home, <SC>I cook din</SC> we have dinner together.</B>
+<A><F>Hm</F>.</A>
+<B>Otherwise I have dinner alone. And then <F>erm</F> sometimes I rent a movie or it's usually pretty relaxed. <R>I</R> I read a lot, I do my homework, I watch T V. That's about it. Nothing too exciting. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> So what kind of food do you cook?</A>
+<B><SC>We</SC> she is teaching me how to cook <JP>udon</JP> soup. <F>Erm</F> my parents are visiting me, so I want her to teach me how to cook, so that I can cook for them <OL><nvs>laughter</nvs> when they come</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>And <SC>we cook</SC> she's really big on this fish paste stuff, like circular tubes of fish something. Anyway, it's pretty good. And <SC>we cook</SC> <F>um</F> I learned how to make <JP><R>tama</R></JP> <SC><JP>tamago</JP> rolls</SC> <JP>tamago yaki</JP>. So yeah. <nvs>laughter</nvs></B>
+<A>All right. So what do you study here?</A>
+<B>Here, I'm studying Japanese.</B>
+<A><F>Mm-hmm</F>.</A>
+<B>And I'm taking a politics class and I'm taking a history class.</B>
+<A><F>Hmm</F>. In <H pn="others5">XXX06</H>?</A>
+<B>In <H pn="others5">XXX06</H>. In English. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hm</F></OL>. O K.</A>
+<B>Yeah.</B>
+<A>So <F>mm</F> what do you major in the United States?</A>
+<B>In the United States, I major in international relations with the Middle East.</B>
+<A>Middle East.</A>
+<B><OL><F>Mm-hm</F></OL>.</B>
+<A><OL>So</OL> what made you decide to come to <H pn="others6">XXX07</H></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>instead of Middle East</OL>?</A>
+<B><laughter><F>Well</F> it's lot safer</laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B>And <F>erm</F> I've always been interested in Japan. In high school, I took karate for four years. And <R>I</R> I like sushi, and I learned how to tie the kimono, and <R>I w</R> I was really <SC>into it</SC> into the culture. So I decided to come here to learn the language. And I took a few classes in high school</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>erm</F> <R>la</R> language classes. And I thought it'd be nice to come and try something new and exciting. Yeah.</B>
+<A>What's so interesting about Japan?</A>
+<B>What's so interesting about Japan? It's just exciting for me to come so far away from home</B>
+<A><F>Hm</F>.</A>
+<B>across the world for so long. I <R>a</R> and it's just a really interesting experience. What specifically? I don't know. <F>Erm</F> I don't know. <nvs>laughter</nvs></B>
+<A><F>Hm</F>.</A>
+<B>The language. It's just a totally different experience. I enjoy it.</B>
+<A>What is the most difficult thing about Japanese language?</A>
+<B>About Japanese language?</B>
+<A>Yeah.</A>
+<B><F>Hm</F>. <F>Well</F> that I don't really speak it. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I'm still learning a lot. And there're simple phrases that I wanna say, and it frustrates me that I can't say them. <F>Erm</F> yeah. But in general, it's not so hard yet, because we're just learning <SC>the be</SC> the basics. So it's easy to follow so far.</B>
+<A><F>Mm-hm</F>. O K. <OL>O K</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>All right. So I think you're pretty busy. But in your free time, what do you usually do?</A>
+<B>In my free time, I try to travel a lot, because I know <SC>that I'm not gonna have too much</SC> that I don't have much more time here. Only two more months. So I try to do day trips and go to different places. Like last week, I went to Kamakura.</B>
+<A><F>Hm</F>.</A>
+<B>Just touristy places. But I think it's important to travel. I went to Korea last weekend, which was great. And <SC>I'm</SC> I know that I'm not gonna have the opportunity to go again, so I try to take advantage of.</B>
+<A><F>Oh</F>.</A>
+<B>If I have free time, I go to parks and museums, and I go to festivals, and just different places, like shopping areas and things. I really try to get out as much as possible</B>
+<A><F>Mm-hmm</F>.</A>
+<B>and see everything.</B>
+<A><F>Hm</F>.</A>
+<B>Because I don't have much time. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>So where</OL> is your favorite place to go shopping?</A>
+<B>Takashimaya. <nvs>laughter</nvs></B>
+<A><F>Oh</F>.</A>
+<B><F>Well</F> it's more of like looking. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Everything's really expensive.</B>
+<A><F>Hm</F>.</A>
+<B>But like I just like to walk through. Everyone's really polite <R>and</R></B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>and it's</OL> clean and <SC>more of an</SC> <SC>I don't</SC> it reminds me of <H pn="others1">XXX02</H>. It reminds me of home. That's why I like it. I just like to walk through. It's very relaxing. <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B>And <SC>you can go through the</SC> they have one floor <R>wh</R> where they sell food, and they just give you testers and</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><??></??></OL> <nvs>laughter</nvs> I could spend two hours on that <laughter>floor</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>All right. So first of all, please look at this picture and please describe this picture for me.</A>
+<B>Sure. It's a beautiful summer day. The sun is shining. There's a girl in front of the window jumping rope. There's a cat <SC>on top of this car</SC> on the roof of the car <F>erm</F> parked on the street. <nvs>sniff</nvs> There's two women <SC>speak</SC> talking in the middle of the road, having a conversation. She <SC>is</SC> must be walking her dog, I guess. <F>Erm</F> there's a dude here running and sweating <laughter>apparently</laughter>. <nvs>laughter</nvs> Two kids playing ball in the yard. <F>Erm</F> yeah. <SC>One</SC> yeah, a guy reading a newspaper.</B>
+<A><F>Mm</F>. O K.</A>
+</task>
+<followup>
+<A>All right. So you said you are from <H pn="others1">XXX02</H>.</A>
+<B><F>MMm-hm</F>.</B>
+<A><F>Er</F> could you tell me about your neighborhood in <H pn="others1">XXX02</H>?</A>
+<B>Sure. I live in an interesting area, because <SC>it's very far away</SC> <R>i</R> it's far enough away from the city to be a very small town. <F>Erm</F> I can't see my neighbors. <SC>I live</SC> <.></.> I'm surrounded by trees <SC>and nothing</SC> <F>uh</F> <R>it's</R> <F>uh</F> <SC>it's a</SC> <SC>I live</SC> it's not rural but it's almost rural. <F>Um</F> and it's an old, small, kind of traditional little town, but it's close enough to the city so that I can go whenever I want, and like <SC>we</SC> <F>eh</F> my friends and family and I go <?>in</?> a lot. <F>Um</F> my town in really small. We have a gas station, and that's it. No supermarket. <nvs>laughter</nvs> <SC>But it's really</SC> <SC>it</SC> but it's very close to another town</B>
+<A><F>Oh</F>.</A>
+<B>which has all these things. I mean, you only drive ten minutes <R>to</R> to get to the supermarket. <R>But</R> but my town itself is really small. <SC>There's</SC> actually, they just built <R>a</R> a very huge, famous shopping center in my town, which is the only thing like of substance. <nvs>laughter</nvs> <F>Um</F> and it's called the <H pn="others8">XXX08</H>. And actually, it's the third most popular tourist attraction for tourists from Japan.</B>
+<A><F>Oh</F> really?</A>
+<B><R>In the <H pn="others8">XXX08</H></R> in the <H pn="others8">XXX08</H>. Yeah. <R>They</R> they go to <H pn="others9">XXX09</H>, <H pn="others10">XXX10</H>, and the <H pn="others7">XXX11</H>. It's an outlet mall. It's pretty famous. I don't know. Anyway, so that's the one thing in my town <laughter>that</laughter> our claim to <?>fame</?>. <nvs>laughter</nvs></B>
+<A>O K. <F>Er</F> could you tell me more about that shopping mall?</A>
+<B>Sure. <F>Well</F> <.></.> everyone thinks that it's great that I live close to it because it's a big shopping mall. But basically, it just makes for a lot of traffic and annoyance on the <laughter>weekend</laughter>. That's very annoying to <R>ge</R> get off the highway, and whatever but <SC>it's a</SC> it has Gucci and there's all the, like, expensive, like, stores <SC>it's pretty</SC> it's really popular. Everyone in my high school at some point has worked there, basically. <nvs>laughter</nvs> We all spend our summers, like, working there and <F>hmm</F> <??></??>.</B>
+<A>Did you work there, too?</A>
+<B>I worked there.</B>
+<A><F>Hmm</F>.</A>
+<B>I worked at Armani. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I didn't get anything, though. <nvs>laughter</nvs> But <F>er</F> yeah, that was fun.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>O K. All right.</A>
+</followup>
+<task>
+<A><?>This is the</?> next picture. O K. Please describe this picture.</A>
+<B><OL>Sure</OL>. <nvs>cough</nvs> It looks like this woman, I guess, is in her bedroom in her apartment. And <SC>she's working on</SC> she's <F>mm</F> gesturing towards the computer. <nvs>cough</nvs> She's not looking at it. I guess she's looking at her cat. I don't know. She's showing the cat something on the computer. And <SC>there's</SC> <F>um</F> it's nine o'clock, maybe in the morning. It doesn't look too dark out. And she's typing something. There's a typewriter next to the computer. And there's a dog on the floor next to the bed. Cat's on the bed. It's June. Summertime. She has some sort of stereo set on the far wall. And there's a phone on the second shelf. The door is open. <.></.></B>
+<A>O K. Right.</A>
+<B><OL>She's</OL> wearing a short skirt, and a sweater. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+</task>
+<followup>
+<A><F>Hm</F>. Do you have your own room in the place where you are living now?</A>
+<B>Yes. Yes, I do.</B>
+<A><F>Hm</F>. Could you tell me about your room?</A>
+<B>O K. <SC>It's</SC> I'm not sure how many <JP>tatamis</JP>. Maybe four.</B>
+<A><OL><F>Oh</F> that's</OL> small.</A>
+<B><R>It's</R> <F>mm</F> it's really small. <F>Um</F> but I like it. <R>It's</R> it's <F>um</F> a <JP>tatami</JP> floor, and I sleep on a <JP>futon</JP> which I always forget to fold up, and I know that's really bad. <laughter>But <??></??></laughter>. And <F>er</F> in one corner, I have my bags. And there's not much storage space. It's really small, so my bed sort of takes up half of it. And then <R>my</R> my big bags from America are in one corner. And there's a bar running along the ceiling. And I hang my clothing on there to dry, <F>um</F> my coats and my dresses. And there's a big set of shelves which is <F>mm</F> basically, like, that's my only storage area, and that's where I put my clothing on and my books and <F>uh</F> yeah. And I have a desk. Somehow that all fits in that room. I don't know. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>And there's a desk which is piled high with messiness. <OL><nvs>laughter</nvs></OL></B>
+<A><laughter>O K</laughter>.</A>
+<B>That's not grammatically correct though <OL><laughter>because</laughter> it's</OL></B>
+<A><OL><nvs>laughter</nvs> That's O K</OL>.</A>
+<B>piled <laughter>high with stuff</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> And you mentioned there is a cat living with your host <OL>mother</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Hm</F>. <OL>Can you tell me about that</OL>?</A>
+<B><OL><laughter><SC>I hate it</SC></laughter> I don't like</OL> cats at all. <R>And</R> and to begin with, it, like, threw up all over, which doesn't even make me like it more. <laughter>I hate cats</laughter>. <nvs>sigh</nvs>. Anyway, but she really loves the cat, so I have to, like, pretend I like it. <nvs>laughter</nvs> And she always like makes faces at it, and I'm like, "<F>Oh</F> it's really cute.". But I really don't like it at all. <nvs>laughter</nvs> <F>Um</F> and, yeah, the other day, <SC>it just, like</SC> <SC>it was</SC> it just threw up all over and I was like, "<F>Oh</F> good lord.". Now, I try to keep my door closed so it doesn't go in and like throw up <laughter>on all my things</laughter>. But, yeah, yeah, I don't really like the cat. And <SC>it always</SC> it jumps on the C D player and skips my C Ds whenever I'm playing C Ds. <CO><SC>So</SC> but I'm trying to be patient and</CO>.</B>
+<A><F>Mmm</F>.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>So does the cat usually stay at home, I mean in <OL>the apartment and <?>she's not going out</?></OL>?</A>
+<B><OL>Yeah, it usually stays in the apartment</OL>. Yeah.</B>
+<A><F>Mm-hm</F>.</A>
+<B>When I'm feeling magnanimous, <R>I</R> I give it water sometimes. When it was hot in the summer, I used to give her water, if I was in a good mood.</B>
+<A><F>Hm</F>.</A>
+<B>But now, I ignore it. <nvs>laughter</nvs></B>
+<A>O K. And you're living in <H pn="others4">XXX05</H>.</A>
+<B><F>mm-hmm</F>.</B>
+<A>Is it close to <H pn="others5">XXX06</H> Station?</A>
+<B><SC>It's close to</SC> it's <H pn="others11">XXX12</H> on the <H pn="others12">XXX13</H> <JP>sen</JP>.</B>
+<A><F>Hm</F>.</A>
+<B><H pn="others11">XXX12</H>. By <H pn="others13">XXX14</H>, <H pn="others14">XXX15</H>. <F>Erm</F> yeah, it's an apartment building. Yeah.</B>
+<A>Is it convenient?</A>
+<B>It is pretty convenient. I like the <H pn="others12">XXX13</H> Line. I'm getting really used to it. I'm really getting used to it. I like it. <F>Um</F> I have <R>a</R> a video card to rent videos, which I like. <nvs>laughter</nvs> It makes me feel like a citizen. <nvs>laughter</nvs> And I have a library card for the local library.</B>
+<A><F>Oh</F>.</A>
+<B>So I really feel like <SC>I'm like</SC> <?>I get around there</?>. <F>Oh</F>. <OL><CO><?>I like it</?></CO></OL>.</B>
+<A><OL><?>Do they have</?></OL> English books in the <OL>local library</OL>?</A>
+<B><OL><F>Mm</F> like five</OL>. <nvs>laughter</nvs> No. <R>They have</R> they have three shelves.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Mostly novels, <SC>not really re</SC> nothing research.</B>
+<A><F>Hmm</F>.</A>
+<B>I think it's just whatever novels people give to them. I think at the end of my semester, I'll give them all my English books <SC>so they can</SC> for the <SC>other people</SC> next people that come. Yeah.</B>
+<A>O K. All right.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So let's try a role-play.</A>
+<B><F>Mm</F>.</B>
+<A>O K. Please read this card. And when you are ready, I will begin.</A>
+<B>O K.</B>
+<A>Ready?</A>
+<B><F>mm-hmm</F>.</B>
+<A>O K. <F>Er</F> good morning, <H pn="B's name">XXX01</H>.</A>
+<B><OL>Morning</OL>.</B>
+<A><OL>How are you</OL>?</A>
+<B>I'm fine. How are you?</B>
+<A><R>I</R> I'm pretty good.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>I hear</OL> you're having a party.</A>
+<B>Yeah. I'm so excited. <nvs>laughter</nvs></B>
+<A>So when is going to be?</A>
+<B>It's gonna be Saturday night.</B>
+<A><F>Hmm</F>. Can I go?</A>
+<B>Please. <OL><JP>Onegai-shimasu</JP></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> So <R>wh</R> where is it <F>er</F> going to be held?</A>
+<B>It's just gonna be at my house.</B>
+<A><F>Ohh</F>.</A>
+<B>Yeah.</B>
+<A>O K. I've never been to your house. How can I go there?</A>
+<B><F>Um</F> <SC>you can</SC> you get off the <H pn="others12">XXX13</H> Line.</B>
+<A><F>mm-hmm</F>.</A>
+<B>You go to <H pn="others11">XXX12</H> Station on the <H pn="others12">XXX13</H> Line. And you come out of the station, you make a right, and then you make a left right out of, I guess, you make a right, go down the stairs, then make a left and go across the street. Walk past <SC>the</SC> all the <JP>pachinko</JP> places.</B>
+<A><F>Oh</F> <OL><laughter>O K</laughter></OL>.</A>
+<B><OL>And</OL> make a left at the supermarket.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And then walk one block. Make a right. And then walk two blocks and make a left. And my apartment building is on the right.</B>
+<A>O K. Which floor? <nvs>laughter</nvs></A>
+<B><JP>Gokai</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. <nvs>laughter</nvs></A>
+<B>The fifth <laughter>floor</laughter>.</B>
+<A>All right. So <F>er</F> how many people are <F>er</F> coming <OL>to your party</OL>?</A>
+<B><OL><F>Erm</F></OL> I invited <SC>ab</SC> <SC>the</SC> between <SC>fifty and twen</SC> fifteen and twenty people.</B>
+<A><F>Wow</F>. Quite a lot.</A>
+<B>Yeah.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>I hope there is</OL> enough room for everyone.</B>
+<A><F>Hmm</F>.</A>
+<B><F>mm-hmm</F>.</B>
+<A>O K. So what's the occasion?</A>
+<B>It's my birthday.</B>
+<A><F>Oh</F> your birthday.</A>
+<B>Yeah.</B>
+<A><F>Oh</F> O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>So</OL> I should bring something for you.</A>
+<B>Sure. <laughter>No</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>It's my birthday. <CO>We're gonna, I think, order some pizzas and <SC>make</SC> <F>um</F> and get a big cake and</CO>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A>O K. All right. So this Saturday?</A>
+<B>This Saturday.</B>
+<A>O K. I'll be there.</A>
+<B>Great.</B>
+<A>O K.</A>
+<B>I look forward to it. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. All right. Thank you. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>So have you been to many parties in Japan?</A>
+<B><F>Hmm</F> I went to one at a friend's house on Friday night.</B>
+<A><F>Hm</F>.</A>
+<B>I've been to a few, but <SC>not in</SC> <SC>I guess</SC> apparently, I guess in Japan, they don't have them at the people's houses, because they're small, <SC>so they</SC> so I've gone out <SC>to like</SC> to <JP>izakayas</JP> and things like that. But that's not really a party, <?>I don't think</?>.</B>
+<A>Right.</A>
+<B>But I went to one party Friday night.</B>
+<A><F>Hmm</F>.</A>
+<B>At a Japanese person's house.</B>
+<A>O K. So you've been to Japanese <JP>izakaya</JP>.</A>
+<B><F>mm-hmm</F>.</B>
+<A>And how do you like them?</A>
+<B>They're fine, they're good. <laughter>They're</laughter> kind of like America. <?>Yeah</?> <F>well</F> maybe I didn't really go to a Japanese one then, <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I don't know. <nvs>laughter</nvs> <OL>Yeah</OL>.</B>
+<A><OL><?>I see</?></OL>. Do you drink Japanese sake?</A>
+<B>Sometimes.</B>
+<A><OL>Do you like it</OL>?</A>
+<B><OL><R>I like</R></OL> I like it when it's warm. It's really nice. I like it. Yeah.</B>
+<A><F>Hm</F>. Better than wine or <OL>other <?>stuff</?></OL>?</A>
+<B><OL>I guess it's just different</OL>. It depends on my mood. It's different. Yeah. Like, you can drink wine with dinner, but I think sake, you <?>just</?> don't really have food, I don't know. You drink it on its own. <laughter>I don't know if that's true</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I'm speculating <laughter>entirely</laughter>.</B>
+<A>I think Japanese beer is stronger than American beer.</A>
+<B>Maybe. I don't like beer. <SC>I don't drink that</SC> I don't drink beer. I don't <OL>like it</OL>.</B>
+<A><OL><F>Ah</F> O K</OL>.</A>
+<B><SC>Sometimes I</SC> <F>well</F> <R>I've</R> I've had it, but I can't tell the difference. To me it's the same.</B>
+<A><F>Hm</F>.</A>
+<B>I talk really fast. Sorry. <OL>Is that O K</OL>?</B>
+<A><OL><laughter><F>Ah</F> <?>that's O K</?></laughter></OL>. So I think you had a lot of party in the United States.</A>
+<B><F>mm-hmm</F>.</B>
+<A><F>Er</F> could you tell me one of your most memorable one so far?</A>
+<B>O K. <F>Um</F> <..></..> <F>well</F> <R>in the</R> <SC>in the States, they usually have</SC> <F>well</F> <SC>at my college</SC> <F>um</F> <SC>I</SC> actually, I prefer small parties where you can talk to people <R>and</R> and it's just your friends and you can like talk and hang out. <CO>But <SC>at</SC> in <R>my</R> my university, <H pn="school name1">XXX16</H>, <F>erm</F> they tend to have really big parties, like fraternities and sororities and</CO>. And they're fun, too. <CO>But usually they have some sort of theme like you dress up as something or I don't know, or</CO>. Yeah, they'll have a theme. And those are pretty fun. <CO>But they're kind of loud and like</CO>. But it's fun. You can get drunk and stay out late and dance a lot and it's fun. <nvs>laughter</nvs> That's not a memorable moment. Sorry. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter><?>Sorry</?></laughter>.</B>
+</followup>
+<task>
+<A>All right. So next, please read this. Then when you are ready, I will begin.</A>
+<B><F>Oh</F> this is so appropriate. <R>I just</R> I just was looking for an apartment yesterday for my parents.</B>
+<A><F>Oh</F> <OL>really</OL>?</A>
+<B><OL>I found an</OL> apartment yesterday.</B>
+<A><F>Oh</F>. Really? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Very appropriate</OL>. O K.</B>
+<A><laughter>O K</laughter>.</A>
+<B>I'm ready. Go <laughter>ahead</laughter>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. <F>Er</F> may I help you, ma'am?</A>
+<B>Yes. I'm looking for an apartment.</B>
+<A><F>Oh</F>. <F>Er</F> what kind of place are you looking for?</A>
+<B>My family is coming in December to visit, and they're staying for about a week. I have two parents and one brother, so I'm looking for an apartment for four people,</B>
+<A>O K.</A>
+<B>with a kitchen <R>and</R> <F>um</F> yeah, and the bathroom, obviously, and enough beds for four people.</B>
+<A><F>Er</F> and how much would you like to pay for the rent?</A>
+<B>Maybe a thousand dollars a week. Or, what is that? <R><JP>Man</JP> yen</R> <JP>man</JP> yen?</B>
+<A><F>Er</F> <JP>man</JP>.</A>
+<B>Hundred thousand <OL>yen</OL>?</B>
+<A><OL>Thousand</OL>.</A>
+<B><?>Two</?> thousand yen?</B>
+<A>Yeah. O K. <F>Hm</F>. And are you looking for an apartment around <H pn="others4">XXX05</H> area or in <H pn="others6">XXX07</H>?</A>
+<B>I'm looking for an apartment in Hiroo.</B>
+<A>Hiroo?</A>
+<B><F>mm-hmm</F>.</B>
+<A><F>Oh</F> it's a very expensive area.</A>
+<B>I found a <OL>really good deal though</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I got such a good deal. I'm so proud of myself. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>It's such a good deal. <nvs>laughter</nvs></B>
+<A><OL>O K</OL>.</A>
+<B><OL>Very sorry</OL>. It's not part of the <OL><laughter>role-play</laughter></OL>.</B>
+<A><OL>All right</OL>. So <F>er</F> would you mind old place?</A>
+<B>No, not at all.</B>
+<A>O K. Then I think we have a <R>ve</R> very good apartment</A>
+<B>Great.</B>
+<A>around Hiroo. O K. So would you like to see it <OL>now</OL>?</A>
+<B><OL>I would</OL> love to.</B>
+<A>All right. I can take you there.</A>
+<B>Sure.</B>
+<A>O K. All right. Thank you.</A>
+</task>
+<followup>
+<A>So I think you'd like to talk about the apartment you looked for. <nvs>laughter</nvs></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>So</OL> what kind of place did you find?</A>
+<B><F>Um</F> <SC>I found a grea</SC> <F>uh</F> just like I described. <SC>It was</SC> it's a one bedroom. <F>Um</F> there's <R>a</R> a double bed in the bedroom. And then there's a pull-out couch.</B>
+<A><F>Hm</F>.</A>
+<B>So my brother and I can sleep on the foldout couch together. And the women was really nice. She said she would give us a <JP>futon</JP> if I wanted an extra bed.</B>
+<A><F>Hm</F>.</A>
+<B>You know <SC>the</SC> <nvs>cough</nvs> I think a lot of people move out for the holidays in December, so they had a extra space and they want to fill the rooms.</B>
+<A><F>mm-hmm</F>.</A>
+<B>And there's a big shower and a bath and it's great. It's really nice. The kitchen is totally fully stocked with pots and pans and silverware and dishes and everything. And there's a refrigerator and an oven and a stove and a microwave and it's great.</B>
+<A><F>Hm</F>.</A>
+<B>It's great. And it's in Hiroo. <SC>It's re</SC> it's only like three minutes from the station.</B>
+<A><F>Hmm</F>.</A>
+<B>It's great. I'm really proud of myself. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> It's not a typical way of <F>er</F> Japanese renting an apartment, <OL>I think</OL>.</A>
+<B><OL><F>mm-hmm</F></OL>.</B>
+<A>So you <OL>rent only</OL></A>
+<B><OL>That's true</OL>.</B>
+<A>one month?</A>
+<B>Only for a week.</B>
+<A>Only for a week?</A>
+<B>Yeah. <R>I g</R> I got a week rental. They are advertising by the week, so I found it. I think it's <SC>kind of Am</SC> sort of American-style, because Hiroo is very American, anyway. <CO>But</CO>.</B>
+<A>Right.</A>
+<B>Yeah.</B>
+<A>So <SC>are you</SC> are you excited about your family's coming <OL>to <H pn="others6">XXX07</H></OL>?</A>
+<B><OL>Yeah, I'm excited</OL>.</B>
+<A>So what would you like to do with them?</A>
+<B><SC>I wanna take them to</SC> I wanna take them everywhere that I've gone <laughter>so far</laughter>. I have to fit it into one week. I want to go to Kyoto. And I want to take them to Tsukiji, to the fish market. My family loves sushi, so I think they'll like that. Kamakura, Asakusa, all of the Ginza, all of the touristy places.</B>
+<A><F>Mmm</F>.</A>
+<B>My family is really excited. My dad wants to ride <JP>Shinkansen</JP>. <nvs>laughter</nvs> He doesn't care where. He just wants to <OL><laughter>ride a <JP>Shinkansen</JP> somewhere</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. So you've been to those places?</A>
+<B><F>mm-hmm</F>.</B>
+<A><F>Hm</F>. Where is your favorite place so far?</A>
+<B><F>Erm</F> so far, <SC>my favorite place is</SC> <SC>I like</SC> <F>oh</F> I don't know, <F>um</F>. <F>Well</F> <SC>Kamakura was</SC> I didn't really like Kamakura that much. <SC>I like the</SC> I like Asakusa. I like gardens. <SC>It's so</SC> the weather was really beautiful. The past few months, it's been warm. <SC>Except</SC> for <R>not</R> not this week. <SC>But</SC> so I like parks a lot. Yoyogi Park, Shinjuku Park, <JP>koen</JP>.</B>
+<A><F>Hm</F>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>What do you</OL> do in those parks?</A>
+<B>I usually just walk around or <SC>I</SC> sometimes I bring a picnic, or I read. Or sometimes they have <F>um</F> performances shown or festivals or <R>like</R> like in Hibiya Park, there was the international festival and sometimes they have music you can listen to.</B>
+<A>O K.</A>
+</followup>
+<task>
+<A>All right. So another role-play. <F>Hmm</F>.</A>
+<B><nvs>cough</nvs></B>
+<A>Please read this card. And when you're ready, I'll begin.</A>
+<B>O K.</B>
+<A>O K? All right. <F>Er</F> good morning, ma'am. How may I help you?</A>
+<B><SC>I'm</SC> <F>uh</F> I want to book a <.></.> trip to Hawaii.</B>
+<A>O K. We have plenty of tours <OL>to Hawaii</OL>.</A>
+<B><OL><F>Hm</F></OL>. I wanna go for <SC>a we</SC> about a week.</B>
+<A><F>Er</F> <OL>to which island</OL>?</A>
+<B><OL>I'm gonna <??></??></OL>. <F>Um</F> Kauai.</B>
+<A>Kauai Island?</A>
+<B><R>Ka</R> <OL>Kauai</OL>?</B>
+<A><OL>O K</OL>.</A>
+<B>Is that an island? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Yeah. There is Kauai Island. <nvs>laughter</nvs></A>
+<B>O K.</B>
+<A>O K. About a week?</A>
+<B><F>mm-hmm</F>.</B>
+<A><F>Um</F>. <F>Er</F> <.></.> how much would you like to pay for the tour?</A>
+<B>I don't know. <R>I</R> I feel like Hawaii is really expensive. <OL>I don't know</OL>.</B>
+<A><OL><F>Well</F> it</OL> depends on when you are <OL>leaving</OL>.</A>
+<B><OL><F>Oh</F> <R>like te</R></OL> <F>er</F> like ten thousand dollars, five thousand dollars, I don't know.</B>
+<A><.></.> <CO>O K, <OL>ten</OL></CO>.</A>
+<B><OL>I wanna</OL> spend ten thousand dollars. <?>Yeah</?>. <nvs>laughter</nvs></B>
+<A>All right. Alone?</A>
+<B>No. I'm going with my best friend.</B>
+<A><F>Mm-hmm</F>.</A>
+<B>Yeah. Two people.</B>
+<A>O K. And we have many optional tours. Would you <F>er</F> like to have some of the <R>opti</R> optional tours in <OL>Kauai</OL>?</A>
+<B><OL>Sure</OL>. Sure. I'd like to book a package tour. Sure.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A><F>Er</F> we have some activities, going to a mountain.</A>
+<B><F>Hm</F>.</B>
+<A>And also there is a beautiful river and you can enjoy rafting. What kind of activities are you interested in?</A>
+<B>Great. Outdoor activities sound great.</B>
+<A><F>Oh</F> O K.</A>
+<B>Maybe scuba diving or rafting outside sounds good. Hiking, outdoor activities</B>
+<A><F>Hm</F>.</A>
+<B>to enjoy the beautiful weather. <nvs>laughter</nvs></B>
+<A>O K. But when are you leaving? For New Year's?</A>
+<B>Yes. Yes, <OL><laughter>for the New Year's</laughter></OL>.</B>
+<A><OL>It's</OL> going to be very expensive. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Oh</F></OL>. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B>O K. So maybe we'll go in the summer.</B>
+<A>O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>All right. In that case, I will give you some brochure.</A>
+<B><OL>Great</OL>.</B>
+<A><OL>O K</OL>? And please think of which tour you would like to join with your friend.</A>
+<B><F>mm-hmm</F>.</B>
+<A>And please get back to me <OL>when you decide</OL>.</A>
+<B><OL>Sounds good</OL>.</B>
+<A>O K. All right. Thank you. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>So have you been to Hawaii?</A>
+<B>No. My parents went.</B>
+<A><F>Hmm</F>.</A>
+<B>They said it was great. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>Yeah. I had to stay home with my grandma <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B>and my little brother and shovel snow. <OL><nvs>laugher</nvs></OL></B>
+<A><OL><F>Ah</F></OL> <OL>O K</OL>.</A>
+<B><OL>Yeah</OL>. <nvs>laughter</nvs></B>
+<A>So <F>er</F> in the United States, what kind of place have you traveled?</A>
+<B><F>Erm</F> I've traveled a lot on the East Coast.</B>
+<A><F>Hm</F>.</A>
+<B>Mostly all the states on the East Coast.</B>
+<A><F>Hm</F>.</A>
+<B>And I've been to California and <R>my</R> my dad has friends in California and he has businesses there sometimes. So if he goes, sometimes he takes me and</B>
+<A><F>Hm</F>.</A>
+<B>we have friends there, too, so it's nice. I've been to Colorado when I was five <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>for a wedding. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I don't really remember it, though.</B>
+<A>Right. <CO>So where is</CO>?</A>
+<B>Florida. My grandma lives in Florida. So we go there <OL>a lot and</OL>.</B>
+<A><OL><F>Wow</F></OL>. Where is your favorite place? Do you like Florida better <OL>than <H pn="others1">XXX02</H></OL>?</A>
+<B><OL>I like <R><H pn="others2">XXX03</H></R></OL> <H pn="others2">XXX03</H>. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B><OL><H pn="others2">XXX03</H></OL>.</B>
+<A><OL>Around the</OL> area where you live?</A>
+<B>No. <H pn="others2">XXX03</H>.</B>
+<A>City.</A>
+<B>I like <H pn="others2">XXX03</H>.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A>What's so nice about <H pn="others2">XXX03</H>?</A>
+<B>It's great. You can do anything. It's always open, and it's always <F>uu</F> bright. I mean, <SC>it's always</SC> something is always happening and you can always find what you need there. Yeah. It's a <SC>cultural center</SC> cultural and intellectual center. I love it.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah. But it's also nice. <SC?>You</SC?> because you have <H pn="others15">XXX17</H> and you can just relax <SC>and</SC> in the park. And there are different areas of the city where you can live <SC>that are more</SC> that are quieter, a few like that. So there's everything. I love it. <nvs>sniff</nvs></B>
+<A><F>Hm</F>. O K. So for the Japanese people who are interested in going to <H pn="others1">XXX02</H>, what kind of place would you recommend to go?</A>
+<B><F>Well</F> <SC>I would recommend that</SC> O K, <R>we'll</R> <F>uh</F> we'll do a one-day tour. O K. So I guess you'd probably arrive in <H pn="others1">XXX02</H> <SC>by</SC> maybe by plane, probably.</B>
+<A><F>Hm</F>.</A>
+<B>O K. So you can get a cab or a subway <SC>to the lower</SC> to the <F>erm</F> maybe <H pn="others16">XXX18</H> or down in the <H pn="others17">XXX19</H>. And you can walk around and look at the shops. And they have cute little markets down there. And then you can walk uptown a little bit more, and maybe you walk up <H pn="others18">XXX20</H>. You'll get to <H pn="others19">XXX21</H> <R>and</R> and that whole area. And <SC>there's</SC> that's <H pn="others18">XXX20</H> so you could see a <H pn="others18">XXX20</H> show or <SC>you can get a matinee</SC> <nvs>cough</nvs> you can watch a matinee which is an afternoon show. <R>And</R> <F>erm</F> and then <F>hmm</F> you can walk, let's see, what else? You can walk up a little more and have lunch <SC>in the park</SC> in <H pn="others15">XXX17</H>. And <F>oh</F> you have to walk along <H pn="others20">XXX22</H>. That's really beautiful. And <R>e</R> especially wintertime, <H pn="others21">XXX23</H> with the tree. <R>And</R> and <F>uh</F> what else? <F>Mm</F> <F>uh</F> <F>well</F> <H pn="others20">XXX22</H> <SC>has a</SC> is really beautiful. <R>And</R> <F>um</F> <SC>and then</SC> yeah, and then you can go uptown and they have nice restaurants up in like the Seventies and the Eighties, the <H pn="others22">XXX24</H>. <SC>That's</SC> that would be what I'd recommend. <R>Or</R> or probably you wanna go to the <H pn="others23">XXX25</H> right? <F>Uh-huh</F>. <OL><CO>So</CO></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>What else? Yeah. <OL><?>All those tourist things</?></OL>.</B>
+<A><OL><F>Oh</F> that sounds</OL> wonderful.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. <nvs>cough</nvs> Excuse me. <F>Ah</F> here is a picture sequence. And please make up a story based on these six pictures.</A>
+<B><nvs>sniff</nvs> O K. <F>Well</F> <SC>one day last week, I looked in the refrigerator</SC>. <F>Oh</F> no, I'll make a better start. One day last week, I came home from work and I was starving. So I raced for the refrigerator and flung it open, but it was empty. <nvs>laughter</nvs> And I couldn't believe it that I didn't have any food. So I decided that <SC>even though I was tired and it was freezing outside, I would go</SC> <F>oh</F> it's not that cold actually. She's wearing a short skirt, O K, <SC>and it</SC> and it's nice outside. I would go to the supermarket. So I went outside and I got in my little green <laughter>car</laughter> and zipped <laughter>over to the</laughter> supermarket. I opened the door and got out. And I picked up some things from the shelf, and they had my favorite cereal on sale, <R>so</R> so I grabbed that. <R>And</R> and I got some steak, also, for dinner. <nvs>sniff</nvs> And on my way out, I paid the woman at the counter. I loaded everything up into the trunk of my car. <SC>And then I went home</SC>. <F>Oh</F> maybe I bought eggs, I guess. I bought <laughter>eggs</laughter>. And then I went home and fried an egg and ate it, and it was great.</B>
+<A><F>Hm</F>. O K. All right. Thank you.</A>
+</task>
+<followup>
+<A>So <F>er</F> where do you usually buy food in <SC><H pn="others3">XXX04</H></SC> <F>er</F> <H pn="others4">XXX05</H>?</A>
+<B><SC>I usually buy food</SC> there's a supermarket <F>er</F> around the corner. <nvs>sniff</nvs></B>
+<A><F>Hm</F>. Could you tell me more about the supermarket?</A>
+<B>Yeah. I can. <F>Well</F> <SC>there's</SC> <F>erm</F> it's not a very big supermarket compared to American standards. Or even <SC>to</SC> compared to Japanese standards, it's not very big. But <F>erm</F> <F>um</F> food is really expensive in Japan. <nvs>laughter</nvs> Food is very expensive. <F>Um</F> so usually, <R>I buy</R> <F>erm</F> I buy <JP><R>oni</R></JP> <JP>onigiri</JP> for lunch, and I buy yogurt and bread. And I like to look at all the fish. I like to walk around and look at the fish counters because in America, <SC>they</SC> you'd never just have a whole fish just like lying out there. And <F>eh</F> sometimes I <?>like just go to</?>, like, poke the fish.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Erm</F> <laughter><CO>I like</CO></laughter>. Yeah. And I'm <F>er</F> I usually <nvs>sniff</nvs> want to buy some sort of <F>um</F> like <JP>mochi</JP> or sweet or something. But since I'm a vegetarian, I end up having these, like extensive conversations with the people who work there about like if it has <JP>niku</JP> in it, or if it has meat, of if it's vegetarian. And I usually like end up talking to these people forever trying to find out if something has meat. <SC>But</SC> so they all know <OL><laughter>me</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I'm like the annoying American who doesn't eat meat. But <nvs>laughter</nvs> yeah, that's the supermarket. <nvs>laughter</nvs></B>
+<A>O K. <SC>So <R>y</R></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>you</SC></OL> but you mentioned you like sushi. <OL><CO>Then</CO></OL>.</A>
+<B><OL><SC>I really</SC>, I like sushi</OL>. I eat fish.</B>
+<A>O K. All right.</A>
+<B><R>It's a r</R> it's a religious thing. <OL><CO>So</CO></OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>I don't eat meat, but I eat fish. Yep.</B>
+<A>Have you seen any difference between American sushi and Japanese sushi?</A>
+<B>Not really. <SC>We</SC> <F>erm</F> <F>well</F> they have <JP>toro</JP> here which, in America, we always want it. My dad really likes it, and we always ask for it, but I guess they don't eat it <R>in</R> in America. I don't know why. That's the only difference.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A>And maybe price? Price is the same?</A>
+<B>I guess they're about the same. It's about the same. <F>Well</F> <SC>it depends on</SC> you know, it depends on where you go, <CO>if you go to a fancy place or</CO>. It's about the same. <F>Oh</F> you know what they have here though, which they don't have in America is <F>um</F> <SC>they</SC> <SC>it's like</SC> it's fish, <F>eh</F> not <JP>ikura</JP> but it's like <SC>b</SC> pink like fish eggs. It's like <R>a</R> <F>uu</F> a clump of fish eggs. Anyway, yeah.</B>
+<A><F>Ah</F> I see. Yeah. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <SC>They don't</SC> we don't really have that.</B>
+<A><F>Hm</F>. <F>Hm</F>. <F>Hm</F>.</A>
+<B><F>Well</F> maybe we do, I don't know. But it's about the same.</B>
+<A>It looks grotesque, a little bit. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><?>I really don't like</?></OL> here.</A>
+<B><F>Oh</F> no, <SC>I don't</SC> I like it, I don't mind. <nvs>laughter</nvs></B>
+<A>O K.</A>
+</followup>
+<task>
+<A>All right. So there is another picture. Please make up a story. This time, there are only four pictures.</A>
+<B>O K. <..></..> <F>Well</F> <SC>the guy in front of me</SC> <F>um</F> <R>I wan</R> I wanted to go to the movies and I was waiting on line for so long. And the guy in front of me was taking so long that finally, I raised my arm and I yelled at him to hurry up and buy his ticket so that I wouldn't be late for my movie. <SC>And so</SC> and <SC>I got</SC> finally, I bought my ticket and I got inside to the movie theater. And <F>erm</F> I went to the counter to buy some popcorn for my friend and I. And I bought popcorn. <R>And</R> <nvs>laughter</nvs> and we watched the movie. And it was really scary, about a plane blowing up. <SC>And</SC> so <SC>my friends I were</SC> <SC>my friend and I <R>were</R> <F>erm</F> <.></.> were</SC> yeah, we thought it was a good movie. <CO>And then we left and we were really happy that we</CO>. <nvs>laughter</nvs> <laughter>Yeah</laughter>. That's it.</B>
+<A><laughter>O K</laughter>.</A>
+</task>
+<followup>
+<A>All right. So what kind of movies do you usually watch?</A>
+<B>Funny movies.</B>
+<A><F>Hmm</F>.</A>
+<B>Or comedies or romance.</B>
+<A><F>Mmm</F>.</A>
+<B>Romantic comedies, comedies.</B>
+<A>Why do you like them?</A>
+<B><R>I</R> I like it because it makes me laugh. I like to laugh. <nvs>laughter</nvs> I like comedies. <SC>I'm like</SC> <R>s</R> sometimes I like scary movies but not at night and not if I'm alone. I can't handle it. I'm a wuss. <nvs>laughter</nvs></B>
+<A>O K. So who is your favorite actor or actress?</A>
+<B><F>Oh</F> Audrey Hepburn, "Breakfast at Tiffany's".</B>
+<A><F>Hmm</F>.</A>
+<B>The greatest all time ever. She's <OL>great</OL>.</B>
+<A><OL>It's a</OL> classic.</A>
+<B>Yes. <OL>I love it, I love it</OL>.</B>
+<A><OL><F>Hmm</F></OL>. What's so attractive about her, Audrey <OL>Hepburn</OL>?</A>
+<B><OL>About her</OL>? <F>Oh</F> she's just so simple <R>and</R> <SC>and</SC> <F>uh</F> but I think in the movie, <F>well</F> she's <R>s</R> has this like simple, beautiful grace, but she also has funny quirks about her that make her <R>m</R> more lovable <SC>than just a</SC> <R>she's not</R> she's not unattainable. <R>She's</R> she's like a normal, funny person, but <R>she's</R> she's great. I love her. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>. O K. <SC>So</SC> and you mentioned <R>you</R> <F>er</F> <R>you have</R> you have a membership in some rental video <OL>shop here</OL>?</A>
+<B><OL><nvs>laughter</nvs> Yeah</OL>.</B>
+<A><F>Hm</F>. And do you rent a lot of video?</A>
+<B>I <laughter>do</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I do. <F>Um</F> <R>if my host mo</R> if my host mom comes home late, I usually just rent a movie while I'm waiting. <F>Um</F> yeah, I do.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> I usually rent old movies from the eighties that I've never heard of before. <CO>Like old random American movies that</CO>. Sometimes they have a lot of like weird old movies from the eighties that I've never heard of, so</B>
+<A><F>Hmm</F>.</A>
+<B>I got those. <SC>I ju</SC> I started to get movies <SC>in Japan</SC> I mean in Japanese. When I first got here, I rented "There's Something About Mary" in Japanese. But <SC>I didn</SC> <SC>I couldn't</SC> I don't like <OL><laughter>it</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I was very determined. I was like, "<F>Oh</F> I'll rent Japanese movies and learn Japanese," but <F>huh</F> <nvs>laughter</nvs> it didn't work out so well. Now I get English. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> <F>Er</F> did you use to rent a lot of video when you were in the United States, <OL>too</OL>?</A>
+<B><OL>No, I</OL> didn't rent.</B>
+<A><F>Oh</F>.</A>
+<B>No.</B>
+<A>Why not?</A>
+<B>I did sometimes. Maybe <SC>Satur</SC> like on the weekend with a friend.</B>
+<A><F>Hm</F>.</A>
+<B>But I had a lot to do. Like <F>uh</F> <SC>when I</SC> in America, I studied a lot. <R>And I</R> and I went out with friends a lot. Here, <SC>I think if</SC> once I go home, like most people <SC>go</SC> just go to their host families and like they don't hang out at night. So</B>
+<A><F>Hmm</F>.</A>
+<B>there's not much to do. And I don't really get that much homework yet. So I watch movies every <OL><laughter>night</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Yeah.</B>
+<A>O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So we have come to almost the end</A>
+<B><OL>O K</OL>.</B>
+<A><OL>of the</OL> interview. <CO>So are you going to have classes this afternoon <OL>or</OL></CO>?</A>
+<B><OL>I have a</OL> politics class.</B>
+<A>Politics. About what, Japanese politics?</A>
+<B>The Diet. <R>The</R> the <JP>kokkai</JP>.</B>
+<A><F>Hmm</F>.</A>
+<B>Yes. It's pretty boring. Yeah.</B>
+<A><nvs>laughter</nvs> Yeah, I understand.</A>
+<B>Yeah.</B>
+<A>O K. All right. And how often do you usually come here?</A>
+<B>To the center?</B>
+<A>Yeah.</A>
+<B>Every day.</B>
+<A>Every day?</A>
+<B>I come every day. <SC>Ye</SC> <F>well</F> not on weekends. <F>Oh</F> actually, I'm lying. No. <SC>I come on</SC> I don't come on weekends and I don't come on Wednesday,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>because we</OL> have field <?>placement</?>. So Monday, Tuesday, Thursday, Friday, I come. And I check my mail, I use the computers.</B>
+<A><F>mm-hmm</F>. And do you have an internship somewhere, too?</A>
+<B>I do.</B>
+<A><F>Hm</F>. <CO>Where do you work <OL>or</OL></CO>?</A>
+<B><OL>I work</OL> at the <H pn="others23">XXX25</H></B>
+<A><F>Hm</F>.</A>
+<B>in <H pn="others24">XXX26</H>.</B>
+<A><F>Hmm</F>. Is it fun?</A>
+<B>It's O K.</B>
+<A><nvs>laughter</nvs></A>
+<B>It's fun. <F>Er</F> the women I work with are great. I work with just <SC>three women</SC> three young women. And they're really funny and they're really nice to me. We hang out. They're really cool. <F>Erm</F> <SC>but the</SC> yeah, it's O K.</B>
+<A><F>Hm</F>. O K. All right. And on which day are you going there?</A>
+<B>I go Wednesday.</B>
+<A>Wednesday. <OL><F>Oh</F></OL>.</A>
+<B><OL><R>I we</R> I went yesterday</OL>.</B>
+<A>O K. All right. So it's Thursday.</A>
+<B><OL><F>mm-hmm</F></OL>.</B>
+<A><OL>And</OL> tomorrow's a Friday. All right. Thank you very much for <laughter>coming</laughter>.</A>
+<B><OL><nvs>laughter</nvs></OL> Thank you.</B>
+<A>This is the end.</A>
+<B>Thank you so much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

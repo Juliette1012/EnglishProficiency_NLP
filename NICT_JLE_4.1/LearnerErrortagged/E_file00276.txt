@@ -1,0 +1,216 @@
+<interview>
+<filename>E_file00276.txt</filename>
+
+<head version="1.3">
+<date>2001-01-25</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>570</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello.</A>
+<B>Hi.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yeah. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah. Of course. Yes.</B>
+<A><nvs>laughter</nvs> Thank you very much. So, <H pn="B's name">XXX02</H>, <F>ah</F> how did you come from your house today?</A>
+<B>Yeah, <SC>they</SC> by train.</B>
+<A><F>Oh</F> <F>mhm</F>. Like which line?</A>
+<B>And <F>er</F> <at odr="1" crr="the"></at> <H pn="others1">XXX03</H> Line and <F>er</F> <at odr="2" crr="the"></at> <H pn="others2">XXX04</H> Line.</B>
+<A><F>Mm-hmm</F>.</A>
+<B>It takes <?>now</?> about one hour or so, yeah.</B>
+<A>One hour? Long. So, how do you spend <at odr="1" crr="">the</at> time <SC>on</SC> in the train?</A>
+<B>In the train, usually, <?>I</?> <v_tns odr="2" crr="read"><mo_lxc odr="1" crr="am"></mo_lxc> reading</v_tns> a book or <at odr="3" crr="a">the</at> newspaper, yeah. But very crowded.</B>
+<A><F>Mm</F>. That's true.</A>
+<B>So it's hard to <o_uk odr="1" crr="keep enough space for me">keep my <F>er</F> <.></.> <F>er</F> my <.></.> enough space</o_uk>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A>That's fine. Then, what's the successful technique to have your space?</A>
+<B>Yeah. <SC?>Is there</SC?> skip <at odr="1" crr="">the</at> one train, <R>and</R> <F>er</F> and <v_tns odr="2" crr="wait">waiting</v_tns> <SC>one or one</SC> five or six minutes. <CO>So</CO>.</B>
+<A><F>Mm</F>. I see. Good, good. <SC>And</SC> so, tell me about your hobbies now.</A>
+<B>Hobbies? <.></.> <F>Er</F>. <R>I plan</R> I plan to learn the Italian <.></.> language, yeah.</B>
+<A><F>Mm</F>. O K. So, do you study?</A>
+<B>Yeah. A little.</B>
+<A><F>Mm</F>. Why did you become interested in Italian?</A>
+<B>Yeah. <SC>And</SC> <F>er</F> because <.></.> I went to <n_lxc odr="1" crr="Italy">Italian</n_lxc> <F>er</F> three times. <CO>And</CO>. <F>er</F></B>
+<A><OL>Three times</OL>?</A>
+<B>Yeah. north area and south area.</B>
+<A><F>Mm</F>.</A>
+<B>So <SC>the</SC> I'm very interested in <F>er</F> <at odr="1" crr="the"></at> character, <con_lxc odr="2" crr="">and</con_lxc> <F>er</F> atmosphere, <.></.> <con_lxc odr="3" crr="">and</con_lxc> food, <con_lxc odr="4" crr="and"></con_lxc> culture, yeah, so on.</B>
+<A>O K. Then, could you tell me about the character of the Italian people? <nvs>laughter</nvs></A>
+<B><OL><F>Oh</F></OL> <F>er</F>. Very tough.</B>
+<A>Tough?</A>
+<B><con_lxc odr="1" crr="">And</con_lxc> <cap odr="2" crr="Cheerful" ch="1">cheerful</cap>, <con_lxc odr="3" crr="">and</con_lxc> <F>er</F> fashionable. And <F>er</F> <.></.> <SC>they</SC> <F>mm</F> <SC>not so</SC> <.></.> <F>mm</F> <F>mm</F> <F>er</F> how can I say, <SC>the</SC> <.></.> <F>er</F> <nvs>laughter</nvs> <F>mm</F> <.></.> easy to speak <prp_lxc2 odr="1" crr="to"></prp_lxc2>. <CO><SC>They</SC> each other is the</CO>. <.></.> <F>Mm</F>.</B>
+<A>Very friendly?</A>
+<B>Yeah, friendly, yeah.</B>
+<A>So you said you went to the south part and <at odr="1" crr="the"></at> north part, too.</A>
+<B>Yeah.</B>
+<A><F>Uh-huh</F>. Could you compare the two?</A>
+<B>Yeah. The <.></.> south area <SC>is the</SC> is more friendly, and <F>er</F> <F>uhh</F> they can't speak English. Only Italian. <R>And</R> <F>er</F> and, <F>er</F> <SC?>one</SC?> yeah, <at odr="3" crr="a"></at> strong, <SC>dia</SC> yeah, <n_cs odr="2" crr="Italian accent"><n_lxc odr="1" crr="accent">dialect</n_lxc> of Italian</n_cs>. So <SC>the</SC> it's hard to hear them, <SC>and</SC> but their body language is <at odr="1" crr="a">the</at> very useful way of communication. <F>Mm</F>.</B>
+<A>All right. So, now, tell me about your hobbies.</A>
+<B>My hobby is, <SC>the</SC> <.></.> <F>er</F> <F>er</F> as many people say, <SC>and</SC> <F>er</F> <SC>the</SC> <o_uk odr="1" crr="driving a car">I must drive a car</o_uk> <F>mm</F> or <at odr="2" crr="">the</at> cooking. <CO>Or</CO>.</B>
+<A>Why do you like driving?</A>
+<B>Yeah. <SC>It's the</SC> <.></.> feel <F>um</F> <aj_lxc odr="1" crr="relaxed">relax</aj_lxc> <F>er</F> when I'm driving a car <F>er</F> <?>with</?> listening <prp_lxc2 odr="2" crr="to"></prp_lxc2> the radio, yeah.</B>
+<A>I see. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then, now, I will show you a picture. <F>Mm-hmm</F>.</A>
+<B>Yeah.</B>
+<A>O K? Could you describe the picture for me?</A>
+<B><nvs>sigh</nvs> <.></.> She is sitting in front of <F>er</F> <at odr="1" crr="a"></at> personal computer, and the door <o_uk odr="2" crr="is open">opens</o_uk>. The <R>cats <.></.> are</R> <SC>cats are</SC> cats lays on the bed. The dog is sleeping <F>er</F> besides the bed. And <.></.> calendars are <SC>on the <.></.> <R>wall</R> <F>er</F> wall</SC> <R>on the</R> <F>em</F> on the wall. <F>Mmmm</F>. <.></.> <F>Ehh</F>. <.></.> <JP>Mantenokanaa</JP>.</B>
+</task>
+<followup>
+<A><F>Em</F>. All right. Do you like this room?</A>
+<B><F>Oh</F>. Yeah, yes, yeah. So, so.</B>
+<A>Why?</A>
+<B>But <o_uk odr="2" crr="I am allergic to cats">I have allergy of <n_num odr="1" crr="cats">cat</n_num></o_uk>.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>. I see.</A>
+<B><F>Mhm</F>.</B>
+<A>All right. So, do you have your own room?</A>
+<B>Yeah. <.></.> Now, <R>I have</R> <SC>I have none</SC> <F>er</F> <R>I</R> <R>I share</R> I share the room with my wife. <F>Mhm</F>.</B>
+<A><F>Mm</F>.</A>
+<B>Yeah. So, no <o_lxc odr="1" crr="private room">room <?>for</?> private</o_lxc>.</B>
+<A><F>Mm</F>. O K. Then, could you tell me about your favorite room?</A>
+<B><F>Er</F>. <CO>Is</CO>. <F>Er</F>.</B>
+<A>In your apartment.</A>
+<B><.></.> My favorite room?</B>
+<A><F>Mhm</F>.</A>
+<B><aj_lxc odr="1" crr="Imaginary">Not actual</aj_lxc>?</B>
+<A><F>Em</F>. In <pn_lxc odr="1" crr="my">your</pn_lxc> house.</A>
+<B>In your house?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F>. <.></.> <SC>On</SC> <F>er</F> <nvs>laughter</nvs> <.></.> <JP>doudarou</JP> yeah, the <F>er</F> <F>er</F> Tatami and <F>er</F> <o_uit odr="1">simply on the wardrobe</o_uit>, and that is <at odr="2" crr="">the</at> all. <SC>But</SC> <F>er</F> and <R>easy to</R> easy to, <F>er</F> <SC>lay</SC> <R>la</R> <SC>lay</SC> <SC>la</SC> yeah, <?><o_lxc odr="1" crr="lie down">lay</o_lxc></?> with <at odr="2" crr="a">the</at> candle, yeah.</B>
+<A><F>Mhm</F>. With <at odr="1" crr="a"></at> candle?</A>
+<B>Yeah.</B>
+<A><F>Mm</F>. Very romantic.</A>
+<B><SC>Yeah</SC> no, no. Only Japanese <.></.> antique style, yeah.</B>
+<A>Can you tell me what the Japanese antiques <v_lxc odr="1" crr="are"></v_lxc>?</A>
+<B>Yeah. <at odr="1" crr="A"></at> <cap odr="2" crr="candle" ch="1">Candle</cap> <SC>with the Japanese <F>er</F> paper, <JP>washi</JP></SC> surrounded <prp_lxc2 odr="2" crr="with"></prp_lxc2> the <JP>washi</JP> and <JP>tatami</JP> <o_uit odr="3">and with the <??></??> light</o_uit> and <F>er</F> <JP>ema</JP>. <CO>And</CO>. Yeah.</B>
+<A><F>Mm</F>. I see.</A>
+<B>Yeah, yeah. Sorry.</B>
+<A>All right. O K. That's all right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then, now, I'll give you a card now.</A>
+<B>Yeah.</B>
+<A>Please read it, and, when you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Mm</F>. Excuse me.</B>
+<A><F>Mhm</F>.</A>
+<B><SC>I would</SC> I want to go <prp_lxc2 odr="1" crr="to"></prp_lxc2> New York. And, could you please tell me the <aj_inf odr="1" crr="easiest">most easy</aj_inf> and <aj_inf odr="2" crr="fastest">fast</aj_inf> way to go there?</B>
+<A><F>Mm</F>. O K. <F>Um</F>. But <F>er</F> we have three kinds of tickets.</A>
+<B>Yeah, yeah. <R>I want to</R> <.></.> <F>em</F> I want to have <F>ner</F> <R>express ra</R> <at odr="1" crr="an"></at> express rail ticket.</B>
+<A><F>Mhm</F>. O K. <SC>And the</SC> sorry, the fastest one is super express train.</A>
+<B>Super express train?</B>
+<A><F>Mm</F>.</A>
+<B>How much is the <OL>ticket</OL>?</B>
+<A>One fifty dollars.</A>
+<B>One fifty dollars?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. <F>Oh</F>.</B>
+<A>It's a luxurious car.</A>
+<B><F>Uh-huh</F>. And second way?</B>
+<A><F>Mhm</F>.</A>
+<B>And <F>er</F> second class? <.></.></B>
+<A>Express train.</A>
+<B><pn_lxc odr="1" crr="It">Train</pn_lxc> is <F>er</F> <aj_inf odr="2" crr="cheaper">more cheaper</aj_inf>?</B>
+<A><F>Mhm</F>. Cheaper, of course.</A>
+<B>How much cheaper?</B>
+<A><F>Mm</F>. Fifty dollars.</A>
+<B>Fifty dollars. <F>Oh</F>. <R>It's</R> it's good. <F>Er</F>. <.></.> Where can I get the ticket? <F>Mm</F>. <SC>Fro</SC> <SC>how</SC> where can I get the ticket?</B>
+<A><F>Mm</F>. Right here.</A>
+<B>Right here?</B>
+<A><F>Mhm</F>.</A>
+<B>Yeah. Two tickets, please.</B>
+<A>Two tickets? <F>Mhm</F>. Of what kind?</A>
+<B><R>Of</R> of the <SC>fifteen</SC> <R>fifty</R> fifty dollars ticket.</B>
+<A><F>Mm</F>. O K. <F>Mm</F> <F>er</F>. So, express train.</A>
+<B>Yeah. Express train, yeah.</B>
+<A>O K. So, let me check. <.></.> Sorry, all seats are booked in the express train.</A>
+<B><F>Oh</F>. <R>Super</R> <at odr="1" crr="the"></at> super <R>exp</R> express train tickets are available?</B>
+<A><F>Mhm</F>. All right. Let me check. <.></.> Yes, there are few seats left.</A>
+<B>Yeah. Two tickets, please.</B>
+<A><F>Mhm</F>. All right. O K. So <F>er</F> here is <at odr="1" crr="the">a</at> ticket.</A>
+<B>Yeah. <.></.></B>
+<A><F>Mhm</F>.</A>
+<B>Yeah. <CO><JP>De</JP> <F>er</F> <JP>de</JP></CO>. <.></.></B>
+<A>How would you like to pay?</A>
+<B><F>Er</F>. By <SC>card</SC> credit card, O K?</B>
+<A>All right. O K.</A>
+<B>This card, please.</B>
+<A><F>Uh-huh</F>. All right. Thank you very much.</A>
+<B><F>Oh</F>. Thank you.</B>
+<A><F>Uh-huh</F>. So, have a nice trip. <F>Mm</F>. Thank you.</A>
+</task>
+<followup>
+<A>Have you been abroad?</A>
+<B><F>Mmm</F>.</B>
+<A>Yes. Except Italy.</A>
+<B>Yeah. <F>Er</F> <F>ner</F>. First <F>er</F> Germany, <F>er</F> yeah, and England.</B>
+<A>So you went to Europe.</A>
+<B>Yeah.</B>
+<A><F>Mm</F>. What country is the best place for you <.></.> except Italy?</A>
+<B>Yeah, yeah. <..></..> <F>Mmm</F>. Yeah. <?><o_uk odr="1" crr="I like France best">we are France first</o_uk></?> in these, yeah.</B>
+<A>O K. Then, if you travel to France next time, would you prefer <F>er</F> renting a car or <F>er</F> traveling by train?</A>
+<B><OL>Yeah</OL>. By car, <SC>is</SC> yeah, is <aj_inf odr="1" crr="preferable">more prefer</aj_inf> <.></.> way <R>to</R> to travel.</B>
+<A>Why?</A>
+<B>Why? Because <SC>the</SC> <F>er</F> <.></.> <SC>when I</SC> every time I <R>went</R> went to <at odr="1" crr="">the</at> Europe, <R>and</R> <F>er</F> <con_lxc odr="2" crr="">and</con_lxc> it's hard to <v_cmp odr="3" crr="drive a car">drive in a car</v_cmp> because the <aj_lxc odr="4" crr="right-hand">right side</aj_lxc> drive is <SC>the danger</SC> dangerous and <pn_lxc odr="5" crr="I"></pn_lxc> hesitate to drive.</B>
+<A>True.</A>
+<B><SC>And</SC> So <SC>it's that's the</SC> <.></.> I <v_cmp odr="1" crr="like driving">like</v_cmp> <F>er</F> very much. And, <F>er</F> <o_uk odr="1" crr="since I was young">for <SC>the</SC> my ancient time</o_uk>, so, <F>em</F> someday, <OL><nvs>laughter</nvs></OL> I'll try.</B>
+<A>Yeah. Even though it is dangerous.</A>
+<B>Yeah, yeah. <CO>But, <F>er</F> <R>with</R> with <?>guaran</?>, <F>er</F> <SC>credit</SC> the insurance <R>of</R> <SC>of the foreigner</SC> for <at odr="2" crr="">the</at> <n_num odr="1" crr="foreigners">foreigner</n_num>, yeah, <SC>is the</SC> <F>mm</F> <.></.> is</CO>. <.></.> <F>Uh</F>. Sorry, yeah, yeah, I can't <OL>express it very well</OL>.</B>
+<A><OL><F>Mm</F> thank you very much</OL>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So, I'll show you <at odr="1" crr="the">a</at> last picture. O K. <F>Er</F>. So, please make a story using these pictures, and then, please start your story with "One day last week" because it happened before.</A>
+<B>"One day last week"? <F>Mm</F>.</B>
+<A><F>Mhm</F>.</A>
+<B><.></.> <F>Mm</F>. <.></.> <F>Er</F>. <CO>Last week, she tried to</CO>.</B>
+<A>O K. Sorry. "One day last week", <OL>then</OL>, start your story.</A>
+<B><OL><CO>One</CO></OL>.</B>
+<A><F>Mm</F>. Please.</A>
+<B>One day <JP>deshou</JP> <JP>de</JP> last week,</B>
+<A>Yes.</A>
+<B><F>ah</F> yeah, I tried to <.></.> cook. <at odr="1" crr="The">That</at> <F>er</F> <.></.> refrigerator <v_tns odr="2" crr="was">is</v_tns> <F>er</F> <SC?>full</SC?> empty, so <R>I</R> I <v_lxc odr="3" crr="decided">tried</v_lxc> to buy something <.></.> <SC>to</SC> <F>er</F> at the supermarket. And I went to <at odr="1" crr="the"></at> supermarket by car, and <.></.> <F>er</F> <.></.> <F>uh</F> <F>er</F> <.></.> <F>er</F> <R>I</R> <.></.> <F>er</F> I <v_lxc odr="3" crr="looked"><v_tns odr="2" crr="sought"><mo_lxc odr="1" crr="was"></mo_lxc> seeking</v_tns></v_lxc> for something <R>to</R> <prp_lxc1 odr="4" crr="for">to</prp_lxc1> the <F>er</F> ingredients and <R>for</R> for <n_lxc odr="5" crr="cooking">cook</n_lxc>. And I <v_tns odr="1" crr="purchased">purchase</v_tns> <R>the</R> the ingredients and <F>er</F> commodities and <SC>pay</SC> <F>er</F> <o_odr odr="3" crr="paid by cash">by <v_tns odr="2" crr="paid">paying</v_tns> cash</o_odr>. And <F>mm</F> <R>I carry <R>the</R> the</R> <R>I carry <R>the</R> <.></.> the</R> <R>I carry the</R> <F>ehhh</F> <nvs>sigh</nvs> <.></.> <F>mm</F> I <v_tns odr="1" crr="carried">carry</v_tns> the <SC>goods that</SC> <F>er</F> <n_num odr="2" crr="goods">good</n_num> that I bought at <at odr="3" crr="the">a</at> <SC>superst</SC> supermarket. <R>And</R> <F>er</F> and I <v_lxc odr="1" crr="went"></v_lxc> back home and <v_cmp odr="3" crr="cooked eggs"><v_tns odr="2" crr="cooked">cook</v_tns> <SC>the</SC> with <n_num odr="4" crr="eggs">egg</n_num></v_cmp>. <.></.></B>
+<A>All right. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Mm</F>. So, in what occasion, do you have to cook?</A>
+<B><F>Mm</F>. <.></.> The case <F>er</F> <.></.> <SC>we have n</SC> <SC>we have</SC> we don't have enough money to <o_lxc odr="1" crr="eat out">eat outside</o_lxc> is the major reason for cooking. <R>And</R> and, for health, is the second reason, <F>ah</F> <F>ah</F> but the <n_lxc odr="1" crr="formar">first</n_lxc> is <at odr="3" crr="the"></at> <aj_lxc odr="2" crr="main"></aj_lxc> reason <??></??>. <CO>So</CO>. Yeah. <F>Mm</F>.</B>
+<A>So, how would you help your wife then?</A>
+<B>This <v_lxc odr="1" crr="is"></v_lxc> very bad. My wife is <aj_inf odr="1" crr="busier">more busy</aj_inf> than me. So <SC>the</SC> we have a rule. <.></.> <SC>And <.></.> those <R>who</R> <.></.> who</SC> <.></.> <SC>those who</SC> <.></.> <F>er</F> <SC>those</SC> <.></.> sorry, <SC>I</SC> <.></.> <SC>but</SC> <R>we have a rule</R> we have a rule <F>mm</F> <.></.> <F>em</F> I <v_ng odr="1" crr="cannot say">can say</v_ng> well <F>er</F> <prp_lxc1 odr="2" crr="in"></prp_lxc1> <at odr="3" crr="">the</at> English. <OL>Sorry, sorry</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><OL><nvs>laughter</nvs> All right</OL>. That's all right. Then, for example, who will cook tonight? <nvs>laughter</nvs></A>
+<B>Cook? <F>Er</F>. Maybe, <.></.> me.</B>
+<A><F>Mm</F>. Because you're less busy?</A>
+<B><F>Ah</F>. Yeah, yeah. Less busy.</B>
+<A>O K. I see. All right. <F>Mhm</F>. So, please enjoy your cooking tonight, then.</A>
+<B>Yeah. Thank you.</B>
+<A><nvs>laughter</nvs> O K. Thank you very much for coming to this interview.</A>
+</stage5>
+</body>
+</interview>

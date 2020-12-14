@@ -1,0 +1,212 @@
+<interview>
+<filename>file01088.txt</filename>
+
+<head version="1.3">
+<date>2002-03-26</date>
+<sex>male</sex>
+<age>30</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>520</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B><F>Err</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>, nice to meet you. O K. Mister <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Oh</F> I'm too bad. <nvs>laughter</nvs> I'm so tired. <F>Mm</F>.</B>
+<A><F>Mhm</F>.</A>
+<B>So tired that <F>mm</F> <F>mmm</F> because <R>I</R> <F>mm</F> <.></.> <F>mm</F> I slept <F>mm</F> too shorter. <F>Mhm</F>.</B>
+<A>Why did you go to bed so late?</A>
+<B><F>Urr</F> I work hard.</B>
+<A><F>Oh</F>.</A>
+<B><F>Mhm</F>.</B>
+<A>I see. <F>Urr</F> O K. So on weekends, do you have sometime for yourself?</A>
+<B><F>Mhm</F> <nvs>laughter</nvs> I work <F>mm</F> on <SC>this</SC> <F>uh</F> last weekend.</B>
+<A><F>Mhm</F>. I see. So when you're not busy,</A>
+<B>Yes.</B>
+<A><F>mm</F> what do you enjoy doing?</A>
+<B><F>Mhm</F> <nvs>laughter</nvs> <.></.> I enjoy drinking.</B>
+<A>Drinking.</A>
+<B><F>Mhm</F> yeah.</B>
+<A>Where do you usually go for a drink?</A>
+<B><F>Mhm</F> <R>I</R> I usually go to <JP>izakaya</JP>.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Mm</F> yeah.</B>
+<A>I see. <F>Urr</F> who do you go to <JP>izakaya</JP> with?</A>
+<B><F>Mhm</F> <H pn="others1">XXX03</H>.</B>
+<A><F>Ohh</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>I see. So he said he's planning to go to Hakone.</A>
+<B>Yes.</B>
+<A>Are you going with him?</A>
+<B>Yes.</B>
+<A><F>Uhh</F> I see. What are you planning to do in Hakone?</A>
+<B><F>Mhm</F>. <nvs>laughter</nvs> I plan to <F>mm</F> <.></.> see <F>mm</F> cherry,</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>mm</F> and <F>mm</F> go to Kowakien. <F>Mm</F>. <CO>So</CO>. <F>Mm</F>.</B>
+<A>Why did you choose Hakone?</A>
+<B><F>Urr</F> <nvs>cough</nvs> <H pn="company name1">XXX04</H> has <F>mmm</F> <.></.> <F>mm</F> <.></.> house for <F>mm</F> employee. <OL><F>Mhm</F></OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><F>Mm</F> so <.></.> I stay it <F>mm</F> to cheap.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Mm</F>.</B>
+<A><F>Mm</F>. I see. <F>Urr</F> where do you live now?</A>
+<B>I live in <H pn="others2">XXX05</H>.</B>
+<A><H pn="others3">XXX06</H>?</A>
+<B><F>Mm</F>.</B>
+<A><F>Mhm</F>. What kind of place is <H pn="others3">XXX06</H>?</A>
+<B><F>Mm</F>?</B>
+<A>What kind of place is <H pn="others3">XXX06</H>?</A>
+<B><F>Mm</F> <H pn="others2">XXX05</H> is <F>mmm</F> <..></..> <R>ci</R> city, <F>mm</F> and <F>urr</F> long years ago, <F>mmm</F> <..></..> people selling <F>mm</F> wood <?>only</?> that. <F>Mm</F>.</B>
+<A>I see. so do you live in a apartment?</A>
+<B><OL><F>Mm</F></OL>?</B>
+<A><OL>Apartment</OL>?</A>
+<B><F>Uhh</F> no, dormitory.</B>
+<A><F>Uhm</F>. I see. Can you tell me little bit about your dormitory?</A>
+<B><F>Mm</F>?</B>
+<A><OL>Can</OL></A>
+<B><OL><??></??></OL>.</B>
+<A>you tell me a little bit about your dormitory?</A>
+<B><F>Urr</F> dormitory <F>ur</F> is built <F>urr</F> <F>mmm</F> at bubble.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Mm</F>. So <F>mm</F> it is new and <F>mmm</F> <.></.> <F>mm</F> new <F>mm</F>. <nvs>laughter</nvs></B>
+<A>Nice place?</A>
+<B>Yes.</B>
+<A>I see. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>First thing today, <nvs>cough</nvs> please describe this picture.</A>
+<B><F>Oh</F> <F>urr</F> in <F>mm</F> <R>ski</R> skiing field. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B>So <F>ur</F> some people ski, and <F>mm</F> some children <F>mm</F> <F>ur</F> <.></.> <F>mm</F> playing <R>ss</R> <F>mm</F> snow game. <F>Mm</F>. And <F>mm</F> in the restaurant, <F>mm</F> a couple of <F>mm</F> a couple <F>mm</F> drink <F>ur</F> something. <F>Mm</F>. So <F>mm</F> <.></.> the girl practice skiing, and <F>mm</F> the <R>teacher</R> <R>teacher</R> <F>mm</F> teacher teaches skiing. <F>Mm</F>.</B>
+</task>
+<followup>
+<A>O K. Mister <H pn="B's name">XXX02</H>, <nvs>cough</nvs> excuse me, <F>ur</F> do you enjoy skiing?</A>
+<B>Yes. <F>Mm</F>.</B>
+<A>Have you ever tried snowboarding?</A>
+<B><F>Mm</F> two time.</B>
+<A>I see.</A>
+<B><F>Mm-hm</F>.</B>
+<A><F>Ur</F> what is different between skiing and snowboarding?</A>
+<B><F>Mmm</F> <.></.> snowboard is <F>mhm</F> same as <F>mm</F> <.></.> <F>mhm</F> <.></.> surfing.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Mm</F>. So <F>ur</F> <SC>but <F>mm</F> snow</SC> <F>urr</F> but <F>mm</F> <.></.> <SC>I</SC> <F>ur</F> my foot is fixed on the board.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F>.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F>. But <F>ur</F> <SC>ski</SC> <F>mm</F> <F>er</F> <F>ur</F> in ski, <F>mmm</F> my <R>foo</R> foot is <F>mm</F> separately <OL>so</OL></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><F>mm</F> <R>I</R> <SC>I like <F>mm</F> skiing</SC> <F>ur</F> I like ski <F>mm</F> <R>be</R> <F>ur</F> <SC>because <F>mhm</F> <..></..> <F>mm</F> I</SC> <F>mm</F> because <..></..> I had better <F>mmm</F> <.></.> <R>su</R> <F>urr</F> ski <.></.> the same to walking. <OL><??></??></OL>.</B>
+<A><OL><F>Uhhh</F></OL> I see. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you. <F>Urm</F> now, <.></.> I'd like to try a role play. O K? <R>Ex</R> excuse me. Mister <H pn="B's name">XXX02</H>, please read the card, and tell me when you're ready.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>Yes.</B>
+<A>O K?</A>
+<B><F>Mm</F>.</B>
+<A>O K. May I help you?</A>
+<B><F>Ur</F> <R>I</R> I go to New York as fast as possible.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Mm</F>. <SC>I</SC> <JP><F>eeto</F></JP> where do I <F>mmm</F> buy the ticket <SC>for</SC> to New York?</B>
+<A><F>Urr</F> you can buy the ticket here.</A>
+<B>Here? <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mm-hm</F></OL>.</A>
+<B><F>Mhm</F> <SC>how many</SC> <F>uh</F> how much <SC>do the ticket</SC> <F>uh</F> is the ticket cost? <F>Mm</F>.</B>
+<A>We have three types of trains</A>
+<B><F>Um</F>.</B>
+<A>to New York.</A>
+<B><F>Mhm</F>.</B>
+<A>And the price is different.</A>
+<B><F>Uhh</F> please <F>mm</F> tell me the three rates.</B>
+<A>O K. One is the super express.</A>
+<B><F>Um</F>.</B>
+<A>It's one hundred fifty dollars.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Next on is express. That's one hundred dollars. And the last one is the local train,</A>
+<B><F>Um</F>.</B>
+<A>and it costs seventy five dollars.</A>
+<B><F>Uh</F> <F>urm</F> so the express <F>mm</F> train,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><?>the</?> ticket <OL><??></??></OL>.</B>
+<A><OL>O K</OL>. <F>Ur</F> anything else?</A>
+<B><F>Mhm</F> <F>mm</F> no.</B>
+<A>No? <OL>O K</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>Let me get the ticket for you.</A>
+<B><F>Mm</F>.</B>
+<A>O K? O K. Thank you.</A>
+</task>
+<followup>
+<A>O K. Thank you very much, Mister <H pn="B's name">XXX02</H>. That's the end of the role play.</A>
+<B><F>Um</F>.</B>
+<A><F>Urr</F> have you been abroad?</A>
+<B><.></.> Yes. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. Can you tell me about your favorite place so far?</A>
+<B><F>Mhm</F> I went to Italy. <F>Mm</F>. So <F>ur</F> <R>in Italy</R> <F>urr</F> <..></..> <F>mmm</F> in Italy, <F>urr</F> Rome is old city. <F>Mm</F>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>ur</F> in Japan, <F>mm</F> old building is temple.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mm</F>. <CO><R>But</R> <F>mm</F> <F>mm</F> but there, <F>mhm</F> old building is <F>mm</F> <.></.> <JP>nanteiundarou</JP> <.></.> <F>urr</F> <F>urr</F> <nvs>laughter</nvs> <??></??> <F>mhm</F> the <F>mhm</F> <.></.> Christ church and</CO>. <F>Mhm</F>. <..></..> <nvs>laughter</nvs></B>
+<A><F>Mhm</F> it's <OL>O K</OL>.</A>
+<B><OL><F>Uh</F> <F>ah</F></OL>.</B>
+<A><F>Ur</F> did you like the food <OL>in Italy</OL>?</A>
+<B><OL><F>Ur</F></OL> <F>oh</F> very nice. <F>Mhm</F> example, <F>mhm</F> <.></.> pasta. <F>Mm</F> <F>mm</F> <SC>I</SC> <.></.> <F>ur</F> <R>the</R> the thing <R>I</R> <F>er</F> I like <F>mm</F> is <F>mmm</F> <.></.> lasagne.</B>
+<A>Lasagne.</A>
+<B><F>Mhm</F> it's <F>mm</F> very nice.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mm</F>. So <.></.> <SC>the</SC> in Italy, the wine is good for me. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mm</F></OL>. I see. Did you enjoy the trip?</A>
+<B>Yes.</B>
+<A>Yes. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Urm</F> last thing today, I'd like to show you a picture sequence. <nvs>cough</nvs> Mister <H pn="B's name">XXX02</H>, please make a story from one to six.</A>
+<B><F>Mm</F>.</B>
+<A>O K? Please begin with, "One day last week". O K? This is the story that happened before. <OL>O K</OL>?</A>
+<B><OL><F>Mhm</F></OL>. One day last week, <F>ur</F> <R>she</R> she went to the department store. She bought the tie <R>for</R> <F>mm</F> for her husband <SC>because husband</SC> <F>uh</F> <F>mm</F> because the day is <SC>husband's</SC> <SC>her</SC> <F>uh</F> <R>hi</R> his <F>mm</F> birthday. <F>Mm</F>. <JP><F>De</F></JP> <R>she</R> she paid the money to buy tie. <F>Mm</F>. <SC>She bought</SC> <SC>she</SC> <F>mm</F> <SC>when she walk <F>um</F> in</SC> <F>ur</F> when she walk there, <R>she</R> <F>mm</F> she find <R>the final</R> <F>uh</F> the final sale of shoes. And <F>uhm</F> <SC>she find</SC> <F>mm</F> <F>ah</F> she found <F>mm</F> the clothes. <SC>Clothes is</SC> <F>uh</F> the cost of clothes is <F>mm</F> fifty percent off. So <R>she</R> she bought shoes and clothes and <F>mm</F> tie for him. <R>She <F>er</F> went</R> <F>uh</F> <R>she went</R> <F>uh</F> she went out <F>mm</F> the department store.</B>
+</task>
+<followup>
+<A>O K. Thank you. Mister <H pn="B's name">XXX02</H>, do you prefer to shop at a department store or <F>ur</F> private shops? Which do you prefer?</A>
+<B>I prefer <F>mm</F> the department store.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mhm</F> <F>mm</F> <R>se</R> <F>ur</F> <SC>several things</SC> <F>mm</F> <F>uh</F> there are several things in the shops.</B>
+<A><F>Mm-hm</F>. <F>Mm</F>. I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Ur</F> Mister <nvs>cough</nvs>, we're almost at the end of the interview. <F>Ur</F> what time do you usually go home recently?</A>
+<B><F>Mhm</F> <nvs>laughter</nvs> recently, <F>mm</F> I went back <F>mm</F> home <.></.> twelve P M.</B>
+<A>Midnight?</A>
+<B>Midnight.</B>
+<A><F>Oh</F> I see. So to <H pn="others3">XXX06</H>, how do you go home? Which train do you take to <H pn="others3">XXX06</H>?</A>
+<B><F>Ur</F> <R>I take</R> I take <F>mhm</F> <.></.> <H pn="others4">XXX07</H> Line <OL>and</OL></B>
+<A><F>Mh-hmm</F>.</A>
+<B><H pn="others5">XXX08</H> Line.</B>
+<A><F>Mhm</F>. I see. So do you have dinner after you go home?</A>
+<B>No.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL><F>Mm</F></OL>. <R>I</R> I eat dinner <R>on</R> <.></.> on <SC>seven or six</SC> <OL>six or seven</OL>.</B>
+<A><OL><F>Hum</F> <F>hum</F> <F>um</F> <F>um</F></OL>.</A>
+<B><F>Mm</F>.</B>
+<A>So next week, you'll be a bit free?</A>
+<B>Maybe. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Maybe you will be <?>that</?></OL>. I see. O K. O K. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

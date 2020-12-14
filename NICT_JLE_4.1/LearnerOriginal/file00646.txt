@@ -1,0 +1,182 @@
+<interview>
+<filename>file00646.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>male</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. <CO><OL>May I</OL></CO>.</A>
+<B><OL><R>My name</R></OL> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>How are you today?</A>
+<B><F>Erm</F>. <.></.> <R>I'm</R> I'm twenty-three <SC>ol</SC> years old.</B>
+<A><F>Mh-hmm</F>. O K. Then how long have you been studying in <H pn="school name1">XXX03</H>?</A>
+<B><F>Oh</F> I'm <F>mm</F> senior grade.</B>
+<A><.></.> I see. Are you busy?</A>
+<B>Yeah. <F>Er</F> I'm very busy everyday.</B>
+<A><F>Hm</F>. <.></.> So what do you do?</A>
+<B><F>Er</F> <SC>I'm t</SC> <SC>I s</SC> <F>mm</F> <R>I</R> <SC>I have <R>s</R> studyin</SC> <SC>I have studied</SC> <F>hmm</F> <F>er</F> <F>mm</F> <F>mm</F> <F>mm</F> <.></.> <SC>s</SC> <F>uh</F> <JP><??></??></JP> <F>uh</F> <JP>chigauka</JP> <R>I have</R> <SC>I have been</SC> I have <SC>go</SC> gone to second school. <F>Hm</F>. <F>Hm</F>. <F>Hm</F>. The second school is <F>mm</F> very busy.</B>
+<A><F>Hm</F>. <.></.> Tell me more about the second school.</A>
+<B><F>Oh</F> <F>mm</F>. <F>Hm</F>. <SC>The second school i</SC> <F>uh</F> it is <F>hmm</F> <.></.> legal <?>minor</?> school. <F>Uum</F> <R>I</R> <SC>I study</SC> I have studied <F>hm</F> <R>legal</R> <SC>legal mi</SC> legal study.</B>
+<A><.></.> <R>What</R> what is it?</A>
+<B><F>Oh</F> <F>mm</F> <F>hm</F>. <R?>It's</R?> it's <F>uhm</F> <JP>shiho shiken</JP> in <SC>Japan</SC> Japanese.</B>
+<A><F>Mh-hmm</F>. <??></??>.</A>
+<B><F>Eh</F> <F>eh</F> <CO><R>I</R> <R>I will</R> <F>mm</F> <.></.> I will</CO>. <..></..> <nvs>cough</nvs> <.></.> <F>Hmm</F>.</B>
+<A>Why do you go to that school?</A>
+<B><F>Ah</F>. <F>Hm</F> <R>I want to</R> I want to be <F>hmm</F> <?>lawyer</?>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><..></..> <OL><F>Hm</F></OL>.</B>
+<A><OL>But</OL> do you need to such a school to become a lawyer?</A>
+<B><F>Er</F>. <CO>The second school is need to</CO>. <.></.> <F>Er</F> <F>hm</F> <..></..> <F>hm</F>. <..></..></B>
+<A>O K. Then what is good about that school? <.></.> What is the good point,</A>
+<B><F>Oh</F>.</B>
+<A>about the school?</A>
+<B><F>Hmm</F>. There is <F>mm</F> some <R>g</R> <SC>good</SC> excellent teacher. And excellent <F>hm</F> <.></.> <SC>wor</SC> textbook. <F>Hm</F>. And some good friends.</B>
+<A><.></.> I see. Good. O K. Then and what do you do with those friends?</A>
+<B><F>Oh</F> <F>hm</F>. <.></.></B>
+<A>Of course,</A>
+<B><CO><OL>I</OL></CO>.</B>
+<A><OL>you</OL> study together. But,</A>
+<B>Yeah.</B>
+<A>other than studying.</A>
+<B><SC>I'm</SC> <F>hm</F> I usually talking with <F>mm</F> some friends. And <F>hmm</F> <..></..> lunch and dinner <F>mm</F> with me.</B>
+<A><F>Oh</F>. Sounds <?>nice</?>. <?>O K</?>. You <?>got</?> some good friends.</A>
+</stage1>
+<stage2>
+<task>
+<A>All right. Now, I'd like to show a picture. O K? Here you are. Please tell me about this picture.</A>
+<B><F>Er</F>. <.></.> <F>Hm</F>. This picture is <F>hm</F> <.></.> dinner time. <F>Eh</F> <F>hmm</F>. <F>Hmm</F> <.></.> <F>er</F>. <R>This</R> this is hotel. <F>Hmm</F>. <SC>Party</SC> <.></.> <F>er</F> the party. Yeah. <R>A</R> a couple <F>hmm</F> <.></.> enjoy dinner. <F>Hmm</F>. <.></.> A man <.></.> <F>hmm</F> ask <F>hm</F> <R>him</R> <F>hm</F> him, <F>hm</F> probably sommelier <F>hm</F> to the wine. <..></..> <F>Hm</F>.</B>
+<A>O K.</A>
+</task>
+<followup>
+<A>Do you sometimes go to a restaurant like this?</A>
+<B><.></.> <F>Hmm</F>. No. <R>I</R> <R>I don't</R> I don't go <F>mm</F> the restaurant.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>. <F>Er</F> I always <F>hm</F> <.></.> <F>er</F> <.></.> <F>hm</F> <JP><R>i</R> <R>iza</R> izakaya</JP>. <nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <F>mm</F> <F>hm</F> <.></.> cafe.</B>
+<A>Cafe? <.></.> So what's the difference between <JP>izakaya</JP> and cafe?</A>
+<B>Yeah.</B>
+<A><F>Hm</F>. Is there any difference between them?</A>
+<B><F>Oh</F>. Yes.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> <F>Hm</F> <F>er</F> <F>hm</F> <SC>we <?>are</?></SC> we like <F>hm</F> talking with <F>mm</F> in cafe.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah. <.></.> And <F>hm</F> <SC>relax the</SC> relax there.</B>
+<A><F>Mh-hmm</F>. <.></.> I see. O K. <F>Er</F>. How about <F>eh</F> <JP>izakaya</JP>?</A>
+<B><F>Er</F>. <JP>Izakaya</JP> is <F>uhm</F> <?>more</?> <F>hmm</F> <..></..> <SC>talk</SC> <R>tal</R> <F>mm</F> <SC>talk wi</SC> <SC>talk</SC> <F>uh</F> can talk with <F>er</F> in <SC>bi</SC> large voice. <F>Hm</F>. And <F>hmm</F> <F>hm</F> very <.></.> relax.</B>
+<A><F>Hm</F>. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role-play. O K?</A>
+<B>O K.</B>
+<ctxt>The interviewer is taking out a role card.</ctxt>
+<A>All right. This is your card. Please read it to yourself.</A>
+<B>O K.</B>
+<A>And when you're ready, I will start the conversation. <.></.> O K? <.></.> Hi. May I help you?</A>
+<B><F>Hmm</F>. <F>Uh</F>. <R>I want to <.></.> go</R> I want to go to New York <F>mm</F> <SC>on train</SC> <F>mm</F> <.></.> by train <F>hmm</F> <F>hm</F> <?>yeah</?> <.></.> early.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. <nvs>sniff</nvs> <F>Mm</F>. <F>Mm</F> <F>er</F> <F>mm</F>. Please tell me about <F>er</F> <F>er</F> <SC>buy</SC> <F>uh</F> get ticket. <.></.> <F>Hm</F>.</B>
+<A>You can buy a ticket here. And why don't you take eleven o'clock train?</A>
+<B><.></.> Yeah. <F>Mm</F>. <R>I</R> <..></..> <F>hm</F> <R>I</R> I will get the ticket <F>urn</F> the time.</B>
+<A>Yes. <.></.> So eleven o'clock train goes to New York.</A>
+<B>I will get the train <F>hm</F> to New York.</B>
+<A>Yes. You need a ticket?</A>
+<B>Yeah.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. <F>Erm</F>. <.></.> <SC>Please sol</SC> <.></.> <R>please</R> <F>hm</F> <.></.> please <F>mm</F> <F>mm</F> the ticket <F>mm</F> to me.</B>
+<A>O K. Today, we have two kinds of tickets.</A>
+<B><F>Oh</F>. <F>Hm</F>. <F>Uh</F>. <..></..> <R>Ho</R> <SC>how the ticket</SC> <F>hm</F> <F>er</F> what kind of the ticket?</B>
+<A><F>Hm</F>. First-class and economy.</A>
+<B><F>Ah</F>. <F>Hm</F> <R>I</R> <.></.> <F>er</F> I want to economy class.</B>
+<A>O K. Then twenty dollars.</A>
+<B>Yeah.</B>
+<A>All right. Here you go. Here's the ticket.</A>
+<B>Thank you.</B>
+<A>Thank you very much. Have a nice trip.</A>
+<B>Thank you.</B>
+<A>Thank you. All right. Now, the role-play is over.</A>
+</task>
+<followup>
+<A>Have you ever been abroad? Have you ever been to a foreign country?</A>
+<B>No. <F>Hm</F>. <R>I</R> <R>I don't</R> I don't go to ever <F>um</F> foreign country. But <F>uhm</F> <R>I</R> I have been to Hokkaido.</B>
+<A><F>Hm</F>. I see. <F>Hm</F>. <F>Er</F>. Why did you want to go to Hokkaido?</A>
+<B><F>Oh</F> <SC>I'm</SC> <R>I wan</R> I wanted to foreign country. But <F>hm</F> my father and mother <F>hmm</F> <F>mm</F> say no <nvs>laughter</nvs> to me.</B>
+<A><SC>Why</SC> why not?</A>
+<B><F>Er</F>. Foreign country is very <F>hmm</F> <SC>danger</SC> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>dangerous. <OL><F>Oh</F></OL>.</B>
+<A><OL>Really</OL>? <F>Er</F>. Do you think so?</A>
+<B>No. <R>I</R> <F>hm</F> I don't think so. But <F>hm</F> <.></.> <R>they are</R> <laughter>they are</laughter> think so.</B>
+<A>I see. You are a good son. <nvs>laughter</nvs> O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. Now, please take look at another picture. This time, make a short story. O K? Using six pictures. Story goes this way. But this happened last week. O K? So please start your story with "One day last week,"</A>
+<B><F>Hmm</F>. One day last week, <F>mm</F> <R>she</R> <F>hm</F> she look <F>mm</F> freezer. <F>Er</F> <.></.> And the freezer is <JP><F>eeto</F></JP> empty. <F>Oh</F>. And <F>hm</F> <R>she</R> she go to supermarket. And <R>she</R> <.></.> <F>mm</F> she shopping <F>hm</F> <.></.> food. <F>Hm</F>. <R>And she get home</R> and she get home. <F>Mm</F> <F>hm</F>. <R>She</R> <.></.> <F>er</F> <.></.> <SC>she i</SC> she <?>receipt</?> in <R>regi</R> <SC>register</SC> <R>regi</R> <.></.> <R>regis</R> register's.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><F>Hm</F>.</A>
+<B>And <R>she</R> <F>mm</F> <.></.> <F>mm</F> she <.></.> <R>put</R> put in <F>uhm</F> her car <F>oh</F> on <.></.> <R>back</R> <.></.> back space.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And she get home. <F>Hm</F> <F>hm</F> she cook <F>hmm</F> <.></.> <F>erm</F> <R>the</R> the lunch. <F>Uhm</F>. <.></.></B>
+<A>O K. Thank you very much <??></??>.</A>
+</task>
+<followup>
+<A><F>Erm</F>. <H pn="B's name">XXX02</H>-<JP>san</JP>, do you sometimes cook yourself?</A>
+<B>Yeah. <F>Er</F> I live alone. <F>Hm</F>. <F>Hm</F>. And <F>hm</F> <R>I</R> <.></.> <F>hm</F> I shopping the food and I cook myself.</B>
+<A><F>Uh-huh</F>. What kind of dishes do <OL>you usually cook</OL>?</A>
+<B><OL><F>Er</F></OL>. <F>Hmm</F>. <R>I</R> <SC>I'm a ve</SC> <SC>I'm a</SC> <F>hm</F> I'm not a good <R>coo</R> <.></.> cooker.</B>
+<A>Really?</A>
+<B><F>Er</F> <F>hmm</F>. But I <F>hm</F> cook myself <F>mm</F> <F>hmm</F> <F>uh</F> <F>hmm</F> <.></.> <F>hm</F> <F>er</F> <.></.> <F>er</F> <.></.> <F>hmm</F> rice and <F>ur</F> <JP>miso</JP> soup and <F>hmm</F> <.></.> <R>beef</R> beef steak,</B>
+<A>Beefsteak? <OL>Good</OL>.</A>
+<B><OL>and</OL> salad.</B>
+<A>A salad. <F>Oh</F>.</A>
+<B><F>Er</F> sometime, <F>uhm</F> I'm cook <F>uhm</F> curry and rice.</B>
+<A><F>Wow</F>.</A>
+<B>And stew.</B>
+<A>Stew. <F>Wow</F>. How did you learn cooking?</A>
+<B><F>Oh</F> <R>I</R> <SC>I'm</SC> I have cook <F>uhm</F> for <.></.> <SC>four</SC> <F>hm</F> three years. <.></.> Yeah.</B>
+<A>You learned them from books or somebody?</A>
+<B><F>Hmm</F>. <..></..></B>
+<A>Yeah. Some people learn cooking watching T V.</A>
+<B>Yeah. <F>Uhm</F>. <R>I</R> <F>er</F> I always <F>hm</F> get from and first time <F>eh</F> watching T V.</B>
+<A><F>Hm</F>. I see. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Thank very much, <F>erm</F> <H pn="B's name">XXX02</H>-<JP>san</JP>. Interview is almost ending. Thank you for coming today.</A>
+<B>Thank you.</B>
+<A><F>Hm</F>. <F>Er</F>. Do you have any plans for today?</A>
+<B><F>Hmm</F>. <F>Uh</F> I will <F>hm</F> <SC>sh</SC> work in library.</B>
+<A><F>Uh</F>. Work?</A>
+<B>Work.</B>
+<A>You have part-time job in the library?</A>
+<B>Yes.</B>
+<A>I see. <F>Hm</F>. O K. All right. Thank very much. Hope you have a good day.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

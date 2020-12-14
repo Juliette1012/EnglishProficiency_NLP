@@ -1,0 +1,181 @@
+<interview>
+<filename>file00029.txt</filename>
+
+<head version="1.3">
+<date>1999-12-16</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi, good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><F>Ah</F> yes. Sure. My name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F>. O K.</B>
+<A>All right. How are you today <H pn="B's name">XXX02</H>?</A>
+<B>I am fine, thank you, and you?</B>
+<A>Great, thank you. <F>Ah</F>. Where do you live <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H>. Do you know <OL><H pn="others2">XXX04</H></OL>?</B>
+<A><OL><H pn="others2">XXX04</H></OL>? What kind of place is it?</A>
+<B><F>Eh</F> near from <F>umm</F> <H pn="others3">XXX05</H> <F>mm</F> about ten minutes <.></.> using train.</B>
+<A><F>Ah</F>. I see. So you grew up in <H pn="others2">XXX04</H>?</A>
+<B><F>Ah</F> no, I <F>um</F> grow up in <H pn="others4">XXX06</H>. Do you know <H pn="others4">XXX06</H>?</B>
+<A>Is it in <H pn="others1">XXX03</H>, too?</A>
+<B>Yes.</B>
+<A><F>Um</F>. I see. Good, good. So, actually you grew up in <H pn="others1">XXX03</H>. O K. And <F>um</F> are you a fresh man now?</A>
+<B>No, I'm in junior.</B>
+<A><F>Um</F>. I see. O K. So tell me what you like about <H pn="school name1">XXX07</H> or you don't like about <H pn="school name1">XXX07</H>.</A>
+<B><F>Er</F>. I like <H pn="school name1">XXX07</H> very much because <F>mm</F> <SC>we are very</SC> many people is very kind and <F>mm</F> we are very passion about baseball or rugby or some kind of sports, <R>we</R> we can sing a song, or <.></.> like some other things. So I like very much <H pn="school name1">XXX07</H>.</B>
+<A><F>Ah</F> that's great. O K. But do you do any sports for yourself?</A>
+<B><F>Ah</F> no, <F>ah</F> I can't do sport but I play bridge.</B>
+<A>You play what?</A>
+<B>Bridge. Do you know bridge, <F>er</F> kind of <.></.> card game, major in America or other countries?</B>
+<A><F>Ah</F> no. Please tell me how to play bridge.</A>
+<B>Bridge play four people, and <.></.> two people is partner, and another two people is partner, and play bridge and <.></.> we play thirty card each person take, and we play bridge. <R>And</R> <..></..> and <.></.> check the score after play.</B>
+<A>I see. How did you get interested in bridge?</A>
+<B><F>Ah</F>. <R>I</R> I know bridge after <.></.> enter the <.></.> <H pn="school name1">XXX07</H>. And I'm interested in bridge after one or two years <.></.> passed play bridge. <.></.></B>
+<A>I see. Good, good. O K. But how often do you come to school?</A>
+<B><F>Um</F> about five days <SC>a week</SC> per week.</B>
+<A>Good. So what do you do when you don't come to school?</A>
+<B><F>Um</F>. <.></.> I just sleep or watching T V. <F>Mm</F>. <..></..> That's all.</B>
+<A>That's it?</A>
+<B>Yes. <F>Mmm</F>. I like sleep <F>mm</F> <SC>in <??></??></SC> in my house.</B>
+<A>I see. Don't you have a part time job?</A>
+<B><F>Ah</F> yes. <F>Ah</F>. I have a <.></.> job. I work in <.></.> <H pn="others5">XXX08</H> as a <.></.> clerk, <F>ummm</F> twice a week, <F>um</F> <.></.> about three hours.</B>
+<A>I see. So, you say you work as a clerk. That means you work for a company?</A>
+<B>Yes.</B>
+<A>What kind of company is it?</A>
+<B><F>Umm</F> <.></.> <F>mm</F> about <F>ah</F> <R>I</R> I introduced from <.></.> circle <.></.> so <.></.> <F>um</F> the company <F>eh</F> <.></.> <R>i</R> is <F>um</F> <.></.> like a <F>umm</F> <??></??> many people came to play <?>bridge</?> so <.></.> <F>um</F> that is <.></.> their companies. <.></.> <F>Um</F> their company do it.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. All right. Thank you. Now, I like to show you one picture. All right? So please describe it. O K?</A>
+<B><.></.> <F>Umm</F> many man, woman are sitting, and they are <?>playing</?> wine, <.></.> <R>and</R> <.></.> and <.></.> the dishes are empty, <SC>but</SC> <F>um</F> and <R>they are very happy because</R> <.></.> they are very happy because <.></.> this <F>eh</F> place is very nice. And it is seven o'clock. And <.></.> some lady <SC>i</SC> play piano there. <..></..> <F>Um</F> a lady <R>e</R> <.></.> eat and <.></.> <F>um</F> <..></..> some couple talking each other. <..></..> <R>A</R> a man <F>eh</F> bring <SC>to</SC> dishes to <.></.> couples. <.></.></B>
+</task>
+<followup>
+<A><F>Um</F>. O K. Thank you very much. O K. <F>Um</F> what kind of restaurant do you usually go to with your friends?</A>
+<B><CO>I usually go to</CO>.</B>
+<A>O K, <H pn="B's name">XXX02</H>. So would you please speak a little bit loud <OL>because we are recording the interview</OL>?</A>
+<B><OL><F>Ah</F> O K, <F>ah</F> O K, O K</OL>. O K.</B>
+<A>Sorry.</A>
+<B>I usually go to <.></.> Italian restaurant, or <H pn="school name1">XXX07</H> Cafeteria. <H pn="school name1">XXX07</H> Cafeteria is very cheap, so I usually use there. <..></..></B>
+<A>Is that the only reason you use that cafeteria?</A>
+<B><F>Ah</F> and many people is there, so we can meet there and we can talk <.></.> there.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Um</F>. That's great. O K. Now let's have a role-play.</A>
+<B><F>Uh-huh</F>.</B>
+<A>All right? O K, here you are. This is your card. And read it. And <F>er</F> when you are ready, I'll start.</A>
+<B><.></.> <F>Ah</F>. O K.</B>
+<A>All right. Hello, may I help you?</A>
+<B>I want to go to New York as soon as possible. So, how to <.></.> go there?</B>
+<A><F>Umm</F>. O K, so, we have several trains, and all trains go to New York. Yeah, take one of them.</A>
+<B>I want to go <SC>as soon as possible</SC></B>
+<A><OL>O K</OL>.</A>
+<B><OL>as fast as</OL> possible.</B>
+<A>All right. So <F>umm</F> you should take an express.</A>
+<B><F>Uh-huh</F>. <F>Um</F> what line is the train?</B>
+<A><.></.> Express?</A>
+<B>Express, yes.</B>
+<A>O K. Today we have three express trains.</A>
+<B>What time is it?</B>
+<A>O K. So, nine o'clock.</A>
+<B>Nine o'clock.</B>
+<A>Ten o'clock and one o'clock.</A>
+<B>O K. And I want to buy a ticket.</B>
+<A><F>Uh-huh</F>.</A>
+<B>How much is the ticket?</B>
+<A><F>Um</F> we have two kind of tickets, fifty dollars and thirty dollars.</A>
+<B>What's the different?</B>
+<A>O K, so fifty dollars is for first class.</A>
+<B><F>Uh-huh</F>. <.></.> I want to buy thirty dollars ticket.</B>
+<A>O K.</A>
+<B><SC>I get</SC> I can get here?</B>
+<A>Sure.</A>
+<B><.></.> O K.</B>
+<A>All right. O K, thirty dollars, please.</A>
+<B><R>Here</R> <OL>here</OL>.</B>
+<A><OL>Here's</OL> the ticket.</A>
+<B>Thank you.</B>
+<A>Thank you very much. O K, have a nice trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Thank you. Role-play is over. And do you like traveling?</A>
+<B>Yes.</B>
+<A>Have you ever traveled in a foreign country?</A>
+<B>Yes, <F>uh</F> I went to Oregon this summer.</B>
+<A>This <OL>summer</OL>?</A>
+<B><OL>This summer</OL>.</B>
+<A><F>Ah</F> <R>wh</R> why did you choose Oregon?</A>
+<B>Many <H pn="school name1">XXX07</H> people <F>um</F> go to there, so I choose there. And <SC>some</SC> <F>er</F> <H pn="school name1">XXX07</H> <F>eh</F> have a plan to go Oregon <R>s</R> so I go there. <F>Um</F> I went <R>there</R> <F>eh</F> there using <SC>plan</SC> this plan.</B>
+<A><F>Umm</F>. O K. So did you find any difference in the life in Japan and the U S?</A>
+<B><F>Ah</F> yes, <F>ah</F>. I think a food is very different. <F>Umm</F>. American food is very sweet. <.></.> And many people ate a lot of food. So that is different, I think.</B>
+<A>I see. But anyhow did you enjoy it?</A>
+<B>Yes, <F>eh</F> <..></..> I went to zoo or <.></.> park. And I went sea. That was very beautiful.</B>
+<A>I see. O K. So where do you want to go next?</A>
+<B>I want to go Europe next time.</B>
+<A>Why?</A>
+<B><F>Umm</F>. I want to see a <R>difference</R> <F>eh</F> difference from America to Europe. <R>And <.></.> I</R> and I want to talk English.</B>
+<A>I see. So then <F>er</F> you want to go to Europe, but how do you make a travel plan?</A>
+<B><.></.> First, <R>I</R> <R>I</R> <SC>I wen</SC> I go to travel center <F>er</F> for example, H I S and <.></.> I ask <R>how</R> how much is the <.></.> plan, ticket or hotel, and I choose <F>er</F> one of that. <.></.></B>
+<A>I see. So, you go to a travel agent.</A>
+<B><F>Uh-huh</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Um</F>. That's good. O K. So now, I'd like to show you one more picture. O K? <.></.> O K. Here you are. This time, please make up a story based on these six parts. Story goes this way. This happened before, so please start your story with "One day last week".</A>
+<B>One day last week, some <R>lady</R> <F>ah</F> lady went to department store. <F>Mm</F> she want to <.></.> buy a necktie. She asked clerk, <.></.> "What is the best <.></.> necktie?". He said, "This is nice.". So she <.></.> choose that one, and she pay money. She want to give some other people, so she <.></.> asked <.></.> clerk, "<SC>Please wrap them</SC> <?>so please wrap that</?>.". So the clerk wrap necktie. After that, <SC>she want to</SC> <R>she wan</R> she wanted to buy <.></.> some other goods, so she ask, "<?>Where</?> <.></.> do I get there?". The clerk said, "You can get <.></.> third floor.". So she <.></.> went third floor.</B>
+</task>
+<followup>
+<A>That's right. All right. Thank you very much. O K, <H pn="B's name">XXX02</H>, did you ever gives a present somebody?</A>
+<B><F>Oh</F> yeah. <.></.> This Christmas <F>ah</F> <F>um</F> <..></..> the <..></..> December twentieth, <R>I have a</R> I have a dance party, so <.></.> we change a present.</B>
+<A><F>Ah</F>. I see.</A>
+<B>I bring little Christmas tree.</B>
+<A>Pardon me?</A>
+<B>I bring a little Christmas tree. I can get <.></.> some shop. <.></.> I get Tokyu Hands.</B>
+<A>I see. Why did you choose it?</A>
+<B>That's a very beautiful, and <.></.> it is cheap.</B>
+<A><F>Hum</F>. I see. Have you ever thought about a catalogue shopping?</A>
+<B><F>Ah</F>. <.></.> <R>I</R> <SC>I had</SC> <SC>I hadn't ever did</SC> I haven't ever did because <.></.> I can put the goods so I don't want to go. <.></.></B>
+<A>I see. So you want to see <?>them</?>.</A>
+<B>Yes.</B>
+<A>Where do you usually go for shopping?</A>
+<B>Usually go to <H pn="others6">XXX09</H> or <H pn="others3">XXX05</H> <.></.> because it is near from my house. <.></.></B>
+<A>I see, good, good very good. But <F>er</F> real Christmas is coming soon.</A>
+<B><nvs>laughter</nvs></B>
+<A>Do you have another plan for this Christmas?</A>
+<B><laughter>So</laughter> <SC>I had</SC> because I don't have girlfriend, so <.></.> I don't have plan.</B>
+<A>You don't have plan?</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Umm</F>. O K, all right. Thank you very much. Interview is almost over. Thank you for coming today.</A>
+<B>Thank you.</B>
+<A>Do you have any plans for this afternoon?</A>
+<B>This afternoon? <F>Mmm</F>. <R>I</R> I have two classes after <.></.> so I have to study.</B>
+<A>You have to study. I see. O K, all right. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>And have a nice day.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

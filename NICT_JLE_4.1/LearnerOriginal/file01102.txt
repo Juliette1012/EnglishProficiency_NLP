@@ -1,0 +1,151 @@
+<interview>
+<filename>file01102.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>female</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>800</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K.</A>
+<B>Nice to meet you.</B>
+<A>Nice to meet you. <F>Ur</F> may I call you <H pn="B's name">XXX02</H>?</A>
+<B><R>Yes</R> <F>ur</F> yes, please.</B>
+<A>O K. <H pn="B's name">XXX02</H>, do you live <SC>near here</SC> near <H pn="others1">XXX03</H>?</A>
+<B>Yes, I live in <H pn="others2">XXX04</H>. <F>Mm</F> <SC>my home</SC> <F>ur</F> it takes about thirty hours to get <H pn="others1">XXX03</H>.</B>
+<A>Thirty hours?</A>
+<B>Yes. <F>Uh</F> <laughter>no, no, no</laughter>. Thirty minutes.</B>
+<A>Thirty minutes? <F>Mhm</F>.</A>
+<B>Yes.</B>
+<A>Where do you live?</A>
+<B>I live in <H pn="others3">XXX05</H>, a small city.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>Can you tell me more about your town?</A>
+<B>Yes. <H pn="others3">XXX05</H> is a very <F>uh</F> small city. <F>Mm</F>. It has a lot of supermarkets and schools and <F>mm</F> cultural facilities like library and concert hall. So <SC>very</SC> <H pn="others3">XXX05</H> is very nice town to live.</B>
+<A><F>Mm-hm</F>. So <R>do you</R> do you live there with your family?</A>
+<B>Yes.</B>
+<A>Can you tell me more about your family?</A>
+<B>Yes. <F>Um</F> I live with my family. My family is <F>ur</F> of five members. <F>Mm</F>. <R>My</R> my father, my mother, myself and my younger sister and my grandmother. My grandmother is my mother's mother. Yes.</B>
+<A>O K. <F>Urm</F> can you tell me about your sister?</A>
+<B>Yes. <F>Um</F> she is a university student, and <SC>she's</SC> now she's <SC>se</SC> in second grade.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Yes.</B>
+<A>So what do you usually do with your sister to enjoy</A>
+<B><F>Oh</F>.</B>
+<A>together?</A>
+<B>I enjoy shopping and going to live house with her. We have very similar taste.</B>
+<A><F>Mhm</F>. I've never been to a live house. What is the live house like?</A>
+<B><F>Mhm</F>. <SC>Live house</SC> in live house, we can enjoy musician's live musical performance. The difference between the concert hall is <F>mm</F> <R>the</R> the live house has a smaller capacity, and we can feel the musician more closer.</B>
+<A><F>Mm-hm</F>. I see. <F>Urr</F> <H pn="B's name">XXX02</H>, do you like sports?</A>
+<B>Yes, I like sports. <F>Ur</F> when I was in university, I belonged to a tennis club.</B>
+<A><F>Mm-hm</F>. Can you tell me more about the <F>urm</F> tennis club you belonged to?</A>
+<B>Yes. <F>Mm</F> in university, I have only <SC>three select</SC> three options to get to join the tennis club. <F>Mm</F>. <SC>The reason I belonged my tennis club is</SC> <F>uh</F> the reason I selected <SC>the</SC> my tennis club I belonged is <SC>the member is very</SC> the member likes drinking very much. So in that tennis club, I enjoyed playing tennis and drinking.</B>
+<A><nvs>laughter</nvs> Sounds you have very <F>urm</F> nice school life. <laughter>O K</laughter>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like to show you a picture, and please describe this picture.</A>
+<B>O K. <F>Urm</F> here is a restaurant. And <SC>a man was</SC> <F>uh</F> a man and a woman is having dinner. A sommelier is showing a wine bottle to a man. A man is try his wine, and he likes it very much. <.></.> So <F>mm</F> <SC>they are</SC> <.></.> <SC>they</SC> the woman and the man will have the sommelier's wine. The will enjoy their dinner.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Did you ever have dinner like this?</A>
+<B>No, I have never have dinner like this.</B>
+<A><F>Mm-hm</F>.</A>
+<B>I hope someday <SC>I can go</SC> I can have dinner like this.</B>
+<A><nvs>laughter</nvs> O K. So tell me about your favorite restaurant.</A>
+<B>Yes. <F>Uhm</F> my favorite cuisine is Chinese. <F>Er</F> in <H pn="others1">XXX03</H>, this town, <F>um</F> there is a my favorite Chinese restaurant. <F>Mm</F>. <SC>It's a restaurant is a little ex</SC> the restaurant is a little expensive, but the food is very good. So I sometimes go there.</B>
+<A><F>Mm-hm</F>. I see. You said you like drinking. So <F>ur</F> when you get drunk, what happens?</A>
+<B><F>Ohh</F> <SC>I</SC> <SC>when I were</SC> when I drunk, I get very talkative and very emotional. So <SC>I</SC> when I drink a lot, I talk and talk and talked, and suddenly cry. So my friends <R>ma</R> may be annoyed my action.</B>
+<A><nvs>laughter</nvs> <laughter>O K</laughter>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, I would like to try a role play.</A>
+<B>Yes.</B>
+<A>O K? <F>Urm</F> please read it, and when you are ready, I'll start.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading for a while.</ctxt>
+<A>Ready?</A>
+<B>O K.</B>
+<A>Can I help you?</A>
+<B>Yes. <F>Erm</F> I'd like to go to New York so please tell me the train fare to New York.</B>
+<A><F>Mhm</F>. It depends on the trains. We have three kinds of trains.</A>
+<B><F>Oh</F> <SC>tell me</SC> please explain me the three kinds.</B>
+<A><F>Oh</F> we have super express train, express train and local train.</A>
+<B>Local train. <F>Urm</F> I'd like to go there as soon as possible. So I want to buy a ticket for I can get New York <SC>most</SC> <F>ur</F> <F>mm</F> the most earlier.</B>
+<A><F>Mm-hm</F>. That's super express train.</A>
+<B>Super express train.</B>
+<A><F>Mm-hm</F>.</A>
+<B>When will the train starts this station?</B>
+<A><F>Urm</F> in fifteen minutes.</A>
+<B>In fifteen minutes. I see. And how long the train will take to get New York?</B>
+<A><F>Urm</F> thirty minutes.</A>
+<B>Thirty minutes. I see. <F>Um</F> how much that ticket price?</B>
+<A><F>Ur</F> seventy five dollars.</A>
+<B>Seventy five dollars. O K. <R>I</R> I'd like to buy the ticket.</B>
+<A>O K. Here is the ticket.</A>
+<B><OL><?>Here is</?> money</OL>.</B>
+<A><OL><F>Ur</F> <laughter>have a</laughter></OL> nice trip to New York.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>, <F>urm</F> have you ever been to New York?</A>
+<B>Yes. <F>Ur</F> last year I went there with my friends.</B>
+<A><F>Mm-hm</F>. Can you tell me about your trip?</A>
+<B>Yes. <F>Urm</F> the purpose of our trip was to enjoy Montreal Jazz Festival in Canada. <F>Mm</F>. Some of my friends like <R>jazz</R> jazz music very much. And the they planned a trip to enjoy Montreal Jazz Festival. So I joined them, and go Montreal together with them. <F>Mm</F> about two weeks, we enjoyed musical festival very much. And when we returned to Japan, <SC>we have</SC> we had to transit the airplane, and <SC>we had to accommodation</SC> <R>we</R> we had to accommodate. So we stayed in New York for two days. Yes. And in New York, we enjoyed some museums and some musical jazz lives and <.></.> <F>mm</F> we went World Trade Center, too. So <SC>it</SC> I enjoyed there very much.</B>
+<A><F>Oh</F> before the tragic event, right?</A>
+<B>Yes.</B>
+<A><F>Mm-hm</F>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, I'd like to show you another picture. <.></.> This is the picture story, and this happened last week. So please make a story, and start with, "One day last week," O K?</A>
+<B>O K.</B>
+<A>Please start from here like this.</A>
+<B>One day last week, a woman went to the department store because she wanted to buy her birthday present for her husband. She selected a necktie. It was very nice. <R>She</R> she bought the necktie. It was very expensive. <SC>When she <.></.> get she</SC> when she was going to get out the department store, she finds that there was a final sale <F>mm</F> in the department store. The shoes and clothes are very inexpensive. So <R>she</R> she enjoyed <R>shopping for</R> shopping for herself. So she bought a lot of clothes and shoes. <SC>So she</SC> <..></..> of course she bought a good birthday present. <F>Mm</F> besides it, <SC>she bought</SC> she enjoyed shopping for herself.</B>
+<A><F>Mm-hm</F>. O K.</A>
+</task>
+<followup>
+<A><F>Ur</F> <H pn="A's name">XXX01</H>, when you buy a present for someone, <F>ur</F> how do you decide which one to buy?</A>
+<B><F>Oh</F> when I buy a birthday present, I imagine if I were that person I want to give present. And <SC>I select my present <F>mm</F> <.></.> <R>he</R> <.></.> he</SC> <F>mm</F> I want make him to be happy so I select present <R>he wi</R> he will be pleased.</B>
+<A><F>Mm-hm</F>. I think that's a <R>good</R> good idea.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <H pn="B's name">XXX02</H>, this is almost end of the interview.</A>
+<B>Yes.</B>
+<A><F>Urm</F> do you have any plans after work today?</A>
+<B>After work.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Yes. I had to work maybe till eight or nine.</B>
+<A><laughter>Eight or nine</laughter>?</A>
+<B>Maybe. <F>Mm</F>. Last week, <SC>we</SC> <SC>I had</SC> <SC>we were</SC> I was <?>busy</?> till eight or nine. Maybe today, too. So after work, I got home, and <R>I had</R> I had to prepare for a presentation I had to show tomorrow.</B>
+<A><F>Mm-hm</F>. I see. Sounds like a very busy day.</A>
+<B>Yes.</B>
+<A>But please take care of yourself. <OL>O K</OL>?</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

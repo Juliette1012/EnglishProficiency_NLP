@@ -1,0 +1,166 @@
+<interview>
+<filename>E_file00382.txt</filename>
+
+<head version="1.3">
+<date>2001-03-13</date>
+<sex>male</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <R><H pn="B's name">XXX02</H></R> <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. It's nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>O K. So, <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F>. I live in <H pn="others1">XXX03</H> near <H pn="others2">XXX04</H>.</B>
+<A><F>Wow</F>. It's in central <H pn="others3">XXX05</H>.</A>
+<B>Yes.</B>
+<A><F>Err</F>. O K. Did you grow up there?</A>
+<B>No. <R>I</R> <R>I</R> <F>er</F> I grew up <F>er</F> in Toyama Prefecture. It's a northern part of Japan.</B>
+<A><F>Hm</F> <F>hum-huh</F> <F>hm</F> <F>well</F>. When did you <v_fml odr="1" crr="move">moved</v_fml> to <H pn="others1">XXX03</H>?</A>
+<B><F>Er</F>. I moved to <H pn="others1">XXX03</H> when I was <F>er</F> thirty-five or <R>thirty-s</R> <F>ur</F> thirty-seven years old.</B>
+<A><F>Hum-huh</F>. How did you like <H pn="others1">XXX03</H>?</A>
+<B><F>Er</F>. It's a very <F>ee</F> convenient <n_num odr="1" crr="place"></n_num>. Because <SC>it's</SC> <F>er</F> it is <F>uu</F> <at odr="1" crr="the"></at> center of <H pn="others3">XXX05</H>. <SC>And <F>er</F> I</SC> and <F>ur</F> convenient to commute to my company.</B>
+<A><.></.> O K. <R>Wh</R> what is your job?</A>
+<B><F>Er</F>. <SC>My</SC> <F>ee</F> <R>I</R> <F>uu</F> I'm working for <F>er</F> <H pn="company name1">XXX06</H>.</B>
+<A><F>Hum-huh</F>. <.></.> I see. <F>Mh-hmm</F>. Are you busy these days?</A>
+<B><F>Er</F>. Recently, I am very busy. Yeah. But, now, <SC>I'm not</SC> <F>uu</F> <F>ee</F> <F>ur</F> my job is not directly connected with <at odr="1" crr="the"></at> stock market. <F>Er</F>. Now, I'm in charge of <F>er</F> company in-house training.</B>
+<A><F>Oh</F>. Can you explain that a little bit more?</A>
+<B>Yeah. <F>Er</F>. <R>I'm</R> <F>uu</F> <F>ee</F> I'm working in the human resource department. So <F>er</F> I <F>ee</F> have to <F>uuu</F> deal with the <F>err</F> in-house training for the new workers or <SC>I</SC> <F>er</F> senior workers.</B>
+<A><F>Hum-huh</F>. I see. O K. Then, when you are free, what do you like to do?</A>
+<B><F>Er</F>. I like watching movies.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah. <SC>So</SC> but <R>I</R> <R>I</R> I don't have enough time to go to the theater. So I usually watch <F>ee</F> video <n_num odr="1" crr="tapes">tape</n_num> or <F>er</F> <n_num odr="2" crr="D V Ds">D V D</n_num>.</B>
+<A>I see. What did you see recently?</A>
+<B><F>Er</F>. <CO>Recently, <F>ee</F> I saw the</CO>. <F>er</F> <F>errr</F> <F>er</F> <laughter>I forgot the name</laughter> of the <F>err</F> movie. <F>Er</F>. <R>I s</R> I saw <at odr="1" crr="">the</at> "Autumn in New York".</B>
+<A><F>Wow</F>. O K. How was it?</A>
+<B><F>Er</F>. It's a featuring <F>err</F> <SC?>it's</SC?> <F>err</F> Richard Gear.</B>
+<A><F>Ah</F> <F>hmm</F>.</A>
+<B><R>It's a s</R> it's a story of <at odr="1" crr="a">the</at> young <F>er</F> woman and a middle-age <SC>men</SC> <F>er</F> man.</B>
+<A><F>Ah-huh</F>.</A>
+<B>It's a kind of love story.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. Good. O K. So, now, first of all, I'm gonna show you a picture.</A>
+<B><F>Hum-huh</F>.</B>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>And, please describe this picture.</A>
+<B>Yeah. <F>Er</F>. <pn_lxc odr="1" crr="This">That</pn_lxc> <F>ur</F> picture seems to <F>ur</F> be <F>eh</F> a <F>err</F> residential area. <F>Err</F>. There is a house, <F>uu</F> and there is <F>er</F> some <F>eh</F> women and <R>s</R> some children. And <F>er</F> a man is running <R>alo</R> <F>er</F> along the road. And also, <F>er</F> <F>err</F> there are <F>eh</F> several animals, <F>uu</F> <F>er</F> and also, <F>er</F> a man <F>er</F> sitting <prp_lxc1 odr="1" crr="on">in</prp_lxc1> <at odr="2" crr="a">the</at> bench <F>ee</F> is reading the newspaper. And it's a very <F>ee</F> <F>er</F> calm and a very comfortable residential area. <F>Er</F>. There is no <F>er</F> traffic. <F>Ur</F>. Only one car is parked <F>eh</F> <prp_lxc1 odr="1" crr="on">along</prp_lxc1> the road. And <F>ee</F> the weather is <F>uu</F> fine, and <SC>the sunshine</SC> the sun is shining. And <SC>the</SC> it <mo_lxc odr="1" crr="">'s</mo_lxc> <F>uu</F> <SC>seems <F>er</F> smiling</SC> seems <F>uu</F> making <at odr="2" crr="a"></at> smile. And also, <F>er</F> the boys are <F>er</F> playing with <at odr="1" crr="a">the</at> ball, and there are several trees. And the <F>er</F> lawn is green.</B>
+</task>
+<followup>
+<A><F>Hum</F>. O K. Good. All right. So <SC>in</SC> <F>er</F> here is the guy reading the news paper.</A>
+<B><F>Ah-huh</F>.</B>
+<A>So, <F>um</F> recently, what kind of news did you get interested in?</A>
+<B><F>Er</F>. <OL>Recently, <F>er</F> yes</OL>.</B>
+<A><OL><?>Highlight the</?> news</OL>.</A>
+<B><R>In</R> in my case, I'm now interested in Japanese politics, especially in the <F>er</F> movement of the Prime <SC>Mis</SC> Minister Mori. <F>Er</F>. He said <F>uu</F> <F>uu</F> he <R>di</R> didn't say <F>ee</F> <SC>he <SC>wou</SC> will</SC> he would resign. But <F>er</F> <SC>around the <F>er</F> Mori's</SC> <F>ee</F> the man <F>eh</F> around <at odr="1" crr="">the</at> Mori said he said <R>he</R> he would resign. So it's <at odr="1" crr="">a</at> very <F>eh</F> complicated and a little bit <F>er</F> kind of <F>er</F> very funny situation.</B>
+<A><F>Hum-huh</F> <F>well</F>. It's true. So you have a lot of complaints about Mister Mori?</A>
+<B><F>Oh</F>. <R>I</R> <.></.> I don't complain about Mister Mori. But <R>I</R> I complain about the system of Japanese politics. And, especially, <F>er</F> the system of the <F>er</F> L D P, Japanese Liberal Democratic Party.</B>
+<A><F>Huh-hum</F>. <SC>What</SC> <F>urm</F> <SC>what's the most</SC> <F>uh</F> what's the biggest problem in the L D P, do you think?</A>
+<B>I think <SC>it</SC> there is a very strict seniority system. So the number of the <F>er</F> winning <n_lxc odr="1" crr="seats"></n_lxc> of the election is <F>er</F> very important in the L D P system. <R>So</R> so young <n_num odr="1" crr="politicians">politician</n_num> <F>er</F> <F>er</F> can't get a high position.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hmm</F>. That's true. O K. Good. All right, all right. Now, <SC>we could do</SC> we're gonna do a role play.</A>
+<B><F>Hum-huh</F>.</B>
+<A>O K?</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K?</A>
+<B>Yeah.</B>
+<A>Please read this card. And, when you are ready, I will start.</A>
+<B><F>Hum-huh</F>. I just read this?</B>
+<A><F>Hum-huh</F>.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Are you ready?</A>
+<B>Yeah.</B>
+<A>Hello?</A>
+<B>Hello? <F>Er</F>. This is <H pn="B's name">XXX02</H>. <F>Er</F> <F>er</F>. Are you <F>errr</F> <R>Mi</R> Miss Suzuki?</B>
+<A>O K. Yes, this is she. <F>Mh-hmm</F>.</A>
+<B><F>Oh</F>. Really? <F>Oh</F>. <R>S</R> <F>oh</F> sorry, <R>I</R> I couldn't <F>uu</F> go to your party last night. <F>Ur</F>. So <F>er</F> it's a very <F>ee</F> good dinner party, but <F>er</F> I couldn't <F>ee</F> go <.></.> there. <F>Ur</F>. Because my wife <F>uu</F> <F>ur</F> got sick, and she <F>ee</F> got a high <n_num odr="1" crr="fever">temperature</n_num>. So <F>er</F> I <v_tns odr="1" crr="had to stay">have to <F>uu</F> stay</v_tns> in <nvs>sniff</nvs> <F>mm</F> my house, and <SC>I have to take care of her</SC> <F>er</F> I had to take care of her. So <nvs>sniff</nvs> <F>er</F> I <mo_lxc odr="1" crr="couldn't">didn't</mo_lxc> go to your party.</B>
+<A><F>Oh</F>. But, you know, it was a surprise party for you. And <R>we</R> we were waiting for you.</A>
+<B><F>Oh</F>. Sorry. <F>Err</F> <F>er</F>. I <v_lxc odr="1" crr="wanted">'d like</v_lxc> to <R>g</R> <F>ee</F> go to your party, but <F>er</F> it <v_tns odr="2" crr="was">'s</v_tns> a very <F>ee</F> <F>err</F> urgent situation. And <F>uu</F> <F>er</F> she <F>er</F> <F>ee</F> suddenly <F>ee</F> <F>ee</F> got high <n_lxc odr="1" crr="fever">temperature</n_lxc>, and she <F>ee</F> was fainted. So, <F>er</F> first, I had to take her to the hospital. So <F>er</F> I didn't have time to call you.</B>
+<A>I see. O K. Is she getting better now?</A>
+<B>Yeah. <F>Er</F>. <R>She is</R> <F>er</F> she is getting better and better. So <F>ur</F> I'd like to go to your party. So, <SC>if you have</SC> <F>er</F> if you organize <at odr="1" crr="a">the</at> party, so <F>er</F> I'd like to <F>eh</F> go to your party next time.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>I will.</A>
+<B><F>Oh</F>. Thank you.</B>
+<A><laughter>O K</laughter>. All right. So <F>um</F> <F>em</F> I'd like to see you sometime,</A>
+<B><F>Ah-huh</F>.</B>
+<A><F>mh-hmm</F> next week.</A>
+<B>O K.</B>
+<A>O K. Thank you very much.</A>
+<B>O K. See you.</B>
+<A>Bye. O K. This is the end of the role play.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>Good. So, did you ever have the same experience like this before? You have an important meeting, and, all of a sudden, <OL>you couldn't go</OL>.</A>
+<B><OL>Yeah, yeah</OL>. I had <at odr="1" crr="the">a</at> <SC>s</SC> <F>eh</F> experience. Yeah. <F>Er</F>. <R>I</R> <F>ee</F> I <v_tns odr="1" crr="had">have</v_tns> a reservation, or I <v_tns odr="2" crr="had">have</v_tns> <F>er</F> an appointment. <F>Mm</F>. But I couldn't go <.></.> there suddenly. <CO>Or</CO>. Yeah.</B>
+<A><F>Hum-huh</F>. How did you handle the situation?</A>
+<B>Yeah. Usually, <R>I</R> I'd like to <F>uu</F> <R>get</R> <F>ee</F> get in touch with someone <o_lxc odr="1" crr="by appointment">in <R>the</R> the appointment</o_lxc>. <F>Ur</F>. But, <F>uu</F> if I <v_tns odr="1" crr="have">had</v_tns> <at odr="2" crr="">the</at> time to call or so, <R>I</R> <F>ee</F> <SC>I usually</SC> <F>ee</F> <SC>I have to <F>uu</F> <SC>apo</SC> <SC>make apologize</SC> <F>uh</F> <F>uh</F> <F>mm</F> make</SC> <R>I</R> I have to apologize.</B>
+<A><F>Mh-hmm</F>. <??></??>.</A>
+<B>Yeah.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K. Good. Thank you. All right. So, lastly, <?>right</?>. One more picture, I'd like to show you.</A>
+<B><F>Hum-huh</F>.</B>
+<A>O K.</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>This one.</A>
+<B>Yeah.</B>
+<A>Right. O K. This is a story that happened last week.</A>
+<B><F>Hum-huh</F>.</B>
+<A>O K. So, please make up your own story from one to six. And starting the story with "One day last week".</A>
+<B>O K. Shall I start?</B>
+<A><F>Hum-huh</F>.</A>
+<B>One day last week, <F>erm</F> <.></.> <R>I was</R> <F>er</F> I was driving my car <F>er</F> <prp_lxc1 odr="1" crr="at">in</prp_lxc1> a high speed. <F>Ur</F>. <R>And</R> <F>ee</F> and also, there <v_tns odr="1" crr="was">is</v_tns> a <F>er</F> bike. <F>Uu</F> <F>er</F>. A man who <v_tns odr="1" crr="was driging">is driving</v_tns> the bike <F>uu</F> making a <R>ph</R> <F>er</F> phone call <prp_lxc1 odr="2" crr="with">by</prp_lxc1> his mobile phone. And, <SC>maybe, she</SC> <F>er</F> maybe, he <v_tns odr="1" crr="was calling">is calling</v_tns> to <F>uu</F> his girlfriend. And, after that, <F>erm</F> <R>su</R> suddenly, <F>er</F> <R>he</R> <F>er</F> he dropped his mobile phone, and <F>er</F> the phone hitted my car. And <F>eh</F> the phone <.></.> was broken by hitting. So, after that, <F>uu</F> <o_odr odr="1" crr="He and I">I <F>ee</F> and he</o_odr> <F>eh</F> <v_tns odr="2" crr="talked">talk</v_tns> about it, and he <F>eh</F> got angry with <F>ur</F> <pn_lxc odr="3" crr="my"></pn_lxc> breaking a mobile phone. <CO>And also <F>er</F> <R>bre</R> <F>er</F> breaking</CO>. <F>Er</F> <F>oh</F>. So, <SC>about</SC> he was angry at the <F>er</F> breaking his <F>eh</F> bike. Yes. But I think that <F>ur</F> the reason <SC>for</SC> <F>er</F> why <F>er</F> that accident <v_vo odr="1" crr="happened">was happened</v_vo> <F>ur</F> <v_tns odr="2" crr="was">is</v_tns> <F>uu</F> <F>ur</F> <SC>he</SC> that <SC>he is</SC> <F>ur</F> he was <F>uu</F> making a phone call with driving. So <F>er</F> <.></.> I just <F>uu</F> listened <prp_lxc2 odr="1" crr="to"></prp_lxc2> <F>uu</F> what he was saying. And, after that, <at odr="1" crr="a">the</at> policeman came to the place, and <F>er</F> he <v_lxc odr="2" crr="asked">listened</v_lxc> <F>ur</F> what <R>w</R> was happening. And I explained that <F>uu</F> <R>the m</R> <F>uu</F> the man <F>uu</F> driving <F>er</F> a bike <F>ee</F> <R>made</R> made a phone call, <F>ur</F> so <SC>that accident was</SC> <F>uh</F> that accident happened. <R>S</R> <SC>so</SC> <F>er</F> and <F>ee</F> the policeman <F>er</F> <F>ur</F> <v_tns odr="1" crr="understood">understand</v_tns> what I said. <F>Uu</F>. So, <F>ur</F> after that, <F>er</F> <F>err</F> <R>the bro</R> the broken bike was carried <av_lxc odr="1" crr="away"></av_lxc> by <at odr="2" crr="a">the</at> truck and <F>uu</F> the man who <F>uu</F> drove the bike <F>uu</F> <SC>watch</SC> <F>uu</F> <v_cmp odr="3" crr="watched the bike being carried">watched <F>uu</F> the bike was carried</v_cmp> <av_lxc odr="4" crr="away"></av_lxc> by <at odr="5" crr="the"></at> truck. <F>Hm</F>. That is my story.</B>
+</task>
+<followup>
+<A><F>Hum</F>. O K. Good. O K. So, <F>oh</F> you know, recently, the number of <F>er</F> traffic accidents is growing. <F>Er</F>. Why is that?</A>
+<B><.></.> Yeah. I think there are several reasons. Yeah. One reason is that <F>er</F> like <?><pn_lxc odr="1" crr="this">a</pn_lxc></?> story, <F>ee</F> so many drivers <F>eh</F> <R>u</R> use a mobile phone with driving. And also, <F>er</F> I think <F>uu</F> there are some <F>ee</F> people who <F>uu</F> drink <n_lxc odr="1" crr="alcohol"></n_lxc> and drive. That is a very big <F>eh</F> problem, I think. Yeah.</B>
+<A>O K. Yeah. So, <F>hmm</F> <SC>what do you think how to</SC> <F>erm</F> <.></.> how can we prevent traffic accidents?</A>
+<B><F>Well</F>. I think it's very difficult <laughter>to</laughter> <F>ur</F> deal with the problem. <F>Er</F>. Someone said that <F>er</F> <F>er</F> we <v_cmp odr="1" crr="had to impose">had <F>er</F> impose</v_cmp> <F>er</F> <at odr="2" crr="a"></at> strict rule on <R>traffic acci</R> traffic <n_num odr="3" crr="accidents">accident</n_num>. <CO><?>Or</?></CO>. <SC>So</SC> and also, I think <F>uu</F> the education of the <F>er</F> driving is very important. So <nvs>sniff</nvs> <F>ur</F> I think <F>uu</F> we <F>ee</F> <v_agr odr="1" crr="need">needs</v_agr> a kind of <F>er</F> <at odr="2" crr="an"></at> education system for <F>er</F> people who have a <o_lxc odr="3" crr="driver's license">driving license</o_lxc>.</B>
+<A><F>Huh</F>. <SC>That's</SC></A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>yeah, that's a good point. O K. All right. Thank you very much. <F>Erm</F>. We are almost <SC>ending</SC> at the end of this interview.</A>
+<B><F>Ah-huh</F>.</B>
+<A>And, what are you going to do after this interview?</A>
+<B><F>Er</F>. Yeah. I'll go back to my house. Yeah. <R>I</R> <R>I</R> I haven't <R>eaten</R> <F>uh</F> eaten dinner yet, so I'd like to eat <OL><??></??></OL>.</B>
+<A><OL><F>Uh-huh</F> are you gonna make it</OL> by yourself? <CO>Or</CO>.</A>
+<B>No. I think <F>er</F> I'll buy something <SC>in a</SC> at a convenience store. <nvs>laughter</nvs></B>
+<A><laughter>O K, please try to buy something healthy</laughter>.</A>
+<B><F>Oh</F>. Yeah.</B>
+<A><laughter>O K</laughter>.</A>
+<B>I'll buy some healthy food.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

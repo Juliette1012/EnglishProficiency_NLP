@@ -1,0 +1,109 @@
+<interview>
+<filename>file00095.txt</filename>
+
+<head version="1.3">
+<date>2000-06-19</date>
+<sex>female</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>electric shop</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><SC>My nay is</SC> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please.</B>
+<A>O K, <H pn="B's name">XXX02</H>, did you have lunch?</A>
+<B>Yes, I had lunch <F>mm</F> <R>two</R> two hours ago.</B>
+<A>What did you eat?</A>
+<B>So <F>mm</F> today, I got up <F>mm</F> eleven <laughter>o'clock</laughter> so I had both breakfast and lunch <F>mm</F> <R>at</R> at the same time. I had cornflake and chocolate <F>mm</F> <R>cake</R> small cake.</B>
+<A><F>Mm</F>. I see, O K. <H pn="B's name">XXX02</H>, do you have any hobbies?</A>
+<B>Yes, <F>mm</F> <F>well</F>. <R>I</R> I like to <F>mm</F> exercise play ballgames, so these days, I play aerobics twice a week in the sports center near my house.</B>
+<A>I see, what do you like best about aerobics?</A>
+<B><F>Mm</F>. So now <R>I</R> I go on a diet, yes, so, and I can learn <R>what</R> what exercise is <F>mm</F> good for some muscle so I can learn <F>mm</F> how is good for my body.</B>
+<A>I see. O K, then, do you live with your family?</A>
+<B>Yes, I live with my parents and my younger brother.</B>
+<A>I see. Please tell me about your younger brother.</A>
+<B>Yes. My younger brother is four-year university student in <H pn="school name1">XXX03</H> University and <R>he is</R> <F>mm</F> <F>ah</F> <SC>he</SC> it was searching for job two or three months ago. Fortunately, he got a job, now <SC>he have</SC> <SC>has</SC> he has a lot of time <F>mm</F> <R>to</R> to do something so for example <R>he</R> he likes to play sports, too. So <SC>he was</SC> <F>ah</F> <SC>he is</SC> <F>mm</F> <F>er</F> he goes to the beach <SC>to lai</SC> to be <R>life</R> life <??></??> <F>mm</F> to <??></??>. So <F>mm</F> four times a week.</B>
+<A><F>Mm</F>. I see. How did you feel when he <R>suc</R> successfully found his job?</A>
+<B><F>Ah</F> <F>mm</F>.</B>
+<A>How did you feel as a sister when he found a job?</A>
+<B>Yeah, <F>mm</F>. So <R>he</R> <R>he</R> he is so lucky. Because <SC>now is</SC> <F>mm</F> now it is difficult to get a job but <F>mm</F> he studies Economics in his university so he got a job <SC>he</SC> <F>mm</F> <SC>it is <R>useful</R> useful</SC> <F>mm</F> it is good to finding a job, I think.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Mm</F>. O K, thank you. Now, I'm going to show you a picture. O K, please describe it to me.</A>
+<B><F>Mm</F> <F>ee</F>. This is a audio shop so there is several audio sets and <R>vi</R> <R>video</R> <F>mm</F> video and cameras, and telephones and faxes on the shelf. Yeah, I can see two television on the shelf. <F>Mm</F>. One is small, other is <R>big</R> big one. The <R>clo</R> clock is on the wall and <SC>the staff</SC> <F>mm</F> shop staff is explain to customer about products.</B>
+</task>
+<followup>
+<A>O K, great, Thank you, <H pn="B's name">XXX02</H>. <F>Er</F> we see two T V sets here, but do you like to watch T V?</A>
+<B>Yes, I like very much <nvs>laughter</nvs></B>
+<A><F>Oh</F>. I see. Please tell me about your favorite T V program.</A>
+<B>Yes <F>er</F>. <SC>I</SC> my favorite T V program is American comedy, <nvs>laughter</nvs>, so for example "Who has Beverly <F>mm</F> Hill" so, <F>mm</F> <SC>it is</SC> <F>mm</F> <R>when</R> when I was a child, <F>mm</F> I saw the "Full House", the American comedy at the first. <F>Er</F>. <SC>It is</SC> it was so fun for me. So now, I enjoy watching this program. And <SC>it is</SC> I think it is good, it is useful to learn English.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mm</F> that's good. O K, thank you <H pn="B's name">XXX02</H>. Now, Let's do a role-play. Please read this card and when you're ready, I'll start the conversation.</A>
+<ctxt>The examinee is reading the card and thinking of what to say.</ctxt>
+<A>O K?</A>
+<B>Yes.</B>
+<A>O K, hello, how can I help you, miss?</A>
+<B>Yes, <F>mm</F> I want to go to New York by train and today, so what time <SC>the train is</SC> <F>er</F> train <SC>leave</SC> will leave today?</B>
+<A><F>Well</F> we have two different kinds of trains.</A>
+<B>Yes.</B>
+<A>And Local will leave in ten minutes and the Express will leave <F>er</F> in one hour and thirty minutes.</A>
+<B>So, <F>er</F> <R>I want to</R> <F>arr</F> I want to arrive New York as soon as possible so <F>mm</F> <R>what</R> what time the Express arrive New York?</B>
+<A>What time? <F>Er</F>. Seven.</A>
+<B>Seven?</B>
+<A><F>Mm</F>.</A>
+<B>And what time <SC>does the Lo</SC> will the Local arrive New York?</B>
+<A>Six forty-five.</A>
+<B>O K, then <F>er</F> <R>I</R> I get a local ticket, please.</B>
+<A>O K, twenty dollars.</A>
+<B><F>Er</F>. Thank you. <JP><F>eeto</F></JP> <R>What</R> <R>what</R> <F>mm</F> <JP>nandarou</JP> What number of station can I go?</B>
+<A>Number three. Platform number three.</A>
+<B>Thank you.</B>
+<A>O K, thank you, have a nice trip.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>Thank you. <F>ah</F> Have you ever been to New York?</A>
+<B>Yes, one time, so <SC>three</SC> <F>ah</F> two years ago <R>I</R> I went to New York with my company's friends and I enjoyed two musical and one opera.</B>
+<A>Really?</A>
+<B>Yes. And went to <F>mm</F> <R>shopping</R> shopping in some <SC>reasonable products</SC> <F>ah</F> there are reasonable products, there are a lot of shops so <?>the servant</?> <F>ah</F> <.></.> <JP>nan te iun darou</JP> <F>er</F> <R>it</R> it takes two hours by bus from New York so <F>mm</F> it is not expensive products. There is <R>so</R> <F>mm</F> <R>so</R> so I enjoyed shopping very much with my friend.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Oh</F> I see, that's nice. O K, thank you, <H pn="B's name">XXX02</H>. Now I'm going to show you a picture. Please make a story using <.></.> these six pictures.</A>
+<ctxt>The examinee is looking at the pictures and thinking of what to say.</ctxt>
+<A>O K? O K. <F>Erm</F>. Please make a story using these pictures and please start with "One day last week".</A>
+<B>One day last week, <.></.> <F>mmm</F> <SC>Kei</SC> she's Keiko. <nvs>laughter</nvs> <R>Kei</R> <SC>Keiko <F>mm</F> <.></.> is</SC> <.></.> Keiko went to cook dinner but <SC>Keiko <F>mm</F> watching</SC> <F>ah</F> Keiko opened refrigerator. <R>she</R> She found that there is nothing to cook. So she went to the supermarket by car. She <.></.> but she choose <F>ee</F> steak and eggs and soup <F>mm</F> and some kind of, food she bought. And she <F>ee</F> <R>at</R> at the <R>ca</R> cashier, she paid for some foods and she put into a car some <F>mm</F> <F>ah</F> <R>two</R> <R>two or three pieces of</R> <F>ah</F> two or three bags include foods. After that, she cook steak and egg and a soup <F>mm</F> for her family.</B>
+</task>
+<followup>
+<A>O K, thank you <H pn="B's name">XXX02</H>. Now can you compare a small local supermarket with a big department store?</A>
+<B><F>Mm</F>. So <.></.> <F>um</F>. Some big department store give us <F>ah</F> so many products <.></.> <F>mm</F> but <F>mm</F> local supermarket <.></.> take <F>ah</F> <SC>loc</SC> at a local supermarket I can get <F>er</F> <.></.> <F>mm</F>. So <R>if</R> if I ask the staff, "<R>ple</R> please <F>mm</F> <.></.> more please cheaper, <SC>the</SC> <R>this</R> this <F>mm</F> vegetable, please cheaper" so the staff is "O K" so I can get <F>mm</F> <SC>more</SC> less expensive food I can get. So but some department store I cannot do that.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K, that's great. <F>Oh</F>. I agree. Thank you, <H pn="B's name">XXX02</H>. <F>Erm</F> now, we're almost at the end of the interview but what are you going to do this evening?</A>
+<B><F>Mm</F>. So fortunately I have no <laughter>plan</laughter> so today I <SC>go straight home</SC> <F>ah</F> go straight my boyfriend's house and <R>I</R> <SC>I will</SC> I probably do laundry and clean <laughter>his room</laughter></B>
+<A><F>Oh</F>. I see, and cook?</A>
+<B>And cook? <F>um</F> Maybe <R>he</R> he <F>mm</F> <R>will not come back</R> will not come back earlier so maybe <SC>I</SC> after I clean and do laundry <R>I</R> I go back home. <nvs>laughter</nvs></B>
+<A>O K, thank you very much for coming today.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

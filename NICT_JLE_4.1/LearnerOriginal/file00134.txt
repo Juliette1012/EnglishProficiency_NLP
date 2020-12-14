@@ -1,0 +1,300 @@
+<interview>
+<filename>file00134.txt</filename>
+
+<head version="1.3">
+<date>1999-12-14</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>520</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>map</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Ah</F> My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>O K. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K. So, <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Uhm</F> I'm fine, but I'm very tired.</B>
+<A><F>Ah</F> why is that?</A>
+<B>Because <F>eh</F> I had to write a report,</B>
+<A><F>Ah-huh</F>.</A>
+<B>and I <R>hand it</R> hand it in today.</B>
+<A>I see. <F>Ah</F> what kind of report did you write?</A>
+<B><F>Erm</F> I'm taking the class. The class is for the students who want to go to study abroad, so <SC>I</SC> <laughter>we had to</laughter> write report in English.</B>
+<A><F>Ah</F> I see. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>exciting.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>, <F>ah</F> so, <H pn="B's name">XXX02</H>, can you tell me more about yourself?</A>
+<B>O K. <F>Ah</F> I'm third year of <H pn="school name1">XXX03</H></B>
+<A><F>Hu-huh</F>.</A>
+<B>and <F>eh</F> my major is cross cultural communication. I like studying cultures, and different cultures from Japanese cultures.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And, <F>uhm</F> I like traveling as well. <F>Uh</F> <SC>The</SC> <SC>this year</SC> this March, I went to Vancouver, Canada, <OL>and</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>I have a host family <OL>there</OL>.</B>
+<A><OL><?>Great</?></OL>.</A>
+<B>And <R>I</R> I stayed there for six weeks,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and I did a volunteer work at pre-school.</B>
+<A>I see. <OL><F>Ah</F></OL>.</A>
+<B><OL>I</OL> played with kids. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><?>No</?>, kids plays with me. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. So, <F>ah</F> did you like Canada?</A>
+<B>Yeah.</B>
+<A><F>Hum</F>.</A>
+<B>It's very safe country,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so I could walk at night alone.</B>
+<A>I see. So tell me, <F>ah</F> <R>how</R> how is Canada different from Japan?</A>
+<B><F>Uhm</F> I think not so different, because <F>mh</F> Japan is recently Americanized,</B>
+<A><F>Hum</F>.</A>
+<B>so lots of international things in Japan.</B>
+<A><F>Hu-huh</F>.</A>
+<B>For example, fast food <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>clothes, something like <OL>that</OL>.</B>
+<A><OL>You're right</OL>.</A>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. Very good. So <F>err</F> let's move on to the next stage. <F>Erm</F> <.></.> O K. Please look at this map,</A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A><OL>and</OL> describe it for me.</A>
+<B>O K. <.></.> <R>De</R> describe <??></??>?</B>
+<A><F>Uh-huh</F> the city.</A>
+<B>O K. <F>Err</F> <.></.> <F>hum</F> <.></.> there is a big train station,</B>
+<A><F>Hu-huh</F>.</A>
+<B><R>and</R> <.></.> <R?>and</R?> and there is a big river here, <R>and</R> <F>mh</F> <F>uhm</F> and there are also lots of green</B>
+<A><F>Hu-huh</F>.</A>
+<B>here, and <..></..> <F>mm</F> and lots of stores, for example,</B>
+<A><F>Um</F>.</A>
+<B>supermarket and restaurant and post office,</B>
+<A><F>Hu-huh</F>. <?>That's right</?>.</A>
+<B>and <.></.> there is <R>a</R> a little bit small library, and in front of the library, there is a school,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and near the school there is a bank and offices. And <.></.> there is a zoo near the station,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and near the zoo, there is a park view apartment.</B>
+<A>O K. <.></.> Finished?</A>
+<B><nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K, good. <F>Ah</F> how do you find this town?</A>
+<B><.></.> <F>Mm</F>.</B>
+<A>Do you like it?</A>
+<B>Yes, <R>be</R> because there are <R>lots of</R> <F>ah</F> lots of shops,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and hospital and bank.</B>
+<A><F>Ah-huh</F>.</A>
+<B>I think it's very convenient.</B>
+<A><F>Hum</F>.</A>
+<B>And also, there are lots of green.</B>
+<A>O K. If you are allowed to build one thing in this town, <OL>one</OL></A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>extra thing,</A>
+<B><F>Hum</F>.</B>
+<A>what would you build and why?</A>
+<B><F>Uhm</F> <..></..> I need shopping center</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter><OL>because</OL> <R>I</R> I like</laughter> going shopping.</B>
+<A>O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Just window</OL> shopping. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>All right. Good</OL>. Very good. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Next, <F>err</F> we will do a role play. O K. <F>Erm</F> O K. How about this. Please read this card</A>
+<B><F>Um</F>.</B>
+<A>and when you are ready, we will start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the card.</ctxt>
+<B><F>Eh</F> <F>erm</F>.</B>
+<A>Ready?</A>
+<B>Yeah.</B>
+<A>Yes. O K. May I help you?</A>
+<B>Yes. <F>Eh</F> I'm looking for the stationary, <F>ah</F> I need <F>uhm</F> cool pencil. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F></OL> O K. We have variety of pencils here.</A>
+<B><F>Hu-huh</F> <?>so</?> I need a mechanical pencil.</B>
+<A><F>Ah-huh</F> O K. <F>Erm</F> <F>well</F> we have cheap ones and expensive ones.</A>
+<B><F>Urm</F>. <R>Cheap</R> cheap one is <laughter><?>best</?></laughter>.</B>
+<A>O K.</A>
+<B>And, <F>um</F> what kind of pencils do you have? <F>Er</F> please show me.</B>
+<A>O K. <F>Ah</F> <F>well</F> this one is <R>the</R> the simplest one,</A>
+<B><F>Hu-huh</F>.</B>
+<A>and it's only two hundred yen.</A>
+<B><F>Hu-huh</F>.</B>
+<A>And <SC>it's</SC> it only writes. But this one, for example, you can turn the light.</A>
+<B><F>Oh</F> it's cool. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><CO>Do you need a <F>err</F> <?>a</?> <JP>denchi</JP></CO>? How <SC>do you</SC> do I say <JP>denchi</JP> in English? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Ah</F> battery. <SC?>Do yu</SC?> <SC>do I need a battery in</SC> do I have to <SC>put in</SC> put battery <OL>in</OL></B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B>the pencil?</B>
+<A><F>Ah-huh</F>. For this one, the expensive one, yes.</A>
+<B><F>Oh</F> <R>how</R> how much is it?</B>
+<A><F>Eh</F> this is two thousand yen.</A>
+<B>Two thousand yen? It's too expensive. Do you have a cheaper one?</B>
+<A><F>Eh</F> with lights?</A>
+<B>With lights.</B>
+<A>Yes, we have one thousand one.</A>
+<B>One thousand. <F>Urm</F> this month, I'm really poor.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> I don't have enough money, so <F>mh</F> I take cheaper one, two hundred yen.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><F>Err</F>. All right. Let's see. <F>Ah</F> <F>well</F> I'm sorry, but this one here, the two hundred yen,</A>
+<B><F>Hu-huh</F>.</B>
+<A><F>err</F> we are out of stock.</A>
+<B>O K. <F>Erm</F> do you have another cheaper one?</B>
+<A><F>Erm</F>. Yes, how about this one. This is <F>err</F> three fifty.</A>
+<B><OL>Three fifty</OL>.</B>
+<A><OL><??></??></OL>.</A>
+<B><OL><laughter>O K, I take this</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. All right. So, I'll wrap it up for you.</A>
+<B><laughter><F>Oh</F> <OL>thank you</OL></laughter>.</B>
+<A><OL><nvs>laughter</nvs></OL> Thank you.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. <F>Well</F> <F>eh</F> do you like collecting <F>eh</F> different kinds of stationery?</A>
+<B>Yes. <OL>I</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>like stationery. <F>Err</F> I like <F>err</F> Sony Plaza.</B>
+<A><F>Ah</F> <OL>I see</OL>.</A>
+<B><OL><F>Err</F></OL>.</B>
+<A>So tell me, <F>eh</F> the most interesting stationery you bought.</A>
+<B><F>Urm</F>. <..></..> <F>Em</F> <F>urm</F> maybe five years ago, I bought a mechanical pencil <SC>with a</SC> with papers, <SC?>with</SC?> <?>like</?> Post-it</B>
+<A><F>Ah-huh</F>.</A>
+<B>with it.</B>
+<A>Inside?</A>
+<B>Inside, yeah.</B>
+<A><F>Oh</F>.</A>
+<B>So there is small case top of the pen,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and we can take papers.</B>
+<A>Really?</A>
+<B>And put</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL><?>it</?></OL>. <F>Um</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>That's interesting. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>All right. Good. Now, let's move on to the next stage. <?>O K</?>. <F>Err</F>. All right. Please look at this <F>eh</F> picture sequence. O K? Now, this happened in one day. So, tell me a short story starting with "One day last week". <OL>O K</OL>?</A>
+<B><OL><F>Uh-huh</F></OL>. O K. One day last week, <F>urm</F> <R>I</R> I drived <R>to</R> to the supermarket, but <F>eh</F> when I was driving <.></.> one man riding a bike <.></.> <F>urm</F> <R>came</R> came very quickly.</B>
+<A><F>Ah-huh</F>.</A>
+<B><nvs>laughter</nvs> <CO>And, we</CO>. <F>Hrm</F>. <.></.> <CO><?>How</?></CO>. <nvs>laughter</nvs> <CO>I don't know what but, we</CO>. <.></.> <R>I</R> I don't know the English word, <JP>butsukaru</JP>? Crash.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>We</OL> crashed.</B>
+<A>O K.</A>
+<B>But <SC>this man</SC> I think this man is bad,</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><R><OL>but</OL> this man</R> but this man argued because his bike was broken.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So, <R>I thought <F>urm</F> <.></.> policeman</R> <F>urm</F> I thought policeman solve the problem.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So I called a police, and then policeman came here,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and I describe the situation,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and we talked each other, and then <F>um</F> <.></.> policeman called a <R>fix</R></B>
+<A><F>Hu-huh</F>.</A>
+<B><R>fix</R> <.></.> <SC>fix factory</SC> <R>fix</R> <F>hum</F> <laughter>fix factory</laughter>.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And, <.></.> <SC>he took the</SC> <nvs>laughter</nvs> he took his bike.</B>
+<A><F>Hum</F>. O K.</A>
+<B><F>Um</F>.</B>
+</task>
+<followup>
+<A>All right. Good. Do you drive, too?</A>
+<B>No,</B>
+<A>No?</A>
+<B>I don't have a driving license.</B>
+<A><F>Ah</F> I see. <F>Erm</F> <.></.> when something like this happens</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><OL>in</OL> Japan,</A>
+<B><F>Hum</F>.</B>
+<A><F>err</F> what is the correct thing to do?</A>
+<B><.></.> <F>Urm</F> at first,</B>
+<A><F>Hu-huh</F>.</A>
+<B>we have to describe the situation</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>in</OL> detail,</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>um</F> but <F>um</F> I don't know the rules.</B>
+<A><F>Urm</F> <OL>O K</OL>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>All right. Have you ever encountered some kind of accident?</A>
+<B>No.</B>
+<A><OL>No</OL>?</A>
+<B><OL>Never</OL>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><?>That's good</?></OL>. <nvs>laughter</nvs> All right. <F>Erm</F> O K. So, <.></.> you like shopping right?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Hum</F></OL>. <F>Erm</F> tell me <F>err</F> where you go shopping <OL>and</OL></A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>what kind of things you like to get.</A>
+<B><F>Erm</F> <F>err</F> I often go to <H pn="others1">XXX04</H> because I live in <H pn="others2">XXX05</H>, near <H pn="others1">XXX04</H>.</B>
+<A><F>Ah-huh</F>.</A>
+<B>And, <F>um</F> there are <SC>lots of</SC> many store in <H pn="others1">XXX04</H>, for example, stationery shop, <R>and</R> <F>um</F> <.></.> <F>um</F> and things which you put in the room, <nvs>laughter</nvs> for example, lamp</B>
+<A><F>Ah</F>. <OL>I see</OL>.</A>
+<B><OL>and</OL> <R>pho</R> <SC>photo</SC></B>
+<A><F>Hu-huh</F>.</A>
+<B><SC>picture</SC> <nvs>laughter</nvs> <SC?>you</SC?> <SC>the thing</SC> I don't know the name,</B>
+<A><F>Hu-huh</F>.</A>
+<B>but you put the picture in it,</B>
+<A><F>Hu-huh</F>.</A>
+<B>a photo stand,</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>err</F> something like that.</B>
+<A>I see.</A>
+<B><F>Uhm</F>.</B>
+<A>All right. <F>Er</F> why do you prefer <H pn="others1">XXX04</H> to other shopping area?</A>
+<B><F>Urm</F> <F>urm</F> because <F>urm</F> very close <laughter>to my house</laughter>,</B>
+<A><F>Hu-huh</F>.</A>
+<B>and <F>urm</F> there are few <laughter>people</laughter> there.</B>
+<A><F>Hum</F>. That's true.</A>
+<B><F>Um</F> <SC>Shin</SC> in Shinjuku, there are too many people, and <R>I</R> I can't move.</B>
+<A><OL><laughter>Yeah, <?>you're</?> right, O K</laughter></OL>.</A>
+<B><OL><??></??></OL>. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Thank you. <F>Eh</F> this is almost the end of the interview. <OL>Now</OL>,</A>
+<B><OL><?>O K</?></OL>.</B>
+<A><SC>what</SC> do you have any plans for the New Year?</A>
+<B><F>Urm</F> <SC>nothing</SC> <R>I</R> I haven't decided yet.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>All right. <F>Well</F> <F>eh</F> it's almost the year end, so</A>
+<B>Yeah. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I hope you have a nice holiday.</A>
+<B>Yeah. But, I have many reports.</B>
+<A><F>Oh</F> no. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Maybe five or six reports.</B>
+<A>I see. So, good luck with <OL>your reports <??></??></OL>.</A>
+<B><OL><laughter>Thank you very much</laughter></OL>.</B>
+<A>All right. So, this is all. <OL>Thank you</OL></A>
+<B><OL><?>O K</?></OL>.</B>
+<A>for coming today.</A>
+<B>Thank you very much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,172 @@
+<interview>
+<filename>file00777.txt</filename>
+
+<head version="1.3">
+<date>2001-12-18</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello, my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F>. In Japanese is <F>uh</F> <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. O K.</A>
+<B>So <H pn="B's name">XXX02</H> is O K.</B>
+<A>Thank you. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Uh</F>. Fine, but it's a bit cold, isn't it?</B>
+<A><F>Uum</F>.</A>
+<B>So <SC?>I <??></??></SC?> I'm not feeling that well.</B>
+<A>O K. Do you like winter season?</A>
+<B>No. I like summer better.</B>
+<A><F>Ah</F>. Why? Why do you like summer so much?</A>
+<B><F>Uhm</F> <.></.> I like you know, going to sea for swimmings and <??></??> so I like summer better.</B>
+<A><F>Hum</F>. But holiday season is coming. Do you have any plan in winter vacation?</A>
+<B><F>Uhm</F> I'm going to snowboard with my friends at the end of December from <??></??> twenty-sixth, but you know, <SC>winter season's very short</SC> winter holiday is very short so we gonna have school and our test in January so I guess summer holiday is better.</B>
+<A><F>Huum</F>. What's good about snowboarding?</A>
+<B><F>Uhm</F>. <F>Well</F> it's fun because I've tried skiing before but I never did it well, I never successed with it, so I tried it when I was about sixteen years old and I enjoyed it so I'm doing it for about four or five years since then. Three years since then. <.></.></B>
+<A>O K. So <H pn="B's name">XXX02</H>, what do you study at <H pn="school name1">XXX03</H>?</A>
+<B><F>Uhm</F>. Political science and economy.</B>
+<A><F>Huum</F>. Why did you get interested in political science?</A>
+<B><F>Um</F>. Actually my school is <H pn="school name2">XXX04</H> so <R>we</R> you know, we could choose which department you wanted to go and <F>uhm</F> I don't know but <.></.> I cut off the ones that I didn't want to go and then <SC>these</SC> <SC>those</SC> the one that I'm in now remained so I'm in political science.</B>
+<A>O K. I see. Do you belong to any club activities?</A>
+<B><F>Uhm</F> I used to when I was in high school but now I don't.</B>
+<A>Why not?</A>
+<B><F>Uhm</F>. <F>Well</F> until I graduated high school I thought that <R>I was</R> I was playing <SC>football</SC> soccer, for about <SC>ten</SC> more than ten years <SC>becau</SC> and I was thinking about entering the club in university but I thought it <SC>would be a nice</SC> would be a good chance to you know, try something else other than soccer.</B>
+<A>O K.</A>
+<B><CO>So</CO>.</B>
+<A>So what did you find?</A>
+<B>And actually I haven't find anything but I'm trying to but <F>uhm</F> <..></..> I don't know I'm playing football with my friends although I'm not in club. But <nvs>coughs</nvs> <R>I</R> I like sports, all type of sports so thinking do something <??></??> soccer.</B>
+<A>O K. Thanks then. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>First of all, <.></.> I'll show this picture so please describe it for me.</A>
+<B>Describe this picture?</B>
+<A>Yes.</A>
+<B>O K. <F>Well</F> <nvs>coughs</nvs> a young type of lady teacher is teaching mathematics, I guess, for the students that seems to be around the age of fifteen, sixteen, but the students are doing <.></.> what they want to for themselves and only one you know, <.></.> smart kind of boy is listening to her class. <..></..> And it seems to me that students have no uniforms for them and I guess this teacher is bit you know, <F>um</F> <F>uhm</F> <F>uhm</F> poor in this situation.</B>
+</task>
+<followup>
+<A><F>Huum</F>. O K, thank you very much, <H pn="B's name">XXX02</H>. Can you compare this picture to the classroom you had when you're a high school student?</A>
+<B>In my high school. <F>Uhm</F>. My high school didn't have any girls in my class, so that part is bit different. And of course we didn't drink or have chewing gums while class time and <..></..> the thing they wear about is that <F>um</F> we had the rule that we could wear uniform and your private <F>uhm</F> clothes so <.></.> you know, the scene isn't that odd for me. But you know, drinkings and chewings are <R>com</R> completely <?>stop</?> and we didn't have any young teachers, lady teachers. And but the class size and how the desks are lined up looks the same in my high school.</B>
+<A><F>Hum</F>. <F>Hum</F>. You said this teacher is poor.</A>
+<B>Yeah.</B>
+<A>Why do you think so?</A>
+<B><F>Uhm</F>. It looks as she's trying to teach <.></.> math for every students hardly but <.></.> I'm afraid there's no one listening to her. So <F>um</F> <?>ashamed</?>.</B>
+<A><F>Hum</F>. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now I'm going to give you a role-play card.</A>
+<B>Yes.</B>
+<A>This is a role-play. <.></.> O K. So please read it to yourself and when you're ready I'll start a role-play.</A>
+<ctxt>The interviewee starts reading the English instruction with low voice.</ctxt>
+<A>English, no no Japanese one.</A>
+<B>Japanese one.</B>
+<A>Yes, yes.</A>
+<ctxt>The interviewee is now reading the Japanese instruction.</ctxt>
+<A>O K. Are you ready?</A>
+<B>No, not yet.</B>
+<ctxt>The interviewee is still reading.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>How can I help you, sir?</A>
+<B><F>Uhm</F> I guess my train has gone already and I had reserved a seat for that train, so I want to pay back and have another seat for the next one. Is it possible?</B>
+<A><F>Huum</F> I'm sorry but it's against our policy.</A>
+<B><F>Uhm</F>. <.></.> But if you have any vacant seat I would like to have it because I have a you know, important appointment in my you know, way afterwards. So is it possible, please?</B>
+<A>It's very difficult, but if you have a very very good reason, I'll consider.</A>
+<B><F>Uhm</F>. <..></..> The reason?</B>
+<A><F>Huum</F>. Reason.</A>
+<B>The reason <F>uhm</F>. <F>Well</F> I'm the politician in this country so I have to go to the international <R>co</R> commission to you know, <R>take</R> take part in so if I get late there the whole country of Japan might <nvs>coughs</nvs> broken up.</B>
+<A><nvs>laughter</nvs></A>
+<B><R>So</R> so please.</B>
+<A>O K, so only this time. O K?</A>
+<B>O K. <OL>Thank you very much</OL>.</B>
+<A><OL>O K</OL>. O K. So this is a new ticket.</A>
+<B>Yes.</B>
+<A>Have a nice trip.</A>
+<B>Thank you very much.</B>
+<A>O K. Thank you very much. That's the end of role-play. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Have you every had a trouble or difficulties while you were traveling?</A>
+<B><F>Uhm</F>. <..></..> With train or like anything?</B>
+<A>Anything.</A>
+<B>Anything? <F>Uh</F> No.</B>
+<A>No?</A>
+<B>I don't think so.</B>
+<A>So have you ever been in foreign countries?</A>
+<B>Yes, I have. But usually my parents were with me so <.></.> I didn't get involved in any problems.</B>
+<A><F>Huum</F>. So what is the <R>best</R> best point about traveling with your parents?</A>
+<B><F>Well</F> no problems and the money. I don't have to pay any. And <F>well</F> I guess you get relieved with your parents because if you are alone and if you go to country like you know, a dangerous country it's a bit get nervous.</B>
+<A>Then what about bad points?</A>
+<B><F>Uhm</F> <.></.> <F>um</F>. You can't go to places you want to <SC>by</SC> for your own. And you have to you know, go somewhere else you know, go everywhere with your parents every time you know, and at nights you have to go to bed at a typical time. So that's the bad point.</B>
+<A>I see. Which place is the most memorable place for you?</A>
+<B><F>Uhm</F> I've been to Switzerland before and Switzerland is most memorable place to me.</B>
+<A>Why is that?</A>
+<B><F>Uhm</F> <R>I</R> I climbed this big mountain <??></??> was very cold but <F>uhm</F> <R>the</R> the view was very beautiful. European countries are very beautiful but I had a very strong impression for Switzerland and the meal, the dinners and stuff, were quite nice so I have <SC>memo</SC> strong memory.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly I'll show you another picture.</A>
+<B>O K.</B>
+<A>So please make up one short story using these pictures from one to six. This happened before, so please start "One day last week,"</A>
+<B>One day last week. <CO>Can I make up <nvs>coughs</nvs> the name of</CO>.</B>
+<A>Sure.</A>
+<B>O K. <F>Uhm</F>. One day last week, Tom was driving his car through the highway with his orange <.></.> <F>uhm</F> Benz. And from the other way <SC>there came a green</SC> there came a boy driving his motorbike with his cell phone. And he was talking to his girlfriend and he wasn't looking around. <SC>So</SC> and then <SC>they got crushed</SC> they got a crash, and the car hit <SC>the end</SC> the bottom end of the motorbike and the boy on the bike dropped his cell phone and broke it. <F>Well</F> fortunately the boy didn't get any injury but the phone got <R>into</R> <SC>into</SC> you know a little bit into parts. Then they had this quarrel which one was you know, the careless one. And they quarreled but finally they called the police and the man, did I say Tom?</B>
+<A><laughter>Yes</laughter>.</A>
+<B>Tom, driving called the police and claimed him <SC>with</SC> <R>about</R> about it with his showing the cell phone. And I guess <.></.> in the end the policeman <SC>abandoned</SC> punished this boy with the motorbike and he had his bike taken away. That's it.</B>
+</task>
+<followup>
+<A>O K. So <H pn="B's name">XXX02</H>, have you ever seen or got involved in an accident?</A>
+<B><F>Uhm</F>. <.></.> Yes, but <SC>a lit</SC> only a small one. I was driving my motorbike and <R>suddenly</R> suddenly from the sideway bicycle with you know, really fast speed <R>came</R> came to me and we almost crashed but <R>I</R> I swift him and we didn't get involved but I slipped and I had my bike cut. I had a lot of cuts in the right-hand side of bike but we didn't call any police. It was a</B>
+<A>O K. Slight accident.</A>
+<B>slight accident. Yeah.</B>
+<A>O K. O K. So, what is the right procedure when you see or get involved an accident?</A>
+<B><F>Uh</F> I guess you should call the police. It's the best way.</B>
+<A><F>Um</F>. Then?</A>
+<B><F>Huh</F>?</B>
+<A>Then, after that?</A>
+<B>After that <F>uhm</F> <.></.> no I heard that police does everything if you call so maybe you should depend on and rely and then it'll go well, I think.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. Interview is almost over.</A>
+<B>Good.</B>
+<A>All right do you have any plan after this interview?</A>
+<B><F>Uhm</F>. Yes I'm going to meet my friend afterwards and going to the sport gym.</B>
+<A>Sport gym?</A>
+<B>In new building next to the <H pn="others1">XXX05</H> Campus.</B>
+<A>Is it a university facility?</A>
+<B>Yes, <OL>it is</OL>.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B>So it's really cheap.</B>
+<A><F>Hum</F>. That's nice.</A>
+<B>Yes.</B>
+<A>I see.</A>
+<B>With my friend.</B>
+<A><F>Ah</F>. Are you going to swim?</A>
+<B><SC>There's no</SC> there isn't any swimming pool, but there's those machinery.</B>
+<A>Machine. <F>Oh</F>, Machine exercise.</A>
+<B>Yeah, machine exercise.</B>
+<A>O K. So enjoy machine exercise with your friends. Thank you <OL>very much for coming</OL> in today.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

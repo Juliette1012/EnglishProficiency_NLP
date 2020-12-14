@@ -1,0 +1,367 @@
+<interview>
+<filename>file01246.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>male</sex>
+<age>36</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step></step> 
+<TOEIC>990</TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>7</SST_level> 
+<SST_task2>room</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name?</A>
+<B>Yeah, <F>ur</F> I'm <R><H pn="B's name">XXX01</H></R> <H pn="B's name">XXX01</H>.</B>
+<A>O K. Nice to meet you, <OL><H pn="B's name">XXX01</H></OL>.</A>
+<B><OL>Nice to</OL> meet you.</B>
+<A>How are you today?</A>
+<B>I'm pretty good. <OL>Thanks</OL>.</B>
+<A><OL>Yes</OL>? <F>Uh-huh</F>.</A>
+<B>And you?</B>
+<A>Good. So do you work now?</A>
+<B><F>Urm</F> yeah, yeah.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Ur</F> I got day off today</B>
+<A><F>Oh</F>.</A>
+<B>So.</B>
+<A>I see.</A>
+<B>Usually <?>do work</?> I'm a English teacher.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A><F>Ahh</F>. <F>Urm</F> do you have private lessons or you teach at a school?</A>
+<B><F>Uhh</F> I teach <R>at</R> <F>ur</F> at a school. <F>Um</F> I work at <SC>Eng</SC> an English language school for the <R><H pn="company name1">XXX02</H></R> <H pn="company name1">XXX02</H>, do you know?</B>
+<A>Yes, yes. I see. <F>Uhm</F>. So you have <SC>a week</SC> <F>ur</F> the day off today.</A>
+<B>Yes.</B>
+<A><F>Urm</F> what do you usually like to do?</A>
+<B><F>Ur</F> on my day off?</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urm</F> <F>mm</F> usually <F>ur</F> I have to do some house work. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>Cleaning, <F>er</F> washing up, cooking, something like that.</B>
+<A><F>Ahh</F>.</A>
+<B>And also now, <F>urm</F> <F>ur</F> I'm writing a book.</B>
+<A><F>Oh</F>.</A>
+<B>So <F>urm</F> usually I do some writing on my day off.</B>
+<A><F>Mhm</F>. Is that something you enjoy?</A>
+<B>Writing a book?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ahh</F> <F>mm</F> yes and no. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Uh-huh</F>.</A>
+<B>Yeah. <F>Well</F> <F>ur</F> <F>ur</F> I like writing but <F>urm</F> <F>ur</F> <SC>there's</SC> <F>ur</F> <F>mm</F> I'm pressed for time.</B>
+<A><F>Oh</F>.</A>
+<B>Deadline, it's already gone. So I have to do. I have to <R>finish</R> finish it very quickly.</B>
+<A>Right.</A>
+<B>So I'm working under pressure and <OL>jet lag</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Uh-huh</F>. <F>Mm</F>. But <F>ur</F> without that pressure, what's interesting about writing?</A>
+<B><F>Ur</F> <R>wh</R> what interesting about writing? <F>Urm</F> <F>well</F> maybe <R>not so much</R> <F>ur</F> <F>mm</F> not so much about writing itself, but <F>urm</F> it's <R>nice to</R> nice to have a book published.</B>
+<A><F>Mm-hm</F>.</A>
+<B>My name on its cover.</B>
+<A><F>Uh-huh</F>.</A>
+<B><laughter>That kind of things</laughter>, <??></??> vanity.</B>
+<A><nvs>laughter</nvs> No. I see. <F>Mm</F>. O K. <F>Urm</F> right now, where do you live?</A>
+<B><F>Ur</F> I live in <H pn="others1">XXX03</H>,</B>
+<A><F>Mm-hm</F>.</A>
+<B><H pn="others2">XXX04</H>.</B>
+<A><F>Mm-hm</F>. <F>Mm</F>. <OL><CO>Is <H pn="others1">XXX03</H></CO></OL>?</A>
+<B><OL>But actually</OL> <R>I'm going to move</R> <F>ur</F> I'm going to move to <H pn="others3">XXX05</H></B>
+<A><F>Oh</F> really?</A>
+<B><F>urm</F> <SC>next mo</SC> <F>urr</F> end of this month.</B>
+<A><F>Uh-huh</F>. <OL>Why</OL>?</A>
+<B><OL>I <R>alread</R></OL> already find a new apartment.</B>
+<A><F>Uh-huh</F>. Why are you moving?</A>
+<B><F>Ahh</F> I just want a change.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Oh</F> yes. <F>Uh</F>.</B>
+<A>So when you move to new place,</A>
+<B><F>Mm</F>.</B>
+<A>how do you feel?</A>
+<B>Sorry?</B>
+<A>When you move to a new place, how do you feel?</A>
+<B><SC>When I</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B>when I'm going move.</B>
+<A>Yes.</A>
+<B>So <F>ur</F> <F>well</F> I feel like <F>ur</F> <F>uh</F> yeah, you know, new place, new thing, I want to start new life.</B>
+<A><F>Uh-huh</F>.</A>
+<B>There're some personal changes at the end of last <F>ur</F> year.</B>
+<A><F>Oh</F> O K.</A>
+<B>So I just move to you know, <SC>restart</SC></B>
+<A>Sure.</A>
+<B>reset.</B>
+<A>Sure. <F>Mm-hm</F>.</A>
+<B>That's the one of the main reason I decided to move.</B>
+<A><F>Mm-hm</F>. <F>Mhm</F>. <SC>So</SC> <F>mm</F> <F>ur</F> are there any hobbies that you enjoy?</A>
+<B>Hobby?</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urm</F> <SC>I like reading</SC> I like reading books. And I quite like <F>urm</F> going to the theaters. <OL>But</OL></B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B>I don't go very often these days. When I was in England, I used to go to <F>ur</F> theater regularly.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Yes. That's practically <??></??></B>
+<A><F>Uh-huh</F>. <F>Wow</F>. O K. <F>Urm</F> <F>mm</F>. <R>Wh</R> <SC>what's</SC> <F>ur</F> what makes you so passionate about <nvs>laughter</nvs> watching theater?</A>
+<B><F>Urm</F> <F>mm</F> <.></.> <F>mm</F> <F>well</F> I don't know. Difficult to <laughter>explain <?>but</?></laughter> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>er</F> <F>well</F> <F>uh</F> I became interested in going to theater when I was <F>ur</F> doing English literature course in England. And our teacher took us to the theater and I was very impressed.</B>
+<A><F>Mm-hm</F>.</A>
+<B>I really enjoyed so <SC>I</SC> <F>urm</F> then I started <R>going</R> going to the theater regularly.</B>
+<A><F>Mhm</F>. <F>Mm</F>.</A>
+<B>It's nice to, you know, sit and watch <laughter>play</laughter></B>
+<A><F>Mh-hmm</F>.</A>
+<B>on the stage. It's very different from film or T V dramas.</B>
+<A><F>Ahh</F>.</A>
+<B>It's live.</B>
+<A><F>Uh-huh</F>. <F>Mm</F>. O K. Thank you.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>So first of all, I'm going to show you this picture.</A>
+<B>Yes.</B>
+<A><F>Ur</F> please describe what you see here.</A>
+<B><F>Ur</F> describe. <F>Urm</F> there's a girl sitting on a chair in front of the computer. And <F>ur</F> she seems like talking to the cat or dog, I don't know. There's a cat <R>on the</R> on the bed. And there's a dog sleeping on the floor. And <F>ur</F> <.></.> there's a rather big stereo system <F>er</F> far side of the room, there's a calendar above that stereo. There's clock on <R>the</R> the wall. And <.></.> there's <F>ur</F> <R>some</R> something next to the computer, looks like a <R>typewri</R> typewriter</B>
+<A><F>Mh-hmm</F>.</A>
+<B>or printer. Or maybe fax machine, I don't know.</B>
+<A><F>Mm-hm</F>.</A>
+<B><CO>And</CO>. <.></.></B>
+<A><F>Mm</F>. O K. <OL><F>Mhm</F></OL>.</A>
+<B><OL>Yeah</OL>. <R>The door</R> the door is half open.</B>
+<A><nvs>laughter</nvs> Right.</A>
+</task>
+<followup>
+<A>So do you also have a personal computer <OL>at home</OL>?</A>
+<B><OL>Yes, I do</OL>. Yes.</B>
+<A><F>Mhm</F>. <OL><F>Urm</F></OL>.</A>
+<B><OL>Mac</OL>.</B>
+<A><F>Mhm</F>. What do you use it for?</A>
+<B>Pardon me?</B>
+<A>What do you use it for <OL>other than writing</OL>? <nvs>laughter</nvs></A>
+<B><OL><??></??></OL> <F>Urm</F> <laughter>mainly</laughter> writing or E-mail</B>
+<A><F>Uh-huh</F>.</A>
+<B>and checking things on the Internet.</B>
+<A><F>Mm</F>.</A>
+<B>Yeah.</B>
+<A>O K.</A>
+<B>I can't live without computer these days</B>
+<A><F>Ahh</F>.</A>
+<B>even in Japan.</B>
+<A><F>Uh-huh</F>.</A>
+<B><??></??> computer.</B>
+<A><F>Uh-huh</F>. <F>Mm</F>. So how is it different, you know, a life with the computer and without?</A>
+<B>Good question.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Ur</F> <F>well</F> <SC>I just</SC> <F>urm</F> it's been <SC>four years</SC> <SC>five years</SC> <SC>four years</SC> no, five years <F>urm</F> since <R>I</R> I bought my first computer. So <F>er</F> <SC>I su</SC> I think it's quite late. <F>Urm</F> <F>urm</F> <F>well</F> before that, <F>well</F> <R>I</R> <R>I had</R> I had no problem <R>w</R> without computer. I was very comfortable. But <F>urm</F> nowadays, it's so convenient. <F>Uh</F> <F>uh</F> for example, <F>urm</F> just <SC>I</SC> <F>urm</F> before I came here, I just check the route.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And how much it's cost to here. And it's just <F>um</F> you know, on the screen. <R>I can</R> I can easily check these kind of things. So it's really convenient. <F>Ur</F> without computer, I have to call or I have to check and you know, I have to look it up on, you know the, <R>it's</R> <F>urm</F> it's written on time table or things like that. But <?>and</?> I don't have to do it. It's really convenient. And also I can contact people all over the world by E-mail now. <SC>My co-author</SC> <F>ur</F> <F>uh</F> I'm writing a book on <R>TOEIC</R> TOEIC. Right. And <F>ur</F> <F>well</F> I have a co-author in the States,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>in Florida.</B>
+<A><F>Wow</F>.</A>
+<B>And <F>ur</F> we keep in touch all the time. And <R>if I</R> if I didn't have a computer, I will have to send stuff</B>
+<A><nvs>laughter</nvs></A>
+<B>like you know, regular mail <OL><R>which</R></OL> which takes long time.</B>
+<A><OL>Right</OL>. <F>Uh-huh</F>.</A>
+<B>So really convenient.</B>
+<A><F>Mhm</F>. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So now, we're going to do a role-play.</A>
+<B>Yes.</B>
+<A>And I will give you a card written in Japanese. So please read it quietly. And let me know when you are ready.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Oh</F> O K. <F>Urm</F>.</B>
+<A>All right?</A>
+<B><..></..></B>
+<A><nvs>laughter</nvs></A>
+<B>O K. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Yeah</OL>, so just imagine <OL>the situation</OL>.</A>
+<B><OL>O K, <??></??></OL>. Yes.</B>
+<A>And I'm the <nvs>cough</nvs> train station <OL>clerk</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>May I help you, sir?</A>
+<B>Yes. <F>Urm</F> <F>mm</F>.</B>
+<A><nvs>cough</nvs> excuse me.</A>
+<B>Excuse me. <R>When is the</R> <R>when is the next train to</R> when is the next train to Nagoya?</B>
+<A>The next train is leaving in ten minutes.</A>
+<B>Yes.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urm</F> can I get on with this ticket?</B>
+<A>Let me see. <F>Urm</F>.</A>
+<B><F>Well</F> <SC>it wa</SC> it says <R>the</R> <F>ur</F> the this ticket is for the one before but <F>urm</F> I miss it. <CO>So</CO>. <OL><F>Ur</F></OL>.</B>
+<A><F>Oh</F> I see. Generally we don't accept</A>
+<B>O K.</B>
+<A>exchanges</A>
+<B>Yeah, <OL><??></??></OL>.</B>
+<A><OL>as it</OL> was for a <OL>reserved</OL> seat.</A>
+<B><OL>Yeah</OL>. Yeah. But <SC>I <SC>paid</SC> <SC>pay</SC> paid this</SC> I bought this ticket</B>
+<A><OL>Right</OL>.</A>
+<B><OL><??></??></OL>. I paid,</B>
+<A><F>Uh-huh</F>.</A>
+<B>you know.</B>
+<A>Right. <OL><F>Urm</F></OL>.</A>
+<B><OL>So I</OL> have a right to get on that train, don't you think?</B>
+<A>Sure. <F>Urm</F> but <F>ur</F> why did you miss the first train?</A>
+<B><F>Oh</F> <R>because</R> <F>urm</F> <F>ur</F> because <SC>the connection</SC> <F>ur</F> <R>the</R> the train to <R>thi</R> <F>ur</F> this station</B>
+<A><F>Mh-hmm</F>.</A>
+<B>was late.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. I see. <F>Well</F> which line would that be? Because I don't think it's the same <OL>company</OL> as ours.</A>
+<B><OL><CO>It was <F>ur</F></CO></OL>. <F>Urm</F> yeah. That was Marunouchi.</B>
+<A><F>Uh-huh</F>.</A>
+<B><CO>That's <F>urm</F></CO>.</B>
+<A><F>Urm</F> I actually don't know what to do in such cases. I'm so new here.</A>
+<B><F>Oh</F>.</B>
+<A>Yeah.</A>
+<B>So what should I do?</B>
+<A>I don't know. I mean, you can talk to someone else.</A>
+<B><F>Uh</F> O K.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>I <laughter>will</laughter></OL>.</B>
+<A><F>Uh-huh</F>. <F>Ur</F> <F>well</F> my manager is someone you can talk to.</A>
+<B>Yes.</B>
+<A><F>Mhm</F>.</A>
+<B>O K. Can I talk to your manager then?</B>
+<A><F>Mm-hm</F>. <F>Urm</F> he's out doing his rounds now. So I don't know when he'll be back.</A>
+<B><F>Ur</F> O K. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><CO>So I just <F>urm</F></CO></OL>.</B>
+<A>Yeah. <OL>But I'm sure</OL> he'll be back in ten minutes or so.</A>
+<B><F>Ur</F> but this train, <SC?>do you say the</SC?> you said ten minutes. <F>Urm</F> <OL>so</OL></B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><F>urm</F> can I <R>wait</R> wait for him on the train just in case <R>I</R> <SC>I</SC> <F>oh</F> <laughter>no</laughter>, <F>ur</F> train leave before he gets?</B>
+<A><F>Urm</F> but he's not going to be on the train. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes</OL>, but you can tell him that I'm waiting for him <OL><SC>in</SC> on the train</OL>.</B>
+<A><OL><F>Ohh</F> <F>oh</F></OL> O K. I'll do that.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>Sure</OL>. And he can run there.</A>
+<B>Yeah, thank you.</B>
+<A><OL><nvs>laughter</nvs> All right</OL>. Thank you.</A>
+<B><OL><??></??></OL>.</B>
+<A><F>Mm</F>. That's the end of the role-play. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><F>Ah</F>. So have you had any troubles while traveling before?</A>
+<B><F>Urm</F> no. Not usually. No.</B>
+<A>No? <F>Mhm</F>.</A>
+<B>I don't travel a lot.</B>
+<A>No?</A>
+<B><OL><CO>So</CO></OL>.</B>
+<A><OL><F>Oh</F></OL> O K. <F>Well</F> you <F>ur</F> mentioned that you lived in England <OL>before</OL>.</A>
+<B><OL>Yes</OL>, yes.</B>
+<A>Yes. So could you tell me about <F>ur</F> an interesting experience you had there?</A>
+<B>In England?</B>
+<A>Yes. Anything memorable?</A>
+<B><F>Ur</F> yeah. <R>How</R> how many minutes do you have? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Just one event if you can</A>
+<B>One event. <F>Mhm</F>.</B>
+<A>pick one.</A>
+<B>Event. Interest <SC>expe perience</SC> experience in England. One event.</B>
+<A><F>Mm</F>.</A>
+<B><F>Urm</F> one event. <F>Urm</F>.</B>
+<A>In fact, what were you doing there? <CO>I mean, I know you studied but</CO>.</A>
+<B>Yeah. <SC>I</SC> yeah, I studied. I went to English school.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Then I was in <H pn="others4">XXX06</H>. I went to English language school. <??></??> and <F>er</F> I had a part-time job <F>um</F> in Japanese restaurant.</B>
+<A><F>Ahh</F>.</A>
+<B>So I worked in a Japanese restaurant in the evening.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Doing washing <laughter><?>inside out</?></laughter>.</B>
+<A><F>Mhm</F>.</A>
+<B>That was <?>quite</?> fun. <F>Urm</F> I made a lot of friends, people from all over the world.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>It was fun.</B>
+<A><F>Mm</F>. What did you think of the <F>urm</F> school that you went to?</A>
+<B><F>Urm</F> <F>well</F> I went to several schools.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><?>I mean</?></OL> how many schools? <R>Five</R> five different schools.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Urm</F> they each has different atmosphere. First one was called <H pn="school name1">XXX07</H> <R>which was</R> <F>urm</F> which was in south-east, <F>urm</F> quite far from the city center. <F>Ur</F> wasn't very convenient to go to the city center. <SC?>The</SC?> <F>ur</F> it was a first school I applied for this school while I was in Japan. So I didn't know <SC>about the</SC> you know, <SC>about the</SC> about how things are <F>ur</F> <SC>in the</SC> <F>ur</F> in <H pn="others4">XXX06</H>. So <SC>I just</SC> <F>urm</F> I find that school <R>through the</R> <F>ur</F>through the Japanese agency. <F>Urm</F> <SC>I st</SC> it was a <R>pri</R> private school. And <F>ur</F> very expensive.</B>
+<A><F>Hm</F>.</A>
+<B><F>Urm</F> <SC>long hours</SC> <R>we</R> <SC>we had <F>ur</F> five hours a day</SC> <F>ur</F> no, no, <F>er</F> yeah, five hours a day, five days a week. Twenty-five hours.</B>
+<A><F>Hm</F>.</A>
+<B>It was tough. And <F>ur</F> it was too much.</B>
+<A>I see.</A>
+<B>And very expensive. And <SC>next schools was</SC> <F>ur</F> <SC>I chan</SC> I switched the school <F>ur</F> after second months. And <SC>that was called</SC> <F>well</F> it was <F>ur</F> English course run by the university.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Well</F> it was nineteen ninety-two and <SC>Eng</SC> in England, <F>ur</F> they still have <F>ur</F> polytechnic system. <SC>Now <F>um</F> Ja</SC> are you familiar with the</B>
+<A><F>Mm-hm</F>.</A>
+<B><OL>British</OL></B>
+<A><OL>Yeah</OL>. Yes. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>education system</OL>? Yeah. They used to have polytechnican university and <F>ur</F> <F>ur</F> it was the around time they just change all the polytechnics</B>
+<A><F>Uh-huh</F>.</A>
+<B>to universities. And I went to a school called <H pn="school name2">XXX08</H>.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Ur</F> it was cheaper.</B>
+<A><nvs>laughter</nvs></A>
+<B>Yeah. <F>Well</F> <R>class i</R> class is <F>ur</F> bigger,</B>
+<A><F>Uh-huh</F>.</A>
+<B>but we had a good teachers and <F>um</F> <F>ur</F> <R>we can</R> we can use the library and all the university facility.</B>
+<A>Great.</A>
+<B><??></??> that.</B>
+<A><F>Mm</F>.</A>
+<B>It was good.</B>
+<A>So that was better than the first <OL>school</OL>?</A>
+<B><OL>Yeah</OL>, yeah, yeah, <OL>yeah</OL>.</B>
+<A><OL>Yeah</OL>. O K.</A>
+<B><??></??></B>
+<A>No. <nvs>laughter</nvs> We have to move on now.</A>
+<B>O K.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Urm</F> I'm going to show you a series of pictures here.</A>
+<B>Yes.</B>
+<A>So please make up a story using these six pictures going this way. Since <OL>this happened before</OL>,</A>
+<B><OL>Making a story</OL>?</B>
+<A>yeah, please start your story with "One day last week".</A>
+<B><F>Oh</F> <F>oh</F> this is the first phrase.</B>
+<A>Yes.</A>
+<B><F>Mm</F>.</B>
+<A>Please continue.</A>
+<B>O K. <nvs>laughter</nvs> <F>Urr</F> <SC>one day last week, <F>ur</F> we decide</SC> <F>ur</F> one day last week, <R>we went to</R> <SC>we went to camping</SC>. <F>Oh</F> O K. <F>Urm</F> so <??></??> <F>oh</F> O K. <SC>We went</SC> <F>um</F> I went to camping with my sister. <F>Ur</F> <R>we</R> <R>we</R> we left home early afternoon and arrived at camping site <F>ur</F> late afternoon. We put up the tent and cook curry and rice. <F>Urr</F> <SC>was</SC> <F>ur</F> <R>there was a</R> <F>ur</F> there was a river just next to our tent. Then <F>ur</F> while we were cooking, it started <R>raining</R> <F>ur</F> raining heavily, there was thunder and lightening spell. And <SC>we</SC> <F>ur</F> <R>all</R> all the food and tent were <R>blown a</R> <F>ur</F> blown away. And we have to go back to our car. And <F>ur</F> the storm continue so we left the camping site. And find the hotel down the mountain. <F>Ur</F> and we stayed there over night. <F>Mm</F> on the following morning, <F>ur</F> <R>s</R> <SC>storm</SC> <R>s</R> <F>uh</F> <R>storm</R> storm finished during the night and on the <F>er</F> <F>er</F> in the <R>follow</R> following morning, we had a beautiful day and we drank coffee in a hotel room looking over mountain and river.</B>
+<A><F>Mm</F>. O K. Thank you. <nvs>laughter</nvs></A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>So we are almost finished with this interview.</A>
+<B>Yeah.</B>
+<A><F>Urm</F> thank you very much for coming on your day off.</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. What other things are you going to do <OL>today</OL>?</A>
+<B><OL>Today</OL>? Today. <F>Urm</F> <F>mm</F>.</B>
+<A>Any plans?</A>
+<B>Yes. <F>Urm</F> yes, there's a plan.</B>
+<A>Yeah? <OL><F>Ah</F> <F>ah</F></OL>.</A>
+<B><OL>It's <F>um</F></OL> yeah, my ex-wife is coming to my apartment because I'm going to move.</B>
+<A><F>Oh</F>.</A>
+<B>So she's going to pack the all the things to send them to England.</B>
+<A><F>Oh</F> I see. <F>Mm</F>. O K. <F>Well</F> <F>urm</F> <F>mm</F>. I hope you know, <nvs>laughter</nvs></A>
+<B>Yeah.</B>
+<A><nvs>laughter</nvs></A>
+<B>Yes.</B>
+<A>yeah, the rest of your day is O K.</A>
+<B>Yes, <OL>thank you</OL>.</B>
+<A><OL>Yeah</OL>? O K. Thank you very much <OL>for</OL> coming. <F>Mm</F>.</A>
+<B><OL>O K</OL>.</B>
+</stage5>
+</body>
+</interview>

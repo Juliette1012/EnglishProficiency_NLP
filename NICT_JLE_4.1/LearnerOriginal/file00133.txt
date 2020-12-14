@@ -1,0 +1,198 @@
+<interview>
+<filename>file00133.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>895</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>map</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>May name is <.></.> <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>, how are you?</A>
+<B>Pretty fine. Good.</B>
+<A><F>Uhm</F> <?>good</?>. So, <H pn="B's name">XXX02</H>, where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>, <F>um</F> <H pn="others2">XXX04</H> City, <SC>an hour</SC> <.></.> <F>um</F> far from here. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Um</F></OL> <F>hum</F>.</A>
+<B><laughter>So</laughter></B>
+<A><nvs>laughter</nvs></A>
+<B>I'm late.</B>
+<A><nvs>laughter</nvs> I see. So, how do you come from your home to the campus?</A>
+<B><F>Urm</F> <F>um</F> I walk to the nearest station, <H pn="others1">XXX03</H> and ride on <H pn="others3">XXX05</H> line, and then, go to <H pn="others4">XXX06</H>, and change at <H pn="others4">XXX06</H> to <H pn="others5">XXX07</H> Line, and <nvs>cough</nvs> get off at <H pn="others6">XXX08</H> station. Then I took <F>um</F> the bus, <.></.> so <SC>I'm hi</SC> <F>um</F> I get to here.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><F>Wow</F>. It's long <OL>way</OL>.</A>
+<B><OL><F>Um</F></OL>. Long. <OL>Long, long way</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> I see. So, what is your hobby?</A>
+<B>My hobby is to <.></.> watch movies.</B>
+<A><F>Uhm</F>.</A>
+<B>Yesterday, I saw the movie "Rain maker". <.></.> <?>Pretty</?> interesting.</B>
+<A>Really? <F>Wow</F>. Why did you choose that movie?</A>
+<B><F>Urm</F> because <.></.> I particularly like <F>um</F> the movies featuring <F>urm</F> the court, <F>um</F> trial, because <R>the</R> the English there is <F>um</F> very logical, <F>um</F> plain, <F>um</F> easy to understand.</B>
+<A><F>Wow</F>. Easy to understand.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Wow</F></OL>. That's great. <nvs>laughter</nvs> I see. So, <F>em</F> <F>oh</F> what are your <SC>par</SC> <F>eh</F> family doing?</A>
+<B>My family?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urm</F>. My parents <F>um</F> <.></.> each have a job <F>um</F>. <SC>My father is</SC> my father works for <F>uh</F> security company, <F>um</F> and my mother is a Japanese teacher, <F>um</F> teaching Japanese to foreigners <F>um</F> from all over the world. <.></.> And <SC>my</SC> <R>I have</R> I have two brothers. <F>Um</F> my sister is a university student majoring <F>um</F> social welfare, and <F>um</F> my brother, <.></.> fresh from high school, is a cook.</B>
+<A>I see. <OL><F>Wow</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>Do you live with them?</A>
+<B>Yes, <F>um</F> I live with my <R>fa</R> family.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Um</F>.</B>
+<A><OL><?>Right</?></OL>.</A>
+<B><OL>And</OL> <F>um</F> <.></.> actually, my family member <.></.> is six. <F>Um</F> I have five family members <F>um</F> including dog. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Must be cute. <OL><F>Wow</F></OL>.</A>
+<B><OL><F>Um</F></OL> he is cute.</B>
+</stage1>
+<stage2>
+<task>
+<A>Thank you very much. O K, so let me go to the picture.</A>
+<B>Yeah?</B>
+<A>O K. So, could you describe this picture?</A>
+<B><F>Um</F> <.></.> <F>erm</F> this is map. <F>Um</F> and <..></..> <F>urm</F> <SC>the south</SC> <F>ah</F> the <R>north</R> north west of the map, <F>um</F> a train station is located, and <.></.> <F>hum</F> in the town, there many, many facilities, like school, bank, offices, <?>and</?> hospital, public library, restaurant, <.></.> supermarket, <F>urm</F> and there is also <F>ah</F> <.></.> park-view apartments. <F>Umm</F> <..></..> the view from <F>um</F> <.></.> the apartments would be very fine. <F>Urm</F> <.></.> I'd like to <R>live in</R> live in <.></.> such a apartment <F>urm</F> <SC?>i</SC?> someday.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F>.</B>
+<A><F>Hum</F>.</A>
+<B>And, <..></..> <R>the</R> the town would be very <R>comfort</R> comfortable to live in, because there are <.></.> lot of green <.></.> <F>um</F>. <.></.> It looks like <F>uh</F> <R>New York</R></B>
+<A><F>Ahh</F>.</A>
+<B>New York.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Central <OL>Park and</OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>apartments.</B>
+<A><F>Hum</F>.</A>
+<B><F>Hum</F>.</B>
+</task>
+<followup>
+<A><?>Yeah</?>. Thank you very much. <nvs>laughter</nvs> So, could you compare this city and the city you now live in?</A>
+<B><F>Mhh</F> <F>mmm</F> actually, very similar <F>um</F> to my <.></.> <R>hometown</R> hometown. But <F>err</F> <.></.> the difference is <.></.> my town is very famous <SC>for <.></.> bed town</SC> as bed town. <F>Urm</F> there're too many houses, <F>um</F> houses after houses. <F>Um</F> <F>um</F> and <.></.> my town would be <SC>very <.></.> crowded</SC> <F>um</F> too crowded <.></.> to keep distance <.></.> among each other. <F>Urm</F> <..></..> the story about <F>umm</F> one's <.></.> failure to <nvs>cough</nvs> enter university <SC>would be</SC> <.></.> <F>um</F> would spread too fast.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Urm</F></OL> for example, <F>umm</F> very intimate <F>uhm</F> community.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F> <R>and</R> <..></..> and, <F>umm</F> the atmosphere is very averaged. <F>Umm</F>. <..></..> There would be <F>err</F> sense of <.></.> <F>um</F> middle</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>um</F></OL> all over the <.></.> town.</B>
+<A>I see. <F>Wow</F>. <nvs>laughter</nvs> Thank you very much. <F>Mmm</F>. Do you like your city?</A>
+<B>Yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhm</F>? Yes. Thank you. Let me go to the role play. O K? Right, O K. Could you read this and when you are ready, I will start.</A>
+<ctxt>The interviewee is looking at the card for a while.</ctxt>
+<B>May I elaborate?</B>
+<A>Yes.</A>
+<B>Yes. <F>Uhmm</F>.</B>
+<ctxt>The interviewee is looking at the card, again.</ctxt>
+<A>O K. Hello?</A>
+<B>Hello. <F>Er</F> I'm very <R>sorry</R> <.></.> <SC>sorry to</SC> sorry not to go to your party.</B>
+<A><F>Hum</F> <F>um</F>.</A>
+<B><F>Um</F> <nvs>cough</nvs> I had a <R>sore ear</R> sore ear.</B>
+<A><F>Hu-huh</F>.</A>
+<B>I was infected with <F>err</F> a certain virus, <F>umm</F> so I couldn't hear at all.</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL><F>Hu-huh</F></OL>. Including your phone call. <OL><F>Um</F></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> So, <F>eh</F> but, you could just come before you went to the hospital.</A>
+<B><F>Urm</F> I was very exhausted because <F>um</F> <.></.> my body was fighting with the virus. So, <F>um</F> I felt like sleeping before I went to your dinner party <F>um</F>.</B>
+<A><F>Hum</F> <OL><?>I wonder</?></OL></A>
+<B><CO><OL>So</OL></CO>.</B>
+<A>you could come after you went to the doctor?</A>
+<B><F>Uh-huh</F> but <F>uh</F> <.></.> I fell asleep completely, and I <R>get up</R> <F>um</F> <.></.> get up <F>um</F> far after the party. I get up at <R>midnight</R> midnight <OL><F>um</F></OL>.</B>
+<A><OL><F>Oh</F></OL> but, we still had party after the midnight.</A>
+<B><F>Um</F> <.></.> <F>um</F> <R>I</R> I thought so, but <F>um</F> I wouldn't love to be a kind of party pooper because <F>urm</F> showing up later <.></.> must be <F>um</F> <.></.> <SC><laughter>not interesting</laughter></SC> <F>um</F> not effective way to <F>um</F> <R>pu</R> present myself.</B>
+<A><F>Oh</F>. <OL>Now</OL></A>
+<B><OL><F>Um</F></OL>.</B>
+<A>I understand. <F>Uhm</F>. Yeah, actually, we'll have another party soon.</A>
+<B><F>Oh</F> I love to.</B>
+<A><nvs>laughter</nvs> Yes. Please come. <OL>Yes</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>Thank you <OL>very much for calling</OL>.</A>
+<B><OL><?>Too</?> bad <F>hum</F></OL>. <F>Em</F> <laughter>also</laughter> again, I'm very sorry.</B>
+<A><F>Uhm</F> that's fine.</A>
+<B><F>Uh-huh</F>. So <.></.> I'm look forward to go to your next party.</B>
+<A>Yes. Please.</A>
+<B>Thank you.</B>
+<A>Thank you <OL>for calling</OL>.</A>
+<B><OL><??></??></OL> bye-bye.</B>
+<A>Bye-bye. O K. Thank you very much. <?>That's the end of</?> role play.</A>
+</task>
+<followup>
+<A><F>Oh</F> do you like parties?</A>
+<B>Yes.</B>
+<A><F>Uhm</F> Could you tell me any parties you went?</A>
+<B><F>Um</F> <R>the</R> <R>the day</R> the day before yesterday, I went to <F>err</F> small party, <R>then</R> <.></.> then I <R>drank</R> <F>err</F> <..></..> drank <F>err</F> <?>spiritous</?>. Do you know <?>spiritous</?>?</B>
+<A><laughter>No</laughter>.</A>
+<B><?>Spiritous</?> is very strong <?>and</?> <.></.> <?>thick</?> alcohol drink. <.></.> <R>It comes</R> it comes in a shot <SC>gun</SC> glass. This size.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL> small size.</B>
+<A><F>Hum</F>.</A>
+<B>And <.></.> I drank just a single glass of <?>spiritous</?> and <F>uhm</F> get lost.</B>
+<A><nvs>laughter</nvs> <F>Uhm</F>.</A>
+<B><F>Um</F>. I passed off.</B>
+<A><nvs>laughter</nvs> Did you have <SC>a</SC> that kind of party often?</A>
+<B>Yes. <OL><F>Uhm</F> actually</OL>.</B>
+<A><OL>Why</OL>? <nvs>laughter</nvs></A>
+<B><F>Hum</F>.</B>
+<A>Why?</A>
+<B>Once a twice a week.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Hum</F>.</B>
+<A><R?>Why</R?> why do you like to drink such strong alcohol?</A>
+<B><F>Urm</F> I <?>pastly</?> would be a very weak person. <F>Uh-huh</F>. But <F>urm</F> <.></.> I like the atmosphere of be get drunken and <.></.> also, the air. Everyone is drinking <F>urm</F> having fun, enjoying themselves <F>um</F> <SC>and</SC> so the joy <R>would</R> would come from <.></.> the atmosphere, not from the taste of liquor itself.</B>
+<A><F>Oh</F> I see, now I understand. It must be fun. <F>Uhm</F>.</A>
+<B>Very interesting.</B>
+<A>Yes, yes.</A>
+<B>Enjoyable.</B>
+</followup> 
+</stage3>
+<stage4>
+<task>
+<A>Must be. Let me go to next picture.</A>
+<B><F>Uh-huh</F>? Sure.</B>
+<A>This is a picture sequence from number one through six. Could you tell me about this story, and it was one day last week.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><SC>Last day</SC> last week, <F>um</F> I had a <.></.> awful incident <F>um</F> concerning myself. <F>Um</F>. One day, <F>um</F> as usual, I went to my home station <.></.> and <F>um</F> went up to the platform, waiting for my train. <..></..> Then, <F>um</F> a guy in front of me <F>uhm</F> accidentally, <.></.> <R>not</R> not <R>de</R> deliberately <F>um</F> <..></..> <R?>shove his</R?> shove his arm and <nvs>cough</nvs> <.></.> drop my bag <.></.> into the railroad <F>um</F> beneath the platform, <F>um</F> and I was <R>confuse</R> confused at the time, <F>um</F> <.></.> and <.></.> didn't know what to do <F>uhm</F>. <.></.> I could only <..></..> blame him <F>um</F>. <.></.> <F>Umm</F>. <..></..> I was angry about the guy <F>um</F> and <F>um</F> not willing to do anything <..></..> to save my bag. But, <F>err</F> <F>um</F> <SC>station</SC> a station officer <F>um</F> was toward me, and <.></.> get down to the railroad, and saved my bag <F>um</F>. Then, I <..></..> get cool, and <R>thank</R> thank to him <F>um</F> and <R>I</R> <.></.> I get on the train safely. <.></.> <?>And</?> moreover, successfully, I found a vacant seat <F>um</F> <R>and</R> <..></..> and went to my office <F>uhm</F> <SC>in safe</SC></B>
+<A>I see. Thank you very much.</A>
+<B>in time.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F> I see. <F>Wow</F>. <F>Oh</F>. So, <F>oh</F> have you ever had similar experience <OL>like this</OL>?</A>
+<B><OL>No</OL>, but every time, I <.></.> stood on the platform, <F>um</F> <R>I'm</R> I'm scared <F>um</F> because <F>um</F> if someone <.></.> pushed me <F>um</F> <laughter>forward</laughter>, <R>or</R> <.></.> or <F>erm</F> <.></.> any other guy would <F>uhm</F> <?>falls</?> into the platform, then I <.></.> <SC>simulate the situations</SC></B>
+<A><nvs>laughter</nvs> I <OL>see</OL>.</A>
+<B><OL><F>um</F></OL></B>
+<A><F>Wow</F>.</A>
+<B><SC>my</SC> simulate my reaction, <F>um</F> what to do. <OL><F>Um</F></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> Then, what would you do?</A>
+<B><F>Uhm</F>. <.></.> My imagination is that <F>um</F> <.></.> I would find <F>err</F> <SC?>pa</SC?> <R>proper</R> <.></.> proper space to hide. <OL><F>Hu-huh</F></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <laughter>I see</laughter>. That's good idea.</A>
+<B><F>Um</F>.</B>
+<A>Yes, thank you. It's almost end of the interview.</A>
+<B><F>Uh-huh</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>So, after this interview, what are you going to do?</A>
+<B>Because <F>urm</F> <.></.> I got up very very later, <F>mm</F> my breakfast was just a <R>cu</R> cup of <F>um</F> instant soup. So, <R>I like to</R> I like to eat a <JP>ramen</JP>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> My favorite <JP>ramen</JP> shop.</B>
+<A><laughter><F>Oh</F> I see</laughter>. O K, have a nice lunch time.</A>
+<B><OL>Thank you, thank you very much.</OL></B>
+<A><OL>Thank you very much <?>for coming to the</?> interview</OL>.</A>
+</stage5>
+</body>
+</interview>

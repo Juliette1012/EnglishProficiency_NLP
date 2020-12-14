@@ -1,0 +1,192 @@
+<interview>
+<filename>file01099.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>female</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>735</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B><OL>Hello</OL>.</B>
+<A><OL>My name</OL> is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mm-hm</F>. O K. <F>Ur</F> <H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A><F>Mm-hm</F>. So how's your work going so far?</A>
+<B><F>Urr</F> it's very well, but <F>urr</F> <SC>little</SC> I'm little <laughter>tired</laughter>.</B>
+<A><F>Uhm</F> tired. But it's still Monday though.</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Mhm</F>. O K. Are you a freshman?</A>
+<B>Yes, I'm a freshman.</B>
+<A>At this company. <F>Mhm</F>.</A>
+<B>Yes.</B>
+<A>So how are you enjoying work here?</A>
+<B><F>Urr</F> <..></..> I enjoy the training course for freshman.</B>
+<A><F>Mm</F>.</A>
+<B>For example, <F>urr</F> English conversation class or <F>ur</F> small project.</B>
+<A><F>Mhm</F>. O K. <F>Mm</F>. Do you like your English class here?</A>
+<B>Yes, I like it very much.</B>
+<A><F>Mhm</F>. O K. Is it different from the English class you had before?</A>
+<B><.></.> Yes, it had. <F>Urr</F>. <.></.></B>
+<A><F>Mm</F> like how different?</A>
+<B><F>Urr</F> I had studied English <SC>for</SC> <F>uh</F> especially in reading or writing skill, but now <SC>I study</SC> I'm studying in conversation class. So <R>I</R> I know I had a poor conversation skill in English. So I'd like to study more <F>ur</F> English in order to speak <R>fluen</R> fluently.</B>
+<A><F>Mm-hm</F>. You're speaking very well. <nvs>laughter</nvs> O K. And <R>then</R> <F>mm</F> then how about your university? Tell me about your university you were in.</A>
+<B>I graduated from <H pn="school name1">XXX03</H>. I was a master course in this university. <F>Err</F> so there were so many boy in the university. So I was a minority <nvs>laughter</nvs> in the university.</B>
+<A>Was it inconvenient for you?</A>
+<B><F>Urr</F> so there were many different aspects for me. So one aspect is <SC>inconvenient</SC> inconvenience. But <F>urr</F> <SC>I think</SC> now I think <F>err</F> it was a very good experience for me.</B>
+<A><F>Mm-hm</F>. I see. O K. Then <F>urr</F> where are you from?</A>
+<B>I'm from <.></.> <OL><H pn="others1">XXX04</H></OL>.</B>
+<A><OL>Originally</OL>. <F>Mm</F>. O K. So still you're living with your family?</A>
+<B>Yes.</B>
+<A><F>Uhh</F>. Tell me about your family then.</A>
+<B>Yes. <F>Urr</F> I have <F>ur</F> father, mother and sister.</B>
+<A><F>Mhm</F>. O K. Tell me about your sister.</A>
+<B>Yes. <F>Urr</F> my sister is two years older than me. And she is working for <H pn="company name1">XXX05</H>. But unfortunately, <F>urr</F> <R>she</R> <.></.> she is in the hospital now because she had an operation. <R>So I</R> <F>mm</F> so I go to the hospital to visit her <SC>as soon a</SC> as often as possible.</B>
+<A><F>Uh-huh</F>. I see. <F>Ur</F> I hope she'll get better soon. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then now, I will show you the picture. So please describe this picture for me.</A>
+<B>Yes. <.></.> <F>Ur</F> two ladies are chatting on the street. <F>Mhm</F> <..></..> he is running. <F>Mhm</F> <..></..> <SC>the dog</SC> a dog is sleeping on the car. <.></.> The sun is shining. <..></..> <F>Mhm</F> <SC>the man</SC> a man who wearing the <SC>glass</SC> glasses is reading a newspaper. <..></..> <F>Mhm</F> <.></.> two boys are playing. Two dogs are facing each other.</B>
+<A><F>Mm-hm</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A>So can you compare this neighborhood to the neighborhood you live now?</A>
+<B><F>Uhm</F>. <..></..> <F>Mm</F>. <..></..> <F>Mhm</F>.</B>
+<A>O K, then</A>
+<B><CO>I</CO>. <JP>Hai</JP>.</B>
+<A>which is better, is O K.</A>
+<B><F>Uhh</F>.</B>
+<A><F>Mhm</F>. Which is better? <CO>Maybe your <OL>neighbor</OL></CO>.</A>
+<B>For me?</B>
+<A><F>Mhm</F> for you.</A>
+<B><nvs>laughter</nvs> <F>Ohh</F> <.></.> <R>I'm</R> I'm sorry that <R>I</R> I don't know my neighborhood well so I can not <laughter>compare</laughter> with this picture.</B>
+<A>Why don't you know?</A>
+<B>Because <R>I</R> <.></.> <R>I</R> <.></.> <SC>I</SC> everyday, I go out my home in the early morning, and return back home in the evening so very late. So I rarely <SC>in my</SC> in the neighbor while sun is shining. <nvs>laughter</nvs></B>
+<A>I see. O K. Then what do you think about this neighborhood?</A>
+<B>Yes, I like <SC>the</SC> this atmosphere very much.</B>
+<A><F>Mhm</F>. What kind of atmosphere do you like?</A>
+<B><F>Oh</F> <F>mhm</F> <.></.> I think <F>uhm</F> <SC>there are</SC> <F>um</F> they are very friendly. <F>Mm</F>. <.></.> And healthy. <nvs>laughter</nvs></B>
+<A>That's true. <F>Mm-hm</F>. O K. Thank you very much. <F>Mm-hm</F>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Then <F>urr</F> let's do a role-play together. O K? So please read that card to yourself, and when you're ready, I will begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B><.></.></B>
+<A>I'm a station clerk.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>? Then how may I help you, ma'am?</A>
+<B>Yes. <F>Urr</F> I'd like to go <R>the</R> the New York by train as soon as possible. So please tell me what time <R>the train</R> the train which is <.></.> <SC>the most</SC> <R>the</R> the earliest train, <R>what time</R> <F>ur</F> what time <.></.> does <F>mm</F> the train leave?</B>
+<A><F>Mm-hm</F>. <F>Well</F>. O K. The super <R>exp</R> express train leaves in thirty minutes, <OL>but it's</OL> expensive, though.</A>
+<B><OL>In thirty minutes</OL>. How much is it?</B>
+<A>Three hundred dollars.</A>
+<B>Three hundred <OL>dollars</OL>.</B>
+<A><OL>Because it's</OL> super express train.</A>
+<B>How long does it take?</B>
+<A><F>Ur</F> one hour.</A>
+<B>One hour to New York from here. O K. So <SC>the second earliest one</SC> please the second earliest one's information, <OL>give me</OL>.</B>
+<A><OL><F>Mm-hm</F> <F>oh</F></OL> we have super express and local train, too.</A>
+<B><F>Oh</F> <.></.> <R>in</R> in <R>local</R> local train,</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>mhm</F> <.></.> how long does it take <SC>it</SC> by local train?</B>
+<A><F>Mm</F> three hours.</A>
+<B>Three hours. And how much does it cost?</B>
+<A><F>Mm</F>. Only eighty dollars.</A>
+<B>Eighty.</B>
+<A>Eighty dollars.</A>
+<B>Eighty dollars. On what time does the local train leave?</B>
+<A><F>Mhm</F> in <F>uhm</F> twenty minutes.</A>
+<B>Twenty minutes. <..></..> So I will take the ticket for super <R>expre</R> express, please.</B>
+<A><F>Mm-hm</F>. I see. O K. Then one ticket?</A>
+<B><.></.></B>
+<A>Just one ticket?</A>
+<B>Yes.</B>
+<A>O K. Then here is your ticket. And then</A>
+<B><nvs>laughter</nvs></B>
+<A>all right, thank you very much. Have a nice trip. <OL><F>Uhu</F></OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A>All right. So have you been abroad?</A>
+<B>Yes, I have.</B>
+<A>Where?</A>
+<B><F>Urr</F> for example, New York, <F>uum</F> Los Angeles, San Francisco.</B>
+<A>O K.</A>
+<B>But <F>urr</F> in Europe, Swiss, France, Italy.</B>
+<A>All right. Many places. O K.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Then</OL> what is the best memory you had during <OL>the trip</OL>?</A>
+<B><OL><F>Urr</F></OL> so <..></..> Norway is <SC>my best memory</SC> in best memory place.</B>
+<A>Why is that?</A>
+<B><R>I</R> I went there in <F>uhm</F> four years ago <SC>in summer vaca</SC> during summer vacation. So in Japan, <F>uhm</F> it's very hot in summer, <laughter>but</laughter> Norway <SC>is <.></.> nor</SC> is the north part of Europe. So <.></.> it's not so hot <laughter>rather</laughter> than cool in Norway even <?>in</?> <SC>it's summer</SC> it was summer. So I bought a sweater in Norway. <.></.> I realize the different of climate and culture.</B>
+<A><F>Mm-hm</F>. <OL>O K</OL>.</A>
+<B><OL>So</OL> it's very impressive for me.</B>
+<A>I see. O K. Thank you very much. I'm glad you had the nice memory over there.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, I will show you a last picture sequence. So please make up your own story using these pictures from one to six. <CO>Then this story</CO>.</A>
+<B><CO>One, one</CO>.</B>
+<A><F>Mm</F> one, two, three, four, five, six. Then this story happened before. So please start your story with "One day last week," then start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Mhm</F>. <..></..> One day last week, <F>urr</F> <.></.> she found <SC>there are</SC> there were no food in her refrigerator. So she went shopping by car. <..></..> She bought so many foods in the supermarket. <..></..> <nvs>laughter</nvs> <R>She</R> she paid the money <.></.> to the cashier. And <..></..> <R>she</R> she brought the foods to her home by car. And <..></..> she made a dinner.</B>
+<A><F>Mm-hm</F>. I see. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>So do you cook sometimes yourself?</A>
+<B><F>Mm</F> sometimes</B>
+<A>Sometimes.</A>
+<B>I can cook <OL>myself</OL>.</B>
+<A><OL>like</OL> in what occasion?</A>
+<B><F>Ur</F> both of my parents have been working. So my sister <laughter>or me</laughter> have to cook by myself.</B>
+<A><F>Mhm</F>. O K. Was it successful?</A>
+<B><nvs>laughter</nvs> Yes, I hope so. <nvs>laughter</nvs></B>
+<A><F>Mm-hm</F>. O K. <F>Urm</F> <SC>but</SC> <F>urm</F> O K, then how about your clothes, where do you usually shop for your clothes?</A>
+<B><F>Mm</F>.</B>
+<A><F>Mhm</F>.</A>
+<B><R>Clo</R> clothes? <R>I</R> I usually buy my clothes in <H pn="others2">XXX06</H>.</B>
+<A><F>Mhm</F>. Why <H pn="others2">XXX06</H>?</A>
+<B>Why?</B>
+<A><F>Mm</F>.</A>
+<B><F>Mhm</F> because there are many shops that is suitable for me.</B>
+<A>What do you mean by suitable?</A>
+<B>Suitable?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Uhm</F> <..></..> <F>mhm</F> I often go to <H pn="others2">XXX06</H> since I was a child. <SC>Becau</SC> so there are many shops which is well-known for me.</B>
+<A>I see. O K. <F>Oh</F> nice area to shop. <laughter>O K</laughter>. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So this is almost end of the interview. <F>Mm</F>. So are you going back to work now?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. But you said you like your work, right? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes, I like</OL>.</B>
+<A>O K. And then your co-workers are nice to you?</A>
+<B>Yes.</B>
+<A><F>Uhh</F> really? O K. But you've been very busy with your project.</A>
+<B>Yes. I'm very busy <OL>now</OL>.</B>
+<A><OL><F>Uhu</F></OL>. O K. But good luck on your project, English and then your new work, too.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,162 @@
+<interview>
+<filename>file00172.txt</filename>
+
+<head version="1.3">
+<date>2000-11-22</date>
+<sex>male</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>3</step>
+<TOEIC>740</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>I'm <H pn="B's name">XXX02</H>.</B>
+<A><F>Urr</F> Mister. <H pn="A's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>O K. <F>Urr</F> <.></.> do you like winter?</A>
+<B><.></.> Yes. I like skiing.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But, <F>urr</F> recently, <F>urr</F> I haven't <R>ski</R> <.></.> ski, because <F>urr</F> <.></.> <R>last</R> last year I had a baby.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>urr</F> we can't go skiing with him.</B>
+<A>I see.</A>
+<B>Too small.</B>
+<A><F>Oh</F>. <F>Urm</F> can you tell me more about your baby?</A>
+<B>Baby? <F>Urm</F> <F>uhm</F> last year <F>urr</F> <.></.> <SC>May ninety-nine</SC> May ninety-ninth, <F>err</F> <.></.> he was born. And now is <R>one</R> one and half <.></.> years old. <F>Uhm</F> <.></.> <F>urr</F> now <F>urr</F> he can <F>urr</F> run around <F>urr</F> <SC>my <.></.> room</SC> my house. So <F>urr</F> he can broke something <SC>for the</SC> <F>urr</F> for example <JP>shoji</JP> window <.></.> <F>urr</F> <F>uhmm</F> <.></.> <F>uhm</F> <.></.> and <SC>what</SC> <F>urr</F> <.></.> <SC>maybe I think</SC> <F>urr</F> <SC>I am</SC> I will be afraid <F>ur</F> my <R>vi</R> video tape recorder, <F>urr</F> <.></.> will be broken in the future.</B>
+<A><nvs>laughter</nvs> <F>Uh-huh</F>. Right.</A>
+<B>I'm very anxious about that. <.></.> So <F>uhm</F> <R>he</R> he is <SC>very <SC>activity</SC> ac</SC> very active. <F>Uhm</F>. <.></.> But we cannot say "Stop" "Don't" <F>urr</F> <.></.> to the baby. <F>Uhm</F> <JP><F>uunto</F></JP> <F>urr</F> I am <F>urr</F> annoy, <F>urrr</F> <.></.> because I can't say baby "Stop". But <.></.> I hope, <F>urr</F> <.></.> the baby <.></.> don't break the something.</B>
+<A><F>Uh-huh</F> I see. <F>Oh</F> your wife must be pretty busy. <F>Er</F> do you often help her?</A>
+<B><F>Uhm</F>. Yes. Recently, <F>urr</F> <R>I</R> <.></.> I help her <F>urr</F> housekeeping, wash the dishes, <F>urr</F>. <.></.> And <F>oh</F> <.></.> in this week, <F>urr</F> every day, <R>I wash</R> <.></.> I wash the <.></.> dishes.</B>
+<A><F>Uh-huh</F> I see. <F>Well</F> <F>urm</F> how do you spend your weekends?</A>
+<B>Weekends? <F>Uhm</F> <.></.> weekends <F>uhmm</F>. <.></.> <F>Uhm</F>. <F>Ur</F> <R>we</R> we always go to the park <SC>near here</SC> near my house. And <F>urr</F> <.></.> <R>he</R> he is not <F>er</F> good at <F>urr</F> playing <.></.> in <R>san</R> <R>san</R> <R>san</R> <R>san</R> sandy place. So <R>we</R> <SC>we try <F>urr</F> le</SC> <F>urr</F> we try to let him <F>urr</F> play the sand place</B>
+<A><F>Uh-huh</F>.</A>
+<B>recently.</B>
+<A><F>Uh-huh</F>. Near your house.</A>
+<B><F>Urr</F> <R>he</R> <R>he</R> <SC>he go to already</SC> <nvs>cough</nvs> excuse me, <.></.> he already go to the kindergarten <.></.> every day. So the teacher <F>urr</F> <.></.> <R>as</R> asked us <.></.> to <F>urr</F> <.></.> let him <F>er</F> play <.></.> <SC>san</SC> <.></.> in the <R>san</R> sand place.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because <R>he</R> <R>he</R> he seem to <F>er</F> dislike to play sand and make <R>dirt</R> dirty,</B>
+<A><F>Ahh</F> I see.</A>
+<B>he dislike.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now, I'd like to show you a picture.</A>
+<B><F>Uh-huh</F>. O K.</B>
+<A>O K? Please describe this picture.</A>
+<B>Yeah. <F>Uhm</F>. <.></.> This day is <SC>fi</SC> very fine day. So <F>urr</F> <.></.> in the garden there are many childrens <F>urr</F> who play <F>er</F> something, for example, <F>er</F> <SC>one childre</SC> one child plays a rope <.></.> and <F>er</F> <.></.> <SC>two children</SC> <R>o</R> other children <F>er</F> play <F>urr</F> to <.></.> ball <.></.> together. And <.></.> <F>ur</F> <SC>at</SC> on the <R>side</R> side walk <R>one</R> one man is running. And <F>urr</F> <.></.> <SC>ladies</SC> two ladies <F>urr</F> speak <R>to</R> together <F>urr</F> about <F>uhm</F> <.></.> a rumor of <.></.> times. And <.></.> other person, <F>err</F> is reading on the bench <SC>in <.></.> <R>groun</R> ground</SC> <R>ou</R> outside. <F>Uhm</F>. <F>Oh</F>. <.></.> Cat. Cat is <F>uhh</F> <.></.> <R>snooze</R> snoozing on the <.></.> <SC>roof of car</SC> roof of a car.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. <F>Er</F> does this picture look like your neighborhood?</A>
+<B>Unfortunately, <F>urr</F> <.></.> I can see <.></.> the situation.</B>
+<A><F>Uh-huh</F>.</A>
+<B><CO><OL><?>Before the</?></OL></CO>.</B>
+<A><OL>How is your place</OL> different from this?</A>
+<B><F>Uhmm</F>. We live in the city. So <F>urr</F> there are many <.></.> <SC>buildings</SC> <F>er</F> mansion. <F>Urr</F> <SC>there is no</SC> <.></.> <F>urr</F> there is not <.></.> <F>er</F> many <F>er</F> <SC>housing</SC> houses with <R>gar</R> garden, <.></.> <OL>yeah</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. I see.</A>
+<B>But <.></.> we can see the scene in the park <.></.> or <SC>river side</SC> <.></.> at river side.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Oh</F> I see. O K. <F>Er</F> now I'd like to try a role play. This one.</A>
+<B><F>Uh-huh</F>. <.></.> <F>Oh</F>. Japanese.</B>
+<A>O K?</A>
+<B><F>Uh-huh</F>.</B>
+<A><R>Please read</R> please read this. And when you're ready, I'll start.</A>
+<B>O K. <.></.> Hello? <F>Urr</F>.</B>
+<A>Hello?</A>
+<B>Hello? <F>Urr</F> <.></.> <R>would you</R> <.></.> <R>would you join us</R> <F>urrr</F> <.></.> would you join us <F>er</F> to go the theater <F>urr</F> <.></.> <SC>last week</SC> <.></.> <F>urrr</F> <laughter>no, no, next week</laughter>? <nvs>laughter</nvs></B>
+<A>O K. Sure.</A>
+<B>So, <F>uhm</F> <.></.> <SC>we</SC> <F>uhm</F> <R>will you meet</R> <F>urr</F> will you meet <F>urr</F> <.></.> <H pn="others1">XXX03</H> Station at <H pn="others2">XXX04</H> Line, <F>uhm</F> at <F>urr</F> three o'clock? <F>Uhm</F>. So <F>urr</F> <R>we</R> <.></.> <R>we will</R> we will <F>urr</F> meet together <.></.> at the station and <R>we will</R> we will <F>er</F> <R>go</R> go to <F>urr</F> the theater <F>er</F> to use <F>urr</F> <.></.> <H pn="others2">XXX04</H> Line. <F>Uhm</F> <R>it's</R> it's a subway. <SC>So</SC> and <F>urr</F> <.></.> we get off <F>urr</F> the train at <H pn="others3">XXX05</H> Station <.></.> and transfer, <F>urr</F> J R <H pn="others4">XXX06</H> Line, <.></.> and <F>urr</F> <.></.> <SC>to</SC> <.></.> we will <SC>get off the</SC> get off <H pn="others5">XXX07</H> Station. <.></.> So <SC>there is</SC> <F>er</F> in <H pn="others5">XXX07</H> Station, <F>er</F> there is <F>urr</F> a <R>thea</R> theater <.></.> <SC>to go</SC> <R>to see</R> <F>urr</F> <.></.> <R>to see</R> <F>urr</F> <.></.> to see <F>uhmmm</F> <.></.> movie <.></.> near the station.</B>
+<A><F>Uh-huh</F>. <.></.> O K.</A>
+<B>That's all. <nvs>cough</nvs></B>
+<A><F>Uh-huh</F>. O K. So I'll see you <.></.> at <.></.> <H pn="others1">XXX03</H> Station?</A>
+<B>Yes. Yes.</B>
+<A>O K.</A>
+<B>At three o'clock.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> This Saturday.</B>
+<A>Saturday? O K. I'll see you then. Bye-bye.</A>
+<B>See you. Bye-bye.</B>
+</task>
+<followup>
+<A>Thank you very much. You said you're worrying about your <F>urr</F> video tapes.</A>
+<B><.></.> Video types?</B>
+<A><R>Video</R> video tapes.</A>
+<B><F>Ah</F> video tapes?</B>
+<A><F>Uh-huh</F>. Do you collect <F>ur</F> movie video?</A>
+<B><.></.> <F>Uhm</F>. Yes. <F>Uhm</F> <.></.> I like a <.></.> <R>comedy movie</R> <.></.> comedy movie <.></.> very much.</B>
+<A><F>Uh-huh</F>. Why do you like comedy?</A>
+<B><F>Uhm</F>. <.></.> <F>Uhmm</F>. <.></.> I like <F>er</F> <.></.> the actor who is a Robin Williams and Dan Ackroyd and <F>urr</F> <.></.> Whoopie Goldberg <.></.> and Eddy Murphy.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>urr</F> <.></.> <SC>I like movie</SC> no, I love <F>urr</F> movies <F>uh</F> which <R>they</R> <.></.> they <F>urr</F> <.></.> make a play <.></.> in <.></.> the movie.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uh-huh</F> I see. O K. Now I'd like to show you another picture.</A>
+<B><F>Uh-huh</F>.</B>
+<A>This picture. O K? This is the picture story, and this happened last week.</A>
+<B>Last week? <OL>Yeah</OL>.</B>
+<A><OL>So</OL> please make a story and start with "One day last week,"</A>
+<B><F>Uhm</F>.</B>
+<A>O K? Please start from here, like this.</A>
+<B><F>Uhm</F>. Yeah. <F>Urr</F> <.></.> one day last week, <F>urr</F> <.></.> <R>I</R> I met <F>urr</F> <.></.> my father. So <F>er</F> we went to a restaurant <.></.> to eat a something. <.></.> So <F>urr</F> <.></.> my father <F>urr</F> <SC>have al</SC> has already reserved <F>urr</F> <.></.> <SC>seat</SC> table <.></.> in the restaurant <.></.> <R>with</R> with me. <R>So</R> <F>uhm</F> <.></.> so <F>urr</F> <.></.> he said, <F>urr</F> <.></.> then, "<R>Which</R> whichever you want to eat.". <.></.> So <SC>I</SC> <SC>we</SC> <.></.> <SC>I can</SC> <R>I</R> I could eat <F>urr</F> <R>everything</R> everything I want to eat. <.></.> So <F>er</F> I order <F>urrr</F> <SC>wait</SC> a waitress, <.></.> <F>uhm</F> <SC>what I</SC> <SC>I</SC> what I want to eat. <SC>So</SC> <nvs>cough</nvs> <.></.> and in the dinner time, <SC>we had <.></.> good</SC> we had a good time. So we drink <F>urr</F> beer very much and fish <.></.> or <.></.> <R>something</R> something <F>urr</F>. <SC>We</SC> I was satisfied <F>urr</F> <.></.> with <.></.> dinner. My father, too, <F>urr</F> <.></.> drink <F>urr</F> wine <.></.> and <F>uhm</F> <SC>he is</SC> he likes <F>urr</F> chicken <.></.> foods so he ate <F>urr</F> <.></.> chicken foods very much. And then <F>urr</F> <.></.> <R>he</R> <SC>he could</SC> <F>urr</F>, he paid <F>urr</F> <.></.> <SC>money</SC> a lot of money with dinner so I was, <F>er</F> satisfied <F>urr</F> <.></.> with dinner. <.></.> But <SC>I don't</SC> I didn't know <F>urr</F> how much <.></.> <R>it</R> it cost <.></.> to eat <F>urr</F> <R>at</R> <.></.> at restaurant. <R>He</R> he just know <.></.> only <F>ur</F> the cost. And then, <F>uhm</F> <.></.> <F>uhh</F> <.></.> <R>we</R> <F>urr</F> <.></.> <F>uhm</F> <R>we</R> <.></.> <SC>we</SC> <F>uhm</F> how can I say, <R>we</R> <.></.> <SC>we <R>se</R> separate</SC> <.></.> <F>uhm</F> we say "Bye-bye," <F>uhm</F> <R>at</R> <.></.> in front of the restaurant.</B>
+<A><F>Uh-huh</F>. O K.</A>
+<B>That's all.</B>
+</task>
+<followup>
+<A>Thank you very much. O K. <F>Urr</F>. Mister. <H pn="B's name">XXX02</H>, do you drink alcohol?</A>
+<B>Yes. I like alcohol especially <F>er</F> Japanese <JP>sake</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. <R>I like</R> <.></.> I like beer, too. But <F>urr</F> <.></.> it <R>is</R> is not good for me to drink a beer.</B>
+<A><F>Uhm</F>. Why not?</A>
+<B><R>Berr</R> <.></.> beer becomes <F>urr</F> <.></.> <F>urr</F> my health <F>uhh</F> <.></.> worse.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. <.></.> Japanese <JP>sake</JP> is better than beer.</B>
+<A><nvs>laughter</nvs> <laughter>Really</laughter>? <F>Oh</F> which do you like better, <F>er</F> drinking alone or with co-workers?</A>
+<B><F>Uhm</F> <.></.> I'd like to <F>urr</F> <.></.> drink <F>er</F> with <F>er</F> co-worker.</B>
+<A><F>Uh-huh</F>. Why?</A>
+<B>Because <F>urr</F> <.></.> I like <F>er</F> <R>dis</R> discussion or conversation with <F>er</F> co-worker. So <F>uhm</F> <.></.> <SC>when</SC> if I go to the bar alone, <F>uhm</F> it's boring because <F>er</F> we can't speak.</B>
+</followup>
+</stage4>
+<stage5>
+<A><nvs>laughter</nvs> I see. O K. This is almost the end of the interview. <R>Do you ha</R> <F>er</F> do you have any plan for a winter holiday?</A>
+<B><F>Uhm</F> <.></.> if possible <F>urr</F> <.></.> <R>we</R> <SC>we'd like</SC> we will <F>er</F> go abroad.</B>
+<A><F>Oh</F>.</A>
+<B><F>Uhm</F>. Guam or Saipan</B>
+<A><F>Uh-huh</F>.</A>
+<B>with the baby.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because <R>baby's</R> <F>urr</F> baby's <SC>fee</SC> flight fee <R>is</R> is <SC>free</SC> for free.</B>
+<A><F>Oh</F> free?</A>
+<B>Yes. Until three years or four years old, <.></.> baby's flight fee is free.</B>
+<A><F>Wow</F>. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> It's reasonable</B>
+<A>Right. Right.</A>
+<B>to go abroad</B>
+<A>Yeah. That's good.</A>
+<B>within baby's <F>er</F> is <F>urr</F> three years old.</B>
+<A><F>Mm</F> <F>hmm</F>.</A>
+<B><CO><R?>By</R?> <?>by</?></CO>.</B>
+<A>That's a good system.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K. This is the end of the interview. And thank you.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,136 @@
+<interview>
+<filename>file00146.txt</filename>
+
+<head version="1.3">
+<date>1999-12-17</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL>565</TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, let's start. My name is <H pn="A's name">XXX01</H> what is your name?</A>
+<B><F>Well</F> <F>uhm</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Hmm</F> can I call you <H pn="A's name">XXX01</H>?</A>
+<B>Yes, of course.</B>
+<A>O K. <H pn="A's name">XXX01</H> how are you today?</A>
+<B><F>Well</F> <F>err</F>. I'm fine but <F>err</F> a little bit sleepy because <.></.> <F>uh</F> <nvs>laughter</nvs> <F>mm</F> last night <.></.> I couldn't <.></.> have enough time to sleep.</B>
+<A><F>Wah</F> why not?</A>
+<B><F>Well</F> <F>um</F> at first, I went to bed <.></.> <F>ah</F> at <.></.> <F>um</F> one o'clock, <SC>in the mor</SC> <.></.> in the midnight. But <F>er</F> suddenly, <R>my</R> <.></.> <F>uh</F> <R>my high</R> my high school friend <SC>who was</SC> who is going to <.></.> <F>er</F> <H pn="school name1">XXX03</H> University called me.</B>
+<A><F>Uhm</F>.</A>
+<B><nvs>laughter</nvs> <F>Well</F> <F>er</F> <.></.> and he said that, <F>ah</F> <.></.> "Hey <H pn="B's name">XXX02</H> <F>um</F> <.></.> <R>I</R> <F>um</F> <.></.> I can't sleep now <.></.> and <R>I have nothing to</R> I have nothing to do <.></.> so let's have talk," <nvs>laughter</nvs> and <F>er</F> <F>mm</F> so "<R>Ha</R> How's everything going?". <.></.> Yeah, <F>ahhh</F> to frank with you, <F>ahhh</F> I really wanted to sleep because <.></.> today I have <.></.> <SC>a first class</SC> a first period class, so <SC>but</SC> <F>um</F> you know, because <.></.> <F>um</F> <.></.> <R>it is</R> <.></.> <SC>it is <.></.> lo</SC> it is so long since <.></.> <SC>I</SC> <F>eh</F> we <.></.> talked <.></.> last so <.></.> <F>um</F> I decided to <.></.> talk with him.</B>
+<A><OL><F>Uh</F></OL>.</A>
+<B><OL><??></??></OL> we talked about <nvs>laughter</nvs> many things like <F>um</F> <.></.> the school life or everythings or <.></.> movies or <.></.> girls <nvs>laughter</nvs> and <F>eh</F> <.></.> then <R>h</R> he suddenly said, "<F>Well</F> <.></.> <SC>I get</SC> <.></.> I want to sleep, so bye-bye.".</B>
+<A><F>Wow</F>. <?>Very</?> selfish.</A>
+<B>Yeah, and <OL>she's</OL></B>
+<A><OL>And</OL> you're nice. Are you always <R>so</R></A>
+<B><F>Uh-huh</F>.</B>
+<A>so nice as that to your friends?</A>
+<B><F>Well</F> <F>eh</F> <nvs>laughter</nvs> <.></.> <F>um</F> everyone said I'm <.></.> considerable <.></.> person. But <.></.> <F>mm</F> I don't know whether <.></.> I'm nice <.></.> or kind. <??></??> and <F>uh</F> <.></.> then <.></.> <F>ur</F> <SC>I wat</SC> <.></.> <F>uhh</F> <.></.> <SC>the time</SC> <.></.> time was <.></.> four o'clock <.></.> in the morning. <.></.> Then <R>I</R> <SC>I can</SC> I couldn't sleep, yeah.</B>
+<A>I see.</A>
+<B>So, <F>uhm</F> <.></.> after that, <F>ah</F> <.></.> <SC>I'll</SC> I watched T Vs or radio news, then <.></.> <F>er</F> <R>f</R> finally, I <.></.> became to sleep at <.></.> five or six o'clock. And <??></??> I waked up <.></.> nine o'clock this morning.</B>
+<A>O K. I see. And did you have time for breakfast?</A>
+<B><nvs>laughter</nvs> <F>Well</F> <F>ahh</F>. <.></.> <R>I ha</R> I have no time <.></.> to eat breakfast so I skipped it.</B>
+<A>I see. <F>Uhmm</F> so what are you going to have for lunch?</A>
+<B><F>Ehhn</F>. Maybe, <F>er</F> I go to the <.></.> cafeteria of my university and <.></.> <F>uhm</F> <.></.> <R>I wanna eat</R> I wanna eat <.></.> <F>uhmm</F> <.></.> <SC>hamburg</SC> <F>mm</F>? <F>mm</F> <R>h</R> <SC>ha</SC> I <?>wanna</?> eat hamburg or rice, <.></.> yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you, O K, now I need to show you a picture. Please</A>
+<B><F>Mh-huh</F>.</B>
+<A>describe it.</A>
+<ctxt>The interviewee is looking the picture.</ctxt>
+<B><F>Mhm</F>. <.></.> <F>Er</F> <.></.> this picture <.></.> <R>shows</R> <.></.> shows <F>urr</F> <.></.> <F>mm</F> a dinner time. And <F>er</F> <.></.> it was <R>ss</R> seven o'clock and people <R>enjoys</R> enjoys the dinner. And <F>eh</F> <.></.> <F>um</F> in the center of this picture, <.></.> <F>err</F> <.></.> maybe, <.></.> <F>mm</F> <.></.> a couple <.></.> <F>mhm</F> enjoys the dinner. <R>And</R> <.></.> <F>uhm</F> <.></.> and <.></.> drinking <.></.> <F>eh</F> the wine. <.></.> And <F>er</F> <.></.> <F>mhum</F> <??></??> <F>mm</F> <.></.> perhaps <F>mhmm</F> <.></.> the clerk or staff of <.></.> this <.></.> restaurant <.></.> <SC>asked</SC> <F>uhh</F> <.></.> ask a one person <SC>how's</SC> <.></.> how this wine. And he said, "Yes, it's very good and it's <??></??> very tasty so <.></.> <R>we</R> <.></.> we <SC>drin</SC> <.></.> decide <.></.> to drink <OL>this wine</OL>.".</B>
+</task>
+<followup>
+<A><OL><F>Mhmm</F> O K</OL>. good, thank you, <H pn="B's name">XXX02</H>. Do you drink wine?</A>
+<B><F>Well</F> I <.></.> <nvs>laughter</nvs> to be frank with you <.></.> <SC?>a</SC?> <R>I</R> I don't drink alcohol.</B>
+<A><OL><F>Oh</F> really</OL>? <OL>Why not</OL>?</A>
+<B><OL>Because <R>when</R></OL> <F>ahh</F> when I <.></.> drink alcohol, <.></.> <F>ahr</F> <.></.> <F>um</F> <.></.> my face <.></.> turns <.></.> red, and <F>uh</F> <.></.> <R>I</R> I want to <.></.> vomit.</B>
+<A><F>Ohh</F>.</A>
+<B>So, I'm so weak of alcohol. <.></.> <OL><F>Mhm</F></OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><F>Mm</F>? But <F>er</F> <.></.> sometimes <F>ah</F> <.></.> my friends, invite the party and <.></.> they want to drink. So, <.></.> <F>urr</F> <.></.> <SC>although, I can</SC> <F>uhm</F> <SC>although</SC> <SC>or</SC> because I can't drink alcohol so, <.></.> <SC>I'll</SC> I drink <.></.> orange juice or <.></.></B>
+<A><F>Ohh</F>.</A>
+<B>oolong tea and <.></.> enjoys the party.</B>
+<A><F>Uhmm</F>. O K, thank you.</A>
+<B><OL><F>Mm-hum</F></OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL>Now</OL> let's do <.></.> <?>a</?> role play. Please read the card and when you are ready, I'll start.</A>
+<B>Yes. <F>Uh-huh</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B><F>Uhm</F>. <OL>O K. Yes</OL>.</B>
+<A><OL>Are you ready, O K</OL>? Hello, how can I help you, sir?</A>
+<B><F>Well</F> <SC>I</SC> excuse me, but <F>um</F> <.></.> <F>uhm</F> <.></.> <F>mm</F> the other day <.></.> I bought this dress but <F>um</F> <F>er</F> <R>when I back</R> <.></.> when I <SC>back <.></.> to</SC> <.></.> <SC>back my home</SC> <F>um</F> back my house, <F>ah</F> I realized that <.></.> I don't like this. So, <.></.> I'm sorry but <F>uhm</F> if it's possible, <SC>I wanna</SC> <.></.> I want to <.></.> change this clothes <.></.> <F>mm</F> to another <.></.> <F>mm</F> clothes <.></.> or I <.></.> want you to <.></.> back my money.</B>
+<A>Why you don't like it?</A>
+<B><F>Well</F> <F>uhm</F> <.></.> <F>mmm</F>. <.></.> I think, <.></.> at first, when I <.></.> bought <.></.> this <.></.> cloth <.></.> and <.></.> <SC>it</SC> it's warm and <.></.> <SC>it seems</SC> <R>it</R> it looks like warm sweater, but <.></.> <R>when I</R> <.></.> <F>er</F> when I backed home and when I <.></.> try this on, <F>ah</F> I realized that <F>uhm</F> <.></.> <F>mm</F> this <.></.> not so warm. <R><laughter>So</laughter></R> so <SC>I wanna <R>m</R> more</SC> <.></.> I want <.></.> <SC>more warm sweater</SC> <.></.> warmer sweater.</B>
+<A>I'm sorry, but it's not our fault.</A>
+<B>Yes, actually you're right. But, <F>umm</F> <.></.> if possible, <.></.> <R>I want</R> I want you <.></.> to change clothes. <R>I want</R> I want allow me to change the clothes.</B>
+<A><F>Mm</F> why do we have to do that?</A>
+<B><F>Well</F> <SC>I</SC> <nvs>laughter</nvs> <.></.> <F>hum</F> yes, actually it's my fault. <.></.> <R>I'm</R> I'm to blame, but <.></.> <F>humm</F> <.></.> <F>well</F> let me see, <F>err</F> <.></.> <F>mm</F> <.></.> I am a customer and <.></.> <F>uhh</F> <R>I</R> <SC>I</SC> <F>er</F> <.></.> the cost <.></.> is <R>too</R> too much and <.></.> <F>uhmm</F> <.></.> <SC>I <.></.> want</SC> <.></.> <SC>I <R>wan</R> want <.></.> <F>mm</F> to</SC> I want to buy <.></.> something that <.></.> I'm very satisfied with, <R>bec</R> because <R>I have to</R> <.></.> <R>I have to</R> <.></.> <F>hum</F> <.></.> <SC>I have <.></.> to</SC> <.></.> <F>er</F> <.></.> the cost is very high. So, <.></.> if possible, <.></.> <R>I <.></.> want <.></.> you</R> I want you to allow me to change clothes.</B>
+<A><F>Humm</F>. O K, only this time because I know you're a good customer of our store.</A>
+<B><OL><F>Mm-hum</F></OL> yeah, thanks.</B>
+<A>Here's your money.</A>
+<B>Thanks very much. <F>Ah</F> and then <.></.> <F>ah</F> can <.></.> I <.></.> look for something that I want <OL>to buy</OL>?</B>
+<A><OL>Sure</OL>.</A>
+<B>Yes, thanks, thank you very much.</B>
+<A><??></??> <?>buy some more</?>. O K, thank you. Please come again.</A>
+</task>
+<followup>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Good. And <F>er</F>. <.></.></A>
+<B>Yes.</B>
+<A>O K. Now. I'm going show you a different picture.</A>
+<B><F>Mm-hum</F>.</B>
+<A>Please describe that <.></.> and please make a story.</A>
+<B>O K.</B>
+<A>O K.please look at that and <F>er</F> <F>mm</F> make a story starting with 'one day last week'.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<A>O K? Can you start now?</A>
+<B>O K. <F>Ahh</F> <.></.> one day last week, <.></.> <F>um</F> <.></.> it rained <.></.> hard <.></.> and <F>erm</F> <.></.> <F>mm</F> <.></.> <R>th</R> <R>three persons</R> <.></.> <F>mmm</F> <.></.> <SC>three persons</SC> <F>er</F> although three persons <.></.> wanted to go somewhere, but <F>um</F> <.></.> <SC>it rains so</SC> it rained hard so, <.></.> <F>um</F> <.></.> <SC>they can</SC> <F>er</F> <.></.> they're discussing <.></.> what they should do <.></.> or <R>what</R> <.></.> <SC>what</SC> <F>urm</F> how they kill the time. And <F>er</F> <.></.> <F>mm</F> <SC>sudden</SC> <F>mm</F> <SC>and</SC> <.></.> <F>ah</F> while <SC>they are discussing</SC> <R>they</R> <??></??> they were discussing, <F>ah</F> <.></.> one of them said that <F>er</F> "<R>I have a</R> <.></.> I have a good idea, <R>let's go to the</R> <.></.> let's go to see the <.></.> movies.". And, they said, "Yeah, that's very great idea. So <.></.> let's go.". And <F>ah</F> <F>ahh</F> yes, and they <.></.> <R>went to</R> <.></.> went to <.></.> the cinema and <.></.> <F>mm</F> <.></.> and, <.></.> <??></??> buy the ticket of <.></.> movie. And <.></.> the cost is two thousand and, <SC>fif</SC> five hundred yen, <.></.> and <.></.> before <SC>they wat</SC> <.></.> <SC>they start</SC> they began to watch <.></.> <SC>the vide</SC> the movies, <F>er</F> <SC>they buy</SC> <.></.> <R>they bought</R> <.></.> <F>err</F> they bought something to eat like <.></.> cokes or <.></.> popcorn. <.></.> And <.></.> after <.></.> buying those things, <F>er</F> <.></.> <SC>they <.></.> start</SC> <.></.> they began to <.></.> watch <.></.> movies. <F>Mm</F>. <R>It's</R> <R>it's about</R> <.></.> <SC>it's about</SC> <F>uhm</F> <.></.> <F>um</F> <.></.> <F>mm</F> <R>it's</R> <.></.> <SC>it's about</SC> <F>um</F> <.></.> how can I say <F>err</F> <.></.> <SC>it's about <.></.> <F>mm</F> very s</SC> <SC>it</SC> it's very thrilling <.></.> movies and <.></.> <F>er</F> <.></.> in that movie. <SC>The plan get</SC> the <.></.> plan <.></.> had a accident and <SC>their</SC> <F>mm</F> <R>the</R> <.></.> the plane was <.></.> <R>about to</R> <.></.> about to <.></.> fall down. <R>It's very ex</R> it's very exciting movie. They enjoyed it a lot. And, <R>after</R> <.></.> after <.></.> finishing watch the movie, <F>err</F> they said, "Yeah, it <??></??> <?>that's</?> very interesting movie.". And so, I was so excited.</B>
+<A><F>Huhm</F>.</A>
+<B><??></??>.</B>
+</task>
+<followup>
+<A>Good, thank you <H pn="A's name">XXX01</H>. Now, can you compare seeing a video at home</A>
+<B><F>Mm-hum</F>.</B>
+<A>with seeing a movie in the theater?</A>
+<B><F>Nah</F>. <.></.> <F>Well</F> I think that <F>um</F> <.></.> the good point of <.></.> seeing <.></.> movie at theater is <.></.> that <F>um</F> <.></.> <F>mm</F> <.></.> <SC>we can <.></.> experience</SC> <R>w</R> <F>uhmm</F> <SC>we can see</SC> <F>ah</F> we can feel, a <.></.> very <.></.> <R>powerful</R> powerful noise. And <F>emm</F> <.></.> because the sound is very big and <.></.> the screen was also so big. So, <F>um</F> that's good point. And <.></.> <F>um</F> bad point <.></.> of seeing movies at theater is that the cost is very high. I don't know exactly, but, <SC>it</SC> <SC>I think it's about</SC> I guess it's about <.></.> <F>uhh</F> was <?>four</?> thousand or two thousand yen. So it's <SC>very high</SC> cost high. And <.></.> <F>ummm</F> <SC>compared with</SC> compared to <.></.> seeing <.></.> <R>the</R> the movies at theater, <F>ahh</F> <.></.> the good point of <.></.> <F>humm</F> seeing <.></.> rental videos at home is that <.></.> <F>mm</F> at first, the cost is very low and <SC>it</SC> when, <?>we'll</?> rent the movies at shop, <SC>it's about</SC> it cost about <.></.> <F>mm</F> <.></.> two hundred or three, hundred yen. <SC>It</SC> <R>it's ve</R> <.></.> it's very reasonable. And <F>er</F> <F>mm</F> and <R>one</R> <SC>one more thin</SC> one more <F>mm</F>.</B>
+<A><F>Hum</F> <F>hum</F>.</A>
+<B><OL><?>Other</?>, O K</OL>?</B>
+<A><OL>O K</OL> I think that's enough. Very good. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So, <F>uhm</F> what are your plans for this weekends?</A>
+<B><F>Mm-hum</F>. <R>This weekend</R> <F>ah</F> <.></.> this weekend, <SC>I have</SC> I will have a part-time job <.></.> as a teacher at <.></.> private tutoring school.</B>
+<A><F>Huhm</F>. I see.</A>
+<B>And, <F>mm</F> <.></.> <R>because</R> <F>err</F> <.></.> because in the school, <F>uhrr</F> winter <.></.> <R>s</R> special winter course <SC>begi</SC> will begin.</B>
+<A><F>Humm</F> <F>humm</F> <F>humm</F>.</A>
+<B><.></.> <F>Ah</F> I have to <.></.> teach <.></.> my student <SC>until</SC> <F>er</F> <R>from</R> <.></.> <F>umm</F> <F>um</F> from <.></.> <R>th</R> three o'clock to nine or ten o'clock.</B>
+<A><F>Huhm</F>. O K <OL>Thank you</OL>.</A>
+<B><OL><F>Mm-hum</F></OL>.</B>
+<A>Have a nice time and thank you for coming in.</A>
+<B>Yes, thank you very much.</B>
+</stage5>
+</body>
+</interview>

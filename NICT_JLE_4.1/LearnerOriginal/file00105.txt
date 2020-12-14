@@ -1,0 +1,154 @@
+<interview>
+<filename>file00105.txt</filename>
+
+<head version="1.3">
+<date>1999-12-17</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>landlord_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> O K.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>Fine. <.></.></B>
+<A>O K. Have you eaten lunch yet?</A>
+<B><.></.> No. I'm eat only breakfast.</B>
+<A><F>Ah</F>. Really?</A>
+<B>But I ate ten or eleven o'clock.</B>
+<A><F>Uhm</F>.</A>
+<B>So I'm not hungry now.</B>
+<A>I see. What did you eat?</A>
+<B><F>Uhm</F> rice and egg and <SC>oran</SC> two oranges <.></.> and yogurt.</B>
+<A><F>Uhm</F>. Did you prepare that for yourself?</A>
+<B>No, my mother prepared.</B>
+<A>I see. Is she a good cook?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A>I see. So please tell me about your family now.</A>
+<B>Family? <F>Uhm</F> there are four people, and father and mother and brother and me. <F>Mhm</F> my father is short and average weight. And he works Monday to Friday and usually he come back home <R>u</R> until seven o'clock. So we eat with him. And maybe his hobby is watching a movie.</B>
+<A>I see.</A>
+<B>And my mother is also full-time worker. But <SC>he</SC> <R>she</R> she come home until six o'clock.</B>
+<A><F>Wow</F>.</A>
+<B>And prepare dinner. And she is short hair and average height and average weight. And she likes eating.</B>
+<A><F>Oh</F>.</A>
+<B>Especially sweet.</B>
+<A>I see. How about you? Do you like sweets?</A>
+<B>Yes. Of course. <F>Mhm</F> we eat a lot sweet with my mother. And <SC>my mo</SC>, my brother is <H pn="school name1">XXX03</H> University student.</B>
+<A><F>Ah</F>.</A>
+<B>And he will graduate from <R>uni</R> this university this year.</B>
+<A>I see. So both of you chose <H pn="school name1">XXX03</H>.</A>
+<B>Yes.</B>
+<A>Why is that?</A>
+<B><R>He</R> he went to <SC>high scho</SC> <H pn="school name1">XXX03</H> high school. So <.></.> <R>he choo</R> he choose. And <.></.> my house is near <H pn="school name1">XXX03</H>.</B>
+<A>I see. Is that the reason for you?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>.</A>
+<B><R>And</R> <.></.> and <R>my <.></.> brother</R> <F>er</F> my brother major politics. <.></.> <SC>I'm literature</SC> I major literature. <R>And</R> and he is also short and skinny. And <SC>he's</SC> he wear always black and brown <OL>clothes</OL>.</B>
+<A><OL>I see</OL>.</A>
+<B>And <.></.> his hobby is, I think, <R>compu</R> computer or watching movie videos.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you. Now, please look at this picture and describe it.</A>
+<B><.></.> Describe?</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> It is fine day. And there are <.></.> one house. And <SC>many children play with ball</SC> <.></.> two children <SC>with</SC> play with ball. And one man run. And there are three dogs. <.></.> One is holded by woman. And the woman talking with other woman.</B>
+</task>
+<followup>
+<A><F>Uhm</F> <F>Uhm</F> Great. Thank you, <H pn="B's name">XXX02</H>. What do you like to do <F>ah</F> on a sunny day like this?</A>
+<B>What?</B>
+<A>What do you like to do outside on a sunny day like this?</A>
+<B><.></.> What do you like?</B>
+<A>What do you like to do outside, <.></.></A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>outside</OL> the house?</A>
+<B><F>Uhmm</F> I like walking.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <SC>on sunny</SC> if it is sunny day.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhmm</F>. <.></.> And, <.></.> <R>if</R> <F>er</F> if it rains, <R>I</R> <SC>I don't like</SC> I hate raining, so I <.></.> never go <.></.> out.</B>
+<A>I see. And then what do you do?</A>
+<B><F>Uhmm</F>. <F>Er</F> I also like shopping. So I go, <.></.> <F>uhm</F> shopping for Kichijoji by <R>wa</R> walking or using bicycle.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. Thank you, <H pn="B's name">XXX02</H>. Now, I'm going to <?>show you</?> a role play card. Please read that. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>Are you ready? Hello. How can I help you, Miss?</A>
+<B><SC>I'm</SC> <.></.> I want to borrow <SC>some</SC> one <F>er</F> apartment. <F>Uhmm</F> <.></.> <R>I</R> I saw <.></.> <R>one</R> one <SC>hou</SC> apartment in this morning. And <.></.> so, <SC>I like</SC> I want to ask some about the apartment.</B>
+<A>Yes. What are your questions?</A>
+<B><F>Urr</F> <..></..> firstly, I want to ask <R>how</R> <.></.> how much <SC>does it <.></.> cost</SC> <.></.> <SC>pay</SC> <.></.> should I pay?</B>
+<A><F>Urr</F> it is one hundred thousand yen a month.</A>
+<B><R>O</R> O K. So <.></.> if <R>I</R> I borrow <SC>the hou</SC> <SC>the apar</SC> the room, <SC>should I pay other</SC> <.></.> should I pay some other things?</B>
+<A><F>Mhm</F> Yes. You have to pay for the deposit money and key money.</A>
+<B><.></.> How much does it?</B>
+<A>It's two hundred thousand yen altogether.</A>
+<B><F>Uhm</F> <R>And</R> <..></..> and <R>I</R> <R>I didn't</R> <R>I didn't</R> I didn't see the <SC>room</SC> inside room, so I want to know how is the room.</B>
+<A><F>Mhm</F> Very clean and <F>uhh</F> <F>well</F> furnished, actually.</A>
+<B><F>Well</F> furnished?</B>
+<A><F>Mhmm</F>.</A>
+<B><F>Mmm</F>. The toilet and bathroom,</B>
+<A>Yes.</A>
+<B>is it separate?</B>
+<A>Yes.</A>
+<B>And <SC>the</SC> <.></.> <F>uhmm</F> <R>can I</R> can I <.></.> have a pet?</B>
+<A>It depends on the pet. Not a big dog.</A>
+<B>Not big. Cat is O K?</B>
+<A>Yes. I think so.</A>
+<B><.></.> Which station is near?</B>
+<A><H pn="school name1">XXX03</H>.</A>
+<B><H pn="school name1">XXX03</H>? <..></..></B>
+<A>O K. Would you like to see it? See the house? O K. I'll show you.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>O K. Good. Thank you. So now, you live in a house.</A>
+<B><F>Mhm</F></B>
+<A><F>Uh-huh</F> Is there any problem in your house?</A>
+<B><.></.> Problem?</B>
+<A><F>Mhmm</F>. Everything is O K about your house?</A>
+<B><.></.> Neighbor is a little bit noisy.</B>
+<A>I see.</A>
+<B>Dogs and <F>uhmm</F> <.></.> Maybe but only this point.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhmm</F> I see. O K. Thank you very much <H pn="B's name">XXX02</H>. Now, finally, please make up a story using these six pictures. And please start with "One day last week".</A>
+<B>One day last week, one woman went to department store. <.></.> <R>And</R> and she went to, <.></.> <F>mhm</F> <SC>tie</SC> tie's department. <.></.> And <R>she</R> <.></.> she would like to buy one necktie. And <.></.> <R>she choosed one necktie</R> <.></.> she choosed one necktie <.></.> <F>mhm</F> <.></.> <R>one</R> for present. And she bought it. <.></.> After that, she asked <.></.> the shop staff, <F>ur</F> where is upstairs for <.></.> third floor. And she went to third floor.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F> O K. Thank you, <H pn="B's name">XXX02</H>. Do you like to go shopping?</A>
+<B>Yes.</B>
+<A><F>Uhm</F>. So please tell me about the last time you went to shopping.</A>
+<B>Last time, <F>mhmm</F> maybe I went to Kichijoji. And I bought <R>clothes</R> <SC>clothes</SC> skirt. Usually I went to there <R>one</R> one shop because there are good clothes. I like the <??></??> clothes at that shop.</B>
+<A><F>Mhmm</F> In what way are they good?</A>
+<B><F>Uhmm</F> <.></.> <F>Urmm</F> <SC>not so hi</SC> not so expensive but design is good.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Oh</F>. That's good. Nice. O K. Thank you very much, <H pn="B's name">XXX02</H>. The interview is almost over. <F>Err</F> But what are you going to do this weekend?</A>
+<B>This weekend? Maybe I will do the part-time job.</B>
+<A>I see. <F>Uh-huh</F></A>
+<B><.></.> And I must gain a lot of money.</B>
+<A><nvs>laughter</nvs> I see. O K. So have a good time then. Thank you very much for coming in today.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

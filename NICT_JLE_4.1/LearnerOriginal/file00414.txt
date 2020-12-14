@@ -1,0 +1,168 @@
+<interview>
+<filename>file00414.txt</filename>
+
+<head version="1.3">
+<date>2001-03-19</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>730</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>, can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you Mister <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K, how are you today, Mister <H pn="B's name">XXX02</H>?</A>
+<B>Thank you.</B>
+<A>How are you?</A>
+<B>Fine thank you,</B>
+<A><OL>Good</OL>.</A>
+<B><OL>and you</OL>?</B>
+<A><F>Oh</F>. <laughter>I'm fine, too</laughter>. Where do you live?</A>
+<B><F>Mm</F> I live in <H pn="others1">XXX03</H>. <.></.></B>
+<A>What city?</A>
+<B><F>Er</F>. <H pn="others2">XXX04</H> City.</B>
+<A><F>Hum</F>. Tell me a little bit about <H pn="others2">XXX04</H> City.</A>
+<B><laughter><H pn="others2">XXX04</H> City</laughter> <F>err</F> I have lived <F>er</F> for short time. I don't know much. <.></.> But <R>I</R> I like the city very much. I lived <H pn="others3">XXX05</H> City before the <H pn="others2">XXX04</H> City. <R>I</R> I goes the beach, but <F>er</F> from <H pn="others2">XXX04</H> <F>er</F> it takes many time to go beach. So <R>I don't</R> I don't like <H pn="others2">XXX04</H>.</B>
+<A>You said before you moved in <H pn="others2">XXX04</H> City,</A>
+<B>Yes.</B>
+<A>where did you live?</A>
+<B>I lived in <R><H pn="others4">XXX06</H></R> <H pn="others4">XXX06</H> City.</B>
+<A>How did you like <H pn="others4">XXX06</H> City?</A>
+<B><F>Erm</F>. <.></.> The town is clean and the atmosphere is good. I like it. And the condition of traffic is much better than <H pn="others2">XXX04</H>.</B>
+<A><F>Mm</F>. In what way?</A>
+<B>What way?</B>
+<A>Yeah.</A>
+<B><F>Er</F>. For example, route <F>mm</F> <SC>once</SC> <F>er</F> one, two, three <..></..> is so <.></.> empty.</B>
+<A><F>Uhu</F> I see. O K, so Mister <H pn="B's name">XXX02</H>, could you tell me a little bit about your job?</A>
+<B><R>I'm a</R> I'm a financial analyst of <SC><H pn="company name1">XXX07</H></SC> <H pn="company name1">XXX07</H>. <F>Mm</F>. <R>I have</R> I have researched the Japanese financial company, but <F>er</F> I changed the division. <F>Er</F> <SC>I work</SC> <F>mm</F> I <SC>began to work in</SC> began to work last month <SC>di</SC> <R>in thi</R> in this division.</B>
+<A>I see. How did you get interested in the field? <R>Analysy</R> analysis.</A>
+<B>How?</B>
+<A>How.</A>
+<B><F>Mhm</F>.</B>
+<A><laughter><F>Mhm</F></laughter>.</A>
+<B><..></..> I majored in finance <R>in co</R> in college. <F>Mm</F> <SC>I interest</SC> I was interested in the theory.</B>
+<A><F>Uhu</F>. Do you have any hobbies, Mister <H pn="B's name">XXX02</H>?</A>
+<B>Yes. <F>Erm</F> I like surfing and snowboarding.</B>
+<A>Snowboarding, not skiing.</A>
+<B>Yes.</B>
+<A>Why not?</A>
+<B><F>Er</F> <nvs>laughter</nvs> <F>err</F> <..></..> <R>I</R> <R>I do</R> I do skiing <F>mm</F> but <F>err</F> <.></.> <R>I</R> I changed last year. <F>Mm</F> <R>I</R> I think <SC>snowboard</SC> snowboarding is <F>er</F> more interesting <.></.> than skiing.</B>
+<A>How so?</A>
+<B><laughter>How so</laughter>?</B>
+<A><F>Mm</F>.</A>
+<B><..></..> As <R>snow</R> snowboarding <R>we can</R> we can do <F>mm</F> tricky thing, jumping or turning on the air.</B>
+<A>What's <?>snowky</?> thing?</A>
+<B>Snow, <F>hum</F>?</B>
+<A>What's the first word?</A>
+<B><R>Tri</R> tricky.</B>
+<A><?>Twicking</?>.</A>
+<B>Tricky.</B>
+<A>What is that?</A>
+<B>Tricky is <F>err</F> <.></.></B>
+<A>How do you do it?</A>
+<B><.></.> <F>oh</F> just <F>er</F> jumping, <F>er</F> turning on the air. <.></.></B>
+<A>I see, O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Let's move on. <F>Um</F>. Now I'm going to show you a picture.</A>
+<B>Yes.</B>
+<A>This one. So please describe it for me.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>This is a restaurant, <F>um</F> they are having dinner. <..></..> He recommend the wine. <..></..> The guest is <F>er</F> tasting the wine. <..></..> <R>There is a</R> there is a service, <F>er</F> playing the piano, live. <..></..> I think it good restaurant. <.></.></B>
+<A>That's all?</A>
+<B>Yes.</B>
+<A>O K, good. Thank you.</A>
+</task>
+<followup>
+<A>So, Mister <SC>Ku</SC> <H pn="B's name">XXX02</H>,</A>
+<B>Yes.</B>
+<A>Do you go to this kind of restaurant?</A>
+<B><.></.> <CO>Do</CO>. <.></.></B>
+<A>Do you go to this kind of restaurant in your life?</A>
+<B>Yes, <F>er</F> but <F>er</F> <SC>I didn't go</SC> <SC>I didn't</SC> <R>I</R> I couldn't go with my money. <SC>My parents</SC> with my parents.</B>
+<A>I see. Tell me about the last restaurant you went to.</A>
+<B>Last restaurant, <F>erm</F> <.></.> the end of the last year <F>er</F> <R>my</R> <SC>my family</SC> with my family, I went to Italian restaurant in Osaka. <SC>I live in <H pn="others5">XXX08</H></SC> <F>er</F> my parents live in <H pn="others5">XXX08</H>. <R>The</R> the restaurant's view is good. The <SC>highest is</SC> height is <..></..> one hundred fifty meters. <.></.> <R>We can</R> we can see the Osaka's night <?>scope</?>. <.></.> And <F>er</F> the dinner is good.</B>
+<A>O K, thanks.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, let's move on. Next we are going to do a role-play.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is taking out the card.</ctxt>
+<A>Here you go. It's written in Japanese, so please read it to yourself, when you are ready I'll start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K.</B>
+<A>Ready? O K. Let's start. Hello, may I help you, sir?</A>
+<B><F>Er</F>. <R>I bought</R> <R>I bought</R> <..></..> I bought ski wear <F>er</F> yesterday. But <F>er</F> <.></.> <R>the</R> the <R>size</R> size don't fit me. Now, <SC>I want to</SC> I'd like to the change the sizes. <.></.></B>
+<A>O K, but I thought you tried it on yesterday, before you bought it. What happened?</A>
+<B><.></.> <F>Err</F> <..></..> I tried with only <SC>my</SC> <F>er</F> on T-shirt. But <SC>I</SC> after <R>I</R> <.></.> I came home and <R>I</R> I try with <SC>trainer</SC> <nvs>laughter</nvs> sweater, but <F>er</F> this wear is <F>smm</F> little tight.</B>
+<A>I see. <F>Hum</F>. Actually it against our policy, so.</A>
+<B>I know but <F>er</F> the wear, <R>I</R> I didn't cut the tag and <F>er</F> the condition is not changing. So please change it. <nvs>laughter</nvs></B>
+<A>O K, I'll go to talk to our manager then. I'll see we can do.</A>
+</task>
+<followup>
+<A>O K, thank you. That's the end of our role-play. So now, Mister <H pn="B's name">XXX02</H>, you are wearing such a nice tie. How did you get that?</A>
+<B><laughter>This tie</laughter>?</B>
+<A>Yes.</A>
+<B><..></..> I bought it last spring sale in Marui.</B>
+<A>O K. Why did you decide that color?</A>
+<B><F>Er</F>. I didn't have the tie of such color. So <SC>I'll</SC> <R>this</R> this color seems to very attractive to me.</B>
+<A>I see. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, lastly <F>um</F> I'm going to show you another picture.</A>
+<B><F>Uhu</F>.</B>
+<A>O K, this happened in the past, so please make a story based on these six pictures. And please start with "One day last week,"</A>
+<B><..></..> One day last week, <..></..> the guy was driving on the street. And <F>er</F> another guy was <..></..> driving on the bike with <R>speaking</R> <.></.> speaking <SC>his frie</SC> his girl friend on cellular, <R>but</R> <..></..> but he was <R>concent</R> concentrated this talking, and <F>er</F> <R>he</R> <R>he ro</R> he road right side on the road. So <R>the</R> the accident happened. <..></..> But <R>the</R> the rider was so angry because <R>his</R> his bike was broken. But <F>er</F> the <R>driver</R> <R>driver</R> driver found the phone and he insists his <R>mis</R> mistake to policeman. <..></..> And <F>er</F> the <R>bike</R> <.></.> bike was carried with the truck. Finish.</B>
+</task>
+<followup>
+<A>O K, Thank you. Now Mister <H pn="B's name">XXX02</H>, have you been involved in any car accident before in your life?</A>
+<B>Fortunately, no.</B>
+<A>O K, have you seen any car accidents?</A>
+<B><.></.> Yes. <F>Er</F>. When <R>I was</R> I was driving on highway <..></..> the crashed car I saw. <..></..> <R>Four</R> four or five times, I saw.</B>
+<A><F>Oh</F> my god.</A>
+<B>The highway.</B>
+<A>Tell me about the last time, the latest one.</A>
+<B>Latest one?</B>
+<A>Yes.</A>
+<B><..></..> <F>Oh</F>. When <R>I</R> <.></.> I went to my home town <F>er</F> the end of <R>the</R> the last year, <R>I</R> I saw near the Nagoya, the crashed three cars <..></..> <R>I</R> I suppose <F>err</F> bunker crashing <?>forward</?> car, and next car was followed <F>er</F> <SC>fa</SC> I think.</B>
+<A><F>Oh</F> god. How terrible?</A>
+<B>Yes.</B>
+<A>But, you are O K, right?</A>
+<B>O K. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Our interview is almost over. So Mister <H pn="B's name">XXX02</H>, do you have any plan after this?</A>
+<B>After this?</B>
+<A>Yes.</A>
+<B><nvs>laughter</nvs></B>
+<A><OL>What are you going to do</OL>?</A>
+<B><OL><F>Errr</F></OL> <R>I</R> <R>I</R> I will go back <F>mm</F> working.</B>
+<A><F>Uhu</F>. Are you excited?</A>
+<B><..></..></B>
+<A>You are excited? Very good. O K, thank you so much <OL>for coming today</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

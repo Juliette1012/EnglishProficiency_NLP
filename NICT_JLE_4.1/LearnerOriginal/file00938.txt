@@ -1,0 +1,138 @@
+<interview>
+<filename>file00938.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="B's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K, <H pn="B's name">XXX01</H>, how are you today?</A>
+<B>I'm fine. But I'm very <laughter>hungry</laughter>.</B>
+<A>Hungry?</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><F>Ahh</F>. Haven't you eaten lunch yet?</A>
+<B>No.</B>
+<A>No? Why not?</A>
+<B><R>I</R> I went to see the circle's game <.></.> to <.></.> Shimo-Igusa.</B>
+<A><F>Uhm</F>. O K. How was the game?</A>
+<B><.></.> We win. <nvs>laughter</nvs></B>
+<A><F>Oh</F> nice. Congratulations. So please tell me more about your circle.</A>
+<B><R>I</R> <F>er</F> <.></.> <R>I</R> <.></.> I don't <.></.> belong to this circle. But <SC>I</SC> <.></.> <R>my friend</R> <.></.> my friend belongs to this circle.</B>
+<A><F>Uhm</F>.</A>
+<B>So I think <.></.> <SC>I</SC> <.></.> that I will <.></.> belong to it. So <.></.> <R>I</R> <.></.> I went to see <.></.> the <R>circle's</R> circle's <.></.> circumstance.</B>
+<A><F>Uhm</F>. I see. What's the sport?</A>
+<B>Soccer.</B>
+<A><F>Ah</F> soccer? I see. <F>Uhm</F>. O K. So do you like J-league <OL>soccer games</OL>?</A>
+<B><OL>Yes</OL>. Yes, I do. <R>I</R> I like <.></.> Kashima Antlers.</B>
+<A><F>Uhm</F>. Why?</A>
+<B><F>Ur</F> <R>because</R> <.></.> <SC>because <.></.> Kashima Antlers <F>uhm</F> <.></.> <R>ha</R> <R>ha</R> <.></.> <R>has</R> has</SC> <.></.> <F>er</F> because <.></.> Atsushi Yanagisawa <R>who I</R> who I like.</B>
+<A><F>Uhm</F>. <F>Uhm</F>.</A>
+<B><F>Uhm</F>. <.></.></B>
+<A>O K. I understand. <F>Urm</F> you are soon going to be in winter vacation. Right?</A>
+<B>Yes.</B>
+<A>What's your plan?</A>
+<B><R>I</R> <.></.> I plan to have a part-time job.</B>
+<A><F>Uhm</F>. O K. Please tell me about your part-time job.</A>
+<B><..></..> <SC>It</SC> <..></..> <SC>par</SC> the part-time job's place <.></.> <R>is</R> <.></.> is my <.></.> neighborhood.</B>
+<A><F>Uhm</F>.</A>
+<B>It is <.></.> <JP>onsen</JP>.</B>
+<A><F>Uhmm</F>. Interesting.</A>
+<B><.></.> <R>But</R> but <R>I</R> <F>er</F> <.></.> I <.></.> have <.></.> not decided</B>
+<A><F>Uhm</F>.</A>
+<B>it yet.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhm</F>. <.></.> I see. <F>Uhm</F>. O K. Thank you. Now, please look at this picture and describe it.</A>
+<B><..></..> <R>In</R> <.></.> in the class, the teacher teaches math. There are many students <SC>in the class</SC> in the room. But <.></.> the students <R>are</R> <.></.> are <..></..> lose <..></..> because <.></.> <R>some</R> <.></.> some student <.></.> <R>uses</R> <.></.> uses <.></.> <R>ce</R> cellular phone. Other students <.></.> have <.></.> a gum. <R>But</R> <.></.> but the student at the center of the <.></.> desk <.></.> <R>s</R> studies hard.</B>
+</task>
+<followup>
+<A><F>Uhm</F> O K. Thank you, <H pn="B's name">XXX01</H>. Were you a good high school student?</A>
+<B><R>Ye</R> yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Why do you think so?</A>
+<B><F>Uhm</F> <R>I</R></B>
+<A><nvs>cough</nvs></A>
+<B><..></..> <R>I am <.></.> not</R> I'm not absent from school.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhmm</F> that was good. O K. Thank you. Now, <.></.> let's do this. Please read the card. And when you are ready, I'll start conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A><F>Uhm</F>? O K?</A>
+<B>O K.</B>
+<A>Hello. May I help you?</A>
+<B><R>I</R> <.></.> I'm sorry, but <.></.> <R>would</R> <.></.> would you <.></.> tell me the way to <.></.> the New York?</B>
+<A><F>Uhm</F>. O K. You can take a train here.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><?>At</?></OL> this station.</A>
+<B><F>Uhm</F> <R>how</R> how much <R>do I have to</R> <.></.> do I have to buy the <R><JP>kippu</JP></R> <laughter><SC><JP>kippu</JP></SC></laughter> <F>er</F> ticket?</B>
+<A><F>Uhm</F>. Fifty dollars.</A>
+<B>Fifty dollars? <.></.> <SC>I</SC> <.></.> do I have to <.></.> change the train?</B>
+<A>No. <.></.> Take a train and go all the way to the last station. Then, you can get to New York.</A>
+<B><.></.> <F>Uhm</F>. <.></.> Do I had better <.></.> wait <.></.> for <.></.> the <.></.> express train?</B>
+<A><F>Uhm</F>. <.></.> Yes.</A>
+<B><..></..></B>
+<A><F>Uhm</F>.</A>
+<B><F>Er</F> <.></.> <R>please</R> please <R>sell</R> sell me the ticket.</B>
+<A>O K. Here you go. Thank you. Have a nice trip.</A>
+<B><.></.> <F>Er</F> pardon?</B>
+<A>Have a nice trip</A>
+<B><F>Er</F> <OL><R>thank</R></OL></B>
+<A><OL>to New York</OL>.</A>
+<B>thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. So, <H pn="B's name">XXX01</H>, do you like traveling?</A>
+<B>Yes, I do. But <R>I</R> <.></.> I don't have the chance to go to the travel. <R>In</R> in summer vacation, <R>I</R> <.></.> <R>I</R> <.></.> I had <.></.> <R>been</R> <.></.> been in my house.</B>
+<A><F>Uhm</F> why?</A>
+<B>Because <R>I have</R> <SC>I have</SC> <R>I</R> I don't have much money.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Ahhh</F>. I see. <F>Uhm</F> O K. Thank you. Then, finally,</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K, let's do this. Please look at this and make a story using these <nvs>cough</nvs> six pictures. And please start with "One day last week".</A>
+<B><..></..> <CO>Is <.></.> she</CO>. <.></.> <OL><F>Ur</F></OL>.</B>
+<A><OL><F>Uhm</F></OL>. Anybody's <OL><?>O K</?></OL>.</A>
+<B><OL><F>Er</F></OL>. <.></.> One day, <.></.> <R>my</R> my mother <.></.> look at <.></.> the <.></.> <R>re</R> <.></.> registrator <laughter><JP>nandakena</JP></laughter>.</B>
+<A>It's O K.</A>
+<B>But <R>in</R> <.></.> in it, <R>there</R> <.></.> there is no <.></.> food. <.></.> <R>So she</R> <.></.> so <R>she went</R> <.></.> she went shopping <SC>to buy <.></.> the</SC> <.></.> <R>to buy</R> <.></.> to buy <.></.> dinner's food <.></.> to the <.></.> near <R>supermarke</R> supermarket. <..></..> In the shop, <R>she</R> <.></.> she bought <R>many</R> <.></.> many foods to make <.></.> dinner. <.></.> <R>The <R>cart</R> <.></.> cart</R> the cart was full of <.></.> the foods. <.></.> Then <R>she</R> <..></..> <R>she</R> <.></.> she take them to the <.></.> <R><JP>re</JP></R> <JP>reji</JP>. <.></.> <SC>And <.></.> they</SC> <F>er</F> and <SC>she pay</SC> <.></.> she paid <.></.> about <.></.> five thousand yen. <..></..> <SC>The</SC> <F>uhm</F> <..></..> <SC>she</SC> <.></.> the <R>shop</R> <.></.> <SC>shop</SC> shop's lady <.></.> <R>gave her <.></.> a</R> <.></.> gave her <..></..> a <R><JP>pori</JP></R> <JP>pori</JP> bag. And <R>she</R> <.></.> <R>she</R> <SC>she put <.></.> the</SC> she put things that she bought in <.></.> the bag. Then <R>she take</R> she take them <R>to</R> <.></.> to her car. <R>She</R> <..></..> <R>she</R> <.></.> she put them in the car.</B>
+<A><F>Uhm</F>.</A>
+<B><..></..> And <F>er</F> <.></.> after that, <R>she</R> <.></.> <R>she</R> she went home and <SC>she <.></.> prepare to</SC> <.></.> she prepare dinner <.></.> for my family.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. <.></.> O K. Thank you. What is your favorite dish</A>
+<B><F>Uhm</F>.</B>
+<A>to eat? <nvs>cough</nvs></A>
+<B><.></.> <R>I</R> <.></.> <R>I</R> I like rice.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <R>Because</R> because <R>my</R> my grandfather makes <.></.> <R>ri</R> rices.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Ahhh</F>. That's nice. <.></.> <F>Uhm</F> <.></.> O K. Thank you very much. The interview is over now. But what are you going to do tomorrow?</A>
+<B><R>I'm</R> <.></.> I'm going to <.></.> the university.</B>
+<A><F>Uhm</F>.</A>
+<B><R>I</R> <.></.> <R>I</R> I must take the <.></.> lecture of law.</B>
+<A><F>Ahh</F> I see. O K. Then have a good time. Thank you very much for coming today.</A>
+</stage5>
+</body>
+</interview>

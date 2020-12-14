@@ -1,0 +1,231 @@
+<interview>
+<filename>file00206.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>500</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Uh-hum</F>.</B>
+<A>May I ask your name?</A>
+<B><F>Ur</F> my name <H pn="B's name">XXX02</H>. <F>Urr</F> I belong to <F>urr</F> Inorgarnic Chemical Section.</B>
+<A><F>Uh-hum</F>.</A>
+<B>my section import <F>urr</F> <SC>chemical produ</SC> <F>urr</F> product from <F>urr</F> United States and <F>urr</F> sell them to Japanese <JP>maker</JP>.</B>
+<A><F>Hmm</F>. I see. So, are you busy these days?</A>
+<B>Yes. Basically <F>urr</F> I am very busy due to hard job.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Urr</F>. <SC>Some</SC> <F>urr</F> <R>I usually</R> <F>urr</F> <F>urr</F> I usually work <F>umm</F> on Sundays.</B>
+<A><F>Oh</F>.</A>
+<B>Yes.</B>
+<A><F>Hmm</F> I see. <F>Uh-hum</F>. So what kind of knowledge or skills are required to the job?</A>
+<B><F>Umm</F> How can I say? <F>Umm</F>. <.></.> Good question. <F>Urr</F> Let me think. <F>Umm</F> <F>urr</F> <SC>manager</SC> the manager of my section <F>urr</F> is usually asking me <F>urr</F> <F>umm</F> <.></.> <F>umm</F> <R>how to</R> how to work easily.</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Urr</F> and <F>ur</F> basically he also, <F>urr</F> <.></.> tells me, <F>urr</F> <SC>stro</SC> <F>urr</F> <F>umm</F> strength, <.></.> because, <F>ur</F> you know <F>ur</F> <F>umm</F> I am very busy</B>
+<A><OL><F>Uh-hum</F> <F>uh-hum</F></OL>.</A>
+<B><OL>on weekends</OL>.</B>
+<A><F>Uh-hum</F> I see. <F>Uh-hum</F> then how do you release the stress?</A>
+<B><F>Umm</F> <F>umm</F> I sometimes <F>ur</F> go to karaoke <F>err</F> after working and then <F>urr</F> I can relax very much with my friends</B>
+<A><F>Uh-hum</F>.</A>
+<B>on week days.</B>
+<A>I see. Is there any good karaoke bar around here?</A>
+<B>Sure. <F>Urr</F> there are many karaoke <F>urr</F> around here, <F>urr</F> <SC>what</SC> <F>urr</F> actually <F>urr</F> I went to karaoke <F>urr</F> with my friends after working yesterday. I could enjoy it a lot.</B>
+<A><F>Hmm</F> I see. So, please tell me about atmosphere of the <SC>bar</SC> karaoke bar?</A>
+<B><F>Umm</F> how can I say? <F>Umm</F> <.></.> <F>umm</F> <.></.> <F>urr</F> <.></.> the atmosphere <F>urr</F> <SC>is usu</SC> is very dark. <F>Urr</F> <F>umm</F> so, <.></.> <F>um</F> and how can I say, <.></.> so <F>ur</F> I don't need to be afraid <F>urr</F> <F>urr</F> to be shy. Yes. So, anyway, <F>urr</F> I can sing a song <F>urr</F> <.></.> <F>urr</F> with my friends <F>urr</F> very relaxing.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. <R>Good</R> good. All right. Thank you very much.</A>
+<B>You are welcome.</B>
+<A>And now, I'd like to show you one picture.</A>
+<B><F>Uh-hum</F>.</B>
+<A>Here you are. Please look at this picture,</A>
+<B><OL><F>Uh-hum</F></OL>.</B>
+<A><OL>and</OL>, describe the picture.</A>
+<B>O K. Let me think.</B>
+<A><F>Uh-hum</F>.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>O K. I got. So I'll tell you about this picture.</B>
+<A><OL><F>Uh-hum</F></OL>.</A>
+<B><OL><F>Umm</F></OL> it is located <F>umm</F> in the classroom</B>
+<A><F>Uh-hum</F>.</A>
+<B>at a school</B>
+<A><F>Uh-hum</F>.</A>
+<B>in this picture.</B>
+<A><F>Hm</F>.</A>
+<B><F>Umm</F> <F>urr</F> <.></.> there are <F>urr</F> one teacher and <.></.> <F>umm</F> <SC>at lex</SC> at least <F>urr</F> ten students <.></.> in the class room. <F>Umm</F> <.></.> <R>The teacher</R> the teacher is <F>umm</F> teaching the students <.></.> about <SC>mathe</SC> the mathematics. <F>Urr</F> however <F>urr</F> <F>umm</F> <R>some of students</R> <.></.> some of students <F>umm</F> <.></.> <SC>don't work</SC> <F>ah</F> don't study <F>urr</F> <SC>with my</SC> <F>urr</F> with their classmate. <F>Hmm</F> for example, <F>urr</F> the man of students <F>urr</F> <.></.> is listening the radio <F>urr</F> and <F>umm</F> some of them are discussing <F>urr</F> with <.></.> their friends. <.></.> That's all.</B>
+</task>
+<followup>
+<A>Thank you very much.</A>
+<B>You are welcome.</B>
+<A>O K. So, <H pn="B's name">XXX02</H>-<JP>san</JP>,</A>
+<B><F>Uh-hum</F>.</B>
+<A>when you were a student, high school student, or college student,</A>
+<B><F>Uh-hum</F>.</B>
+<A>what subject did you like?</A>
+<B><F>Urm</F> <.></.> <F>urm</F> when I was a university student, <F>urr</F> <.></.> I liked to study about economics <F>err</F> with my friends. Actually, <F>urr</F> I belong to <.></.> <F>ur</F> economics seminar through my university.</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Umm</F>. That's all.</B>
+<A>I see. O K. How about high school?</A>
+<B>High school? <F>Ur</F> <F>umm</F> <SC>honestly</SC>, <F>ah</F> to tell the truth, <F>err</F> I couldn't study very much <F>urr</F> with my friends <F>urr</F> because <F>urr</F> I belong to soccer club through my high school. So, basically I was very busy, and <R>I</R>, I didn't have to study to enter the university <F>urr</F> because <F>urr</F> <F>urr</F> <R>my high school</R>, <F>urr</F> my high school was <H pn="others1">XXX03</H> High School, so <R>I didn't have to</R>, I did not need to <F>urr</F> take the examination.</B>
+<A><F>Hmm</F>.</A>
+<B>Yes.</B>
+<A>Why?</A>
+<B><F>Umm</F> <F>umm</F> <.></.> <F>urr</F> actually <F>urr</F> I'm afraid I don't know why.</B>
+<A><F>Uh-hum</F>. <F>Uh-hum</F>.</A>
+<B>Yes. Anyway, <F>urr</F> <F>umm</F> <R>I</R> I couldn't study <F>urr</F> <F>umm</F> with my friends <F>urr</F> when I was a high school student.</B>
+<A>I see. You enjoyed soccer very much.</A>
+<B><laughter>Sure, I like very much</laughter>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. O K. Thank you.</A>
+<B>You are welcome.</B>
+<A>Now <.></.> O K. <SC>Please</SC> <F>ah</F> let's have a role-play.</A>
+<B><F>Uh-hum</F>.</B>
+<A>O K. This is your card.</A>
+<B><F>Uh-hum</F>.</B>
+<A>And please read it and when you are ready,</A>
+<B><F>Uh-hum</F>.</B>
+<A>I'll start the conversation.</A>
+<B>Yes. O K. Let me think.</B>
+<ctxt>The interviewee is reading the card to himself for a while.</ctxt>
+<B>Just second, please, all right? <F>Umm</F> let me think. <.></.></B>
+<A>This is telephone conversation.</A>
+<B>O K. Yes.</B>
+<A>O K.</A>
+<B>O K. I am <F>ahh</F> ready.</B>
+<A>All right.</A>
+<ctxt>Telephone ringing.</ctxt>
+<A>Hello?</A>
+<B>Hello, <F>urr</F> this is <H pn="B's name">XXX02</H> speaking. <CO><OL><F>Urr</F> may I speak to</OL></CO>.</B>
+<A><OL>Hi, <H pn="others1">XXX03</H></OL>.</A>
+<B><F>Ah</F> hi.</B>
+<A>Hi <H pn="B's name">XXX02</H>. This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Oh</F> how are you doing?</B>
+<A>I'm fine.</A>
+<B>O K.</B>
+<A>What's up?</A>
+<B><F>Umm</F> <F>ohh</F> <F>umm</F> <.></.> <F>umm</F> I'd like to <F>urr</F> go to the movie theatre with you.</B>
+<A><F>Uh-hum</F>. <F>Ohh</F> sounds great.</A>
+<B>Great? <R>So</R> <.></.> <F>urr</F> so <F>urr</F> it's starts <F>err</F> from <F>urr</F> three o'clock, <F>urr</F> so <SC>can</SC> <SC>it is availa</SC> is it available to go the movie <SC>at</SC> from three o'clock? All right?</B>
+<A>You mean, today?</A>
+<B>Yes.</B>
+<A><F>Uh</F> <OL>today</OL>,</A>
+<B><OL><F>Uh-hum</F></OL>.</B>
+<A><R>I'm</R> I'm sorry I have something to do.</A>
+<B><F>Oh</F> O K. So, how about <F>urr</F> <F>urr</F> this Saturday?</B>
+<A>This Saturday. Yeah. Fine.</A>
+<B>O K. <.></.> So, <.></.> let me check the schedule <F>umm</F> O K. I got. <F>Umm</F> <.></.> <F>umm</F> my <R>favorite</R> favorite <F>urr</F> movie <SC>starts</SC> <F>ah</F> will start from <F>urr</F> four o'clock <F>urr</F> so <F>umm</F> can you meet me at four o'clock?</B>
+<A>Four o'clock?</A>
+<B>Four o'clock <F>urr</F> in front of movie theatre <R>which</R> which is <F>umm</F> <.></.> <F>umm</F> in front of <H pn="others2">XXX04</H> Corporation.</B>
+<A><F>Oh</F> here? <F>Ah</F> O K.</A>
+<B><F>Uh-hum</F>.</B>
+<A><R>Sure</R> sure.</A>
+<B>So, <F>umm</F> <.></.> <R>how can</R> <R>how can you</R> how can you get to movie theatre?</B>
+<A><F>Urr</F> so which movie theatre we are going?</A>
+<B><F>Umm</F> No, I mean, <F>urr</F> <F>urr</F> I ask you <F>urr</F> how you can</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>urr</F> <R>get to</R> get to movie theatre's place. <F>Urr</F>.</B>
+<A>But we are supposed to meet here <OL>in this office</OL>?</A>
+<B><OL><F>Uh-hum</F></OL>. <F>Ohh</F>.</B>
+<A>You said so?</A>
+<B><F>Urr</F> O K. So <F>umm</F> <.></.> O K. So <F>umm</F> <SC>what</SC> <F>urr</F> do you have appointment <F>urr</F> until <F>urr</F> four o'clock?</B>	 
+<A>No.</A>
+<B>No?</B>
+<A><F>Uh-hum</F>.</A>
+<B>O K. So, let's go to the movie together.</B>
+<A>Yeah.</A>
+<B>Yes. So, <F>urr</F> <R>I'll go to</R> <F>urr</F> I'll go to your house <F>urr</F> around three o'clock. After that, <F>urr</F> I'll take you to the movie theatre.</B>
+<A>O K.</A>
+<B>O K?</B>
+<A><F>Wow</F>. Thank you.</A>
+<B>You are welcome.</B>
+<A>Yeah. Thank you for calling.</A>
+<B><F>Oh</F> no problem. Thank you very much.</B>
+<A>Thank you.</A>
+<B>See you. Bye.</B>
+<A>See you. Bye-bye.</A>
+<B>Bye.</B>
+</task>
+<followup>
+<A>Thank you. The role-play is over. O K. <F>Umm</F> do you like movies?</A>
+<B><F>Umm</F> <F>urr</F> <R>I</R> <F>mm</F> I don't like movie very much <F>ah</F> because <F>urr</F> <R>I usually</R> <F>err</F> I usually dislike to stay for a long time. <.></.> <F>Urr</F>. <R>However</R> <F>urr</F> <F>umm</F> <F>umm</F> <.></.> however, <F>urr</F> <SC>I some</SC> <SC>I fee</SC> I sometimes <R>feel</R> <F>urr</F> <F>urr</F> feel that I have very fun <F>err</F> to watch the movie <F>urr</F> on the television. <.></.> Yes.</B>
+<A><F>Ah</F> you see movies on T V?</A>
+<B><F>Uh-hum</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>That's a good idea. O K. Then, all right. <.></.> Then, please look at one more picture,</A>
+<B><F>Uh-hum</F>.</B>
+<A>and <SC>make a short</SC> please make short story</A>
+<B><OL>O K</OL>.</B>
+<A><OL>based on these six pictures</OL>.</A>
+<B><F>Uh-hum</F>.</B>
+<A>But this happened last week,</A>
+<B>Yes.</B>
+<A>please start your story with "One day last week". O K?</A>
+<B><F>Mmm</F>. Let me think.</B>
+<A><F>Uh-hum</F>.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Umm</F> <..></..> O K. I got it. I'm ready.</B>
+<A><F>Uh-hum</F>.</A>
+<B>So, I will tell you about this story. <F>Umm</F>. One day last week, <F>urr</F> the woman went to <JP>depart</JP> store <F>urr</F> to buy <F>urr</F> the present for her husband. <F>Umm</F>. <.></.>. And <F>umm</F> <.></.> <F>umm</F> <R>she</R> she had a good idea. <F>Urr</F> <.></.> so <R>she went to</R> <.></.> <SC>she went to</SC> <F>urr</F> <SC>no, <F>urr</F> she went to</SC> <F>umm</F> <.></.> <SC>sorry, she went to</SC> <F>umm</F> how can I say, <F>urr</F> sorry, <F>ah</F> she bought a tie <F>urr</F> <R>for</R> for her husband <F>urr</F> <.></.> after <R>she <F>ur</F> discussed</R> she discussed <F>err</F> with the employee. So after that, <F>urr</F> <.></.> she paid <F>urr</F> some money <F>urr</F> to get <.></.> neck tie for him. <F>Urr</F> <R>although</R> <F>urr</F> <SC>although</SC> <F>urr</F> <SC>he</SC> <F>ur</F> sorry, although <R>she</R> <.></.> she wanted to buy the present for him, <F>umm</F> <SC>he fou</SC> <SC>he</SC> she found out <F>urr</F> final sale. <.></.> So, <F>umm</F> <..></..> she looked around <SC>fo</SC> final sale <F>urr</F> <F>um</F> by herself. <F>Umm</F> <.></.> <R>Fo</R> <R>fortunately</R> <F>urr</F> fortunately, <F>umm</F> <.></.> <SC>there were</SC> <F>urr</F> there was <F>umm</F> her favorite <F>umm</F> clothes <.></.> in the <SC>su</SC> <F>urr</F> sale bargain <.></.>. So, she bought <.></.> <F>urr</F> <.></.> <F>umm</F> <R>red</R> red shirts on herself. After that, <F>urr</F> she went outside <F>urr</F> with her many bags. That's all.</B>
+</task>
+<followup>
+<A>All right. Thank you very much. O K. So, <H pn="B's name">XXX02</H>-<JP>san</JP>,</A>
+<B><OL><F>Uh-hum</F></OL>.</B>
+<A><OL><F>umm</F></OL>. <R>You</R> you don't wear a tie every day?</A>
+<B><F>Ah</F> no. <F>Urr</F> today <F>urr</F> it is Friday, so I don't need to wear a suit</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urr</F> because <F>urr</F> <.></.> today is casual Friday in <OL><H pn="others2">XXX04</H> Corporation</OL>.</B>
+<A><OL><F>Uh-hum</F> O K</OL>. <SC>So</SC> but, of course, you you wear a tie sometimes.</A>
+<B>Sure.</B>
+<A><F>Uh-hum</F>. <CO>Then</CO>.</A>
+<B><OL><R>Today</R></OL> Today, <F>urr</F> <F>urr</F> I don't need to <.></.> see with customer.</B>
+<A><F>Aha</F>.</A>
+<B>So, <F>urr</F> I am wearing casual shirts</B>
+<A><F>Uh-hum</F>.</A>
+<B>to relax.</B>
+<A><OL><F>Uh</F></OL>.</A>
+<B><OL>Yeah</OL>. Today is a relaxed day for me. Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. <F>Mmm</F>. O K. All right. Thank you very much.</A>
+<B><OL>You are welcome</OL>.</B>
+<A><OL>The interview</OL> is almost over.</A>
+<B><F>Uh-hum</F>.</B>
+<A>O K. Thank you for coming today.</A>
+<B><F>Uh-hum</F>.</B>
+<A>And do you have any plans for this weekend?</A>
+<B><F>Hmm</F> <F>urr</F> maybe <F>urr</F> I work with <F>urr</F> my boss <OL><F>urr</F></OL>,</B>
+<A><OL><F>Uh-hum</F></OL>.</A>
+<B><F>urr</F> this weekend</B>
+<A>This weekend, <OL>both two days</OL>?</A>
+<B><OL>to do a hard job</OL>. Yes, two days.</B>
+<A><F>Wow</F> <OL>Nice, yeah, <F>umm</F> O K</OL>.</A>
+<B><OL><F>Urr</F> Very terrible</OL>. It's very terrible. Yeah.</B>
+<A><laughter><F>Aha</F></laughter>.</A>
+<B>Honestly, <F>urr</F> I want to go outside <F>urr</F> with my friends on weekdays.</B>
+<A>I see. All right. But, thank you very much.</A>
+<B>You are welcome.</B>
+</stage5> 
+</body>
+</interview>

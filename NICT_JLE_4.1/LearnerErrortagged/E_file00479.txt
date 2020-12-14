@@ -1,0 +1,179 @@
+<interview>
+<filename>E_file00479.txt</filename>
+
+<head version="1.3">
+<date>2001-06-23</date>
+<sex>male</sex>
+<age>17</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hi. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A>How are you?</A>
+<B>I'm fine.</B>
+<A>Fine? <nvs>laughter</nvs> Good. <F>Um</F>. <H pn="B's name">XXX02</H>, what are your hobbies?</A>
+<B><F>Err</F>. My hobby is <JP>kendo</JP>.</B>
+<A><F>Hum</F>.</A>
+<B><SC>I have a rank of <JP>kendo</JP></SC> <SC>I have a rank</SC> I have a second rank of <JP>kendo</JP>.</B>
+<A><F>Uhu</F> <F>wow</F> <F>um</F>. <.></.> Why do you like <JP>kendo</JP> so much?</A>
+<B><F>Err</F>. <.></.> <F>Er</F> I don't know.</B>
+<A><laughter>You don't know</laughter>?</A>
+<B><av_lxc odr="1" crr="No">Yes</av_lxc>.</B>
+<A><nvs>laughter</nvs></A>
+<B>But I like <JP>kendo</JP>. <.></.> <F>Er</F>. I like <JP>kendo</JP>.</B>
+<A><F>Uh-huh</F> <F>um</F>. What do you do for practice?</A>
+<B><F>Err</F>. <SC>In sch</SC> in my school?</B>
+<A><F>Uh-huh</F>.</A>
+<B>I <F>uh</F> practice <JP>kendo</JP> <R>with</R> with my <n_num odr="1" crr="classmates">classmate</n_num></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> three times a week.</B>
+<A><F>Oh</F>. O K. Can you tell me more about your school?</A>
+<B><F>Err</F>. My school is <H pn="school name1">XXX03</H>. And <R>it is</R> <SC>it is con</SC> it is divided <prp_lxc2 odr="1" crr="into">to</prp_lxc2> <.></.> <SC>two sch</SC> two parts. One is the junior high school. And <SC>second</SC> <at odr="1" crr="the"></at> other is <F>ee</F> <at odr="2" crr="the"></at> high school. And my school is near the <R>s</R> sea.</B>
+<A><F>Um</F>. Nice. <F>Mm-hm</F> <F>um</F>. O K. So, which class is your favorite class?</A>
+<B>Class?</B>
+<A><F>Uh-huh</F>. Which do you like most?</A>
+<B><..></..> Subject?</B>
+<A><F>Uh-huh</F>. Subject.</A>
+<B><F>Er</F>. Yes. <F>Err</F>. Math.</B>
+<A>Math. <nvs>laughter</nvs> O K. And, why?</A>
+<B><F>Err</F>. I'm good <prp_lxc2 odr="1" crr="at">in</prp_lxc2> math.</B>
+<A><F>Hum</F>. I see. O K. So, do you live in <H pn="others1">XXX04</H>?</A>
+<B>No, I live in <H pn="others2">XXX05</H>.</B>
+<A><F>Err</F>. O K. Please tell me about <F>um</F> <H pn="others2">XXX05</H>.</A>
+<B><R><H pn="others2">XXX05</H></R> <H pn="others2">XXX05</H> has much more stores.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <SC>there is</SC> <SC>there</SC> and it is very <aj_lxc odr="1" crr="convenient">convenience</aj_lxc>.</B>
+<A>O K. <F>Um</F> <F>hum</F>. <.></.> What do you like to do with your family?</A>
+<B><F>Err</F> <F>err</F>. <.></.> <R>My family</R> <SC>my family is very</SC> <F>err</F> my family seems to be very happy.</B>
+<A><nvs>laughter</nvs> O K.</A>
+<B>Because they like talking very much.</B>
+<A><F>Uh-huh</F>. Great. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, the first thing I want you to do is to look at this picture. And please tell me about the picture.</A>
+<B>O K. The boy whose T-shirt is white <R>and</R> <F>m</F> and the boy whose T-shirt is blue <SC>playing</SC> <F>er</F> are playing with a ball. And there is a house <SC>whose the</SC> whose roof is blue. <F>Err</F>. <SC>Two womans</SC> two women <v_agr odr="1" crr="are">is</v_agr> talking <prp_lxc1 odr="2" crr="">with</prp_lxc1> <aj_lxc odr="3" crr="">all</aj_lxc> together. And there is a white car. <SC>And the cat</SC> and a cat is <R>on the</R> on the car. And <F>err</F> it's very fine. And <.></.> <R>a man who</R> a man who is sitting on the bench is reading a newspaper. <F>Err</F>. The man <R>who</R> who is wearing blue <JP>jaji</JP> is running. <F>Err</F>. <..></..> <F>Oh</F>. The girl whose skirt is pink is playing with rope.</B>
+<A><F>Uh-huh</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A>Where do you think this is?</A>
+<B><.></.>Where?</B>
+<A>Where do you think this is? Japan or <OL>somewhere else</OL>?</A>
+<B><OL><F>Err</F></OL>. <SC>It</SC> I think that it is in <.></.> America.</B>
+<A><F>Hum</F>. Why?</A>
+<B>Because <F>er</F> the <SC>distance of</SC> distance from <at odr="1" crr="a"></at> house to <R>next</R> <at odr="2" crr="the"></at> next house is very <aj_lxc odr="3" crr="long">wide</aj_lxc>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><R>If</R></OL> if in Japan, <F>err</F> it's very <.></.> tight.</B>
+<A><F>Uh-huh</F>. I see. Do you want to live in a house like this?</A>
+<B>Yes, it's big.</B>
+<A><nvs>laughter</nvs></A>
+<B>I want to live in that house.</B>
+<A><F>Uh-huh</F>. What's the difference between your house and this house?</A>
+<B><F>Err</F>. <.></.> That house is very big. But my house is not big.</B>
+<A><F>Oh</F>. <nvs>laughter</nvs> O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, the next thing we're going to do is a role-play. O K? Please read this in Japanese. And when you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><nvs>cough</nvs></B>
+<A><OL>O K</OL>?</A>
+<B><OL><CO>Wha</CO></OL>.</B>
+<A><F>Uh-huh</F>?</A>
+<ctxt>The interviewee is reading the card for a while again.</ctxt>
+<B><OL>O K</OL>.</B>
+<A><OL>Ready</OL>? O K. Ring, ring. Hello.</A>
+<B>Hello. <F>Er</F>. <R>How</R> <F>eh</F> <R>how about</R> <SC>how about going to the</SC> how about going to see <at odr="1" crr="a">the</at> movie?</B>
+<A>O K.</A>
+<B><F>Er</F>. <SC>What's the time will</SC> <F>er</F> <R>when will we</R> <R>when will we</R> when will we <R>go to</R> go to <at odr="1" crr="a"></at> movie?</B>
+<A>How about this afternoon?</A>
+<B>Yes. <R>O K</R> O K. <F>Err</F>. <.></.> <SC>Which the way</SC> <F>er</F> <R>no</R> no <F>err</F> <..></..> <SC>how</SC> <SC>what</SC> <F>err</F> <F>ee</F> <R>how</R> <R>how will we</R> how will we go to <at odr="1" crr="a">the</at> movie <prp_lxc1 odr="2" crr="">by</prp_lxc1>? By <at odr="1" crr="">the</at> train or car or bus? <OL>How</OL>?</B>
+<A><OL><nvs>laughter</nvs></OL> I will take the J R line. Train.</A>
+<B>O K. <F>Err</F>. <.></.> Now, <F>uum</F> O K. Good-bye. <OL><??></??></OL></B>
+<A><OL><R>Wait</R> <R>wait</R> wait</OL>. Where are we meeting? <nvs>laughter</nvs></A>
+<B><F>Ee</F> <F>err</F> <F>er</F>. <F>Au</F> <SC>where will</SC> <SC>where should I</SC> <SC>where should we meet</SC> <R>where should I meet</R> where should we meet?</B>
+<A>How about Shibuya?</A>
+<B><F>Er</F>. O K.</B>
+<A>O K?</A>
+<B><F>Ee</F>.</B>
+<A>So, let's meet at Shibuya</A>
+<B>Yes.</B>
+<A>later.</A>
+<B>This afternoon.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A><OL>Thank you for calling</OL>.</A>
+<B><OL>Good-bye</OL>.</B>
+<A>Bye-bye.</A>
+<B>Good-bye.</B>
+</task>
+<followup>
+<A><nvs>laughter</nvs> That's the end of the role-play. Thank you. Do you enjoy movies?</A>
+<B><F>Err</F>. Yes, I <mo_lxc odr="2" crr="do"><v_tns odr="1" crr="am">was</v_tns></mo_lxc>. But, <F>err</F> recently, <R>I</R> <R>I</R> I have not go to <at odr="1" crr="a">the</at> movie.</B>
+<A><F>Um</F>. Why?</A>
+<B><F>Err</F>. I have no time.</B>
+<A><laughter><F>Ohh</F></laughter>. I see. <F>Um</F>. <nvs>cough</nvs> So, when was the last time you saw a movie?</A>
+<B><F>Err</F>. <.></.> Two years ago. <.></.> <F>Er</F>. No. <F>Err</F>. <R>Last</R> last year. <F>Er</F>. <R>I went</R> <R>I went to</R> I went to see the movie, <F>um</F> "Mission Impossible Two".</B>
+<A><F>Er</F>. How was it?</A>
+<B><F>Err</F>. It was not <aj_us odr="1" crr="better">good</aj_us> than <R>I</R> I expected.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But <SC>it's very</SC> it <v_tns odr="1" crr="was">'s</v_tns> interesting.</B>
+<A><F>Hum</F>. I agree. <nvs>laughter</nvs></A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, the last thing I want you to do is to look at this picture sequence. O K? The pictures are from one, two, three, four, five, six. Please make a story. And I want you to begin with "One day last week".</A>
+<B><.></.></B>
+<A>O K?</A>
+<B><F>Eh</F>. <OL>One more</OL>.</B>
+<A><OL>Make a story</OL>.</A>
+<B>Make a story?</B>
+<A>Using the pictures one to six.</A>
+<B>Yes.</B>
+<A>And start your story with "One day last week".</A>
+<B><.></.> <F>Er</F>. One day last week, <F>err</F> a boy and a girl <v_tns odr="1" crr="returened">return</v_tns> to home <SC>with</SC> <F>er</F> <av_lxc odr="2" crr="">all</av_lxc> together. And <SC>the boy hear the crying of cat</SC> <F>er</F> <SC>the boy cry</SC> <SC>the boy hear the</SC> the boy <v_cmp odr="2" crr="heard a cat crying"><v_tns odr="1" crr="heard">had heard</v_tns> <F>er</F> that <R>the cat</R> <at odr="3" crr="a">the</at> cat is crying</v_cmp>. And <SC>they are</SC> <R>they</R> <SC>they find</SC> they found <at odr="1" crr="a">the</at> cat in <at odr="2" crr="a">the</at> box. And <SC>the girl will</SC> the girl wanted to <.></.> <v_lxc odr="1" crr="take">have</v_lxc> <at odr="2" crr="the">a</at> cat to home. But the boy <v_tns odr="2" crr="opposed"><v_lxc odr="1" crr="oppose">opposite</v_lxc></v_tns> to this. But <R>the girl</R> <.></.> <R>the girl</R> <F>uum</F> the girl <.></.> <F>uh</F> <R>I don't</R> <JP><v_lxc odr="1" crr="persuaded">settoku</v_lxc></JP>. <CO><SC>I don't</SC> <SC>the girl</SC> <.></.> <F>uum</F> <.></.> <SC>the</SC> but the boy was</CO>. <.></.> <F>Uum</F>. <..></..> What shall I do?</B>
+<A><F>Um</F>. <OL>Keep going</OL>.</A>
+<B><OL><CO>I can't</CO></OL>.</B>
+<A>That's O K.</A>
+<B><F>Er</F>. O K. <F>Ee</F>. <o_uit odr="1">And <SC>the</SC> <F>ee</F> pass the five</o_uit>. <SC>And <SC>they're</SC> they will go</SC> and <SC>they walk</SC> <.></.> <SC>they get</SC> they got the cat. And they <v_tns odr="1" crr="returned">return</v_tns> to home <R>with</R> with the cat <F>ee</F> with <at odr="2" crr="an"></at> umbrella. <.></.></B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A><F>Um</F>. Do you have any pets?</A>
+<B><F>Er</F>. No.</B>
+<A>No pets?</A>
+<B><av_lxc odr="1" crr="No">Yes</av_lxc>.</B>
+<A><F>Uum</F> <F>um</F>. Why not?</A>
+<B><F>Err</F>. It's very <aj_lxc odr="1" crr="tiresome">tired</aj_lxc> to <R>feed</R> <v_cmp odr="2" crr="feed pets">feed</v_cmp> <at odr="3" crr="">a</at> food, and <SC>take a walk is ver</SC> taking a walk is very <aj_lxc odr="4" crr="tiresome">tired</aj_lxc>.</B>
+<A><F>Um</F>. I see. <F>Um</F>. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost, <nvs>cough</nvs> excuse me, finished with the interview.</A>
+<B>Yes.</B>
+<A><F>Um</F>. What are your plans for today?</A>
+<B>Today? <F>Err</F>. At first, I <v_tns odr="1" crr="will returen">return</v_tns> to home and <R>I will</R> <SC>I will playing</SC> <SC>I will catch</SC> I will play <at odr="2" crr="">a</at> catch ball with my friend. And <.></.> I will go to the sea, and I will sleep.</B>
+<A><nvs>laughter</nvs> <OL>Really</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>Sounds relaxing. <nvs>laughter</nvs> Good. O K. Thank you very much for coming.</A>
+<B>Yes. Thank you.</B>
+</stage5>
+</body>
+</interview>

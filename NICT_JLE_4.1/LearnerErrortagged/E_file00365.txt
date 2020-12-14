@@ -1,0 +1,104 @@
+<interview>
+<filename>E_file00365.txt</filename>
+
+<head version="1.3">
+<date>2001-03-07</date>
+<sex>female</sex>
+<age>37</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>May I have your name please?</A>
+<B><F>Mm-hmm</F> <F>urr</F>. My name is <H pn="B's name">XXX01</H>.</B>
+<A>Nice to meet you.</A>
+<B><F>Uh</F>. Nice to meet you, too.</B>
+<A>So, what do you usually do everyday?</A>
+<B>Everyday? <F>Urr</F>. I usually stay at home. <SC>And</SC> so, <F>err</F> twice a week, <F>urr</F> <SC>I go to</SC> <F>err</F> <R>I</R> <F>urr</F> <R>I go to</R> <F>urr</F> <F>errr</F> I go to <F>ur</F> <H pn="school name1">XXX02</H> <F>urr</F> to take <at odr="1" crr="an"></at> English <F>urr</F> lesson. <F>Ur</F>. And, <F>urrr</F> once a week, I go to <F>urr</F> <at odr="1" crr="a"></at> sports club <SC>for exercise</SC> for <F>err</F> taking <F>err</F> <at odr="2" crr="an"></at> exercise class. <F>Uh-hmm</F>.</B>
+<A><F>Mm</F>. Could you tell me more about your exercise class?</A>
+<B>Exercise class, yes. <F>Urr</F> <F>errr</F>. <SC>In m</SC> <F>err</F> near my house, there is a <F>errr</F> sports club. <F>Err</F>. It's called <F>urr</F> <F>err</F> Tipness. <F>Urr</F>. I think one of <F>ur</F> <at odr="1" crr="the"></at> famous <F>urr</F> <F>eh</F> sports <n_num odr="2" crr="clubs">club</n_num> in Tokyo. And <SC>I joined</SC> <F>urrrr</F> <F>errr</F> I <v_tns odr="2" crr="can join">could <v_fml odr="1" crr="join">joined</v_fml></v_tns> any class <F>urr</F> <rel_lxc odr="3" crr="which">what's</rel_lxc> <F>urr</F> I like. <F>Err</F>. They <v_tns odr="1" crr="offer">offered</v_tns> a time table everyday. <F>Urrr</F>. For example, <F>er</F> Yoga class, <F>urrr</F> swimming <F>eh</F> class, <F>urr</F> <JP><F>eeto</F></JP> <R>boxing</R> boxing class and <F>err</F> <F>errr</F> jazz dance, and <.></.> yes, like that.</B>
+<A><F>Mm</F>. Have you ever taken <at odr="1" crr="an">the</at> interesting class?</A>
+<B><F>Urr</F>. Yes. <F>Urr</F>. Recently, I found <F>urr</F> <F>err</F> Hawaiian dance class. Yes. That's very interesting. Yes. It <o_lxc odr="1" crr="reduce my stress">makes me <.></.> <F>urrr</F> <F>err</F> out of stress</o_lxc>. Yes. <F>Mm</F>. It makes me <aj_lxc odr="1" crr="happy">fun</aj_lxc>, <F>mmm</F> <aj_lxc odr="2" crr="relaxed">relax</aj_lxc>. <OL><F>Mm</F></OL>.</B>
+<A><OL>Yeah</OL>. O K. <H pn="B's name">XXX01</H>, where are you originally from?</A>
+<B><F>Urr</F>. Yes. <F>Urr</F>. I was born in Aichi prefecture <F>err</F> <F>errr</F> and grew up <F>ur</F> there. And, after I <v_lxc odr="1" crr="married">marriage</v_lxc>, <F>urr</F> I <v_tns odr="2" crr="lived">had lived</v_tns> in Shizuoka prefecture for <F>err</F> three years. And, after that, <F>urr</F> I <v_tns odr="1" crr="lived">had lived</v_tns> in Brussels in Europe for three years. <F>Mm</F>. And, <prp_cmp odr="1" crr="after that">after</prp_cmp> <SC>we back to Japan</SC> we came back to Japan, <F>urr</F> <con_lxc odr="2" crr="and"></con_lxc> we lived in Shizuoka <F>urr</F> for <F>er</F> two years again. And, <F>err</F> last Spring, we moved to <H pn="others1">XXX03</H>.</B>
+<A>So, which is your favorite place?</A>
+<B><F>Urrrr</F>. Very <.></.> difficult to say. In <F>urr</F> <F>err</F> each time, <F>urrrr</F> after I moved <F>urrr</F> <prp_lxc2 odr="1" crr="to"></prp_lxc2> a certain place, <F>urrr</F> <F>err</F> <R>I found</R> <SC>I found alway</SC> I always found <F>urrr</F> <F>err</F> each place <F>err</F> <v_tns odr="2" crr="was">is</v_tns> very good, very comfortable and very cozy for me. <F>Mmm</F>.</B>
+<A>So you are <at odr="1" crr="a"></at> very flexible person, I think.</A>
+<B><F>Uh</F> <F>hmm</F>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. So, first thing today, please take a look at this picture. Have you seen this before?</A>
+<B><F>Urr</F>. Yes. Last time.</B>
+<A>O K. Last time, this one? O K. This one. O K. Please describe this picture for me.</A>
+<B><F>Uh-hmm</F> <F>err</F>. <SC>There is a</SC> <F>err</F> <F>eh</F> this is a <F>errr</F> inside of the gorgeous restaurant. <F>Urr</F> <F>errr</F>. <at odr="1" crr="A"></at> <cap odr="2" crr="pianist" ch="1">Pianist</cap> <F>err</F> is playing the piano <F>errr</F> for <at odr="3" crr="the"></at> background music. And <F>errr</F> there is a big clock <F>err</F> on the wall. It looks <F>mmm</F> <.></.> very great and <F>errr</F> very old. And <F>errr</F> there are three <n_num odr="1" crr="tables">table</n_num>, and <SC>each table</SC> <F>errr</F> <SC>to <F>errr</F> each table</SC> <F>err</F> <at odr="2" crr="">a</at> couples, <F>err</F> <at odr="3" crr="a"></at> woman and <at odr="4" crr="a"></at> man <F>err</F> sitting <.></.> <prp_lxc1 odr="5" crr="at"></prp_lxc1> each table. And <F>err</F> <F>err</F> <prp_lxc1 odr="1" crr="at"></prp_lxc1> the table in the middle <F>err</F> in this picture, <F>errr</F> <.></.> <F>err</F> <at odr="2" crr="a"></at> man is <F>errr</F> selecting <F>urr</F> wine <F>err</F> for <F>err</F> today's special menu, I think.</B>
+</task>
+<followup>
+<A><F>Hmm</F>. O K. Thank you. So, do you like this kind of restaurant?</A>
+<B><F>Uh</F>. <R>Yes, I like</R> yes, I like <prp_lxc1 odr="1" crr="">to</prp_lxc1>, yeah.</B>
+<A>So, tell me the last time you went to this <R>kind of</R> kind of restaurant.</A>
+<B><F>Urr</F>. Last? Yeah. <F>Uh</F> <F>urr</F> <F>err</F>. Two weeks ago, <F>urr</F> <R>we <F>er</F> went to</R> <F>urr</F> <F>err</F> we went to Hotel Okura <F>urr</F> <F>err</F> to <v_lxc odr="1" crr="enjoy">hear</v_lxc> <F>errrr</F> some music. <F>Err</F>. They offered <at odr="1" crr="a"></at> free <F>urrr</F> concert <F>err</F> <o_lxc odr="2" crr="at that moment">at the moment</o_lxc> because <F>er</F> <pn_lxc odr="3" crr="it"></pn_lxc> <v_lxc odr="4" crr="was"></v_lxc> <at odr="5" crr="the"></at> Hotel Okura's <SC>something</SC> anniversary event, I think, twelve fifth anniversary <SC>or something</SC> after <at odr="6" crr="the"></at> renewal. <F>Mm</F>. I think so because Hotel Okura <SC>is</SC> <v_cmp odr="1" crr="looks older">looks like <F>err</F> <R>older</R> older</v_cmp> than twenty five years old. So, now, <F>urr</F> <F>eh</F> each month, <prp_lxc1 odr="1" crr="on"></prp_lxc1> <at odr="2" crr="the"></at> twenty fifth, <F>uh</F> they <v_tns odr="3" crr="offer">offered</v_tns> <at odr="4" crr="a"></at> concert. <F>Mm</F>. And, <F>err</F> last <F>uh</F> month, February, twenty fifth <v_tns odr="1" crr="was">is</v_tns> exactly <o_uk odr="2" crr="">the date on</o_uk> <F>err</F> <R>Sun</R> <R>Sunday</R> Sunday. So we could <F>urr</F> go and <F>err</F> <v_fml odr="1" crr="join">joined</v_fml> that concert with our children. And, after that, <F>urr</F> we <F>errr</F> went to <at odr="1" crr="an"></at> Italian restaurant near <F>er</F> there <F>err</F> because <SC>of</SC> <F>urr</F> my husband <v_tns odr="2" crr="recommended">recommend</v_tns> <F>urr</F> us <F>err</F> to <v_lxc odr="3" crr="have">take</v_lxc> <F>eh</F> dinner <F>urr</F> <F>err</F> at <aj_lxc odr="4" crr="that">this</aj_lxc> restaurant. <F>Err</F>. <SC>He wor</SC> he usually works <F>urrr</F> <F>err</F> very near <prp_lxc2 odr="1" crr="to">from</prp_lxc2> <F>err</F> <aj_lxc odr="2" crr="that">this</aj_lxc> area, so he knows <F>err</F> about it very well. And we <F>urr</F> <v_lxc odr="1" crr="had">took</v_lxc> <F>urr</F> <R>som</R> some pizzas or <F>urr</F> some <JP>oudoburu</JP>, <con_lxc odr="2" crr="">and</con_lxc> with <F>err</F> some wine. <SC>And</SC> so <F>errr</F> <SC>this owner <F>err</F> in this restaurant</SC> <F>er</F> the owner in this restaurant is <R>Italian</R> <at odr="2" crr="an"></at> Italian <n_lxc odr="1" crr="person">people</n_lxc>. <F>Mm</F>. <SC>And</SC> so <F>err</F> <at odr="1" crr="the"></at> atmosphere and taste <F>urrr</F> everything, <F>urr</F> we were <F>er</F> satisfied. <F>Mm</F>.</B>
+<A>Very Italians.</A>
+<B><F>Mm</F>. Very Italian. <F>Mmm</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. All right. So, next, we'd like to try a role play. O K. So, please read this card, and, when you are ready, I will begin.</A>
+<B><F>Mm-hum</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B><F>Urrr</F>. Yeah.</B>
+<A>O K. May I help you, ma'am?</A>
+<B>Yes. <F>Urrr</F> <F>errr</F> <F>eh</F>. Yesterday, <F>urr</F> I bought <F>urr</F> <F>err</F> this <F>uh</F> necktie for my husband. <F>Urr</F> <F>err</F>. I thought <F>urr</F> it was <F>urr</F> very suitable <F>err</F> <prp_lxc2 odr="1" crr="for">with</prp_lxc2> <F>er</F> my husband. <F>Um</F>. But, <F>urr</F> last night, <F>urr</F> <SC>I tried</SC> <F>urr</F> I asked <F>err</F> my husband to try <F>err</F> this necktie. <F>Urr</F>. We're very sorry, <F>er</F> but <F>urr</F> it is not good for him. <F>Mm</F> <F>ur</F>. He is <at odr="1" crr="a"></at> very <R>big</R> <F>urrr</F> <F>err</F> big <F>err</F> man, <SC>so this</SC> <F>urr</F> <SC>so pattern</SC> and <F>urr</F> <F>err</F> <.></.> this pattern is not suitable for him. <F>Errr</F>. Because, <SC>of</SC> <F>urr</F> <R>in this</R> <F>urr</F> <F>err</F> in this <F>err</F> necktie, <F>err</F> there <v_agr odr="1" crr="are">is</v_agr> <F>errr</F> very small <F>uh</F> <n_num odr="2" crr="dots">dot</n_num>. <F>Mm</F> <F>errr</F>. So <F>urr</F> we're very sorry <con_lxc odr="1" crr="but"></con_lxc> it is not <F>urr</F> good for him.</B>
+<A>We see. <CO>But</CO>.</A>
+<B>So <F>urr</F> <F>err</F> <R>I</R> <F>urm</F> I know <F>err</F> <F>errr</F> I <mo_lxc odr="1" crr="cannot">'m not allowed <R>to</R> <F>errr</F> to</mo_lxc> <F>err</F> <v_lxc odr="2" crr="have">pay</v_lxc> <F>ur</F> my money back <F>err</F> <o_uk odr="3" crr="">to me</o_uk>, but <F>urrr</F> <SC>this necktie <F>err</F> is comple</SC> <F>errrr</F> <.></.> <R>this</R> <F>mm</F> <SC>this necktie just tried</SC> <F>ur</F> <SC>I tried</SC> <F>urr</F> my husband just tried <F>err</F> it <F>urrr</F> only once. <CO>So</CO>. <F>Errr</F> <.></.> <F>mm</F>.</B>
+<A>It's your problem that your husband doesn't look good with this necktie. You should have considered that when you bought it.</A>
+<B><F>Uh-Hmm</F> <F>urrr</F> <F>urr</F>. I know <F>err</F> that is <F>urr</F> my fault, but <F>urrr</F> it looks <F>urr</F> <SC>so</SC> <F>mmm</F> very new, and <R>no</R> no <F>err</F> <R>s</R> <R>s</R> scars, and no <F>ur</F> <n_num odr="1" crr="spots">spot</n_num> at all. And just <F>urr</F> <F>err</F> he tried once. <R>So, could you</R> <F>urrr</F> so, <SC>could you</SC> <F>urr</F> <R>could</R> <F>uh</F> <F>urr</F> <R>could I</R> could I <v_cmp odr="1" crr="change this">change</v_cmp> <F>urr</F> <F>err</F> <R>another</R> <prp_lxc2 odr="2" crr="with"></prp_lxc2> another tie, <OL>if it's possible</OL>?</B>
+<A><OL><F>Mm</F> I don't know what to do</OL>. It's against our policy.</A>
+<B><F>Mm</F>. So, <F>urrr</F> <F>eh</F> if <F>urr</F> <SC>so</SC> <F>err</F> I <F>eh</F> select <at odr="1" crr="a"></at> new necktie, it <v_agr odr="2" crr="costs">cost</v_agr> more than this. I <v_tns odr="1" crr="will pay">paid</v_tns> extra money. <F>Err</F>. I don't mind. <F>Mm</F> <F>urr</F>. So, <SC>could you</SC> <OL><F>err</F></OL> could I?</B>
+<A><OL>All right</OL>.</A>
+<B>Yes.</B>
+<A>O K. I'll talk to my manager.</A>
+<B><F>Uh</F> <F>mm-hum</F>.</B>
+<A>O K.</A>
+<B><F>Um</F> <F>mm</F>. Thank you.</B>
+</task>
+<followup>
+<A>All right, thank you. This is the end of the role play. Right. So, have you ever had a trouble when you <v_tns odr="1" crr="bought">buy</v_tns> something?</A>
+<B><F>Mm-hum</F> <F>urrr</F>. "Trouble"?</B>
+<A><F>Mm</F>. Especially in Brussels.</A>
+<B><F>Urr</F> <F>uh-hum</F>. "Trouble" is <.></.> not "travel", "trouble".</B>
+<A>"Trouble".</A>
+<B>"Trouble". Yes. <F>Urrr</F> <F>err</F>. Like that?</B>
+<A><F>Mm</F>. Anything. When you bought something in Brussels, was there any problem?</A>
+<B>Problem? <F>Urrr</F>. Yes, a lot of <laughter><n_num odr="1" crr="problems">problem</n_num></laughter>. <F>Urrr</F>. So, <F>errr</F> when <F>urr</F> <F>err</F> we stayed <prp_lxc1 odr="1" crr="in"></prp_lxc1> Brussels, my children <F>urrr</F> <F>eh</F> used to go to <F>urr</F> <??></??>, it means <F>ur</F> <at odr="2" crr="a"></at> kindergarten <F>urr</F> like <F>urr</F> <SC>so</SC> <prp_lxc1 odr="3" crr="in"></prp_lxc1> Japan. And <F>err</F> <SC>I f</SC> I thought <F>urr</F> <F>err</F> <SC>t</SC> <R>al</R> <SC>almost</SC> <.></.> <F>er</F> most of the <F>err</F> people <F>er</F> living in Brussels could manage to understand English, <F>mm</F> I thought <F>urrr</F> before <R>I</R> I left Japan. But <F>urrr</F> <F>err</F> nobody <F>err</F> can understand English. So <R>I</R> I had <F>er</F> a lot of <F>urr</F> <F>er</F> <n_num odr="1" crr="toroubles">trouble</n_num> <F>err</F> at their <F>err</F> kindergarten. <F>Urrr</F>. So <F>urr</F> I <.></.> <F>err</F> decided to take <at odr="1" crr="a"></at> French lesson <F>err</F> over there, and, <F>ur</F> finally, <F>urr</F> I could <F>err</F> <F>er</F> communicate with them. But <F>urrr</F> <F>um</F> children also <F>urr</F> had a lot of <n_num odr="1" crr="problems">problem</n_num> and also <F>err</F> <F>errr</F> had misunderstanding with <F>urr</F> the teachers. <F>Mmm</F>. But <F>ur</F> <SC>we had</SC> <F>urr</F> <o_lxc odr="1" crr="on the other hand">in the other hand</o_lxc>, we had a lot of good experience <prp_lxc1 odr="2" crr="">over</prp_lxc1> there. <F>Mm</F> <F>mmm</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Oh</F>. Good. O K. So, lastly, I'd like to try another picture. O K. So, please take a look at this picture. And, please make up a story based on these pictures. And this happened before, so, please start your story with "One day last week".</A>
+<B><R>One day</R> <F>err</F> one day last week, <F>urrr</F> <R>I</R> <F>urr</F> <R>I</R> <F>ur</F> <R>I fo</R> I found <F>urr</F> <SC>there is nothing</SC> there was nothing in the refrigerator. <F>Urrr</F> <F>ur</F>. I was so <F>urr</F> shocked because, <F>urr</F> <o_lxc odr="1" crr="the nexy day">tomorrow</o_lxc>, <F>err</F> <v_lxc odr="2" crr="was"></v_lxc> my son's <F>er</F> excursion's day. So I <v_tns odr="1" crr="had">have</v_tns> to <F>urr</F> make <F>urr</F> <SC>so</SC> lunch for him. So, <F>urr</F> <F>errr</F> after <F>er</F> my children <F>er</F> <SC>went to s</SC> <F>err</F> went to bed, <F>urr</F> I <F>err</F> drove <F>urrr</F> my car to <at odr="1" crr="a">the</at> <F>err</F> supermarket <F>urr</F> to get <F>err</F> some ingredients and vegetable and fruits <F>err</F> because <F>err</F> this supermarket usually <mo_lxc odr="2" crr="is"></mo_lxc> closed <F>urr</F> <prp_lxc1 odr="3" crr="at"></prp_lxc1> ten o'clock <F>urr</F> P M. So I could manage to get <F>urr</F> <F>err</F> something <F>urr</F> I <F>er</F> <v_tns odr="1" crr="had">have</v_tns> to <v_fml odr="2" crr="prepare">prepared</v_fml> <F>urr</F> for lunch <F>err</F> next day for his excursion trip. <SC>And</SC> <F>urm</F> <SC>I <F>err</F> so <F>urr</F> <F>uh</F> fina</SC> <F>err</F> at last, I <F>err</F> <SC>carried <F>urr</F> <R>my</R> <F>errr</F> <F>err</F> <.></.> my</SC> <F>eh</F> carried <pn_lxc odr="1" crr="my"></pn_lxc> cart to the <F>err</F> cashier, and I paid <F>err</F> in cash. And <F>urr</F> <F>err</F> I put <F>urr</F> my <o_lxc odr="1" crr="shopping bags">sack</o_lxc> <F>urr</F> <F>err</F> <SC>in my <F>err</F> cart</SC> in my car. And, <F>urr</F> <F>err</F> <F>err</F> <prp_lxc1 odr="1" crr="on"></prp_lxc1> that day, <F>urr</F> <R>I</R> <F>err</F> I could sleep happily. And, <F>urr</F> <at odr="1" crr="the"></at> next day, <F>urr</F> <F>err</F> early in the morning, I <v_tns odr="2" crr="woke">wake</v_tns> up, and I could <F>urr</F> make <F>urr</F> breakfast as usual, and I could also <F>errr</F> <v_cmp odr="3" crr="make lunch">make <F>urr</F> <F>err</F> for <F>err</F> lunch</v_cmp> <prp_lxc1 odr="4" crr="for">of</prp_lxc1> my son's excursion trip.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you. O K. So we have come to almost the end of the interview. So, what are you going to do after this interview?</A>
+<B>After this <SC>inter</SC> <R>today</R> today? <F>Urrr</F>. I will <F>urr</F> <F>err</F> <av_pst odr="1" crr="go straight back">straight go back</av_pst> to my home, and <F>urrr</F> <F>err</F> <R>I <F>err</F> have to</R> I have to <F>err</F> drive to <F>urr</F> <H pn="others5">XXX07</H> <F>er</F> station <F>urrr</F> because, <F>err</F> two days ago, <F>err</F> my husband's computer display suddenly <F>urr</F> <F>err</F> <F>err</F> <SC>trou</SC> <F>err</F> <v_tns odr="2" crr="had">have</v_tns> a trouble, <F>urr</F> we don't know <F>urr</F> what's <F>urr</F> <at odr="3" crr="the"></at> reason. So <F>urr</F> we called <F>urr</F> <SC>so</SC> <at odr="1" crr="an"></at> electric <F>uh</F> shop. And, <F>urr</F> today, <SC>I will <F>urr</F> so <F>err</F> the computer</SC> <F>errr</F> <F>errr</F> I will <F>urr</F> bring <F>urr</F> our computer to the electric shop <F>err</F> near the station.</B>
+<A>O K. All right. So you have many things to do today. Right. This is the end of the interview. Thank you very much for coming.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

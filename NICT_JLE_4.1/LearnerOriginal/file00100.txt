@@ -1,0 +1,266 @@
+<interview>
+<filename>file00100.txt</filename>
+
+<head version="1.3">
+<date>1999-12-15</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please.</A>
+<B><F>Ah</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Nice to meet you.</A>
+<B><F>Ah</F> nice to meet you.</B>
+<A><H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Uhmm</F>. I'm fine, but I'm sleepy.</B>
+<A><F>Oh</F> O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Why are</OL> you sleepy?</A>
+<B><F>Mhmm</F> <F>mhmm</F> <?>at</?> this time, always <OL>I'm <laughter>sleepy</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> Really?</A>
+<B>Yes.</B>
+<A>O K. What did you have for lunch today?</A>
+<B><F>Uhm</F> I ate meat sause spaghetti <OL>and</OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>salad.</B>
+<A><F>Uh-huh</F>. Where did you go for lunch?</A>
+<B><F>Uh</F> at cafeteria <OL>in</OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>university.</B>
+<A>O K.</A>
+<B><F>Uhm</F>.</B>
+<A>Can you tell me about cafeteria?</A>
+<B><F>Mhm</F> cafeteria <R>is</R> <.></.> <??></??> <F>ahh</F> is small, I think.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So, <R>to</R> <SC>to take</SC> to have seat, <F>mhm</F> we have to go to cafeteria <F>mhm</F> <R?>a</R?> <SC>early</SC> in early time.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mhm</F>.</B>
+<A><F>Uhm</F>.</A>
+<B>So, it was hard <OL>to <laughter>eat</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Mhm</F> O K. All right. <F>Err</F> do you have any hobbies?</A>
+<B><F>Ah</F> hobbies? <F>Mhmm</F> <.></.> perhaps, it isn't <?>said</?> hobby.</B>
+<A><F>Oh</F>.</A>
+<B><F>Uhm</F> <R>I</R> I like <laughter>talking with friends</laughter>,</B>
+<A><F>Mhm</F>.</A>
+<B>and <F>uhm</F> <.></.> reading books <F>hum</F>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>Er</F></OL> <?>demo</?> <.></.> probably, it is hobby <F>mhm</F> from this summer, <SC>I like</SC> <F>er</F> I became to like traveling.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F> <.></.> I slept outside at Kyoto Station.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So I enjoyed, so I want to go to traveling.</B>
+<A><F>Oh</F> O K. Again to Kyoto?</A>
+<B><F>Uhh</F> from Kyushu to <.></.> Tokyo</B>
+<A><F>Oh</F> O K. <OL><F>Um</F></OL>.</A>
+<B><OL>by</OL> <SC><JP>juhachi</JP></SC> <F>er</F> eighteen ticket.</B>
+<A><F>Uh-huh</F>. <F>Uhmm</F>. O K. And, you said you like talking with your friends, but <R>wha</R> what kind of things do you usually talk with your friends?</A>
+<B><F>Mhmm</F> <.></.> <F>mhm</F> <F>mhm</F> many things, for example, <SC?>stu</SC?> about studying, <F>urr</F> future, and <.></.> I'm major in English literature, <OL>so</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>about English writer and books,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <F>mhm</F> boys</B>
+<A><F>Uh-huh</F>.</A>
+<B>and hobbies. All things.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhmm</F>.</A>
+<B><F>Mhm</F>.</B>
+<A>Good. O K. Now, I'm going to show you a picture.</A>
+<B>Yes.</B>
+<A>Have you done this before? No? O K. O K. <F>Urm</F> would you describe this picture for me?</A>
+<B><R>I</R> I'm sorry. I beg your pardon?</B>
+<A>Sure. <.></.> <F>Ah</F> <F>um</F> would you describe this picture?</A>
+<B><JP>A soka</JP>.</B>
+<A>O K. <OL><?>So <??></??></?></OL>.</A>
+<B><OL><F>Urmm</F></OL> <.></.> <SC>she</SC> <F>er</F> <.></.> this woman in this picture <R>can</R> can use computers,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> I think. And <.></.> beside the computers, there are <F>mhm</F> maybe typewriter,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so <R>this woman</R> <F>mhmm</F> <..></..> this woman is intelligent,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I think,</B>
+<A><F>Uh-huh</F>.</A>
+<B>because I <?>can't</?> use computers at all,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so I think. And in her room, <F>uhm</F> there are dogs and cats on her bed.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>She likes animals</SC> <F>er</F> she seems to like animals. And <.></.> she seems to like green color</B>
+<A><F>Uh-huh</F>.</A>
+<B>because she wears green clotheses, and <.></.> <F>uhm</F> <R>green</R> <SC>green colors bed cover</SC> <F>erm</F> <F>er</F> there are green color bed cover,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and green telephones, <.></.> green watch. And, <F>uhmm</F> <.></.> I think her room is very big, <F>uhm</F> <.></.> because <F>uhm</F> <.></.> <F>urmm</F> <JP>nanda</JP> there are <.></.> <F>urr</F> any space <R>yet</R> <F>er</F> yet.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So I envy her and her room.</B>
+</task>
+<followup>
+<A><F>Oh</F> really?</A>
+<B><nvs>laughter</nvs></B>
+<A>So your room is much smaller than <OL>this room</OL>?</A>
+<B><OL><F>Uhmm</F></OL> yes, my room <F>uhm</F> doesn't have so <?>much</?> spaces as this.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mhm</F>.</B>
+<A>O K. And by the way, do you use the computer?</A>
+<B><F>Mhmm</F> I think I have to use computers <F>uhm</F> for my future.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But, I'm <laughter>afraid</laughter> of using computers <SC>because</SC> <F>uhm</F> <JP>nandarou</JP> because <F>uhm</F> <.></.> <R>I</R> I often mistakes,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>so</OL> <JP>nandarou</JP> <R>my</R> my mail to friends</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>can</SC> <R>can't</R> <.></.> can't arrive <OL>at</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><SC>my friend's mail</SC> <F>urm</F> my friend's computers.</B>
+<A>Really?</A>
+<B><F>Uhm</F>. But recently, I'm careful about to mistake,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so <R>I</R> <F>uhm</F> I like only mail.</B>
+<A><F>Oh</F> <OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. I see. Good. All right. Now, we're doing a role play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K. This one. Please read it.</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>And</OL> let's have a conversation.</A>
+<B><JP>Hai</JP>. <??></??> <F>Uhm</F> <JP>nanigaiikana</JP>?</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Uhm</F> <JP>sodana</JP> <JP>naninishiyokana</JP>.</B>
+<A>Are you ready?</A>
+<B><F>Mhmm</F> <..></..> <R>i</R> yes.</B>
+<A>O K. <F>Er</F> hello. May I help you?</A>
+<B><SC?>Thank</SC?> hello. <F>Ehh</F> thank you. I want a chocolate. <F>Uhm</F>. I watched chocolate on T V commercial.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>But</OL> I can't find here.</B>
+<A><F>Uh-huh</F>. Sure.</A>
+<B>So, please tell me the place where chocolate is located.</B>
+<A><F>Oh</F>. You can buy chocolates here.</A>
+<B><F>Ah</F>. <JP><F>Uuunto</F></JP> <R>my</R> my favorite chocolates is <.></.> rare chocolate.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> and <F>uhmm</F> <F>uhmm</F> the information that I have <laughter>is only</laughter> this information, <F>uhm</F> only rare chocolate.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urmm</F>. And <.></.> I only watched the commercial only once, <OL>so</OL></B>
+<A><OL><F>Oh</F></OL> O K.</A>
+<B><SC>I'm looking forward</SC> <OL><F>ah</F> <JP>chigau</JP></OL></B>
+<A><OL>O K</OL>.</A>
+<B>I'm looking for <OL>it</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>now.</B>
+<A><F>Oh</F> O K. <F>Urr</F> this is the one, <SC>but</SC> <F>urr</F> maybe you have seen on T V.</A>
+<B><F>Ah</F> yes.</B>
+<A><nvs>laughter</nvs></A>
+<B>I want to buy it.</B>
+<A>O K. O K. <F>Urm</F> but this is the only one, and the other boxes are all sold out. But it's O K. It's only one</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>here</OL>. O K.</A>
+<B>Thank you.</B>
+<A>All right.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. <F>Er</F> would you have it wrap?</A>
+<B><F>Ur</F> no. <F>Uhm</F>. <R?>Su</R?> <?>su</?> I want to eat now. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. All right. How would you pay?</A>
+<B>How would you pay. <F>Urr</F> by money?</B>
+<A><F>Uh-huh</F>. <OL>All</OL></A>
+<B><OL><?>O K</?></OL>.</B>
+<A>right. Two thousand yen.</A>
+<B><F>Er</F>. <?>O K</?>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Here you go</OL>. Thank you.</A>
+<B><F>Oh</F> thank you.</B>
+<A>Enjoy it.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Good. Have a nice day. Great. The role play is over. But, <F>urr</F> do you like sweets?</A>
+<B>Splits?</B>
+<A>Sweets?</A>
+<B><F>Er</F> yes, I like sweets very much.</B>
+<A><F>Uhm</F>.</A>
+<B>So, <F>urm</F> <F>urm</F> in this season, I want to eat more and more <OL><F>uhm</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>than other seasons.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So everyday, I eat <.></.> one hundred yen cakes <F>urm</F> at cafeteria.</B>
+<A><F>Oh</F> really?</A>
+<B><SC?>Now <R?>is</R?> <F>oh</F> is</SC?> <F>er</F> now <?>it's cheap</?>.</B>
+<A><F>Oh</F> O K. So, do you have any ideas <R>to</R> <SC>to keep</SC> <F>urr</F> to protect your teeth from cavities?</A>
+<B><SC>Cavi</SC> <F>uhm</F> I'm sorry, cavities?</B>
+<A><F>Urr</F> O K, <F>urr</F> maybe if you eat sweets too much, you'll get some problem.</A>
+<B><F>Ah</F> <F>ah</F> so <R>I</R> <.></.> <F>uhm</F> I always wash my teeth after lunch.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So maybe it is O K now, <OL>I think</OL>.</B>
+<A><OL><F>Oh</F> O K</OL>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. Great. All right. So finally, I'm going to show you a picture again. And this time, I'd like you to make a short story <R>about</R> <F>ur</F> about this picture. And this happened before, so please start your story with "One day last week".</A>
+<B>Last week.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><??></??> <F>Urm</F> <.></.> <R>the old</R> the <F>uhm</F> old man and the young man point at restaurant and <SC>they want</SC> <SC>they seems</SC> <F>er</F> <F>ah</F> <SC>they seem to</SC> they seem want to <.></.> enter this restaurant.</B>
+<A><F>Ah-huh</F>.</A>
+<B>And <.></.> when they entered in this restaurant, <JP>nante iundakke</JP>, customer <JP>janakutte</JP>, <JP><F>eeto</F></JP> <JP><F>uhnt</F></JP> the man in shop <F>urm</F> <.></.> <JP><F>uhnt</F></JP> <.></.> <F>uhmm</F> tells them <SC>to</SC> <F>er</F> where to sit. <OL>And</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><SC>when ze</SC> after they took a seat, they look at menu. <F>Uhmm</F> <.></.> <SC>and <JP>nandakkena</JP> <??></??> <R>cus</R> customer</SC> <JP>janakutte</JP> <F>uhm</F> and the shop woman came, and <SC>the two mens <.></.> <F>uhm</F> take</SC> <F>er</F> <F>uhm</F> they order.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And, <F>uhmm</F> after <.></.> some time, <F>uhmm</F> their meals is carried</B>
+<A><F>Uh-huh</F>.</A>
+<B>before them. And <..></..> <R>they</R> they ate <.></.> plenty of <?>volume</?>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And, <.></.> <JP>nandarou</JP> <F>mhmm</F> <.></.> <JP><F>uunto</F></JP> <R>the young</R> the young man ate a lot so <.></.> he smiles,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and he seems to be happy.</B>
+<A><F>Hum</F>.</A>
+<B>And <.></.> the older man pay the payer.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And, after they took a dinner and talked very much. <R>They</R> <F>uhm</F> <SC>they</SC> <.></.> <JP>nandarou</JP> they say good-bye each other.</B>
+</task>
+<followup>
+<A>O K. Good. <??></??> do you like to eat out?</A>
+<B><F>Er</F> yes, <F>urr</F> I like eating</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> outside and in, anyway I like eating.</B>
+<A><F>Uhm</F> O K. <F>Erm</F> how do you decide to go to the place?</A>
+<B><F>Uhm</F> how do you decide?</B>
+<A>Which restaurant do you go? How do you decide?</A>
+<B><F>Uhmm</F>. <.></.> Always at lunch, I want to go to the shop near campus,</B>
+<A><F>Uh-huh</F>.</A>
+<B>but <SC>I take the lessons</SC> <F>uhmm</F> <JP><F>uunto</F></JP> <JP>nandaro</JP> <JP><F>uunto</F></JP> <SC>I take a lessons from</SC> <.></.> <F>uhm</F> <F>er</F> <JP>nandarou</JP> I take a lessons <SC?>bit</SC?> second times <OL>classes and</OL></B>
+<A><OL><F>Uh-huh</F> <F>uh-huh</F></OL>.</A>
+<B><SC>three</SC> <F>er</F> third time classes, <OL>so</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><SC>I</SC> we have to eat at cafeteria. <OL><SC>We</SC> I have</OL></B>
+<A><OL><F>Oh</F> O K</OL>.</A>
+<B>no time, <OL>so</OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>I want to go to the shop near campus,</B>
+<A><F>Uh-huh</F></A>
+<B>but I can't. <SC>I'm <R>su</R> su</SC> I think, sorry.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Oh</F> <OL>O K</OL>.</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A>I see. All right. Now, we're <F>urr</F> <SC>the</SC> <R>at</R> at the end of the interview test. And, <F>er</F> thanks for coming. And I enjoyed talking with you so much. Thank you very much.</A>
+<B><R>Tha</R> thank you very much.</B>
+<A>Have a nice day.</A>
+<B>Have a nice day.</B>
+</stage5>
+</body>
+</interview>

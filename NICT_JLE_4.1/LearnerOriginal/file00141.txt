@@ -1,0 +1,203 @@
+<interview>
+<filename>file00141.txt</filename>
+
+<head version="1.3">
+<date>2000-07-18</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. <F>Er</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B><H pn="B's name">XXX02</H>. Yes.</B>
+<A><F>Oh</F> <F>Er</F> O K. <H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Well</F> how are you today?</A>
+<B>I'm fine, thank you. And you?</B>
+<A>Good. Thank you. <F>Well</F> <H pn="B's name">XXX02</H>, where are you from?</A>
+<B><F>Mhm</F> I'm from <H pn="others1">XXX03</H>.</B>
+<A><.></.> <H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Oh</F> O K.</A>
+<B>And now, I'm go to the university in <H pn="others2">XXX04</H>.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A>So do you live alone?</A>
+<B>Yes.</B>
+<A><F>Oh</F> O K.</A>
+<B>I live <SC>alone</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B>by myself.</B>
+<A><F>Ah</F> O K. So first, can you tell me about <H pn="others1">XXX03</H>?</A>
+<B><F>Mhm</F> <H pn="others1">XXX03</H>. <F>Mhm</F> <H pn="others1">XXX03</H> is <R>famous</R> <F>mhm</F> famous port town. <F>Mhm</F> yes. <.></.> But <R><H pn="others1">XXX03</H> <F>mhm</F> is</R> <F>mhm</F> <F>mhmmm</F> <H pn="others1">XXX03</H> is not full of <laughter>people</laughter>. <F>Mhmm</F> Yes. <F>Mhm</F>.</B>
+<A>Can you tell me more about <F>well</F> people</A>
+<B><F>Mhm</F>.</B>
+<A>in <H pn="others1">XXX03</H>?</A>
+<B><F>Uhmm</F>. <.></.> <F>Mhmm</F> <SC>people</SC> about people?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhmm</F> <.></.> <H pn="others1">XXX03</H>. <F>Uhmm</F> <..></..> <F>urr</F>. <..></..></B>
+<A>Are they different from people in <H pn="others2">XXX04</H>?</A>
+<B><F>Urm</F> <SC>I don't</SC> <F>uhmm</F> <F>urmm</F> <H pn="others1">XXX03</H>'s people has different pronunciation <OL>of</OL></B>
+<A><OL><F>Oh</F></OL>.</A>
+<B>Japanese, a little.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. <F>Uhm</F>. <.></.></B>
+<A><F>Oh</F> O K. So <F>er</F> you said you live alone, but what is good about living alone?</A>
+<B><F>Mhmm</F> <nvs>laughter</nvs> I live alone. <F>Mhm</F> What?</B>
+<A>What is good about living alone?</A>
+<B>Living alone. <F>Uhmm</F> <nvs>laughter</nvs> Living alone. <F>Uhmm</F> my mother <nvs>laughter</nvs> <F>uhm</F> <laughter>doesn't</laughter> told me to study more more and harder. <F>Uhm</F>.</B>
+<A><F>Oh</F>.</A>
+<B>And <F>uhm</F> <.></.> nobody say me <F>urm</F> <.></.> sleep early. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>But <F>uhm</F> living alone have bad point. <F>Mhm</F> for example, I <F>uhm</F> always ready for my <F>uhm</F> lunch and dinner by myself.</B>
+<A><F>Oh</F> <OL>O K</OL>.</A>
+<B><OL>I'm not</OL> good cook.</B>
+<A><nvs>laughter</nvs> <CO><OL><F>Well</F></OL></CO>.</A>
+<B><OL>So</OL> it's hard for me.</B>
+<A><F>Oh</F> what's your specialty?</A>
+<B><nvs>laughter</nvs> <R>My</R> <SC>my</SC> <F>mhmm</F> I <laughter>always</laughter> cook <R>pas</R> pasta.</B>
+<A><F>Oh</F>.</A>
+<B><F>Uhm</F>. Pasta is very easy.</B>
+<A><F>Uh-huh</F>.</A>
+<B><laughter>To boil pasta</laughter>, and <F>uhmm</F> <F>uhm</F> meat sauce <F>uhm</F> <F>er</F> <R>on</R> <F>em</F> <F>uhm</F> on <OL>it</OL>.</B>
+<A><OL>I see</OL>. <F>Oh</F> O K. But by the way, <F>er</F> what do you like to do in your free time?</A>
+<B><F>Mhmm</F> <SC>I always</SC> <F>uhm</F> I play with my friends. Always. <OL>Yes</OL>.</B>
+<A><OL><F>Uhm</F></OL>. And <R>what</R> what do you like to do with your friends?</A>
+<B><F>Uhm</F> go shopping and <F>erm</F> <.></.> play <F>uhm</F> catch ball <F>urm</F> and <JP>ma</JP> play <JP>telebi</JP> <laughter>games</laughter>,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>mhm</F></OL> with my friends.</B>
+<A><F>Oh</F> <F>ur</F> what's your favorite T V game?</A>
+<B><nvs>laughter</nvs> T V <laughter>game</laughter>? <F>Uhm</F> I like soccer <laughter>game</laughter>.</B>
+<A><F>Oh</F> O K.</A>
+<B>I like soccer.</B>
+<A><F>Oh</F> really?</A>
+<B>I like soccer and baseball.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A>Then you are a sportman. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now, I'm going to show you a picture. O K. This one. And would you describe this picture for me?</A>
+<B><F>Mhm</F> Yes. <ctxt>the interviewee is looking at the picture and thinking</ctxt> <F>Uhmm</F> <..></..> White car <F>uhm</F> parks in front of the house. And the cat is on the car. <F>Uhmm</F> <.></.> <F>uhmm</F> <.></.> It's very <R>fine</R> fine day. And <.></.> <R>two</R> two woman are talking. <F>Mm</F>. And <.></.> <F>uhm</F> <laughter><R>bo</R> <SC>boys</laughter> <F>uhmm</F> playing</SC> boys are playing volleyball. <F>Uhmm</F>. And the man <F>uhm</F> is running <F>uhm</F> along the street. <F>Mhm</F>. <..></..> And the man is <F>uhm</F> reading a newspaper <F>mm</F> <SC>on this ben</SC> on the bench. <F>Mhm</F>. <.></.> And this street isn't busy. <.></.> And <F>uhmm</F> <.></.> probably the house has <.></.> five windows. <F>Mmm</F>. And <F>urmm</F> four small windows and one big <SC>ones</SC> one. <F>Uhm</F>. <.></.> <F>Uhmm</F>. <.></.> And the girl <F>uhm</F> in front of the house <SC>play</SC> <F>er</F> is playing <JP>nawatobi</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F>. <.></.></B>
+</task>
+<followup>
+<A>O K. So can you compare this town with the <F>er</F> town you live now in <H pn="others2">XXX04</H>?</A>
+<B><nvs>laughter</nvs> <F>Mhmm</F> <H pn="others2">XXX04</H> street is more <laughter>busy</laughter> <F>mm</F> near my home.</B>
+<A><F>Oh</F> O K. How about houses?</A>
+<B>House. <F>Uhmm</F> <.></.> <F>uhm</F> there many house like this. <F>Um</F>.</B>
+<A><F>Uh-huh</F>. <F>Uhm</F>. So when you were a child, <F>er</F> what kind of thing did you do with your friends?</A>
+<B>Chai?</B>
+<A>When you were a child.</A>
+<B><laughter><F>Uhmmm</F></laughter>. When <R>I</R> I was a child, I played baseball and soccer.</B>
+<A><F>Oh</F> O K.</A>
+<B><CO><OL>Play</OL></CO>. <F>Mm</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL>All right</OL>. Thank you very much. O K. Now, we are doing a role play. <.></.> O K. Please read it. And we're going to have a conversation. And if you're ready, I will start.</A>
+<B><ctxt>the interviewee is reading the card</ctxt> O K.</B>
+<A>O K. Hi, may I help you, sir?</A>
+<B><F>Uhm</F> I want to ticket <F>uhm</F> to New York. <F>Uhmm</F>. <R>But</R> <F>uhm</F> but I don't know how to buy the ticket. <CO><OL>Please</OL></CO>.</B>
+<A><OL>You can buy</OL> the tickets here.</A>
+<B>Here. <F>Er</F> <F>uhm</F> please tell me <F>uhm</F> what ticket <.></.> will take me more fast <.></.> <OL>to New York</OL>.</B>
+<A><OL><F>Oh</F></OL> O K. <F>Er</F> express train ticket.</A>
+<B><F>Uhm</F> yes. <F>Uhm</F>. <.></.> <F>Ah</F> <SC>is that ticket</SC> <.></.> <SC>is</SC> <F>uhm</F> <R>will</R> <F>er</F> <SC>will the ticket</SC> <F>uhm</F> the ticket <.></.> <F>uhmm</F> <.></.> will take me <.></.> to New York more higher than <SC>another</SC> other ticket?</B>
+<A>Sure.</A>
+<B>Yeah. Thank you. <F>Um</F> I will buy the ticket. <nvs>laughter</nvs></B>
+<A><F>Oh</F> O K. Here's the ticket. But <F>er</F> fifty dollars.</A>
+<B><F>Oh</F> O K. Here it is.</B>
+<A>O K. So <F>er</F> please have a nice trip to New York.</A>
+<B>Thank you.</B>
+<A>Good.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>All right. Role play is over. <F>Urm</F> have you ever been to foreign countries before?</A>
+<B><F>Uhm</F> <F>ur</F> no.</B>
+<A>No?</A>
+<B>Yes.</B>
+<A>O K. So what country would you like to visit?</A>
+<B><F>Mhmm</F> I want to visit Australia and <JP>oranda</JP> and Asian country like China, <F>uhm</F> <JP>tai</JP>.</B>
+<A><F>Oh</F> O K. So which country is number one?</A>
+<B><F>Uhmmm</F> It's <F>uhm</F> difficult question. <nvs>laughter</nvs> <F>Uhmmm</F> <.></.> <F>mmm</F> <.></.> <SC>China</SC> <F>uhm</F> I want to visit China.</B>
+<A>Why?</A>
+<B><F>Uhm</F> because China <F>uhm</F> <F>uhm</F> has <.></.> many <F>uhm</F> <R>important</R> <.></.> important museum and <F>uhm</F> structure <F>uhm</F> <R>like ba</R> <F>mhmm</F> like <F>urr</F> <JP>banri</JP> <F>mhm</F> so I want to see them.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K. Now, I'm going to show you another picture. <F>Well</F> I'd like you to make a story about <F>mm</F> this picture. O K. And the story happened last week so please start your story with, "One day last week".</A>
+<B><F>Uhm</F> <.></.> <R>Last week, <F>uhm</F> <.></.> I would</R> <F>uhm</F> last week, I would go shopping with my friend, but <SC>it was</SC> it rained so hard that I didn't go out. So I stayed <SC>my</SC> in my home <laughter>with my friend</laughter>.</B>
+<A>O K. And?</A>
+<B>Two? <F>Urmm</F> <F>urmm</F> <..></..> <F>Uhmm</F> last week, <F>uhm</F> <F>urmm</F> <R>I went to</R> <.></.> I went to Jingu Stadium to see baseball game. <F>Mhm</F>? <F>Uh</F> two. <F>Um</F> three?</B>
+<A>Right. One to six.</A>
+<B>One to <F>er</F> six.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Six.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F>.</B>
+<A>So it's a story.</A>
+<B><F>Ah</F> <R>S</R> story. <F>Ahh</F> O K, O K, O K. <F>Uhmm</F> two. <F>Uhmm</F> <F>Ah</F> one, two, <F>mm</F>. <F>Mhmm</F> so <F>uhm</F> <.></.> <R>last week</R> <F>uhmm</F> <F>uhmm</F> last week, we <SC>didn</SC> <F>uhm</F> couldn't <R>go <R>out</R> out</R> go out. So <SC>we</SC> <F>uhmm</F> <SC>shall we go to</SC> <F>uhmm</F> <.></.> <R>shall</R> <F>ur</F> shall we go to see cinema <nvs>laughter</nvs> <SC>next</SC> <F>err</F> <laughter>this weekend</laughter>? <F>Uhm</F>. And we <F>uhm</F> go to cinema. <F>Mm</F>. <R>And</R> <.></.> and there, <R>we</R> <.></.> <SC>we eat</SC> we <R>bu</R> <F>ur</F> bought coke and popcorn. <F>Mhm</F>. <.></.> And <R>the</R> <F>uhm</F> <.></.> <SC>the <F>uhm</F> film was</SC> <.></.> <F>er</F> the movie was action movie. <F>Uhm</F>. <F>Uhm</F> <R>it</R> it was <F>uhm</F> exciting movie. <R>And</R> <R>and</R> <F>mhm</F> <.></.> <F>uhm</F> <SC>and <F>uhm</F> we are very <laughter><R>exci</R></laughter> exci</SC>, <F>uhm</F> and <SC>the</SC> <SC>we</SC> <F>urm</F> the movie was very exciting, and <R>we were</R> we were very exciting to see the movie. <SC>And</SC> <F>uhm</F> <SC>so</SC> <F>uhm</F> <.></.> <F>urr</F> <.></.> and <F>uhm</F> <R>after</R> <F>urmm</F> after looking the movie, <SC>we <F>uhm</F> go</SC> <F>er</F> we went <F>urmm</F> karaoke. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL><nvs>laughter</nvs></OL> O K. I see. So do you like to sing in karaoke <OL>bar</OL>?</A>
+<B><OL>No</OL>. I'm not good at sing.</B>
+<A>Why not?</A>
+<B><F>Uhm</F> I don't like to sing.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A><F>Oh</F> O K. So are there any favorite movie stars?</A>
+<B>Movie star. <F>Uhmm</F> I <laughter>seldom</laughter> look movie.</B>
+<A><F>Oh</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>How about videos <OL>at home</OL>?</A>
+<B><OL><F>Uhmm</F></OL> yes. <F>Um</F> I always <F>uhm</F> see <F>uhm</F> the movie in my home.</B>
+<A><F>Uhm</F> O K. So what was the last one you saw?</A>
+<B><F>Uhmm</F> <F>urmmm</F> <.></.> <SC>New York</SC> <F>er</F> <F>mm</F> <R>'Los Angeles Confidential'</R> 'L A Confidential'.</B>
+<A><F>Ah</F> <OL>O K</OL>.</A>
+<B><OL><F>Mhm</F></OL> <SC>It's</SC> <F>er</F> it was a story of police.</B>
+<A><F>Uh-huh</F>. How did you like it?</A>
+<B><laughter><F>Uhmm</F></laughter> <F>mhm</F> it was <R>action and</R> <F>uhm</F> <SC>action and</SC> <F>uhm</F> action movie. <F>Mm</F>. It was very exciting.</B>
+<A><F>Oh</F> really? You <OL>enjoyed it</OL>.</A>
+<B><OL>Yeah, <F>uhm</F></OL>. <R>I</R> I enjoyed it. <F>Uhm</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Now, we are almost at the end of the interview. But do you have any plans after this interview?</A>
+<B><F>Mhm</F>.</B>
+<A>Any plans</A>
+<B><F>Ah</F>.</B>
+<A>after this?</A>
+<B>After this? <F>Uhmm</F> <F>er</F> I will take TOEIC test. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter><F>Oh</F> my God</laughter></OL>.</A>
+<B>And <F>uhm</F> after <R>finish it</R> finish it, <R>I will</R> <laughter><F>urmm</F></laughter> I will go <F>mm</F> <F>urr</F> <R>Sh</R> Shinjuku with my friend.</B>
+<A><nvs>laughter</nvs> And drink?</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Enjoy it. And thanks for coming and take this interview test.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>Have a nice day</OL>.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

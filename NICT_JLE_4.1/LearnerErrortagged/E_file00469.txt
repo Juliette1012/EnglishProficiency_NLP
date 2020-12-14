@@ -1,0 +1,144 @@
+<interview>
+<filename>E_file00469.txt</filename>
+
+<head version="1.3">
+<date>2001-06-22</date>
+<sex>female</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC>875</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K. Let's get started. Thank you very much for coming. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><F>Er</F>. I'm pretty good, thank you. How are you?</B>
+<A>I'm good, thank you. <F>Um</F>. So, are you busy these days?</A>
+<B><F>Err</F>. Yes. I'm <?>having</?> busy days.</B>
+<A><F>Err</F>. <OL><R>What</R></OL></A>
+<B><OL>A lot of</OL> <n_num odr="1" crr="works">work</n_num>.</B>
+<A><F>mm</F> what do you do?</A>
+<B><F>Um</F>. I'm in <R>tech</R> <at odr="1" crr="a"></at> technical support <n_lxc odr="2" crr="company"></n_lxc>.</B>
+<A><F>Uhu</F> <F>hm</F>. Tell me more about your job.</A>
+<B><F>Erm</F> <F>well</F> <F>um</F>. I get many issues from my clients everyday, and I open <at odr="1" crr="the"></at> issues and <F>erm</F> talk to <at odr="2" crr="">the</at> U S technicians by E-mail <R>or</R> or <?><v_lxc odr="3" crr="analyze">do</v_lxc></?> databases <F>erm</F> to solve the problems.</B>
+<A><F>Hm</F>. What do you like <av_lxc odr="1" crr="best">most</av_lxc> about your job?</A>
+<B>Sorry?</B>
+<A>What do you like <av_lxc odr="1" crr="best">most</av_lxc> about your job? What's the best <OL><?>thing</?></OL>?</A>
+<B><OL><F>Oh</F> <F>um</F></OL> <F>er</F> <F>um</F> <F>well</F>. <SC>The clients say</SC> <F>ur</F> my <n_num odr="1" crr="clients">client</n_num> say <F>well</F> <F>urn</F> they appreciate <F>urn</F> <o_uk odr="2" crr="my help">me about helping them</o_uk> with the issues. <F>Um</F>. I feel pretty <F>um</F> happy.</B>
+<A><F>Oh</F>. I see. O K. Thank you very much. So it's Friday, but, do you have any plan for <at odr="1" crr="the"></at> weekend?</A>
+<B><F>Erm</F> <F>um</F>. I'm planning to go to Harajuku to get <F>um</F> some baby clothes for my friend.</B>
+<A><F>Wow</F>. Great. <F>Um</F>. Tell me a little bit about your friend.</A>
+<B>My friend? <F>Erm</F> <F>er</F>. <SC>She is</SC> <F>um</F> she <v_tns odr="1" crr="has been working">has worked</v_tns> in America for ten years. <SC>And</SC> so <F>um</F> <.></.> <F>um</F> she is <at odr="1" crr="">a</at> bilingual and bicultural, and I like <?>talk with</?> her. I think we have a lot in common.</B>
+<A>So, have you lived in the States yourself?</A>
+<B><F>Um</F>. Yes, I have lived in the States for one year <R>and</R> and three month.</B>
+<A>I see. Tell me about your experience in the States.</A>
+<B><F>Um</F>. <.></.> <F>Oh</F>. <con_lxc odr="1" crr="When"></con_lxc> <cap odr="2" crr="for" ch="1">For</cap> the first time I was in the States <F>erm</F> I was an exchange student in <at odr="3" crr="a"></at> high school. And <F>um</F> <F>well</F> I lived with a nice American family. <R>I had</R> I had a nice <F>um</F> experience with them. And I learned a lot about <F>erm</F> how American family <v_agr odr="1" crr="coorperates">cooperate</v_agr> with each other. <R>And</R> <F>um</F> <.></.> and <F>er</F> also, last time, <R>I</R> I worked in <H pn="company name1">XXX03</H> for three month. But I came back <laughter>for some <n_num odr="1" crr="reasons">reason</n_num></laughter>. <F>Erm</F>. So, was great that I could experience working in the States. <F>Um</F>. But, unfortunately, the company was a branch of <H pn="company name2">XXX04</H>, so it was <F>erm</F> like a traditional Japanese <laughter>company</laughter>. <F>Um</F> <F>um</F>. So I found myself in the same situation <prp_lxc2 odr="1" crr="as"></prp_lxc2> that <F>um</F> while I was, <SC>in</SC> you know, in <H pn="others1">XXX05</H>. <F>Um</F>. <SC>So</SC> <F>ah</F> and, during that time, <?>U C A</?> offered me a job. <SC>I had</SC> but I <SC>have</SC> had to return to Japan with the promise that I can work again in the States. So my goal <v_lxc odr="1" crr="is"></v_lxc> to return to the U S in the future.</B>
+<A><F>Hm</F>. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I have a picture to show you. O K. Please describe this picture to me.</A>
+<ctxt>The interviewee is looking at the picture and thinking for a moment.</ctxt>
+<B><F>Err</F>. It's a fine day. <F>Um</F>. <.></.> <F>Err</F>. <.></.> <F>Uum</F>. There is <SC>a big house</SC> one big house. And <.></.> <F>um</F> <at odr="1" crr="a">the</at> car is <.></.> <F>mm</F> parked in front of <SC>that</SC> the house. And I see a guy who is just reading a newspaper in front of the big house. <F>Hm</F>. <CO>And a little girl is</CO>. <F>Um</F> <F>oh</F>. I forgot what you call this. <laughter><??></??></laughter>. Anyway, she is doing this. <F>Um</F>. And I see two dogs <??></??>, also two boys <F>um</F> playing with a ball. And one man is jogging along the street.</B>
+<A>O K. That will be enough. Thank you very much.</A>
+</task>
+<followup>
+<A>So, compared to this picture, there are many small houses in Tokyo.</A>
+<B>Yes.</B>
+<A>So, how can we make the situation better? What do you think?</A>
+<B><F>Erm</F> <F>well</F>. <.></.> I think, <F>um</F> basically, it can't be helped because we have <at odr="1" crr="a"></at> small land. <F>Um</F>. <R>But</R> but, still, <SC>we have</SC> we <v_lxc odr="2" crr="have"><v_tns odr="1" crr="get">got</v_tns></v_lxc> <.></.> <aj_lxc odr="3" crr="large">some</aj_lxc> <n_num odr="4" crr="lands">land</n_num> <R>in</R> in countryside. But the problem is that <F>um</F> you cannot have <SC>a job but</SC> <F>um</F> <at odr="1" crr="a">the</at> job like mine related to computers <o_uk odr="2" crr="in countryside"></o_uk>. <F>Um</F>. So <.></.> <SC>if we have</SC> <SC>if we</SC> <.></.> <F>um</F> <??></??> <F>hmm</F> <.></.> a lot of companies should move to countryside. Then, young people can have jobs there, and <SC>have a</SC> <F>um</F> <F>uh</F> we will be able to have bigger houses. <F>Hm</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><F>Hm</F>.</A>
+<B><F>Well</F>.</B>
+<A>Yeah. <nvs>laughter</nvs> O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, I want to do a role play with you. And this is the role card for you. So, first, please read this card.</A>
+<B><.></.> <??></??>?</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Are you ready?</A>
+<B>O K.</B>
+<A>O K. Let's start. Ring, ring. Hello? This is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello? This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F>. What happened?</A>
+<B><F>Oh</F>. I'm sorry. <F>Uh</F>. <R>I</R> <F>um</F> <.></.> I'm not gonna <prp_lxc1 odr="1" crr="">to</prp_lxc1> <v_lxc odr="2" crr="be"></v_lxc> able to make it today. <F>Um</F>. I was hoping to have a <F>erm</F> great time with you tonight. But, <F>um</F> unfortunately, I <v_lxc odr="1" crr="got">had</v_lxc> some <n_lxc odr="2" crr="troubles">critical issues</n_lxc> coming up <prp_lxc1 odr="3" crr="about">for</prp_lxc1> my job, and <F>um</F> <SC>I don't think I can</SC> I'm afraid <R>I</R> I can't leave the office until midnight. I'm so sorry, but I do hope you will invite me <F>um</F> next time.</B>
+<A>Actually, it was <at odr="1" crr="a"></at> secret birthday party for you.</A>
+<B><F>Oh</F>.</B>
+<A><laughter>You know, everybody is waiting for you</laughter>.</A>
+<B><F>Oh</F> god. <nvs>laughter</nvs> Then, <F>um</F> until what time <R>are they</R> <F>um</F> are they going to be there?</B>
+<A>Probably midnight.</A>
+<B>Midnight?</B>
+<A><F>Uum</F>.</A>
+<B>O K. I will try to make it by midnight.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>So</OL>, please tell them to stay there <R>and</R> and wait for me. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter><F>Oh</F> thank you</laughter></OL>. Thank you we appreciate that.</A>
+<B><F>Oh</F>. Thank you. I'll see you.</B>
+<A>O K. Good-bye.</A>
+<B>O K. Bye.</B>
+</task>
+<followup>
+<A>O K. <laughter>Thank you very much</laughter>. So this is the end of the role play.</A>
+<B>O K.</B>
+<A><F>Um</F>. What would you do if you were in the situation like this? <R>Woul</R> would you rather stay in the office and work, or do you put priority to your private appointment <OL>with your friends</OL>?</A>
+<B><OL><F>Oh</F></OL>. <R>I</R> <F>um</F> I think there is one more <F>um</F> thing I can do. <SC>Maybe, I can <F>um</F> quit</SC> <F>um</F> <F>err</F> <F>well</F> maybe, I can go to the party and have a nice time with them and <SC>go back to</SC> come back to the office late at night.</B>
+<A><F>Um</F>. That would be a good idea.</A>
+<B>Yeah.</B>
+<A>But <R>many</R> many people say that Japanese people are workaholic.</A>
+<B>Yes, I know that. <F>Hm</F>.</B>
+<A><R>What</R> what do you think about that? Do you think that's true?</A>
+<B><F>Er</F>. Yes. I think it's very true.</B>
+<A><F>Hm</F>. Why do you think so?</A>
+<B><F>Err</F>. Because <F>well</F> <.></.> <SC>I myself is a</SC> <F>uh</F> I'm a workaholic. I can't leave the office early because people around me all stay until late at night. <F>Uum</F>. <.></.> <?><F>Well</F></?>. <.></.> Maybe, <F>um</F> the point is that <.></.> <R>they don't have <F>um</F> comfortable</R> <F>well</F> they don't have <at odr="1" crr="a"></at> comfortable place to take a rest at their homes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Um</F> <F>um</F>. <.></.> I hear a lot of stories that they don't have <laughter>happy families</laughter>. <laughter>They don't want to go home</laughter>. They just stay in the office <SC>and</SC> so that they feel <F>um</F> <F>erm</F> comfortable. But this is not true <av_lxc odr="1" crr="">though</av_lxc>. <.></.></B>
+<A><F>Um</F>. <laughter>O K</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. Finally, I have another picture to show you. This time, please make a story by using these six pictures. And, please use this phrase at the beginning, "One day last week" and picture one, two, three, four, five. O K? Please go ahead.</A>
+<B>O K. <F>Uum</F>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Erm</F>. There are two girls <.></.> <F>um</F> <OL>packing</OL>.</B>
+<A>"<OL><R>One day</R></OL> <F>uhm</F> one day last week".</A>
+<B><F>Er</F>. One day last week, two girls <F>um</F> <.></.> <F>er</F> decided to go <.></.> <F>erm</F> to a mountain <SC>for a picnic</SC> <F>oh</F> I mean, for camping. <R>And</R> and they packed the things for camping. And then, when they arrived, they set up <R>the</R> <at odr="1" crr="a">the</at> tent and started cooking. Suddenly, it started raining. <R>An</R> and the tent and the <.></.> <F>er</F> pans and <aj_lxc odr="1" crr="other"></aj_lxc> stuff <v_tns odr="2" crr="were">are</v_tns> blown away by <at odr="3" crr="">the</at> strong wind. So, unfortunately, they <SC>have</SC> had to leave the place <F>em</F> to go to a hotel instead. And they went to a lounge. They <?><v_tns odr="1" crr="had">have</v_tns></?> a cup of tea. And <.></.> <F>um</F> they decided to stay there until <.></.> <F>erm</F> <at odr="1" crr="the"></at> rain <v_tns odr="2" crr="stopped">stops</v_tns>.</B>
+</task>
+<followup>
+<A><F>Hm</F>. O K. Thank you very much. So, do you like this kind of outdoor activities like camping?</A>
+<B>Yes. <?>I like</?> camping.</B>
+<A><F>Hum</F>. Tell me about the last time you went camping.</A>
+<B><F>Err</F>. <.></.> Last time I went camping was over ten years ago. With my American host mother. We went to <F>um</F> <at odr="1" crr="the"></at> Grand Canyon. And there was a nice camping ground. And <F>um</F> we set up <at odr="1" crr="a">the</at> tent just like them in the picture, and <F>um</F> we <.></.> had a nice, delicious burger. <R>We</R> we cooked it with <at odr="1" crr="">the</at> charcoal. <F>Um</F>. It was very good. And also, <F>um</F> <.></.> <?>I</?> went down the Grand Canyon, <F>urn</F> <pn_lxc odr="1" crr="it"></pn_lxc> took about <F>hm</F> two days. <SC>And I</SC> and my host mother stayed <F>er</F> in a valley. And we set up a tent there. <SC>And</SC> <SC>so</SC> <.></.> <F>huh</F> but, <laughter>on the way back</laughter>, <F>um</F> I was very scared because my hands were trembling from too much walking. <OL>That was <?>scary</?></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So the interview is almost over.</A>
+<B>O K.</B>
+<A><F>Um</F>. Are you going back to your office?</A>
+<B>Yes.</B>
+<A><F>Hm</F>. What time will you finish work tonight?</A>
+<B>Tonight? <F>Well</F>. I'm planning to finish it by six o'clock.</B>
+<A><F>Er</F>.</A>
+<B>Because this is Friday.</B>
+<A>Yeah. <nvs>laughter</nvs> So, have a nice weekend. O K. <OL>Thank you very much for coming</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

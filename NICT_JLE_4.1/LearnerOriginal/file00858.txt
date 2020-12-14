@@ -1,0 +1,188 @@
+<interview>
+<filename>file00858.txt</filename>
+
+<head version="1.3">
+<date>2002-02-25</date>
+<sex>female</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>595</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><H pn="A's name">XXX01</H>, may I have your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Miss <H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>So, how are you today, Miss <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F> I have a headache today.</B>
+<A><F>Oh</F> <.></.> <F>er</F> do you have a cold?</A>
+<B>I think so.</B>
+<A><F>Mm</F> <F>ah</F> what do you do, when you have a headache?</A>
+<B><F>Er</F> I have medicine.</B>
+<A><F>Mm</F> <F>mm</F> I see. Where did you have lunch today?</A>
+<B><.></.> I beg your pardon?</B>
+<A>Where did you have lunch <OL>today</OL>?</A>
+<B><OL><F>Ah</F></OL> I had a lunch at a restaurant with my friend.</B>
+<A><F>Mm</F>. I see. Can you tell me about the restaurant?</A>
+<B><F>Ah</F> <SC>the restaurant was a <.></.> <F>mm</F> Japanese and Western</SC> <F>ah</F> <.></.> <nvs>laughter</nvs> basically the restaurant is Japanese style, but the menu is <.></.> little bit Western style.</B>
+<A><F>Mm</F> <F>mm</F> I see. Do you like the restaurant?</A>
+<B><F>Mm</F> so so.</B>
+<A><F>Ah</F> why not?</A>
+<B><F>Mmm</F> <..></..> today I had a headache, and <SC>I can't</SC> <F>ah</F> I couldn't enjoy lunch.</B>
+<A>Of course.</A>
+<B>That's why <.></.> I don't like there.</B>
+<A>I see. O K, <F>err</F> Miss <H pn="B's name">XXX02</H>, do you have any hobby you enjoy?</A>
+<B><F>Ah</F> I love to ski.</B>
+<A>Ski.</A>
+<B>Yeah.</B>
+<A>O K. <F>Er</F> can you tell me about <F>er</F> a place you went this winter?</A>
+<B>O K. <.></.> <SC>This week</SC> <F>ah</F> last weekend I went to Kusatsu.</B>
+<A><F>Hum</F>.</A>
+<B>Kusatsu is very <F>ah</F> famous with hot springs.</B>
+<A><F>Uhu</F>.</A>
+<B>But <F>ah</F> <..></..> last time, I had exam at the ski school. <CO><R>And</R> <F>er</F> <..></..> <F>ah</F> <..></..> and the</CO>. <F>Ah</F> <JP><?>nandarouna</?></JP>. <.></.></B>
+<A><F>Hum</F>. What kind of examination was that?</A>
+<B><F>Ah</F> <R>technical</R> <SC>technical test</SC> skiing technical test. <F>Mm</F> the sponsor is <..></..> <F>er</F> Ski Association of Japan.</B>
+<A><F>Mm</F> <F>hum</F>.</A>
+<B>And <F>ah</F> <..></..> <F>ah</F> <SC>I want to check my skills</SC> <F>ah</F> I want to check my level, so I tried test, but <F>er</F> the test was <.></.> bad for me.</B>
+<A><F>Hum</F>. So <F>ahm</F> does that test work as a license?</A>
+<B>Not license, just <R>check</R> checking level.</B>
+<A><F>Oh</F> I see. O K. How long have you been skiing?</A>
+<B><F>Ah</F> O K <.></.> first time I tried ski <F>er</F> when I was high school but <F>ah</F> <.></.> I don't have much money and much time. <SC>So I can't do</SC> <F>ah</F> I couldn't enjoy ski long time, but <F>er</F> <SC>about two year</SC> I think two or three years ago, I started to ski <.></.> again and <F>ah</F> <..></..> I try to improve my skill <OL>so hard</OL>.</B>
+<A><OL><F>Mm</F></OL> I see, O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Thank you. Now, first thing today.</A>
+<B><F>Mm-hum</F>.</B>
+<A>Please describe this picture.</A>
+<B><.></.> O K. <F>Er</F> in this room, there is a <.></.> lady, dog and cat. <R>The</R> <F>um</F> the room's door is open. <..></..> <F>Ah</F> the cat is sleeping on the bed, and <R>dog</R> <.></.> <F>er</F> dog is sleeping on floor. <..></..> I think the lady is looking at <.></.> her pets, cat and dog. <..></..> <F>Um</F> <..></..> there is a desk on window side. And <F>er</F> there is a computer and a typewriter on the desk. <..></..> <F>Um</F>. <..></..></B>
+</task>
+<followup>
+<A><F>Hum</F>. O K. Thank you, Miss <H pn="B's name">XXX02</H>. <F>Ahm</F> can you compare this room to one of the rooms in your house?</A>
+<B><F>Mm</F> <.></.> I see. <.></.> <F>Mm</F> O K, <F>ah</F> there is <F>er</F> one big difference. That is there isn't any pet in my room.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F> because <SC>I ha</SC> I am living in an apartment. And, <SC>I can't</SC> <F>ah</F> <.></.> <R>on the con</R> <F>er</F> on the contract I can't feed <.></.> any pets</B>
+<A><F>Mm</F> <F>hum</F>.</A>
+<B>in the apartment.</B>
+<A><F>Mm</F>.</A>
+<B><.></.> <CO>And</CO>.</B>
+<A>Do you like animals?</A>
+<B>Yes.</B>
+<A><F>Hum</F>.</A>
+<B>And <F>ah</F> <..></..> <SC>I don't have</SC> <F>er</F> <..></..> <JP>nandarou</JP> <..></..> <SC>s</SC> <JP>nan</JP> I don't have audio set <.></.> in my room. And <F>er</F> <F>uum</F> <.></.> there isn't clock in my room.</B>
+<A><F>Hum</F>.</A>
+<B>I always check the time <F>hum</F> my handy phone.</B>
+<A><F>Um</F> Is there a reason why you don't have?</A>
+<B><F>Ah</F> I don't have time to <.></.> get clock.</B>
+<A><F>Ah</F> O K. <nvs>laughter</nvs> I see O K, thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's try a role play.</A>
+<ctxt>The interviewer is preparing the card.</ctxt>
+<A>O K, please read the card and tell me when you are ready.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K? May I help you, ma'am?</A>
+<B><F>Ah</F> <SC>I want to go</SC> <F>ah</F> I have plan to go <F>um</F> oversea, but <SC>I don't have</SC> <F>ah</F> I didn't decide to <.></.> where <SC>will I go</SC> <F>ah</F> I will go.</B>
+<A><F>Mm</F>.</A>
+<B><.></.> <F>Mm</F> <F>ah</F> <..></..> <SC>let me see <F>ah</F> leaflet</SC> <F>ah</F> <..></..> <SC>could you give me a information about <F>ah</F> <.></.> <R>popular place</R> <.></.> <F>ah</F> popular place to</SC> <F>er</F> <JP><?>nanda</?></JP> <..></..> <F>ah</F> <R>could you</R> <..></..> <F>er</F> could you give me a information about <F>ah</F> very popular place? <.></.></B>
+<A>O K. Can you, first of all, tell me what you would like to do abroad?</A>
+<B><F>Ah</F> I want to enjoy skiing.</B>
+<A>Skiing. O K, what about some countries in Europe?</A>
+<B><F>Huh</F> Europe, for example, Switzerland?</B>
+<A>Yes.</A>
+<B><F>Ah</F> <.></.> I think Switzerland is too far <OL>from Japan</OL>.</B>
+<A><OL>Too far</OL>. <F>Mm</F>. O K, what about Canada?</A>
+<B>That sounds good.</B>
+<A>O K. <F>Ah</F> <.></.> do you have any other conditions you like to tell me?</A>
+<B><F>Mm</F> <..></..> <F>hum-ha</F>.</B>
+<A>Because there are many cities in Canada. <CO>So</CO>.</A>
+<B><F>Ah</F>, if possible, I want to go Whistler.</B>
+<A><F>Um</F>. O K.</A>
+<B>Because Whistler is west side of Canada, and <F>ah</F> <..></..> <F>um</F> I think it takes about ten hour from Narita to, I think, Vancouver.</B>
+<A><F>Mm-hum</F> <F>mm-hum</F>. Exactly. O K, then let me <F>ahm</F> prepare some brochures for you first.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Is that alright</OL>?</A>
+<B><F>Uhu</F>.</B>
+<A>O K, thank you very much. That's the end of the role play.</A>
+</task>
+<followup>
+<A>So, have you been abroad?</A>
+<B>Yes.</B>
+<A><F>Mm</F> can you tell me about your favorite place <OL>so far</OL>?</A>
+<B><OL><F>Ahm</F></OL> <F>er</F> abroad?</B>
+<A>Anywhere.</A>
+<B>Anywhere. <F>Uum</F> <..></..> <laughter><F>mm</F></laughter> recently <R>I</R> <.></.> I haven't gone to abroad because <F>ah</F> <.></.> I went to ski so many time. So, <..></..> <F>er</F> O K, <F>ah</F> I give you <SC>my mos</SC> the most favorite skiing place.</B>
+<A>O K.</A>
+<B>O K. I love to Happoone.</B>
+<A><F>Mm-hum</F></A>
+<B><F>Mm</F>. <SC>The Happoone is the</SC> <.></.> <nvs>cough</nvs> <.></.> <F>uum</F> <nvs>cough</nvs> sorry, <nvs>cough</nvs> <F>er</F> the Happoone ski area is very <.></.> good place to me because <F>ah</F> <.></.> I went to there only <SC>two times</SC> twice. But <F>um</F> <SC>I love</SC> I <R>li</R> like there because <nvs>cough</nvs></B>
+<A>Are you O K?</A>
+<B>O K, <..></..> <F>um</F> <.></.> there is <F>ah</F> <F>er</F> a lot of very hard slope in the area. And I can't skiing well, but I want to try the <SC>slope</SC> very hard slopes.</B>
+<A><F>Mm</F> <F>hum</F> <F>hum</F>. I see. So you would like to go there again?</A>
+<B>Yes. If possible.</B>
+<A>I see. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now the last thing.</A>
+<B><F>Mm-hum</F></B>
+<A>Let me show you the picture sequence. Please make a story from one to six. O K?</A>
+<B>O K.</B>
+<A>Please begin with "One day last week" because this is a story that happened before.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><nvs>cough</nvs> <.></.> Last week, my mother went to <.></.> department store to buy <F>er</F> my father's birthday present. And <F>ah</F> <..></..> <SC>she bought</SC> <..></..> <R>sh</R> she bought tie for my father. <..></..> And she asked <.></.> store staff to wrap it up. <..></..> After <R>she</R> <.></.> she bought <SC>her</SC> <F>ah</F> <.></.> <F>er</F> the birthday present, <SC>she found</SC> <F>ah</F> <..></..> <F>ah</F> <JP>doushiyoukana</JP> <..></..> she found a bargain sale of shoes. <..></..> The discount rate <SC>as</SC> was <F>er</F> thirty percent. <..></..> <F>Ah</F> <..></..> <JP><F>eeto</F></JP> <..></..> <F>ah</F> <JP>doushiyou</JP> <.></.> after passing <F>er</F> <R>sho</R> shoes <.></.> selling place, <R>she</R> she found <F>ah</F> <..></..> bargain of clothes. <.></.> <F>Ah</F> <..></..> and she bought <F>er</F> <.></.> clothes for herself. <.></.> <F>Ah</F> <JP>doushiyoukana</JP> <..></..> <F>ah</F> before <R>she</R> she came to the department store, she decided to buy only her husband's <SC>birthband pre</SC> birthday present, but she bought <.></.> many items. <OL><??></??></OL>.</B>
+</task>
+<followup>
+<A><OL><F>Mm</F> O K</OL>, thank you. <nvs>cough</nvs> Miss <H pn="B's name">XXX02</H>, can you tell me how you choose a gift for your friends or for your family on special occasions?</A>
+<B>O K. <F>Hum</F> <.></.> <SC>when I went to</SC> <F>er</F> when I go <R>to</R> <F>ah</F> to choose present for my friend, <.></.> I imagine her or himself.</B>
+<A><F>Mm-hum</F>.</A>
+<B>And, <F>ah</F> <..></..> <SC>if the</SC> <F>ah</F> <..></..> if I give a present <SC>for</SC> to my good friend, <R>I</R> <..></..> <F>um</F> I take a time to choose present. But <F>ah</F> <..></..> <R>the</R> <F>er</F> <SC>the gift is not</SC> <SC>the gift is</SC> <nvs>sigh</nvs> <..></..> <F>hum</F> <.></.> if the gift <R>is</R> is for kind of acquaintance, <laughter>I choose</laughter> flower or handkerchief.</B>
+<A><F>Mm-mm</F> I see, O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Um</F> we are almost at the end of the interview.</A>
+<B><F>Mm-hum</F>.</B>
+<A><F>Ah</F> what time do you usually finish work here?</A>
+<B><F>Ah</F> <R>I</R> I always finish <R>w</R> work at five thirty.</B>
+<A>Five thirty?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. And you go straight home after that?</A>
+<B><F>Um</F> yes, especially winter time.</B>
+<A><laughter>Winter time</laughter>? Because it's cold?</A>
+<B>No, because I have to save my money except ski.</B>
+<A><F>Ah</F> for skiing, I see. <F>Ahm</F> until, I don't know, March, can you ski? <CO>Or</CO>?</A>
+<B><F>Ah</F> until <F>um</F> <R>I</R> I can enjoy <F>er</F> skiing, <F>um</F> I think, mid of April.</B>
+<A><F>Oh</F> <F>wow</F> so, do you still have plans to go?</A>
+<B><F>Mm</F> <.></.> yes.</B>
+<A><F>Hum</F>.</A>
+<B><SC>I have <F>um</F> <SC>one plan</SC> one</SC> <F>ah</F> I have <F>ah</F> one plan <.></.> and <F>ahm</F> very interesting plan in March. <F>Er</F> I have plan to enjoy ski with <SC>bli</SC> <F>ah</F> handicapped people</B>
+<A><F>Ah-hum</F>.</A>
+<B><SC>who can</SC> <F>ah</F> who has handicap with their eyes.</B>
+<A><F>Mm</F> I see.</A>
+<B>And <R>I will</R> <F>ah</F> I will support them.</B>
+<A>I see, it must be a challenge for you.</A>
+<B>Yes.</B>
+<A><F>Um</F> I hope you enjoy.</A>
+<B><laughter>Yes, <OL>thank you</OL></laughter>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

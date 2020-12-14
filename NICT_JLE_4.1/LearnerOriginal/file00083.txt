@@ -1,0 +1,152 @@
+<interview>
+<filename>file00083.txt</filename>
+
+<head version="1.3">
+<date>2000-04-27</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>745</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>For the record, may I have your name please?</A>
+<B>What?</B>
+<A>May I have your name please?</A>
+<B><F>Ah</F> my name is <H pn="B's name">XXX01</H>.</B>
+<A>O K, Mr. <H pn="B's name">XXX01</H>, where are you from?</A>
+<B>I'm from <H pn="others1">XXX02</H> city in <H pn="others2">XXX03</H>.</B>
+<A><F>Oh</F> O K. Right. Were you born in <H pn="others1">XXX02</H> city?</A>
+<B><F>Er</F> No. I was born in <H pn="others3">XXX04</H>.</B>
+<A><H pn="others3">XXX04</H>?</A>
+<B>It's <H pn="others4">XXX05</H></B>
+<A><F>Oh</F> I see. <F>er</F> So when did you come here?</A>
+<B><F>Ah</F> I don't remember but <F>er</F> soon after I was born.</B>
+<A><F>Oh</F> so do you remember anything about <H pn="others3">XXX04</H>?</A>
+<B>Actually, <F>er</F> <SC>my mother</SC> <F>aa</F> <SC>my grandmothers</SC> my grandparents live in <H pn="others3">XXX04</H>.</B>
+<A><F>Ah</F>.</A>
+<B>So I sometimes visit there.</B>
+<A>I see. O K, is it a nice place?</A>
+<B>Yes, good place.</B>
+<A>Please tell me about your hobbies.</A>
+<B><nvs>cough</nvs> My hobby is <F>er</F> listening to music <F>er</F> Japanese <R>pop</R> pop music. And <F>er</F> I like reading novels so. Have you ever heard the 'Mr. <H pn="others5">XXX06</H>?</B>
+<A>Sure.</A>
+<B>I love him.</B>
+<A><F>Mm</F> I see. Tell me why you like it so much.</A>
+<B><F>Ah</F> it's very difficult for me to explain in English. <F>er</F> His novel is very <.></.> <JP><F>aa</F> nanteiukana</JP> <F>er</F> <R>dra</R> dramatic. So human relations is <R>very</R> very deep and <.></.> <F>aa</F> I can't explain <R>but</R> but, yeah.</B>
+<A>Yeah, sure. <F>er</F> Are you married?</A>
+<B>Not yet.</B>
+<A><F>Oh</F> O K. <F>Ah</F> do you live in a house or an apartment?</A>
+<B><F>Er</F> I live at my parents' house.</B>
+<A><F>Oh</F> O K. I see. Please tell me about the house you live in.</A>
+<B>Who's living?</B>
+<A><F>Er</F>. Please tell me about the house you live in.</A>
+<B><F>Aa</F> so</B>
+<A><F>Aa</F>. Your home.</A>
+<B><R>My</R> my parents' house?</B>
+<A>Yes.</A>
+<B>Is house <F>err</F> <R>not</R> not apartment.</B>
+<A>Is it wooden? Is it concrete? Large, small, old, new?</A>
+<B><F>Aa</F>. My parents' house is <R>wooden</R> wooden house and <R>not</R> not large. But I have <R>my</R> my room and <R><?>second-floor</?></R> second-floor, <R>second-street</R> second-street house.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K, now let me show you our first picture.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>This one. Now would you please describe what you see in this picture.</A>
+<B>Describe? So there's one lady <F>er</F> <SC>sitting in</SC> <SC>sitting</SC> <R>sitting on</R> sitting on the chair <F>er</F> in front of the computer and there are two pets in her room and <R>one cat</R> <R>one cat</R> <.></.> <nvs>laughter</nvs> one cat <F>mm</F> laid herself on the bed. <SC>And</SC> <F>mm</F> so the door is opening and maybe the time is <F>mm</F> nine o'clock, maybe <F>mm</F> yeah, that's a very <R>tidy</R> tidy room, <R>clean</R> <R>clean</R> clean. And <F>mm</F> maybe <R>she</R> she's taking a break. I don't know why but maybe <SC>she's</SC> she wants to <F>erm</F> relax and after that maybe <R>she'll</R> she'll work again.</B>
+</task>
+<followup>
+<A>O K, You mentioned you have your own room at your parents' house. Can you compare this room with your own room?</A>
+<B><F>Uh-huh</F>. So <.></.> her room is very <SC>ideal</SC> an ideal room for me. Because, not very tidy but <F>er</F> on the other hand, <R>my</R> my room is <SC>very</SC> <R>not</R> <R>not</R> not tidy. And very small so <R>I have to</R> I have to clean my room, <R>I know</R> I know it. But it's very <F>erm</F> yeah, I'm lazy. <F>Mm</F> <SC>to clean</SC> clean up my room so. And <.></.> her room is much larger <SC>than I</SC> than my room.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Alright. Thank you. Now let's do a role-play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K. Take a look. <.></.> When you're ready, I'll begin the role-play.</A>
+<B><F>Oh</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>So we're on the phone. Hello, this is <H pn="A's name">XXX07</H>.</A>
+<B>Hello. <F>erm</F> This is <H pn="B's name">XXX01</H> speaking.</B>
+<A>Hi. Mr. <H pn="B's name">XXX01</H>, how are you?</A>
+<B>Pretty good.</B>
+<A>Good.</A>
+<B><F>Erm</F>. And how are you?</B>
+<A>I'm fine, thank you.</A>
+<B><F>Er</F>. So <F>er</F> <.></.> So <SC>I want to suggest</SC> <R>I want to</R> I want to go with you <F>er</F> to see the movies.</B>
+<A>Sure, sounds good.</A>
+<B><F>Er</F> <R>I want to see <F>er</F> "Green Mile"</R> I want to see "Green Mile" so <F>er</F> shall we go there?</B>
+<A>Yeah, I want to see the movie, too.</A>
+<B>O K. <R>So</R> so <SC>is it O K for you too</SC> <F>er</F> so do you have enough time <F>er</F> <R>tomorrow</R> <R>tomorrow</R> tomorrow?</B>
+<A>Tomorrow? Yes, <F>er</F> after five I'm free.</A>
+<B><F>Uh-huh</F> <R>O K. So</R> <nvs>cough</nvs> O K, so <.></.> <F>er</F> so <R>will you be abe</R> <R>will you be abe</R> <SC>will you be able to <F>er</F> be there</SC> O K. <nvs>laughter</nvs> Sorry, so <F>mm</F> at six o'clock, it's O K?</B>
+<A>Sounds good.</A>
+<B>O K, so in Umeda, it's O K?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F>. So <.></.> do you know the phrase, "in front of the big man in Umeda"?</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <.></.> <R>how</R> <R>how</R> how will you go there?</B>
+<A>I'll take <F>er</F> Hankyu line to Umeda.</A>
+<B><OL>Hankyu line</OL>? so me too. So <F>oh</F> it's O K. And after seeing the movie, <F>er</F> shall we go somewhere to eat dinner?</B>
+<A>Sounds good.</A>
+<B>So, <F>mm</F> I know the good place to eat dinner. So <R>let me</R> let me choose the good restaurant.</B>
+<A>O K. So I'll depend on you. O K. Great. So I'll see you tomorrow then.</A>
+<B>O K. Bye bye.</B>
+</task>
+<followup>
+<A>O K. Bye. O K. Thank you. That's the end of the role-play. <F>Er</F> do you enjoy watching movies?</A>
+<B>Yes.</B>
+<A><F>Er</F>. Do you go to a theater to watch movies or <R>do you</R> do you watch them on the video machine?</A>
+<B><F>Er</F> <F>mm</F> <R>I</R>, <SC>I watch</SC> basically I like to go to the theater and to see the movie. But <F>er</F> actually I don't have enough time to and <.></.> very tired, yeah.</B>
+<A>But <R>why</R> why do you especially like to go to a theater <?>to watch the movie</?>?</A>
+<B><R>What</R> <R>what</R> what?</B>
+<A><R>Why</R> why do you prefer to?</A>
+<B><F>Aa</F>. The atmosphere so <F>mm</F> <.></.> <R>when you</R> when you go to the theater to see the movie, <F>er</F> every person is interested in <F>er</F> seeing the movie <F>er</F> and <F>aa</F> <F>aa</F> <F>aa</F> <R>we can</R> we can share the same feeling same time <F>er</F> same place. <F>Mm</F> so <F>mm</F> <R>very</R> very interesting for me.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Great. O K. Thank you. Now let me show you our last picture toady.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>This one. It's a story that began here, number one, this way, that's the end. And please come up with your own story based on these pictures, beginning with, "One day last week".</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The examinee is looking at the pictures and thinking of what to say.</ctxt>
+<B><F>Ah</F> <F>er</F> from the <F>eh</F> the beginning of the story is this sentence?</B>
+<A>Yes, please.</A>
+<B><F>Oh</F>. O K. So one day last week, <F>erm</F> <R>my wife</R> <SC>my wife <F>um</F> looked after the</SC> <F>aa</F> <.></.> <nvs>laughter</nvs> One day last week, my wife wanted to cook something for me but <F>er</F> there's no food <F>er</F> in the refrigerator. So, <R>may I go</R> May I go on to the next?</B>
+<A>Sure,sure. Please go.</A>
+<B>So <F>er</F> she decided to buy something to cook so <.></.> she went to the <R>su</R> supermarket to buy something. And <F>er</F> <R>she</R> she walked around there and <F>er</F> <SC>she choose</SC> she chose <F>urm</F> to buy something to cook good dinner for me. <.></.> And <F>mm</F> <nvs>laughter</nvs> so <.></.> <SC>after deciding to buy some food</SC> after that, <F>erm</F> she bought in the register. So after that, <F>er</F> she put the <R>a lot of food</R> a lot of food <F>er</F> in back of <SC>car</SC> her car. And when she came home, <F>er</F> <R>she</R> she cooked a lot of good food for me.</B>
+<A>O K.</A>
+<B>That's all.</B>
+</task>
+<followup>
+<A>Thank you. That's good. Do you cook yourself?</A>
+<B><F>Er</F>. No.</B>
+<A>No? <nvs>laughter</nvs> <F>Er</F>. If you had <R>the</R> the time and skill to make wonderful things, what kind of food would you like to cook?</A>
+<B><F>Er</F> very <SC>simple cook</SC> <F>er</F> <R>simple</R> <SC>simple dinner</SC> <R>simple</R> <SC>simple</SC> <.></.> <R>si</R> <R>simple meal</R> simple meal. Basically <R>I love</R> I love to cook but I don't like to <SC>clean</SC> <F>er</F> wash the dishes. And <F>er</F> <R>put the</R> put the dishes <R>to the</R> <SC>to the shelf</SC> <R>no</R> <R>no</R> <SC>no</SC> not shelf <F>er</F> <..></..></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Alright. We're almost at the end of the interview. Do you have any plans for the Golden Week?</A>
+<B><F>Err</F> <SC>I don't have <F>er</F> special</SC> I don't the special plan but maybe <R>I'll</R> I'll go somewhere to meet <R>some</R> some friends and maybe to drink.</B>
+<A>How about going to a movie theater? <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> Very crowded.</B>
+<A>Very crowded? <F>Oh</F> I see, Golden Week. O K, right. Thank you, this is the end of the interview.</A>
+<B>Thanks a lot.</B>
+<A>Thank you. Just a moment, please.</A>
+</stage5>
+</body>
+</interview>

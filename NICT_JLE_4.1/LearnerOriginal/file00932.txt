@@ -1,0 +1,143 @@
+<interview>
+<filename>file00932.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Uhm</F> I'm fine.</B>
+<A><F>Uhm</F>. O K. Are you busy?</A>
+<B><F>Uhm</F> yes. <R>I</R> I'm very busy</B>
+<A><F>Uhm</F>.</A>
+<B>now.</B>
+<A><F>Uhm</F>. <.></.> What makes you so busy?</A>
+<B><R>I</R> <.></.> <R>I</R> <F>ur</F> <.></.> <R>I go</R> <.></.> <F>uhm</F> <.></.> I go <.></.> <F>uhm</F> <.></.> <R>bo</R> bookkeeping school <.></.> these day <F>er</F> <.></.> so I <.></.> am very busy.</B>
+<A><F>Uhm</F> I see. O K. Please tell me about the school.</A>
+<B><F>Uhmm</F>. The school is to get <.></.> <R>bookkeeping</R> <.></.> <R>bookkeeping</R> <.></.> bookkeeping study. <.></.> So <R>I</R> <.></.> I go to <..></..> study bookkeeping and <..></..> keeping.</B>
+<A>O K. <F>Urr</F> it's December now. And I think many people are busy in December. Are you, too?</A>
+<B><.></.></B>
+<A>Are you busy <OL>in this month</OL>?</A>
+<B><OL>Yes, yes</OL>.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Er</F></B>
+<A>What do you especially do this month?</A>
+<B><R>I</R> <.></.> <R>I</R> <.></.> <F>uhmm</F> I go to buy my girlfriend's present.</B>
+<A><F>Ahh</F>. <.></.> I see. What are you going to buy?</A>
+<B><F>Uhmm</F>. <F>Uhm</F> <R>ma</R> maybe <R>I</R> <R>I buy</R> <.></.> I buy wallet. So <R>my</R> my girlfriend <.></.> <SC>lo</SC> <R>have</R> have lost her wallet</B>
+<A><F>Ahhh</F>.</A>
+<B>these days.</B>
+<A><F>Uhm</F>. <.></.> I see. <F>Urr</F> where are you going to buy a wallet?</A>
+<B><F>Uhm</F> <.></.> <F>uhmm</F> <F>uhm</F> <R>maybe</R> maybe <.></.> I will go <.></.> to buy Shinjuku.</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> My girlfriend <.></.> will buy <.></.> <R>my</R> my Christmas present together.</B>
+<A><F>Uhm</F>. I see. What would you like for your present?</A>
+<B><F>Uhm</F> <R>e</R> everything all O K. <F>Uhm</F> <.></.> but maybe my girlfriend <.></.> will <.></.> buy <R>muffler</R> muffler for me.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhmm</F>. I see. That's nice. O K. Thank you. Now, please look at this picture and describe it.</A>
+<B><F>Uhm</F> <.></.> <F>urr</F> <.></.> <R>a sunny day</R> <.></.> a sunny day <.></.> <F>uhm</F> a man <.></.> is running <.></.> in the road. <R>Two</R> <SC>two boys <.></.> playing</SC> two boys <.></.> are playing <.></.> volleyball. <..></..> <SC>The</SC> <R>a cat</R> a cat is sleeping on the car. <.></.> <R>A man</R> a man is reading <.></.> a newspaper <.></.> on the bench.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you, <H pn="B's name">XXX02</H>. <F>Urr</F> do you like to read a newspaper?</A>
+<B>Yes. <R>I</R> I like to read newspaper.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><R>I</R></OL> <SC>I buy</SC> <.></.> <F>urr</F> every day I buy <R><JP>nihon</JP></R> <F>er</F> <JP>nihon keizai shinbun</JP>.</B>
+<A><F>Uhm</F>. <.></.> Why do you buy it every day?</A>
+<B><F>Urm</F> <SC>I</SC> because my major is economics. So I buy to study economics.</B>
+<A><F>Uhm</F>.</A>
+<B>And <R>I</R> <R>I</R> <.></.> I have stock a little. So <.></.> economics newspaper is <R>very</R> <.></.> very useful</B>
+<A><F>Uhm</F>.</A>
+<B>to <.></.> study stock.</B>
+<A><F>Ahh</F>. I see. <F>Wow</F>. Please tell me more about the stock</A>
+<B><laughter>Stock</laughter>?</B>
+<A><F>uhm</F> that you have.</A>
+<B><R>I</R> <.></.> <R>I</R> <.></.> I bought stock <.></.> <R>la</R> last year <R>in</R> <.></.> in November. I want to study economics so <R>I</R> I buy stock.</B>
+<A><.></.> Are you making any money?</A>
+<B><nvs>laughter</nvs> <F>Urr</F> a little.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Ahh</F>. That's good. <F>Uhm</F>. O K. Thank you. Now, O K. let's do a role-play. Please read a card. And when you're ready, I'll start a conversation.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Hello. May I help you, sir?</A>
+<B><F>Urm</F> <F>ur</F> I want to go New York <.></.> <R>ve</R> very early. <F>Uhm</F> <F>uhm</F> <.></.> <R>wha</R> <SC>wha</SC> <.></.> <R>where</R> <.></.> <R>where form</R> <.></.> <F>ur</F> where form <.></.> is <.></.> to near New York?</B>
+<A><F>Uhm</F>. Platform number three.</A>
+<B>Number three form? <F>Oh</F> <F>oh</F> <R>how</R> how many times to reach the New York?</B>
+<A><F>Uhm</F> it takes two hours.</A>
+<B><R>Two</R> two hours? <F>Oh</F> <R>I'm</R> <SC>I'm very</SC> <.></.> <R>I</R> I'm no time. <F>Um</F> so <R>more</R> <R>more</R> <.></.> <R>more</R> more <R>ear</R> early train?</B>
+<A><F>Ah</F> O K. Then please take the express train.</A>
+<B>Express train?</B>
+<A>One hour and thirty minutes, it takes.</A>
+<B><F>Oh</F>. <F>Oh</F>. <.></.> <CO><R>the</R> the <R>express</R> <R>expre</R> express train <.></.> <F>uhm</F> <.></.> <R>whe</R> <R>whe</R> <R>where</R></B>
+<A><F>Uhm</F>.</A>
+<B><R>where</R> <.></.></B>
+<A><F>Uhmm</F>.</A>
+<B>where</CO>.</B>
+<A>You want to buy a ticket?</A>
+<B><F>Uhm</F> no, no. <R>I</R> I have no ticket.</B>
+<A><F>Ahh</F> O K. Then the ticket is one hundred dollars.</A>
+<B>One hundred dollars. <F>Oh</F>. O K. <F>Ur</F> <R>I</R> I want to buy the ticket.</B>
+<A>O K. Then here you are.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>And</OL> platform number two.</A>
+<B>Number two? <F>Oh</F> thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. Have a nice trip. O K. Thank you. <F>Urr</F> O K, <H pn="B's name">XXX02</H>. So <F>uhmm</F> have you ever been to New York?</A>
+<B>No, <SC>I don't have</SC> I didn't have <F>er</F> New York.</B>
+<A><F>Uhmm</F>.</A>
+<B>But <R>I</R> <R>I</R> I will want to go New York. <.></.> But <.></.> <JP><F>aato</F></JP> three months ago, New York <.></.> was <R>very</R> <.></.> <R>very</R> very <.></.> <R>miserable</R> miserable.</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> So <R>I</R> <F>ur</F> <R>I</R> I don't go New York.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. Me neither. <nvs>laughter</nvs> O K. Now, <F>urrm</F> O K. <CO>This</CO>. O K. Please look at this and make a story with these six pictures. And please start with "One day last week" because this happened before.</A>
+<B><..></..> <R>One day last week</R> <F>um</F> <F>er</F> <..></..> one day last week, <..></..> <F>uhm</F> <R>a man</R> <SC>a man</SC> <.></.> <SC>two</SC> <.></.> <R>a</R> <R>a man</R> <..></..> a man <.></.> ate dinner <.></.> with his uncle. <.></.> <SC>The uncle <.></.> go</SC> <F>urr</F> the <SC>uncle went</SC> <nvs>cough</nvs> <F>uh</F> <F>urr</F> uncle <.></.> <R>too</R> took him <.></.> in the <.></.> gorgeous restaurant. <.></.> <F>Uhmm</F> <R>the uncle</R> <F>er</F> <..></..> <F>uhm</F> <SC>the uncle</SC> <.></.> the man <.></.> and uncle <.></.> <JP><F>eeto</F></JP> <.></.> order <.></.> <SC>a</SC> the fried-chicken and beer and fish. <..></..> <SC>They was</SC> <.></.> they were <.></.> very <.></.> happy time.</B>
+<A><F>Uhm</F>.</A>
+<B>And <R>the uncle</R> <.></.> <F>ur</F> the uncle paid <.></.> money <.></.> for <.></.> the man.</B>
+</task>
+<followup>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>. So <R>you said</R> <.></.> you said "uncle". So would you please compare this guy with your own uncle?</A>
+<B><.></.> <R>My</R> my uncle? <.></.> My uncle. <.></.> O K. <.></.> <F>Uhmm</F>. <.></.> <F>Uhm</F> <.></.> my uncle, he live in <H pn="others1">XXX03</H>. <R>I</R> I <.></.> come to <H pn="others2">XXX04</H> <R>to</R> <.></.> to <R>pass</R> <F>er</F> pass the university test. <SC>He's</SC> <SC>he was very</SC> <.></.> <F>ur</F> <SC>he help</SC> he helped me very much.</B>
+<A>I see. <F>Uhm</F>.</A>
+<B><.></.> <R>So</R> so <R>he</R> <R>he</R> he is a teacher in <H pn="others1">XXX03</H>.</B>
+<A>I see.</A>
+<B>And <R>he</R> <.></.> he likes trip very much. <F>Uhm</F> <.></.> every year, <R>he</R> <R>he went to</R> he went to abroad <.></.> three times.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hum</F>. I see. O K. Thank you, <H pn="B's name">XXX02</H>. Interview is almost over. But what are you going to do tomorrow?</A>
+<B><.></.> Tomorrow? Tomorrow? <R>I</R> <.></.> <F>oh</F> <R>I</R> <.></.> I must <F>uhm</F> go to <.></.> <R>bicycle</R> <.></.> <R>by</R> bicycle shop. <R>So</R> so <R>I</R> <SC>I</SC> <.></.> <R>my</R> <SC>my bicycle <.></.> was</SC> <..></..> <SC>the bicycle was <.></.> <R>took</R> <R>took</R> took <.></.> <R>by</R> <R>by</R> <..></..> by</SC> <.></.> <F>oh</F> <F>oh</F> <R>my bicy</R> my bicycle lost.</B>
+<A><F>Oh</F> too bad. <nvs>laughter</nvs> I see. So you are going to buy a new one?</A>
+<B>Yes.</B>
+<A><F>Ahh</F> I see. <F>Uhm</F> O K then, have a nice time tomorrow.</A>
+<B><F>Urm</F>.</B>
+<A>And good luck with your shopping. Thank you. Bye-bye.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

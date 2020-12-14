@@ -1,0 +1,191 @@
+<interview>
+<filename>file00428.txt</filename>
+
+<head version="1.3">
+<date>2001-04-16</date>
+<sex>male</sex>
+<age>42</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>420</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>. <OL>How are you</OL></A>
+<B><OL><?>Hi, thanks</?></OL>.</B>
+<A>today?</A>
+<B><F>Ah</F> <F>uh</F> <laughter>Not too bad</laughter>. <CO><OL>How</OL></CO>.</B>
+<A><OL>Not too</OL> bad.</A>
+<B>Not too bad. <laughter>How about you</laughter>?</B>
+<A><F>Oh</F> I'm fine. Thank you for asking. <H pn="B's name">XXX02</H>, do you have any <F>um</F> plan tonight?</A>
+<B>Plan? <laughter>Tonight</laughter>? <F>Hmm</F> <SC>I have</SC> <nvs>laughter</nvs> <F>hm</F> especially, I have <laughter>no</laughter> plan tonight.</B>
+<A><F>Hmm</F>. What are you going to do for your job today?</A>
+<B><F>Ah</F>. <F>Hmm</F>. <nvs>cough</nvs> <R>I</R> <F>hm</F> I have to <F>ur</F> preparation for <F>oh</F> <R>nex</R> next visiting. <F>Hmm</F> I have to go Nagoya for <F>oh</F> <H pn="others1">XXX03</H>. <F>Hmm</F> <nvs>sigh</nvs> yeah. <R>I</R> <F>hmm</F> I have to <F>mm</F> <nvs>cough</nvs> <SC>prepare</SC> <F>ah</F> install software.</B>
+<A><F>Oh</F> I see. Do you often go to somewhere else <OL>for business trip</OL>?</A>
+<B><OL>Yeah, yes</OL>. Yes. Yes. <F>Oh</F> <R>abou</R> <F>ur</F> <.></.> about three times for a week. <F>Oh</F>.</B>
+<A><F>Wow</F>. Do you sometimes go abroad?</A>
+<B><F>Ah</F>. No. No. No. <R>I have</R> <F>mm</F> <.></.> <R>I have never</R> <F>er</F> I have <.></.> never <F>hm</F> <R>go</R> go to abroad.</B>
+<A><F>Oh</F> O K.</A>
+<B><F>Eh</F>.</B>
+<A>All right. <H pn="B's name">XXX02</H>, do you have any hobby?</A>
+<B>Hobby? <F>Oh</F>. <nvs>laughter</nvs> My hobbies are skiing and <F>er</F> <R>collec</R> collecting seventies' books for <laughter>seventies'</laughter> idol.</B>
+<A><F>Hmm</F>. Tell me about the collection.</A>
+<B>Collection? <F>Oh</F>. <F>Oh</F>. For example, <F>mm</F> Weekly Myojo, <laughter>Weekly Heibon</laughter>, <F>oh</F> and Weekly <F>er</F> <laughter>Playboy</laughter> <?>of</?> Myojo, Heibon.</B>
+<A>I see. Only seventies' book.</A>
+<B><R>On</R> <F>oh</F> only seventies.</B>
+<A><F>Hm</F>. Why are you so interested in the seventies?</A>
+<B><nvs>laughter</nvs> <F>Ah</F> <..></..> <F>hmm</F> <.></.> <R>my</R> <F>mm</F> <SC>my favor</SC> <SC>my favorite i</SC> my favorite seventy idols <F>ur</F> <F>uu</F> is <laughter>seventies'</laughter> idol. <F>Ur</F> <F>ah</F> name of <F>mm</F> Candies. <nvs>laughter</nvs> <R><laughter>I</laughter></R> <SC>I wan</SC> <F>mm</F> <R>I</R> I have been collecting <SC?>of</SC?> all Candies' goods.</B>
+<A><F>Hmm</F>. <F>Wow</F>. That's interesting. <H pn="B's name">XXX02</H>, where do you live now?</A>
+<B><F>Ah</F> I live in <H pn="others2">XXX04</H> in <H pn="others3">XXX05</H>. <F>Hmm</F> <R>I</R> <nvs>cough</nvs> <SC>I live alone</SC> <F>hmm</F> <.></.> <F>er</F> I live an apartment <F>mm</F> <.></.> alone. <F>Hm</F>.</B>
+<A><F>Mh-hmm</F>. O K. All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture, so please describe this picture.</A>
+<B>Describe. <F>Hmm</F></B>
+<ctxt>The interviewee is looking at the picture and thinking.</ctxt>
+<B><nvs>cough</nvs> <F>Hmm</F> <R>this picture</R> <R>this picture</R> <F>mm</F> <.></.> <F>eh</F> this picture is <F>mm</F> <..></..> <R>dinner</R> <F>hm</F> dinner party.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Hmm</F> <..></..> <nvs>cough</nvs> <F>hm</F> <nvs>cough</nvs> <.></.> <JP>nanndarou na</JP> <R>they</R> they have <F>mm</F> three tables <F>mm</F> for <SC>cou</SC> <JP><F>eeto</F></JP> <R>three cou</R> <F>hm</F> three couple. <nvs>cough</nvs> <F>Hmm</F> <.></.> <F>eh</F> <..></..> <SC>one <F>hm</F> <.></.> <F>hm</F> <.></.> <R>s</R> s</SC> one <R>coup</R> <F>hm</F> couple,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>mm</F> <F>mm</F> <.></.> <R>man taste</R> man <R>taste</R> <F>er</F> taste of <SC>w</SC> the wine <F>mm</F> <.></.> before <F>mm</F> dinner.</B>
+<A><F>Um</F>.</A>
+<B><F>Mm</F>. <nvs>cough</nvs> <..></..> <F>Mm</F>. <.></.></B>
+<A>That's all?</A>
+<B><F>Hm</F>.</B>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>, thank you. Do you like wine, <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F> <F>hmm</F> <R>no</R> <F>mm</F> <R>no</R> <F>mm</F> <SC>no</SC> <JP>hai</JP> <F>mm</F> <..></..> not so <F>mm</F>.</B>
+<A><F>Ah</F>. <.></.> <F>Well</F> then, when you go out to drink,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>what</OL> do you drink?</A>
+<B><F>Ah</F> <.></.> <R>I</R> <nvs>cough</nvs> I drink <F>er</F> beer</B>
+<A><F>Uh-huh</F>.</A>
+<B>and whisky.</B>
+<A><F>Hmm</F> I see.</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A><OL>And</OL> do you sometimes go to a formal restaurant like this?</A>
+<B><F>Ah</F> <.></.> <R><laughter>one</laughter></R> once a <laughter>year</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Hmm</F>.</B>
+<A>On what occasion?</A>
+<B>Occasion?</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><F>Oh</F></OL> <..></..> <F>hmm</F> <..></..> <F>oh</F> <F>oh</F> girlfriend's birthday. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> I see</OL>. That's good. <F>Urm</F> last birthday</A>
+<B><OL><??></??></OL></B>
+<A><OL>for</OL> her, did you go to a restaurant?</A>
+<B>Yes.</B>
+<A><F>Hm</F> where did you go?</A>
+<B><F>Oh</F> <..></..> <R>Rop</R> <F>mm</F> Roppongi restaurant <F>mm</F> for dinner. <F>Hm</F> <F>mm</F>. <.></.> <OL><??></??></OL>.</B>
+<A><OL>Did</OL> she like it?</A>
+<B><laughter>Yeah</laughter>. <.></.> Yes. I think so.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Oh</F> good. Good. All right. Now, we are going to do a role-play. O K? Let me check this. O K. Here's your card. Please read this card to yourself. And when you are ready, I'll begin. So let me know.</A>
+<B>Yes. <F>Hmm</F>. Let me see. <nvs>cough</nvs></B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B><R>Ye</R></B>
+<A>O K.</A>
+<B><OL>yes</OL>.</B>
+<A><OL>May I</OL> help you, sir?</A>
+<B><F>Ah</F> yes. <F>Er</F> <.></.> I want to <F>ur</F> buy a travel ticket for New York.</B>
+<A>O K.</A>
+<B><F>Mm</F> <R>I have to go</R> <F>oh</F> I have to go <.></.> <??></??> <F>mm</F> <.></.> <F>hm</F> <..></..> New York <F>ur</F> <F>uu</F> <.></.> quickly.</B>
+<A><F>Hm</F> <OL>O K</OL>.</A>
+<B><OL><R>I</R></OL> <F>hm</F> <.></.> <F>eh</F> <..></..> I want to buy <F>mm</F> <.></.> express ticket.</B>
+<A>All right.</A>
+<B>Yes. <OL><??></??></OL>.</B>
+<A><OL>O K</OL>. <F>Er</F> it's one hundred dollars.</A>
+<B>One hundred dollars? <F>Ah</F> O K. <F>Er</F> no problem. <F>Mm</F>. <CO><OL>I</OL></CO>.</B>
+<A><OL>O K</OL>.</A>
+<B><F>Mm</F> <..></..> <SC>here you go</SC> <F>hm</F> here you are.</B>
+<A>All right. Thank you. O K. Here is your ticket.</A>
+<B><F>Ah</F> thank you very much.</B>
+<A>Have a nice trip, <OL>sir</OL>.</A>
+<B><OL><F>Ah</F></OL> thank you.</B>
+</task>
+<followup>
+<A>Thank you. <OL>All right</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>This is the end of the role-play. <F>Er</F> <H pn="B's name">XXX02</H>, when you go on a business trip,</A>
+<B>Yes.</B>
+<A>how do you go to the place? <OL>Do you</OL></A>
+<B><OL>Yes</OL>.</B>
+<A>use train, plane?</A>
+<B><F>Ah</F> <.></.> <R>I</R> <F>hm</F> <nvs>cough</nvs> I went to Sapporo <F>oh</F> for plane. <F>Hm</F>? <F>Hmm</F> and I went to <.></.> Utsunomiya <F>erm</F> <.></.> and Nagoya and Mishima by train.</B>
+<A>I see.</A>
+<B><?>Yeah</?>.</B>
+<A>Which do you like better, train or airplane?</A>
+<B><F>Ah</F> <nvs>laughter</nvs> <F>mm</F> <.></.> <nvs>clicking</nvs> <nvs>cough</nvs> <R>I like</R> <F>mm</F> <F>mm</F> <laughter>I</laughter> like train better than <F>mm</F> plane, <F>mm</F> because <nvs>laughter</nvs> <F>ah</F> <SC>train</SC> <F>ah</F> <.></.> <F>ah</F> no, no, <SC>plane <F>mm</F> <.></.> have to spend loss time</SC> <F>ah</F> <?>wait</?>, <F>uu</F> <R>plane</R> <F>uh</F> <SC>plane <F>er</F> <.></.> have</SC> <F>ur</F> plane has <F>mm</F> <SC>long wait</SC> <F>mm</F> <SC>long time</SC> long wait time.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. <SC>But</SC> <SC>and</SC> <F>hm</F> <.></.> <F>er</F> but <R>train</R> <F>er</F> <..></..> <R>train can</R> <F>hm</F> train <..></..> can ride <F>er</F> anytime.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Yeah. O K. Thank you. Now,</A>
+<B><nvs>cough</nvs></B>
+<A>let's do a sequence of pictures. <OL>O K</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Please make up a <OL>story</OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>based on <laughter>these</laughter> pictures from one to six. And <OL>this</OL></A>
+<B><OL>Yes</OL>.</B>
+<A>happened <OL>before</OL>,</A>
+<B><OL>Yes</OL>. Yeah.</B>
+<A>so please start your story with "One day last week". <OL>Go ahead</OL>.</A>
+<B><OL><F>Hm</F></OL>. Yes. <nvs>cough</nvs> <F>Wow</F>. <.></.> <SC>Some woman</SC> <F>er</F> <.></.> <SC>someone</SC> woman <R>have to <F>uu</F> <.></.> ma</R> <F>hm</F> <R>have to make</R> <F>ah</F> <.></.> <SC?>have to make a dinner</SC?> makes a dinner. But <F>er</F> <F>eh</F> <SC>freeze</SC> fridge, yeah, <F>er</F> <SC>is</SC> but was empty. Because <F>er</F> she went to <F>uu</F> supermarket for dinner by car. <R>And</R> and <SC>she</SC> <F>er</F> <.></.> she's <.></.> choosed <F>uu</F> <.></.> <F>mm</F> <R>s</R> <SC>some</SC> anything <F>mm</F> for <R>s</R> <SC>s</SC> dinner. <F>Oh</F>. <F>Hm</F>? <F>Hm</F>. And she was <F>ah</F> <R>paid for</R> <F>oh</F> <.></.> <F>eh</F> paid for <.></.> <F>oh</F> goods. And <F>ah</F> <R>sh</R> <R>she</R> <F>hm</F> <R>she was</R> <F>uu</F> <..></..> <F>mm</F> she was <F>mm</F> carried by car.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>And</R> and she <F>eh</F> reached her house. <R>She s</R> she started cooking. <F>Mm</F> <R>she</R> <F>eh</F> <R>she m</R> <F>mm</F> <SC>she made <F>mm</F> boiled</SC> <F>mm</F> <F>eh</F> <SC>she made <F>ohh</F> <JP>nandakke</JP> <..></..> <F>mm</F> <SC>boiled egg</SC> <SC>poach</SC> <F>hm</F> <R>poa</R> poa</SC> <F>ah</F> <JP>chigauna kore</JP> <F>eh</F> she made <R>po</R> poached egg <JP>janakatta kana</JP> <JP>machigaeta, machigaeta</JP>. <JP>Hai</JP> <JP>hai</JP>. <OL>Yes, yes</OL>.</B>
+<A><OL>O K, all right</OL>. Thank you, <H pn="B's name">XXX02</H>. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you sometimes cook?</A>
+<B><F>Uh</F> no. <F>Ah</F> not cook.</B>
+<A>Never?</A>
+<B>Never. I have never <OL>cook</OL>.</B>
+<A><OL><F>Hmm</F></OL> so what do you do for your dinner?</A>
+<B><F>Ah</F> <F>hmm</F> <SC>I went to</SC> <F>uh</F> <R>I</R> I go to <F>uu</F> my mother's house. And <SC>I <SC>ate</SC> <F>ah</F> ea</SC> I eat <F>er</F> her cook <OL>to dinner</OL>.</B>
+<A><OL><F>Ahh</F></OL> <F>ahh</F> <OL>what is</OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>your favorite dish?</A>
+<B><F>Ah</F> <JP>nanndaro na</JP> <R>I</R> <F>hm</F> I like <F>er</F> <R>steak <laughter>and</laughter></R> <F>mm</F> <.></.> steak and <F>mm</F> <..></..> salad. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Ahh</F></OL> O K. All right.</A>
+<B>Thank you.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>. We are almost at the end of the interview.</A>
+<B>Yes.</B>
+<A>Do you have any plan for Golden Week?</A>
+<B>Golden Week? <F>Ah</F> I have to work <F>ah</F> <R>Go</R> Golden Week. <F>Oh</F> client need to <F>uu</F> system change. I have to go client site. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> no</OL>. Can you take vacation after Golden Week, then?</A>
+<B><F>Ah</F> <.></.> <F>ur</F> <laughter>maybe</laughter> I have nothing. <F>Oh</F> I think <F>mm</F> I can take a vacation <F>oh</F> <?>on</?> <.></.> August.</B>
+<A>O K. <F>Well</F> I hope so.</A>
+<B><nvs>laughter</nvs></B>
+<A>All right. Good luck on your job during the Golden Week.</A>
+<B><F>Uh</F> thank you.</B>
+<A>Thank you very much. <OL>This is the end of the interview</OL>.</A>
+<B><OL>Thank you very much</OL>. Thank you.</B>
+</stage5>
+</body>
+</interview>

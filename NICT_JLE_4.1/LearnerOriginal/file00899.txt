@@ -1,0 +1,246 @@
+<interview>
+<filename>file00899.txt</filename>
+
+<head version="1.3">
+<date>2001-11-20</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>805</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="A's name">XXX01</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><SC>I'm fine</SC> <F>uhm</F> I'm very fine, thank you. <OL>And you</OL>?</B>
+<A><OL>It's O K</OL>. <F>Er</F> thank you very much. I'm fine, too. And <F>urr</F> <.></.> <SC>how</SC> where are you from?</A>
+<B>I'm from <H pn="others1">XXX03</H> Prefecture, near the <H pn="others2">XXX04</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Do you know? <nvs>laughter</nvs></B>
+<A>Just a little bit. Could you tell me about your hometown?</A>
+<B><F>Er</F> my hometown is a really countryside, <SC>very quiet and <R>tranquil</R></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>tranquil</SC> very quiet place. <R>I like</R> I like there very much.</B>
+<A><F>Uh-huh</F>. I see. So how long have you been working here in <H pn="others3">XXX05</H>?</A>
+<B>In <H pn="others3">XXX05</H>? <F>Ah</F> actually, <R>I</R> I work in <H pn="others4">XXX06</H>.</B>
+<A><H pn="others4">XXX06</H>?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>I see</OL>.</A>
+<B>Just a half of year.</B>
+<A><F>Uhm</F>.</A>
+<B><R>I'm</R> I'm a freshman as <H pn="others5">XXX07</H>.</B>
+<A><F>Uh-huh</F>. I see. <F>Wow</F>. How do you like living in <H pn="others4">XXX06</H></A>
+<B><F>Urr</F>.</B>
+<A>or working in <H pn="others4">XXX06</H>?</A>
+<B><R><H pn="others4">XXX06</H></R> <H pn="others4">XXX06</H> is very nice because <F>er</F> there are a lot of thing to do and especially people are very kind and <R>very</R> <.></.> <F>uhmm</F> <.></.> very talkative and very open-mind so <.></.> <R>they</R> they accept me very <F>urr</F> easily. <.></.> That's all.</B>
+<A>I see. So now do you live by yourself</A>
+<B><OL><F>Uhm</F> yeah</OL>.</B>
+<A><OL>in <H pn="others4">XXX06</H></OL>?</A>
+<B><F>Erm</F> In Kobe <R>by</R> <F>um</F> by myself but actually <F>urr</F> <.></.> <F>urr</F> <R>m</R> my company has a accommodation</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>for</R> for employee.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>So</OL> <R>I live</R> I live in that accommodation with <.></.> <R>other</R> other colleagues.</B>
+<A>I see. So are there any inconvenience <nvs>laughter</nvs> living with them?</A>
+<B><.></.> <F>Uhm</F> yes. I have a some.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Yeah</OL>. Because <.></.> I share a bathroom or <.></.> rest room</B>
+<A><F>Uh-huh</F>.</A>
+<B>so sometimes I want to have a privacy. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I know. <F>Uhmm</F>.</A>
+<B>But <F>urr</F> food is very nice and <.></.> <F>uhm</F> the room is <SC>very big</SC> <F>err</F> big enough for me so.</B>
+<A>I see. So do you work from Monday through Friday?</A>
+<B>Yeah.</B>
+<A>So what do you like to do in your free time?</A>
+<B>Free time? <F>Urm</F> <.></.> free time? <.></.> I like baseball and I belong to baseball club in <H pn="others4">XXX06</H> so <.></.> I like best doing baseball in my free time.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhmm</F>. I see. O K. Thank you very much. Now first of all, I'll show you a picture. O K? <F>Uh-huh</F>. <.></.> Please describe this picture</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>in detail</OL>.</A>
+<B><F>Uhmm</F>. <.></.> <??></??>. It is very nice room and there is a woman <F>urr</F> <.></.> sitting in front of the computer and she's <.></.> looking at the <.></.> cat, I think cat. <?>The</?> cat and dogs are <.></.> very relaxing. I think it's because of <F>urr</F> <.></.> room's <.></.> <F>urr</F> atmosphere. <..></..> Maybe <.></.> <SC>she's</SC> <.></.> she has a <.></.> good money because a lot of things are <.></.> computer, typewriter and <R>stereo</R> stereo. <.></.> So <.></.> <SC?>if she</SC?> she is a rich.</B>
+<A><nvs>laughter</nvs> <.></.> That's all?</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. So is this room similar to your room?</A>
+<B>Sorry?</B>
+<A>Is this room similar to your own room?</A>
+<B><F>Er</F> must be.</B>
+<A>Must be? <F>Urr</F> <F>urr</F> could you compare this room with your room?</A>
+<B><F>Urrr</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Compare with my room, <F>ur</F> <.></.> <?>heavenly</?> this room is better someway.</B>
+<A>In what way?</A>
+<B><F>Urr</F> <.></.> very tidy <..></..> <SC>and <?>because of</?> my room</SC> <.></.> and <F>urr</F> the atmosphere</B>
+<A><F>Uh-huh</F>.</A>
+<B>is <SC>the best</SC> <F>er</F> better.</B>
+<A>I see. O K. Do you have a computer in your room?</A>
+<B>Yes. But I have a just a notebook computer.</B>
+<A>I see. Then has it <SC>ma</SC> changed your lifetime?</A>
+<B><F>Uhm</F> yeah. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Yes. <R>S</R> sometimes <F>ur</F> <R>I</R> <R>I'm crazy</R> I'm crazy now. <SC>I'm</SC> I spare a lot of time <R>to</R> to use computer.</B>
+<A>To what?</A>
+<B><R>To</R> to e-mailing.</B>
+<A>I see. <F>Wow</F>. Do you have a lot of time for e-mail?</A>
+<B><F>Uhm</F> yeah. Because <.></.> there's <R>nothing</R> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>nothing but doing e-mailing.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. Thank you very much. O K. Next, I'll show you <SC>another</SC> <F>ur</F> a card and we are going to do a role-play. Here you are. Please read this card. And when you're ready, I'll start.</A>
+<B>Speaking English?</B>
+<A>Yes. <.></.> It's a role-play.</A>
+<B><.></.> <??></??>?</B>
+<A>It's a role-play.</A>
+<B><F>Ah</F>. <F>Uh-huh</F>.</B>
+<A>So <F>er</F> you're a <SC>customer</SC> traveler.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B><F>Uhmm</F>.</B>
+<A>So hello. May I help you?</A>
+<B>Yes. Please. <F>Urm</F> I'd like to go to New York but I'm completely stranger here. So could help me how to go there and <F>ur</F> how to get ticket?</B>
+<A>Yes. You can get a ticket here and you can take a train.</A>
+<B><F>Uh-huh</F>. <CO>So where can I take a ticket and</CO>.</B>
+<A><F>Oh</F> here.</A>
+<B>Here? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>So <F>urm</F> please, one-way ticket to New York.</B>
+<A><F>Uh-huh</F>. Which train?</A>
+<B><F>Urr</F> express train, please.</B>
+<A><OL>Express train</OL>?</A>
+<B><OL><F>Urr</F></OL> <SC>earliest</SC></B>
+<A>Earliest?</A>
+<B><F>er</F> <R>fa</R> fastest train to</B>
+<A><F>Uh-huh</F>.</A>
+<B>New York.</B>
+<A><F>Uh-huh</F>. O K. <F>Oh</F> there is only one service today.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And it is sold out. I'm sorry.</A>
+<B><F>Uh-huh</F>. <.></.> Sold out?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhh</F>. <.></.> <F>Uhm</F> never mind. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>So <F>ah</F> yeah. <.></.> O K. Please <??></??>?</B>
+<A><F>Urr</F>.</A>
+<B><R?>Now</R?> <?>now</?>?</B>
+<A>There are no seats.</A>
+<B><F>Ah</F> no seats?</B>
+<A>Super express train.</A>
+<B>Do you have another service?</B>
+<A><F>Ah</F> yes. We have express train and local train.</A>
+<B><F>Urr</F> do you have <SC>a vacant room</SC> a <R>va</R> vacant seat? <OL>Or <??></??></OL>?</B>
+<A><OL><F>Urr</F></OL> O K. Smoking or non-smoking?</A>
+<B>Non-smoking, <OL>please</OL>.</B>
+<A><OL>Non-smoking</OL>? <F>Urrr</F> there are no seats in non-smoking area</A>
+<B><nvs>laughter</nvs></B>
+<A>but there are a few in smoking area.</A>
+<B><F>Ohh</F> it doesn't matter for me whether non-smoking or smoking. So please <.></.> <?>buy</?> ticket, smoking seat.</B>
+<A>Is it O K.</A>
+<B>Yeah.</B>
+<A>Only one? O K.</A>
+<B><F>Uh-huh</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> How do you want to pay?</A>
+<B><F>Urr</F> <SC>do you ac</SC> <R>do you</R> do you <R>accept</R> accept credit card?</B>
+<A>Yes, of course.</A>
+<B>So <SC>I</SC> can I pay credit card?</B>
+<A>Yes. O K. So this is your ticket.</A>
+<B>Yeah, thank you very much.</B>
+<A>And thank you very much. Have a nice trip.</A>
+<B><F>Er</F> thank you.</B>
+</task>
+<followup>
+<A>O K. That's <SC>all</SC> end of role-play. <F>Urm</F>. Have you ever been to foreign countries?</A>
+<B>Yes.</B>
+<A>Which country?</A>
+<B><F>Urr</F> a lot of country. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>For example</laughter></OL>?</A>
+<B><R>Not</R> not so many but <F>urr</F></B>
+<A><F>Urm</F>.</A>
+<B><F>um</F> Portugal, Spain, England, <.></.> French,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Belgium</OL>, Brazil <.></.> and <??></??>.</B>
+<A><F>Wow</F>. So where is the most <SC>ex</SC> impressive country <OL>for you</OL>?</A>
+<B><OL><F>Urrr</F></OL> impressive? <F>Urr</F> <.></.> <F>uhm</F> <.></.> <SC>Spani</SC> Spain.</B>
+<A>Spain?</A>
+<B><F>Uhm</F> Spain, most attractive.</B>
+<A>In what way?</A>
+<B><F>Mhm</F>?</B>
+<A>In what way?</A>
+<B><F>Urr</F> <.></.> people are very nice and food is very nice and <.></.> <F>uhmm</F> I can speak <R>Portu</R> Portuguese so I can <.></.> communicate <.></.> <SC>when</SC> <F>er</F> easily compared with other peoples so <.></.> I think <F>urr</F> <SC>they accept me very much</SC> <F>er</F> they accept me <.></.> kindly so <.></.> I like very much.</B>
+<A>I see. So how did you learn the language?</A>
+<B><F>Urr</F> <.></.> I major in Portuguese in university.</B>
+<A>I see.</A>
+<B>And <R>I</R> <SC>I was in</SC> I was there for eight months.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So a little bit, I can speak Portuguese.</B>
+<A><F>Wow</F>. What's the most different <SC>in</SC> <SC>be</SC> <F>er</F> compared to Japanese?</A>
+<B><F>Uhm</F>, Spanish?</B>
+<A>Yes.</A>
+<B><F>Urr</F> <.></.> <F>uhmm</F> <..></..> I think <R>the</R> <F>er</F> they enjoy <R>themselves</R> <F>urr</F> themselves is the most different.</B>
+<A><F>Uhmm</F>.</A>
+<B>Because sometimes <R>Japa</R> Japanese <F>uhm</F> prefer to be alone and don't want to <.></.> play or drink with other but Spanish or <SC>that country's</SC> <F>er</F> foreigners <F>uhm</F> prefer to <??></??> people and sharing <SC>the</SC> a lot of time with them. I think <SC>the</SC> <SC>this is the</SC> that is the most <.></.> different point, I think.</B>
+<A>I see. So did you enjoy yourself <OL>in Spain</OL>?</A>
+<B><OL><F>Uum</F></OL> Yeah. <nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you very much. O K. Lastly,</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K, here you are. So there are six pictures here.</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><OL>So</OL> please make up your own story from one to six. And this happened last week. So please <?>you</?> start your story with "One day last week".</A>
+<B><F>Uh-huh</F>. <..></..> The old man and the young boy are <SC>pair</SC> <F>urr</F> <F>urr</F> <F>urr</F> <.></.> <SC>a <R>fa</R> family</SC> <F>er</F> a father and <.></.> his son. And <R>they were</R> they were taking a walk and <R>they</R> <.></.> they felt hungry. So <.></.> <SC>they enter the restaurant <.></.> and</SC> <F>er</F> <SC>they decided to enter the restaurant and they went</SC> <.></.> <F>uhm</F> <R>they decided</R> they decided to have a something and they enter the restaurant. <F>Urr</F> in a restaurant, there is a some people but <R>there</R> there were <SC>some vacant</SC> <F>er</F> <R>some</R> some seat left for them. <R>So</R> <..></..> so <R>they</R> <.></.> <SC>they could</SC> <R>they</R> they could have a service. And <.></.> some time after, <F>urr</F> <..></..> <R><JP>gya</JP></R> <R><JP>gyaruson</JP></R> <SC><JP>gyaruson</JP></SC> employee <SC>came to them and</SC> <F>er</F> came to them to ask a order. <SC?>They are</SC?> <R>they</R> <F>ur</F> <.></.> they asked <?>him</?> order. And they decided to have a <.></.> some food and drinks <.></.> and they seemed to enjoy their foods. <.></.> <F>Uhm</F> <.></.> and <R>they</R> <.></.> <F>uhmm</F> <.></.> they went to the <R>cash</R> <SC>cash point</SC> cash and paid a money <.></.> and <R>after</R> <.></.> <F>uhm</F> after going out of restaurant, <.></.> they said good-bye and they separated. <.></.> That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. Do you often go to a restaurant?</A>
+<B><F>Urmm</F> yes, <R>I w</R> <SC>I went</SC> <F>urr</F> <.></.> I go to a restaurant but <R>not</R> not good restaurant.</B>
+<A>O K.</A>
+<B><R>Fast food</R> <OL>fast food</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. So could you compare restaurant in Spain to restaurant in Japan?</A>
+<B><F>Urrr</F> <..></..> Japan restaurant give us a too much service. So sometimes I feel very <SC>inconvenience</SC> <R>in</R> <SC>in</SC> <SC>un</SC> inconvenience or <.></.> uneasy <SC>so</SC> but <F>urr</F> in Spain, <.></.> <R>they don't</R> <F>ur</F> they don't disturb us so much. So it's easy for me <R>to</R> <.></.> to be there <.></.> to my heart's content. <.></.></B>
+<A>I see. <F>Uhm</F> but do they serve you?</A>
+<B><F>Uhm</F>.</B>
+<A><nvs>laughter</nvs></A>
+<B>Yeah. They serve us the foods <.></.> <F>uhm</F> but <F>urr</F> <SC>they don't</SC> <.></.> they mind <F>uhm</F> <R>to</R> to disturb so much.</B>
+<A>I see. So it's better for you.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. It's almost end of interview.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And do you have any special plan for this weekend?</A>
+<B><F>Ur</F> this weekend? <F>Urrr</F> <.></.> just playing baseball. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Playing baseball? Where?</A>
+<B>And if I have <F>uhm</F> <SC>my time</SC> my free time, <F>er</F> I'd like <SC>to go to see <.></.> <SC>autumn color</SC> autumn</SC> <F>er</F> <R>to</R> to go to mountain or some place to see <.></.> <F>urr</F> for leaves or <OL><?>something</?></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. Where?</A>
+<B><F>Uhm</F> near here. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Have a nice weekend.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

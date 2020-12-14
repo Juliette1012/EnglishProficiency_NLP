@@ -1,0 +1,275 @@
+<interview>
+<filename>file01035.txt</filename>
+
+<head version="1.3">
+<date>2002-03-06</date>
+<sex>female</sex>
+<age>46</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>O K. So, <H pn="B's name">XXX02</H>, what do you do?</A>
+<B>What do you do? <F>Ah</F>.I'm housewife.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And also I do the part-time job.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> I am aerobics instructor.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Twice a week, I do that.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It's interesting job for me.</B>
+<A>I see. Sounds interesting. And <F>ur</F> when you are at home, what do you usually do? <R>I</R> I mean <R>what</R> what kind of job do you have to do <OL>to keep the house clean</OL>?</A>
+<B><OL><F>Urr</F> <F>ur</F></OL> yes. <F>Urm</F> I <SC>do</SC> <F>uhm</F> clean my house and do the <R>lan</R> laundry</B>
+<A><F>Uh-hm</F>.</A>
+<B>and <R>of</R> of course make dinner</B>
+<A><F>Um-huh</F>.</A>
+<B>breakfast. <OL>Like that</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. <F>Urr</F> I see. What do you usually cook for dinner?</A>
+<B><nvs>laughter</nvs> Difficult. Recently, I usually do the <JP>nabe</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Or the mix of vegetables and <F>uhm</F> fishes</B>
+<A><F>Um-huh</F>.</A>
+<B>like that.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It's very simple.</B>
+<A><F>Uh-huh</F>.</A>
+<B>I like it very much.</B>
+<A><F>Wow</F>. Sounds tasty. <nvs>laughter</nvs> O K. And <F>ur</F> tell me your hobbies.</A>
+<B>My hobby?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> my hobby is <F>un</F> do exercise. Because I'm instructor.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Preparing lesson is very interesting.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Also <F>uhm</F> I sometimes make my music by myself</B>
+<A><F>Um-huh</F>.</A>
+<B>by P C.</B>
+<A><F>Um-huh</F>.</A>
+<B>That's a interesting <R>pre</R> preparation.</B>
+<A><F>Oh</F> I see.</A>
+<B>Of course, I listen to the music</B>
+<A><F>Um-huh</F>.</A>
+<B>every day and choice my music</B>
+<A><F>Um-huh</F>.</A>
+<B>and make <R>my</R> my favorite C D.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It's my hobby. And the other hobby is skiing.</B>
+<A><F>Ahh</F>. <F>Uh-huh</F>.</A>
+<B><F>Un</F> <SC>I</SC> twice or three times the year, <SC>I go to skiing</SC> I go <R>skiing</R></B>
+<A><F>Uh-huh</F>.</A>
+<B>skiing</B>
+<A><F>Un-huh</F>.</A>
+<B>with my family.</B>
+<A><F>Un-huh</F>.</A>
+<B>Actually, I'm good at skiing.</B>
+<A><F>Wow</F>.</A>
+<B>I've experienced over twenty years.</B>
+<A><F>Ohh</F>. What's your secret tips to be a good skier?</A>
+<B><F>Ur</F> <F>ur</F> pardon?</B>
+<A><R>Wha</R> <R>wha</R> <R>what's</R> what's your secret tips to be a good skier?</A>
+<B>Secret tips?</B>
+<A>Yeah. I'm a <SC>bad skier</SC> poor skier. So please tell me. <nvs>laughter</nvs></A>
+<B><F>Ahhh</F>. Difficult. But <SC>try</SC> <F>ur</F> first of all you have to try and practice and practice. And <F>uhm</F> it's not dangerous sport. <OL>Everybody said</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>it's dangerous. But <nvs>laughter</nvs> if you do correctly, it's very <F>uhm</F> fantastic and exciting sport. I recommend you to do that.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Wow</F>. O K. <laughter>Thank you very much</laughter>. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>O K. <F>Ah</F> I'd like to show you a picture. But this is your third time. So, let's see. Have you seen this picture before?</A>
+<B>Not yet.</B>
+<A>Not yet? O K. Then, let's try. Please describe this picture.</A>
+<B>This is <.></.> my room.</B>
+<A><F>Uh-huh</F>. Good.</A>
+<B>I'm sitting <SC>in the chair</SC> on the chair. And this is my P C. And <SC>on the bed</SC> one cat on the bed and one dog <SC>in the floor</SC> on the floor. And the door is open now.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <R>I have</R> I have one <SC><JP>compo</JP></SC> <R>audio</R> audio <JP>compo</JP>. <CO>And</CO>. <.></.></B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you. So is this room similar to your room?</A>
+<B>Yes. Similar to my room. But my room is not so neat. <nvs>laughter</nvs> I'm messy.</B>
+<A>O K. So do you have a personal computer?</A>
+<B>Yes.</B>
+<A>What do you usually use it for?</A>
+<B><F>Uhm</F> for example, <F>ur</F> I do for email</B>
+<A><F>Um-huh</F>.</A>
+<B>and make C D,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <SC>in</SC> of course internet surfing.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Like that.</B>
+<A><F>Uh-huh</F>. How do you make C D. Please tell me in detail.</A>
+<B><OL><F>Ahhh</F></OL>.</B>
+<A><OL>I don't know</OL> at all.</A>
+<B><R>If you</R> if you do the some favorite C D yourself</B>
+<A><F>Un-huh</F>.</A>
+<B>first of all, you have to have <R>some</R> some soft.</B>
+<A><F>Un-huh</F>.</A>
+<B>For example, <R>C</R> <SC>C</SC> "Easy C D Creator",</B>
+<A><OL><F>Un-huh</F></OL>.</A>
+<B><OL>or</OL> <F>ur</F> like that.</B>
+<A><F>Uh-huh</F>. O K.</A>
+<B><R>And</R> and <F>ur</F> hard to explain. But <F>uhmm</F> you can use "Easy C D Creator"</B>
+<A>O K.</A>
+<B>and put the C D <F>ah</F> <SC>if you do</SC> <SC>if you use this</SC> <F>ur</F> <F>ah</F> <R>if you</R> if you make that</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhmm</F> <.></.> second, you have to have <R>C D</R> <F>ur</F> C D <R>R W</R> R W.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Do you know the C D R W?</B>
+<A>I'm not sure. <nvs>laughter</nvs> But go on.</A>
+<B><F>Ur</F> and <F>err</F> choice that favorite music <SC>from</SC> <F>ur</F> for example <F>un</F> from net or <F>err</F> C D</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ur</F> original C D.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And choice your favorite songs. And con <??></??> the all of the C D to put into the new C D.</B>
+<A><F>Uhmmm</F>. <R>Sounds</R>, yeah, sounds very difficult. <CO>But</CO>. <nvs>laughter</nvs></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, thanks anyway. O K. Now, <F>ur</F> we are going to do a role-play. So let's see. O K. Please read this card to yourself. And when you're ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>Ready.</B>
+<A>O K. May I help you?</A>
+<B><F>Urm</F> <SC>I want to buy</SC> I'd like to buy that kind of sweater.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Can I try <SC>this sweater</SC> can <R>this</R> this sweater on?</B>
+<A>Sure.</A>
+<B>And try it.</B>
+<A><F>Uh-huh</F>. Fitting room is over there.</A>
+<B><F>Ah</F> O K. <.></.> <F>Uhm</F> <SC>it just</SC> <SC>it is just</SC> I like it.</B>
+<A><F>Uh-huh</F>.</A>
+<B>I'll take it.</B>
+<A><F>Ur</F> really? <CO>But this is</CO>.</A>
+<B><R>How much</R>,</B>
+<A><F>Uh-huh</F>?</A>
+<B><F>ur</F> <R>how much</R> how much does it cost?</B>
+<A><F>Oh</F> let me see. It's very expensive.</A>
+<B><OL><F>Ohh</F></OL>.</B>
+<A><OL>And</OL> it costs <F>ur</F> fifty thousand yen.</A>
+<B>Fifty thousand?</B>
+<A><F>Uhm</F>.</A>
+<B>That's O K. I'll take it.</B>
+<A>Really?</A>
+<B>Yes.</B>
+<A><F>Ah</F> O K. Would you like to have another one? <OL>We have a lot</OL>.</A>
+<B><OL><R>No</R>, no</OL>. That's all.</B>
+<A>Really? We have beautiful color sweaters.</A>
+<B><F>Uhmmmmmm</F>. But that's what I wanted.</B>
+<A><F>Uh-huh</F>. O K. So here you are.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Thank you very much. O K. This is the end of the role-play. Thank you. So do you like shopping?</A>
+<B>Yes. I like shopping.</B>
+<A><F>Wow</F>.</A>
+<B>But recently, I rarely go to buy sweater.</B>
+<A><F>Uh-huh</F>. Why not?</A>
+<B>Because <R>I</R> I've already have a lot.</B>
+<A><F>Uh-huh</F>. I see. Then <F>ur</F> <SC>when</SC> <SC>if</SC> when you want to buy something <SC>new clothes</SC> something new, <SC>what</SC> <F>ur</F> where do you usually go?</A>
+<B>I go to Matsuya Department Store.</B>
+<A><F>Uhm</F>.</A>
+<B>Because it's comfortable for me to buy.</B>
+<A><F>Uh-huh</F>. How comfortable? <R>Why</R> why is it so comfortable?</A>
+<B>Because I know everywhere Matsuya Department Store.</B>
+<A><F>Wow</F>. <laughter><R>Why</R></laughter></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>why do you know that department store</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Are you an owner</OL>?</A>
+<B><nvs>laughter</nvs> <.></.> I have gone there a much time.</B>
+<A><F>Uh-huh</F>. I see.</A>
+<B>That is why</B>
+<A>I see.</A>
+<B>I know it very much.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So you are a good customer <nvs>laughter</nvs> to them. O K. Thank you very much. Now, <SC>we are going to do the</SC> I'm going to show you the last picture. Actually it's a picture sequence. Have you ever seen this picture before?</A>
+<B>No.</B>
+<A>O K. I'd like you to make up a story based on these six pictures. And this happened last week. So please start your story with "One day last week".</A>
+<B>One day last week?</B>
+<A><F>Uh-huh</F>. Start.</A>
+<ctxt>The interviewee is looking at the picture sequence.</ctxt>
+<B>I and my boyfriend <SC>wen</SC> <SC>go</SC> went down the street. And suddenly my boyfriend heard some noise. And I looked around there. <F>Un</F>. <SC>As</SC> I accidentally looked some pretty cat. And I hold it. And <SC>I wan</SC> I said I wanted to keep this cat to my boyfriend. <R>But my</R> <R>but</R> but <SC>my boyfriend said</SC> <R>it</R> "It's impossible," he said. <F>Uhm</F> but I <R>tried to</R> tried to explain and recommend to have this cat to my house. <F>Urr</F> <R>las</R> <F>un</F> lastly <R>he</R> he said O K. And I and my boyfriend <SC>keep this cat to my house</SC> <R>hol</R> hold to my house.</B>
+</task>
+<followup>
+<A>Thank you very much. Do you keep any pets?</A>
+<B>No.</B>
+<A>Do you have any plans?</A>
+<B>No.</B>
+<A>No?</A>
+<B>I'm not going to keep my pets.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because I don't like keep animals</B>
+<A><F>Uh-huh</F>.</A>
+<B>in my house</B>
+<A><F>Uh-huh</F>.</A>
+<B>or near my house.</B>
+<A><F>Uh-huh</F>. Why?</A>
+<B>Why? <F>Urrm</F> I don't like animals like pets.</B>
+<A><F>Urr</F> I see. <F>Urr</F> you said <F>urr</F> you live with your family.</A>
+<B>Yes.</B>
+<A>So would you tell me a little bit about your family members?</A>
+<B><F>Ah</F> I have one child and one husband <OL><?>both</?></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Uhm</F> my child is now <R>my</R> my mother's house <OL>because</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>recently, I've moved to near here.</B>
+<A><F>Un-huh</F>.</A>
+<B>But <SC>sh</SC> he didn't want to change his primary school.</B>
+<A><F>Uh-huh</F>.</A>
+<B>That's the reason why my son is now my mother's room.</B>
+<A><F>Ahh</F> I see. Where is he now?</A>
+<B><R>He's</R> he lives in <H pn="others1">XXX03</H> now.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But maybe one year later, he will come <R>with my</R> with my house</B>
+<A><F>Uh-huh</F>.</A>
+<B>because <R>he will be</R> he will be junior high school.</B>
+<A><F>Ahh</F> I see. So is he look like this boy?</A>
+<B><.></.> <F>Uhm</F> <F>uhmmm</F> no.</B>
+<A>No? Are there any differences? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Urrr</F> <F>err</F> my child is <R>more</R> <SC>more smaller than he</SC>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>smaller than he.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>un</F> that's all.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uh-huh</F>. <F>Urm</F> <F>uhm</F> O K. Thank you. O K. So the interview is almost over. So what's your plan after this interview tonight?</A>
+<B><F>Oh</F>. I am going to <SC>go to dinner</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B>go to the restaurant to have dinner.</B>
+<A><OL><F>Ohh</F></OL>.</A>
+<B><OL>with</OL> my husband.</B>
+<A><F>Oh</F> great. Where? Which restaurant?</A>
+<B>Maybe near here. I've not decided yet.</B>
+<A><F>Uh-huh</F>. Good. Do you often go to restaurant with your husband?</A>
+<B>Yes. I often go to restaurant with my husband.</B>
+<A><F>Ah</F> that's nice. Good. O K. So please enjoy your dinner with your husband.</A>
+<B>O K.</B>
+<A>Thank you very much for coming today. Thank you. Interview is over.</A>
+</stage5>
+</body>
+</interview>

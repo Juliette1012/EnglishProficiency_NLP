@@ -1,0 +1,171 @@
+<interview>
+<filename>file00633.txt</filename>
+
+<head version="1.3">
+<date>2001-10-31</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><F>Er</F> My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Hm</F>? <F>Er</F> Last name?</A>
+<B><F>Er</F>. <H pn="B's name">XXX02</H>.</B>
+<A><F>Mh-hmm</F>. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B><F>Oh</F>. <JP><F>Eh</F></JP> <R>I</R> <SC>I'm not f</SC> I'm not so fine. Because I have a cold.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>I have a</OL> sore throat and I have a headache a little. <JP><F>Eh</F></JP> And you?</B>
+<A>Yeah. <R>I'm fine</R> I'm fine, thank you. <F>Mm</F>. And <F>erm</F> what do you usually do <F>oh</F> when you have a cold?</A>
+<B><F>Mm</F>. <F>ah</F> I have <F>er</F> many medicine.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> <F>Uhm</F>. <.></.> <F>Urn</F> I <R>s</R> sleepy.</B>
+<A><F>Hm</F>. O K. <??></??>.</A>
+<B>Now, I am so tired.</B>
+<A>O K. O K. <F>Erm</F> Now, <R>you</R> you have a cold. But do you go to school now?</A>
+<B>Yes. <F>Eh</F> <R>I</R> I must go to <.></.> school <SC>because so I</SC> <F>erm</F> <R>because</R> <F>erm</F> <..></..> <F>uhm</F> <R>because</R> <.></.> <JP><F>eh</F></JP> because <F>ah</F> <.></.> <R>I must go</R> I must go to <R><JP>ze</JP></R> <R><JP>zemi</JP></R> <JP>zemi</JP>.</B>
+<A>O K.</A>
+<B>So, <.></.> <F>er</F> I must <.></.> <F>er</F> <.></.> <R>pre</R> presentation.</B>
+<A><F>Hmm</F>.</A>
+<B><??></??>.</B>
+<A>Really? <F>Oh</F>. What do you study?</A>
+<B><F>Erm</F> <R>I</R> <SC>I'm major in economic</SC> <F>ur</F> I study economic. <F>Erm</F> <.></.> <F>er</F>. <..></..></B>
+<A><F>Oh</F>. What about economic?</A>
+<B><F>Urn</F> <..></..> <F>mm</F> <.></.> <CO><R>Mac</R> <F>eh</F> macro economy and <.></.> <F>er</F> <R>eco</R> <F>er</F> economic I s</CO>. <F>Uhm</F>. <..></..></B>
+<A>Do you enjoy studying economics?</A>
+<B><nvs>laughter</nvs> <F>Ah</F> <F>ah</F> <.></.> So so.</B>
+<A>So so? So, how about the free time? How do you spend your free time?</A>
+<B><.></.> Once more again.</B>
+<A><F>Mh-hmm</F>. <F>Er</F>. Do you have any hobby?</A>
+<B><.></.> <F>Uh</F>. <F>Ah</F> O K. O K. <R>My</R> <SC>my hobby is <F>uhm</F> <.></.> <F>erm</F> wa</SC> <F>ur</F> my hobby is to <.></.> <F>ur</F> <R>watching soccer</R> watching soccer <R>and</R> and playing soccer. And listening to <.></.> music. <F>Hm</F>.</B>
+<A>Which one do you like better, watching soccer or playing soccer?</A>
+<B><F>Uhm</F>. <.></.> <F>Ur</F>. I like playing soccer better. <F>Urn</F>.</B>
+<A>Why is that?</A>
+<B><.></.> <F>Uhm</F>. <.></.> <R>I like</R> <F>hm</F> <.></.> <R>I like</R> <R>I like</R> I like <SC>run</SC> <F>er</F> <R>ru</R> <nvs>laughter</nvs> <R>running</R> running. <OL><F>Uhm</F></OL>.</B>
+<A><OL><?><F>Mh-hmm</F></?></OL>.</A>
+<B><R>Mo</R> <SC>movi</SC> <SC>move</SC> <SC>moving</SC> <R>move</R> <OL>move</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>. O K. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, thank you. <F>Er</F> first of all <F>er</F> today, O K? Please look at this picture. O K? And,</A>
+<B><OL>O K</OL>.</B>
+<A><OL>Please</OL> tell me about this picture. Anything you like.</A>
+<ctxt>The interviewee is looking at the picture for a moment.</ctxt>
+<B><F>Oh</F>. O K. <F>Ah</F>. <.></.> <nvs>laughter</nvs> <F>Erm</F>. <..></..> <F>Oh</F>. <.></.> <R>There</R> <.></.> <R>there</R> <R>there</R> <R>there is</R> <R>there is</R> <R>there is</R> there is a bed <.></.> <??></??>. <F>Erm</F>. <.></.> <F>Hmm</F>. <.></.> <F>Hmm</F>. This room is so clean. <F>Erm</F> <F>er</F> <.></.> <F>hmm</F> <.></.> <R>there</R> <R>there</R> <.></.> there are <R>two</R> two animals. <F>Eh</F> one is a dog and the other <.></.> is cat. <F>Er</F>. <.></.> <R>There is</R> <.></.> there is a <R>stere</R> <R>stereo</R> stereo. And there are many books. And <R>there is</R> <.></.> there is a computer <F>eh</F> on the desk. <F>Urn</F>.</B>
+<A>That's all?</A>
+<B><.></.> <F>Hm</F>.</B>
+<A>O K. Thank you. <F>Hm</F>.</A>
+</task>
+<followup>
+<A><F>Uh</F>. Is this room is look like your room?</A>
+<B><..></..> <F>Uh</F>. <F>Ah</F>. <.></.> No. <F>Er</F>. No. No. <SC>I ro</SC> my room is not so clean.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Anything similar?</A>
+<B><.></.> <F>Ah</F>. <.></.> <F>Uhm</F>. <nvs>sniff</nvs> <F>Uhm</F>. <F>Hm</F>. No. No. No. No.</B>
+<A>Do you have a computer in your room?</A>
+<B><..></..> <R>I have a compu</R> I have a computer. But <SC>I have <.></.> <F>eh</F> in</SC> no <SC>I have</SC> <R>I</R> I don't have compute in your room.</B>
+<A>O K.</A>
+<B><F>Hm</F>. Another room.</B>
+<A>Another room. So you live in a big house, then.</A>
+<B><JP>Iya</JP>. <F>Eh</F> No. No. No. <F>Er</F> <.></.> <F>oh</F> <R>My</R> <F>erm</F> <nvs>laughter</nvs> <R>my</R> my <JP>pasokon</JP> <SC>is so</SC> <F>er</F> is <F>eh</F> in the <R>living room</R> living room.</B>
+<A><F>Mh-hmm</F>. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, second thing. We will do the roleplay. O K? Please read this card. O K?</A>
+<B>O K.</B>
+<A>And when you are ready, I will start. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>O K.</B>
+<A>O K. May I help you, sir?</A>
+<B><F>Oh</F>. <F>Uhm</F>. <.></.> <F>Uhm</F>. <nvs>laughter</nvs> <.></.> <JP><F>Eh</F></JP> <JP><F>eh</F></JP> <F>uhm</F> <F>eh</F> <.></.> <R>Would you</R> <R>would you</R> <F>er</F> <R>would you <R>li</R> <F>er</F> like</R> <R>would you like</R> <SC>would you like to want to <F>eh</F> <.></.> <R>the</R> the <.></.> <R><JP>jea</JP></R> <JP>jea</JP></SC> <F>uh</F> would you like <JP>janainda</JP>. <F>Ah</F> <F>ah</F> <.></.> <F>oh</F> <R>I</R> <R>I</R> <SC>I want to</SC> <.></.> so <F>er</F> <..></..> <SC>I li</SC> <SC>I want to <.></.> cho</SC> <R>I want to</R> <F>uh</F> <F>eh</F> <F>err</F> <.></.> I want to <R>jean</R> jeans.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><CO>So <F>uhm</F> size</CO>. <F>Eh</F> <.></.> <F>erm</F>. <..></..> <CO><R>What kind of jeans</R> what kind of jeans <R>do you</R> <F>eh</F> <SC>do <R>you</R> you</SC> <R>do</R> do</CO>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F>.</B>
+<A>We have <SC>varieties</SC> variety of jeans here.</A>
+<B><F>Ah</F>. <F>Ah</F>. <F>Oh</F>. <F>Eh</F>. <..></..> <F>Ah</F> <F>eh</F> <F>ah</F>.</B>
+<A>We have Edwin, Levi's jeans here.</A>
+<B><F>Oh</F>. <OL><F>Oh</F> <F>ah</F></OL>.</B>
+<A><OL>We are</OL> specialized.</A>
+<B><F>Oh</F>. <F>Oh</F>. <F>Er</F> <F>uh</F> <F>er</F> <SC>I</SC> <F>er</F> <F>er</F> my favorite maker is</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Edwin.</B>
+<A>O K.</A>
+<B>So, I <R>sear</R> <F>uhm</F> <R>search</R> search for Edwin's jeans.</B>
+<A><F>Mh-hmm</F>. Which size?</A>
+<B><F>Eh</F>. <CO>The <R>size</R> <.></.> size</CO>. <F>Er</F> <JP><F>eh</F></JP> <??></??> <F>er</F>.</B>
+<A><F>Er</F> O K. I think this fits you. Would you like to try? <.></.> Maybe this is your size. Maybe.</A>
+<B><F>Ah</F>. <F>Oh</F> O K. <F>Oh</F> I try to <F>uu</F> <R>this one</R></B>
+<A><F>Mh-hmm</F>.</A>
+<B>this one.</B>
+<A>O K.</A>
+<B><F>Er</F> <R>I <R>take</R> take on</R> I take on this one.</B>
+<A><F>Hm</F>. O K. O K. And if you like, you can come back to the counter and you can buy it. <OL>O K</OL>?</A>
+<B><OL>O K</OL>.</B>
+<A>Thank you very much. Thank you. End of the roleplay.</A>
+</task>
+<followup>
+<A>Do you like shopping?</A>
+<B><F>Uhm</F> Yes. Yes. Yes. <OL><F>Uhm</F></OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B>I like shopping. But <R>I</R> I'm so tired soon.</B>
+<A><F>Hm</F>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Lastly, we will do the pictures again. O K? <F>Erm</F>. Please look at this picture and make a short story from one to four. O K? Start from here.</A>
+<ctxt>The interviewer is showing the pictures.</ctxt>
+<B><F>Er</F>. <..></..> <F>Eh</F>. <JP>Chotto matte kudasai</JP>. <??></??> <F>Ur</F>. <.></.> <??></??> <F>Ur</F>. <..></..> <JP><F>Eeto</F></JP>. <F>Eh</F> <SC>There are three</SC> <F>er</F> <nvs>laughter</nvs> <.></.> <R>the</R> <R>they</R> <SC>they</SC> <R>the</R> there are three people, two boys and one girl. <F>Er</F> <JP>kore</JP>. <F>Er</F> <F>eh</F> <SC>they buy a</SC> they buy <F>eh</F> drinking water and popcorn. <F>Hm</F> <F>eh</F> <R>they</R> <F>er</F> <F>eh</F> <.></.> <R>they</R> <.></.> <nvs>laughter</nvs> <F>urn</F> <.></.> <nvs>laughter</nvs> <F>oh</F> <R>they</R> <R><laughter>they</laughter> go</R> they go home.</B>
+<A><F>Mh-hmm</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A>Do you often go to see a movie?</A>
+<B><F>Ah</F>. Yes. <R>I</R> <.></.> <F>uhm</F> I often go to <.></.> the movie.</B>
+<A>Where is your favorite movie theater?</A>
+<B><F>Ah</F>. <.></.> <R>Shin</R> Shinjuku.</B>
+<A>Why?</A>
+<B><F>Hmm</F>. Shinjuku is <R>move</R> movie theater <R>in</R> in <??></??>.</B>
+<A><F>Oh</F> yeah. I like Shinjuku ones, too.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. It's almost the end of the interview. O K? Do you have any plans for tonight?</A>
+<B><.></.> <F>Hm</F>. <.></.> <F>Uh</F> No. No.</B>
+<A>No?</A>
+<B>No. I have any plan <SC>this nigh</SC> <F>er</F> tonight.</B>
+<A>Maybe go home and sleep?</A>
+<B>Yes. <F>Eh</F> I have a cold. <OL>So</OL>,</B>
+<A><OL>Yeah</OL>. That's right.</A>
+<B>I'm <?>sleepy</?>.</B>
+<A>Yeah. <F>Er</F>. Take care. And <F>erm</F> have a good sleep so you get well <OL>soon</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>?</A>
+<B><OL>Thank you</OL>.</B>
+<A>Don't work too hard for your study, too.</A>
+<B>I won't.</B>
+<A>O K. O K? Thank you very much.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

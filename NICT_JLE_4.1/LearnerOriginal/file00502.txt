@@ -1,0 +1,160 @@
+<interview>
+<filename>file00502.txt</filename>
+
+<head version="1.3">
+<date>2001-06-27</date>
+<sex>female</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello. My name is <H pn="A's name">XXX01</H>.</A>
+<B>Yes.</B>
+<A>May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>.</A>
+<B>Yes.</B>
+<A>O K. Nice to meet you.</A>
+<B>Nice to met you, too.</B>
+<A>So tell me what do you do?</A>
+<B>Recently?</B>
+<A>Yes. <SC>What</SC> how do you usually spend the day?</A>
+<B>Yes. I'm a temporary staff, and my job is <F>um</F> agent of help desk of some <SC>computer company</SC> computer system company. So if a <R>customer has the pro</R> customer has the problem with his computer or operating system or some kinds of application like Excel, Word or so on, <F>uum</F> they call me.</B>
+<A>I see.</A>
+<B>So I check the situation and <R>I give</R> I give them the <SC>solution</SC> <OL>idea</OL>.</B>
+<A><OL>I see</OL>. And where is your office?</A>
+<B>Pardon?</B>
+<A>Where is your office?</A>
+<B>Yeah. My office is now in <H pn="others1">XXX03</H>. Very near from the <H pn="others1">XXX03</H> Station.</B>
+<A>How far is that from your house?</A>
+<B>From my house. <F>Um</F> my house is <H pn="others2">XXX04</H>. So everyday, I have to take one hour and half <OL>door to door</OL>.</B>
+<A><OL><R>I see</R></OL>. I see. What do you usually do on the train?</A>
+<B>Yes. <SC>Usually</SC> <F>uum</F> <R>recently</R> recently I spend time by <SC>watch</SC> <JP><F>ee</F></JP> <SC>watching</SC> reading books and reading dictionaries.</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL><F>Mm</F> mainly</OL>. The reason why I check the dictionary is I want to cultivate my vocabulary in English.</B>
+<A>I see. And what do you do on the weekends?</A>
+<B>Weekends. <F>Um</F> I'm married, and usually my husband <SC>is</SC> has day-off on weekend. So we two <F>uum</F> <R>go</R> go <SC>for a walk</SC> just for a walking or <F>uum</F> <R>cam</R> camping.</B>
+<A><F>Oh</F> that's nice. What kind places do you go camping?</A>
+<B>Yes. <F>Um</F> in summer, <JP><F>ee</F></JP> it's very hot, and sunshine is severe. So we escape to the <F>um</F> very local place like <F>er</F> near the Lake <R><H pn="others3">XXX05</H></R> <H pn="others3">XXX05</H> in <H pn="others4">XXX06</H> Prefecture or very inconvenient place to reach.</B>
+<A>I see.</A>
+<B>There are so many natures.</B>
+<A>Can you describe that place near Lake <H pn="others3">XXX05</H>?</A>
+<B><H pn="others3">XXX05</H> yes. <F>Um</F> there are some favorite campsite <JP><F>ee</F></JP> near the river and the river water is very cold. So if <R>I</R> <.></.> I touch the water, it's very chilly. <F>Um</F> and of curse <R>I</R> I can see <R>good</R> <F>er</F> good views like mountains very near. And there are so many trees <R>around</R> around the site.</B>
+<A><F>Oh</F> that's sounds nice. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. The first thing <R>I want you to</R> I want you to do today is, O K, look at this picture.</A>
+<B>Yes.</B>
+<A>O K. Please describe what you see.</A>
+<B><F>Um</F> <.></.> O K. <R>I</R> I suppose <F>ur</F> here is a some gorgeous restaurant. And the main two people, this lady and this gentleman, is wife and his husband, I think. And <SC>it's</SC> <F>er</F> <SC>ss</SC> <.></.> live piano is playing in the restaurant. And they came here to celebrate his <SC>cerem</SC> <F>mm</F> memorial day of marriage. So <F>uum</F> probably this wine which this <JP>somurie</JP> recommends, this must be very expensive. But they tried to take them. And this is seven o'clock in the evening because this clock shows the time. And <SC>they just started</SC> they has just started take a supper here. So this wine is the first one. And probably <SC>she</SC> <R>he</R> <R>he</R> he is trying tasting. <F>Uum</F>.</B>
+<A>I see. Thank you. That's fine. O K. Thank you. I'll have that picture back.</A>
+<B>Yes, please.</B>
+</task>
+<followup>
+<A>O K. So do you often go to a restaurant like this with your husband?</A>
+<B><nvs>laughter</nvs> No. Not so much. But <F>uum</F> sometimes we go to restaurant to take a dinner. But they are very reasonable one. <OL><F>Hmm</F></OL>.</B>
+<A><OL>I see</OL>. Can you tell me more about the restaurant you usually go to with <OL>your husband</OL>?</A>
+<B><OL>Yes</OL>. <F>Uum</F> reasonable restaurant is comfortable for us. Because it's very casual. Not so gorgeous but very casual and staffs is always very friendly, and they makes us relax. So <SC>I love them</SC> I love there. And one of my favorite restaurant is <F>ur</F> Thai food restaurant. <R>I found it</R> I found it <R>two</R> <SC>two or</SC> no, no, no. Four or <R>five</R> five weeks ago. And very <R>near</R> near from Takadanobaba Station. So <R>my husband's</R> <SC>my husband's office is</SC> <F>ur</F> my husband office locates in <H pn="others5">XXX07</H>. So I call him with my mobile phone to come to Takadanobaba and let's have a dinner. <CO>So</CO>.</B>
+<A><OL><F>Er</F> that's nice</OL>.</A>
+<B>So <SC>she</SC> he is not so tough.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Mm</F></OL> because <F>ur</F> he has <F>ur</F> so many jobs to do.</B>
+<A>Right.</A>
+<B>But <R>he</R> he <R>co</R> <OL>comes</OL>.</B>
+<A><OL>That's very nice</OL>. Right. You were saying that this is the wedding anniversary. What do you do on a wedding anniversary?</A>
+<B><F>Er</F> this year's anniversary is the worst day.</B>
+<A><nvs>laughter</nvs></A>
+<B>There is nothing. Because the temperature is very high and <SC>we couldn't want to do</SC> <F>um</F> <R>we</R> <SC>we couldn't do</SC> <F>er</F> no, no. We didn't want to do anything. <F>Ur</F> so we stayed just at home and take a dinner <R>as usual</R> <OL>as usual day</OL>.</B>
+<A><OL>I see</OL>. <F>Oh</F> but that's also nice, too. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Then this time I want you to read <.></.> O K, this card. O K? When you are ready, please start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Hm</F>.</B>
+<A>Are you ready?</A>
+<B><.></.></B>
+<A>O K. Then I'll start.</A>
+<B>Yes. Please.</B>
+<A>O K. Hello. May I help you?</A>
+<B><R>Yes</R>. Yes, please. I'd like to New York. And <R>how</R> <SC>how can</SC> could you tell me how the <R>most</R> most convenient way to get there, please?</B>
+<A>Sure. Take the Super Express.</A>
+<B>Super Express. <F>Er</F> <R>how</R> how long does it take to from here to New York City?</B>
+<A>It takes <F>er</F> two hours.</A>
+<B>Two hours. And what time does the most earliest train start?</B>
+<A>Actually, the earliest train leaves in three hours from now.</A>
+<B><SC>From three</SC> after three hours from now? <F>Oh</F> I see. Do I have to reserve the seat?</B>
+<A>Yes, you do.</A>
+<B><F>Uum</F>. O K. <SC>Ss</SC> <F>uum</F> actually <SC>I'm not</SC> I don't know much about New York. So <F>er</F> <SC>are there</SC> <SC>ss</SC> how many station in New York?</B>
+<A><?>Just</?> one Central Station.</A>
+<B>Central Station. <JP><F>Unto</F></JP> is Central Station final destination?</B>
+<A>That's right.</A>
+<B>O K. So I <F>uum</F> O K. Today are there any delay or not?</B>
+<A><F>Er</F> actually yes. There has been some accident, and the computer says right now we don't know what time the train will leave here.</A>
+<B><F>Er</F> so <SC>I</SC> it maybe delayed.</B>
+<A>Yes.</A>
+<B>O K. <F>Uum</F> so how much is the ticket?</B>
+<A>It's two hundred dollars.</A>
+<B>Just two hundred dollars? <SC>Does this</SC> does it include reservation fee?</B>
+<A>Yes.</A>
+<B>O K. <SC>Ss</SC> <F>uum</F> <.></.> <R>you</R> you said Super Express is available?</B>
+<A>That's right.</A>
+<B>So <F>um</F> can I buy the ticket now?</B>
+<A>Sure.</A>
+<B>So yes, <SC>I'll give</SC> <F>er</F> give me one ticket, please. <SC>One</SC> <F>er</F> O K. So <SC>two dollars is</SC> is two dollar for one way?</B>
+<A>That's right.</A>
+<B>O K. So one way ticket, please.</B>
+<A>O K. Here you are. It's from platform number five. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>O K.</A>
+</task>
+<followup>
+<A>Have you ever traveled abroad?</A>
+<B>Yes. I traveled sometimes. But I've never lived and studied abroad.</B>
+<A>I see. Where was the most beautiful place you've been to?</A>
+<B><F>Uum</F> <SC>my favorite country</SC> the most favorite country is Britain. And I'm very interested in lake district, however the <F>er</F> <R>I</R> <R>I</R> I see so many pictures of lake district and so many stories about there. But unfortunately, the city where I've been to is just London. So <SC>sometime</SC> <F>er</F> someday <R>I want</R> I want to go there. <OL><F>Umm</F></OL>.</B>
+<A><OL>I see</OL>. And why did you choose London?</A>
+<B>London. <F>Uum</F>. London is <F>er</F> rather conservative, I think, compared with <SC>States</SC> <SC>city in Sta</SC> cities in States. So <F>er</F> and <R>my favorite</R> my favorite brand name shop <F>uum</F> <R>Ma</R> <?>Mafin and Web</?> is famous for it's <R>silver</R> silver accessories and the <R>roya</R> <R>ro</R> <R>roya</R> royals of Britain, usually uses there <R>cutlery</R> cutleries. So and I love cutleries <SC>just looking <F>um</F> is</SC> <.></.> looking at good cutlery makes me very happy. <CO>So</CO>.</B>
+<A><OL>That's good</OL>. O K. Right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Then the last thing I want you to do is make a story. O K. Please make a story O K, using these four pictures.</A>
+<B>Yes.</B>
+<A>O K. This is something that happened one day last week. So please start your story by <F>um</F> "One day last week".</A>
+<B><R>One day last week</R>. One day last week.</B>
+<A>O K. You may start.</A>
+<B>Yes. <CO>This</CO>. <.></.> O K. <F>Uum</F> <R>they</R> they went to the zoo <R>last</R> last Tuesday. Last Tuesday is a weekday so <SC>they</SC> <R>there was not</R> there was not so much people in the zoo. So they fully enjoyed <F>er</F> <SC>relax</SC> with relaxation. And they saw lion in the cage. And usually lion is sleeping all day long. However on this day, they could see lion moving. And <SC>the lion is watching</SC> the lion was watching them. And <SC>they</SC> the boy and girl also watching the lion. And maybe this lion <.></.> was wondered <SC>who they were because</SC> who they were and why they were here because today <F>um</F> <R>we</R> we have few guests and <R>they are rare</R> they are rare guests. The lion <SC>thought</SC> must be thought. And then the girl and boy watched monkeys. <SC>The monkey is</SC> the monkey was eating bananas. And so <SC>they</SC> the girl wanted to eat something because <F>ur</F> <SC>she</SC> <F>um</F> after she watched the monkey eating bananas. So the boy treated her <JP>soft cream</JP>. And then last, <.></.> <R>the boy</R> <.></.> <SC>the boy has to</SC> the boy had another engagement in the evening on Tuesday. So they have to say good-bye at the gate of the zoo.</B>
+<A><F>Uh-hm</F>. Thank you very much. O K. Good.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview now. So after this, what are you going to do?</A>
+<B>Yes. <F>Er</F> <SC>this</SC> last time <SC>I</SC> we had a farewell party.</B>
+<A><F>Oh</F>.</A>
+<B>So <F>uum</F> I must wait for the <R>arre</R> arranger <F>er</F> called <JP>kanji</JP> <OL>in Japanese</OL>.</B>
+<A><OL>Right</OL>.</A>
+<B>And <nvs>laughter</nvs> gave me back my money.</B>
+<A><nvs>laughter</nvs> I see. I hope you get it back. O K. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you very much, thank you very much</OL>.</B>
+<A>O K. That's it. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

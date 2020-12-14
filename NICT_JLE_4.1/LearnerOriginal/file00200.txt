@@ -1,0 +1,197 @@
+<interview>
+<filename>file00200.txt</filename>
+
+<head version="1.3">
+<date>2001-01-16</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>student</category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. So can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. So <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm so-so. How about you?</B>
+<A><F>Well</F> I'm fine, <F>er</F> thank you. So <F>ah</F> what did you do today before this interview?</A>
+<B><F>Mm</F> I had three classes,</B>
+<A><F>Hm</F>.</A>
+<B><F>mm</F> economic and book keeping and mathematics.</B>
+<A><F>Mm</F>. O K. So anything else you did besides <OL>that</OL>?</A>
+<B><OL><F>Mm</F></OL> and I had lunch with my classmate.</B>
+<A>Right.</A>
+<B><SC>She is same de</SC> <R>sh</R> she belong to same department to me. And she is one-year-old younger than I, because I went to <H pn="school name1">XXX03</H>. It is preparing to enter university examination for one year.</B>
+<A>Right.</A>
+<B>So I am <SC>one ol</SC> one year older than <R>al</R> almost of all student.</B>
+<A><F>Hm</F>.</A>
+<B>And I got up at six-twenty and I went <.></.> to <.></.> near my station by my mother car.</B>
+<A><F>Hm</F>.</A>
+<B>And I got on train, it is <H pn="others1">XXX04</H></B>
+<A>Right.</A>
+<B>for about <R>two</R> <SC>two</SC> no, one hour.</B>
+<A><F>Hm</F>.</A>
+<B>And I changed <H pn="others2">XXX05</H>, and I got on <SC>a</SC> for about twenty minutes.</B>
+<A><F>Hm</F>.</A>
+<B>And <SC>I went</SC> <SC>I</SC> <F>a</F> but from <H pn="others3">XXX06</H> to <H pn="school name1">XXX03</H>, <R>I</R> I went to <SC?>taka</SC?> <F>uh</F> university on my foot.</B>
+<A><F>Hm</F>.</A>
+<B>And I had three classes.</B>
+<A><F>Mm</F> I see. So <F>ah</F> <F>ah</F> do you live with your family?</A>
+<B>Yes.</B>
+<A>O K. So can you tell me a little bit about your family?</A>
+<B>Yes. <SC>My</SC> there are four members in my family, father, mother, <SC>sis</SC> younger sister and me. My father is <R>fif</R> fifty-one years old. He is office worker at <H pn="company name1">XXX07</H>.</B>
+<A>Right.</A>
+<B>And my mother is housekeeper and my sister is high school student. She is <F>mm</F> <SC>two</SC> second grade of this high school.</B>
+<A>Right.</A>
+<B>And <F>m</F> I live in <H pn="others4">XXX08</H>,</B>
+<A><F>Hm</F>.</A>
+<B>so it takes about two hours to get to <SC>uni</SC> this university.</B>
+<A><F>Hm</F>.</A>
+<B>So it is hard for me,</B>
+<A>Right.</A>
+<B>because, <R>I can't</R> I can't be seated on train.</B>
+<A><F>Hm</F>.</A>
+<B>So <R>it</R> it is tired.</B>
+</stage1>
+<stage2>
+<task>
+<A>Right. Yeah. O K. Thank you. So now, I'm going to show you a picture. So I want you to describe it.</A>
+<B><F>Mm</F>.</B>
+<ctxt>The interviewee is looking the picture.</ctxt>
+<B>A female teacher</B>
+<A><F>Hm</F>.</A>
+<B>teaches mathematics their student.</B>
+<A><F>Hm</F>.</A>
+<B><SC>And</SC> but <F>mm</F> almost of all student <.></.> <R>don't</R> don't listen to her <SC>strictly</SC> <F>a</F> <R>se</R> seriously. One of student <.></.> <SC>li</SC> is listening to music and drinking something.</B>
+<A><F>Hm</F>.</A>
+<B>And <..></..> a student with yellow shirts, he is chewing <.></.> gum. And two of <R>girls</R> girls, they're talking about something.</B>
+<A><F>Hm</F>.</A>
+<B>Maybe <SC>she</SC> they is talking about cosmetic. And one of front <R>si</R> sitting student, <R>he</R> he is listen to their <SC>s</SC> teacher.</B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. So <F>er</F> now, please compare <F>er</F> the classroom in this picture and the classroom when you were in high school.</A>
+<B>My high school is <F>mm</F> very strictly about <F>a</F> us to study.</B>
+<A><F>Hm</F>.</A>
+<B>So <SC>we are</SC> we listen to our teachers seriously.</B>
+<A><F>Hm</F>.</A>
+<B>And many student was good boy and good girls, and they entered famous university.</B>
+<A><F>Hmm</F>.</A>
+<B>And my <SC>s</SC> high school has uniform,</B>
+<A><F>Hm</F>.</A>
+<B>so we can't wear <.></.> my favorite clothes,</B>
+<A><F>Hm</F>.</A>
+<B><F>mm</F> except <F>mm</F> traveling of my school.</B>
+<A>Right.</A>
+<B>And there is no <SC>s</SC> woman mathematic teacher.</B>
+<A><?>All right</?>.</A>
+<B><F>Er</F>. <CO>My school</CO>. <.></.> <F>Nh-n</F>. <..></..></B>
+<A>O K. So which do you prefer,</A>
+<B><F>Hm</F>.</B>
+<A><F>er</F> classrooms when you were in high school or classrooms when you are now at university?</A>
+<B><F>Nn</F> <.></.> in university,</B>
+<A><F>Hm</F>.</A>
+<B>we can choose our favorite classes,</B>
+<A><F>Hm</F>.</A>
+<B>so we don't have to go same time to university. And <F>mm</F> of course, <R>we</R> <SC>we have</SC> we don't have to wear <R>u</R> uniform, because we are university students. But some <?>of</?> university has uniform.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>mm</F> <SC>my school</SC> <SC>my high school teacher</SC> <F>a</F> <SC>in high school stu</SC> in high school, we are <F>eh</F> familiar to my teachers, but in university, <SC>we don't have</SC> <F>mm</F> we have little chance to talk my professor.</B>
+<A><F>Hm</F>.</A>
+<B>So it is sad for me.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mm</F>. All right. Thank you. So now, we're going to do a roll-play. So please read this card silently and whenever you're ready, <F>er</F> let me know.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><OL>O K</OL>.</B>
+<A><OL>Are you ready</OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>So may</OL> I help you?</A>
+<B><F>Mm</F>. Please. And I want to go to New York as fast as possible. Please tell me how to go to New York. <.></.> <SC>I</SC> how much is it?</B>
+<A><F>Er</F> actually, we have <F>er</F> three types of trains that you can take to get to New York City. So you can choose one of them.</A>
+<B>Which is the fastest ticket?</B>
+<A><F>Ah</F> the fastest one is super express.</A>
+<B>How much is it?</B>
+<A><F>Er</F> that costs <F>er</F> five hundred dollars.</A>
+<B>Five hundred dollars.</B>
+<A><F>Mm</F>.</A>
+<B>It's too expensive. More cheaper, show me, please.</B>
+<A><F>Er</F> we have local train or <SC>super</SC> <F>er</F> express train.</A>
+<B><?>Low cost</?> train?</B>
+<A><F>Ah</F> we have local train</A>
+<B><OL><F>Mm</F> <F>ah</F></OL>.</B>
+<A>or, <F>ah</F> express train.</A>
+<B><R>Lo</R> local train, how much is it?</B>
+<A><F>Ah</F> that's <F>ah</F> one hundred dollars.</A>
+<B>If I use it, <R>how</R> <.></.> <R>how long</R> <..></..> <F>mm</F> <SC>how long to go to</SC> <JP>chigau</JP> <SC>how</SC> <F>mm</F> how much time to go there?</B>
+<A><F>Erm</F> it takes three hours.</A>
+<B>Three hours.</B>
+<A><F>Mm</F>.</A>
+<B><SC>Sup</SC> how about super express?</B>
+<A><F>Er</F> it takes two hours.</A>
+<B>Two hour.</B>
+<A><F>Mm</F>.</A>
+<B>Local train is two hours?</B>
+<A>No, no. <F>Er</F> that's three hours.</A>
+<B><OL>Three</OL>.</B>
+<A><OL>I mean</OL> <F>er</F> five hours, <OL>I'm sorry</OL>.</A>
+<B><OL>Five hours</OL>.</B>
+<A><F>Mm</F>.</A>
+<B>But it is the cheapest?</B>
+<A>That's the cheapest.</A>
+<B><F>Mmm</F>. <..></..> Is there many people in super express train?</B>
+<A><F>Ahh</F> let me see. <F>Er</F> no. There is not much people there.</A>
+<B><.></.> Are there rich people?</B>
+<A><F>Ah</F> I don't know. I can't, no, tell.</A>
+<B><F>Mm</F>.</B>
+<A>So which one would you like, <F>ah</F> super express or express or local?</A>
+<B>I want to buy super express, because I want to go <SC>Yu</SC> <R>Ne</R> New York as soon as possible.</B>
+<A>O K. So here's the ticket. O K. So <F>er</F> have a nice trip to <OL>New York</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>O K. This is the end of the roll-play.</A>
+</task>
+<followup>
+<A>So <F>er</F> in your case, do you like to travel by train or by car?</A>
+<B><F>Mm</F> <R>I</R> <.></.> <SC>I don't go to</SC> <F>a</F> <SC>I don't go travel o</SC> I don't often go travel.</B>
+<A><F>Hm</F>.</A>
+<B>So I can't <R>co</R> compare. But I like <F>mm</F> train,</B>
+<A><F>Hm</F>.</A>
+<B>because <SC>train <.></.> is</SC> <nvs>sniff</nvs> <..></..> in train, I can move <.></.> as I like.</B>
+<A>Right.</A>
+<B>And <SC>train</SC> if I go travel with my friend, <SC>we</SC> in train, we can talk all of them. But if I use car, one of them can't join <?>the</?> talking.</B>
+<A><F>Hm</F>.</A>
+<B>So I like train.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mhn</F> O K. Thank you. So now, I'm going to show you a different picture. And I want you to make up a story from one to six. And this story was happened to you last week. So I want you to start your sentence with "One day last week".</A>
+<B>One day last week.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mmm</F>. A woman go to department store, because <SC>she wants to neckt</SC> she wants to present for her <.></.> husband. <..></..> First of all, <R>she f</R> she finded a good tie, so <R>sh</R> she decided to buy it. And <.></.> she asked to <.></.> buyer <R>to</R> <.></.> to wrap <R>s</R> special type and she pay money. And <SC>when she finish her husband's present</SC> <F>a</F> when she finish buying her husband present, she find good shoes. <SC>She wants t</SC> she waned to it, because it was <SC><JP>sanju</JP></SC> <F>ur</F> <SC>thirty percent off</SC> thirty percent cheaper than usual. <.></.> So she bought <R>sh</R> shoes. And after that, she find <SC>good clo</SC> good <R>shirts</R> shirts, too. And <SC>she wants to</SC> she wanted to buy it, because <SC>it is</SC> it was fifty percent cheaper than usual. And <R>sh</R> <SC>she is</SC> <?>in</?> usual, she is very busy for her house keeping. So <SC>she</SC> <SC>it is</SC> she thinks it was present for herself. So she decided to buy it. And she went to home.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mm</F>. O K. Thank you. So we are almost at the end of the interview. So what are your plans after this interview?</A>
+<B><F>Mm</F> <SC?>I went to</SC?> <F>a</F> <R>I</R> <SC>I will</SC> I go home.</B>
+<A><F>Mm</F>.</A>
+<B>But before it, <SC>I want</SC> I go to <R>Starbu</R> Starbucks, because I like coffee.</B>
+<A><F>Mm</F>. O K. So <F>er</F> thank you for coming in today. And then, I hope you enjoy your coffee at Starbucks. O K. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

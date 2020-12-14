@@ -1,0 +1,189 @@
+<interview>
+<filename>file00993.txt</filename>
+
+<head version="1.3">
+<date>2002-03-18</date>
+<sex>male</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. Could I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you doing today?</A>
+<B>I'm fine. And you?</B>
+<A><R>I'm fine</R> I'm fine. Good. So, how did you get here today?</A>
+<B><.></.> I take train <..></..> and <laughter>walking</laughter>.</B>
+<A>O K. So how long did it take you to get here?</A>
+<B>About one hour.</B>
+<A>O K. So what did you do on a train?</A>
+<B><..></..> I don't understand.</B>
+<A><F>Er</F>. You take train, right? Then on a train, what did you do?</A>
+<B>In the train?</B>
+<A><F>Hmm</F>.</A>
+<B><..></..> <R>I</R> I listened C D of English.</B>
+<A><F>Woo</F>. <nvs>laughter</nvs></A>
+<B>English training series.</B>
+<A>Really? <F>Wow</F>. <nvs>laughter</nvs> O K. Now, tell me about your hobby.</A>
+<B>My hobby is <.></.> fishing and riding bike. <F>Er</F>. <..></..> That's all.</B>
+<A>O K. Why do you like fishing?</A>
+<B><F>Ah</F>. Just moment. <R>I</R> <R>I</R> <SC>I</SC> my hobby is fishing and riding bike and skiing. <R>I</R> I forgot skiing.</B>
+<A><R>O K</R> O K. So why do you like skiing then?</A>
+<B><.></.> <SC>I</SC> skiing is <..></..> <R>very</R> <..></..> very nice <R>s</R> seeing show. Do you understand?</B>
+<A>Yeah. <F>Uh-huh</F>. O K. So how often do you go skiing?</A>
+<B><..></..> <R>I</R> I went to skiing <R>with</R> with my car or friend's car.</B>
+<A>O K. Then this winter</A>
+<B><F>Mh-hmm</F>.</B>
+<A><F>ah</F> where did you go skiing?</A>
+<B><..></..> <R>Par</R> pardon? I don't understand. Where?</B>
+<A>Where.</A>
+<B>Where. I went to Hakuba.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And Sapporo Kokusai.</B>
+<A><F>Wow</F>. Which do you like better?</A>
+<B><SC>I like</SC> <R>I</R> <R>I</R> I like Sapporo.</B>
+<A>Why?</A>
+<B><R>Sapporo s</R> Sapporo snow is very nice.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Very nice</OL>. I will go to Hokkaido <.></.> this weekend.</B>
+<A><F>Oh</F>. So that's good. <F>Haa</F>. Have fun, then.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Mm</F>. So <F>mm</F> now,</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>can you explain this picture for me?</A>
+<B><.></.> This picture is my sister's room. <SC>She is</SC> <.></.> she have cat and dog. <SC>Sh</SC> <SC>her desk</SC> <F>er</F> <R>her</R> <R>her</R> <SC>her</SC> <F>er</F> <R>the</R> <SC>the</SC> <SC>her</SC> hers computer on her desk. She likes use computer. <R>She is</R> she is <SC>everyda</SC> every morning use hers computer. <..></..> <F>Ha</F> she is listening music. <R>She</R> <R>she li</R> she like listening to music. She have a <R>nice s</R> nice <R>ste</R> stereo. That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you. So do you have pets?</A>
+<B>No, I have not.</B>
+<A>O K. <SC>How about</SC> do you have a stereo?</A>
+<B>Yes. My stereo is <..></..> so old. About ten years ago. That's stereo's speaker is broken.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> Broken now.</B>
+<A>O K.</A>
+<B><laughter><R>But</R></laughter> but <R>listening</R> <..></..> listening music, only headphone.</B>
+<A><F>Oh</F>. O K. So are you going to buy another stereo?</A>
+<B>No, my stereo is very big.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Now</OL> stereo very <F>ee</F> smaller than my stereo.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> Therefore, <R>s</R> stereo is very big. New speaker is very small. Unmatch.</B>
+<A><F>Ah</F>. <R>O K</R> O K. I understand. O K. Thank you.</A>
+<B>You are welcome.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role-play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K? Please read this card. When you are ready, let me know. I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>Calling telephone?</B>
+<A><F>Uh-huh</F>. O K.</A>
+<B>Pu pu pu pu pu pu. pururu pururu.</B>
+<A>Hello. This is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello. <SC>My</SC> hello <SC>I a</SC> <F>ah</F> this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. How are you?</A>
+<B>Hi. I will go to movie with you.</B>
+<A>O K.</A>
+<B>Do you have free time next Sunday?</B>
+<A><F>Uh-huh</F>. Yeah. <nvs>cough</nvs></A>
+<B><SC>I will he</SC> <SC>I will watching movies</SC> <F>ah</F> what's kind of <R>movie</R> <..></..> movie <SC>show</SC> <R>sh</R> are showing?</B>
+<A>I like action movie.</A>
+<B>You like action movie? <OL>What's</OL>?</B>
+<A><OL><F>Uh-huh</F></OL>. <F>Erm</F> <SC>like</SC> I like Jackie Cheng.</A>
+<B>You like Jackie Cheng? You like Chinese?</B>
+<A>Yeah. Chinese movie is O K. But American is O K, too.</A>
+<B>O K. <..></..> Let's go action movie.</B>
+<A>O K.</A>
+<B>On <R>Sun</R> Sunday.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><..></..> <R>What's kind</R> <F>mm</F> what's kind do you go movie?</B>
+<A>By J R.</A>
+<B>By J R? <..></..> <SC>By J</SC> <.></.> O K. I <R>waiting for you</R> waiting for you at Osaka Station.</B>
+<A>O K.</A>
+<B>At nine o'clock.</B>
+<A>O K.</A>
+<B>O K?</B>
+<A><F>Mh-hmm</F>. O K. So I see you on Sunday at nine o'clock.</A>
+<B>Yes.</B>
+<A>O K. Thanks for calling.</A>
+<B>Good bye.</B>
+<A>Bye. Thank you.</A>
+</task>
+<followup>
+<A>That's the end of the role-play. So tell me about your favorite movie.</A>
+<B><R>I like</R> <..></..> I like historical movie in Japan.</B>
+<A>For example?</A>
+<B>For example, <R>I</R> I like "<JP>Shichinin No Samurai</JP>". Do you know?</B>
+<A><F>Mmm</F>.</A>
+<B>This is famous movie. Director by Kurosawa.</B>
+<A>O K. Tell me little bit more about <JP>"Shichinin No Samurai"</JP>.</A>
+<B><..></..> <SC><JP>Samurai</JP> is</SC> <F>eu</F> <SC><JP>samurai</JP></SC> do you know <JP>samurai</JP>?</B>
+<A><laughter>Yeah</laughter>.</A>
+<B>Yeah? <JP>Samurai</JP> have brave.</B>
+<A><F>Hmm</F>.</A>
+<B>Everyday.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><..></..> <SC>The story is</SC> <..></..> <SC>the <F>er</F> story</SC> many farmer in the <R>country</R> country.</B>
+<A><F>Mh-hmm</F>. <F>Mh-hmm</F>.</A>
+<B><SC>He is</SC> <R>they</R> <R>they</R> they met <JP>touzoku</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter><F>Mh-hmm</F></laughter></OL>.</A>
+<B><.></.> Many time. The <JP>shichinin no samurai</JP> help farmer.</B>
+<A><F>Oh</F>.</A>
+<B><laughter>That's all</laughter>.</B>
+<A><laughter>O K, O K</laughter>. I'll watch it then. Yeah. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So, <F>er</F> last picture is <.></.> this one. Please make a story</A>
+<B>Yeah.</B>
+<A>from one through six. And this happened last week. So <SC>before</SC> so please starting with "One day last week".</A>
+<ctxt>Sound of paper is heard.</ctxt>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B>O K. <SC>This story is <.></.> father <F>er</F> and than</SC> this story is man and his son's story. They went to restaurant last week. <..></..> <R>He</R> <R>he</R> <R>he</R> <..></..> <SC>he</SC> <SC?>ja</SC?> <R>they</R> <R>they</R> <R>they ha</R> they have reserved <..></..> they <R>chu</R> <SC>chu</SC> <F>er</F> they <R>choose</R> <F>er</F> choose <SC>food</SC> in the menu. <..></..> And ordered. <SC>They are drin</SC> <SC>they are</SC> <R>they drinking and eating</R> <..></..> they drinking and eating <..></..> in the restaurant.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>The</R> <..></..> the bill was <..></..> his father paid <R>and <..></..> they</R> <..></..> <R>and they</R> <..></..> and <R>they</R> <..></..> <SC>they</SC> and his father and <R>he</R> he say good-bye.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><laughter>That's all</laughter>.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>So <R>where</R> where is your favorite restaurant?</A>
+<B>I like Chinese restaurant.</B>
+<A>Why?</A>
+<B><SC>Chinese restaurant</SC> <F>er</F> Chinese food is on the turn-table.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Every menu shared. <.></.> <SC>I like <..></..> some foods</SC> <R>I like s</R> <SC>I like some food is</SC> I like eating some food.</B>
+<A><F>Mh-hmm</F> <F>mh-hmm</F>. <F>Oh</F>. O K. Thank you.</A>
+<B>Thank you.</B>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview.</A>
+<B><F>Uh-huh</F>.</B>
+<A>So did you have great weekend?</A>
+<B><F>Mmm</F>.</B>
+<A><F>Hmm</F>? O K. So please don't work too much. And thank you very much for today.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

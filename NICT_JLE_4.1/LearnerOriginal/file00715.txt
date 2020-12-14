@@ -1,0 +1,207 @@
+<interview>
+<filename>file00715.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. <..></..> Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, how are you today?</A>
+<B>How are you?</B>
+<A>Fine, thank you. And you?</A>
+<B>I'm fine, thank you.</B>
+<A>Good. <H pn="B's name">XXX02</H> <F>um</F> where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uum</F>. Can you tell me more about <H pn="others1">XXX03</H>?</A>
+<B><F>Mm</F> <H pn="others2">XXX04</H> City.</B>
+<A><F>Hum</F>. O K. And what do you recommend for me to visit in <H pn="others2">XXX04</H> City?</A>
+<B><..></..> You will be able to a lot of shopping</B>
+<A><F>Hum</F>.</A>
+<B>in <H pn="others2">XXX04</H>.</B>
+<A><F>Hum</F> I see. <F>Er</F>. Are there many big department stores?</A>
+<B>Yes. <laughter>Three</laughter>.</B>
+<A><F>Hum</F>. Which one do you like best.</A>
+<B>I like Takashimaya the best.</B>
+<A><F>Hum</F>. Why?</A>
+<B><F>Uum</F>. <.></.> There are a lot of shop my favorite.</B>
+<A><F>Hum</F>. What do you usually buy there in Takashimaya department store?</A>
+<B><.></.> I buy <..></..> clothes <.></.> and so on.</B>
+<A><F>Hum</F>. And <F>ur</F> <H pn="B's name">XXX02</H>, do you live in <H pn="others2">XXX04</H> City with your family?</A>
+<B>Yes.</B>
+<A>Tell me about your family.</A>
+<B>My father, mother, little brother, little sister.</B>
+<A><F>Hum</F>. Can you tell me more about your little brother?</A>
+<B>My brother is eighteen years old. He is high school student.</B>
+<A><F>Uhu</F> I see. O K. And do you keep any pets?</A>
+<B>Yes. I keep two cats and two dogs.</B>
+<A><F>Wow</F>. Tell me more about these pets.</A>
+<B>My two cats' name is Nyami and Nyanchu. <SC>They</SC> <F>um</F> they're <.></.> parents.</B>
+<A><F>Uum</F>.</A>
+<B>My dog Dai and Bebe are parents, too.</B>
+<A>I see. <F>Hum</F>. How do you keep dogs and cats all together at one time in one house.</A>
+<B>My dogs lives <F>um</F> my yard. My cats lives in my house.</B>
+<A><F>Uhu</F>. So there is no <OL>trouble between</OL> them?</A>
+<B>Yes.</B>
+<A>O K. Good. O K. <F>Urm</F> <H pn="B's name">XXX02</H>, what is your major?</A>
+<B>My major is politics.</B>
+<A><F>Hum</F>. Why are you interested in politics?</A>
+<B><F>Um</F> <..></..> <R>I</R> I'm interesting in <..></..> city. <F>Uhm</F>. So I want to major city politics.</B>
+<A>I see. <F>Well</F>, how many <F>uum</F> classes of politics do you take?</A>
+<B><F>Mm</F>. <..></..> <laughter>Only four</laughter>.</B>
+<A><F>Hum</F> I see. O K. O K. <F>um</F> <H pn="B's name">XXX02</H>, in your free time, how do you spend your time?</A>
+<B><F>Uum</F> I like playing the guitar.</B>
+<A><F>Hum</F>.</A>
+<B>So I play guitar.</B>
+<A>At home?</A>
+<B><.></.></B>
+<A>At home?</A>
+<B>At home.</B>
+<A><F>Hum</F> <F>Well</F>, tell me more about your guitar playing.</A>
+<B><F>Uhm</F>.</B>
+<A><R>What</R> <SC>what is</SC> who is your favorite <SC>guitar</SC> guitarist in the whole world?</A>
+<B><.></.> <SC>I play</SC> I practice Yuzu.</B>
+<A><F>Mm</F> <F>mm</F> <F>mm</F> <F>mm</F>.</A>
+<B>My brother play the guitar. So <SC>and I</SC> <F>er</F> he teach me how to play <OL>the guitar</OL>.</B>
+<A><OL>I see</OL>. <F>Hum</F>. How do you feel when your little brother teach you something? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <..></..> It's very interesting him to teach me.</B>
+<A><F>Hum</F>. Is he a patient teacher?</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs> Good. O K. And <R>do</R> do you belong to any club?</A>
+<B>Yes. I'm <JP><F>unto</F></JP> belong picture club.</B>
+<A><F>Uhu</F>. Is it interesting?</A>
+<B>Yes.</B>
+<A>O K. Good.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. <H pn="B's name">XXX02</H>, I'm going to show you a picture. <.></.> O K.</A>
+<B><nvs>coughs</nvs></B>
+<A>This time please describe for me what you see in this picture.</A>
+<B>One man having wine bottle. <..></..> There are <R>three</R> three couples of customer. <.></.> Now the time is seven o'clock. <.></.> <SC>This restaurant</SC> in this restaurant, you can hear the piano. <..></..> It's formal restaurant. <..></..></B>
+<A><F>Um</F>. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Why do you think it is a formal restaurant?</A>
+<B><F>Uum</F>. All people <F>um</F> wear suits.</B>
+<A><F>Um</F>.</A>
+<B><.></.> Woman <.></.> wear <.></.> dress.</B>
+<A><F>Uhu</F>.</A>
+<B>So I think so.</B>
+<A>Good. And <F>ur</F> when you eat out, what kind of restaurants do you like to go?</A>
+<B><.></.> <R>I</R> <SC>I always</SC> <F>er</F> I go to Chinese.</B>
+<A><F>Hum</F>. Why do you like Chinese?</A>
+<B><.></.> I like <..></..> <R>hot</R> hot things.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>So</OL> I go Chinese.</B>
+<A><F>Uhu</F> <F>um</F>. For example, what kind of dishes are hot enough for you? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <JP>Ebichiri</JP>.</B>
+<A><F>Hum</F> I see. Good. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now we will play a role-play. O K? <..></..> O K. <R><H pn="B's name">XXX02</H></R> <F>ur</F> <H pn="B's name">XXX02</H>, please read the card. And when you are ready, I will start.</A>
+<ctxt>the interviewee is reading a card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Hello, madam. How may I help you?</A>
+<B>I want to buy bed.</B>
+<A><SC>Be</SC> a <OL>bed</OL>?</A>
+<B><OL>Bed</OL>. A bed.</B>
+<A><F>Oh</F>. Sure.</A>
+<B><..></..> <R>I</R> I want to buy <?>the things</?> a little <R>which</R> which put my room.</B>
+<A><F>Uhu</F>. O K. We have lots of beds here. please take a look.</A>
+<B><..></..> I want to buy the bed under the <..></..> drawer.</B>
+<A><F>Uhu</F> <F>Well</F>, look the other side. There are types which has drawers beneath the bed.</A>
+<B><.></.> O K.</B>
+<A><F>Um</F>.</A>
+<B>And I want to buy <.></.> <SC>light</SC> putting with light.</B>
+<A>Sure. <F>Well</F>, we have two types of that kind of one. Bed with light and with drawers.</A>
+<B><.></.> <CO>I want to buy</CO>.</B>
+<A>One with whitish and the other one is grayish.</A>
+<B>I want to buy grayish.</B>
+<A>O K. Sure. <.></.> But it's a bit expensive.</A>
+<B>How much is it?</B>
+<A>It's sixty thousand yen.</A>
+<B><F>Oh</F> <nvs>laughter</nvs> <F>Um</F>. More little cheap.</B>
+<A>Whitish one is forty thousand yen.</A>
+<B>Yes. I will buy it.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>O K. Thank you. O K. That's the end of the role-play.</A>
+</task>
+<followup>
+<A>Do you sleep on a bed?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Why do you prefer bed <SC>rather than</SC> to sleep on <JP>futon</JP> mats?</A>
+<B>Yes. <JP>Futon</JP> is hard. <CO>My back <laughter>is</laughter></CO>.</B>
+<A><F>Err</F> I see. <F>Uhu</F>. And <F>er</F> in bed, <F>er</F> before going to sleep, what do you usually do?</A>
+<B>I read books.</B>
+<A><F>Hum</F> I see. How many hours do you sleep <R>per</R> <R>per</R> <R>per</R> per a night?</A>
+<B>My <SC>hais</SC> house is far from school. So I must go my house early.</B>
+<A><F>Hum</F>.</A>
+<B>So five hours.</B>
+<A><F>Wow</F>. Is that enough?</A>
+<B><OL><laughter>No</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. Good. That's the end of the role-play.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Well</F>, finally, I'll show you a picture. <.></.> And this time <F>er</F> <H pn="B's name">XXX02</H>, please make up a story. Make a story based on these pictures</A>
+<B>Yes.</B>
+<A>from one to four. O K.</A>
+<B><.></.> <SC>Two</SC> <F>er</F> <.></.> <SC>a couple of</SC> a couple go to the zoo. <F>ee</F> <.></.> They saw lion. <..></..> And then they saw monkeys <.></.> with eating ice cream. And <R>they</R> <..></..> <SC>they part from</SC> <F>er</F> they <.></.> went to their home.</B>
+<A><F>Uhu</F>. O K. Good. Thank you for the story, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, have you been to animal zoo? Animal's zoo before?</A>
+<B>Yes.</B>
+<A>When was it?</A>
+<B><F>Um</F>. Ueno zoo.</B>
+<A><F>Uum</F>. What did you see there?</A>
+<B><F>Um</F>. I saw elephant. But I see a lot of animals.</B>
+<A><F>Hum</F>. <F>Well</F>, tell me about your favorite <R>an</R> animals.</A>
+<B><..></..> My favorite animal is penguin.</B>
+<A><F>Hum</F>. What is so interesting about watching penguins?</A>
+<B><F>Mm</F>. They are so cute.</B>
+<A><F>Hum</F>. And <H pn="B's name">XXX02</H>, what do you think of those animals in zoo cages?</A>
+<B><F>Um</F>. <..></..> They are <..></..> pity.</B>
+<A><F>Uum</F>. Yeah. I agree with you.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F>, O K. <F>Well</F>, the interview is almost over now, <H pn="B's name">XXX02</H>. So after this interview, what are your plans for this afternoon?</A>
+<B><F>Um</F> I must go classes from <SC>forty</SC> four-twenty.</B>
+<A><F>Wow</F>. <R>What</R> what is that class?</A>
+<B>It's English.</B>
+<A><F>Oh</F>. Is it a English conversation class?</A>
+<B>Yes.</B>
+<A><F>Uhu</F>. Do you like it?</A>
+<B><laughter>Yes</laughter>.</B>
+<A>Good. Is the teacher foreigner?</A>
+<B>Yes.</B>
+<A><F>Hum</F> I see. How many students are there in this class?</A>
+<B><SC>Thir</SC> about thirty.</B>
+<A><F>Hum</F>. O K. Thank you very much for coming. And please enjoy that class. O K. The interview is over now.</A>
+</stage5>
+</body>
+</interview>

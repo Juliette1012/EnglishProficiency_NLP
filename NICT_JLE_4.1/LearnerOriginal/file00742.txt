@@ -1,0 +1,249 @@
+<interview>
+<filename>file00742.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. So <F>um</F> hello. My name is <H pn="A's name">XXX01</H>. <F>Er</F> can I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uhu</F>. Can I just call you <H pn="B's name">XXX02</H>?</A>
+<B>Sure.</B>
+<A>O K. So <F>um</F> it's Wednesday today.</A>
+<B>Yeah.</B>
+<A>So what do you usually do on Wednesdays?</A>
+<B><F>Hmm</F>. <R>I have</R> <.></.> I have <R>one</R> one, two, three, four, four classes on Wednesdays.</B>
+<A><F>Uhu</F>.</A>
+<B>So after I take those classes and then I usually play with my friends.</B>
+<A>O K. What do you usually do to play with your friends?</A>
+<B><F>Uum</F>. Mostly, we just talking. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. All right. <SC>So</SC> and <F>er</F> what is your favorite class at <H pn="school name1">XXX03</H>?</A>
+<B><F>Hm</F>. <.></.> Economics.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah.</B>
+<A><F>Hm</F>. Why economics?</A>
+<B><F>Uum</F>. I like <F>uum</F> mathematics. <SC>So</SC> but <R>I</R> I was not good at <R>scien</R> science.</B>
+<A><F>Uhu</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL>So I</OL> <nvs>laughter</nvs> choose economics.</B>
+<A>I see. O K. <F>Er</F> <H pn="B's name">XXX02</H>, <F>um</F> where do you live?</A>
+<B>I live in <H pn="others1">XXX04</H>.</B>
+<A><F>Uhu</F>. You live with your family?</A>
+<B>No. I live alone.</B>
+<A><F>Uh-huh</F>. Where is your hometown?</A>
+<B><F>Hm</F>. I'm from <H pn="others2">XXX05</H> Prefecture.</B>
+<A>O K. Can you tell me about your hometown a little?</A>
+<B><F>Hm</F>. My hometown is <F>um</F> very beautiful. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhu</F></OL> <F>uhu</F>.</A>
+<B><F>Uum</F>. The landscape is so nice. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL>. O K.</A>
+<B>And we have <F>um</F> famous bridge and <SC>that's</SC> that is called Kindai Bridge.</B>
+<A><F>Uhu</F> <F>uum</F>.</A>
+<B><CO><F>Eh</F> then <F>um</F> <..></..> <F>hm</F> and</CO>. <.></.> <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> O K. <SC>Any</SC> O K then, do you any hobbies?</A>
+<B><F>Um</F>. My hobby is shopping. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uum</F></OL>. Tell me the thing that you bought last. What did you buy recently?</A>
+<B><F>Uum</F>. This bag. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Wow</F></OL>. Why did you choose that bag?</A>
+<B><F>Um</F>. <laughter>Inspiration</laughter>.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah. <.></.></B>
+<A><laughter>O K</laughter>.</A>
+<B><laughter>Yeah</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><laughter>O K</laughter>.</A>
+</stage1>
+<stage2>
+<task>
+<A>All right. So <F>um</F> <H pn="B's name">XXX02</H>, <F>um</F> first of all, I'd like you to look at a picture. And could you please describe it to me?</A>
+<B>Yeah.</B>
+<A>Please describe the picture. When you are ready please begin.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A><OL>O K</OL>?</A>
+<B><OL>There are</OL> three couples. And they are eating dinner at restaurant. <F>Hm</F>. One of them <F>hm</F> are explain the wine. <.></.> <F>Hm</F>. <R>And</R> <.></.> and a woman playing the piano. <.></.> <F>Hm</F>. <.></.> <F>Hm</F>. They looks having a good time. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL>. <.></.> O K. Good. Thank you.</A>
+</task>
+<followup>
+<A>So <F>um</F> <H pn="B's name">XXX02</H>, do you sometimes eat out?</A>
+<B>Yeah.</B>
+<A><F>Uh-huh</F>. So tell me <F>er</F> about your most favorite restaurant.</A>
+<B><F>Uum</F>. <.></.> <F>Err</F> <F>uum</F> <..></..> I like <F>uum</F> <JP>sukiyaki</JP>. So I often go to <laughter><JP>sukiyaki</JP></laughter> restaurant with friends.</B>
+<A><F>Uhu</F>. O K. <F>Oh</F> why do you think you like <JP>sukiyaki</JP>?</A>
+<B><F>Uum</F> <F>hm</F>. I like beef <laughter>and</laughter> <F>uum</F> <R>I</R> <R>I</R> <F>uum</F> I don't like vegetables <SC>very</SC> <F>er</F> so much.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL>So</OL> but I can eat with beef. <nvs>laughter</nvs></B>
+<A>I <OL>see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>Yeah. <F>Well</F> you don't mind eating beef these days?</A>
+<B><nvs>laughter</nvs></B>
+<A>Kind of <OL>dangerous</OL>?</A>
+<B><OL><F>Hm</F></OL>. No. <nvs>laughter</nvs></B>
+<A>No? <F>Uh-huh</F>. O K. All right.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So and <F>er</F> this time, <F>um</F> <H pn="B's name">XXX02</H>, I want you to try a role-play.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>? So please read this card. <.></.> And when you are ready, I'd like to begin the role-play. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>O K.</B>
+<A>Tru-ru. Hello?</A>
+<B>Hello?</B>
+<A><F>Oh</F> Hi.</A>
+<B>Hi. This is <H pn="B's name">XXX02</H>.</B>
+<A>Yeah. What's up?</A>
+<B><F>Um</F>. Shall we go to the movies?</B>
+<A>Sounds good.</A>
+<B><F>Uum</F> <.></.> <F>um</F>. <SC>Where s</SC> <F>uum</F> where will we meet?</B>
+<A><F>Oh</F> anywhere.</A>
+<B><CO>So</CO>. <F>Um</F> O K. <F>Er</F> how about Shinjuku Station?</B>
+<A>O K.</A>
+<B><F>Erm</F> <SC>S</SC> <F>eh</F> Shinjuku Station's south gate.</B>
+<A><F>Uhu</F>.</A>
+<B>O K?</B>
+<A>O K. <F>Uum</F>.</A>
+<B>And <.></.> when will you meet there?</B>
+<A><F>Oh</F> anytime. But <F>um</F> <F>well</F> I'm very busy tomorrow. So can you pick up another day?</A>
+<B>O K. So how about <F>uum</F> this Friday?</B>
+<A><F>Uum</F>. <F>Well</F> <F>um</F> no. I have <SC>ano</SC> <SC>other</SC> some other plans on Friday.</A>
+<B>O K. So <F>um</F> how about <SC>this Mo</SC> <F>er</F> this Sunday?</B>
+<A>O K.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>That's</OL> fine.</A>
+<B>So we'll meet at Shinjuku Station,</B>
+<A><F>Uhu</F>.</A>
+<B>this Friday. <F>Uh</F> what time will we <.></.> meet there?</B>
+<A><F>Oh</F> anytime is fine.</A>
+<B>So <.></.> O K. <F>Uum</F>. How about noon?</B>
+<A>All right. Twelve?</A>
+<B>O K.</B>
+<A><F>Uhu</F>.</A>
+<B>So we will meet at Shinjuku Station's south gate at noon on this Monday.</B>
+<A>O K. Yeah. <H pn="B's name">XXX02</H>, but <F>um</F> what movie?</A>
+<B><F>Um</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Sorry. <F>Err</F> I'd like to watch <F>uum</F> "<?>Blow</?>".</B>
+<A><F>Wow</F>. What kind of movie is it?</A>
+<B><F>Er</F> I don't know. But my friends said that is good. <CO>So</CO>. <nvs>laughter</nvs></B>
+<A><F>Oh</F>. It's a love story?</A>
+<B><F>Um</F>. Maybe <R>not</R> <F>uum</F> not love story.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. <??></??>. <CO>About family or</CO>. <F>Hm</F>.</B>
+<A>About family? O K. All right. O K. Let's go and see <??></??>.</A>
+<B>O K.</B>
+<A><F>Uhu</F>.</A>
+<B>Bye.</B>
+<A>Bye, <H pn="B's name">XXX02</H>. Thank you. Thank you for calling. Bye. O K. So this is the end of the role-play. Thank you. <F>Mh-hmm</F>.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>So <F>um</F> <H pn="B's name">XXX02</H>, do you like to go to movies?</A>
+<B><F>Hmm</F>. Yeah. <nvs>laughter</nvs></B>
+<A><F>Uhu</F>. So what is your most favorite movie?</A>
+<B><F>Um</F>. "<R>Leon</R> Leon".</B>
+<A><F>Uh-huh</F>. Why do you like "Leon"?</A>
+<B><F>Um</F>. I like <F>um</F> the girl, Natalie Portman.</B>
+<A><F>Uh-huh</F>.</A>
+<B><CO>So</CO>. <nvs>laughter</nvs></B>
+<A><F>Er</F>. What does she look like? Because I don't know her.</A>
+<B><F>Uum</F>. She is very pretty.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL>She</OL> has big eyes <laughter>and</laughter> tall <.></.> nose. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhu</F> <F>uhu</F></OL>. O K. So when you go to a movie, <F>um</F> <.></.> O K, what kind of things do you <SC>usual</SC> <F>um</F> think before you go to a movie?</A>
+<B><F>Uum</F>. <R>I</R> I always mind <F>er</F> the person who go with me</B>
+<A><F>Uhu</F>.</A>
+<B><R>en</R> <F>err</F> enjoys <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> <F>Uhu</F>.</A>
+<B>yeah, <F>uum</F> while <laughter>watching movie</laughter>.</B>
+<A><F>Uhu</F>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Er</F> <?>then</?></OL> <F>um</F> which do you prefer <F>err</F> going to a movie theater or renting a video?</A>
+<B><F>Er</F> I like going to theater.</B>
+<A><F>Uhu</F>. Why?</A>
+<B><F>Um</F>. Big screens and <.></.> <F>hm</F> no lights.</B>
+<A><F>Uhu</F>.</A>
+<B>That's <F>err</F> better than video.</B>
+<A>I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So <H pn="B's name">XXX02</H>, <F>er</F> lastly, I'd like you to look at another picture. All right?</A>
+<B>O K.</B>
+<A><F>Eh</F> when you are ready, <.></.> I want you to make up a story based on these six pictures. All right? <SC>So</SC> and this happened before. So please begin your story with "One day last week". The past tense. O K?</A>
+<B>O K</B>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<A>Ready?</A>
+<B>Yes. <F>Um</F>. One day last week, <F>uum</F> <SC>a woman was</SC> a woman <R>wanted to make</R> wanted to make dinner. But <R>she couldn't</R> she couldn't find <F>er</F> <.></.> <F>uum</F> the thing to make dinner.</B>
+<A><F>Uhu</F> <F>uhu</F>.</A>
+<B>So she went to the supermarket by car. And she bought the things she needed. <R>And</R> <.></.> and she go home and make dinner.</B>
+<A><F>Uum</F>. <OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>All right. Thank you.</A>
+</task>
+<followup>
+<A>So <F>er</F> <R><H pn="B's name">XXX02</H></R> <F>er</F> <H pn="B's name">XXX02</H>, do you sometimes cook at home?</A>
+<B><F>Uum</F>. Sometimes. <OL><??></??></OL>.</B>
+<A><OL><F>Uhu</F> <F>uum</F></OL>. What do you usually cook?</A>
+<B><F>Uum</F>. Curry rice and stew. <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uum</F> <.></.> <F>err</F>. <R>Noo</R> noodles.</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Which do you think is better <R>for your hea</R> <F>er</F> for your health, cooking at home or eating out?</A>
+<B><F>Uum</F>. Maybe cooking at home.</B>
+<A><F>Uhu</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><R>Why</R></OL> why?</A>
+<B>Because <F>uum</F> when I eat out, I usually eat <F>err</F> high calorie <.></.> foods. <CO>So</CO>. <nvs>laughter</nvs></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>So <F>er</F> <H pn="B's name">XXX02</H>, what are you going to eat tonight for dinner?</A>
+<B><F>Er</F> <.></.> I <?>don't know</?>. But <R>I</R> I will go dinner with my friend.</B>
+<A><F>Err</F>.</A>
+<B>Yeah.</B>
+<A>Are you going to eat at a restaurant?</A>
+<B>Maybe.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So <F>um</F> this is almost end of the interview. O K?</A>
+<B><OL>O K</OL>.</B>
+<A><OL>So</OL> <F>uum</F> do you have any plans after this interview?</A>
+<B><F>Um</F>. I will go lunch with <OL><laughter>friends</laughter></OL>.</B>
+<A><OL><F>Err</F></OL>. What are you gonna eat?</A>
+<B><F>Uum</F>. Maybe <laughter>hamburger</laughter>.</B>
+<A><F>Uhu</F> <F>uhu</F>. O K. Is there any good restaurant close to <H pn="school name1">XXX03</H>?</A>
+<B><F>Uum</F>. I don't know near here.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah. <OL><??></??></OL></B>
+<A><CO><OL>What about</OL> near the station or</CO>?</A>
+<B><F>Um</F>. So I don't know the good restaurants near here. So maybe we eat <F>err</F> <.></.> <laughter>MacDonald's</laughter>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Err</F> not restaurant.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A>O K. Thank you very much. This is the end.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,214 @@
+<interview>
+<filename>file00829.txt</filename>
+
+<head version="1.3">
+<date>2002-02-12</date>
+<sex>male</sex>
+<age>30</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>420</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <OL><H pn="A's name">XXX01</H></OL>.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>May I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>.</A>
+<B>Yes.</B>
+<A>O K. <F>Ah</F> how are you today?</A>
+<B>Fine, thank you. <laughter>And you</laughter>? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>I'm fine</laughter></OL>. O K. <F>Um</F> where do you live?</A>
+<B>I live in Edogawa-<JP>ku</JP>, Funabori.</B>
+<A><F>Mm-huh</F> with your family?</A>
+<B>Yes.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>With my wife</OL>.</B>
+<A><F>Ah</F> can you tell me about your wife?</A>
+<B><SC>My</SC> her name is <H pn="others1">XXX03</H>.</B>
+<A><F>Mm-huh</F>.</A>
+<B><.></.> <OL><F>Er</F></OL>.</B>
+<A><OL>Could you</OL> tell me more about her? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> She is thirty-one years old, and she have twins <SC>in her</SC> <nvs>laughter</nvs> <laughter><JP>nanteiuno</JP></laughter> in her <JP>ninshinchu</JP>. <JP><F>A</F></JP> <JP>suimasen</JP>, <OL><laughter>sorry</laughter></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>I can't speak with <.></.> <SC>me</SC> English with fluency. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> That's O K. <F>Uh-huh</F>.</A>
+<B><.></.> And <F>ah</F> <nvs>sniff</nvs> <.></.> <SC>she</SC> <F>er</F> <..></..> <nvs>sniff</nvs> that's all. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. So, what kind of things do you enjoy doing with her?</A>
+<B><F>Mm</F> I like to driving and, in holidays, <R>we</R> we drive to <.></.> outside</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> <.></.> and <SC>sh</SC> <SC>a little trip</SC></B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL><laughter> short trip</laughter></OL>.</B>
+<A>Short trip?</A>
+<B>Short trip.</B>
+<A><F>Mm-huh</F> I see. <F>Ah</F> is there any good place to visit in Edogawa-<JP>ku</JP>?</A>
+<B><F>Mm</F> I live in Edogawa-<JP>ku</JP> about four month. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs> <F>Oh</F></OL> <F>mm-hmm</F>.</A>
+<B><.></.> <F>Mm</F> before, I live in Akishima-<JP>shi</JP> in Tokyo <SC>and</SC> <nvs>sniff</nvs> <.></.> <F>mm</F> near Okutama. And <..></..> <R>we</R> <.></.> we went to <F>eh</F> Okutama-ko, <R>and</R> <F>um</F> and so on. <nvs>laughter</nvs></B>
+<A><F>Mm-huh</F> then, why do you live in Edogawa-<JP>ku</JP>?</A>
+<B><F>Mm</F> <.></.> I am in legal department in main office.</B>
+<A><F>Mm-huh</F>.</A>
+<B>At last year, <SC>and</SC> <.></.> <nvs>sniff</nvs> it takes many times to main office from Akishima city. And <.></.> <nvs>sniff</nvs> <F>hmm</F> <.></.> the <SC>company's</SC> company borrowed the new house for me. <..></..> <SC>Come to</SC> <SC>to come</SC> easy to come <OL><laughter>to main office</laughter></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL><F>Hmm</F></OL>. I see. O K. Now I'd like to show you a picture. O K. Please describe this picture.</A>
+<B><F>Mm-huh</F> <.></.> <nvs>sniff</nvs> <F>mm</F> it's shiny day and the <SC>children was</SC> children is playing outside, <R>and</R> <.></.> <nvs>sigh</nvs> and dogs are playing. <R>And</R> and man is running, <..></..> and <.></.> the other man is reading the newspapers. <.></.> And <SC>there are</SC> there is a <SC>white car is</SC> white car <R>in a</R> in a road. <nvs>sigh</nvs> <..></..> <nvs>sniff</nvs> And the womens are talking on the road. <..></..> That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. You said you like driving.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Right</OL>? Is this car similar to yours?</A>
+<B><laughter>No, no</laughter>.</B>
+<A>How is your car different from <OL>this one</OL>?</A>
+<B><OL>My car is</OL> black. And <SC><R>spo</R> sportstype</SC> my car is sportstype.</B>
+<A><F>Hmm</F>. Are you a good driver?</A>
+<B>Yes. <OL><laughter>Perhaps</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> Right now, do you have any plans to visit by your car?</A>
+<B><OL><F>Mm</F> pardon</OL>?</B>
+<A><OL>Like</OL> weekend, do you have any plans</A>
+<B><F>Mm</F>.</B>
+<A>to enjoy driving?</A>
+<B>Yes.</B>
+<A>Where?</A>
+<B><F>Mm</F>. <nvs>sniff</nvs> <..></..></B>
+<A>This coming weekend.</A>
+<B><F>Oh</F> <nvs>sniff</nvs> <R>we go</R> <SC>we go</SC> <F>um</F> we went to <SC>shopping</SC> the <R>shopping</R> shopping town <R>in</R> in Gotemba.</B>
+<A>Gotemba?</A>
+<B>Gotemba outlet stores. <OL>Many outlet stores</OL></B>
+<A><OL><F>Mm-huh</F></OL>.</A>
+<B><OL>in there</OL>.</B>
+<A>I see.</A>
+<B><F>Mm</F>.</B>
+<A>Gotemba. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I thought that <F>em</F> kind of long trip. O K. So, now I'd like to try a role-play. O K. Please read this. And, when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>All right.</B>
+<A>O K. May I help you?</A>
+<B><nvs>sniff</nvs> Excuse me. <R>I want to</R> <SC>I want to <.></.> <F>mm</F> <R>walk</R> walkmans</SC> <nvs>laughter</nvs> I want to buy a <R>ca</R> <SC>cassette record</SC> tape <OL>recorders</OL>.</B>
+<A><OL><F>Mm-huh</F></OL>. We have many kinds <OL>of tape recorders</OL>.</A>
+<B><OL><F>Mm</F></OL> <SC>I want to use to</SC> <R>I want</R> <nvs>sniff</nvs> <F>mm</F> <F>ah</F> I want to use this <SC>to hear</SC> to hearing the <R>English</R> English tape.</B>
+<A><F>Mm-huh</F>.</A>
+<B><.></.> But <SC>I have not</SC> <nvs>sniff</nvs> I have no moneys. <SC>I want to <R>cheap</R> cheapest</SC> I want the cheapest one.</B>
+<A><F>Mm-huh</F>.</A>
+<B><R>Could you</R> <nvs>laughter</nvs> could you show me the cheapest one, please?</B>
+<A>Cheapest one? These two</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>are</OL> not expensive. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> How much, then?</B>
+<A><F>Well</F> this one?</A>
+<B>This one.</B>
+<A>Two thousand yen.</A>
+<B>Two thousand yen? <nvs>laughter</nvs> O K. <R>I</R> I'll buy it.</B>
+<A>O K. And this one is <F>oh</F> the same price.</A>
+<B>Same price? <OL><F>Oh</F></OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><SC>It is</SC> what is <R>the different <.></.> <F>mm</F> this</R> <.></.> the different this?</B>
+<A><F>Well</F> <F>er</F> color.</A>
+<B>Color? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Just the color</OL> is <OL>different</OL>.</A>
+<B><OL><F>Oh</F></OL>. And <SC>the</SC> <SC>what is the <R>sss</R> <SC>sss</SC> weight</SC> <JP><F>unto</F></JP> what is the size? The little size?</B>
+<A><F>Um</F> this one <OL>looks</OL></A>
+<B><OL><F>Mm-huh</F></OL>.</B>
+<A>a little <OL>bigger</OL>,</A>
+<B><OL>Mm-huh</OL>.</B>
+<A>but, actually,</A>
+<B><F>Mm-huh</F>.</B>
+<A><SC>the</SC> it has the same weight. So you can choose <nvs>laughter</nvs> <OL>your favorite one</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Mm</F> I want to use to come to office. And, everyday, I want to use in a train. <F>Mm</F>. <..></..> <CO>As</CO>. <..></..> <nvs>sniff</nvs> <.></.> I want the <R>light</R> <SC>light thing</SC> light one.</B>
+<A><F>Mm-huh</F>.</A>
+<B><..></..></B>
+<A>So I recommend this one. O K?</A>
+<B>This one, please. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL> so two thousand yen plus tax. O K. Thank you very much.</A>
+<B><laughter>Thank you very much</laughter>.</B>
+</task>
+<followup>
+<A>Thank you. So you said you're going to Gotemba</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>with your wife</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Hmm</F></OL>. What kind of things are you going to buy?</A>
+<B><R>I</R> I bought <F>ah</F> a pair of sneakers.</B>
+<A><F>Mm-huh</F>. <.></.> Why? What for?</A>
+<B><F>Um</F> my sneaker is <.></.> <R>very</R> very old. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><SC>It's</SC> It was broken.</B>
+<A><OL><F>Mm-huh</F></OL>.</A>
+<B><OL><R>And</R></OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><OL><F>mm</F> and</OL> I want a new one. <OL><nvs>laughter</nvs></OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><laughter>That's why</laughter></OL>. O K. Now I'd like to show you another picture. O K. This is a picture story.</A>
+<B><F>Mm</F>.</B>
+<A>So, please make a story based on these pictures.</A>
+<B><F>Mm</F>.</B>
+<A>O K? From one to four.</A>
+<B><F>Mm-huh</F>.</B>
+<A>O K?</A>
+<B>All right.</B>
+<A>Please start.</A>
+<B><nvs>sniff</nvs> <.></.> <nvs>sniff</nvs> <SC>We are going to a cinema</SC> <F>ah</F> <nvs>sniff</nvs> we are going to go to see a movies last Sunday. <F>Hmm</F> <R>before we</R> before we saw a movie, we bought some drinks and popcorns in the store. <nvs>sniff</nvs> <.></.> The movie was exciting story, and <..></..> the plane was broke out in the sky. <nvs>laughter</nvs> <nvs>sniff</nvs> And <..></..> <R>after</R> <.></.> after <R>we</R> we saw the movie, <.></.> we enjoyed this movie. And <.></.> I want to see this movie again.</B>
+<A><F>Mm-hum</F>. O K. <OL>Thank you very much</OL>.</A>
+<B><OL><laughter><JP>Zenzen</JP></laughter></OL>.</B>
+</task>
+<followup>
+<A>O K, what kinds of movies do you like?</A>
+<B><F>Mm</F> <SC>I ss</SC> <..></..> my favorite movie is Japanese movie.</B>
+<A><F>Mm-huh</F>.</A>
+<B><R>But to</R> <nvs>sniff</nvs> but, to study English, and recently <R>I</R> I see a American movie.</B>
+<A><F>Mm</F>.</A>
+<B>And, last year, <F>um</F> <SC>I went to</SC> <R>I</R> I saw <F>er</F> "Ocean's Eleven". <.></.></B>
+<A>You went to the theater?</A>
+<B><F>Ah</F> yes.</B>
+<A>With your wife?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. So, what do you usually do after watching movie?</A>
+<B><F>Mm</F> <..></..> <nvs>sniff</nvs> <SC>I am a</SC> I am poor, <nvs>laughter</nvs> and <nvs>laughter</nvs> <F>mm</F> <R>I see</R> I see a <SC>movie</SC> <F>eh</F> <SC>last time</SC> <R>late show</R></B>
+<A><OL><F>Mm-huh</F></OL>.</A>
+<B><OL>late show movie</OL>. <nvs>laughter</nvs></B>
+<A><F>Mm-huh</F>.</A>
+<B>And <F>er</F> <R>after</R> after the cinema, <F>mm</F> <.></.> <R>we</R> we went to home and <nvs>laughter</nvs> <F>er</F> sleep. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. O K, this is almost the end of the interview.</A>
+<B><F>Mm</F>.</B>
+<A>You said your wife is pregnant. So, do you often help her at home?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. <OL>So, do you often cook</OL>?</A>
+<B><OL><SC>My</SC></OL> <nvs>laughter</nvs> <laughter>no, I can't cook</laughter>. My job is washing <F>er</F> bathroom</B>
+<A><OL><F>Mm-huh</F></OL>.</A>
+<B><OL>and toilet</OL>.</B>
+<A><F>Ah</F> toilet? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><R>I</R> I see. <nvs>laughter</nvs> O K, thank you very much.</A>
+<B>Thank you.</B>
+<A>This is the end of the interview.</A>
+</stage5>
+</body>
+</interview>

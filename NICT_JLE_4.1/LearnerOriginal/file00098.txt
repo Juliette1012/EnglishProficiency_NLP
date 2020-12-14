@@ -1,0 +1,207 @@
+<interview>
+<filename>file00098.txt</filename>
+
+<head version="1.3">
+<date>1999-12-14</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I ask your name?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>How are you today, <H pn="B's name">XXX01</H>?</A>
+<B>Fine, thank you. And you?</B>
+<A>I'm fine, thank you. Good. <F>Oh</F> <H pn="B's name">XXX01</H>, where do you live?</A>
+<B><SC>I'm live in <H pn="others1">XXX02</H></SC> <R>I live</R> I live in <H pn="others1">XXX02</H>.</B>
+<A><H pn="others1">XXX02</H>?</A>
+<B>Yes.</B>
+<A>I see. <F>Err</F> with your family?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. How do you come to school every day?</A>
+<B><F>Err</F> I use trains and <SC>bus</SC> take bus <F>urr</F> for about two hours every day.</B>
+<A>Two hours?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><F>Hum</F>. What do you do on a train?</A>
+<B><nvs>laughter</nvs> I always sleep. <nvs>laughter</nvs> Sometimes I over <SC>slept</SC> sleep. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-huh</F></OL> I see. O K. So please tell me about your family.</A>
+<B><F>Er</F> <R>my</R> my father like to <R>speak</R> speak. <R>He</R> he talk a lot <nvs>laughter</nvs>. I sometimes think he's noisy. <nvs>cough</nvs> My mother like to <F>urr</F> sing. <F>Urr</F> and <R>my big sister</R> <nvs>cough</nvs> my big sister <.></.> <F>uhm</F> like to go everywhere, so I don't meet her <F>urm</F> every day. And <R>she</R> she's in guitar club now at university. So <R>she's</R> she's practicing her now for her stage</B>
+<A><F>Ahh</F> she's playing guitar.</A>
+<B>Yes.</B>
+<A><F>Hum</F>.</A>
+<B>And I'm twin, so my twin sister <nvs>cough</nvs> <SC>is</SC> <F>uhm</F> go to <H pn="school name1">XXX03</H> now. And <R>she</R> she works part-time job very hard.</B>
+<A>I see. <F>Uh-huh</F>. Can you <OL>find</OL></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>any difference between <H pn="school name1">XXX03</H> and <F>er</F> <H pn="school name2">XXX04</H>?</A>
+<B><F>Urmm</F> I think <H pn="school name2">XXX04</H> is <SC>bigger</SC> <SC>more</SC> <F>mhm</F> much bigger than <H pn="school name1">XXX03</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urr</F> because <SC><H pn="school name1">XXX03</H></SC> <F>urr</F> <SC><H pn="others2">XXX05</H></SC> <F>ah</F> <R>she</R> <SC>she</SC> her name is <H pn="others2">XXX05</H>. <nvs>cough</nvs> She go to <H pn="others3">XXX06</H> campus, and <F>ur</F> it is very small, I think.</B>
+<A><F>Hum</F>.</A>
+<B>But, <H pn="school name2">XXX04</H> <F>urr</F> 's campus <F>urr</F> are gathered one place, so <nvs>cough</nvs> there are many <SC>pi</SC> kind of people here.</B>
+<A><F>Hum</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>I see. How about atmosphere?</A>
+<B><F>Mhmm</F> <R>I</R> I like <laughter><H pn="school name2">XXX04</H></laughter>, because <nvs>cough</nvs> there are many <F>urr</F> <R>na</R> <SC>na</SC> nature around me <nvs>cough</nvs> like many trees and greens. And, <nvs>cough</nvs> <R>we</R> we have also <F>urr</F> big place. <F>Urr</F> <F>urr</F> <R>I</R> <nvs>cough</nvs> I always see <F>urr</F> people <F>urr</F> <SC>practicing ski</SC> <F>urr</F> practicing <F>ur</F> <SC>skate</SC> <R>su</R> <R>su</R> <laughter>ski</laughter>, so <nvs>cough</nvs> there're many places, I think.</B>
+<A><F>Uhmm</F> I see. Good. Good. O K. Now,</A>
+<B><nvs>cough</nvs></B>
+<A>what do you do when you don't come to school?</A>
+<B><F>Urmm</F> <F>urr</F> I work part-time job or sleep at home, <nvs>laughter</nvs> or <F>mhm</F> <F>er</F> talk with my mother or my sister.</B>
+<A><F>Mhm</F> I see. O K. But why do you work, or why do you have part-time job?</A>
+<B>Because I'm in chorus club and I have to <R>pay <F>er</F> for</R> <F>urm</F> pay for stay <F>ah</F> in summer vacation for practicing, or <F>ur</F> pay for <F>urr</F> stage <F>urr</F> on December.</B>
+<A><F>Ahh</F>.</A>
+<B><F>Mhm</F>. And <R>I</R> <nvs>cough</nvs> I need a money for <F>urr</F> eating with my friends, <SC>so</SC> <F>urr</F> yes, so I have to earn myself.</B>
+<A><F>Oh</F> that's good. <OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>All right. Thank you very much. Now I'd like to show you one picture. O K? So please look at <OL>this</OL></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>and describe it for me.</A>
+<B><nvs>cough</nvs> This is her room. <F>Mhm</F> <R>she</R> she's typing <R>some</R> something, <F>uhm</F> using her <R>computer</R> computer. And <SC>she have a</SC> <R>she has</R> she has two pet, <F>uhm</F> cat and dog. Cat is sleeping on the bed. And dog is also sleeping, <F>er</F> next to the bed. <F>Uhm</F> <R>she</R> <nvs>cough</nvs> she have <SC?>su</SC?> <F>mhm</F> C D stereo <R>and</R> <F>mhm</F> and telephone herself. <F>Uhm</F> <.></.> and it is nine o'clock. I think it is in the morning because <F>uhm</F> <R>outside is</R> <F>urr</F> <.></.> outside is light. <F>Uhm</F>. <.></.> That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. All right, so <H pn="B's name">XXX01</H>. Do you have a computer?</A>
+<B>Yes.</B>
+<A><F>Hum</F>.</A>
+<B>My father bought <F>urr</F> when I'm in freshman at junior high school. Because, <F>urr</F> our school <SC>has</SC> <SC>have</SC> <F>uhm</F> has many computers, so <F>uhm</F> my father thought <nvs>cough</nvs> we need computer for daughters. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Wow</F> I see</OL>.</A>
+<B>But actually, <R>he</R> he can't use computer, <OL>so</OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><F>mhm</F> now, <.></.> <R>he</R> <SC>he wan</SC> <F>um</F> he ask me to <F>urr</F> teach <nvs>laughter</nvs> using computer.</B>
+<A>I see. <F>Uhm</F> but, what <OL>do you</OL></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>do with a computer?</A>
+<B><F>Urr</F> the most thing <R>I</R> <nvs>cough</nvs> I use computer <SC>is</SC> <nvs>cough</nvs> sorry, is to type <F>urr</F> essay or report <F>urr</F> <R>for</R> for the assignment. <F>Um</F>. Or, <F>er</F> <F>er</F> <R>we</R> we can't <F>urr</F> send e-mail <OL>from</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>my home because <R>we don't</R> <F>er</F> we don't connect <?>to</?> telephone. So <F>erm</F> <R>when I</R> when I'm in university, I send e-mail with computer.</B>
+<A><F>Hum</F> I see.</A>
+<B><nvs>cough</nvs></B>
+<A>So tell me about <F>er</F> some advantages or disadvantage <?>of</?> using computer.</A>
+<B><F>Er</F> I think advantage is <F>urr</F> in that we can cut or paste <F>urr</F> sentences easily and <nvs>cough</nvs> <F>uhmm</F> easy to <R>con</R> contact <R>with</R> <F>urm</F> with friend <F>urr</F> especially foreign country. But disadvantage is <F>uhmm</F> <R>if</R> <R>if we</R> if we <F>mhm</F> use computer every day, and <F>mm</F> don't write <SC>myse</SC> ourselves, <R>we can't</R> <F>urr</F> we can't <SC>remember the</SC> remember sentence or words,</B>
+<A><F>Hum</F>.</A>
+<B><JP>kanji</JP>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. <F>Mhm</F> that's a good point. O K. All right. So <OL>now</OL>,</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>let's do a role play.</A>
+<B><F>Uh-huh</F>.</B>
+<A><??></??> please read this card, and when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Excuse me</B>.
+<A>Yes. May I help you?</A>
+<B>Yes. I want to go to New York, and <F>uhhm</F> I want to go <.></.> <SC>fa</SC> <F>uhm</F> early.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <R>how</R> how may I buy a ticket?</B>
+<A>O K, so you can buy a ticket here. <?>Yeah</?>.</A>
+<B><SC>How</SC> <F>uhm</F> <SC>what</SC> <F>uh</F> <SC>how many</SC> <F>er</F> <F>er</F> <R>how</R> <F>ah</F> how much is it?</B>
+<A><F>Er</F> there are two kinds of ticket,</A>
+<B><F>Err</F>.</B>
+<A><F>er</F> fifty dollars and thirty dollars.</A>
+<B>O K. So fifty dollars ticket, please.</B>
+<A><F>Uh-huh</F>. <OL>O K</OL>.</A>
+<B><OL><R>And</R></OL> <nvs>cough</nvs> and <SC>how many hours</SC> <F>uh</F> how long <SC>did</SC> <F>urr</F> do I take?</B>
+<A><F>Mhm</F> One hour and half.</A>
+<B>O K. Please <F>mhm</F> give me one ticket.</B>
+<A>O K. <F>Oh</F> today we have four trains to New York.</A>
+<B><F>Uh-huh</F> <F>Er</F> what time?</B>
+<A><F>Mhm</F> ten o'clock, twelve o'clock, one o'clock and four o'clock.</A>
+<B>Ten o'clock, please.</B>
+<A>O K. All right. So here's a ticket.</A>
+<B>Thank you.</B>
+<A>All right.</A>
+<B><CO><SC>Here's ti</SC> <F>uh</F> here's</CO>. <nvs>laughter</nvs></B>
+<A>O K. <F>Oh</F> cash. All right. O K. Thank you. <OL>Have a nice trip</OL>.</A>
+<B><OL>Thank you</OL>. Thank you.</B>
+<A>Bye-bye.</A>
+<B>You, too.</B>
+</task>
+<followup>
+<A>Thank you. All right. Do you like <F>urr</F> traveling?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Where did you go this year?</A>
+<B><nvs>cough</nvs> This year, <R>I</R> I went to <F>er</F> Hokkaido with my friend and my twin sister in summer vacation</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>for</OL> about one week.</B>
+<A>I see. <F>Hum</F>. How <OL>did</OL></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>you make a plan?</A>
+<B><F>Ur</F> <SC>my</SC> I heard my friend uncle <F>urr</F> live in Hokkaido. <F>Ur</F> <F>urm</F> and she said to me, <F>urr</F> "How about travel with me <F>urr</F> next year?". So, <F>urr</F> if we pass the test for <SC>university</SC> <SC>en</SC> enter university, we can go together. <R>And</R> <nvs>cough</nvs> and we passed. So we plan to go, <F>urm</F> in summer vacation. And her uncle <F>urr</F> <.></.> said to us <F>urr</F> to follow me everywhere, so <R>we fo</R> we follow him</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>many</OL> places.</B>
+<A>That's good. So he showed you around in Hokkaido.</A>
+<B>Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>That's good. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>All right. O K. So now, I'd like to show you one more picture. This time, please make up a story. O K? But this happened before, so please start your story with "One day last week".</A>
+<B><F>Uh-huh</F>. O K. <.></.> One day last week, <F>urr</F> mother went to department for buying present for her husband. <nvs>cough</nvs> And <R>he asked</R> <R>he asked</R> <F>uhm</F> <..></..> <SC>he asked</SC> <F>urr</F> <nvs>laughter</nvs> <SC>how</SC> excuse me, how do you say <F>urr</F> saler?</B>
+<A><F>Oh</F> just, the man.</A>
+<B><F>Ah</F> he asked the man <F>urr</F> <.></.> <F>urr</F> the green tie and <.></.> <R>the</R> the man wrapped it up for her, and <R>he</R> he gave him a cash. After that <R>she wanted to</R> <nvs>cough</nvs> <SC>she wanted to buy</SC> <F>ur</F> she wanted to see <R>something</R> <F>er</F> something in the department, so she asked him, <F>urr</F> "Which floor <R>do</R> do you have clothes?". And he answered her, and she went upstairs. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>Thank you</OL>. Thank you very much. All right. <?>So</?>, <H pn="B's name">XXX01</H>, Christmas is coming.</A>
+<B>Yes.</B>
+<A>Do you have any plans for Christmas?</A>
+<B>Yes. <R>I will</R> <SC>I will stay</SC> <F>er</F> I will <R>su</R> spend times with my friends.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Erm</F> they're my <F>er</F> elementary school friend.</B>
+<A><F>Hum</F>. Do you exchange presents?</A>
+<B><F>Ah</F> no, we just <F>urr</F> exchange happy Christmas</B>
+<A><F>Hum</F>.</A>
+<B>greeting.</B>
+<A>I see. Did you ever give somebody a present?</A>
+<B>At Christmas?</B>
+<A><F>Mhm</F>. Yeah. At Christmas or on other occasion?</A>
+<B>Yes. <F>Urm</F> <SC>I</SC> <F>er</F> <R>this</R> this year, I send my host family <F>uhm</F> <R>Japanese</R> Japanese food like cornflake or <F>uhm</F> curry roux <R>and</R> and <F>mhm</F> <JP>soba</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F></OL> you said cornflakes?</A>
+<B>Yes. It is Japanese taste, <F>ur</F> for example, <JP>azuki</JP> flavor or <JP>endomame</JP> flavor. <nvs>laughter</nvs> I found it in department and I think <SC>they don't</SC> <F>er</F> they have never taste it before. And it is interesting. So I bought for them.</B>
+<A>I see. O K. So what do they say about it?</A>
+<B><F>Er</F> <SC>I</SC> <F>er</F> <SC>they don't get</SC> <F>er</F> they haven't get it yet.</B>
+<A><F>Er</F> not yet? <F>Ah</F> I see. <laughter>Sounds interesting</laughter>.</A>
+<B>Yes.</B>
+<A><F>Oh</F> cornflakes with <JP>azuki</JP> flavor.</A>
+<B>Yes.</B>
+<A><F>Oh</F> I want to try that one. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> I think <SC>it is</SC> it tastes good.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Ah</F> I see. O K. So, thank you <F>er</F> <H pn="B's name">XXX01</H>, <F>er</F> interview is almost ending. <F>Uhm</F>. <OL>Thank you for coming</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>O K. So do you have any plan after this interview?</A>
+<B>Yes. I have <??></??> <F>urm</F> part-time job,</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>ah</F></OL> tutor <OL>so</OL></B>
+<A><OL>I see</OL>.</A>
+<B><R>I</R> I will go her house. <nvs>laughter</nvs></B>
+<A><F>Oh</F> O K. Her house?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Not</OL> school?</A>
+<B><F>Er</F> yes.</B>
+<A><F>Uh-huh</F>. I see. O K. Thank you for coming and have a good time.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL>.</A>
+</stage5>
+</body>
+</interview>

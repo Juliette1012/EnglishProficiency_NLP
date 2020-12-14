@@ -1,0 +1,206 @@
+<interview>
+<filename>file00626.txt</filename>
+
+<head version="1.3">
+<date>2001-10-12</date>
+<sex>male</sex>
+<age>30</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>researcher</category>
+<step></step>
+<TOEIC>645</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Um</F>. Today is a little busy.</B>
+<A>Busy?</A>
+<B>Yes.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>Because</OL> today is I conducted field trial. So, now, <F>um</F> almost field trial is finished, but <F>um</F> one more field test remains. So I have to <.></.> test <F>er</F> to treat compound. <CO>So</CO>.</B>
+<A>I see. <F>Hum</F>. O K. Then, <nvs>coughs</nvs> what do you usually do after work, when you are not so busy?</A>
+<B><F>Um</F>. When I'm not so busy, <F>um</F> sometimes, <R>I</R> <.></.> <F>um</F> I goes <SC>to <R>play</R> play golf</SC> <F>um</F> to practice golf at driving range. And <F>uum</F> other thing, <F>um</F> <SC>some</SC> <F>um</F> two times <F>um</F> in a week, <F>um</F> I go to <SC>sch</SC> <F>mm</F> English conversation school, two times <SC>in a school</SC> <F>uh</F> in a week.</B>
+<A><F>Wow</F>. Busy. O K.</A>
+<B><nvs>laughter</nvs></B>
+<A>I see. But, <nvs>coughs</nvs> <F>uh</F> is there any good golf course near here?</A>
+<B>Yes, many. <F>Uh</F>. There are many good golf course and not so expensive course in <H pn="others1">XXX03</H>.</B>
+<A><OL><F>Er</F> I see</OL>.</A>
+<B><OL><SC>So</SC></OL> and, <F>um</F> <R>near</R> near my house, <R>very cheap and</R> <F>ah</F> very cheap, <SC>and</SC> but that is very short course. That's very cheap and no reservation, so very <F>um</F> <OL>easy to go there</OL>.</B>
+<A><OL>I see</OL>. <F>Um</F>. How long have you been playing golf?</A>
+<B>For three years.</B>
+<A>Three years? <F>Ah</F>. Is it difficult?</A>
+<B>Yes. Very difficult for me. <F>Uum</F>. The reason is, <SC>I have</SC> <F>um</F> <SC>golf is</SC> you know, golf is <R>cost</R> cost much. So <SC>I can</SC> I can't often go to real golf course, so I always <F>um</F> <R>prac</R> practice golf with image training at driving range. But, in real course, <F>uum</F> real play is <F>um</F> different <F>um</F> at practice range.</B>
+<A>I see. <F>Um</F> <F>um</F>. O K. Yeah. It seems very difficult. O K. <F>Uh</F>. Before you come to <H pn="others2">XXX04</H>,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>where</OL> did you live?</A>
+<B>I lived in next prefecture, <H pn="others3">XXX05</H> Prefecture. I lived <F>um</F> half year. Before that, I lived in <H pn="others4">XXX06</H>.</B>
+<A><H pn="others4">XXX06</H>?</A>
+<B>Yes.</B>
+<A><F>Uh</F>. Which place do you like best?</A>
+<B><laughter><R><H pn="others4">XXX06</H></R></laughter> <H pn="others4">XXX06</H>. <F>Uum</F>. Only I live half a year in <H pn="others4">XXX06</H>. <SC>So</SC> but my favorite <SC>place is</SC> place in <H pn="others4">XXX06</H> is <F>mm</F> Furumachi, <F>um</F> very <.></.> <R>famous</R> <F>um</F> <R>famous</R> <JP><F>unto</F></JP> <SC>famous <.></.> restaurant</SC> <F>er</F> famous drinking place</B>
+<A><F>Er</F>. Really?</A>
+<B><F>um</F> <SC>fa</SC> <F>uum</F> near the station. The name is Furumachi, very old town to <R>act</R> activity <SC>to drink</SC> <SC>to eat</SC> <SC>to have</SC> <F>er</F> to eat dinner in restaurant. <F>Mm</F>.</B>
+<A>I see. <F>Hum</F>. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like to show you a picture. <..></..> So, please look at this.</A>
+<B>Yes.</B>
+<A>Describe the picture.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B><F>Uum</F>. The girl is sitting the chair and <.></.> show the computer. And <F>uum</F> that room is <SC?>very</SC?> <F>um</F> not big room. <F>Mm</F>. Maybe, it is <R>personal</R> personal room for the girl. And <SC>two pets</SC> there are two pets in the room, one dog in the floor one cat <SC>in the</SC> on the bed. And <R>many</R> many electric facilities, there are stereos, telephones, computer, <F>um</F> word processor. <F>Mm</F> <F>um</F>. That's all.</B>
+</task>
+<followup>
+<A>O K. All right. <F>Uh</F>. <H pn="B's name">XXX02</H>, <F>um</F> do you have a computer?</A>
+<B><OL>Yes, I have</OL>.</B>
+<A><OL>At home</OL>?</A>
+<B>Yes.</B>
+<A><F>Um</F>. What do you do with it?</A>
+<B><F>Mm</F>. Mainly, <F>mm</F> to use a computer for <.></.> E-mail for Internet. Sometime, <R>to use</R> <F>mm</F> <F>ss</F> <F>mm</F> to use it for work. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B><F>Um</F>.</B>
+<A><F>Uhu</F>. So, what's the advantage of E-mail?</A>
+<B><F>Uum</F>. <CO>Adv</CO>?</B>
+<A>Good points.</A>
+<B>Good points? I think very good point is <F>um</F> <SC>we</SC> <F>um</F> <SC>I</SC> we can <F>um</F> always send the mail anytime. <F>Mm</F>. Even midnight, I can send. And <SC>very</SC> that response very quickly. <.></.> Work more quickly than normal mail. <F>Um</F>. And the <F>um</F> telephone is sometimes <F>mm</F> disturb <F>um</F> someones life. <SC>So</SC> but E-mail <SC>did</SC> doesn't. <F>Um</F>. Always I can send mail anytime.</B>
+<A>I see. Good. O K. <R>Um</R>. But, <F>uh</F> do you want to make new friends on Internet?</A>
+<B>Me? <nvs>laughter</nvs> <R>Do you</R> do you want? <F>Uum</F>. No. <F>Uum</F>. I'm not interested in <F>um</F> make friends in Internet. Because <F>um</F> I think <F>um</F> <SC>I</SC> <.></.> <SC>that is</SC> Internet is not real life. So <F>mm</F> <R>I</R> I think it is not normal to make friends in not <R>real</R> real world in internet. <CO>So</CO>.</B>
+<A>O K. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role play. O K?</A>
+<B>Yes.</B>
+<A><.></.> O K. So <F>um</F> this is your card.</A>
+<B>Yes.</B>
+<A>And, read it to yourself. And I'll start conversation when you are ready.</A>
+<ctxt>The interviewee is reading a card.</ctxt>
+<B>Yes. I'm ready.</B>
+<A>O K. Hi. May I help you, sir?</A>
+<B>Yes. <F>Mm</F>. <R>I</R> I want to go to New York <F>err</F> <R>as</R> <R>as possible as</R> <F>um</F> <F>uum</F> as possible as early. So <F>mm</F> <F>ss</F> what kind of ticket <F>um</F> <R>can</R> <F>mm</F> <R>can I</R> can I buy in the office?</B>
+<A>Yeah. We have super-express</A>
+<B>Yes.</B>
+<A>and the local trains.</A>
+<B><F>Uum</F> <F>um</F>. How much is the super-express train?</B>
+<A>One hundred dollars.</A>
+<B><R>One hundred</R> one hundred dollars? <F>Um</F>. <SC>No</SC> how much is normal <OL><??></??></OL>?</B>
+<A><OL>Normal one</OL>? Fifty dollars.</A>
+<B>Fifty dollars? <F>Um</F>. And super-express train, <F>um</F> how long does it take <F>um</F> to New York?</B>
+<A>About one hour.</A>
+<B>One hour. So, local train?</B>
+<A><F>Er</F>. Three hours.</A>
+<B>Three hours? O K. <F>Uum</F>. <SC>Now, <F>um</F> <F>um</F> if</SC> <F>um</F> now, <R>I</R> <R>I</R> I will take the train as soon as possible. <F>Um</F>. Which is better to get to New York earlier?</B>
+<A><F>Er</F>. I think you should take local train.</A>
+<B>Local train?</B>
+<A>Yeah. Because super-express leaves at five o'clock this afternoon.</A>
+<B>Yes.</B>
+<A>Now, it's ten o'clock in the morning.</A>
+<B>Yes.</B>
+<A>So it takes longer, but you arrive at New York earlier.</A>
+<B>Yes. O K.</B>
+<A>O K?</A>
+<B>I'll buy the local traint ticket.</B>
+<A>All right. So fifty dollars, please. <.></.> O K. Thank you. Have a nice trip.</A>
+<B>Thank you.</B>
+<A>Good-bye. O K.</A>
+<B><OL>Good-bye</OL>.</B>
+<A><OL>So</OL> role play is over. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you like traveling?</A>
+<B>Yes, I like.</B>
+<A><F>Um</F> <F>er</F>. Which do you like better traveling by car or by train?</A>
+<B><F>Uum</F>. I prefer by train.</B>
+<A>Train?</A>
+<B>Train. Because <F>um</F> <SC>car</SC> <F>hum</F> I have car. But that car is not big, so <.></.> it's tired to drive long way. <SC>So, <F>um</F> if</SC> <F>uh</F> so I prefer by train to go far <R>in</R> in Japan. <F>Mm</F>.</B>
+<A>I see. Good, good. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'd like to show you another picture.</A>
+<B>Yes.</B>
+<A><..></..> Please take a look at this picture and make a short story</A>
+<B>Yes.</B>
+<A>based on these six pictures.</A>
+<B>Yes.</B>
+<A>But this happened last week.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>? So, please start your story with "One day last week".</A>
+<B>"One day last week"? Yes. <R>I</R> I explain that?</B>
+<A>Yes. Make a short story.</A>
+<B>Make short story? <F>Um</F> <F>uum</F>. <R>Two</R> two <SC>young men</SC> <R>young</R> young man and <R>wo</R> woman working on the road. And it is raining the day. And <SC>the <F>um</F> men</SC> the boy hearing something, <F>um</F> maybe, <F>um</F> <SC>animal <F>um</F> sc</SC> animal saying something. <nvs>laughter</nvs> So that is cat. And the girl found that cat and picked up. And <F>um</F> the girl asked him to keep in a house and to bring my house and to keep in my house. And, at first, the boy <F>um</F> <F>eh</F> <R>refu</R> refused to bring the cat <R>to</R> to their house. <SC>And</SC> <SC>but</SC> <F>um</F> or, <F>mm</F> after short time, <F>mm</F> <SC>the boy</SC> <F>uh</F> <R>the</R> the boy <F>mm</F> agree with <F>mm</F> <R>the</R> <F>mm</F> <SC>the</SC> <F>mm</F> <R>bringing</R> bringing and keeping the cat in their house. And they are, <.></.> maybe, happy. But that boy is not so happy. And <F>mm</F> <F>mm</F> <SC>they are</SC> they were going to the home with cat.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. So, <H pn="B's name">XXX02</H>, have you ever had a pet?</A>
+<B>Yes, I have. Now, I have <R>s</R> <F>eh</F> <R>squ</R> <R>squirrel</R> <R>squirrel</R> <SC>squirrel</SC> one squirrel, I keep. I have kept <F>uum</F> for two and half years.</B>
+<A>Two and half years?</A>
+<B>Yes.</B>
+<A><F>Wow</F>. So, how do you take care of it?</A>
+<B><F>Uum</F>. Very easy. <F>Um</F>. In the morning, I keep the food <SC>to him</SC> <laughter>to her</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>Her</laughter></OL>?</A>
+<B>And, <SC>in the</SC> after coming home <F>uh</F> from company, <R>I</R> I clean the cage. Only very simple.</B>
+<A>I see. <F>Hum</F>. O K. So, does she have a name?</A>
+<B><F>Er</F>. Name is <nvs>laughter</nvs> "Tyun".</B>
+<A><F>Oh</F>. Cute. O K. Then, O K. So, what do you think of the person who left the cat on the street? In this picture, what do you think <OL>of him or her</OL>?</A>
+<B><OL><F>Uum</F></OL> <F>er</F>. How do I think? <F>Um</F> <F>mm</F>. <SC>That</SC> in that case, <F>um</F> I agree to bring cat to house that situation. Because it is raining, <SC>and not so</SC> but, maybe, it is not summer and so cool. I think very cool season. So, if they left the cat in the box, <F>um</F> that cat will be die.</B>
+<A>Yeah.</A>
+<B>So I <F>um</F> agree.</B>
+<A>But, how about the person who <OL>left the</OL> cat on the street in the first place?</A>
+<B><OL>How about</OL>? How about?</B>
+<A>So, what do you think</A>
+<B><F>Er</F>. Yes.</B>
+<A>of a person who left the cat on the street?</A>
+<B><.></.> <F>Oh</F>. <CO>That is <OL>not</OL></CO>.</B>
+<A><OL>Somebody</OL> abandon this cat.</A>
+<B><F>Er</F>. Yes.</B>
+<A>So put it <OL>on the street</OL>.</A>
+<B><OL><F>Er</F> yes</OL>.</B>
+<A>What do you think of him or her? I don't know.</A>
+<B><F>Err</F>.</B>
+<A>What do you think of the person?</A>
+<B><F>Um</F>. That I can understand. But I think it is <F>uum</F> not <R>terrible</R> terrible thing. <F>Um</F>. Because <F>mm</F> the cat will be die.</B>
+<A>Yeah. O K. All right. Thank you very much.</A>
+<B><F>Um</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost ending. Thank you for coming today.</A>
+<B>Thank you.</B>
+<A>Do you have any plans for this weekend?</A>
+<B>Yes. I have plan <F>um</F> to meet friends in Tokyo.</B>
+<A><F>Err</F>.</A>
+<B>Yes.</B>
+<A>You're going to Tokyo.</A>
+<B>Yes. Tomorrow, I went to Tokyo, and <SC>stay</SC> I will stay the friend's house.</B>
+<A>How often do you go to Tokyo?</A>
+<B><F>Uum</F>. Normally, one time <F>um</F> in a month.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>Now, if you take a <JP>shinkansen</JP>, it takes less than one hour?</A>
+<B>Yes.</B>
+<A><F>Err</F>.</A>
+<B>But, <nvs>laughter</nvs> on business, I use <JP>shinkansen</JP>, <R>but</R> <F>uum</F> but, <SC>no</SC> not work, <R>I</R> I doesn't use <JP>shinkansen</JP>. It is <R>not economical</R> not economical.</B>
+<A>I see. So, you use local line?</A>
+<B>Yes.</B>
+<A><F>Err</F>. I see. I didn't know that. O K. <F>Er</F>. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

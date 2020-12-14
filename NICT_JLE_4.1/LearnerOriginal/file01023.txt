@@ -1,0 +1,216 @@
+<interview>
+<filename>file01023.txt</filename>
+
+<head version="1.3">
+<date>2002-04-02</date>
+<sex>male</sex>
+<age>39</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. <F>Uh</F> my name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B>My name is <F>eh</F> <H pn="B's name">XXX02</H>.</B>
+<A><OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you</OL>.</B>
+<A>Nice to meet you. <F>Well</F></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A><OL>how are</OL> you this morning?</A>
+<B>This morning. <F>Ahh</F> little <F>ah</F> sleepy.</B>
+<A><nvs>Laughter</nvs> Are you busy everyday?</A>
+<B>Yes.</B>
+<A>O K. So <R>what</R> what do you usually do <R>in</R> in a morning?</A>
+<B><OL>In morning</OL>?</B>
+<A><OL><F>Ah</F></OL>. In an office?</A>
+<B>In office. First, <F>ahh</F> I always check e-mail. And after check e-mail, <F>ahh</F> we have a meeting <F>ah</F> with my co-workers.</B>
+<A><F>Uh-huh</F> I see. O K. So what kind of e-mail do you get <OL>usually</OL>?</A>
+<B><OL>What</OL> kind of e-mail? <F>Ahh</F> of course <F>ahh</F> about my job.</B>
+<A>For example?</A>
+<B><R>For example</R> for exmaple, <nvs>laughter</nvs> <F>ahh</F> some trouble happened for our product or <F>uhh</F> <R>some</R> some <F>uhh</F> customer information</B>
+<A><F>Uh</F>.</A>
+<B>from <F>ah</F> my co-workers.</B>
+<A>I see. All right. So <OL>you must be</OL></A>
+<B><OL><nvs>sniff</nvs></OL></B>
+<A>busy everyday, but when you finish your work, <OL><R>what</R> what</OL></A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>do you usually do? After work?</A>
+<B><R>After work</R> after work <F>ahh</F> everyday, I drink <F>ah</F> alcohol. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> Where do you go for drinking?</A>
+<B>Drinking? Around Shinjyuku Station.</B>
+<A><F>Hmm</F>.</A>
+<B>J R Shinjyuku Station.</B>
+<A>I see. O K. Would you tell me about your favorite bar? Favorite <OL>place</OL>?</A>
+<B><OL>Favorite</OL> bar. Favorite place.</B>
+<A>To drink.</A>
+<B><F>Uhh</F> I like <F>ah</F> <JP>izakaya</JP>. <.></.></B>
+<A><F>Umm</F>. So would you tell me more about that <JP>izakaya</JP>?</A>
+<B><laughter><JP>Izakaya</JP></laughter>. <F>Uh</F> there are many kind of <JP>izayaka</JP>. <F>Un</F> first, I order the beer and <F>uh</F> order many food. <nvs>laughter</nvs> And <F>uhh</F> about I spend two or three hours at the <JP>izakaya</JP> everyday. <nvs>laughter</nvs> Because I stays at a hotel from Monday to Friday.</B>
+<A><F>Ohh</F>.</A>
+<B>I live in <H pn="others2">XXX03</H> so.</B>
+<A><F>Ohh</F>. O K. <R>Why</R> why did you choose to</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>stay</OL> in a hotel?</A>
+<B>In a hotel? <F>Umm</F> because <R>it's</R> <F>ah</F> <F>ahh</F> <.></.> it's a business trip. <CO>So</CO>.</B>
+<A><F>Umm</F> I see. O K. So your life in <H pn="others2">XXX03</H> <OL>and</OL></A>
+<B><OL><F>Uhh</F></OL>.</B>
+<A>your life in Tokyo <SC>is</SC></A>
+<B><F>Um</F>.</B>
+<A>must be different.</A>
+<B>Yes.</B>
+<A>What is the biggest difference?</A>
+<B><R>Biggest different</R> <..></..> <R>biggest different</R> <F>ahh</F> <..></..> biggest different. <nvs>laughter</nvs> Everything is different. <nvs>laughter</nvs></B>
+<A><nvs>Laughter</nvs></A>
+<B>There are no family and <F>ah</F> <..></..> <F>uh</F> <JP>nandarouna</JP> <..></..> <JP>nnto</JP> <..></..> <F>mm</F> <F>uh</F> <R>I</R> I cannot keep my private things at hotel so I feel so uncomfortable.</B>
+<A>I see. And you must be missing your family.</A>
+<B>Yeah.</B>
+<A>I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to <OL>show you a picture</OL></A>
+<B><OL><nvs>sniff</nvs> <nvs>cough</nvs></OL></B>
+<A>this one. And would you describe this picture for me?</A>
+<B>Yeah. <nvs>sniff</nvs> <F>Ahh</F> <F>ahh</F> <nvs>sniff</nvs> there are <F>ah</F> one <F>uhh</F> lady. <nvs>sniff</nvs> <F>Ahh</F> she sit down <F>ah</F> on her chair and <F>uhh</F> she has <F>um</F> one computer and one typewriter. And <F>ah</F> one stereo. <.></.> And <..></..> <JP><F>eh</F></JP> <SC>she</SC> <.></.> <JP><F>eh</F></JP> there are <F>uh</F> one cat and one <.></.> dog are <F>ah</F> sleeping in her room. <R>And</R> <..></..> and <JP><F>eh</F></JP> she has many books. <..></..> And <F>ah</F> there are calender on the wall. <nvs>sniff</nvs> And <SC>time is</SC> <F>ah</F> <.></.> <F>ah</F> it looks like <F>umm</F> <R>nine</R> nine o'clock. <nvs>sniff</nvs> <..></..> And the door is open. <..></..></B>
+</task>
+<followup>
+<A>I see. O K. You said you are staying at a hotel now.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And <F>well</F> how do you keep in touch with your family from your hotel room?</A>
+<B><F>Ah</F> from my hotel room. <F>Ahh</F> sometimes, I <F>ah</F> telephoned. Sometimes send e-mail to my family.</B>
+<A><F>Uh-huh</F> to your son?</A>
+<B><F>Uh-huh</F>. <F>Oh</F> <F>ah</F> to my daughter.</B>
+<A><F>Oh</F> O K. <F>Uh</F>. Would you tell me a bit about your daughter?</A>
+<B>Daughter? <F>Ah</F> the elder is <H pn="others3">XXX04</H>. She is ten years old.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And younger is <H pn="others4">XXX05</H>. She's nine years old.</B>
+<A><OL><CO>I</CO></OL>.</A>
+<B><OL>I</OL> have two daughters.</B>
+<A>I see. <R>And</R> and what kind of thing do you talk with her?</A>
+<B><F>Uhh</F> <..></..> <F>mmm</F> <F>ahh</F> <SC>they</SC> their height is almost <F>ah</F> one meter and forty centimeters.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ahhh</F> <..></..> they always <F>ah</F> wear <F>ah</F> <R>s</R> same kind of clothes <.></.> and <F>ah</F> same kind of <F>uh</F> shoes.</B>
+<A><F>Uhh</F>.</A>
+<B><..></..> <JP><F>Eh</F></JP> <SC>they always</SC> they <R>sleep</R> <F>ah</F> <F>umm</F> <..></..> <R>sleep a</R> <..></..> <SC>sleep a</SC> <?>what</?> <SC>sleep</SC> <F>uh</F> they always sleep a same bed <F>ah</F> that has <F>ah</F> two floors.</B>
+<A><F>Huh</F> I see. O K. They must be cute. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now.</A>
+<B><OL><F>Uh</F></OL>.</B>
+<A><OL>We'll</OL> do a role-play.</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewer is selecting a card.</ctxt>
+<A>O K. Please read this card.</A>
+<ctxt>Strange sound is heard.</ctxt>
+<B><nvs>cough</nvs></B>
+<A>And when you're ready, I'll start the conversation. O K?</A>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<A>Ready?</A>
+<B><.></.> <F>Un</F> just a moment. <nvs>laughter</nvs></B>
+<A><laughter>O K</laughter>.</A>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<B>Yeah.</B>
+<A>O K. Hi, may I help you sir?</A>
+<B>Yeah. <F>Ahh</F> I'm looking <F>ah</F> a new notebook computer. <F>Ahh</F> <..></..> I would like to buy <SC>an</SC> a full size <F>ah</F> notebook computer. <F>Ah</F> <SC>what</SC> <F>umm</F> which one do you recommend?</B>
+<A><F>Ohh</F> I guess this is the best seller.</A>
+<B>Best seller?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> <SC>what is the</SC> <F>um</F> <..></..> <F>ah</F> <..></..> how much <SC>is it</SC> is this? <nvs>laughter</nvs></B>
+<A><F>Oh</F> this is fifty thousand yen.</A>
+<B>Fifty thousand yen?</B>
+<A><F>Oh</F> sorry. <F>Ah</F> hundred thousand yen.</A>
+<B>Hundred thousand yen. <F>Oh</F> it's so cheap.</B>
+<A>Right.</A>
+<B><F>Ahh</F> how about the quality?</B>
+<A><F>Umm</F>. I think it's nice and everybody buys it. And you can click here you can get much information from here.</A>
+<B><F>Unn</F>. <F>Ahh</F> <F>ah</F> you have any warranty <F>ah</F> of <SC>this com</SC> notebook computer?</B>
+<A><F>Uh-huh</F>. Sure. For one year.</A>
+<B>One year? <F>Ahh</F> how much cost <F>ah</F> for the warranty?</B>
+<A>Sorry?</A>
+<B><F>Ah</F> <SC>how much <JP><F>eh</F></JP> does</SC> <F>um</F> how much cost <F>um</F> does it take for the warranty?</B>
+<A><F>Umm</F>. It's <F>ah</F> up to twenty thousand yen.</A>
+<B>Twenty thousand yen.</B>
+<A>From payment.</A>
+<B>From payment. <.></.> <F>Ahh</F> <..></..> Is it possible to take back this notebook computer today?</B>
+<A>Sure.</A>
+<B><F>Um</F>. <..></..> O K. <F>Ahh</F> I will buy it. <OL><F>Ah</F></OL>.</B>
+<A><OL>O K</OL>. Thank you very much. And how would you like to pay?</A>
+<B><F>Ah</F> by credit card.</B>
+<A>O K. Sure. Signature please.</A>
+<B>Yeah. Here you go.</B>
+<A>O K. Thank you very much. <OL>Enjoy it</OL>.</A>
+<B><OL><R>Thank you</R></OL> thank you very much.</B>
+</task>
+<followup>
+<A>O K. Now, this is the end of the role-play. <F>Um</F> how do you use <SC>you</SC> your computer?</A>
+<B>My computers <F>ahh</F> at home, <F>ah</F> I use my computer for Internet. <F>Ahh</F> at <SC>com</SC> office, <F>ah</F> I use computer for everything.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K. So <R>where</R> where is your favorite site to visit?</A>
+<B><R>Favorite site</R> <..></..> <R>favorite site</R> <F>ah</F> <..></..> favorite site is <F>ah</F> <..></..> the main is "Flash Dot Japan".</B>
+<A><F>Um</F>.</A>
+<B>It's <SC>a favorite</SC> my favorite site. <F>Ahh</F> that site is <F>ah</F> provide us <F>ah</F> any information <R>about</R> <F>ah</F> about <F>um</F> computers <R>or</R> <.></.> or <F>um</F> many technical information.</B>
+<A>I see. O K. You must be very good at computer. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, finally, I'm going to show you another</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A><OL>picture</OL>.</A>
+<ctxt>The interviewer is selecting a sequence picture.</ctxt>
+<B><nvs>sniff</nvs></B>
+<A>This is a picture sequence.</A>
+<B><F>Uh-huh</F>. <nvs>sniff</nvs></B>
+<A>This one. I would like you to make up a short story about this picture. And the happened before, so please start your story as "One day last week".</A>
+<B>Last week. <F>Um</F>. <.></.> O K.</B>
+<A>Just a short story is fine.</A>
+<ctxt>The interviewee is looking at the picture sequence and thinking for a while.</ctxt>
+<B>O K.</B>
+<A>Go ahead.</A>
+<B><F>Ahh</F> one day last week, <F>ah</F> a woman <F>um</F> tried to cook <F>ah</F> <SC>something</SC> some food but <F>ah</F> she found <R>any</R> any food <R>in</R> <JP><F>eh</F></JP> <JP>nandakke</JP> in her <.></.> <F>mm</F> I forgot the word. <F>Um</F>. <CO><R>Re</R></CO>.</B>
+<A>That's O K.</A>
+<B>Refrigerator.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So she <F>ah</F> went to supermarket <R>by her ca</R> by her car. And <R>bought</R> <F>ahh</F> <..></..> bought many food and <F>umm</F> paid by cash. <R>After</R> <F>um</F> after <..></..> <SC>he</SC> <JP><F>eh</F></JP> she bought many food, she bring them <R>by</R> <F>eh</F> by her car. And when she can <F>ah</F> <R>cooked</R> <F>ah</F> <.></.> <JP><F>eh</F></JP> <..></..> <JP><F>eh</F></JP> cooked <JP><F>ehh</F></JP> <..></..> I forgot the word. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>That's O K</laughter></OL>.</A>
+</task>
+<followup>
+<A><nvs>laughter</nvs> <laughter>O K</laughter>. <F>Well</F> is your wife a good cook?</A>
+<B><nvs>sniff</nvs> Yes, of course.</B>
+<A>O K. So <R>what</R> what's your favorite her dish?</A>
+<B>Favorite her dish. <..></..> I like <F>uh</F> <JP>sukiyaki</JP>.</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL><F>Um-huh</F></OL>.</B>
+<A>I see. O K. It must be delicious.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Now, we have come to the end of the interview.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And <F>well</F> what are you going to do after this interview? Are you going to the office?</A>
+<B>Yeah. <F>Ah</F> I will go to office.</B>
+<A>O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>You'll</OL> be busy today?</A>
+<B><F>Uh</F>?</B>
+<A>You'll be busy today?</A>
+<B>Maybe. <nvs>laughter</nvs></B>
+<A><laughter><F>Oh</F> O K</laughter>. Good luck with your work and thank you very much for coming to <OL>get this interview</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

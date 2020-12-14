@@ -1,0 +1,127 @@
+<interview>
+<filename>file00082.txt</filename>
+
+<head version="1.3">
+<date>2000-04-27</date>
+<sex>male</sex>
+<age>41</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. For the record, may I have your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX01</H>.</B>
+<A>Mr. <H pn="B's name">XXX01</H>, are you from this area, <H pn="others1">XXX02</H>?</A>
+<B>Yes, <F>er</F> I was born in <F>er</F> <H pn="others1">XXX02</H> city. <F>Er</F> <SC>so</SC> and <F>er</F> <SC>my</SC> <SC>family house</SC> <F>err</F> family home is <F>er</F> very near in this area.</B>
+<A>I see. O K. Have you always lived in <H pn="others1">XXX02</H>?</A>
+<B>Yes <F>er</F> but <F>er</F> <R>when I</R> <.></.> when I have enter this company <F>er</F> my first <SC>office is</SC> office was <H pn="others2">XXX03</H> and <SC><H pn="others3">XXX04</H> area</SC> <F>err</F> <H pn="others3">XXX04</H> office during about ten years.</B>
+<A><F>Oh</F> I see. O K.</A>
+<B>Then, I have transferred this <H pn="others1">XXX02</H> office.</B>
+<A>How did you like living in <H pn="others3">XXX04</H>?</A>
+<B><F>Mm</F>. It's <R>very</R> very good, I think.</B>
+<A><OL>Very good</OL>? <F>Ah-huh</F>. O K. Which do you prefer, <H pn="others1">XXX02</H> pr <H pn="others3">XXX04</H>?</A>
+<B><F>Er</F> <nvs>laughter</nvs> <F>er</F>. So <.></.> I have better <R>just</R> just <H pn="others1">XXX02</H>. But <F>er</F> <SC>now I</SC> now my house is <F>er</F> <H pn="others4">XXX05</H> city. <.></.> <H pn="others4">XXX05</H> is very good place.</B>
+<A>Please tell me a little about your hobbies.</A>
+<B><F>Er</F>. My hobby is <F>er</F> reading books and <.></.> jogging and recently watching <R>the game</R> the game <SC>my spor</SC> sports game. My favorite sports is soccer, football.</B>
+<A><F>Oh</F>. O K. How long have you been jogging?</A>
+<B><F>Er</F>. So <F>er</F> How long?</B>
+<A><F>Mm</F>.</A>
+<B><F>Er</F> about four or five kilometers every time.</B>
+<A><F>Um</F>. What do you like about jogging?</A>
+<B>Pardon?</B>
+<A>What do you like about jogging?</A>
+<B><.></.> <R>What</R>? What? Sorry, what do you like?</B>
+<A>What do you like about jogging? Why do you like jogging?</A>
+<B><F>Oh</F>. <F>Er</F>. <F>Mm</F>. So <..></..> jogging make me so good feeling. And <F>mm</F> <.></.> open the <.></.> yeah, what to say? <nvs>laughter</nvs> <F>er</F> sorry, make me good feeling.</B>
+<A>Please tell me a little about your family.</A>
+<B>Yes. <F>er</F> I have a wife, and <SC>two</SC> <F>er</F> one son and one daughter.</B>
+<A>How old are they?</A>
+<B><F>Er</F>. My son <R>is</R> is fifteen years old and the daughter is <F>er</F> twelve years old.</B>
+<A>Yes, I see. <F>Oh</F> please tell me a little about your daughter.</A>
+<B>Yeah. <F>er</F> she enter junior high school this month. <.></.> <F>Um</F> so for me and for our family, <SC>the first</SC> <F>er</F> first girl. <SC>My brother</SC> <F>er</F> is <F>er</F> I have a brother so for our family, she is first girl. So, very <F>er</F> pretty <nvs>laughter</nvs>.</B>
+</stage1>
+<stage2>
+<task>
+<A>Good. Let me show a first picture today.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A><F>Erm</F> can you please describe this picture for me?</A>
+<B>Yeah. <.></.> <SC>I</SC> <F>er</F> This picture describe the <SC>I think</SC> <nvs>cough</nvs> <F>er</F> It's a sunny day and <F>er</F> I think maybe it's a Saturday or Sunday. It's a holiday. <F>Er</F> <F>mm</F> <R>every</R> every people is <SC>so relax</SC> <F>er</F> so relaxing <F>er</F> <R>a man</R> a man <R>is</R> is jogging. And <F>er</F> maybe two wives <F>er</F> are talking about <F>er</F> <nvs>cough</nvs> <F>er</F> <R>something ma</R> something matters. <.></.> And <F>er</F> <nvs>cough</nvs> <.></.> Boys <F>er</F> <nvs>cough</nvs> <SC>play the</SC> <F>er</F> play in the field <.></.> <R>next</R> next to the house.</B>
+</task>
+<followup>
+<A>You said you were living in <H pn="others4">XXX05</H>.</A>
+<B><F>Uh-huh</F> Yes.</B>
+<A><F>Uh-huh</F> Can you describe <F>er</F> your neighborhood?</A>
+<B>Yes, <F>er</F> <nvs>cough</nvs> It may be <F>er</F> so same as this picture. But my house is not <F>er</F> such a bigger house. And <F>er</F> in front of my house <F>er</F> there are <.></.> <F>er</F> a small forest in front of my house. And <F>er</F> the next <F>er</F> <R>there is</R> there is a shrine <.></.> <F>er</F> <nvs>cough</nvs>. The road <F>er</F> <.></.> in front of my house is very <F>er</F> much <F>er</F> road is <F>er</F> slope.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Right. Thank you very much. Now let's do a role-play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K. <F>Er</F>. Just a minute, this one, here. <F>Er</F> take a look and when you are ready, I'll begin the role-play.</A>
+<ctxt>The examinee is looking at the card and preparing for the role-play.</ctxt>
+<B>O K.</B>
+<A>O K? Right. Yes sir, may I help you?</A>
+<B>Yeah <F>er</F> I would like to take a ticket to New York. And <F>er</F> <SC>most</SC> <F>er</F> the slowest way. <F>er</F> <R>Can you</R> can you tell me?</B>
+<A><F>Well</F> we have the <F>er</F> express trains.</A>
+<B>Yeah, <F>er</F> <..></..> <F>er</F> <nvs>cough</nvs> <..></..> <F>er</F>. <R>How</R> <SC>how <F>er</F> do I</SC> <nvs>cough</nvs> <F>a</F> sorry, <F>er</F> <R>Where</R> where <F>er</F>can I take a ticket?</B>
+<A>You can buy tickets right here.</A>
+<B>Right here? <F>Oh</F> thank you. <F>Er</F> <.></.> when is next train <R>to</R> to New York? <R>The</R> <SC>the</SC> when is the departure time?</B>
+<A><F>Hm</F>. It will leave in one hour.</A>
+<B>One hour. Thank you. O K. The train, <R>what time</R> <F>er</F> <nvs>cough</nvs> what time is <R>th</R> the arrival time <R>to</R> to New York?</B>
+<A>It will take three hours.</A>
+<B>Three? Take time three hours? <F>Oh</F>, thank you. O K. I will buy the ticket to New York.</B>
+<A><F>Hm</F>. O K. Smoking, non-smoking?</A>
+<B><F>Er</F>. Non smoking, please.</B>
+<A>Eighty dollars, please.</A>
+<B>O K.</B>
+</task>
+<followup> 
+<A>O K. Thank you. This is the end of the role-play. <.></.> <F>Um</F>. Have you been to foreign countries?</A>
+<B>Yes, <F>er</F> several times.</B>
+<A>Have you taken a train in one of those countries?</A>
+<B><F>Er</F>. Yes, <F>er</F> in Europe.</B>
+<A>What was it like taking a train in Europe?</A>
+<B>Very good, I think.</B>
+<A>Can you describe what it was like?</A>
+<B><F>Er</F>. So <F>er</F> it was very beautiful sightseeing. <F>Er</F>. <nvs>cough</nvs> <..></..> Maybe <F>er</F> <SC>it's a</SC> <.></.> <R>we can not see</R> we can not see the such a sightseeing in Japan. <R>I</R> <nvs>cough</nvs> <F>er</F> I went to <.></.> so <F>er</F> Paris <F>er</F> <R>I went</R> I went to France and Switzerland and <R>I</R> <nvs>cough</nvs> I <F>errr</F> <??></??> <?>alone the</?> <F>er</F> from Paris to <?>Geneva</?>. And <.></.> finally from <?>Geneva</?> to Rome, over the Alps mountains. Very, very, good, beautiful sightseeing.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Good. Thank you. Let me show you our last picture.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>This one. Now this is a story that began here, number one, went this way, and that's the end. Now this story took place one day last week. So please come up with your own story based on these pictures. And begin your story with "One day last week".</A>
+<B>O K <F>err</F>. <nvs>cough</nvs> <.></.> One day last week, <F>er</F> <nvs>cough</nvs> <F>er</F> the father and son <F>er</F> went to the restaurant in the down town. So <F>er</F> <nvs>cough</nvs> in the restaurant, <F>er</F> <SC>the father</SC> <.></.> I think <F>er</F> the father invites the son <F>er</F> <nvs>cough</nvs> restaurant for <.></.> <?>let's say</?> <F>er</F> <..></..> <SC>a very</SC> it's a very good restaurant, so <SC>the son</SC> maybe the son <F>er</F> <R>have</R> <F>er</F> have not went to the such a restaurant. <..></..> So <F>er</F> <nvs>cough</nvs> <..></..> <SC>on the</SC> <F>er</F> maybe the father said <F>er</F> whatever the son <F>err</F> likes <SC>dish</SC> dishes and <F>er</F> <nvs>cough</nvs> <R>they</R> <.></.> <R>they</R> <nvs>cough</nvs> they ate some dish <nvs>cough</nvs> kindly or happily. Maybe <F>er</F> <SC>the son eat</SC> <F>er</F> <SC>the <.></.> son</SC> <R>the</R> <.></.> the son orders a fish dish and the father the maybe chicken dishes. <F>Er</F>. The son <SC>is very</SC> was very satisfied, too much eat. <R>The</R> <nvs>cough</nvs> <.></.> the father <R>pay the</R> <F>er</F> <.></.> <SC>pay the</SC> father <R>pay</R> pay the fee and finally, <F>er</F> they said goodbye <SC>and that</SC> <..></..> and parted. Yes.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Right. Thank you. Right, we're almost at the <R>end of the</R> <F>er</F> end of the interview <F>urm</F> do you enjoy going out to eat?</A>
+<B>Out to eat?</B>
+<A>Do you enjoy eating outside?</A>
+<B>Yes. <.></.> <SC>Three or</SC> two or three time in a month.</B>
+<A><F>Mmm</F>. I see. What is your favorite thing to eat?</A>
+<B><F>Mm</F>. My favorite and our family favorite is <SC>Chinese</SC> very cheap Chinese.</B>
+<A><nvs>laughter</nvs> <F>Oh</F> O K but delicious?</A>
+<B><F>Er</F> <JP>Gyoza ramen</JP> and hot noodle.</B>
+<A>So is there a favorite restaurant that you take your family to?</A>
+<B>Yes, sure.</B>
+<A>Right, thank you. This is the end of the interview.</A>
+<B>Thank you.</B>
+<A>So thank you very much. Just a moment, please.</A>
+</stage5>
+</body>
+</interview>

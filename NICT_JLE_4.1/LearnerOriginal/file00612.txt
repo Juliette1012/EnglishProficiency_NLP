@@ -1,0 +1,210 @@
+<interview>
+<filename>file00612.txt</filename>
+
+<head version="1.3">
+<date>2001-09-20</date>
+<sex>female</sex>
+<age>36</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><R>Good e</R> good evening.</A>
+<B><OL>Good evening</OL>.</B>
+<A><OL>My name</OL> is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B><F>Mm</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A><R>Can I</R> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. Thank you. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Ur</F>. <R>I</R> <R>I live in</R> <F>ur</F> I live in <H pn="others1">XXX03</H>, <F>ur</F> <H pn="others2">XXX04</H> City with <R>my fa</R> <F>ur</F> my father.</B>
+<A><OL><F>Oh</F> I see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>Tell me about your father.</A>
+<B><nvs>laughter</nvs> <laughter>Father</laughter>? <F>Mm</F> <F>um</F>. My father is <F>mm</F> seventy two years old. <F>Mm</F>. And <R>he</R> <F>mm</F> he doesn't work now. <F>Mm</F>. And <R>he</R> <F>ur</F> he likes <F>mm</F> <F>uh</F> <SC>potter</SC> pottery. <F>Mm</F>. <laughter><R>But</R></laughter> but <R>he</R> <F>em</F> <SC>he have</SC> <F>mm</F> he had <F>urr</F> backache problem, <F>mm</F> <OL>yeah</OL>.</B>
+<A><OL>O K</OL>. How do you take care of your father? <OL><??></??></OL>.</A>
+<B><OL><F>Urrm</F></OL> <F>mm</F> <F>mm</F>. <SC>I said</SC> I say <F>mm</F> <SC>for him</SC> <F>urr</F> to him <F>mm</F> <F>uh</F> <F>um</F> <R>don't</R> don't bring <R>heavy</R> heavy things. <F>Mm</F>. <SC>And</SC> <R>but</R> <F>mmm</F> but <F>mm</F> moved very well.</B>
+<A>Good.</A>
+<B><F>Mm</F>. Walking and swimming.</B>
+<A>Good. But, does he follow your advice?</A>
+<B><laughter>Yes</laughter>. <F>Mm</F>. Yes.</B>
+<A><F>Well</F>. You must be busy <SC>take care of</SC> taking care of him. But, in your free time, what do you like to do?</A>
+<B>Me?</B>
+<A><OL>Yes</OL>.</A>
+<B><OL>Yes</OL>. <F>Uh</F> <F>um</F>. <R>I</R> I like cooking and baking <F>mm</F> and <F>mm</F> <SC>thinking</SC> <F>uh</F> <SC>sing</SC> <R>singing</R> singing classic music.</B>
+<A><F>Oh</F>. I see. That's interesting.</A>
+<B><nvs>laughter</nvs></B>
+<A>Tell me more about your <R>cla</R> classical songs?</A>
+<B><F>Ur</F>. Classical song? <F>Mm</F>. <R>I</R> <F>mm</F> <F>mm</F> <R>I</R> <F>ur</F> <F>mm</F> <R>I</R> <.></.> I go to <R>some</R> <F>mm</F> some lesson <F>mm</F> for classic music. <F>Mm</F>. And <R>I</R> <F>um</F> I sing, <F>mmm</F> <F>mm</F> for example, <F>ur</F> <R>Mozart and</R> <F>mm</F> Mozart and <F>mm</F> <F>mm</F> famous <??></??>. <F>Uum</F>.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A>Do you sing alone? Or, do you sing with other people?</A>
+<B>Yes. <F>Mm-hm</F>. Yes. But <F>mm</F> <F>mm</F> many people <SC>and</SC> or <R>alone</R> <F>mm</F> alone <SC>sing</SC> <SC>sings</SC> <OL>singing</OL>.</B>
+<A><OL>I see</OL>. <R>What</R> what is good about singing?</A>
+<B><F>Urr</F> <F>mm</F>. <R>It</R> <F>mm</F> <R>it</R> <F>ur</F> it is <F>mm</F> <F>mm</F> creative and <SC>open</SC> opened. <OL><F>Mm-hm</F></OL>.</B>
+<A><OL><F>Mhm</F></OL>. Yeah. I understand. Do you sometimes sing in front of your father?</A>
+<B><laughter>No</laughter>. <F>Mm</F>. <SC>She is</SC> she likes <F>mm</F> classic <SC>music</SC> <F>ur</F> musics. <F>Mm</F>. But <laughter><R>he</R></laughter> <F>mm</F> <R>he</R> <F>mm</F> <R>he</R> <R>he isn't</R> he isn't <F>uum</F> <R>good</R> <F>um</F> good at music.</B>
+<A><F>Oh</F>. I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Well</F>. Today, I'm going to show you a picture.</A>
+<B><F>Mm-hm</F>.</B>
+<A>O K, <H pn="B's name">XXX02</H>. Please describe this picture for me.</A>
+<B><.></.> "Cribe"?</B>
+<A>"Describe". Can you tell me what can you see in this picture?</A>
+<B><F>Urm</F> <F>ur</F>. <CO>Today</CO>. <F>Uh</F>. I'm sorry. <F>Mm</F> <F>ur</F>. This picture <F>mmm</F> <F>mm</F> is <R>in</R> <.></.> in famous restaurant. <F>Mm</F>. <R>And</R> <F>mm</F> <.></.> <F>mm-hm</F> and <F>urm</F> many people <R>mei</R> made reservation. <F>Mm</F>. And <F>um</F> a <R>som</R> <R>somelier</R> <F>ur</F> sommelier <F>urr</F> <SC>introduce</SC> <?>probably</?> <R>introduce</R> <F>um</F> <F>um</F> <F>ur</F> <F>mm</F> introduce <F>ur</F> wine. And <F>ur</F> a man test the wine.</B>
+<A><F>Mhm</F>. Good. O K, thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you sometimes going to such a restaurant?</A>
+<B><F>Mmm</F> <F>mm</F>. No. <F>Mm</F>. <R>I</R> I go to <R>the re</R> <F>um</F> the restaurant <F>mm</F> third time a year. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><F>Mm</F>.</B>
+<A>So you seldom go out for eating.</A>
+<B>Yeah.</B>
+<A>Most of the time, you eat</A>
+<B>Eat.</B>
+<A>meals at home.</A>
+<B><F>Mm</F>. Yes.</B>
+<A><F>Mhm</F>. <OL>I see</OL>.</A>
+<B><OL>My father</OL> <SC>like</SC> <F>mm</F> <R>likes</R> <F>mm</F> <R>likes</R> likes to eat in my home.</B>
+<A><F>Mhm</F>. I see. Because you're good at cooking and baking. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, let's do a role play.</A>
+<B>Role? Yes.</B>
+<A><.></.> O K. Please read the card. And, when you're ready, let me know.</A>
+<B><F>Mm-hm</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K.</B>
+<A>O K? May I help you, madam?</A>
+<B><F>Mm-hm</F>. Thank you. <R>I</R> I'd like to <F>umm</F> to New York by train. <F>Urm</F>. And <R>I</R> <R>I'm</R> <F>mm</F> <F>mm</F> <R>I'm <F>umm</F> hu</R> <SC>I'm hurry</SC> <F>uh</F> I hurry up. And, could you tell me <R>how to <F>urm</F> get</R> how to get any ticket?</B>
+<A><F>Uhm</F>. I am selling the tickets.</A>
+<B><F>Mm-hm</F>. <F>Mm-hm</F>. <F>Ur</F>. <.></.> <F>Urm</F>. <R>Which</R> <R>which train</R> which train <F>erm</F> does it get on?</B>
+<A><F>Mm-hm</F>. <F>Well</F>. We have two kinds of trains.</A>
+<B>Yeah.</B>
+<A>Local trains</A>
+<B>Yeah.</B>
+<A>and express <OL>trains</OL>.</A>
+<B><OL><F>Uh-huh</F></OL> <F>uhm</F> <F>ur</F>. O K. Express <R>t</R> <F>mm</F> train,</B>
+<A>O K.</A>
+<B>please.</B>
+<A><F>Mm-hm</F>.</A>
+<B>One ticket.</B>
+<A>Sure.</A>
+<B>Yeah.</B>
+<A>Do you know the price?</A>
+<B><F>Uh</F>. <laughter>How much is it</laughter>?</B>
+<A><F>Well</F>. It's forty dollars.</A>
+<B>Forty dollars? O K.</B>
+<A>O K.</A>
+<B><.></.> <F>Mm-hm</F>.</B>
+<A>And anything else?</A>
+<B><F>Mm</F>. Nothing.</B>
+<A><F>Well</F>. There are many platforms.</A>
+<B><F>Uh-huh</F>. <laughter>Sorry</laughter>. <F>Um</F> <F>ur</F>. <R>Where</R> <R>where <F>erm</F> does</R> where does it <R>leave plat</R> <F>mm</F> leave platform?</B>
+<A><F>Well</F>. It's on platform number five.</A>
+<B>Number five? Thank you.</B>
+<A>O K. So here is your ticket.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Please</OL> have a good trip.</A>
+<B>Thank you very much.</B>
+<A>O K. That's the end of the role play.</A>
+<B><F>Mm</F>.</B>
+</task>
+<followup>
+<A><F>Ur</F>. Do you sometimes travel?</A>
+<B><F>Urm</F> <F>mm</F>. Yes. <F>Mm</F>. <R>I</R> <F>mm</F> <R>I have</R> <.></.> <F>mm</F> <F>um</F> I have trip <F>ur</F> <F>mm</F> once a year. <F>Mhm</F>.</B>
+<A><F>Well</F>. Tell me about the last time</A>
+<B><F>Uhh</F>.</B>
+<A>you went <OL>somewhere</OL>.</A>
+<B><OL>Yeah</OL>. <F>Mm-hm</F>. Yes. <R>I</R> I have been to London last year</B>
+<A><F>Mhm</F>.</A>
+<B><F>um</F> by myself. <F>Mm</F>. Yes. <SC>And</SC> <nvs>laughter</nvs> yes, <F>mm</F> and <F>er</F> London and <F>mm</F> <R>St</R> Stratford-upon-Avon.</B>
+<A><F>Mhm</F>.</A>
+<B><SC>I like to <SC>watch the</SC> <F>mm</F> watch plays</SC> <F>mm</F> <F>mm</F> <.></.> <F>mm</F> I like to watch <F>mm</F> plays. <F>Mm</F> <F>ur</F>. And I <R>watched</R> <F>ur</F> watched <F>uum</F> <SC>some play</SC> some plays.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mm</F>. Shakespeare.</B>
+<A>Yes.</A>
+<B><F>Mm</F>. <R>I like</R> I like Shakespeare's <OL>story</OL>.</B>
+<A><OL>O K, <SC>which cities</SC></OL> which city do you like better <R>bet</R> between London and <SC>Stratforce</SC> <R>Strat</R> Stradford-on-Avon?</A>
+<B><F>Mhm</F> <F>um</F>. I like both there. <F>Mm-hm</F>. <F>Urm</F>. In Stradford-upon-Avon, is very beautiful river and <F>mm</F> grass seed field. <F>Mm</F> <F>Mm</F> Yeah.</B>
+<A>O K. Thank you. I wish I could go there someday. So, <OL>someday</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Finally today,</A>
+<B>Yeah.</B>
+<A>I'll show you another picture.</A>
+<B>Yeah.</B>
+<A><.></.> This time, I would like you to make up a story based on these pictures.</A>
+<B><F>Mm-hm</F>.</B>
+<A>O K. When you're ready, please start.</A>
+<B><F>Mm-hm</F>. O K. <.></.> <R>I</R> I went to the <R>zoo</R> <F>ur</F> <F>mhm</F> <F>mm</F> <R>Zoorasia</R> <nvs>laughter</nvs> Zoorasia in Yokohama <F>mm</F> with <R>my friend</R> my friend. <F>Mm</F>. We watched <R>some</R> <F>ur</F> some animals. <F>Mm</F> <F>mm</F>. For example, <SC>lion</SC> lions and white bears and <F>mmm</F> monkeys, et cetera. <.></.> <F>Mm</F>. Lion is <F>mmm</F> <R>fear</R> fear, <F>mm</F> I think. <F>Mm</F>. <F>Mm</F>. <R>Mon</R> <F>mm</F> monkeys is <F>mm</F> very cute. <F>Mm</F>. <R>They</R> <F>um</F> <R>they</R> <R>they</R> they <R>ate</R> ate <F>mm</F> bananas. <nvs>laughter</nvs> We ate <F>mm</F> ice cream. <R>We</R> <R>we</R> <F>mm</F> we enjoyed in there very much.</B>
+<A>Good. Thank you for the story.</A>
+</task>
+<followup>
+<A>Have you been to this new Zoorasia zoo?</A>
+<B>No. <R>I</R> I haven't been there yet.</B>
+<A><F>Mhm</F>. But, do you like animals?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mm-hm</F>.</B>
+<A>Do you keep any pet?</A>
+<B>No, <R>I</R> <R>I</R> <F>mm</F> I don't now. <OL><R>But</R></OL></B>
+<A><CO><OL>But</OL></CO>.</A>
+<B><F>mm</F> but <R>I</R> <F>mm</F> I have <F>mm</F> two dogs <F>mm</F> ten years ago. <OL><F>Mhm</F></OL>.</B>
+<A><OL><F>Mhm</F></OL>. What were the names?</A>
+<B>Names? <laughter><F>Uh-huh</F></laughter>. <F>Mm</F>. <R>She</R> <SC>she name's</SC> <F>ur</F> her names <F>mm</F> <F>ur</F> <R>Me</R> <F>ur</F> Megu. And <F>ur</F> <R>Megu and</R> <F>uh</F> Megu and <F>ur</F> <F>uh</F> <F>ur</F> no, no. <F>Mmm</F> Beth, yes. <CO>It</CO>.</B>
+<A>Why did you or one of your family members name those names?</A>
+<B><F>Mm</F> <F>erm</F>. <SC>Beth is</SC> <F>mm</F> <JP>nan te iuno</JP> <SC>Beth is</SC> <F>ur</F> <JP><??></??></JP> <F>mmm</F> <F>er</F> <R>tru</R> truth name is <F>mm</F> probably <SC>Be</SC> Elizabeth and bra bra bra. <F>Mm</F>. And <SC>Megu is</SC> <F>ur</F> <F>uh</F> <R>her</R> <SC>her</SC> <F>ur</F> <??></??> <SC>she is</SC> <F>uh</F> <R>she</R> she was born in my house. And we had <SC>four dogs</SC> <F>uh</F> four <SC>dog</SC> <F>ur</F> little dogs.</B>
+<A><F>Urr</F>. <F>Wow</F>.</A>
+<B><F>Mm</F>. And Megu is one of them.</B>
+<A><F>Mhm</F>. I see.</A>
+<B><F>Mm</F>. <R>She wa</R> <F>mm</F> <SC>she was very</SC> <F>err</F> <F>mm</F> <SC>she was</SC> <F>mm</F> <F>uh</F> <F>mm</F> <R>we</R> we didn't leave her. <F>Mm</F>.</B>
+<A>Good. Thank you. They must have been <F>ur</F> very lovely dogs.</A>
+<B><nvs>laughter</nvs> Thank you.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Well</F>. Interview is almost over now.</A>
+<B><F>Mm-hm</F>.</B>
+<A><H pn="B's name">XXX02</H>, after this, what are your plans?</A>
+<B><nvs>laughter</nvs> Today, <R>I</R> <nvs>laughter</nvs> <R>I</R> <R>I will go</R> I will go to <F>ur</F> music lesson. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mhm</F></OL>. <F>Wow</F>. You're so busy person.</A>
+<B><nvs>laughter</nvs></B>
+<A>I didn't <?>know</?> that. <F>Mhm</F>.</A>
+<B>Yeah.</B>
+<A>I see. How long does it take, that lesson?</A>
+<B>Two hour.</B>
+<A>Two <OL>hours</OL>?</A>
+<B><OL>Hour</OL>, yes.</B>
+<A><F>Wow</F>. So, while you're out, what is your father doing? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Mm</F>. <F>Mm</F>. <R>He</R> <F>mmm</F> <F>mm</F> he likes music.</B>
+<A><F>Urr</F>. I see. O K.</A>
+<B>Yeah.</B>
+<A>O K. Please have a very good lesson today.</A>
+<B><OL>And, thank you very much</OL>.</B>
+<A><OL>And, thank you very much for coming</OL>. Interview is over now.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

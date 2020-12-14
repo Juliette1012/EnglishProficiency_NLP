@@ -1,0 +1,207 @@
+<interview>
+<filename>E_file00476.txt</filename>
+
+<head version="1.3">
+<date>2001-06-25</date>
+<sex>male</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>550</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><H pn="A's name">XXX01</H>?</B>
+<A>Yes. Can I have your name, please?</A>
+<B><F>Ee</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B>I'm fine.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F>. And you? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter><F>Er</F> fine, thank you</laughter></OL>. O K. Where do you live?</A>
+<B><F>Err</F>. <R>I live in <F>er</F> <H pn="others1">XXX03</H> ci</R> <F>err</F> I live in <H pn="others1">XXX03</H> city <F>er</F> in <H pn="others2">XXX04</H> prefecture.</B>
+<A><F>Hum</F>. I see. Does your family also live there?</A>
+<B><F>Err</F> <F>um</F>. "Does your</B>
+<A>"Family".</A>
+<B>also <SC>live in</SC> live there?"?</B>
+<A>Live in <H pn="others1">XXX03</H> city?</A>
+<B><F>Oh</F>. Yes, yes. <F>Oh</F>. <R>Wi</R> with me.</B>
+<A><F>Uhu</F> <F>um</F>. <CO>Tell</CO>. <OL><F>Uhm</F></OL>.</A>
+<B><OL>Family</OL>? <F>Er</F>. <R>My</R> <av_pst odr="1" crr="only my wife">my wife only</av_pst>.</B>
+<A><F>Uum</F> <F>um</F>.</A>
+<B><F>Um</F>. <R>My</R> my father <F>err</F> <v_lxc odr="1" crr="lives">is</v_lxc> <prp_lxc1 odr="2" crr="in"></prp_lxc1> <F>er</F> <R>di</R> <at odr="3" crr="the"></at> different place, yes, in Tokyo. <OL>Yes</OL>.</B>
+<A><OL>I see</OL>. So, tell me a little bit about your wife.</A>
+<B><F>Um</F>?</B>
+<A>Tell me about your wife.</A>
+<B><F>Err</F>. My wife? <SC>My wife is</SC> <F>er</F> my <n_cs odr="1" crr="wife's name">wife name</n_cs> is <F>ee</F> <R><H pn="others3">XXX05</H></R> <H pn="others3">XXX05</H>.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Err</F>. <R>Her</R> her age is, <SC>twenty</SC> <F>er</F> <F>uh</F> sorry, twenty eight.</B>
+<A><F>Uh-hm</F>.</A>
+<B>Twenty eight.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Er</F>. My age is twenty nine.</B>
+<A><F>Um</F>. I see. <F>Um</F>.</A>
+<B><F>Err</F> <F>ee</F>. <R>I</R></B>
+<A><F>Um</F>.</A>
+<B><F>ee</F> <F>er</F> <R>I met</R> <R>I met her</R> I met her <F>er</F> about <R>ten</R> ten years ago.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Um</F> <F>er</F>. <R>I</R> <R>I got married</R> I got married <F>err</F> <F>er</F> <F>err</F> <R>four</R> four <R>years ago</R> years ago. Yes.</B>
+<A>What do you usually do on weekends with your wife?</A>
+<B>"What do you usually do?"? <F>Er</F>. Wife, weekend?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Err</F> <F>err</F> <F>um</F>. <R>Week</R> <F>uh</F> <SC>weekend</SC> <F>err</F> <prp_lxc1 odr="1" crr="on"></prp_lxc1> weekends, <F>err</F> <F>err</F> <R>we</R> <R>we</R> <F>mm</F> <R>we go to</R> we <v_cmp odr="2" crr="go grocery shopping">go to <F>urr</F> grocery shopping</v_cmp>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>In Chuo-rinkan.</B>
+<A>I see.</A>
+<B>Tokyu Store. <nvs>laughter</nvs></B>
+<A>Is that all?</A>
+<B><F>Um</F>?</B>
+<A>Is that all?</A>
+<B>"<R>Is</R> is that all?"?</B>
+<A><F>Uum</F>.</A>
+<B><F>Oh</F>. <R>Gro</R> grocery? "Is that all?"?</B>
+<A><F>Um</F>. Only grocery shopping on weekends?</A>
+<B><F>Err</F> <F>err</F> <F>er</F>. And, <F>uum</F> <F>uum</F> <F>er</F> <R>sometime</R> <av_lxc odr="1" crr="sometimes">sometime</av_lxc>, <F>err</F> driving</B>
+<A><F>Err</F>. I see.</A>
+<B>with her <F>err</F> <F>uum</F> to Yokohama.</B>
+<A><F>Err</F>.</A>
+<B><F>Er</F>.</B>
+<A><F>Uh-hm</F> <F>um</F>. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I have a picture to show you. O K. Please tell me about this picture.</A>
+<B><F>Oh</F>. This picture? <F>Err</F>.</B>
+<A><F>Um</F>. Please describe this picture.</A>
+<B>Yes. <F>Err</F> <.></.> <F>er</F>. <R>She</R> <R>she</R> she looks at a cat. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uh-hm</F></OL> <F>um</F>.</A>
+<B><F>Err</F> <.></.> <F>er</F>. A dog is <R>sleeping</R> sleeping. <F>Err</F>. <R>Door</R> <F>er</F> <F>er</F> <R>door</R> <R>door is</R> <F>err</F> the <R>door</R> door is <aj_lxc odr="1" crr="open">opened</aj_lxc>. <.></.> <F>Uum</F>. <.></.> <F>Err</F>. <R>It is</R> it is <F>ee</F> nine o'clock. <.></.> O K?</B>
+<A>Yes.</A>
+<B>O K?</B>
+<A>And?</A>
+<B><F>Err</F>. <.></.> <F>Er</F>. <R>she</R> <R>she</R> <SC>she is</SC> <F>err</F> <R>she</R> <R>she is</R> <F>err</F> she is in front of <at odr="1" crr="a"></at> P C. <F>Err</F>. <.></.> <F>Oh</F> <F>er</F>. O K. <F>Uum</F> <F>er</F>. <R>She</R> <R>she</R> <.></.> <R>she</R> she <v_agr odr="1" crr="wants">want</v_agr> to show <F>ur</F> someone <F>er</F> the P C. <.></.> <OL>O K</OL>?</B>
+<A><OL>O K</OL>.</A>
+<B>O K. <OL>Sorry</OL>.</B>
+<A><OL>Thank you very much</OL>. <F>Um</F>.</A>
+</task>
+<followup>
+<A>So, please compare this picture with your room.</A>
+<B><F>Err</F>. My room? <F>Uum</F>. <.></.> <F>Uum</F> <F>err</F> <F>er</F>. <SC>She</SC> <F>er</F> <pn_inf odr="1" crr="her">her's</pn_inf> room <R>is</R> <F>er</F> is <aj_lxc odr="2" crr="cleaner">clearer</aj_lxc> <SC>than <laughter>me</SC></laughter></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> than my room. <F>Err</F> <F>uum</F>. <.></.> <F>Er</F>. Compare? <F>Uum</F> <F>er</F>. <R>Her's</R> <pn_inf odr="1" crr="her">her's</pn_inf> stereo is <F>er</F> bigger than <SC>me</SC> <F>er</F> <SC>my <JP>ka</JP></SC> <R>my</R> my stereo. <F>Err</F>. <.></.> <F>Er</F> <F>uum</F>. <.></.> <F>Er</F> <F>uh</F>. <R>I have</R> <F>err</F> <R>I have <F>er</F> more</R> I have more <.></.> P Cs. <F>Err</F> <F>uh</F> <F>uum</F> <F>uh</F>. <R>I have</R> I have <R>two</R> two <SC>P C</SC> personal computers. <F>Err</F>. <R>She</R> she has only one.</B>
+<A><F>Hum</F> <F>um</F>. Why do you have two P Cs?</A>
+<B><F>Oh</F> <F>er</F>. Because <F>err</F> <R>I</R> <R>I usually</R> I usually use two Windows. <SC>My</SC> <F>err</F> and my wife <F>er</F> <v_agr odr="1" crr="uses">use</v_agr> Apple.</B>
+<A><nvs>laughter</nvs></A>
+<B><o_uit odr="1">Two P Cs <F>err</F> <?>easy</o_uit></?>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> I see</OL>. O K.</A>
+<B>O K.</B>
+<A>O K. That's O K. That's enough. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, I want to do a role play. And this is the role card for you. O K? First, please read this card.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Are you ready?</A>
+<B><.></.></B>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Let's start. May I help you, sir?</A>
+<B><F>Err</F>. <SC>I want to</SC> <F>ur</F> I'd like to go to <at odr="1" crr="">the</at> New York <F>err</F> by train.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Err</F> <F>er</F> <F>err</F>. Very <F>er</F> <F>er</F> <av_lxc odr="1" crr="quickly">faster</av_lxc>.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Err</F>. <.></.> <F>Err</F>. <.></.> <R>What time</R> what time <v_qst odr="2" crr="does the fastest train leave">the <R>fastest</R> fastest train <F>err</F> <v_lxc odr="1" crr="leave">bound</v_lxc></v_qst> for New York? <F>Err</F>. <R>What time</R> what time <v_qst odr="2" crr="does it arrive"><pn_lxc odr="1" crr="it"></pn_lxc> arrive</v_qst>? <CO>What time</CO>? <F>Err</F> <JP>Kippu</JP>? <F>Er</F>. Sorry. <F>Err</F> <F>er</F>. <R>How much</R> <SC>how much <F>err</F> the</SC> <R>how much</R> <.></.> <SC>how much <F>ee</F> <.></.> does it</SC> <JP>ja nai na</JP> how much <R>does it</R> <F>ee</F> <.></.> does it cost?</B>
+<A><F>Uh-huh</F>. It's thirty dollars.</A>
+<B><F>Er</F>. Sorry.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Thirty dollars? <F>Err</F>. <.></.> <F>Er</F> <F>err</F>. <R>Where</R> <F>er</F> <SC>where <F>err</F> the</SC> <.></.> where does the train arrive <F>err</F> <SC>New York</SC> <prp_lxc2 odr="1" crr="at">for</prp_lxc2> New York station?</B>
+<A>Track number fifteen.</A>
+<B>Track number fifteen?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Err</F>. <.></.></B>
+<A>You want to buy a ticket?</A>
+<B>Yes.</B>
+<A><F>Um</F>. You can buy a ticket here.</A>
+<B><F>Er</F> <F>err</F> <F>er</F>. Here?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh</F>. <R>Where</R> <R>where</R> <R>where can I</R> where can I buy the ticket?</B>
+<A><F>Er</F>. You can buy a ticket here.</A>
+<B>Here?</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. <.></.> <F>Er</F>. <.></.> <F>Uh</F>. <R>I want to buy</R> I want to buy the ticket.</B>
+<A><F>Um</F>. O K. So this is the ticket for you.</A>
+<B>Thank you.</B>
+<A>O K. Thank you very much. This is the end of the role play.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, thank you very much</OL>.</A>
+</task>
+<followup>
+<A><F>Er</F>. If you go on a travel, which do you like <av_lxc odr="1" crr="better"></av_lxc> traveling by train or by car?</A>
+<B><F>Oh</F> <F>ur</F>. Usually?</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. <R>I</R> <R>I like to</R> <.></.> <F>er</F> <F>er</F> I like to <R>d</R> <R>drive</R> <v_lxc odr="1" crr="travel">drive</v_lxc> <F>er</F> <o_lxc odr="2" crr="by car">by the car</o_lxc>.</B>
+<A>Why is that?</A>
+<B><F>Err</F>. <.></.> <F>Uum</F>. <R>I</R> <R>I</R> <R>I can <F>er</F> decide</R> <F>er</F> <.></.> I can decide <at odr="1" crr="the"></at> place <F>er</F> I want to go.</B>
+<A><F>Hum</F>. O K. Thank you very much.</A>
+<B>O K?</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter>Sorry</laughter>. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL>Finally, I have another</OL> picture to show you. O K? And <F>er</F> this one. Please make a story using these six pictures. O K?</A>
+<B>O K.</B>
+<A>And, please use this phrase at the beginning of your story, "One day last week". And picture one two three four five six.</A>
+<B><F>Err</F>. O K.</B>
+<A><F>Uhm</F>. Please <OL>make a story</OL>.</A>
+<B>"<OL>One day last week</OL>"?</B>
+<A><F>Um</F>.</A>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<A>O K. Please go ahead. Picture one.</A>
+<B><F>Err</F>. <..></..> <F>Err</F>. <.></.> <F>Er</F>. <R>Two</R> two <n_lxc odr="1" crr="people">person</n_lxc>?</B>
+<A><F>Um</F>. One day <OL>last week</OL>.</A>
+<B><SC>Person</SC></B>
+<A><F>Um</F>.</A>
+<B><.></.> <F>err</F>. <.></.> <R>two</R> two <n_lxc odr="1" crr="people">person</n_lxc>, O K?</B>
+<A>Yes, yes. Please go ahead.</A>
+<B><F>Err</F>. Two person <.></.> are <R>walking</R> <F>er</F> walking. <.></.> <F>Er</F>. <R>It</R> <R>it</R> <SC>it is rainy day</SC> <F>er</F> it was <at odr="1" crr="a"></at> rainy day. <F>Err</F>. <.></.> Two <n_lxc odr="1" crr="people">person</n_lxc> <SC>walk</SC> <R>walked</R> <F>err</F> walked on the street. <F>Err</F>. <.></.> <F>Ee</F>. <.></.> <R>Boy and girl</R> boy and girl <F>er</F> <SC>the</SC> <R>he</R> <R>he</R> he <v_lxc odr="1" crr="found">discovered</v_lxc> <F>er</F> a <R>box</R> <F>er</F> box <F>err</F> <SC>aside</SC> <prp_lxc1 odr="2" crr="on"></prp_lxc1> <at odr="3" crr="the"></at> side of <R>street</R> <at odr="4" crr="the"></at> street. <F>Err</F>.</B>
+<A>Picture two?</A>
+<B><R>He</R> <.></.> <R>he heard</R> he heard <F>er</F> <R>some</R> some sound. Sorry. <F>Err</F>. <.></.> <F>Err</F>. <.></.> <F>Er</F>. <SC>He</SC> <F>er</F> <R>she</R> she <v_tns odr="1" crr="opened">open</v_tns> the box. <F>Ur</F>. <R>She</R> she <v_lxc odr="1" crr="found">discovered</v_lxc> <F>er</F> a cat. <F>Er</F>. <.></.> <F>Eh</F>. <R>She</R> <.></.> <SC>she think</SC> <SC>she <R>thought</R> thought <F>err</F> <.></.> that <R>she</R> <F>err</F> <.></.> <R>she take</R> <SC>she take a cat</SC> <F>er</F> <SC>she want</SC> she wanted to take to</SC> <F>er</F> <JP>a souka</JP> she thought that she wanted to take the cat. <F>Err</F>. <.></.> <JP><F>Eeto</F></JP>. <R>He</R> <F>err</F> he didn't think that <F>err</F> <.></.> <F>err</F> <.></.> <F>ee</F> <R>he</R> <SC>he</SC> <F>uum</F> <F>er</F> sorry, <F>er</F> <R>he</R> <R>he</R> <SC>he opposite</SC> he <v_inf odr="1" crr="opposed">opposited</v_inf> <F>urr</F> it. <F>Err</F> <F>err</F>. <R>But</R> but, <F>urr</F> <F>urr</F> <R>finally</R> finally, <F>er</F> <R>she</R> <.></.> she <R>took</R> took <at odr="1" crr="the">a</at> cat. <F>Err</F>. <.></.> <F>Err</F>. <R>They</R> <R>they</R> they walked <F>er</F> with the cat on the street.</B>
+<A>O K. <OL>Thank you very much</OL>.</A>
+<B><OL>O K</OL>?</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>So the interview is almost over. Yes. <F>Um</F>. Are you going back <prp_lxc1 odr="1" crr="">to</prp_lxc1> your office now?</A>
+<B><F>Er</F>. Now?</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> <F>er</F>. <R>O</R> <SC>O</SC> <JP>hai</JP>, yeah.</B>
+<A>I see. <F>Uh-hm</F>. And, are you busy these days?</A>
+<B><F>Err</F> <F>ur</F>. <R>Recently</R> recently, <F>uum</F> <pn_lxc odr="1" crr="I">it</pn_lxc> <v_agr odr="2" crr="am" ch="1">is</v_agr> <R>not</R> not so busy.</B>
+<A><F>Er</F>. <laughter>That's good</laughter>. <laughter>So, enjoy your work</laughter>. This is the end of the interview.</A>
+<B><F>Er</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

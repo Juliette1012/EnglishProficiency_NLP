@@ -1,0 +1,207 @@
+<interview>
+<filename>file01126.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>325</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Mm</F> good.</B>
+<A><F>Mm</F>. O K. So it's a very beautiful day</A>
+<B>Yes.</B>
+<A>today. <F>Mm</F>. What do you like to do on a day like this? Sports?</A>
+<B><F>Ah</F> I'm very tired <nvs>laughter</nvs> <F>er</F> <R>and I</R> and I can't for sport. <F>Mm</F>.</B>
+<A><F>Mhm</F>. No sports.</A>
+<B><SC>No spor</SC> <F>ah</F> I good at <.></.> playing badminton.</B>
+<A><F>Ahh</F>.</A>
+<B>Yes.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>Do you belong to a circle?</A>
+<B><F>Mm</F> <H pn="school name1">XXX03</H> University <F>mm</F> <F>er</F> <..></..> <R>no</R> <R>not <.></.> <R>ha</R> ha</R> <OL>not have</OL> <F>mm</F></B>
+<A><OL><F>Mm</F> <F>ah</F></OL>. I see.</A>
+<B>badmington circle.</B>
+<A><F>Mhm</F>. O K. <F>Mm</F>. Then <F>er</F> in your free time, what do you do?</A>
+<B><F>Mm</F>. I play <SC>game</SC> T V game <F>mm</F> or shopping and <F>mm</F> reading the books.</B>
+<A><F>Mhm</F>. What kind of books?</A>
+<B><F>Ah</F>. <.></.> <SC>My favorite books</SC> <..></..> <SC>English book</SC> <R>I have</R> I have English book. Japanese T V program.</B>
+<A><F>Wow</F>. <F>Mhm</F>.</A>
+<B><laughter><??></??></laughter>.</B>
+<A>I see. <F>Wow</F>. <F>Mm</F>. <F>Mmm</F>. So do you like to study English?</A>
+<B>Yes, <R>I</R> <F>mm</F> I like to study English.</B>
+<A><F>Mmm</F>. So after graduation, would you like to use English in your work?</A>
+<B>Yes. <R>I</R> I study English <.></.> <SC>gradua</SC> <SC>after graduate Eng</SC> <F>ah</F> <SC?>isn</SC?> after graduate university.</B>
+<A><F>Mhm</F>.</A>
+<B>Yes.</B>
+<A>What kind of job would you like to have?</A>
+<B>My <R>dream</R> dream is <.></.> started <..></..> company.</B>
+<A><OL><F>Ohh</F></OL></A>
+<B><OL>Yes</OL>.</B>
+<A>Great.</A>
+<B><laughter>Yes</laughter>.</B>
+<A><laughter><F>Mm</F></laughter>. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'm going to show you a picture. Please</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>tell me anything about <OL>this</OL> picture.</A>
+<B><OL>Yes</OL>.</B>
+<A><nvs>cough</nvs></A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F>?</B>
+<A>What do you see?</A>
+<B><SC>At restaurant</SC> in restaurant. <.></.></B>
+<A>And?</A>
+<B>And <SC>three couple eats dinner</SC></B>
+<A><F>Umm</F>.</A>
+<B><F>ah</F> three couple eat dinner. One couple drink wine. <.></.> Seven time o'clock. Yes. <..></..> <SC>There is</SC> <.></.> there are <R>two</R> two waiter in here. A <R>wo</R> woman <R>pla</R> playing piano.</B>
+<A><F>Mmm</F>.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>O K. <OL>Good, thank you</OL>, <H pn="B's name">XXX02</H>.</A>
+<B><OL><??></??></OL>. Yes.</B>
+<A><nvs>cough</nvs> Please tell me about your favorite restaurant.</A>
+<B>Please tell me?</B>
+<A><F>Mm</F>.</A>
+<B>I beg your pardon? <nvs>laughter</nvs></B>
+<A><F>Mm</F>. Please tell me about your favorite restaurant.</A>
+<B>I work in <F>mm</F> Japanese <F>mm</F> <SC?>bi</SC?> <nvs>laughter</nvs> so <F>mm</F> Japanese favorite restaurant.</B>
+<A><F>Ah</F> you work in a Japanese restaurant?</A>
+<B>Yes.</B>
+<A><F>Ahh</F> I see. <F>Mmm</F>. <F>Er</F> <nvs>cough</nvs> what do you do there? What kind job is it?</A>
+<B><F>Mm</F>? What kind? <JP>shurui</JP>?</B>
+<A>You work in a Japanese restaurant.</A>
+<B>Yes.</B>
+<A>What do you do? Do you cook?</A>
+<B><.></.> <F>Em</F> waiter.</B>
+<A><F>Mm</F>.</A>
+<B>Yes.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A><F>Mmm</F>. Do you like your job <OL>there</OL>?</A>
+<B><OL><R>Ye</R></OL> yes.</B>
+<A>What are good points,</A>
+<B>Yes.</B>
+<A>about your job?</A>
+<B><F>Er</F> <..></..> as a waiter is very good <R>me</R> mens. <F>Mm</F>. And <.></.> <R>we</R> <F>er</F> <R>we have</R> you have to eat dinner <..></..> is very <F>mm</F> <laughter>delicious</laughter>.</B>
+<A><F>Oh</F>. <OL>I see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>That's nice.</A>
+<B>Yes.</B>
+<A>O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <nvs>cough</nvs> let's do a role play. Please read this card. <nvs>cough</nvs></A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes.</B>
+<A>O K. Du du du. Hello, <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello, <SC>my</SC> <F>er</F> <H pn="B's name">XXX02</H>.</B>
+<A><F>Ahh</F>. Hi, <H pn="B's name">XXX02</H>.</A>
+<B>Yes.</B>
+<A>What's up?</A>
+<B><F>Er</F> <..></..> <R>le</R> let's go <..></..> to <SC>see</SC> watch together.</B>
+<A><F>Mm</F>. Yes. <nvs>cough</nvs> Great.</A>
+<B><..></..> <R>When</R> <..></..> When are you meet me?</B>
+<A><F>Mm</F>. <F>Hmm</F>. How about tomorrow?</A>
+<B>Tomorrow? <R>How</R> <R>how</R> <F>mm</F> how o'clock?</B>
+<A>O K. How about one P M?</A>
+<B>One P M. O K. <..></..> <R>What's kind</R> <.></.> <SC>what's kind</SC> <..></..></B>
+<A><F>Mm</F>. What kind</A>
+<B><CO>What <OL>kind</OL></CO>?</B>
+<A><OL>of</OL></A>
+<B><F>Er</F>.</B>
+<A>Movie?</A>
+<B><F>Er</F> no. <..></..> I take a bus.</B>
+<A><F>Hmm</F>. <OL>O K, me, too</OL>.</A>
+<B><OL><R>How about you</R></OL> how about <laughter>you</laughter>? yes. <R>Le</R> <R>le</R> let's go together.</B>
+<A>Yes. O K.</A>
+<B>O K.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+<A>See you tomorrow.</A>
+<B>Yeah, <OL>see you tomorrow</OL>.</B>
+<A><OL>O K, good</OL>. Thank you.</A>
+</task>
+<followup>
+<A>So <F>er</F> please tell me about the last movie you saw.</A>
+<B><F>Errr</F> I saw <R>Lo</R> "Lord of the Ring".</B>
+<A><F>Hmm</F>. Was it good?</A>
+<B>So-so. <nvs>laughter</nvs></B>
+<A>Why so-so? Many people say "<F>Ah</F> it's a great movie.". <nvs>cough</nvs></A>
+<B>I enjoyed the movie, but <.></.> <R>I</R> I saw standing <R>ba</R> back.</B>
+<A><F>Ahh</F></A>
+<B>Yes.</B>
+<A>Too bad.</A>
+<B>I'm tired.</B>
+<A><F>Ahh</F> I see.</A>
+<B>Yes.</B>
+<A><F>Mmm</F>. O K. I understand. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, please, <?>let's do this</?>, make</A>
+<B><OL>Yes</OL></B>
+<A><OL>a</OL> story.</A>
+<B>Yes.</B>
+<A>From number one to four.</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><SC>We</SC> <F>er</F> <R>Ken and</R> <F>mm</F> Ken and Mary go to <.></.> zoo <F>mm</F> <F>er</F> <..></..> holiday. <..></..> <SC>They</SC> <..></..> first, <R>they</R> they watch the lion. Next, <..></..> they watch the <R>mo</R> monkey, have a <laughter>banana</laughter>.</B>
+<A><F>Mmm</F>.</A>
+<B>Yes. <..></..> As soon as <.></.> go out <R>zu</R> zoo, <.></.> they come back home.</B>
+<A><F>Mm</F>. O K.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>Good. Thank you. <F>Er</F> <H pn="B's name">XXX02</H>, what kind of animal do you like best?</A>
+<B>I like <R>dog</R> dog. <F>Mm</F>. <..></..> I like the best is Ducksfund.</B>
+<A><laughter><F>Ohh</F></laughter> I see. Do you have one?</A>
+<B>No. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mm</F></OL>. O K.</A>
+<B><R>I need</R> I need this.</B>
+<A><F>Mm</F>. O K. I understand. O K thank you,</A>
+<B>Yes.</B>
+<A><H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. But what are you going to do this evening?</A>
+<B><R>I</R> I study English</B>
+<A><F>Ahh</F>.</A>
+<B><R>next</R> next class. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B>Tomorrow.</B>
+<A>O K.</A>
+<B>Yes.</B>
+<A>O K. You sound like you're a good student.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>O K. Thank you</A>
+<B>Thak you.</B>
+<A>very much for coming in today.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL><??></??></OL> then. Thank you.</A>
+</stage5>
+</body>
+</interview>

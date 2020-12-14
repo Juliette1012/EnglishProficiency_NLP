@@ -1,0 +1,190 @@
+<interview>
+<filename>file00597.txt</filename>
+
+<head version="1.3">
+<date>2001-09-17</date>
+<sex>female</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. <F>Oh</F>? O K. O K. It's working. Let's start <?>it</?>. Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please.</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>O K, <H pn="B's name">XXX02</H>, where are you from?</A>
+<B><F>Urr</F> I'm from <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H>.</B>
+<A><F>Uh-huh</F>. Is it far?</A>
+<B>Yes. <F>Uh</F> <SC><H pn="others1">XXX03</H> <SC>is <F>ur</F> take</SC> <R>is takes</R> is takes <..></..> from</SC> <F>er</F> it takes <.></.> two hour from here.</B>
+<A>Two hours? <F>Ahh</F> I see. Do you live there with your family?</A>
+<B>Yes.</B>
+<A><F>Uh-huh</F>. Could you tell me more about your family?</A>
+<B><JP><F>Unto</F></JP> <SC>my family</SC> <F>uhm</F> there are <.></.> <F>uhm</F> father and mother <OL>and me</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. <F>Uh-huh</F>. So you are the only child.</A>
+<B>No. <F>Uhh</F> I have a <.></.> one <F>urr</F> <R>elder</R> elderly <.></.> sister and brother. But <F>uhm</F> <R>they</R> <.></.> <R>they</R> <.></.> they don't live with me.</B>
+<A><F>Oh</F>. Do you know why?</A>
+<B><F>Um</F>. <F>Uhm</F> my <.></.> elderly sister get married. <F>Urr</F> then she moved <.></.> <F>uhmm</F> <H pn="others3">XXX05</H> City, <F>err</F> <H pn="others4">XXX06</H> Prefecture.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>And</R> and <SC>brother is</SC> brother lives <.></.> <H pn="others4">XXX06</H> City in <R><H pn="others5">XXX07</H></R> <OL><H pn="others5">XXX07</H></OL>.</B>
+<A><OL><F>Ahh</F></OL>. O K. And <F>urr</F> what do you like to do in your free time?</A>
+<B><F>Ur</F> <R>I want to</R> I want to <F>uhm</F> climb mountains and <F>er</F> <SC>mountain bike</SC> <.></.> <F>er</F> <SC>ride bi</SC> ride mountain bike and <.></.> <R>ts</R> <.></.> touring.</B>
+<A><F>Ahh</F>. Why do you like mountain bikes?</A>
+<B><F>Uhmm</F>. <F>Uhmm</F> <SC>I</SC> <.></.> <R>when I</R> when I ride mountain bike, <F>uhm</F> <R>I</R> I usually go to <F>urr</F> <.></.> small mountain.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And then <R>I</R> <R>I</R> I ride <F>urr</F> off-road <.></.> by mountain bike <.></.> <F>ee</F> to mountain top.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. <R>I</R> I want to challenge <F>err</F> <.></.> outdoor sports.</B>
+<A>I see. Do you enjoy other outdoor sports?</A>
+<B><F>Uhmm</F>. But <F>ee</F> I have no time to do <.></.> some sports.</B>
+<A><F>Ah</F>.</A>
+<B><R>I</R> <JP><F>unto</F></JP> <SC>I worked</SC> <F>er</F> <R>I</R> <R>I work</R> <.></.> <F>uhm</F> I work <R>day</R> <.></.> daytime.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>And</OL> <F>er</F> <F>urr</F> I finish working, <R>I attend</R> I attend class at the university <SC>by</SC> until nine o'clock.</B>
+<A><F>Ahhh</F>.</A>
+<B>But the school is <.></.> <F>er</F> summer holiday now. But <SC>I</SC> <F>uhmm</F> <R>when I</R> <.></.> when I <?>work</?> day off, <SC>I have</SC> I must have a training <.></.> <F>er</F> <R>at</R> at the old people's home.</B>
+<A><F>Uhmm</F>. Old people's home.</A>
+<B>Yeah. <R>I want</R> I want to become social worker in the future.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uh-huh</F>. I see. That's nice. O K. Thank you very much. And I'd like to show you a picture. So</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>please describe this picture.</A>
+<B><SC>Today is <.></.> summer</SC> <F>urr</F> <.></.> today is <F>uhhh</F> Sunday. <F>Uhm</F>. <F>Uhmm</F>. <.></.> <F>Uhmmm</F>. <..></..> <R>She li</R> she lives <.></.> this home. And <.></.> she is her mother. And <R>she</R> she is <F>uhmm</F> <.></.> eight years old. It's <.></.> <F>ee</F> <?>she</?> <F>um</F> <.></.> and <.></.> they are <.></.> <F>uhm</F> her brother. <.></.> <F>Uhmmmm</F>. <.></.> And <.></.> <R>this is mother's</R> <.></.> <F>uhmm</F> this is mother's friend. <F>Uhm</F> <R>she</R> <.></.> <R>she come to</R> <.></.> <F>uhm</F> <F>ee</F> <R>she come to</R> <..></..> <F>uhm</F> <.></.> she come to <.></.> play <.></.> her home. <nvs>laughter</nvs> <F>Uhm</F> but <F>uhm</F> <.></.> <R>she</R> <.></.> she is going to <F>urr</F> go <F>ur</F> shopping <.></.> <F>urr</F> <..></..> <R>from</R> <.></.> <SC>from then</SC> <.></.> <F>er</F> <R>from</R> <R>from</R> <F>er</F> <R>from</R> from this town. So <R>she</R> <R>she</R> <??></??> <.></.> she can't <.></.> <F>uhm</F> get to <.></.> her house.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>.</B>
+</task>
+<followup>
+<A>O K. Thank you.</A>
+<B><nvs>laughter</nvs> <laughter>I'm sorry</laughter>.</B>
+<A>That's O K. <F>Urr</F> <H pn="B's name">XXX02</H>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Is your</OL> house similar to this picture?</A>
+<B>No. <F>Urr</F> my home is smaller than this picture home.</B>
+<A><F>Ahh</F>. I see. Are there any <??></??>?</A>
+<B><JP><F>Unto</F></JP>. <..></..> <F>Uhmm</F>. <SC>I</SC> <..></..> <F>uhm</F> there're no <.></.> dogs in my home.</B>
+<A><F>Ah</F>. Why?</A>
+<B><F>Uhm</F> <SC>my father</SC> <.></.> <SC>my fa</SC> <SC>my</SC> <F>er</F> <SC>long ago</SC> long time ago, <F>urrr</F> <.></.> <SC>one dog</SC> one black dog <.></.> is my home.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But <F>uhm</F> <.></.> it's died.</B>
+<A><F>Ahh</F>.</A>
+<B>And <..></..> <R>there're no</R> there're no <.></.> person <F>uhm</F> to take care of dogs.</B>
+<A>I see.</A>
+<B>I don't like dogs.</B>
+<A>Really?</A>
+<B>Dogs and Cats.</B>
+<A><R>Why</R> why not?</A>
+<B><F>Uhmm</F>. <.></.> <F>Uhmmm</F> <SC>ca</SC> <.></.> <R>I like <.></.> bird</R>. I like bird, <F>mm</F> for example <.></.> <JP>inko</JP> in <laughter>Japanese</laughter>. <F>Uhm</F> long time ago, <F>er</F> <R>when I</R> <SC>when I junior high school</SC> <F>er</F> when I <F>uhmm</F> <.></.> elementary school, <F>uhm</F> <.></.> grade <.></.> six, <F>uhm</F> <JP><F>unto</F></JP> <.></.> <R>my</R> <R>my bird <.></.> is</R> <SC>my bird is</SC> <F>er</F> my bird was <.></.> <R>ea</R> eaten <.></.> by cat. So I don't like cats.</B>
+<A><F>Ah</F> that's a sad story.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><laughter>O K</laughter>. Thank you. Now, we are going to do a role play. O K? So</A>
+<B><nvs>cough</nvs></B>
+<A>O K, please read this card to yourself. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Are you ready?</A>
+<B><F>Uhm</F>. Yes.</B>
+<A>O K. Ring ring. Hello.</A>
+<B>Hello. <JP><F>Unto</F></JP> <R>is</R> <.></.> <R>is</R> <laughter>is</laughter> you <?>ring</?>?</B>
+<A>Hello? Hello? <H pn="A's name">XXX01</H> speaking.</A>
+<B><SC>To</SC> <F>er</F> hello, this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, how are you today?</A>
+<B>How are you?</B>
+<A><OL>Good</OL>.</A>
+<B><OL><F>Uhmm</F></OL> I'm fine. <F>Uhhh</F> <.></.> <R>would you like to go to</R> <F>urr</F> <.></.> would you like to go to cinema <.></.> with me</B>
+<A><OL>Yes</OL>.</A>
+<B><OL><F>urr</F></OL> on next Sunday?</B>
+<A>Next Sunday? All right.</A>
+<B>O K?</B>
+<A>Yes.</A>
+<B><F>Uhmm</F> so <F>uhm</F> <.></.> <R>where do you want to</R> <F>urr</F> <.></.> <R>where do you want</R> where do you want to <R>wait</R> <..></..> wait?</B>
+<A><F>Urr</F> anywhere.</A>
+<B>Anywhere? So <F>uhmm</F> <.></.> <R>I wan</R> <.></.> I want to wait for <.></.> <R>Shinjuku Station</R> <F>mm</F> <.></.> Shinjuku Station, <SC><R>in front of</R> <.></.> in front of <R>east</R> <laughter>east</laughter></SC> <.></.> <R>in</R> in front of <.></.> Alta Store. <OL>Do you know</OL>?</B>
+<A><OL><F>Ahhh</F></OL>. Yes.</A>
+<B><F>Uhmm</F> <F>uhmmm</F> <..></..> <R>what</R> <R>what do you</R> <R>what do you</R> <SC>what do you</SC> <.></.> <R>what will you</R> what will you <.></.> <SC>come there</SC> <F>urrm</F> <.></.> come? <.></.></B>
+<A><F>Urr</F> I think I'll take <.></.> the <SC>train</SC> <OL>J R train</OL></A>
+<B><OL>Train</OL>? <OL>J R train</OL>?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhmm</F> <.></.> <F>uhmm</F> <.></.> <F>errr</F> <.></.></B>
+<A>And what time?</A>
+<B><F>Ah</F> <F>uhmm</F> <.></.> <F>err</F> <.></.> how about <F>uhmm</F> <.></.> ten o'clock A M?</B>
+<A>Ten? All right.</A>
+<B>O K?</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> See you. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Thank you very much. <?>Then</?>, see you. Bye-bye.</A>
+<B>Bye-bye.</B>
+<A>O K.</A>
+<B><OL>Sorry</OL>.</B>
+</task>
+<followup>
+<A><OL>This is</OL> the end of the role play. Thank you very much. Do you sometimes go to the movies?</A>
+<B>No. <.></.> <F>Uhm</F> <R>I</R> <.></.> <R>I</R> <F>uhm</F> <R>I</R> <.></.> I don't go to movie <OL>recently</OL>.</B>
+<A><OL><F>Oh</F></OL>. Really?</A>
+<B>I <?>have</?> no time.</B>
+<A><F>Uh-huh</F>. <nvs>laughter</nvs> O K. O K. <F>Er</F> which do you like better, going to the movie theater or renting a video?</A>
+<B><F>Ohh</F>. <F>Uhmm</F> <.></.> <SC>I wan</SC> <R>I like <.></.> better</R> <.></.> I like better <SC>going</SC> go to cinema</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>to</SC> <..></..> but I have no time.</B>
+<A><nvs>laughter</nvs> Why do you like to go to a theater?</A>
+<B><F>Uhmm</F>. <F>Uhmm</F>. <F>Mm</F>. <.></.> <R>I</R> <SC>I can relax <F>uhm</F> to <.></.> see</SC> <.></.> <SC>I like</SC> <.></.> I can relax <.></.> <F>uhm</F> while I <.></.> seeing the movie.</B>
+<A>I see.</A>
+<B><OL>And</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>uhmm</F> <..></..> <R>atmos</R> <R>atmos</R> atmosphere is good.</B>
+<A><F>Uhmm</F>. I see. Good. Thank you very much.</A>
+<B>Thank you.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. I'd like to show you one more picture. <??></??>it's a picture sequence. So please make up a short story based on these six pictures. And please start the story with "One day last week".</A>
+<B>One day</B>
+<A>O K?</A>
+<B><F>Uhmm</F>. <..></..> <F>Uhmm</F> last Saturday, <F>uhm</F> <R>I</R> I want to cook <.></.> special dinner. But <F>uhm</F> <R>there is</R> there is nothing <.></.> in refrigerator. So <.></.> I went to <.></.> <R>shopping</R> <F>uhm</F> <.></.> shopping <.></.> <R>super</R> <.></.> supermarket near my house. <.></.> And then <F>uhmm</F> <R>I look for</R> <.></.> <F>er</F> I look for <.></.> <R>some</R> <.></.> some food <.></.> <F>er</F> <R>for my</R> <.></.> for <R>my</R> <.></.> <R>my meal</R> <nvs>laughter</nvs> my meal. And <..></..> <F>er</F> after I finish <F>uhm</F> <.></.> looking for <.></.> <F>uhm</F> <R>some</R> <.></.> <R>some</R> some goods, <R>I</R> I went to <.></.> counter <R>to</R> <SC>to buy</SC> <.></.> <F>er</F> <R>to pay</R> to pay the bill.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> And then <F>uhmm</F> <..></..> <R>I</R> <R>I</R> <.></.> <R>I carried</R> I carried <R>the</R> the goods <F>uhm</F> <SC>my</SC> to <.></.> my car.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. <..></..> <R>And then</R> and then, <F>uhm</F> <..></..> <SC>after I finish <F>uhm</F> <SC>buy</SC> <F>er</F> <SC>shopping</SC> <.></.> <SC>go shopping</SC> <SC>going shopping</SC></SC> <F>uhm</F> <SC>I</SC> <.></.> after I finished <.></.> go shop, <.></.> <SC>I <.></.> start</SC> I started to cook <F>uhm</F> special dinner. First of all, <SC>I cook</SC> <.></.> I cooked <.></.> egg. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A><OL><nvs>laughter</nvs></OL> <laughter>O K</laughter>. <laughter>That's O K</laughter>. Thank you very much. Now the interview is almost over. So <F>urr</F> you said <SC>you come to</SC> you come here by train and it takes two hours.</A>
+<B>Two hours.</B>
+<A><SC>How do</SC> what do you usually do on the train?</A>
+<B><F>Er</F> pardon?</B>
+<A>What do you usually do to kill the time on the train?</A>
+<B>To kill?</B>
+<A><F>Uh-huh</F>. Do you read <.></.> books on trains?</A>
+<B><F>Ahh</F> <F>ahh</F>. <F>Uhm</F> <R>I</R> I always reads <.></.> book.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> now, <SC>I read</SC> <.></.> I <.></.> am reading <.></.> a book <F>uhm</F> <SC>the title</SC> <F>er</F> <.></.> <SC>which</SC> <F>er</F> whose title is <.></.> <F>uhmm</F> "Sadness <.></.> for Life". <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><JP><F>Unto</F></JP> <SC>the books is write</SC> <F>urr</F> <F>er</F> the books is written <F>uhm</F> Yamada Taichi.</B>
+<A><F>Ahhh</F> I see. Is it interesting?</A>
+<B>Yes.</B>
+<A>Really? <F>Uh-huh</F>. I see. Good. O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>The interview is over. Thank you.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

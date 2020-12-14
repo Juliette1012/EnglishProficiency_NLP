@@ -1,0 +1,168 @@
+<interview>
+<filename>file00156.txt</filename>
+
+<head version="1.3">
+<date>2000-10-05</date>
+<sex>male</sex>
+<age>36</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon. Thank you for coming. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you today?</A>
+<B>Fine thank you.</B>
+<A>O K.</A>
+<B>And you?</B>
+<A>Yes, fine thank you. Where do you live?</A>
+<B><.></.> <JP>Hai</JP>?</B>
+<A>Where do you live?</A>
+<B><F>Eh</F> I'm living in <H pn="others1">XXX03</H>.</B>
+<A>Where in <H pn="others1">XXX03</H>?</A>
+<B><.></.> <F>Eh</F> I live in <H pn="others2">XXX04</H>-<JP>ku</JP>.</B>
+<A>I see. <F>Uh</F>. How long does it take from your house to come here?</A>
+<B><F>Eh</F> <.></.> one hour.</B>
+<A><F>Um</F> I see. Does your family also live there?</A>
+<B>Yes.</B>
+<A><F>Nm</F>. Now, please tell me about your family.</A>
+<B>My family is <F>er</F> <..></..> child <..></..> <F>nh</F>.</B>
+<A><F>Ah</F> what do you do with your children on weekends?</A>
+<B><F>A</F> please.</B>
+<A>What do you do with children on weekends?</A>
+<B><F>Ehh</F> <.></.> we enjoy Japanese animation.</B>
+<A>I see, really? O K. Now, were you born in <H pn="others2">XXX04</H>?</A>
+<B>No.</B>
+<A>Where is your hometown?</A>
+<B><F>Ah</F> I'm born in <H pn="others3">XXX05</H>.</B>
+<A>I see. Are Tokyo and <H pn="others3">XXX05</H> different?</A>
+<B>Yes.</B>
+<A>What are the differences?</A>
+<B><..></..> <F>Eh</F> <.></.> people is busy <F>eh</F> in Tokyo</B>
+<A>Ah-ha.</A>
+<B>and it's <.></.> <F>umm</F>.</B>
+<A><nvs>laughter</nvs> How about food?</A>
+<B><F>Oh</F> <.></.> I live in <F>en</F> <F>ah</F> short time. <SC>A mo</SC> two month in Tokyo.</B>
+<A><F>Um</F>.</A>
+<B>So, <?>please</?> <F>oh</F> I don't know.</B>
+<A><laughter><F>Um</F> <R>O K</R> O K that's O K</laughter>. Now, what's your hobby?</A>
+<B><F>En</F> my hobby is fishing and <SC>car driving</SC> <OL>driving car</OL>.</B>
+<A><OL>I see</OL>. <F>Um</F>. For example, where did you go to do fishing?</A>
+<B><F>Oh</F>. <..></..></B>
+<A>Where do you go fishing?</A>
+<B><F>Ah</F> yeah. <R>I go to</R> I go to <F>uh</F> Yodo river.</B>
+<A><F>Ahh</F> I see. <.></.> <F>Nh</F>. Why is fishing so exciting?</A>
+<B><F>Umm</F>.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Nh</F>. <F>Eh</F>.</B>
+<A>Why do you like fishing?</A>
+<B><.></.> So, <SC>my father is</SC> my father likes fishing.</B>
+<A><F>Hm</F> <F>hm</F>.</A>
+<B><SC>He takes</SC> he take me. <.></.> <F>Umm</F>. <..></..></B>
+<A><F>Nn</F> did you learn fishing from your father?</A>
+<B>Yes.</B>
+<A>I see.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much. Now, I have a picture to show you. O K? Please look at this picture and please describe it in English. O K? Go ahead.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>There is the big house <F>um</F> and <..></..> the sun is shining.</B>
+<A><F>Um-hm</F>.</A>
+<B><.></.> <F>Oh</F> <.></.> <F>mm</F>. <.></.> The man is reading newspaper on the bench <.></.> and <..></..> the man that a <R>blue</R> blue training shirt is training. <.></.> He's running. <.></.> The child is playing volleyballs. <..></..> <SC>The dogs</SC> the two dogs <.></.> <F>nh</F> playing <F>nh</F> <.></.> in the garden.</B>
+</task>
+<followup>
+<A>O K. Now, do you live in a house or in an apartment?</A>
+<B>I live in Japanese terrace house.</B>
+<A>Terrace house? <F>Hmm</F> I don't understand. Please explain "terrace house".</A>
+<B>Terrace house is <F>er</F> <.></.> apartment <F>nh</F> that <F>er</F> <.></.> <SC>one</SC> <..></..> <F>mm</F> <..></..> two families in <OL>one house</OL>.</B>
+<A><OL><F>Oh</F> I</OL> see.</A>
+<B><R>One</R> one building.</B>
+<A><F>Nh-huh</F>. <F>Nh</F>.</A>
+<B><?>E</?>, <R?>two</R?>.</B>
+<A><F>Nm</F>. What's the advantage of living in the house like that?</A>
+<B>Once more, please?</B>
+<A><OL>What's the</OL> advantage of living in the terrace house?</A>
+<B><F>Oh</F>. Terrace house is cheap.</B>
+<A><F>Oh</F> really? <nvs>laughter</nvs> O K. thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I want to do a role-play with you. So, please read this card carefully. And, when you are ready, I'll start. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Are you ready?</A>
+<B>Yes.</B>
+<A>O K. May help you, sir?</A>
+<B><R>I'm</R> <.></.> I'm going to New York. So <R>please</R> please tell me the <R>ticket</R> ticket house?</B>
+<A><F>Um</F> <R>you</R> you can buy a ticket here.</A>
+<B><F>Oh</F> yes. <SC>How much is</SC> how much New York?</B>
+<A><F>Um</F> actually, there are two different kinds of trains.</A>
+<B><?>O K</?>. <??></??></B>
+<A><F>Um-hm</F>. <F>Ah</F> one is the express train and the other is local train.</A>
+<B><F>Oh</F> <F>eh</F> <.></.> I'm going to <??></??> and <R>please how much is</R> please how much is express train?</B>
+<A><F>Um-hm</F> <F>nh</F> that's fifty dollars.</A>
+<B>I see. <.></.> <SC>Please buy</SC> please <?>take</?> the ticket to New York?</B>
+<A>O K, this is your ticket.</A>
+</task>
+<followup>
+<A><R>O K</R> <R>O K thank you very much</R> O K, thank you very much. Have you ever traveled abroad?</A>
+<B><.></.> <?>Once more please</?>?</B>
+<A><F>Um-hm</F>. Have you ever traveled abroad? Have you ever been to foreign country?</A>
+<B>Yes.</B>
+<A><F>Nh</F> <R>which</R> <F>ah</F> which country is your favorite?</A>
+<B><F>Nh</F> I like Japanese best.</B>
+<A><nvs>laughter</nvs> How about foreign countries? <nvs>laughter</nvs> <.></.> For example, which country did you go?</A>
+<B><F>Ahh</F> <SC>I go to</SC> <.></.> <?>I've</?> go to <..></..> North Europe.</B>
+<A>North Europe? <F>Um</F>.</A>
+<B><??></??></B>
+<A>I see. How did you like North Europe?</A>
+<B><..></..> <F>Nmm</F>. <SC>My wife is</SC> my wife like Europe, so, <R>I</R> <R>I</R> <R>I go to</R> I go to <?>Europe</?> with my <?>wife</?>.</B>
+<A><nvs>laughter</nvs> But, do you like Europe or not?</A>
+<B><??></??></B>
+<A><nvs>laughter</nvs></A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, now next picture. I have another picture to show you. This time, please make a story from these six pictures. O K? This happened one day last week. So, please start your story with this phrase, "one day last week," and one, two, three, four, five, six. O K? Go ahead.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<A>O K? <??></??>?</A>
+<B><R>She is</R> she is going to going to deparment store. <..></..> And <R?>she will</R?> <.></.> <?>she is leaving</?> <??></??> <R>for her</R> <R>for her</R> <..></..> for her boy friend <R>to buy</R> to buy the necktie. <.></.> <SC>She is</SC> <.></.> <?>she would like to sell the necktie</?>. <.></.> She ask for advice to <.></.> department staff. <.></.> <SC>She is</SC> <.></.> <R>she</R> <R>she</R> <??></??> she buy the <nvs>sniff</nvs> necktie. <..></..> So <..></..> <SC>she want to go to another</SC> <..></..> she want to go to another floor of another <??></??>, <SC>for buy the another</SC> for buy another <??></??>. <.></.> She ask the way to <.></.> <R>another</R> another floor <.></.> of deparment. She go to upstairs.</B>
+</task>
+<followup>
+<A><F>Um</F> O K, thank you very much. Please tell me about the last Christmas. Did you buy <F>er</F> some present for your family?</A>
+<B><F>Fu</F> yes.</B>
+<A><F>Nh</F>. Please tell me more about the last Christmas.</A>
+<B><F>Er</F> <..></..> <F>er</F> <R>I buy</R> <..></..> <F>mm</F> <..></..> I buy the <.></.> T V game for my son.</B>
+<A>I see.</A>
+<B>It is Japanese <OL>animation character</OL>.</B>
+<A><OL><F>Ah-ha</F> <nvs>laughter</nvs></OL>.</A>
+<B><.></.> <?>I'm not, I'm my present</?> for my wife.</B>
+<A><F>Oh</F> that's a problem. <nvs>laughter</nvs></A>
+</followup>
+</stage4>
+<stage5> 
+<A>O K, thank you very much. The interview is almost over. <F>Um</F> you are going to have a English lesson this evening?</A>
+<B><F>Um</F>.</B>
+<A>Right? Have ever taken this kind of lesson before?</A>
+<B>No, I'm <??></??>.</B>
+<A><F>Oh</F>. So, this is the first time? <F>Um</F>. Are you excited? <laughter>Are you scared</laughter>?</A>
+<B><F>Nh</F>. <..></..> <OL><??></??></OL></B>
+<A><OL><F>Nh</F></OL>. Are you happy with taking this kind of English training?</A>
+<B><F>Uh</F> <F>ah</F> yes. <R>I need</R> I need English <??></??>.</B>
+<A>O K, I'm happy to hear that. O K, thank you very much. This is the end of this interview. O K, thank you very much.</A>
+</stage5>
+</body>
+</interview>

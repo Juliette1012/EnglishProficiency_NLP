@@ -1,0 +1,213 @@
+<interview>
+<filename>file00687.txt</filename>
+
+<head version="1.3">
+<date>2001-12-17</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello. My name is <H pn="A's name">XXX01</H>.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>May I</OL> have your name, please?</A>
+<B><F>Err</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you</OL>.</B>
+<A>How are you today?</A>
+<B><F>Err</F> I'm <laughter><?>s</?></laughter> fine. <F>Oh</F>.</B>
+<A><nvs>laughter</nvs> O K. So <H pn="B's name">XXX02</H>, <F>erm</F> what year are you in the university?</A>
+<B><F>Err</F> <R?>wha</R?> <R>what</R> what year?</B>
+<A><F>Ah-huh</F>. First year? Second year?</A>
+<B><F>Err</F> first year.</B>
+<A>First year.</A>
+<B><F>Ah</F>.</B>
+<A>O K. What do you study?</A>
+<B><F>Err</F> <SC>I st</SC> <R>I s</R> <R>I s</R> <R>I stu</R> I study <F>err</F> <nvs>sniff</nvs> economy.</B>
+<A><F>Oh</F> <OL><?>great</?></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><F>Erm</F> are you enjoying studying economics?</A>
+<B><F>Err</F> yeah. Of course.</B>
+<A>O K. What <F>ah</F> are you interested in,</A>
+<B><OL><F>Err</F> <F>hm</F></OL>.</B>
+<A><OL>mostly</OL>?</A>
+<B><F>Err</F> <SC>it's</SC> economy is very logical.</B>
+<A><F>Hm</F>.</A>
+<B>So <F>um</F> <R>I</R> I can understand <.></.> <F>er</F> clear. <OL><F>Er</F></OL>.</B>
+<A><OL><F>Hum</F></OL> <.></.> O K. So <H pn="B's name">XXX02</H>, <F>er</F> where do you live?</A>
+<B><.></.> <F>Err</F>. <.></.> No.</B>
+<A>Where do you live?</A>
+<B><F>Ooh</F>. <F>Err</F> <R>I live</R> I live in <H pn="others1">XXX03</H> at <H pn="others2">XXX04</H>.</B>
+<A><F>Hum</F>. O K. Can you describe <SC><H pn="others1">XXX03</H></SC> <F>ah</F> <H pn="others1">XXX03</H>?</A>
+<B><F>Err</F> <.></.> <F>ehm</F> <F>err</F> <..></..> <H pn="others1">XXX03</H>. <JP><F>Ehh</F></JP> <.></.> <JP><F>ehh</F></JP> <.></.> <F>um</F> <F>ah</F> <.></.> describe?</B>
+<A><F>Huh-huh</F>. What kind of place is <H pn="others1">XXX03</H>?</A>
+<B><F>Err</F> <F>hm</F> <F>err</F> <H pn="others1">XXX03</H> is <F>err</F> not so big.</B>
+<A><F>Hum</F>.</A>
+<B><F>Err</F> <SC>that place is <?>very</?></SC> <F>er</F> that is <F>err</F> for living place, I think. <OL><F>Uh</F> so</OL></B>
+<A><OL><F>Hum-huh</F></OL>.</A>
+<B><F>huh</F> there is no big building, <F>ohh</F> <F>oh</F> but <F>err</F> supermarket,</B>
+<A><OL><F>Mh-huh</F></OL>.</A>
+<B><OL>or</OL> <F>err</F> <F>eh</F> drug store, <F>err</F> another <SC>shop</SC> small shop,</B>
+<A><OL><F>Hh-huh</F></OL>.</A>
+<B><OL>is</OL> very <F>er</F> <F>er</F> <R>many</R> many.</B>
+<A>O K. <F>Ahm</F>. <SC>Where</SC> <F>uh</F> sorry, do you live with your family?</A>
+<B><F>Ah</F> no. <F>Err</F> <SC>I</SC> my hometown is Shizuoka Prefecture so <OL>I</OL>,</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><SC>live in</SC> live alone.</B>
+<A>I see. <F>Ahm</F>. <SC>Do you</SC> <F>err</F> are there <R>any</R> any differences between Shizuoka and <H pn="others1">XXX03</H>?</A>
+<B><F>Err</F> <JP><F>e</F></JP> <F>hum</F>. <R>My</R> my hometown is not <SC>small</SC> <F>err</F> smaller than <H pn="others1">XXX03</H>, but <F>err</F> there are <R>many more</R> <F>uhu</F> many more people <OL><F>um</F></OL></B>
+<A><OL><F>Huh</F></OL>.</A>
+<B>than my hometown.</B>
+<A><F>Hh-huh</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Any other differences?</A>
+<B><F>Err</F>. <R>And</R> and <JP><F>eh</F></JP> <F>ahh</F> <F>ah</F> <F>ohh</F> <SC><SC>more</SC> <F>err</F> <SC>ma</SC> <F>huh</F> people or <F>mm</F> <R>many</R> many shops</SC> <F>err</F> <F>er</F> there are many shops in <H pn="others1">XXX03</H>. <F>Ahh</F> <R>and</R> and <F>err</F> <JP><F>ehh</F></JP> I think <F>err</F> <SC>this</SC> <R>my</R> <F>er</F> <F>err</F> <SC>my</SC> I think <F>ah</F> <SC><H pn="others1">XXX03</H>'s people are</SC> <R>not</R> <F>hum</F> not only <H pn="others1">XXX03</H>, <F>hum</F> but Tokyo's people <F>er</F> <F>er</F> walk so fast.</B>
+<A><laughter>O K</laughter>.</A>
+<B><F>Hum</F>.</B>
+<A>O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. <OL>First of all</OL>,</A>
+<B><OL><?><JP>Hai</JP></?></OL> <F>hm</F>.</B>
+<A><F>hum</F> <.></.> I'd like you to look at this picture.</A>
+<B><JP><SC>Hai</SC></JP> yeah.</B>
+<A>And can you describe this picture for me?</A>
+<B><F>Ohh</F> I think <F>err</F> <F>err</F> this picture is <F>err</F> <F>mm</F> dinner time at restaurant <F>hum</F> <JP><F>e</F></JP> with couple.</B>
+<A><F>Hu-huh</F></A>
+<B><F>Um</F>. So <JP><F>eh</F></JP> <R>I think</R> <JP><F>eh</F></JP> I think <SC>this is the</SC> this is <F>mm</F> <R>their</R> <R>their</R> <F>hum</F> their memory days,</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><R>because</R></OL> <F>err</F> because <R>they</R> <R>they</R> they put on <F>ah</F> formal clothes.</B>
+<A><F>Hum</F>.</A>
+<B><SC>So</SC> and <F>errm</F> <JP><F>ehh</F></JP> I think <F>er</F> <R>this</R> this restaurant is <R>very</R> very <R>high</R> <R>high</R> high cost, <F>er</F> I think, <F>err</F> because <JP><F>ehh</F></JP> in good <.></.> wine they drink.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><SC>So</OL> <F>err</F> the</SC> and because there are pianos in restaurant. <F>Hum</F>. So <F>err</F> <.></.> <F>err</F> <F>err</F> I think <.></.> <F>er</F> <SC>they</SC> <R>a</R> <SC>another people is</SC> all people is put on <F>err</F> formal style. So. <F>Um</F>.</B>
+<A>O K.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+</task>
+<followup>
+<A><F>Hum</F>. <H pn="B's name">XXX02</H>, do you like eating in a restaurant?</A>
+<B><F>Err</F> yeah. Of course. <OL><F>Err</F></OL>.</B>
+<A><OL><F>Hh-huh</F></OL>. Can you tell me about your favorite restaurant?</A>
+<B><F>Err</F> <R>I</R> <R>I like</R> <F>err</F> I like Japanese food very much, <F>err</F> <SC>so</SC> of course. But I like restaurant in French or <JP>Itaria</JP>. <F>Mm</F> but I like the Japanese foods <F>err</F> <SC>most</SC> <F>a</F> best of all. <F>Err</F>. <CO>For example, <F>huh</F> <nvs>sniff</nvs> <F>uh</F> tempura <R>or</R> <F>err</F> or sushi or <.></.> something or</CO>. <F>Uu</F>. <F>Err</F> and I like eating foods <R>with</R> with alcohol. <F>Err</F> especially, I like beer.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL>It's a favorite</OL>. <F>Err</F>.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Next thing that I'd like to <OL>do</OL>,</A>
+<B><OL>Hai</OL>.</B>
+<A>is role-play.</A>
+<B><F>Hum</F>.</B>
+<A>O K. And please read <?>it</?>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><OL>And</OL> when you're ready, I'll start.</A>
+<ctxt>the interviewee is reading the card for a while</ctxt>
+<B><F>Err</F> <F>Hm</F>. <?>Reservation</?>? <nvs>sniff</nvs></B>
+<ctxt>The interviewer is reading the card.</ctxt>
+<A>O K?</A>
+<B>Yeah. <OL>O K</OL>.</B>
+<A><OL>Hello</OL>. May I help you?</A>
+<B><F>Err</F> <R>I</R> I want to go <R>New</R> New York <F>orr</F> <F>uum</F> and <F>er</F> <F>er</F> <SC>as soon as fa</SC> <R>as</R> as fast as I go <F>err</F> New York. So please tell me <F>err</F> <SC>where can</SC> where <SC>can I get on</SC> can I get to the train <F>err</F> <SC?>the pe</SC?> the fastest to New York?</B>
+<A>O K. You can buy ticket here.</A>
+<B><F>Ah-huh</F>. Yeah. <F>Err</F> how much does it cost?</B>
+<A>O K. The <F>ah</F> super- <R>e</R> express train is fifty dollars.</A>
+<B>Fifty dollars. O K. I'll buy it. <F>Err</F> where's the place <F>err</F> <SC>I</SC> can I get? <OL><F>Er</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+<B>Yeah.</B>
+<A>You can buy a ticket here.</A>
+<B><F>Ah-huh</F>.</B>
+<A>Yeah.</A>
+<B><.></.> So <F>oh</F> <F>err</F> <JP><F>eh</F></JP> I'll buy it. <F>Err</F>. <.></.> <F>Er</F> <R>please</R> <JP><F>eh</F></JP> please give me one ticket, please.</B>
+<A>O K. The super-express is leaving in about one hour.</A>
+<B><F>Oh</F> yeah.</B>
+<A>And a regular train is going to leave in ten minutes.</A>
+<B>Ten minutes.</B>
+<A><F>Hh-huh</F>.</A>
+<B>O K. <F>Err</F> so <F>err</F> <.></.> <F>err</F> <.></.> ten minutes <JP><F>so</F></JP> <F>err</F> <JP><F>ehh</F></JP> <F>ahh</F> <.></.> <F>ahh</F> <.></.> ten minutes. <F>Ohh</F> <R>whe</R> <R>where</R> <SC>where <F>err</F> can</SC> <R>where</R> <R>where <.></.> can</R> where can I get to the train?</B>
+<A><F>Ahh</F>. You can take the train on track number two.</A>
+<B>Number two?</B>
+<A><F>Ah-huh</F>.</A>
+<B>O K.</B>
+<A>For the super-express,</A>
+<B><OL><F>Huh</F></OL>.</B>
+<A><OL>is on</OL> number two.</A>
+<B>O K. Thank you.</B>
+<A>O K. So you'd like take the <F>er</F> super-express?</A>
+<B>Yeah. <F>Ah</F>. <.></.> <F>Err</F> what? <F>Ah</F>.</B>
+<A>Would you like to take the super-express?</A>
+<B>Yeah.</B>
+<A>O K. So it's fifty dollars.</A>
+<B>Fifty dollars.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>O K</OL>.</B>
+<A>O K. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you</OL>. Thank you very much.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. <F>Err</F> So next thing that I'd like you to do,</A>
+<B><F>Hm</F> <F>hm</F>.</B>
+<A>is</A>
+<ctxt>Interviewer is looking for the pictures.</ctxt>
+<A>look at this picture.</A>
+<B>Yeah.</B>
+<A>And there is six pictures here.</A>
+<B><F>Hm</F>.</B>
+<A>It happened last week. O K? Can you make a story,</A>
+<B><OL>O K</OL>.</B>
+<A><OL>by saying</OL> "One day last week"?</A>
+<B><F>Er</F> <F>err</F> <.></.> <JP><F>eh</F></JP> <R>A</R> a woman <F>er</F> last week <F>eh</F> <R>went to depart</R> went to department <F>err</F> <JP><F>ee</F></JP> <R>near the</R> near <SC>the</SC> her house. <F>Err</F> <SC>so</SC> because <SC>he want to buy</SC> he wanted to buy <F>err</F> the birthday present for his husband. <SC>So</SC> and <R>he</R> he went to the <F>err</F> floor <F>err</F> <R>of the</R> of the <R>n</R> necktie. <F>Err</F> so, <JP><F>ehh</F></JP> <R>he</R> <SC>he said</SC> <F>err</F> <F>ah</F> <R>she</R> <R>she</R> <SC>she said <R>to</R> to the <F>err</F> sho</SC> <F>err</F> <SC>she</SC> <SC>he</SC> she said <R>to the</R> <F>err</F> <JP><F>e</F></JP> to the man of the shop, <F>err</F> <F>e</F> "I want to buy necktie for my husband, <R>bir</R> birthday present.". So <F>err</F> <SC>he</SC> <F>a</F> she bought a necktie <F>err</F> <F>hum</F> <SC>with dec</SC> <R>with</R> with <F>err</F> <R>very</R> <R>very</R> <F>err</F> <.></.> very nice <F>err</F> decoration. <F>Er</F>. And <F>err</F> <R>she</R> <SC>she</SC> <SC>when <R>she wa</R> <F>er</F> she <SC>wen</SC> go</SC> <F>ah</F> when she <JP><F>ehh</F></JP> <SC>go to her</SC> got back her home, <F>err</F> <JP><F>ehh</F></JP> <.></.> <R>she <R>pho</R> phoned</R> <F>err</F> she phoned <F>er</F> <R>the</R> the shoes <F>err</F> of <R>the sale</R> <F>err</F> the sale. <F>Err</F> <R>thir</R> thirty percent off. <SC>So</SC> <F>err</F> and <F>eh</F> <SC>so she</SC> maybe <R>she</R> she bought it. <R>And</R> and <R>a</R> <R>after</R> after then, <F>erm</F> <R>she phoned</R> <F>err</F> <.></.> she phoned the bargain sale <F>err</F> again. <JP><F>Eh</F></JP> <SC>that</SC> <SC>this</SC> that times, bargain sale <R>was</R> was <SC>cloth</SC> clothes, <F>err</F> and the price was half of the regular time, so <F>err</F> <R>with</R> <F>er</F> with satisfaction, <R>she</R> <SC>she ge</SC> she went back home.</B>
+<A>O K.</A>
+<B><OL><?>Yes</?></OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+</task>
+<followup>
+<A><F>Uhm</F> <H pn="B's name">XXX02</H>, do you like shopping?</A>
+<B>Yes.</B>
+<A>O K. Tell me about last thing that you bought.</A>
+<B><F>Err</F> <SC>I</SC> <F>err</F> <R>last</R> <SC>last</SC> <F>err</F> <F>hum</F> I bought <F>err</F> <R>the</R> the <F>uhm</F> <SC>cloth</SC> <F>err</F> <R>coat</R> coat <F>err</F> <F>hm</F> at Harajuku. I often go Harajuku <F>hm</F> because <F>err</F> <SC>Harajuku</SC> <F>er</F> <SC>there</SC> <SC>Hara</SC> <F>err</F> at there, <F>err</F> there're <R>many</R> many shops <F>er</F> at Harajuku, so, I often go Harajuku. <SC>So</SC> <F>er</F> and <F>err</F> <SC>I went to see</SC> I went <SC>to the</SC> <F>err</F> to <F>err</F> <R>five</R> <F>ah</F> five shops. And <JP><F>ehh</F></JP> again, <F>err</F> I went to the five shops <F>err</F> <R>a</R> again. <F>Er</F> <R>so</R> <F>eh</F> <F>er</F> so, <F>err</F> at last, <F>err</F> I get the coat <F>err</F> at large shop. <F>Hm</F>. So that is <F>err</F> very high cost, <SC>so</SC> <F>er</F> <F>err</F> but <F>err</F> it's very nice for me so <R>I</R> I like it.</B>
+<A><F>Hum</F>. <R>So</R> so what kind of coat is it?</A>
+<B><F>Err</F> <SC>that is</SC> that coat is <F>err</F> <R>pea</R> pea coat. <F>Orr</F> so <SC>I like</SC> <F>ah</F> I want to <R>get it</R> <F>eh</F> get it <F>um</F> <SC>since</SC> <F>ah</F> for long time.</B>
+<A><F>Hum</F>. O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. So <F>err</F> it's almost the end of interview.</A>
+<B>Yeah.</B>
+<A>O K. Do you have classes after this interview?</A>
+<B><F>Err</F> yeah. <F>Err</F> the final class <F>uhm</F> will <R>be at</R> be <SC>at</SC> <F>er</F> <F>eh</F> on Wednesday.</B>
+<A><F>Hum</F>. So do you have any special plans for Christmas?</A>
+<B><F>Err</F> <F>err</F> <JP><F>eh</F></JP> now, I don't have any idea. Yeah. <OL><F>Er</F></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. Are you going to just relax,</A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL>in your <SC>ho</SC></OL> winter holiday?</A>
+<B>Yeah. Yeah.</B>
+<A><OL><F>Hm</F></OL>?</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>O K. <F>Well</F> I hope you have good Christmas.</A>
+<B>Yeah. <??></??> <OL><?>Thank you</?></OL>.</B>
+<A><OL><R>and</R></OL> and thank you very much <OL>for coming to the interview</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+</stage5>
+</body>
+</interview>

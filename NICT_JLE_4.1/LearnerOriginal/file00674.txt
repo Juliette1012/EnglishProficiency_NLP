@@ -1,0 +1,177 @@
+<interview>
+<filename>file00674.txt</filename>
+
+<head version="1.3">
+<date>2001-11-19</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>4</step>
+<TOEIC>430</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><F>Ur</F> My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Oh</F> Sure.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Urr</F> I'm so so because <F>ur</F> I woke up late. So I almost late to work. So I'm very <R?>ho</R?> <?>hot</?>. So I'm so so.</B>
+<A>O K. All right. Then <H pn="B's name">XXX02</H> <JP>san</JP>, where do you live?</A>
+<B><F>Ur</F> I'm live in <H pn="others1">XXX03</H>. <F>Ur</F> Do you know <H pn="others1">XXX03</H>?</B>
+<A>No.</A>
+<B><F>Ur</F> <SC>It is <F>ur</F> <F>ur</F> <R>Ch</R> <H pn="others2">XXX04</H> city</SC> <F>ur</F> <SC>there is</SC> <F>ur</F> <SC>my place</SC> my living place <F>er</F> in <H pn="others2">XXX04</H> city. <F>Ur</F> My nearest station is <F>ur</F> <SC>Ch</SC> <F>mm</F> <F>ur</F> nearest <SC>Chofu ci</SC> <H pn="others2">XXX04</H> station.</B>
+<A>O K. All right. So you grew up in <H pn="others2">XXX04</H>?</A>
+<B>No. <F>Ur</F> I grow up <F>mm</F> in <H pn="others3">XXX05</H> and <F>ur</F> <H pn="others4">XXX06</H>. <R>My</R> my father <F>ur</F> sometimes move <F>ur</F> <SC>any place</SC> <F>ur</F> some place so <R>I</R> <SC>I went</SC> <F>ur</F> I have went to any place with my father. So I grow up <F>mm</F> about approximately <H pn="others5">XXX07</H>.</B>
+<A><F>Uhh</F> I see. Then you moved many schools?</A>
+<B><F>Urr</F> <F>ur</F> Fortunately, <SC>I</SC> my movement very small range. So I have never changed my school.</B>
+<A><F>Uhh</F> That's good.</A>
+<B>It's very <R>luck</R> lucky.</B>
+<A><F>Mm-hm</F></A>
+<B><R>My</R> my brother <F>urr</F> <F>em</F> <SC>some</SC> <R>che</R> <R>changed</R> changed some school.</B>
+<A>I see. Then where do your parents live now?</A>
+<B><F>Ur</F> My parents lives in <H pn="others6">XXX08</H>.</B>
+<A><F>Mhm</F> I see. Tell me about your father a little bit.</A>
+<B><F>Ur</F> <R>My fa</R> my father <F>ur</F> works in <H pn="company name1">XXX09</H>. <SC><H pn="company name1">XXX09</H></SC> do you know <H pn="company name1">XXX09</H>?</B>
+<A><F>Mm-hm</F></A>
+<B>And <F>ur</F> my parents moved <F>mm</F> three years ago to <H pn="others6">XXX08</H>. And <F>ur</F> <F>mm</F> my father is very <F>mm</F> <R>i</R> <SC>in</SC> <F>mm</F> <R>stin</R> <SC>stin</SC> <R>i</R> <SC>in</SC></B>
+<A>Strict?</A>
+<B>strict.</B>
+<A>No? I don't know.</A>
+<B><F>Urr</F> Maybe. <SC>So</SC> <F>urm</F> for example, if I punched my friends, <R>when</R> when my father <SC>look</SC> looked the situation, <F>ur</F> he <?>will</?> got angry. <F>Ur</F> And <F>ur</F> but very softly <F>ur</F> <JP>kora</JP> <nvs>laughter</nvs></B>
+<A>O K. It sounds like he is a nice person.</A>
+<B>Yeah. <R>I</R> I <F>mm</F> very <R>like him</R> like him.</B>
+<A><F>Um</F> O K. So When was the last time you met your father?</A>
+<B><F>Urm</F> About one month ago.</B>
+<A><F>Mm-hm</F></A>
+<B>Yeah. When my brother <F>ur</F> marriage and <F>ur</F> yeah, I met him in wedding party.</B>
+<A><F>Uhh</F> I see. <F>Oh</F> That's great. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>All right. So now, <nvs>coughs</nvs> please take a look at this picture. O K. Here you are. Then please describe the picture.</A>
+<B>O K. <F>Urm</F> <.></.> This picture has <F>mm</F> one girls and one dog and one cat. <F>Em</F> A girl sit on the seat. <F>Mm</F> <SC>The dog</SC> <F>ur</F> <.></.> <F>mm</F> and <SC>in front of her</SC> <F>ur</F> there is a big desk in front of her. <SC>And the desk</SC> <F>mm</F> <nvs>laughter</nvs> it's very difficult, <F>mm</F> a cat sleep <SC>on the</SC> on her bed. And a dog <F>mm</F> <.></.> down on the floor. And it seems that <F>ur</F> <F>ur</F> this situation is <R>nine</R> nine o'clock in the morning because <F>urm</F> this picture looks very bright, and <F>ur</F> yeah, clock <F>eu</F> is nine <laughter>o'clock</laughter>.</B>
+<A><F>Mm-hm</F> Good. Good. O K. Thank you.</A>
+</task>
+<followup>
+<A><nvs>cough</nvs> Do you have a computer in your room?</A>
+<B>Yes, I have.</B>
+<A><F>Uh-huh</F> What do you do with your computer?</A>
+<B><F>Mmm</F> I often use <F>mm</F> for games, and <F>ur</F> listen to <F>ur</F> music, and any other words I never use it.</B>
+<A><F>Mm-hm</F> So listen to music with computer?</A>
+<B>Yes.</B>
+<A><F>Uhh</F> Why?</A>
+<B><F>Ur</F> Because <F>ur</F> <F>ur</F> of course I have a <F>urm</F> <R>re</R> radio deck and <F>ur</F> <F>uh</F> <R>cassette</R> cassette recorder, and <F>ur</F> <SC>I can listen</SC> <F>ur</F> <SC>I can use</SC> <F>uh</F> <R>it</R> it is very useful to listen some music. But <F>urm</F> on the compact disc, <SC>it is</SC> <F>ur</F> my <F>ur</F> cassette recorder <F>ur</F> out of order to <SC>lis</SC> <F>ur</F> use compact disc. So <F>ur</F> only listen <F>mm</F> to compact disc, I use the <R>compu</R> computer.</B>
+<A><F>Oh</F> I see. <F>Mm-hm</F> The sound is different?</A>
+<B>Yeah.</B>
+<A>Do you think so?</A>
+<B>Yeah, maybe <SC>ss</SC> <F>mm</F> <SC>ss</SC> yeah, no. <CO><OL>It's</OL></CO>.</B>
+<A><OL>No</OL> difference?</A>
+<B>Yes. No difference.</B>
+<A>O K. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, O K, so this is your card. Please read it to yourself. And when you're ready, I will start the conversation.</A>
+<B><F>Mm-hm</F> <F>Uh</F> <F>uh</F> in <R>En</R> English?</B>
+<A>No, no. Just understand</A>
+<B><F>Uh</F> O K.</B>
+<A>the card. Then I will start the conversation.</A>
+<B>O K.</B>
+<A>O K.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K. <OL>I understand</OL>.</B>
+<A><OL>O K</OL>. This is telephone conversation. Trun trun. Gacya. Hello.</A>
+<B>Hello.</B>
+<A>This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Oh</F> This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> <H pn="B's name">XXX02</H>, hi. What's up?</A>
+<B><F>Urr</F> <R>I</R> <SC>I want to</SC> <F>ur</F> <R>I</R> I have <R>very</R> <F>er</F> very favorite <F>urr</F> movies.</B>
+<A><F>Mm-hm</F></A>
+<B><F>Urr</F> <SC>It's</SC> <SC>it</SC> <F>ur</F> somebody <F>ur</F> often talk about its <R>new</R> new movies. So if you have a time, <F>em</F> <SC>would you</SC> <F>mm</F> could you go to watch the movie?</B>
+<A><F>Oh</F> Thank you. <F>Wow</F> That's great. But it depends on time.</A>
+<B><F>Urm</F> How about you on next Monday?</B>
+<A>Next Monday. Fine.</A>
+<B><F>Mm-hm</F> <F>Ur</F> <R>What</R> what time will you come <F>ur</F> at the <H pn="others1">XXX03</H> station?</B>
+<A>O K. So how about around six o'clock?</A>
+<B>Six o'clock? Is it A M?</B>
+<A>No, no. <nvs>laughter</nvs></A>
+<B><F>Oh</F> P M.</B>
+<A>Yeah.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>In the</OL> evening.</A>
+<B>O K. <F>Urr</F> <SC>ss</SC> O K. Let's <F>ur</F> meet at <R>six o'c</R> <F>ur</F> six o'clock <F>ur</F> in front of ticket gate of the <H pn="others1">XXX03</H> station.</B>
+<A>O K. So let's meet there. Thank you for calling, <H pn="B's name">XXX02</H>.</A>
+<B>You're welcome. No problem.</B>
+<A>O K. <R>See you</R> see you Monday.</A>
+<B>See you Monday. <OL>Bye bye</OL>.</B>
+<A><OL>Bye bye</OL>. Thank you very much.</A>
+</task>
+<followup>
+<A>So role play is over.</A>
+<B>O K.</B>
+<A>Do you sometimes go to a movie?</A>
+<B>Yes. <F>Urr</F> Especially <F>ur</F> when I enter this company, <F>ur</F> <SC>it's very</SC> <F>urr</F> it is hard to make time to watch a movie. <F>Ur</F> But <F>ur</F> <F>ur</F> weekend, I often <F>urr</F> watch movie with my girl friend. But <F>ur</F> <SC>in</SC> when <F>ur</F> <SC>I student</SC> I am student, <R>I</R> I watched movie <F>er</F> everyday,</B>
+<A><OL><F>Wow</F></OL></A>
+<B><OL>by</OL> <R>video</R> <R>video</R> video tape.</B>
+<A><F>Mm-hm</F></A>
+<B><SC>It very</SC> <F>ur</F> I have very much time, <F>ur</F> I watch <R>three</R> three movies. But <F>ur</F> it's <F>um</F> <R>six</R> six time <F>mm</F> <JP>dattakana</JP> Yeah, sorry.</B>
+<A><F>Mm</F> It's O K.</A>
+<B>Thank you.</B>
+<A>So actually you saw many movies</A>
+<B>Yeah.</B>
+<A>when you were college student. <F>Mm</F> Great. O K. <?>I envy</?> you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, <nvs>cough</nvs> I'd like to show you a picture here. O K. Please make a short story using these six pictures. O K?</A>
+<B><OL>O K</OL>.</B>
+<A><OL>But</OL> this happened last week.</A>
+<B>In the <OL>last week</OL>.</B>
+<A><OL>Last week</OL>. So please start your <F>urr</F> story with "One day last week".</A>
+<B>O K. <F>Urr</F> <.></.> "Father, <F>ur</F> this restaurant is very nice. <F>um</F> Let's have a lunch in the restaurant.". "<F>Oh</F> O K.". And <.></.> <JP>karan karan</JP> <nvs>laughter</nvs> "May I help you?". "Yes, <F>urr</F> two person, please.". <F>Ur</F> "O K, yeah.". And then <F>um</F> <SC>this</SC> <F>uh</F> father and son <SC>sit on the table</SC> <F>uh</F> <F>uh</F> no, <R>sit</R> sit the seat, and <F>ur</F> <.></.> <F>mmm</F> <.></.> choice some foods on the menu. Then waitress come to <SC>their place</SC> <F>ur</F> their table. <F>Urm</F> "<R>What</R> <R>what</R> what do you want?". Then <F>ur</F> the son <F>ur</F> ordered, "<R>I</R> <SC>I want to</SC> <SC>the first</SC> <F>uh</F> first of all, I want to drink the beer. <R>How about</R> how about you, father?". "<F>Oh</F> It's very nice, but <SC>I would like</SC> <F>ur</F> <SC>my favorite</SC> <F>ur</F> <R>I</R> <SC>I would like to rather</SC> I would like to wine rather beers.". "O K. <F>ur</F> <SC>Beer</SC> <F>uh</F> one beer and <F>ur</F> one wine, please.". <F>Em</F> "<SC>Which</SC> <F>ur</F> wine is red or white?". "<F>Ur</F> White, please. And <F>ur</F> some foods.". "O K.". <F>Ur</F> The son ordered her, <F>ur</F> "<SC>Please</SC> <F>uh</F> I want to <F>ur</F> <SC>baken</SC> baked <F>mm</F> fish.". <F>Mm</F> Father ordered, "<R>I</R> I want to eat fried chicken.". "O K.". And "How long?". "<R>Just</R> just minutes, please.". <F>Ur</F> The son and the father <F>ur</F> eat and drink. It's very fun. <F>Mm</F> They have very <SC>nice time</SC> <F>mm</F> nice lunch time. And after eat out, <F>ur</F> they are very satisfied with good foods and good drink. And then father pay this <F>ur</F> <F>mmm</F> lunch. "Father, thank you very much. And I have very nice time.". <R>Father</R> father also satisfied with this time because the <R>son</R> <F>urm</F> son <SC>look so <F>ur</F> happy</SC> <R>ha</R> have a happy time.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX02</H> <JP>san</JP>, you said you met your father last month.</A>
+<B>Yes.</B>
+<A>O K. What did you do with him?</A>
+<B><F>Urr</F> Some conversation. <F>Um</F> But it's very <F>mm</F> say hello. <F>Ur</F> <SC>It</SC> it's very like the say hello.</B>
+<A>Just like that?</A>
+<B>Just like that. <F>Ur</F> But <F>ur</F> <F>ur</F> of course, I talk about my brother's wedding party with father. <F>Ur</F> But father <F>mm</F> seems <R>drun</R> drunk.</B>
+<A>I see.</A>
+<B><CO><OL>So</OL></CO>.</B>
+<A><OL>O K</OL>. <nvs>laughter</nvs> All right. Thank you very much, <H pn="B's name">XXX02</H> <JP>san</JP>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost ending. Thank you for coming in today.</A>
+<B><F>Ur</F> Thank you very much.</B>
+<A>O K. So what are you going to do today?</A>
+<B><F>Ur</F> I have to read <F>ur</F> report. It's <F>ur</F> very thin.</B>
+<A>Thick.</A>
+<B><OL>Thick</OL>.</B>
+<A><OL>Thin</OL>?</A>
+<B><F>Uh</F> Thick. <CO>So</CO>.</B>
+<A><F>Wow</F> You must be busy today.</A>
+<B>Yes. <SC><R>I</R> Its report is E</SC> <F>uh</F> its report <F>um</F> written <R>in</R> in English.</B>
+<A>English. <F>Oh</F> <nvs>laughter</nvs> O K.</A>
+<B>It's very hard to read.</B>
+<A><F>Well</F> good luck. O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

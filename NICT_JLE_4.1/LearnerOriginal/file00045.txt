@@ -1,0 +1,164 @@
+<interview>
+<filename>file00045.txt</filename>
+
+<head version="1.3">
+<date>1999-12-15</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL>510</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Urm</F> how are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> very good, thank you. <R>An</R> and you?</B>
+<A><F>Oh</F> thank you very much. Where do you live, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H>, <R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H> Ward, near <H pn="others3">XXX05</H> Prefecture. And my residence is very close to <H pn="others4">XXX06</H>.</B>
+<A><F>Oh</F> how lucky.</A>
+<B>Yes. <SC>I live in</SC> I live there with my family.</B>
+<A><F>Uh-huh</F>. How do you come to school every day?</A>
+<B>Every day? I take the <H pn="others5">XXX07</H> line.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> I take the <H pn="others5">XXX07</H> line and I <SC>get on in <H pn="others6">XXX08</H> Station</SC> get on at <H pn="others6">XXX08</H> Station and get off <.></.> <H pn="others7">XXX09</H> Station.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><CO><OL>That's</OL></CO>.</B>
+<A>O K. What is your major at the college?</A>
+<B>College? My major is American and English literature and also I'm studying linguistics and intercultural communication.</B>
+<A>Who are you reading at the moment?</A>
+<B>At the moment? <F>Er</F> I'm <SC>reading <.></.> <F>er</F> many, many</SC> reading English literature like, <F>er</F> classic one, <.></.> <F>er</F> Shakespeare play, and actually I'm reading "Hamlet" which is very difficult to read <OL><??></??></OL>.</B>
+<A><OL><F>Mhmm</F></OL>. I think so.</A>
+<B>And also I'm reading Jane Austin and George Orwell.</B>
+<A><F>Oh</F> that's great.</A>
+<B><??></??>.</B>
+<A><F>Mhmm</F>. <SC>Wha</SC> who is your favorite author?</A>
+<B>My favorite author is, <F>urmm</F> of course, I like Jane Austin and <.></.> <F>urmm</F> Charles Dickens, <.></.> also <.></.> Shakespeare and in addition, I like reading <R>poet</R> poet, so, <.></.> <F>urmm</F> sometimes I read T. S. Eliot. <.></.></B>
+<A><F>Wow</F>. Very good. Tell me about your free time.</A>
+<B>Free time? <F>Er</F> when I have time, <F>er</F> I'm usually listening to C Ds or talking with friends on the phone, <.></.> <F>um</F> sometimes in person. <F>Mhmm</F> <.></.> actually <SC>many</SC> I spend most of time for <F>er</F> music like going to concert <.></.> or listening to C Ds or shopping at the C D shop.</B>
+<A><F>Oh</F> tell me about the last concert you went to.</A>
+<B>Last concert? <F>Er</F> last concert is <.></.> <F>er</F> <.></.> at the end of the last month. I went to the concert of <.></.> the band <.></.> <F>er</F> who is American punk band.</B>
+<A><F>Oh</F>.</A>
+<B><nvs>laughter</nvs> I was really excited <SC>and like</SC> <.></.> and <R>the hall</R> <.></.> the hall becomes <.></.> like a <.></.> war <nvs>laughter</nvs> soon after the <.></.> band started playing the show. <.></.> And <.></.> the audience <SC>is crazy</SC> got crazy and <.></.> <F>mhm</F> some of them were like fighting <nvs>laughter</nvs></B>
+<A><OL>Really</OL>?</A>
+<B><OL>each other</OL>.</B>
+<A>Dangerous.</A>
+<B>Yeah, very dangerous. <CO>But I was</CO>. <.></.></B>
+<A>What were you doing then?</A>
+<B><F>Oh</F> <.></.> <nvs>laughter</nvs> I'm sorry, I couldn't help fighting <nvs>laughter</nvs></B>
+<A><F>Oh</F> no. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> with other audience. And sometimes, <F>er</F> some of the audience is <?>roaring</?> of our head.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because <.></.> they're jumping.</B>
+<A><F>Mhmm</F>. <F>Wow</F>. That's <OL>quite something</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> Yeah. <nvs>laughter</nvs></B>
+<A><F>Er</F> yeah. Have you been abroad?</A>
+<B>Yes. <F>Urmm</F> <.></.> the last time <SC>I've been a</SC> <SC>I went to</SC> I went abroad is this summer. I went to San Francisco to study academic skills in English in <H pn="school name1">XXX10</H> for three weeks. And after that <R>I</R> <R>I</R> I went to Vancouver in Canada <SC>to see my friend</SC> to see my best friend <F>er</F> who is now staying at Vancouver to study English in the language college.</B>
+<A><F>Oh</F> that's great.</A>
+<B>Yeah.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Oh</F> that's great. I'm amazed. Thank you very much. Now, I'm going to show you a picture.</A>
+<B>Yeah.</B>
+<A>O K? Please have a look.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And could you describe the picture for me?</A>
+<B>Yeah. <F>Urmm</F> <.></.> <F>mhmm</F> <.></.> <SC>this is</SC> <.></.> <F>er</F> this shows <.></.> <F>mhmm</F> the life of one family. <F>Er</F> <SC>it's on</SC> it's Sunday and <.></.> <SC>the father is running</SC> <.></.> <SC>my father is</SC> the father is running to get some exercise <R>because</R> <F>er</F> <.></.> because <R>he</R> he gained <.></.> weight lately.</B>
+<A><F>Mhmm</F>.</A>
+<B><R>And</R> <.></.> and <SC>the fa</SC> <F>mhmm</F> the mother is <SC>talking with</SC> <R>chatting with</R> chatting with neighborhood and the neighborhood is just come back <.></.> <R>from the</R> <.></.> from the vacation. And they're talking about <.></.> the vacation. And <.></.> <F>er</F> <SC>this family</SC> <F>er</F> there are two children in this family. And one is a girl who is five or six years old and now she is playing at yard <.></.> by herself. And the other one is a boy who is <.></.> <F>er</F> <.></.> seven or eight years old and he's now playing with his friend with ball. <.></.> <R>And</R> <.></.> and also <.></.> there are two dogs <.></.> in the house <.></.> <R>and</R> <.></.> and they're <SC?>very good</SC?> <?>in good</?> relationship and seldom fight and now playing outside. <.></.> <F>Mhmm</F>. <.></.> That's it.</B>
+</task>
+<followup>
+<A>O K. thank you very much, <H pn="B's name">XXX02</H>. Is this neighborhood very different from your own?</A>
+<B><.></.> I'm sorry?</B>
+<A>Is this neighborhood very different from your neighborhood?</A>
+<B><.></.> Yeah. Actually, <.></.> <F>er</F> I don't <.></.> have much time to talk with my neighborhood <.></.> because <F>urmm</F> <SC>I'm now staying</SC> <.></.> I'm now living in the apartment so sometimes <SC>the family</SC> one family <?>are move</?> to other place and soon after that, other family <.></.> <R>came</R> came in.</B>
+<A><F>Uh-huh</F>. I see. Which do you like better, country life or city life?</A>
+<B>City life. I used to like <R>coun</R> country life. But I got used to the <R>ci</R> city life now because I live in <H pn="others1">XXX03</H> for more than ten years. So I think <SC>it's very</SC> <F>er</F> <SC>it'll</SC> <F>er</F> it's gonna a kind of hard to live in countryside now.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you. Now let's do a role-play.</A>
+<B>Yeah.</B>
+<A>O K? This is your card. Please have a look. And when you're ready, let's start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Hello. May I help you?</A>
+<B>Yeah. Actually, <F>er</F> <nvs>cough</nvs> <SC>I'm now</SC> <F>er</F> <.></.> I bought this one <R>right</R> right now. But <.></.> <SC>I have</SC> <F>mhmm</F> on second thought, I didn't like it, so maybe <SC>I could</SC> <R>can I</R> <.></.> can I get this back?</B>
+<A><F>Oh</F> <SC>let me</SC> <F>oh</F> what did you buy today?</A>
+<B><F>Er</F> <F>urr</F> it's <R>kind</R> <SC>kind</SC> <F>er</F> shirt. <OL><nvs>cough</nvs></OL></B>
+<A><OL><F>Uh-huh</F> O K <F>oh</F></OL> <F>well</F> I'm sorry. It's against our policy to <SC>make a refund or give you</SC> <F>er</F> <R>make</R> make changes or give you refund.</A>
+<B><F>Mhmm</F> but I have a receipt and <F>er</F> I don't open <.></.> yet.</B>
+<A><F>Uh-huh</F>. But <R>wha</R> what wrong with the shirt?</A>
+<B><..></..></B>
+<A>Is anything wrong with the shirt you bought?</A>
+<B><F>Well</F> there's no problem. But <.></.> <F>er</F> I don't like the shirt in yellow and maybe <.></.> blue or red one is better. So <.></.> <F>er</F> I don't want it anymore. <CO>And</CO>.</B>
+<A><F>Mhmm</F> but I think yellow suits you very well.</A>
+<B><F>Urr</F> thank you but <F>urmm</F> <.></.> actually this is for my friend but <.></.> the yellow one doesn't <.></.> look like on her.</B>
+<A><F>Mhmm</F>.</A>
+<B>Please.</B>
+<A>But <??></??> your friend may like yellow. This is the very special yellow.</A>
+<B><F>Urmm</F> <.></.> <SC>but</SC> <.></.> <F>er</F> maybe but <.></.> I want to get it back. Please.</B>
+<A>O K. O K. <F>Urmm</F> since you have the receipt. O K. We will make this exchange.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K?</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Thank you. And please come back again. O K. The role-play is over. <SC>How</SC> <F>er</F> this kind of thing ever happen to you before?</A>
+<B><..></..> No, as far as I remember.</B>
+<A><F>Mhmm</F>. Where do you usually shop?</A>
+<B>Shop? <F>Urmm</F>. I'm usually shopping at Shibuya, <F>er</F> Marui or Palco or other some shopping <F>er</F> center. But <F>er</F> <SC>I don't</SC> <F>er</F> I haven't <.></.> been <.></.> shopping lately because I can't afford to <.></.> buy anything. <nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mhmm</F>. Yes, I agree. <F>Er</F> I can understand that. You're a student. O K. Thank you very much. Now I'm going to show you another picture.</A>
+<B>Yeah.</B>
+<A>O K? Here is your picture. This happened last week, so please start your story with "One day last week".</A>
+<B><..></..> <F>Urmm</F>.</B>
+<A>From one to six.</A>
+<B>One to six? <F>Mhmm</F> <.></.> <?>later</?> one day last week, <.></.> <F>urmm</F> <.></.> we were thinking about doing something <.></.> <SC>one</SC> on the day, but it's rainy outside so we just think <.></.> <R>and</R> <.></.> and <.></.> <SC>we</SC> <F>urmm</F> something good idea <.></.> occurs <SC>to me</SC> to us. <F>Er</F> <SC>we went to see</SC> <R>we</R> <R>we</R> we went to the movies <.></.> <SC>and</SC> <SC>because</SC> <.></.> <R>becau</R> <R>because</R> <.></.> because <SC>there are good movies <.></.> in the theater</SC> there is good movie in the theater. So <.></.> we went there together and got in the theater, we bought some foods like <.></.> coke and popcorn <.></.> <F>er</F> <.></.> and then just movie started. <.></.> The movie <F>er</F> which is kind of action, <nvs>cough</nvs> <F>er</F> <F>er</F> actually. I don't like action movie but this one is very good, very exciting and I like it. And <.></.> <SC>two of them</SC> <F>er</F> <.></.> other two people <nvs>cough</nvs> <SC>like it</SC> like this film, too. So <.></.> <SC>we</SC> <.></.> I could say we had a great time <.></.> on that day. <.></.></B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. <F>Mhmm</F>. O K. Thank you very much, <H pn="B's name">XXX02</H>. Do you like to go to the movies?</A>
+<B>Yes, I like movies. And if I had time, <.></.> <F>urmm</F> <.></.> I go to the movies but now I've been busy with studies and part-time job lately. So, <F>er</F> it's <F>er</F> hard to find to see movies.</B>
+<A><F>Mhmm</F>. I see.</A>
+<B>Yeah.</B>
+<A>Tell me about part-time job?</A>
+<B>Part-time job? <F>Mhmm</F>. <SC>I work</SC> <F>er</F> I'm teaching <.></.> Japanese and English to the girl who is <F>er</F> girl's high school <R>student</R> student as a part-time job. And I work <.></.> twice a week. And <.></.> I got the jobs which is marking exams.</B>
+<A>I see.</A>
+<B><.></.> <R>And</R> <.></.> and <SC>which</SC> <F>er</F> it is a short-term job and I work <.></.> it <F>mhmm</F> <.></.> <SC>one month</SC> <.></.> for a one month. And actually I finish marking exam job, <F>er</F> <.></.> <F>mhmm</F> <.></.> for <.></.> two or three weeks before.</B>
+<A><F>Mhmm</F>. <F>Oh</F> you're very busy.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Thank you very much, <H pn="B's name">XXX02</H>. The interview is almost over. <F>Er</F> do you have any plan for the coming weekend?</A>
+<B>Weekend? <F>Urmm</F> weekend, <.></.> maybe <SC>I'm going</SC> <.></.> <F>er</F> I'm coming to see the friend who is from England.</B>
+<A><F>Oh</F>.</A>
+<B><.></.> <F>Er</F> she's now visiting Japan for fun.</B>
+<A><F>Mhmm</F>.</A>
+<B>Maybe, <.></.> <F>mhmm</F> I'm going to see her.</B>
+<A><F>Mhmm</F>. That's great. I hope you'll have a wonderful time <OL>with her</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you very much for coming today.</A>
+</stage5>
+</body> 
+</interview>

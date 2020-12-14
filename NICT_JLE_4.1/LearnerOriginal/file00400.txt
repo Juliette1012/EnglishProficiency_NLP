@@ -1,0 +1,200 @@
+<interview>
+<filename>file00400.txt</filename>
+
+<head version="1.3">
+<date>2001-03-13</date>
+<sex>male</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>715</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A><F>Mm</F>. My name is <H pn="A's name">XXX01</H>. What is your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>O K. <F>Ur</F> where do you live now?</A>
+<B><F>Um</F> I live in <H pn="others1">XXX03</H> City now.</B>
+<A><H pn="others1">XXX03</H>.</A>
+<B>Yes.</B>
+<A>I see. <SC>What</SC> <F>er</F> where in <H pn="others1">XXX03</H> do you live now?</A>
+<B><F>Mm</F> <R>I</R> I live in, <F>mm</F> <F>er</F> do you know the <H pn="others1">XXX03</H> Station?</B>
+<A><F>Err</F>. Yes. <nvs>laughter</nvs></A>
+<B>Maybe?</B>
+<A>Yes. <nvs>laughter</nvs></A>
+<B><F>Er</F> I live <nvs>coughs</nvs> <F>mm</F> <F>uh</F> near the <H pn="others1">XXX03</H> Station. It takes about <F>err</F> fifty minutes on foot from my house to <H pn="others1">XXX03</H> Station.</B>
+<A>I see. O K. <F>Ur</F>. What's <H pn="others1">XXX03</H> city like?</A>
+<B><F>Mm</F> <F>err</F> <..></..> <F>mm</F>. The nature is very beautiful <SC>and</SC> but <F>er</F> <SC>a little <F>mm</F> big city</SC> <F>ur</F> a little big. <F>Urr</F>. There are <F>urr</F> <F>mm</F> <F>mmm</F> <F>err</F> five <F>urr</F> hundred thousand people <SC>lives</SC> live in <H pn="others1">XXX03</H> City. <SC>So</SC> <F>mm</F> and <F>um</F> <F>er</F> there are <R>many</R> many hot springs <F>uh</F> around the <H pn="others1">XXX03</H> City. So <F>urr</F> very comfortable to live.</B>
+<A>I see.</A>
+<B>But <F>err</F> costs for every thing is <F>mm</F> very high.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A>For example?</A>
+<B>For example, <F>er</F> <F>mm</F> real estate is <F>ur</F> <nvs>coughs</nvs> <F>mm</F> very expensive. So we cannot buy <F>er</F> <R>large</R> large <R>lan</R> land. So <R>we have to</R> <F>mhm</F> <F>mm</F> <F>uhm</F> we have to live in small, narrow <R>place</R> space.</B>
+<A><F>Oh</F>. Really?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>I see</OL>. Do you live with your family there?</A>
+<B>Yes, I live with my wife.</B>
+<A><F>Uh-hum</F>. <OL>O K</OL>.</A>
+<B><OL><R>We have</R></OL> <F>umm</F> we have not had <F>um</F> <R>chi</R> children yet. But <F>er</F> in this August, <F>mm</F> I will become a father.</B>
+<A><F>Oh</F>.</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs></A>
+<B><R>Now</R> now my wife is pregnant.</B>
+<A><F>Uh-huh</F>.</A>
+<B>For fifth month.</B>
+<A><F>Hum</F> I see. <OL>O K</OL>.</A>
+<B><OL>Yes</OL>. I'm very looking forward to seeing my child.</B>
+<A><F>Uh-huh</F> I really understand. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>So <F>er</F> what do you do on holidays?</A>
+<B><F>Err</F>. <.></.> As I told you <R>now</R> <F>uhm</F> now my wife is pregnant, and <F>er</F> our doctor told us <F>er</F> <F>urr</F> not to <F>mm</F> <F>mm</F> active <F>mm</F> <F>uhm</F> frequently. So <.></.> <F>urr</F> from <R>the</R> the end of the last year <F>err</F> <F>urr</F> to <.></.> last month, <R>we</R> <R>we</R> <F>ee</F> <R>we</R> we <F>mm</F> stayed in my house, <SC>and</SC> <nvs>cough</nvs> <F>um</F> because <F>er</F> I bought <R>a</R> <F>um</F> a <SC>house</SC> new house, and moved to my new house last Christmas.</B>
+<A><F>Err</F>. <OL>I see</OL>.</A>
+<B><OL>So</OL> we <R>had</R> had <R>to</R> <F>mm</F> <F>mm</F> to <?>lease</?> our new house. So almost every holiday, <R>we</R> we spend <F>uh</F> <F>er</F> most of time in my house.</B>
+<A>I see. O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage1>
+<stage2>
+<task>
+<A>Now I'm going to show you a picture.</A>
+<B>Yes.</B>
+<A>So <F>err</F> look at this picture and please describe it.</A>
+<B>Yes. <F>Erm</F> <F>err</F> <F>uh</F> <F>umm</F>. A couple <F>urmm</F> come to the restaurant to have a special dinner <F>hm</F> tonight because <F>er</F> tonight is their first anniversaries day for <F>urm</F> their marriage. So <.></.> <F>ee</F> <R>he</R> he made a reservation for the table,</B>
+<A>O K. <F>Mm</F>.</A>
+<B>of this day <F>ee</F> <SC>before one month</SC> <F>er</F> a month ago. <F>Urr</F>. This restaurant is very popular <F>uh</F> and <F>mm</F> <F>er</F> people say that <F>er</F> <SC>there is a many good meals</SC> <F>er</F> we can eat <F>er</F> many good meals in this restaurant. So <F>er</F> <R>it</R> it is very difficult <F>er</F> for us to make reservation <R>in</R> <F>mm</F> in this restaurant. But <F>urr</F> <F>urr</F> so he made a reservation <F>ur</F> more than once a month.</B>
+<A>I see. O K. Thank you.</A>
+</task>
+<followup>
+<A><F>Um</F>. How do you celebrate your wedding anniversary usually?</A>
+<B>Usually? <F>Mm</F>. Nothing.</B>
+<A>Nothing?</A>
+<B>Nothing. But <F>err</F> <F>err</F> <.></.> <F>urr</F> only to <.></.> back home earlier than usual, and <F>uum</F> when the anniversary day is the holiday, <F>mm</F> <R>we</R> we go to <F>um</F> restaurants for dinners. But <F>mm</F> if it is the week days, <F>mm</F> <F>urr</F> <R>we don't</R> we don't do anything.</B>
+<A>Anything?</A>
+<B>Anything.</B>
+<A>O K.</A>
+<B>But <F>er</F> <R>I</R> I <F>umm</F> <SC>told</SC> tell my wife my <F>umm</F> thanks. <nvs>laughter</nvs></B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Er</F> I express <F>um</F> my <F>ee</F> thanks to my wife.</B>
+<A><F>Oh</F>. That's nice. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K, thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, next we'll do a role-play. Do you know what a role-play is?</A>
+<B><F>Urr</F>. Yes.</B>
+<A>Yes? O K. So please read this card. This is your role.</A>
+<B>Yes.</B>
+<A>I'll be a station clerk. When you are ready, please start.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>Excuse me? <F>Erm</F>.</B>
+<A>Yes?</A>
+<B>I want to go to New York <F>ur</F> as soon as possible. So what <F>er</F> will I do? <F>Mm</F>. <.></.></B>
+<A><F>Er</F> we have some kinds of trains to New York.</A>
+<B>Yes.</B>
+<A><F>Mm</F>.</A>
+<B><F>Er</F>. What is the <F>mm</F> fastest train?</B>
+<A><F>Oh</F>. Of course, super express train.</A>
+<B>Yes.</B>
+<A><F>Mm</F>.</A>
+<B><F>Er</F>. Yes, so I want to buy the ticket for super train.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Mm</F>. How much is it?</B>
+<A><F>Oh</F>. It's one hundred twenty dollars to New York.</A>
+<B><F>Er</F>. So <SC>what time</SC> <F>urr</F> what is the department time?</B>
+<A><F>Er</F>. O K. It's at one thirty.</A>
+<B>One thirty? Yes.</B>
+<A>But <F>er</F> the train at one thirty is already full.</A>
+<B><F>Oh</F>. So what time is the next train?</B>
+<A>Next train, O K. At two o'clock.</A>
+<B>Two o'clock? Yes, so I want buy the ticket,</B>
+<A><F>Uh-hm</F>.</A>
+<B>please.</B>
+<A>O K. So one way or round trip?</A>
+<B><F>Oh</F> <F>er</F> one way please.</B>
+<A>All right. O K. So one hundred and twenty dollars, please.</A>
+<B><.></.> <laughter>Please</laughter>.</B>
+<A><laughter>O K, here is your ticket</laughter>.</A>
+<B>Thank you very much.</B>
+<A>O K. Thank you. All right. <F>Mm</F>.</A>
+</task>
+<followup>
+<A><F>Erm</F>. Do you like traveling?</A>
+<B>Yes,</B>
+<A><F>Mm</F>.</A>
+<B>I like traveling.</B>
+<A><F>Mm</F>. O K. So how do you travel usually?</A>
+<B>Usually, <F>mm</F> I travel by my car, <SC>driving</SC> drive my car.</B>
+<A><F>Uh-hm</F>. <F>Oh</F>. Where did you go in the last trip?</A>
+<B><F>Err</F> in the last trip, <F>err</F> <F>mm</F> I went to my home town,</B>
+<A><F>Hum</F>.</A>
+<B>because we didn't <F>ee</F> we could not <F>urr</F> back to our hometown in the new year's day. Because <F>err</F> <nvs>coughs</nvs> <R>it</R> it <SC>becomes</SC> became clear that my wife <SC>is pregnant</SC> was pregnant. So <nvs>cough</nvs> <SC>last time</SC> <F>mm</F> last week, I went to <F>um</F> my hometown, and <SC>meet</SC> <F>er</F> met my parents, my brothers and my wife's parents and brothers. <SC>We have a</SC> we had a good time.</B>
+<A><F>Mm</F> I see. <nvs>laughter</nvs> O K, thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Err</F> next, I'm going to show you another picture.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is taking out the picture.</ctxt>
+<A>So this time, I want you to make a story.</A>
+<B>Yes.</B>
+<A>So story goes like this.</A>
+<B>Yes.</B>
+<A>And it happened last week, so start your story "One day last week,"</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>One day last week, <F>er</F> she went to department store to buy her father's birthday present. And <nvs>cough</nvs> <F>mm</F> <R>she</R> she <R>bought</R> bought a <SC>ties</SC> tie <F>mm</F> <.></.> <F>mm</F> for her <R>fa</R> father's present. <F>Urr</F>. After she bought <F>urr</F> the present, <F>mm</F> she found that <F>urr</F> <F>urm</F> <SC>there are</SC> there were final sale <F>mm</F> for <R>shoeses</R> shoeses and clothes. It costed down from thirty percent to fifty percent. So <F>mm</F> she decided to buy <F>ee</F> shoes and clothes for herself. And <F>um</F> finally <F>mm</F> she <R>ss</R> spent a lot of money,</B>
+<A><OL>O K</OL>.</A>
+<B><OL>in one days</OL>.</B>
+<A>I see. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Ur</F>. Which do you like better shopping at a department store or at a small store?</A>
+<B><F>Mm</F> I prefer to buy at department store because <F>ur</F> <F>umm</F> there are many goods <F>urr</F> compare to <F>er</F> small stores in department store. And there are many kind of stores, so <nvs>cough</nvs> <SC>we can not</SC> <F>er</F> <SC>we don't have to move <F>mm</F> <R>from</R> <F>mm</F> <R>from</R> from</SC> <F>mm</F> <R>we</R> we don't have to move. <.></.> <F>Ee</F>. <..></..></B>
+<A>O K. <OL>I understand</OL>.</A>
+<B><OL>O K</OL>.</B>
+<A>Yes. <nvs>laughter</nvs> <F>Um</F>. Where do you like to go shopping with your wife?</A>
+<B><F>Urmm</F> I like to go to Seibu store or Takashimaya department store.</B>
+<A>In <H pn="others1">XXX03</H> City?</A>
+<B><F>Er</F>. Yes. <F>Urr</F>. There isn't a Takashimaya department in <H pn="others1">XXX03</H> City. <F>Eee</F>. But there is <F>um</F> <SC>Seibu store</SC> <F>er</F> Seibu department store. <F>Er</F>. When we <F>ee</F> want to go to Takashimaya department store, we go to <H pn="others2">XXX04</H>.</B>
+<A><H pn="others2">XXX04</H>?</A>
+<B>Yes.</B>
+<A><F>Oh</F> I see. Why do you like Takashimaya department store?</A>
+<B><F>Urrrr</F>. No reason, but <F>errr</F> <F>mmm</F> Takashimaya department in <H pn="others2">XXX04</H> is <F>mm</F> very <.></.> new.</B>
+<A>New?</A>
+<B><R>New</R> new. <F>er</F> It opened <SC>last week</SC> <F>er</F> last year.</B>
+<A>I see.</A>
+<B>And <F>mm</F> it is very huge department. So I like. <F>Mm</F>. And it combine with the Tokyu Hands.</B>
+<A><F>Ah</F> I see. <F>Mm</F>.</A>
+<B>In the <SC>same</SC> <F>uum</F> <R>sa</R> <R>sa</R> same <F>mm</F> building. So <SC>very</SC> it is very convenient for us.</B>
+<A><F>Ah</F>. I see. O K, thank you very much.</A>
+<B>Thank you very much.</B>
+</followup>
+</stage4>
+<stage5>
+<A>The interview is almost over. So by the way, you are going to be a father.</A>
+<B>Yes.</B>
+<A>What kind of father do you want to be? <nvs>laughter</nvs></A>
+<B><F>Er</F>. Very difficult. <F>Urr</F>. But <F>err</F> <F>urm</F> <F>mmm</F> <.></.> <nvs>laughter</nvs> <..></..> I want to <R>keep</R> keep <R>father's</R> father's <R>right</R> right and father's <F>mm</F> very difficult to express, but <F>urr</F> I don't want to become a friend with my <F>er</F> child. And <R>I</R> I want to a real father. <nvs>laughter</nvs></B>
+<A>I see O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>Interview is over now.</A>
+<B>Yes.</B>
+</stage5>
+</body>
+</interview>

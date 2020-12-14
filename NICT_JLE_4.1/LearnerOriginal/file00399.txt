@@ -1,0 +1,173 @@
+<interview>
+<filename>file00399.txt</filename>
+
+<head version="1.3">
+<date>2001-03-13</date>
+<sex>male</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>525</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A><F>Mm</F>. <F>Uh</F>. My name is <H pn="A's name">XXX01</H>. What is your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>O K. <F>Er</F> where do you live now?</A>
+<B><F>Ee</F> I live in <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H>.</B>
+<A><F>Uh-huh</F> I see. <F>Er</F>. Is your office near your house?</A>
+<B>Yes, <F>ee</F> five minutes.</B>
+<A><F>Hum</F> <F>oh</F>. How do you go to work?</A>
+<B><.></.> <??></??>. <.></.></B>
+<A>How do you go to work?</A>
+<B><F>Ah</F> <JP>sumimasen</JP> <F>ee</F> <F>ee</F> by bicycle.</B>
+<A>O K. <F>Hum</F> do you live with your family?</A>
+<B>No, <F>ee</F> <..></..> <F>ee</F> work.</B>
+<A>O K. <F>Mm</F>. <SC>Where is</SC> where does your family live?</A>
+<B><F>Ee</F> my family <F>ee</F> live in <F>ee</F> <H pn="others3">XXX05</H>.</B>
+<A><H pn="others3">XXX05</H>. <F>Ahh</F>. O K. <F>Mm</F> <F>er</F>. What's your home town like?</A>
+<B><..></..> <F>Uhm</F> <..></..> <JP>cyotto</JP> <F>mm</F> not <?>thinking</?>.</B>
+<A><F>Mm</F>. O K. <F>Er</F>. Where is your home town in <H pn="others3">XXX05</H>?</A>
+<B><JP><F>Eeto</F></JP> <H pn="others4">XXX06</H>.</B>
+<A><H pn="others4">XXX06</H>. <F>Uhm</F> I see. <F>Erm</F>. <R>What's</R> what's <F>err</F> <H pn="others4">XXX06</H> famous for?</A>
+<B><JP><F>Eee</F></JP>. <.></.> <JP><F>Eeto</F></JP>. High school baseball.</B>
+<A><F>Err</F> really? <F>Uhm</F>. O K. Are you interested in baseball?</A>
+<B><laughter><F>Mm</F> no</laughter>.</B>
+<A>No. I see. O K. <F>Mm</F>. <F>Erm</F>. What do you like to do in your free time?</A>
+<B><F>Mmm</F> <R>I</R> <R>I <F>ee</F> watch T V, <F>ee</F> and</R> I watch T V, <F>ee</F> and play tennis.</B>
+<A>Play tennis.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. O K. How often do you play tennis?</A>
+<B><F>Eee</F> forth <F>ee</F> in month.</B>
+<A><F>Hum</F>. O K. <F>Mm</F>. So <F>ur</F> are you a good player?</A>
+<B>No, I'm beginner.</B>
+<A>Beginner. O K. <F>Uh</F>. Why did you start playing tennis?</A>
+<B><F>Ee</F> <SC>four years ago</SC> <F>ee</F> <.></.> <F>er</F> <SC>four</SC> I started four years ago.</B>
+<A><F>Mm</F>. O K. Why did you start it?</A>
+<B><F>Ah</F> <F>ee</F> I like tennis.</B>
+<A>Tennis. <F>Mm</F> I see. O K. And <F>er</F> what did you do in your school days?</A>
+<B><..></..> <nvs>coughs</nvs> <.></.> I don't remember. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Did you do any sports?</A>
+<B><F>Hum</F>. Not, especially.</B>
+<A>I see. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. O K? So please look at this picture, and tell me any thing about it.</A>
+<B><F>Ee</F> <nvs>cough</nvs> <JP><F>eeto</F></JP> in this room, <F>ee</F> there is a cat on the bed.</B>
+<A><F>Uh-huh</F>.</A>
+<B><JP><F>Eeto</F></JP> <.></.> <nvs>coughs</nvs> <JP><F>eeto</F></JP> there is a cat and a dog <F>ee</F> a woman in this room.</B>
+<A><F>Uhu</F>.</A>
+<B><JP><F>Eeto</F></JP> she is <F>ee</F> <..></..> <R>playing computer</R> playing computer.</B>
+<A><F>Mm</F>. O K. <F>Mm</F>.</A>
+<B>And <nvs>cough</nvs> <F>ee</F> it is <F>ee</F> nine o'clock. <F>Ee</F> <F>mm</F> <SC>this room is</SC> the door is open.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ee</F> the dog is sleeping on the floor.</B>
+</task>
+<followup>
+<A>O K. <F>Mm</F>. So is your room like this?</A>
+<B><..></..></B>
+<A>Is your room like this room?</A>
+<B><.></.> <F>Ahh</F>. Yes.</B>
+<A>Yes?</A>
+<B>But <F>er</F> <SC>I keep the dog</SC> <R>I</R> I don't keep the dog and cat.</B>
+<A><F>Hum</F>. O K. Do you have a computer in your room?</A>
+<B>Yes.</B>
+<A>Yes. <F>Mm</F>. How do you make use of your computer?</A>
+<B><.></.> <laughter>Repeat</laughter>.</B>
+<A>O K. <F>Um</F>. So <F>urr</F> how do you use your computer, or on what?</A>
+<B><F>Ehh</F> <F>ee</F> <..></..> <nvs>coughs</nvs> I <JP><F>uunto</F></JP> <..></..> <SC>often</SC> how often? <F>Ehh</F> every day.</B>
+<A><F>Hum</F>. O K. What do you do with your computer?</A>
+<B><F>Mm</F> <.></.> <F>ee</F> my friend, <F>ee</F> to send <JP><F>eetto</F></JP> e-mail, <F>ehh</F> and <nvs>coughs</nvs> <JP><F>eeto</F></JP> watch the internet <F>ee</F> and <.></.> <F>ee</F> <.></.> use the <F>ee</F> application.</B>
+<A><F>Mm</F> I see. <F>Er</F> what kind of site do you often access?</A>
+<B><F>Ee</F> I like tennis, <F>mm</F> and <SC>tennis</SC> I watch tennis fight.</B>
+<A><F>Hum</F> I see. O K, thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next we'll do a role-play. Do you know what the role-play is?</A>
+<B><.></.> <F>Er</F>. No.</B>
+<A>O K. <F>Mm</F>. So you are going shopping. <F>Mm</F>. And I'll be a shop clerk.</A>
+<B><..></..> <F>Ee</F> <..></..> <F>ee</F> <..></..> <F>mm</F> <F>ee</F> <R>I</R> <R>I want to</R> <F>ee</F> I want to buy <F>ee</F> a book. <F>Ee</F>. <SC>Do you</SC> <F>ee</F> <SC>what</SC> <F>ee</F> <.></.> <F>er</F> where <F>ee</F> <..></..> <F>ee</F> did it <F>ee</F> to <F>mm</F> <F>ee</F> floor in the department?</B>
+<A><F>Mm</F>. O K. On the fifth floor.</A>
+<B>Fifth floor. <F>Ee</F> <nvs>coughs</nvs> <SC>I</SC> <F>ee</F> on fifth floor <R>I</R> <F>ee</F> I want to <F>ee</F> <..></..> <SC>chemistry</SC> <F>ee</F> book in the chemistry <F>ee</F> <SC>fifth floor</SC> in this fifth floor, <SC>where <F>ee</F> <.></.> <F>er</F> <SC>did</SC> do</SC> which section?</B>
+<A><F>Ah</F>. O K. <F>Er</F>. They are near the elevator.</A>
+<B>Elevator. Thank you. <F>Er</F> <nvs>coughs</nvs> <..></..> <F>ee</F> <??></??> <F>ee</F> <.></.> <SC>in this book</SC> <F>ee</F> how much <F>ee</F> <F>ee</F> <SC>that</SC> <..></..> this book?</B>
+<A>O K. One thousand eight hundred yen.</A>
+<B>Yes.</B>
+<A><F>Mm</F>.</A>
+<B><F>Ee</F> <..></..> <R>I</R> <F>ee</F> I can buy this book. <F>Ee</F> <..></..> <JP><F>eeto</F></JP> <F>ee</F> do you <F>ee</F> cover this book?</B>
+<A><F>Er</F>. O K. Sure. <nvs>laughter</nvs></A>
+<B><laughter>Thank you</laughter>. <F>Ee</F>. <laughter>Good-bye <JP><?>desuka</?></JP></laughter>.</B>
+<A><F>Oh</F>. How would you like to pay for this?</A>
+<B><laughter><F>Ah</F> <F>eee</F></laughter> <F>ee</F>. <R>I</R> <.></.> I pay <F>ee</F> two thousand yen.</B>
+<A><F>Mm</F>. O K. <F>Mm</F>. All right. So here is your book and change. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>O K, thank you very much. <nvs>laughter</nvs></A>
+</task>
+<followup>
+<A>Do you like shopping?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. O K. What kind of shop do you like to go?</A>
+<B><F>Ee</F> <R>I</R> <JP><F>eeto</F></JP> clothes and books.</B>
+<A><F>Hum</F>. <F>Erm</F>. Do you have any favorite store?</A>
+<B><F>Ee</F>. In <H pn="others2">XXX04</H>, <F>ee</F> Seibu.</B>
+<A>Seibu. <F>Hum</F>.</A>
+<B>And Marui.</B>
+<A>Marui. <F>Uhm</F>. O K. So what is good <F>err</F> about Seibu department store?</A>
+<B><F>Mm</F>. <.></.> <SC>I</SC> <F>ee</F> <SC>in <H pn="others3">XXX05</H>, <F>er</F> Seibu depart</SC> <F>ee</F> <SC>there</SC> <F>ee</F> in <H pn="others3">XXX05</H>, <JP><F>eeto</F></JP> <.></.> Seibu depart <F>ee</F> do not exist, <laughter><JP>naitte</JP></laughter>.</B>
+<A><F>Hum</F>. O K. <nvs>laughter</nvs> I see. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So next, I'm going to show you another picture. <F>Oh</F>. This time I want you to make a short story. Story goes like these. So please make up the story.</A>
+<B><F>Uh-hmm</F>. The man and the woman <F>ee</F> <nvs>coughs</nvs> go to the zoo together. <F>Err</F>. First, <F>ee</F> <SC>they <F>ee</F> watch <F>ee</F> the lion in</SC> <.></.> <SC>they watch the lion</SC> <JP>a wakannai</JP> <R>they're watching the lion</R> they're watching the lion. <F>Er</F>. And <nvs>coughs</nvs> the lion watch <F>ee</F> the human.</B>
+<A><F>Uh-hmm</F>. <OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <laughter><F>Ee</F> and</laughter> <F>er</F> next, <F>ee</F> <.></.> <R>they</R> they watch <F>ee</F> the monkey. And <R>she</R> she is <F>ee</F> hungry and she eat the soft cream. <F>Er</F>. <SC>The monkey is</SC> <nvs>cough</nvs> the monkey eats the banana. <nvs>coughs</nvs> Last, <F>er</F> <..></..> the zoo is closed <F>ee</F> <SC>they</SC> <..></..> <R>there</R> there is <F>ee</F> out of zoo.</B>
+<A><F>Uh-hmm</F>.</A>
+<B><F>Ee</F>. <SC>She</SC> <F>ee</F> <nvs>coughs</nvs> <..></..> <F>er</F> they separate. <.></.></B>
+<A><F>Uh-hm</F>. O K. I see. All right. <F>Mm</F>.</A>
+</task>
+<followup>
+<A>So <F>um</F> where is the popular dating spot in <H pn="others1">XXX03</H>?</A>
+<B><F>Eee</F> <F>ee</F> <F>ee</F> near the sea, <F>ee</F> there's <F>ee</F> <H pn="others5">XXX07</H>.</B>
+<A><H pn="others5">XXX07</H>?</A>
+<B>Yes. <JP><F>Eeto</F></JP> <R>in</R> <F>ee</F> <SC>in this <F>ee</F> planetarium</SC> <SC>on the</SC> in the planetarium <F>eer</F> recently, <JP><F>eeto</F></JP> <H pn="others5">XXX07</H> is <F>ee</F> built.</B>
+<A><F>Hum</F>.</A>
+<B>And <JP>mada</JP> <?>new</?>.</B>
+<A>I see. Have you been there?</A>
+<B>No.</B>
+<A>Not yet? O K. All right. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So interview is almost over. <F>Erm</F>. <.></.> So do you have any plan after work today?</A>
+<B><.></.> <F>Eer</F> <..></..> <JP><F>eeto</F></JP> I study, <F>ee</F> <nvs>coughs</nvs> English, <F>ee</F> now?</B>
+<A><F>Oh</F>. After work today.</A>
+<B>After work. <F>Er</F> <JP>kyou wa</JP> <F>er</F> <R>I</R> <F>uh</F> I go home in <H pn="others1">XXX03</H>.</B>
+<A><F>Hum</F>.</A>
+<B><F>Ee</F> <JP><F>eeto</F></JP> <SC><JP>sono mae</JP></SC> before <F>ee</F> next day is <F>ee</F> white day.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><F>Hm</F></OL> I <F>eh</F> buy <F>ee</F> candy in the department. <nvs>laughter</nvs></B>
+<A><laughter>I see</laughter>. So for your girl friend?</A>
+<B>No, <F>ee</F> <JP><F>eeto</F></JP> <SC>office</SC> in the office <F>ee</F> people.</B>
+<A>I see. O K. Thank you very much. <OL>Interview is over now</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+</stage5>
+</body>
+</interview>

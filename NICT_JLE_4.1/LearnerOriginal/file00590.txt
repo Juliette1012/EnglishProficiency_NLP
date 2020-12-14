@@ -1,0 +1,215 @@
+<interview>
+<filename>file00590.txt</filename>
+
+<head version="1.3">
+<date>2001-09-10</date>
+<sex>male</sex>
+<age>39</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC>630</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name please?</A>
+<B>Yes. My name is <SC><H pn="B's name">XXX01</H></SC> <H pn="B's name">XXX01</H>.</B>
+<A>O K, Mister <H pn="B's name">XXX01</H>, <F>urr</F> where are you from?</A>
+<B>Yeah. <SC>I from</SC> <SC>I'm from</SC> I come from <F>urr</F> <H pn="company name1">XXX02</H> in <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. And <F>er</F> where do you live now?</A>
+<B><F>Er</F> <R>I'm live</R> <R>I'm</R> I'm live in <F>ur</F> <F>urr</F> <H pn="others2">XXX04</H> City.</B>
+<A>O K. Were you born in <H pn="others2">XXX04</H>, too?</A>
+<B>No. I was born in <F>urr</F> <H pn="others3">XXX05</H> City, near <H pn="others4">XXX06</H> <F>er</F> and <F>ur</F> in Prefecture <H pn="others5">XXX07</H>.</B>
+<A><F>Ah</F>. O K. Would you tell me about your hometown?</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>Please</OL>.</A>
+<B><SC>It's a</SC> <F>urr</F> I was in <H pn="others3">XXX05</H> City <F>er</F> only six years.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>Zero to</SC> <F>ur</F> <SC>zero eight</SC> <F>urr</F> zero to six. So I don't know. <nvs>laughter</nvs></B>
+<A>Zero to, <F>oh</F> O K.</A>
+<B>Yeah.</B>
+<A><F>Uh-huh</F>. O K.</A>
+<B><?>I was</?> born and <F>urr</F> <.></.> in kindergarten,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I was in <F>urr</F> <.></.> <H pn="others3">XXX05</H> City.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B><OL>Yes</OL>. And <F>ur</F> next <H pn="others4">XXX06</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> And</B>
+<A>Next <H pn="others4">XXX06</H>?</A>
+<B><F>Er</F> <SC>I</SC> <F>urr</F> <F>urr</F> <.></.> after <H pn="others3">XXX05</H> City, <SC>I wa</SC> <R>I</R> <F>urr</F> <SC>I wa</SC> <SC>I living in <H pn="others4">XXX06</H></SC> I was living in <H pn="others4">XXX06</H>.</B>
+<A><F>Uhm</F>.</A>
+<B>And <F>urr</F> <.></.> my father and mother was in <H pn="others4">XXX06</H>.</B>
+<A><F>Ah</F> O K.</A>
+<B>Yes.</B>
+<A>O K. Then <F>urr</F> what is your hobby?</A>
+<B><F>Ah</F> my hobby is outdoor sport. For example, camping and <.></.> <F>ur</F> cycling.</B>
+<A><F>Uhm</F>. O K. Why do you like those sports so much?</A>
+<B><F>Uhmm</F>. It's very difficult for me. <F>Urr</F> in junior high school, <F>urr</F> I was <F>er</F> involved <F>urr</F> cycling club.</B>
+<A><F>Uhmm</F>.</A>
+<B>And <.></.> <F>urr</F> with my friend and with my coach, <R>I</R> <F>ur</F> I was trained <F>urr</F> <F>uhm</F> very often <.></.> cycling.</B>
+<A><F>Uhmm</F>. <OL>O K</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>And this summer, did you go somewhere cycling?</A>
+<B>Yes.</B>
+<A>Or camping?</A>
+<B>No. <F>Urr</F> only camping with my family.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. And <F>urr</F> I have reserved <F>urr</F> very <F>urr</F> <?>luxurious</?> <.></.> <F>urr</F> camping <F>urr</F> site,</B>
+<A><F>Uh-huh</F>.</A>
+<B>for my family because that was first time for my family. Yes.</B>
+<A><F>Uhm</F>. Where was it?</A>
+<B><R>It's</R> <F>urr</F> it's also <F>urr</F> <H pn="others3">XXX05</H> City.</B>
+<A><F>Ahh</F>.</A>
+<B>Yes.</B>
+<A>How luxurious was it?</A>
+<B><F>Oh</F>. Cost is also luxury. Five thousand yen <F>urr</F> per night.</B>
+<A>Per night?</A>
+<B>Yeah. And <SC>I have <F>urr</F> with my <F>urr</F> car camping car</SC>.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Urr</F>. No. <R>I</R> <.></.> <SC>I was gone to</SC> <SC>I go</SC> <SC>I will</SC> <F>ur</F> <R>I</R> I went to <SC>my fa</SC> <SC>with my family</SC> to the camping site with my family.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>And</OL> <F>urr</F> <.></.> the kitchen and a shower and some electric is <R>pre</R> <F>ur</F> prepared.</B>
+<A><F>Ahh</F>. Sounds very gorgeous.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><F>Ah</F>. O K. So of course did you enjoyed camping?</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ahh</F>. O K. That's very good. Then, will you <SC>tell me</SC> <F>urr</F> O K, look at this picture, please. And please describe it.</A>
+<B><F>Oh</F>. In this picture, we can find one <SC>car</SC> white car and <F>urr</F> one <.></.> jogging man. And <F>urr</F> in front of a big house, <F>urr</F> <.></.> <SC>the girl</SC> a girl <F>er</F> play the <F>urr</F> <.></.> some, how can I say, <F>uhmm</F> <.></.> <R>rope</R> <SC>ropes</SC> <R>rope play</R> <laughter><SC>rope play</SC></laughter> <F>urm</F> <SC>rope</SC> <F>urm</F> <R>with</R> with rope, she play the sports. And <R>two</R> <F>urr</F> two dogs <R>are</R> are in <F>er</F> in front of <F>er</F> house. And <F>er</F> two boys are <.></.> playing <F>urr</F> ball. And <F>er</F> <R>two</R> <F>er</F> two ladies is <.></.> talking about something. <F>Er</F> <SC>one is</SC> <F>urr</F> one have a dog. And one <F>er</F> gentleman read a paper in front of another house. And sun is shining. <?>Very</?> beautiful.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. <OL>Yeah</OL>.</A>
+<B><CO><OL>That's</OL></CO>.</B>
+<A>O K. Thank you very much. <F>Er</F> you said you living in <H pn="others2">XXX04</H> City now.</A>
+<B>Yes.</B>
+<A>O K. Tell me about your neighborhood, please.</A>
+<B><F>Uhm</F>. There are <F>er</F> very beautiful <F>urr</F> nature. For example, <H pn="others6">XXX08</H> Mountain is near.</B>
+<A><F>Uhm</F>.</A>
+<B>And <F>urr</F> I <nvs>cough</nvs> and my son <SC>is</SC> <F>ur</F> are <SC>jogs</SC> <F>ur</F> jogging or <R?>one</R?> <R>one</R> one hour <SC>in week</SC> in a week, yeah, <SC>and</SC> <F>urr</F> to the <SC><H pn="others6">XXX08</H></SC> <H pn="others6">XXX08</H> Mountain. And <F>urr</F> there are also sports gym and <F>urr</F> also <F>urr</F> swimming pool. And <F>urr</F> <SC>we have a very cheap cost</SC> <F>er</F> <SC>with very cheap cost</SC>, <F>urr</F> <SC>with <.></.> sports club</SC> <F>er</F> we can use the sports club <SC>ve</SC> with very cheap cost.</B>
+<A><F>Uhmm</F>.</A>
+<B>And <F>er</F> <F>uhm</F> <.></.> shopping is also good. <F>Uhm</F> and, <.></.> yeah, <R>neighbor</R> neighborhood is also <SC>kindness</SC> kind.</B>
+<A><F>Uhmm</F>.</A>
+<B>Yeah. It's very good for <R>me</R> us.</B>
+<A>Yeah. Sounds very nice place.</A>
+<B>Thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much.</A>
+<B>Yeah.</B>
+<A>Then, next, let's do a role play.</A>
+<B>Yes.</B>
+<A>This is your card. Please read it.</A>
+<B>Train?</B>
+<A>Yes. When you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Uhmm</F>. Yeah.</B>
+<A>Are you ready?</A>
+<B>Yeah.</B>
+<A>O K. May I help you?</A>
+<B>Yeah. I want to go to <.></.> the city, New York <R>with</R> <F>er</F> with train.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Urr</F> <SC>can I here</SC> can I buy here the ticket?</B>
+<A>Yes, sure.</A>
+<B>Yes, <F>urr</F> how much is <SC>that co</SC> <F>urr</F> the ticket?</B>
+<A>One way?</A>
+<B>One way. Yes.</B>
+<A>Yes. It is <F>er</F> twelve dollars.</A>
+<B>Twelve dollars. O K. And <SC>it's</SC> is it <F>urr</F> first class or second class?</B>
+<A><F>Oh</F>. <F>Ur</F> there is no such a classification. <R>Just</R>, yes, just one kind.</A>
+<B>O K. Then twelve dollars. <F>Urr</F> and <SC><R>how</R> how long <F>urr</F> <R>wi</R> will I <F>urr</F> needs a <F>urr</F> train or</SC> <SC>how long to</SC> <SC>how long will</SC> <F>urr</F> <F>urr</F> how long <SC>I</SC> <F>urr</F> do I need the <F>urr</F> time to New York?</B>
+<A><F>Uh-huh</F>. It takes <F>er</F> one and a half hours.</A>
+<B>One and a half hours? O K. O K. Can I here buy it? Or <.></.> could you tell me <F>urr</F> <F>urr</F> ticket <SC>selling the</SC> selling place?</B>
+<A>Yes. You can ticket here.</A>
+<B>O K. And here is twelve dollars.</B>
+<A><F>Er</F> O K. Thank you very much. And this is your ticket.</A>
+<B>Thank you.</B>
+<A>O K. Then have a nice trip.</A>
+<B>Thank you. <OL>Bye</OL>.</B>
+</task>
+<followup>
+<A><OL>Thank you</OL>. Bye. O K. Good. This is the end of role play. <F>Well</F>, have you been to New York?</A>
+<B><.></.> Yes.</B>
+<A><F>Ah</F>.</A>
+<B>One time <??></??>.</B>
+<A>One time? O K. How did you like New York City?</A>
+<B><laughter><F>Ah</F> yes</laughter>. But <R>it's only business trip</R> it was only business trip.</B>
+<A><F>Uh</F>.</A>
+<B>So I don't know <F>er</F> how beautiful and how good is.</B>
+<A><F>Oh</F>.</A>
+<B>Only <F>urr</F> <??></??> and <.></.> to Chicago another place.</B>
+<A>O K. <F>Ur</F> how long did you stay in New York?</A>
+<B>Only one or two hours. <nvs>laughter</nvs></B>
+<A><F>Oh</F> you didn't stay the night?</A>
+<B>No.</B>
+<A><F>Oh</F>. <nvs>laughter</nvs> <?><laughter>One</laughter></?>.</A>
+<B><laughter><CO>One hour</CO></laughter></B>
+<A><F>Ahhh</F>. O K.</A>
+<B>Yeah.</B>
+<A>All right. Then do you want visit New York again?</A>
+<B>Yeah. With my family. <SC>That is</SC> that will be good.</B>
+<A><F>Ahh</F>. And what do you want to do in New York with your family?</A>
+<B><R>My</R> <R>my</R> my wife want to buy something in New York, <R>I</R> I think.</B>
+<A><F>Ahh</F>.</A>
+<B><CO>For example, clothes and a dress or <.></.> bag or</CO>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>I don't</R> I don't understand <laughter><?>what</?></laughter> cost that.</B>
+<A>O K. And you said you have a son.</A>
+<B>Yes.</B>
+<A><F>Ah</F>. Do you think he wants to go to New York, too?</A>
+<B><F>Uhmmm</F>. No. Maybe he want to stay in Germany.</B>
+<A><F>Oh</F>. Why do you think so?</A>
+<B>Because he was born in Germany.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>O K.</A>
+<B><R>And</R> and he has a friend in Germany also.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Ahhh</F>. O K. O K. O K. Then, <.></.> here's another picture for you. This time, please make up a story using picture <R>num</R> number one to number six.</A>
+<B><F>Ah</F>.</B>
+<A>O K? It happened before. So please start your story with "One day last week".</A>
+<B>One day?</B>
+<A>One day last week.</A>
+<B><F>Ah</F> O K. O K. <nvs>cough</nvs> <F>Uhm</F>. O K. <CO>So <..></..> <SC>last week</SC> at last week</CO>. <F>Urr</F> <.></.> <R>can I</R> can I decide that is I?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Uhm</F> O K</OL>? <R>At</R> at <R>last</R> last week, <F>urr</F> <SC>I and my friend</SC> <F>er</F> my friend and I <F>urrrr</F> <.></.> <SC>go</SC> <F>er</F> went to restaurant. <.></.> And <SC>my friend has decided</SC> <F>er</F> sorry my friend decided <F>ur</F> <SC>the restaurant</SC> the favorite <R>rest</R> restaurant. And <.></.> the second picture. <F>Ur</F> my friend, he has <F>urr</F> <.></.> reserved the restaurant. And <F>er</F> <.></.> <R>he talk</R> he <F>er</F> talked with a waiter. <.></.> And <.></.> the picture three. <..></..> <F>Urr</F> my friend, <R>he</R> <F>urr</F> <.></.> <F>uhm</F> <..></..> <SC>he inform me</SC> <F>er</F> he talk me <F>er</F> some <F>urr</F> good specialty. And <SC>I choice</SC> I <SC>choose a</SC> choosed <F>urr</F> his <F>urr</F> <.></.> informed specialty. <nvs>cough</nvs> And I choosed <F>ur</F> <SC>fishes</SC> fish and he choosed <F>urr</F> <.></.> meal and I <.></.> drinked beer and he drinked also beer or wine, I think. And <.></.> <SC>that's a very</SC> that was very good <.></.> <F>urr</F> situation. And also he paid <F>urr</F> <.></.> all of <R>the</R> <F>urr</F> the <.></.> expenses. <nvs>cough</nvs> I had also no. That's all. And <.></.> the after <F>urr</F> <.></.> midnight, <F>urr</F> <R>we</R> <F>urr</F> we say bye-bye. And <.></.> <SC>to</SC> <.></.> <SC>we go</SC> <F>er</F> <SC>I go to</SC> <R>I</R> <SC>I wa</SC> I went to my house. <.></.> That's all.</B>
+</task>
+<followup>
+<A>O K. Good. Thank you very much. O K. What is good about eating out?</A>
+<B><F>Uhm</F>. Two point. <SC>The meal is</SC> the meal was a very good and <F>er</F> <SC>I was</SC> I <F>urr</F> ate <F>urr</F> much and <F>er</F> <SC>all cost</SC> <SC><R>all</R> all expense</SC>, <F>uhm</F> I'm sorry, <F>mm</F> he paid all <.></.> <F>urr</F> the cost of restaurant.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. O K. Thank you very much. This is almost end of interview.</A>
+<B><F>Uhm</F>.</B>
+<A><F>Err</F> yesterday was Sunday. Did you go out yesterday?</A>
+<B>Yes.</B>
+<A><F>Er</F>, will you tell me where you went?</A>
+<B><nvs>laughter</nvs> <F>Urr</F> <SC>last year's thi</SC> the day last year's <SC>my fa</SC> my mother was dead. So yesterday was a ceremony <F>urr</F> of my mother's.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yes.</B>
+<A>So did you go to <H pn="others4">XXX06</H>?</A>
+<B>Yes.</B>
+<A><F>Uhm</F>. O K. O K. Thank you very much. This is all.</A>
+<B>Yeah. <OL>Thank you very much</OL>.</B>
+<A><OL>Thank you very much</OL>. Thank you.</A>
+</stage5>
+</body>
+</interview>

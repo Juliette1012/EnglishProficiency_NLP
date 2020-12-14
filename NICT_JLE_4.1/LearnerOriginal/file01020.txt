@@ -1,0 +1,389 @@
+<interview>
+<filename>file01020.txt</filename>
+
+<head version="1.3">
+<date>2002-03-28</date>
+<sex>male</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>720</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's get started.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Good afternoon. My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Uh-huh</F>. <OL>I'm <H pn="B's name">XXX02</H></OL>.</B>
+<A><R><OL>May I have your</OL></R> may I have your name please?</A>
+<B><F>Ahh</F> I'm <H pn="B's name">XXX02</H>.</B>
+<A><.></.> <F>Er</F> Mister <H pn="B's name">XXX02</H></A>
+<B>Yes.</B>
+<A>O K. Nice to meet you <OL>Mister <H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you</OL>.</B>
+<A>How are you today?</A>
+<B>Fine. Pretty good.</B>
+<A><R>That's good</R>. That's good. <F>Umm</F> Where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H> Prefecture.</B>
+<A><OL><H pn="others1">XXX03</H></OL>?</A>
+<B><OL><F>Ah</F> yeah</OL>. My nearest station is <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL>It's</OL> in the <R>monorail</R> monorail line.</B>
+<A><F>Ohh</F>. I see.</A>
+<B>Yeah.</B>
+<A>I see. How do you like <R>your</R> your surroundings?</A>
+<B><F>Ahh</F> it's very <R>urbanized</R> urbanized town.</B>
+<A><F>Um</F>.</A>
+<B>But <SC>it's only <F>ah</F></SC> it is a island which developed just recently. But <F>ah</F> <R>neighbor</R> neighbor is <F>ah</F> just a, you know, old town or downtown.</B>
+<A><F>Oh</F>.</A>
+<B>So there are lot of shops. Very traditional shops. And <R>there</R> <R>there is</R> there is one main road <R>which is</R> which is called <R>Tokai</R> Tokai <JP>dou</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So there are lot of shops</B>
+<A><F>Umm</F>.</A>
+<B><R>along th</R> along the road.</B>
+<A>I see.</A>
+<B>Yeah. <SC>I like</SC> <R>I love the</R> I love the place.</B>
+<A><F>Oh</F> That's good.</A>
+<B>Yeah.</B>
+<A>That's good.</A>
+<B>Yeah.</B>
+<A>All right. Do you live with your family?</A>
+<B><F>Ahh</F>. I'm married but I have no children.</B>
+<A><.></.> <R>You're</R> you're married?</A>
+<B>I'm married.</B>
+<A><F>Oh</F> O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Can</OL> you tell me what your wife, then?</A>
+<B><F>Ah</F> <R>my wife</R> <F>ah</F> my wife also work for almost <R>same</R> <F>ah</F> same job. <OL>Actually</OL>.</B>
+<A><OL><R>At</R></OL> at this company?</A>
+<B><F>Ahh</F> no. Different company.</B>
+<A><F>Um</F>.</A>
+<B><SC>She's my class</SC> <R>she</R> she was my classmate in graduate school.</B>
+<A><F>Ohh</F>.</A>
+<B>Yeah.</B>
+<A>I see.</A>
+<B>So, yeah, she's the same age as me.</B>
+<A><R>I see</R> I see. All right. <F>Um</F> anything else about her?</A>
+<B><F>Ahh</F> about her. <F>Uhh</F> <.></.> Yes. Recently, <R>she's ve</R> she's very busy working. So she usually <SC>came</SC> come back using the last train.</B>
+<A><F>Ohh</F>.</A>
+<B>Yeah. Sometimes, <R>she</R> she needs to hire the taxi.</B>
+<A><F>Oh</F> <OL>dear</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><R>Dear</R> dear.</A>
+<B>Probably <R>I'm</R> <SC>I'm</SC> she's <SC>ma</SC> busier than me.</B>
+<A><laughter><F>Oh</F> <OL>really</laughter></OL>?</A>
+<B><OL>Yeah</OL>. Because I juse came back from England</B>
+<A><F>Uh-huh</F>.</A>
+<B>so <SC>now</SC> <SC>num</SC> my boss is now on vacation</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>to Hawaii</OL>.</B>
+<A><F>Ohh</F>.</A>
+<B>So now I have <SC>a lot</SC> plenty of time</B>
+<A><laughter>I see</laughter>.</A>
+<B><nvs>laughter</nvs> <SC>to be</SC> <R>I</R> <R>I</R> I feel <R>very</R> very relaxed.</B>
+<A>I see.</A>
+<B>Yeah. Probably, <R>I</R> I have to <R>start work</R> <SC>start to</SC> start working from Monday.</B>
+<A><F>Um</F>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Um</F></OL>. O K.</A>
+<B><SC>That's why</SC> that's when <R>he</R> <R>he</R> <SC>he came</SC> <SC>he will</SC> <SC>he have been</SC> he <SC>came</SC> come back.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A>What is your responsibility at work?</A>
+<B><F>Ahhh</F> in these day, I'm in charge of <R>urbanly redevelopement</R> urbanly development project.</B>
+<A><F>Umm</F>.</A>
+<B><SC>So</SC> which is very huge project and <F>uh</F> it contains six buildings. Actually, <R>it's a</R> it is a huge building <R>author</R> authorized by <H pn="others4">XXX05</H>.</B>
+<A><F>Um</F>.</A>
+<B>And <SC>the</SC> which contains <.></.> <SC>six office</SC> six buildings such as office buildings, one hotel and one supermarket called <H pn="others5">XXX06</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. They are now under construction. That's what <R>I'm</R> I'm in charge of it.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>.</A>
+<B>Actually, I'm not <R>respon</R> responsible for it. <SC>I just</SC> <SC>I'm just</SC> <SC>I just for</SC> I just work for it.</B>
+<A><F>Mmm</F>. <F>Well</F> <F>well</F> you know, yeah.</A>
+<B>Yeah.</B>
+<A>How do you like <R>your</R> your job?</A>
+<B>I like it. Yeah.</B>
+<A>Why?</A>
+<B>Why? <F>Um</F> <.></.> <SC>I</SC> <F>umm</F> because I studied urban planning in my university. And <F>ah</F> the work is very similar to what I was studying.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But <F>ah</F> what I don't like is that <F>ah</F> there are lot of people who are involved in. So what <R>I'm</R> I'm in charge of is just very limited area.</B>
+<A><F>Mmm</F>.</A>
+<B>Yeah. So I cannot see overview. <F>Um</F> you know.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A><OL>All right</OL>.</A>
+<B><OL>That's a little shame</OL>.</B>
+<A><R>Good</R> good. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, first of all today, I would like to show you a picture.</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewer is looking for a picture.</ctxt>
+<A><nvs>clearing throat</nvs> Now, let's do this. Here's a card for you.</A>
+<B><F>Uh-huh</F>. Thanks.</B>
+<A>Please describe this picture for me.</A>
+<B><F>Uh-huh</F>. Now?</B>
+<A>Yes.</A>
+<B>O K. <F>Ahh</F> it seems like <R>a</R> <.></.> a scene of <R>class</R> classroom. Probably, high school, I think. There are six students and one teacher. <R>She</R> <F>ah</F> she is teaching, I guess, mathematics. And <F>ah</F> the student looks <SC>very</SC> <SC>not very</SC> <R>so</R> <SC>some people</SC> some students are listening what the teacher say. But <F>ah</F> there are <SC>some people</SC> some student <SC>who are</SC> who don't listen what the teacher says. And one student is <R>drinking</R> drinking and <F>ah</F> one student <F>ah</F> chewing the gum. And also two girls are talking each other without listening what the teacher says. And <F>ah</F> yeah, it looks like a, yeah, <R>nasty</R> <R>nasty school</R> nasty school.</B>
+<A><laughter>Yes definitely</laughter>. <.></.> O K.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>All right. <R>So</R> so these are <R>not</R> not really good students. Can you compare these students</A>
+<B><F>Uh-huh</F>.</B>
+<A>and yourself when you were a high school student?</A>
+<B>I'm a high school student?</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>Ahh</F></OL>. My high school is <.></.> probably <R>most of</R> most of student are <.></.> I have to say but <F>ah</F> usually <R>clever</R> clever student, means they studied hard to enter university</B>
+<A><OL>Right</OL>.</A>
+<B><OL>because</OL> Japanese university is hard to enter. So everyone is keen to study. So <SC>my</SC> I think <F>umm</F> my school is totally differnt from this kind of <nvs>laughter</nvs> school. Yeah.</B>
+<A><F>Mm</F>. O K.</A>
+<B>Yeah.</B>
+<A>What do you think about this teacher?</A>
+<B>Teacher? <.></.> <F>Mm</F>. She's quite a bit young.</B>
+<A><F>Um</F>.</A>
+<B>Younger than my teacher.</B>
+<A><F>Mm</F>.</A>
+<B>And <F>ahh</F> <.></.> probably, <R>she give up</R> <F>ah</F> she give up <.></.> <F>mm</F> <.></.> she asking students <R>to keep</R> to keep silent so <R>she just</R> <R>she just</R> she just teach without the <R>response</R> response from student.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><R>She just</R></OL> she just teach.</B>
+<A><F>Mm</F>.</A>
+<B>Because anyway, <R>she just</R> <SC>she just have to study</SC>. <F>Ah</F> no, she just have to teach.</B>
+<A>Right.</A>
+<B>Yeah.</B>
+<A>Right. O K.</A>
+<B>She look like that.</B>
+<A><F>Um</F>. O K. Thank you very much. Can I have that card back?</A>
+<B><F>Uh-huh</F>.</B>
+<A>Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, next, I would like to do a role-play.</A>
+<B><F>Uh-huh</F>.</B>
+<A><nvs>clearing throat</nvs> <F>Um</F>. Let's see. Let's do this. O K. Here's a card for you. It's written in Japanese. So please read it to yourself.</A>
+<B><OL><F>Um-huh</F></OL>.</B>
+<A><OL>When</OL> you're ready, I'll begin.</A>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<B>I'm a customer?</B>
+<A><F>Um</F>.</A>
+<B><F>Mm</F>.</B>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<A>Ready?</A>
+<B><.></.> O K.</B>
+<A>O K. Yes sir. How may I help you?</A>
+<B><F>Ahh</F>. Hi. <SC>I bought a</SC> I bought <R>this</R> this product <R>yes</R> yesterday from you.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But <F>ahh</F> when I came back home and <F>ahh</F> opened the package, <SC>the color is what I</SC> color is slightly different <R>from</R> from what I wanted. So <.></.> <SC>I would</SC> <SC>I</SC> <F>ahh</F> honestly, <F>ah</F> could you change this product?</B>
+<A><R>Wha</R> what did you buy exactly?</A>
+<B><F>Umm</F>. <.></.> <F>Ah</F> shirt.</B>
+<A>A shirt?</A>
+<B>A shirt.</B>
+<A>Yeah.</A>
+<B>This blue shirt.</B>
+<A><F>Um-huh</F>.</A>
+<B>I thought this is <R>light</R> light blue shirt but <R>it's</R> it's actually <R>dark</R> dark shirt.</B>
+<A><F>Um</F>.</A>
+<B>So it's too casual <SC>to</SC> <R>for the</R> for the company.</B>
+<A><F>Oh</F> I see. <F>Well</F> but <F>ah</F> when you came here yesterday</A>
+<B>Yes.</B>
+<A>didn't you try it on?</A>
+<B><F>Ah</F> I tried that but <F>ah</F> I didn't notice the <F>um</F> color is dark. Probably, <SC>it's be</SC> it's due to the light.</B>
+<A><F>Um</F> <F>ah</F> once you buy it, we normally don't exchange.</A>
+<B><F>Ohh</F>. But could you do that?</B>
+<A>I'm afraid I cannot do <OL>anthing about it</OL>.</A>
+<B><OL>So</OL>.</B>
+<A>I was told from my boss that.</A>
+<B>So what about just refund?</B>
+<A>No. There's no refund.</A>
+<B><F>Ohh</F>. But <F>ahh</F>.</B>
+<A>It's not our policy.</A>
+<B><SC>Because</SC> <F>ahh</F> I usually use this shop so if you think about that could you do that?</B>
+<A><F>Um</F>.</A>
+<B>I promise that <SC>I</SC> I'll buy <SC>next</SC> <R>other</R> other shirt next time.</B>
+<A>O K. <F>Well</F> I really wish I could something for you.</A>
+<B><F>Um</F>.</B>
+<A>But <R>I'm not</R> I'm not authorized.</A>
+<B><F>Umm</F>.</B>
+<A>I just work here as a part timer.</A>
+<B>So is there anything which you can do <R>ex</R> except for refunding or changning this product?</B>
+<A><F>Well</F> <F>um</F> <.></.> maybe I can talk to my boss.</A>
+<B>Yes. Please. Actually, can I talk to your boss?</B>
+<A><OL>Yes</OL>.</A>
+<B><OL>Probably</OL> I know him.</B>
+<A>Yes.</A>
+<B>Yeah.</B>
+<A>O K. But <F>ah</F> he's not in the office right now.</A>
+<B><F>Oh</F> really? So what about this? <R>I'll</R> I'll give you my business card.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>ah</F> <R>talk</R> talk about this to your boss.</B>
+<A>O K.</A>
+<B>So probably, <R>he will give</R> he will give you <SC>some advices</SC> advice.</B>
+<A><OL>Sure</OL>.</A>
+<B><OL>About that</OL>.</B>
+<A>Sure. <F>Um</F>. You'd better keep your receipt.</A>
+<B><F>Oh</F> yes. I have. Yeah. <R>Here</R> here is my receipt.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>O K. And did you wear that shirt?</A>
+<B><F>Ah</F> no. Not at all.</B>
+<A>O K.</A>
+<B>I just opened the package.</B>
+<A>Right.</A>
+<B>Yeah.</B>
+<A>Right. O K. Then can you call me boss?</A>
+<B><F>Oh</F> yeah. I can. <.></.> <R>Do</R> do you think <R>I</R> I'd better <R>call</R> call him directly? Or <R>you will</R> <SC>you will tell</SC> you will talk to him?</B>
+<A><F>Ah</F> maybe <R>I should</R> I should talk to him then.</A>
+<B><F>Oh</F> yeah.</B>
+<A>Yeah. <OL>And <F>ah</F></OL></A>
+<B><OL>So please do</OL>.</B>
+<A>can you come back tomorrow?</A>
+<B><F>Ahh</F> I'm afraid I cannot come tomorrow.</B>
+<A><F>Hmm</F>.</A>
+<B>Because tomorrow is weekday.</B>
+<A>I see.</A>
+<B>Yeah. But <F>ah</F> <SC>I will</SC> <SC>I'm</SC> I will be available on Saturday.</B>
+<A><OL>Saturday</OL>?</A>
+<B><OL>Saturday morning</OL>. Yeah.</B>
+<A><R>O K</R> O K. Then <F>um</F> I'll give you a call then.</A>
+<B>Yes.</B>
+<A>All right.</A>
+<B>Yeah. Thank you. I <R>appre</R> appreciate you.</B>
+<A>O K. Thank you very much.</A>
+<B>Yeah.</B>
+<A><SC>I'll see you</SC> I'll talk to you on Saturday.</A>
+<B>Thank you.</B>
+<A>Thank you. <OL>O K</OL>.</A>
+<B><OL>See you on</OL> <R>Sat</R> Saturday.</B>
+<A>Right. Great. Thank you very much.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>Now</OL> this is the end of role-play.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A><F>Um</F>. <R>Do</R> do you have any similar experience?</A>
+<B>Similar experience? For what? <F>Oh</F> this situation?</B>
+<A>Yeah.</A>
+<B><F>Oh</F>. Sometime yes.</B>
+<A>Can you tell me about it?</A>
+<B><F>Ahhh</F> <R>I bought a</R> <F>uhh</F> I bought a tapes.</B>
+<A><F>Hm</F>.</A>
+<B>Of Beatles.</B>
+<A><F>Hm</F>.</A>
+<B>And after <R>I went back</R> I went back home and <SC>I li</SC> I try to listen but the tape is very old.</B>
+<A><F>Mm</F>.</A>
+<B>So the quality of sound is terrible.</B>
+<A><F>Um</F>.</A>
+<B>But <SC>I hadn't listen</SC> <SC>listen that</SC> I hadn't listen that so <R>I went</R> I went to the shop again</B>
+<A><F>Um</F>.</A>
+<B>and I <R>try</R> try to them to change it.</B>
+<A><F>Umm</F>.</A>
+<B>But at that time, <R>they</R> they didn't have a stock. So they just <R>gave</R> gave me refund.</B>
+<A><F>Ohh</F>.</A>
+<B>Yeah.</B>
+<A><R>I see</R>. I see. <F>Oh</F> that's good. All right. Thank you very much.</A>
+<B><F>Uh-huh</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now lastly, I would to show you a sequence of pictures.</A>
+<ctxt>The interviewer is looking for a picture.</ctxt>
+<A><F>Ahh</F> O K. Let's do this. Here's a card for you.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And I'd like you to make up a brief story based on these pictures from number one to six.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And this happened before, so please start your story with "One day last week".</A>
+<B><F>Uh-huh</F>. O K. <CO>Can I have a time to</CO>.</B>
+<A>Yeah. <R>Sure</R> sure.</A>
+<ctxt>The interviewee is looking at the picture sequence and thinking for a while.</ctxt>
+<A>O K?</A>
+<B>One day last week.</B>
+<A><F>Um</F>. Go ahead.</A>
+<ctxt>The interviewee is thinking again.</ctxt>
+<A>Go ahead.</A>
+<B>O K. <F>Ahh</F> <R>One day</R> one day last week, <F>um</F> Ayako and <R>To</R> Tomoko were planning to go driving <SC>and pic</SC> <F>ahh</F> <R>and</R> and hiking on the mountain near the river. So <SC>they drove to <R>there</R> there</SC> they drove to the place and <F>ah</F> where they <F>um</F> built the tent. And <F>ah</F> they started to prepare for the dinner. Suddenly it started raining. And <F>ah</F> <R>it</R> it getting heavier and heavier. So they finally gave up staying there at the night. So <R>they</R> they tried to <SC>go back</SC> <SC>go home</SC> go back home but <F>ah</F> then the storm has come. So anyway, <R>they</R> they <SC>got on the</SC> got on the car and <F>ah</F> <SC>went back home</SC> tried to back home but the <R>it</R> it was so heavy storm that <R>they couldn't</R> they couldn't go home directly. But on the way back to home, luckily, they found a hotel called "Cosmo". So <SC>they tried</SC> <R>they changed the</R> they changed the plan and they have decided to stay there for one night. So finally, <SC>they <F>um</F> and <F>ah</F></SC> luckily the hotel has a vacant room, so they could stay there. And finally <R>they</R> <R>they</R> they took a rest <SC>at the ho</SC> at the room of the hotel.</B>
+<A><F>Um</F>. O K.</A>
+<B>Yeah.</B>
+<A>Good. Thank you very much.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>O K. Now I heard that England has a lot of nature like this.</A>
+<B>Yes.</B>
+<A><SC>But do you have any</SC> what is your best memory?</A>
+<B>Best memory?</B>
+<A><F>Um</F>. <OL>In England</OL>.</A>
+<B><OL><F>Ohh</F></OL>. I have a lot of friends. <SC>I've</SC> <R>I became</R> I became friends with some people from of course England also Greece, and <F>ah</F> Ireland,</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>France</OL> and <F>ah</F> probably <SC>you are surprise</SC> you will be surprised from <R>Rwanda</R> Rwanda.</B>
+<A>Ruwanda.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>.</A>
+<B>Yeah. So yeah. I think <R>it</R> it is the best memory that I became friend with them.</B>
+<A><F>Umm</F>.</A>
+<B>Yeah.</B>
+<A>What's so great about having a lots of friends from all over the world?</A>
+<B>Yes.</B>
+<A>What is the great point about that?</A>
+<B><F>Ahhhh</F> because usually, they are different from Japanese anyway.</B>
+<A><F>Um</F>.</A>
+<B>And <F>ah</F> <R>I</R> I became to know there are a lot of difference. But <F>ah</F> <F>um</F> the more of it I know them, the more <SC>I can understand</SC> <R>I</R> I became to understand them. Of course they are different, but there are lot of similarities.</B>
+<A><F>Um</F>.</A>
+<B>Yeah. <OL><CO>So</CO></OL>.</B>
+<A><OL>Like</OL>?</A>
+<B>Like? For example yeah. For example, English. Of course <F>ah</F> English looks very different from Japanese. But <F>ah</F> I think their <F>um</F> nature or their characteristic is very similar to Japanese. They are very polite and discrete</B>
+<A><F>Hmm</F>.</A>
+<B>like Japanese.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A><F>Hmm</F>.</A>
+<B>When I noticed that, I was very glad. Actually <SC>my mother</SC> my host mother</B>
+<A><F>Hm</F>.</A>
+<B>is very kind and polite.</B>
+<A><F>Mmm</F>.</A>
+<B><CO>And</CO>. <F>Ah</F> yeah.</B>
+<A>I see. <F>Wow</F>.</A>
+<B>Yeah.</B>
+<A>I'm sure you had a very good time there.</A>
+<B>Yeah. <SC>I think so</SC> I definitely.</B>
+<A><R>That's good</R>. That's good to know.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>All right</OL>. Thank you very much.</A>
+<B>Thank you.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Now <H pn="B's name">XXX02</H> this is almost the end of the interview.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Are you going back to work? It's almost four <OL>thirty</OL>.</A>
+<B><OL>Yes</OL>. I hate to but I have to. <nvs>laughter</nvs></B>
+<A><F>Oh</F> too bad. <SC>Is your main office</SC> <R>do</R> do you work here? <OL>At the main office</OL>?</A>
+<B><OL><F>Ah</F> <F>un</F></OL> no. <F>Ahh</F>. My office is just one block away from here.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A><R>I see</R>. I see. <F>Oh</F> <F>well</F> I won't keep you long. It's a nice day so it's nice to <OL>walk outside</OL>.</A>
+<B><OL>Yeah</OL>. <nvs>cough</nvs></B>
+<A>All right. Thank you very much.</A>
+<B>Yes.</B>
+<A>This is the end of the interview.</A>
+<B>Thank you.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

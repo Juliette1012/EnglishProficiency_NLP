@@ -1,0 +1,179 @@
+<interview>
+<filename>file00053.txt</filename>
+
+<head version="1.3">
+<date>1999-12-17</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>705</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>map</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>O K. <F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Oh</F> yes.</B>
+<A>O K. So <H pn="B's name">XXX02</H>, where are you from?</A>
+<B>I'm from <H pn="others1">XXX03</H>.</B>
+<A><F>Ah</F> I see. <F>Um</F> how do you like <H pn="others1">XXX03</H>?</A>
+<B><F>Er</F> <F>urr</F> I like <H pn="others1">XXX03</H> very much because <H pn="others1">XXX03</H> is <F>er</F> port city. So <R>I</R> I can see many foreigners and I can see many beautiful ships.</B>
+<A>That's right. <F>Ah</F> were you born <F>er</F> in <H pn="others1">XXX03</H>, too?</A>
+<B>Yes.</B>
+<A>Yes? I see. All right. <F>Er</F> now, can you tell me about yourself?</A>
+<B><F>Uh-huh</F>. <.></.> <F>Oh</F>. <F>Urrm</F> I am a third year student in <H pn="school name1">XXX04</H>. And I'm in the literature department. And I <F>ar</F> major in <F>a</F> cultural anthropology.</B>
+<A>I see. How do you like cultural anthropology?</A>
+<B>Yes. <F>Er</F> <SC>the</SC> it is very interesting because I like <.></.> communication. <F>Mhmm</F> so I want to study about the communications. So <SC>the cultural anthropology in <F>urmm</F> communication</SC> <F>urr</F> <SC>in the</SC> in cultural anthropology, <F>er</F> we can <F>mhm</F> study about the communications.</B>
+<A><F>Ah-huh</F>. So are you comparing various cultures?</A>
+<B><F>Er</F> yes.</B>
+<A>Yes? <F>Ah</F>. So which culture is most interesting to you?</A>
+<B><F>Mhmm</F> for me, <F>er</F> Ainu culture is <F>u</F> the most interesting one.</B>
+<A>Why is that?</A>
+<B>Because <F>urr</F> <.></.> the culture is in <.></.> Japan. So, <.></.> I feel <.></.> it <.></.> is familiar to me. So, <F>ah</F> <F>urr</F> <F>n</F> <F>mhmm</F> the culture is in Japan, so we have to study the culture.</B>
+<A>Yeah. I see. So you not only compare the foreign cultures, but also the cultures inside Japan, too?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Urr</F></OL> very interesting. All right. So, <F>err</F> do you have any hobby?</A>
+<B><F>Er</F> yes.</B>
+<A>Yes?</A>
+<B>My hobby is watching movies.</B>
+<A><F>Ah</F> O K. Tell me <SC>about the</SC> about your favorite movie.</A>
+<B>My favorite movie is "Three Sisters of Sung Family". <SC>The Chinese movie</SC> it is the Chinese movie.</B>
+<A>I see. I'm not familiar with the story, but <F>mhm</F> must be interesting.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>All right. Very good. Now, let's move onto the next stage.</A>
+<B><F>Uh-huh</F>.</B>
+<A>All right?</A>
+<B>O K.</B>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>Please look at this map</A>
+<B><F>Uh-huh</F>.</B>
+<A>and describe it for me.</A>
+<B><F>Uh-huh</F>. O K. <F>Mhm</F>.</B>
+<ctxt>The interviewee is looking at the picture and thinking about what to say.</ctxt>
+<B><F>Urmm</F> <F>urm</F> from the train station, <.></.> at first, there is a bank. The bank is across <.></.> to the <SC>sta</SC> <SC>stra</SC> train station. And <F>ah</F> next to the bank, there is <.></.> office. <R>And <.></.> <F>mhmm</F> in</R> <F>urr</F> <.></.> and <.></.> in front of the office, there is school. <.></.> And <..></..> <F>mhmm</F> <.></.> <F>urr</F> <SC>I <.></.> go</SC> if I <R>go</R> <R>go</R> go to <.></.> between a bank and school <.></.> <F>urrmm</F> to <..></..> second bus stop. Then turn to the right and go straight to <.></.> the next bus stop, <F>urr</F> we can go to bus station.</B>
+</task>
+<followup>
+<A>O K. All right. Very good. Now, <F>urr</F> do you like this town?</A>
+<B><..></..> <F>Mhm</F> yes.</B>
+<A>Yes? O K. Why do you like it?</A>
+<B>Because <F>urmm</F> <R>there are many buildings</R> <.></.> <F>a</F> <F>a</F> <F>urr</F> there are many buildings. So, <.></.> <F>mhmm</F> <F>a</F> <SC>school</SC> there is school near the public and hospital, too. So it is convenient to us. And <.></.> <SC>nature is</SC> <SC>there is nature also</SC> there is also nature <SC>bec</SC> <F>urr</F> for example, zoo or north river. The zoo and north river is <.></.> <R>na</R> <F>urr</F> nature places. So we can enjoy <F>urm</F> <.></.> them.</B>
+<A><F>Mhm-huh</F>. Yes. I agree. <F>Uh-huh</F>. If you can build one more thing in this town, what do you want to build?</A>
+<B><F>Mhmm</F>. <..></..> <F>Mhmm</F>. <..></..> <F>Urrm</F> I want to <R>build</R> <.></.> build <.></.> karaoke <.></.> <OL>building</OL>.</B>
+<A><OL><nvs>laughter</nvs> <laughter>O K</laughter></OL>. Very creative. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you. Now, <F>urmm</F> I want you to read this card,</A>
+<B><F>Mhm-huh</F>.</B>
+<A>and we'll do a role play.</A>
+<B><F>Uh-huh</F>. <OL>O K</OL>.</B>
+<A><OL>When</OL> you're ready, I'll start.</A>
+<B><F>Mhm</F>. O K. <F>Em</F></B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K. May I help you?</A>
+<B>Yes. I want to <F>er</F> an evening dress.</B>
+<A><F>Ah</F> yes. We have a big selection of evening dresses here.</A>
+<B><F>Uh-huh</F>. <F>Ur</F> I want to <.></.> <F>a</F> simple one. And the color is not so <.></.> <SC>color</SC> <F>u</F> <SC>ligh</SC> colorful. <F>Urr</F> I want to chic one. <F>Ah</F> <F>aa</F> <CO>I want to gray or black or</CO>.</B>
+<A><F>Urm</F> O K. <F>Well</F> <F>urr</F> I have about three <F>urr</F> dark color evening dresses.</A>
+<B><F>Uh-huh</F>. So I want to see <.></.> all of them.</B>
+<A>O K. So, <R>here</R> here they are.</A>
+<B><F>Uh-huh</F>. <F>Urmm</F> <F>arr</F> <.></.> what do you think <.></.> is the best?</B>
+<A><F>Urm</F>. <F>Well</F> <SC>the quality</SC></A>
+<B><F>Mhm-huh</F>.</B>
+<A>the best quality is this one, this silk. But the cheapest one is this one with nylon.</A>
+<B><F>Urmm</F> so <SC>the silk</SC> how much is the silk one?</B>
+<A>The silk one is <F>urr</F> three hundred dollars.</A>
+<B><F>Uh-huh</F>. And <SC>the others are</SC> <F>ah</F> how much are the others?</B>
+<A>O K. <F>Ah</F> the nylon one</A>
+<B><F>Mhm-huh</F>.</B>
+<A>is seventy-five dollars.</A>
+<B><F>Mhmm</F>.</B>
+<A>And this <F>urr</F> <SC>cotton one</SC> cotton and <F>er</F> nylon mixture, this is one hundred fifty <OL>dollars</OL>.</A>
+<B><OL><F>Mhmm</F></OL>. O K. <F>Urmm</F>. <.></.> <CO>So <F>er</F> can I try the nylon and cotton <OL>mi</OL></CO>?</B>
+<A><OL><F>Uh-huh</F></OL>. Sure. Go ahead.</A>
+<B>Thank you. <nvs>cough</nvs> <F>Er</F> I think <R>the</R> <F>a</F> the length is little <.></.> longer than what I want. <SC>So</SC> <F>uh</F> and is there <.></.> different size of <.></.> this one?</B>
+<A><F>Urmm</F> <F>well</F> for the nylon one,</A>
+<B><F>Mhm-huh</F>.</B>
+<A><F>Er</F> we don't.</A>
+<B><F>Uum</F>.</B>
+<A>But the cotton one, yes.</A>
+<B><F>Uh-huh</F>. So I want the cotton one.</B>
+<A>O K. All right. So I will wrap it for you.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Here you go.</A>
+<B>Thank you.</B>
+<A>Thank you. Can I <OL>have the card</OL>?</A>
+<B><OL><F>A</F> <F>a</F> <F>a</F></OL>.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. All right. Do you like shopping?</A>
+<B>Yes.</B>
+<A>Yes? <F>Wow</F>. What kind of things <F>er</F> do you like to buy?</A>
+<B><F>Er</F> <R>I want to</R> <F>er</F> I want to buy clothes.</B>
+<A><F>Uh-huh</F>. O K. Tell me about your last clothes shopping.</A>
+<B>Last clothes shopping is <.></.> <SC>sweater</SC> gray sweater. <F>Urmm</F> actually now, I <R>we</R> wear this one.</B>
+<A><F>Ah</F> it's very nice.</A>
+<B><OL><laughter>Thank you</laughter></OL>.</B>
+<A><laughter><OL>It's very</OL> good on you</laughter>.</A>
+<B><laughter>Thank you</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So let's move onto the next stage.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>O K</OL>? Now, I want you to look at these pictures.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And I want you to make a short story from one to six.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>? And start your story with "One day last week".</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewee is looking at the pictures for a while.</ctxt>
+<B><F>Umm</F>. <.></.> One day last week, <F>er</F> he <.></.> met <.></.> with his teacher. <F>A</F> the teacher is <.></.> high school teacher, so he <.></.> was taught by him in the high school. And they entered <.></.> a restaurant and <.></.> <F>hum</F> <R>the</R> <.></.> the waiter <.></.> served them and the waiter <..></..> took them <SC>into <.></.> the</SC> <.></.> into a table. And <.></.> they <..></..> <SC>decide</SC> decided <SC>what he</SC> what they <.></.> eat. <SC>S</SC> and <F>urr</F> <.></.> waitress <..></..> asked them <..></..> <R>what they ate</R> what they ate. And <.></.> they had <..></..> dinner. And they drank beers and they had fun and they talked with each other about <F>urmm</F> <SC>his scho</SC> his high school days. And after <.></.> having dinner, <SC>the</SC> and he <.></.> was full. And the teacher <..></..> paid <.></.> for the dinner. And he paid all, including <F>er</F> <R>his student</R> his student's dinner. <R>And</R> <.></.> and <.></.> after <.></.> going out of the restaurant, <R>they</R> <..></..> <F>nn</F> <R>they</R> <.></.> <F>mhmm</F> <..></..> <F>urmm</F> <..></..> they <..></..> <SC>parted of</SC> parted off.</B>
+<A>O K. All right. Thank you.</A>
+<B>You're welcome.</B>
+</task>
+<followup>
+<A>What do you think of <F>er</F> letting the teacher pay for the dinner?</A>
+<B><.></.> <F>Er</F> <F>mhmm</F> <.></.> <F>er</F> I think <F>er</F> <.></.> <F>a</F> that is <..></..> not so bad. <.></.> <F>Um</F> because <.></.> he is older than the student, and he is teacher.</B>
+<A><?>That sounds</?> <OL><??></??></OL>.</A>
+<B><OL>So</OL> <R>it is not</R> <SC>it is not g</SC> it is not bad.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Yeah. All right. Very good. Now, this is the almost end of the interview.</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Mhm-huh</F>. What is your plan for the New Year?</A>
+<B>New Year. <F>Urr</F> I am a <SC>thirded</SC> third year student, so I have to <.></.> prepare for job hunting. So, <F>er</F> <SC>Ne</SC> in the New Year <F>a</F> and <.></.> <SC>I <.></.> have to <.></.> job hunting</SC> I have to do job hunting.</B>
+<A>I see. <F>Well</F> that's too bad.</A>
+<B><F>Uh-huh</F>.</B>
+<A>But I hope you'll finish <F>er</F> good preparation</A>
+<B><F>Uh-huh</F>.</B>
+<A>over the holiday, and I hope you will find a good job.</A>
+<B>Thank you.</B>
+<A>All right. Thank you very much for coming.</A>
+<B>Thank you.</B>
+<A>And this is all for the interview.</A>
+<B><F>Uh-huh</F>.</B>
+<A>All right.</A>
+</stage5>
+</body>
+</interview>

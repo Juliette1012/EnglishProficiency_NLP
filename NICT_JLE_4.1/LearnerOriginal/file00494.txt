@@ -1,0 +1,226 @@
+<interview>
+<filename>file00494.txt</filename>
+
+<head version="1.3">
+<date>2001-06-26</date>
+<sex>male</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon. How are you today?</A>
+<B>Yeah. It was fine for me. <OL>Yeah</OL>.</B>
+<A><OL>Good</OL>. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> my name is <OL><H pn="B's name">XXX02</H></OL>.</B>
+<A><OL><H pn="B's name">XXX02</H></OL>.</A>
+<B>Yeah.</B>
+<A>O K. <F>Er</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>So how are you today?</A>
+<B><F>Err</F> <F>um</F> today is <F>uum</F> <R>busy</R> busy day.</B>
+<A><F>Uum</F>. <OL>How busy</OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Why</OL>?</A>
+<B><OL>Yes</OL>. <F>Err</F> <R>I worked</R> I worked from morning <F>err</F> from <R>six</R> six morning to <R>three</R> three P M. <OL>Yes</OL>.</B>
+<A><OL><F>Oh</F> I see</OL>. <OL><F>Oh</F></OL>.</A>
+<B><OL><F>Er</F></OL> at my restaurant.</B>
+<A>I see. <F>Er</F> what do you do?</A>
+<B><F>Err</F> I cook.</B>
+<A>You are a cook.</A>
+<B>Yeah.</B>
+<A><F>Oh</F> I see. O K. <F>Er</F> please tell me more about your job.</A>
+<B><F>Er</F> <R>I work</R> I work at Japanese restaurant in <H pn="others1">XXX03</H>.</B>
+<A><F>Hum</F>.</A>
+<B>I work as <F>err</F> <R>Japanese</R> Japanese cooking. Yes. <nvs>cough</nvs></B>
+<A>I see. <F>Er</F> so <F>er</F> I guess you are enjoying your job.</A>
+<B><F>Uhm</F> <JP><F>ma</F></JP>. Yeah. Almost I enjoy it.</B>
+<A>Almost?</A>
+<B><laughter>Almost</laughter>.</B>
+<A>Why almost? <R>What is</R> what is a difficult point?</A>
+<B><laughter><F>Err</F></laughter> <F>er</F> sometimes <F>err</F> there is overwork. Yeah.</B>
+<A>I see.</A>
+<B><R>About</R> about <R>fourteen</R> <R>fourteen</R> <SC>fourteen <R>times</R> times</SC> <F>er</F> fourteen hours. <OL>Yeah</OL>.</B>
+<A><OL><F>Oh</F> I see</OL>.</A>
+<B>Yeah. <F>Er</F> <JP>nani</JP>. For example <SC>Sunday</SC> on Sunday or on Saturday <SC>is</SC> restaurant is too busy. <OL>Yeah</OL>.</B>
+<A><OL><F>Oh</F> I see</OL>. Then <SC>when you're</SC> when you are exhausted or very tired how do you refresh yourself?</A>
+<B><F>Uum</F> <laughter>sleeping</laughter>.</B>
+<A>Just sleeping?</A>
+<B>Yeah. Just sleeping and eating.</B>
+<A><OL><F>Oh</F> so you <??></??></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Do you cook for yourself when you eat?</A>
+<B><F>Err</F> <SC>yeah</SC>. No. <F>Er</F> <R>for</R> for refreshing <F>er</F> <F>er</F> <R>if</R> if I cook <F>er</F> <R>more</R> more tired.</B>
+<A>Right.</A>
+<B><laughter>Yeah</laughter>. <JP><F>Ee</F></JP> <R>just</R> just eating.</B>
+<A>Just eating.</A>
+<B><laughter><F>Er</F></laughter> yeah.</B>
+<A><F>Oh</F> so somewhere.</A>
+<B><laughter>Yes, somewhere</laughter>.</B>
+<A><F>Oh</F> I see. O K. <F>Um</F> do you have any hobbies?</A>
+<B><F>Err</F> I like swimming.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah, at swimming pool at <F>err</F> Sendagaya.</B>
+<A>I see.</A>
+<B>Yeah. Sendagaya <JP>nani</JP> <F>ur</F> Tokyo <R>gym</R> <R>gym</R> gymnastic. Yeah.</B>
+<A>Why do you like swimming?</A>
+<B><F>Uum</F> <R>why</R> why. <.></.> <F>Uum</F> <R>when</R> when child <F>uum</F> <R>I</R> I like swimming naturally. <OL>Yeah</OL>.</B>
+<A><OL><F>Oh</F> I see</OL>. Good. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Um</F> now I'm going to show you a picture. Could you describe it for me? Anything you see in this picture <??></??>.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><R>This is</R> this is <R>girl's</R> girl's private room. <R>Girls</R> girls seems <R>about</R> about fourteen years old. She wears green sweater and <R>blue</R> blue <R>skir</R> skirt. <F>Er</F> there is <SC>dog and cat</SC> <F>er</F> a dog and a cat. <F>Uhm</F>. They are sleeping. <..></..> There is computer and typewriter on the desk. <F>Er</F>. <..></..> The door is open. And <..></..> there is a stereo <R>and</R> and phone. <.></.></B>
+<A>O K. Thank you.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>O K. So <F>um</F> <H pn="B's name">XXX02</H> do you have your own room?</A>
+<B><F>Er</F> yes. <OL><F>Er</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><F>Um</F> yes.</B>
+<A>O K. <F>Er</F> what are some differences between your room and this picture?</A>
+<B><F>Err</F>. <.></.> <SC>My room there isn't</SC> in my room there <SC>isn't</SC> is not dog and cat. And <JP><F>ee</F></JP> <nvs>laughter</nvs> <.></.> I have a computer, too. <.></.> But <SC>this is</SC> there is not desk. <.></.> <R>Door</R> door is always <F>ur</F> close. <OL>Yeah</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><.></.> And <F>er</F> in my room, there isn't chair.</B>
+<A><F>Oh</F> I see. <R>Why</R> why your door is always closed?</A>
+<B><F>Err</F>. <.></.> <R>Because</R> because <.></.> <R?>isle</R?> <?>isle</?> is <R>always</R> always <R>go</R> <JP>nani</JP> somebody goes <SC?>in</SC?> <.></.> on the <?>isle</?>.</B>
+<A><F>Hum</F>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Oh</F></OL>. I see.</A>
+<B>Yeah. Because yeah, noisy and somebody looks</B>
+<A><nvs>laughter</nvs></A>
+<B><R>for</R> for my room.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A>I see. All right. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's do a role-play.</A>
+<B>Yes.</B>
+<A>O K. <F>Um</F> please read it to yourself. And whenever you are ready I'll start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Are you ready?</A>
+<B>Yes.</B>
+<A>O K. So may I help you?</A>
+<B><JP><F>Ee</F></JP> <R>I want to</R> I want to go to New York.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. By train. <F>Er</F> but <R>I don't know</R> <JP><F>ee</F></JP> I don't know how to buy ticket. Please tell me it.</B>
+<A>O K. <F>Er</F> you can get ticket here.</A>
+<B>Yes. <.></.> You can <F>er</F> <SC>I have a money</SC>. <nvs>laughter</nvs></B>
+<A><F>Er</F> yes.</A>
+<B>I have money. Yeah.</B>
+<A>O K.</A>
+<B><JP><F>Ee</F></JP> <JP>nani</JP> <.></.> <R>where</R> <SC>where is a <SC>loca</SC> <F>er</F> <R>ticket</R> ticket</SC> <JP>nani</JP> where is a ticket counter?</B>
+<A><F>Oh</F> <SC>here</SC>. Right here.</A>
+<B><F>Er</F> right here.</B>
+<A>You can buy a ticket here.</A>
+<B>How much to New York?</B>
+<A><F>Well</F> we have three kinds of <F>er</F> train. Super Express costs two hundred dollars. And one hundred fifty dollars for Express. And one hundred dollars <R>for</R> for the local.</A>
+<B><F>Err</F> yes. <F>Err</F> I want <F>err</F> <laughter>one hundred dollars</laughter>.</B>
+<A>One hundred dollars? O K. <F>Er</F> <F>oh</F> it just left.</A>
+<B><F>Oh</F>.</B>
+<A>So you have to wait for three hours.</A>
+<B>Three hours.</B>
+<A><F>Uh-hm</F></A>
+<B><F>Uhm</F> <R>if</R> if buy <JP><F>ee</F></JP> Express <JP><F>ee</F></JP> <R>what time</R>? <.></.> What time to next?</B>
+<A>O K. <F>Err</F> <?>could be</?> one hour.</A>
+<B>In one hour? But three hundred dollars.</B>
+<A><F>Er</F> Super Express?</A>
+<B>Yeah. <F>Err</F>.</B>
+<A>It's leaving <F>err</F> in two hours. But actually, you can get <F>um</F> New York earlier than <F>ur</F> Express if you use Super Express.</A>
+<B><.></.> <JP>Jaa</JP> I just next three hours. <F>Err</F>.</B>
+<A><CO><F>Well</F> but</CO>.</A>
+<B><OL><F>Er</F> yeah</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Are you sure</OL>?</A>
+<B><JP><F>Ee</F></JP>. <CO>I want yeah</CO>. <R>Sure</R> <R>sure</R> sure.</B>
+<A>I thought you are in a hurry.</A>
+<B><F>Er</F> not <JP><F>ee</F></JP> <F>err</F> <R>sorry</R> sorry. <F>Err</F> <F>er</F> <F>oh</F> I forget <R>I</R> I have to go to New York <JP>nani</JP> <JP><F>ee</F></JP> fastly. <JP><F>Ee</F></JP>.</B>
+<A>I see.</A>
+<B>So <R>I</R> <R>I want</R> <F>urr</F> I want <SC>Express</SC> Super Express ticket.</B>
+<A>O K. That's three hundred dollars. It'll be all right?</A>
+<B>Yeah. <R>All right</R>. All right. <F>Err</F>. O K. <F>Err</F> <R>Probably</R> probably, my company pays. Yeah.</B>
+<A>O K. That's very good. O K. Thank you. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>So <F>urm</F> do you like to travel?</A>
+<B><.></.> Tra?</B>
+<A>Travel?</A>
+<B><F>Er</F> <R>yes</R> yes.</B>
+<A><F>Uhm</F> please tell me about the last trip</A>
+<B>Last trip.</B>
+<A>you went. Or one of your <SC>memorable</SC> most memorable trip.</A>
+<B><F>Urr</F>. <..></..> One years ago,</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>er</F> I live in <H pn="others2">XXX04</H>. Yes. <F>Err</F> <F>er</F> <JP>nani</JP> <R>for</R> for my business.</B>
+<A><F>Uhm</F>.</A>
+<B>Yeah. <JP><F>Ee</F></JP> <SC>in holiday</SC> in long holiday <F>er</F> I traveled <F>er</F> <.></.> <R>some</R> some country in Asia. <F>Er</F> <SC>first</SC> firstly <JP><F>ee</F></JP> <R>from</R> from <R>Bali</R> Bali island to <R>Singa</R> Singapore <R>by</R> by air. <JP><F>Ee</F></JP> next <JP><F>ee</F></JP> from Singapore to Malaysia <JP><F>ee</F></JP> by bus.</B>
+<A><F>Wow</F>.</A>
+<B>And <SC>border</SC> in the border <F>err</F> by on foot.</B>
+<A><F>Oh</F> really? <F>Wow</F>. Sounds very exciting. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now I'm going to show you <F>ur</F> another picture. Could you make up a story based on one to four. And it happened before. So please start <F>er</F> your story with "One day last week".</A>
+<B><.></.></B>
+<A>You can go very briefly.</A>
+<B><F>Er</F> yes.</B>
+<A><F>Um</F>.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<A>O K?</A>
+<B>Yes, yes.</B>
+<A>Please start.</A>
+<B><F>Err</F>.</B>
+<A>Just a very short phrase is O K.</A>
+<B>Yes. I went to the movies <F>er</F> with my two friends. <F>Err</F> they are <R>couple</R> <JP><F>ee</F></JP> <R>couple</R> <JP><F>ee</F></JP> couple. But I am single. Yes. <F>Er</F> <.></.> <R>before</R> before start movie <F>er</F> <R>we</R> we bought popcorn and coca-cola <??></??>. The <SC>pamphlet is</SC> pamphlet didn't buy. <nvs>laughter</nvs> <F>Er</F> on the <R>movie</R> <F>err</F> movie, <.></.> jumbo jet is broken in the air. <.></.> <SC>Go to</SC> went to <?>pond</?>. <.></.> <R>But</R> <JP><F>ee</F></JP> but <JP><F>ee</F></JP> <R>customer</R> customer <SC>is</SC> here is saved. <.></.> Because <SC>super man is</SC> super man came. <F>Ur</F> <R>we</R> <R>we</R> we are happy <F>er</F> because <F>er</F> <R>anybody</R> anybody didn't die.</B>
+<A><F>Um</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A><SC>How do you decide which movie you want to see when you go to</SC>?</A>
+<B><F>Um</F>.</B>
+<A>How do you decide which movie you're going to?</A>
+<B>Sorry. One more.</B>
+<A><F>Er</F> how do you decide which movie you're going to?</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Err</F> forget about this. <F>Er</F> how do you choose?</A>
+<B><F>Um</F>. <R>Yeah</R>. Yeah.</B>
+<A>Like <?>comment</?>.</A>
+<B><.></.> <R>I like</R> I like Asian movie.</B>
+<A><F>Er</F>. Asian movie. Why?</A>
+<B>Why. Yeah. <R>I like Asia</R> <F>um</F> I like Asia. <F>Um</F> because <SC>I live</SC> <JP>nani</JP> I live in Asia.</B>
+<A><F>Er</F>.</A>
+<B>And traveled in the Asia.</B>
+<A><F>Oh</F> <R>I see</R>.</A>
+<B>Yeah.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Ur</F> this is almost the end of the interview. What are you going to do after this?</A>
+<B><F>Mm</F>. <..></..> Yeah. I will go to <H pn="others1">XXX03</H> <JP><F>ee</F></JP> <R>to</R> to my restaurant.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A>I see. <laughter>Don't work</laughter> too hard.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Thank you</OL> so much for coming.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

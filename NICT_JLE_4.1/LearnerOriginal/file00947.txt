@@ -1,0 +1,225 @@
+<interview>
+<filename>file00947.txt</filename>
+
+<head version="1.3">
+<date>2002-01-29</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Can I have your name please?</A>
+<B><F>Ahh</F> My name is <H pn="B's name">XXX01</H>.</B>
+<A>Can I call you <H pn="B's name">XXX01</H>?</A>
+<B><F>Ahhh</F>. <H pn="B's name">XXX01</H>.</B>
+<A><SC>Ca</SC> yeah, can I call you <H pn="B's name">XXX01</H>?</A>
+<B><F>Ahhhh</F>.</B>
+<A><H pn="B's name">XXX01</H> is O K?</A>
+<B>O K.</B>
+<A>O K. How are you today, <H pn="B's name">XXX01</H>?</A>
+<B><F>Ahhh</F> <SC>I'm fine, too</SC> <F>ahhhh</F> I'm fine.</B>
+<A><laughter>You're fine</laughter>? Good. <OL>O K</OL>.</A>
+<B><OL>And you</OL>?</B>
+<A><F>Ahh</F>. Fine, thank you. Where do you live, <OL><H pn="B's name">XXX01</H></OL>?</A>
+<B><OL><F>Ahhhh</F></OL>. I live in <H pn="others1">XXX02</H> in <F>ahhh</F> <H pn="others2">XXX03</H>.</B>
+<A>O K. Which line?</A>
+<B><F>Ahhh</F> <R>Ooimachi</R> <F>uhhh</F> <H pn="others3">XXX04</H> Line.</B>
+<A>O K. How long to come here?</A>
+<B><F>Ahhh</F> <.></.> by bicycle <F>ahh</F> ten minutes.</B>
+<A><F>Ohh</F> very convenient.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>Do you live alone?</A>
+<B><F>Ahh</F> yeah.</B>
+<A>O K. Tell me about your apartment.</A>
+<B><F>Ah</F> <F>umm</F> no, <F>ahh</F> with family.</B>
+<A><F>Ahh</F>. O K. Tell me about your family.</A>
+<B><F>Ahhhhh</F> <.></.> <R>father</R> father and mother. <F>Uh</F> <F>umm</F> <..></..> <F>ummm</F>. <..></..></B>
+<A>No brother, no sister?</A>
+<B><F>Ahhh</F>. Yeah, <F>ah</F> two sister.</B>
+<A>Two sister.</A>
+<B>Yeah.</B>
+<A>O K. Tell me about your oldest sister.</A>
+<B><F>Ahhh</F> oldest. <F>Ahhh</F> <nvs>laughter</nvs> <.></.> <F>ah</F> name <F>umm</F> <F>ah</F>?</B>
+<A>What does she do?</A>
+<B><F>Ahhh</F> <F>ahhhhh</F> <.></.> she did <F>ahh</F> landscape <F>ahh</F> designer.</B>
+<A><F>Hm</F> <F>hm</F> <F>hm</F> <F>hm</F>. Very nice. O K. What do you do in your free time?</A>
+<B><F>Ahhhh</F> <.></.> <F>umm</F> playing or <F>uhh</F> playing soccer.</B>
+<A>Playing soccer?</A>
+<B>Yeah.</B>
+<A>O K. What do you like about soccer?</A>
+<B><F>Ahhh</F> <nvs>cough</nvs> <F>ahhh</F>? <..></..></B>
+<A>Or why do you like <OL>soccer</OL>?</A>
+<B><OL><F>Ahhh</F> why</OL>. <F>Uhh</F> <F>uhh</F> so very exciting.</B>
+<A>Do you have a team?</A>
+<B><F>Ahh</F> yeah.</B>
+<A>Tell me about your team.</A>
+<B>Team. <F>Mmmm</F> <..></..> <F>uhh</F> anybody in team? <F>Ahhh</F>. <nvs>laughter</nvs></B>
+<A>Is it a strong team? Is it a weak team?</A>
+<B><F>Ahh</F> maybe strong.</B>
+<A><F>Ohhh</F> <SC>this</SC> from this college?</A>
+<B><F>Ah</F> no. <.></.> The other team.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>Where do you play?</A>
+<B><F>Ahh</F> position? <F>Um</F>?</B>
+<A>Yeah, position.</A>
+<B><F>Ahh</F> forward.</B>
+<A>You're a forward?</A>
+<B>Yes.</B>
+<A>So you score many goals?</A>
+<B><F>Ahhhhhhhh</F> <F>er</F> <?>a little bit</?>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Very good.</A>
+</stage1>
+<stage2>
+<task>
+<A>First thing we do today, I want you to look at a picture. O K. The picture of a restaurant. <F>Uh</F> <H pn="B's name">XXX01</H>, please describe this picture for me.</A>
+<B><F>Ahhh</F>?</B>
+<A>Or tell me about this picture. What do you see?</A>
+<B><.></.> <F>Ahh</F> in restaurant <F>mm</F> <.></.> <F>uhh</F> <..></..> they're enjoying dinner. <F>Uhh</F> <..></..> <F>ummm</F> <.></.> <JP>nante iun daro</JP>? <nvs>cough</nvs> <..></..> She is playing piano. <F>Ahhh</F> <F>ahhhh</F>? <..></..> <nvs>cough</nvs> <..></..> <F>Ohhh</F>. <..></..></B>
+</task>
+<followup>
+<A>O K. What kind of food do you like to eat?</A>
+<B><F>Ahhh</F> <.></.> Hamburger.</B>
+<A><OL><laughter>Hamburger</laughter></OL>?</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>Sometimes do you go to this kind of restaurant?</A>
+<B><.></.> <F>Ahh</F>. <.></.></B>
+<A>A very good restaurant sometimes?</A>
+<B><F>Mmm</F> very good <R>res</R> restaurant.</B>
+<A>Sometimes do you go to?</A>
+<B><F>Ahhh</F> yeah.</B>
+<A><F>Um</F>. Where's your best restaurant?</A>
+<B><F>Ahhhhh</F>? <.></.> In Jiyuu-gaoka.</B>
+<A><F>Hummm</F> <R>what</R> <R>what</R> what place? Tell me about that place.</A>
+<B>The place? <F>Ahhh</F>. <..></..> Place. <F>Ummm</F> <JP>nantsuttara iindaro</JP>? Good mood, <F>umm</F> good waiter <.></.> and good foods.</B>
+<A>O K. <R>Wha</R> what kind of restaurant?</A>
+<B><F>Ahhh</F> <JP>nantsukana</JP>. <..></..> <?>calamari</?> and <F>um</F> <.></.> sheep <.></.> <R>and</R> and beef <OL>steak</OL> restaurant.</B>
+<A><OL><F>Hum</F></OL>. O K. Very good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. I want to show you a card now. Role-play. <F>Ah</F> please read, <F>oh</F> sorry <OL>not this one</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>This one. Please read this to yourself.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<A>Do you understand?</A>
+<B><.></.> <F>Uh-huh</F>.</B>
+<A>O K. Good afternoon, sir. Can I help you?</A>
+<B><F>Ahhhh</F> <SC>I want to for New York</SC> <.></.> <F>ummm</F> <F>eh</F> I want tickets <F>ahh</F> for New York. <.></.> <F>Ahhh</F> <..></..> <R>fifteen o'clock</R> <F>ehh</F> fifteen o'clock start.</B>
+<A>O K. <F>Uh</F> a ticket to New York?</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K. We have a local train and express train.</A>
+<B><F>Ahhh</F>. <.></.> Explain? <OL><F>Eh</F> <F>ahhh</F></OL>.</B>
+<A><OL>Express</OL> or local.</A>
+<B><F>Ah</F> local.</B>
+<A><F>Ahh</F> local train?</A>
+<B>Yeah.</B>
+<A>O K. Smoking car or non-smoking car?</A>
+<B><F>Ahhh</F> smoking.</B>
+<A>Smoking car.</A>
+<B><F>Uhu</F>.</B>
+<A>O K. And how many tickets would you like, sir?</A>
+<B><F>Ahhhh</F> two.</B>
+<A>Two tickets?</A>
+<B>Yeah.</B>
+<A>O K. In total, that's a hundred and fifty dollars.</A>
+<B><F>Ahh</F> <nvs>laughter</nvs> <F>umm</F>?</B>
+<A>Is it O K?</A>
+<B>Yeah.</B>
+<A>O K. How would you like to pay? Cash or credit card?</A>
+<B><F>Uhh</F> <R>ca</R> <F>uhh</F> cash.</B>
+<A>O K. Here's your ticket, sir.</A>
+<B>Thank you.</B>
+<A><OL><laughter>O K, thank you very much</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX01</H>. Have you been to another country?</A>
+<B><F>Ahhh</F> country. America and Canada,</B>
+<A><F>Hmm</F>.</A>
+<B>and Sweden.</B>
+<A>Sweden?</A>
+<B>Yeah.</B>
+<A><R>Why</R> why Sweden?</A>
+<B><F>Ahhh</F> <.></.> this college tour <.></.> in <F>ahh</F> last summer.</B>
+<A><F>Hmmm</F> to Stockholm?</A>
+<B><F>Ahhh</F> yeah, and Denmark, Russia and Finland.</B>
+<A><F>Uh-huh</F> <F>wow</F>. <SC>What</SC> how did you feel? <R>What</R> what was your image?</A>
+<B><F>Ahhh</F>. <..></..> So clean. <F>Um</F>.</B>
+<A><F>Ummm</F>.</A>
+<B><F>Ahh</F> but Russia is <F>uhhh</F> <nvs>laughter</nvs> <F>ahhh</F> <laughter>dark</laughter></B>
+<A><F>Uhu</F>.</A>
+<B>image.</B>
+<A>Right. I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. One more thing. I'd like you to do. O K. <R>This</R> <SC>this</SC> there are four pictures here. I'd like you to make a story from these pictures.</A>
+<B><F>Um</F>.</B>
+<A>O K. One two, three, four. Make up a story from this. You understand?</A>
+<B><F>Ahhh</F> yeah.</B>
+<A>O K. Please go ahead.</A>
+<B><F>Ehhh</F>. <..></..> <F>Umm</F> this picture is <F>ahhh</F> they are buying tickets. <F>Uhh</F> <..></..> <F>uhh</F>. This picture is <F>ahh</F> they are buying snack. <F>Ahh</F> <.></.> they're watching movie. <.></.> <F>Uh</F> <.></.> <F>uh</F> <.></.> <nvs>cough</nvs> <..></..> finish watch the movie. <.></.> <laughter>End</laughter>.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX01</H>, <SC>do</SC> what kind of movies do you like?</A>
+<B><F>Ahh</F> action.</B>
+<A>Action movies?</A>
+<B>Yeah.</B>
+<A>Who's your favorite star?</A>
+<B><F>Ahhh</F> <F>mmm</F> <.></.> Robert de Niro.</B>
+<A><F>Ummmm</F>. Why do you like Robert de Niro?</A>
+<B><F>Umm</F> he is very cool. <.></.> I like <F>uhh</F> his face.</B>
+<A>O K. <R>What</R> what's his best movie?</A>
+<B><F>Ahh</F> "Heat".</B>
+<A>"Heat"?</A>
+<B>Yeah.</B>
+<A>I don't know that movie. <OL>O K</OL>.</A>
+<B><OL><F>Uum</F></OL>.</B>
+<A><R>Wh</R> what's that about?</A>
+<B><..></..> Di Niro is gang and Al Pacino is cop. <.></.></B>
+<A>And?</A>
+<B>And they're <F>uh</F> <..></..> <R>fighting</R> <F>uh</F> fighting. <F>Ahh</F>. <nvs>laughter</nvs> Sorry, I can't speak.</B>
+<A><F>Ummm</F> that's O K. It's a good movie? <OL><R>Exciting</R> exciting</OL>?</A>
+<B><OL><F>Oh</F>, yeah</OL>. Yeah. I like it.</B>
+<A>O K. Wonderful.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. That's almost end of the interview,</A>
+<B>Yeah.</B>
+<A><H pn="B's name">XXX01</H>. Do you have a plan tonight?</A>
+<B><F>Ummmm</F> no.</B>
+<A>O K. Do you have a part-time job?</A>
+<B><F>Ummm</F> no.</B>
+<A><laughter>O K</laughter>. What do you do at home? <OL>Do you just</OL></A>
+<B><OL><F>Ahhh</F></OL>.</B>
+<A>watch T V and study or?</A>
+<B>Study.</B>
+<A>O K. <R>On</R> on a computer?</A>
+<B><F>Ahh</F> yeah.</B>
+<A>O K. <F>Ummm</F> do you go out sometimes?</A>
+<B><F>Ummmm</F> <.></.> <F>mmm</F> walking around.</B>
+<A><F>Hm</F> <F>hm</F> <F>hm</F>. Right. That's good. O K. <F>Well</F> thank you very much for your time today.</A>
+<B>You're welcome.</B>
+<A>O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

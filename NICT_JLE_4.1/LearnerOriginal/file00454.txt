@@ -1,0 +1,409 @@
+<interview>
+<filename>file00454.txt</filename>
+
+<head version="1.3">
+<date>2001-06-08</date>
+<sex>male</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC>700</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hi. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B><CO><OL>Ye</OL></CO>.</B>
+<A><OL>Can I</OL> call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>How are you? <F>Er</F> <OL><R>I'm <laughter>fine</laughter></R> I'm fine</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Erm</F> how did you come here today?</A>
+<B>By train.</B>
+<A>By train?</A>
+<B><F>Um</F> yeah.</B>
+<A>Which train did you take?</A>
+<B><F>Um</F> <H pn="others1">XXX03</H> Line.</B>
+<A><F>Hum</F>. <F>Er</F> how long?</A>
+<B><F>Um</F>. From my home, it takes <.></.> <SC>fif</SC> <F>mm</F> <SC>forty hour</SC> <SC>forty</SC> <OL><SC>fourteen</SC></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>forty</B>
+<A><F>Uh-huh</F>.</A>
+<B>minutes.</B>
+<A><F>Oh</F>. Long way.</A>
+<B><F>Uum</F>. <JP><F>Soo</F></JP>?</B>
+<A><F>Uum</F>. <F>Erm</F> are you student?</A>
+<B>Yes.</B>
+<A><F>Er</F> tell me about your school.</A>
+<B><F>Oh</F>. My school is called <H pn="school name1">XXX04</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <R>I</R> I'm a <SC>sch</SC> <SC>li</SC> school of literature. And I major in western history.</B>
+<A><R>Histo</R> <OL>history</OL>.</A>
+<B><OL><R>A</R> and</OL> I'm four grade.</B>
+<A><F>Er</F> forth grade.</A>
+<B><OL>Forth grade</OL>.</B>
+<A><OL><F>Oh</F></OL>. <F>Er</F> what do you like the most about western history?</A>
+<B><F>Mm</F> I like the history of England.</B>
+<A>England.</A>
+<B>Yes.</B>
+<A>Especially?</A>
+<B><F>Uum</F> <SC>democratic</SC> <?>demographical</?> history</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL><SC>in En</SC></OL> of <R>E</R> England.</B>
+<A>England.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Oh</F></OL>. <F>Um</F> have you been to England?</A>
+<B><laughter>No</laughter>.</B>
+<A>No? <F>Er</F> your dream to go?</A>
+<B><F>Uum</F> <F>oh</F> I want to</B>
+<A><F>Uhm</F>.</A>
+<B>go to England.</B>
+<A>Yeah, <?>very</?> wonderful. <F>Er</F> Besides school, do you have any hobby?</A>
+<B><F>Oh</F> <R>ye</R> yes. <F>Mm</F> yes.</B>
+<A>Tell me about it.</A>
+<B><F>Um</F> I listen to music <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>read the comics</B>
+<A><F>Uh-huh</F>.</A>
+<B>and do the sports.</B>
+<A>What kind?</A>
+<B><F>Uum</F>. <.></.> <F>Mm</F> many years ago, <OL>I</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>do the baseball</B>
+<A><F>Uh-huh</F>.</A>
+<B>and winter sports, like <F>er</F> ski and skate.</B>
+<A><OL><?>Ski</?></OL>.</A>
+<B><OL>And</OL>,</B>
+<A><F>Um</F>.</A>
+<B><F>er</F> <R>now</R> now, <F>mm</F> I like to ride my bike.</B>
+<A>Bike? <OL><F>Oh</F></OL>.</A>
+<B><OL><F>Er</F></OL> but in <SC>this <R>ro</R> road</SC> <OL>this</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>city road.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But I ride everyday</B>
+<A><OL>Everyday</OL>.</A>
+<B><OL>for school</OL>.</B>
+<A>For school. <F>Wow</F> when did you get your license?</A>
+<B><F>Mm</F>. <F>Oh</F>. No. No. No.</B>
+<A>No?</A>
+<B>Bicycle.</B>
+<A><F>Ah</F>. <OL>Bicycle</OL>.</A>
+<B><OL>Bicycle, bicycle</OL>. <F>Oh</F>.</B>
+<A>Bicycle. <OL><F>Oh</F></OL>.</A>
+<B><OL>Bicycle</OL>.</B>
+<A>O K. O K. <F>Um</F> do you live with your family?</A>
+<B>No. I live <SC>my</SC> by alone.</B>
+<A><F>Oh</F>. So you cook?</A>
+<B><F>Uum</F>. A <OL>little</OL>.</B>
+<A><OL><F>Oh</F></OL>. A little? <F>Er</F> what kind of dish do you cook?</A>
+<B><F>Uum</F>. <F>Ah</F> but <F>mm</F> <R>re</R> <SC>ret</SC> Japanese <JP>retoruto</JP> <OL>curry</OL>,</B>
+<A><OL><F>Uh-huh</F></OL>. <F>Hum</F> <F>hum</F> <F>hum</F>.</A>
+<B>and <.></.> I <R>make a rice</R></B>
+<A><F>Uh-huh</F>.</A>
+<B>make a rice <OL>by</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>machine.</B>
+<A><F>Hum</F> <F>hum</F> <OL><F>hum</F></OL>.</A>
+<B><OL>And</OL> <JP>retoruto</JP> curry, I put <OL>in</OL>.</B>
+<A><OL>Yeah</OL>. Easy way. I sometimes do, too. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. First thing today, <F>mm</F> let's see, O K, please describe this picture for me. O K?</A>
+<B>O K. <..></..> <R>There</R> there is <R>a</R> a woman</B>
+<A><F>Uh-huh</F>.</A>
+<B>and a cat and a dog.</B>
+<A><F>Hu-huh</F>.</A>
+<B><SC>She</SC> <.></.> there is a desktop <JP>pasokon</JP> in front of her.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And there is a music system</B>
+<A><F>Uh-huh</F>.</A>
+<B>on the book board.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And it is a day, and <SC>it is</SC> it's <F>er</F> nine o'clock.</B>
+<A><F>Uh-huh</F>.</A>
+<B>She now <.></.> sit in the chair,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> <SC>I don't know</SC> <R>now</R> now, <R>I don't</R> I don't know, <OL>now</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>what <?>he</?> is doing.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But <SC?>she</SC?> <R>I</R> I wonder <SC>she doing</SC> she want to doing</B>
+<A><F>Uh-huh</F>.</A>
+<B>the <R><JP>pasokon</JP></R> <JP>pasokon</JP>,</B>
+<A><F>Uh-huh</F>.</A>
+<B>but <F>mm</F> I wonder she want to <?>put</?> the <JP>pasokon</JP> keyboard</B>
+<A><F>Uh-huh</F>.</A>
+<B>and she <SC>do <SC>the</SC> something</SC> do something</B>
+<A><F>Uh-huh</F>.</A>
+<B>by <JP>pasokon</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And the cat <.></.> <SC>i</SC> I think, <SC>is</SC> looks very relaxed on <OL>the bed</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>And dog also <SC>sl</SC> <SC>like</SC> looks like sleeping.</B>
+<A><F>Uh-huh</F>. That's all?</A>
+<B>O K.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Um</F>. You mentioned about personal computer.</A>
+<B>Personal computer.</B>
+<A>Do you use computer?</A>
+<B>Yes.</B>
+<A>At school?</A>
+<B>Also, both, by home and at school.</B>
+<A><F>Hum</F>. What do you use for?</A>
+<B><F>Mm</F>. <F>Mm</F>. <?>What</?>?</B>
+<A><F>Uh-huh</F>. <CO>Do you e-mail or</CO>?</A>
+<B><F>Oh</F>. E-mail and Internet.</B>
+<A>Internet.</A>
+<B>And <SC><JP>pasokon sofuto</JP></SC> by <JP>pasokon sofuto</JP>, <SC><OL>I</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><SC>put</SC> <R>make a</R> <..></..> make a</SC> <..></..> <OL><F>mm</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>mm</F> <R?>I</R?> I use <SC>a <R>Wo</R> Word</SC> like a Word.</B>
+<A>O K. O K. <F>Um</F> now, <F>um</F> <R>what</R> what is good about <SC>computer</SC> using computer?</A>
+<B><F>Oh</F>. <F>Uum</F> by Internet,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I get information</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>what I</SC> <SC>the</SC> <SC>what</SC> which I wanted.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And by <SC>Internet</SC> <SC>Inter</SC> e-mail,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I communicate with people</B>
+<A><F>Oh</F> <OL>yes, that's <??></??> <F>hm</F></OL>.</A>
+<B><OL><R>ea</R> <R>ea</R> easily and low cost</OL>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><CO>And <SC>by Word <JP>sofuto</JP>,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I <R>easily</R> <.></.> easily <R>ma</R> <R>make</R> <F>er</F> make</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B>by Word, I easily make</CO>. <..></..> <R>O</R> O K. <SC>That</SC> that's all.</B>
+<A>Yeah. <F>Uh-huh</F>. <F>Um</F>. Is it difficult to use computer?</A>
+<B><F>Oh</F> I think so.</B>
+<A>Yeah, because <R>I</R> I'm a <?>no-no</?> machine people. <CO><OL><laughter>So</laughter></OL></CO>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Is it difficult to learn how to <OL>do it</OL>?</A>
+<B><OL><F>Oh</F></OL>. <F>Um</F>. <SC>In</SC> <F>uh</F> for Internet <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL></A>
+<B>e-mail,</B>
+<A><F>Uh-huh</F>.</A>
+<B>it's easy to use.</B>
+<A><F>Hum</F>.</A>
+<B><SC>But</SC> when I click</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>some poi</R> some point,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>I</R> <SC>I u</SC> we use</B>
+<A><F>Uh-huh</F>.</A>
+<B>Internet or e-mail.</B>
+<A><F>Hum</F>.</A>
+<B>But as for Excel</B>
+<A><F>Uh-huh</F>.</A>
+<B>or Power Point,</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> it's difficult for me.</B>
+<A>Yeah. <F>Well</F> you enjoy a lot with computer.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Next thing, <F>um</F> we will do a role-play. O K? <F>Uum</F> O K. <F>Um</F>. Please read this card. O K?</A>
+<B>O K.</B>
+<A>And when you are ready, I will start. O K?</A>
+<B><R>O</R></B>
+<A>O K?</A>
+<B>O K. <OL>O K</OL>.</B>
+<A><OL>O K</OL>? May I help you, sir?</A>
+<B><..></..> <R>This</R> this <??></??>?</B>
+<A><F>Uhu</F> yeah. This. <OL>O K</OL>.</A>
+<B><OL><R>O</R> <R>o</R> only this</OL>.</B>
+<A>May I help you?</A>
+<B><F>Oh</F>. <F>Mm</F> O K. I want something.</B>
+<A><F>Uh-huh</F>. <F>Hm</F>. What do you want?</A>
+<B><F>Uum</F>. <CO>I want</CO>. <.></.> <F>Oh</F> O K.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Please stop.</B>
+<A>O K.</A>
+<B>I want something?</B>
+<A><F>Uh-huh</F>.</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>You are</OL> customer. I'm sales person. Department store.</A>
+<B>Department store. <.></.> What I wanted? <CO><OL><R>What</R> what</OL></CO>?</B>
+<A><OL>Anything</OL>. Anything.</A>
+<B><F>Eh</F> <F>oh</F> anything O K?</B>
+<A>Anything O K. Anything O K. O K? May I help you?</A>
+<B><F>Oh</F> I want D V D recorder.</B>
+<A><F>Uh-huh</F>. <F>Erm</F> we have two types of D V D recorder.</A>
+<B><F>Oh</F>.</B>
+<A>What kind do you want?</A>
+<B>How much? <CO><OL>Both</OL></CO>.</B>
+<A><OL>O K, this</OL> one is, <F>um</F> let's say, sixty thousand yen. And this one is fifty thousand yen.</A>
+<B><.></.> <F>Oh</F>. <.></.> <R>What</R> what is the difference <OL><SC>of these</SC> of those</OL>?</B>
+<A><OL>O K</OL>. This one is more function and move fast. <OL>O K</OL>?</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A>And you can also edit</A>
+<B><F>Um</F>.</B>
+<A>D V D. <OL>O K</OL>?</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A>But this one is basic. Just normal, basic <OL>function</OL>.</A>
+<B><OL><F>Oh</F></OL> I see.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>This</SC> <R>the</R> <SC>the difference of <SC>cost</SC> <F>uh</F> fee</SC></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>the</OL> difference of fee</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>is</OL> <SC>one</SC> ten thousand yen?</B>
+<A>Yes.</A>
+<B><R>I</R> I think <R>the di</R> the difference</B>
+<A><F>Uh-huh</F>.</A>
+<B>is very low.</B>
+<A>Low? <F>Hm</F>.</A>
+<B><F>Um</F>. <SC>I</SC> <F>mm</F> there is only two.</B>
+<A>Yeah. We recommend this two type. <OL>It's</OL></A>
+<B><OL><R>A</R></OL></B>
+<A>most popular.</A>
+<B><R>a</R> <SC>other type isn't</SC></B>
+<A><F>Oh</F>.</A>
+<B><SC>there is no</SC> isn't there <OL>no another type</OL>?</B>
+<A><OL><F>Hm</F></OL>. Yeah. We also have another type.</A>
+<B><F>Oh</F>.</B>
+<A>But this is most popular <OL><F>er</F></OL>.</A>
+<B><CO><OL>Mo</OL></CO>. <F>Oh</F>.</B>
+<A>Yeah. For young people like you.</A>
+<B><laughter><F>Oh</F></laughter>. Really?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uum</F>. So <.></.> <SC>what is the make</SC> <SC>what maker</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>mm</F> <R>what</R> <R>what</R> what is maker <SC><OL>of</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>this</SC> of those?</B>
+<A><F>Um</F> O K. I think you better get this better one. Because maybe you use D V D recorder or <SC>e</SC> <F>um</F> maybe you use a long time. So how about this one?</A>
+<B><F>Uum</F>. O K.</B>
+<A>O K?</A>
+<B>I</B>
+<A><OL><F>Um</F></OL>?</A>
+<B><OL><??></??></OL> buy it.</B>
+<A>O K. Thank you very much. So <F>um</F> a credit card or <OL>money</OL>?</A>
+<B><OL><F>Mm</F></OL> <SC>money</SC> in <R>c</R> cash.</B>
+<A>O K. Cash? O K. O K. So here you go.</A>
+<B>O K. Thank you.</B>
+<A>Thank you very much. End of the role-play. O K?</A>
+</task>
+<followup>
+<A><F>Um</F>. Do you go to the computer stores or buy your stuff?</A>
+<B>Buy your <OL>stuff</OL>?</B>
+<A><OL>Yeah</OL>. <F>Um</F> <R>wh</R> what kind shopping do you do?</A>
+<B><F>Oh</F>. <F>Um</F> <F>um</F>. <SC>I</SC> <SC>shopping</SC> <F>mm</F> nowadays,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I go to <R>machine shop</R></B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>machine</OL> shop like a <??></??></B>
+<A><F>Uh-huh</F>.</A>
+<B>like a <OL>video, T V</OL>.</B>
+<A><OL><F>Err</F> O K, O K</OL>. <F>Uh-huh</F>. <F>Um</F> have you bought anything recently? Did you buy anything?</A>
+<B><F>Oh</F> I bought M D recorder.</B>
+<A>M D recorder?</A>
+<B><F>Um</F> yes.</B>
+<A><F>Wow</F>. O K. Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Last thing. <F>Um</F>.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>Let's see. O K? <F>Uum</F>. This is a picture sequence. O K? So please make up a story from one through four. O K?</A>
+<B>O K.</B>
+<A><?>It starts</?> here.</A>
+<B>There is three people.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>Two</SC> one woman and two men.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>They go to <..></..> <R>movie</R> <R>movie</R></B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>movie</SC> mo</SC> they go to movie.</B>
+<A>O K. <OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><?>O K</?></OL>. They enter in the <R>movie</R></B>
+<A><F>Uh-huh</F>.</A>
+<B>movie shop. And they bought popcorn and Coca-Cola.</B>
+<A><F>Uhm</F>.</A>
+<B>The atmosphere <R>of the</R> of the shop is very good, I think.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And they go to <R>the</R> <.></.> the <R>point of</R> <F>uum</F> point of the <??></??>.</B>
+<A><F>Uh-huh</F> <F>uh-huh</F>.</A>
+<B>And they look at the movie show.</B>
+<A><F>Uh-huh</F>.</A>
+<B>They <.></.> <SC>get out of</SC> get out <?>that</?></B>
+<A><F>Uh-huh</F>.</A>
+<B>movie shop.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>And</OL> they speak the</B>
+<A>O K.</A>
+<B>contents of the movie.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>They</SC> <SC>it is</SC> it looks like very funny.</B>
+<A><F>Uh-huh</F>.</A>
+<B>They looks <OL>happy</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you like movies?</A>
+<B><F>Uum</F> I like movie by T V <OL>or</OL></B>
+<A><OL><F>Oh</F></OL>. <F>Uh-huh</F>.</A>
+<B>rental video.</B>
+<A><F>Um</F>. What kind of movie?</A>
+<B><F>Oh</F>. I like the <R>Hong</R> <R>Hong Kong</R> Hong Kong movie.</B>
+<A>Why?</A>
+<B><F>Um</F> <R>I</R> I like actor of Jackie Chan.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>So</OL>, I like the movie <OL><SC>which</SC></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><SC>that is</SC> that <R>he</R> he</B>
+<A><F>Um</F>.</A>
+<B>is <R>shown</R> <OL>shown</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>. <F>Mh-hmm</F>. What do you like about Jackie Chan?</A>
+<B><F>Oh</F>. He is very active.</B>
+<A><F>Um</F> <F>um</F>.</A>
+<B>And <SC>the</SC> his <R>kung fu</R> <OL><R>kung fu</R></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>kung fu <R>is</R> is very good for me.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>It's almost the end of the interview. O K? <F>Um</F>. Do you have any plans after this interview?</A>
+<B><F>Uuum</F>. <R>A l</R> <R>a li</R> <laughter>a little</laughter>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Oh</F> I <SC>go to <H pn="others2">XXX05</H></SC> <OL><F>er</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>go back to <H pn="others2">XXX05</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>And</R> <.></.> and go to book shop</B>
+<A>Book shop.</A>
+<B><R>only to s</R> only to see.</B>
+<A><F>Uh-huh</F>. <F>Um</F> <OL><F>uun</F></OL>.</A>
+<B><OL><R>A</R> <R>an</R></OL> <R>and</R> <F>ah</F> and <SC>go to</SC> <..></..> <R>I</R> I have something trouble, my wrist.</B>
+<A><F>Oh</F>.</A>
+<B><OL><CO><R>I</R> <R>I go</R> <F>oh</F> I go to</CO></OL>.</B>
+<A><OL>So, doctor, maybe</OL>? <F>Uum</F> lots of plans.</A>
+<B><nvs>laughter</nvs></B>
+<A>I hope it's won't get rainy. You know, because <F>uh</F> it was raining very hard last night. <OL><F>Hm</F></OL>.</A>
+<B><OL><F>Oh</F></OL> really?</B>
+<A>O K. So take care. Thank you for coming today. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

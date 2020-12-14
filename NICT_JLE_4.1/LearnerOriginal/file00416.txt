@@ -1,0 +1,204 @@
+<interview>
+<filename>file00416.txt</filename>
+
+<head version="1.3">
+<date>2001-03-19</date>
+<sex>male</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>795</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>, can I have your name, please?</A>
+<B><H pn="B's name">XXX02</H>. Yeah.</B>
+<A>Can I call you Mister <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K, how are you today, Mister <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F>. Fine, thank you, and you?</B>
+<A>I'm fine, too.</A>
+<B>Yeah.</B>
+<A>Tell me a little bit about your job.</A>
+<B>Yeah. <F>Mm</F>. <SC>My job is a</SC> <F>er</F> I belong to the economic research development. And I followed the movement of Japanese economy and J G B market. And I predict <F>er</F> the J G B market future. Yeah.</B>
+<A>What is J G B market?</A>
+<B><F>Er</F>. Japanese Government Bond.</B>
+<A><OL><F>Errr</F></OL>.</A>
+<B><OL><F>Um</F> <F>em</F></OL>. <JP>Kokusai</JP>. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Errr</F></OL>.</A>
+<B>Yeah.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>How do you like your job so far?</A>
+<B>Yeah, <F>um</F> I'm very found of it. Yeah, I'm satisfied.</B>
+<A><F>Uhu</F>. How did you get interested in that field in the first place?</A>
+<B><F>Mm</F>. <R>First</R> first place?</B>
+<A><F>Uhu</F>. How did you get interested,</A>
+<B>Yeah.</B>
+<A>in that field?</A>
+<B><F>Oh</F> <F>er</F> <SC>I used</SC> <F>uu</F> <SC>I</SC> <SC>my job</SC> my first job was <F>er</F> bond dealer. <F>Mm</F>. And <SC>I'm also</SC> I was also interested in the economic movement. So, now <F>mm</F> my job is <F>er</F> I have to look at both sides.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>I'm not so familiar with bond dealer. What do you exactly do, if you are bond dealer?</A>
+<B>Yeah, <F>mm</F> <SC>I</SC> the bond dealers' aim is <F>mm</F> <R>get</R> get profit, by buying or selling bonds. <F>Mm</F>. So <F>um</F> I must buy bonds <F>uu</F> lower price, and then <R>sell</R> sell it, higher price.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL><F>Um</F></OL>. Yes.</B>
+<A>Now, <F>um</F> where do you live, Mister <H pn="B's name">XXX02</H>?</A>
+<B><F>Oh</F> I live in <F>er</F> <H pn="others1">XXX03</H> in <H pn="others2">XXX04</H> <F>mm</F> <H pn="others3">XXX05</H>.</B>
+<A><F>Uhu</F>.</A>
+<B><H pn="others3">XXX05</H> Prefecture.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah.</B>
+<A>How do you like <R><H pn="others1">XXX03</H></R> <H pn="others1">XXX03</H>,</A>
+<B>Yeah.</B>
+<A>so far?</A>
+<B><F>Mm</F> <F>hum</F>. Comfortable to live. <F>Mm</F>.</B>
+<A>How so?</A>
+<B>Yeah. <F>Mm</F>. So <F>mm</F> <H pn="others1">XXX03</H> is very close to <H pn="others4">XXX06</H> <SC>or</SC> <F>mm</F> and <F>er</F> by <H pn="others5">XXX07</H> train <F>mm</F> I can go easily to <H pn="others4">XXX06</H>, <H pn="others6">XXX08</H>, <H pn="others7">XXX09</H> or <H pn="others8">XXX10</H>. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B>So it's very comfortable. Yeah.</B>
+<A>Were you born in <H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Have you ever lived in another place?</A>
+<B><F>Er</F> I lived in <H pn="others9">XXX11</H> Prefecture only two years <F>mm</F> <SC>in</SC> <F>er</F> from <SC>nineteen nine</SC> <F>er</F> nineteen eighty eight to nineteen ninety. <F>Mm</F>.</B>
+<A>How was the life in <H pn="others9">XXX11</H>.</A>
+<B><nvs>laughter</nvs> <F>Mm</F>. <SC>It's <F>mm</F> comfortable, too</SC> it was very comfortable. Yeah. Very <F>erm</F> <F>mm</F> yeah.</B>
+<A>Which one do you like better then, <H pn="others9">XXX11</H> or <H pn="others1">XXX03</H>?</A>
+<B><F>Er</F> <H pn="others1">XXX03</H>. <nvs>laughter</nvs></B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. It's <F>er</F> very convenient. <F>Mm</F>. <H pn="others9">XXX11</H> is <F>er</F> very <F>mm</F> <R>remote</R> remote place. <F>Um</F>. <CO>So</CO>. <F>Mm</F>. <.></.></B>
+<A>O K. Mister <H pn="B's name">XXX02</H>, do you have any hobbies?</A>
+<B>Yes, <F>mm</F> my hobby is <F>erm</F> listening to music or <F>er</F> playing music. <OL><F>Mm</F> <F>mm</F></OL>.</B>
+<A><OL><F>Errr</F></OL>.</A>
+<B>And <F>mm</F> watching baseball. <F>Mm</F>.</B>
+<A>Have you gone to any <F>er</F> say, <F>erm</F> <SC>game</SC> baseball game before?</A>
+<B>Yeah, I often went to Tokyo Dome to watch Giants game. <F>Mm</F>.</B>
+<A>Tell me about last game that you saw.</A>
+<B><F>Mmm</F>. Last summer. <F>Mm</F>. <.></.></B>
+<A>How was it?</A>
+<B><F>Ah</F> <F>err</F> Giants won. <nvs>laughter</nvs> I was satisfied. <F>Mm</F>. <nvs>laughter</nvs></B>
+<A>I see. O K, thank you. Let's move on.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Um</F> I'm going to show you a picture.</A>
+<B>Yeah.</B>
+<A>Please describe it for me.</A>
+<B><F>Oh</F>. <..></..> This couple is about to have dinner at restaurant. <F>Mm</F>. And the time is seven o'clock in the evening, I think. And <R>the</R> the <F>mm</F> <.></.> boy is <SC>recommend</SC> recommending <SC>wine to them</SC> wine or something to them. And there are other some <F>mm</F> customers around them. And the woman is playing piano. <..></..> I think it's a good restaurant. <nvs>laughter</nvs></B>
+<A>That's it?</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>O K. Thank you. Now, Mister <H pn="B's name">XXX02</H>, do you go to this kind of restaurant?</A>
+<B>Not so often.</B>
+<A><F>Uhu</F>.</A>
+<B>But <F>uu</F> with my client, sometimes I go, yeah.</B>
+<A>I see. Please tell me about last restaurant you went to.</A>
+<B>Yes, <F>erm</F> I went to <F>mm</F> <R>south east</R> south east Asian countries <F>mm</F> <F>mm</F> <R>last</R> <F>mm</F> <SC>last half of February</SC> last February. And I went to <F>mm</F> many restaurants there <F>mm</F> with my customer. <F>Mm</F>. Chinese foods and Thailand foods <F>mm</F> or something else, yeah. <F>Mm</F>. And some of them delicious some of them were not. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs> <laughter>It's like <??></??></laughter></OL>. O K. Let's move on.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Er</F>. Now we are going to do a role-play.</A>
+<B>Yeah.</B>
+<A>O K.</A>
+<ctxt>The interviewer is taking out the card.</ctxt>
+<A>This is written in Japanese. So please read it yourself and when you are ready, I will start.</A>
+<B>Yeah.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K.</B>
+<A>O K? ready? Hello, can I help you, sir?</A>
+<B>Yes, <F>er</F> I missed my train and so <F>mm</F> could you please <F>mm</F> repay this ticket?</B>
+<A><..></..> <F>Mm</F>. But actually that's against our policy.</A>
+<B>Yeah.</B>
+<A>I cannot pay you back.</A>
+<B><F>Mm</F>. So <F>mm</F> <SC>I'm</SC> <R>I have</R> I have a appointment at <F>mm</F> eleven a.m. at <F>mm</F> Tokyo, Hibiya and I have to go there in time. <SC>So</SC> and <SC>that was</SC> that is a very important meeting. So <F>mm</F> I understand your <F>mm</F> <.></.> <F>mm</F> <..></..> <JP>nandakena</JP> but <F>mm</F> could you please <nvs>laughter</nvs> <F>err</F> exchange my ticket <SC>to the next</SC> <SC>for the next train ticket</SC> for the next train?</B>
+<A><F>Uhu</F> I see. It depends on the reason why you were late. <OL>Why you are late anyway</OL>?</A>
+<B><OL>Yeah, yeah</OL>, yeah, <SC>the train</SC> <F>er</F> <R>the</R> the train I took in order to come here was very late. So I missed the train. So it was not my fault.</B>
+<A><F>Oh</F>. It wasn't your fault.</A>
+<B>Yeah. <nvs>laughter</nvs> So please, <..></..> <nvs>mm</nvs> O K?</B>
+<A><laughter>O K</laughter>. <OL>I'll go to talk to my manager</OL>,</A>
+<B><OL><nvs>laughter</nvs></OL> Yeah, thank you.</B>
+<A>and we'll see what we can do.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>O K. That is the end of our role-play.</A>
+<B>Yeah.</B>
+<A>So Mister <H pn="B's name">XXX02</H>, has this kind of things ever happened to you before?</A>
+<B><F>Um</F>. No.</B>
+<A><OL><?>No, your</?></OL>.</A>
+<B><OL>No, no</OL>.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A><F>Um</F>. What do you think about Japanese transportation system in general?</A>
+<B><F>Mm</F>. In general it is pretty good. But in case of heavy snow, <SC>it's very</SC> <F>er</F> the train delays <SC>very la</SC> <F>mm</F> very hard. <F>Mm</F>. That is the weak point. Yeah, especially in the Tokyo area. <F>Mm</F>.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, lastly I'm going to show you another picture.</A>
+<B>Yeah.</B>
+<A>Here you are. This happened in the past.</A>
+<B>Yeah.</B>
+<A>So please make a story based on these six pictures.</A>
+<B>Yeah.</B>
+<A>And please start with "One day last week,"</A>
+<B><F>Mm</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>One day last week, <R>I was driving</R> I was driving <F>ee</F> to the station. And from the other opposite <R>the</R> <F>er</F> <F>mm</F> <R>the bike <F>mm</F> was</R> <F>mm</F> the bike was <F>mm</F> running. The driver was <F>mm</F> telephoning <R>with</R> with his girlfriend. And he drove with his one hand on the bike. And <R>I</R> I try to drive to the left, but at that time <F>mm</F> <R>I</R> <F>mm</F> <..></..> I had an accident with that <R>bike's</R> bike's man. <R>And</R> <SC>and the bike's <F>mm</F> the driver</SC> <F>err</F> and the driver's telephone was broken by that accident. And the <F>er</F> bike's driver <F>mm</F> told me to compensate for the loss of <F>uu</F> <R>tel</R> telephone. But <R>I</R> <nvs>cough</nvs> I explained to the policeman that <SC>he was</SC> <F>mm</F> the bike's driver <R>was <nvs>cough</nvs> <F>mm</F> <..></..> <F>mm</F> <..></..> very care</R> was very careless. Because <SC>he was <F>mm</F> driving <F>mmm</F> with</SC> <F>mm</F> he was telephoning <SC>wh</SC> during his driving. <SC>So</SC> <F>mm</F> the policeman <F>mm</F> judged <SC>that my</SC> <F>mm</F> <F>er</F> that I was right. And the fault was on <R>bike</R> <F>er</F> bike side. And the bike was <F>uu</F> taken away by the police. Yeah. <.></.></B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>All right. Now, Mister <H pn="B's name">XXX02</H>,</A>
+<B>Yeah.</B>
+<A>have you been involved in any car accident before?</A>
+<B><F>Mmm</F>. Only once, yeah.</B>
+<A>Tell me about it.</A>
+<B><F>Um</F>. <laughter>It was my fault</laughter>. <nvs>laughter</nvs> I was careless. <OL>Yeah</OL>.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><SC>So I</SC> but the accident was very light one. <F>Mm</F>. So I paid six thousand yen only to the driver. Yeah.</B>
+<A>What do you mean by your careless?</A>
+<B><F>Mm</F>. <R>I</R> <R>I</R> I try to go to the big road from very narrow road, and I try to go left. But <R>I didn't <F>mm</F> <F>mm</F> see</R> I didn't see very much the right side. So <SC>I</SC> we had an accident <SC>by</SC> <F>er</F> as I went to the left side. <F>Mm</F>.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>I'm so sorry to hear that.</A>
+<B>Yeah.</B>
+<A>But were you O K though physically?</A>
+<B>Yeah. Not at all.</B>
+<A><laughter>O K</laughter>. All right, thank you so much.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Our interview is almost over.</A>
+<B><F>Oh</F>. Thank you.</B>
+<A>Today <F>um</F> Mister <H pn="B's name">XXX02</H>, do you have a lot of work to do?</A>
+<B>Yes. <F>Mm</F> as a matter of fact, <F>mm</F> <R>I per</R> I perhaps will not be able to attend the <F>mm</F> <SC>eight P M</SC> <F>mm</F> meeting <F>er</F> <F>er</F> six P. M. to eight. Because <R>I</R> I follow the B O J, Bank Of Japan's <F>mm</F> policy, and today Bank Of Japan will decide the more easing monetary policy. So I must be the desk and have to answer to the <F>er</F> <JP>masukomi</JP>. <nvs>laughter</nvs> Yeah.</B>
+<A>I see.</A>
+<B>So very sorry.</B>
+<A><F>Oh</F>. <OL>It's O K</OL>.</A>
+<B><OL>But</OL> I <SC>can</SC> probably cannot attend.</B>
+<A>O K, I see. O K, good luck with you then.</A>
+<B>Year, <OL>thank you</OL>.</B>
+<A><OL>O K</OL>, thank you so much.</A>
+<B>Thank you so much.</B>
+<A>Take care.</A>
+</stage5>
+</body>
+</interview>

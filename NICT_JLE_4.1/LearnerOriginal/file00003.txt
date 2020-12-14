@@ -1,0 +1,135 @@
+<interview>
+<filename>file00003.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>600</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's start. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><laughter>O K</laughter>. Please call me <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, have you been busy these days?</A>
+<B><.></.> Yes. I works as a museum staff, so <R>I</R> <.></.> I've been busy these days.</B>
+<A><F>Uh-huh</F>. Are you a full time worker?</A>
+<B><.></.> <F>Mhm</F>. <laughter><R>Ye</R></laughter> yes. <F>Er</F>. A kind of full time worker.</B>
+<A><F>Mhm</F>. So, do you have Monday off?</A>
+<B>Yes. <F>Uh</F>. Usually, museum open on Saturday and Sunday. <SC>And</SC> so the holiday is Monday usually, so I'm off today.</B>
+<A><F>Mhm</F>. What do you usually do on Mondays?</A>
+<B><F>Uhm</F>. <nvs>laughter</nvs> Usually, I get up late and <SC>cleaning</SC> clean my <SC>ho</SC> room. And, after that, I spend my time listening music or reading books or watching T V. <F>Uhm</F>. Usually, I have a relaxed time.</B>
+<A><F>Mm</F>. I see. What kind of books do you read?</A>
+<B><F>Uhm</F>. <.></.> <nvs>laughter</nvs> <.></.> <??></??>. <F>Mhm</F>. <.></.> I like <F>mm</F> novel or <R>non-fiction</R> non-fiction books. <.></.> <F>Mhm</F>. Recently, I like. <F>Mhm</F>.</B>
+<A>I see. Do you buy those books, or, do you go to the library?</A>
+<B>Usually, I go to the library, and I rent <nvs>laughter</nvs> these books.</B>
+<A>I see. <F>Mhm</F>. Then, <F>er</F> after work at home at night, what do you do?</A>
+<B><F>Mm</F>. <.></.> After work, <R>I</R> <.></.> I <SC>go back to home</SC> go back home, and I have supper with my mother. <.></.> And, usually, I watch <R?>ne</R?> news programs on T V. <F>Mhm</F>. And, <nvs>laughter</nvs> usually, I listen to <.></.> <SC>tape recor</SC> <F>eh</F> English tape on tape recorder. <OL><F>Mm</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL><F>Oh</F></OL>. I see. O K. Thank you. Please look at this and describe the picture.</A>
+<B><?>O K</?>.</B>
+<ctxt>The interviewee is looking at the picture and thinking for a while.</ctxt>
+<F>Uhm</F>. This is <F>eh</F> <R>her</R> her room. And <.></.> <F>mm</F> <.></.> <F>er</F> she is <R>si</R> <F>eh</F> sitting on the chair. <F>Mm</F>. In front of her, <F>er</F> there is a desk. On the desk, there is a computer and <SC>fax</SC> facsimile. <.></.> <F>Er</F>. And, <.></.> <F>mm</F> <nvs>sigh</nvs> on her <R>back</R> back side, <R>there is a dog</R> <F>er</F> there is a dog <R?>on</R?> on the floor. <R>And</R> <F>uhu</F> <.></.> <R>and</R> <nvs>sigh</nvs> <.></.> and, on her <.></.> bed, there is a cat. <F>Mhm</F> <F>mm</F>. <SC>It look</SC> <F>uu</F> <.></.> the cat looks <F>mm</F> sleeping. <.></.> <F>Mhm</F>. The season is <F>er</F> summer <F>mm</F> <SC>threre i</SC> because there is a calender <F>uh</F> of a June.</B>
+</task>
+<followup>
+<A><F>Mhm</F>. I see. Good. So, <H pn="B's name">XXX02</H>, you said this is summer, but summer is your favorite season?</A>
+<B><.></.> <F>Umm</F> <F>mm</F>. <nvs>laughter</nvs> <.></.> So, so. <SC>I like <F>er</F> four seasons <F>mhm</F> <.></.> <R>ea</R> <SC>each</SC> <F>mm</F> <SC>so</SC> <nvs>laughter</nvs> <.></.> each</SC> I like each <R>se</R> season. <F>Uhm</F>. Yes. <nvs>laughter</nvs> <R>I</R> I can say I like summer.</B>
+<A>Why do you like each season?</A>
+<B><F>Umm</F>. <nvs>laughter</nvs> <.></.> <SC>Each seasons have</SC> <F>mm</F> <.></.> <F>mhm</F> <nvs>laughter</nvs> <.></.> <R?>each</R?> <.></.> <F>mm</F> <F>mm</F> <SC>each seasons</SC> each season <nvs>sigh</nvs> have a merit <.></.> <F>mm</F> and <nvs>laughter</nvs> demerit. <.></.> For example, at summer, I can enjoy the sea and breeze. <.></.> <nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mhm</F>. O K. Thank you good. Now, please read this card, and let's do a role play.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A><F>M</F>? O K? Are you ready?</A>
+<B>O K.</B>
+<A>O K. Ring-ring. Hello. This is <H pn="A's name">XXX01</H> speaking.</A>
+<B>This is <H pn="B's name">XXX02</H>. How are you?</B>
+<A>Fine. How about you?</A>
+<B>Fine thank you. <F>Uhm</F> <.></.> <F>er</F>. <R>Wo</R> would you like to go see movie? <F>Uh</F>. "Polar X" in Shibuya on Thursday night?</B>
+<A><F>Mhm</F>. Yes. Thursday night, I'll be free. But, <F>er</F> <R>wha</R> what did you say? The name of the movie?</A>
+<B><F>Er</F>. "Polar X".</B>
+<A><OL>What kind of</OL>?</A>
+<B><OL><R>The French mo</R></OL> the French movie. I heard <nvs>laughter</nvs> French movie. So, if you are O K, <nvs>laughter</nvs> <OL>please <nvs>laughter</nvs> see the movie</OL>.</B>
+<A><OL>O K, though</OL> I don't understand French.</A>
+<B><nvs>laughter</nvs> <F>Er</F>. <R>What</R> what? <.></.></B>
+<A>I don't understand French, and, is that <OL>O K</OL>?</A>
+<B><OL>But</OL> there is a subtitles of <OL>Japanese</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B>So you can understand.</B>
+<A>O K. That's nice. Then, let's go.</A>
+<B><F>Um</F> <F>erm</F>. How about meeting <F>mm</F> in front of <SC>Hachiko's</SC> <F>er</F> Hachiko statue <R>at</R> <F>mhm</F> at six thirty?</B>
+<A>Yes. Sure.</A>
+<B>The movie starts <F>er</F> at seven sharp. So, are you O K?</B>
+<A>Yes.</A>
+<B><nvs>laughter</nvs> And, <F>er</F> <.></.> <SC?>yo</SC?> do you want to have dinner before the movie?</B>
+<A><F>Mm</F>. That'll be nice.</A>
+<B>So, <F>er</F> how about <F>mm</F> meeting at six, <.></.></B>
+<A><F>Mhm</F>. <OL>O K</OL>.</A>
+<B><OL>instead</OL>?</B>
+<A>O K.</A>
+<B>And, <nvs>laughter</nvs> let's have dinner. And, after that, let's go see movie.</B>
+<A>Yeah. <OL>That's a good idea</OL>.</A>
+<B><OL>O K</OL>?</B>
+<A>Yeah. Thank you for calling, <H pn="B's name">XXX02</H>. <SC?>lu</SC?> <F>er</F> I'll see you then.</A>
+<B><.></.> <laughter>Yes</laughter>.</B>
+<A>O K. <OL>Thank you</OL>.</A>
+<B><OL>See you later</OL>. Thank you.</B>
+</task>
+<followup>
+<A>Thank you, <H pn="B's name">XXX02</H>. Good. <F>Mm</F>. So, do you often go to that theater in Shibuya?</A>
+<B><laughter>Yes, I like movies</laughter>.</B>
+<A><F>Ah</F>.</A>
+<B>I sometimes go see movies in Shibuya or Ginza or <laughter>Roppongi</laughter>. <.></.></B>
+<A><F>Oh</F>.</A>
+<B><.></.> <laughter>So <.></.> I <?>say</?> title</laughter>.</B>
+<A><F>Oh</F> good. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. <??></??>. Please make a story using these <?>pictures</?>, and, please start with "One day <OL><?>last week</?></OL>".</A>
+<B><OL><F>Ah</F> "One day last week"</OL>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B><F>Er</F>.</B>
+<A><?>O K. Please start</?>.</A>
+<B><F>Er</F>. One day last week, <F>er</F> <.></.> <F>er</F> <.></.> <R>she</R> <F>er</F> <SC>she look</SC> <F>mm</F> <.></.> she looked <F>uh</F> <.></.> into the refregerater. But <F>er</F> <.></.> it was <F>er</F> empty. So <.></.> <R>she</R> <.></.> she decided to <.></.> go shopping, <.></.> and <R>she went to</R> <.></.> she went to the supermarket <.></.> <F>er</F> as usual <F>mm</F> with car. And, after that, she pick up <.></.> <F>er</F> <F>er</F> <R>a lot of</R> <.></.> a lot of things she needs. <.></.> And <.></.> <R>she paid</R> <.></.> she paid for those things at cash. <.></.> <F>Er</F>. <.></.> And <R>she</R> <.></.> she put <R>these</R> <F>er</F> <.></.> <F>mm</F> <SC>these</SC> those things <.></.> <F>mm</F> <SC>on the trunk</SC> in the trunk of the car. And <.></.> she went to home, and she <R>prepar</R> prepared <F>er</F> the meal for the day. <R>She</R> <nvs>sigh</nvs> <.></.> she cooked <F>er</F> eggs, <.></.> and, <.></.> <F>mm</F> perhaps, <R>she</R> <.></.> she prepared the good meal. <.></.> That's all.</B>
+</task>
+<followup>
+<A><F>Mhm</F>. Thank you. Good. <H pn="B's name">XXX02</H>, <F>er</F> would you please compare a food section in a small supermarket <F>er</F> with the one in a big department store?</A>
+<B><R>What</R> what do <OL>you</OL>?</B>
+<A><OL>Food</OL> section in small supermarket and food department in a department store. Please compare.</A>
+<B><F>Ah</F>. Compare? <F>Mhm</F> <F>uhu</F>. <.></.> I think <F>mm</F> <.></.> the food section in the supermarket <F>er</F> costs <.></.> <F>mm</F> <.></.> low, <F>er</F> I <laughter>think</laughter>. <SC>And</SC> <.></.> <F>mhm</F> <.></.> so, <.></.> <R>if you</R> <.></.> <F>mhm</F> if you need <R>daily</R> daily things, you should go to the supermarket. But, <F>umm</F> in the section of the department store, <F>er</F> there is a lot of <F>mm</F> expensive thing or unique thing. So, <.></.> <F>mhm</F> if <SC>you have</SC> <nvs>sigh</nvs> <R>you need</R> <F>uhu</F> <.></.> you need to prepare for special thing, you have to go to the department store, I think.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mhm</F>. Good point. Thank you, <H pn="B's name">XXX02</H>. <F>Ah</F>. Now, the interview is almost over. But, what are you going to do tonight?</A>
+<B>Tonight? <F>Uhm</F> <.></.> <F>mm</F> <nvs>laughter</nvs> <F>mm</F> <nvs>laughter</nvs> <F>mm</F>. After having dinner, <R>I'm going <R>to</R> <.></.> <F>mm</F> to</R> I'm going to bake <SC>cake</SC> a <OL>cake</OL>.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><.></.> <F>Er</F>. Yes, I'm planning.</B>
+<A>What kind of cake?</A>
+<B><F>Er</F>. <nvs>laughter</nvs> <SC>It's <F>er</F> <F>er</F> tart of</SC> <F>er</F> it's <R>ta</R> tart with <F>mm</F> white wine sauced. <nvs>laughter</nvs> <.></.></B>
+<A><F>Mhm</F>. Sounds <OL>delicious</OL>.</A>
+<B><OL><R>It's</R></OL> It's a first time.</B>
+<A>I see. O K. Thank you very much for <OL>talking today</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+</stage5>
+</body>
+</interview>

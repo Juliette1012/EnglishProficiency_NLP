@@ -1,0 +1,196 @@
+<interview>
+<filename>file00905.txt</filename>
+
+<head version="1.3">
+<date>2001-12-07</date>
+<sex>female</sex>
+<age>51</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><SC>Ma</SC> <F>eh</F> good morning. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, Ms <H pn="B's name">XXX02</H>. <SC>Nice</SC> <F>uh</F> how are you today?</A>
+<B>Nice to meet you, too. I'm fine. <nvs>laughter</nvs> But it's very cold. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>It is</OL>. It is. <R>How</R> how do you like cold weather?</A>
+<B>I like cold. <F>Um</F> <nvs>laughter</nvs> I like cold. <laughter><F>Mm</F></laughter>.</B>
+<A>O K. All right. <F>Urm</F>. Where do you live, Ms <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H> Ward.</B>
+<A><F>Huum</F>.</A>
+<B><F>Ur</F>. Yes.</B>
+<A>O K. Can you tell me about your neighborhood?</A>
+<B><F>Hum</F>. <.></.> My <F>eh</F> neighborhood is <F>mm</F> very quiet and very <R>small</R> small town. <.></.> <F>Eh</F> <F>um</F>. It's very convenient to go Kichijoji or to <R>Shinjuku and Shibu</R> Shinjuku and Shibuya. I like that place.</B>
+<A>O K. You mean Shinjuku or Shibuya?</A>
+<B>No. <R>My</R> my house.</B>
+<A><F>Oh</F>. O K. All right. Now <SC>do you <F>uh</F> get</SC> would you tell me about your family then?</A>
+<B><F>Mm</F>. My family is four, and husband and two kids. <F>Eh</F>. The elder boy is twenty-seven, and my daughter is twenty. <SC>She</SC> <F>eh</F> <F>er</F> her birthday is tomorrow.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>Tomorrow's?</A>
+<B><F>Mm</F>.</B>
+<A>O K. And your husband?</A>
+<B>My husband is bank officer. And he is fifty <F>ii</F> six, <nvs>laughter</nvs> I think. <laughter>I forgot his age</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Oh</F>. Dear. O K. Ms <H pn="B's name">XXX02</H>, what is your hobby?</A>
+<B>My hobby is, <F>um</F> I want to say studying English, but <nvs>laughter</nvs> my hobby is playing the piano and reading books and watching <F>uh</F> <F>ur</F> movie <SC>and</SC> or video.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mhm</F>.</B>
+<A>O K. Why do you like to play the piano?</A>
+<B>Why?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Why. <F>Mm</F>. It's my pleasure to play the piano.</B>
+<A>How long have you been playing it?</A>
+<B><F>Um</F>. When I was <R>cha</R> <F>uh</F> <F>mm</F> child, I played it. But I stopped for <F>uh</F> about <R>twenty</R> twenty years. I just started from May.</B>
+<A><F>Oh</F>. Last May?</A>
+<B>Yes.</B>
+<A><F>Oh</F>.</A>
+<B><F>Mhm</F>.</B>
+<A>Why did you decide to start the piano again?</A>
+<B><F>Um</F> <R>I</R> I want to play the piano, but <SC>I have to</SC> I had <F>uh</F> not enough time to play it. <F>Mm</F>. So I started at last. <nvs>laughter</nvs></B>
+<A>O K. Good.</A>
+</stage1>
+<stage2>
+<task>
+<A>So Ms <H pn="B's name">XXX02</H>, first, I would like to show you a picture. <..></..> Let's do this. O K? Here's a picture for you, and please describe this picture for me.</A>
+<B>Yes. <F>Err</F>. <F>Eh</F>. This is <F>uhh</F> wonderful restaurant. And many couples enjoying their dinner. <F>Eh</F>. <R>One</R> one man <F>um</F> tasting red wine, and he says, "It's very fine, thank you." to the <.></.> <F>eh</F> <R>wei</R> waiter. <nvs>laughter</nvs>. And <SC>they looks like</SC> they look like very <F>um</F> happy to listening to the music and tasting delicious food. <..></..> So <R>I</R> I wish <SC>I would go to</SC> I could go to there. <nvs>laughter</nvs></B>
+<A>O K.</A>
+</task>
+<followup>
+<A>All right. Now, is this your favorite restaurant?</A>
+<B><F>Uh</F>. Not exactly.</B>
+<A><F>Uhh</F>. Tell me about your favorite restaurant.</A>
+<B><F>Urm</F>. Recently I'd like to eat Japanese food.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F>. So <R>I</R> I'd rather to go to <JP>sushi</JP> bar or Japanese food restaurant. <F>Mm</F>.</B>
+<A>I see.</A>
+<B><F>Mhm</F>. <.></.></B>
+<A>Now <R>wha</R> <SC>what</SC> which one is your favorite? Which restaurant is your favorite?</A>
+<B><F>Um</F>. <R><JP>Sushi</JP></R> <JP>sushi</JP> restaurant.</B>
+<A>O K. I mean <F>uh</F> Japanese restaurant, you said?</A>
+<B><F>Oh</F>. Yeah.</B>
+<A>O K. Can you tell me one restaurant you like very much?</A>
+<B><F>Uhm</F>. <nvs>laughter</nvs> One restaurant? <F>Um</F> I often go to <.></.> <F>uh</F> <F>eh</F> <JP>sushi</JP> restaurant named "Sushiko" in Ginza. <F>Hum</F>. It's very nice, but very expensive. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Good. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, I <SC>would like to</SC> <F>oh</F>, I'm sorry, would like to a role-play. Here you go. Here's a card. Please read it to yourself. This is written in Japanese. When you're ready, I will start.</A>
+<ctxt>The examinee is reading the card.</ctxt>
+<A>O K?</A>
+<B><F>Mm</F>.</B>
+<A>Yes, ma'am. How may I help you?</A>
+<B>Yes, I'd like to go to New York by train <R>as</R> as soon as <F>ur</F> I can. How can I buy tickets?</B>
+<A><F>Oh</F>. You can buy the tickets here.</A>
+<B>Yeah. And <F>uu</F> <SC>how can I</SC> <F>eh</F> how do I know the fastest train to New York?</B>
+<A><F>Oh</F>. You can find the information here.</A>
+<B>Information. O K. And <F>uu</F> <F>um</F> <.></.> <F>eh</F> <..></..> <SC>I</SC> <F>eh</F> <SC>information</SC> where is information office.</B>
+<A>Here. <OL>Right here</OL>.</A>
+<B><OL>Here</OL>? Right here? O K. <F>Ehh</F> <F>eh</F>. Do you take credit card?</B>
+<A>Of course.</A>
+<B>Of course. Thank you. And how much <F>eh</F> is it to New York?</B>
+<A>O K. <F>Uhm</F>. The <R>cheap</R> cheaper one is fifty dollars.</A>
+<B><F>Hum</F>. Cheaper one.</B>
+<A>The cheapest one.</A>
+<B>Yeah.</B>
+<A><F>Mm-hm</F>.</A>
+<B>But cheaper one is not so fast?</B>
+<A><F>Mm</F>. Not really.</A>
+<B><nvs>laughter</nvs></B>
+<A>It's a local.</A>
+<B>I see. <R>I</R> I want to go to New York <SC>as soon as <F>uh</F> I can</SC> <F>eh</F> <SC>as soon</SC> <SC>the fastest train</SC> by <R>fa</R> fastest train to New York.</B>
+<A>O K. <F>Uh</F>. We have express train.</A>
+<B>Yes. <F>Eh</F>. <SC>Do you</SC> <F>mm</F> <.></.> so do I pay <F>er</F> extra money</B>
+<A><F>Uh-huh</F>.</A>
+<B>to express train?</B>
+<A>Yes, yes. <OL><R>Ex</R></OL></A>
+<B><OL>How much</OL>?</B>
+<A><SC>Ex</SC> O K. Express is <F>uh</F> seventy-five dollars.</A>
+<B>Seventy-five dollars.</B>
+<A>Right.</A>
+<B>And <F>uu</F> how long does it take to New York by that <SC>train</SC> express train?</B>
+<A>O K, by express, it takes only one hour.</A>
+<B>Only one hour. But if I take local train, how long does it take?</B>
+<A><F>Um</F>. <R>Tei</R> it takes about hour and a half.</A>
+<B>Hour and a half. <F>Ur</F>. O K. I'll take <F>uu</F> express train, but <SC>when is it start</SC>? <R>What time</R> what time is it start?</B>
+<A>O K. It leaves in thirty minutes.</A>
+<B>Thirty minutes.</B>
+<A>Yes.</A>
+<B>O K. <.></.> So O K. <R>I</R> <R>I take</R> I take one ticket to New York, please.</B>
+<A>O K. All right. Here's your ticket. <OL>Seventy</OL> dollars, please.</A>
+<B><OL>Thank you</OL>. Please check this card.</B>
+<A>O K. All right. Now here is your card. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>I hope you enjoy</A>
+<B>Thank you.</B>
+<A>the trip. Thank you. Good.</A>
+</task>
+<followup>
+<A>Now Ms <H pn="B's name">XXX02</H>, have you been abroad?</A>
+<B>Yes. Yes, several times.</B>
+<A><F>Oh</F>. Which country is <F>uh</F> your favorite?</A>
+<B><R>My</R> <F>uh</F> my favorite country is England.</B>
+<A>England?</A>
+<B>Yeah.</B>
+<A>Why is that?</A>
+<B><F>Uh</F> I like <F>uu</F> the story of Peter Rabbit. <nvs>laughter</nvs> So I want to go to Lake District, but I haven't there. I only visited in London. <nvs>laughter</nvs></B>
+<A>O K. All right. Good. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I would like to show you a sequence of pictures. <F>Uhm</F>. <..></..> O K. Let's do this. Here's a card.</A>
+<B>Yes.</B>
+<A><F>Um</F> <F>uh</F> I would like you to make up a short story based on these pictures from number one to six. O K? And this happened before so please start your story with "One day last week,"</A>
+<B>One day last week. O K. <F>Ehh</F>.</B>
+<ctxt>The examinee is looking at the picture.</ctxt>
+<B><SC>This</SC> <F>uh</F> <R>I</R> I found <F>uh</F> the refrigerator was empty. So I have to go to supermarket to buy <R>some</R> <F>eh</F> some food. And I entered supermarket, and picked many <F>eh</F> food. <..></..> Then I <F>mm</F> paid money at cashier. And I put <F>uu</F> them in my car. <..></..> After that, I arrived <SC>at house</SC> at my house. And I cooked <F>uh</F> fried eggs, and I made stew for my family. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Now Ms <H pn="B's name">XXX02</H>, you mentioned that <F>ur</F> tomorrow is your daughter's birthday.</A>
+<B>Yes.</B>
+<A>Do you have any plans?</A>
+<B><F>Urr</F> <F>uh</F>. Unfortunately, I don't have any plan because I asked her, "What do you want to eat?" or <.></.> <SC>some</SC> <F>ur</F> "<R>Do you</R> <R>do you</R> <F>uh</F> do you want to <R>go</R> go to the restaurant?". She said, <nvs>laughter</nvs> "No. <R>I</R> <SC>I want to</SC> <R>I</R> I'm going <R>to go</R> to go out with my friends.". <nvs>laughter</nvs></B>
+<A><F>Ohh</F>.</A>
+<B>So I and my husband stay at home, and <F>mm</F> <F>um</F> <F>uh</F> <SC>I will</SC> I'm going to make some <JP>nabe</JP>. <nvs>laughter</nvs></B>
+<A>Just for your husband.</A>
+<B>Yeah.</B>
+<A>I see. I see. All right. I'm sorry to hear that.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uhm</F>. O K. Now <F>eh</F> Ms <H pn="B's name">XXX02</H>, this is almost the end of the interview. What is your plan tonight?</A>
+<B>Tonight? <CO>Tonight <OL><F>uum</F></OL></CO>.</B>
+<A><OL>Or this afternoon</OL>.</A>
+<B><F>Uum</F>. <F>Uum</F>. Yesterday, our computer was attacked by virus,</B>
+<A>Woo.</A>
+<B>and I have to <R>fix it</R> <F>uh</F> fix it tonight. <nvs>laughter</nvs></B>
+<A><F>Oh</F> dear, dear.</A>
+<B><F>Mhm</F>.</B>
+<A><??></??>. O K. <F>Well</F> it's always pain.</A>
+<B>I'm very <F>uh</F> unhappy. <nvs>laughter</nvs></B>
+<A>Yes, very much.</A>
+<B><F>Uhm</F>.</B>
+<A>Yeah, I'm always <R>be careful</R> be careful not to <OL><??></??></OL>.</A>
+<B><OL><SC>I'm worried</SC></OL> <F>um</F> I'm worrying I can fix or not. <nvs>laughter</nvs></B>
+<A>You have to <SC>look at the</SC> look through the manual very carefully to have it fixed. O K. <F>Well</F> I hope you'll be successful.</A>
+<B><laughter>Thank you</laughter>.</B>
+<A>O K? All right. Thank you very much. This is the end of the interview.</A>
+<B>O K. <OL>Thank you</OL> very much.</B>
+<A><OL>Thank you</OL>.</A>
+</stage5>
+</body>
+</interview>

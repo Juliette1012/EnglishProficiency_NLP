@@ -1,0 +1,113 @@
+<interview>
+<filename>file00362.txt</filename>
+
+<head version="1.3">
+<date>2001-03-07</date>
+<sex>female</sex>
+<age>55</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name please.</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>O K. <F>Urr</F> It's very windy today, isn't it?</A>
+<B>Yes, it is.</B>
+<A><F>Mmm</F> O K, <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Mmm</F> I live in <H pn="others1">XXX03</H> ward with my husband and <SC>daughter</SC> <F>uh</F> <F>urm</F> <F>uh</F> two daughter. <F>Mm</F>. But <SC>I</SC> <F>um</F> <F>uh</F> my second daughter <R>started work</R> started work <F>mmm</F> <R>last year</R> <.></.> last year <SC>as an</SC> as a doctor <.></.> <F>mmm</F> at <.></.> the third level <SC>emerge</SC> emergency life saving <.></.> one of <.></.> a university hospital. So, <JP><F>ano</F></JP> <JP><F>ano</F></JP> sometimes <JP><F>ano</F></JP> <F>umm</F> my daughter and co-worker <.></.> <R>have</R> <SC>have to staying</SC> <F>uh</F>, have to stay in the hospital because <F>mm</F> <R>they</R> they have <R>a lot of</R> a lot of patient with serious level. So they work <.></.> <F>ur</F> <F>uh</F> <SC>two</SC> <F>um</F> twenty four hours a day, and no holiday.</B>
+<A><F>Wow</F>. That's tough, isn't it?</A>
+<B>Yeah.</B>
+<A><F>Urr</F>. Is your husband also a doctor?</A>
+<B>No. <F>Mm</F>. He works at the <H pn="others2">XXX04</H>.</B>
+<A>O K. <F>Urrr</F>. <H pn="B's name">XXX02</H> tell me about yourself, now.</A>
+<B><F>Mm</F>. <F>Umm</F>. <.></.> <F>Mm</F>. <JP>sou dane, watashi wa</JP> <F>Mm</F>. <F>Mm</F>. I was born <F>mm</F> <.></.> <R>Chu</R> in <H pn="others3">XXX05</H>. Japanese <.></.> says <JP>edokko</JP>, but <.></.> <R>m</R> my birthday is, <JP><F>ano</F></JP> <R>New Year</R> New Year's day <.></.> week, <F>uh</F> during? <.></.> So, <.></.> my family <.></.> <F>urr</F> <R>for</R> forget my birthdays. <nvs>laughter</nvs></B>
+<A><laughter>O K</laughter>. <H pn="B's name">XXX02</H>, are you a house wife?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. <F>Urr</F>.</A>
+<B>But, sometimes <.></.> I <F>mm</F> drawing the picture, <JP><F>unto</F> nante iun dakke na</JP>, Japanese cakes package <F>um</F> <R>for</R> <F>um</F> <JP><F>ano</F></JP> for Japanese <.></.> cake <SC>shop</SC> shops display.</B>
+<A><F>Hmmm</F>. So you are professional painter.</A>
+<B>Yes.</B>
+<A><F>Wow</F>. <F>Mm</F>.</A>
+<B>But, <.></.> <F>mm</F> <R>I get</R> <R>I get</R> <JP>chin gin</JP>, <R>I get</R> I get <R>s</R> salary very cheap. <nvs>laughter</nvs></B>
+<A>O K. <F>Well</F> that's why <??></??> that's salary.</A>
+<B><F>Mm</F>? <nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>. The first, <F>urr</F> please look at this picture, and describe it for me.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>The old man is jogging. <.></.> And <.></.> <F>mm</F> <R>he</R> <SC>he playing</SC> <F>uh</F>, <SC>the</SC> <F>uh</F> one of girl is <.></.> practicing <JP>nawa tobi kana</JP> <R>roll</R> <SC>roll flying</SC> <JP>kana</JP> flying <JP>honyo honyo</JP>. <F>Mm</F> <F>mmm</F>. And the cats is sleeping <.></.> on the car. <F>Mm</F>. <F>Umm</F>. <.></.> They are <.></.> talking to each other about <.></.> family. <.></.> So, <F>umm</F> <.></.> her dog is boring. <.></.> <F>Mm</F>. The man is reading a newspaper, <.></.> but <.></.> <F>umm</F> <.></.> <F>umm</F> <SC>he is</SC> <F>uh</F> <R>he felt</R> <F>urrr</F> <SC>he felt</SC> <.></.> <F>uh</F> <F>uh</F> <R>he's feeling</R> he's feeling <.></.> <F>mm</F> <.></.> around the <?>moschino</?>.</B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. Thank you, <H pn="B's name">XXX02</H>. <F>Urr</F>. Is this neighborhood similar to your neighborhood?</A>
+<B><F>Mmmm</F>. <SC>My</SC> <F>uh</F> next to my house, is tennis club's owner. <F>Um</F>. They are <.></.> <F>mm</F> friendly and kindness. I'm not members tennis club, but <F>mm</F> <SC>they</SC> <F>uh</F> <SC>we played</SC> <F>uh</F> <SC>we play</SC> <SC>we are playing</SC> <.></.> <F>uh</F> we played <R>usually</R> <JP>dane</JP> usually, <R>I</R> I play tennis before <.></.> <F>urm</F> opened tennis club.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>. O K. The next, let's do a role play. Please read this. I'm <R>so</R> sorry, this one. Please read this card carefully to yourself. And when you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Mm</F>.</B>
+<A>O K? May I help you ma'am?</A>
+<B><F>Um</F>. <F>Umm</F>. I'd like to go to New York.</B>
+<A><F>Uh-hmm</F>.</A>
+<B><R>How to</R> <.></.> <JP><F>unto</F></JP>, <SC>how to get</SC> <F>uh</F>, <R>how to</R> <R>how to</R> <SC>how to go to <SC>easil</SC> easiest way</SC> <F>uh</F>, could you tell me how to go to <R>easiest way</R> easiest way?</B>
+<A><F>Umm</F>. <R>You can</R> you can get a train from here, the station?</A>
+<B>Yes.</B>
+<A><F>Um</F>. There are a few different kinds of trains, super express, express and local.</A>
+<B><F>Um</F>. <.></.> <F>Umm</F>. <SC>I'll take</SC> <F>uh</F> I'd like to <F>mm</F> go to for New York, <.></.> <F>urr</F> round ticket, <.></.> <F>um</F> <R>one</R> <.></.> one <.></.> ticket please.</B>
+<A>O K.</A>
+<B><R>How</R> how much is it?</B>
+<A>O K. <F>Urr</F> what kind of ticket do you want? <SC>Is it</SC> <F>urr</F> is super express is O K?</A>
+<B>Yes.</B>
+<A>O K. That's seventy dollars. Here you are.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. Good, <H pn="B's name">XXX02</H>. Have you ever been to New York?</A>
+<B>No.</B>
+<A><F>Umm</F>. Have you been abroad?</A>
+<B>Yes.</B>
+<A>O K. Would you tell me your experience in foreign countries?</A>
+<B><F>Mm</F>. <JP><F>unto</F></JP> <R>Th</R> <F>Umm</F> <F>Um</F> three years ago, I went to Greece with my <.></.> daughter, but <.></.> during the <SC>spring</SC> <F>uh</F>, <R>sp</R> spring vacation, so very crowded. But <R>Aegean</R> <R>Aegean Sea is</R> Aegean Sea is very <.></.> beautiful situation, and <F>um</F> Greece <.></.> <F>mm</F> very friendly.</B>
+<A><F>Wow</F>. So would you like to visit Greece again in the future?</A>
+<B>Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Urr</F>. O K. O K. The last, <SC>this</SC> <F>urr</F> please <F>urr</F> look at this picture. And this is a sequence of the pictures. And I want you to make up your own story from one to six. But this story happened before, so please start <F>urr</F> your story with 'one day last week'.</A>
+<B>Yes. <F>Hmm</F>. <JP><F>Eeto</F></JP> <F>Mm</F> <SC>They</SC> a young boy and <.></.> <F>mmm</F> <SC>his father</SC> <.></.> <F>mmm</F> <.></.> <R>fa</R> father, <F>mm</F> coming in the restaurant. <F>Mmm</F> <.></.> <F>mm</F>. <R>sh</R> <SC>sh</SC> <F>umm</F> The waiter <.></.> <R>said</R> said to <.></.> <F>urm</F> their <F>um</F> <.></.> <F>ummm</F> <.></.> welcome. <F>Umm</F>. <.></.> They said, <SC>I</SC> <F>uh</F> they are sitting a table, <.></.> and <.></.> <R>they</R> <R>they</R> they were sitting <F>urr</F> <.></.> mountain view. <F>Mmm</F>. <JP><?>koredakara</?></JP> <.></.> <R>He</R> he ordered, <F>uh</F> <SC>he li</SC> he looked menu, and <.></.> ordered. <.></.> <F>Umm</F>. His father <.></.> ordered only beer. <.></.> The waiter checked <.></.> <F>um</F> their food. <F>Uh</F>. <.></.> But, <F>um</F> <.></.> <F>hmm</F> <R>his</R> <F>uhh</F> his father <.></.> ordered again, <.></.> <SC>chicken</SC> <F>uh</F>, fried chicken. <.></.> <F>Mm</F> <R>Young boy</R> <.></.> <F>mm</F> young boy drank beer, <.></.> and his <.></.> father drank a juice because <.></.> they <R>changed</R> <.></.> <F>mm</F> <F>un</F> changed drinking thing. And <.></.> <F>umm</F> his father paid <F>um</F> charge. <.></.> And <.></.> <R>he said</R> he said to <.></.> <F>um</F> his son <.></.> good-bye.</B>
+</task>
+<followup>
+<A>O K. O K. Thank you very much, <H pn="B's name">XXX02</H>. Do you <R>sometimes</R> sometimes go to the restaurant?</A>
+<B><.></.></B>
+<A>Do you sometimes go to the restaurant?</A>
+<B>Yes.</B>
+<A>Yeah. What kind of restaurant do you like?</A>
+<B><F>Umm</F> <F>Urr</F> I like Japanese food restaurant.</B>
+<A>Why?</A>
+<B>It's healthy, <.></.> and <F>mm</F> <SC>cup of</SC> <F>uh</F> cup and plate is <.></.> beautiful. And it likes expensive.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mmm</F>. No wonder you are the <F>urr</F> <F>urr</F> professional artist. <F>Mm</F>. O K. We are almost at the end of the interview. O K. <H pn="B's name">XXX02</H> <F>urr</F> what are you going to do after this interview?</A>
+<B><F>Umm</F>. I'm going to <R>eat</R> <.></.> <F>um</F> eat Italian food with my friend <.></.> after this class. <SC>My friend is</SC> <.></.> <F>uh</F> my friend going to <.></.> wait <F>urm</F> <.></.> <F>unto</F> <SC>cafe</SC> <F>uh</F> coffee shop <laughter>in this class</laughter>.</B>
+<A>O K. Thank you very much. So have a nice time with your friend. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

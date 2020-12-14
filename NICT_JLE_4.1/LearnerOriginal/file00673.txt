@@ -1,0 +1,228 @@
+<interview>
+<filename>file00673.txt</filename>
+
+<head version="1.3">
+<date>2001-11-19</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>480</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>Yeah. <F>Urm</F> My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah. Sure.</B>
+<A>O K. How are you today?</A>
+<B><F>Ur</F> Today? <F>Urr</F> Yeah, it's fine.</B>
+<A><F>Mm-hm</F></A>
+<B>How about you?</B>
+<A>I'm fine, thank you. O K. <F>Ur</F> How long have you been working in this company?</A>
+<B>In this company, <F>urr</F> <R>it</R> it past <F>ur</F> about seven months.</B>
+<A>Only seven months?</A>
+<B>Yeah. Seven months.</B>
+<A><F>Ur</F> So you are a fresh man.</A>
+<B>Yeah, I'm fresh man. <nvs>laughter</nvs></B>
+<A>O K. O K. So how do you like your job?</A>
+<B><F>Mmm</F> So so. <F>Mm</F> <F>mmm</F> <R>it's</R> it's very exciting, <R>but</R> <F>ur</F> but <F>ur</F> <F>mm</F> how can I say, <F>urr</F> not easy. So yeah, <F>ur</F> <F>mm</F> <F>eu</F> <F>mm</F> it's hard.</B>
+<A>It's hard.</A>
+<B>Yeah.</B>
+<A>O K. So I think you have to learn many things.</A>
+<B><F>Mm</F>?</B>
+<A>You have to <SC>learn</SC> study many things.</A>
+<B>Yeah.</B>
+<A>But <F>ur</F> what do you have to do most?</A>
+<B>In English? <R>Not</R> not English?</B>
+<A><F>Ur</F> English?</A>
+<B><F>Mm</F>?</B>
+<A>O K. You have to learn your <SC>job</SC> work,</A>
+<B>Yeah.</B>
+<A>but what do you have to learn most in your job?</A>
+<B><F>Urr</F> In my job? <F>Mmm</F> It's <F>urr</F> <F>mm</F> naval architect. You know naval architect?</B>
+<A><F>Uh-huh</F></A>
+<B><F>Ur</F> About ship building. <R>I'm</R> <F>ur</F> I'm in <H pn="others1">XXX03</H> now. And <F>urr</F> <nvs>cough</nvs> my division have a connection with ship yard. <SC>I</SC> <R>we</R> we order a ship. For example, tanker or <?>bulkier</?>, container, carrier. So <F>urr</F> we have to have <F>urr</F> <.></.> <F>ur</F> deep knowledge about ship building.</B>
+<A><F>Uhh</F></A>
+<B>Yeah. So we have to learn <F>ur</F> ship building.</B>
+<A>I see. <F>Mm</F> O K. Then what is the biggest difference in your life compared to your college days?</A>
+<B><F>Ur</F> <nvs>laughter</nvs> <F>ur</F> <F>urm</F> I get up earlier than my college life. <nvs>laughter</nvs> And <F>urm</F> <.></.> I make my night life shorter.</B>
+<A><F>Ohh</F> I see.</A>
+<B><F>Mm-hm</F></B>
+<A><F>Mm</F></A>
+<B>And <F>urr</F></B>
+<A>O K. Then what do you do after work?</A>
+<B>After work?</B>
+<A><F>Mm</F></A>
+<B><F>Urr</F> Just sleeping. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>Then how about weekends?</A>
+<B><OL>Weekend, <F>urr</F></OL></B>
+<A><OL>Saturday or Sundays</OL>.</A>
+<B><F>ur</F> nothing special, but <F>ur</F> now I'm belonging to <F>urr</F> <F>urr</F> <SC>what</SC> boat club in my company.</B>
+<A><F>Mm-hm</F></A>
+<B>So <F>ur</F> if there is <F>ur</F> <SC>practice</SC> <SC>the training</SC> the boat club training, <F>ur</F> I go.</B>
+<A><F>Uhh</F> I see.</A>
+<B>Yeah.</B>
+<A><F>Mm</F> O K. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like to show you a picture. Please look at this. And tell me about the picture.</A>
+<B><F>Urr</F> <.></.> <SC>It's</SC> <F>ur</F> <R>there</R> there are <R>many</R> <R>many people</R> many people. And <F>mm</F> on the <R>left</R> left side of the road, there is a middle house. And <F>ur</F> <.></.> the family in this house have two dogs maybe. <F>Err</F> <.></.> <F>ur</F> <R>the</R> <..></..> <F>urr</F> <.></.> the weather is fine. And two children is playing <.></.> <F>ur</F> by throwing ball. <F>Mmm</F> Two women are <F>urr</F> talking on the center of the road. And <F>urr</F> <.></.> <F>ur</F> <F>er</F> a man is reading a newspaper <?>visiting</?> on the bench. <.></.> <F>err</F> <SC>The</SC> on the other side of the house. <CO>And</CO>.</B>
+<A>O K.</A>
+<B><OL>O K</OL>?</B>
+<A><OL>Thank you very much</OL>. Yes.</A>
+</task>
+<followup>
+<A>O K. So <H pn="B's name">XXX02</H> <JP>san</JP>, where do you live?</A>
+<B><F>Ur</F> I'm living in <H pn="others2">XXX04</H> now.</B>
+<A><H pn="others2">XXX04</H>?</A>
+<B>Yeah.</B>
+<A>I see. Is there any difference between this picture <OL>and your neighborhood</OL>?</A>
+<B><OL><F>Ur</F> <nvs>laughter</nvs></OL> <F>Mm</F> With my <R>nei</R> neighborhood?</B>
+<A>Yes, in <H pn="others2">XXX04</H>.</A>
+<B><.></.> <F>Uhm</F> <.></.> Biggest difference is <F>mm</F> the size of house. Yeah. <F>Ur</F> In my case, <F>ur</F> my neighborhood's house is smaller than this picture. And <F>urr</F> <R>maybe</R> <R>maybe</R> maybe <F>urr</F> <SC>it have</SC> it has no children. Yeah. <CO>And</CO>. <F>mm</F> <.></.> <F>mmm</F> <.></.> Yeah. <OL>That's all</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role play.</A>
+<B>Role play.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>All right. So this is your card. Please read it to yourself. And when you're ready, I will start the conversation.</A>
+<B><F>Mm</F>? Reading in English?</B>
+<A><F>Uh</F> Yes. Silently. <OL>O K</OL>?</A>
+<B><OL>Silently</OL>. <F>Ur</F> Yeah, O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. Did you understand?</A>
+<B>O K.</B>
+<A>Yes. So you are at the train station. Right?</A>
+<B>Yeah.</B>
+<A>O K. I am a <SC>tei</SC> station clerk.</A>
+<B><F>Mm-hm</F></B>
+<A>O K. Hi, May I help you, sir?</A>
+<B><F>Uh</F> Start? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Yes, I'm sorry</OL>. O K. Let's start. Hello.</A>
+<B>Hello. <F>Urr</F> <F>ur</F> <R>I wanna</R> <F>urm</F> I wanna go to New York as soon as possible. <F>Urm</F> <F>urr</F> Which is the earliest train to New York?</B>
+<A>O K. Nine o'clock train is the earliest.</A>
+<B>Nine o'clock?</B>
+<A>Yes.</A>
+<B>O K. <F>Urm</F> <F>ur</F> Where can I get the ticket?</B>
+<A>O K. Here.</A>
+<B>Here?</B>
+<A>I sell the tickets.</A>
+<B><F>Uh-huh</F> <F>Ur</F> How much is it?</B>
+<A>We have two kinds of tickets.</A>
+<B><F>Uh-huh</F> What kind?</B>
+<A>O K. <F>Ur</F> First class and economy.</A>
+<B>Economy. <F>Urr</F> <.></.> <F>urr</F> How much is the economy class?</B>
+<A><F>Ur</F> Thirty dollars.</A>
+<B>Thirty dollars. O K. <F>Ur</F> <F>mm</F> <.></.> <F>mm</F> <SC>It's</SC> <F>ur</F> <F>mm</F> no no, is it the <F>mm</F> earliest method to reach to New York?</B>
+<A>Yes, nine o'clock train is the earliest</A>
+<B>Yeah.</B>
+<A><??></??>.</A>
+<B><F>Urr</F> <.></.> <F>ur</F> So <..></..> one person, <OL>please</OL>.</B>
+<A><OL>O K</OL>. Then here you go. This is your ticket.</A>
+<B><F>Mm-hm</F></B>
+<A>Thank you very much.</A>
+<B>You're welcome.</B>
+<A>Have a nice trip.</A>
+<B>Thank you.</B>
+<A>Bye bye.</A>
+<B>Bye bye.</B>
+<A>O K. The role play is over. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H> <JP>san</JP>, have you ever been abroad?</A>
+<B>Yeah.</B>
+<A><F>Mhm</F></A>
+<B><F>Urr</F> Two years ago, <F>ur</F> <R>I</R> <R>I</R> I was <F>mm</F> in <SC>Europe</SC> West Europe and <??></??> <SC>so</SC> <F>ah</F> about forty days. Yeah. And <F>ur</F> <SC>it</SC> <F>ur</F> <R>last year</R> last year <SC>I went</SC> I have been to Thailand and Chinese Taipei. <F>Urm</F></B>
+<A>I see.</A>
+<B>Yeah. This summer I went to Hawaii Island.</B>
+<A><F>Wow</F> Many places. But which place was the best?</A>
+<B><F>Mhm</F> It's very difficult question. <F>Urm</F> Belgium.</B>
+<A><F>Mm-hm</F> Why did you like Belgium?</A>
+<B><F>Urr</F> People in Belgium is very very kindly. <F>Urr</F> And <R>the</R> <F>mm</F> the company before went to Belgium is a French. People in French is not kind. <nvs>laughter</nvs> <CO><laughter>So</laughter></CO>. <OL>Yeah</OL>.</B>
+<A><OL>I see</OL>. <F>Ur</F> You must have had a good experience in Belgium.</A>
+<B>Yeah.</B>
+<A><F>Uhh</F> That's good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So now, I'd like to show you one more picture.</A>
+<B><F>Mm-hm</F></B>
+<A>O K. So please take a look at this. And make a short story</A>
+<B>Yeah.</B>
+<A>using six pictures. But this happened last week.</A>
+<B><OL>Last week</OL>?</B>
+<A><OL>This is</OL> last week's story.</A>
+<B><F>Uh-huh</F></B>
+<A>O K? When you're ready, please start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>Last week?</B>
+<A><F>Mm-hm</F></A>
+<B><..></..> O K. <F>Urm</F> <R>In the last week</R> in the last week Sunday, <SC>I</SC> it's I. <F>Ur</F> <.></.> <F>mm</F> <F>mmm</F> in the noon, <R>I</R> <R>I wanna</R> <SC>I wanna</SC> <R>I</R> <R>I was</R> I was so hungry. So <F>urr</F> I wanted to make something food. But there's no food in the <?>refer</?>. So <??></??> I went to supermarket, <R>and</R> <F>ur</F> and looking for something food. <??></??> <R>I</R> <R>I</R> <R>I got</R> <F>urr</F> I got <F>ur</F> slice of beef and a <SC>bread</SC> slice of bread and so on. And <F>err</F> I take these to my house by car. And <F>ur</F> <F>urr</F> <SC>I cook</SC> I cooked <F>ur</F> <F>ur</F> sunny side up, and ate it. <OL>That's all</OL>.</B>
+<A><F>Mhm</F> I see. <OL>O K</OL>. Thank you very much.</A>
+</task>
+<followup>
+<A>Now <H pn="B's name">XXX02</H> <JP>san</JP>, where or what do you have for lunch on Sunday afternoon or Sunday noon?</A>
+<B><F>Mmm</F> <..></..> What do I want to?</B>
+<A><F>Uh</F> Yes. <F>Ur</F> Actually where do you eat lunch on Sundays? <nvs>laughter</nvs></A>
+<B><F>Urr</F> <F>mmm</F> Not in dormitory. <nvs>laughter</nvs></B>
+<A>Not in dormitory?</A>
+<B>Yeah. <F>Um</F> If possible, I wanna eat lunch <F>mmm</F> outside. If it's fine.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A><F>Mm-hm</F> O K. All right. Then you live in a dormitory.</A>
+<B><F>Mm-hm</F></B>
+<A>O K. And do you cook something for yourself in dormitory?</A>
+<B>No. <F>Urr</F> <F>urr</F> <R>In</R> in my dormitory, <SC>it have</SC> it has <F>urr</F> dining and <F>um</F> <R>how</R> how can I say, <F>mm</F> two managers in my dormitory. And <R>they</R> they cook <F>ur</F> <F>urr</F> breakfast and dinner. So <F>mmm</F> <R>everyday I have</R> <F>ur</F> everyday I have no chance to cook.</B>
+<A>I see.</A>
+<B>Yeah. <F>Mm</F> <F>urm</F> On Saturday and Sunday, we have no lunch. So <F>mmm</F> one day <R>we</R> we buy a <F>urr</F> how can I say</B>
+<A>Lunch box?</A>
+<B>yeah, <R>lunch box</R> lunch box in convenient store, and <nvs>laughter</nvs> eat it in dormitory, or <F>err</F> go to noodle restaurant.</B>
+<A>Yeah. <F>Mm-hm</F></A>
+<B>Or <F>urr</F> go to Shinjuku with my girl friend, and <F>ur</F> eat lunch.</B>
+<A><F>Uhh</F> That's good. That's the best.</A>
+<B><nvs>laughter</nvs> Yeah.</B>
+<A><laughter>O K</laughter>.</A>
+<B>That one is best. <nvs>laughter</nvs></B>
+<A><laughter>I see, O K</laughter>. So <H pn="B's name">XXX02</H> <JP>san</JP>, thank you very much.</A>
+<B>You're welcome.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost over.</A>
+<B>Yeah.</B>
+<A>Thank you for coming in today.</A>
+<B>O K. Thank you.</B>
+<A>Are you going to be busy today?</A>
+<B>Today? <F>Urr</F> Very very busy maybe, <SC>may</SC> not maybe, definitely.</B>
+<A>Definitely.</A>
+<B>Yeah. <nvs>laughter</nvs></B>
+<A>I see. O K. But today is very beautiful day.</A>
+<B><F>Mm-hm</F></B>
+<A>So you can walk around</A>
+<B>Yeah.</B>
+<A>here. <F>Mm</F></A>
+<B>I'll try.</B>
+<A>Yeah. Thank you very much.</A>
+<B>Yeah. Thank you very much.</B>
+</stage5>
+</body>
+</interview>

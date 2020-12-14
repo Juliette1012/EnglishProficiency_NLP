@@ -1,0 +1,217 @@
+<interview>
+<filename>file00703.txt</filename>
+
+<head version="1.3">
+<date>2001-10-25</date>
+<sex>male</sex>
+<age>30</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>485</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, Mister <H pn="B's name">XXX02</H>. How are you today?</A>
+<B>I'm fine, thank you.</B>
+<A>Good. Now Mister <H pn="B's name">XXX02</H>, where do you live now?</A>
+<B>I live in <F>uum</F> <H pn="others1">XXX03</H>.</B>
+<A><F>Um</F></A>
+<B><F>Um</F> <F>er</F> My corporation have <F>um</F> <SC>laboratory</SC> <F>um</F> <F>err</F> <laughter>dormitory</laughter>.</B>
+<A>I see. O K.</A>
+<B><F>Um</F>.</B>
+<A>Can you tell me about the life in a <R>do</R> dormitory?</A>
+<B><F>Err</F> <.></.> I enjoy <R>in</R> in this room. <F>Err</F>. I like to watch <F>err</F> movie show. <F>um</F> <R>I rent</R> <F>er</F> I rent <F>uum</F> video tape. <F>um</F> <F>um</F> I watch <F>um</F> <F>ur</F> it.</B>
+<A>I see. I see. Now other than watching movie, what do you usually do on your free time especially in during weekends?</A>
+<B>Yes. <F>Err</F> <SC>I'll go to watch</SC> <F>err</F> <F>er</F> I go to Ginza.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> or <F>err</F> <F>er</F> <H pn="others1">XXX03</H>. <F>Um</F> <F>err</F>. There are <F>er</F> Itoyokado. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>In <H pn="others1">XXX03</H>. <F>Um</F>. So <F>um</F> <SC>mini theat</SC> <F>err</F> it has <F>um</F> mini theater.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> I <SC>go to</SC> go there to watch <SC>it</SC> movie show. <F>Um</F>.</B>
+<A>O K. Other than <SC>movie</SC> watching movie, what other activities do you do?</A>
+<B><F>Um</F>?</B>
+<A>Other activities on your free time.</A>
+<B><F>Err</F>. I go to <F>uum</F> Ameyoko.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F> to <F>uum</F> shop.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Um</F></B>
+<A>Why do you like Ameyoko?</A>
+<B><F>Err</F> <F>uum</F>. <nvs>laughter</nvs> <..></..> <F>Uum</F> <nvs>laughter</nvs> I like <F>uum</F> <F>uum</F> atmosphere.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>.</B>
+<A>In what way?</A>
+<B><F>Uum</F> <nvs>laughter</nvs> <..></..> <F>uum</F> <JP>nanteittaraiinokana</JP> <F>uum</F>.</B>
+<A>There are lots of people there.</A>
+<B>Yes. <F>Um</F>. But <F>err</F> downtown. <OL><F>Um</F> <F>um</F> <F>mm</F></OL>.</B>
+<A><OL><F>Uhu</F> <F>oh</F> I see, I see</OL>. O K. Good. Now Mister <H pn="B's name">XXX02</H>, <F>um</F> what does your parents do?</A>
+<B><F>Er</F>. My parents <F>urr</F> <.></.> make <F>uum</F> <JP>nori</JP>.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>. I don't know English in <JP>nori</JP>. <F>um</F> <F>er</F> <SC>I</SC> <SC>my</SC> <F>er</F> <SC>their</SC> they live in <H pn="others2">XXX04</H>,</B>
+<A><F>Hum</F>.</A>
+<B><H pn="others3">XXX05</H> City.</B>
+<A>I see.</A>
+<B><F>Hum</F> <F>uum</F>. So.</B>
+<A>O K. So <R>it's</R> it's a kind of country side.</A>
+<B>Yes.</B>
+<A>You were born and raised there?</A>
+<B>Yes.</B>
+<A>How do you like the life <R>in</R> in <H pn="others2">XXX04</H>?</A>
+<B><F>Uum</F> <.></.> <R>I</R> <F>uum</F> I live <F>err</F> in <H pn="others2">XXX04</H> <F>err</F> when I was collage student.</B>
+<A><F>Um</F>.</A>
+<B>So I play <F>uum</F> <SC>in</SC> <F>er</F> there.</B>
+<A><F>Mm-hm</F> O K. So did you like there?</A>
+<B>Yes.</B>
+<A>O K. Very good. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>First of all, <SC>I want</SC> I would like to show you a picture. <F>Mm</F> <F>mm</F> <F>mm</F>. Let's do this. Here's a picture for you. And please describe this picture for me.</A>
+<B><F>Err</F>. She and he <F>um</F> eat in restaurant. So <SC>clock is</SC> <F>er</F> <R>there</R> there is a clock over there. <F>Er</F>. <..></..> Servicer <F>um</F> <F>err</F> bring wine. <SC>Table</SC> <F>er</F> <SC>there are on</SC> <F>er</F> there are <F>er</F> wines and glasses on the table. <F>Mm</F>. <..></..> <R>She</R> <F>er</F> she plays piano. <..></..></B>
+<A>O K. All right.</A>
+</task>
+<followup>
+<A>Now do you like this kind of restaurant?</A>
+<B><laughter>No</laughter>.</B>
+<A>No? Why not?</A>
+<B><F>Err</F>. Incomfortable. <F>Uum</F> <F>er</F>. I like <F>um</F> <F>um</F> <JP>izakaya</JP>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Why do you prefer <JP>izakaya</JP> instead of this gorgeous restaurant?</A>
+<B><F>Uum</F> <..></..> <F>uum</F> <nvs>laughter</nvs> <JP>nanteiundarou</JP>.</B>
+<A>O K. <F>Well</F>, in the case, <F>um</F> <..></..> what kind of <SC>occasions</SC> occasion do you think you will go to this kind of restaurant?</A>
+<B><.></.> <F>Uum</F> <..></..> <F>uum</F>. My friend's, her wedding.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <.></.> <F>uum</F>. <CO>So</CO>.</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+<A>All right. So for wedding party?</A>
+<B><F>Uum</F></B>
+<A>Thank you very much. <?>Looks like</?> you like to drink, <F>huh</F>?</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now next, I would like to do role-play. <F>Mm</F>. Let's do this. Here's a card. Please read it to yourself. It's written in Japanese. When you are ready, I will begin.</A>
+<B><F>Uum</F>.</B>
+<A>O K?</A>
+<B><F>Um</F>.</B>
+<A>Right. Trrun. Hello.</A>
+<B>Hello. <F>Er</F>. <SC>My</SC> <F>er</F> this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. Mister <H pn="B's name">XXX02</H>, how are you?</A>
+<B><F>Er</F> <R>I wan</R> I want to <F>err</F> go to movie show.</B>
+<A>Sure.</A>
+<B><F>Er</F>. What time <F>err</F> <R>do</R> <F>um</F> do you have appointment? <R>I <F>er</F> wan</R> I want to have <F>er</F> at two o'clock tomorrow.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. How do you do?</B>
+<A><SC>Two o'c</SC> tomorrow, two o'clock?</A>
+<B>Yes.</B>
+<A><F>Urm</F> <F>ur</F>. I'll be free.</A>
+<B><F>Um</F>. So <F>um</F> <R>how do</R> how do we go <F>um</F> to Ginza?</B>
+<A><F>Oh</F>. <F>Well</F>, I think I will take Ginza Line.</A>
+<B><F>Uum</F>. So <F>um</F> <F>um</F> <.></.> <F>ee</F> we go to Ginza <F>er</F> on Ginza Line. <.></.> <F>Um</F>. <..></..> <nvs>laughter</nvs> <laughter>Good-bye</laughter>.</B>
+<A>O K. So I will see you at two o'clock tomorrow.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>At</OL> Ginza Station?</A>
+<B>Yes.</B>
+<A>All right. <SC>I'll see</SC> I'll be there much looking forward to seeing you.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Thank you</OL> for calling.</A>
+<B>Yeah.</B>
+<A>O K. Bye-bye.</A>
+<B>Bye-bye.</B>
+<A>O K. Thank you very much. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>O K. Now I remember you like <SC>the</SC> <F>ur</F> watching movies. But other than that, you like to go to Itoyokado?</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>What do you do at Itoyokado? You said <SC>you</SC> there is a small theater.</A>
+<B>Yes.</B>
+<A>What else do you do there?</A>
+<B><F>Err</F> <..></..> <F>uum</F> <..></..> <SC>In the</SC> <F>er</F> I <F>um</F> <R>ha</R> had better <F>ur</F> go to Ginza.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>. But <F>err</F> a lot of people. So <F>uum</F> I go to <H pn="others1">XXX03</H>. <F>Uum</F>.</B>
+<A>O K. So you don't like lots of people.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>O K. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I would like to show you sequence of pictures. Let's see. <.></.> Now, here's a card. And I would like you to make up a short story based on these pictures from number one to six. and this happened before. So please start your story with "One day last week".</A>
+<B><F>Uum</F>.</B>
+<A>O K? Go ahead.</A>
+<B>One day last week, <SC>I meet</SC> <F>uum</F> I met <F>um</F> my father <F>um</F> <R>in</R> <..></..> in Akasaka. <F>Um</F>. <SC>My father</SC> <F>err</F> <R>spoke</R> spoke to me, <F>um</F> "Let's go to eat in restaurant.". <F>Um</F>. <SC>My father</SC> <F>err</F> <nvs>coughs</nvs> <F>um</F> servicer <F>er</F> brought menu. <F>Er</F>. <R>We</R> <R>we decide</R> <F>uum</F> <..></..> <SC>we decide to <F>uum</F> eat <F>uum</F> chicken</SC> <F>um</F> <JP>chigauna</JP> my father decide to eat chicken, and I eat <F>um</F> <.></.> <F>um</F> fish.</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> <R>I</R> I drank <F>uum</F> beer, and my father drank <F>uum</F> soft drink. So <F>ur</F> <R>my father <F>err</F> <..></..> paid</R> <F>um</F> my father <R>paid</R> <F>um</F> <.></.> <F>um</F> paid money. <F>um</F> <SC>So <F>um</F> <..></..> <R>we</R> <.></.> we had</SC> <F>er</F> <JP>chigau</JP> <F>ee</F> <..></..> so <F>ee</F> I <F>ee</F> went to <F>uum</F> <.></.> <F>uum</F> my corporation.</B>
+<A>O K. All right. Good. Thank you very much.</A>
+</task>
+<followup>
+<A>Now your father is nice enough to pay. Now when you go out to <JP>izakaya</JP> with your co-worker or with your boss, how do you pay?</A>
+<B><..></..> <F>Er</F>. Cash. I paid <F>uum</F> money for cash.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>.</B>
+<A>When you are for example, many of you.</A>
+<B><F>Um</F>.</B>
+<A>And big bill comes.</A>
+<B><F>Um</F>.</B>
+<A>Like twenty thousand yen. You pay alone?</A>
+<B><.></.> Yes. <OL><F>Err</F></OL>.</B>
+<A><OL>You pay</OL> everything?</A>
+<B>At first, <F>um</F> I paid <F>um</F> alone. So <F>um</F> everyone <F>um</F> <SC>paid for</SC> <F>err</F> paid <F>mm</F> money <F>um</F> to me.</B>
+<A>O K. All right. <SC>How often</SC> <F>er</F> where do you usually go out to drink?</A>
+<B><.></.> <F>Uum</F>. I usually drank <F>um</F> <F>er</F> in Akasaka.</B>
+<A><F>Oh</F> Near here.</A>
+<B><OL><F>Uum</F></OL>.</B>
+<A><OL>I see</OL>. I see. Why not at <H pn="others1">XXX03</H>?</A>
+<B><F>Err</F>. <SC>If</SC> <F>um</F> <F>er</F> when I <F>uum</F> work too late, <F>um</F> so I <F>mm</F> drank in <H pn="others1">XXX03</H>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. But <F>uum</F> usually in <SC>Ki</SC> Akasaka.</B>
+<A><F>Oh</F> I see.</A>
+<B><F>Um</F>.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now Mister <H pn="B's name">XXX02</H>, this is almost end of the interview. Now are you going to work late tonight?</A>
+<B><SC>If</SC> <F>uum</F> perhaps.</B>
+<A><F>Er</F>. Too bad.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Too bad</OL>. Is your department very busy?</A>
+<B>Yes.</B>
+<A><F>Err</F> <F>err</F>. Do you have new project or something?</A>
+<B><F>Um</F>. Yes. <OL><F>Uhh</F></OL>.</B>
+<A><OL>I see, I see</OL>. So how often do you work late in a week?</A>
+<B><F>Uum</F> I work late <F>uum</F> <F>uum</F> more often.</B>
+<A>Very often?</A>
+<B>Very often.</B>
+<A>But you go out to drink very often, too.</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>I see</laughter></OL>. <F>Well</F>, you can do it because you are still young.</A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL>But</OL> be careful with your health.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>? You have to go home sometimes early.</A>
+<B><OL><F>Uum</F></OL>.</B>
+<A><OL>So that</OL> you can take a long sleep.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>?</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>All right. Thank you very much. This is the end of the interview.</A>
+<B><F>Um</F>.</B>
+<A>O K? Bye-bye.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

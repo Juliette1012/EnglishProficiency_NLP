@@ -1,0 +1,149 @@
+<interview>
+<filename>file00419.txt</filename>
+
+<head version="1.3">
+<date>2001-04-02</date>
+<sex>male</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>690</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, <nvs>cough</nvs> are you ready?</A>
+<B>Yes.</B>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ee</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K, <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Ee</F> <F>ee</F> I live in <H pn="others1">XXX03</H> Prefecture.</B>
+<A><F>Mm</F>. O K. <F>Um</F>. How do you come here every day?</A>
+<B><F>Mm</F>. By metro.</B>
+<A><F>Um</F>. <.></.> Only?</A>
+<B><F>Um</F> <F>mm</F>. Yes.</B>
+<A><F>Um</F>. O K. Then <F>er</F> what do you do on the train every morning?</A>
+<B>On the train <F>um</F> <F>mm</F> <SC>I'm jut</SC> I was just sitting.</B>
+<A><F>Ah</F>. O K. <F>Mm</F>? Can you find a seat every morning?</A>
+<B><F>Mm</F>. No, so <F>mm</F> <F>mm</F> <R>I rarely sit</R></B>
+<A><F>Hum</F>.</A>
+<B>I rarely sit.</B>
+<A><F>Um</F>. O K. O K, then do you live with your family?</A>
+<B>Yes.</B>
+<A>Now please tell me about your family.</A>
+<B>My family, <F>mm</F> <F>ee</F> I have <F>er</F> father, mother and sister. <F>Um</F> <F>mm</F> <F>mm</F> <..></..> <F>mm</F>. <..></..> <nvs>cough</nvs> <.></.> <F>mm</F> My father is <F>ee</F> sixty-one years old. And <R>he</R> <F>ee</F> he already retired and everyday he reads. <F>Um</F>. <SC>My mother is</SC> <F>mm</F> my mother has no job and <F>mm</F> <F>ee</F> every day do <F>mm</F> <.></.> <F>mm</F> <.></.> cook and <.></.> clean the room <.></.> and so on. <F>Mm</F>. My sister is <F>ee</F> university student, and she studies <F>mm</F> welfare. <F>Mm</F>. <R>She is</R> <F>mm</F> she is good sister.</B>
+<A><F>Uum</F>. <nvs>laughter</nvs> Are you a good brother?</A>
+<B><F>Mm</F> I think, but <.></.> she don't think.</B>
+<A><nvs>laughter</nvs> O K, then how about yourself?</A>
+<B><F>Um</F> <nvs>cough</nvs> <F>mm</F> <..></..> <F>mm</F> <.></.> <R>I</R> I was a student <F>um</F> <F>ee</F> <..></..> last week, <SC?>but now I'm <R>sya</R> sya</SC?> <JP>nanntsuu</JP> <F>mm</F> <..></..> <F>mm</F> <.></.> <R>but</R> <F>mm</F> but I didn't like study. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K, thank you, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'm going to show you this. Please describe it.</A>
+<B>Describe. <.></.> O K. <F>Mm</F>. It's very sunny day. <F>Mm</F>. And <F>mm</F> <F>er</F> there are <F>ee</F> <SC>many child</SC> <F>er</F> many children <F>ee</F> playing outside. <F>Mm</F> <F>ee</F> one <F>ee</F> playing <F>mm</F> <F>e</F> catch ball, and <F>mm</F> other <.></.> <JP>nawatobi</JP> rope. <.></.> <F>Mm</F>. And <F>mm</F> others <F>mm</F> <F>er</F> <F>mm</F> jogs. <F>Mm</F>. And <nvs>cough</nvs> <F>ee</F> two women <F>ee</F> are talking with each other. And <F>ee</F> a man <F>ee</F> is sitting and reading a newspaper.</B>
+<A><F>Um</F>. O K, thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you like jogging?</A>
+<B><F>Mm</F>. Yes, I like,</B>
+<A><F>Um</F>.</A>
+<B>jogging.</B>
+<A><F>Um</F>. O K, then why do you like it? Please tell me.</A>
+<B><F>Uum</F>. So, because <F>mm</F> <..></..> it's very fresh feeling. <.></.> <F>Mm</F> <.></.> <JP>nandarona</JP>. <..></..></B>
+<A><F>Um</F>. O K, thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's do a role-play. Please read this card.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A><F>Uhu</F>. O K. Trun-trun. Hello, <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Er</F>. This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Er</F>. Hi, <H pn="B's name">XXX02</H>.</A>
+<B>Hi. <F>Um</F>. <nvs>cough</nvs> Do you have a time now?</B>
+<A>Sure.</A>
+<B><F>Ee</F>. So <F>mm</F> let's <F>ee</F> go to the movie <F>ee</F> tomorrow.</B>
+<A><F>Er</F>. Tomorrow, I'm sorry I can't.</A>
+<B>O K. So <F>ee</F> when <F>ee</F> <F>ee</F> is it convenient to you?</B>
+<A><F>Um</F>. How about next Tuesday?</A>
+<B>Next Tuesday. O K. So <F>ee</F> next Tuesday, let's go to the movie.</B>
+<A>Sure.</A>
+<B><F>Ee</F>. So when <SC>we</SC> <F>ee</F> will we meet?</B>
+<A><F>Um</F>. Any time is O K. How about you?</A>
+<B>O K, so <F>mm</F> ten a.m.</B>
+<A><F>Um</F>. O K.</A>
+<B>O K? So <F>ee</F> how <F>ee</F> <R>will</R> <SC>will you</SC> <F>err</F> will we <F>ee</F> go to the movie?</B>
+<A><F>Um</F>. By train?</A>
+<B>By train. O K?</B>
+<A>Yes.</A>
+<B>So <F>ee</F> we will go to the movie by train. <F>Mm</F>. So <F>ee</F> next Tuesday <F>ee</F> ten a.m. by train. <OL>O K</OL>.</B>
+<A><OL><F>Hum</F></OL>. O K.</A>
+<B>So <F>mm</F> <F>ee</F> I'm looking forward to it.</B>
+<A><F>Um</F>.</A>
+<B>Bye.</B>
+<A>O K. Thank you. Bye. <laughter>O K</laughter>.</A>
+</task>
+<followup>
+<A>So <laughter>do you</laughter> often go to movies?</A>
+<B><F>Mm</F>. Sometimes.</B>
+<A><F>Um</F>. So which do you like better <F>er</F> going to a movie theater or seeing a video at home?</A>
+<B><F>Mm</F> <F>hum</F> I like <F>mm</F> seeing a video better. Because <F>mm</F> I want <F>ee</F> to be alone. <F>Mm</F>. <SC>Don't</SC> <F>ee</F> <F>ee</F> <R>I</R> I don't like <F>uu</F> bothered.</B>
+<A><F>Err</F>. <nvs>laughter</nvs></A>
+<B><F>Mm</F>. For example, laughter or <SC>we</SC> <.></.> cry, <F>mm</F> others noise, I don't like.</B>
+<A><F>Err</F> I see. Then you can't have a date at the movie theater.</A>
+<B><F>Mmm</F>. <?>A part from it</?>.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Mm</F> <F>mm</F> <R>I</R> I like <F>ee</F> go to the movies <F>mm</F> with a girl.</B>
+<A><laughter>I see</laughter>. O K, thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now,</A>
+<B><JP>Hai</JP>.</B>
+<A>finally we will do this. Please make a story using these sox pictures.</A>
+<B>Make a story.</B>
+<A><F>Um</F>. Please start with "One day last week," Because it happened before.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>Change O K?</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>O K. O K. <F>Er</F>. One day last week, <F>mm</F> <F>ee</F> she found the refrigerator <F>ee</F> empty. So <F>ee</F> she decided <F>ee</F> to <SC>go to the</SC> go to <R>su</R> supermarket <F>ee</F> to buy <F>ee</F> food. <F>Ee</F>. And she <F>ee</F> went <F>ee</F> to the supermarket <F>ee</F> by car. <F>Ee</F>. And <R>she</R> <F>mm</F> <F>er</F> <R>she bought</R> <F>ee</F> <F>mm</F> she bought <F>ee</F> foods that <F>ee</F> she needed. <F>Er</F>. And <F>ee</F> she went home and <SC>she <F>ee</F> cooked</SC> <F>mm</F> <JP>nante iundaro</JP> <.></.> <F>mm</F> she cooked eggs.</B>
+<A><F>Um</F>. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>So <F>um</F> do you often go to a supermarket?</A>
+<B><F>Mm</F>. No. <OL><F>Er</F></OL>.</B>
+<A><OL>Why not</OL>?</A>
+<B><F>Mm</F> <F>er</F>. Because I don't need to go. <F>Mm</F>. <R>My mo</R> <F>ee</F> my mother <F>ee</F> goes to the supermarket and buy to foods <R>and</R> <F>uum</F> and what I need.</B>
+<A><F>Hum</F> I see. O K. Thank you. Then <H pn="B's name">XXX02</H>, you are wearing a nice tie. But how did you buy that tie?</A>
+<B><F>Err</F> <F>mm</F>. How did you buy. <.></.> <JP><F>Uunto</F></JP> <R>I <F>ee</F> went</R> <F>mm</F> I went to <JP>youfuku no</JP> Aoyoma. <nvs>laughter</nvs> And <F>ee</F> chose it myself. <..></..> <F>Mm</F> <R>I</R> I chose <F>err</F> this tie <F>ee</F> because <F>mm</F> it's very light <F>mm</F> and bright. <..></..></B>
+<A>O K, thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>The interview is almost over. But what are you going to do this weekend?</A>
+<B>This weekend? <F>Uum</F> <F>mm</F>. This weekend <..></..> <F>er</F> I will go to bar <F>ee</F> with my comrade and have a fun.</B>
+<A><F>Um</F> I see. Then how about <JP>hanami</JP> party,</A>
+<B><CO><OL><JP>hana</JP></OL></CO>.</B>
+<A><OL>with your</OL> friends?</A>
+<B><F>Hum</F> <F>mm</F> <F>mm</F> <R>I</R> I don't plan to do it.</B>
+<A><F>Hum</F> I see. Don't you like cherry blossoms?</A>
+<B><F>Oh</F> yes. Because it's very beautiful.</B>
+<A><F>Hum</F>.</A>
+<B>And <F>mm</F> it symbolize Japan.</B>
+<A><F>Err</F> I see. <F>Um</F>. O K. Thank you very much. And <OL>thank you</OL> for your come today.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

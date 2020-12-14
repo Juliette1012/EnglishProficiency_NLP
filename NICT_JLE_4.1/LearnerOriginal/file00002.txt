@@ -1,0 +1,172 @@
+<interview>
+<filename>file00002.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><F>Um</F> I'm <H pn="B's name">XXX02</H>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Nice</OL> to meet you.</B>
+<A>Nice to meet you. O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, <OL>of course</OL>.</B>
+<A><OL><?>Thank you</?></OL>. O K. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Um</F> I live in <H pn="others1">XXX03</H>. <F>Mmm</F> <R>my</R> my house is near <R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H> station.</B>
+<A><OL><F>Uhm</F> <?>I see</?></OL>.</A>
+<B><OL><F>Um</F> that is</OL> nice place.</B>
+<A><F>Uhm</F> I see. Do you live with your family?</A>
+<B>No. I live with <F>uhm</F> my bird</B>
+<A><F>Uhm</F>.</A>
+<B>and <F>mm</F> my friend.</B>
+<A>I see. What kind of bird?</A>
+<B><F>Mmm</F>. <SC>He is</SC> <R>hi</R> his color is blue.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Mmm</F> <F>mm</F> <R>maybe</R></B>
+<A><F>Um</F>.</A>
+<B><F>mm</F> maybe, <SC>ba</SC> <JP>nandakkena</JP> <R>ba</R> <R?>barchar</R?> <OL><?>barchar</?></OL>.</B>
+<A><OL><F>Uhmm</F></OL> I see.</A>
+<B>I'm sorry. I don't <OL>know</OL>.</B>
+<A><OL><F>Oh</F></OL> <F>um</F> <F>um</F>. That's all right.</A>
+<B><F>Um</F>.</B>
+<A>Do you enjoy taking care of the bird?</A>
+<B><F>Mmm</F>. <laughter>No</laughter>, <F>mm</F> no. But <F>mm</F> <R>he</R> he gives me</B>
+<A><F>Um</F>.</A>
+<B><F>um</F> much love,</B>
+<A><F>Uhm</F>.</A>
+<B>so</B>
+<A><F>Uhm</F>.</A>
+<B><F>mm</F> I love him, too.</B>
+<A><F>Uhm</F>.</A>
+<B><R>But</R> <F>mm</F> but actually,</B>
+<A><F>Um</F>.</A>
+<B>I don't like to care</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter><R>of</R></laughter></OL> of <R>hi</R> <R>hi</R> him</B>
+<A><OL>I see</OL>.</A>
+<B><OL><R>because</R></OL></B>
+<A><F>Um</F>.</A>
+<B>because <F>mm</F> he is very noisy</B>
+<A><F>Um</F>.</A>
+<B>and <F>mm</F> he is very selfish. <F>Mm</F> <nvs>laughter</nvs> so sometimes, <F>mm</F> I get angry. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. O K, <H pn="B's name">XXX02</H>, have you been busy these days?</A>
+<B><F>Mmm</F> so-so.</B>
+<A><F>Um</F>.</A>
+<B><F>Mm</F> <R>I</R> <SC>I have to</SC> <R>I ha</R> I had to go to <R>A</R> ALC's program <F>mm</F> twice a week, <R>so</R> so <F>mm</F> just busy, but of course, <F>um</F> I enjoyed it.</B>
+<A><F>Um</F> I see. And, do you work?</A>
+<B>Yes.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. I'm salesperson. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B>But my office is in my house, so <F>um</F> that is <laughter>good</laughter> for me.</B>
+<A><F>Um</F>. What do you sell?</A>
+<B><F>Mm</F> <SC>ka</SC> <F>mm</F> <F>err</F> a kind of computer system, <nvs>cough</nvs> software or something. <F>Mm</F> <R>but</R> <F>mm</F> but I can't <F>mm</F> make <F>mm</F> software. <F>Mm</F> I just sell.</B>
+<A><F>Oh</F> but sometimes you have to explain how it works.</A>
+<B><F>Mm</F> <nvs>cough</nvs> no. <F>Mmm</F> <R>if</R> if my customer <F>mm</F> ask me about the computer system, <F>mm</F> <R>I</R> <F>mm</F> <SC>I ask my</SC> <F>ah</F> I will ask my <F>mm</F> <R?>ka</R?> <?>colleague</?> <OL><F>mm</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>about that.</B>
+<A><F>Uhm</F>.</A>
+<B><R>And <F>uhm</F> he</R> and <R>he</R> <R>he teach</R> <SC>he teach</SC> <F>er</F> he will teach <F>mm</F> the customer <F>mm</F> about the system.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhm</F>. <F>Oh</F> that's good.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K, thank you. Now please look at this picture and describe it.</A>
+<B><F>Mm</F> <.></.> <F>mm</F> this is a kind of party. <F>Mm</F> <F>ah</F> no. No. <R>This is</R> <SC>this is</SC> <F>mm</F> <F>mm</F> <R>thi</R> <F>ah</F> this place is a restaurant. <F>Mm</F> <.></.> <R>three cou</R> three couples <F>mm</F> eat some dishes. Maybe, <F>mm</F> <R>they are</R> <F>mm</F> <.></.> they are lovers. <F>Mm</F>. <.></.> <R>A</R> <.></.> a woman <R>who</R> <.></.> <F>um</F> <R>who</R> <SC>who dress</SC> <F>uhu</F> who wear pink color dress <F>mm</F> <.></.> is looking <.></.> her boyfriend.</B>
+</task>
+<followup>
+<A><F>Um</F> O K, thank you, <H pn="B's name">XXX02</H>. Good.</A>
+<B>I am sorry.</B>
+<A><F>Oh</F> that's all right. You did a good job. <F>Er</F> are you going to a nice restaurant for a Christmas?</A>
+<B><F>Mmm</F>. <nvs>laughter</nvs> I don't have any plan <F>mmmm</F> in Christmas, <R>but</R> but <SC>I'd like to</SC> <F>mm</F> <SC>I prefer <F>mm</F> going to a restaurant</SC> <F>ah</F> I prefer going to <R>amuse</R> amusement park</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><F>mmm</F></OL> than nice restaurant. <nvs>laughter</nvs></B>
+<A>Why?</A>
+<B><F>Mm</F> <R>because</R> <F>mm</F> because I have to eat nice dinner <F>mm</F> very quietly <F>mm</F></B>
+<A><F>Oh</F> <OL><?>O K</?></OL>.</A>
+<B><OL>in the</OL> <R>no</R> noble restaurant.</B>
+<A><nvs>laughter</nvs></A>
+<B>But <F>mm</F> amusement park is <F>mm</F> so noisy. <R>If</R> <SC>if a</SC> if <SC>za amu</SC> the amusement park <F>mm</F> is too crowded, <F>um</F> <R>I will</R> I will enjoy, <F>mm</F> some rice or something. <nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Yeah. <?>O K</?>. I understand. O K. Thank you. Now, please read this and let's do a role play.</A>
+<B><F>Hum</F>.</B>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<A>O K?</A>
+<B>Yes.</B>
+<A>Hello, how may I help you, miss?</A>
+<B><F>Ah</F>. <F>Mm</F> would you tell me <R>how much</R> <R>how much</R> <F>mm</F> how much cost <F>mmm</F> to New York</B>
+<A><F>Uhm</F>.</A>
+<B>by train?</B>
+<A><F>Well</F> we have two different kinds of trains.</A>
+<B><F>Uhm</F>. <F>Er</F> I'm sorry. <F>Uhm</F> I don't have much money, <R>so</R> so I'd like to buy cheap ticket.</B>
+<A><F>Um</F>. Then local train. Ten dollars, but very slow.</A>
+<B><F>Mmm</F>. It's O K. <F>Um</F>. <R>And</R> <F>mm</F> <.></.> and could you tell me <F>mmm</F> <R>how to get to</R> <F>mm</F> how to get to from here to New York? <F>Mmm</F> <R>which</R> which <R>plat</R> platform?</B>
+<A><F>Um</F> number three.</A>
+<B><F>Ah</F>. Thank you. <F>Mm</F>. <.></.> Thank you for your kindness.</B>
+<A><F>Uhm</F>.</A>
+<B>Good-bye.</B>
+<A>O K, good-bye. Have a nice trip.</A>
+</task>
+<followup>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>. <F>Well</F> do you like to travel by train?</A>
+<B><F>Mmmm</F> <R>so</R> <R>so much</R> so much. <F>Uhm</F> <R>I like</R> I like to <.></.> ride <F>mm</F> airplane.</B>
+<A><F>Oh</F>.</A>
+<B><F>Um</F>.</B>
+<A><F>Uhm</F> why <OL>airplanes</OL></A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A>are better?</A>
+<B>Because airplane is very <R>con</R> convenient for me. <F>Mmm</F>. <.></.> <F>Mm</F> <.></.> <R>I have to</R> <.></.> I have to take <F>mm</F> <R>short time</R> short time <F>um</F> and <F>mm</F> <SC?>that is ba</SC?> <F>um</F> that is <R>le</R> less tiring <F>mm</F> than train.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhm</F>. Yes. O K. Thank you very much.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Now</OL> finally, let's do this. Please make a story using these six pictures and please start with "One day last week".</A>
+<B>"Last week"?</B>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B><R>Ta</R> <R>Takeshi</R> Takeshi loved Hiroko, <R>so</R> <F>mm</F> so <R>he</R> <R>he thank</R> <F>mm</F> <.></.> <SC>he thank that</SC> <F>mmm</F> <..></..> he thank to that. <F>Mm</F> <R>they</R> they went to zoo. <.></.> <R>So he</R> so he <SC>call</SC> called her, and he asked her <F>mmm</F> <.></.> <F>mm</F> <SC>he</SC> <F>ah</F> <.></.> <SC>she like</SC> <R>she</R> <R>she</R> <F>mm</F> <SC>she likes</SC> <F>ah</F> she liked zoo or not. <F>Um</F>. Hiroko's answer is "yes.". So <F>mm</F> he drove his car, <.></.> and they went to a zoo. <..></..> Hiroko wanted to see <F>mmm</F> lion's area, so they went to there. And <F>mmm</F> they enjoyed seeing <.></.> lion. <.></.> But <R>she</R> <R>she</R> she was afraid of lion, <F>mm</F> because the lion barked her. <.></.> And then, they went to monkey's area. <.></.> A monkey was very pretty, <R>so</R> <R>so</R> so <R>she</R> <R>she said to him</R> <F>mmm</F> <.></.> she said to him, <.></.> <F>mm</F> "I want to pick up you in my house.". <..></..> But <R>the monkey</R> the monkey <R>didn't</R> <.></.> didn't say anything. <.></.> <F>Mm</F> and then, <F>mm</F> they came back home. <R>But</R> <.></.> but he <R>for</R> forgot his car, <.></.> <R>so</R> <F>uhm</F> so <R>they</R> <.></.> they walked.</B>
+</task>
+<followup>
+<A><F>Mhm</F> O K, good. Thank you, <H pn="B's name">XXX02</H>. Do you think a zoo is a good place for a date?</A>
+<B><F>Mmm</F> yes. <F>Mmm</F>. Because <F>uhm</F> there are many kinds of animals, so <F>mmm</F> that is <F>mm</F> very useful to talk each other about that.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mhm</F> very good. O K. Thank you very much. The interview is almost over. But what are you going to do after this test?</A>
+<B><.></.> <F>Mm</F> <..></..> <F>mm</F> <R>I</R> I will continue <F>mm</F> studying English</B>
+<A><F>Oh</F>.</A>
+<B>very hard <F>mm</F>.</B>
+<A><?>So</?> you like studying English so much.</A>
+<B><F>Mm</F> <R>so</R> so-so. <OL><R>Anyway</R></OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>anyway, <F>mm</F> <R>I want to</R> I want to learn English, and I want to go to Hawaii someday. <R>So</R> so,</B>
+<A><F>Uhm</F>.</A>
+<B><F>uhm</F> <SC>I con</SC> I will continue</B>
+<A><F>Uhm</F>.</A>
+<B>studying English.</B>
+<A><F>Mhm</F> O K. Thank you very much.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL><?>Have a good day</?></OL>.</A>
+</stage5>
+</body>
+</interview>

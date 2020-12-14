@@ -1,0 +1,412 @@
+<interview>
+<filename>N_file00010.txt</filename>
+
+<head version="1.3">
+<date>2002-11-11</date>
+<sex>male</sex>
+<age>21</age>
+<country>USA</country>
+<overseas>1_12m</overseas>
+<category>Computer Science</category>
+<SST_task2>classroom</SST_task2>
+<SST_task2>map</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task3>landlord_advanced</SST_task3>
+<SST_task3>travel_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>Name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B><OL><?>Yes</?></OL>.</B>
+<A><OL>Is</OL> that O K, <H pn="B's name">XXX02</H>?</A>
+<B>That's fine.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>I'm very fine, thank you.</B>
+<A><laughter>O K</laughter>. You look fine.</A>
+<B><?>Right</?>.</B>
+<A>You're not cold?</A>
+<B>No. That's actually really not <?>that cold today</?>.</B>
+<A>O K.</A>
+<B><CO>So</CO>.</B>
+<A>You have a good lunch?</A>
+<B>Yeah. Not bad. Ate with my friends and it was delicious.</B>
+<A><CO><R>Ar</R> around here, in the cafeteria, or</CO>?</A>
+<B>Yes, in the cafeteria at <H pn="school name1">XXX03</H>.</B>
+<A>And it was delicious?</A>
+<B>It was very good.</B>
+<A><nvs>laughter</nvs> What was it, may I ask?</A>
+<B><F>Uh</F> I had curry and rice.</B>
+<A>And that was delicious.</A>
+<B>It was very good. Surprisingly so.</B>
+<A>O K. O K. Are you living around here, <H pn="B's name">XXX02</H>?</A>
+<B><F>Um</F> I live in <H pn="others1">XXX04</H> City. <F>Urm</F> <OL><SC>that's</OL></B>
+<A><OL><F>Oh</F> O K</OL>.</A>
+<B>pretty</SC> it's about forty minutes from here.</B>
+<A>O K.</A>
+<B>Yeah. In a dormitory in <H pn="others2">XXX05</H>.</B>
+<A>I see. Several of the other students live <OL>there, I think</OL>.</A>
+<B><OL>Yes</OL>. <?>In the same place</?>.</B>
+<A>Yeah. <OL>Yeah</OL>.</A>
+<B><OL>A couple of</OL> guys and a couple of girls from different <??></??>.</B>
+<A>Right. Right. <R>How i</R> how is it living there?</A>
+<B>It's pretty nice actually. It's a lot of freedom, and they serve us meals every now and then. Single room so it's not bad at all.</B>
+<A><R>Where're you</R> where're you from <OL>originally</OL>?</A>
+<B><OL>I'm originally</OL> from <H pn="others3">XXX06</H>. So <R>I</R> I have a lot of <H pn="others4">XXX07</H> <?>given to me</?>.</B>
+<A><F>Ahh</F>. O K. <F>Well</F> I'm not gonna make any.</A>
+<B>O K. <OL>That's</OL> O K.</B>
+<A><OL>So</OL> <OL>that's a relief</OL>.</A>
+<B><OL><??></??></OL></B>
+<A><nvs>laughter</nvs> O K. <F>Ur</F> <F>um</F> <R>what</R> what do you do here?</A>
+<B><F>Urm</F> I study Japanese at <H pn="school name1">XXX03</H>, and <SC?>that's</SC?> I'm taking an arts and society course, so studying the language and the society.</B>
+<A>O K. Tell me about that society course.</A>
+<B><F>Urm</F> it's an arts and societies class. And we're reading "The Tale of Genji" right now. And we just finished up with part of that. And we're moving to the <R>medi</R> medieval art in Japan. And we're reading <JP>No</JP> plays. And we have our mid-term <?>on Friday</?>. So <F>ur</F> I gotta study for that.</B>
+<A>O K. <R>How</R> how did you end up in this program if I <OL>may ask</OL>?</A>
+<B><OL><F>Ur</F> <F>well</F> I was</OL> actually here last summer for six weeks because after my freshman year of college, I didn't have anything to do that summer. So I decided to take a summer abroad, and I stayed here for six weeks. And then I liked it so much that I came back for a semester. <SC>And that's</SC> so I'm trying to make it my minor. Japanese is <?>my minor now</?>.</B>
+<A><F>Hm</F>. <F>Hm</F>.</A>
+<B><CO>So</CO>.</B>
+<A>How can you do that?</A>
+<B><F>Urm</F> <F>well</F> <SC>my</SC> in my major, I have to have a certain amount of credits in something <?>not</?> computer science. So I decided to take Japanese, <?>you know, takes it away</?>. So after this semester, I have to <?>fill the requirement in</?> Japanese language.</B>
+<A>Back in the States?</A>
+<B><F>Mm-hm</F>. Back at my college.</B>
+<A>And in the time being, how are you making the most of your time here to acquire Japanese?</A>
+<B><F>Urm</F> <F>well</F> I take an hour and a half of Japanese four days a week, and every Thursday, I have a <JP>kanji</JP> test or a <JP>kanji</JP> class and then test. So <SC?>I'm writing</SC?> I'm learning how to write and to speak, too. And I try to hang out with Japanese people as much as possible, and speak really bad Japanese because I'm just starting pretty much. It's pretty <?>fast</?>. <OL><CO>So</CO></OL>.</B>
+<A><OL><F>Oh</F></OL> tell me about the last time you <SC>hang</SC> hung out with Japanese?</A>
+<B><F>Well</F> I actually ate <F>ur</F> lunch with <SC>two Japa</SC> two of my Japanese <OL>friends</OL>.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B>And it's pretty much a mix of the few words I know in Japanese and <R>English</R> English because they all speak really perfect English. So it's <?>again</?> interesting.</B>
+<A>What do you think <F>ur</F> <R>i</R> is <F>ur</F> perhaps a more productive way <R>to</R> to acquire Japanese?</A>
+<B><F>Urm</F> <SC?>I've</SC?> living in Japan is a pretty good way to do it. And <SC>just</SC> it takes a lot of personal effort. Like I find myself speaking more English, and then I say, "I should be speaking more Japanese.". And so I try, and it's kind of tough, but once you practice for a while, it's easier. So <R>I</R> I just have to make a conscious effort actually speaking instead of just <??></??> language so and so. <R>I</R> I think coming to Japan and taking classes at Japanese university is a really good way. <SC>Because</SC> and <R>you learn</R> you learn a lot more <JP>kanji</JP> that way because you see it every day on the train. So <R>it</R> it helps. You learn a lot of new words, because you're walking down the street <?>willing to learn</?>.</B>
+<A>What do you do on the weekends?</A>
+<B><F>Urm</F> weekends, <SC>we</SC> actually Saturday night, we went to an all-night karaoke place,</B>
+<A><nvs>laughter</nvs></A>
+<B>and sang karaoke and drank all night. So <SC>that's</SC> it could be interesting. And sometimes we go into Tokyo, and we go dancing and clubbing or <?>something, so</?> it can get pretty interesting.</B>
+<A>I'm a bit old for clubbing. Tell me about <R>the la</R> the last club you went to.</A>
+<B><F>Oh</F> the last club. <R>I think</R> I think it was on my birthday in September when we went clubbing last. And we went clubbing in Xanadu in Shibuya. <F>Ur</F> <SC?>all my</SC?> yeah, <SC>that was</SC> it was pretty fun. <SC>My friend</SC> my Japanese friends <?>and some of my</?> American friends. And we danced all night. <?>It was interesting</?>.</B>
+<A><SC>What</SC> what's it like? I mean <F>ur</F></A>
+<B><F>Urm</F>.</B>
+<A>haven't been to a disco in twenty years.</A>
+<B><nvs>laughter</nvs> <F>Ur</F> it's crowded, and there are a lot of people dancing. I don't know, it's dark. <F>Urm</F> you know, it's something to experience, <?>really</?>, you know.</B>
+<A>O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. <F>Well</F> I've got <F>er</F> some things to do with you today. First of all, I'd like to show you this picture here.</A>
+<B>O K.</B>
+<A>I'd like you to describe this in detail for me, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>O K</OL>. <F>Well</F> it's a classroom. And there are <SC?>a few</SC?> six students and one teacher. <SC>She tea</SC> she seems to be teaching math of some sort, maybe trigonometry. And she is <F>uh</F> astutely teaching, <SC>but none of the students are really paying</SC> <F>well</F> one student is paying attention and taking notes while another girl is playing with her <F>er</F> cell phone. One boy in front is blowing bubble gum and looking out the window. And two girls in the back are talking and putting on makeup. And another student is drinking, and has his headphones on so I doubt he is paying very close attention either. And it seems to be a very pretty <SC>out</SC> day outside so I guess that's why he's looking out.</B>
+</task>
+<followup>
+<A>O K. Could you compare the scene of this classroom to the scene of your own high school <OL>back in the States</OL>?</A>
+<B><OL>My</OL> high school. <F>Mhm</F>. In my trigonometry class, it was somewhat similar. <F>Urm</F> the teacher would rattle on about trigonometry, and <SC>sev</SC> some people would be taking notes, some people would be staring out the window and not paying attention. And of course, there would always be the high school girls talking in the back, not paying any attention at all.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>So <F>uh</F> <R>kind of</R> kind of similar</OL>.</B>
+<A>How did the teacher try to control those girls at the back?</A>
+<B><F>Ohh</F> sometimes, she would yell at them or call their names and say, "<SC>Play</SC> pay attention, please.". And other days, it seemed she was just so tired she <SC>just</SC> would just keep teaching and not really pay any attention to them. So I don't know, it takes a lot of stamina to teach high school kids, <laughter>I guess</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>Yeah</laughter></OL>. What was your fondest memory from high school?</A>
+<B>Fondest memory from high school. <F>Hm</F>. It was probably when, in my senior year, my two best friends and I went to our senior awards night <F>uh</F> in the town <SC>thir</SC> like thirty-minute car drive from my hometown. And we went, and we got our awards, and watched the senior video, which was like old memories from high school and things. And then we went out to eat. And we had a pretty good time, and then we drove home. <R>It was</R> <SC>it was pretty</SC> it wasn't really exciting, <?>though</?>. I don't know why it's <SC>my bes</SC> my favorite memory though. It was just <SC>the</SC> one of the last times I got to hang out with my two best friends from high school. So <R>it was</R> it was a pretty good <?>night</?>.</B>
+<A>Yeah. I can imagine.</A>
+<B><nvs>laughter</nvs></B>
+<A>I can imagine. I'm <OL>sure</OL>.</A>
+<B><CO><OL>Not</OL> really exciting, but</CO>.</B>
+<A>Memorable, though.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Memorable</OL>.</A>
+<B>That's right.</B>
+</followup>
+<task>
+<A>O K. And I'd like to show you <F>ur</F> another thing. I'd like to show you <F>ur</F> this picture here. And there's a map. I'd like you to <SC?>s</SC?> tell me what you see <OL>or</OL> describe this town.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Urm</F> <F>well</F> it's a map of a town that isn't labeled. <F>Urm</F> there's a train station. And in front of the train station, Route twenty-four runs past. There's a river to the north called the North River. And south of that is Riverside Park. There's a zoo, a bank, various offices. There is a school. Across from the school is a public library. And there's a hospital. And across Station Way, there's a restaurant. And then across the street from that is Elm Street and the Parkview Apartments. And across the road from Park Avenue is the supermarket which is near the bookstore, near the post office. And <?>Route</?> four-four-four runs in front of the post office. There are movie theaters. There is the South River. And near Shady Lane Road, there're various houses. And in the whole map, there're one, two, three, four, five, six bus stops.</B>
+</task>
+<followup>
+<A>O K. <R>What</R> what sort of impression do you get from this place?</A>
+<B><F>Mhm</F>. <F>Ur</F> I assume many <SC>te</SC> people take the bus.</B>
+<A><nvs>laughter</nvs></A>
+<B>Because there're many bus stops. And there is a bus station and a train station so I assume it's a lot like Tokyo where people don't have cars, and they take the bus or the train, and walk places. It seems pretty well rounded. There's movie theaters, supermarket, hospital, post office, schools. So I think you could live here in the houses and <SC>par</SC> or the apartments and pretty much have anything you wanted. There's a park and a river so it's a quaint little place to live, I assume.</B>
+<A>O K. Now, I know <SC>you live</SC> <R>you're</R> you're originally from <H pn="others3">XXX06</H>. <F>Ur</F> where in <H pn="others3">XXX06</H>, may I ask?</A>
+<B> <F>Ur</F> I'm from <H pn="others5">XXX08</H> which is a</B>
+<A><H pn="others5">XXX08</H>.</A>
+<B>tiny town between <H pn="others6">XXX09</H> and <H pn="others7">XXX10</H>.</B>
+<A>O K. Not being amazingly familiar with that area,</A>
+<B>I don't know, <?>maybe you will</?>.</B>
+<A><nvs>laughter</nvs> <SC>could you tell</SC> could you compare <H pn="others6">XXX09</H></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>with this kind of</OL> <F>er</F> place?</A>
+<B><F>Urm</F> <F>well</F> in my hometown, things aren't really spaced together like this. <SC>There's</SC> <F>urm</F> there would be a lot of apartments, and then you would have to drive down the road maybe ten minutes, and then there would be <SC>a grocery s</SC> a supermarket, and then drive down the road a few more minutes to the post office. And it's pretty spaced out. If you don't have a car, you really can't get <laughter>around</laughter> anywhere. And there are no buses and no trains. <R>And</R> <F>urm</F> and it's pretty rural. <SC>There're a lot of</SC> <F>ur</F> like I live on a farm, and that's about ten minutes out of town so to get to a lot of the houses, you have to drive out of town.</B>
+<A><OL><F>Hm</F> <F>hm</F> <F>hm</F></OL>.</A>
+<B><OL>And go out</OL> to the sticks of <H pn="others3">XXX06</H> and so <R>it's</R> it's not as convenient as this, I would imagine.</B>
+<A>There are no buses at all?</A>
+<B><F>Mm</F> none that I know of.</B>
+<A>So if you don't have a car, what do you do?</A>
+<B><F>Um</F> you walk or you find a friend that has a <laughter>car</laughter>. So without a car, <SC>it's</SC> you're pretty much out of luck.</B>
+<A><OL><F>Eh</F></OL>.</A>
+<B><OL><R>Or</R></OL> or you have to <??></??> live in the apartments that are semi-close to everything, and just walk.</B>
+<A><F>Mhm</F>.</A>
+<B>So I don't know, it's pretty tough without a car.</B>
+<A><F>Mhm</F>. <nvs>sniff</nvs> O K. <SC>You</SC> where do you go to college in the States?</A>
+<B><F>Urm</F> I go to college in <H pn="school name2">XXX11</H> which is in <H pn="others8">XXX12</H>.</B>
+<A>O K. I'm getting my geography. To the <OL>south</OL>.</A>
+<B><OL>South</OL>.</B>
+<A>Yeah. O K.</A>
+<B>In the <H pn="others9">XXX13</H>.</B>
+<A>Yeah. Yeah. <CO>Have you found any great differences between where</CO></A>
+<B><F>Urm</F>.</B>
+<A>where you grew up and where you are now?</A>
+<B>I realize that my home town in <H pn="others3">XXX06</H> in general is much prettier than <H pn="others8">XXX12</H>.</B>
+<A><F>Hm</F>. <OL><F>Hm</F> <F>hm</F> <F>hm</F></OL>.</A>
+<B><OL>Like there're</OL> rolling hills and trees and seasons. And in <H pn="others8">XXX12</H>, it's flat and ugly and it's summer pretty much ten months out of the year. And then we have a really brutal two months of winter, and then summer again. <SC>So a lot of</SC> and the towns are pretty similar. <SC>There's</SC> except my college town, it's pretty close together because to make it convenient people walk from their apartments to the college. <SC>But</SC> <F>urm</F> and getting around isn't that hard. You can pretty much walk. <SC>And</SC> <F>ur</F> but the college town is really small. And my college has about twenty thousand students. And the town itself was built for maybe when it was about five thousand students. So especially in the fall, when all the new students are around, the traffic is just awful because there're narrow streets, and short distances between stops. And so <SC>it's just</SC> traffic is a <laughter>nightmare</laughter>. <CO>So</CO>.</B>
+<A>Being that the overall impression is not too positive,</A>
+<B><nvs>laughter</nvs></B>
+<A>can I ask why you chose that particular college?</A>
+<B><F>Urm</F> <F>well</F> <R>it's</R> it's not <F>eh</F> <F>eh</F> ugly like I make it out. But <F>urm</F> my father went to veterinarian school in <H pn="others10">XXX14</H>. It's one of the top veterinarian colleges in the country <?>now</?>. So <SC>he</SC> I was looking at one of his colleges, and <R>I thought it was</R> I thought it was pretty, and I like the <H pn="others11">XXX15</H> because the people are really friendly. <F>Urm</F> so <R>I</R> I sort of thought this seems <?>hen</?> it's a big school, but it doesn't feel like it.</B>
+<A><F>Hm</F>. <F>Hm</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL><F>Er</F></OL> you feel like you're in a really small town when you're there. So I mean, <R>it</R> it's a good experience, and it's five hundred miles from where I grew up.</B>
+<A><F>Hm</F>.</A>
+<B>So <R>it's</R> <SC>it's def</SC> I definitely threw myself out, and said, "O K. Let's see what you can do here.". <OL>So it's been</OL> a positive experience mostly.</B>
+<A><OL><nvs>laughter</nvs></OL> Good. Good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. <F>Ur</F> This isn't gonna happen in your hometown, but I want you to imagine this experience from the train</A>
+<B>O K.</B>
+<A><F>erm</F> situation here.</A>
+<B><CO>Shall I read this or</CO>?</B>
+<A>Yeah. If you could just read that to yourself. We're gonna try a role-play now.</A>
+<B>O K.</B>
+<A>Read that to yourself, and when you're ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Hm</F>. <.></.> O K. <F>Ur</F>.</B>
+<A>O K? O K. <F>Urm</F> yes, good afternoon, sir. Can I help you at all?</A>
+<B><F>Oh</F> <?>my</?>. <?><F>Huh</F></?>. <R>I</R> I missed my train because my car ran out of gas on the way here. And <SC>I'm on</SC> <SC>I need to get on this train</SC> I needed to get the train because I was going a very long distance to see my brother who is sick.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>But on</OL> my way here, my car ran out of gas, and I had to run all the way here. So now, <SC>I have to go</SC> I have to call my mom to come pick me up and take me to another train station so I can catch a different train. <SC>Because this one</SC> and so I need to get this ticket refunded so I can buy a new ticket. Can you help me out in <OL>any way if possible</OL>?</B>
+<A><OL><SC>I would</SC></OL> you know, I would love to help you out. It just seems so sad, but <R>we</R> we can't give <OL>refunds</OL>.</A>
+<B><OL><R>I</R></OL> I really need this money. <R>I</R> <F>n</F> I have to go see my brother. He's deathly ill. This might be the only time I would ever see him. <OL><?>Now can you help me</?></OL>?</B>
+<A><OL><R>I totally understand</OL> that</R>. I totally understand that. But as far as the money goes, I mean I don't know you ran out of gas.</A>
+<B><F>Well</F> <R>I</R> I really need this money back. <SC>I</SC> <R>can</R> can you find it in your heart to help me?</B>
+<A><SC>I wou</SC> I have a heart, but it's a policy.</A>
+<B><F>Oh</F> <R>can</R> can I speak to the manager, and we see if we can change this policy?</B>
+<A><nvs>laughter</nvs> <SC>He</SC> I'm afraid he's not around at the moment. <OL><CO>So</CO></OL>.</A>
+<B><OL><nvs>sigh</nvs></OL></B>
+<A>And you're in a rush.</A>
+<B><R>I really</R> I really need this ticket refunded so I can go see my sick brother. He's deathly ill.</B>
+<A>I mean, three hundred dollars, I'd like to help you out myself, but I just don't have that kind of money.</A>
+<B><nvs>sigh</nvs> O K. Thank you <laughter>anyway</laughter>.</B>
+<A><F>Well</F> I mean <F>urm</F> <.></.> <R>ho</R> <F>er</F> how much do you need? I mean, <R>when</R> when's your mother coming?</A>
+<B><F>Oh</F> <R>I</R> <SC>I</SC> <SC>she's</SC> she should be here any minute, but she's indigent and poor, and she scrubs floors for living.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>And this was all the money we had</OL>. And I missed my train. So now <R>I have</R> I have to go buy another ticket.</B>
+<A><F>Well</F> <F>ur</F></A>
+<B>And we have no money.</B>
+<A>I just can't arrange it right now. <CO><R>I</R> <SC>I could</SC> you know, I mean <SC>if you</SC> I trust you. <SC>If like</SC> I could give you fifty bucks. <CO>And</CO>.</A>
+<B><F>Oh</F> <R>that</R> that would be great. <R>Any</R> anything you could do. <R>Maybe</R> maybe I can arrange something else.</B>
+<A>Maybe you can wire it back later if I can get this refund?</A>
+<B><F>Oh</F> <R>that</R> that would be great.</B>
+<A><R>O</R> O K. <F>Well</F> now here's fifty to start with.</A>
+<B>Thank you so much. You're a saint.</B>
+<A>O K. <laughter>Thank you very much</laughter>. <R>I</R> I haven't been called a saint before.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, thank you</OL>. If I was a saint, I would've given you three hundred bucks. <R>N</R> never mind.</A>
+<B>That's true.</B>
+<A>Never <OL>mind</OL>.</A>
+<B>But <R>you</R> you do what you can.</B>
+</task>
+<followup>
+<A>So <SC>this</SC> all these trains in Tokyo, it's bit of a new experience for you.</A>
+<B><F>Well</F> <SC>kin</SC> last summer, <R>it was</R> it was awful. I mean because I come from a rural area and there're no trains. And then I come to Tokyo, and they <SC>s</SC> flash this huge map with hundreds of trains. And they say, "O K, you live here. Get here.". And there're about three different trains you can take, and I was just like speechless. Because <R>I</R> I had no idea how I get from one point <R>to the</R> <F>um</F> to the next. <SC>And</SC> but by the end of my six weeks, <SC>I was pre</SC> I think I was pretty good. And then coming back, <SC>it was</SC> it's been over a year since I've been here so <SC?>I was seeing</SC?> I kind of remember. And seeing all the new people, <R>they</R> they're in the same boat I was last summer, <R>they</R> they said, "How do we get from here to here? It's impossible.". And <SC?>I was</SC?> <R>I</R> I tried to tell people, you know "It's not that hard.".</B>
+<A>It's actually very easy <OL>once you get <?>diagram</?></OL>.</A>
+<B><OL><SC>And once you get</SC></OL> I mean I see kids now and they're just like, "<F>Oh</F> you need to get here from here? And you should take this line at this time, and it'll cost you this much.". So I mean it doesn't take long at all, but at first, you see that big map, and you're just intimidated with <F>well</F> a lot of things.</B>
+<A>What's the funniest thing you've seen on the train?</A>
+<B><F>Urm</F> probably my friend laying down on the train</B>
+<A><nvs>laughter</nvs></A>
+<B>after we'd been drinking a while. And he said, "I'm gonna lay down. You take a picture.". <SC>So</SC> and it was a pretty crowded train so he laid down, <SC>and I took</SC> and I took a picture. So it was <??></??>.</B>
+<A><laughter>Yeah, I can imagine that</laughter>.</A>
+</followup>
+<task>
+<A>O K. I want to try another role-play with you.</A>
+<B>O K.</B>
+<A>We have a couple more to do. <F>Um</F> <SC?>can</SC?> I'd like you to read that to yourself, understand that situation. And again, when you're ready, let me know.</A>
+<B>O K. O K.</B>
+<A>Is that O K?</A>
+<B>That's fine.</B>
+<A>O K. We're doing this on the phone. Hello, this is <F>ur</F> <H pn="A's name">XXX01</H> here.</A>
+<B><H pn="A's name">XXX01</H>, <F>ur</F> I need you to help me out. I accidentally broke this window in my apartment.</B>
+<A>This is Tim, right?</A>
+<B>Right.</B>
+<A><F>Ah</F> yes. <SC>You</SC> <F>ur</F> sorry, did you what?</A>
+<B><F>Urm</F> <F>well</F> see, I locked myself out of my apartment. And I was trying to <F>well</F> break in to get my keys so I could, you know, get on my car and go somewhere. And when I was trying to slide the window back, it broke. And so now, I need to get it fixed as soon as possible because I'm going out of town, and I don't want this big gaping hole in my apartment.</B>
+<A><R>You</R> <F>ur</F> <SC>yu</SC> if you had called me, you know, I have the master <laughter>key</laughter>. I mean <OL>that was a bit radical of you</OL>.</A>
+<B><OL><F>Well</F> I mean, <R>I was</R></OL> I was in a hurry, and I wasn't thinking right. And your office is so far away. You know, <SC>I was just</SC> I was trying to get in and I wasn't thinking clearly and now, a window is broken and I need it fixed as soon as possible.</B>
+<A><F>Well</F> listen, I mean, I'm really busy right now. <SC>I</SC> <F>um</F> maybe Thursday?</A>
+<B><F>Oh</F> see <R>I'm</R> <SC>I'm catch</SC> I'm <SC>ta</SC> catching a plane tomorrow, and you know, I'm gonna be gone for three weeks. So <R>I</R> I don't really feel comfortable leaving the window just broken like this. Can you fix it sometime today?</B>
+<A><F>Ur</F> <F>well</F> I'm in the middle of a game now. <F>Er</F> you know, <R>it's</R> it's the fifth inning.</A>
+<B><nvs>sigh</nvs></B>
+<A><R>I</R> I don't know.</A>
+<B><R>I</R> <R>I'll</R> I'll pay any kind of overtime. I'll pay for the window, I'll pay for your work. I'll tape the ballgame for you.</B>
+<A><nvs>laughter</nvs></A>
+<B>I mean anything so you can get this window fixed today. It'll really help me out. I would really appreciate it.</B>
+<A><F>Urm</F> O K. <F>Well</F> then maybe I can <.></.> come down and watch <OL>the game</OL> at your place.</A>
+<B><OL><F>Oh</F></OL>. <R>That</R> that would be fine. You can fix the window, watch the game. I've got a big T V. You know, you can do whatever you want. <R>I</R> I would really appreciate it.</B>
+<A>O K. I'll do that then. Thank you very much, <OL><?>then</?></OL>.</A>
+<B><OL>Thank you</OL>. <R>I'll</R> I'll see you in a few minutes.</B>
+<A><F>Well</F> it'll be about ten. <OL>I'll see</OL> you then.</A>
+<B><OL>O K</OL>.</B>
+<A>O K. Thank you. <laughter>O K, that's the end of that role-play</laughter>.</A>
+</task>
+<followup>
+<A>All right. You're living in a dormitory. No problems there?</A>
+<B>No, not right now. <F>Urm</F> none so far. We're not allowed to have girls in the dorm. But that's not a very big deal.</B>
+<A><F>Hm</F>. <F>Hm</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL>I see</OL> all the Japanese guys with girls <?>in there</?> sometimes. So I don't know.</B>
+<A>I see. <R>What a</R> what about <F>urm</F> back at college, <F>urm</F> <R>you</R> your own campus?</A>
+<B><F>Urm</F> <SC>I</SC> my freshman year, I lived in the athletic dorm on campus. And it was pretty strict on girls, too. So <R>I'm</R> I'm kind of used to that. But <F>um</F> last year, my sophomore year, I lived <R>in an apartment</R> in an apartment by myself. <SC>Pretty</SC> <F>urm</F> like a half mile off campus. So it was really nice to <F>uh</F> live by myself. And <F>um</F> <R>it was</R> it was a pretty large apartment for one person, too. So <R>it was</R> it was really nice, really.</B>
+<A>Going back to your freshman year, <SC>if you</SC> <F>ur</F> when you do have <F>ur</F> a problem, <F>urm</F> maybe with a roommate or maybe with some other people in the dormitory, what can you do about it? What's the procedure?</A>
+<B><F>Urm</F> <F>well</F> there was <F>um</F> an <SC>ex-football player</SC> ex-American football player. <R>Large</R> large man. And he ran the dorm. So anytime we had problems, <R>we</R> we could call him or go knock on his door, and <R>he would</R> he would yell at us, but then he would take care of it. So <R>he was</R> he was an interesting man. I actually had to do that because I had to switch roommates after the first semester, because my roommate stopped showering and slept all day. And he was a real big nuisance, so I had <?>to do that</?>. "<H pn="others12">XXX16</H>, can you help me out? My room really smells really bad, and we need to get this guy out of here."</B>
+<A><R>What</R> what caused that change of <OL>lifestyle habit</OL>?</A>
+<B><OL><F>Ur</F> <SC>I</SC> it was the first year</OL> of college, and he was not doing well. I think he had mental problems or something. He just stopped showering, just laying there all day. I came back from a long weekend, and the smell was horrible. And I went straight down to <H pn="others12">XXX16</H> 's office, and I said, "Listen. You have to move him out now.". And it was pretty much the next day he moved out. <CO>So</CO>. <SC>It was</SC> <SC>and if you</SC> if there are people playing music too loud in the dorm, he wouldn't be very happy about that, but he would. He was kind of a <?>serving person</?>. But <R>it</R> it wasn't a <SC>bad</SC> real bad dorm situation. The dorm room was really small. Actually smaller than the dorm I have here</B>
+<A>Really?</A>
+<B>in Tokyo. And there were two people in it.</B>
+<A><F>Wow</F>.</A>
+<B>So,<SC?> that's</SC?> it was kind of rough. That's why I never want to live in the <??></??> dorm.</B>
+<A><nvs>laughter</nvs> <F>Or</F> disinfect it. Yeah.</A>
+<B>That's right.</B>
+<A><nvs>laughter</nvs></A>
+<B>It took us a while.</B>
+</followup>
+<task>
+<A>O K. <F>Ur</F> one more role-play we have to do.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>The</OL> third one. Again, if you could just read through it, different situation now. You could read through that.</A>
+<B><nvs>laughter</nvs> O K.</B>
+<A><.></.> O K?</A>
+<B>All right.</B>
+<A>O K. <F>Er</F> yes. <F>Uh</F> good afternoon, sir. Can I help you at all?</A>
+<B>Yes. My wife and I booked this trip with your travel agency. And it was supposed to be the honeymoon of a lifetime. You know, Acapulco. It was supposed to be beautiful beaches and a <SC>fa</SC> luxurious honeymoon suite. And it turned out to be way less than we expected. The honeymoon suite was smaller than my dorm room <OL>in college</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>The water was black. The bed fell apart the first night, and we ended up sleeping on the floor with a tattered mattress that looked like several people had done really awful things in. And the beach was closed due to a toxic spill off the coast. It rained. I know you have no control over the weather, but this just added fuel. We were supposed to have a full dinner package in the hotel, and it was Saltines and club soda at three in the morning after the room service didn't respond. So <R>I</R> I know your travel agency has direct control over this hotel because it's your travel agency. So <R>I</R> <SC>I</SC> <SC>we</SC> my wife and I are still scarred by this horrible honeymoon and now I'm back at work, and she is trying to recuperate from <SC>the</SC> some bacterial infection she got <OL>from the water</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><CO>So</CO></OL>.</B>
+<A><F>Well</F> sir, I mean <SC>the</SC> these are what we call acts of God. We can't control toxic spills and bacteria in the water.</A>
+<B>But the brochure I was given by one of your beautiful representatives had pictures <SC>of luxurious</SC> of a luxurious hotel, fine service, and it was way below that. <OL><CO>And</CO></OL>.</B>
+<A><OL><F>Well</F></OL> so you understand we can't control local customs and local culture.</A>
+<B>But we were guaranteed this in the contract we signed, and you did not deliver it. So we would really like our money back. Airfare, maybe not. But it was a very expensive hotel, and <SC>we</SC> it was worse than anything we'd ever stayed in. We'd really like our money back.</B>
+<A><F>Well</F> it does sound pretty bad. So <R>I</R> <R>I'll</R> <R>I'll</R> may I be excused to check the hotel? Our representative in Acapulco could <OL><?>go to the hotel</?></OL>?</A>
+<B><OL><F>Well</F> <R>if</R></OL> <R>if</R> <SC>if I could</SC> I mean, <R>we</R> we know it's bad so we don't really need a second opinion. So if you could really just wire-transfer our money back, we would be really happy. Otherwise, I mean my brother is a lawyer.</B>
+<A><nvs>laughter</nvs></A>
+<B>And <R>he</R> he was not very happy with the pictures we showed him. So we have evidence. I mean I did take many pictures. Instead of beautiful beach, our broken down hotel room and the rat that carried away my wife's hat.</B>
+<A><OL>laughter</OL></A>
+<B><CO><OL>So</OL> if we could resolve this matter without having</CO>.</B>
+<A>It does sound pretty bad so I'm sure we can manage it.</A>
+<B>Thank you very much. You've been very respectful. <OL>I appreciate that</OL>.</B>
+<A><OL>O K, thank you</OL> very much. <laughter>O K, thank you</laughter>.</A>
+</task>
+<followup>
+<A>And our trip to hell <OL>is what that makes it</OL> <R>s</R> sound like.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Urm</F> apart from Japan, have you been abroad at all?</A>
+<B><F>Urm</F> <SC>I went to a cruise</SC> I cruised to the Bahamas once</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL>when I was</OL> a freshman in high school. So</B>
+<A><CO><F>Well</F> <OL>that</OL></CO>.</A>
+<B><OL>it's</OL> kind of <?>out of the</?> country, but not really. But <SC>it was an ex</SC> it was very nice.</B>
+<A>Sure. I mean <F>uh</F> <F>uh</F> tell me about that trip.</A>
+<B><F>Ur</F> it was with my church youth group. And <SC>up until</SC> like that was like before me, because that was my first year in group, they went every spring break, because we're all from same high school, they would take a big trip out to San Francisco or something. And so we took a Carnival cruise for three days from Florida. And we drove to Florida, and then we took this really, really cool cruise down to <R>the</R> the two islands in the Bahamas. And <R>it was</R> it was really nice. <SC>Like we stopped at</SC> on the first island like we just got out and looked at the <?>stops</?> there, <SC>the stands</SC> the souvenir stands because <SC>of</SC> <F>ur</F> we had to get a taxi into town. We didn't really wanna do that. So <SC>we just</SC> and the boat was really nice. <SC>We could eat</SC> I think they served like twelve meals a day. And all we had to do was show our card, and you could eat as much as you wanted <F>erm</F> twenty-four hours a day. And I was in a room with two of my best friends, and <R>we just</R> <F>oh</F> we just had a great time. We owned that boat. And then on the second island, we got out, and walked around. And a native came up to us, and he offered us drugs, and started to lead us away. It's the really ghetto part of town. And so we got kind of scared, ran back to the boat. <laughter>So</laughter> that was interesting <?>when we walked</?> in the Bahamas. But the boat was really cool. And there was a storm one night, so the boat was rocking back and forth, and one of the girls got really seasick. And we got Cuban cigars and smoked down on the deck. And it made us really sick, too. <laughter>So</laughter></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>I think I was green from the cigar</OL>. And <F>urm</F> then we got back to Miami, and drove the long trip back home. And <R>it was</R> it was really fun. And then after that, though, we didn't take any more trips for spring break, so</B>
+<A>Right.</A>
+<B>you know, it was a good spring break.</B>
+<A>Yeah. It sounds like fun.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Next up, I'd like to show you a sequence of pictures. It's not exactly <R>a</R> a cruise ship.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>It's <R>a</R></OL> a camping story. <F>Urm</F> this is a sequence of pictures here <H pn="B's name">XXX02</H>,</A>
+<B><OL>O K</OL>.</B>
+<A><OL>going</OL> from one to six. I'd like you to make up a story based on these pictures.</A>
+<B><F>Huh</F> <OL>O K</OL>.</B>
+<A><OL>Make up a</OL> story. Now, this happened before. So please start the story, "One day last week", and then begin.</A>
+<B><SC>This is</SC> O K. One day last week. <F>Urm</F> <F>well</F> Janie was home from college. And her mother decided to take a mother-daughter <SC>field trip</SC> <SC>out</SC> <F>ur</F> a camping trip so that they could catch up on her first year of college and all the new experiences she'd had. So they decided to buy some camping gear, load up the car, and go to the park and camp. <F>Ur</F> when they arrived, it was beautiful. And <SC>they set it up</SC> they set up the tent, built a fire. And <SC>it was</SC> <R>they</R> they'd started bonding, and they were gonna cook marshmallows. And Janie was telling her mom <SC>about</SC> all about college and the new boy she was seeing. But then it started to rain and they said, "<F>Oh</F> no.". Just nothing worse could have happened. And the storm started getting worse and worse. And they had to abandon their new tent in the campsite and jump in the car before this horrendous rain storm could ruin it completely. And they drove down the road a little bit, and they ended up seeing Hotel Cosmos in the lightnings, flashes of the terrible storm. And so they said, "<F>Well</F> we can salvage this trip. Let's go drink hot cocoa, and we can reminisce in the hotel.". And so <SC>they</SC> after they took showers and cleaned themselves up, they ate hot cocoa in front of the big picture window in their <?>new</?> room. And they could enjoy the scenery just as the same as if they were in the tent. So they spent the weekend, and it was great.</B>
+<A><laughter>O K, thank you very much</laughter>.</A>
+</task>
+<followup>
+<A>O K. You mentioned the rolling hills of your homeland. <F>Ur</F> any camping-type experiences? Hiking, <OL>that kind of thing</OL>?</A>
+<B><OL>Actually, yeah</OL>. <F>Ur</F> about two hours away from our hometown, there is <H pn="others13">XXX17</H>. <OL>And <R>it's</R></OL></B>
+<A><OL>I've</OL> heard of that.</A>
+<B><F>well</F> it's one of the most beautiful places I've ever been. My mom took my family one day <F>ur</F> and my friends. <SC?>They are one</SC?> it was actually like October, so it was actually too cold for us to be camping, but we decided to set up tent, and <SC>we had</SC> you know, there're like natural bridges, in the area, and there's all kinds of hiking, and <SC>it's</SC> it was falls, so all the trees, the leaves had turned colors. And it was really beautiful all night. In the morning we woke up, and it was below freezing, and we were all dying of cold, and we were trying to find firewood. <SC>And it was</SC> <SC>and we were like</SC> and a guy walked by, and <?>we went</?> "Maybe he'll burn," and he heard us and he ran away. But <R>it was</R> it was really good. My brother had just started dating a new girl, and she was with us. So <R>it was</R> it was really cool. And there were two of my friends from high school. And <SC>we got</SC> we roasted marshmallows at night <R>and</R> and <SC>hu</SC> and we hiked around. And <R>it</R> it was really cool. <SC>And that was</SC> actually, my grandfather used to take me and my brother when we were little. So we've always liked going there. <SC>That's</SC> actually I'd like to go back there sometimes. And so <R>it's</R> it's really great.</B>
+<A>Very different from around here.</A>
+<B><laughter>Very different</laughter>.</B>
+<A><laughter>Yeah</laughter>.</A>
+</followup>
+<task>
+<A>O K. One more little thing. Another sequence I need to do with you.</A>
+<B>O K.</B>
+<A>O K. In the same pattern, one to six, I'd like you to make up a story from the pictures, like this.</A>
+<B>O K.</B>
+<A><F>Ur</F> again, it happened before, so please start, "One day last week".</A>
+<B>O K. <F>Urm</F> <F>well</F> it started out with Tim driving to work. And he was, you know, kind of rushing and thinking about things going back at home. And coming in the opposite direction was Jimmy, talking on his cell phone, driving on his moped, talking to his girlfriend about what they were gonna do that night. And <R>the two</R> the two people coming opposite ways, you know, Jimmy wasn't paying attention because he was driving <SC>his</SC> you know, he's talking on his cell phone. And Tim, he decided to make a turn really fast because he was late to work. <R>And he crashed</R> he crashed into the rear end of Jimmy's scooter <F>er</F> making him drop his cell phone. And they stopped because, you know, they were both worried about what happened. And Jimmy was complaining about <SC>his</SC> now busted headlight, and Tim was like, "<F>Well</F> you were, you know, not paying attention.". So the cops come, and they're trying to explain both their sides. And so Tim explains to the officer, you know, "<F>Well</F> he was talking on his cell phone, and I had the right of way.". And so the officer sides with him, and says, "O K, you can go. Give me your insurance report.". And Jimmy has to call his friend, Moe, to <F>ur</F> come pick up his scooter and take it to the garage. And Jimmy is left on the street corner without a ride, without a cell phone, and pretty angry at the world.</B>
+<A><laughter>O K, thank you very much</laughter>.</A>
+</task>
+<followup>
+<A>O K. Now, presumably, not here, but back home, you have a car.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>I mean</OL> you can do nothing <OL>without a car</OL>.</A>
+<B><OL><SC>I</SC> it would be</OL> hard if I didn't.</B>
+<A>What is your car doing now?</A>
+<B><F>Urm</F> actually I talked to my parents last night. My dad said every once in a while, he drives my car down the road and back, just to keep it going, <?>the battery and things</?>.</B>
+<A>So you drove back <R>from</R> from <H pn="others8">XXX12</H> to <H pn="others3">XXX06</H> just to put the car there?</A>
+<B><F>Well</F> <F>urm</F> after <SC>s</SC> I took summer class this summer, and I had to move out of my apartment in <H pn="others10">XXX14</H>, and I moved everything back to <H pn="others3">XXX06</H>.</B>
+<A>O K.</A>
+<B>And <F>urm</F> yeah, I had to drive back. And then I had a few weeks at home, and all my stuff was there. And then I flew out of <H pn="others3">XXX06</H> to <F>ur</F> Washington and flew here. <CO>So</CO>.</B>
+<A>There's an airport near <H pn="others5">XXX08</H>?</A>
+<B><F>Um</F> we're thirty miles outside <H pn="others6">XXX09</H> There's an <R>inter</R> international airport there. Which means you can take a flight to another <F>ur</F> airport and get an international flight.</B>
+<A><CO>Not reallyand int</CO>.</A>
+<B>Not really.</B>
+<A>I see.</A>
+<B><CO>So</CO>.</B>
+<A>But that's not bad.</A>
+<B>No, it's not bad at all. So <F>urm</F> <SC>he's been</SC> I guess it's just sitting in our the driveway for the most part.</B>
+<A><F>Mm-hm</F>.</A>
+<B>I guess every week or so to keep it all up.</B>
+<A><SC>How</SC> <R>ha</R> have you ever had <F>ur</F> an accident or some problem with the car?</A>
+<B>Actually, <SC>the first acci</SC> <SC>a</SC> <SC>we</SC> less than a week <SC>before</SC> after I got my driver's license for the first time, I was driving with my friends, and there's a stop in my town that's kind of weird, and there's a yield sign. And every time I've been with my mom, she just quickly looked and just kept going. And so I didn't even think about stopping. And when I was halfway through the intersection, my friend yelled at me. And there was a car coming, and it pretty much hit us right where my friend was sitting in the passenger side. And it's at the top of a hill, and we pretty much almost went back down the hill in the intersection. And I had to turn the wheel, and we almost ran into a Hardy's, and <F>ur</F> it broke the axle on the curb. And it really messed <laughter>my car</laughter> up. And <SC>we</SC> all four of us were O K. And <F>um</F> I lost my car for like three months, I think, while they were fixing it. And it was like three thousand dollars of damage. And <F>urm</F> it was pretty awful. <R>We were</R> we were all unhurt. But <F>er</F> that was <OL><??></??></OL>.</B>
+<A><OL>But it</OL> didn't put you off driving.</A>
+<B>No. <SC>After that</SC> <F>urm</F> before that, I wasn't a very good driver, but <SC>it's</SC> after that, I've been <SC>s</SC> most <R>spec</R> spectacular driver <?>I think ever</?>. So <F>um</F> I've been taking care of that <?>old</?> car. It's been through a lot with <laughter>me</laughter>.</B>
+<A>Right.</A>
+<B>So, yeah.</B>
+<A>O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Well</F> we're nearly at the end of the interview now, <H pn="B's name">XXX02</H>.</A>
+<B>O K.</B>
+<A><F>Urm</F> what are your plans for the rest of the day?</A>
+<B><F>Urm</F> actually, I have no idea. I think I'm gonna go check my e-mail, and <SC>send</SC> <F>uh</F> <SC>I send like weekly</SC> <F>urr</F> whenever something happens I send <F>ar</F> e-mail journal back home, and I save them, so I'll have some kind of journal when I get back home.</B>
+<A><F>Hm</F>. <F>Hm</F>.</A>
+<B>And I'll probably write about the karaoke night this <laughter>weekend</laughter>.</B>
+<A><laughter>Sure, right</laughter>.</A>
+<B>And probably about this test, actually, too. <F>Urm</F> and I'll probably write e-mail, and after that, I'm pretty much open. Maybe go home, maybe go back to campus. I don't know.</B>
+<A>All right.</A>
+<B><??></??></B>
+<A><R>What about the</R> what about the New Year? <SC>Do you</SC> are you still in Japan for the New Year?</A>
+<B><F>Urm</F> no, I'll be going home on the twenty-first. So I'll be able to spend Christmas and New Year's at home. And then <SC>aft</SC> <SC>a few da</SC> a week after New Year's, I have to go back to college in the States.</B>
+<A>You're leaving on the twenty-first. So <R>we're</R> we're talking one week and a bit.</A>
+<B><F>Um</F> December twenty-first.</B>
+<A><F>Oh</F> December twenty-first.</A>
+<B><OL><R>So</R></OL>.</B>
+<A><OL><F>Oh</F></OL> O K. Yeah.</A>
+<B>So <SC>we ha</SC> <R>we're</R> we are winding down. It doesn't seem like it's been that long here.</B>
+<A><F>Well</F> it's nice to spend Christmas at home.</A>
+<B><F>Oh</F> definitely. I'm really excited about Christmas and New Year's at home. That'll be exciting.</B>
+<A>Sure. Sure. <F>Well</F> thank you very, very much for your time. And I hope you <F>ur</F> enjoy the rest of your stay here.</A>
+<B>Thank you very much.</B>
+<A>O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

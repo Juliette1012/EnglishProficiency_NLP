@@ -1,0 +1,217 @@
+<interview>
+<filename>E_file00514.txt</filename>
+
+<head version="1.3">
+<date>2001-06-29</date>
+<sex>female</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>755</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K. Let's get started. Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Oh</F> please.</B>
+<A>O K. Thank <OL>you</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>So, how are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Err</F> I'm very fine.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> it's a very hot day. But <F>er</F> I'm fine.</B>
+<A>O K. Do you like summer season?</A>
+<B>Yes. I like summer season. <F>Er</F> <R>I don</R> I don't like winter season because I hate cold <n_lxc odr="1" crr="weather"></n_lxc>.</B>
+<A><F>Uum</F>. So, how do you enjoy summer?</A>
+<B>Summer? <F>Err</F> <av_lxc odr="1" crr="sometimes">sometime</av_lxc>, <R>I</R> I go to <F>er</F> <at odr="2" crr="the"></at> outdoor and <SC>I watch the</SC> <F>er</F> every summer, I watch <at odr="3" crr="a">the</at> <R>ro</R> rock concert <prp_lxc1 odr="4" crr="at">in</prp_lxc1> <F>er</F> <at odr="5" crr="the"></at> outside.</B>
+<A><F>Hum</F>.</A>
+<B><F>Err</F> I <SC>en</SC> <av_pst odr="3" crr="enjoy that very much"><o_lxc odr="1" crr="very much">very</o_lxc> <v_tns odr="2" crr="enjoy">enjoyed</v_tns> that</av_pst>.</B>
+<A><F>Hum</F>. O K. Do you join the rock concert? Do you <OL>sing</OL>?</A>
+<B><OL><F>Er</F></OL> no. No. <SC>Just</SC> <F>er</F> I just watch.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>I see. <H pn="B's name">XXX02</H>, what do you do?</A>
+<B><F>Err</F> my job?</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F> <F>er</F> I used to work at <at odr="1" crr="an">a</at> entertainment company. But <F>er</F> my company is depressed recently. So <F>er</F> I thought I'd try to find <at odr="1" crr="">the</at> another way. So I quitted my job last year. And, <F>er</F> now, I get <F>err</F> <F>er</F> <R>u</R> <R>un</R> unemployment insurance.</B>
+<A><F>Hum</F>. I see.</A>
+<B>And <F>er</F> I go to school to get <at odr="1" crr="a"></at> qualification and <F>er</F> study English and some other languages.</B>
+<A><F>Hm</F>. O K.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>So, where do you live?</A>
+<B><F>Er</F> I live in <F>er</F> <H pn="others1">XXX03</H> Prefecture, <F>err</F> <at odr="1" crr="a"></at> city called <F>ur</F> <H pn="others2">XXX04</H> with my parents. <F>Err</F> it's <at odr="1" crr="the">a</at> <F>well</F> <n_lxc odr="2" crr="country">country place</n_lxc>.</B>
+<A><F>Hm</F>.</A>
+<B>It takes <F>er</F> two hours from my home to here.</B>
+<A>I see. So, how do you get here?</A>
+<B><F>Er</F> I use <F>er</F> <at odr="1" crr="the"></at> <H pn="others3">XXX05</H> Line.</B>
+<A><F>Hm</F>.</A>
+<B><F>Err</F> <R>I</R> <R>I go to</R> <F>er</F> I go to <at odr="1" crr="the"></at> station by <F>err</F> <at odr="2" crr="a"></at> scooter.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>er</F> it takes <F>er</F> about <F>er</F> twenty minutes.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>er</F> <F>er</F> <R>from</R> <F>er</F> <SC>from my home</SC> <F>er</F> from <at odr="1" crr="the"></at> station to <F>uu</F> here <F>err</F> it takes <F>err</F> <R>one hour</R> one hour <F>er</F> <prp_lxc1 odr="2" crr="by">on</prp_lxc1> <F>er</F> <at odr="3" crr="the"></at> <R><H pn="others3">XXX05</H></R> <H pn="others3">XXX05</H> Line.</B>
+<A><F>Hm</F>.</A>
+<B>And I <v_tns odr="1" crr="change">changed</v_tns> <at odr="3" crr="">the</at> <n_num odr="2" crr="trains">train</n_num> <F>err</F> <prp_lxc2 odr="4" crr="to"></prp_lxc2> <at odr="5" crr="the"></at> <H pn="others4">XXX06</H> Line, and <F>er</F> also, <v_tns odr="6" crr="change">changed</v_tns> <F>er</F> <prp_lxc2 odr="7" crr="to"></prp_lxc2> <at odr="8" crr="the"></at> subway.</B>
+<A><F>Hm</F>.</A>
+<B>So, <F>er</F> about <F>er</F> one hour <con_lxc odr="1" crr="and"></con_lxc> thirty minutes.</B>
+<A><F>Um</F>. O K. So, on the train,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>what do you usually do?</A>
+<B><F>Err</F> I usually read <at odr="1" crr="a">the</at> newspaper or books.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> books about <F>err</F> <R>tra</R> <F>er</F> travel guide books <SC>or</SC> and <F>er</F> sometimes novels.</B>
+<A><F>Mh-hmm</F>. Why travel <n_num odr="1" crr="books">book</n_num>?</A>
+<B><F>Err</F> because <F>err</F> <R>I</R> I want to <o_lxc odr="1" crr="take a journey" crr2="make a journey">go abroad</o_lxc>.</B>
+<A><F>Hum</F>.</A>
+<B><SC>I want to go to jour</SC> I want to go journey.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>Ma</SC> <F>mm</F> there are many <n_num odr="1" crr="countires">country</n_num> <F>err</F> I want to go.</B>
+<A>For example?</A>
+<B><F>Er</F> first, <F>err</F> I want to go to Russia.</B>
+<A><F>Hum</F>.</A>
+<B>And <F>err</F> also, <R>I</R> <R>I'm</R> I'm interested in <F>er</F> Middle East country <F>er</F> like <F>er</F> Turkey, <R>I</R> Iran, <con_lxc odr="1" crr="and"></con_lxc> Pakistan. <F>Er</F> <SC>I</SC> recently, I'm <R>i</R> interested in Islamic <n_num odr="1" crr="countries">country</n_num>.</B>
+<A><F>Um</F> why are you interested in these countries?</A>
+<B><F>Err</F> because <F>err</F> <R>Islamic co</R> Islamic countries' identity is <F>err</F> opposite to <F>er</F> Western and American identity. So <F>ur</F> <R>I like</R> I like America, but <F>er</F> recently, I want to know about <F>err</F> <.></.> <SC>another country</SC> <F>err</F> <JP><F>ano</F></JP> <F>err</F> <SC>American and <F>er</F> European</SC> <at odr="3" crr="the" ch="2"></at> <aj_lxc odr="2" crr="other">another</aj_lxc> <n_lxc odr="1" crr="countries"></n_lxc> <.></.> from <R>Am</R> American and European countries <prp_lxc1 odr="4" crr="to">like</prp_lxc1> <aj_lxc odr="5" crr="Asian">Asia</aj_lxc>, Middle <aj_lxc odr="6" crr="Eastern">East</aj_lxc>, <con_lxc odr="7" crr="and"></con_lxc> Islamic countries.</B>
+<A>O K. Thank you.</A>
+<B>Yeah.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. <H pn="B's name">XXX02</H>, I'll show you this picture. Please describe it for me.</A>
+<B><F>Err</F> I think it's <F>er</F> <F>uum</F> <at odr="1" crr="a"></at> kind of party. Or <F>er</F> <F>err</F> <F>er</F> <R>maybe</R> maybe a restaurant. And <F>er</F> they are <F>er</F> <o_odr odr="1" crr="husbands and wives">wives and husbands</o_odr>. <F>Err</F> I think they <v_tns odr="2" crr="are celebrating"><v_vo odr="1" crr="celebrate">are celebrated</v_vo></v_tns> a kind of anniversary <R>like</R> like <F>err</F> <pn_lxc odr="3" crr="their"></pn_lxc> wedding anniversary. And <F>er</F> they ordered <F>err</F> wine. And <F>er</F> they start eating dinner. And <F>er</F> <SC>it's a <F>er</F> high-quali</SC> I think it's a <aj_lxc odr="1" crr="classy">high-quality restaurant</aj_lxc>. So <F>err</F> <F>er</F> many rich <laughter><n_num odr="1" crr="customers">customer</n_num></laughter> <F>err</F> <mo_lxc odr="2" crr="are"></mo_lxc> eating and <v_fml odr="3" crr="enjoying">enjoy</v_fml> their dinners. And <F>er</F> <F>er</F> <SC>he</SC> <R>she</R> she <v_agr odr="1" crr="plays">play</v_agr> <at odr="2" crr="the"></at> piano.</B>
+<A><F>Um</F>. <OL>O K</OL>.</A>
+<B><CO><OL>And</OL></CO>. <F>Mh-hmm</F>.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>So, <H pn="B's name">XXX02</H>, have you ever joined an anniversary or <at odr="1" crr="a"></at> party like this?</A>
+<B><F>Err</F> <CO><SC>I</SC> sometimes <R>I</R> I go to <F>er</F> my friend's wedding or</CO>. <.></.> Yeah. <OL><F>Er</F></OL>.</B>
+<A><OL>O K</OL>. Tell me <prp_lxc1 odr="1" crr="about"></prp_lxc1> <at odr="2" crr="the"></at> last time you went to this kind of party.</A>
+<B>Last time? <F>Err</F> I went to <F>err</F> <at odr="1" crr="a"></at> wedding party <F>er</F> of my university friend. <F>Err</F> <SC>It's a</SC> <.></.> <F>err</F> <F>mm</F> <F>mm</F> <F>mm</F> <F>mm</F> <F>mm</F> <SC>he</SC> <F>er</F> <R>I</R> <SC>I jo</SC> I <v_tns odr="2" crr="joined">'m <R>join</R> <v_fml odr="1" crr="joining">join</v_fml></v_tns> <o_uk odr="3" crr="that party">there</o_uk> <av_lxc odr="4" crr="together">with</av_lxc> <F>err</F> <SC>c</SC> <F>err</F> <at odr="5" crr="a"></at> kind of <F>er</F> <R>clu</R> <o_lxc odr="6" crr="club members">club</o_lxc> <F>err</F> at the university. So <F>er</F> <SC>they are</SC> <pn_lxc odr="1" crr="we">they</pn_lxc> <v_tns odr="2" crr="had">have</v_tns> a party <prp_lxc1 odr="3" crr="at">in</prp_lxc1> <F>er</F> <at odr="4" crr="a"></at> <o_uk odr="5" crr="restaurant in Shibuya">Shibuya restaurant</o_uk>. And <F>er</F> <SC>it</SC> <R>there were</R> there were many people coming. And <F>er</F> it's a <SC>very</SC> <F>er</F> kind of <R>nice</R> nice party,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>I think</SC></B>
+<A><F>Hm</F>.</A>
+<B>I thought.</B>
+<A>O K. Did you <SC>join</SC> <F>eh</F> <F>uh</F> enjoy the party very much?</A>
+<B><F>Er</F> yes. <OL><F>Er</F></OL>.</B>
+<A><OL><F>Hm</F></OL>. That's good. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So I'll give you this card.</A>
+<B><F>Hm</F>.</B>
+<A>So, please read it <prp_lxc2 odr="1" crr="to"></prp_lxc2> yourself. And, when you are ready,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>I'll start. This is a telephone conversation.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>O K?</A>
+<B><F>Mh-hmm</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Are you ready?</A>
+<B><F>Hm</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Mm</F>.</B>
+<A>O K? Are you ready? <F>Hm</F>. Hello? This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Er</F> this is <H pn="B's name">XXX02</H> speaking.</B>
+<A>Hi. <H pn="B's name">XXX02</H>.</A>
+<B>Hi. <F>Err</F> <F>err</F> <SC>I'm sorry to</SC> <nvs>cough</nvs> I'm sorry <F>err</F> not to go to your dinner party. <F>Err</F> <R>because</R> <F>er</F> <F>err</F> because I have <at odr="1" crr="an">a</at> exam soon. So <R>I</R> I must study. Because <R>I</R> <R>I</R> I need to <F>er</F> get <at odr="1" crr="a"></at> qualification.</B>
+<A><F>Hm</F>.</A>
+<B>So, <F>err</F> now, I'm studying very hard.</B>
+<A>But you should have called us. We were all waiting for you for hours.</A>
+<B><F>Er</F> <F>oh</F> really? <F>Ur</F> I <v_lxc odr="1" crr="am"></v_lxc> terribly sorry. <F>Er</F> <R>I</R> I <v_tns odr="1" crr="sent">send</v_tns> <at odr="2" crr="an">a</at> E-mail but <F>er</F> <R>you</R> <R>you</R> you can't get my E-mail? <F>Uh</F>.</B>
+<A>I'm sorry. But <F>er</F> my computer</A>
+<B><F>Mh-hmm</F>.</B>
+<A>is broken now.</A>
+<B><F>Oh</F> really?</B>
+<A><F>Um</F>.</A>
+<B><F>Oh</F> I didn't know. <F>Er</F> <SC>I get</SC> <SC>I send a E-mail but</SC> I sent <at odr="1" crr="an">a</at> E-mail, but <R>I</R> I should <v_tns odr="2" crr="have called">call</v_tns> you. I <v_lxc odr="1" crr="am"></v_lxc> terribly sorry.</B>
+<A>But, actually,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>it was <at odr="2" crr="a" ch="1"></at> <o_uk odr="1" crr="surprise party for you">your surprise party</o_uk>.</A>
+<B><laughter><F>Oh</F> really</laughter>?</B>
+<A>So many friends visited my house, and we were all waiting for you.</A>
+<B><F>Oh</F> really?</B>
+<A>Yes.</A>
+<B><F>Oh</F> <R>I</R> <SC>I really don</SC> I really didn't <v_cmp odr="1" crr="know that">know</v_cmp>. <F>Erm</F> sorry. <F>Erm</F> <SC>I</SC> <F>er</F> <R>if</R> <SC>if you</SC> <F>er</F> if I can, <F>er</F> <nvs>laughter</nvs> <SC>I go to</SC> <R>I</R> <SC>I can</SC> <SC>I co</SC> I go to the party <av_lxc odr="1" crr="now">from now</av_lxc>. <.></.> <CO>Could</CO>.</B>
+<A>But <at odr="1" crr="the"></at> party was over. <nvs>laughter</nvs></A>
+<B><F>Oh</F> really? <CO>But</CO>. <F>Er</F>.</B>
+<A>It <v_tns odr="1" crr="was">'s</v_tns> yesterday.</A>
+<B><laughter><F>Er</F></laughter> really? <F>Err</F> so <F>er</F> terribly sorry. <F>Err</F> so <F>erm</F> <R>I have</R> <F>er</F> I <v_tns odr="1" crr="will have">have</v_tns> another party <R>for <laughter>you</R></laughter> for you.</B>
+<A>O K.</A>
+<B><.></.> And <F>er</F> <.></.> <R>I</R> <R>I plan</R> <R>I plan</R> I <v_tns odr="1" crr="will plan">plan</v_tns> it.</B>
+<A><F>Um</F>.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>O K</OL>. O K. Thank you for calling.</A>
+<B>Thank you.</B>
+<A>O K.</A>
+<B><OL><?>Dreadful</?></OL>.</B>
+<A><OL>That's the</OL> <laughter>end of the role play</laughter>. <laughter>Thank you, <H pn="B's name">XXX02</H></laughter>.</A>
+</task>
+<followup>
+<A>So, have you ever apologized to somebody like this?</A>
+<B><F>Err</F> yes. <R>I</R> I think so. <F>Er</F> once or twice. <OL><F>Hm</F> <F>mm</F></OL>.</B>
+<A><OL>O K</OL>. Tell me the last occasion you had.</A>
+<B><F>Err</F> <JP>soune</JP>. <F>Er</F>. <.></.> <F>Er</F> <R>occa</R> occasion?</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F> <R>I</R> <R>I must</R> <F>err</F> <SC>I must go to</SC> <F>er</F> I promised <F>err</F> my friend, and <F>er</F> <.></.> <F>er</F> <R>there were a concert</R> there <v_agr odr="1" crr="was">were</v_agr> a concert. So <R>I</R> <R>I should</R> I should <v_tns odr="1" crr="have been">go</v_tns> <.></.> there on time. But <F>er</F> I was <aj_lxc odr="1" crr="late">delayed</aj_lxc> <o_uk odr="2" crr="">the time</o_uk> because <F>er</F> I forgot <o_uk odr="3" crr="to bring"></o_uk> my wallet. So <F>er</F> <R>I del</R> I <o_lxc odr="1" crr="was late">delayed</o_lxc> <F>er</F> <SC>thirty minutes</SC> <prp_lxc1 odr="2" crr="for"></prp_lxc1> about thirty minutes. So <F>er</F> I called <F>er</F> <o_odr odr="2" crr="to my friend from my cellular phone"><prp_lxc1 odr="1" crr="from"></prp_lxc1> my cellular phone to my friend</o_odr>. I apologized.</B>
+<A><F>Um</F>. What did your friend say to you?</A>
+<B><F>Errm</F> <R>sh</R> <R>sh</R> she <F>er</F> <R>sh</R> she <F>er</F> already entered the hall, and she enjoyed <at odr="1" crr="the"></at> concert already. So <F>mm</F> <R>sh</R> she <F>er</F> <v_tns odr="1" crr="forgave">forgive</v_tns> me.</B>
+<A>O K.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>That's good. O K.</A>
+<B><F>Hm</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><SC?>The</SC?> lastly, I'll show you another picture. This is a sequence of <n_num odr="1" crr="pictures">picture</n_num>.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>And this happened before. So, please make up your own story using these pictures from one to six.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>O K?</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Start with "One day last week".</A>
+<B><F>Oh</F> <F>err</F> <R>In a</R> <F>err</F> in a holiday, <F>er</F> <R>he is</R> he <v_tns odr="1" crr="was driving">is driving</v_tns> his car. <nvs>laughter</nvs> And <F>er</F> <.></.> <F>oh</F> <F>err</F> <SC>another man</SC> <F>er</F> <SC>they are</SC> <SC>she</SC> <F>er</F> he <v_tns odr="1" crr="promised">promise</v_tns> <pn_agr odr="2" crr="his">their</pn_agr> girlfriend, and <F>er</F> <R>he go</R> he <v_tns odr="3" crr="went">go</v_tns> to her place. And <F>eh</F> <R>he <F>er</F> call</R> <SC>he call her</SC> he <v_tns odr="1" crr="called">call</v_tns> his girlfriend <prp_lxc1 odr="2" crr="from">at</prp_lxc1> a cellular phone. But <F>err</F> <F>er</F> they <v_tns odr="2" crr="were collided"><v_vo odr="1" crr="collide">are collided</v_vo></v_tns>. <F>Err</F>. <.></.> They <v_tns odr="1" crr="had">have</v_tns> a trouble. So, <F>err</F> the motorbike man's <F>er</F> cellular phone was broken. And <F>er</F> <R>they claimed</R> <F>err</F> <.></.> <pn_agr odr="1" crr="he">they</pn_agr> <v_cmp odr="3" crr="complained that the bike and the cellular phone was broken"><v_lxc odr="2" crr="complained">claimed</v_lxc> about the bike and <at odr="4" crr="the"></at> cellular phone <v_tns odr="6" crr="were"><v_agr odr="5" crr="are">'s</v_agr></v_tns> broken</v_cmp>. <F>Er</F> but <F>err</F> <F>er</F> <.></.> <F>er</F> <SC>another man say</SC> <at odr="2" crr="the" ch="1"></at> <aj_lxc odr="1" crr="other">another</aj_lxc> man said <F>er</F> it's <F>er</F> his fault. So <F>er</F> <at odr="1" crr="a"></at> policeman <R>came</R> came to listen <prp_lxc2 odr="2" crr="to"></prp_lxc2> them. <F>Err</F>. <.></.> <SC>The man</SC> <F>err</F> <R>another man</R> <F>er</F> <.></.> <F>err</F> <at odr="2" crr="the" ch="1"></at> <aj_lxc odr="1" crr="other">another</aj_lxc> man said <F>er</F> "His fault. <R>I'm not</R> <o_uk odr="1" crr="it's not my fault">I'm not <.></.> fault</o_uk>.". So <F>er</F> <F>err</F> motorbike man <F>err</F> <.></.> <F>err</F> <v_lxc odr="2" crr="admitted"><v_tns odr="1" crr="permitted">permit</v_tns></v_lxc> that. So <F>er</F> they <R>gave up</R> <v_cmp odr="1" crr="gave up the cellular phone">gave up with <at odr="2" crr="the"></at> cellular phone</v_cmp> and the bike. <OL><CO>And</CO></OL>.</B>
+<A><OL><??></??></OL>. O K.</A>
+</task>
+<followup>
+<A>So, <H pn="B's name">XXX02</H>,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>do you drive a car?</A>
+<B><F>Er</F> yes.</B>
+<A>So, when <F>eh</F> driving, what do you do for <n_lxc odr="1" crr="safety">safety driving</n_lxc>?</A>
+<B><F>Hmm</F>. I just <F>err</F> watch <at odr="1" crr="">the</at> <laughter><o_odr odr="2" crr="right and left">left and right</o_odr></laughter>, and, <F>er</F> of course, <at odr="3" crr="the"></at> back <R>and</R> and <F>er</F> <.></.> <SC>not</SC> <F>er</F> <R>I'm</R> <SC>I'm not</SC> <SC>I'm</SC> I try to drive <F>uu</F> <F>er</F> <R>s</R> slowly, <R>not</R> <SC>not fast</SC> <.></.> not too fast.</B>
+<A><F>Hm</F>.</A>
+<B>And, <F>er</F> <.></.> yeah, I <R>a</R> always <F>er</F> <SC>watch the</SC> watch around my car carefully.</B>
+<A><F>Hm</F>. You must be a pretty good driver. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A><at odr="1" crr="The"></at> <cap odr="2" crr="interview" ch="1">Interview</cap> is almost over. Do you have any <n_num odr="1" crr="plans">plan</n_num> after this interview?</A>
+<B><F>Err</F> especially, no.</B>
+<A>So, have you finished your dinner <SC>yet</SC> already?</A>
+<B><F>Uum</F>. I had a light meal.</B>
+<A><F>Uum</F>.</A>
+<B><at odr="1" crr="A"></at> <cap odr="2" crr="kind" ch="1">Kind</cap> of <R>hot</R> <n_num odr="3" crr="hotdog">hotdogs</n_num>.</B>
+<A><F>Er</F> I see. So, after that, <F>er</F> are you going back home straight?</A>
+<B><F>Er</F> yes.</B>
+<A><F>Um</F>.</A>
+<B><R>I</R> I think so.</B>
+<A>O K. Thank you very much for coming in today. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

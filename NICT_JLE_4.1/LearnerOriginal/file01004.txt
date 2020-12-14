@@ -1,0 +1,269 @@
+<interview>
+<filename>file01004.txt</filename>
+
+<head version="1.3">
+<date>2002-03-25</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>800</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K?</A>
+<B>Yes.</B>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. O K.</B>
+<A>O K, <H pn="B's name">XXX02</H>.</A>
+<B>Yeah.</B>
+<A>Where do you live?</A>
+<B>In <H pn="others1">XXX03</H> Prefecture.</B>
+<A><F>Hmm</F>. What part in <H pn="others1">XXX03</H>?</A>
+<B>Excuse me?</B>
+<A>What part in <H pn="others1">XXX03</H>?</A>
+<B><F>Ah</F> <F>well</F> <H pn="others1">XXX03</H> City of <H pn="others1">XXX03</H> Prefecture.</B>
+<A><F>Hmm</F>. Can you tell me more about your <SC>town</SC> city?</A>
+<B><F>Well</F>. <nvs>cough</nvs> <F>Well</F> <F>well</F> <F>mm</F> let's me see. O K. <F>Er</F> my nearest <F>er</F> station is <H pn="others2">XXX04</H> of <R>S</R> <SC><H pn="others3">XXX05</H> Line</SC> J R <H pn="others3">XXX05</H> Line.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <F>er</F> my home is, <F>well</F> it's takes five minutes walking.</B>
+<A><F>Hmm</F>.</A>
+<B><R>From</R> <F>er</F> from the station to my home.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <F>er</F> <F>well</F> <F>mmm</F> <F>mmm</F> sorry, <SC>I don't</SC> <SC>excuse me</SC> let me see. <F>Well</F> <F>mm</F> <F>ah</F> excuse me, <F>ah</F> <SC>s</SC> what I need to express?</B>
+<A>Anything about <OL>your town <nvs>laughter</nvs></OL>.</A>
+<B><OL><SC>Ne</SC></OL> <R>anything</R>? <OL>Anything</OL>?</B>
+<A><OL><SC>Do you have any</SC></OL> <F>erm</F> how about your favorite place in your town?</A>
+<B><F>Oh</F> I see. <nvs>laughter</nvs> My favorite <F>ah</F> place is <F>er</F> <F>well</F> bar.</B>
+<A><F>Hmm</F>.</A>
+<B>Pub. <F>Ah</F>. <SC>Nearest</SC> really near to <F>er</F> <R>m</R> <H pn="others2">XXX04</H> Station. And <nvs>cough</nvs> <F>well</F> <R>I</R> I go to <R>drinking</R> drinking there by <F>mmm</F> one or <SC>two</SC> twice in a week.</B>
+<A><F>Hmm</F>.</A>
+<B>Yes.</B>
+<A>What do you like about the pub?</A>
+<B><F>Well</F> <F>mmm</F> <.></.> <F>well</F> <F>well</F> <R>I like</R> <nvs>cough</nvs> I like <F>er</F> <F>well</F> <R>the place</R> <SC>the place</SC> <F>ah</F> <SC>pub is</SC> the place I like is <F>er</F> very quiet and <SC>very</SC> <F>mm</F> sorry, I don't know it's a <R>correct</R> correct <F>er</F> expression but <F>er</F> with <R>thick</R> thick situation. <F>Er</F> <F>well</F> very good place to have a <R>convers</R> conversation <R>with</R> <F>er</F> with others about the personal an items or business item.</B>
+<A><F>Hmm</F>.</A>
+<B>Both is O K.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>And <F>er</F> do you live in <H pn="others1">XXX03</H> with your family?</A>
+<B>Yes. <F>Hmm</F>. I live in <H pn="others1">XXX03</H> with <nvs>cough</nvs> my wife and a son.</B>
+<A><F>Hmm</F>. Can you tell me about your son?</A>
+<B><laughter>Yes</laughter>. He was born <F>er</F> <R>last</R> last September.</B>
+<A><F>Hmm</F>.</A>
+<B>And <F>er</F> he is <F>er</F> fat. <..></..> <F>Well</F> <R>seven</R> <SC>seven <R>month</R></SC> <SC>month</SC> seven month age. <F>Ah</F>. Sorry, I don't know how to express but <F>er</F> <F>well</F> <R>he</R> he was born <F>er</F> last September.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Yeah</OL>. And <SC>let's</SC> <R>he</R> he <SC>beco</SC> get <F>er</F> noisier and noisier <SC>in</SC> by everyday.</B>
+<A><nvs>laughter</nvs></A>
+<B>So <R>I can't</R> I can't <R>s</R> sleep <F>well</F>.</B>
+<A><F>Ah</F> <OL>I see</OL>.</A>
+<B><OL><SC>Everyday</SC></OL> everynight.</B>
+<A>Maybe your wife is pretty busy now. <CO><OL>So</OL></CO>.</A>
+<B><OL>Excuse me</OL>? Yeah?</B>
+<A>Your wife is pretty busy now. So</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>what</OL> kind of things do you do to help your wife?</A>
+<B>Yes. <F>Well</F> <F>mmm</F> <F>well</F> I help her <SC>cooking for</SC> <F>ah</F> <SC>dish</SC> washing dish and <F>er</F> sometimes <R>I</R> I clean the house.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>By myself</OL>.</B>
+<A><nvs>laughter</nvs> Sounds like you are good husband. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs> <F>Well</F> I hope so</OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now, I'm going to show you a picture.</A>
+<B>Yeah.</B>
+<A>And please describe this picture.</A>
+<B><F>Ah-ha</F>. <.></.> All about this picture?</B>
+<A><F>Mmm</F>. Anything about the picture.</A>
+<B><F>Ah-ha</F> <F>well</F> <F>mmm</F>. This picture which place the <??></??> <SC>this ski</SC> <SC>ski</SC> <SC>i</SC> <SC>ski</SC> <F>mm</F> <SC>ski place</SC> ski mountain. I don't know how to say but, <F>er</F> <F>well</F> <nvs>cough</nvs> so <R>many</R> many people <F>er</F> playing a ski or playing a snowboard. Or <SC>I don't know to</SC> I don't know this play.</B>
+<A><F>Mmm</F>. <OL><?>Just a picture</?></OL>.</A>
+<B><OL>Please tell me your</OL> <SC>lai</SC> <F>ah</F> <R>s</R> <laughter>snowboard</laughter>? <OL>I don't know</OL>.</B>
+<A><OL>O K</OL>. <CO>I think yeah</CO>.</A>
+<B>Snowboard?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> and <F>er</F> <F>mm</F> <SC>some people</SC> <F>ah</F> sorry, two people, maybe I think it's a couple, <R>this couple are</R> this couple are <F>ah</F> drinking a coffee. And having a conversation. <R>And</R> <F>er</F> <F>well</F> and <F>er</F> <F>er</F> <.></.> on the other side, <R>And</R> and <R>the</R> <SC>the person</SC> there are many person playing a ski. <SC>And</SC> but <R>so</R> some of them are <.></.> <F>ah</F> sorry, not some, <F>ah</F> <SC>one person <R>is</R> is <F>er</F> <F>mm</F> <nvs>cough</nvs> just</SC> <F>er</F> <F>er</F> <F>er</F> <F>well</F> <laughter>one person</laughter> of them <SC>are</SC> is playing a snowboard. <R>He is</R> he is playing a <R>sno</R> <R>snowboard</R> <F>ah</F> <R>s</R> snowboard very <F>well</F>.</B>
+<A><F>Mh-hmm</F>. <OL><F>Ah</F> that's O K <nvs>laughter</nvs></OL></A>
+<B><OL>And <laughter><F>er</F></laughter></OL></B>
+<A>Thank you very much.</A>
+<B><F>Er</F> sorry.</B>
+</task>
+<followup>
+<A>Do you like winter sports?</A>
+<B>No. I don't like this winter sports.</B>
+<A><F>Ah</F>. <nvs>laughter</nvs> Why not?</A>
+<B>Because of when I was a university student</B>
+<A><F>Hm-hmm</F>.</A>
+<B>I went to <F>er</F> ski one time.</B>
+<A><F>Hmm</F>.</A>
+<B>And <F>er</F> <SC>it's</SC> <SC>that's a</SC> that was a first time to play ski.</B>
+<A><F>Hm-hmm</F>.</A>
+<B><R>And</R> <F>er</F> and <F>er</F> the first day, <F>er</F> <R>I</R> I got customed to <R>playing a ski</R> <F>er</F> playing a ski, I thought <SC>by</SC> of myself.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><R>But</R></OL> but <F>ah</F> at night, <F>er</F> <F>er</F> <R>I wen</R> I went <SC>with ski</SC> <SC>with my</SC> <F>er</F> <SC>my</SC> with my friends. And <F>er</F> the one of them <F>er</F> <SC>talk to</SC> <F>er</F> talked just <F>er</F> <F>well</F> <R>ta</R> talked at the top of mountain. <F>Er</F> <R>he</R> he talked that <F>er</F> <R>we</R> <R>we</R> we would <SC>gathered <F>er</F> at the</SC> <F>er</F> <SC>like a s</SC> <F>ah</F> stand at the bottom of mountain.</B>
+<A><F>Hm-hmm</F>.</A>
+<B><SC>So</SC> <R>and</R> <F>er</F> and <SC>we are</SC> <R>we</R> <R>we</R> <SC>we will go to</SC> we went to <F>er</F> by ourselves. <F>Er</F> went to the <F>er</F> stand.</B>
+<A><F>Hm-hmm</F>.</A>
+<B>And <F>er</F> I thought of myself <F>er</F> <R>getting</R> getting better and better. And so <F>er</F> just <SC>I</SC> <F>well</F> <SC>I can</SC> I misunderstand myself. "<R>I</R> <SC>I good</SC> I am a good skier.". <SC>So</SC> but <F>er</F> I drop from the hill.</B>
+<A><F>Hm-hmm</F>. <nvs>laughter</nvs>.</A>
+<B>And <F>er</F> I break my <F>er</F> bone</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>of here</OL> and here and here. So all of <R>four</R> four point.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah. <OL>So</OL></B>
+<A><OL>Terrible</OL>.</A>
+<B>so <R>I</R> I'm hate winter sports.</B>
+<A>I understand. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Ah</F></OL> thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, I would like to try a role-play.</A>
+<B>Yeah.</B>
+<A>O K. Please read this. And when you are ready, I will start.</A>
+<B><F>Ah-ha</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>Maybe, but I have a question.</B>
+<A>Sure.</A>
+<B><F>Ah</F> where is here? At the station?</B>
+<A>Station.</A>
+<B><F>Ah</F> I <OL>see</OL>.</B>
+<A><OL>O K</OL>. May I help you?</A>
+<B>Yes. <F>Ah</F> I would like to <F>er</F> go to New York.</B>
+<A><F>Hm-hmm</F>.</A>
+<B>But I don't know <R>how to</R> how to get to New York. So <R>please tell me</R> <F>er</F> please tell me <R>how much</R> how much money <F>er</F> I need <R>to</R> to buy a ticket to the New York. <CO>And</CO>. <OL><F>Er</F></OL>.</B>
+<A><OL><F>Hmm</F></OL>. It depends on the trains. We have many trains.</A>
+<B><F>Oh</F> I see. So <F>well</F> <R>I wo</R> I would like to go to the <F>er</F> fastest one.</B>
+<A><F>Hm-hmm</F>. We have super-express <OL>train</OL>.</A>
+<B><OL><R>Yeah</R></OL>. Yeah. So how much and what time is it <SC>a</SC> <R>sta</R> starting time to the New York City <SC>that</SC> <SC>the</SC> <F>ah</F> <SC>that plane</SC> that train?</B>
+<A>The super-express.</A>
+<B>Yeah.</B>
+<A><F>Erm</F>. <OL><??></??></OL></A>
+<B>What <OL>time is a</OL> super-express leave?</B>
+<A>In fifteen minutes.</A>
+<B><F>Oh</F>.</B>
+<A><OL>From now</OL>.</A>
+<B><OL>I see</OL>. <SC>Fi</SC> just fifteen <OL>minutes</OL>?</B>
+<A><OL><R>In fi</R></OL> in <OL>fifteen minutes</OL>.</A>
+<B><OL><F>Oh</F></OL> sounds good.</B>
+<A>It leaves.</A>
+<B>So <F>well</F> O K. <F>Er</F>. What time is a next <F>ah</F> super express?</B>
+<A><F>Ah</F>. You have to wait for one hour.</A>
+<B>One hour? <F>Oh</F>. My god. So <F>well</F>.</B>
+<A>So you should get <F>er</F> <R>next</R> <F>er</F> next one.</A>
+<B>Really?</B>
+<A><SC>It</SC> yeah, it leaves in fifteen minutes.</A>
+<B><F>Ah-ha</F>. <F>Oh</F> I see. <R>So</R> <R>so</R> <F>so</F> so <F>well</F> <R>how much</R> <F>er</F> how much money <F>er</F> do I need <OL>to buy it</OL>.</B>
+<A><OL>Two hundred dollars</OL>.</A>
+<B>Two hundred dollars. <F>Mmm</F>. <F>Mmm</F>. That is that. So <F>well</F> O K. I would like to buy the ticket. So where is the ticket machine?</B>
+<A><F>Oh</F>. <laughter>I sell ticket</laughter>.</A>
+<B><F>Oh</F>. I see. So, O K, just two hundred dollars?</B>
+<A>Yes.</A>
+<B><ctxt>The examinee is gesturing</ctxt>.</B>
+<A><nvs>laughter</nvs></A>
+<B>O K?</B>
+<A>O K. Thank you very much. Here is <OL>your ticket</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>And have a nice to trip to <OL>New York</OL>.</A>
+<B><OL><F>Ah</F> thank you</OL>.</B>
+<A>Thank you <OL>very much</OL>.</A>
+<B><OL>Thank you</OL>. See you.</B>
+</task>
+<followup>
+
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. This is the end of the role-play. O K. Now <SC>I would try</SC> I would like to give you another picture.</A>
+<B><F>Ah-ha</F>.</B>
+<A>O K. This is the picture story. And this happened last week.</A>
+<B>Last week. <F>Mh-hmm</F>.</B>
+<A>So please make a story and start with "One day last week".</A>
+<B><F>Ah-ha</F>.</B>
+<A>O K. Please start from here like this.</A>
+<ctxt>The examinee is looking at the picture.</ctxt>
+<A>O K. Start.</A>
+<B><F>Ah-ha</F>. O K <..></..> <R>Yasuko</R> Yasuko, <R>she is</R> she is a housewifes. And a housewives <R>living with</R> living with <R>her</R> her husband and two sons. One day last week, <F>ah</F> <SC>he</SC> <SC>she found the no ite</SC> there is no item for cooking in refrigerator. So <R>she</R> <R>she went</R> she went shopping <F>er</F> by car to the supermarket. <R>And</R> <F>er</F> and <R>she bought</R> she bought <F>er</F> <R>some of</R> some of <F>er</F> item for cooking. <R>And</R> <F>er</F> and <.></.> cooking. <R>And</R> <R>and ju</R> and just day <F>er</F> <R>the</R> <R>the</R> <F>mm</F> <SC>the curry</SC> instant curry rue is on sale. So she bought two of them. <SC>And the</SC> <R>and</R> and she boughts <F>er</F> all of them. <R>And</R> <F>er</F> and <SC>she ke</SC> <R>she</R> she <SC>put into her car</SC> <F>ah</F> put them into her car. And after that, <F>er</F> <SC>he went back</SC> <SC>he</SC> <F>mm</F> <F>ah</F> <SC>so</SC> she went home. After she went home, <SC>she ha</SC> she made a <R>co</R> cooking for her family. <OL>That's it</OL>.</B>
+<A><OL><F>Hmm</F></OL>. O K. Thank you very much.</A>
+<B><F>Oh</F>. <CO>It's very difficult to</CO>. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>You said you</OL> sometimes cook <R>for your</R> for your wife, right?</A>
+<B>Yeah.</B>
+<A><F>Mh-hmm</F>. When you do that,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>what do you consider?</A>
+<B>Excuse me? What? Excuse me? Pardon?</B>
+<A><F>Oh</F>. When you cook something for your wife.</A>
+<B><F>Oh</F>. Yeah. <F>Ah-ha</F>.</B>
+<A>How do you decide what to cook?</A>
+<B><F>Mmm</F>. <F>Mmm</F>. <F>Well</F>. That's simple question because <R>I</R> I can <R>cook</R> cook only curry rice. Only. So <F>mm</F> <SC>I don't needs</SC> I don't have to consider. And <R>I don't</R> I don't have to decide. Because <SC>I can only</SC> I can <F>er</F> cook only <F>er</F> curry rice.</B>
+<A><F>Mh-hmm</F>. But before cooking.</A>
+<B><F>Hmm</F>.</B>
+<A>How about grocery shopping. Do you go by yourself?</A>
+<B><R>Yes</R> yes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Maybe. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <OL>Maybe</OL>.</A>
+<B><OL><R>Maybe</R></OL> maybe. Of course <R>before</R> <SC>before my</SC> before cooking <SC>I check</SC> I will check <F>er</F> their items <F>er</F> for curry rice.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And if <F>er</F> they are ready to be cooked. <R>I</R> I would do that.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Is this a ordinary curry and rice?</A>
+<B>Yes. They are ordinary. But <F>er</F> <F>well</F> <F>er</F> but I use the item <F>er</F> <R>tuna</R> tuna <CO>instead o</CO>.</B>
+<A>Tuna?</A>
+<B>Tuna.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>instead</OL> of <F>er</F> meat.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah.</B>
+<A><F>Hmm</F>.</A>
+<B>Because <R>I</R> <F>oh</F> <SC>I</SC> my <F>er</F> <F>er</F> sorry, blood impulse <F>mm</F> sorry, <F>er</F> <F>ah</F> <SC>blood pressure</SC> <SC>pressure of blood</SC> <F>ah</F> <SC>my press</SC> my blood pressure is so high.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So <R>I</R> I have to be careful for my <F>er</F> health.</B>
+<A><laughter>I see</laughter>.</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A><OL>That's</OL> why.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. This is almost the end of the interview.</A>
+<B>Yeah.</B>
+<A>O K. Do you have any plans after work today?</A>
+<B>After work?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Well</F> just <R>I</R> <F>mmm</F> I go to my home and do my work. Because <F>er</F> <F>er</F> <F>oh</F> my son is just only <F>er</F> child and just baby.</B>
+<A><F>Mmm</F>.</A>
+<B><SC>And s</SC> and my wife cannot by herself, <F>er</F> wash his body.</B>
+<A><F>Ah</F>.</A>
+<B>So <R>I</R> <SC>I ta</SC> I must have a <R>bath</R> bath with my son and my wife.</B>
+<A><F>Ah-ha</F>. <nvs>laughter</nvs></A>
+<B>So I have to go early.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL>Yeah</OL>. <R>But</R> but <SC>I have to</SC> <F>er</F> <SC>there are much work to</SC> there are much work I have to do. <R>So</R> so <R>I</R> I go back <F>er</F> <R>with</R> with my works.</B>
+<A><F>Ah</F>. I see. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Ah</F></OL>. Yeah.</B>
+<A><OL><laughter>You are very busy person</laughter></OL>.</A>
+<B><OL><SC>Home</SC> <F>mm</F> many homework</OL>.</B>
+<A>I see. O K. Thank you very much.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>This is</OL> the end of the interview.</A>
+<B><laughter><F>Ah</F></laughter></B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

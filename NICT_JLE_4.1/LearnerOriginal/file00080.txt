@@ -1,0 +1,152 @@
+<interview>
+<filename>file00080.txt</filename>
+
+<head version="1.3">
+<date>2000-04-27</date>
+<sex>female</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>680</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B>Yes, my name is <H pn="B's name">XXX01</H>.</B>
+<A>O K, Miss <H pn="B's name">XXX01</H>, where are you from originally?</A>
+<B><F>Um</F> I'm from <H pn="others1">XXX02</H> near here.</B>
+<A><F>Oh</F> I see. <F>Oh</F>. <F>Er</F> is that place you were born?</A>
+<B>Yes, I was born in <H pn="others1">XXX02</H> and grew up <.></.> the same place.</B>
+<A>I see. Have you ever lived anywhere else besides <H pn="others1">XXX02</H>?</A>
+<B><F>Er</F> excuse me?</B>
+<A>Have you lived anywhere else?</A>
+<B><F>Er</F> no, I've never lived <OL><??></??></OL> <nvs>laughter</nvs></B>
+<A><OL><nvs>laughter</nvs></OL> So, do you like <H pn="others2">XXX03</H>?</A>
+<B>Yes, I like <H pn="others2">XXX03</H> very much.</B>
+<A>O K, right. <F>Er</F> please tell me about your hobbies.</A>
+<B>My hobby? <F>Mm</F> I like listening to music, and then go to the concert.</B>
+<A>What kind of music do you like.</A>
+<B><F>Ah</F> I like Japanese pops.</B>
+<A>O K <F>er</F> who is your favorite <F>er</F> artist?</A>
+<B>Artist? <F>er</F> my?</B>
+<A>Musician.</A>
+<B><F>Uh-huh</F>. <R>My</R> <nvs>cough</nvs> my favorite musician is "Suga Shikao". And <F>er</F> "Sakura".</B>
+<A>O K. What kind of music do they play?</A>
+<B><F>Erm</F> <F>mm</F> <R>pops</R> pop music of Japanese.</B>
+<A><F>Er</F> sad songs, happy songs?</A>
+<B><F>Ahh</F> yeah, they,</B>
+<A>Angry songs?</A>
+<B>Sometimes, <F>er</F> very <F>mm</F> slow ballads, sometimes <F>mm</F> songs make me <.></.> happy, or <R>cheer</R> cheerfully.</B>
+<A>O K, good, <F>er</F> please tell me a little about your family.</A>
+<B>Family? <F>mm</F> I have a <..></..> mother and <F>mm</F> younger brother. My father have died about twelve years ago, yes.</B>
+<A><F>Oh</F> I see. <F>er</F> what does your brother do?</A>
+<B><F>mm</F> They work at the export company and <R>he</R> <F>a</F> he works at the export company and he often visits abroad to Asia, yeah.</B>
+<A>O K. Does he enjoy his job?</A>
+<B>Yes, but he sometimes say tired or <??></??> <R>but</R> but I think he likes his job now.</B>
+<A>O K. Good. Have you been to foreign countries?</A>
+<B>Yes, <F>er</F> only travelling but I've been to the United States and <F>er</F> Bali, Hong Kong and Singapore.</B>
+<A><F>Oh</F> O K. Of all those places which place did you like most?</A>
+<B><F>Urm</F> I like San Francisco.</B>
+<A><F>Mm</F> O K. <SC>How</SC> why is that?</A>
+<B>Yeah. It's because <F>er</F> San Francisco is a very small city so I can walk around and take a subway <F>mm</F> <R>go</R> go everywhere <R>I want to</R> I want to go <F>mm</F> so there are no need to drive or take a taxi so <R>it's very</R> <.></.> <F>um</F> <SC>it's very</SC> it's easy for me to walk around the city, yeah.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K, good. Right, let me show you first picture today.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K. <F>Er</F> could you describe this picture for me?</A>
+<B><F>Uh-huh</F> O K. <F>mm</F> I think, may I make a some <R>sto</R> story?</B>
+<A>Sure.</A>
+<B><F>Ah</F> O K. <nvs>laughter</nvs> I think <F>um</F> they are couple. <F>Er</F> now <R>they celebrate</R> <F>er</F> they celebrate their <R>engagement</R> engagement at the fancy restaurant. <.></.> <F>Mm</F> the <.></.> <R>now <F>mm</F> the sommelier</R> <SC>now the sommelier</SC> <??></??> <F>mm</F> <F>a</F> now, the man try to tasting the wine. <.></.></B>
+</task>
+<followup>
+<A>O K, <F>well</F> <F>er</F> do you like this kind of restaurant?</A>
+<B><F>Mm</F> I like but I can't afford to go <SC>such a</SC> such fancy restaurant. <nvs>laughter</nvs></B>
+<A>O K, <F>oh</F>, alright.</A>
+<B>Maybe I think it's a French restaurant.</B>
+<A><F>Mm</F>. Why do you think it's a French restaurant?</A>
+<B>I think the <F>mm</F> atmosphere very wide and they use, like, knife and fork. And she dressed very gorgeous. So.</B>
+<A>Do you like French food?</A>
+<B><R>Yes</R> yes, I like.</B>
+<A>Do you have a favorite restaurant you go often?</A>
+<B>French restaurant? No, no I don't. <nvs>laughter</nvs></B>
+<A>How about any restaurant <F>er</F>, do you have a favorite restaurant?</A>
+<B>Yes, <F>er</F> I like Mexican food so <F>mm</F> I know two or three nice Mexican restaurants.</B>
+<A>O K. In that case, can you compare one of those Mexican restaurants with this restaurant?</A>
+<B><F>er</F> I like the very casual atmosphere to eat something or <R>have</R> <F>mm</F> have dinner, so <F>mm</F> <F>mm</F> once in the year <F>mm</F> <F>er</F> <R>I</R> I think <R>it's good</R> it' s good at <SC>go to the such</SC> <SC>go to these</SC> go to such a fancy restaurant once in a year, it's good. But always go to these restaurants, I don't like it.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Right, thank you. <.></.> Now let's do <R>a</R> a role-play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K. Here, this one. Please take a look. When you are ready I'll begin the role-play.</A>
+<B>O K.</B>
+<ctxt>The examinee is looking at the card and thinking of what to say.</ctxt>
+<B>O K, I'm ready.</B>
+<A>O K, right, <F>er</F> yes ma'am, may I help you?</A>
+<B>Yes <F>erm</F> I bought this dress yesterday but it's not fit me so <F>mm</F> <R>can I</R> <R>can I</R> <.></.> <SC>can I bring it back</SC>? <.></.> Can I take this back?</B>
+<A>O K. I'm sorry ma'am <F>er</F> but we have a store policy. <F>er</F> We don't accept any returned <F>er</F> goods.</A>
+<B><F>Oh</F> really? <SC>So</SC> but <F>um</F> I didn't have time to fit yesterday <R>so</R> so <R>I try to</R> <R>I try to <F>mm</F> not to buy</R> I try to not to buy yesterday but <R>the</R> <R>the</R> <R>the</R> <R>the lad</R> <SC>the lady <F>erm</F> tried to</SC> <F>a</F> the lady <.></.> <R>made me</R> made me to <R>buy</R> <SC>buy it</SC> buy this <.></.> unless <SC>fitting</SC> <SC>not fit</SC> <R>not try</R> not try it on.</B>
+<A><F>Oh</F> I'm.</A>
+<B>So I think it's <R>your</R> <R>your</R> your fault, I win? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> O K</OL>. <F>Er</F>. All right. Do you have a receipt for this?</A>
+<B>Yeah, sure.</B>
+<A><F>Ah</F>. O K. Right, I see. <R>I</R> I have to talk to my manager about this though. <F>er</F> because <F>er</F> <F>er</F> <F>er</F> we make sure that the customer is happy with the dress <R>befor</R> before she goes away, so it's kind of difficult, you know.</A>
+<B><F>Uh-huh</F>. But please look this dress. There is <SC>no</SC> <SC>not</SC> nothing happened so please check it.</B>
+<A>I see. O K. Yes. It is in good condition. Right, let me <R>speak</R> speak to the manager and <F>er</F> come back to you. <??></??>.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>O K. Thank you. That's the end of the role-play. O K. <F>Er</F> have you ever had a similar experience when you were in a foreign country, returning something?</A>
+<B><F>Oh</F>. No. Never.</B>
+<A>Have you ran into any problem at all?</A>
+<B><F>Er</F>? Have you ever?</B>
+<A>Any problem, any difficulty while you were travelling abroad?</A>
+<B><F>Hmm</F>. Yes <F>a</F> but <F>a</F> <nvs>laughter</nvs> it's a very common <F>er</F> I just locked the door the <SC>k</SC> the key inside my room so <R>that's</R> that's all.</B>
+<A>O K. <F>Mm</F>. What kind of things <R>do you</R> do you enjoy buying? shopping?</A>
+<B><F>Uh-huh</F> in the other country?</B>
+<A>O K, in Japan.</A>
+<B>In Japan? <F>mm</F> <R>I like</R> <F>er</F> I like clothes. I like buying clothes.</B>
+<A>Do you buy your clothes in a big department store or in a small specialty shop?</A>
+<B><F>Er</F> the small specialty shop and the, <.></.> department store. <R>I</R> <SC>I</SC> <R>when I</R> when I think I bought something just for example skirt, <F>er</F> hopping the stores or all stores to meet a nice one. <R>To</R> <R>to</R> to meet a nice one.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. All right. Thank you. Let me show you our last picture today.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A><F>Er</F>. This is a story that began here, went this way and <?>the last ending</?>. So please come up with your own story beginning with "one day last week".</A>
+<B>One day last week?</B>
+<ctxt>The examinee is looking at the picture and thinking of what to say.</ctxt>
+<B>O K. <F>mm</F>. The two boys and the girl <SC>think</SC> <F>a</F> thought about <.></.> <F>er</F> <R>they</R> <SC>they talking</SC> <F>a</F> <SC>the two boys and girl talked about</SC> <F>er</F>. <..></..> <SC>Sorry</SC> <F>mm</F> <..></..> <nvs>laughter</nvs> Two boys and girl wanted to go somewhere next week <F>a</F>.</B>
+<A>One day last week.</A>
+<B><F>A</F> they're <R>all</R> all last week?</B>
+<A>Yes. That's right.</A>
+<B>O K.Thank you, <F>er</F> two boys and girl <F>mm</F> wanted to go somewhere. But <F>mm</F> the day was raining. And <R>they</R> <F>um</F> <.></.> <F>a</F> they got nice idea. The idea is that go to the <R>movie theater</R> movie theater and <R>they</R> they bought a popcorn and <.></.> watched the movie or <.></.> <F>mm</F> <R>watched the movie</R>. The movie was about airplane crash or something. <.></.> <F>mm</F> And after that, they really enjoyed. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K, all right. Thank you. <F>Um</F> do you like watching movies?</A>
+<B>Yes, but <F>er</F> about a year, I haven't gone to the movie theater.</B>
+<A><F>Oh</F> why not?</A>
+<B>Because I don't know but I haven't had chance.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Right, thank you. We're almost at the end of the interview today. <F>Er</F> so do you have any plans for going to other foreign country in the near future?</A>
+<B>Yes, I really want to go to the Bali again. <.></.> <F>er</F> I've learned Indonesian language <R>abou</R> about six months so I try to speak Indonesian language.</B>
+<A>I see. Sounds good. O K, thank you, this is the end of the interview.</A>
+<B>O K. Thank you so much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,213 @@
+<interview>
+<filename>file00956.txt</filename>
+
+<head version="1.3">
+<date>2002-01-29</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Uhm</F>. <nvs>laughter</nvs> <F>Urm</F> <.></.> what do you study here?</A>
+<B><.></.> <JP><F>Uuunto</F></JP>. <..></..></B>
+<A><F>Uh-huh</F>?</A>
+<B><.></.> <laughter><JP>Wakannai</JP></laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B><JP>Nante kotaete iinoka wakannai</JP>.</B>
+<A>O K. <F>Urm</F> where do you live?</A>
+<B><.></.></B>
+<A>Where do you live?</A>
+<B><..></..> <JP>Nandakke</JP>. <.></.></B>
+<A>Do you live in Tokyo?</A>
+<B>No.</B>
+<A>No?</A>
+<B><F>Uhmm</F> <.></.> <nvs>laughter</nvs> I live <.></.> <H pn="others1">XXX03</H>.</B>
+<A><F>Uhm</F>. O K. Tell me about <.></.> your neighborhood.</A>
+<B><.></.> <F>Huh</F> <.></.> <JP>wakannai</JP>.</B>
+<A><nvs>laughter</nvs> Is it a big town or a small town?</A>
+<B><F>Er</F> <.></.> small town.</B>
+<A><F>Uhm</F>. <.></.> <F>Urm</F> is it close to Disney Land?</A>
+<B><F>Uhmm</F> no.</B>
+<A>No? <nvs>laughter</nvs> I see. O K. <F>Urm</F> <.></.> do you live with your family?</A>
+<B><.></.> <F>Mhm</F>.</B>
+<A>O K. Please tell me about your family.</A>
+<B><JP><F>Eeto</F></JP> <.></.> father, mother, <JP><F>eeto</F></JP> <.></.> sister and brother.</B>
+<A><F>Wow</F>. Big family. <nvs>laughter</nvs> <F>Uh-huh</F>. What does your sister do?</A>
+<B><F>Uhm</F>?</B>
+<A>Your sister. What does she do?</A>
+<B><.></.> <F>Uh</F>? <F>Uh</F>? <F>Uh</F>? <.></.></B>
+<A>Your sister. You have one sister.</A>
+<B><.></.> Yes.</B>
+<A><F>Uh-huh</F>. <.></.> Is she a student?</A>
+<B><F>Uhm</F>. No.</B>
+<A>No?</A>
+<B><F>Er</F> <OL><F>uhmm</F></OL>.</B>
+<A><OL>What does</OL> she do?</A>
+<B><.></.> <JP><F>Uunto</F></JP> <..></..> <JP><F>ee</F></JP>?</B>
+<A>It's O K. How about your father?</A>
+<B>How about? <.></.></B>
+<A>What does your father do?</A>
+<B><.></.> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><.></.> <laughter><JP>Wakannai</JP></laughter>.</B>
+<A>Does he work?</A>
+<B><JP><F>Ee</F></JP> <..></..> <JP><F>eeto</F></JP> <.></.> <nvs>laughter</nvs> <JP>wakannai na</JP>. <.></.></B>
+<A><F>Uhm</F> it's O K. <F>Urm</F> <.></.> so what are your hobbies?</A>
+<B><F>Uhmm</F> <.></.> my hobby is <..></..> eat.</B>
+<A><laughter><F>Ohh</F></laughter>. <F>Uh-huh</F>. What kind of food?</A>
+<B><F>Err</F> <.></.> <JP>okonomiyaki</JP>.</B>
+<A><F>Uhmmm</F>. O K. Tell me about the best <JP>okonomiyaki</JP></A>
+<B><OL><F>Uhmm</F></OL>.</B>
+<A><OL>restaurant</OL>.</A>
+<B><.></.> <JP><F>Eeto</F></JP>. <.></.> <nvs>laughter</nvs> <..></..> <F>Ah</F> <F>ur</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><R>One</R> one?</B>
+<A><F>Ur</F> it's O K. Do you make your own <JP>okonomiyaki</JP>?</A>
+<B><F>Uhm</F> <.></.> yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>Yes? O K. O K. Thank you. Now, I'm going to show you a picture. Please tell me anything about this picture.</A>
+<B><..></..></B>
+<A>Anything.</A>
+<B><..></..></B>
+<A>What do you see?</A>
+<B><..></..></B>
+<ctxt>The interviewer is moving the tape recorder.</ctxt>
+<A><?>It's a room</?>. And? What is she doing?</A>
+<B><..></..> She play <.></.> computer.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. <.></.> O K. Thank you. <.></.> <F>Urm</F> <.></.> is your room like this room?</A>
+<B><F>Uhmm</F>. <.></.></B>
+<A>No?</A>
+<B><F>Uhm</F>.</B>
+<A>What's different?</A>
+<B><F>Er</F>. <..></..></B>
+<A>Tell me about your room.</A>
+<B>My room <OL>is</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>uhmm</F> <.></.> Japanese room.</B>
+<A><F>Uhmm</F>.</A>
+<B><.></.> <F>Uhm</F> <.></.> my room is no bed.</B>
+<A><F>Uh-huh</F>. <.></.> <F>Uhm</F> do you like Japanese style room?</A>
+<B><F>Uhmmm</F> <..></..> <JP><F>eeto</F></JP> <.></.> my room is <.></.> old house. <.></.> <F>Uhmm</F> <.></.> <F>uhmm</F>. <JP>Hai</JP>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhm</F>. It's O K. Thank you. All right. Now, we are going to do a role-play. O K? <nvs>cough</nvs> Please read this. And tell me when you're ready.</A>
+<B><.></.> <F>Uhmm</F>. <.></.></B>
+<A>O K?</A>
+<B><F>Uhm</F>.</B>
+<A>Anything is O K. All right? May I help you?</A>
+<B><JP><F>Ee</F></JP> <SC>I want to</SC> <F>er</F> <R>I want</R> <F>uhmm</F> <.></.> <F>huh</F> I want carrot.</B>
+<A><nvs>laughter</nvs> <F>Oh</F> O K.</A>
+<B><JP><F>Eeto</F></JP> <.></.> <R>where</R> <..></..> where is <.></.> this?</B>
+<A><F>Uh-huh</F>. The vegetables are right there.</A>
+<B><.></.> <F>Ur</F>.</B>
+<A>O K?</A>
+<B><laughter>Thank you</laughter>.</B>
+<A>And we have three kinds of carrots.</A>
+<B><laughter><F>Urrr</F></laughter>.</B>
+<A><nvs>laughter</nvs> <.></.> O K? Do you want Japanese carrots or American carrots?</A>
+<B><laughter>American carrots</laughter>.</B>
+<A><nvs>laughter</nvs> O K. How many?</A>
+<B><JP><F>Ee</F></JP> <..></..> <JP><F>ee</F></JP> <.></.> two carrots.</B>
+<A>Two carrots? O K. What will you use them for?</A>
+<B><.></.> <JP><F>Eeto</F></JP> <..></..> I cooked <JP><F>ee</F></JP> curry <.></.> today.</B>
+<A><F>Ahh</F> O K. So here are two carrots for you. O K?</A>
+<B><laughter>Thank you</laughter>.</B>
+</task>
+<followup>
+<A>Thank you very much. <nvs>laughter</nvs> This is the end of the role-play. <F>Uhm</F>. Do you like cooking?</A>
+<B><F>Urrr</F> <.></.> I like cooking</B>
+<A><F>Uh-huh</F>.</A>
+<B>but <F>uhmm</F> <.></.> no <.></.> delicious.</B>
+<A><nvs>laughter</nvs> Why do you like cooking?</A>
+<B><.></.> <JP><F>Eeto</F></JP> <..></..> <laughter><F>ah</F></laughter>. <CO>Always</CO>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhmm</F> <..></..> <F>err</F> <JP>nante ittara iindarou</JP>. <.></.> <F>Er</F> <.></.> <laughter><F>oh</F></laughter>.</B>
+<A><nvs>laughter</nvs> <.></.> Do you cook every day?</A>
+<B>No.</B>
+<A>No?</A>
+<B><F>Uhmm</F> <.></.> <JP><F>eeto</F></JP> <.></.> <F>huh</F>. <..></..> <CO>I cooked</CO>. <F>Uhmm</F> <..></..> <F>ah</F> <OL><JP>wakannai</JP> <JP>wakannai</JP></OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><nvs>laughter</nvs></OL> O K.</A>
+<B><OL><JP>Dameda</JP></OL>.</B>
+<A><OL>No</OL> problem. Now, I'm showing you</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>these pictures. O K? One, two, three, four. Please make a story. <.></.> O K?</A>
+<B><..></..></B>
+<A>Go ahead.</A>
+<B><.></.></B>
+<A>What are they doing?</A>
+<B><JP><F>Ee</F></JP>. <.></.> <CO>There are</CO>. <F>Huhh</F> <.></.> <JP><F>eeto</F></JP> <..></..> <F>huh</F> <JP>nante ittara iika wakannain desuyone</JP>. <..></..></B>
+<A>What do you see?</A>
+<B><JP><F>Eeto</F></JP> <..></..> <F>huhh</F>.</B>
+<A>O K. How many people?</A>
+<B>Three.</B>
+<A><F>Uh-huh</F>. And what are they doing here?</A>
+<B><..></..></B>
+<A><F>Uh-huh</F>?</A>
+<B><..></..> <F>Urrr</F> <JP><F>eeto</F></JP>. <..></..></B>
+<A>Nothing? O K. How about here?</A>
+<B><.></.> <F>Uhmm</F>. <..></..> <nvs>sigh</nvs> <.></.></B>
+<A>What's this?</A>
+<B><.></.> <JP><F>Ee</F></JP> <.></.> <JP><F>uuunto</F></JP>. <..></..></B>
+<A>It's O K. So what are they doing <.></.> here?</A>
+<B><F>Uhm</F>. <..></..> <laughter>Very exciting</laughter>.</B>
+<A><F>Hum</F>. O K. Thank you.</A>
+<B><F>Huh</F>.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. <.></.> So <.></.> do you sometimes watch movies?</A>
+<B>No.</B>
+<A>No? Why not?</A>
+<B><F>Uhmm</F> <..></..> <JP><F>ee</F></JP> <..></..> <JP><F>unto</F></JP> I <.></.> have a <nvs>laughter</nvs> <.></.> no money.</B>
+<A><F>Uhm</F>. O K. How about videos?</A>
+<B><F>Uhm</F>?</B>
+<A>Videos.</A>
+<B><F>Uhmm</F>. <..></..> <JP>Nandarouna</JP>. <..></..></B>
+<A><SC>Sometimes</SC> do you sometimes watch videos?</A>
+<B>No.</B>
+</followup>
+</stage4>
+<stage5>
+<A>No? <nvs>laughter</nvs> I see. O K. So we are almost finished. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Huhh</F></OL>.</B>
+<A>Are you tired?</A>
+<B><JP>Hai</JP>.</B>
+<A><nvs>laughter</nvs> O K. <F>Urm</F> <.></.> are you going to see your friends?</A>
+<B><F>Mhm</F>?</B>
+<A><.></.> Are your friends outside?</A>
+<B><F>Mhm</F> yes.</B>
+<A>Yes? O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Well</F> <.></.> please have a nice day.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K?</A>
+<B>Thank you.</B>
+<A>O K. Thank you.</A>
+</stage5>
+</body>
+</interview>

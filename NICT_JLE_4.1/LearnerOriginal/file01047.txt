@@ -1,0 +1,229 @@
+<interview>
+<filename>file01047.txt</filename>
+
+<head version="1.3">
+<date>2002-03-08</date>
+<sex>male</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>350</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B><F>Er</F> My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you, too</OL>. <nvs>laughter</nvs></B>
+<A>Can I call you <H pn="B's name">XXX02</H>? <OL>Or <H pn="B's name">XXX02</H></OL>?</A>
+<B><OL><R>O</R> O K</OL>.</B>
+<A><nvs>laughter</nvs> Alright. <F>Um</F> where are you living now?</A>
+<B>Yes. <F>Mm</F> <SC>I</SC> <R>I'm</R> I'm living now <R>in</R> in <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>. O K. Tell me about <H pn="others1">XXX03</H>.</A>
+<B><F>Hmm</F>. <H pn="others1">XXX03</H> is <F>mm</F> near the Yamanote Line</B>
+<A><F>Uh-huh</F>.</A>
+<B>and near the Shinagawa.</B>
+<A><F>Uh-huh</F>. <.></.> Anything else? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Mm</F> sorry, I don't know my house around the place.</B>
+<A><laughter>Why not</laughter>?</A>
+<B><F>Mm</F> <.></.> <F>mm</F> usually <R>I</R> <.></.> I drive car</B>
+<A><F>Huh</F>.</A>
+<B><F>mm</F> and <R>I</R> <R>I</R> I will go to <F>mm</F> far place.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> Because I don't know <R>my</R> <SC>my</SC> <F>mm</F> <SC>near <R>m</R> my house</SC> near the place.</B>
+<A><F>Uh-huh</F>. So where do you go driving?</A>
+<B><F>Mm</F> maybe <R>I</R> <.></.> I went to <F>mm</F> Odaiba and Yokohama.</B>
+<A><F>Hmm</F>.</A>
+<B>Or <F>um</F> <F>mm</F> <.></.> hot spa.</B>
+<A><F>Uh-huh</F> <OL>I see</OL>.</A>
+<B><OL><nvs>sniff</nvs></OL></B>
+<A>What do you do in Odaiba?</A>
+<B><F>Mm</F> Odaiba is <F>mm</F> good place <F>mm</F> <.></.> because <F>m</F> <.></.> new building and new road and <F>mm</F> <SC>fun</SC> <R>m</R> many fun place.</B>
+<A><F>Hmm</F>. Can you tell me a favorite store or place <OL>in Odaiba</OL>?</A>
+<B><OL><F>Um</F></OL> <F>mm</F> <R>I like</R> <F>mm</F> <.></.> I like <F>mm</F> <laughter>game center</laughter></B>
+<A><F>Hmm</F>.</A>
+<B>in Odaiba.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> this game center is very big and very fun.</B>
+<A><F>Uh-huh</F>. What's fun about the games?</A>
+<B><F>Hmm</F>. <..></..> I like <F>mm</F> video game</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>because</SC> <F>mm</F> <F>uh</F> and <R>m</R> many video game in <laughter>Odaiba</laughter></B>
+<A>I see. O K. <F>Um</F>. So you work at <OL><H pn="others2">XXX04</H></OL>?</A>
+<B><OL><nvs>sniff</nvs></OL> Yes.</B>
+<A>What do you do here?</A>
+<B><.></.> <F>Mm</F> <SC>compu</SC> in <H pn="others2">XXX04</H>?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Mm</F></OL> <R>I</R> I <..></..> technical support.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>M</F> I'm in charge of <F>m</F> security product</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <.></.> <F>mm</F> backup program support.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Usually, I call to customer <nvs>sniff</nvs> and I <R>check <R>the</R> the program</R> <F>er</F> <.></.> check the program <F>uh</F> <SC>che</SC> test the <R>prog</R> <R>prog</R> program.</B>
+<A><F>Uh-huh</F> <F>hmm</F> sounds difficult. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Hmm</F></OL> maybe it's difficult but <F>mm</F> <.></.> <F>mm</F> <R>I</R> <..></..> I don't know question is <F>mm</F> transferred to United States technician.</B>
+<A><F>Ah</F> I see. O K. Thank you.</A>
+<B>Thank you very much.</B>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture.</A>
+<ctxt>The interviewer is looking for the picture.</ctxt>
+<A>Please tell me what you see.</A>
+<B><F>Mm</F> <..></..> <F>mm</F> <nvs>sniff</nvs> woman is center of the restaurant. <F>Mm</F> <F>um</F> next to <.></.> <F>mm</F> <SC>she</SC> she's boyfriend <R>s</R> sit <F>mm</F> on the chair and <nvs>sniff</nvs> <R>she <.></.> beside</R> <F>mm</F> <.></.> <JP><F>eeh</F></JP> <.></.> she beside <.></.> waiter</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <F>mm</F> <F>uh</F> <R>he</R> he <SC>dri</SC> dranks wine <R>and</R> <F>mm</F> <..></..> and <.></.> she behind the <.></.> piano <F>mm</F> woman is <.></.> play the piano and piano next <F>m</F> <F>uh</F> and <F>mm</F> <SC>big wa</SC> <R>big</R> <..></..> big watch <R>i</R> is next to the piano.</B>
+<A><F>Hmm</F>.</A>
+<B><OL><F>Er</F></OL>.</B>
+</task>
+<followup>
+<A><OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Alright</OL>. Thank you.</A>
+<B>Thank you very much.</B>
+<A><F>Er</F> you said you like to go to Yokohama.</A>
+<B>Yes.</B>
+<A><F>Um</F> please tell me about a restaurant <OL>you go there</OL>.</A>
+<B><OL><F>Ah</F></OL>, usually I <.></.> go to Yokohama, midnight.</B>
+<A><laughter><F>Oh</F></laughter> <OL>really</OL>?</A>
+<B><OL><R>Ye</R></OL> yes. <F>Mm</F> <F>mm</F> <.></.> <F>mm</F> I like <R>drivi</R> driving only.</B>
+<A><F>Ah</F>.</A>
+<B><F>Uh</F> because <F>mm</F> midnight is low traffic</B>
+<A><F>Uh-huh</F>.</A>
+<B>and I can run high speed.</B>
+<A><F>Uh-huh</F>. I see. O K. <F>Um</F> <..></..> but have you been to China Town in Yokohama before?</A>
+<B>No. I usually, <R>I</R> I go to <F>mm</F> near the sea</B>
+<A><F>Hmm</F>.</A>
+<B>and near the Bay Bridge.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> <nvs>sniff</nvs> <R>Because</R> <F>mm</F> <..></..> <F>mm</F> because <JP><F>nnto</F></JP> near the sea is <F>mm</F> no people <nvs>laughter</nvs>.</B>
+<A><F>Uh-huh</F>. I see. O K. <F>Um</F> so forget about <laughter>Yokohama</laughter> <F>um</F> <SC>where</SC> tell me about your favorite restaurant.</A>
+<B><F>Um</F>.</B>
+<A>Anywhere.</A>
+<B><F>Mm</F> <R>I</R> <R>I usually</R> <F>mm</F> I usually <.></.> don't go to restarutant but I usually <F>mm</F> <.></.> go to <.></.> pub, Japanese <JP>izakaya</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> I usually go to <JP>izakaya</JP> in <JP><F>eeh</F></JP> Takadanobaba.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <.></.> its pub name is "Shara".</B>
+<A><F>Hmm</F>. O K. What's the difference between <JP>izakaya</JP> and a resaurant.</A>
+<B><F>Hmm</F>. <SC><JP>iza</JP></SC> <F>m</F> <SC>restaurant is</SC> maybe restaurant is <F>mm</F> <.></.> <R>formal</R> <F>m</F> formal food but <JP>izakaya</JP> is <F>mm</F> casual <F>mm</F> food.</B>
+<A><F>Hmm</F>. I see. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now we're going to do a role-play. O K. And please read this in Japanese <OL>quietly</OL></A>
+<B><OL><nvs>sniff</nvs></OL></B>
+<A>and when you are ready, please tell me.</A>
+<B><nvs>sniff</nvs></B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K? <OL>Alright</OL>.</A>
+<B><OL>O K</OL>.</B>
+<A>May I help you?</A>
+<B>Yes. <F>Mm</F> <.></.> <R>I will</R> I will go to New York <F>mm</F> and I go to <SC>ne</SC> <.></.> <JP><F>eeto</F></JP> early time. <nvs>sniff</nvs> <F>Mm</F> <..></..> <SC>what is</SC> <F>mm</F> <F>uh</F> please <F>mm</F> tell me <F>er</F> <.></.> buy a ticket information.</B>
+<A><F>Ah</F>, you can buy the ticket here.</A>
+<B>Yes.</B>
+<A>I can help you.</A>
+<B><OL><F>Oh</F> yes</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><..></..></B>
+<A>We don't have many trains in early morning.</A>
+<B><F>Mm</F> <F>uh</F>.</B>
+<A>We only have two trains.</A>
+<B><F>Hmm</F>. <nvs>sniff</nvs> <F>Mm</F> which train is <F>mm</F> <.></.> <SC>early</SC> <F>mm</F> faster <F>mm</F> to New York?</B>
+<A><F>Ah</F>, the faster train is the express. <OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Thank</OL> you. <nvs>sniff</nvs> <F>Mm</F> how much is <F>mm</F> express?</B>
+<A>Express is fifty dollars.</A>
+<B>And <..></..> <nvs>sniff</nvs> <R>where</R> <SC>where is the</SC> <F>mm</F> where is <.></.> bought a ticket? <F>Er</F>.</B>
+<A><F>Ah</F> you can buy the ticket at the machine <OL>over there</OL>.</A>
+<B><OL><F>Oh</F></OL> thank you. <F>Mm</F> and <..></..> <R>where</R> <F>m</F> <R>where</R> <F>mm</F> where is <..></..> <SC>p</SC> <F>m</F> where is platform number?</B>
+<A><F>Er</F> it's number fifteen.</A>
+<B><SC>Fif</SC> <F>mm</F> plat number <OL>fifteen</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>Thank you.</B>
+<A>O K. So you just want one ticket?</A>
+<B><F>Oh</F> <F>mm</F> yes. <SC>On</SC> <F>mm</F> I'm single <F>mm</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>, alright, so fifty dollars, please. O K. <nvs>laughter</nvs></A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A><OL>Alright</OL>, thank you very much. This is the end of the role-play. Thank you.</A>
+<B>Thank you very much.</B>
+<A>Alright, so you said you like driving <F>um</F> but do you travel by train sometimes?</A>
+<B><F>Mm</F> <nvs>sniff</nvs> I usually use a train <OL><F>mm</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>because <R>I</R> <..></..> I come to the office</B>
+<A><F>Uh-huh</F>.</A>
+<B>use the train.</B>
+<A><F>Oh</F> I see. But when you travel?</A>
+<B>Travel.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <F>ah</F> <OL>sorry</OL>?</B>
+<A><OL>Take a trip</OL>?</A>
+<B>A trip. <F>Ah</F> <F>hmm</F> <..></..> <F>uh</F> <.></.> <R>I wa</R> <F>m</F> I was travel</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>mm</F> one time <F>mm</F> it's <F>m</F> traffic accident.</B>
+<A><F>Woo</F>.</A>
+<B><F>M</F> <nvs>sniff</nvs> <SC>I</SC> <.></.> <F>m</F> <.></.> <F>m</F> <.></.> <SC>another place i</SC> <F>uh</F> another car <SC>is</SC> was <F>mm</F> hit <SC>a</SC> my car</B>
+<A><F>Uh-huh</F>.</A>
+<B>but <F>mm</F> <..></..> <F>mm</F> <R>my car is</R> <F>mm</F> <.></.> <R>my car is no</R> my car is not big damage.</B>
+<A><F>Uh-huh</F>. I see. How did you negotiate with the <OL>other person</OL>?</A>
+<B><OL><F>Oh</F></OL> <F>hmm</F> <nvs>sniff</nvs> <.></.> <JP><F>eeto</F></JP> <.></.> <F>uh</F> <.></.> <JP><F>nnto</F></JP> <R>I</R> <.></.> <nvs>sniff</nvs> <SC>I use <SC>the</SC> my negotia</SC> <F>m</F> <R>I</R> <F>m</F> <R>I</R> I used <JP><F>eeh</F></JP> my negotiator.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Hm</F> <..></..> <F>mm</F>.</B>
+<A><F>Mm</F>, so he or she <OL>solved the problem</OL>?</A>
+<B><OL><F>Um</F> <F>um</F></OL> yes.</B>
+<A>I see. Good for you. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Thank you</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Alright, thank you. Now, the last thing I'm going to show you something else. O K <F>um</F>.</A>
+<ctxt>The interviewer is looking for the picture sequence.</ctxt>
+<A>All right, so please look at these six pictures and make a story.</A>
+<B><F>Hmm</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>And start your story with "One day last week".</A>
+<B><F>Mm</F> <F>ah</F> <R>sh</R> <SC>she</SC> <R>she's</R> she's <F>mm</F> last week schedule? <F>Uh</F>.</B>
+<A><F>Hmm</F>. Just a story.</A>
+<B>Story.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A>One day last week <nvs>dararararara</nvs>.</A>
+<B><F>Mm</F> at first, <F>mm</F> she <SC>look</SC> looked <nvs>sniff</nvs> <F>mm</F> <.></.> <nvs>sniff</nvs> <F>m</F> she's cooler but <F>mm</F> <nvs>sniff</nvs> no food in <SC>the</SC> <.></.> this cooler.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Then, she went to <nvs>sniff</nvs> <JP>super</JP> <SC>use a</SC> <.></.> use <F>uh</F> she's car. Then she bought a food in the supermarket. <nvs>sniff</nvs> <F>Mm</F> <..></..> <F>m</F> and she <.></.> bought a many food and <SC>pay a</SC> <.></.> pay the money. <nvs>sniff</nvs> Then she was <F>mm</F> <..></..> <F>mm</F> food <.></.> <F>mm</F> in the car and <nvs>sniff</nvs> <R>she</R> <..></..> <R>she went to</R> <F>mm</F> she went to she's home. <nvs>sniff</nvs> At last, she cooked <F>mm</F> fried egg and other food. <F>Hmm</F>. Finish.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hmm</F>. O K. Thank you.</A>
+<B>Thank you very much.</B>
+<A>So, we are almost finished with this interview. Are you going to a <JP>izakaya</JP> tonight?</A>
+<B>No. <R>I</R> <..></..> I came back to the home straight because <F>mm</F> <nvs>sniff</nvs> my work is busy.</B>
+<A><F>Oh</F>.</A>
+<B><F>Mm</F> maybe I <.></.> <R>go</R> go back my <R>home</R> <SC>hometo</SC> my home <F>mm</F> ten o'clock.</B>
+<A><F>Ah-huh</F>. I see. But tomorrow is a holiday.</A>
+<B>Yes.</B>
+<A>O K. Good. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Thank you</OL> very much.</B>
+<A>Have a very nice weekend.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

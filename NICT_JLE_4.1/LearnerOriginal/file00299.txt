@@ -1,0 +1,172 @@
+<interview>
+<filename>file00299.txt</filename>
+
+<head version="1.3">
+<date>2001-02-22</date>
+<sex>female</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>O K. So where do you live?</A>
+<B>I live in <H pn="others1">XXX02</H>,</B>
+<A><F>Uhmm</F>.</A>
+<B>with my family.</B>
+<A><F>Ohh</F> could you tell me about your family?</A>
+<B><F>Er</F> there are four people in my family. Father, mother and younger brother. <.></.> My younger brother lives in <H pn="others2">XXX03</H> because his company built a institute in <H pn="others2">XXX03</H>. It is difficult to go to that building every morning. <F>Uhm</F> too much time.</B>
+<A><F>Hm</F>.</A>
+<B>So he lived near the <OL>company</OL>.</B>
+<A><OL><F>Hm</F></OL>. O K. So, <F>ur</F> <H pn="B's name">XXX01</H>, <R>wh</R> what do you do? <R>Wha</R> <F>er</F> what's your job?</A>
+<B><F>Urr</F> <F>uhm</F> I'm between the job.</B>
+<A><F>Hm</F>.</A>
+<B>I stay at home and help my mother.</B>
+<A><F>Uhm</F> so what kind of job are you looking for?</A>
+<B><F>Er</F> I'm looking for the job which use English.</B>
+<A><F>Hm</F>.</A>
+<B>But <SC>I don't</SC> I haven't decided what kind of job I want to do.</B>
+<A><F>Uhm</F> I see. O K. So in your free time or on weekends, what do you usually do?</A>
+<B><F>Er</F> I'm a member of Girl Scout.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B><OL>So</OL> I go to the meeting and <SC>help</SC> play or help with children. And sometimes <SC>I</SC> we have a meeting, sometimes we go to hiking.</B>
+<A><F>Uhmm</F>. So what is especially nice about being a girl scout?</A>
+<B><..></..> <F>Urr</F> I can challenge many things.</B>
+<A><F>Hmm</F>.</A>
+<B>For example, if I want to do, I can go to the foreign country because <SC>Girl Scout</SC> <F>ur</F> Girl Guide is spread all over the world.</B>
+<A><F>Uhmm</F>.</A>
+<B><.></.> And playing with children is one of my favorite things.</B>
+<A><F>Uhm</F>. Interesting. So how often do you have a meeting or some activities?</A>
+<B>Twice a month because now children <F>mm</F> is very busy because of clam school.</B>
+<A>Right.</A>
+<B>So for them, it is difficult to participate meeting every time.</B>
+<A><F>Uhmm</F> I see. O K. So where is the last country you went to?</A>
+<B><F>Urr</F> I haven't <?>yet</?>,</B>
+<A><OL><F>Ohh</F> I see</OL>.</A>
+<B><OL>I</OL> <OL>never visited <??></??></OL>.</B>
+<A><OL>O K</OL>. All right. So how about last hiking?</A>
+<B>Last hiking?</B>
+<A><F>Hm</F>.</A>
+<B><F>Urr</F> last summer, we went to the camp near the Mount Fuji. <F>Uhm</F> <.></.> <SC?>we hold</SC?> I am a leader of <.></.> primary school student, so they don't <.></.> make tent. They stay in the building. So we stay building together,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>and</R> and we don't cook. Instead of that, we eat the meals that people <?>made</?> for us.</B>
+<A><F>Oh</F>. So how many children did you go with?</A>
+<B><F>Er</F> it was very big camp.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So more than hundred <OL>children</OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL>Really</OL>? <F>Wow</F>. O K. So the first thing today, please take a look at this picture. And please describe this picture for me.</A>
+<B>Yes. <R>It</R> <nvs>cough</nvs> <SC>it is sun</SC> it is a sunny day. And it is a <F>hmm</F> picture of the house. <F>Uhm</F> there is a big house in this picture. And <F>uhm</F> there is a garden, too. And there are four big tree in the garden. And there are two boys who playing the volleyball. And there is a man who is jogging. And <SC>they have a pet</SC> <SC>one</SC> <F>er</F> they have pets. They are dogs. And one girl is doing jumping rope. And <nvs>cough</nvs> one white car is parking on the road. And on the roof of the car, there is a cat. And two women is chatting. And one of the woman is <F>mmm</F> taking a dog. And on the other side of the road, <F>mm</F> there is a man who is reading a newspaper. <.></.></B>
+</task>
+<followup>
+<A>O K. All right. Thank you. So please compare this neighborhood with the neighborhood you live now.</A>
+<B><F>Hm</F>. <SC>My</SC> I live in <H pn="others1">XXX02</H>. And <SC><H pn="others1">XXX02</H> is</SC> <SC>it is very</SC> <F>uhm</F> <SC>this is like</SC> I think this is <SC>suburb</SC> like suburb.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But I live in <.></.> <SC>rather</SC> <.></.> city rather than suburb. So there is few house which have <SC>garden</SC> big garden like this. And <F>er</F> this house have big land but our house is very little one.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> And we don't have enough children. And <SC>children, they</SC> <F>er</F> <.></.> near <SC>the</SC> my house, they are high school student. So we don't have such <.></.> age <OL><??></??></OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>And near my house, there are a lot of cats instead of dogs.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhm</F> I see. O K. All right. So next, we'd like to try a role-play.</A>
+<B>Yes.</B>
+<A>O K. So please read this card. And when you're ready, I will begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. Ready? O K. May I help you, ma'am?</A>
+<B><F>Er</F> yes. I want to go to New York. <F>Er</F> I want to go there <SC>as fa</SC> as soon as possible.</B>
+<A><F>Uhm</F>.</A>
+<B><R>What</R> <.></.> what kind of ticket should I buy?</B>
+<A><F>Uhmm</F>. <SC>May</SC> probably you should buy a ticket for super express.</A>
+<B>Super express? I see. How long does it take to get New York?</B>
+<A><F>Urrr</F> about forty-five minutes.</A>
+<B>I see. When super express <SC>left</SC> <F>er</F> will leave this station?</B>
+<A><F>Urr</F> after three hours.</A>
+<B>After three hours? And it is the very <F>uhm</F> <R>fast</R> fast way to get New York?</B>
+<A><F>Mm</F>. It's the fastest train, but there might be some trains which will leave a little earlier.</A>
+<B><F>Uhm</F> <.></.> but <F>er</F> superexpress is suitable way?</B>
+<A><F>Uhmm</F> but it's very expensive.</A>
+<B>Expensive?</B>
+<A><F>Uhm</F>.</A>
+<B>My priority is time. So I want to buy <OL><?>the ticket</?></OL>.</B>
+<A><OL>O K</OL>. Right, so there are two kinds of ticket.</A>
+<B><F>Urr</F> <F>urr</F> please explain.</B>
+<A>O K. <F>Urr</F> one is the first-class ticket and the other is just regular seat.</A>
+<B><F>Er</F> regular seat, please.</B>
+<A>O K. <F>Urr</F> let me check. <F>Urr</F> actually, <SC>s</SC> non-smoking seats are all booked.</A>
+<B>I see. O K. The smoking seat, please.</B>
+<A>All right. So here is the ticket.</A>
+<B>Thank you very much.</B>
+<A>O K. Thank you. Have a nice trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. This is the end of the role-play.</A>
+<B>Yes.</B>
+<A>So which do you like better, traveling by train or traveling by car?</A>
+<B><F>Er</F> <R>travel</R> traveling by train, because <SC>I</SC> <F>ur</F> sometimes I have car sick.</B>
+<A><F>Uhmm</F>. <F>Er</F> tell me the last trip you took.</A>
+<B><.></.> By car? By any <??></??>?</B>
+<A><F>Uh-huh</F>.</A>
+<B>I went to Russia with my mother last year. <SC>It</SC> <.></.> I went to Moscow and Saint Petersburg. And there are big difference between Japanese hotels and Russian hotels. <.></.> <SC>When <SC>my</SC> I</SC> when I went to Russian hotel, <SC>it was</SC> I was so surprised because <SC>there is</SC> there was no toilet paper.</B>
+<A><F>Uhmm</F>.</A>
+<B>In Japan, <F>hmm</F> <SC>housekeeper</SC> when housekeeper come to clean the room, <R>they</R> they <?>leave the</?> toilet paper, but Russian people don't know. And according to the guidebook, we <??></??> <?>get</?> there <SC>i</SC> was no toilet paper <?>and it is</?> <SC>ready to</SC> <.></.> ready. So <F>uh</F> it was good <.></.> to ready.</B>
+<A><F>Uhm</F>. So you had no problem?</A>
+<B>No.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><laughter>O K</laughter>. All right. So last thing, I'd like to show you another picture. Please take a look at this picture. And please make up a story based on these pictures from one to six. O K? And this happened before, so please start your story with "One day last week".</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>One day last week, <F>urm</F> one girl and her brother <SC>walked</SC> is <SC>walking</SC> <F>er</F> <R>taking</R> <F>mm</F> taking a walk <SC>one day</SC> in rainy days. And suddenly, <F>uhm</F> brother hear the <R>sound</R> <F>uhm</F> <.></.> <R>sound</R> sound and <.></.> listened to it. And they found a cat in the box. And <SC>the girl wanted</SC> <.></.> <F>er</F> the girl <SC>fee</SC> felt so sorry to looking at the cat. Maybe cat was <F>mm</F> left by somebody. So girl asked brother, <F>mm</F> "I want to take this cat with us.". <SC>Some</SC> for a while, he is thinking about it. But the girl asked about it <R>again</R> again. At last, he agreed with her. And <SC>they came</SC> they went to home with cat.</B>
+</task>
+<followup>
+<A>O K. Thank you. So you mentioned there're lots of cats in <H pn="others1">XXX02</H>. Right? And what do you think of them?</A>
+<B>Cats?</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> I like a cats. <.></.> I don't mind cat. <..></..> There are many cats that people have and people don't have <.></.> left. <.></.> <R>I</R> I hate <??></??> so <R>I</R> I <.></.> can't <?>sleep</?>. I don't feel so troubled about cats.</B>
+<A><F>Uhm</F>. Have you ever had a pet?</A>
+<B><F>Er</F> when I was <SC>chil</SC> a child.</B>
+<A><F>Uhm</F> so what do you think is an advantage <R>of</R> of keeping a pet?</A>
+<B><F>Urr</F> I think advantage of keeping a pet is grow kindness, heartwarming for children. Sometimes <SC>resposiblity of children</SC></B>
+<A><F>Uhmm</F>.</A>
+<B>grow responsibility.</B>
+<A><F>Uhm</F>. Did it happen in your case?</A>
+<B><F>Urr</F> <laughter>no</laughter>.</B>
+<A><laughter>No</laughter>? <nvs>laughter</nvs></A>
+<B><F>Uhm</F> sometimes if they had a dog, they have to <SC>go</SC> take a walk with a dog every day, if they <R>build</R> build a good relationship. But <SC>I had <??></??></SC> <SC>I had</SC> I didn't make any friendship with <OL>them</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><OL><nvs>laughter</nvs></OL> <laughter>O K</laughter>. Thank you. So we have come to almost the end of the interview. So what are you going to do after this interview?</A>
+<B><F>Urr</F> maybe I come here with my friend, so I exchange our information about test.</B>
+<A><F>Ohhh</F>. O K.</A>
+<B><R>Maybe</R> <F>uhm</F> <.></.> maybe <SC>s</SC> <F>hm</F> go to some coffee shop and take a break.</B>
+<A><F>Uhm</F>. So which is your friend?</A>
+<B><F>Er</F> she.</B>
+<A>She? O K. I think they are finishing up <nvs>laughter</nvs> pretty soon. All right. Thank you very much for coming.</A>
+<B><F>Er</F> thank you very <OL>much</OL>.</B>
+<A><OL>This</OL> is the end of the interview. <OL>O K, thank you</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+</stage5>
+</body>
+</interview>

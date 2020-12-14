@@ -1,0 +1,208 @@
+<interview>
+<filename>E_file00814.txt</filename>
+
+<head version="1.3">
+<date>2001-11-28</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Uum</F> I'm fine, but a little sleepy because <SC>I</SC> yesterday, <SC>I do</SC> I did some homework. <CO><OL>So</OL></CO>.</B>
+<A><OL><F>Uum</F></OL> O K.</A>
+<B>Yeah.</B>
+<A>So <OL><H pn="B's name">XXX02</H></OL>,</A>
+<B><OL>Yeah</OL>.</B>
+<A>what do you do?</A>
+<B><F>Err</F> now?</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F> <F>uum</F>. Now, I <v_asp odr="1" crr="am speaking">speak</v_asp> English. <OL><CO>But</CO></OL>.</B>
+<A><OL><F>Er</F></OL>.</A>
+<B><OL><F>Hm</F></OL>?</B>
+<A><OL>No, no</OL>, no. Your job.</A>
+<B><F>Er</F> <F>err</F> I'm a Waseda student.</B>
+<A><F>Er</F> you're <at odr="1" crr="a"></at> <OL>student</OL>?</A>
+<B><R>So</R>, yeah. So I study hard and <SC>it was</SC> it is very hard for <laughter>me</laughter>.</B>
+<A><F>Hum</F>. What do you study?</A>
+<B><F>Uum</F>. I study Japanese literature. <SC>So</SC> and before this test, I <v_tns odr="1" crr="studied">study</v_tns> <at odr="2" crr="the"></at> Chinese language. So <SC>I'm</SC> now, I'm <at odr="1" crr="a"></at> little <laughter>confused</laughter>.</B>
+<A><F>Err</F></A>
+<B>Yeah.</B>
+<A>I see. <F>Hm</F>. How do you like learning Chinese?</A>
+<B><F>Erm</F>. <SC>Learning Chi</SC> <F>uum</F> <R>before</R> <F>uh</F> before learning <at odr="1" crr="the"></at> Chinese language, <F>um</F> <SC>I think</SC> I thought <R>it</R> it was easy, because <SC>we know</SC> we knew <F>uu</F> <JP>kanji</JP>, but <.></.> the pronunciation and <R>some</R> <SC>some</SC> <F>um</F> <.></.> <n_lxc odr="2" crr="the way">how</n_lxc> to <v_cmp odr="3" crr="use it">use</v_cmp> is very hard or difficult for us. So, <F>uum</F> now I think <SC>it was</SC> <F>er</F> it is <F>uu</F> <laughter>difficult</laughter>.</B>
+<A><F>Um</F> I see.</A>
+<B>Yes.</B>
+<A>So after school,</A>
+<B>Yeah.</B>
+<A>what do you usually do?</A>
+<B>After school, <F>uum</F> sometimes <R>I</R> I go home or sometimes <F>uum</F> <R>I</R> I go to <at odr="1" crr="a"></at> cram school to teach some <n_num odr="2" crr="students">student</n_num>. <SC>So</SC> <.></.> <F>um</F> and the cram school students <SC>was very</SC> <v_agr odr="1" crr="are">is</v_agr> very noisy.</B>
+<A><F>Um</F>.</A>
+<B>So <SC>teaching a</SC> teaching them is <at odr="1" crr="a"></at> very hard work.</B>
+<A><F>Um</F>. Is there any good point teaching kids in the cram school?</A>
+<B><F>Err</F> yes. <F>Uum</F> <nvs>sniff</nvs> <.></.> <R>I</R> I <v_tns odr="1" crr="learned">learn</v_tns> many things <prp_lxc1 odr="2" crr="in">from</prp_lxc1> <R>junior high sc</R> junior high school or high school. But sometimes I <v_cmp odr="1" crr="forgot them">forgot</v_cmp>. So <F>uum</F> <SC>to</SC> <F>uum</F> <prp_lxc1 odr="1" crr="in">for</prp_lxc1> teaching them <F>uum</F> I remember some things or some <F>uum</F> subjects. <OL>So</OL>,</B>
+<A><OL>I see</OL>. <F>Hm</F>.</A>
+<B><SC>it was good</SC> it is <at odr="1" crr="a"></at> good point for me.</B>
+<A>O K.</A>
+<B>Yes.</B>
+<A>On <n_num odr="1" crr="weekends">weekend</n_num>, what do you usually do?</A>
+<B><R>Weekend</R> <F>err</F> weekend? <F>Err</F> <F>err</F> <F>uum</F> <SC>almost <R>I</R> I</SC> <F>er</F> I always <laughter>sleep</laughter> because <R>every</R> everyday <R>I</R> <F>um</F> I study hard. <OL><CO>or</CO></OL>.</B>
+<A><OL><F>Hm</F> <F>hm</F></OL>. I see.</A>
+<B>So, yeah.</B>
+<A>All right, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>First thing for today.</A>
+<B>Yes.</B>
+<A><?>Please</?> look at this picture.</A>
+<B>Yeah.</B>
+<A>And please describe it for me.</A>
+<B><F>Erm</F> <F>ah</F> when I enter this room, <F>uum</F> I see <F>uum</F> <n_cs odr="1" crr="one girl">one of the girl</n_cs> sitting on the chair. And <SC>she is</SC> <F>err</F> she is looking at <at odr="1" crr="a"></at> cat on her bed and <at odr="2" crr="a">the</at> dog on the floor. <F>Err</F> and <R>sh</R> <SC>she sit <F>uum</F> in fron</SC> she <R>si</R> sits in front of <at odr="1" crr="a">the</at> personal computer. And <F>um</F> <.></.> <SC>when</SC> <F>uum</F> I think <F>uum</F> <R>she</R> <SC>she i</SC> <F>uum</F> <R>she</R> she <R>introduce us to</R> <v_cmp odr="2" crr="introduces us her room"><v_agr odr="1" crr="introduces">introduce</v_agr> us to her room</v_cmp>. <R>And</R> <F>uum</F> <R>and</R> <F>er</F> <F>um</F> <.></.> and <F>uum</F> the time is nine o'clock. <OL><F>Uum</F></OL>.</B>
+<A><OL>All right</OL>.</A>
+<B>Yeah.</B>
+<A>Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you have your own room?</A>
+<B>Yes, I <mo_lxc odr="1" crr="do">have</mo_lxc>.</B>
+<A>Can you compare this picture to your own room?</A>
+<B><F>Err</F> I think her room is very, very <laughter><SC>clear</SC></laughter> <F>ah</F> clean <.></.> because <F>uum</F> <R>my room</R> <R>my room</R> <F>ah</F> my room or my desk is full of <at odr="1" crr="">the</at> things and <F>uum</F> I don't like cleaning my room <SC>but</SC> <F>uum</F> and so <F>uum</F> <SC>the</SC> my desk is full of books or full of papers, so <F>um</F> it <v_tns odr="2" crr="is">was</v_tns> <aj_lxc odr="3" crr="messy">dirty</aj_lxc>, <laughter>I think</laughter>.</B>
+<A><F>Hum</F>. Do you have <at odr="1" crr="a"></at> computer in your room?</A>
+<B><F>Err</F> no, But <F>err</F> <prp_lxc1 odr="1" crr="in"></prp_lxc1> another room, <R>I have</R> <F>oh</F> I have <at odr="2" crr="a"></at> personal computer.</B>
+<A>How do you use it for?</A>
+<B><F>Err</F> <R>now</R> now, <F>uum</F> I never use <pn_lxc odr="1" crr="my"></pn_lxc> computer because I use <at odr="2" crr="a"></at> computer in my university <SC>so</SC> and <R>I re</R> I return my home very late so I don't use my computer. <nvs>sniff</nvs></B>
+<A>All right. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<B><nvs>sneeze</nvs> <nvs>cough</nvs> <nvs>cough</nvs></B>
+<A>O K?</A>
+<B>Yeah.</B>
+<A>Now, I'm going to give you this role-play card.</A>
+<B>Yeah.</B>
+<A>So please read it to yourself, and when you are ready, I want to do a role-play with you. O K?</A>
+<B>Yes.</B>
+<A>Are you ready?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>This</OL> is <at odr="1" crr="a"></at> telephone conversation.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Trun-trun</OL>. This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Er</F> Hi, <H pn="A's name">XXX01</H>.</B>
+<A>Hi.</A>
+<B><F>Er</F> <R>can</R> <R>can you</R> can you go to <at odr="1" crr="a">the</at> movie <SC>with us</SC> <R>with</R> with me?</B>
+<A>But who is it? Who's calling?</A>
+<B><F>Ah</F> <F>uh</F> I'm sorry. I'm <H pn="B's name">XXX02</H>.</B>
+<A><F>Er</F> <H pn="B's name">XXX02</H>. Hi.</A>
+<B><F>Erm</F>. <R>How</R> how about going to the <R>th</R> theater with me?</B>
+<A>Sounds nice.</A>
+<B><F>Uum</F>. <SC>And</SC> so <F>um</F> <SC>what time do you</SC> <F>um</F> <F>ah</F> <itr_lxc odr="1" crr="which">what</itr_lxc> day <v_lxc odr="2" crr="are">do</v_lxc> you free?</B>
+<A><F>Err</F> this weekend.</A>
+<B><F>Oh</F> this weekend? Me, too. So <F>uum</F> <R>how</R> how about <SC>going to</SC> going there this weekend?</B>
+<A>Good.</A>
+<B><F>Erm</F> <SC>and</SC> then so <F>ah</F> <SC>we</SC> <.></.> <F>uum</F> <R>before see</R> before <R>seeing</R> seeing it, <F>uum</F> <R>we</R> we <v_tns odr="1" crr="will meet">meet</v_tns> <prp_lxc1 odr="2" crr="at"></prp_lxc1> some place, so <F>um</F> I think Shibuya is <R>better</R> <.></.> better <R>for</R> for me. How about you?</B>
+<A>Me, too.</A>
+<B><F>Uum</F>. So in Shibuya, <SC>where</SC> <F>um</F> <prp_lxc1 odr="1" crr="at"></prp_lxc1> which place do you want to wait or meet <pn_agr odr="2" crr="me">us</pn_agr>? <OL><F>Er</F></OL>.</B>
+<A><OL>All right</OL>. Hachiko.</A>
+<B>Hachiko?</B>
+<A><F>Hm</F>. In front of the Hachiko statue.</A>
+<B><F>Er</F> yeah. <.></.> And then <F>um</F> <R>what</R> what time <SC>di</SC> <SC>do we</SC> will we meet in front of the Hachiko statue?</B>
+<A><F>Uum</F>. In the afternoon?</A>
+<B>Yes. In the afternoon. <F>Um</F>. So <R>how about</R> <F>uum</F> how about <F>uum</F> <R>two o'c</R> two o'clock <prp_lxc1 odr="1" crr="in"></prp_lxc1> <at odr="2" crr="the"></at> <OL>afternoon</OL>?</B>
+<A><OL>Fine</OL>.</A>
+<B>So <F>er</F> we <v_tns odr="1" crr="will meet">meet</v_tns> <F>erm</F> <prp_lxc1 odr="2" crr="at"></prp_lxc1> two o'clock this weekend in front of the statue. And we <v_tns odr="1" crr="will walk">walk</v_tns> to the theater and see the movie. <SC>That's</SC> <R>is</R> is that O K?</B>
+<A>O K. Thank you very much for calling.</A>
+<B>Thank you.</B>
+<A>All right. See you then. Bye-bye.</A>
+<B>Good bye.</B>
+<A>Good bye. Thank you, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>That's the end of <at odr="1" crr="the"></at> role-play.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>So when you go out with your friend, where do you usually go?</A>
+<B><F>Uum</F>. Usually, <F>uum</F> <F>uum</F> I'm very busy so <R>I don't</R> I don't <SC>go some</SC> go anywhere <OL>with my friend</OL>.</B>
+<A><OL><F>Uum</F> I see</OL>. <F>Hm</F>. O K.</A>
+<B>But <F>uum</F> last Sunday, I went to <at odr="3" crr="the"></at> <n_cs odr="2" crr="school festival of my friend's university">my friend's university <n_lxc odr="1" crr="school festival">cultural festival</n_lxc></n_cs> and <R>we met</R> <F>uum</F> <R>we met</R> we met <F>uum</F> <SC>six</SC> <F>um</F> about six friends,</B>
+<A><F>Hm</F>.</A>
+<B>and it was very good for us.</B>
+<A>I see. Tell me more about it.</A>
+<B><F>Err</F> <F>um</F>. <R>Her</R> <R>her class</R> <F>er</F> her class <v_tns odr="1" crr="was playing">is <F>um</F> <SC>doing</SC> <F>ah</F> <R>playing</R> <F>uum</F> <R>playing</R> playing</v_tns> <at odr="3" crr="a"></at> <n_lxc odr="2" crr="play">role-play</n_lxc>, <SC>so</SC> <F>uum</F> <F>ah</F> but she <v_tns odr="4" crr="was">is</v_tns> not <at odr="5" crr="an"></at> actress but <F>um</F> that was <at odr="7" crr="a"></at> <n_lxc odr="6" crr="comedy">joking play</n_lxc>, so it was very funny for us.</B>
+<A>I see.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>All</OL> right. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I'll show yow another picture. This is <at odr="1" crr="a"></at> picture sequence. So please make up one short story</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>using</OL> these pictures from one to six. And this happened before, so please start <prp_lxc1 odr="1" crr="with"></prp_lxc1> "One day last week".</A>
+<B><SC>One day last week</SC> <F>uum</F> <F>uum</F> can I use "I"?</B>
+<A>Sure.</A>
+<B>Yeah. One day last week, <F>uum</F> I went to the department store to buy my father's birthday present. <SC>And</SC> so <SC>I asked the department</SC> <F>ah</F> I asked the clerk <R>to</R> <o_uk odr="1" crr="I would like to">to</o_uk> buy <at odr="2" crr="a"></at> necktie for my father's birthday. And <R>he</R> <SC>he is ni</SC> <SC>he said to me us</SC> <F>ah</F> <SC>to his</SC> he said to me, "Very nice.". So <R>I</R> <SC>I buy</SC> <F>ah</F> I bought <at odr="1" crr="the"></at> necktie for my father's birthday. <R>And</R> <F>ah</F> and then I paid <SC>for</SC> <F>um</F> about three thousand yen <SC>for the</SC> <F>ah</F> to <at odr="1" crr="the"></at> clerk and <SC>I get</SC> I got my father's birthday <n_num odr="2" crr="present">presents</n_num>. And <R>after</R> after buying the present, <R>I s</R> I saw <F>uum</F> <at odr="1" crr="a"></at> thirty percent off final sale <prp_lxc1 odr="2" crr="on">to</prp_lxc1> shoes, and it <v_tns odr="3" crr="looked">looks</v_tns> very nice. So <F>uum</F> <R>I</R> I bought some shoes. And after buying shoes, <SC>I see</SC> <F>ah</F> I saw <F>um</F> <at odr="1" crr="a"></at> fifty percent <R>off</R> <.></.> <F>er</F> off sale <prp_lxc1 odr="2" crr="on">for</prp_lxc1> clothes so <R>I</R> I saw many clothes and <SC>I'll buy</SC> <F>ah</F> <R>I bo</R> I bought <F>uum</F> some clothes. <F>Um</F>. And then I <v_tns odr="1" crr="went">go</v_tns> out <prp_lxc2 odr="2" crr="of"></prp_lxc2> <at odr="3" crr="the"></at> department <F>uum</F> <R>with</R> with <F>um</F> <R>full</R> <R>full of</R> <F>um</F> <o_lxc odr="4" crr="a lot of">full of</o_lxc> clothes <con_lxc odr="5" crr="and">or</con_lxc> shoes, and <laughter>so on</laughter>.</B>
+<A>Thank you, <H pn="B's name">XXX02</H>.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>Do you like shopping?</A>
+<B><F>Uum</F> <F>uum</F> <F>er</F> <laughter>no, I don't like shopping</laughter>.</B>
+<A>Why not?</A>
+<B>Because <F>uum</F> <R>when I</R> when I go to the department store, <SC>it was</SC> <F>um</F> <R>there</R> <SC>there we</SC> <R>there</R> there are many people and <.></.> <R>I</R> <.></.> <R>I can't</R> I can't go straight. So <R>I</R> <R>I</R> I think I don't <v_cmp odr="1" crr="like to go">like <F>uum</F> going</v_cmp> shopping.</B>
+<A>O K.</A>
+<B>Yes.</B>
+<A>So when <SC>you</SC> is your birthday?</A>
+<B><F>Err</F> my birthday is November nineteenth.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah. <CO>So</CO>. <OL><F>Er</F></OL>.</B>
+<A><OL>So</OL>, what did you do on that day?</A>
+<B><F>Er</F> <R>that day</R> <F>oh</F> <F>um</F> <prp_lxc1 odr="1" crr="on"></prp_lxc1> that day, I <v_tns odr="2" crr="had">have</v_tns> a <F>um</F> class <o_lxc odr="3" crr="party"><JP>conpa</JP></o_lxc></B>
+<A><F>Um</F>. <nvs>laughter</nvs></A>
+<B><F>uum</F> <prp_lxc1 odr="4" crr="of">for</prp_lxc1> <R>Chinese</R> <at odr="5" crr="the"></at> Chinese language class, so I went there. <F>Um</F> but <SC>my mother</SC> <F>ah</F> my parents and my grandparents <.></.> were waiting for me, so <F>uum</F> <.></.> <R>two</R> <R>two</R> <SC>two hours</SC> <F>ah</F> <R>after</R> after <SC>beginning <.></.> that</SC> <.></.> <prp_lxc1 odr="1" crr="">for</prp_lxc1> two hours, <R>I</R> I <R>rushed to</R> <laughter>rushed to my home</laughter> and <F>uum</F> <R>I</R> I ate <F>uum</F> <at odr="2" crr="a"></at> chocolate cake.</B>
+<A><F>Wow</F>.</A>
+<B>Yeah.</B>
+<A>You had a good party.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you.</B>
+</followup>
+</stage4>
+<stage5>
+<A><at odr="1" crr="The"></at> <cap odr="2" crr="interview" ch="1">Interview</cap> is almost over.</A>
+<B>Yeah.</B>
+<A>Do you have any plan after this?</A>
+<B><F>Um</F>. <SC>After</SC> <F>uum</F> <F>er</F> <SC>I</SC> <F>um</F> nothing special but I go to the electron lesson. <CO>So</CO>.</B>
+<A>I see. You are learning <OL>how to play <at odr="1" crr="the"></at> electron</OL>.</A>
+<B><OL>Yes</OL>. Yes.</B>
+<A><F>Hum</F>.</A>
+<B>But <F>uum</F> <SC>this</SC> last week, I was very busy so <SC>I can't</SC> <F>ah</F> I couldn't practice so I <laughter><v_tns odr="1" crr="will rush">rush</v_tns> to home and</laughter> practice <at odr="2" crr="the"></at> electron and then I <v_tns odr="3" crr="will go">go</v_tns> to the <n_lxc odr="4" crr="lesson">electron</n_lxc>.</B>
+<A><SC>Did you</SC> do you enjoy it? <OL><??></??></OL></A>
+<B><OL>Yes</OL>. Very <av_lxc odr="1" crr="much">enjoy</av_lxc>.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>O K. Enjoy the class.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>All right</OL>. Thank you very much for coming in today.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

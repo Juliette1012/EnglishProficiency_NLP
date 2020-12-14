@@ -1,0 +1,155 @@
+<interview>
+<filename>file00060.txt</filename>
+
+<head version="1.3">
+<date>2000-06-19</date>
+<sex>male</sex>
+<age>30</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category>manufacture</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B>Nice to meet you. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>? O K?</A>
+<B>Yes.</B>
+<A>O K. how are you today?</A>
+<B><F>Er</F> I'm very fine. Thank you, and you?</B>
+<A>I'm pretty good. Thank you.</A>
+<B><F>Mhm-huh</F>.</B>
+<A>O K, <F>er</F> was it a long way from your house to get here?</A>
+<B>Yes. It's takes about one hour. Yeah <F>er</F> <F>er</F> I am stranger here so I'm very confused, <R>so</R> <F>er</F> so <R>a</R> I <F>er</F> mistakes and <F>erm</F> train, so.</B>
+<A>I see. <SC><?>It's must been</?></SC> it's very confusing, I guess.</A>
+<B>Yes.</B>
+<A>So <R>wh</R> where do you live?</A>
+<B><F>Urm</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Hmm</F> what kind of place is that?</A>
+<B><F>Er</F> <.></.> the nearest station is <F>er</F> <H pn="others1">XXX03</H> or <H pn="others2">XXX04</H>. It's very <F>er</F> <.></.> <F>er</F> historical <.></.> place in <H pn="others3">XXX05</H>. And <F>er</F> <.></.> it's very comfortable to <F>er</F> live in and it's very convenient <R>to</R> <F>er</F> for example <R>to</R> <R>to</R> <F>er</F> <.></.> to buy something or <F>er</F> to meet or to drink.</B>
+<A><F>Um</F>.</A>
+<B>It's very convenient place.</B>
+<A><F>Mm</F> that seems very nice place.</A>
+<B><F>Um</F>.</B>
+<A>O K. So it's Monday today. <R>Wh</R> what do you usually do on Monday?</A>
+<B>On Monday? <F>Er</F> until <R>the</R> the end of this <R><F>m</F></R> month <F>mhm</F> <R>I'm</R> I'm in holiday. <R>So</R> <F>er</F> but <F>er</F> I'm preparing for the test <.></.> <F>er</F> of <F>er</F> <.></.> <SC>architecture</SC> <F>er</F> <R>archi</R> <R>archi</R> architect. So <F>er</F> <SC>usually I</SC> recently I usually studying the <F>ah</F> subjects <F>er</F> <F>er</F> the test.</B>
+<A><F>Um</F>. O K. But so what do you have to study to be certified or to pass the test?</A>
+<B><R>Wha</R> <R>what</R>? What?</B>
+<A>What do you have to study?</A>
+<B><F>Er</F> <F>er</F> there are two tests. One test is <F>er</F> knowledge. The other test is <F>er</F> <.></.> drawing. <F>Um</F> and <F>er</F> now <F>er</F> I am preparing for the knowledge test. So knowledge test <F>mm</F> have <F>er</F> four program. <F>Er</F> one is for structure and <F>er</F> <.></.> law and <F>er</F> planning and <F>er</F> <F>erm</F> the last one is construction.</B>
+<A>I see.</A>
+<B>It's very <F>er</F> <.></.> huge amount <OL><nvs>laughter</nvs></OL> to <F>er</F> study.</B>
+<A><OL><F>Um</F></OL>. I bet. O K. So, besides studying <R>wh</R> what do you usually do on your free time?</A>
+<B><F>Er</F> now <R>I'm</R> <nvs>laughter</nvs> <SC>I'm <R>free time</R> free time</SC> <R>I'm</R> <R>I'm going to</R> <F>er</F> I'm going to <F>mm</F> see movie or <F>ah</F> I just <F>er</F> watch the television <SC>or</SC> <.></.> and so on.</B>
+<A><F>Mhm-huh</F>. O K. What is your favorite TV program?</A>
+<B><F>Er</F> <F>er</F> now I'm <.></.> <F>er</F> <.></.> <F>er</F> from this July, <R>I</R> I will start new job. And then, I have to manage and <F>er</F> <SC>so</SC> but <F>er</F> <SC>I'm</SC> I was engineer. So <F>er</F> <R>I don't</R> I don't know about <F>er</F> managing. So now <F>er</F> I'm usually watch the <F>er</F> <F>mm</F> <F>mm</F> Sky Perfect TV <F>er</F> so that's has <F>er</F> special program for business <F>mm</F> or managing.</B>
+<A>I see. Sounds very interesting.</A>
+<B><nvs>laughter</nvs>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. So, next thing I would like you to do, to take a look at this picture and describe it for me.</A>
+<B>All right. <F>Er</F> <.></.> O K. <F>Er</F>. <R>This is</R> <F>er</F> this is <F>er</F> <..></..> <F>mmm</F> <.></.> one young woman's room. <F>Mm</F> <SC>there are</SC> <F>er</F> there is one dog and one cat. And <F>er</F> <F>er</F> young lady is sitting <R>near the</R> near the desk. And <R>on</R> on the desk <F>er</F> there is a typewriter <R>and</R> and <F>er</F> computer. <R>And</R> <.></.> and <F>er</F> she has <.></.> <F>er</F> <.></.> stereo set and telephone and then <F>um</F> <.></.> that's all. <nvs>laughter</nvs>.</B>
+</task>
+<followup>
+<A>O K. Thank you. So, <F>umm</F> can you compare with this room</A>
+<B><F>Mhm-huh</F>.</B>
+<A>To your room in <H pn="others1">XXX03</H>?</A>
+<B>All right. <F>Er</F> <..></..> <F>mmm</F> <.></.> the biggest difference is <F>mm</F> the floor. <F>Er</F> this floor is carpet, and <R>my</R> <R>my <F>er</F> fl</R> <R>my flo</R> <R>my floor</R> the floor on my house is <F>er</F> <JP>tatami</JP>, <R>and</R> <F>er</F> <R>and</R> <F>er</F> and also <F>er</F> this room is very clean but my room is very <.></.> nasty. <nvs>laughter</nvs>.</B>
+<A>O K, so why did you decide to live in that room in <H pn="others1">XXX03</H>?</A>
+<B><F>Er</F> because it's very near from <.></.> the company that I worked before. <F>Um</F>. So <SC>I'm con</SC> I continue to <F>mm</F> live. <..></..> <OL><F>Um</F></OL>.</B>
+<A><OL>O K</OL>. <SC>Is</SC> <R>wh</R> what's the job you had before?</A>
+<B><F>Um</F> I was architect.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. So, next thing we're gonna do is to do the role play. O K. And this is your card,</A>
+<B><F>Mhm-huh</F>.</B>
+<A>And it's in Japanese. Please read it to yourself.</A>
+<B>O K.</B>
+<A>And when you are ready, I'll begin.</A>
+<B><F>Mhm</F>.</B>
+<ctxt>The examinee is reading the card for a while.</ctxt>
+<B>All <OL>right</OL>. I am ready.</B>
+<A><OL>O K</OL>. Good afternoon, Sir. How can I help you?</A>
+<B><F>Er</F> I have <F>er</F> <F>er</F> <.></.> ticket. That is <F>er</F> <F>er</F> reserved <F>er</F> the last train. <R>But</R> <F>er</F> but <F>er</F> <.></.> <F>er</F> <R>I couldn't</R> I couldn't <F>er</F> get on the train. <F>Er</F> so could you change to the ticket <F>er</F> to next train?</B>
+<A><F>Mmm</F> we cannot change ticket or give you refund on that ticket.</A>
+<B><F>Er</F> <SC>so</SC> but <F>er</F> <R>I</R> I paid before. <R>So</R> <F>er</F> <SC>so</SC> <F>er</F> but I <.></.> don't ride on. So <F>er</F>, <R>you</R> you don't lose money. So <R>you</R> you can <F>er</F> change the ticket.</B>
+<A><F>Well</F> since you bought the ticket through a travel agency, then <R>it has a cer</R> they get a special deal. And the ticket clearly says "it's no refund, no exchange".</A>
+<B>Yeah. <R>The</R> <F>er</F> <.></.> <F>er</F> <F>er</F> <SC>the thing</SC> <F>er</F> yeah that's right. <R>But</R> <F>er</F> <.></.> but <R>the</R> <F>er</F> the next train <F>er</F> I think, there are many <F>er</F> vacancies so <F>er</F> it doesn't matter. So <R>could you</R> could you change <F>er</F> the ticket?</B>
+<A>Unless you give me a good reason why you were late for the train.</A>
+<B><F>Er</F> because <F>er</F> <R>my</R> <F>er</F> my mother <F>er</F> got trouble so <R>I</R> <SC>I have to go to the hospital</SC> I had to go to the hospital. So, <F>er</F> it's very emergency reason. So, <F>er</F> it's inevitable. <R>So</R> so <F>er</F> this is <F>er</F> special <F>mm</F> reason.</B>
+<A>O K. That seems to be a really <F>um</F> serious situation. So this is the special treatment for you.</A>
+<B><F>Ah</F> all right, <OL>thank you very much</OL>.</B>
+<A><OL>O K</OL>? And you are lucky. The next train has lots of vacancies.</A>
+<B><F>Ah</F> I see.</B>
+<A>O K. So the next train will leave in about fifteen minutes.</A>
+<B><F>Mhm-huh</F>.</B>
+<A>O K. Here's your tickets.</A>
+<B><F>Mhm-huh</F>.</B>
+<A>You gotta hurry.</A>
+<B>All right. Thank you very much.</B>
+<A>O K. Have a nice trip.</A>
+<B>Bye.</B>
+</task>
+<followup>
+<A>O K. Thank you. Did you <.></.> ever miss the train or airplane before?</A>
+<B><F>Ah</F> yes.</B>
+<A>Can you tell me about your experience?</A>
+<B><F>Erm</F> <.></.> <F>er</F> one years ago, <F>er</F> <R>I have</R> <SC>I had to</SC> <F>ah</F> <R>I</R> I went to <F>ah</F> Fukuoka <.></.> for business reason. But <F>er</F> <F>er</F> <SC>the wors</SC> <R>the</R> <F>er</F> the last night, <F>ah</F> I drive so much. <.></.> But <F>er</F> <F>er</F> <SC>so</SC> but <F>er</F> <F>ah</F> before <F>mmm</F> <F>er</F> <.></.> going to bed, I set alarm. But <F>er</F> when I woke upped, <F>ah</F> the alarm <SC>is</SC> <F>ah</F> was stopping. <nvs>laughter</nvs> But it's to be late. So <F>er</F> I changed the reservation and the <SC>I'm</SC> <F>er</F> I missed the <F>er</F> train.</B>
+<A>I see. But did you get to the place you had to go on time?</A>
+<B>No. <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL>. <laughter>O K</laughter>. <F>Well</F> you forget it.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So last thing to do is to take a look at <.></.> these pictures. Ands it's a sequence of pictures from one to six. And I would like you to make up a story</A>
+<B>All right.</B>
+<A>Based on these. And this happened before. So please start your story with "One day last week".</A>
+<B><F>Um-huh</F>.</B>
+<ctxt>The examinee is looking at the picture.</ctxt>
+<B>O K. <F>Eh</F> one day last week, <F>er</F> it was <F>er</F> raining. So <F>er</F> we <F>er</F> <F>er</F> <R>we</R> <SC>we could not go out</SC> <F>umm</F> we couldn't go yeah <F>er</F> picnic. So we are planning to <SC>go <F>er</F> an</SC> go to another place. So we checked the magazine of a city <R>and</R> and then <R>talking</R> <F>er</F> talking each other. And then, <F>er</F> this <F>er</F> <.></.> <R>and</R> <.></.> and <F>er</F> and the <R>we</R> <R>we make a</R> <F>mm</F> <SC>we make a <F>mm</F> decision to</SC> we made a decision <SC>to mak</SC> to go to the movie. And we go to the <F>er</F> <F>er</F> theatre <SC>and then</SC> <F>er</F> <R>and</R> <F>er</F> <.></.> and <.></.> <F>um</F> <R>we watched</R> we watched the movie from one <.></.> o'clock P <F>M</F>. <F>Um</F>. It cost two thousand and five hundred yen. <SC>The</SC> before watching the movie, <R>we</R> <F>er</F> <.></.> we bought <F>er</F> popcorns and <F>er</F> some beverages. And <R>the</R> <F>er</F> the movie <SC>is the</SC> <F>er</F> <.></.> <F>er</F> <F>mmm</F> is <F>er</F> <.></.> fighting movie. <.></.> <R>It was very</R> <F>er</F> <F>um</F> <.></.> it was very <F>er</F> <.></.> dramatic and <F>er</F> really fun. So <F>er</F> <F>er</F> <R>after</R> after watching the movie <F>er</F> <R>we</R> <R>we are</R> <F>um</F> we are going to <F>um</F> go to the dinner.</B>
+</task>
+<followup>
+<A><F>Mhm</F>. O K. Thank you. So <F>ah</F> it's a rainy season.</A>
+<B><F>Mhm-huh</F>.</B>
+<A><F>Er</F> when <SC>weekday</SC> weekends are rainy, what do you do? How do you deiced what to do for fun <.></.> on rainy day?</A>
+<B><F>Er</F> the movie is very good.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Nn</F>. And <F>er</F> shopping is also good. And watching television and watching movie <SC>in a house</SC> <R>at house</R> <??></??> at house is also good.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Um</F>.</B>
+<A>O K. <SC>Where is your <.></.> favorite movie</SC> <F>ah</F> where is your favorite shopping area, <?>if you go to</?> shopping?</A>
+<B><F>Ah</F> <.></.> the <H pn="others4">XXX06</H> is very near from my house. So I usually go to <H pn="others4">XXX06</H>.</B>
+<A><F>Um-huh</F>. So what is good about going shopping <H pn="others4">XXX06</H>?</A>
+<B><F>N</F>? <OL><F>N</F></OL>?</B>
+<A><SC><OL>What</OL> is good about</SC> what is advantage <OL>of</OL> going shopping in <H pn="others4">XXX06</H>?</A>
+<B><JP><F>Aa</F></JP>. There are many shops and <F>er</F> department stores, and <F>er</F> also small specialty stores. So, <R>and then</R> and then <R>there</R> there is a <F>er</F> discount store for <SC>electrics <R>th</R> <F>mm</F> things</SC> <SC>electric</SC> <R>electricity</R> <F>mm</F> electricity products. So, <F>mm</F> <R>it's</R> <F>hmm</F> it's enough for me <nvs>laughter</nvs> just going to <H pn="others4">XXX06</H>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hum</F> O K. So the interview is almost over. Ands do you have any plan after this test?</A>
+<B><F>Ah</F> I have to go to <F>er</F> <H pn="school name1">XXX07</H> <.></.> <F>er</F> tonight so.</B>
+<A>Do you have any classes there?</A>
+<B>Yes.</B>
+<A><F>Oh</F> <SC>is</SC> what kind of classes are you taking?</A>
+<B><F>Umm</F> <.></.> it's a <F>er</F> innovation thinking. <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><laughter>Innovation thinking</laughter></OL>. <laughter><F>Wow</F></laughter>. <nvs>laughter</nvs>. So you make your mind really innovated.</A>
+<B>Yes.</B>
+<A><laughter>Have fun</laughter>. O K. Thank you very much for coming.</A>
+<B>Yeah. Thank you very much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,201 @@
+<interview>
+<filename>file00055.txt</filename>
+
+<head version="1.3">
+<date>2000-02-03</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>680</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A><F>Well</F> nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>My name is <H pn="A's name">XXX01</H>, may I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>, <OL>what do you do</OL>?</A>
+<B><OL><F>Ah</F></OL>. <R>My</R> <F>er</F> <SC>my name is</SC> <F>a</F> <.></.> <R>you</R> you can spell <F>ah</F> <H pn="B's name">XXX02</H>, <F>ah</F> it's <F>eh</F> first name and <H pn="B's name">XXX02</H>, <F>eh</F> surname.</B>
+<A>O K. Thank you very much. And what do you do?</A>
+<B><F>Er</F> my <R>bi</R> business or <OL>job</OL>?</B>
+<A><OL>Yes</OL>.</A>
+<B><F>Er</F> my job is business administration.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. <F>Er</F> in every month, I analyze my business department's <F>er</F> performance <F>er</F> and I report to my boss and these are <F>ah</F> <F>mm</F> data and so on.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>O K</OL>. How do you like your job?</A>
+<B><R>I</R> I'm interested in my job so <R>but</R> but sometimes I feel stress, <F>er</F> making error, and I have to report to <F>er</F> <R>Euro</R> <F>er</F> European countries and sometimes I join the telephone conference <F>er</F> <SC>in</SC> <F>er</F> from <F>ar</F> eight P M and <SC>around the world</SC> around the time.</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>So</OL>, <F>ah</F> time is difference <R>between</R> <F>er</F> between the <R>co</R> countries.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Mhm-huh</F></OL>. O K. I see. And what do you usually do <SC>get to</SC> to get rid of stress?</A>
+<B><F>Er</F> <SC>so</SC> I usually <F>erm</F> playing <laughter><JP>pachinko</JP></laughter> <F>ah</F> when <R>I</R> I like to <R?>re</R?> <?>relieve</?> <SC>the</SC> my stress.</B>
+<A>O K. I see. And do you have any other hobbies?</A>
+<B><F>Er</F> <F>er</F> nowadays, I don't have enough time to <SC>play something</SC> play sports, but <F>er</F> <F>ah</F> <SC>last year</SC> <F>er</F> <SC>since</SC> <F>er</F> so far, last year, I have been playing basketball and skiing and <?>that</?> such as sports.</B>
+<A><OL><F>Huum</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>O K. I see. Then, <F>er</F> <F>er</F> where do you live?</A>
+<B><F>Ar</F> I live in <H pn="others1">XXX03</H> City.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>I lived in <F>ah</F> company dormitory.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A><F>Ah-huh</F>. How do you like living in a dormitory?</A>
+<B><F>Ah</F> it's very convenient, but <F>er</F> so far, <F>er</F> <R>in</R> in last April, I live in <H pn="others2">XXX04</H> City. <F>Er</F> it's a <SC>same dor</SC> <F>ah</F> <SC>company dormitory</SC> same kind of <F>eh</F> company dormitory, but <F>er</F> <H pn="others2">XXX04</H> City has a lot of <SC>younger</SC> young people, and I contact with <F>ah</F> co-worker to play with co-worker, but <H pn="others1">XXX03</H> is different from <H pn="others2">XXX04</H> <laughter>dormitory</laughter>, yeah. Maybe there is a little difference between <F>eh</F> these dormitories.</B>
+<A>I see. O K. And where are you from?</A>
+<B>I'm from <F>ah</F> <H pn="others3">XXX05</H> Prefecture.</B>
+<A>Where in <H pn="others4">XXX06</H> <OL>are you from</OL>?</A>
+<B><OL><F>Er</F> <SC><?>I fo</?></SC></OL> <SC>I lived in</SC> <F>er</F> <R>I</R> I was born in <H pn="others5">XXX07</H> City.</B>
+<A><F>Huum</F>.</A>
+<B>Yeah, it's western side of <H pn="others4">XXX06</H>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much. Then, look at this <OL>picture please</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>And will you describe it please?</A>
+<B><F>Er</F> <SC>in</SC> <F>er</F> this picture shows <F>ah</F> dinner situations. <F>Ah</F> a one man one woman <F>mm</F> <SC>talking</SC> <F>er</F> discuss about some wine, and probably men <F>nn</F> tastes <F>er</F> wine, so he will choose <F>ah</F> the wine which was served <F>er</F> waiter. <F>Mm</F> <.></.> I think waiting <F>mm</F> to <..></..> served <F>er</F> dinner. <.></.> Yeah. <..></..> <F>Hm</F> I have <??></??>.</B>
+</task>
+<followup>
+<A>O K. Thank you. How often do you eat out?</A>
+<B><F>Er</F> everyday. <nvs>laughter</nvs> I <SC>ate</SC> <F>eh</F> eat dinner <F>eh</F> in the outside of the restaurant <F>aa</F> <OL>yeah</OL>.</B>
+<A><OL><F>Oh</F> I see</OL>. <F>Nn</F> then, do you like to go to this kind of restaurant?</A>
+<B>I don't like this kind of restaurant because <F>er</F> these restaurant is very expensive. <SC>And so I</SC> and <SC>I couldn't</SC> I cannot feel relaxation in this kind of <OL>restaurant</OL>.</B>
+<A><OL><F>Ah</F></OL> O K. I see. Then how do you compare eating out with eating at home?</A>
+<B><F>Oh</F> I think eating at home is better than eating <R>out</R> <R>out of</R> <F>ah</F> <SC>out of</SC> outside. <F>Er</F> but <F>er</F> <.></.> <F>er</F> <R>my job is <F>a</F> busy</R> my job is busy, so if I <.></.> <F>er</F> eat dinner in the dormitory, it's very late at night. So I <.></.> would be fat. It's not <F>er</F> healthy I think, so I will go to dinner near the company <F>er</F> around seven o'clock.</B>
+<A><F>Uum</F>. O K. Then, what is the most memorable restaurant you ever been to?</A>
+<B><F>Er</F> it's difficult question. <F>Er</F> in these days, I like a <JP><SC>te</SC></JP> Japanese style's restaurant, it's called <F>ah</F> <JP>teishokuya</JP>. It's very near <H pn="others1">XXX03</H> dormitory. It's delicious for me, so I often go to there.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>Yeah.</B>
+<A>How about <F>er</F> with your girlfriend?</A>
+<B><CO>I don't have a <laughter>girlfriend</laughter> so</CO>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F> O K</OL>.</A>
+<B>Yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><nvs>laughter</nvs> <F>Oh</F> O K. Thank you very much. Now next, let's do a role-play.</A>
+<B>Yeah.</B>
+<A><F>Ah</F> O K, this is your card, <OL>please read it</OL>.</A>
+<B><OL>Yeah</OL>. In Japanese? <OL><F>Huh</F></OL>?</B>
+<A><OL>Yes</OL>, just read it in your mind.</A>
+<B><F>Ah</F> yeah.</B>
+<ctxt>The examinee is looking at the card and thinking of what to say.</ctxt>
+<A>O K. Are you ready?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Then</OL> I will start. O K? Ring ring. Hello?</A>
+<B>Hello, <F>ah</F> this is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> Mister <H pn="B's name">XXX02</H>, what happened to you?</A>
+<B>I'm sorry. <SC>I</SC> <F>er</F> my <F>er</F> parents has been sick and I take care of them so <R>I'm</R> I'm sorry, I couldn't <F>ah</F> <SC>join the mee</SC> join the party.</B>
+<A><F>Oh</F> I see. <F>Oh</F> how bad are they?</A>
+<B><F>Er</F> I took them to <F>er</F> hospital, so <F>er</F> they took medication so seem but <F>um</F> <F>er</F> to be better, yeah.</B>
+<A><F>Hmm</F> O K, but <F>ah</F> yesterday,</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><??></??></OL> <SC>I was</SC> <F>er</F> I invited <F>er</F> plenty of other people and they all know you and we're all waiting for you.</A>
+<B>I'm sorry. <R>I</R> I think I have to <F>er</F> <F>er</F> <SC>call it</SC> <SC>call to</SC> <F>er</F> call and I have to inform you <F>er</F> that I cannot join the party but <F>er</F> <SC>I'm so</SC> I forgot to bring <SC>the</SC> my <F>er</F> mobile phone and I cannot find out <F>er</F> public telephone system.</B>
+<A><F>Ah</F> I see. Too bad. <F>Well</F> <F>er</F> O K. Where is a hospital?</A>
+<B><F>Er</F> <R>I</R> I go back my hometown to <H pn="others5">XXX07</H> so I took them to <F>uh</F> <H pn="others5">XXX07</H> National Hospital.</B>
+<A><F>Hmm</F> O K. And when do you think they can get out of the hospital?</A>
+<B><F>Mm</F> <F>er</F> <F>eh</F>? <F>N</F>? <F>N</F>?</B>
+<A>When?</A>
+<B>Yeah?</B>
+<A>When can your parents <OL>get</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>out of the hospital?</A>
+<B><F>Er</F> after medication, <??></??> they get out <F>er</F> hospital.</B>
+<A><F>Ah</F> O K. <F>Mh</F>. O K. So are they all right now?</A>
+<B>Yes.</B>
+<A>O K. O K. But next time, when this kind of thing happens,</A>
+<B>Yeah.</B>
+<A>will you make <OL>sure</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>to let me know?</A>
+<B>Yes, I will do. <F>Ah</F> please invite me the next <F>er</F> party.</B>
+<A>Yeah, sure, I will. O K. Thank you for calling.</A>
+<B>Yeah, thank you.</B>
+<A>And take care of your parents.</A>
+<B><F>Er</F> thank you very much.</B>
+<A>O K. Bye bye.</A>
+<B>Bye bye.</B>
+<A>O K. Thank you. This is end of a role play.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A>Good. O K. <F>Er</F> have you had the same kind of experience?</A>
+<B>Yeah, no, It has not.</B>
+<A>O K. Then, how do you like having a party with friends?</A>
+<B><F>Er</F> <SC>I</SC> sometimes, I feel <F>er</F> stress <F>er</F> because <R>I</R> I cannot drink alcohol, so if I ate party and <F>mm</F> I talk with my co-worker and friends, <R>i</R> <R>it's</R> it's good but <F>er</F> <R>some</R> someone make me to drink alcohol, <F>er</F> <R>i</R> it's not comfortable for me, <R>and</R> <F>mm</F> and in the party <SC>I don't anyone</SC> I don't know anyone, so if <F>er</F> almost people <F>ah</F> was first meeting,</B>
+<A><OL><F>Uum</F></OL>.</A>
+<B><OL>it's</OL> not good for me <F>er</F> to join the party.</B>
+<A><F>Ah</F> O K then, how about a casual party with your friends?</A>
+<B><F>Er</F> it's a <R>goo</R> good. In Japan, there is a <JP>nabe</JP> party. <nvs>laughter</nvs></B>
+<A><OL><F>Aah</F></OL>.</A>
+<B><OL>Yeah</OL>, I enjoy <F>er</F> <R>it's</R> it's <R>kind of</R> <F>er</F> <F>er</F> <SC>kind of these party</SC></B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL><F>er</F></OL> kind of these casual party.</B>
+<A>O K. Recently, have you had one with friends?</A>
+<B><F>Ah</F> yes, <F>ah</F> <F>mm</F> end of December, I joined the <F>mm</F> <JP>Sukiyaki</JP> party.</B>
+<A><F>Oh</F> what was it like?</A>
+<B><F>Er</F> it was very good, yeah.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. O K. Thank you, and another picture for you.</A>
+<B>Yeah.</B>
+<A>O K. <F>Well</F> this is a picture sequence, so please make up a story from number one to number six, and this happened before, so please start with "One day last week".</A>
+<B>Yeah, <F>er</F>. <F>Ar</F> there are <R>two</R> two boy and one girl. <F>Er</F> <SC>they plan to <F>er</F> <SC>go around</SC> <F>er</F> go</SC> <F>er</F> they plan to <F>mh</F> go to playland in the weekend, but weather is not good. It was <SC>raining</SC> rainy day. So <F>er</F> they decided to go to <F>er</F> <R>movie theat</R> movie theater. And so they go to movie theater and she bought <F>er</F> ticket. And after then, <F>er</F> <F>ah</F> <SC>before see</SC> <F>eh</F> before they <F>mm</F> was going to see the movie, they bought a popcorn and cola, and they saw movies. <F>Eh</F> the movie was very exciting, and <SC>they found</SC> <F>er</F> <R>they</R> <F>hmm</F> <..></..> they <.></.> interested in that. <F>Mm</F> <F>ah</F> the movie is very exciting and they satisfied with seeing the movie. After, they <SC>see</SC> went back to <SC>ho</SC> each home.</B>
+</task>
+<followup> 
+<A>O K, thank you. O K. How do you compare watching movie at home with <F>er</F> in the movie theater?</A>
+<B><F>Ah</F> I like both, <F>er</F> <SC>in the</SC> <F>mm</F> when <R>I</R> I'd like to see the movie at big screen in the theater, <F>er</F> I go to the movie with some girl <R>fri</R> <F>er</F> friends.</B>
+<A>O K.</A>
+<B>And <R>I</R> I feel exciting <F>er</F> sounds in the theater, but <F>er</F> <F>ah</F> there is a <F>mm</F> situation, if <R>I</R> I like to <R>see</R> <F>er</F> <SC>see</SC> watch the movie in silently and <??></??>. <SC>I</SC> for example <R>I</R> I like to watch the <F>mm</F> suspense and thrilling movie to watch, I rent a video and I watch the video in the room.</B>
+<A><F>Hum</F> <F>hum</F> <F>hum</F> <F>hum</F>. Who is your favorite movie star, actor, actress?</A>
+<B><F>Ah</F> I like <F>er</F> Ed Harris.</B>
+<A><F>Mhm-huh</F>. Why do you like him?</A>
+<B><F>Ah</F> <SC>he</SC> him? <OL>Yeah</OL>.</B>
+<A><OL>Him</OL>? O K. Why do you like him?</A>
+<B><F>Ah</F> <SC>he is actor</SC> <SC>he <F>mm</F> capital</SC> he was capital of <F>ah</F> <F>mm</F> "Apollo Thirteen," yeah, and <SC>his role is</SC> <F>er</F> his role was chief of NASA Station. And <F>er</F> his control is very good, <F>er</F> impressed the situation and his <F>er</F> acting <.></.> <F>er</F>. And <R>he</R> he was <F>ah</F> casted "<?>The Rope</?>". <F>Ah</F> it's not good <F>er</F> role as <F>er</F> <F>er</F> "Apollo Thirteen," but his acting is very nice.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K, thank you very much. This is almost end of interview.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>And <F>er</F> this <OL>weekend</OL>,</A>
+<B><OL>Yeah</OL>.</B>
+<A>do you have any special plans to do?</A>
+<B><F>Mm</F> in Saturday, I have to go to <F>er</F> a English conversation lesson</B>
+<A><OL><??></??></OL>.</A>
+<B><OL><F>er</F></OL> <R>in</R> in Nova.</B>
+<A>That's great. <F>Ah</F> I see.</A>
+<B>Yeah. After then, <R>I</R> <SC>I will</SC> I'm going to <F>er</F> <H pn="school name1">XXX08</H> to submit my report. <F>Er</F> <R>now</R> now <R>I'm student</R> I'm student <F>erm</F> <H pn="school name1">XXX08</H> <?>liberal arts</?> school.</B>
+<A><F>Oh</F> I see. What's your major?</A>
+<B><SC>I'm <SC>major</SC> <F>er</F> Master of</SC> <F>er</F> I'm major business administration.</B>
+<A><F>Oh</F>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>I see</OL>. O K, so how much longer do you have to go to school?</A>
+<B><SC>I have been going to</SC> I have been going there <F>ah</F> since last April. It's almost one year.</B>
+<A>One year.</A>
+<B>Yeah.</B>
+<A>O K. <F>Well</F> <F>er</F> thank you very much. This is all.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

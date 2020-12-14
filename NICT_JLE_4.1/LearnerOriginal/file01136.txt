@@ -1,0 +1,166 @@
+<interview>
+<filename>file01136.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>330</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. <F>Er</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B><JP><F>Eh</F></JP>?</B>
+<A>Can I call you <OL><H pn="B's name">XXX02</H></OL>?</A>
+<B><OL><F>Ah</F> <H pn="B's name">XXX02</H></OL>. <JP>Hai</JP>. Yes.</B>
+<A><F>Er</F> <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><R>I</R> I'm fine, thank you.</B>
+<A><F>Mh-hmm</F>. <OL><F>Mm-hm</F></OL>.</A>
+<B><OL>And you</OL>?</B>
+<A>I'm fine. Thank you. <F>Erm</F> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F> <H pn="others1">XXX03</H>.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> do you live there <F>ur</F> with your family?</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>. Tell me about your family, please.</A>
+<B><F>Er</F> <.></.> <SC>fai</SC> <F>er</F> grandmother, father, mother, me, my sister.</B>
+<A><F>Mh-hmm</F>. <F>Mm</F> tell me about your sister.</A>
+<B><F>Er</F> my sister go to junior high school, <F>er</F> grade two. <F>Er</F> now, <F>er</F> go to travel <F>er</F> Kyoto in school.</B>
+<A><F>Hmm</F>. I see. Do you miss her?</A>
+<B><F>Er</F> <.></.> one more, please.</B>
+<A><F>Ah</F>. <F>Oh</F>. O K. And <F>er</F> what do you do with your sister?</A>
+<B><..></..> <F>Err</F> <.></.> little talk.</B>
+<A><F>Mh-hmm</F>. O K. And <F>er</F> what is your hobby?</A>
+<B><F>Er</F> play badminton, <F>er</F> watching movies and reading books.</B>
+<A><F>Hmm</F>. Where do you play badminton?</A>
+<B><F>Er</F> <?>public</?> <F>er</F> <F>er</F> court.</B>
+<A><F>Mh-hmm</F>. I see. What is good about badminton?</A>
+<B><.></.> Very fun.</B>
+<A><F>Mh-hmm</F>. And what kind of books do you read?</A>
+<B><F>Er</F> movie's novel.</B>
+<A><F>Hmm</F>. Tell me about the last novel that you read.</A>
+<B><F>Er</F> "Gladiator".</B>
+<A><F>Hmm</F>. How was that?</A>
+<B><..></..> I don't remember.</B>
+<A><F>Mm-hm</F>. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <nvs>cough</nvs> <F>er</F> I want you to look at this picture. And please describe this picture.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A>Please tell me anything about this picture.</A>
+<B><F>Er</F> <SC>cat</SC> a cat on the bed. <F>Mmm</F>. <SC>Door <.></.> le</SC> <F>mm</F> door leave to open. <F>Er</F> the girl sitting on the chair, and points the computer. <F>Er</F> the girl crossing <F>er</F> foot. <F>Er</F> now, eight o'clock. <F>Er</F>.</B>
+</task>
+<followup>
+<A>O K. <F>Er</F> can you tell me the difference between this room and your own room?</A>
+<B><F>Er</F> <SC>my room</SC> <F>er</F> cat and dogs isn't be my room. And <..></..> this room is very clean. <F>Er</F>. <..></..></B>
+<A>O K. <F>Er</F> do you have your own computer?</A>
+<B><F>Er</F> yes.</B>
+<A>What do you use it for?</A>
+<B><F>Mm</F> desktop.</B>
+<A>For what purpose, do you use your computer?</A>
+<B><F>Ah</F>. <F>Er</F> study, hobby, <F>er</F> <..></..> <F>er</F> find the information.</B>
+<A><F>Mh-hmm</F>. O K. <F>Erm</F> thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now <F>er</F> <F>ur</F> we'd like to do a role play.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>And I want you to read this card. And after you finish reading, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. Ring ring. Hello?</A>
+<B>Hello. <F>Er</F> <R>let's</R> let's go the movie.</B>
+<A><F>Hmm</F>. <OL><CO>That's</CO></OL>.</A>
+<B><OL><CO><?>That</?></CO></OL>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Um</F>. <F>Mm</F>.</B>
+<A>That sounds great.</A>
+<B><F>Er</F> <F>Er</F> <..></..> tomorrow, <F>er</F> <..></..> <SC>ei</SC> <F>er</F> <R>nine</R> nine o'clock, <F>er</F> go to the theater. Taking bus, O K?</B>
+<A>Yeah. O K.</A>
+<B><F>Er</F>. <..></..></B>
+<A>So where <R>ss</R> should I go?</A>
+<B><..></..> <F>Ah</F> <F>er</F> Nayoyama Station, nine o'clock.</B>
+<A><F>Mh-hmm</F>. O K.</A>
+<B><.></.></B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Erm</F>. Tell me about the last movie you watch.</A>
+<B><F>Erm</F> <.></.> "Patriot".</B>
+<A><F>Mh-hmm</F>. <.></.> How did you like it?</A>
+<B><F>Mmm</F>. <..></..></B>
+<A>Was it interesting?</A>
+<B>Main actor is very <SC>in</SC> <F>er</F> <F>mm</F> <JP>nan</JP> <F>er</F> good.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <.></.> third characters is good.</B>
+<A><F>Mh-hmm</F>. Who was main actor?</A>
+<B><F>Er</F> Mel Gibson.</B>
+<A><F>Mh-hmm</F>. <SC>What for</SC> <F>er</F> <R>what</R> what point do you think he is good?</A>
+<B><F>Erm</F>. <.></.></B>
+<A>What is the good point of <SC>him</SC> his acting?</A>
+<B><..></..></B>
+<A>Very tough?</A>
+<B><F>Er</F> very strong.</B>
+<A><F>Mh-hmm</F>. I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you very much. Now <F>erm</F> next, I want you to look at this picture. And I want you to make up a story based on these pictures from one to four. And this <SC>happ</SC> <F>er</F> so just please make up a story. Brief story is O K.</A>
+<ctxt>interviwee is looking at the picture.</ctxt>
+<A><nvs>cough</nvs></A>
+<B>The boy and girl go to the zoo <F>er</F> <R>at</R> at the Sunday. <F>Er</F> they go around the zoo. At first, they see a lion. And the last, they see the monkey. <F>Er</F> <..></..> <F>er</F> they go back to their home.</B>
+</task>
+<followup>
+<A><F>Mh-hmm</F>. O K. Thank you very much. Where do you usually go with your friends?</A>
+<B><F>Er</F> <..></..> Arena.</B>
+<A>Arena?</A>
+<B>Arena. <F>Er</F> <F>er</F> <..></..> <R>in</R> in a ground.</B>
+<A><F>Ah-ha</F>.</A>
+<B><?>Yeah</?>.</B>
+<A>And what do you do there?</A>
+<B>Play badminton.</B>
+<A><F>Ah</F> I see. <F>Er</F> what kind of animals do you like?</A>
+<B><F>Er</F> <F>ur</F> <F>mm</F> I like dog.</B>
+<A><F>Mh-hmm</F>. Why do you like dogs?</A>
+<B><F>Mmm</F> <..></..> very fun.</B>
+<A><F>Hmm</F>. <SC>Do you have your ow</SC> <SC>you</SC> do you have a dog?</A>
+<B>No.</B>
+<A><F>Mh-hmm</F>. I see. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Er</F> the interview is almost over. So <F>er</F> what is your plan after this today?</A>
+<B><F>Erm</F> <.></.> <SC>this</SC> <F>er</F> I go to study three hours.</B>
+<A>Three hours.</A>
+<B><CO>And <F>ur</F> <F>er</F> <..></..> <F>er</F></CO>. <nvs>laughter</nvs></B>
+<A><F>Er</F> do you have an examination or tests?</A>
+<B><F>Mmm</F>. <F>Mmm</F> <R>not</R> not yet.</B>
+<A>No. <F>Hmm</F>. But you study <SC>three hour</SC> for three hours today.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Ohh</F> you are a very good student.</A>
+<B><nvs>laughter</nvs></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>So <SC>are you</SC> what other things are you going to do today? <SC>ex</SC> besides studying?</A>
+<B><F>Er</F> go to my home and sleep.</B>
+<A><F>Hmm</F>. O K. <nvs>laughter</nvs> O K. Thank you very much. I hope <R>you</R> you can enjoy your studying. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. <OL>Thank you</OL> very much.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

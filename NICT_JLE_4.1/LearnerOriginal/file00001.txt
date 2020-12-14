@@ -1,0 +1,235 @@
+<interview>
+<filename>file00001.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>615</TOEIC>
+<TOEFL>513</TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hello, <H pn="B's name">XXX02</H>.</A>
+<B><OL>Hello</OL>.</B>
+<A><OL>How are you</OL>?</A>
+<B><F>Um</F> I'm fine, but I'm a little <laughter>nervous</laughter>.</B>
+<A><F>Ah</F> it's O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Mhm</F> so, have you been busy these days?</A>
+<B>Yes. <F>Mm</F> because, <F>mmm</F> <R>I</R> I had to hand in my graduation thesis in December,</B>
+<A><F>Uhm</F>.</A>
+<B>so <F>mmm</F> <R>I</R> <F>mm</F> I was busy, but <F>mm</F> now I finished it. <CO>So</CO>. <OL><F>Mmm</F></OL>.</B>
+<A><OL><F>Oh</F> good</OL>.</A>
+<B>Yes. <F>Um</F>.</B>
+<A><F>Uhm</F> I see. So now, <F>err</F> winter vacation is soon coming, right?</A>
+<B><F>Mm</F> yes, but now, not yet <F>mm</F>. <F>Mmmm</F> maybe next week, <F>mm</F> winter vacation <F>mm</F> will start.</B>
+<A>I see. What's you plan for the holiday?</A>
+<B><nvs>laughter</nvs> I don't have any plan. <nvs>laughter</nvs> <F>Uhm</F> maybe, <F>mmm</F> <F>mmm</F> <SC>I work</SC> <F>mm</F> <R>I</R> <F>um</F> I work for five or six days. <F>Um</F>.</B>
+<A><F>Uhm</F>.</A>
+<B>But <F>mm</F> <R>I don</R> <F>mm</F> I don't go any place. <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>. What kind of job will you do?</A>
+<B><F>Mm</F> I have a part-time job as a <R>rece</R> receptionist</B>
+<A><F>Wow</F>.</A>
+<B>at a computer school. <OL><F>Mmm</F></OL>.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><SC>So</SC> <F>mmm</F> but, <F>mm</F> <F>mm</F> maybe, <F>mm</F> <R>twen</R> twenty eighth or twenty ninth</B>
+<A><F>Um</F>.</A>
+<B>is <F>mmm</F> the last day <F>mm</F> my work. <F>Mhm</F>.</B>
+<A>I see. <F>Uhm</F> and are you going to eat nice new year food after that?</A>
+<B><F>Mmmm</F> <?>yes</?>, <F>mm</F> but, <F>mm</F> <F>mmm</F> maybe no. <nvs>laughter</nvs></B>
+<A>Why?</A>
+<B>Because <OL><F>uhm</F></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>mm</F> <R>I</R> <F>mm</F> I don't like <SC>typical new year food</SC> <R>Japa</R> Japanese typical new year food, <nvs>laughter</nvs> so <F>mmm</F> <R>I</R> <F>mm</F> I want to <F>mm</F> eat <F>mm</F> <laughter>normal food</laughter>.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes. <OL><F>Uhm</F></OL>.</B>
+<A><OL><F>Oh</F></OL> but they are delicious, I guess.</A>
+<B><F>Uhmm</F>. <R>I</R> <F>umm</F> I don't like <JP>Osechi</JP>.</B>
+<A><OL>Why not</OL>?</A>
+<B><OL><F>Uhmm</F></OL>. Why not? <F>Mmm</F> <F>mmm</F> <F>mm</F> since <R>I was</R> <F>mm</F> I was small, <F>mm</F> I don't like it. <F>Mm</F> <F>mm</F>.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>O K, thank you, <H pn="B's name">XXX02</H>. Now, I'm going to show you a picture. Please describe it.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at the picture and thinking for a while.</ctxt>
+<B>It's a sunny day, and <F>mm</F> it's a small town. And <F>mm</F> <SC>there is a</SC> <R>there are</R> there are three houses, but I guess <F>mm</F> there are lot of houses. <F>Mm</F>. And <SC>in front of a hou</SC> in front of one house, one girl <R>play</R> <F>mmm</F> play <JP>nawatobi</JP>, <F>mm</F> <R>and</R> and then, on the road, one guy is running and he is sweating. <F>Um</F>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <R>And</R> <F>mmm</F> and <F>mm</F> <.></.> on the road, <F>um</F> there is one car,</B>
+<A><F>Uhm</F>.</A>
+<B>and on the car one cat is sleeping.</B>
+<A><F>Uhm</F>.</A>
+<B>And near the car <R>two</R> two women is talking and <SC?>one guy</SC?> one woman <R>is</R> <F>um</F> is with maybe her dog.</B>
+<A><F>Uhm</F>.</A>
+<B>And opposite the road, there is one <.></.> <R>old</R> <R>old</R> old man</B>
+<A><F>Um</F>.</A>
+<B>reading newspaper</B>
+<A><F>Um</F>.</A>
+<B><R>and</R> and <R>sitting</R> sitting the chair. <F>Um</F>. <CO>And</CO>. <.></.> <F>Um</F>.</B>
+</task>
+<followup>
+<A><F>Um</F>. O K, great, <H pn="B's name">XXX02</H>. Thank you. <F>Er</F> we see some pets here, but do you have a pet?</A>
+<B><F>Er</F> yes. <F>Um</F>.</B>
+<A><F>Oh</F>.</A>
+<B><F>Mmm</F> I <?>have</?> one cat. <F>Mmm</F> and <SC>she is</SC> <F>mm</F> she has ugly face. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>She has a lots of <SC>color</SC> <R>colo</R> colorful hair,</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>and</OL> <nvs>laughter</nvs> <F>mmm</F> very mixed. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><SC>That is</SC> <F>mm</F> that looks like ugly. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> How did you get the cat?</A>
+<B><F>Uhm</F> because <F>erm</F> <F>erm</F> my cat <R>came</R> <F>mm</F> <R>came</R> came my house,</B>
+<A><F>Uhm</F>.</A>
+<B>and <F>mm</F> <R>she</R> she looks like very hungry.</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter><R>And</R></laughter> and <SC>she is a</SC> she was very small, so we thought <F>mm</F> poor cat,</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><R>and</R></OL> and maybe <R>she</R> <F>mm</F> she was <SC>young</SC> one young cat, <F>mm</F> and <R>we</R> <F>mmm</F> <R>we</R> we was getting <R>to</R> to <R>give her foo</R> <OL>give her</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>foods. So, <F>mm</F> she thought <nvs>laughter</nvs> <F>um</F> <R>this</R> this was my house. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. O K. Thank you. Nice family.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, thank you. Now <F>er</F> please read this card, and let's do the role play.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<A>O K? <OL>Are</OL></A>
+<B><OL><F>Um</F></OL>.</B>
+<A>you ready?</A>
+<B>Yes.</B>
+<A>Hello. May I help you, miss?</A>
+<B><F>Er</F> yes. <F>Mmm</F> <R>I want to</R> <SC>I want to</SC> <SC>I want</SC> <F>mm</F> <nvs>laughter</nvs> sorry, <F>mm</F> <.></.> I want to <F>err</F> watch.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Um</F>.</B>
+<A>Yes.</A>
+<B><F>Um</F> and <F>mmm</F> I prefer <F>mm</F> leather watch.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F> and <F>mmm</F> <R>do you have</R> <F>mm</F> do you have something special one?</B>
+<A>Something special?</A>
+<B>Yeah. <F>Mm</F> because <F>mm</F> <R>I want to</R> <F>mm</F> <SC>I want to give it to my</SC> <F>er</F> I want to give it <F>um</F> my father</B>
+<A><F>Um</F>.</A>
+<B><SC>for my</SC> <SC>for her</SC> for his birthday.</B>
+<A>I see.</A>
+<B><F>Um</F> so <F>mmm</F> <F>mmm</F> <SC>band is</SC> <SC>band was</SC> band is <SC>made of</SC> <SC>made by</SC> made of leather,</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>I</OL> mean.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Do you have it?</B>
+<A><F>Uh</F> yes, but it depends on the price. <?>The</?> designs will be different, so <OL>how much</OL></A>
+<B><OL><F>Err</F></OL>.</B>
+<A>can you pay for that?</A>
+<B><F>Mmm</F> <.></.> <F>mm</F> <.></.> maybe <nvs>laughter</nvs> I said <SC?>I'm</SC?> I want to have special one,</B>
+<A><F>Um</F>.</A>
+<B>but <F>er</F> I don't have enough <laughter>money</laughter>, <OL>so</OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>mm</F> <R>it</R> it costs <F>mm</F> around <..></..> fifty thousand yen.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F>.</B>
+<A>O K. Then you can buy nice one. How about this one? This is nice for a businessman, <OL><?>I guess</?></OL>.</A>
+<B><OL>Businessman</OL>? <F>Uhm</F> but <SC?>I mi</SC?> <F>mmm</F> I think <R>it's a</R> <F>uhu</F> <.></.> it's <R>a</R> a little simple.</B>
+<A>I see.</A>
+<B><F>Uhm</F>.</B>
+<A><F>Mhm</F>. What kind of design <OL>do you</OL></A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A>like?</A>
+<B><F>Mmm</F>. I like this one, but <F>mmm</F> I prefer <R>more</R> <F>um</F> <.></.> more decorated. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Then, how about this one?</A>
+<B><OL><laughter><F>Oh</F> <F>err</F></laughter></OL>.</B>
+<A><OL><?>This is great one</?></OL>, and just fifty thousand yen.</A>
+<B>Fifty thousand? <F>Oh</F> yeah. So <F>mmm</F> I want to buy it. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Thank you. And how would you like to pay?</A>
+<B><F>Uhu</F> by cash.</B>
+<A><?>O K</?>. O K, here you go. Thank you very much.</A>
+<B>Thank you very much. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>O K</OL>. Great, <H pn="B's name">XXX02</H>. <F>Hum</F>. So, for this Christmas, are you going to buy a present for your father?</A>
+<B><F>Mmm</F> yes. <F>Mmm</F>. I want to buy <F>uhu</F> <R>some</R> <F>mm</F> some comfortable sweater. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B>But <nvs>laughter</nvs> I don't have enough money.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL>so</OL> now, <R>I</R> <F>mm</F> I look for <R>some</R> <F>mm</F> <R>some</R> <F>mm</F> some good one.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Wow</F> nice. O K. Thank you, <H pn="B's name">XXX02</H>. Now, please look at this. Make a story using these six pictures. And please start with "One day last week".</A>
+<B>"One day last week"?</B>
+<ctxt>The interviewee is looking at the cards and thinking for a while.</ctxt>
+<B>O K. <F>Mmm</F>. <..></..> <F>Mmm</F> <SC>one day</SC> <F>mm</F> <?>so</?> <..></..> one day after class, <R>one</R> <R>one university student</R> <F>mmm</F> <.></.> one university student and his professor go to some restaurant. And his professor <SC>recommend</SC> <R>recommen</R> recommended one restaurant, so <R>he</R> <F>mm</F> <F>mm</F> <SC>he followed his pro</SC> he <?>followeded</?> his professor. And then, <F>mm</F> <..></..> <F>mmm</F> <.></.> his professor <SC>has a</SC> has <F>mm</F> <R>favo</R> <R>favo</R> favorite seat, so <R>he said</R> <F>mm</F> he said "<R>I wanted to</R> I wanted to sit that table.". And <F>mm</F> after sitting, <nvs>cough</nvs> <F>mm</F> <F>mm</F> <R>one wai</R> <F>mm</F> one waitress <SC>asked them</SC> <R>ask them</R> <SC>ask them the</SC> asked them the menu, <R>and</R> <F>mm</F> <.></.> and <.></.> university student felt very hungry. So, <F>mm</F> <.></.> <R>he asked</R> he asked her big dishes, and <F>mm</F> his professor said, "<SC>That's O K</SC> that was O K. <SC>You were very</SC> <R>you were</R> you were young so you had <OL>better</OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>to eat <F>mm</F> a lot.".</B>
+<A><F>Uhm</F>.</A>
+<B><F>Um</F> and <F>mm</F> <.></.> his professor felt <R>very</R> <F>umm</F> very happy</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>and</OL> <R>he</R> <F>mm</F> <SC>he</SC> <SC>they were very</SC> <F>mm</F> <.></.> <SC>they were</SC> <F>mm</F> <R>they</R> <F>mm</F> they enjoyed very much.</B>
+<A><F>Uhm</F>.</A>
+<B>So <F>mm</F> <R>he</R> <SC>he want</SC> <F>mm</F> <SC>the pro</SC> <F>mm</F> the university student ordered some beer.</B>
+<A><F>Um</F>.</A>
+<B><R>And</R> <F>um</F> <.></.> and <F>mmm</F> after eating, <nvs>cough</nvs> his professor said, "<SC>That's my</SC> that was my treat," so <F>mm</F> his professor paid all money.</B>
+<A><F>Uhm</F>.</A>
+<B>And <F>uhm</F> university student</B>
+<A><F>Uhm</F>.</A>
+<B><SC>feel</SC> felt very happy. After that, <R>we</R> <F>uhm</F> <F>um</F> <SC>we</SC> they said, "Good-bye.".</B>
+</task>
+<followup>
+<A><F>Uhm</F>. Good. Thank you. <F>Er</F> <H pn="B's name">XXX02</H>, does it often happen that students go out drinking with their professor?</A>
+<B><F>Hum</F> maybe <F>uhm</F> once a week. No, no, no. Week, no, no, no, <OL>no</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Once a year.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><F>Uhm</F></OL>. <R>After</R> <R>after all class</R> after all class finished.</B>
+<A><F>Uhm</F>.</A>
+<B>Maybe, <F>mmm</F> <F>mm</F> <.></.> professor <F>mm</F> paid all money.</B>
+<A><F>Wow</F>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL><F>Hum</F></OL> <F>hum</F> <F>hum</F>. And what do you think of that as a student?</A>
+<B><F>Uhu</F> but <F>uhm</F> <F>mm</F> <SC>if</SC> <F>mmm</F> <F>eh</F> when I had a chance to eat with my professor,</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><F>mm</F></OL> <laughter><F>er</F> I felt so nervous</laughter>,</B>
+<A><OL><laughter><?>Yeah</?></laughter></OL>.</A>
+<B><OL><laughter><?>so</?></laughter></OL> <SC>I don</SC> <R>I</R> <F>mm</F> I don't like it. <OL><nvs>laughter</nvs> <??></??> <?>yes</?></OL>.</B>
+<A><OL><nvs>laughter</nvs> O K</OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Thank you.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>So the <SC>en</SC></OL> interview is almost over, but <F>er</F> what's your plan <F>er</F> for this weekend?</A>
+<B>This <OL>weekend</OL>?</B>
+<A><OL><?>Yeah</?></OL>.</A>
+<B>This weekend, <F>mm</F> on Saturday,</B>
+<A><F>Um</F>.</A>
+<B>I'm going to work. <CO>And <OL>on</OL></CO>.</B>
+<A><OL><F>Ah</F></OL></A>
+<B><F>Um</F>.</B>
+<A>you have to work on Saturday?</A>
+<B><F>Mhm</F> usually <R>I work</R> <F>mm</F> <SC>I work on <R>Sa</R> Saturday</SC> <F>um</F> I work on Saturday. And on Sunday, <F>uhm</F> <laughter>I don't have any</laughter></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>plan</OL>.</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+<A>O K. Thank you very much for coming in today.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

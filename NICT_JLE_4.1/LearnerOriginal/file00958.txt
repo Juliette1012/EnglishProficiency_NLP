@@ -1,0 +1,191 @@
+<interview>
+<filename>file00958.txt</filename>
+
+<head version="1.3">
+<date>2002-01-29</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have you name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you?</A>
+<B>I'm fine, thank you.</B>
+<A>Good. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Ur</F> what do you study at the school?</A>
+<B><.></.> <F>Urm</F> <.></.> <R>I</R> <.></.> I <F>uhm</F> studying <F>ur</F> furniture <.></.> <F>urr</F> <.></.> and architect.</B>
+<A><F>Uh-huh</F>. <.></.> <F>Ur</F>.</A>
+<B>Yeah.</B>
+<A>Why?</A>
+<B><F>Urr</F> <nvs>cough</nvs> <.></.> I like furniture. Yeah. And <nvs>cough</nvs> I like <.></.> <R>maki</R> making.</B>
+<A><F>Uhm</F>. I see. <F>Ur</F> please tell me about <.></.> <F>urm</F> <.></.> your favorite teacher.</A>
+<B><F>Urrr</F> <.></.> <F>urr</F> it's different <.></.> question. <F>Ur</F> <.></.> <F>ah</F> I like <.></.> <SC><H pn="others1">XXX03</H></SC> <.></.> Mister <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>. <.></.> What is he like? Please tell me about him.</A>
+<B><F>Urr</F> <R>he</R> <F>uhm</F> <.></.> he is <.></.> very <.></.> fun.</B>
+<A><F>Uh-huh</F>. <F>Uhm</F>. O K. <F>Urm</F> do you have a part-time job?</A>
+<B><F>Uhm</F> no.</B>
+<A>No? <F>Uhm</F> so what do you do <.></.> in your free time?</A>
+<B><F>Uhhh</F> <..></..> <F>uhmm</F> <.></.> <R>listen</R> listen music <.></.> and watch T V, <.></.> <F>uhm</F> <.></.> <F>ur</F> and more.</B>
+<A><F>Uhm</F>. O K. <F>Urm</F> <SC>what's</SC> <.></.> what kind of T V shows do you watch?</A>
+<B><F>Urr</F> <.></.> I like <.></.> music <.></.> program <F>uhm</F> <.></.> and variety. <.></.></B>
+<A><F>Uhm</F>. O K. <F>Urm</F> <.></.> do you have any hobbies?</A>
+<B><F>Ur</F> my hobby is <.></.> <F>uhm</F> <SC>shopping</SC> <.></.> <F>uhm</F> <nvs>cough</nvs> <.></.> yeah, shopping.</B>
+<A><F>Uhm</F>. <.></.> Tell me about a nice store</A>
+<B><OL><F>Ahh</F></OL>.</B>
+<A><OL>you go to</OL>.</A>
+<B><F>Uhmmm</F> <.></.> many many <.></.> <F>ur</F> <F>urm</F> <.></.> <F>uhmm</F> <.></.> Santa Monica Yuhodou <.></.> and more.</B>
+<A><F>Uh-huh</F>. What is the inside like?</A>
+<B><F>Urr</F> <.></.> <F>err</F> <.></.> <F>ur</F> <.></.> what inside?</B>
+<A>Inside of the store?</A>
+<B><F>Urm</F> <.></.> <F>ur</F> <.></.> Omote-Sando Street.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ohh</F> O K. You like that street. I see. O K. <F>Uhm</F> thank you. Now, I'm going to show you a picture. Please tell me about this picture.</A>
+<B><F>Urm</F> <nvs>cough</nvs> this picture is <.></.> party scene.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhmm</F> <..></..> <F>uhm</F> <.></.> people <SC>is enjoying</SC> <.></.> enjoy. <F>Urr</F> <nvs>cough</nvs> <.></.> <F>ah</F> she is playing <.></.> the piano. <F>Urr</F> <nvs>cough</nvs> <.></.> <F>err</F> <.></.> <F>errr</F> <.></.> <R>he</R> <F>ur</F> <.></.> <F>urr</F> he <.></.> is <.></.> smile.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F> <.></.> <F>uhm</F> <F>ah</F> <nvs>cough</nvs> he <.></.> love <.></.> her.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Urm</F> <nvs>cough</nvs> <.></.> <F>uhm</F>. <..></..></B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K.</A>
+<B><F>Ur</F>.</B>
+<A>Thank you. So why do you think <laughter>he loves her</laughter>?</A>
+<B><F>Uhmm</F> <..></..> <F>ur</F> <.></.> face.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <F>Uhm</F>. <..></..> <nvs>laughter</nvs> <OL>Face</OL>.</B>
+<A><OL>O K</OL>. <F>Urm</F> what kind of party <OL>is this</OL>?</A>
+<B><OL><F>Urrr</F></OL> <.></.> <F>uhm</F> <.></.> <F>uhm</F> <F>uhm</F> <.></.> <R>dinner</R> <.></.> dinner party.</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> <F>Uhm</F>.</B>
+<A>O K. When you have a party, what do you like to do? <R>Wai</R> wait. <R>When</R> when you have a party,</A>
+<B><F>Uhm</F>.</B>
+<A>what do you like to do?</A>
+<B><F>Urr</F>. <..></..> <F>Uhm</F> <.></.> <F>ah</F> <SC>what me</SC> what to do like <.></.> to <.></.> you?</B>
+<A>When you have a party, do you like to have a nice dinner?</A>
+<B><.></.> <F>Ur</F>. <.></.> I don't know.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>No? <nvs>laughter</nvs> O K. No problem. Thank you. Now, we are going to do a role-play. <F>Uhm</F> please</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>read this card. And when you're ready, please tell me.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Uhm</F>. <.></.> <F>Uhm</F> <F>uhm</F>. <F>Urr</F>.</B>
+<A>O K?</A>
+<B><OL>O K</OL>.</B>
+<A><OL>May I</OL> help you, sir?</A>
+<B><F>Urr</F> <SC>I want to</SC> <nvs>cough</nvs> <F>uhm</F> <.></.> <F>urm</F> <F>ur</F> <.></.> <R>cou</R> could you give me <.></.> the <.></.> ticket <.></.> <F>urr</F> <.></.> to New York</B>
+<A>O K.</A>
+<B><F>ur</F> <F>urr</F> <.></.> at <.></.> fifteen o'clock?</B>
+<A>O K. We have three kinds of trains.</A>
+<B><.></.> <F>Uh</F>? <..></..> <F>Urr</F> train</B>
+<A><F>Uh-huh</F>.</A>
+<B>ticket.</B>
+<A><F>Uh-huh</F>. Yeah. We have three types of trains.</A>
+<B><F>Ur</F> <.></.> three type?</B>
+<A><F>Uh-huh</F>. <.></.> We have local,</A>
+<B><OL><F>Urr</F></OL>.</B>
+<A><OL>express</OL>, and superexpress.</A>
+<B><F>Ur</F> superexpress.</B>
+<A>O K. <.></.> <F>Urm</F> <.></.> O K. So how many tickets?</A>
+<B><F>Ur</F> one.</B>
+<A>One? O K. The next superexpress leaves in fifteen minutes.</A>
+<B>Yeah.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>All right. So one ticket for New York. Here you go.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. <nvs>laughter</nvs> This is the end of the role-play. <F>Uhm</F>. <.></.> Have you been to New York before?</A>
+<B>No.</B>
+<A>No? <nvs>laughter</nvs> Do you like to travel?</A>
+<B><F>Urr</F> yes.</B>
+<A><F>Uhm</F>. <.></.> <F>Um</F> tell me about a nice place</A>
+<B><OL><F>Ur</F></OL>.</B>
+<A><OL>to travel</OL>.</A>
+<B><F>Uhmm</F> last summer, <F>ur</F> <.></.> I <.></.> went to Kyoto.</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> Very <.></.> nice <.></.> town.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ur</F> old <.></.> architect. <.></.></B>
+<A><F>Uhm</F>. What did you do there?</A>
+<B><.></.> <F>Urm</F>. <..></..> <F>Um</F>?</B>
+<A>What did you do in Kyoto?</A>
+<B>Kyoto? <.></.> <F>Urrr</F> <.></.> <nvs>cough</nvs> I don't know. What did you do? <.></.></B>
+<A>You saw temples, <.></.> right?</A>
+<B><F>Ahh</F>. <.></.> Temple. <.></.> Yeah.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><R>I</R></OL> <SC>I</SC> <.></.> yeah, I went to <SC>temple</SC> <.></.> old temple.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhm</F>. Nice. <nvs>laughter</nvs> O K. Thank you. Now, I have another picture. Please look at these four pictures, one, two, three, four. And make up a story.</A>
+<B><F>Oh</F>.</B>
+<A>O K? Start here.</A>
+<B><F>Urr</F> "Yeah, yoo-hoo. <F>Urr</F> <nvs>laughter</nvs> <.></.> <F>uhmm</F> <JP>nanda</JP> <F>uhm</F> <.></.> <R>I</R> <.></.> <F>ur</F> <SC>I will see</SC> <F>er</F> I will watch the movie, yeah.". <F>Ur</F> <.></.> "<R>Me, too</R> me, too.". <F>Urm</F> <.></.> <F>urm</F> <.></.> <nvs>cough</nvs> <.></.> <JP><F>aato</F></JP> <.></.> "<R>Change</R> <.></.> change <F>uhmm</F> twenty yen.". <.></.> <F>Urr</F> <.></.> "Thank you.". <nvs>cough</nvs> <nvs>cough</nvs> <F>Err</F> <..></..> <F>uhm</F> <.></.> <F>uhm</F>. "<SC>Very</SC> <.></.> <F>urr</F> <.></.> <F>urrm</F> <..></..> Kyaaa.". <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> <F>urm</F> <.></.> "Very nice movie. Yeah.". <.></.> End.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. <.></.> How often do you watch movies?</A>
+<B><F>Urm</F> <.></.> <F>urr</F> <..></..> <R>five</R> <..></..> five.</B>
+<A>Five.</A>
+<B><.></.> How often watch the movie?</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Yeah.</A>
+<B><F>Urr</F></B>
+<A>Sometimes <OL>do you watch movies</OL>?</A>
+<B><OL><F>Urrr</F></OL>.</B>
+<A>Sometimes?</A>
+<B><F>Urr</F> yes. Sometimes.</B>
+<A><F>Uhm</F>. O K. <F>Urm</F> <.></.> <F>uhm</F> what kind of movie</A>
+<B><OL><F>Urmm</F></OL></B>
+<A><OL>do you like</OL>?</A>
+<B><.></.> <F>urm</F> <.></.> action and <F>uhm</F> <.></.> <F>ur</F> <.></.> punk movie.</B>
+<A><F>Uhm</F>. What's punk movie?</A>
+<B><F>Urrr</F> <.></.> for example, <F>uhm</F> "Train Spotting" <.></.> <F>uhm</F> <..></..> and <nvs>cough</nvs> <F>ur</F> <.></.> <F>ur</F> <.></.> "<R>Orange</R> <F>ur</F> <.></.> Orange <F>ur</F> <.></.> Clock". <OL><F>Ur</F></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A><OL><F>Uhm</F></OL>. I see. O K. Thank you. Now, we're almost finished with this interview.</A>
+<B><F>Uhm</F>.</B>
+<A><F>Uhm</F>. Are you going shopping after this?</A>
+<B><.></.></B>
+<A>Are you going shopping <OL>today</OL>?</A>
+<B><OL><F>Ahh</F></OL> yes.</B>
+<A>Yes? <nvs>laughter</nvs> To Omote-Sando?</A>
+<B>Yeah.</B>
+<A><laughter>Really</laughter>? <nvs>laughter</nvs> <F>Uh-huh</F>. What are you going to shop for? Some clothes?</A>
+<B><F>Ah</F> clothes.</B>
+<A>O K. I hope you'll have a good time.</A>
+<B><.></.></B>
+<A>O K. Thank you very much.</A>
+<B><.></.> Thank you.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

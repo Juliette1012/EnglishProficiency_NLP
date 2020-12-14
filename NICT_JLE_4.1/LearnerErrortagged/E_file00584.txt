@@ -1,0 +1,189 @@
+<interview>
+<filename>E_file00584.txt</filename>
+
+<head version="1.3">
+<date>2001-06-22</date>
+<sex>male</sex>
+<age>32</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>350</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A><F>Hum</F>. Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A><F>Um</F>. So, where do you live?</A>
+<B>I live in <H pn="others1">XXX02</H> city.</B>
+<A><F>Um</F>. Alone?</A>
+<B>Yes.</B>
+<A>O K. So, where is your hometown?</A>
+<B>Yes. <F>Er</F>.</B>
+<A><F>Um</F>. Where is your home town?</A>
+<B>My hometown is <R><H pn="others1">XXX02</H></R></B>
+<A><H pn="others1">XXX02</H>?</A>
+<B><H pn="others1">XXX02</H>. Yes.</B>
+<A><F>Er</F>. O K. <F>Er</F>. Can you tell me about the area where you live?</A>
+<B>Area?</B>
+<A><F>Hum</F>.</A>
+<B><.></.> I live in <R><H pn="others2">XXX03</H></R> <H pn="others2">XXX03</H>.</B>
+<A><F>Hum</F>. Can you explain more about <H pn="others2">XXX03</H>?</A>
+<B><F>Um</F>. <.></.></B>
+<A>Is there anything special?</A>
+<B>Yes. <.></.></B>
+<A><F>Um</F>.</A>
+<B><.></.></B>
+<A><F>Um</F>. Is there <F>er</F> <at odr="1" crr="a"></at> shopping mall?</A>
+<B><.></.> Shopping mall? <F>Uum</F>. Seiyu store.</B>
+<A><F>Um</F>. O K. So, when you buy clothes, where do you usually go?</A>
+<B><F>Ee</F>. <.></.> <F>Uum</F>. Makuhari city.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. Outlet mall.</B>
+<A><F>Hum</F>. Why do you go to the outlet mall?</A>
+<B><F>Er</F>. <.></.> There <v_agr odr="1" crr="are">is</v_agr> <o_lxc odr="2" crr="a lot of">lot of</o_lxc> items.</B>
+<A><F>Hum</F>. Which outlet mall do you often go?</A>
+<B><..></..></B>
+<A><F>Um</F>. What is the name of the outlet mall?</A>
+<B>I don't know.</B>
+<A><F>Hum</F>. O K. All right. So, <H pn="B's name">XXX01</H>, <F>er</F> do you have any hobbies?</A>
+<B><R>I</R> I play soccer.</B>
+<A><F>Hum</F>.</A>
+<B><.></.> <SC>I</SC> every weekend. <.></.></B>
+<A><F>Um</F>. So, who do you play soccer with?</A>
+<B><F>Er</F>. <.></.> <av_lxc odr="1" crr="Sometimes">Sometime</av_lxc>, <.></.> <o_uit odr="2">before <R?>co</R?> <R?>coa</R?> <?>coast</?></o_uit>, and, <av_lxc odr="3" crr="sometimes">sometime</av_lxc>, <.></.> <prp_lxc1 odr="4" crr="with"></prp_lxc1> my friends.</B>
+<A>O K. So, why do you like soccer?</A>
+<B><F>Um</F>. <.></.> It's fun.</B>
+<A><nvs>laughter</nvs> Do you like to watch soccer, too?</A>
+<B>Yes.</B>
+<A><F>Um</F>. Which is your favorite soccer team?</A>
+<B><F>Um</F>. My favorite team is Kashima Antras.</B>
+<A><F>Hum</F>. Any favorite <n_num odr="1" crr="players">player</n_num>?</A>
+<B>I like Jiko.</B>
+<A><F>Oh</F>. What's so attractive about Jiko?</A>
+<B><.></.> <F>Hum</F>.</B>
+<A><F>Hum</F>. Why do you like him?</A>
+<B><JP><F>Eetone</F></JP>. <.></.> <R>I</R> I watched play. <.></.> <JP><F>A</F> chigauna, chotto wakaranaidesu</JP>.</B>
+<A><F>Um</F>. O K. O K. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>So, first thing today, please look at this picture, and please tell me about this picture.</A>
+<B><.></.> <F>Um</F>. <.></.> <CO><R>She</R> she</CO>. <JP>Are</JP>? <..></..></B>
+<A><F>Um</F>. Please tell me what you see in this picture.</A>
+<B>Yes. <..></..> <R>Cat</R> <at odr="1" crr="a"></at> cat. The pet. And <.></.> one dog <v_lxc odr="1" crr="is"></v_lxc> on the floor. <.></.> <JP><F>Eeto</F></JP>. <o_uk odr="1" crr="The door is open">Open the door</o_uk>. <..></..> <JP><F>Eeto</F></JP>.</B>
+<A><F>Um</F>. O K.</A>
+</task>
+<followup>
+<A><F>Er</F>. So, does this room look like your room?</A>
+<B><.></.> <SC>She</SC> <R>her</R> <pn_inf odr="1" crr="her">her's</pn_inf> room? <.></.></B>
+<A>So, what kind of things are there in your room?</A>
+<B><.></.> <at odr="1" crr="An"></at> <cap odr="2" crr="audio" ch="1">Audio system</cap>, <con_lxc odr="3" crr="">and</con_lxc> <at odr="4" crr="a"></at> telephone, <con_lxc odr="5" crr="">and</con_lxc> <at odr="6" crr="a"></at> personal computer, <con_lxc odr="7" crr="and"></con_lxc> <at odr="8" crr="a"></at> typewriter.</B>
+<A>Do you have a computer?</A>
+<B>Yes.</B>
+<A>What do you use your computer for?</A>
+<B><..></..> <R>Wat</R> <prp_cmp odr="2" crr="for watching" ch="1"><prp_lxc1 odr="1" crr="for"></prp_lxc1> watch</prp_cmp> <at odr="4" crr="" ch="3">a</at> Internet <n_num odr="3" crr="sites">site</n_num>.</B>
+<A><F>Um</F>. O K. All right. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So, next, we'll try a role play. <F>Uum</F>. O K. Please read this card, and, when you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K? May I help you, sir?</A>
+<B>I want to go to New York <prp_lxc1 odr="1" crr="by">at</prp_lxc1> <SC>fifty for</SC> <JP>chigauna</JP> <n_lxc odr="2" crr="five">fifty</n_lxc> o'clock.</B>
+<A>O K. And, do you want to go to New York quickly?</A>
+<B>Yes.</B>
+<A>O K. And, how many tickets do you need?</A>
+<B>One person.</B>
+<A>Just one person?</A>
+<B>Yes.</B>
+<A>O K. We have two classes.</A>
+<B><.></.> <F>Erm</F>. Economy.</B>
+<A>Is it O K?</A>
+<B><F>Um</F>.</B>
+<A>O K. And you need a ticket?</A>
+<B>Yes.</B>
+<A>O K. So it'll be forty dollars.</A>
+<B>Yes.</B>
+<A><F>Um</F>. O K. Thank you. So, would you like <at odr="1" crr="a"></at> smoking seat or <at odr="2" crr="a"></at> non-smoking seat?</A>
+<B>Smoking seat, please.</B>
+<A>O K. <F>Oh</F> I'm sorry, sir. Smoking <n_num odr="1" crr="seats">seat</n_num> <v_agr odr="2" crr="are" ch="1">is</v_agr> full.</A>
+<B><.></.> Full?</B>
+<A><F>Um</F>. <pn_agr odr="1" crr="They">It</pn_agr> <v_agr odr="2" crr="are" ch="1">'s</v_agr> all booked.</A>
+<B><F>Er</F>. Yes. Non-smoking seat, please.</B>
+<A><F>Er</F>. O K. So, one non smoking seat.</A>
+<B>Yes.</B>
+<A>O K. Here is your ticket.</A>
+<B>Thank you.</B>
+<A><F>Um</F> <F>er</F>. Do you have any thing you want to know?</A>
+<B><F>Err</F>. <..></..> <R>Where</R> where <v_qst odr="1" crr="should I go">I go</v_qst> <prp_lxc2 odr="2" crr="">to</prp_lxc2>? <.></.> Platform number?</B>
+<A>O K. <F>Er</F>. Platform number three.</A>
+<B>Three? O K. Thank you.</B>
+<A>O K. Thank you. Have a nice trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you. This is the end of the role play. So, have you been abroad?</A>
+<B>Yes. <.></.></B>
+<A>Where did you go?</A>
+<B>I <v_tns odr="1" crr="went">go</v_tns> to San Francisco.</B>
+<A><F>Err</F>. Can you tell me the best memory of San Francisco?</A>
+<B>Yes. But <F>er</F> <.></.> <R>bu</R> <SC>business</SC> it <v_tns odr="1" crr="was">'s</v_tns> a business trip.</B>
+<A><F>Hum</F>. Did you do any sightseeing?</A>
+<B><.></.> <o_uk odr="1" crr="No sightseeing">Sightseeing is no</o_uk>. <F>Er</F>. Nothing.</B>
+<A>Nothing?</A>
+<B><av_lxc odr="1" crr="Just">Only</av_lxc> <at odr="2" crr="a"></at> business trip.</B>
+<A><av_lxc odr="1" crr="Just">Only</av_lxc> <at odr="2" crr="a"></at> business trip. <F>Hum</F>. How did you like San Francisco?</A>
+<B><.></.> <F>Um</F>. <..></..> I don't know.</B>
+<A><F>Um</F>. Did you enjoy the trip?</A>
+<B>Yes.</B>
+<A><F>Um</F>. O K. All right.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So, lastly, there is <at odr="1" crr="">an</at> another picture. O K? Please look at this picture. There are four pictures from one to four. And, please tell me what is happening here.</A>
+<B><.></.> <F>Um</F>. A couple <v_agr odr="1" crr="goes">go</v_agr> to the zoo and watching a lion. <.></.> <R>And</R> <.></.> and watching a monkey. <SC>Two</SC> <..></..> <SC>the two</SC> <F>erm</F> <..></..> <R>and</R> and <R>a couple</R> <..></..> a couple <mo_lxc odr="1" crr="">was</mo_lxc> <v_agr odr="2" crr="goes" ch="1">go</v_agr> home.</B>
+<A><F>Um</F>. O K.</A>
+</task>
+<followup>
+<A>So, <H pn="B's name">XXX01</H>, <F>um</F> where is a good place for <at odr="1" crr="the">a</at> first date?</A>
+<B><.></.> <F>Um</F>. No idea.</B>
+<A><laughter>No idea</laughter>?</A>
+<B>Yes.</B>
+<A>Do you like going to <at odr="1" crr="a"></at> zoo?</A>
+<B><.></.> <F>Uum</F>. <.></.> I don't know.</B>
+<A><F>Um</F>. Which do you like better monkeys or lions?</A>
+<B><.></.> Monkeys.</B>
+<A><F>Hum</F>. Why do you like monkeys better?</A>
+<B>Monkeys <mo_lxc odr="1" crr="are"></mo_lxc> always moving.</B>
+<A><F>Err</F>. What's your favorite animal?</A>
+<B><..></..> My favorite animal? I don't know.</B>
+<A><F>Hum</F>. O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So we have come to almost the end of the interview. Do you have any plans for the weekends?</A>
+<B><F>Er</F>. Play soccer.</B>
+<A>Soccer. <F>Er</F>. If it rains do you play soccer?</A>
+<B>Yes.</B>
+<A>In the rain?</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs> <F>Wow</F> <F>uum</F>. And, after playing soccer, what will you do?</A>
+<B><F>Er</F>. <.></.> Drinking beer. <.></.></B>
+<A><F>Um</F>. With the members?</A>
+<B>Yes.</B>
+<A>I see. O K. Thank you very much for coming. This is the end of the interview. O K.</A>
+</stage5>
+</body>
+</interview>

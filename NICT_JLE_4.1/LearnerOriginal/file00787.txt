@@ -1,0 +1,159 @@
+<interview>
+<filename>file00787.txt</filename>
+
+<head version="1.3">
+<date>2001-10-30</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's start. <F>Um</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>Fine, thank you. And you?</B>
+<A>Yes. Me, too. O K. So you've just finished your class today?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. What are you going to do after the class?</A>
+<B><F>Er</F> today?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ur</F>. I'm going home, and have a dinner with my family.</B>
+<A>O K. So please tell me about your family.</A>
+<B>I have a sister and father and mother. <.></.></B>
+<A>O K. Could you tell me a little more about your sister?</A>
+<B>My sister is twenty-one years old. And she study <F>um</F> psychology in <H pn="school name1">XXX03</H>. <.></.></B>
+<A>O K. Then tell me about your major at <H pn="school name2">XXX04</H>.</A>
+<B>I major political science. I'm interested in foreign countries and I want to work for the United Nations in the future. So I study political science.</B>
+<A><F>Hum</F>. Why you want to work there?</A>
+<B><.></.></B>
+<A>Why do you want to work at the United Nations?</A>
+<B>Because <F>um</F> in the United Nations, <F>er</F> Japanese workers are not so <.></.> many. <.></.> <R>So</R> <F>mm</F> <..></..> so I try to contribute to the world.</B>
+<A><F>Hum</F>. O K. So <H pn="B's name">XXX02</H>, <F>er</F> what do you usually do after school?</A>
+<B><.></.></B>
+<A>Today you are going home. But usually?</A>
+<B>Usually, I'm going home, or meet friends, and have dinner with them. <.></.></B>
+<A><F>Hum</F>. What kind of places do you go with your friends to have dinner?</A>
+<B><F>Hum</F>. Italian restaurant <F>um</F> maybe in Shibuya or Shinjuku.</B>
+<A>Why those places?</A>
+<B><F>Uum</F> because <F>mm</F> <..></..> the traffic is convenient. <.></.></B>
+<A>O K. So please tell me about your favorite restaurant in Shibuya or Shinjuku.</A>
+<B><F>Mm</F> I don't know so much restaurants because most of the time, the friend <SC>who go to</SC> who go with dinner know restaurants. And <SC>she tell me</SC> <F>er</F> <R>she</R> <F>er</F> she took me to the restaurant. <.></.></B>
+<A>O K. So <F>err</F> now could you tell me a little more about your friends who you go with dinner?</A>
+<B><F>Er</F>. She is a friend since <F>ur</F> we were junior high school students. <F>Um</F> <SC>she</SC> now she study about economic in <H pn="school name3">XXX05</H>. <.></.></B>
+<A>O K. O K. So you enjoy <F>err</F> the time with your friends <OL><?>who's</?></OL> having dinner?</A>
+<B><OL>Yes</OL>.</B>
+<A>O K. Good.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now <F>err</F> first thing, I'll show you a picture. <F>Mm</F>. Maybe this one. Could you describe this picture for me?</A>
+<B><..></..></B>
+<A><F>Um</F>. If you are ready, please start.</A>
+<B><.></.> A girl is living in a room with a cat and a dog. <R>She</R> she sat down in front of a desk. On the desk, there is a computer and typewriter. <..></..> The cat is sleeping on the bed. And the dog is also sleeping near the bed. <..></..> In this room, there is <..></..> one big window. <..></..></B>
+<A><F>Um</F>. O K, <H pn="B's name">XXX02</H>. Thank you.</A>
+</task>
+<followup>
+<A>So do you have your own room?</A>
+<B>Yes.</B>
+<A><F>Err</F>. Now could you describe yours?</A>
+<B><SC>There is</SC> there are <F>er</F> a desk and bed and closet and a bookshelf. Because my room is very small, <F>um</F> it's very crowded. <nvs>laughter</nvs></B>
+<A>O K. <F>Um</F>. O K. What's the most <F>er</F> different thing <F>er</F> from your room to this room in the picture?</A>
+<B><..></..> I have no animals in my room. <..></..> And my room is not so big like this. <..></..> And I don't have telephone in my room. <..></..></B>
+<A><F>Um</F>. O K. Yeah. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now we are going to do a role-play. O K. So let's say, <F>mmm</F> O K. So please read this card. And when you are ready, I will start.</A>
+<ctxt>The interviewee is reading a card and thinking for a while.</ctxt>
+<A>O K?</A>
+<B><OL>O K</OL>.</B>
+<A><OL><F>Um</F></OL>. O K. So let's say it's on the phone. <F>Um</F> ring-ring, kacha. Hello.</A>
+<B>Hello. This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> hi, <H pn="B's name">XXX02</H>. This is <H pn="A's name">XXX01</H>.</A>
+<B><.></.> Are you free on next Friday?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F>. How about going to movie together?</B>
+<A>Sounds good.</A>
+<B><F>Ur</F>. What kind of movie would you like to watch?</B>
+<A><F>Err</F>. I like all kinds except horror.</A>
+<B>O K. <F>Um</F>. I want to see the movie titled Go. How about going to see Go?</B>
+<A><F>Oh</F>. I don't know anything about the movie.</A>
+<B><F>Mm</F> <F>ur</F> my favorite actor is on movie. <..></..> It's not comedy, but it's serious story. <..></..></B>
+<A><F>Um</F>. Then sounds good. Yeah. Let's watch it.</A>
+<B><.></.> What time are you free?</B>
+<A><F>Er</F> any time.</A>
+<B><.></.> How about <..></..> meeting at noon?</B>
+<A>Sure.</A>
+<B>And have lunch together. And after that, let's see the movie.</B>
+<A>Sounds great.</A>
+<B><..></..> <R>Whe</R> where is your nearest movie theater?</B>
+<A>I guess Shinjuku.</A>
+<B>Shinjuku. So let's meet in Shinjuku. <.></.></B>
+<A>But Shinjuku is very big place.</A>
+<B>Yeah. <..></..> How about meeting at <F>uum</F> <.></.> south exit of J R station.</B>
+<A>Sounds very good.</A>
+<B><..></..> So see you at noon on Friday. <.></.></B>
+<A>I'm looking forward.</A>
+<B><.></.></B>
+<A>Thank you very much for calling.</A>
+<B>Thank you.</B>
+<A>O K. Good bye. Kacha.</A>
+</task>
+<followup>
+<A>O K. Thank you very much. This is the end of the role-play. <F>Uum</F> do you like watching movies at home, or going to theaters to watch?</A>
+<B><F>Er</F> going to theater.</B>
+<A><F>Err</F>. Any <F>er</F> reasons?</A>
+<B><F>Uum</F>. <.></.> Big screen and great sound. And <.></.> I like the atmosphere <R>of</R> <.></.> of the theater.</B>
+<A><F>Hum</F>. O K. So you picked the movie title Go in the conversation. <F>Um</F>. How do you usually get information about movies?</A>
+<B><..></..> My mother like movies, and she check movies on magazines. And she told me <??></??> nice movie. <.></.></B>
+<A><F>Um</F>. O K. Good. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Um</F>. Thank you. <F>Uum</F>. Now <F>er</F> finally, I'll show you another picture. <CO>Please</CO>. <F>Uum</F>. <.></.> O K. <..></..> So please make a story using these six pictures. And this happened last week, so please start your story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>One day last week, a woman went to a department store to buy a present for her husband. She found a nice tie <.></.> for her husband's birthday. And she bought it. After that, <F>mm</F> <R>she found <..></..> there</R> <F>er</F> she found <..></..> there is a final sale of shoes. <..></..> And she bought <R>shoe</R> shoes for herself. And she found <.></.> clothes are <R>also sold</R> also sold <.></.> cheaper than usual. So she found some clothes, too. <..></..> And <R>when she</R> when she left the department, she have <..></..> many baggages <..></..> because she bought many many things <OL>for herself</OL>.</B>
+<A>O K, <H pn="B's name">XXX02</H>. <F>Um</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Er</F>. <H pn="B's name">XXX02</H> <F>um</F> do you give present for your family on their birthdays?</A>
+<B>No.</B>
+<A><F>Err</F>. Why not?</A>
+<B><.></.> When we were <F>ur</F> very little, <F>um</F> we give presents each other. But now we did not celebrate.</B>
+<A>Really? How about your last birthday? What did you do?</A>
+<B><F>Err</F> last birthday. <F>Err</F>. On my last birthday, I was not in my home. <.></.> I was traveling to Spain. <.></.> So my family did not celebrate my birthday. But <F>err</F> friends who went to the Spain together celebrated my birthday.</B>
+<A><F>Hum</F>.</A>
+<B>We ate cake, and <R>they gave</R> they gave me some presents.</B>
+<A><F>Wow</F>. Sounds like you had a very special birthday <OL>last year</OL>. Great.</A>
+<B><OL>Yeah</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <H pn="B's name">XXX02</H>, so we're almost finish <F>um</F> this interview. O K. <F>Um</F> I know you're going home after this interview. <F>Hum</F>. So what are you going to do with your family at home?</A>
+<B>At home?</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> <F>Er</F>. After we ate dinner, <F>err</F> we watch television. And maybe I go to bed very early.</B>
+<A><F>Hum</F>.</A>
+<B>So I don't talk very much with my family.</B>
+<A><F>Uum</F>. Do you have favorite T V program today?</A>
+<B><..></..> Yes. Do you know the program, "Itoke no Shokutaku"?</B>
+<A>Yes. I like that one, too. <nvs>laughter</nvs> O K. Yeah. Thank you very much for coming today. <OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

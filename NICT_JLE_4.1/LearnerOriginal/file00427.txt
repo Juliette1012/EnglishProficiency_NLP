@@ -1,0 +1,157 @@
+<interview>
+<filename>file00427.txt</filename>
+
+<head version="1.3">
+<date>2001-04-04</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>660</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Hum</F>. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A><F>Uhu</F>. So <F>erm</F> how is your day today?</A>
+<B><nvs>laughter</nvs> It's difficult.</B>
+<A>Difficult. <F>Hm</F>. Why it's difficult?</A>
+<B><F>Uum</F>. My boss, Mr. <H pn="others1">XXX03</H>, <F>eh</F> talking <R>one and half</R> <F>mm</F> one and half hour only English. We can't understand his statement. It's very difficult.</B>
+<A><F>Uum</F>. So if you don't understand what he's saying, what do you do?</A>
+<B><F>Huum</F>. <..></..></B>
+<A>Ask somebody?</A>
+<B>Ask somebody. <F>Uum</F>. I have a question about his statement. But I can't ask him.</B>
+<A>Why not?</A>
+<B><?>I ashamed</?> <laughter>my</laughter> talking. But <F>uum</F> I can understand his statement <F>uum</F> and I have <??></??> about <F>uum</F> fifty percent.</B>
+<A><F>Um</F>. <F>Hm</F> I see. So <F>um</F> where are you from?</A>
+<B><F>Eh</F>. <.></.> From <H pn="others2">XXX04</H>.</B>
+<A><F>Huum</F>. Interesting city, isn't it? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uum</F>. <..></..> Interesting. But more quiet city.</B>
+<A><F>Hmm</F>. What do you mean, quiet?</A>
+<B>Quiet. <.></.> <R>Play spot</R> <F>uum</F> play spot <F>uum</F> <..></..> for example, <SC><H pn="others3">XXX05</H></SC> <F>uh</F> my university's is in <H pn="others3">XXX05</H>, <nvs>laughter</nvs> <.></.> <JP><F>uunto</F></JP> <.></.> shops, entertainment place is closed at <.></.> <?>in zero</?>. <nvs>laughter</nvs> <JP>Gomennasai</JP>. But in <H pn="others2">XXX04</H>, <JP><F>eeto</F></JP> <.></.> such state closed at ten o'clock. So we can play.</B>
+<A><F>Hm</F> I see. Then now you must be enjoying your life here in <H pn="others4">XXX06</H>.</A>
+<B><F>Uum</F>. <..></..></B>
+<A>No?</A>
+<B><.></.> <??></??>.</B>
+<A><F>Uuum</F>.</A>
+<B><.></.> Morning, we <SC>co</SC> <nvs>sneeze</nvs> came from hotel by train. But train is very crowded <nvs>laughter</nvs> <??></??> <SC>I can't <SC>under</SC> un</SC> I can stand up.</B>
+<A><F>Huh</F>. Why you are living in a hotel?</A>
+<B><..></..> <R>My</R> <SC>my</SC> <.></.> <SC>we be</SC> <F>hm</F> <..></..> <SC>we can stay</SC> <F>ah</F> <??></??> <laughter>sorry</laughter>, we stay <.></.> my friends. Then <SC>I</SC> we communicate with each other and <nvs>cough</nvs> <..></..> <??></??> <SC>my</SC> our <?>friends</?>.</B>
+<A><F>Errm</F>. That's good. <nvs>laughter</nvs> All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then now, I'll show you a picture now.</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>Please describe this picture for me.</A>
+<B><F>Huum</F>.</B>
+<ctxt>The interviewee is looking at the picture and thinking.</ctxt>
+<B>This place is a very nice place. <..></..> There are many peoples. <??></??>. <nvs>cough</nvs> <CO>And</CO>. <..></..></B>
+<A>Any more?</A>
+<B><.></.> Just a moment, please. <..></..> Yeah. <nvs>cough</nvs> <R>They</R> <.></.> they enjoy their life very <.></.> much. And <JP><F>de</F></JP> <..></..> everywhere <nvs>cough</nvs> <.></.> everyone do <.></.> <?>that they</?> like. <.></.> <nvs>cough</nvs> <.></.></B>
+<A>All right. O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Hm</F>. So does this neighborhood look like your neighborhood in <H pn="others2">XXX04</H>?</A>
+<B><F>Oh</F>. Yeah. <nvs>laughter</nvs></B>
+<A>Yes? Similar? How similar?</A>
+<B><F>Uum</F>. <..></..> My house like this house. But my neighborhood <SC>is house</SC> <nvs>laughter</nvs> <F>hm</F> is but so crowed. House, house, house, house, house, house, house. But there is no car. And around my <.></.> <SC>house</SC> <?>and</?> house, <SC>there is</SC> there are mountains.</B>
+<A>Mountains, too. <OL><F>Oh</F></OL>.</A>
+<B><CO><OL>So</OL></CO>. <.></.></B>
+<A>O K. But you said it's a <OL>nice city</OL>.</A>
+<B><OL>Nice <??></??></OL>.</B>
+<A>Which do you prefer to live into the future, <H pn="others2">XXX04</H> or like this?</A>
+<B><F>Uum</F>. Like this.</B>
+<A><F>Hum</F>. What's so <SC>good</SC> attractive about this picture?</A>
+<B><F>Ah</F>. <..></..> I like <.></.> plants very much. So <R>I</R> <F>ur</F> I miss plants. <nvs>cough</nvs> Then <R>I</R> I don't like so crowded place. So I like this.</B>
+<A>I see. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then now, I will show you a card. Please read it. When you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>Excuse me.</B>
+<A><F>Uhu</F>.</A>
+<B>I'd like <nvs>cough</nvs> go to New York. <.></.> <CO><SC>What form</SC> <F>er</F> what platform the train start and the fastest train <F>er</F> and</CO>. <..></..></B>
+<A>We have many kinds of trains which go to New York.</A>
+<B><F>Oh</F>. <..></..> <R>Which</R> which train is <F>er</F> direct to the New York?</B>
+<A><F>Uum</F>. Every train.</A>
+<B>Every <laughter>train</laughter>.</B>
+<A><F>Um</F>.</A>
+<B><F>Erm</F>. <.></.> <R>Which train is</R> <nvs>cough</nvs> <..></..> <R>which train is</R> <F>erm</F> <SC>which train is</SC> <F>er</F> which train take off the <R>fa</R> fastest?</B>
+<A><F>Hum</F>. <F>Er</F>. The fastest train?</A>
+<B><F>Ah</F>. No, <laughter>no, no</laughter>, no, no, no, no, no, no, no. <..></..> <?>That's the</?> speed. <R>I</R> <R>I'd like</R> <nvs>cough</nvs> <..></..> I'd like go to New York. <R>So</R> so I'd like go to New York. <.></.> And I'm in hurry. <CO>So <.></.> I</CO>. <.></.></B>
+<A>I see. So <SC>super-ex train</SC> super-express train will leave in five minutes.</A>
+<B><..></..> If I take the train, <.></.> can I arrive at New York the <R>fa</R> fastest time?</B>
+<A>Yes.</A>
+<B><..></..></B>
+<A>Yes. I think you should get on the next one.</A>
+<B><.></.> <OL><nvs>sigh</nvs></OL></B>
+<A><OL><F>Mh-hmm</F></OL>. <.></.> <?>Yes</?>. In five minutes. So you should go now.</A>
+<B><.></.></B>
+<A><F>Uhu</F>.</A>
+<B><..></..></B>
+<A>O K. It's one hundred fifty dollars.</A>
+<B><.></.> <F>Oh</F>. Sorry.</B>
+<A><F>Uhu</F>.</A>
+<B><..></..> Can I use a card?</B>
+<A>Credit card?</A>
+<B><F>Er</F>. Credit card.</B>
+<A><F>Er</F>. We don't accept.</A>
+<B><..></..> Can I use a traveler's check?</B>
+<A>Yes. <F>Mh-hmm</F>.</A>
+<B><..></..></B>
+<A>Right. O K. One fifty dollars, please. Right. Thank you very much. Here is your ticket. <F>Hm</F>. So have a safe trip.</A>
+<B>Thank you very much.</B>
+<A><F>Uhu</F>. Thank you. O K. <nvs>laughter</nvs></A>
+</task>
+<followup>
+<A>So <F>erm</F> have you traveled abroad?</A>
+<B><.></.> Yes.</B>
+<A><F>Oh</F>. Really? Where?</A>
+<B><F>Eh</F>. Scotland and England and Switzerland.</B>
+<A><F>Hum</F>. What's the best memory you had there?</A>
+<B><..></..> Scotland people is very kind to me.</B>
+<A><F>Huum</F>.</A>
+<B><R>But</R> <.></.> <R>but</R> <SC>but</SC> no, no, and England <nvs>cough</nvs> <.></.> we stayed <.></.> a week. Everyday we ate a potato. <laughter>So</laughter> I was very bored. But English musician was very much interesting to me.</B>
+<A>All right. I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So, this is the last picture. Please make a short story using these pictures from one to six. This happened last week. So please start your story with "One day last week,"</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Uh</F>.</B>
+<A><F>Um</F>.</A>
+<B>One day last week, you and I <.></.> walked on <?>the</?> street. <R>And</R> <.></.> and <.></.> I heard something crying. Then, you <.></.> discovered a cat in the box. Then, you asked me <R>i</R> if I took him to our house. And <R>I</R> <..></..> I was thinking and thinking. Then <..></..> at last, I <SC>permit her</SC> <F>uh</F> permit you took her to my house. And we <SC>went to</SC> went home with <.></.> pretty cat.</B>
+<A><F>Uhu</F>. All right. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Hm</F>. What do you think of this couple?</A>
+<B><..></..> I think <..></..> <R>they</R> they don't <.></.> married. But <R>live together</R> <F>uh</F> live together.</B>
+<A>Why do you think they are not married?</A>
+<B><F>Ah</F>. <..></..> I think his age is not so <.></.> high. Then, and his figure <SC>is</SC> <.></.> looks like me.</B>
+<A><nvs>laughter</nvs> I see. All right. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So this is almost the end of the interview. So do you have any plans for tonight?</A>
+<B><..></..> <R>I</R> I'll go back hotel and <R>I'll</R> <..></..> I'll wash my clotheses. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>And prepare next travels.</B>
+<A><F>Err</F>. O K. So now, you have to do everything yourself. <nvs>laughter</nvs> I see. All right. O K. So thank you very much for coming to this interview today.</A>
+</stage5>
+</body>
+</interview>

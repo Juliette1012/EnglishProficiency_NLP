@@ -1,0 +1,253 @@
+<interview>
+<filename>file01166.txt</filename>
+
+<head version="1.3">
+<date>2002-07-09</date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><F>Err</F> I'm tired.</B>
+<A><F>Hum</F>.</A>
+<B>Because <R>I</R> I have a test this Thursday.</B>
+<A><F>Oh</F>.</A>
+<B>So I have to study.</B>
+<A><R>Right</R> right. So are you a student?</A>
+<B>Yes.</B>
+<A><F>Hum</F>.</A>
+<B>I'm a freshman.</B>
+<A><F>Oh</F> I see. <F>Erm</F> is it <F>uh</F> very different from being a high school student?</A>
+<B>Yes. There is different <SC>from school</SC> <F>uh</F> between <SC>s</SC> high school and college.</B>
+<A><F>Hum</F>.</A>
+<B>For example, when <SC>I am a high school student</SC> I was a high school student</B>
+<A><F>Hum</F>.</A>
+<B><R>I</R> I used to get up at same time every morning.</B>
+<A><F>Um</F>.</A>
+<B>But now, I get up <.></.> different time every day.</B>
+<A><F>Hum</F>.</A>
+<B>And I have to think of what to do by myself.</B>
+<A><F>Oh</F> I see. Do you live with your family?</A>
+<B>No, <R>I</R> I live with my family.</B>
+<A><F>Oh</F>. O K. Please tell me about your family.</A>
+<B>My family is my mother and father and older sister.</B>
+<A><F>Uhu</F>.</A>
+<B>But now, I live with only my mother and sister because my father live in <H pn="others1">XXX03</H> to work.</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Hum</F>.</A>
+<B>My mother is housewife.</B>
+<A><F>Uhu</F>.</A>
+<B>So <R>she</R> <R>she make</R> she make breakfast and lunch and dinner for us everyday.</B>
+<A><F>Oh</F> I see.</A>
+<B>And my older sister is three years older <OL><?>by</?></OL>.</B>
+<A><OL><F>Hum</F></OL> <F>um</F>.</A>
+<B>She is college student, too.</B>
+<A><F>Er</F> I see. What do you usually talk with her about?</A>
+<B><F>Mm</F> <.></.> we talk about <.></.> college life, and news, and fashion.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>We talk</OL> everything about our life.</B>
+<A><F>Oh</F> I see. That's nice. O K. When you have a free time, what do you normally do?</A>
+<B><R>I</R> I play piano.</B>
+<A><F>Hum</F>.</A>
+<B><R>I</R> <R>I have</R> <SC>I have studied</SC> I have learned piano from <..></..> little child.</B>
+<A><F>Hum</F>. <OL>I see</OL>.</A>
+<B><OL>So</OL> I like playing piano.</B>
+<A><F>Hum</F>.</A>
+<B>And <R>I</R> I read newspaper and watch T V</B>
+<A><F>Uhu</F>.</A>
+<B>and clean my room.</B>
+<A><F>Hum</F>. Do you have <F>er</F> any other hobbies besides playing the piano?</A>
+<B><F>Uum</F> <.></.> <F>err</F> <F>er</F> I like shopping <laughter>very much</laughter>.</B>
+<A><F>Hum</F>.</A>
+<B><SC>My</SC> there is two department store near my house.</B>
+<A><F>Oh</F>.</A>
+<B>So <SC>I went to</SC> <R>I</R> I go to department store two or three a week.</B>
+<A><F>Oh</F> really.</A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+<A><OL><laughter>I see</laughter></OL>. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <F>er</F> would you describe this picture for me?</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the picture for a moment.</ctxt>
+<B>There is a girl wearing green sweater and blue skirt. She sits in front of desk. There is a computer on the desk. <..></..> There is two animals in the room. One is dog and the other is cat. The cat is sleeping on the bed. <..></..> There is calendar on the wall. And <.></.> by the wall, there is <R?>automa</R?> <?>auto</?> machine <R>to</R> to play music. And there is shelf near the door. In the shelf, there is phone and several books.</B>
+<A><F>Um</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Er</F> now, would you compare between your room and this picture?</A>
+<B>Yes. <F>Uum</F> there is computer in this picture. But my room, there is not computer. And my house doesn't have pet, so <SC>my room</SC> in my room, there is never pets.</B>
+<A><F>Um</F>. How do you keep your room clean?</A>
+<B><R>I</R> I clean my room to pick up things on the floor.</B>
+<A><F>Um</F>.</A>
+<B>And <.></.> <R>I</R> <..></..> I bring my clothes and bags to closet at once.</B>
+<A><F>Um</F>. I see. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role-play. <F>Um</F> please read it to yourself. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Are you ready?</A>
+<B>Yes.</B>
+<A>How can I <SC>m</SC> <F>err</F> help you?</A>
+<B><F>Er</F> <SC>I went to vacance to</SC> <F>um</F> <SC>I went to</SC> <F>er</F> <R>I</R> <SC>I go to</SC> I want to go to vacance.</B>
+<A><F>Um</F>.</A>
+<B>So I want to go what country</B>
+<A><F>Hum</F>.</A>
+<B>to swim</B>
+<A><F>Um</F>.</A>
+<B>and so on?</B>
+<A>We have a variety of <F>er</F> pack tour.</A>
+<B><.></.> <F>Um</F>? Pardon?</B>
+<A><F>Er</F> we have a variety of programs.</A>
+<B><F>Er</F>.</B>
+<A>For <F>er</F> hot countries.</A>
+<B><F>Er</F> please tell me the variety of plan.</B>
+<A>O K. <F>Er</F> how about South East Asia?</A>
+<B><F>Um</F>?</B>
+<A>South East Asia.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>Like Singapore</OL> Malaysia, that area.</A>
+<B><F>Err</F> <F>oh</F> I'm interested in East Asia.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes, please tell me the detail.</B>
+<A>O K. What <SC>is</SC> <F>err</F> specifically would you like to know about?</A>
+<B><F>Err</F> <.></.> <R>I</R> <.></.> I'm interested in Vietnam.</B>
+<A><F>Oh</F> Vietnam.</A>
+<B>Yes.</B>
+<A>O K. <F>Erm</F> <SC>we have</SC> <F>erm</F> yeah, for Vietnam, we have different <F>er</F> tour packs.</A>
+<B><F>Uhu</F>.</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F> <SC>how much the cost is</SC> how much is the cost?</B>
+<A>O K. <F>Erm</F> hundred thousand yen.</A>
+<B><F>Oh</F> <F>err</F> in Vietnam</B>
+<A><F>Um</F>.</A>
+<B>what can we do?</B>
+<A><F>Well</F> you can visit some temples</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><OL>and</OL> some other sightseeing areas.</A>
+<B><F>Er</F> can we swim?</B>
+<A><F>Oh</F> yeah. <OL><F>Uhu</F></OL>.</A>
+<B><OL><F>Um</F></OL>. <F>Err</F>. <..></..> <CO><R>How long the</R> <SC>how long the</SC> <.></.> <SC>how long does the plan</SC> <OL>how</OL></CO>.</B>
+<A><OL><F>Um</F></OL>. <F>Er</F> three nights and four days. <F>Uhu</F>.</A>
+<B><R>I</R> I want to spend one week for vacanse.</B>
+<A>O K. <F>Um</F>.</A>
+<B>So <.></.> <F>er</F> <R>I</R> I want to go more further place.</B>
+<A><F>Err</F> I see.</A>
+<B>So</B>
+<A><OL>All right</OL>.</A>
+<B><OL>please tell me</OL> not East Asia <OL>plan</OL>.</B>
+<A><OL><F>Hum</F></OL>. O K. We have <F>err</F> some other islands.</A>
+<B><F>Um</F>.</B>
+<A><F>Um</F>.</A>
+<B>For example?</B>
+<A><F>Er</F> <SC>M</SC> like the Maldives.</A>
+<B><F>Uum</F>.</B>
+<A><F>Um</F>.</A>
+<B>Maldives. <R>How</R> how much is the cost?</B>
+<A><F>Err</F> that is about <SC>hund</SC> one hundred fifty thousand yen.</A>
+<B><F>Hum</F> <F>uum</F>. <.></.> <SC>Ma</SC> in Maldives</B>
+<A><F>Um</F>.</A>
+<B>what language <SC>do the</SC> do they speak?</B>
+<A>French</A>
+<B>French?</B>
+<A>and English.</A>
+<B><F>Err</F>.</B>
+<A><F>Uhu</F>.</A>
+<B>So <.></.> <F>uum</F> do we confuse in Maldives by ourselve alone?</B>
+<A><F>Erm</F> maybe, it might be a bit difficult</A>
+<B><F>Err</F>.</B>
+<A>without a guide.</A>
+<B><.></.> in Maldives, <R>is it</R> is it dangerous</B>
+<A><OL><F>Uum</F></OL>.</A>
+<B><OL><R>for</R></OL> for Japanese?</B>
+<A><F>Uum</F> not really.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL><F>Um</F></OL>. O K. We have <F>um</F> brochure here. So would you take a look</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>and</OL> when you decide, <F>er</F> would you come back?</A>
+<B><F>Er</F> yes, please.</B>
+<A>O K. Thak you very much.</A>
+</task>
+<followup>
+<A>O K. This is the end of the role-play. <F>Um</F> so do you like to travel?</A>
+<B>Yes, very much.</B>
+<A><F>Um</F> tell me one of the most <F>um</F> memorable experience you've ever had.</A>
+<B><R>I</R> I went to Thailand this spring with my friend of high school as a graduate trip.</B>
+<A><F>Hum</F>.</A>
+<B><.></.> <F>Mm</F> <R>we</R> we went to Bangkok and Ayutaya.</B>
+<A><F>Hum</F>.</A>
+<B>And in Thai, <SC>the</SC> March is hot season.</B>
+<A><F>Hum</F>.</A>
+<B>So it was very hot</B>
+<A><F>Um</F>.</A>
+<B><SC>and ti</SC> and humid. So <SC>we</SC> <SC>all of us</SC> <SC>we</SC> all of us wear were jeans.</B>
+<A><F>Hum</F>.</A>
+<B>But <laughter><R>i</R> it was</laughter> <R>very</R> very long.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah</OL>.</B>
+<A><laughter>I see</laughter>.</A>
+<B><SC>So</SC> and <R>I</R> I ride on elephant.</B>
+<A><F>Oh</F>.</A>
+<B>It was very dangerous but very fun.</B>
+<A><F>Er</F> I bet it is. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now <F>er</F> finally, I'd like to show you another picture. Sequence of pictures. O K. <SC>Would you describe</SC> <F>er</F> would you make up a story based on one to six? And it happened before, so please start your story with "One day last week". Go ahead.</A>
+<ctxt>The interviewee is thinking for a moment.</ctxt>
+<B>One day last week, she went to shopping and she went to department store. She want to buy something for her husband to his birthday. So <SC>he de</SC> she decided to buy necktie. And she asked the clerk to wrap the present. After buying present, <R>she</R> <R>she walk</R> she walked in department store and found final sale of lady's shoes and <.></.> lady's clothes. <SC>It was</SC> shoes was <SC>three</SC> <F>er</F> thirty percent off and clothes <SC>are</SC> were fifty percent off. So she bought <R>many</R> many shoes and clothes at departmrnt store. And <R>she</R> <SC>she bring</SC> she brought many bags to her house.</B>
+<A>Thank you.</A>
+</task>
+<followup>
+<A>O K. So <F>um</F> <H pn="B's name">XXX02</H>, when you buy a gift for your friend, how do you decide what to buy?</A>
+<B><F>Uum</F> I want to give my friend what <R>she</R> she can't <R>buy</R> by herself.</B>
+<A><F>Um</F>.</A>
+<B>So <F>uum</F> <..></..> <R>I</R> I choice <.></.> things I like but <SC>she doesn't</SC> <R>she</R> <R>she isn</R> she isn't interested in.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><R>But</R></OL> but <F>err</F> <.></.> maybe <SC>I</SC> <R>she</R> she will become interested in things.</B>
+<A><F>Um</F>. I see. O K. Yeah, that's a good idea. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. We are almost at the end of the interview. <F>Er</F> after this interview, what are you going to do?</A>
+<B><F>Er</F> I will go back to library <OL>to study</OL>.</B>
+<A><OL><F>Hum</F></OL>. <F>Oh</F> I see. So <F>erm</F> you have examination <OL>coming up</OL>?</A>
+<B><OL><R>Yes</R></OL> yes.</B>
+<A><F>Hum</F>. <F>Oh</F> yeah, you said this Thursday.</A>
+<B>Yes.</B>
+<A><F>Er</F> I see. <R>How</R> how is your study going? Very well. <CO>Or</CO>? <nvs>laughter</nvs></A>
+<B><F>Uum</F> <laughter>very well</laughter>.</B>
+<A>Very well?</A>
+<B><F>Uum</F>.</B>
+<A><F>Oh</F>.</A>
+<B><..></..> <R>I</R> <laughter>I hope so</laughter>.</B>
+<A><nvs>laughter</nvs> O K. <F>Well</F> good luck on your examination.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>And</OL> today, thank you so much for coming.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

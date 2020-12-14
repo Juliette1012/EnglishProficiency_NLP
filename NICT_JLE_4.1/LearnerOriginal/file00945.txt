@@ -1,0 +1,251 @@
+<interview>
+<filename>file00945.txt</filename>
+
+<head version="1.3">
+<date>2002-01-29</date>
+<sex>male</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><H pn="B's name">XXX02</H>?</B>
+<A>Can I have your name?</A>
+<B><F>Er</F> <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> fine.</B>
+<A>Did you eat lunch?</A>
+<B>Yes.</B>
+<A>What did you eat?</A>
+<B><F>Urr</F> <JP>kappu raamen</JP></B>
+<A><laughter>O K</laughter>.</A>
+<B>and sandwich.</B>
+<A>And sandwich. With friends?</A>
+<B><F>Er</F> yes.</B>
+<A>O K. With your friends, what do you like to talk about?</A>
+<B>Talk about? <F>Uhmm</F> <.></.> <SC>girlfriend</SC> <R>gir</R> girlfriend.</B>
+<A>You have a girlfriend?</A>
+<B>No. <nvs>laughter</nvs></B>
+<A><laughter><F>Ah</F></laughter>. Is that a problem?</A>
+<B><F>Err</F>? <.></.></B>
+<A><F>Er</F> O K. Now, your friends</A>
+<B>Yes.</B>
+<A>talk about girlfriends. O K. Tell me about your friends.</A>
+<B><R>Frien</R> <R>frien</R> friends? <F>Urr</F> <R>my friends</R> <.></.> <F>uhm</F> <.></.> my friends <JP><F>uunto</F></JP> <.></.> very exciting. <.></.></B>
+<A>O K.</A>
+<B><laughter>Sorry</laughter>.</B>
+<A>That's O K. <R>What</R> what do you mean exciting?</A>
+<B>Exciting <F>urr</F> <.></.> <R><JP>gan</JP></R> <JP>ganbatteru</JP>. <nvs>laughter</nvs> <.></.> <F>Urr</F>.</B>
+<A>O K. O K. Then <R>you are</R> you are a student this school?</A>
+<B><JP>Hai</JP>.</B>
+<A>What do you study here?</A>
+<B><.></.> About <.></.> interior design.</B>
+<A><F>Uhm</F>. Can you tell me more detail?</A>
+<B>Yeah. <F>Ur</F> <F>uhm</F>.</B>
+<A>What do you do?</A>
+<B><..></..> <F>Urr</F>. <.></.></B>
+<A>What do you make?</A>
+<B><.></.> Chair.</B>
+<A>Chairs. O K. <R>After</R> after you finish study,</A>
+<B>Yes.</B>
+<A>do you plan to get a job</A>
+<B><F>Er</F> <OL>yes</OL>.</B>
+<A><OL>in</OL> design?</A>
+<B><F>Er</F>.</B>
+<A>O K. What kind of job would you like to have?</A>
+<B><F>Uhm</F> interior designer <.></.> or product designer.</B>
+<A><F>Uhmm</F>. Do you have a plan?</A>
+<B><F>Uhm</F>. Little. <nvs>laughter</nvs></B>
+<A>O K. What's the plan?</A>
+<B><F>Urm</F> <.></.> I want to be <.></.> famous <laughter>designer</laughter>.</B>
+<A>That's a good plan. O K. <R>A</R> at weekend, <H pn="B's name">XXX02</H>, what do you like to do?</A>
+<B><JP><F>Uunto</F></JP> <..></..> <SC><JP>arubaito</JP></SC> <.></.> <nvs>laughter</nvs> <.></.> working.</B>
+<A>Are you work?</A>
+<B>Yes.</B>
+<A>O K. Where?</A>
+<B>Where? <.></.> <R>Re</R> restaurant.</B>
+<A><F>Uhm</F>. O K. Do you like that job?</A>
+<B>Yes.</B>
+<A>Why?</A>
+<B><F>Urr</F> <.></.> because <.></.> <R>I</R> I can speak many people. <.></.></B>
+<A><R>In a</R> <SC>in a</SC> <F>urr</F> <SC>customers</SC></A>
+<B><R>Cu</R> customer?</B>
+<A>with customers?</A>
+<B>Yes.</B>
+<A><F>Uhm</F>. I see. O K. Tell me about the restaurant.</A>
+<B>Restaurant? <..></..> <CO>Many people come and <JP><F>eeto</F></JP> <..></..> <nvs>laughter</nvs> <JP><F>eeto</F></JP></CO>.</B>
+<A>Is it a Japanese restaurant or Italian restaurant?</A>
+<B>Japanese restaurant.</B>
+</stage1>
+<stage2>
+<task>
+<A>Japanese restaurant. O K. Good. O K. First thing today, I want to show you a picture. <H pn="B's name">XXX02</H>, have a look at this picture and tell me <R>what do you</R> what do you see. What's happening?</A>
+<B><..></..> Ski. <..></..> <F>Ee</F> <..></..> <F>uhm</F> <.></.> I can't.</B>
+<A>O K. <R>F</R> for example, <R>what</R> <R>what are they doing</R> what are they doing?</A>
+<B><.></.> <F>Uhmm</F> <JP>nante iunokana</JP>. <..></..></B>
+<A>Or <SC>what</SC> <SC>where</SC> maybe where is this?</A>
+<B>Where? <R>Moun</R> mountain.</B>
+<A>O K. It's a mountain. Yeah. O K. And maybe these people?</A>
+<B><F>Uhm</F>. <..></..> <CO>So</CO>. <F>uhmm</F>. <..></..></B>
+</task>
+<followup>
+<A>O K. Yeah. O K. It's ski on a mountain. O K. Then, <H pn="B's name">XXX02</H>-<JP>san</JP>, do you go skiing? Do you like skiing?</A>
+<B><F>Urr</F> <.></.> yes.</B>
+<A>Are you good?</A>
+<B><JP><F>Uunto</F></JP> <..></..> <R>I</R> <.></.> I go to ski only <R>one</R></B>
+<A><laughter>Only one <OL>time</OL></laughter>?</A>
+<B><OL>one time</OL>.</B>
+<A>Where?</A>
+<B><F>Urrr</F> Shiga-Kogen,</B>
+<A><F>Uhmm</F>.</A>
+<B><R>Na</R> Nagano.</B>
+<A>In Nagano? O K. <F>Urm</F> can you tell me about your day?</A>
+<B><..></..> It's three years ago.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> And <..></..> <?>it's</?> funny.</B>
+<A>That's good.</A>
+<B><??></??>. I'm fine, too.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Good. Good. O K. No accident? O K. I'm going to do a role-play with you. <.></.> O K. I want you to imagine the situation.</A>
+<B>Situation?</B>
+<A>O K? It's in Japanese. O K. So read that to yourself. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Uhm</F>.</B>
+<A>O K?</A>
+<B><..></..> Yes.</B>
+<A>O K. Good afternoon, sir. Can I help you?</A>
+<B><F>Urrr</F> <..></..> <R>I</R> I should <.></.> <R>ri</R> ride <.></.> train</B>
+<A>O K.</A>
+<B><JP><F>eeto</F></JP> at <..></..> three o'clock.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>So</OL> <..></..> do you have ticket?</B>
+<A><F>Oh</F> yes, sir. <F>Oh</F> yeah, there is a local train or express train.</A>
+<B><.></.> <R>Lo</R> local train.</B>
+<A>Local train?</A>
+<B>Local train.</B>
+<A>Where do you want to go?</A>
+<B><F>Ur</F> <F>ur</F> <F>ur</F> <.></.> <F>ahh</F> <.></.> <R>New</R> New York.</B>
+<A><F>Ah</F> to New York?</A>
+<B>Yes.</B>
+<A>O K. We have a local train at three o'clock and a local train at five o'clock.</A>
+<B><F>Ur</F> <.></.> <R>th</R> three.</B>
+<A>Three o'clock is better? O K. And we have a smoking car and a non-smoking car.</A>
+<B><F>Er</F> smoking.</B>
+<A>A <laughter>smoking car</laughter>? O K, sir. <F>Urm</F> here, that will be seventy five dollars.</A>
+<B>Seventy five O K.</B>
+<A>O K? <F>Well</F> here is your ticket, then, sir.</A>
+<B>Thank you.</B>
+<A>Have a nice trip.</A>
+<B><laughter>Thank you</laughter>.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. <H pn="B's name">XXX02</H>, have you been to another country?</A>
+<B>Another country? <.></.> Yes. America.</B>
+<A>America? When was that?</A>
+<B><.></.></B>
+<A>When was that?</A>
+<B><F>Urr</F> <..></..> <F>urm</F> <.></.> fifteen years old.</B>
+<A><F>Oh</F>, a long time years ago. O K. Where would you like to go?</A>
+<B>Where would you? <F>Err</F> <JP>soudana</JP> <..></..> French.</B>
+<A>France? O K. <R>Why</R> why France?</A>
+<B><JP><F>Aato</F></JP> <.></.> food is delicious. <nvs>laughter</nvs></B>
+<A><laughter>O K</laughter>. Any other reason?</A>
+<B><F>Ur</F> <.></.> girl is beautiful. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. So food and girls?</A>
+<B><laughter>Yes</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Very nice. <laughter>O K</laughter>. Thank you. One more thing we have to do. I want to show you a sequence of pictures.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K. There are <R>four</R> four pictures here. <H pn="B's name">XXX02</H>-<JP>san</JP>, I want you to make up a story from these pictures, one, two, three, four. Just make up your own story.</A>
+<B><.></.></B>
+<A>Do you understand?</A>
+<B>Yes.</B>
+<A>O K. Go ahead.</A>
+<B><nvs>cough</nvs> <.></.> <F>Uhmm</F>. <..></..> We went to <R>th</R> theater and <.></.> <F>urm</F> <..></..> so <..></..> we bought <.></.> coke and popcorn. <F>Uhm</F>. <..></..> After movie, we <laughter>go <??></??></laughter>.</B>
+</task>
+<followup>
+<A><laughter>O K</laughter>. O K. Thank you very much. Thank you. Now <H pn="B's name">XXX02</H>-<JP>san</JP>, <SC>you</SC> do you like movies?</A>
+<B><F>Urr</F> yes.</B>
+<A><F>Uhmm</F>. Where do you usually go to see a movie?</A>
+<B>Shibuya.</B>
+<A>Shibuya? O K. When you go out with your friends,</A>
+<B>Yes.</B>
+<A><F>ur</F> at night,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>usually</OL> what do you do?</A>
+<B><..></..> What do you do?</B>
+<A><F>Uhm</F>. Sometimes movies, sometimes?</A>
+<B><F>Urrr</F>. <F>Ohh</F>.</B>
+<A>What do you do?</A>
+<B>Shopping.</B>
+<A>Shopping for?</A>
+<B><.></.></B>
+<A><SC>What do you mean shopping</SC> <SC>shop</SC> what do you mean shopping?</A>
+<B><F>Err</F> <F>ur</F> <..></..> <R>wh</R> <R>wha</R> what?</B>
+<A>What do you buy?</A>
+<B>What do you buy? <F>Ur</F> <.></.> <R>c</R> <laughter>clothing</laughter>. <nvs>laughter</nvs></B>
+<A>O K. O K. What's your favorite shop?</A>
+<B>Favorite <?>shop</?>?</B>
+<A><F>Uhm</F>. What's the best shop</A>
+<B>Best shop? <F>Uhm</F>.</B>
+<A>for you?</A>
+<B>My best shop is <.></.> UNIQLO.</B>
+<A>UNIQLO?</A>
+<B><laughter>Yes</laughter>. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A><OL>I see, O K, that's good</OL>. O K. <F>Well</F> that's almost the end of the interview, then. <H pn="B's name">XXX02</H>, that's the almost the end</A>
+<B>End?</B>
+<A>of the interview. Are you working tonight?</A>
+<B>Yes.</B>
+<A>From what time?</A>
+<B><R>F</R> from?</B>
+<A>From what time?</A>
+<B>From?</B>
+<A>Tonight. <OL>What time</OL></A>
+<B><OL>tonight</OL>? What time? <F>Urr</F>.</B>
+<A>do you begin work?</A>
+<B><JP><F>Eeto</F></JP> six o'clock.</B>
+<A>And finish?</A>
+<B><F>Ur</F> <.></.> eleven o'clock.</B>
+<A><F>Ohh</F> it's a hard day.</A>
+<B>Yes.</B>
+<A>What's your job?</A>
+<B><.></.> Job?</B>
+<A>Yeah. Do you cook? Do you wash dishes?</A>
+<B><F>Ahhh</F>.</B>
+<A>What's your job?</A>
+<B><F>Er</F> <R>co</R> cooking.</B>
+<A><F>Oh</F> are you a cook?</A>
+<B>Yes.</B>
+<A>Delicious?</A>
+<B>No.</B>
+<A>Do you <OL>recommend</OL>?</A>
+<B><OL><R>I</R></OL> I don't know.</B>
+<A><nvs>laughter</nvs> <laughter>O K</laughter>. <F>Well</F> good luck with your job.</A>
+<B><F>Er</F> thank you.</B>
+<A>And good luck with your plan for your famous designer.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

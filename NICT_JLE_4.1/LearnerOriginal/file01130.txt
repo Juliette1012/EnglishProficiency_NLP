@@ -1,0 +1,252 @@
+<interview>
+<filename>file01130.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>3</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin.</A>
+<B>Yes.</B>
+<A>My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Erm</F> <R>I'm fine</R> <laughter>I'm fine</laughter>.</B>
+<A>O K. Where do you live?</A>
+<B><R>I</R> I live in <H pn="others1">XXX03</H>. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Hmm</F></OL>. <H pn="others1">XXX03</H>?</A>
+<B><H pn="others1">XXX03</H>.</B>
+<A><F>Ah</F> I see.</A>
+<B><F>Mm</F>. Near the <H pn="others2">XXX04</H> Station.</B>
+<A><F>Ahh</F>. <OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Oh</F> yes</OL>.</B>
+<A>Do you live with your family?</A>
+<B>No, no, no. <F>Mm</F> I live in <R>only</R> only <??></??>.</B>
+<A><F>Ah</F> I see.</A>
+<B>Yes, yes.</B>
+<A>So where is your hometown?</A>
+<B>Hometown?</B>
+<A><F>Hmm</F>.</A>
+<B>My hometown, <F>mm</F> <H pn="others3">XXX05</H>.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mmm</F>.</B>
+<A>I see.</A>
+<B><F>Oh</F> <H pn="others3">XXX05</H> <JP>ken</JP>.</B>
+<A><F>Ahh</F>. What kind of place is <H pn="others3">XXX05</H>?</A>
+<B><R>Pla</R> place?</B>
+<A><F>Mm</F>. What kind of place?</A>
+<B><F>Mhm</F>. What kind of place. <F>Mmm</F>. <F>Mmm</F>? Kind of place?</B>
+<A><F>Hmm</F>. What kind of place is it?</A>
+<B><F>Mmm</F>. <R>Very</R> <F>mm</F> very small.</B>
+<A><F>Ah</F>.</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL><F>Oh</F></OL> I see.</A>
+<B>So <??></??> <H pn="others3">XXX05</H> is <F>er</F> famous soccer. <H pn="others4">XXX06</H> of soccer club team.</B>
+<A><F>Ahh</F>. So do you like that team?</A>
+<B><F>Mmm</F> <laughter>no</laughter>.</B>
+<A>Why not?</A>
+<B>No, no, no. I don't like soccer.</B>
+<A><F>Ah</F>. Then what do you like?</A>
+<B><F>Er</F> I like music.</B>
+<A><F>Hmm</F>. What kind of music?</A>
+<B>Music. <F>Er</F> the Japanese pop, <F>er</F> rock, <F>mm</F> pop music. <OL><F>Mhm</F></OL>.</B>
+<A><OL><F>Ahh</F></OL>. Who is your favorite musician?</A>
+<B>Musician. <R>Many</R> <laughter>many</laughter>.</B>
+<A><F>Mmm</F>. For example?</A>
+<B>Example. Japanese artist, <F>ah</F> Mr Children. Do you know?</B>
+<A><F>Mmm</F>.</A>
+<B>No. <F>Mmm</F>. So <F>er</F> <F>mm</F> Beatles.</B>
+<A><F>Oh</F>. But the Beatles are kind of old.</A>
+<B><F>Mm</F> <F>hm</F>?</B>
+<A><SC>Old</SC> very old fashioned?</A>
+<B><F>Mmm</F>. But <R>their</R> <F>mm</F> their music is a <R>very</R> very <laughter>good</laughter>.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Mmm</F>.</B>
+<A>I see.</A>
+<B><F>Mm</F> for example, <F>mmm</F> <..></..> <F>mmm</F> nothing. <nvs>laughter</nvs></B>
+<A><F>Mmm</F>. O K.</A>
+<B><laughter>Sorry</laughter>.</B>
+<A><F>Hmm</F>. That's O K.</A>
+<B><laughter>Very nervous</laughter>.</B>
+<A><F>Oh</F> that's all right. So you live alone and do you do housework?</A>
+<B>Housework?</B>
+<A><F>Mmm</F>. Cooking, cleaning.</A>
+<B><F>Ohh</F>. Cooking, cleaning, <F>mm</F> <F>mm</F> washing <F>mm</F> <F>er</F> <F>mm</F> <laughter>studying</laughter>.</B>
+<A><F>Ahh</F>. Which do you like best?</A>
+<B><F>Mmm</F> cooking.</B>
+<A><F>Ahh</F>. What do you cook?</A>
+<B><F>Er</F> <.></.> cook. Cook. <F>Mm</F>. <JP><F>Eh</F></JP>?</B>
+<A>What kind of food?</A>
+<B><F>Ahh</F>. Japanese food. <F>Mm</F> <F>mm</F>.</B>
+<A><F>Oh</F>. That's great.</A>
+<B><F>Mmm</F>. Rice, miso soup.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>I see.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Then now, please tell me anything about this picture.</A>
+<B><F>Mmm</F>. The cat <F>mm</F> is sleeping on the car. <F>Mmm</F>. <.></.> <F>Er</F> the man who is running on the road. <F>Mm</F>. There are four trees. More?</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mmm</F>. He read a newspaper. And <..></..> today is fine. <nvs>laughter</nvs></B>
+<A>O K. <F>Hmm</F>. <F>Hm</F>.</A>
+</task>
+<followup>
+<A>O K. <nvs>cough</nvs> <H pn="B's name">XXX02</H>, do you like jogging?</A>
+<B><F>Mmm</F> <nvs>laughter</nvs> <laughter>no</laughter>.</B>
+<A><F>Mmm</F>. Do you do any sport or exercise?</A>
+<B>Exercise, sports. <F>Urr</F> <F>mm</F> I don't like sports so I hobby is <F>er</F> basketball.</B>
+<A><F>Oh</F>.</A>
+<B>Yeah.</B>
+<A>I see. Where do you play basketball?</A>
+<B><F>Mmm</F>. With friend. <F>Mm</F>. <F>Ur</F> <?>difficult</?>.</B>
+<A>Here?</A>
+<B>Here is <R>no</R> no. <R>I</R> <F>mm</F> <F>mm</F> <F>mm</F> I join the circle, <F>mm</F> <R>actor</R> <JP>nanteyuundaro</JP> <R>actor</R> <R>actor</R> actor circle.</B>
+<A><F>Hmm</F> I see. Actor circle. <R>Are you</R> <nvs>laughter</nvs> <??></??> actor?</A>
+<B><F>Mm</F> no.</B>
+<A>They belong to the circle <?>act</?>.</A>
+<B><F>Ah</F>. Yes, yes, yes, yes, yes.</B>
+<A><F>Oh</F>. <?>So</?> Acter circle. <F>Hmm</F>. O K. I understand. Thank you.</A>
+<B>Yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Next, let's do this role-play.</A>
+<B><OL><JP>Hai</JP></OL>.</B>
+<A><OL>Please</OL> read the card.</A>
+<B><JP>Hai</JP>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Mm</F>.</B>
+<A>O K?</A>
+<B>Yeah.</B>
+<A>Hello, may I help you?</A>
+<B>Hello. <F>Er</F> <R>I</R> I'm <R>hurry</R> <SC>hurry</SC> very hurry so I want to go to <laughter>New York</laughter>. So yes. <F>Erm</F> <nvs>laughter</nvs> <.></.> <F>erm</F> <..></..> <F>ah</F> I want to buy train ticket.</B>
+<A><F>Hm-hmm</F>.</A>
+<B><F>Mmm</F>.</B>
+<A>O K.</A>
+<B>Yes. <.></.> <nvs>laughter</nvs></B>
+<A>O K. We have two kinds of tickets.</A>
+<B>Ticket?</B>
+<A><F>Hmm</F>.</A>
+<B>Train?</B>
+<A><F>Hmm</F>. Local, express.</A>
+<B><F>Ah</F>. <R>Local</R> local ticket.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hmm</F>. <F>Hmm</F>.</B>
+<A>It's slow. O K?</A>
+<B>No, no, no. <laughter>Sorry</laughter>, <F>ur</F> express ticket <F>erm</F>.</B>
+<A>It's a little expensive.</A>
+<B>Expensive.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah, yeah. O K, O K.</B>
+<A>Fifty dollars.</A>
+<B>O K.</B>
+<A>O K? <OL>One ticket</OL>?</A>
+<B><OL>Yes</OL>. One ticket, <F>ah</F>, yes.</B>
+<A>Then here you go, and have a nice trip.</A>
+<B>Thank you.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+</task>
+<followup>
+<A><F>Hmm</F>. So <H pn="B's name">XXX02</H>, do you like travelling?</A>
+<B><F>Hmm</F>. Yes.</B>
+<A><F>Hmm</F>. Please tell me about your travelling.</A>
+<B>Travelling? <F>Er</F> <F>mm</F> I went to <F>mmm</F> <R>Malaysia</R> Malaysia. <F>Mmm</F>. Very beautiful <F>Mmm</F>. <nvs>laughter</nvs></B>
+<A>Why did you go to Malaysia?</A>
+<B><F>Erm</F> school trip.</B>
+<A><F>Ohh</F>.</A>
+<B><F>Mmm</F>. <SC>The</SC> <F>er</F> I was high school student. <F>Mm</F>.</B>
+<A><F>Mm</F>. O K. What did you do there?</A>
+<B><F>Mmm</F> <.></.> <JP>nandaro</JP> go to town, <F>mm</F> shopping mall. <F>Er</F> <..></..> go to see mountain.</B>
+<A><F>Ah</F>. <F>Mhm</F>.</A>
+<B><F>Mm</F>.</B>
+<A><F>Hm</F>. I see. Did you speak English there?</A>
+<B><F>Ah</F> Malaysia is no English.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mmm</F>. <.></.> <??></??> <R>no</R> not use English so Malaysia's word language is so <F>mm</F> <R>I can</R> I can speak English.</B>
+<A><F>Oh</F> I see. How did you communicate with the local people?</A>
+<B><F>Um</F> gesture.</B>
+<A><nvs>laughter</nvs> I see. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now. <nvs>cough</nvs> O K. Please make a story with these four pictures, starting with number one, please.</A>
+<B><F>Mhm</F>.</B>
+<ctxt>The interviewee is looking at the picture and thinking for a while.</ctxt>
+<B><R>Mike</R> Mike and Rose go to zoo. <F>Er</F> first, <F>ee</F> <R>they</R> they saw the lion. It's very big. <F>Mm</F>. Next, <F>erm</F> <R>they</R> they saw a monkey. <F>Mm</F>. Rose gave the monkey ice cream. <F>Mm</F>. <F>Mm</F>. <nvs>laughter</nvs> <F>Mmm</F> bye-bye. <nvs>laughter</nvs></B>
+<A><F>Oh</F> O K.</A>
+<B>It's <R>cheap</R> <OL><nvs>laughter</nvs></OL> <laughter>cheap story</laughter>.</B>
+<A><OL><nvs>laughter</nvs></OL> That's all right.</A>
+</task>
+<followup>
+<A>Now, <H pn="B's name">XXX02</H>, do you think <SC>zoo</SC> <F>ah</F> a zoo is a nice dating spot?</A>
+<B><F>Mmm</F> no.</B>
+<A>Why not?</A>
+<B><F>Mmm</F> <.></.> <F>urr</F> I don't like zoo.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mmm</F>. So <R>it's</R> <F>mmm</F> <..></..> it's <R>poor</R> <R>poor</R> poor. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> <F>Hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A><F>Hm</F>. Then what is the nice place for a date?</A>
+<B><F>Er</F> the <.></.> shopping mole.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>. <F>Er</F> river</B>
+<A>River.</A>
+<B><?>or</?> park.</B>
+<A><F>Hmm</F>. O K. <F>Hmm</F>.</A>
+<B>Or <.></.> <??></??> my house.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>O K. Why did you say river?</A>
+<B><F>Hmm</F>?</B>
+<A>Why did you say river?</A>
+<B>River?</B>
+<A><F>Hmm</F>. What is good about rivers?</A>
+<B><F>Urr</F> <.></.> <F>mmm</F> <F>mmm</F> <.></.> <F>mm</F>. <nvs>laughter</nvs> <F>Erm</F> <F>urr</F> it's beautiful.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F>. And <R>air</R> air is good.</B>
+<A><F>Hmm</F>. O K. I understand. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B><F>Mm</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>This is almost at the end of the interview. But what are you going to do this evening?</A>
+<B><F>Hm</F>?</B>
+<A>What are you going to do this evening?</A>
+<B>Evening?</B>
+<A><F>Hmm</F>.</A>
+<B><F>Er</F> I will play guitar.</B>
+<A><F>Oh</F> I see. At home?</A>
+<B>Yes.</B>
+<A><F>Mhm</F>. Are you a good guitarist?</A>
+<B>No. <OL><F>Mmm</F></OL>. <CO>Very</CO></B>
+<A><OL><F>Hmm</F></OL>. How did you learn to play the guitar? <CO>By looking at the books or</CO>?</A>
+<B>Books and myself <F>mmm</F> very practice. <OL><F>Mmm</F></OL>.</B>
+<A><OL><F>Ahh</F></OL> I see.</A>
+<B><F>Mm</F>.</B>
+<A><F>Mm</F>. O K. Then enjoy playing the guitar.</A>
+<B><F>Oh</F> <OL>thank you</OL>.</B>
+<A><OL><F>Mm</F></OL>. O K. Thank you for coming today.</A>
+<B>Thank you.</B>
+<A>Thank you. Good bye.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,221 @@
+<interview>
+<filename>file00194.txt</filename>
+
+<head version="1.3">
+<date>2001-01-16</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>340</TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ah</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K, so can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. <OL>O K</OL>.</B>
+<A><OL>O K</OL>, so <H pn="B's name">XXX02</H>. How are you today?</A>
+<B><F>Ah</F> <R>I</R> I am running <F>ah</F> here.</B>
+<A>Right.</A>
+<B>So I'm tired.</B>
+<A>O K, so why did you run to come here?</A>
+<B><F>Eh</F>?</B>
+<A>Why did you run to come here?</A>
+<B><.></.> Why? <F>Ah</F> <F>ahh</F> I late.</B>
+<A><F>Ah</F> really. O K. So did you have any classes today?</A>
+<B><F>Um</F> no, <OL>I don't have</OL>.</B>
+<A><OL>O K</OL>. O K. So what did you do before this interview?</A>
+<B><F>Ahh</F> <R>I</R> I stay in my home and talk with friends.</B>
+<A>O K. So what did you talk with your friend?</A>
+<B><F>Er</F>. <F>Ah</F> <R>my</R> my friends <F>ahh</F> move <F>ah</F> home, so <F>ah</F> <R>I</R> I say my friends good-bye.</B>
+<A><F>Um</F>. All right. So now, please tell me a little bit about your major.</A>
+<B><F>Ah</F> I major English literature.</B>
+<A><F>Hm</F>. <..></..> O K. So what do you usually study?</A>
+<B><F>Ah</F> <F>ah</F> <R>I</R> <.></.> <F>eh</F> I read English book and write Japanese <F>ah</F> this books, <F>ah</F> <.></.> <??></??> <F>er</F> to Japanese.</B>
+<A><F>Um</F>.</A>
+<B><nvs>cough</nvs></B>
+<A>O K, so then, what do you usually do in your free time?</A>
+<B><F>Ah</F> <SC>I do</SC> <F>ah</F> I smoking cigarette or <F>ah</F> <R>I</R> I join to theater play club.</B>
+<A>Right.</A>
+<B>So I am <F>ah</F> playing</B>
+<A><F>Hm</F>.</A>
+<B>or <F>ah</F> voice training or running and stretch.</B>
+<A><F>Ah</F> O K, so can you tell me more about the theater club <R>that you</R> <F>er</F> that you belong to?</A>
+<B><F>Ah</F>. It's <F>eh</F> <H pn="school name1">XXX03</H> <F>um</F> theater club</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and <F>um</F> <nvs>cough</nvs> <SC?>two</SC?> the club play two times in one year.</B>
+<A>Right.</A>
+<B>About two times.</B>
+<A>Right.</A>
+<B><F>Ah</F> <R>this year</R> <F>ah</F> this year, <F>eh</F> we'll play <F>um</F> <F>eh</F> March.</B>
+<A>O K, so what do you usually play?</A>
+<B><F>Ah</F> play?</B>
+<A><F>Um</F> like what kind of play?</A>
+<B><R>Play</R> <F>er</F> <F>um</F> play. <F>Ah</F> <F>oh</F> <F>er</F> drink <F>eh</F> with friends</B>
+<A><F>Um</F>.</A>
+<B><R>or</R> or <R>have</R> <SC>have lun</SC> having lunch with my friends.</B>
+<A><F>Umm</F>. So do you enjoy?</A>
+<B>Yes.</B>
+<A>O K, good.</A>
+</stage1>
+<stage2>
+<task> 
+<A>So now, I'm going to show you a picture. So please describe it.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A><F>Mm</F> ready? O K.</A>
+<B><.></.> <F>Ah</F> <?>explain</?>?</B>
+<A><F>Um</F> describe it. Yeah.</A>
+<B>O K. <F>Ah</F> one couple <F>eh</F> in center table and <R>waiter</R> waiter have <F>ah</F> <.></.> wine.</B>
+<A>All right.</A>
+<B><F>Er</F> and <F>er</F> <F>er</F> right table <F>erm</F> a couple and a waiter.</B>
+<A><F>Hm</F>.</A>
+<B>And <R>the waiter</R> <F>eh</F> <F>um</F> the waiter have <F>eh</F> dishes and <R>left table</R> left table's couple are talking with <nvs>sniff</nvs> and <F>um</F> <F>ah</F> a woman playing piano. And now seven o'clock.</B>
+</task>
+<followup>
+<A><F>Um</F> O K. Thank you. So <F>ah</F> do you like to go to this kind of fancy restaurant?</A>
+<B><F>Ah</F> <R>I</R> I don't go</B>
+<A><F>Hm</F>.</A>
+<B>this kind <?>of</?> restaurant.</B>
+<A><F>Um</F> O K, why not?</A>
+<B><F>Ahh</F> when <R>I</R> I have <F>um</F> <?>rich</?> money.</B>
+<A><F>Ahh</F> O K.</A>
+<B>Yes. And <R>I</R> I don't have <F>um</F> <?>these</?> chance.</B>
+<A><F>Um</F> O K. So where do you usually go?</A>
+<B><F>Ah</F> <R>I</R> I usually go to family restaurant</B>
+<A><F>Hm</F>.</A>
+<B>or <F>um</F> <R>bar</R> <OL><SC>bar</SC></OL></B>
+<A><OL>O K</OL>.</A>
+<B>cheap bar.</B>
+<A>Right, O K. So what's so special about family restaurant?</A>
+<B><F>Umm</F> what's so special.</B>
+<A><F>Hm</F>.</A>
+<B><F>Ah</F> <R>I</R> I can relax in these place.</B>
+<A>Right.</A>
+<B>And <F>er</F> <R>my friend</R> my friend <F>eh</F> don't have <?>too</?> <F>er</F> much money.</B>
+<A>Right.</A>
+<B><F>Mm</F> <R>I</R> I and my friend. <nvs>sniff</nvs></B>
+<A><F>Um</F> O K. thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So now, we are going to do a role-play. So I'm going to give you this card. So please read it silently and whenever you're ready, please let me know.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. So, you ready?</A>
+<B><F>Um</F> O K.</B>
+<A>O K, so <F>ah</F> the phone rings. O K. Hello? This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>A</F> <F>ah</F>. Hello, <F>ah</F> I'm <H pn="B's name">XXX02</H>.</B>
+<A>Hi. How are you, <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F> I'm fine,</B>
+<A>O K.</A>
+<B>and you?</B>
+<A>I'm fine, thank you.</A>
+<B><F>Ah</F> <F>well</F> <F>ah</F> do you go to theater with me?</B>
+<A>O K. <F>Ah</F>. When?</A>
+<B><F>Ah</F> <F>oh</F> tomorrow.</B>
+<A>O K.</A>
+<B>Tomorrow's <F>ah</F> one o'clock.</B>
+<A>O K.</A>
+<B>O K?</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>Yeah</OL>. <nvs>sneeze</nvs> <F>Ah</F> and <F>eh</F> <R>go</R> go with a train to the theater.</B>
+<A><F>Um</F> O K.</A>
+<B>O K, <.></.> <F>um</F> <F>er</F> yes, <F>er</F> <.></.> O K, <F>er</F> <F>erm</F> meet tomorrow.</B>
+<A>All right, at one o'clock. O K. So where are we going to meet?</A>
+<B>Where? <F>Ah</F> <F>ah</F> <F>ah</F> <nvs>sniff</nvs> <F>ah</F> <F>ah</F> O K, <F>eh</F> Seijo Gakuen Mae bus stop.</B>
+<A><F>Oh</F> O K. So that means which train do I have to take to get there?</A>
+<B><SC>Which train</SC> <F>ah</F> <nvs>sniff</nvs> <R>which</R> which train?</B>
+<A>Right.</A>
+<B>No, no. <R>Bu</R> bus.</B>
+<A><F>Oh</F> by bus? <F>Oh</F> O K. So which bus do I have to take?</A>
+<B><F>Ah</F> O K. <F>Ah</F> <F>ah</F> <SC>I</SC> <F>ah</F> we take to a bus to Shibuya.</B>
+<A><F>Hm</F>.</A>
+<B><?>Yes</?>. And <F>er</F> <F>ah</F> go to theater in Shibuya. <..></..></B>
+<A>All right, so what kind of movie are we going to see?</A>
+<B><F>Ah</F> <SC>I</SC> <F>oh</F> it's a <F>ah</F> home drama.</B>
+<A><F>Um</F>.</A>
+<B>Yes. <F>Er</F> are you like?</B>
+<A><F>Ahh</F> yeah.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>That'll be</OL> fine, yeah.</A>
+<B><F>Hm</F>.</B>
+<A>O K, so, I'll meet you tomorrow at one o'clock. <OL>O K</OL>.</A>
+<B><OL><F>Uh</F> O K</OL>.</B>
+</task>
+<followup>
+<A>Thank you. This is the end of the role-play. So in your case, do you like to go see a movie?</A>
+<B><F>Ah</F> <R>I</R> <F>um</F> I don't like so much,</B>
+<A><F>Umm</F>.</A>
+<B>to theater.</B>
+<A><F>Umm</F>.</A>
+<B><F>Uh</F> <R>I</R> I usually <SC>we</SC> watch movie <F>erm</F> on video.</B>
+<A>Right. O K. So what kind of movies do you like?</A>
+<B><F>Ahh</F> <.></.> <F>ah</F> <.></.> <F>ah</F> <R>I</R> <.></.> I usually <F>um</F> watch Japanese movie,</B>
+<A><F>Hm</F>.</A>
+<B><F>ah</F> <F>um</F> starring Asao Tadanobu.</B>
+<A><F>Um</F>. O K, so <.></.> <F>ah</F> <SC>do you</SC> what kind of things do you like most about him, Mister Asano?</A>
+<B><F>Ah</F>. <F>Umm</F> <?>but</?> <F>ah</F> <R>I</R> <R>I</R> I don't realize <F>ah</F> clearly but <F>ah</F> <F>ah</F> <F>uh</F> first, <R>he</R> <SC>he is</SC> <F>ah</F> his act, <F>ah</F> in many movies and <R>he</R> <F>er</F> he have many fan.</B>
+<A><F>Um</F>.</A>
+<B>So <R>I</R> I study <F>um</F> <nvs>cough</nvs> <SC>him</SC> his act.</B>
+<A><F>Um</F> I see, O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So now, I'm going to show you a different picture and I want you to make up a story from one to six. And this was happened to you last week. So I want you to start your sentence with "One day last week".</A>
+<B>One day last week.</B>
+<A><F>Um</F> whenever you're ready.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Mm</F> O K.</B>
+<A>O K?</A>
+<B><F>Ah</F>. <nvs>cough</nvs> One day last week, <F>ah</F> <R>my</R> my house's freezer is empty, so <R>I</R> I go to shopping <F>um</F> to buy fruits. <R>I</R> <R>I bought</R> <F>ah</F> I bought meat and <??></??> <F>eh</F> and other fruits. <F>Um</F> and <R>I paid</R> I paid the fruits' money and <R>I</R> I bring fruits <F>eh</F> into my car. <F>Oh</F> <F>ah</F> <R>I</R> I went to shopping, <F>eh</F> take my car.</B>
+<A><F>Hm</F>.</A>
+<B>So <F>eh</F> <R>I</R> <SC>I bring fruits</SC> <F>uh</F> I brought fruits to my car and <?>I'm</?> <R>re</R> return to home and I cook <F>um</F> my lunch.</B>
+</task>
+<followup>
+<A><F>Um</F> O K, thank you. So <H pn="B's name">XXX02</H>, do you usually cook for yourself?</A>
+<B><F>Ah</F> <R>I</R> I don't cook usually.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> because I live in dormitory.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> <SC>my dormitory don't</SC> my dormitory didn't have a cooking space.</B>
+<A>Right.</A>
+<B>So <R>I</R> I eat <F>ah</F> <R>my</R> my dormitory's <F>ah</F> breakfast and dinner.</B>
+<A><F>Um</F>.</A>
+<B>And I have lunch <F>ah</F> on restaurant or fast food shop.</B>
+<A><F>Um</F> so how is the dinner at the dormitory?</A>
+<B><F>Oh</F> <F>um</F> <R>it's</R> <F>ah</F> it's delicious.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>ah</F> <R>I</R> I paid one dinner <F>eh</F> about <R>four</R> <SC>four hundred yen</SC> <F>um</F> <R>four hu</R> four hundred yen but <R>this</R> this <?>dinner</?> <R>four hu</R> four hundred yen but <F>um</F> <F>um</F> <F>umm</F> my dormitory's dinner <F>er</F> <R>very</R> very much.</B>
+<A><F>Um</F>.</A>
+<B><F>Oh</F>.</B>
+<A>O K. I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K, so we are at almost end of interview. So what are your plans after this interview?</A>
+<B><F>Um</F> <F>um</F> repeat.</B>
+<A>O K. <F>Ah</F> what are your plans after this interview?</A>
+<B><F>Ah</F> <F>ah</F> O K. O K. <F>Ah</F> <R>I</R> <F>uh</F> <R>I</R> I will meet my friend <R>and</R> and <F>eh</F> I give <F>um</F> tomorrow's test's note</B>
+<A><F>Um</F>.</A>
+<B>to my friends.</B>
+<A><F>Hm</F>.</A>
+<B>And <R>I</R> <F>ah</F> my friends give me</B>
+<A><F>Um</F>.</A>
+<B>note. <OL>We, together</OL>.</B>
+<A><OL><F>Ahh</F></OL>. So <SC>yo</SC> both of you are helping each other.</A>
+<B>Yes.</B>
+<A>All right. O K, thank you so much for coming in today. So this is the end of the interview. Thank you.</A>
+</stage5>
+</body>
+</interview>

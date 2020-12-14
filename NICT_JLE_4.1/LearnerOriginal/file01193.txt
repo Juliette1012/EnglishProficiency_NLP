@@ -1,0 +1,174 @@
+<interview>
+<filename>file01193.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>50</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B>Yes. <H pn="B's name">XXX01</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yeah.</B>
+<A>O K. How are you today, <H pn="B's name">XXX01</H>?</A>
+<B>It's fine. But <laughter><SC>so</SC> <R>it</R> it's very hot</laughter>.</B>
+<A>Very hot. <OL><F>Hmm</F></OL>.</A>
+<B><OL>Yeah</OL>. So <JP><F>ee</F></JP> five month ago, I'm working girl.</B>
+<A><F>Um</F>.</A>
+<B>So every time I feel cool in office.</B>
+<A><F>Uhu</F>.</A>
+<B>But now I'm housewife. <laughter><R>So</R></laughter> <OL>so little bit difficult</OL>.</B>
+<A><OL><F>Err</F> O K</OL>. Right. So how do you spend your day everyday as a housewife?</A>
+<B>Yeah. <F>Err</F> so our family is six, so <R>it's</R> <F>uuuuu</F> it's hard work to clean the room. And so I have one Corgi, one small dog.</B>
+<A><F>Err</F>.</A>
+<B>It's very <JP><F>ee</F></JP> fur, <F>er</F> so clean the room. And so everyday I have some schedule</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>so</SC> <SC>to play</SC> to do exercise</B>
+<A><F>Mh-hmm</F>.</A>
+<B>or swim</B>
+<A><F>Mh-hmm</F>.</A>
+<B>or Japanese calculator. So I'm very happy <OL>now</OL>.</B>
+<A><OL>You have many</OL> hobbies.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>Tell me <R>one</R> <F>er</F> one of <?>these</?> hobbies.</A>
+<B>So yeah, <F>err</F> aerobics. <SC>It's</SC> <F>um</F> <F>err</F> so when I was <F>er</F> young I loved to play dance. So now, I <F>ee</F> again to dance. It's aerobics. So it's very nice. But so now, I'm fifty years old. So sometimes I forget my age. <laughter>So I</laughter> <F>ee</F> do exercise hard. So next two or three days I have to rest <laughter>now</laughter>.</B>
+<A>What is the best thing about doing aerobics?</A>
+<B>Yeah. <F>Ee</F> <R>to</R> to sweat a lot and <F>uuu</F> listen <F>err</F> music and move my body. It's <.></.> <F>mm</F> very nice.</B>
+<A><F>Um</F>. O K. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>So today I'd like you to look at this picture,</A>
+<B>Yes.</B>
+<A>and please describe it for me.</A>
+<B><F>Ah-huh</F>. <F>Ee</F> it's sunny day. So there are nice houses there. <F>Err</F> in the front of house, one car stops. On the roof, there is a cat. And <F>eee</F> in front of the house, two <F>uuu</F> madams are talking. And one lady <JP><F>eee</F></JP> has a dog. And in the front of the window, one girl <F>err</F> playing with <R>ro</R> rope. And in the garden two boys playing <F>er</F> volleyball. And two dogs is maybe <SC>s</SC> bowing. And so one man is running now. And <SC>one</SC> opposite the house, <JP><F>eee</F></JP> one man is reading a newspaper. And he's seating a, <?>how do say</?>, bench. Yes.</B>
+<A>O K.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX01</H>, where do you live?</A>
+<B>I live in <H pn="others1">XXX02</H>, <H pn="others2">XXX03</H>.</B>
+<A><H pn="others2">XXX03</H>.</A>
+<B>Yeah.</B>
+<A>O K. So what's the difference between your area</A>
+<B><F>Uhu</F>.</B>
+<A>and this area?</A>
+<B>I see. <JP><F>Eee</F></JP> my house is the same space. But so <JP><F>ee</F></JP> <SC>our town is very</SC> <JP><F>eee</F></JP> <R>so</R> so many houses <.></.> in my town. So we don't have a big <JP><F>ee</F></JP> garden. And <F>eh</F> <F>mm</F> the road is very narrow. So <SC>it's difficult to play</SC> <JP><F>eeee</F></JP> it's difficult children to play the road. And <JP><F>eee</F></JP> my town is very convenient. There are <SC>four lanes</SC> four stations. So <F>er</F> we have a car. But <SC>it's</SC> it don't need to use the car. <.></.> Yes.</B>
+<A>O K. Thank you very much. So you like living in a convenient place.</A>
+<B><nvs>laughter</nvs> <laughter>Yes</laughter>.</B>
+<A>Yes. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So now next, I'd like to do a role-play with you.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL>Please</OL> read this. And when you are ready, I'll start.</A>
+<B>Yeah. <F>Err</F>.</B>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<B><SC>So I want to buy a</SC> what to say, <JP>nan ni shiyou</JP>. <JP><F>Eee</F></JP>. <CO><R>What</R> what kind of</CO>. <.></.></B>
+<A><F>Oh</F> may I help you, ma'am?</A>
+<B><F>Ah-huh</F>. <.></.> <CO><R>So</R> <F>hm</F> <nvs>laughter</nvs> <JP><F>ee</F></JP> so <R>you</R> <R>you</R> you have a <.></.> <??></??></CO>. Yes. So I want to buy a car. <OL>So</OL></B>
+<A><OL><F>Er</F></OL>. O K.</A>
+<B><F>er</F> <R>I</R> I <.></.> want to buy a <JP><F>eee</F></JP> convenient car. <R>Wh</R> which kind of car do you have?</B>
+<A><F>Erm</F> we have compact car,</A>
+<B><F>Uhu</F>.</B>
+<A>right here. It's very convenient.</A>
+<B>Yeah.</B>
+<A>And we have a mid-size car</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>if you want</OL> a little bit larger <OL>one</OL>.</A>
+<B><OL><F>Uhu</F></OL>.</B>
+<A>And we have a big size car.</A>
+<B>Yes. So <F>err</F> my family is five. So <R>wh</R> which one <F>er</F> is good for me?</B>
+<A>I think you should have a big one.</A>
+<B>I see. But one problem I have. Because my garage is not so big. So I think the middle car is <F>uuu</F> good size. But so how many people can ride it?</B>
+<A>O K. This one</A>
+<B>Yes.</B>
+<A>is a box type.</A>
+<B><F>Uhu</F>.</B>
+<A>So it can hold six people.</A>
+<B>Six <??></??>. I see. And so <R>a</R> anyway, how much is this one?</B>
+<A>This is one million yen.</A>
+<B>One million yen. So anyway, <SC>if I pay the cash, <F>ee</F> <R>you</R> <F>uuuuu</F> <.></.> you can <R>se</R> sale off or you can <JP>nante iundaro</JP></SC> <JP><F>eee</F></JP> <R>it's</R> it's one million car, if I pay the cash now, so <R>you</R> <SC>you pay less</SC> <F>er</F> <R>I</R> I can pay less?</B>
+<A>O K. If you pay in cash,</A>
+<B><F>Uhu</F>.</B>
+<A>right now, I can give you ten percent discount.</A>
+<B><F>Er</F> ten percent discount. I see. So anyway, <SC>it's</SC> <JP><F>eeee</F></JP> <SC>we</SC> our hobby is golf and ski. So <SC>the car is <F>uuu</F> good for</SC> <.></.> the car can <F>uum</F> drive the <JP><F>eee</F></JP> <R>ra</R> rough road?</B>
+<A>Yes. It's very strong <?>type</?>.</A>
+<B>I see. <CO>And so inside, <JP><F>eeee</F></JP> some, what to say, <JP><F>eee</F></JP> record or C D tape or</CO>.</B>
+<A><F>Oh</F> there is a C D player.</A>
+<B><F>Uhu</F>. C D player. And the price is all the same <.></.> one? So anyway, the <JP><F>ee</F></JP> mini car, how much is this one?</B>
+<A>This is <F>um</F> <SC>fi</SC> five hundred thousand.</A>
+<B><F>Oh</F>. <laughter>Five hundred</laughter> thousand. <SC>The</SC> how many people can ride it?</B>
+<A>Four.</A>
+<B>Just four. I see. <JP><F>Eeee</F></JP>.</B>
+<A>Would you like to keep <F>er</F> some catalog?</A>
+<B>Yes. <OL>Thank you</OL>.</B>
+<A><OL>O K</OL>. So I'll give you a catalog for all of it.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>So</OL> you can think about it at home.</A>
+<B>Thank you.</B>
+<A>O K. Thank you very much. So this is the end of the role-play.</A>
+</task>
+<followup>
+<A>So when you go shopping,</A>
+<B><F>Uhu</F>.</B>
+<A>what is the most important thing for you?</A>
+<B><F>U</F> <F>uum</F>.</B>
+<A>When you go shopping. <CO>Anything like a</CO>.</A>
+<B>Anything?</B>
+<A><F>Uhu</F>.</A>
+<B><OL><F>Ee</F></OL>.</B>
+<A><OL>What is</OL> most important thing for you?</A>
+<B><SC>It's</SC> first is quality, and then price. Yes. <nvs>laughter</nvs></B>
+<A>O K. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So lastly, I'd like you to do another picture. And I want you to make a story. Please start from here, one through six. But it happened before. So please start with "One day last week".</A>
+<B><F>Er</F> one day last <SC><F>ee</F></SC> week. So it was rainy. <F>Er</F> they are walking the road. The boy is listening about the <JP><F>ee</F></JP> voice of cat. And the girl found the small cat. <.></.> <F>Ee</F> so <SC>the cat <R>i</R> is <R>s</R> sweat</SC> the cat was sweatting. And so she wanted to <F>uuu</F> <.></.> take to <SC>her</SC> their house. But the boy <SC>is</SC> was thinking about that. And the <F>mm</F> girl was holding the cat. Then <JP><F>ee</F></JP> he <JP><F>ee</F></JP> said O K. And they went back home with the cat. <.></.></B>
+<A>Thank you.</A>
+</task>
+<followup>
+<A>You said you have a Corgi at home.</A>
+<B>Yes.</B>
+<A>What is good about having a pet at home?</A>
+<B><F>Um</F>. <F>Uuuuum</F> so many years ago, we have a big dog. So <SC>he</SC> every time he <JP><F>eeee</F></JP> was in the garden. But now Corgi is, first, very small, so <SC>he</SC> <F>er</F> <R>she</R> <SC>she <.></.> is</SC> <JP><F>eee</F></JP> she stays at home with us. So our family was very kind of her. And <F>oh</F> <F>um</F> first thing, so <JP><F>eee</F></JP> when I wanted to Corgi to <JP><F>eee</F></JP> do <F>mm</F> good character, so <R>we</R> <R>we must</R> <.></.> we must <JP><F>eee</F></JP> say <JP><F>eee</F></JP> every time so, "Good" or "You are nice girl.". So if I was a pet, when my son was young, so I could <JP><F>ee</F></JP> do oue son's <.></.> so but I don't know. The Corgi has a <JP><F>ee</F></JP> <SC>fe</SC> fur. So everyday <JP><F>eee</F></JP> <SC>it's</SC> <F>er</F> <R>the</R> there are a lot of furs in my house.</B>
+<A><nvs>laughter</nvs> Then you have to clean that.</A>
+<B>Yeah.</B>
+<A><laughter>O K</laughter>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Thank you very much. So this is almost end of the interview.</A>
+<B><F>Uhu</F>.</B>
+<A>So what is your plan this afternoon?</A>
+<B>This afternoon. <F>Er</F> <JP><F>eee</F></JP> I have to go to the <JP><F>eee</F></JP> clinic to my eyes. Because yesterday I lost my <JP><F>ee</F></JP> contact.</B>
+<A><F>Oh</F>.</A>
+<B><laughter>So</laughter> <SC>I checked</SC> I'll check again and I must buy <F>err</F> contact.</B>
+<A><??></??> I see. O K. So good luck with you, then.</A>
+<B><laughter>Thank you very much</laughter>.</B>
+<A>And you have a good time.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Thank you very much</OL>. This is the end.</A>
+<B>O K.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,195 @@
+<interview>
+<filename>file00085.txt</filename>
+
+<head version="1.3">
+<date>2000-06-09</date>
+<sex>male</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>SE</category>
+<step></step>
+<TOEIC>880</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B>Hello.</B>
+<A>May I ask your name?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>O K. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F>. Pardon? <nvs>laughter</nvs></B>
+<A>How are you today?</A>
+<B><F>Ah</F> I'm fine thank you, and you?</B>
+<A>I'm fine, thank you. O K. Did you have lunch yet?</A>
+<B><F>Er</F>. Yes, I did.</B>
+<A>O K, so where do you usually eat lunch?</A>
+<B><F>Er</F> at <F>er</F> <R><H pn="others1">XXX03</H></R> <H pn="others1">XXX03</H>.</B>
+<A><F>Ah</F> why do you go there?</A>
+<B><F>Er</F> it is near my office.</B>
+<A><F>Uh-huh</F>.</A>
+<B><laughter>Yes</laughter>.</B>
+<A><F>Oh</F> that's why.</A>
+<B>Yes.</B>
+<A>O K. Alright. That's not a restaurant.</A>
+<B><F>Ah</F> it's a Japanese <JP>Udon</JP> shop.</B>
+<A><F>Ah</F> I see. Good, O K, thank you so now, <H pn="B's name">XXX02</H> where do you live?</A>
+<B>I live in <R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H> city.</B>
+<A><H pn="others2">XXX04</H>?</A>
+<B><H pn="others2">XXX04</H> city.</B>
+<A><F>Oh</F> where is it?</A>
+<B><F>Er</F>. It is in <H pn="others3">XXX05</H>. <F>Er</F> near <H pn="others4">XXX06</H>.</B>
+<A>I see. O K, and how long does it take from your house to this building?</A>
+<B><F>Er</F>. To this building?</B>
+<A><F>Ah</F>. Where do you work?</A>
+<B>I work in this office. About <F>er</F> <R>fo</R> forty minutes.</B>
+<A>I see. O K. And do you live in <H pn="others2">XXX04</H> with your family?</A>
+<B>No. <F>Er</F>. <R>I</R> <F>er</F> I live <F>er</F> <SC>only</SC> <F>er</F> alone.</B>
+<A>I see. Then where is your hometown?</A>
+<B><F>Er</F>. My hometown is <H pn="others5">XXX07</H>.</B>
+<A><H pn="others5">XXX07</H>?</A>
+<B>Yes.</B>
+<A>I see. <F>Er</F> which do you like better, living in <H pn="others5">XXX07</H> or living in <H pn="others3">XXX05</H>?</A>
+<B><nvs>luaghter</nvs> <F>er</F> <nvs>cough</nvs> Maybe environment is better in <H pn="others5">XXX07</H> but <F>er</F> I don't like snow. <nvs>laughter</nvs> So <R>I</R> <R>I like <H pn="others3">XXX05</H></R>. Maybe <F>er</F> I like <H pn="others3">XXX05</H> better.</B>
+<A><F>Hm</F> I see. And do your parents and family live in <H pn="others5">XXX07</H>?</A>
+<B>Yes, <F>er</F> my family live in <H pn="others5">XXX07</H>.</B>
+<A>I see. Tell me a little bit about your family.</A>
+<B><F>Er</F> <nvs>cough</nvs> I have a <F>er</F> <SC>old</SC> elder brother and he lives in <H pn="others5">XXX07</H>. And <SC>I have a mother</SC> <SC>I haved</SC> <F>er</F> my mother lived in <H pn="others5">XXX07</H> <SC>but they</SC> <F>er</F> <SC>so</SC> but <F>er</F> <SC>They lives</SC> <F>er</F> they live separately. But <F>er</F> <F>ah</F> I haven't <?>separately</?>.</B>
+<A>I see. Then how do you keep in touch with them?</A>
+<B><F>Erm</F> <R>I</R> <nvs>cough</nvs> I usually <SC>come</SC> <F>ah</F> go <H pn="others5">XXX07</H> twice a year <F>er</F> at <SC><JP>Shogatsu</JP></SC> <F>aa</F> <R>New</R> New Year's season and Summer vacation.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>So <R>what</R> what do you do in <H pn="others5">XXX07</H>?</A>
+<B><F>Oh</F> <F>er</F> <nvs>laughter</nvs> <F>er</F> <F>mm</F>. Yeah. <SC>I stay</SC> I usually stay in at brother's house. And <F>er</F> sometimes <F>er</F> <SC>my brother</SC> <F>err</F> <SC>I met</SC> <R>I</R> <R>I</R> I meet my brother or relatives.</B>
+<A>I see. Good, good and <H pn="B's name">XXX02</H> do you have any hobbies?</A>
+<B><F>Er</F> <R>I like</R> <F>er</F> I like <F>mm</F> movie.</B>
+<A>You like movies?</A>
+<B>Yes.</B>
+<A><F>Ah</F> I see. <.></.> <F>Oh</F> did you see any movies recently?</A>
+<B><F>Ah</F>. <R>I</R> <F>er</F> I saw <SC>Mars</SC> <F>ah</F> "The Mission to Mars". Maybe <F>Er</F> science fiction movie.</B>
+<A>Science fiction movie?</A>
+<B>Yes.</B>
+<A><F>Oh</F> was it good?</A>
+<B><F>Mm</F>. So so.</B>
+<A>So so?</A>
+<B>So so.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Alright. Now, O K, so <.></.> please look at this and describe this picture for me.</A>
+<B><F>Er</F>. The place is <F>urr</F> <.></.> small town and <R>it</R> it's sunny day <F>er</F>. <R>People are</R> <F>er</F> <R>people are</R> people are having a good time at <F>er</F> afternoon. <.></.> <F>er</F> <R>Some</R> <R>some people</R> <.></.> <F>er</F> some people are <.></.> talking <laughter>each other</laughter>. And <SC>some childrens</SC> some children are playing with ball and <.></.> some man <F>er</F> <R>take a</R> <SC>take a</SC> a man is taking a jog. And another man is <F>er</F> reading a newspaper. And <.></.> <SC>a child</SC> <SC>a girl</SC> girl is playing <F>er</F> <laughter>rope</laughter>. <.></.> And that's all.</B>
+</task>
+<followup>
+<A>O K. Thank you very much <F>um</F> Do you think this is in Japan?</A>
+<B><.></.> <F>Er</F> <F>ee</F> I don't think so. Because <F>er</F> road is wide and <F>er</F> <R>the</R> the house in this picture <SC>is</SC> <F>er</F> House has <F>mm</F> wide <F>er</F> garden. <F>Er</F> and <F>er</F> the distance between two houses is very large. <.></.> So I don't think this is in Japan.</B>
+<A><F>Mm</F>. O K. And <F>er</F> do you want to live in a place like this?</A>
+<B><F>Er</F>. Yes, I think <F>er</F> this place is <F>er</F> good to <SC>live</SC> <SC>live in</SC> to live.</B>
+<A>Why do you think so?</A>
+<B><F>Urm</F> <.></.> <F>mm</F> <..></..> <F>er</F> <R>It</R> <SC>its looks</SC> it seems to be quiet and <F>er</F> <F>mm</F> <laughter>quiet</laughter>.</B>
+<A>O K. Thank you very much. O K. Is your neighborhood quiet, too?</A>
+<B><F>Er</F>. Yes.</B>
+<A><F>Hm</F>. That's good. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So,now, let's have a role play. O K? O K. Here you are. This is your card. Please read it to yourself and when you're ready, I'll start.</A>
+<B><F>Er</F> <nvs>cough</nvs> <F>er</F>. I'd like to go to New York by train.</B>
+<A>O K. Yes.</A>
+<B><F>Er</F>.</B>
+<A>How may I help you?</A>
+<B>Yes, <F>er</F> <.></.> <F>er</F> <SC>Do you have</SC> <F>ah</F> Which train is <F>er</F> <SC>fast</SC> fastest to get to New York?</B>
+<A>O K. So we have several trains to New York but <F>er</F> <.></.> the fastest one is 'Express'.</A>
+<B>Express?</B>
+<A><F>Uh-huh</F></A>
+<B>Do you have Express ticket?</B>
+<A><F>Oh</F>, sure, <F>Uh-huh</F>.</A>
+<B><F>Er</F>. And <F>er</F> <.></.> <SC>when <F>er</F> the Express</SC> <F>ah</F> when will the Express start <F>er</F> next?</B>
+<A>O K. In three hours.</A>
+<B>In <laughter>three hours</laughter>? <F>er</F> so <R>when</R> <F>er</F> when <SC>will we</SC> <F>ah</F> will I arrive at New York?</B>
+<A><F>Mm</F>. So now one o'clock so you'll be in New York at five.</A>
+<B>At five. <F>er</F> <laughter>Is there</laughter> <F>er</F> earlier train <SC>the</SC> that Express?</B>
+<A>Yes, so two o'clock train, yeah, this is a Local, yes.</A>
+<B><F>Er</F> <SC>when the Local train</SC> <F>aa</F> when will the Local train <F>er</F> arrive at New York?</B>
+<A><F>Oh</F> At four o'clock.</A>
+<B>Four o'clock. <F>Oh</F>, yes. Do you have a Local train ticket?</B>
+<A>Sure, O K.</A>
+<B><SC>I will</SC> <laughter>I buy</laughter> it.</B>
+<A><F>Uh-huh</F> <F>Uh-huh</F> O.K, so here's the ticket.</A>
+<B><F>Ah</F> <laughter>thank you very much</laughter>. Thank you. <F>Ah</F> O K. O K. How much?</B>
+<A>O K. So twenty-five dollars.</A>
+<B><R>twnty five dollars</R> twenty five dollars.</B>
+<A>Thank you very much, O K. So have a nice trip.</A>
+<B><OL>Thank you very much</OL>.</B>
+</task>
+<followup>
+<A><OL>Thank you very much</OL> <F>er</F> Have you ever taken a train in a foreign country?</A>
+<B><F>Er</F>. No.</B>
+<A>No?</A>
+<B>Yes.</B>
+<A>Have you ever been abroad?</A>
+<B><F>Er</F>. Yes, once <JP><F>nnto</F></JP> <SC>America</SC> <F>ah</F> United States.</B>
+<A><F>Mmm</F>. When was that?</A>
+<B><F>Ah</F> <R>How</R> how?</B>
+<A>When was that? And where did you go?</A>
+<B><nvs>laughter</nvs> <F>Er</F>. I went to California <F>er</F> more than ten years ago.</B>
+<A>More than ten years ago?</A>
+<B><F>Ah</F>. <JP>Motto maeka</JP>. <F>Er</F>. When I was a university student.</B>
+<A><F>Ah</F> I see. And what did you think about <F>er</F> California?</A>
+<B><F>Er</F> <.></.> California is <F>er</F> <nvs>cough</nvs> <SC>very</SC> <F>mm</F> <F>a</F> <R>the climate</R> the climate of California is very mild. <F>Er</F> I went <F>er</F> California in winter but the climate <SC>is</SC> was very mild. <F>er</F> So <R>I</R> I <laughter>like California</laughter>.</B>
+<A>I see. <F>mm</F> Good, good. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Then, I like to see one more picture. O K. Here you are. This time please make up a story <SC>for</SC> <F>er</F> following these six pictures. Story goes this way.</A>
+<B><F>Ah</F> yes.</B>
+<A>O K? But this happened last week. So please start your story with "One day last week".</A>
+<B><F>Ah</F> yes. <F>Er</F> <.></.> <F>er</F>. <R>A man</R> <nvs>laughter</nvs> a man called girlfriend <R>to</R> <SC>to imitate</SC> <F>er</F> to go to <.></.> the date. And <R>he</R> he prepared <F>er</F> beautiful car for it. And <F>er</F> <SC>they</SC> <F>er</F> <R>he</R> <F>ah</F> he and his girlfriend went <R>to</R> to a zoo. And <SC>he likes</SC> <F>ah</F> <R>he</R> <SC>he likes</SC> <F>er</F> <SC>he</SC> <F>er</F> they <F>er</F> have a good time at the zoo. And they saw <SC>a</SC> <SC>the</SC> <SC>a lion</SC> lion. <nvs>laughter</nvs> And they saw <R>mon</R> monkeys. And <F>er</F> <R>they</R> <nvs>laughter</nvs> they <F>er</F> <F>er</F> <SC>spend</SC> <F>a</F> spent <?>a best</?> time in the zoo <SC>so</SC> and <R>he</R> he thought this date was successful.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. Do you think a zoo is a good place for a date?</A>
+<B><F>Mm</F> yeah. <F>Mm</F>. I think so but sometimes <F>er</F> <SC>some girl</SC> some girls don't like animal <nvs>laughter</nvs> so sometimes <F>er</F> I don't think so.</B>
+<A>I see, but other than zoo, where would you like to go on a date?</A>
+<B><F>Mm</F>. Movie theater.</B>
+<A>Pardon?</A>
+<B><F>Er</F>. <SC>Thea</SC> movie theater.</B>
+<A><F>Ah</F>.</A>
+<B><F>Mm</F> <JP>attemasuka</JP>?</B>
+<A><F>Oh</F> yeah, that's right. <F>Er</F>. You want to go to the movie theater? I see. <F>Er</F>. But if she doesn't like <F>er</F> to see a movie, where would you like to go?</A>
+<B><F>Erm</F>. <laughter>Amusement park</laughter> or shopping.</B>
+<A>Shopping? O K. Alright. Do you like shopping?</A>
+<B><F>Er</F>. <nvs>laughter</nvs> <F>Mm</F> I like shopping but <F>er</F> I don't like <R>long</R>, long time shopping. But <F>er</F> <R>I</R> I like shopping but <F>er</F> I don't like when <R>I</R> I have to wait <nvs>laughter</nvs> <SC>during</SC> <F>er</F> <JP>maa</JP> <F>ah</F> <SC>while she is</SC> <F>erm</F> <R>she sho</R> she shopping.</B>
+</followup>
+</stage4>
+<stage5> 
+<A><F>Ah</F> I see. O K. All right. Thank you very much, thank you. The interview is almost ending. O K. And thank you for coming and taking your time. And do you have any plans for this weekend. Today is Friday.</A>
+<B><F>Er</F>. Yeah. No, particularly.</B>
+<A>No?</A>
+<B>No. Yes.</B>
+<A><F>Uh-huh</F> Not going to see a movie?</A>
+<B><F>Ah</F> no. <nvs>laughter</nvs> I saw <R>two</R> two weeks ago.</B>
+<A><F>Ah</F> yeah, I see, because you saw it. O K. Thank you but <F>er</F> maybe <F>er</F> summer, <F>er</F> in <H pn="others5">XXX07</H> is good?</A>
+<B>Very good.</B>
+<A><F>Mm</F>. They don't have a rainy season, like <H pn="others3">XXX05</H> or places?</A>
+<B>Yes, <F>a</F>, yes, <F>ah</F> no. They don't have a rainy season.</B>
+<A><F>Wow</F>.</A>
+<B><F>Er</F>. <R>The</R> the air in <H pn="others5">XXX07</H> it's very dry.</B>
+<A><F>Uh-huh</F> Yeah.</A>
+<B>So <R>good</R> good in summer.</B>
+<A>O K. I see. Good, so are you go back to <H pn="others5">XXX07</H> next month or?</A>
+<B><F>Ah</F> <F>er</F> and I have to go <H pn="others5">XXX07</H> this month. <R>Because</R> <F>er</F> <F>er</F> because <SC>my</SC> <F>er</F> <JP>maa</JP> <laughter>some reason</laughter>.</B>
+<A>O K. I see, thank you very much, so have a good time. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

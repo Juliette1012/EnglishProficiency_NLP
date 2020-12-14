@@ -1,0 +1,274 @@
+<interview>
+<filename>file01106.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>female</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>585</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>I'm <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>O K. <F>Er</F> <H pn="B's name">XXX02</H>, are you busy these days?</A>
+<B>Yes, I am. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Why are you so busy?</A>
+<B><nvs>laughter</nvs> Because <R>I have</R> <F>hm</F> I have a lot of homework everyday.</B>
+<A>Homework?</A>
+<B>Homework from the company. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>And <F>mm</F> <SC>I'm</SC> I come here <F>hm</F> <R>nine</R> nine A. M. to <F>hm</F> nine P. M. <nvs>laughter</nvs></B>
+<A>Really?</A>
+<B><F>Hm</F>. Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F></OL>. Are you tired? <nvs>laughter</nvs></A>
+<B>A little tired. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hm</F></OL>. What do you usually do to relax?</A>
+<B><F>Hmm</F>. I like to take a <laughter>bath</laughter>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But <SC>I'm</SC> I live in <H pn="others1">XXX03</H> alone,</B>
+<A><F>Hm</F>.</A>
+<B><F>hm</F> <R>for</R> for two weeks, so <R>I don't know</R> <F>hmm</F> <.></.> I don't know <F>hm</F> public bath,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>mm</F> near my apartment. <OL><F>Hmm</F></OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><F>Hm</F>. I don't know <R>where</R> <F>hm</F> where there is,</B>
+<A><F>Hmm</F>.</A>
+<B>public bath. <nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Do you need to go to the public bath to relax?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hmm</F>.</B>
+<A>What about in your apartment?</A>
+<B><F>Hmm</F>. <F>Erm</F>.</B>
+<A>You don't have any bath tub?</A>
+<B><F>Hm</F>. No. <R>I have</R> <F>hm</F> I have unit bath.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. But too small to relax. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>O K</OL>. So <F>erm</F> do you like sports?</A>
+<B><F>Hmm</F>. So-so. <nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>I</R> <F>mm</F> I joined in a Japanese archery club in the university and high school. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B>It's sports but not so hard. <nvs>laughter</nvs></B>
+<A>Not so hard?</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A><SC>Do you still practice</SC></A>
+<B><OL>No</OL>.</B>
+<A><OL>do you</OL> still enjoy practicing?</A>
+<B><F>Hmm</F>. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F>. But <F>uh</F> <F>er</F> I'm going to <F>mm</F> belong to some club <F>hm</F> in the company.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. I'd like to.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>What kind of clubs,</A>
+<B><F>Hmm</F>.</B>
+<A>do you want to join?</A>
+<B>I'd like to join in basketball club or tennis club. <OL><F>Hmm</F></OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><R>I</R> <F>hmm</F> I have never played tennis. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Really?</A>
+<B>Yes.</B>
+<A>Then why do you want to</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>join</OL> tennis team?</A>
+<B>It's easy to practice, I think. <F>Hm</F> because <F>hm</F> there are a lot of tennis courts around the laboratory.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><F>Hm</F></OL>. <F>Hm</F>. I think <R>I</R> <F>hm</F> I like to be in the laboratory.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>I see. <F>Well</F> <F>erm</F> can you tell me a little bit about your family?</A>
+<B>O K. <F>Hm</F> I have <F>mm</F> father and mother and one brother.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Tell me more about your brother. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Hmm</F> my brother is <F>hm</F> thirty years old. <F>Hm</F> he graduated <F>er</F> the university but <SC>he don't work now</SC> <F>uh</F> he doesn't work <laughter>now</laughter>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. He had <F>hm</F> some disease,</B>
+<A><F>Hm</F>.</A>
+<B><F>hm</F> two years ago and <R>he</R> <F>hm</F> <SC>he still</SC> he is still in <.></.> <SC>my</SC> <F>hm</F> our hometown,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>with my <R>p</R> parents. <OL><F>Hm</F></OL>.</B>
+<A><OL>I see</OL>.</A>
+</stage1> 
+<stage2>
+<task>
+<A>O K. Now, I'd like to show you a picture. O K. Please describe this picture.</A>
+<B>Yes. <F>Hmm</F>. She is sitting on the chair. <F>Hmm</F>. <R>The dog is</R> <.></.> <F>mm</F> the dog is sleeping on the floor. The cat is sleeping on the bed. <F>Hmm</F>. There is a personal computer <SC>f</SC> in front of a woman.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. The door is opening. <F>Hm</F> there is word processor on the desk. <F>Hm</F> there is a clock on the wall. There is a calendar on the wall. <F>Hmm</F>. <SC>She is</SC> <F>hmm</F> <.></.> <laughter><SC>there</SC></laughter> sorry, <F>hmm</F> there is a lot of books <F>erm</F> <.></.> in the room.</B>
+<A>O K.</A>
+<B><F>Hm</F>.</B>
+<A>Thank you very much.</A>
+</task>
+<followup>
+<A>How is this room different from your room in your apartment?</A>
+<B><F>Hmm</F>. There is a personal computer but <F>hm</F> in my apartment, there is not personal computer. <F>Hmm</F>. And there is a audio set but there is <R>not au</R> not audio set in my room. <F>Hmm</F>. There is <R>a</R> a window in the room <SC>but</SC> <F>er</F> and there is a window in my room, too.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hmm</F>. <CO><OL><??></??></OL></CO>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Thank you</OL> very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, I'd like to try a role-play. And please read this. And when you are ready, I will start.</A>
+<B><F>Hm</F>. <ctxt>The interviewee is reading the role card.</ctxt> O K.</B>
+<A>Ready?</A>
+<B>Yes.</B>
+<A>Hello?</A>
+<B>Hello. <F>Hm</F> it's <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B><F>Hmm</F>. <..></..> Let's go to the movies.</B>
+<A>O K.</A>
+<B><F>Hmm</F>. How about today?</B>
+<A>O K.</A>
+<B><F>Hm</F>. <R>What time</R> <.></.> <F>mm</F> <SC>what time do you</SC> <.></.> <F>mm</F> what time can you go to?</B>
+<A><F>Oh</F> any time.</A>
+<B><nvs>laughter</nvs> <OL>Any time</OL>.</B>
+<A><OL>I have no</OL> work today.</A>
+<B><nvs>laughter</nvs> O K. <F>Hmm</F> how about <F>mm</F> <SC>five o'clock P M</SC> <F>er</F> five o'clock?</B>
+<A>Sure.</A>
+<B>Yes. <F>Hmm</F>. <SC>I'd like to the movies</SC> <F>uh</F> I'd like to watch the movies in Shibuya. <F>Hmm</F>. What do you think?</B>
+<A><F>Hm</F>. Sounds nice.</A>
+<B><nvs>laughter</nvs> <F>Hmm</F>. <SC>I</SC> <.></.> <F>hm</F> O K, <R>I'm waiting</R> <F>uh</F> <SC>I'm waiting in Shibuya Station</SC> <F>uh</F> I'm waiting at the Shinjuku Station.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> Is that O K? <nvs>laughter</nvs></B>
+<A>Yeah. But <H pn="B's name">XXX02</H>, Shinjuku is a big station. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>O K</laughter>. <F>Er</F> <R>I'm</R> I'm waiting at the <R>south</R> south exit of the Shinjuku Station.</B>
+<A><F>Mh-hmm</F>. O K.</A>
+<B>And <R>we</R> <R>we</R> we are going to <R>take</R> take a train <R>and</R> and get to Shibuya.</B>
+<A><F>Hm</F>. O K. So I'll see you then. <OL>Bye-bye</OL>.</A>
+<B><OL>See you</OL> later.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you like movies?</A>
+<B><F>Hmm</F>. Yes. <nvs>laughter</nvs></B>
+<A>Which do you like better, going to the theater or renting videos?</A>
+<B><F>Hmm</F>. <R>I</R> <F>hm</F> <SC>I like to wen</SC> <F>er</F> I like to go to <F>hm</F> movie theater but I have little <laughter>money, so</laughter> <R>I</R> I usually watch movies on <laughter>T V</laughter>,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>video. <OL><F>Er</F></OL>.</B>
+<A><OL>When you</OL> go to the theater with your friends,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>what do you usually do after <SC>the movie</SC> watching <OL>the movie</OL>?</A>
+<B><OL><F>Hm</F></OL> <F>hum</F> <R>I go to</R> I go to the restaurant and have <SC>dinner</SC> <F>mm</F> lunch or dinner and talk about <F>uu</F> movies.</B>
+<A><F>Mh-hmm</F>. I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, I'm going to show you a picture. <.></.> O K. This is the picture story.</A>
+<B><OL><F>Hm</F></OL>?</B>
+<A><OL>And this</OL> happened last week.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>O K?</A>
+<B><OL>Last week</OL>.</B>
+<A><OL>So please</OL> make a story and start with "One day last week,"</A>
+<B><F>Mh-hmm</F>.</B>
+<A>O K? Start from here like this.</A>
+<B><F>Hmm</F>.</B>
+<A>So please start.</A>
+<B>O K. <nvs>cough</nvs> <F>Hmm</F>. <SC>This is my</SC> <F>er</F> one day last week, <F>mm</F> my friends <F>mm</F> Sachiko <nvs>laughter</nvs> is in her apartment.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <R>she found</R> she found the <F>hmm</F> <.></.> cooler <nvs>laughter</nvs> <F>hmm</F> is <laughter>empty</laughter>. But <R>she</R> <SC>she wou</SC> she <SC>wanted to <F>um</F> cook</SC> <F>er</F> wanted to make dinners for her boyfriend. <nvs>laughter</nvs> So <R>she</R> she went to supermarket and <F>hm</F> <SC>bou</SC> bought something <F>erm</F> by a car. <nvs>laughter</nvs> <R>She</R> <F>hmm</F> she wanted to make <SC>fried egg <nvs>laughter</nvs> <F>erm</F> so</SC> fried egg and hamberg. So <SC>he</SC> <R>she bought</R> she bought <F>hmm</F> <laughter>materials <R>for</R></laughter> <F>hmm</F> for them. <F>Hm</F>. And <R>she</R> <SC>she <SC>pay</SC> paid</SC> she paid two thousand yen for food. <?>Then</?> <SC>she bo</SC> she went back to her apartment by a car. <SC>She</SC> <F>hm</F> <.></.> <F>hmm</F> and she cook and waited for her boyfriend. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much.</A>
+<B><F>Hm</F>.</B>
+</task>
+<followup>
+<A>Do you often cook dinner?</A>
+<B><F>Hmm</F>. I rarely <laughter>cook</laughter>.</B>
+<A>You rarely cook?</A>
+<B><nvs>laughter</nvs></B>
+<A>So do you prefer to eat out?</A>
+<B><F>Hmm</F>. <F>Er</F> yes. <F>Mm</F> because I have a little time to cook.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><F>Hm</F></OL>. Now <R>I</R> <F>hm</F> I usually get to home at nine or ten <laughter>o'clock</laughter>, so <.></.> <F>mm</F> I have a little time. <nvs>laughter</nvs></B>
+<A><F>Hm</F>. I see. So tell me about your favorite restaurant,</A>
+<B>Favorite restaurant. <F>Hmm</F>.</B>
+<A>that you can recommend to your friends. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Hmm</F>. I <R>like</R> <F>hmm</F> like <.></.> <F>uum</F> Indian <R>food</R></B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>uum</F> food restaurant in <laughter><H pn="others2">XXX04</H></laughter>.</B>
+<A><H pn="others2">XXX04</H>?</A>
+<B><H pn="others2">XXX04</H>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I'm from <H pn="others2">XXX04</H>. <nvs>laughter</nvs></B>
+<A><F>Oh</F> really. <OL><F>Hm</F></OL>.</A>
+<B><OL><F>Hm</F></OL>. <F>Hmm</F>. <F>Well</F> <F>mm</F> the foods are very hot. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>. But I like that. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><F>Hm</F>. I'd like to go there <laughter>again</laughter>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. <SC>I</SC> <F>hmm</F> <..></..> <SC>the food is</SC> <F>hm</F> <SC>all foods <SC>is</SC> are</SC> all food is <F>hmm</F> like a curry. <nvs>laughter</nvs></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><F>Hm</F></OL>. Curry taste. <nvs>laughter</nvs></B>
+<A><F>Oh</F>. I <OL>see</OL>.</A>
+<B><OL><F>Hm</F></OL>. <F>Hm</F>.</B>
+<A>O K.</A>
+<B>But <R>I</R> <R>I don't</R> I don't find curry restaurant around here.</B>
+<A>Really?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>So <F>er</F> what kind of restaurants <F>er</F> <R>do you</R> do you go to have dinner with your co-workers?</A>
+<B><F>Er</F> <F>mm</F> I usually go to Italian restaurant <F>hm</F> and have spaghetti <R>or</R> <F>hm</F> <.></.> or <R>gratin</R> <nvs>laughter</nvs> gratin.</B>
+<A>I see.</A>
+</followup> 
+</stage4>
+<stage5>
+<A>O K. This is almost end of the interview. Do you <OL>have</OL>,</A>
+<B><OL>Yes</OL>.</B>
+<A>any plans <F>er</F> for this coming weekend?</A>
+<B><F>Hmm</F>. <F>Ah</F> <.></.> I'm going to <F>mm</F> go out with my parents. <SC>My parents lives</SC> <F>er</F> my parents live in <H pn="others3">XXX05</H> now.</B>
+<A><F>Oh</F> <H pn="others3">XXX05</H>.</A>
+<B>So <R>I</R> I'm going to <H pn="others3">XXX05</H> and <SC>go out</SC> going out <.></.> <F>hm</F> to have dinner.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>. Because <R>my</R> my father will retire this month.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>hm</F> <.></.> my parents and my brother and <SC>me</SC> <F>uh</F> <F>hm</F> I <nvs>laughter</nvs> are going to dinner.</B>
+<A><F>Mh-hmm</F>. Together. <OL>O K</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Will you pay for the dinner?</A>
+<B><F>Hmm</F>.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> <F>Hmm</F> next weekend, <R>I</R> I won't get my salary yet. <nvs>laughter</nvs></B>
+<A>Right.</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B>I get it on twenty-fifth.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. <OL><nvs>laughter</nvs> <F>Hm</F> <R>in</R> in April</OL>.</B>
+<A><OL>So maybe your</OL> brother will pay for that. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <laughter><F>Oh</F> yes</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see. O K</OL>. <?>I hope</?> you <F>er</F> enjoy your dinner <F>er</F> with your <OL>family</OL>.</A>
+<B><OL>Thank you</OL>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, thank you</OL> very much.</A>
+</stage5>
+</body>
+</interview>

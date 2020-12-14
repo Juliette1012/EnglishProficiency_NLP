@@ -1,0 +1,177 @@
+<interview>
+<filename>file00131.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>597</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>electric shop</SST_task2>
+<SST_task3>landlord_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>My name is <H pn="B's name">XXX01</H>. Nice to meet you.</B>
+<A>Nice to meet you, too. So, do you live with your family?</A>
+<B>Yes, I do. I live with my mother, and father and my sister.</B>
+<A><F>Huh</F> <F>err</F> please tell me about your sister.</A>
+<B>My sister also comes to this university, and she likes English and movie, and <SC>she's</SC> her major is English literature, and we come to school together.</B>
+<A>Good. So, do you <SC>have</SC> <F>ah</F> sometimes have lunch together?</A>
+<B>Yes, sometimes. <OL>with <??></??></OL>.</B>
+<A><OL><F>Mh</F></OL>. <F>Err</F> what do you think of having your own sister on the same campus.</A>
+<B><F>Mmm</F> it's a little difficult situation, but I can get some advise from her about my major and my studying, and so</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>it's</OL> <F>err</F> convenient <OL>and</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>it's comfortable. <F>Um</F>.</B>
+<A><F>Err</F> when you were children, did you often fight?</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter>Yes</laughter>. Sometime, we did, and still now, <OL><laughter>we have a</laughter></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>little fight sometimes.</B>
+<A><F>Uhm</F> what kind of things do you fight over?</A>
+<B><F>Hum</F> just a little thing about <.></.> I don't know, but <nvs>laughter</nvs> very trivial things.</B>
+<A><F>Mh</F>. Interesting. O K, so, in your free time, what do you usually do?</A>
+<B><R>I</R> I go shopping, I go to see movies and read books, and I play the piano.</B>
+<A><F>Hun</F>. So, <R>how</R> <F>err</F> how long have you been practicing piano?</A>
+<B><F>Mmm</F> <R>it's long</R> it's long and since my childhood, since I was four, yeah four.</B>
+<A><F>Uhm</F> so, you should be pretty good.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I hope so, but so-so, <OL>I think</OL>.</B>
+<A><OL><F>Uhm</F></OL> <F>err</F> do you play any other instruments?</A>
+<B>No, actually, I don't.</B>
+<A><F>Uhm</F>. If you can <F>err</F> choose just one instrument, what would you play?</A>
+<B>Violin.</B>
+<A>Why?</A>
+<B><F>Mh</F> because it's cool, <laughter>and</laughter> <R>I</R> I learned a piano from my piano teacher, and her husband was a violinist, <OL>and</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><SC>we</SC> our concert was mixed with her <R>husband's</R> husband's students, <R>so</R> so that's why I got a little interested in it.</B>
+<A><F>Uhm</F>. Interesting. O K, so, <F>uh</F> besides playing the piano, do you have any hobbies?</A>
+<B><F>Hum</F> I listen to music, and I see movies.</B>
+<A><F>Uhm</F>. What kind of movies do you like?</A>
+<B>I like old stories, and like, for example, I liked a <R>Shak</R> "Shakespeare in love," <OL>or</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>"Elizabeth," or yeah, something like that.</B>
+<A>Do you major in English literature, too?</A>
+<B>No, <OL>actually</OL></B>
+<A><OL>No</OL>.</A>
+<B><R>I</R> I major in Sociology.</B>
+<A><F>Oh</F> but, you still like "Shakespeare in love" <OL>and "Elizabeth"</OL>.</A>
+<B><OL>Yeah, yeah</OL>.</B>
+<A><F>Hum</F>. <F>Err</F> what about those movies attract you?</A>
+<B><.></.> I don't know. <OL><laughter><R>I</R></laughter></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I like just the atmosphere, <OL>and</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><R>I</R> I like history stories, and yeah, costumes are great, and yeah.</B>
+<A><F>Uhm</F>. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K, so the first thing today. <F>Hum</F>. O K. Have you seen this picture before?</A>
+<B>No.</B>
+<A>No? O K. Please make a description of this picture.</A>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<B>O K. Can I start?</B>
+<A><F>Uh-hum</F>.</A>
+<B>After the lunch, Steve <R>came to</R> came <.></.> to buy a <SC>watch</SC> wrist watch <SC>to</SC> <R>in the</R> in the <SC>machine store</SC> store of the machines. <R>And</R> <.></.> and <R>he</R> <.></.> he couldn't choose one by himself, so he asked the sales clerk to suggest something, <R>and</R> <.></.> and actually, in that store, they didn't have many wrist watches, so Steve wonders if he should <R>buy</R> <R>buy</R> <R>buy</R> buy one among them or not. <SC>And</SC> but, he listened to the sale's <R>clerk's</R> clerk's suggestion, <R>and he</R> <.></.> and he decided the red one, and he went back home.</B>
+</task>
+<followup>
+<A>O K. <F>Err</F> what do you think the sales clerk is suggesting?</A>
+<B><F>Hum</F> <SC>he</SC> <..></..> the sales clerk <.></.> explained about the function of the each wrist watches, <R>and</R> and <SC>it was</SC> <.></.> the each explanation <SC>was alike</SC> <R>wa</R> was alike so he just choose the red one by the color.</B>
+<A><F>Hum</F>. O K. All right. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. So next we would like to try a role-play. <F>Uh</F>. Please read this card, and when you are ready I will start.</A>
+<ctxt>The interviewee is looking at the card.</ctxt>
+<B>O K. <.></.> Excuse me.</B>
+<A>Yes.</A>
+<B><R>I</R> I was back just now, and in my apartment, <R>the</R> the window was broken. So, I want to fix it.</B>
+<A>Window's broken?</A>
+<B>Yes. <OL>Yes</OL>.</B>
+<A><OL>What happened</OL>?</A>
+<B>I don't know, just I found it. <SC>After</SC> <F>ah</F> <SC>before <R>I</R> <.></.> I go</SC> <R>befo</R> <SC>before</SC> <F>em</F> <R>when I</R> <.></.> when I go out today, it was not broken, <OL>and</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><R>after</R> <SC>after the</SC> after I went back, it's just broken, so I don't know. I have no idea what happened. So, <OL>what should I do</OL>?</B>
+<A><OL><F>Mhm</F></OL> <F>err</F> can you wait until tomorrow morning?</A>
+<B><F>Mmm</F> yeah, but <SC>I'll</SC> I want it fixed earlier, so <R>I want</R> I want to fix it today. <CO>So</CO>.</B>
+<A>Today, <F>oh</F> I'm pretty busy today.</A>
+<B><F>Oh</F> so, <R>can I</R> can I <R>get</R> get the repairman by myself?</B>
+<A><F>Oh</F> sure.</A>
+<B><?>And</?> <SC>where</SC> <R>which</R> which company do you suggest for the <?>repairing</?>?</B>
+<A><F>Mmm</F> I don't know, but I think we can find a good repair shop from yellow page.</A>
+<B>Yes, so, I will do it. I will call them, and after that, I will tell you about it.</B>
+<A>O K. That's fine. All right. Thank you very much. O K. This is the end of role play.</A>
+</task>
+<followup>
+<A>O K, so, you live your family.</A>
+<B>Yes.</B>
+<A>O K. <F>Hum</F>. All right. If you are in this kind of situation, what would you do?</A>
+<B><F>Mmm</F> first, <SC>I will</SC> <SC>I'll</SC> I tell somebody in my family, and if there are none of them in the house at the time, I will <R>call my</R> <.></.> call my father <OL><laughter>or mother</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. All right.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhm</F> O K. All right. So the last thing today.</A>
+<ctxt>The interviewer is looking for the pictures.</ctxt>
+<A>O K. There are six pictures.</A>
+<B><F>Hum</F> <OL><F>hum</F></OL>.</B>
+<A><OL>O K</OL>. And, please make up the story based on these pictures from one to six. And this happened before, so please start your story with one day last week.</A>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<B><?>Can I</?> start?</B>
+<A>Sure.</A>
+<B>One day last week, John went to the office in the morning. And, <SC>in the plat</SC> on the platform, <R>he</R> he dropped his <R>bag</R> bag on the <R>rail</R> rail because <R>he</R> <R>he run</R> he run into a middle aged man. <R>And</R> and they quarreled <R>because</R> because <R>the</R> <F>mm</F> the middle aged <R>man</R> <..></..> man was a little careless, <R>John</R> John thought. <R>So</R> so they started <R>calling the</R> calling the <.></.> <R>hired</R> hired man in the railway company. And after that, <R>he</R> <.></.> he <R>brought</R> brought the bag up of the platform. And, John got the bag, so after that, John <SC>went into the</SC> went <R>on the</R> <.></.> on the train. And <SC>safely, he</SC> finally, he safely went to the office.</B>
+<A>O K. All right.</A>
+</task>
+<followup>
+<A>So, who's fault do you think it is in this picture?</A>
+<B>I think it's <R>both</R> <R>both of</R> both of them's fault because it was crowded on the platform, <R>so</R> so <R>we can't</R> we can't care other people so much, so it's both of them's fault, <OL>I think</OL>.</B>
+<A><OL><F>Uhm</F></OL> O K. <SC>Do you have</SC> have you ever had a bad experience when you are taking a train?</A>
+<B>No, actually, I don't, but everyday <SC>I go</SC> <SC>I'll</SC> <SC>I'm</SC> I use the train, and it's so crowded, <OL>so</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>it's just disgusting <OL><laughter><?>in a crowded train, so</?></laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Mmm</F>. Yeah, we have a very good train system in Tokyo, but there are some bad points, too, <OL>as you said</OL>.</A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A><F>Err</F> what do you think we can do to solve the problem?</A>
+<B>I think, <R>we should</R> we should fix the time. <.></.> Each company and each school set the different times <R>for the</R> <R>for the</R> <.></.> <R>for the</R> <.></.> for the morning and the evening, <SC>the</SC> I mean, the most crowded time. So, if we can fix <SC>the different times</SC> a lot of different times, it can be better.</B>
+<A><F>Mmm</F>. So, do you often take the train in rush hours?</A>
+<B>Yes. <OL><laughter>Almost everyday</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Uhm</F>. O K. <F>Err</F> how do you like <nvs>laughter</nvs> riding in a train when it's very crowded?</A>
+<B><F>Mmm</F>. <SC>I'm</SC> <SC>I fir</SC> at <R>fir</R> <R>first</R> first, I mean, in April, I didn't get used to it, so I couldn't do anything in the train. I couldn't concentrated on <R>reading</R> reading magazines, reading books or anything. <R>But</R> but, after getting used to it, I can read books and listening to music, and yeah, just thinking. It's <R>great</R> <OL><laughter>great</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+</followup>
+</stage4>
+<stage5>
+<A>O K, thank you very much. Yeah, this is almost the end of the interview.</A>
+<B><F>Hum</F>.</B>
+<A>So, do you have any plans today?</A>
+<B><F>Uhm</F> yes, I have <F>erm</F> one class after this interview, and after that, I will go just shopping in a hometown.</B>
+<A><F>Hun</F>. Where is your hometown?</A>
+<B>My hometown, now, is <H pn="others1">XXX02</H>.</B>
+<A>So, are you going shopping in <H pn="others1">XXX02</H>?</A>
+<B>Yes, sometimes I do, because <SC>I'm</SC> <R>I</R> I use bus from the <H pn="others1">XXX02</H> station, then I sometimes have to wait for the bus, and during the waiting time, I go shopping.</B>
+<A>So, how long does it take to come here from your home?</A>
+<B>One hour and half.</B>
+<A><laughter>That's a pretty</laughter> long ride.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>All right, O K. Thank you very much for coming.</A>
+<B>Yeah.</B>
+<A><OL>This is the end of the interview</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

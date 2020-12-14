@@ -1,0 +1,229 @@
+<interview>
+<filename>file00500.txt</filename>
+
+<head version="1.3">
+<date>2001-06-27</date>
+<sex>female</sex>
+<age>30</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>620</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A><OL>May I call you <H pn="B's name">XXX02</H></OL>?</A>
+<B><OL><H pn="B's name">XXX02</H></OL>.</B>
+<A>O K. Nice to meet you <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Er</F>. Is it still hot outside?</A>
+<B>Yeah. Hot and humid. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Er</F> I see</OL>. <F>Well</F> thank you very much for coming.</A>
+<B><nvs>laughter</nvs></B>
+<A>So where did you come from just now?</A>
+<B><F>Uum</F>. My company. <F>Uhm</F>.</B>
+<A>Where is your company?</A>
+<B><F>Uum</F>. In <H pn="others1">XXX03</H>.</B>
+<A><F>Hum</F>. I see. Right. <F>Er</F> can you tell me a bit about your job?</A>
+<B>My job? <F>Mmm</F> yeah, hard to explain. But <SC>I</SC> <R>I'm</R> I'm be in financial section.</B>
+<A>I see.</A>
+<B><F>Um</F> financial section. And <R>usu</R> usually <SC>I check</SC> I have to check the <R>report</R> <F>um</F> report, or I have to pay <JP><F>ee</F></JP> other company.</B>
+<A><F>Uh-hm</F>. I see. What time do you usually finish work?</A>
+<B><F>Um</F> about six or six-thirty.</B>
+<A><F>Er</F> that's not bad.</A>
+<B><F>Hmm</F>. <F>Hmm</F>.</B>
+<A>So how do you spend the rest of the evening?</A>
+<B>Evening? Evening <R>I</R> <SC>I go to the English conversation</SC> I go the English conversation <SC>class</SC> school</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> twice a week.</B>
+<A><F>Oh</F> <??></??> <OL>now</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>I see.</A>
+<B>And <F>uum</F> so I go to the gym</B>
+<A><F>Oh</F> that's good.</A>
+<B><F>uhm</F> to exercise.</B>
+<A><F>Hum</F>. What do you do at the gym?</A>
+<B>Gym? <F>Urr</F> I want to be thinner, <F>um</F> diet, <SC>I wanna be</SC> <nvs>laughter</nvs> <SC>I wanna</SC> <F>mm</F>? I'm on a diet.</B>
+<A><OL>Are you</OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A>I see.</A>
+<B>So I ride on a bicycle.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Mm</F> and <F>ur</F> running or <F>uum</F> <.></.> <R>I</R> I can use by legs.</B>
+<A><F>Uum</F>.</A>
+<B><F>Um</F>.</B>
+<A>I see. Which exercise do you enjoy the most?</A>
+<B>Enjoy. <laughter>Not enjoy for me</laughter>. <nvs>laughter</nvs> <laughter>Yeah</laughter>.</B>
+<A>I see. <OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>And how about the weekends then? Do you do anything special?</A>
+<B>Weekend. <F>Uum</F> <F>uum</F> <F>uum</F> I meet my friend to have lunch or <F>um</F> I watch a movie. <F>Um</F>.</B>
+<A><F>Oh</F> That's good. O K. Where do you live?</A>
+<B><F>Um</F> I live in <H pn="others2">XXX04</H> Prefecture.</B>
+<A>I see. Do you live with your family?</A>
+<B>Yes.</B>
+<A>O K. Can you tell me a bit about your family?</A>
+<B><laughter>Family</laughter>. <F>Uum</F> <F>uum</F> <R>my mother</R> my mother works at the elementary school. <F>Um</F> so <R>she</R> <SC>she care about</SC> <SC>she ca</SC> she take care about <F>um</F> children. <F>Um</F> so and she likes traveling. <F>Um</F> so <R>my father</R> <R>my father</R> my father also <R>work</R> <SC>work</SC> works. <F>Um</F> so <R>he always</R> he always is <R>late</R> late for coming back home. <F>Um</F> <F>um</F> I don't know <SC>he</SC> maybe he is busy. <nvs>laughter</nvs></B>
+<A>I see.</A>
+<B><R>I have</R> I have a sister.</B>
+<A><F>Oh</F>.</A>
+<B><F>Um</F> <SC>little</SC> <F>mm</F> younger sister.</B>
+<A>Yes.</A>
+<B>She lives in <F>ur</F> <H pn="others3">XXX05</H></B>
+<A><F>Ohh</F>.</A>
+<B>to study <F>um</F> <F>ur</F> English.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So but now <R>she studied</R> she studied <R>massage</R> massage. So now <F>ur</F> <SC>she get</SC> she got a job at the <H pn="others3">XXX05</H>. <F>Um</F> she will start working.</B>
+<A>As a massage <?>user</?>?</A>
+<B><F>Um</F>.</B>
+<A>She does massage?</A>
+<B>Yeah.</B>
+<A><OL>Interesting</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. The first thing I want you to do today is, O K look at this picture, and describe the picture for me.</A>
+<B>Describe. <F>Uum</F> there is a sun. <F>Um</F>? Is it O K?</B>
+<A>Sure.</A>
+<B><F>Um</F> there is a sun. And there is a road and house. And <SC>many people</SC> <F>um</F> <SC>many</SC> <F>er</F> <F>um</F> <SC>two children</SC> <SC>children play</SC> two children are <R>playing</R> <R>playing</R> <R>playing</R> playing something with ball. And a man is running. And <R>two dogs</R> <R>two dogs look</R> two dogs look each other. And <R>a girl</R> a girl <JP><F>ee</F></JP> <R>wearing</R> wearing red skirt is <F>mm</F> jumping with rope. <.></.></B>
+</task>
+<followup>
+<A>O K. That's enough.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. You said that you live in <H pn="others1">XXX03</H>. O K. Can you describe the area that you live?</A>
+<B><F>Errr</F> so I live in <H pn="others1">XXX03</H> Prefecture, so I live in <H pn="others4">XXX06</H> City. <F>Uum</F> so but <SC><H pn="others4">XXX06</H> City <R>not</R> not</SC> <F>um</F> my house is not the center of <H pn="others4">XXX06</H> so edge of <H pn="others4">XXX06</H> City. So <F>uum</F> <F>uum</F> <R>there are</R> there are <R>many</R> many <R>houses</R> houses and a little bit field. <F>Uum</F> and <F>ur</F> <..></..> <F>uhm</F>. <nvs>laughter</nvs></B>
+<A>Do you like the place?</A>
+<B><F>Uum</F> I don't like it because <SC>my</SC> <F>ur</F> I work at <H pn="others1">XXX03</H>, so <OL>it's far from my house</OL>.</B>
+<A><OL><F>Ahh</F></OL>. I see. O K. <OL>All right</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Thank you very much. O K. I'll take that picture. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Next let's do a role-play. O K. I want you to read <.></.> O K, this card. And when you are ready I'll start.</A>
+<B><F>Um</F>? Excuse me?</B>
+<A>O K. Please read this card.</A>
+<B><F>Um</F>.</B>
+<A>O K? And when you are ready, I will begin.</A>
+<B><JP><F>Ee</F></JP>. In <SC>Eng</SC> Japanese?</B>
+<A>O K. Read it to yourself.</A>
+<B><F>Uh-hm</F>. And?</B>
+<A>O K? Are you ready?</A>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<B>Yes.</B>
+<A>O K? Then I'll start. O K. So I'm your friend. O K. <OL>Now I pick up the phone</OL>.</A>
+<B><OL><F>Uh-huh</F></OL>. <F>Uh-huh</F> <F>uum</F>.</B>
+<A><OL>O K</OL>?</A>
+<B><OL>O K</OL>.</B>
+<A>Hello.</A>
+<B>Hello. This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> hi <H pn="B's name">XXX02</H>. It's <H pn="A's name">XXX01</H>.</A>
+<B><nvs>laughter</nvs> How are you?</B>
+<A>Good. Thanks.</A>
+<B><nvs>coughs</nvs> <SC>How about</SC> <F>er</F> I'm sorry, <SC>how do you</SC> <F>uum</F> do you have a plan this weekend?</B>
+<A>No.</A>
+<B>No? <F>Uum</F> if you could, <F>uum</F> let's go to Shinjuku to watch a movie.</B>
+<A>Sure.</A>
+<B><F>Um</F> so how about meeting <F>uum</F> it's about <R>twelve</R> twelve o'clock, at noon. Is it O K?</B>
+<A>Fine.</A>
+<B>Fine. Yes. So <F>uum</F> <.></.> <R>how do you</R> how do you <SC>come</SC> <SC>get to</SC> <R>get</R> get there?</B>
+<A><F>Er</F>. I take Yamanote Line.</A>
+<B>Yamanote Line. O K. <SC>I'm</SC> I also use Yamanote Line. So <R>we can</R> <R>we can meet</R> we can meet in front of <R>the</R> the Alta.</B>
+<A>Sure.</A>
+<B><nvs>laughter</nvs> At noon. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. <F>Well</F> that case I'll see you at noon in front of Alta then.</A>
+<B>O K.</B>
+<A>O K. <OL>See you then, bye</OL>.</A>
+<B><OL>See you, bye-bye</OL>.</B>
+<A>Thank you very much.</A>
+<B><nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>Do you often go seeing movies?</A>
+<B><F>Um</F> sometimes.</B>
+<A>O K. Who do you go <F>er</F> to see a movie with?</A>
+<B><F>Uum</F> friend. <F>Um</F>.</B>
+<A>O K. <F>Ur</F> can you tell me about the last time you went to see a movie?</A>
+<B><R>Last time</R> last time. <nvs>cough</nvs> It's "Hannibal".</B>
+<A><F>Oh</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A><SC>What kind of film</SC> <F>er</F> so how did you enjoy that movie?</A>
+<B><F>Uum</F>. So first, her husband <SC>went</SC> <R>try</R> try to <R>watch</R> watch it. So but it was long line <F>mm</F> to <OL><R>watch</R> watch it</OL>.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B>So <SC>we have</SC> <R>we</R> <SC>we go</SC> we went to Kichijoji to <R>watch</R> watch it. So because Kichijoji is not so <R>cro</R> crowd.</B>
+<A><F>Oh</F>. Really?</A>
+<B><R>We</R> we thought. So and we watch it. So but <SC>it is</SC> it was interesting, but it's <SC>weird</SC> <nvs>laughter</nvs> really weird. <F>Uum</F>.</B>
+<A><F>Oh</F> I see.</A>
+<B>So after that, <SC>we take</SC> <F>er</F> <R>we</R> we had dinner.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F> <R>scallop</R> <R>scallop</R> scallop,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so, little bit <nvs>laughter</nvs> a little bit <F>uum</F> strange. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><R>I see</R></OL>. I see. All right. O K. Thank you very much. O K. I'll have that card back.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. The last thing I want to do today is, O K, please look at this picture. O K? And please make a story using the pictures from one to four.</A>
+<B><F>Um</F>. Yes.</B>
+<A>O K? Please start.</A>
+<ctxt>The interviewee is looking at the pictures for a while.</ctxt>
+<B><F>Umm</F>. A girl and boy is going to go to the <R>zoo</R> zoo. <R>And</R> <nvs>cough</nvs> and <R>they</R> <R>they are</R> they are watching lion. And <SC>their</SC> they enjoyed to <R>watch</R> watch it. And <.></.> <SC>sh</SC> <F>uum</F> <F>uum</F> <F>uum</F> <R>when she</R> <R>when she</R> <R>when she saw</R> when she saw <R>mon</R> <R>monkey</R> monkey eating banana, so she wanted to have <SC>soft cream</SC>. So <R>she</R> <R>she</R> <F>mm</F> <SC>she</SC> <JP>chigau</JP> <F>uum</F> <R>the boy</R> <R>the boy</R> the boy got ice cream for her. And <R>she ha</R> she have it. And after that <R>they</R> they went back home. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, thank you very much</OL>.</A>
+</task>
+<followup>
+<A>O K. <SC>What ani</SC> what kind of animals do you like?</A>
+<B>Animal? <F>Uum</F> I like fish. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F></OL>. Why do you like fish?</A>
+<B><SC>Fish</SC> tropical fish. <F>Um</F> so maybe <SC>five</SC> <F>mm</F> four or five years ago, <R>I had</R> I had some fish.</B>
+<A><F>Ohh</F>.</A>
+<B>So but they died. <F>Uum</F> so it was difficult to keep the <R>temperature of the</R> <F>mm</F> temperature of the water in a tank. So and maybe, I think, my house's water <SC>is</SC> was bad.</B>
+<A><F>Oh</F>.</A>
+<B><F>Uum</F> so but <R>I want</R> I want to fight fish now. <SC>Fight fish mean</SC> <F>er</F> fight fish is <F>uum</F> <R>keep</R> keep alone so because <F>um</F> <R>if</R> <SC>if we</SC> if I put <SC>two fish</SC> two fight fish, they fight. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> I see</OL>.</A>
+<B><F>Um</F> so <R>and</R> and it's easy to <R>keep</R> keep it.</B>
+<A>I don't know anything about fish, but what does a fight fish look like?</A>
+<B>Ugly. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Ugly but strong.</B>
+<A><F>Er</F>. I see.</A>
+<B>They don't need <F>uum</F> <R>some</R> some <F>uum</F> <R>air</R> air pomp.</B>
+<A><F>Ohh</F>.</A>
+<B><F>Uum</F> you can keep it in the glass.</B>
+<A><F>Er</F> I see. Are they big?</A>
+<B><JP><F>Uun</F></JP>. Small.</B>
+<A>I see.</A>
+<B>So but ugly. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Their faces ugly?</A>
+<B><F>Um</F> face also and <F>er</F> <R>body</R> <laughter>body also</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. O K. All right.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. We're almost at the end of the interview now. O K. So what are you going to do after this?</A>
+<B>After this I'm going to go home.</B>
+<A><F>Er</F> I see. How long is it going to take to go back to <H pn="others4">XXX06</H>?</A>
+<B>Maybe <R>one hour and</R> one hour and ten minutes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. Right. I heard that it might rain.</A>
+<B><nvs>laughter</nvs></B>
+<A>So yeah, I hope you won't get caught in the rain. O K. Thank you very much for coming.</A>
+<B>Thank you very much.</B>
+<A>Thank you. O K.</A>
+</stage5>
+</body>
+</interview>

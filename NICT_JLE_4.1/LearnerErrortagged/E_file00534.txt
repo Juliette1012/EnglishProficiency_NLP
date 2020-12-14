@@ -1,0 +1,295 @@
+<interview>
+<filename>E_file00534.txt</filename>
+
+<head version="1.3">
+<date>2001-07-23</date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL>525</TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>So, <F>er</F> good morning.</A>
+<B>Good morning.</B>
+<A><F>Uhm</F>. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to</OL> meet you.</B>
+<A><F>Um</F>. O K. How are you today?</A>
+<B><nvs>laughter</nvs> <nvs>cough</nvs> <F>Um</F>. <JP><F>Eh</F></JP>. <OL><??></??></OL>.</B>
+<A><OL>How</OL> are you?</A>
+<B><F>Err</F> I'm fine, thank you.</B>
+<A>Fine?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Good</OL>. <F>Er</F> it's very hot, isn't it?</A>
+<B>It's crazy hot.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes.</B>
+<A>O K. <F>Um</F>. Which season do you like best?</A>
+<B>I like <F>uh</F> <SC?>s</SC?> <F>um</F> winter best.</B>
+<A>Winter?</A>
+<B><OL>Winter</OL>.</B>
+<A><OL><F>Uum</F></OL>.</A>
+<B><F>Erm</F> because <F>um</F> <F>um</F> I was born in winter.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I like <at odr="1" crr="">the</at> snow,</B>
+<A><F>Hm</F>.</A>
+<B>and <F>uum</F> I like Christmas.</B>
+<A><F>Err</F>.</A>
+<B><F>Um</F>.</B>
+<A>Do you enjoy any sports?</A>
+<B>Sports? <F>Um</F>. <F>Hm</F>. I <v_tns odr="1" crr="enjoy">'ll enjoy</v_tns> <v_fml odr="2" crr="skiing">ski</v_fml></B>
+<A><F>Uh-huh</F>.</A>
+<B>or some <F>er</F> <aj_lxc odr="3" crr="other"></aj_lxc> winter sports.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But I like basketball.</B>
+<A><F>Hm</F>. <.></.> O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Um</F></OL>. Do you often play basketball?</A>
+<B>Yes.</B>
+<A><F>Um</F>. Tell me about it.</A>
+<B><F>Uum</F>. <F>Um</F>. When I was <at odr="1" crr="an"></at> elementary school student, <F>um</F> I belonged to the basketball club.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <nvs>cough</nvs> I played basketball all day. And <F>um</F> <SC>I cont</SC> <F>uum</F> I went on playing basketball <F>uum</F> <R>for</R> <F>um</F> for <SC>three da</SC> three years.</B>
+<A><F>Uhu</F>.</A>
+<B>But, <F>um</F> <.></.> now, <F>mm</F> I don't play it often. But I like it.</B>
+<A><F>Uum</F>. O K. Is there any reason you don't play basketball so often these days?</A>
+<B><F>Um</F>. <F>Um</F>. Because <F>um</F> I don't belong to <at odr="1" crr="a"></at> basketball club. <CO>And</CO> <.></.> <F>Um</F>. But I want to belong to <at odr="1" crr="a"></at> basketball club,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>actually. But <nvs>cough</nvs> <F>um</F> I study English, so my purpose is to go abroad and <F>mm</F> study English.</B>
+<A><F>Uhu</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL>So</OL> <R>I want</R> I want to <F>erm</F> <F>mm</F> <R>concentra</R> concentrate on studying.</B>
+<A>I see. <F>Oh</F>. What's the purpose of your studying English?</A>
+<B>Purpose?</B>
+<A><F>Hm</F>.</A>
+<B><nvs>cough</nvs> In the future, I want to translate books, <SC>and</SC> or <F>mm</F> I want to be an interpreter.</B>
+<A><F>Uhu</F>.</A>
+<B>So <F>mm</F> it's good for me to study abroad.</B>
+<A><F>Uum</F>. I see. All right. Do you have any specific books you want to translate?</A>
+<B><F>Uum</F>. <F>Um</F>. <F>Mm</F>. I <v_tns odr="1" crr="haven't decide">don't decide</v_tns>, <R>ac</R> actually. But <F>um</F> <SC>I move</SC> I <v_vo odr="1" crr="was moved">moved</v_vo> <R>to have re</R> to <v_tns odr="2" crr="read">have read</v_tns> Sydney Sheldon.</B>
+<A><F>Uum</F>.</A>
+<B>And <F>um</F> I read it in English. <F>Mm</F>. It was very good.</B>
+<A><F>Um</F> I don't know much about,</A>
+<B>Sydney Sheldon?</B>
+<A><R>Sy</R> Sydney Sheldon, yeah.</A>
+<B><F>Um</F>. <nvs>cough</nvs> <F>Um</F>. The <n_lxc odr="1" crr="story">content</n_lxc> is <F>um</F> simple, and <F>mm</F> <SC>usually, <F>erm</F> that</SC> <F>um</F> usually, <SC>a man</SC> <R>a woman</R> a woman <F>um</F> <.></.> <SC>was a</SC> has <at odr="2" crr="">a</at> <R>s</R> <F>um</F> some mental <n_num odr="3" crr="problems">problem</n_num>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>And</SC> but, <F>um</F> in the future, she <o_uk odr="1" crr="become successful">has very <R><?>succeed</?> in</R> <?>succeed</?></o_uk> in <at odr="2" crr="the"></at> business.</B>
+<A><F>Uhu</F>.</A>
+<B>So, <F>mm</F> in the end, <SC>is</SC> it's a happy story.</B>
+<A><F>Hm</F>. <F>Oh</F>. I see. Sounds interesting.</A>
+<B><OL><F>Ah</F> that's right</OL>.</B>
+<A><OL><?>I got to try</?> next time</OL>. <nvs>laughter</nvs></A>
+<B><F>Hm</F>.</B>
+</stage1>
+<stage2>
+<task>
+<A>Now, O K. I'd like to show you a picture. So, please describe it for me.</A>
+<B>Yes. <nvs>cough</nvs> <F>Hm</F>. Here is Los Angeles.</B>
+<A><F>Uhu</F>.</A>
+<B>And <.></.> it's a small town. <F>Hm</F>. <F>Uum</F> in this house, the <F>erm</F> family <v_agr odr="1" crr="lives">live</v_agr>. And <.></.> <F>mm</F> the family <o_lxc odr="1" crr="consists of">are</o_lxc> <F>mm</F> two boys and <at odr="2" crr="a"></at> mother and father and one girl. <F>Mm</F>. And <at odr="1" crr="a"></at> younger brother and older brother <SC>play the <F>erm</F> ball</SC> play with a <n_num odr="2" crr="ball">balls</n_num>. And <F>oh</F> <F>um</F> <R>father</R> <pn_lxc odr="1" crr="their"></pn_lxc> father is running along the street. <R>And</R> <nvs>cough</nvs> and, <R>she play</R> <SC>she play <F>um</F> on her</SC></B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>cough</nvs> <.></.> <F>uum</F> I don't know the name, but she <v_tns odr="2" crr="is playing"><v_agr odr="1" crr="palys">play</v_agr></v_tns> by herself.</B>
+<A>O K. <nvs>laughter</nvs></A>
+<B><nvs>cough</nvs> And the <R>mother</R> mother <R>want to</R> <v_agr odr="1" crr="wants">want</v_agr> to walk with a dog. And <F>uum</F> <nvs>cough</nvs> <SC>she met</SC> she <v_tns odr="1" crr="is meeting">meets</v_tns> <SC>the <R>neighbor</R> neighborhood</SC> <F>eh</F> <F>mm</F> <at odr="2" crr="a">the</at> friend of <pn_cs odr="3" crr="hers">her</pn_cs>. And they <v_tns odr="1" crr="are talking">talk</v_tns> about her <SC>chi</SC> <n_inf odr="2" crr="children">childrens</n_inf>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> <F>Hm</F>. They <F><?>er</?></F> <v_tns odr="1" crr="are enjoying">enjoy</v_tns> talking. <.></.></B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>All right</OL>. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Er</F> you said it's Los Angeles.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Why</OL> is that?</A>
+<B><F>Oh</F>. Because it's very fine.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>um</F> the house is very large.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. And they have a large garden.</B>
+<A><F>Uhu</F>.</A>
+<B><CO><?>And</?></CO>.</B>
+<A>Have you been there?</A>
+<B>Yes.</B>
+<A><F>Er</F>. O K. <F>Um</F> what was the best memory when you <v_tns odr="1" crr="traveled">travel</v_tns> in Los Angeles?</A>
+<B>Los Angeles? <F>Um</F>.</B>
+<A><F>Hm</F>.</A>
+<B>I went to <at odr="1" crr="the"></at> Universal Studios.</B>
+<A><F>Uhu</F>.</A>
+<B>And I was very excited to ride on <SC?>bash</SC?> <F>um</F> Back To The Future's <n_lxc odr="1" crr="ride">machine</n_lxc>.</B>
+<A><F>Uum</F>. <F>Oh</F>. Really? <OL>O K</OL>.</A>
+<B><OL><F>Er</F> the car</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>Yeah</OL>. Or I <v_tns odr="1" crr="rode">ride</v_tns> <prp_lxc2 odr="2" crr="on">in</prp_lxc2> <at odr="4" crr="a" ch="3"></at> <n_num odr="3" crr="bicycle">bicycles</n_num> and <v_tns odr="5" crr="flew">fly</v_tns> to the moon</B>
+<A><F>Uhu</F>.</A>
+<B><prp_lxc1 odr="6" crr="by">in</prp_lxc1> <R>E T</R> E T's <.></.> <n_lxc odr="7" crr="ride">machine</n_lxc>.</B>
+<A>O K. <F>Um</F>. How did you fly to the moon?</A>
+<B><F>Um</F>. We <v_tns odr="1" crr="rode">ride</v_tns> on <R>bicycles</R> <nvs>cough</nvs> <at odr="3" crr="a" ch="2"></at> <n_num odr="2" crr="bicycle">bicycles</n_num> <F>er</F> like <at odr="4" crr="a"></at> machine.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And the machine, it <v_tns odr="1" crr="flew">fly</v_tns> to the moon.</B>
+<A><F>Hm</F>.</A>
+<B>Then, <F>uh</F> <pn_lxc odr="1" crr="it"></pn_lxc> <v_tns odr="2" crr="flew">fly</v_tns> to <at odr="3" crr="the"></at> moon or <SC>fly t</SC> <v_tns odr="4" crr="flew">fly</v_tns> in space. And <F>oh</F> we <v_tns odr="1" crr="went">go</v_tns> to the <F>erm</F> planet <rel_lxc odr="2" crr="where">that</rel_lxc> E T <v_agr odr="3" crr="lives">live</v_agr>.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah.</B>
+<A>I see. Sounds interesting.</A>
+<B>Yes.</B>
+<A>O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, next, we will <?>do</?> the role play. Do you know what's the role play is?</A>
+<B><F>Ah</F>. I don't <?>know</?>, <OL>actually</OL>.</B>
+<A><OL>O K</OL>. So, please read this card. I'll be your friend. <.></.> <F>Hm</F>?</A>
+<B>O K.</B>
+<A><.></.> And, when you are ready, please start.</A>
+<B>Yes. <nvs>cough</nvs></B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Hello?</B>
+<A>Hello?</A>
+<B>This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Er</F>. O K. <H pn="B's name">XXX02</H>, what's up? <F>Uhm</F>.</A>
+<B><F>Um</F>. <F>Er</F> I want to go <prp_lxc2 odr="1" crr="to"></prp_lxc2> <SC>s</SC> a movie.</B>
+<A><F>Uhu</F>. Sounds good.</A>
+<B>Yes. And <.></.> <F>er</F> I want to see "A I".</B>
+<A>"A I"?</A>
+<B>Do you know "A I"?</B>
+<A><F>Uum</F>. Not really. <F>Um</F>.</A>
+<B><F>Um</F>. <F>Um</F>. The boy <F>um</F> <F>uum</F> <.></.> who acted in <F>er</F> "Sixth Sense".</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And the boy <F>um</F> <v_lxc odr="1" crr="acts">is</v_lxc> a <R>robot</R> <OL>robot</OL>.</B>
+<A><OL>Robot</OL>. <F>Hm</F>.</A>
+<B>And he has <F>um</F> <at odr="1" crr="the"></at> human mind.</B>
+<A><F>Uhu</F>.</A>
+<B><R>But he</R> <F>um</F> but he is a robot, so <F>um</F> there <v_agr odr="1" crr="are">is</v_agr> a lot of <F>um</F> problems.</B>
+<A><F>Hm</F>. <OL><F>Oh</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>Yes. Sounds interesting.</A>
+<B>Yeah. <laughter>It's</laughter> interesting, I think. <R>So</R> <nvs>cough</nvs> so, <F>uum</F> let's go <prp_lxc2 odr="1" crr="to"></prp_lxc2> <at odr="2" crr="the">a</at> movie.</B>
+<A>Sure. <F>Uhm</F>.</A>
+<B><F>Um</F>. When are you free?</B>
+<A><F>Err</F>. On Sundays.</A>
+<B>On Sundays?</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>Yeah</OL>. <F>Um</F> I'm free on <n_num odr="1" crr="Sundays">Sunday</n_num>, too.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So, <F>uum</F> O K. And <F>erm</F> <SC>movie started s</SC> <F>erm</F> <at odr="1" crr="the"></at> movie will start at <F>um</F> one o'clock.</B>
+<A>One o'clock? <F>Hm</F>.</A>
+<B>Yes. So, <F>um</F> <R>let's</R> <F>uum</F> let's meet at <F>uum</F> twelve thirty.</B>
+<A>Twelve thirty? O K. <OL><F>Hm</F></OL>.</A>
+<B><OL>O K</OL>? And at the station. At <F>er</F> Waseda Station.</B>
+<A>Waseda Station?</A>
+<B>Yeah.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>. <CO>Don't you know the way to the</CO>?</B>
+<A>No. I don't know.</A>
+<B><F>Um</F>. <F>Um</F> <SC>Where are</SC> where do you live?</B>
+<A><F>Um</F>. I live in <H pn="others1">XXX03</H>.</A>
+<B><H pn="others1">XXX03</H>?</B>
+<A><OL>Yes</OL>.</A>
+<B><OL><F>Oh</F></OL>. <F>Um</F>. <.></.> Do you know <at odr="1" crr="">the</at> Shinjuku Station?</B>
+<A>Yes. <F>Uhm</F>.</A>
+<B>So, first, you go to <at odr="1" crr="">the</at> Shinjuku Station.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And, second, <F>er</F> <F>um</F> you change <at odr="1" crr="">the</at> trains to Yamanote Line.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <SC>you go</SC> <F>ur</F> you get off <F>uum</F> at <F>erm</F> Takadanobaba Station.</B>
+<A>O K. <F>Um</F>.</A>
+<B>And then, <F>um</F> you <R>change</R> <F>uh</F> change trains to Tozai Line.</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> <F>Um</F>. <F>Uum</F> <SC>it is abo</SC> <F>uh</F> it is bound for <.></.> Chiba.</B>
+<A>Chiba. O K. <F>Hm</F>.</A>
+<B><R>Then</R> <F>um</F> <.></.> then, you <v_tns odr="1" crr="will arrive">arrived</v_tns> at <F>er</F> Waseda Station.</B>
+<A><F>Uhu</F>.</A>
+<B>So, it is O K?</B>
+<A>O K. I'll try. Yes. <nvs>laughter</nvs></A>
+<B><F>Mm</F> so <.></.> <F>mm</F> I'm looking forward <prp_cmp odr="1" crr="to seeing">to see</prp_cmp> the <n_num odr="2" crr="movie">movies</n_num>.</B>
+<A>I see. See you on Sunday.</A>
+<B>See you on Sunday.</B>
+<A>O K. Thank you. <nvs>laughter</nvs></A>
+</task>
+<followup>
+<A>Yes. <F>Um</F>. Do you like watching movies?</A>
+<B>Yes.</B>
+<A>Yes? <nvs>laughter</nvs> All right. Which do you like better, watching <n_num odr="1" crr="movies">movie</n_num> alone or with your friends?</A>
+<B><F>Er</F>. <R>I like</R> I like <F>um</F> watching movies alone.</B>
+<A>Alone?</A>
+<B>Yeah. Because I can concentrate on seeing <at odr="1" crr="">the</at> movies, and I can cry. Cry <o_uk odr="1" crr="without regard to the people around me">without <F>uh</F> <SC>care</SC> <F>um</F> being cared for anyone around me</o_uk>.</B>
+<A><F>Oh</F>. I see. O K. All right.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'm going to show you another picture.</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>This</OL> time, I want you to make a short story.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. So, look at this picture, and, <?>this time</?>, make a story.</A>
+<B>O K.</B>
+<A>So this happened last week. Start your story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a moment.</ctxt>
+<B><F>Er</F>. Last Wednesday, <F>um</F> she went to a department store. <F>Erm</F>. <SC>The next</SC> <F>uh</F> <F>mm</F> <.></.> the day after the Wednesday, <F>um</F> <o_lxc odr="1" crr="in other words">another words</o_lxc>, <SC>Thurs</SC> the last Thursday,</B>
+<A>O K. <F>Hm</F>.</A>
+<B><F>um</F> <SC>her husband</SC> <F>er</F> it was her husband's birthday.</B>
+<A><F>Uhu</F>.</A>
+<B>So <R>she want</R> she wanted to buy <F>er</F> <R>some</R> something he <v_tns odr="2" crr="would like"><v_agr odr="1" crr="likes">like</v_agr></v_tns>.</B>
+<A><F>Uhu</F>.</A>
+<B>And, first, <R>she went</R> <F>um</F> she went to <at odr="1" crr="a">the</at> necktie shop. <F>Hm</F>. <.></.> And she found <at odr="1" crr="a">the</at> beautiful necktie, and <??></??> <F>mm</F> <.></.> <SC>the</SC> maybe, <F>um</F> <R>he</R> he <v_tns odr="2" crr="would like">will like</v_tns> it. So she decided to buy it.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. Then, <F>um</F> <R>when she</R> <F>mm</F> <o_lxc odr="1" crr="on the way">when</o_lxc> <SC>she <SC>wan</SC> went to home</SC> she went <av_lxc odr="2" crr="back"></av_lxc> to her house, <R>she</R> <F>um</F> <R>she</R> she <v_lxc odr="3" crr="found">saw</v_lxc> <at odr="4" crr="a">the</at> final sale.</B>
+<A><F>Uhu</F>.</A>
+<B>And she <v_tns odr="1" crr="wanted">want</v_tns> to <v_lxc odr="2" crr="buy">have</v_lxc> shoes. So <F>mm</F> it's <at odr="1" crr="a"></at> good chance <R>for</R> for her. So <R>she</R> <F>hm</F> <.></.> she <F>er</F> <v_lxc odr="2" crr="looked at"><v_tns odr="1" crr="watched">watch</v_tns></v_lxc> <?>those</?> <.></.> shoes. <SC>And</SC> <.></.> <R>but</R> <F>um</F> but, then, <F>er</F> she didn't buy it. And <.></.> she went <prp_lxc2 odr="1" crr="to"></prp_lxc2> <F>um</F> <at odr="2" crr="a"></at> clothes store. And <F>um</F> <.></.> <R>sh</R> <F>er</F> she found a <R>beautiful</R> beautiful <n_lxc odr="1" crr="dress">clothes</n_lxc>. <.></.> And it <v_tns odr="1" crr="was">'s</v_tns> <F>erm</F> <F>uh</F> fifty percent off.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>um</F> she bought it.</B>
+<A>O K.</A>
+<B>Then, she decided to go home.</B>
+<A>I see. <laughter>All right</laughter>. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Um</F>. <F>Erm</F> how do you choose <n_num odr="1" crr="presents">present</n_num> for your friends or family?</A>
+<B><F>Er</F>. <F>Uum</F>. I <v_tns odr="1" crr="ask">asked</v_tns> the <F>um</F> <.></.> <F>mm</F> <F>er</F> <v_qst odr="2" crr="what kind of present they like">what kind of present <F>um</F> do they like</v_qst>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I decide <rel_lxc odr="1" crr="what"></rel_lxc> to buy.</B>
+<A><F>Um</F>.</A>
+<B>Yeah.</B>
+<A>I see. <F>Erm</F>. When was the last time <SC>you give some present</SC> you gave <at odr="1" crr="a"></at> present to somebody?</A>
+<B><.></.> <F>Um</F> actually, it's not <at odr="1" crr="a"></at> present, but <F>um</F> last week, <SC>my boyfriend's birthday</SC> it <v_tns odr="2" crr="was">'s</v_tns> <F>er</F> my boyfriend's <F>er</F> birthday.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>er</F> <R>I didn't</R> I didn't know <F>um</F> what present I should buy. So <F>uum</F> <SC>the day</SC> <prp_lxc1 odr="1" crr="on"></prp_lxc1> the birthday, <F>um</F> I <v_tns odr="2" crr="asked">ask</v_tns> him <F>er</F> <R>what</R> what kind of present <pn_lxc odr="3" crr="he"></pn_lxc> <v_lxc odr="4" crr="wants"></v_lxc>. <F>Oh</F>. And then, <F>um</F> he said <F>erm</F> he <v_tns odr="1" crr="wanted">want</v_tns> to eat a lot of food.</B>
+<A><laughter>O K</laughter>.</A>
+<B><nvs>laughter</nvs> <R>So</R> so <F>er</F> <nvs>cough</nvs> I took him <prp_lxc2 odr="1" crr="to"></prp_lxc2> <at odr="2" crr="a">the</at> restaurant.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <R>we</R> we ate <aj_lxc odr="1" crr="some">something</aj_lxc> delicious food.</B>
+<A>I see. All right. Thank you very much.</A>
+<B><OL>Thank you very much</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><OL>Interview is almost over</OL>. <F>Erm</F>. Do you have any plans for summer holidays?</A>
+<B>Summer holidays.</B>
+<A><OL>Yeah</OL>.</A>
+<B><OL><F>Um</F></OL>. <F>Mm</F>. I'll go to Hokkaido</B>
+<A><F>Er</F>.</A>
+<B><.></.> with my boyfriend.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>er</F> I'll do <at odr="1" crr="a"></at> part-time job.</B>
+<A>I see. What do you want to do in Hokkaido?</A>
+<B><F>Um</F>. I want to go to Furano.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>mm</F> I want to see some <n_lxc odr="1" crr="forests">forest</n_lxc>, some nature.</B>
+<A>I see. O K. <F>Well</F> have <at odr="1" crr="">a</at> nice holidays.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,246 @@
+<interview>
+<filename>file01194.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>42</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B><F>Er</F> nice to meet you.</B>
+<A>How are you today?</A>
+<B><F>Err</F> fine. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Yeah. How are you doing?</B>
+<A><laughter>I'm <OL>O K, yeah</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. So <F>err</F> what do you do, <H pn="B's name">XXX02</H>?</A>
+<B><F>Err</F> yeah, I'm working for a U S bank.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>err</F> my main assignment is <F>er</F> marketing of <SC>trade o</SC> trade finance products to <F>err</F> Japanese companies.</B>
+<A><F>Uhu</F>. <F>Hum</F>. Do you enjoy working?</A>
+<B><nvs>laughter</nvs> <F>Err</F> yes. <laughter>I</laughter> enjoy that a lot. <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>O K. <F>Um</F> <F>er</F> <SC>what's</SC> what do you like most about your job?</A>
+<B><F>Errr</F> <F>uum</F> a difficult question. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Yeah. <F>Uum</F> <SC>most</SC> <F>uum</F> yeah, <R>I have some</R> <F>err</F> I have some <F>err</F> favorite points of my job. <F>Err</F> <R>one is to</R> <F>uum</F> one is to <SC>communicate and</SC> communicate my customers and <F>err</F> <R>make</R> <F>err</F> make relationship with them <F>er</F> more close. Yeah, and another point is <F>er</F> to close the profitable deal <laughter><F>err</F></laughter> for my company. <F>Uum</F> <F>um</F> yeah, and sometimes <F>err</F> I have to talk <F>er</F> with <F>uum</F> other branch's staffs <F>er</F> in English. Unfortunately, my English is not so good. But <laughter><F>err</F></laughter> yeah, if <F>er</F> I succeed <R>to</R> <nvs>sniff</nvs> <F>uum</F> to <SC>complete</SC> perform in complete my work using English, then <F>err</F> I could be very happy.</B>
+<A><F>Hum</F>. Sounds very exciting job. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+<A>O K. So <F>err</F> you must be very busy on <R>week</R> weekdays. But on weekends,</A>
+<B>Yes.</B>
+<A><F>um</F> if you have some free time what do you like to do?</A>
+<B><F>Err</F> <F>um</F> on weekend, <F>err</F> I usually <F>er</F> go to <F>um</F> tea ceremony lesson on Saturday, and <F>err</F> golf lesson <nvs>laughter</nvs> also. Yeah, and on <R>S</R> Sunday, <F>err</F> <F>uum</F> <.></.> <F>uum</F> <R>I like</R> <F>err</F> I like shopping around my home <F>err</F> <SC>and</SC> or <F>uum</F> having a time with my friends and sometimes <F>err</F> <R>I go to</R> <F>err</F> I go to play golf with my friends.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah. <.></.></B>
+<A><F>Hum</F>.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>O K</OL>. <nvs>laughter</nvs> Why are you interested in tea ceremony?</A>
+<B><F>Err</F> <F>uum</F> <.></.> <F>um</F> <nvs>laughter</nvs> <F>err</F> because <F>err</F> I can learn <F>err</F> a lot of things of <F>uum</F> Japanese traditional culture <F>err</F> through tea ceremony. And also <F>err</F> <R>I can be</R> <.></.> <F>uum</F> I can be <.></.> comfortable and <F>err</F> peaceful <F>err</F> <F>err</F> when I attend tea ceremony.</B>
+<A><F>Hm</F>. <F>Hm</F>.</A>
+<B><nvs>sniff</nvs></B>
+<A><F>Hum</F>. I see. <OL>Interesting</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Thank you very much</OL>.</A>
+<B><OL>Yes</OL>. <F>Ah</F>. Thank you <OL>very much</OL>.</B>
+<A><OL>Yeah</OL>.</A>
+</stage1>
+<stage2>
+<task>
+<A>And I'd like to show you a picture.</A>
+<B>Yes.</B>
+<A>So please tell me what you see in the picture.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Uhu</F>. <F>Um</F>?</B>
+<A><F>Hm</F>. Tell me about this picture.</A>
+<B><F>Uum</F>. <nvs>laughter</nvs> <F>Err</F> <F>uh</F> let me see. <..></..> <F>Uum</F>. <.></.> <nvs>sniff</nvs> <F>Uum</F>. Yeah, <R>I suppose</R> <F>err</F> <.></.> I suppose <F>err</F> <.></.> this picture shows the very gorgeous and popular French restaurant. Yeah. There are so many couples. <nvs>laughter</nvs> And <F>err</F> everyone <F>err</F> <nvs>sniff</nvs> <R>look</R> <F>err</F> look enjoyable <F>er</F> for dinner or wine or <F>err</F> <.></.> talking each other. <F>Uum</F> <..></..> <OL><F>uum</F></OL>.</B>
+<A><OL>O K</OL>. <OL>Thank you very much</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uh</F> <OL><JP>hai</JP></OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+</task>
+<followup>
+<A>O K. So is this restaurant similar to your favorite restaurant?</A>
+<B><F>Hum</F>. Yes.</B>
+<A><F>Uhu</F>. Any differences?</A>
+<B>Any differences. <F>Uuum</F>. Yeah. <F>Err</F> in my favorite restaurant,</B>
+<A><F>Um</F>.</A>
+<B>there are <R>more</R> yeah, more group guests <F>err</F> <nvs>sniff</nvs> in addition to the couples. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>Uum</F> <.></.> <F>uum</F> and <R>I think</R> <F>uum</F> I think the <R>space</R> space of the restaurant is so <nvs>sniff</nvs> <F>err</F> <SC>wide</SC> large. <F>Um</F> yeah. I suppose <SC>the</SC> <..></..> <R>each table</R> each table <SC>is so large</SC> looks so large and <F>err</F> is <R>set</R> set <F>err</F> far from other tables.</B>
+<A><F>Hum</F>. <F>Uum</F>. All right.</A>
+<B><F>Um</F>.</B>
+<A>Thank you. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Um</F>. O K. Thank you.</A>
+<B><F>Er</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>And we're going to do a role-play.</A>
+<B><OL>Role-play</OL>?</B>
+<A><OL>O K</OL>? <F>Um</F>. O K. So please read this card to yourself.</A>
+<B>Yes.</B>
+<A>And when you're ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>Hello? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Ready</OL>?</A>
+<B>Yes.</B>
+<A>O K. Then let's start. I'll start. Ring-ring. Hello?</A>
+<B>Hello. Yeah. <F>Er</F> hi, <H pn="B's name">XXX02</H>.</B>
+<A>Hi.</A>
+<B><nvs>laughter</nvs></B>
+<A>Hi, <H pn="B's name">XXX02</H>. How are you doing?</A>
+<B><nvs>laughter</nvs> Fine. How about you?</B>
+<A><R>I'm f</R> I'm fine, too. Thank you. <nvs>laughter</nvs></A>
+<B><F>Uhu</F>. Yeah. <F>Err</F> <.></.> yeah. <F>Err</F> today, <F>err</F> <R>I'd like to</R> <laughter>I'd like to</laughter> invite to the interesting movie.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah. Recently, <F>err</F> I found a good movie. Then shall we go?</B>
+<A>Sure.</A>
+<B><F>Er</F> yeah. Then <F>er</F> <F>er</F> <R>when</R> <F>err</F> when are you available in next week?</B>
+<A><F>Um</F>. Anytime.</A>
+<B>Anytime? <F>Wow</F>. Good. <nvs>laughter</nvs> Then how about Monday evening?</B>
+<A><F>Hum</F>. Let me check. Yes. Monday evening is fine.</A>
+<B><F>Err</F> great. <F>Err</F> <F>uum</F> then <F>err</F> <F>er</F> <SC>the movie is</SC> <F>err</F> <F>er</F> the movie will start at seven o'clock. <R>So</R> <.></.> so <F>er</F> <R>when and</R> when and where <F>err</F> shall we meet?</B>
+<A><F>Um</F> let's see. What about in Shibuya?</A>
+<B><F>Um</F>. Shibuya.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>Er</F></OL>. O K.</B>
+<A>Aroung three? <F>Oh</F> no, no. Around six?</A>
+<B><F>Er</F> yeah. Great. Then <F>err</F> <R>I'm</R> <R>I'm looking for</R> I'm looking for <.></.> seeing you at <F>uum</F> <R>Hachiko <.></.> <JP>hiroba</JP></R> <nvs>laughter</nvs> Hachiko <OL><JP>hiroba</JP></OL> <nvs>laughter</nvs> at the Shibuya Station at six-thirty.</B>
+<A><laughter>O K</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Then I'll find Hachiko <JP>hiroba</JP>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Thank you for calling.</A>
+<B>You're most welcome.</B>
+<A>Bye-bye.</A>
+<B>Bye-bye.</B>
+<A>O K. Thank you <OL>very much</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>This is the end of <OL>the role-play</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>Yes</laughter>.</B>
+</task>
+<followup>
+<A>So <F>uum</F> which do you like better, going to a movie theater</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL>or</OL> watching a video at home?</A>
+<B><F>Wow</F>. <F>Err</F> <F>uum</F> for me, <F>err</F> both are preferable. <nvs>laughter</nvs></B>
+<A><F>Err</F>.</A>
+<B><F>Uum</F>.</B>
+<A>I see.</A>
+<B><F>Uum</F>. Yeah. <F>Err</F> <SC>if <R>I</R> I find</SC> if I find a friend <F>err</F> who can go to the movie with me together, then <F>err</F> maybe I prefer to go to the movie theater.</B>
+<A><F>Um</F>.</A>
+<B>Yeah. But <F>err</F> <F>uum</F> <.></.> <SC>if</SC> <F>err</F> unfortunately if I cannot find <F>um</F> somebody or <F>err</F> <SC>at <F>er</F> late of nai</SC> at <F>er</F> <R>late in</R> late in night, yeah, <.></.> I can watch the video at home.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>.</B>
+<A><F>Hum</F>. O K. I see. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>. Now finally, I'd like to show you a sequence of picture. Let's see.</A>
+<ctxt>The interviewer is selecting a card.</ctxt>
+<B>Yes.</B>
+<A>O K. I'd like you to make up a story based on these six pictures.</A>
+<B>Yes.</B>
+<A>And this happened last week.</A>
+<B>Yes.</B>
+<A>So please start your story with "One day last week," O K?</A>
+<B>O K. <F>Hum</F>. <F>Uhu</F>. Yeah. <F>Err</F> one day last week, <.></.> <F>err</F> as I was very hungry, so I intended to <R>cook my</R> cook my dinner.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>. Then <F>err</F> I checked my <F>er</F> freezer. But <nvs>laughter</nvs> there were nothing in the <R>free</R> freezer. So <F>err</F> <nvs>sniff</nvs> <R>I took my car</R> <F>err</F> I took my car and went to the supermarket near to my house. Then <F>err</F> I shopped around the supermarket. <nvs>sniff</nvs> <F>Uum</F> I bought meat, eggs, <F>err</F> some vegetables, et cetera. Then <F>err</F> I came back to my home by my car. Then <F>err</F> finally, <SC>I made a</SC> <F>um</F> I cooked my dinner. The <F>uum</F> manin dish for <SC>s</SC> <..></..> <nvs>sniff</nvs> <F>err</F> one side <nvs>laughter</nvs> egg.</B>
+<A>O K. Thank you.</A>
+<B>Yes. Thank you.</B>
+</task>
+<followup>
+<A>O K. So when was the last time you cooked your dinner?</A>
+<B><F>Uum</F>. Last time. <F>Um</F> <.></.> <F>er</F> <R>last</R> last Saturday.</B>
+<A><F>Uhu</F>. <F>Um</F> what did you cook?</A>
+<B><nvs>laughter</nvs> Yeah, last Saturday, I cooked <F>uum</F> sukiyaki <JP>donburi</JP>. <nvs>laughter</nvs></B>
+<A><F>Hum</F>.</A>
+<B>Yes.</B>
+<A><F>Uum</F>. Sounds interesting.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Could you tell me</OL> a little bit about your recipe?</A>
+<B>Recipe?</B>
+<A>Yeah.</A>
+<B><F>Oh</F>. Very, very simple.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. Yeah. At first, <F>er</F> steamed <SC>rice</SC></B>
+<A><F>Um</F>.</A>
+<B><SC>rices</SC> rice. And <F>err</F> prepares the sauce for sukiyaki.</B>
+<A><F>Hum</F>.</A>
+<B><SC>And the</SC> <..></..> yeah, and at first, <F>err</F> <F>uum</F> <.></.> put the sukiyaki sauce into the <SC>pan</SC> <?>fry</?> pan.</B>
+<A><F>Um</F>.</A>
+<B>And make hot.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>err</F> <SC>ss</SC> <F>er</F> on the other hand, I sliced the <.></.> <F>err</F> <..></..> <F>er</F> I forgot the name <?>that</?> one vegetable.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> yellow and round,</B>
+<A><F>Um</F>.</A>
+<B>and so many piece.</B>
+<A><F>Hum</F> <F>mmmmm</F>. O K. Go on.</A>
+<B>Yes. And sliced.</B>
+<A><F>Um</F>.</A>
+<B>Then <F>err</F> <R>baked</R> baked by the skiyaki sauce.</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F> if the vegetable make <R>soft</R> soft, then <F>err</F> <nvs>sniff</nvs> <SC>beef</SC> <.></.> <F>er</F> put beef on that.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah. And <F>uum</F> <.></.> <nvs>laughter</nvs> then, <F>errr</F> <F>uum</F></B>
+<A><nvs>laughter</nvs></A>
+<B>put into <SC>rice</SC> steamed rice in the bowl. And <F>err</F> <..></..> <F>er</F> <SC>on the</SC> on rice put the vegetable and <F>err</F> beef,</B>
+<A><F>Um</F>.</A>
+<B><R>on the</R> <SC>on the circle</SC> <SC><JP>mannaka</JP></SC> <F>er</F> on the middle of the <F>err</F> bowl <F>err</F> <R><JP>onsen</JP> egg</R> <SC><JP>onsen</JP> egg</SC> <F>err</F> <JP><F>eeto</F></JP> spring hot egg. <nvs>laughter</nvs> Maybe different. In Japanese <JP>onsen</JP> egg <nvs>laughter</nvs> put on the middle of the cook. And <F>err</F> <nvs>sniff</nvs> <..></..> yeah, some sesame,</B>
+<A><F>Um</F>.</A>
+<B>also put.</B>
+<A><F>Uum</F>.</A>
+<B>That's all. Very simple.</B>
+<A><F>Hum</F>. <OL>But sounds tasty</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>Yes</laughter>.</B>
+<A><R>Thank you for</R> thank you for telling me your secret recipe. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Um</F>. We are almost at the end of the interview.</A>
+<B>Yes.</B>
+<A>And your story made me hungry. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>So <SC>what's your plan for</SC> what's your dinner plan for tonight?</A>
+<B>Tonight?</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. Yeah, <F>err</F> at first, originally <F>err</F> I had an appointment with my friend for dinner after this examination.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah. But today, <F>err</F> very bad weather. So <F>err</F> <R>I went</R> I went back my home <F>err</F> quickly and have to make my dinner. But now, <nvs>sniff</nvs> <F>uum</F> I don't have any idea.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>So <nvs>laughter</nvs></OL> when I came back home, then <F>err</F> I will check my <R>free</R> <SC>freezer</SC> <F>er</F> <R>refrigerator</R> <F>ah</F> refrigerator <F>um</F> and <F>err</F> <nvs>sniff</nvs> will think <F>err</F> what can I make. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs> Yes, <laughter>O K</laughter></OL>. Thank you very much.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Now, the interview</OL> is over. <OL>Thank you for</OL> coming today.</A>
+<B><OL><F>Err</F></OL>. Thank you. <nvs>laughter</nvs></B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

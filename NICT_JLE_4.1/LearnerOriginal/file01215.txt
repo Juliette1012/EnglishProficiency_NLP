@@ -1,0 +1,307 @@
+<interview>
+<filename>file01215.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category> 
+<step>1.5</step> 
+<TOEIC>860</TOEIC> 
+<TOEFL>233</TOEFL>
+<other_tests></other_tests> 
+<SST_level>8</SST_level> 
+<SST_task2>classroom</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><H pn="A's name">XXX01</H>. <OL>May I have your</OL> name, please?</A>
+<B><OL><H pn="A's name">XXX01</H></OL>. <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Sure.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Please</OL>.</B>
+<A>Nice to see you <H pn="B's name">XXX02</H>.</A>
+<B>Nice to see you, too.</B>
+<A><F>Hm</F>. How are you today?</A>
+<B>Good. Thank you.</B>
+<A>O K. Do you like winter?</A>
+<B>Not <laughter>really</laughter>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>It's really</OL> cold.</B>
+<A><OL><F>Mm-hm</F></OL>.</A>
+<B><OL>Actually</OL> I live in <H pn="others1">XXX03</H> now. So I feel so cold here.</B>
+<A><F>Uh</F> pardon?</A>
+<B><F>Ah</F> <R>I</R> I live in <H pn="others1">XXX03</H>. <CO>I mean</CO>.</B>
+<A><H pn="others1">XXX03</H>.</A>
+<B>Yes. I just came back home.</B>
+<A><F>Oh</F>.</A>
+<B>It's summer holiday there.</B>
+<A>Wait a minute. Are you a student here?</A>
+<B>No, I'm not, actually.</B>
+<A>O K. Could you <F>uh</F> explain about it? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>O K</laughter>. I'm a student of <H pn="school name1">XXX04</H>. And I was a student of <H pn="school name2">XXX05</H> before.</B>
+<A><F>Oh</F>.</A>
+<B>Yeah. <SC>Two ye</SC> <F>oh</F> no, one year ago, I just graduate.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <SC>Mister <H pn="others2">XXX06</H></SC> <SC?>I</SC?> <F>uh</F> <F>er</F> Professor <H pn="others2">XXX06</H> I should say, he was my teacher before. And he was born in the <SC>same place</SC> <F>uh</F> same <F>er</F> <SC>home country</SC> I mean, <R>home</R> <F>um</F> hometown</B>
+<A><F>Uh-huh</F>.</A>
+<B>as me. And yeah, we kept in touch with. And he just told me that, yeah, this kind of thing happen today, so I just came here.</B>
+<A><F>Hmm</F>. So <R>wh</R> what do you do in <H pn="others1">XXX03</H>?</A>
+<B><F>Oh</F> I'm studying there.</B>
+<A><OL><??></??></OL>.</A>
+<B><OL>Yeah</OL>. I'm a student. And I just wanna be a English teacher, so I'm studying English teaching. Actually, TESOL.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Teaching</OL> English to <SC>a speakers</SC> speakers of other languages.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+<A>O K.</A>
+<B>Yes.</B>
+<A>So this is your holiday.</A>
+<B>Yeah. <SC>I'm holi</SC> I'm in holiday.</B>
+<A><F>Ahh</F>.</A>
+<B>Yeah. Summer holiday. <nvs>laughter</nvs></B>
+<A>What are you going to do in a holiday?</A>
+<B><F>Um</F> probably, <SC>I don</SC> <R>I'm</R> I'm not sure but I will visit my friends and my grandparents' house and, yeah, <SC>I just</SC> I will have just relaxing time, I think.</B>
+<A><F>Hm</F>. Can you tell me about your hometown?</A>
+<B>I live in <H pn="others3">XXX07</H>, which <OL>is</OL></B>
+<A><OL><H pn="others3">XXX07</H></OL>.</A>
+<B><F>er</F> you've never heard of it, I'm sure of it, <nvs>laughter</nvs> <F>um</F> which is located in <H pn="others4">XXX08</H> <F>uh</F> <R>no</R> <SC>north</SC> northern part of <H pn="others4">XXX08</H>. It takes <F>um</F> two hours to come here. So it's bit far away.</B>
+<A><F>Oh</F>.</A>
+<B>But a beautiful place, I think.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><CO>It's</CO></OL>. Yeah. <F>Um</F> you can go to <H pn="others5">XXX09</H> River</B>
+<A><F>Mh-hmm</F>.</A>
+<B>by car. So <F>er</F> probably ten minutes or something.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah. But it's very, very small place.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I mean <SC>small</SC> <F>er</F> it has, I don't know, <SC>not so</SC> many, many old people there. Not young people.</B>
+<A><F>Er</F> can you tell me about your parents?</A>
+<B>My parents. <F>Um</F> <SC>he</SC> <F>um</F> <R>my</R> my father will be sixty next year. That means <JP>kanreki</JP>.</B>
+<A><F>Mh-hmm</F>. <OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>We have to</OL> celebrate.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>My mom is <R>fifty</R> fifty-eight.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>She is housewife.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And my father works <F>er</F> at my home.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <R>he</R> he is a kind of artist.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. <F>Uh</F> he carves a <SC>statue</SC> wooden statue, actually it's Buddha.</B>
+<A><F>Wow</F>.</A>
+<B>Yeah. We sell that kind of statue and <JP>senko</JP> and candles and that kind of stuffs.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah. <R>We</R> we've got little shop but it's not good now.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>Yeah</OL>. But my father <F>um</F> sometimes go to temple to fix them</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and shrines. Yeah. <SC>And</SC> yeah, that kind of things.</B>
+<A><F>Wow</F>. That's wonderful. <F>Hmm</F>.</A>
+<B><nvs>cough</nvs></B>
+<A>O K. <F>Er</F> <H pn="A's name">XXX01</H>, what do you like to do in your free time?</A>
+<B><F>Ah</F> free time. I want to go to <F>er</F> Italy again</B>
+<A><F>Ah</F>.</A>
+<B>if I have money.</B>
+<A><F>Hm</F>.</A>
+<B>I went to Italy before. That was very, very good <R>e</R> experience for me. I went to Rome, <R>Firen</R> <F>um</F> Firenze or Florence, I should say, and what else, <F>um</F> Napoli and Milan, that kind of places. Beautiful architecture. And <SC>I li</SC> I love <SC>arts, the pi</SC> fine arts, the pictures are beautiful.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And the buildings are just gorgeous.</B>
+<A><F>Hmm</F>.</A>
+<B>So I love it. <SC>So I jus</SC> if I had chance and money, <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Right. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> I really want to go.</B>
+<A>O K. Good.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Er</F> the first of all,</A>
+<B>O K.</B>
+<A><H pn="B's name">XXX02</H>, please look at this picture and describe it for me.</A>
+<B><F>Oh</F> this picture.</B>
+<A>Yes.</A>
+<B>Now.</B>
+<A>Yes.</A>
+<B>O K. <F>Uh</F> a woman teacher is just teaching, probably I think this is math class. <SC>Students</SC> one, two, three, four, five, six, six students are just listening and <SC>taking the classes</SC> <F>uh</F> taking the class. One student in front of the teacher <R>looks</R> looks serious <R>taking</R> <F>er</F> taking notes, looking at boards. I think he is listening to her very <F>well</F>. But rest of them <SC>looks not good</SC> look not good. <F>Um</F> <SC>the girl</SC> <SC>one of the girl</SC> one of the girls is just <F>mm</F> sending probably E-mail to her friends, I think. And one of the <SC>boy</SC> boys is just looking <SC>arou</SC> outside the window and chewing gums. This is not good as <F>well</F>. And one of the boys just <R>drinking</R> drinking probably juice and listening to music while taking class. And two girls in a back side of the class just talking and <R>they l</R> they looks <F>ur</F> having fun talking with each other.</B>
+<A><F>Hm</F>. O K. <OL>Thank you</OL> very much, <H pn="B's name">XXX02</H>.</A>
+<B><OL>Yeah</OL>.</B>
+</task>
+<followup>
+<A><F>Um</F> you said that now you are studying at the college in <H pn="others1">XXX03</H>.</A>
+<B>Yes.</B>
+<A>Could you compare the university in <H pn="others1">XXX03</H> and the university in Japan?</A>
+<B>O K. <F>Um</F> I don't know much about other university in Australia and Japan as <F>well</F>. So I would like to compare <SC>j</SC> <F>um</F> <H pn="school name2">XXX05</H> and <OL><H pn="school name1">XXX04</H></OL></B>
+<A><OL>Yeah</OL>.</A>
+<B>University. Is that O K?</B>
+<A>Sure.</A>
+<B>O K. This university, I think, is very small. I think <R>one</R> one year is just, I don't know, probably five hundred students or something. But compared to that, <F>mm</F> <H pn="school name1">XXX04</H> University is just so large. And I think, I don't know, probably <F>uh</F> <R>I</R> I've heard <F>er</F> <SC>two hundred thousand</SC> <?>I should know</?>, <F>hm</F> <F>hm</F> no, twenty hundred. So <SC>two tho</SC> <F>uh</F> <R>twenty thousand</R> <nvs>laughter</nvs> twenty thousand, yeah, <SC>people are there</SC></B>
+<A><F>Hm</F>.</A>
+<B>students are there. So many. And in here, <SC><H pn="school name2">XXX05</H> University</SC> <F>um</F> majority of <H pn="school name2">XXX05</H> University students are Japanese, of course. <SC>Several of them</SC> I mean, yeah, <R>some</R> sometimes we can see foreigners but not so many. But <R>in</R> in <H pn="school name1">XXX04</H> University, you can see <SC>lots</SC> many, many kinds of people. You can see Indians, <R>Fren</R> French people, <F>er</F> people from Italy, I guess, because they are speaking in <OL>Italian, I think</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><SC>And</SC> <R>y</R> yeah, and Chinese. So many Chinese are there. And Cantonese.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>Yeah</OL>. Vietnamese. Yeah. Lots of Vietnamese there. Not so many Japanese there.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah. So I think that's the big difference.</B>
+<A>I see. O K. Good, <H pn="B's name">XXX02</H>.</A>
+<B>Thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Yes. Let's do the role-play.</A>
+<B>O K.</B>
+<A>Please read this card to yourself. And when you are ready, I'll begin.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><nvs>laughter</nvs></B>
+<ctxt>The interviewee is still reading.</ctxt>
+<B>O K.</B>
+<A>O K. Tru, tru. Hello, this is <H pn="A's name">XXX01</H>.</A>
+<B>Hello, it's <H pn="B's name">XXX02</H> speaking.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B>Hi. <F>Um</F> I just wanted to <SC>I'm sorry</SC> say sorry for you</B>
+<A><F>Hm</F>.</A>
+<B>about the party. I couldn't go. <R>S</R> sorry about that, <H pn="A's name">XXX01</H>.</B>
+<A>Yeah, <H pn="B's name">XXX02</H> you know? Actually <SC>this is</SC> this is your surprise party.</A>
+<B><F>Oh</F>. <OL><CO>Y</CO></OL>.</B>
+<A><OL>I invited</OL> fifty friends <OL>there</OL>.</A>
+<B><OL>Was it</OL>? <F>Oh</F> I'm very, very sorry for it. <F>Um</F> actually, my mom was ill. So <SC>I have to</SC> I had to take her hospital.</B>
+<A><F>Wow</F>.</A>
+<B><SC>So</SC> yeah, so that's why I couldn't go. I'm very, very sorry. So next time</B>
+<A>Yeah.</A>
+<B><SC>I'd like</SC> <SC>I s</SC> I'm sure that I will go. So</B>
+<A><F>Wow</F>.</A>
+<B>sorry about <OL>that</OL>.</B>
+<A><OL><SC>It's</SC></OL> I'm sorry to hear that. What happened to your mom?</A>
+<B><R>I</R> I'm not sure. But <SC>he was</SC> <F>um</F> <R>he</R> <SC>he</SC> <F>um</F> no, no, no, she's got <F>um</F> cancer before.</B>
+<A><F>Hm</F>.</A>
+<B>So <R>s</R> sometimes she said <F>er</F> if she feels bad,</B>
+<A><F>Hmm</F>.</A>
+<B>she's so <SC>ancu</SC> anxious.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>So</OL> she just told me that she wants to go to <F>urm</F> hospital,</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>so <R>I have</OL> to</R> I have to take her hospital.</B>
+<A><F>Er</F> <R>was</R> was it urgent?</A>
+<B>Not really, actually. But <SC>she said</SC> she was just <F>um</F> just like screaming.</B>
+<A><F>Hmm</F>.</A>
+<B>So <R>I thought</R> I thought that was, yeah, serious. So I took her hospital.</B>
+<A><F>Ah</F> O K. <F>Er</F> but you know, actually, I made a big cake for you,</A>
+<B><F>Oh</F>.</B>
+<A>and I ordered one hundred very good sushi.</A>
+<B><F>Wow</F> sushi, <OL>I love it</OL>.</B>
+<A><OL><F>Hmm</F></OL>. What shall I do with those?</A>
+<B><F>Oh</F> my God. So did you keep it now?</B>
+<A><F>Oh</F> sure.</A>
+<B><laughter><F>Oh</F></laughter>. <CO>So</CO>.</B>
+<A><R>Can y</R> can you come?</A>
+<B>Yeah, sure.</B>
+<A>O K.</A>
+<B><R>What abou</R> what about <SC>no</SC> <F>er</F> <F>um</F> three o'clock?</B>
+<A>O K.</A>
+<B>O K. I'll go there.</B>
+<A>O K.</A>
+<B>Thank you.</B>
+<A>So <SC>I'm</SC> I'll be waiting for you.</A>
+<B>Thank you.</B>
+<A>Yeah. <OL>Thank you for calling me</OL>.</A>
+<B><OL>Bye-bye</OL>.</B>
+<A>Bye. O K. The role-play is over.</A>
+<B>O K.</B>
+<A><F>Hm</F>.</A>
+</task>
+<followup>
+<A>Do you sometimes have the party in Australia?</A>
+<B>Yeah.</B>
+<A>Can you tell me one of the party you had?</A>
+<B>O K. That was my friend's party. <SC>She became</SC> <F>oh</F> <SC>she</SC> yeah, she turned <R>twenty</R> <F>uh</F> twenty-eight, I think. She's much older than me. <SC>But she</SC> <F>um</F> <SC>in Japan, <SC>we have to</SC> <F>um</F> <SC>some</SC> if you have friends who <F>um</F> your friend's birthday, <SC>not the</SC> <SC>s</SC> <SC>not the one who is having birthday</SC></SC> no, <laughter>I mean</laughter>, I just wanna say that <F>er</F> in Japan, if your birthday, your friends will have party for you. But in Australia, <R>you have to</R> you have to have party for your friend.</B>
+<A>How interesting.</A>
+<B>Yeah, it is. Really. So my friend, she is Japanese, but just do it like Australians do. She just does.</B>
+<A><F>Mhm</F>.</A>
+<B>Yeah. So she invited me</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>to come</OL> to her house and <R>she</R> she baked <SC>cook</SC> a cake for her.</B>
+<A><F>Hmm</F>. <R>Did you enjoy that</R></A>
+<B><OL>Yeah, yeah</OL>.</B>
+<A><OL>did you enjoy</OL> that? <F>Oh</F> good, good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. The finally, <F>er</F></A>
+<B><OL>O K</OL>.</B>
+<A><OL>please look</OL> at this picture. This is a sequence of the pictures.</A>
+<B>O K.</B>
+<A>And I want you to make up your own story based on these pictures from one to six.</A>
+<B>O K.</B>
+<A>But this story happened in the past. So please start your story with "One day last week".</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>Can I start <OL>now</OL>?</B>
+<A><OL>Sure</OL>.</A>
+<B>O K. <..></..> O K. <..></..> Me and my friend <F>um</F> <SC>wanted to go <R>to</R> to</SC> wanted to go lake to have camp. So we prepared <F>ur</F> stuffs to go to camp. We went to the lake by car. When we arrived, we started to <F>er</F> <SC>make a tent</SC> build a tent. That was wonderful. We did it really good. And we cooked curry together as <F>well</F>. We had really good time there. But suddenly, the clouds became dark and started to raining. <F>Oh</F> my God. Then, the winds just blow so <SC>badly</SC> <SC>hardly</SC> heavily and the tent was just broken and went somewhere. And we just ran into the car. And we <SC>started to <SC>drive</SC> driving</SC> started to driving. And we found <SC>very co</SC> <F>um</F> <SC>looks gorgeous</SC> <R>very</R> very good hotel and we decided to settle down there. And <R>we</R> <F>er</F> <SC>we went to the hotel</SC> <F>er</F> we entered the hotel. And finally, we took shower, and <SC>having</SC> we had a tea. That was wonderful day.</B>
+<A><F>Hm</F>. Good, <H pn="B's name">XXX02</H>, thank you very much.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Could you tell me about the <F>er</F> outdoor activities in Australia?</A>
+<B>O K. <F>Well</F> when I was in <H pn="others1">XXX03</H>, I was just studying inside house, so I didn't have so much time to go out. But the only thing I liked was go to beach.</B>
+<A><F>Oh</F>.</A>
+<B>Just go to beach and sit <F>er</F> aside <SC>the</SC> you know, <SC>the road</SC> the street and see the <F>er</F> ocean. Blue oceans and blue skis and the wave just comes and goes and comes and goes. I feel really nice.</B>
+<A><F>Hm</F>.</A>
+<B>I think, yeah, that's <SC>one</SC> yeah, only thing I did</B>
+<A><F>Hmm</F>.</A>
+<B>in <H pn="others1">XXX03</H> <OL>in outdoor</OL>.</B>
+<A><OL><R>Wha</R> what is</OL> the most popular outdoor activities in Australia?</A>
+<B>Outdoor activities. I think <F>ah</F> I'm not sure but <F>ah</F> bush walking. Do you know that? <OL>Bush walking</OL>.</B>
+<A><OL>No, what's that</OL>?</A>
+<B><nvs>laughter</nvs> <R>It's</R> it's a kind of <F>er</F> just walking inside the forest.</B>
+<A><F>Ah</F>.</A>
+<B>We say "bush" instead of saying "forest".</B>
+<A><F>Mh-hmm</F>. <F>Hm</F>.</A>
+<B>So little bush,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>you can go inside.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And little paths are there. So you just walk through the path. And you can see birds and animals and <?>plants</?> and things. <SC>So be</SC> <F>uh</F> so nice. But you have to walk probably one hour or something,</B>
+<A><F>Ah</F>.</A>
+<B>yeah, to look abound. And <R>that's</R> that's good <OL>excercise</OL>.</B>
+<A><OL><F>Hmm</F></OL>. O K. Good.</A>
+</followup>
+</stage4>
+<stage5>
+<A>The interview is almost over, <H pn="B's name">XXX02</H>.</A>
+<B><laughter>O K</laughter>. <OL><F>Oh</F></OL>.</B>
+<A><OL>O K</OL>. Thank you. O K. So <F>um</F> you came back to <H pn="others6">XXX10</H>,</A>
+<B>Yes.</B>
+<A>I mean Japan.</A>
+<B>Yes.</B>
+<A>What would you like to eat? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Now</OL>? <F>Oh</F> <F>um</F> <SC>my mom's coo</SC> <F>er</F> my mom's food.</B>
+<A>What's her specialty?</A>
+<B><F>Um</F> <R>pumpkin</R> <OL>pumpkin</OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><F>ah</F> yeah, <JP>nimono</JP>?</B>
+<A><F>Hm</F>.</A>
+<B>Yeah. And today is <JP>toji</JP>. This <OL>is the day</OL></B>
+<A><OL>Right</OL>. <OL>Pumpkin day</OL>.</A>
+<B><OL>This is the day</OL>. Pumpkin day. We have to <OL>eat</OL>.</B>
+<A><OL>I</OL> see. So are you gonna back to home</A>
+<B>Yeah. <OL>I have to</OL>.</B>
+<A><OL>and then see your</OL> parents.</A>
+<B>Yeah.</B>
+<A>So they are waiting for you.</A>
+<B>Yes.</B>
+<A>O K. Thank you for coming. The interview is over. <OL>Thank you</OL>.</A>
+<B><OL>Yeah, O K</OL>.</B>
+</stage5>
+</body>
+</interview>

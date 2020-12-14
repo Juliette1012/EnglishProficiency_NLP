@@ -1,0 +1,203 @@
+<interview>
+<filename>file00799.txt</filename>
+
+<head version="1.3">
+<date>2001-11-29</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Mm</F>. O K. Let's start. Hello, my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B><F>Uhm</F>. A little bit because I had the cold.</B>
+<A><F>Ahh</F>.</A>
+<B>I'm sorry.</B>
+<A>I see. <OL>Are you O K today</OL>?</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>O K?</A>
+<B>Yes, I'm O K.</B>
+<A>O K. So where do you live, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mmm</F>. <F>Eh</F> <F>err</F> <SC><H pn="others2">XXX04</H> City</SC> <F>ah</F> <H pn="others2">XXX04</H> Town.</B>
+<A><F>Mh-hm</F> I see. Do you live there with your family?</A>
+<B>No, <F>uh</F> <F>uh</F> I live alone.</B>
+<A><F>Mm-hm</F>.</A>
+<B>I'm single.</B>
+<A><F>Ahh</F> I see. And is <SC><H pn="others2">XXX04</H> City</SC> <OL><H pn="others2">XXX04</H></OL></A>
+<B><OL><H pn="others2">XXX04</H> Town</OL>.</B>
+<A>Town good town?</A>
+<B>Yes, very good town because it is the very near <F>mm</F> to my home land when I grown up.</B>
+<A><F>Ahh</F>.</A>
+<B>Yes.</B>
+<A><R>Where is</R> where is your original home town?</A>
+<B><F>Oh</F> I was born in <H pn="others3">XXX05</H>. And <F>ur</F> <SC>I</SC> after, I lived in <H pn="others4">XXX06</H> area since <F>uh</F> high school graduated.</B>
+<A><F>Uh-huh</F> I see. Good. So you know that area very much.</A>
+<B>Yes. <R>Very</R> <R>very</R> <R>very</R> very much I know.</B>
+<A><F>Uh-huh</F> I see. And <H pn="B's name">XXX02</H>,</A>
+<B>Yes.</B>
+<A>do you have any hobbies?</A>
+<B>Hobbies?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Hum</F>.</B>
+<A>Or what do you like to do when you're free?</A>
+<B><F>Hum</F> in my waste time? <F>Um</F> I <..></..> <F>mm</F> <..></..> I do <F>uu</F> patch working and <F>urr</F> <.></.> sewing. And sometimes I go to see the <JP>kabuki</JP> <F>ii</F> performance and <F>urr</F> <..></..> <F>oh</F> <laughter>many things</laughter>.</B>
+<A><laughter><F>Uh</F> many things</laughter>. <JP>Kabuki</JP> performance sounds interesting.</A>
+<B>Yes.</B>
+<A>What part of <JP>Kabuki</JP> do you like? Why do you like <JP>Kabuki</JP> performance?</A>
+<B><F>Um</F>. Everything because when I was child, <F>uu</F> my grandmother <F>uu</F> accompanied <F>uu</F> to <JP>Kabuki</JP> theater so <F>uh</F> I like very much <F>ii</F> to see the <JP>Kabuki</JP> theater.</B>
+<A><F>Mm</F> I see. Is it different from the <R>modern</R> modern art or modern performance, modern play?</A>
+<B><JP>Kabuki</JP>?</B>
+<A><F>Uh-huh</F>. Is it different?</A>
+<B>Yes. <F>Mm</F>. <R>It is</R> <F>uu</F> it is very different. <F>Uu</F>. <..></..></B>
+<A>O K. <OL>Thank you very much</OL>.</A>
+<B><OL>Excuse me</OL>.</B>
+<A>That's O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. I'd like to show you a picture.</A>
+<B>Yes.</B>
+<A>O K. And <F>ur</F> <F>oh</F> <??></??>. Please describe this picture for me.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<A>O K?</A>
+<B><R>The</R> <F>uu</F> <.></.> the very nice couple <F>uu</F> <F>ee</F> are in the restaurant. <F>Uu</F> <.></.>today is their <F>urr</F> <F>urr</F> <.></.> celebration day <F>ee</F> of their <F>mm</F> wedding. <F>Mm</F>. <..></..> Husband <F>uu</F> <F>uu</F> want to choice a good wine. <F>Mm</F> <F>mm</F> <..></..> <F>mm</F>. <F>Oh</F>. It is very difficult.</B>
+<A><F>Mm</F>. O K. That's O K, then.</A>
+</task>
+<followup>
+<A><SC>Tell me</SC>, this is a restaurant, but tell me your favorite restaurant.</A>
+<B>Favorite restaurant?</B>
+<A><F>Um</F>. Your favorite restaurant. What kind of restaurant do you like?</A>
+<B><F>Um</F> <F>um</F> I like most Japanese.</B>
+<A><F>Uhm</F>. Japanese.</A>
+<B>And next, Chinese food.</B>
+<A><F>Huum</F> I see. <.></.> <F>Urr</F>. What kind of Japanese restaurant do you like?</A>
+<B>What kind of Japanese restaurant. <F>Mmm</F> I like seafood. <F>Mm</F> I like seafood restaurant.</B>
+<A><F>Uh-huh</F>. <F>Mm</F>. Did you go to that restaurant recently?</A>
+<B><..></..> <F>Umm</F>. Recently, <F>ii</F> <..></..> <F>uh</F> I went <F>uu</F> <F>mm</F> seafood restaurant <F>uu</F> <.></.> before two weeks. <F>Um</F>. <.></.> <SC>It was</SC> <F>uu</F> the day was in Kyoto City. <F>Uu</F>. <..></..> Because <F>uu</F> two weeks ago, I went to Kyoto <R>for</R> for my friend's birthday party. <F>Um</F>.</B>
+<A>That's nice.</A>
+<B><F>Mm</F>.</B>
+<A>So <SC>it must be</SC> that restaurant was I suppose totally different from this restaurant.</A>
+<B><..></..> This may be French <.></.> restaurant. <F>Um</F>. It looks like <SC>so</SC> very expensive. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Do you like this kind of restaurant?</A>
+<B><F>Um</F>. I don't like.</B>
+<A><nvs>laughter</nvs> O K. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Then, let's do a role-play. Please read this card to yourself. And when you are ready, I'll begin.</A>
+<B><F>Wow</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<ctxt>The interviewee is still reading the card.</ctxt>
+<B>O K.</B>
+<A>Ring ring. Hello, <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Uum</F>. I'm <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><F>Uum</F></OL> how are you?</B>
+<A>Good.</A>
+<B><F>Uum</F>. If you don't mind, <F>uu</F> <F>uu</F> <F>uu</F> could you go to <F>uu</F> the cinema <F>uh</F> tonight?</B>
+<A>O K. Yes.</A>
+<B>Are you O K?</B>
+<A>Yes.</A>
+<B><F>Um</F> <SC>if</SC> <F>uu</F> <F>uu</F> <F>um</F> <..></..> could you go to <F>uu</F> <F>uu</F> <..></..> Shinjuku Station?</B>
+<A>Yes.</A>
+<B><F>Urr</F>. <..></..> I'd like to go to cinema <R>at</R> <F>ur</F> at <F>ur</F> seven.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Um</F>. Are you O K?</B>
+<A>Yes.</A>
+<B><F>Um</F>. Where do we <F>ii</F> meet?</B>
+<A><F>Ur</F>. Anywhere.</A>
+<B><??></??>. <F>Um</F> <F>uu</F>. <..></..></B>
+<A>O K. Then <SC>How about in front of</SC> we are going to meet <SC>at</SC> in front of Alta. Do you know Alta Building?</A>
+<B><F>Oh</F> <F>err</F>. It's not good idea because front of Alta, there are lots of people.</B>
+<A><F>Uh-huh</F>, right.</A>
+<B><F>Uh</F>. And <F>uh</F> <..></..> don't we <F>ii</F> meet <F>uu</F> at <F>uu</F> front of <F>uu</F> <F>uu</F> Kinokuniya Book Shop</B>
+<A><F>Ahh</F>. That's a good idea.</A>
+<B><R>at</R> at <F>ur</F> six thirty?</B>
+<A>Six-thirty.</A>
+<B>Yes.</B>
+<A>O K. Good idea.</A>
+<B>O K?</B>
+<A>Yes.</A>
+<B><F>Mm</F>. Thank you. See you later.</B>
+<A>Yeah, thank you for calling. See you later. O K, this is the end of role-play. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you sometimes go to the movies?</A>
+<B>Yes. Because <F>uu</F> <F>uu</F> I'm work in kind of films.</B>
+<A><F>Oh</F>. Really?</A>
+<B>Yes.</B>
+<A><F>Mm-hm</F>. <F>Ur</F>. Do you have <F>ar</F> favorite kinds of films?</A>
+<B><F>Um</F>. Recently, I often go to see the Asian films.</B>
+<A><F>Ohh</F>. Why <OL><F>ur</F> Asian films</OL>?</A>
+<B><OL>Very interestings</OL>. Because <F>uu</F> the recent American films is <SC>so</SC> <laughter>very <F>ii</F> noisy</laughter> <F>ii</F> and <F>ur</F> too <F>uu</F> <F>uu</F> <R>vio</R> violent.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So the Chinese or Koreans and <F>ur</F> <F>urr</F> Thailand, <F>uu</F> <SC>they are</SC> they makes <SC>ve</SC> the very interesting films.</B>
+<A>I see.</A>
+<B><F>Uhm</F>. <.></.></B>
+<A>O K, thank you very much. <nvs>laughter</nvs> Sounds interesting. <R>I</R> <R>I</R> I think I've never seen Korean or Chinese film.</A>
+<B>Have you ever been to see the Asian films? <nvs>laughter</nvs></B>
+<A>I suppose I've never been there. <SC>I've never been</SC> I've never seen those films before. Yeah. I'd like to see, <OL>yeah</OL>.</A>
+<B><OL><F>Mm</F></OL>. Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, <SC>I'd like</SC> finally, I'd like you to make up a short story based on these four pictures. And this happened last week. So please start you story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>Here is the zoo land. <F>Mmm</F>. <R>They</R> <F>ii</F> <F>ii</F> <..></..> they want to see the animals. <SC>They ask</SC> <F>uh</F> <SC>he ask</SC> <R>he</R> he asks her, <F>ur</F> "What kind of animal <SC>do you like</SC> do you want to see?". <F>Err</F>. She says, "The first, I'd like go to <F>mm</F> see the lions.". <SC>They</SC> <F>ii</F> <F>ii</F> they're <F>uh</F> <..></..> front of lion's cage. <..></..> Next, <F>uu</F> <F>mmm</F> <..></..> they go to see <.></.> the monkeys. <F>Urr</F> <..></..> <R>she</R> <..></..> <SC>she have</SC> she has a ice cream. <F>Hum</F>. <..></..> <CO>And after <F>err</F> <..></..> they</CO>. <F>ii</F> <..></..></B>
+<A><F>Mm</F>. O K.</A>
+<B><F>Uhm</F>.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>So the interview is almost over. It's beautiful day outside. What are you going to do this afternoon?</A>
+<B>This afternoon, I'm going to office.</B>
+<A><F>Ah</F>. You work today.</A>
+<B>Yes.</B>
+<A>What kind of work do you do?</A>
+<B>I'm working as editor.</B>
+<A><F>Uh-huh</F>. So is <OL><?>it <H pn="others5">XXX07</H></?></OL>?</A>
+<B><OL><R>For</R> <SC>for</SC></OL> <SC>I edit</SC> <SC>I</SC> <F>ii</F> our company <F>ee</F> product <F>uu</F> some <F>um</F> <..></..> books about the films.</B>
+<A><F>Uhh</F> I see. <OL><CO>So you</CO></OL>.</A>
+<B><OL><R>This</R></OL> this book is very special. <F>Mm</F>. It is called <F>uu</F> film index.</B>
+<A><F>Ohh</F> I see.</A>
+<B>And <OL>it's <F>mm</F></OL>.</B>
+<A><OL>You must know</OL> a lot of films.</A>
+<B>Yes. <F>Um</F>.</B>
+<A><F>Mm-hm</F>. <F>Ahh</F>.</A>
+<B><F>Er</F>. Three years ago, <F>uu</F> <F>mm</F> we <F>ii</F> <F>ii</F> <F>ii</F> published <F>uu</F> <F>uu</F> <.></.> the film index. <F>Uu</F>. <..></..> <R>It was</R> <F>uh</F> it was <F>uu</F> <F>uu</F> <..></..> included <F>uu</F> <F>uu</F> the films <F>uu</F> that was released in Japan <F>um</F> from nineteen forty five to <F>uu</F> nineteen ninety seven.</B>
+<A><F>Oh</F> I see. <CO>Then</CO>.</A>
+<B>And <F>ur</F> next week, I will publish <F>uu</F> <F>uu</F> a revised version. It includes <F>ur</F> all of the films <F>uu</F> <.></.> was released in Japan in <SC>ni</SC> eighteen ninety <F>um</F> <OL>eight</OL>.</B>
+<A><OL>Then you</OL> must be very <SC>busy</A>
+<B>Yes, very busy.</B>
+<A>for the</SC> busy for that job. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yes</laughter></OL>. <nvs>laughter</nvs></B>
+<A>I see. O K. Thank you for coming today.</A>
+<B><OL>Thank you so much</OL>.</B>
+<A><OL>The interview is</OL> over. Thank you.</A>
+</stage5>
+</body>
+</interview>

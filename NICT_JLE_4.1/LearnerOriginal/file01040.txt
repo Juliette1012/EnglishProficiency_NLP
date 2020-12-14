@@ -1,0 +1,215 @@
+<interview>
+<filename>file01040.txt</filename>
+
+<head version="1.3">
+<date>2002-03-07</date>
+<sex>male</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>landlord_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. <F>Um</F> can I have your name please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Very nice to meet you, mister <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Er</F> how are you this morning?</A>
+<B>Fine thank you, and you?</B>
+<A>Yes. I'm good. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Are you busy now?</A>
+<B>Yes. Very busy.</B>
+<A>O K. Could you tell me <F>er</F> about your job?</A>
+<B>My job? <F>Er</F> I work for <H pn="company name1">XXX03</H> Corporation. <F>Er</F> you may not know the name of <H pn="company name1">XXX03</H> Corporation but it's a trading company. <F>Er</F> <R>it</R> it use many kind of <F>er</F> things. Especially, I belong to a Textile Division and <F>er</F> the name of section is Import Goods International Division. <F>Er</F>, it <F>er</F> deals <F>uh</F> <F>uh</F> with <F>er</F> many brands such as <H pn="others1">XXX04</H>, <H pn="others2">XXX05</H>, <F>er</F> <H pn="others3">XXX06</H>, <H pn="others4">XXX07</H>, such kind of brands and I make <?>up all</?> <F>er</F> of each brand like <F>er</F> if there is a exhibition in Japan, <F>er</F> <SC>we offer</SC> <F>er</F> I offer <F>er</F> <??></??> make a ship out <SC>by the</SC> before the exhibition and <F>er</F> import the goods. Yes.</B>
+<A>O K. What do you think about these expensive things?</A>
+<B>Expensive things.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Er</F> <F>er</F> before I <F>er</F> work as a <H pn="company name1">XXX03</H> man, <F>er</F> I didn't know that such <F>er</F> brands are not so expensive as it is sold in store. <F>Er</F> that is <F>er</F> the price we import is as about <F>er</F> one fourth the price as it is sold in store so I think it's <F>er</F> stupid to buy as a price in store.</B>
+<A><F>Hmm</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><R>My mi</R></OL> my mind changed.</B>
+<A><OL><F>Oh</F> really</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Do you often buy these? <nvs>laughter</nvs></A>
+<B>Not at a store. <OL><F>Er</F> yes</OL>.</B>
+<A><OL>Yeah O K</OL>.</A>
+<B><OL>Directly, yes</OL>. <nvs>laughter</nvs>.</B>
+<A><OL><nvs>laughter</nvs> O K</OL>.</A>
+<B>Sometimes, yes.</B>
+<A>Do you work from Monday through Friday?</A>
+<B>Yes. <F>Er</F> sometimes on Saturday <nvs>laughter</nvs> also.</B>
+<A>O K. What do you usually do on weekends?</A>
+<B>Weekends. <F>Er</F> I rest at home until noon and as I belong to a <F>er</F> fashion division, I often go to see the <R>s</R> store in department store and also around <F>er</F> <JP>America-mura</JP></B>
+<A><F>Hmm</F>.</A>
+<B>where the many <F>er</F> fashion store is in.</B>
+<A>O K. Any other hobbies?</A>
+<B>Hobbies. Yes. <R>I</R> I used to <F>er</F> belong to a ice hockey club in university, so I sometimes go <F>er</F> practice <SC>in</SC> <F>er</F> with my <R>u</R> university colleague. <nvs>laughter</nvs> Yes.</B>
+<A><F>Oh</F>. Here in <H pn="others5">XXX08</H>?</A>
+<B>Yes. <H pn="others5">XXX08</H>.</B>
+<A>Are there any places to play hockey?</A>
+<B>Yes. <R>Many</R> many people say that there are no places to play ice hockey.</B>
+<A><nvs>laughter</nvs></A>
+<B>But there are four ice arena</B>
+<A><F>Hmm</F>.</A>
+<B>for all season in <H pn="others5">XXX08</H> area, so <F>er</F> <SC>ice hockey</SC> we can play ice hockey in all year around.</B>
+<A><F>Oh</F> <OL>really</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>I didn't know that.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Interesting.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much. Now, I'll show you a picture here. O K. Please describe this picture in detail.</A>
+<ctxt>Then interviewee is thinking for a while.</ctxt>
+<B><F>Mm</F> <.></.> this is a <SC>ski</SC> <F>uh</F> <R>no</R> <R>no</R> no, a snow mountain and it shows <F>er</F> people enjoying skiing and <.></.> <SC>s</SC> <SC>s</SC> enjoying skiing. And <SC>the top of the picture</SC> on top of the picture, <F>er</F> man is enjoying snowboarding. And there are lifts with <R>no</R> no person, and on the bottom of the picture, <F>er</F> the instructor is calling the students to come down <SC>and</SC> but one student are <SC>falling</SC> fell down and he looks <F>er</F> in trouble. <F>Er</F> <.></.> and on the left side of the picture, <F>mm</F> <..></..> <SC>a boys</SC> <F>uh</F> boys are playing <SC>snowballs</SC> snow fights. <F>Er</F> they look enjoying <R>th</R> throwing snowball. Also <SC>in the cabin</SC> <F>er</F> in the lodge, a <SC>co</SC> <F>er</F> <..></..> <F>er</F> man and woman are <R>talking</R> <.></.> talking and it seems that inside is very warm and <.></.> <SC>they are</SC> they seem <SC>to rest</SC> resting in a cabin. <F>Mm</F>.</B>
+</task>
+<followup>
+<A>O K. That's all? O K. Thank you very much. So, why did you choose ice hockey <laughter>to play</laughter>?</A>
+<B>Why? <F>Mm</F> when I was a little, I used to live in <F>er</F> <H pn="others6">XXX09</H> <F>mm</F> and then the place was <H pn="others7">XXX10</H>. Do you know <H pn="others7">XXX10</H>?</B>
+<A><F>Oh</F> <SC>ye</SC> <F>mm</F> just the name. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>I've never been there</OL>.</A>
+<B><OL>It's a very</OL> <F>er</F> cold place. And <F>er</F> so as I went to elementary school out there, <F>er</F> the pond <.></.> become icery.</B>
+<A><F>Ah</F> <OL>yeah</OL>.</A>
+<B><OL>Yes</OL>. It freeze. So <R>as</R> <R>as other</R> as <F>er</F> other my friend <SC>played ski</SC> <JP><F>ano</F></JP> played ice hockey, <F>er</F> I played ice hockey there. But I did not play ice hockey when I was in junior high or high school, but I <SC>started in a</SC> started to play ice hockey again in university.</B>
+<A>In Japan?</A>
+<B>Yes. In Japan.</B>
+<A>What's the difference between Japan and <H pn="others6">XXX09</H>, playing ice hockey?</A>
+<B><nvs>laughter</nvs> When I was playing ice hockey in <H pn="others6">XXX09</H>, <F>er</F> it was very <.></.> little, the playing.</B>
+<A><F>Uh-huh</F>.</A>
+<B>There were no checks. You know checks? The <R>body checks</R>? Body check? <SC>There was no</SC> there were no body check in those ages, but <R>in</R> in the university age, <F>er</F> there are many <SC>body</SC>, physical checks in a play so it's a most difference. But it's maybe difference in the age. Yes.</B>
+<A>So, are you a good player?</A>
+<B>Of course. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL><laughter>Yeah I think so</laughter></OL>. O K, thank you very much. Now, we'll do a role-play.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Here you are. Please read this card and when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>Is this situation should be on the phone?</B>
+<A><F>Ah</F> yes. Either is O K. <R>Y</R> you can <?>come to my room</?> or phone.</A>
+<B>So I call.</B>
+<A>Yeah, O K. <nvs>Trrr</nvs> hello?</A>
+<B><F>Er</F> hello? <F>Er</F> <.></.> are you the <R>ma</R> manager of my house? <laughter>Manager</laughter>.</B>
+<A><F>Ah</F> yes. This is <H pn="A's name">XXX01</H>.</A>
+<B>Yes <OL><F>er</F></OL>.</B>
+<A><OL>Who is</OL> this calling?</A>
+<B>This is <H pn="B's name">XXX02</H> speaking.</B>
+<A><F>Oh</F>, hello <H pn="B's name">XXX02</H>.</A>
+<B><F>Oh</F>, hello. <F>Er</F> when I got back to my house, the window was broken.</B>
+<A><F>Oh</F>, it's too bad.</A>
+<B>Yes, and I'd like to repair as soon as possible because it's <R>s</R> snowing outside.</B>
+<A><F>Mm</F> yes. I know.</A>
+<B>Could you <F>er</F> call somebody to come to my house?</B>
+<A>O K, but it's too late tonight so I'll call <F>er</F> <SC>la</SC> <F>er</F> tomorrow.</A>
+<B>Tomorrow? <nvs>laughter</nvs> How can I <F>er</F> sleep tonight if the window is broken so I cannot sleep since the room is so cold.</B>
+<A>Yeah, but don't you have a blanket?</A>
+<B>Blanket? <F>Mm</F> <F>mm</F> maybe I'll repair <F>er</F> by tape.</B>
+<A>Tape? <F>Ah</F> that's a good idea.</A>
+<B>But is it sure that tomorrow morning <F>er</F> the <SC>ma</SC> somebody will come to repair the window?</B>
+<A><F>Mm</F> I think so.</A>
+<B>Are you sure? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> But I don't know <SC>because</SC> <F>um</F> if they are busy or not this time.</A>
+<B><F>Mm</F>.</B>
+<A>So I call them and <SC>to <F>er</F> say</SC> <F>er</F> <SC>to</SC>, O K, <F>er</F> to have some repair man <?>over</?> <OL>to your house</OL>.</A>
+<B><OL>O K</OL>. <F>Er</F> <R>since</R> since <F>er</F> tomorrow is a Monday, I leave for work so I'll tell my <F>er</F> wife</B>
+<A>O K.</A>
+<B>to wait until the repair man come. Is that O K?</B>
+<A>Yes.</A>
+<B>Could you tell them that please <F>er</F> come to my house by noon?</B>
+<A>By noon.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B>O K. Thank you.</B>
+<A>O K. So <SC>Good bye</SC> good night.</A>
+<B><F>Oh</F> good night. Thank you very much.</B>
+</task>
+<followup>
+<A>Thank you very much. O K. So you used to be in the <H pn="others6">XXX09</H>.</A>
+<B><F>Mm</F> when I was a little.</B>
+<A><F>Oh</F> yes, <F>well</F>, how did you like the <H pn="others6">XXX09</H>?</A>
+<B><R>How</R>? How? <F>Er</F> when I was in <H pn="others6">XXX09</H>, I was about the age of four or five or six or about <F>um</F> the little age, so most of memories has gone. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B>Like my English skills have become low. <nvs>laughter</nvs></B>
+<A><F>Oh</F> do you think so? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes, yes</OL>.</B>
+<A>I thought that your speaking English is pretty <R>fluently</R> fluently.</A>
+<B>Thank you. <OL>Yeah</OL>?</B>
+<A><CO><OL>The way</OL> you were <OL>in</OL></CO>.</A>
+<B><F>Wow</F>. When. <F>Mm</F> <.></.> maybe I was speaking <..></..>. I don't know. <SC>I don't remember</SC> even now I don't remember. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Now do where do you live?</A>
+<B>Now?</B>
+<A>Now.</A>
+<B>Now <R>I live</R> I live in a dormitory <F>er</F> <R>in</R> in <H pn="others8">XXX11</H>.</B>
+<A>Don't you have any problem?</A>
+<B>Not at <OL>all</OL>.</B>
+<A><CO><OL>Living in</OL></CO>.</A>
+<B><OL>No</OL>.</B>
+<A><OL>No</OL>?</A>
+<B>Enjoying <OL>very much</OL>.</B>
+<A><OL><F>Oh</F></OL>, that's <OL>good</OL>.</A>
+<B><R><OL>Yes</OL></R> yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, thank you very much. Now, I'll show you another picture.</A>
+<B><F>Hm</F>.</B>
+<A>O K, here you are. So please make up your own story from one to six and this happened last <SC>ye</SC> <F>uh</F> last week. So please start your story with "One day last week".</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B>One day last week, a man was driving a car <F>er</F> beside the <SC>shade</SC> <JP><F>ano</F></JP> the tree and he was about hundred kilometer <R>and</R> and <F>er</F> at the other side, <F>er</F> <SC>a man</SC> other man was <F>er</F> riding a motorcycle <F>er</F> talking with <JP>handy phone</JP> <SC>with her</SC> with his girlfriend and he was concentrating <SC>on</SC> with talking with his girlfriend. <R>And</R> <..></..> and there was car notice that he was coming toward him <F>er</F> but <R>he could not</R> <F>er</F> <.></.> he could not <F>mm</F> <R>he hit</R> he hit the motorcycle when he was <F>er</F> going through him and the car hit motorcycle and the man riding motorcycle dropped his handy phone on the road and the problem <SC>became</SC> become. And the man with motorcycle is arguing <R>that</R> that <F>er</F> the handy phone had <SC>broke</SC> broken, that is that he was not watching <JP><F>ano</F></JP> the man in the car was not watching actually, so he's arguing to <F>er</F> have another new handy phone and <.></.> they called policeman and the policeman was taking a note <R>and</R> <.></.> and they each gave their own phone number to contact in order to contact after <R>to</R> <.></.> to buy new handy phone and <.></.> also, the motorcycle was also broken and the man with motorcycle could not ride <F>er</F> motorcycle on that day. So he called <F>er</F> <.></.> <F>er</F> <SC>towing machine</SC> <R>to</R> towing car and the towing car came and the towing car took his motorcycle to a repair shop and he saw off.</B>
+</task>
+<followup>
+<A>Thank you very much. Thank you. So, how do you think a mobile phone has changed your life?</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Mobile phone has changed.</B>
+<A><F>Uh-huh</F>.</A>
+<B><OL><F>Er</F></OL></B>
+<A><OL>Don't you have a mobile phone</OL>?</A>
+<B><R>Yes I have</R>. Yes I have. <F>Er</F> many people have become <F>er</F> <.></.> not so strict because <F>er</F> <R>when I have a</R> <F>er</F> when I have a appointment with you, <F>er</F> <SC>I</SC> <F>um</F> noon, and I have a work, but I think that if I call you before noon, it would be O K not to go <R>no</R> not to meet at noon, but before we had a <F>er</F> mobile phone, we could not have a contact once we promised <R>on</R> on the time so people became very rude, maybe. <F>Hmm</F> <F>er</F> appointment will be changed easily. So I think <SC>it's</SC> sometimes it's very useful but <R>not so</R> <F>er</F> <R>not so</R> <F>mm</F> <SC>not so</SC> sometimes not so good.</B>
+<A><F>Ah</F> yeah. <F>Uh-huh</F>. I think so.</A>
+<B>Yes.</B>
+<A>Can you do without a mobile phone now? <OL><nvs>laughter</nvs> yeah maybe</OL></A>
+<B><OL><laughter>Maybe not</laughter></OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K, thank you very much. Now it's almost the end of the interview.</A>
+<B><F>Uh-huh</F>.</B>
+<A>So <F>mm</F> do you have a plan to visit United States again?</A>
+<B><R>Not</R> not in <F>er</F> near future.</B>
+<A><F>Ah</F>.</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL>Are there</OL> any other country you are <F>er</F> interested in now?</A>
+<B>Yes, I'm interested in China.</B>
+<A>China.</A>
+<B>I mean, Asia.</B>
+<A>Asia.</A>
+<B>Yes. <F>Er</F> I have never been to <F>er</F> Asia since I visited Asia as a graduating <R>t</R> trip <F>er</F> but I did not know that Asia was such a <F>er</F> fun place. I had visited only Europe and <F>er</F> United States, so it's very different. And it's very interesting and I like to visit China because I've not visited China before. I've visited <F>er</F> Thailand <SC>when I was</SC> <F>uh</F> <SC>when I</SC> when as a graduating trip so I'd like to visit China.</B>
+<A>Can you speak Chinese?</A>
+<B>Of course not.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL>Of course not</OL>.</B>
+<A>O K. Thank you very much. Have a nice trip. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

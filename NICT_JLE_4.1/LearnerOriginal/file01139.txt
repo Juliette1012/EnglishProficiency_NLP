@@ -1,0 +1,219 @@
+<interview>
+<filename>file01139.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC>370</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi, my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uh-huh</F>. <H pn="B's name">XXX02</H>. <OL><F>Er</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><F>Er</F> where do you live <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><OL><H pn="others1">XXX03</H></OL>.</A>
+<B><OL><H pn="others1">XXX03</H></OL>.</B>
+<A><F>Uh-huh</F>. Do you live there with your family?</A>
+<B>Yes.</B>
+<A><F>Uh-huh</F>. Tell me about your family.</A>
+<B><F>Um</F>. <SC>My father is <.></.> <F>ee</F> for</SC> <.></.> <F>ee</F> <.></.> <R>e</R> anything?</B>
+<A>O K.</A>
+<B><..></..> My father is very <R>taller</R> taller.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ee</F> <.></.> <F>mm</F>. <.></.> <CO><SC>His work is</SC> <.></.> <JP><F>eeto</F></JP> <nvs>cough</nvs> <..></..> <F>ur</F> <.></.> <SC>most</SC> <F>eh</F> <.></.> <F>uh</F> <..></..> <nvs>laughter</nvs> sorry, I</CO>. <..></..> <F>Eh</F>. <..></..></B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Er</F> what is your hobby?</A>
+<B>My hobby is watching the movie.</B>
+<A><F>Hmm</F>. What kind of movie do you like?</A>
+<B><F>Em</F>. <.></.> Hayao Miyazaki's movie.</B>
+<A><F>Hmm</F>.</A>
+<B><nvs>cough</nvs></B>
+<A>So tell me the last movie you saw. <F>Um</F>.</A>
+<B><F>Er</F> I saw <nvs>cough</nvs> "Lord of the Ring".</B>
+<A><F>Hmm</F>.</A>
+<B><.></.></B>
+<A>How was that?</A>
+<B><nvs>laughter</nvs> <R>very</R> very <nvs>laughter</nvs> <.></.> <JP>nandaro</JP> wonderful <F>uum</F> <??></??> <.></.> very big <R>scale</R> scale.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. <??></??>.</B>
+<A>And <F>er</F> <SC>tell me</SC> <F>ah</F> please tell me about <F>er</F> Miyazaki Hayao.</A>
+<B><F>Ur</F>. <SC>He's</SC> his movie is <.></.> very beautiful and <laughter>wonderful</laughter>. So <R>I</R> <SC>I watch</SC> <F>a</F> <SC>whe</SC> I first watch the movie is <??></??> Hayao Miyazaki's movie.</B>
+<A><F>Hum</F>.</A>
+<B>So I'm <R>in</R> interested in <R>his</R> <F>a</F> <SC>his</SC> the movie.</B>
+<A><F>Hum</F>.</A>
+<B>So <R>if I</R> if I watch his movie, I'm not interested in the movie.</B>
+<A>I see. What was the movie's title?</A>
+<B><F>Hum</F>. "Totoro", <JP>kana</JP>. Maybe.</B>
+<A><F>Er</F> I see. <F>Hm</F>. O K. Thank you very <OL>much</OL>.</A>
+<B><OL><nvs>cough</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>Now,</A>
+<B><nvs>cough</nvs></B>
+<A><..></..> I want you to look at this picture and please describe this picture.</A>
+<B><F>Hm</F>. <OL><nvs>cough</nvs></OL></B>
+<A><OL>Please <R>tell</R></OL> tell me anything about this picture.</A>
+<B><.></.> He put up glass <R>in</R> <F>uh</F> <.></.> <F>uh</F> <.></.> in <R>wine</R> wine <laughter>in glass</laughter>.</B>
+<A><F>Uhu</F>.</A>
+<B>And he <SC>talked</SC> talk <SC>with</SC> <JP><F>eeto</F></JP> <..></..> <JP>nanchuuno</JP> <F>eh</F> with <laughter><SC>waitress</SC></laughter> waiter. So <JP><F>eeto</F></JP> maybe he asked waiter <R>wine's</R> <SC>wine's</SC> <F>uh</F> <.></.> what kind wine.</B>
+<A><F>Um</F>.</A>
+<B><..></..> <CO>So</CO>. <.></.> <nvs>laughter</nvs> <..></..></B>
+</task>
+<followup>
+<A>O K. <OL>Thank you very much</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Um</F> <SC>what</SC> <OL>tell</OL></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>me about <F>er</F> your favorite restaurant.</A>
+<B>Favorite restaurant.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Er</F>. <.></.> <laughter>Steak House</laughter> <F>m</F> <??></??>.</B>
+<A><F>Er</F> do you see any differences between this restaurant and the Steak House?</A>
+<B><.></.> <F>M</F>?</B>
+<A>Do you see the <R>difference</R> difference</A>
+<B><F>Ah</F>.</B>
+<A>between this restaurant <OL>and</OL></A>
+<B><OL><F>Ah</F></OL>.</B>
+<A>your favorite Steak House?</A>
+<B>No. <F>Eh</F>? <OL>Difference</OL>?</B>
+<A><OL>Are they same</OL>?</A>
+<B>Wait. <F>M</F>. <OL><?>The same</?></OL>.</B>
+<A><OL>O K, thank you</OL>. And please tell me about the last time you ate at that restaurant.</A>
+<B><F>Hem</F> <..></..> <nvs>cough</nvs> I family restaurant.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Hm</F>. <F>Um</F>. <SC>They are</SC> <F>ah</F> <JP>chigau</JP> <..></..> <F>eh</F> <..></..> <F>eh</F> <SC>family</SC> I went to family restaurant.</B>
+<A><F>Um</F>.</A>
+<B><.></.> <F>Eh</F>? <.></.></B>
+<A>Did you go there with your friends?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. What did you eat?</A>
+<B><JP><R>Omu</R></JP> <JP><R>omuraisu</R></JP> <OL><JP>omuraisu</JP></OL>.</B>
+<A><OL><F>Oh</F></OL> I see.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Thank you very much.</A>
+</followup>
+</stage2> 
+<stage3>
+<task>
+<A>For next, we'd like to do a role-play.</A>
+<B><nvs>cough</nvs></B>
+<A><.></.> And I want you to read this card, and after you finish reading, I'll start.</A>
+<B><nvs>laughter</nvs></B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Hi. May I help you?</A>
+<B><F>Hmm</F>. <R>I</R> <..></..> I want to buy <..></..> <SC>bag</SC></B>
+<A><F>Hum</F>.</A>
+<B>the bag. <CO>So</CO>.</B>
+<A>What kind of bags do you want?</A>
+<B><F>Um</F> color is red and <..></..> a little bag.</B>
+<A><F>Uh-huh</F>. Yeah, these are red, little bags.</A>
+<B><nvs>laughter</nvs> And <.></.> <R>more</R> more casually <OL>bag</OL>.</B>
+<A><OL><F>Hmm</F></OL>. O K. <F>Well</F> this is more casual one.</A>
+<B><F>Hm</F> <F>eeh</F> how much is this?</B>
+<A><F>Er</F> this is <F>er</F> eight thousand yen.</A>
+<B><F>Hmm</F>. O K. <SC>I will buy</SC></B>
+<A><F>Uhu</F>.</A>
+<B>I buy this one.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><??></??>. Here you are. <OL>And it's eight thousand yen</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. So this is</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A><OL>the end of</OL> the role-play. Where do you usually <R>sh</R> shop?</A>
+<B>Shop?</B>
+<A><F>Um</F>. <R>Whe</R> where do you usually go shopping?</A>
+<B><F>Mm</F> Harajyuku or Machida.</B>
+<A><F>Hmm</F>. <F>Er</F> what is the difference between Machida and Harajyuku?</A>
+<B>Harajyuku is <..></..> <nvs>laughter</nvs> <F>mm</F> <laughter><SC>anything</SC></laughter> there is anything.</B>
+<A><F>Um</F>.</A>
+<B>But Machida is small town so <..></..> a little,</B>
+<A><F>Um</F>.</A>
+<B>wear.</B>
+<A><F>Oh</F>. I see. When you buy <F>um</F> a dress or something, how do you decide which one to buy?</A>
+<B><F>Hmm</F> <..></..> <F>mm</F> <.></.> <F>eh</F> <.></.> money, <.></.> <F>hm</F> size,</B>
+<A><F>Um</F>.</A>
+<B><F>mm</F> <..></..> and design.</B>
+<A><F>Hm</F>. Money, size and design. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Well</F> <F>er</F> lastly <F>um</F></A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<B><nvs>cough</nvs></B>
+<A>I want you to <F>er</F> look at this picture,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>and</OL> <F>er</F> <nvs>cough</nvs> please make up a story based on these pictures from one to four.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>And</OL> this happened <SC>last time</SC> last week, so I want you to <F>er</F> start with your story, "One day last week,"</A>
+<B><F>Hm</F>? <F>Oh</F> <..></..> <F>uh</F> last week</B>
+<A><F>Uh-huh</F>.</A>
+<B>story.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs> O K. <F>Er</F> one day, <SC>one girl is</SC> a girl <SC>i</SC> and a boy <SC>go to</SC> <F>ah</F> went to the zoo. <SC>And <R>they</R> <.></.> they loo</SC> <F>mm</F> and <SC>first</SC> the first, <F>eh</F> <SC>they watch</SC> they <R>look</R> <.></.> look the lion. <nvs>cough</nvs> <F>Mm</F> <SC>he</SC> <F>eeh</F> <R>the</R> <SC>they</SC> that lion is <R>very</R> <..></..> very wild and very big. <nvs>laughter</nvs> Next is <R>they</R> <nvs>sniff</nvs> they saw the monkeys. Monkey eat banana and <SC>she</SC> a girl <SC>eat ice cream</SC> <F>ah</F> ate ice cream. <R>And</R> <nvs>laughter</nvs> <.></.> and <.></.> <R>all</R> <R>all</R> <SC>all animals</SC> <F>ah</F> they looked all animals <SC>and <.></.> the</SC> and <R>they say</R> they say, "Good-bye". <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>O K, thank you very much</OL>. <F>Um</F> what kind of animals do you like?</A>
+<B>Animals. Dolphin. I like dolphin <OL>is animal</OL>.</B>
+<A><OL>Dolphins</OL>. <F>Ahh</F>. Why do you like dolphins?</A>
+<B><nvs>sigh</nvs> <R>Very</R> <JP>nandaro</JP> very <laughter>beautiful</laughter> and <..></..> <JP>nandaro</JP> <.></.> <R>I</R> I look dolphins <F>er</F> <JP><F>eeto</F></JP> my heart is <JP>nanda</JP> <..></..> relax. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Uum</F></OL>. I see. Where do you usually go with your friends?</A>
+<B><.></.> Go shopping,</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> and <laughter><JP>karaoke</JP></laughter>. <OL><laughter><JP>Karaoke</JP></laughter></OL>.</B>
+<A><OL><JP>Karaoke</JP></OL>. <F>Oh</F>.</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A><OL>What is</OL> good about <JP>karaoke</JP>?</A>
+<B><F>Eh</F>? What?</B>
+<A>What are the good points <OL>of</OL></A>
+<B><OL><F>Ah</F></OL> good point?</B>
+<A><F>hmm</F> <JP>karaoke</JP>?</A>
+<B><F>Hmm</F> <F>eeh</F> <..></..> <R>s</R> <.></.> <SC>stress</SC> <.></.> <F>eh</F> <..></..> <R>very</R> <F>uh</F> <.></.> very fun. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>Yeah. O K. Thank you very much. So this is almost the end of this interview. And what are you going to do after this today?</A>
+<B><F>Er</F> I go to circle activity.</B>
+<A><F>Uh-huh</F>. What is it?</A>
+<B>Soccer.</B>
+<A>Soccer?</A>
+<B><laughter>Soccer</laughter>.</B>
+<A><F>Oh</F> so are you going to play soccer?</A>
+<B>No. I watch. I'm <OL>manager</OL>.</B>
+<A><OL>Manager</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Ah</F></OL>. I see.</A>
+<B><nvs>laugher</nvs></B>
+<A>So I hope you enjoy <OL><F>er</F> your</OL></A>
+<B><OL>Yes</OL>.</B>
+<A>club activity.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

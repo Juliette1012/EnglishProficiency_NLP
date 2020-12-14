@@ -1,0 +1,151 @@
+<interview>
+<filename>file00815.txt</filename>
+
+<head version="1.3">
+<date>2001-11-28</date>
+<sex>female</sex>
+<age>37</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine, thank you. And you?</B>
+<A>I'm good. Thank you very much. So <H pn="B's name">XXX02</H>, where do you live?</A>
+<B>I live near Nakaurawa Station <F>erm</F> <SC>Saitama</SC> in Saitama City.</B>
+<A><F>Hum</F>. Can you tell me more about your town?</A>
+<B><F>Err</F> <F>uum</F> <F>err</F> because <F>uum</F> <R>I</R> <R>I was born</R> <SC>I was born in Tokyo</SC> <F>er</F> I was born in Meguro in Tokyo, so I don't know <F>er</F> much about Saitama City.</B>
+<A><F>Hum</F>. So you moved to Saitama City?</A>
+<B>Yes.</B>
+<A><F>Err</F> I see. So which do you like better, Saitama or Tokyo?</A>
+<B><F>Err</F> I like <laughter>Tokyo better than</laughter> Saitama City.</B>
+<A><F>Hum</F>. Why do you think so?</A>
+<B><F>Uum</F>. <R>Because</R> <F>uum</F> because <SC>it is</SC> <F>uum</F> everything is <R>convenient</R> convenient in Tokyo. <F>Um</F> <F>uum</F>. <R>But</R> <F>uum</F> <F>uum</F> but <R>there are</R> <SC>there are many</SC> <F>er</F> there are much green</B>
+<A><F>Hm</F>.</A>
+<B><F>um</F> in Saitama City. <F>Um</F>. It is very good point.</B>
+<A><F>Hmm</F>. I see.</A>
+<B><F>Hm</F>.</B>
+<A>O K. So do you live with the family?</A>
+<B>Yes. <F>Uum</F> I live with my husband and a seven year daughter,</B>
+<A><F>Hmm</F>.</A>
+<B><F>Er</F> she is in the first grade of elementary school.</B>
+<A><F>Hmm</F>. Can you tell me more about your husband?</A>
+<B><F>Err</F> my husband <F>um</F> is a scholar. <F>Er</F> he is a professor <SC>of the uni</SC> of university. He majors in the economic history of Germany. <F>Er</F> <SC>we lived</SC> <F>er</F> <R>from</R> from June nineteen ninety-seven to the end of March <R>nineteen nine</R> nineteen ninety-eight, <F>er</F> we lived in Frankfurt</B>
+<A><F>Hmm</F>.</A>
+<B>in Germany. <F>Um</F> <F>err</F> <SC>we lived</SC> <F>er</F> there, we lived in the international guest house of <?>Goethe</?> <R>U</R> University. <F>Uum</F>. So we had <F>uum</F> many chances <F>um</F> to talk with many foreigners.</B>
+<A><F>Hmm</F>.</A>
+<B><R>It</R> <F>um</F> it was very good experience.</B>
+<A><F>Um</F> I see. So in your free time,</A>
+<B><F>Hm</F>.</B>
+<A>what do you usually do?</A>
+<B><F>Er</F> now? <OL><F>Er</F></OL>.</B>
+<A><OL>Weekend</OL> or holidays.</A>
+<B><F>Err</F> <F>uum</F>. So <F>um</F> <R>i</R> <SC>if we ha</SC> <F>ah</F> if I have free time, <F>err</F> <R>I</R> I <.></.> eat out for lunch with my friends <SC>or <F>uum</F> re</SC> <F>um</F> <R>or I read</R> or I <SC>read a book</SC> <F>ah</F> read <F>er</F> books at home or <F>uum</F> <F>um</F> <R>I</R> I like English very much.</B>
+<A><F>Hm</F>.</A>
+<B>So <R>I study</R> <nvs>laughter</nvs> <laughter>I study English at home</laughter>.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A>You're so diligent. <nvs>laughter</nvs></A>
+</stage1>
+<stage2>
+<task>
+<A>The first thing for today is, please look at this picture and describe it for me.</A>
+<B><F>Uum</F> <F>uum</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>Maybe <F>err</F> <R>this is</R> <F>err</F> <SC>this is res</SC> this is a restaurant. <F>Er</F> <SC>there are</SC> <F>er</F> <R>there is a couple</R> <R>there is a couple</R> <F>err</F> there is a couple <F>err</F> <SC>eating a</SC> eating dinner. <F>Er</F> now, <F>err</F> <.></.> <SC>the husband <F>uum</F> <R>tastes</R> tastes a wine</SC> <.></.> <F>hm</F> he's now tasting the wine. <F>Uum</F>. <nvs>sniff</nvs> <SC>Maybe he say</SC> <R>maybe</R> <F>uum</F> maybe he said, <F>err</F> "It's very good.". <F>Hm</F>. And <.></.> <SC>behind the couples</SC> behind the couple, <.></.> a lady <F>ee</F> plays the piano. And other two couples are eating a dinner. <.></.></B>
+<A>All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you sometimes eat out with your family?</A>
+<B>Yes, sometimes.</B>
+<A>So can you compare this picture to your favorite restaurant?</A>
+<B><F>Uum</F>. I think <F>err</F> <.></.> this restaurant is more gorgeous <nvs>laughter</nvs> <R>than</R> than the restaurant <F>er</F> we often go to. <.></.> <F>Uum</F> <SC>we</SC> <F>uum</F> <R>they are well</R> <F>er</F> they are <F>uum</F> well-dressed. But <F>uum</F> we usually go to casual restaurant <F>er</F> in ordinary clothes. <nvs>laughter</nvs> <F>Um</F>. And we <F>uum</F> seldom drink alcohol.</B>
+<A><F>Hum</F>. I see. Do you have any favorite restaurant?</A>
+<B><F>Uum</F>. <.></.> Yes.</B>
+<A><F>Hm</F>.</A>
+<B>Yes. <OL><F>Hm</F></OL>.</B>
+<A><OL>Can you</OL> describe it?</A>
+<B><F>Err</F> <SC>the favorite restaurant</SC> <F>err</F> <SC>the</SC> my favorite restaurant is a French restaurant <F>er</F> in Omotesando. <F>Um</F>. <F>Er</F> the name is a Les <??></??>. <F>Err</F> the price is reasonable <SC>but very</SC> <F>um</F> but the restaurant serves very <F>err</F> <R>elegant and</R> elegant <SC>and cooks</SC> <F>er</F> dishes. <F>Uum</F> I like it very much. <F>Err</F> maybe <F>er</F> <R>many</R> <F>er</F> many women <F>er</F> <R>like</R> <R>like</R> <F>er</F> like the dishes. <.></.></B>
+<A>I see. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I'm going to give you this role-play card. So please read it to yourself and when you are ready, I want to do a role-play with you.</A>
+<B><F>Um</F>.</B>
+<A><.></.> Are you ready?</A>
+<B><F>Um</F> hold on, <OL>please</OL>.</B>
+<A><OL>O K</OL>.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>How can I help you, ma'am?</A>
+<B><F>Err</F> <SC>I'd like to <F>err</F> go to the</SC> <F>err</F> <F>ah</F> I'd like to go to New York <F>uu</F> <F>uum</F> <.></.> <SC>as</SC> <F>uum</F> <SC>in the most</SC> <F>ee</F> in the earliest way.</B>
+<A>O K. We have express train to New York.</A>
+<B><F>Uhu</F>. <F>Err</F> how much does it cost?</B>
+<A>One hundred dollars.</A>
+<B>One hundred dollars. <F>Um</F> <R>when it</R> when <?>it</?> start?</B>
+<A>It will leave in ten minutes.</A>
+<B>Ten minutes. <F>Uum</F>. <F>Uum</F> <F>uum</F> <R>where</R> <F>uum</F> <.></.> <R>where</R> <F>uum</F> <SC>where should I <F>er</F> take the <F>uum</F> lane</SC> <SC>where <R>to</R> to take to</SC> <F>er</F> <R>where</R> <SC>where should I take</SC> where lane <SC>to got</SC> to get on the train?</B>
+<A>O K. Platform number four.</A>
+<B>Platform number four? O K. <F>Um</F>. <F>Err</F> I'll have <??></??>. <F>Hmm</F>. <OL><??></??></OL>.</B>
+<A><OL><??></??></OL>. All right. One ticket?</A>
+<B>Yes.</B>
+<A>All right. Thank you very much. Here you are. Have a nice trip.</A>
+<B>Thank you.</B>
+<A>O K. <R>Thank</R> thank you, <H pn="B's name">XXX02</H>. That's the end of role-play.</A>
+</task>
+<followup>
+<A>You said you stayed in Germany.</A>
+<B>Yes,</B>
+<A>So can you tell me more about the life in Germany?</A>
+<B><F>Uum</F>. <.></.> <F>Um</F> <SC>we lived in the <F>ah</F> <R>s</R> <??></??></SC> I live in the guest house of the university. <F>Err</F> many <F>ee</F> people from foreign countries lived here. <F>Uum</F> <.></.> <F>err</F> <SC>my neighbor were</SC> <SC>my neighbors were <F>err</F> <F>er</F> from the</SC> <F>um</F> <R>my</R> my neighbors <F>um</F> <R>were</R> were the people from the United States and India, so <F>uum</F> <R>we</R> <F>um</F> <SC>we</SC> <F>um</F> particular with <R>In</R> <F>um</F> <R>In</R> Indian, <F>err</F> we share the kitchen.</B>
+<A><F>Uum</F>.</A>
+<B>And <F>uum</F> the Indian wife and I <F>uum</F> cooked everyday at the kitchen, so <SC>she learn</SC> <F>ah</F> she teach me <SC>many <.></.> kind</SC> many kinds of Indian dishes, so <F>er</F> it was very interesting experience. So <F>err</F> <F>uum</F> <F>um</F> <R>before</R> <F>uum</F> before the <.></.> Indian <F>uum</F> scholar couple <F>uum</F> <.></.> <R>go back to</R> go back to their country, <F>err</F> <R>we had a party</R> we had a party. So <F>uum</F> <R>that was a</R> <F>uum</F> <SC>that was a <F>er</F> party <F>uum</F> which <F>uum</F> <R>we</R> we bring own</SC> <.></.> <F>er</F> sorry, <F>er</F> that was a party <F>um</F> which <F>um</F> we cooked <F>um</F> ourselves. <F>Um</F>. <.></.> <F>Hm</F>. And I cooked tempura and <F>um</F> the couple from the United States <F>er</F> cooked spaghetti and salad and the Indian couple cooked <F>uum</F> tandoori chicken <R>and</R> <F>uum</F> and <F>er</F> <F>er</F> <SC>vegetable dishes and</SC> <F>ah</F> vegetable <R>cu</R> <R>curry</R> curry <R>and</R> <F>uum</F> and <F>er</F> rice. So <F>uum</F> they were <F>uum</F> all <F>hmm</F> <.></.> delicious and we enjoyed it very much.</B>
+<A><F>Er</F> I see. Sounds like a nice party.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I'll show you another picture. This is a picture sequence. Please make up one short story using these pictures from one to six. And this happened before. So please start "One day last week".</A>
+<B><F>Uum</F>. <nvs>sniff</nvs> <.></.> <F>Uum</F>. One day last week, <F>er</F> <F>uum</F> <SC>a young couple <F>err</F> <.></.> wa</SC> <F>uum</F> a young couple was walking <F>um</F> in the street <F>um</F> <.></.> on the rainy day. <F>Uum</F>. <.></.> <F>Err</F>. <.></.> "Meow". <F>Uum</F>. <.></.> <F>Uh</F> <F>eh</F> <F>er</F> <R>a cat's cry</R> a cat's cry <SC>come</SC> came from a box. So <F>uum</F> <R>they</R> they found it. <F>Um</F>. <R>And she</R> and she <F>uum</F> pull out the cat from the box. <F>Hm</F>. <SC>And she <F>um</F> <SC>s</SC> in</SC> and <R>she said to him</R> she said to him, <F>um</F> "<R>We</R> <..></..> <R>we</R> <R>we</R> <R>we take</R> we take this <F>er</F> cat <R>to</R> <.></.> to our house. May I?". <F>Uum</F> <F>er</F> he said, <F>uum</F> <..></..> "<R>I don't like</R> <SC>I don't like a</SC> I don't like cats. But <F>uum</F> O K.". <R>So they</R> <.></.> <R>so they came home with</R> <F>er</F> so they came home <R>with</R> with the cat.</B>
+<A><F>Um</F>. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Have you ever had pets in your real life?</A>
+<B><F>Er</F> no, I've never <OL><??></??></OL>.</B>
+<A><OL><F>Um</F></OL>. What do you think <F>er</F> about <F>er</F> keeping a pet?</A>
+<B><F>Uum</F>. I'm sorry, <F>err</F> I don't like animals.</B>
+<A><F>Um</F>.</A>
+<B>So <R>I</R> <R>I've never</R> I've never thought of <SC>keeping cat</SC> keeping <SC>a dog or</SC> <R>do</R> dog or cat.</B>
+<A>All right. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost over. So do you have any plan after this interview?</A>
+<B><F>Err</F> <.></.> <F>err</F> <R>I'd like to</R> <F>uum</F> I'd like to have a cup of tea at Rihga Royal Hotel. <nvs>laughter</nvs></B>
+<A>Why Rihga Royal Hotel? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uum</F> <F>er</F> because <F>uum</F> I feel <F>uum</F> relax and <??></??> <F>um</F> I feel gorgeous. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. So enjoy your coffee at the hotel. Thank you very much <OL>for coming in today</OL>.</A>
+<B><OL><??></??></OL></B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

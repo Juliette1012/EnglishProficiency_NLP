@@ -1,0 +1,173 @@
+<interview>
+<filename>file00800.txt</filename>
+
+<head version="1.3">
+<date>2001-11-30</date>
+<sex>female</sex>
+<age>37</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>1</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>For the record, can I have your name again?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>How are you today?</A>
+<B>I'm fine, thank you. <OL>And you</OL>?</B>
+<A><OL>O K</OL>. I'm pretty good. So <H pn="B's name">XXX01</H>, where do you live?</A>
+<B><F>Ur</F> I live in <H pn="others1">XXX02</H>.</B>
+<A><F>Oh</F> <OL><nvs>laughter</nvs></OL>. Can you tell me about your neighborhood?</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uhm</F>. It's in <H pn="others2">XXX03</H> Prefecture. And <H pn="others1">XXX02</H> is next to <H pn="others3">XXX04</H> City. <.></.> So it took about two hours <OL><??></??></OL>.</B>
+<A><OL><F>Hum</F></OL>. <F>Wow</F>. So what's <F>um</F> nice thing about living in <H pn="others1">XXX02</H>?</A>
+<B><F>Oh</F> <SC>the</SC> it is called <H pn="others4">XXX05</H> area so there is pretty scene in <H pn="others5">XXX06</H>.</B>
+<A><F>Uhm</F>. What's <H pn="others5">XXX06</H> like?</A>
+<B><nvs>laughter</nvs> It's like a small island. <F>Um</F>. But it's not <F>uh</F> actual island. It has a <.></.> lighthouse.</B>
+<A><F>Huum</F>. O K. <SC>For</SC> do you live there with your family?</A>
+<B>No. <..></..>. Right now I live alone.</B>
+<A><F>Mm</F>. So where are you from originally?</A>
+<B>From <H pn="others1">XXX02</H>. <nvs>laughter</nvs></B>
+<A><F>Oh</F> I see.</A>
+<B>Yes.</B>
+<A>O K. So why have you decided to come over here? It's a long <laughter>way</laughter>. <nvs>laughter</nvs></A>
+<B><F>Ahh</F>. It's a long story. But now I'm studying at graduate school, <H pn="school name1">XXX07</H>. And I wanted to study more. And I <?>got</?> to see other students in this university. And I wanted to listen to <F>ur</F> Mister <H pn="others6">XXX08</H>'s lectures. So I sometimes come here.</B>
+<A><F>Mm</F>. Can you tell me about Professor <H pn="others6">XXX08</H>?</A>
+<B><F>Oh</F> <F>ah</F>. Actually <R>I</R> I don't know so much about him, <SC>but</SC> yeah, but I always saying that his talking is very nice and interesting, and I can think a lot when I listen to him.</B>
+<A><F>Huum</F>. O K. All right. So <H pn="B's name">XXX01</H>, <F>ur</F> in your free time, what do you usually do?</A>
+<B><F>Huum</F> <nvs>laughter</nvs>. Actually I don't have so much free time now, but I'd like to <laughter>sleep if I'm free</laughter>.</B>
+<A><nvs>laughter</nvs> Why are you so busy?</A>
+<B>So now I have to write my master thesis. And right now I have a work. So I <?>was</?> very busy.</B>
+<A><F>Hum</F>. What do you do?</A>
+<B><F>Ah</F> I'm a teacher of English at junior high school.</B>
+<A>Do you still teach?</A>
+<B><F>Um</F>. <R>Not</R> not right now, but from next April, I have to go back.</B>
+<A><F>Uum</F> I see. What are some difficulties of teaching English?</A>
+<B><F>Uum</F>. It's <nvs>difficult question</nvs>. But <F>uum</F> not just teaching English, but <F>um</F> to teach junior high school students is very difficult. <CO>Sometime they don't listen to me</CO>.</B>
+<A><F>Huum</F>. So what do you do if they don't listen to you?</A>
+<B><F>Uum</F> I talk to <laughter>them</laughter>. Yeah. <SC>I</SC> yes, we have to talk and talk. Sometimes we have to wait. <nvs>laughter</nvs></B>
+<A><F>Wow</F>. So how do you think you can use the knowledge you are learning now for your future?</A>
+<B><F>Uum</F> I'm not sure, <R>but</R> but I think <SC>it was</SC> it is a good chance to <F>um</F> <F>um</F> have some time <SC>not teach by</SC> not teaching, but studying. And I can see many things <R>not</R> not only being in <F>ur</F> school. Yes. I can come here <..></..> to <?>knowledge</?> <R>my</R> myself.</B>
+<A><F>Uhm</F>.</A>
+<B><??></??> It's good.</B>
+<A><F>Um</F>. O K. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>So first thing today, please look at this picture. And please describe this picture.</A>
+<B><F>Um</F>. <R>A</R> <R>a</R> anything's <laughter>O K</laughter>?</B>
+<A><F>Uh-huh</F>.</A>
+<B>O K. So <F>umm</F> this lady has a new computer. <R>And</R> <.></.> and she has a cat and dog. She likes pets very much. And <??></??>. <F>Um</F> <.></.> <F>ehh</F>. And it is June. And <SC>she likes to</SC> <R>sh</R> she likes her room very much. She can feel very comfortable in here. She can listen to music, or she can use her computer or typewriter maybe. And she can talk with a cat or dog. <F>Err</F> <??></??>.</B>
+<A>O K.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>All right. All right, <H pn="B's name">XXX01</H>. Can you compare her room with your own room?</A>
+<B><laughter><F>Oh</F></laughter>. Yes. <F>Um</F>. It is a little similar because I have a desk and a bed and <F>uh</F> stereo and computer. <R>And</R> and I used to have a cat, not now. <SC>And</SC> but my room is more messy <nvs>laughter</nvs> <laughter>than this</laughter>. And my room has more books and papers.</B>
+<A>Why is your room more messy?</A>
+<B><nvs>laughter</nvs> <R>Because</R> <nvs>laughter</nvs> because I don't clean so. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> You don't like cleaning?</A>
+<B><F>Mm</F>. Not really.</B>
+<A><R>Wh</R> <R>wh</R> what about cleaning is so bad?</A>
+<B><F>Uh</F>. Pardon?</B>
+<A>What about cleaning don't you like?</A>
+<B><F>Uhm</F>. <F>Well</F> <F>uh</F> <R>I</R> <R>I</R> I like <F>um</F> little more comfortable room, but <F>um</F> <.></.> <F>um</F> I don't know why I don't like. <R>But</R> but I think I have to do this thing, not cleaning my home so.</B>
+<A>O K. <OL><nvs>laughter</nvs></OL></A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. So next, let's try a role-play. <F>Mm</F>. Please read this card, and when you're ready, I will begin.</A>
+<ctxt>The examinee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>Yes.</B>
+<A>O K. Good afternoon, ma'am. How may I help you?</A>
+<B>Yes, I bought ticket for train, but <F>um</F> actually <R>I</R> I was late, and I couldn't <SC>get</SC> catch the train so could you please <nvs>laughter</nvs> <F>erm</F> change this ticket to another train?</B>
+<A><F>Ah</F> I'm sorry, ma'am. It's against our policy.</A>
+<B>Yeah, <SC>I</SC> yeah, I know that. But <R>the</R> the other train was late, and I couldn't get this train. So it was your <laughter>fault</laughter>.</B>
+<A>But you should have expected that.</A>
+<B><F>Oh</F>. But I <?>heard</?> there was some accident. And <R>I</R> <F>I</F> I really wanted to <F>mm</F> get the train. But I couldn't, so <F>um</F> <R>I</R> I want another ticket.</B>
+<A><F>Ahh</F>. Then why don't you buy a new one?</A>
+<B><F>Oh</F> I have to pay again? But I don't have money. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Um</F>. <..></..> You know, but <R>I</R> <R>I</R> <R>I</R> <SC>I was late</SC> <R>I</R> I know I was late, <R>but</R> but the train was late so.</B>
+<A>What kind of accident had occurred?</A>
+<B>I don't know, but I heard there're <SC>some</SC> <F>um</F> <SC>it's the</SC> that some trouble about signal or something, I'm not sure.</B>
+<A><F>Hum</F> I haven't heard anything about the accident.</A>
+<B><F>Oh</F>. Really?</B>
+<A><F>Hum</F>.</A>
+<B><SC>But <R>i</R> it</SC> <nvs>laughter</nvs> <JP><F>ee</F></JP> but <SC>the</SC> someone says <R>a</R> <R>a</R> actually I don't know so much about the accident so much, <R>but</R> but someone said so. <CO>So I <??></??></CO>.</B>
+<A>O K. All right. I'll talk to my manager. Can you wait?</A>
+<B>Sure.</B>
+<A>O K. All right. Thank you. This is the end of role-play.</A>
+</task>
+<followup>
+<A>So do you like traveling by train?</A>
+<B><F>Ah</F>. Yes, sometimes.</B>
+<A><F>Hum</F>. Do you remember last time you took a train to go somewhere?</A>
+<B><F>Uhhh</F> <F>uh</F> I went to Kyoto <??></??>.</B>
+<A>Can you tell me about the trip to Kyoto?</A>
+<B><F>Um</F> I went there by <JP>shinkansen</JP>, and <SC?>I will come</SC?> <SC>I</SC> we had a meeting in Kyoto. So <SC?>I really</SC?> <F>ur</F> but we were in <?>being</?> building about four day. But next day, <SC>I</SC> we looked around. And I went to <?>I don't know</?>, <nvs>laughter</nvs> there. and <SC>I eat</SC> we ate some nice food.</B>
+<A><F>Hum</F>. What are some good things about taking the <JP>shinkansen</JP>?</A>
+<B><F>Uhm</F> <.></.> I can be relaxed, and <SC>it was</SC> it is fast. <F>Hum</F>. <.></.> So <R>I</R> <SC>I like</SC> I prefer taking trains to <SC>by <??></??></SC> by airplane.</B>
+<A><F>Hum</F>. Why is that?</A>
+<B><F>Um</F> I can see the views. <..></..></B>
+<A><F>Hum</F>. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So lastly, <F>uum</F> please look at this picture. There are six pictures from one to six. And please make up a story based on these pictures. And this happened before so please start you story with "One day last week".</A>
+<ctxt>The examinee is looking at the picture.</ctxt>
+<A>O K?</A>
+<B>O K. Yes. <.></.> No. <nvs>laughter</nvs> O K. One day last week, she went to department store to <R>get her</R> <.></.> <nvs>laughter</nvs> get her father's birthday present. And <R>sh</R> she decided to buy a necktie for him. And she asked <F>em</F> to wrap it. And <R>the</R> the necktie was five thousand yen. <R>And</R> <.></.> and then she happened to see the final sale, and <R>she wanted</R> she wanted her own shoes. And she bought one. And next, she <laughter>saw five percent</laughter> off sale so she decided to buy some <F>mm</F> blouse or some clothes and she was very satisfied with her shopping. And she went out of department store.</B>
+</task>
+<followup>
+<A>O K. All right. <H pn="B's name">XXX01</H>, so <SC>where</SC> when is the last time you bought something for somebody?</A>
+<B><F>Uum</F>. <.></.> Let's see. Somebody. <F>Ehhh</F> I don't remember, but yes, I gave <?>to</?> my boyfriend. Yeah.</B>
+<A>O K. All right. So when you buy something for yourself like clothes, what kind of things do you check?</A>
+<B><F>Uh</F>. <SC>Price or</SC> <.></.> clothes?</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Urr</F>. <?>Things like</?> <F>mm</F> <.></.> if it suits me or not. <..></..></B>
+<A><F>Hum</F>. How do you tell whether it suits you or not?</A>
+<B><F>Uum</F> I check with mirror, or I ask someone <laughter>there</laughter>. Yeah. <SC>I</SC> <R>I'm</R> I'm very indecisive person so it is very hard to decide <nvs>laughter</nvs> sometime.</B>
+<A><F>Hum</F>. O K. All right. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We have come to almost the end of the interview. O K, so are you going home after this interview?</A>
+<B>Yeah. <F>Ur</F>. Yes. But <R>a</R> <R>a</R> <R>I</R> <R>I</R> I may go to the lecture.</B>
+<A><F>Oh</F>. You have lecture today?</A>
+<B><F>Mm</F>.</B>
+<A><F>Hum</F>. So what time is the lecture starting?</A>
+<B>That's from four thirty.</B>
+<A>Four thirty. I see. So how many times a week do you have a lecture here?</A>
+<B><F>Uh</F>. Just one</B>
+<A><F>Uh</F>. <OL>Just one</OL>?</A>
+<B><OL><?>I take</?></OL>.</B>
+<A><F>Mm</F>. So the rest of the week, do you go to <H pn="school name1">XXX07</H>?</A>
+<B>Yes sometimes, but right now I don't have so much <.></.> classes.</B>
+<A><F>Hum</F>.</A>
+<B>I don't have to go so often.</B>
+<A>So you mainly focus on writing masters thesis.</A>
+<B>I have to. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. So when do you expect to graduate?</A>
+<B><F>Um</F> I have to finish writing by January twentieth or something.</B>
+<A>So hopefully next spring, you will <OL>graduate</OL>?</A>
+<B><OL><?>I'm sure</?></OL>. Yeah.</B>
+<A><F>Hum</F> I see. All right. Good luck <laughter>with</laughter> your thesis.</A>
+<B>Thank you.</B>
+<A>Thank you very much. This is the end of the interview.</A>
+<B>O K. Thank you very much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

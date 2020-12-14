@@ -1,0 +1,272 @@
+<interview>
+<filename>file01200.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. Nice to meet you.</A>
+<B>Nice to meet <laughter>you</laughter>.</B>
+<A>How are you today?</A>
+<B><F>Erm</F> I'm fine, thank you. And you?</B>
+<A>Yeah. Great.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>So where are you from?</A>
+<B><F>Um</F> <F>um</F> I'm from <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F> <H pn="others1">XXX03</H>.</A>
+<B>Yes.</B>
+<A><F>Um</F> please tell me about your area.</A>
+<B><F>Uum</F> <F>uum</F> <SC><H pn="others1">XXX03</H></B>
+<A><F>Um</F>.</A>
+<B>is</SC> it takes <F>uum</F> one hour</B>
+<A><F>Um</F>.</A>
+<B><F>um</F> <R>to</R> to come here.</B>
+<A><F>Um</F>.</A>
+<B>And <F>um</F> my hometown is <F>um</F> <H pn="others2">XXX04</H> City</B>
+<A><F>Uhu</F>.</A>
+<B>is near <H pn="others3">XXX05</H> City</B>
+<A><F>Err</F>.</A>
+<B><F>mm</F> by <F>mm</F> <H pn="others4">XXX06</H> Line.</B>
+<A><F>Um</F> I see.</A>
+<B><F>Hm</F>.</B>
+<A><F>Er</F> do you live with your family?</A>
+<B><F>Err</F> <F>er</F> <F>um</F> <SC>I'm</SC> <F>er</F> now,</B>
+<A><F>Hm</F>.</A>
+<B>I'm living <H pn="others5">XXX07</H>, near here.</B>
+<A><F>Er</F>.</A>
+<B><F>Uum</F> <R>my family</R></B>
+<A><F>Um</F>.</A>
+<B><F>er</F> my family is in <H pn="others1">XXX03</H> and my hometown is <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F> I <OL>see</OL>.</A>
+<B><OL><?>Yeah</?></OL>.</B>
+<A>Why do you live here?</A>
+<B><F>Err</F> <nvs>laughter</nvs> <F>uum</F> <R>I'm</R> <F>uum</F> <F>uum</F> I'm not good at <F>uum</F> getting up early.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Uum</F> so <laughter><F>uum</F></laughter> <F>uum</F> <F>uum</F> if <R>I</R> I'm live in <H pn="others1">XXX03</H>,</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> everyday I'm <R>late</R> late <F>uum</F> on class. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL>. So you are a student?</A>
+<B>Yes.</B>
+<A>Tell me about your campus life.</A>
+<B><F>Er</F> <F>uum</F> I'm <H pn="school name1">XXX08</H> student. <F>Uum</F> <SC>my</SC> <F>er</F> I belong to <F>uum</F> <SC>commerce</SC> Department of Commerce.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> so <F>uum</F> <F>mm</F> <F>hm</F> <H pn="school name1">XXX08</H> is <F>um</F> famous university.</B>
+<A><F>Um</F>.</A>
+<B>Because <F>uum</F> many graduates from <H pn="school name1">XXX08</H></B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> <.></.> <F>uum</F> work <F>uum</F> many, many department.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>.</B>
+<A>I see. O K. Do you have any hobbies?</A>
+<B><F>Uum</F> I like <F>um</F> playing tennis.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> <R>every</R> <F>um</F> every Wednesday,</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> after playing tennis,</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> I come to <F>hm</F> English lesson.</B>
+<A><F>Err</F> I <OL>see</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>What do you usually talk about with your <F>er</F> teammates?</A>
+<B>Teammates?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Err</F> <F>er</F> <F>um</F> <R>I</R> <F>uum</F> I play <F>uum</F> one of classes,</B>
+<A><F>Um</F>.</A>
+<B><F>um</F> so <F>uum</F> I have no <SC>tea</SC> <F>uum</F> <SC>play</SC> <F>err</F> pair. <nvs>laughter</nvs></B>
+<A><F>Hum</F>.</A>
+<B><F>Uum</F> so <F>uum</F> I can't <F>um</F> play <F>um</F> tennis game.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <laughter>now</laughter>.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> <laughter>now</laughter> I practice</B>
+<A><F>Um</F>.</A>
+<B>playing tennis. So <SC>I have</SC> I don't have <F>uum</F> tennis game.</B>
+<A><F>Oh</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see, O K</OL>. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, let me show you a picture. Would you describe it for me?</A>
+<B>Yeah. <F>Um</F> <F>hm</F> <R>one woman</R> <F>uum</F> one woman is <R>in</R> in a room with a dog and a cat. <F>Uum</F> <F>uum</F> <F>mm</F> the cat is <F>uum</F> on the bed. <F>Uum</F> and the dog is near the bed. <F>Uum</F> <F>uum</F> a woman <R>sitting</R> <F>mm</F> sitting in the pink chair. <F>Uum</F> there is <F>uum</F> a personal computer and typewriter <SC>is</SC> <F>er</F> in the room. <F>Uum</F> <F>uum</F> <SC>green</SC> a green clock is on the wall. <F>Uum</F> and the door is open. <F>Uum</F>.</B>
+<A><F>Um</F>. I see. Thank you.</A>
+</task>
+<followup>
+<A><F>Er</F> would you compare this room to your room?</A>
+<B><F>Uum</F> <nvs>laughter</nvs> <F>uum</F> <SC>my room</SC> <F>er</F> <F>er</F> <SC>this room</SC> <F>er</F> with this room <F>um</F> I compare?</B>
+<A><F>Uhu</F>.</A>
+<B>O K.</B>
+<A>Are there any differences or similarities?</A>
+<B><F>Err</F> <F>um</F> <R>my</R> <F>um</F> <SC>my room is not</SC> <F>uum</F> <F>er</F> my room is different from this room.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <SC>my room</SC> <F>er</F> <R>I</R> I don't have the bed and <F>um</F> personal computer and <F>uum</F> typewriter. And <SC>I <SC>ha</SC> don't have</SC> <F>er</F> I have no pets. <F>Uum</F> <F>hm</F> and <R>I don't have</R> <F>uum</F> I don't have telephone. <F>Uum</F> I have only <F>uum</F> cellular phone.</B>
+<A><F>Um</F>.</A>
+<B><F>Hm</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role-play. O K. Would you read it to yourself? And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<A>Ready?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>May I</OL> help you?</A>
+<B><F>Uum</F> <F>uum</F> I want to go to New York</B>
+<A><F>Uhu</F>.</A>
+<B>as soon as possible. <F>Um</F> so <F>uum</F> <F>um</F> <SC>will you</SC> <.></.> <F>um</F> <F>er</F> <R>which will</R> <F>um</F> which will you <F>uum</F> buy the tickets to New York? <..></..></B>
+<A><F>Well</F> we have three kinds of trains.</A>
+<B><..></..> Pardon?</B>
+<A>We have three kinds of trains.</A>
+<B><F>Hm</F>. <F>Err</F> <F>uum</F> <F>uum</F> <R>which</R> which kinds of</B>
+<A><F>Hm</F>.</A>
+<B>the train <F>uum</F> <R>can I</R> can I go to New York as soon as possible?</B>
+<A><SC>That</SC> it is <F>err</F> <R>su</R> super express.</A>
+<B>Super?</B>
+<A>Express.</A>
+<B>Express?</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Err</F> where <F>um</F> can I buy the ticket, <F>uum</F> super express?</B>
+<A>Right here.</A>
+<B>Here?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> <F>uum</F> how much?</B>
+<A><F>Err</F> one hundred dollars.</A>
+<B>One hundred dollars.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Hm</F>. <F>Um</F> <F>uum</F> where <F>uum</F> do I change trains?</B>
+<A><F>Er</F> it's a direct.</A>
+<B>Direct?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> <..></..> <F>um</F> <R>how long</R> <F>uum</F> how long <F>um</F> will I ride on train?</B>
+<A>About twenty minutes.</A>
+<B>Twenty minutes.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Hm</F>. <..></..></B>
+<A>So is super express O K?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A>O K. Then <SC>hun</SC> <F>er</F> one hundred <F>err</F> fifty dollars. Did I say one hundred fifty dollars?</A>
+<B><F>Um</F>.</B>
+<A>O K. Here is your ticket. O K. Thank you very much. Have a nice day.</A>
+</task>
+<followup>
+<A>This is <SC>end</SC> the end of the role-play. <F>Er</F> have you ever been abroad?</A>
+<B>Abroad?</B>
+<A>Have you ever been abroad?</A>
+<B><F>Er</F> yes. <F>Uum</F> I have been to <F>uum</F> France,</B>
+<A><F>Hum</F>.</A>
+<B><F>uum</F> England, <F>uum</F> Australia,</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> Korea,</B>
+<A><F>Um</F>.</A>
+<B>and Singapore.</B>
+<A><F>Wow</F>.</A>
+<B><F>Uum</F>.</B>
+<A>Which place did you like best?</A>
+<B><F>Err</F> Singapore. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hm</F></OL>. Why?</A>
+<B><F>Err</F> <F>uum</F> <SC>I have</SC> <F>er</F> I went to Singapore <F>uum</F> <F>um</F> <SC>February</SC> <F>er</F> this February.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F> <SC>this February is</SC> <F>er</F> <F>er</F> <SC>I</SC> <F>er</F> now, I'm twenty years old.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <SC>twenty years</SC> <F>er</F> twentieth birthday <F>uum</F> <R>I</R> I'm in Singapore.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F> so my friends <F>uum</F> <F>uum</F> celebrate me. <laughter>So</laughter> <F>uum</F> I was very, very happy.</B>
+<A><F>Hum</F>.</A>
+<B><F>Uum</F> <laughter><R>so</R></laughter> so <F>um</F> I like <laughter>Singapore</laughter>.</B>
+<A>How did your friends celebrate?</A>
+<B><F>Er</F> <F>um</F> <F>um</F> my friend <F>um</F> gave me the present.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <F>uum</F> one necklace.</B>
+<A><F>Err</F>.</A>
+<B><F>Um</F>.</B>
+<A>I see.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Wow</F> sounds good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. <F>Er</F> now, let me show you another picture. Could you <F>er</F> make up a story based on one to six? And it happened before. So I want you to start your story with "One day last week". Go ahead.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Um</F> a girl and <.></.> a boy</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> walked the street. And <F>uum</F> <R>it was rainy</R> it was rainy.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <SC>one b</SC> <SC>one</SC> a boy <F>uum</F> <F>uum</F> <R>find</R> <F>uum</F> <SC>find cat</SC> <F>um</F> <SC>find ca</SC> find a cat. <F>Uum</F> <F>uum</F> and <F>uum</F> a girl <SC>pick up</SC> <F>er</F> pick the cat up. <F>Uum</F> and <SC>the girl <F>uum</F> want</SC> the girl said to the boy, <F>uum</F> "<R>I want</R> I want to take the cat to our home.". <F>Uum</F> <R>the boy</R> <F>um</F> the boy didn't want to take. And <F>uum</F> <R>the girl</R> <F>uum</F> <R>the girl</R> <F>uum</F> <.></.> <F>uum</F> the girl <R>hugged</R> hugged the cat. And the boy <F>uum</F> was very confused. <F>Uum</F> however, <F>uum</F> the boy <F>uum</F> allowed the girl to take the cat. <F>Uum</F> that's all.</B>
+<A><F>Um</F>. Thank you.</A>
+</task>
+<followup>
+<A><F>Er</F> on rainy days, what do you usually do?</A>
+<B><F>Um</F> <F>ee</F>?</B>
+<A>On rainy <OL>days</OL>.</A>
+<B><OL><F>Uh</F></OL> rainy day?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. <nvs>laughter</nvs></B>
+<A>You cannot play tennis. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Err</F> <F>um</F> <R>I</R> I can't play tennis <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>so <F>uum</F> <SC>I</SC> <F>um</F> <F>um</F> <R>one</R> one week ago,</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> Wednesday,</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> <R>it</R> it was rainy,</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> typhoon.</B>
+<A>Yeah. <F>Uhu</F>.</A>
+<B>So <F>uum</F> <R>I</R> <R>I went</R> I went back home</B>
+<A><F>Um</F>.</A>
+<B>and <F>uum</F> <R>I</R> I wrote the report.</B>
+<A><F>Er</F>.</A>
+<B><F>Um</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>I see</laughter></OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. We are almost at the end of the interview. <F>Er</F> what are you going to do after this?</A>
+<B>After this <F>err</F> <F>uum</F> <R>I</R> <nvs>laughter</nvs> <R>I will</R> <F>er</F> I will write the report</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><R>in</R></OL> in Chinese.</B>
+<A><CO>So you have</CO>. <F>Oh</F> Chinese?</A>
+<B>Yes. <OL>Yes</OL>.</B>
+<A><OL><F>Err</F></OL>.</A>
+<B>So <F>uum</F> <F>uum</F> <R>today</R></B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> today's afternoon,</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> I wrote the report in Chinese.</B>
+<A><F>Wow</F>.</A>
+<B><F>Um</F> so <F>um</F> <laughter><R>I</R></laughter> I'm confused <F>um</F> in Chinese and in English. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. Which one is more difficult to you?</A>
+<B><F>Err</F> <F>er</F> English.</B>
+<A>It's more difficult?</A>
+<B>Yes.</B>
+<A><F>Er</F> really?</A>
+<B><F>Um</F>.</B>
+<A><F>Err</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see, O K</OL>. <F>Well</F> good luck on writting your report.</A>
+<B>O K. <OL>Thank you</OL>.</B>
+<A><OL><F>Well</F> thank you</OL> very much for coming today.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

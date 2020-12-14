@@ -1,0 +1,194 @@
+<interview>
+<filename>E_file00273.txt</filename>
+
+<head version="1.3">
+<date>2001-01-24</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC>860</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><H pn="A's name">XXX01</H>.</B>
+<A>May I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, sure.</B>
+<A>All right. So, how are you today?</A>
+<B>Fine, thank you, and you?</B>
+<A>I'm good, thank you. O K. <F>Em</F>. Where do you live?</A>
+<B><F>Mm</F>. <H pn="others1">XXX03</H>. <F>Er</F>. <prp_lxc1 odr="1" crr="Near">Nearby</prp_lxc1> <H pn="others2">XXX04</H>, you know, <H pn="others3">XXX05</H>.</B>
+<A><F>Ah</F>. <H pn="others3">XXX05</H>?</A>
+<B>Yeah. <prp_lxc1 odr="1" crr="Near">Nearby</prp_lxc1> <H pn="others3">XXX05</H>.</B>
+<A>I've heard of <H pn="others3">XXX05</H>, but I've never been there.</A>
+<B>Fireworks in the summer time. <nvs>laughter</nvs></B>
+<A><F>Oh</F> I see. But, what kind of place is it?</A>
+<B>That's <n_cnt odr="1" crr="entertainment">a <F>eh</F> entertainment</n_cnt> <R>for</R> for kids. <SC>Tr</SC> Playground, like Disneyland, <o_uit odr="1">all times now</o_uit>. Disneyland <v_cmp odr="2" crr="takes it"><v_tns odr="1" crr="takes">is taking</v_tns></v_cmp> over.</B>
+<A>I see.</A>
+<B>Yeah. So it's not so popular now.</B>
+<A><F>Oh</F>. <R>Not</R> not popular?</A>
+<B>Because <F>eh</F> everybody is going to Disneyland rather than old <F>er</F> <n_num odr="1" crr="facilities">facility</n_num> at <F>eh</F> <H pn="others3">XXX05</H>.</B>
+<A>I see. Then, <H pn="B's name">XXX02</H>, have you ever been there with your family?</A>
+<B>Yes, of course. <SC>When</SC> Many, many years ago, when my boys were still <F>eh</F> small.</B>
+<A><F>Ah</F>. I see. So you have children.</A>
+<B>Two boys. Yes.</B>
+<A><F>Oh</F>. Please tell me about your children.</A>
+<B>Yeah. They are already grown-up. They <v_tns odr="2" crr="have taken"><v_vo odr="1" crr="take">are taken</v_vo></v_tns> up <at odr="4" crr="" ch="3">a</at> <n_num odr="3" crr="jobs">job</n_num>. <F>Er</F>. One is a <n_cs odr="2" crr="security company">security's <n_num odr="1" crr="company">companies</n_num></n_cs>. The other is a real estate. And they are both <F>er</F> <SC>summer</SC> somehow engineers. Not, <F>er</F> you know, like <R>my</R> myself <rel_lxc odr="1" crr="who"></rel_lxc> <o_uk odr="2" crr="graduated from">was background is</o_uk> <at odr="3" crr="a"></at> law school, but they <v_tns odr="5" crr="graduated">are <v_fml odr="4" crr="graduating">graduate</v_fml></v_tns> <prp_lxc1 odr="6" crr="in">from</prp_lxc1> mathematics, and <pn_lxc odr="7" crr="one">the other</pn_lxc> is <F>er</F> <at odr="8" crr="an"></at> electrical engineer.</B>
+<A><F>Oh</F> I see. Then, so, what kind of knowledge or skill is required to the young businessmen like your children?</A>
+<B><F>Well</F>. I think basic <n_num odr="1" crr="skills">skill</n_num> <v_agr odr="2" crr="are" ch="1">is</v_agr> communication including English if they are working for <F>er</F> <R>multi-na</R> <SC>multi-national</SC> <aj_lxc odr="3" crr="multinatinal">multi-cultural</aj_lxc> companies. <R>And</R> <F>er</F> and <F>er</F> knowledge of their own field and also some problem solving <n_lxc odr="1" crr="abilities"></n_lxc>, <F>er</F> how they have to <v_fml odr="2" crr="solve">solves</v_fml> some <n_num odr="3" crr="problems">problem</n_num> which <pn_lxc odr="4" crr="they"></pn_lxc> <v_tns odr="6" crr="encounter">are <v_fml odr="5" crr="encountering">encounter</v_fml></v_tns> <R>their</R> <R>their</R> <prp_lxc1 odr="7" crr="in"></prp_lxc1> <aj_lxc odr="8" crr="some">their</aj_lxc> <n_num odr="9" crr="situations" ch="8">situation</n_num>. So their basic skills and then if they <o_lxc odr="1" crr="get a promotion">are grown up to <F>er</F> <F>er</F> higher position</o_lxc>, they naturally need managerial skills.</B>
+<A><F>Mm</F>. I see.</A>
+<B>So they are two layers of skills. One is basic skills, communication, problem solving, and <F>er</F> <at odr="2" crr="a"></at> <o_lxc odr="1" crr="conflict of interest">conflict interest</o_lxc> <F>er</F> in many things, <F>eh</F> team work. And then, <at odr="1" crr="the"></at> second level is so-called leadership or managerial <n_num odr="2" crr="skills">skill</n_num>, yes.</B>
+<A>Then, how can they learn that kind of skills?</A>
+<B>Many Japanese companies, they are working for Japanese companies, providing training for <o_lxc odr="1" crr="new employees">newcomers</o_lxc>. Orientation, <F>er</F> two years later, and five years later, and they gradually <F>er</F> take over many jobs and <F>eh</F> different jobs, and learn on the job training as well as a seminars and <o_lxc odr="1" crr="school-type training">school-type of training</o_lxc>.</B>
+<A>I see. <CO>So, you think <F>em</F> companies are responsible for <F>er</F> raising the</CO>.</A>
+<B><F>Well</F>. <SC>Traditionally, they are</SC> <SC>but</SC> <F>er</F> yes, it was <F>er</F> traditionally <n_num odr="1" crr="companies">company</n_num> <v_agr odr="2" crr="were" ch="1">was</v_agr> responsible <prp_cmp odr="4" crr="for growing"><prp_lxc2 odr="3" crr="for">to</prp_lxc2> grow</prp_cmp> people, but, nowadays, <F>eh</F> the trend is a little bit changing. <F>Er</F>. <at odr="1" crr="An"></at> <cap odr="2" crr="individual" ch="1">Individual</cap> is also responsible for his or her own <F>er</F> <F>er</F> growth or training. Yes, yes.</B>
+<A>I see. Yeah. That's good. O K. So, by the way, <OL><F>er</F></OL> can I ask you about your private life? <nvs>laughter</nvs></A>
+<B><OL>Yes</OL>. Sure, sure.</B>
+<A>Do you have any hobbies?</A>
+<B><F>Oh</F>. Yes. I have a hobby of scuba diving. <F>Huh</F>. I got a license ten years ago in Hawaii. And, once every year, I tried to go to Hawaii, or, sometimes I went down to <at odr="1" crr="the"></at> Great Barrier Reef in Australia. It was <at odr="1" crr="a"></at> fantastic view.</B>
+<A><F>Ah</F>. I see.</A>
+<B>Scuba diving is very <F>er</F> a kind of different world. <F>Er</F>. <nvs>laughter</nvs> <o_lxc odr="1" crr="In the water">Underwater</o_lxc> as you know. So it's <at odr="1" crr="a"></at> fascinating world, indeed.</B>
+<A>I see.</A>
+<B>I love it.</B>
+<A><F>Wow</F>. Really? <F>Er</F>. I've never done that kind of sport.</A>
+<B>I recommend you. <nvs>laughter</nvs></B>
+<A>Really?</A>
+<B>Sure.</B>
+<A>But it sounds a little dangerous to me.</A>
+<B>Yes, of course. You have to get the license to be eligible <prp_cmp odr="2" crr="going"><prp_lxc2 odr="1" crr="for"></prp_lxc2> go</prp_cmp> down <F>er</F> with, you know, <F>er</F> <F>er</F> facilities. <SC>So it could be</SC> <?>I mean</?>, and then, <F>em</F> <F>er</F> it's not dangerous if you go through proper process. So you need some <F>er</F> knowledge and <F>er</F> <n_num odr="1" crr="skills">skill</n_num> of <v_lxc odr="2" crr="using"></v_lxc> of, say, <F>er</F> <aj_lxc odr="3" crr="maneuverable">maneuverings</aj_lxc> equipment and <F>er</F> how to breathe and everything. So it <v_cmp odr="2" crr="takes at least three days to go">takes <F>er</F> <o_lxc odr="1" crr="at least">minimum</o_lxc> three days go</v_cmp> through that process. And you <v_tns odr="1" crr="will get">got</v_tns> the license, and you are <aj_lxc odr="2" crr="safer">less dangerous</aj_lxc> <nvs>laughter</nvs> than <av_lxc odr="3" crr="before">otherwise</av_lxc>. Yes.</B>
+<A><F>Oh</F>. I see. Sounds interesting.</A>
+<B>Yeah. Sure.</B>
+<A>All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <.></.> <F>mm</F> so, please look at this picture. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>yes</OL>.</B>
+<A>And, please describe the picture.</A>
+<B>Yes. <F>Eh</F>. This is <F>er</F> a picture of classroom <F>er</F> <prp_lxc1 odr="1" crr="of">for</prp_lxc1>, <F>er</F> say, <F>er</F> junior high school or even <F>er</F> primary school. Maybe, <R>older</R> older, because <prp_lxc1 odr="1" crr="">of</prp_lxc1> <o_uk odr="2" crr="I can see some high-level things about mathmatics written on the blackboard">the blackboard says something <F>er</F> higher level of, <F>er</F> I believe, mathematics</o_uk>. And the teacher is female, and <R>I</R> I <v_tns odr="1" crr="am wondering">was wondering</v_tns> whether that affects <o_uk odr="2" crr="the students psychologically">some of the psychology of the students</o_uk>. <F>Er</F>. Some of them <F>er</F> <F>er</F> bubbling <F>er</F> <F>er</F> <mo_lxc odr="1" crr="are"></mo_lxc> chewing <at odr="2" crr="">the</at> <SC>bug</SC> <F>er</F> gum, drinking water and <F>er</F> chatting. And it's a typical scene of a Japanese <F>er</F> school <o_lxc odr="1" crr="in these days">at this moment</o_lxc>. <F>Er</F>. Because we <F>er</F> <F>er</F> hear a lot of these things in newspapers and <R>from the</R> from the parents. So <R>I</R> <R>I</R> I'm not so <F>oh</F> <F>oh</F> happy to see this kind of picture in Japan, because when I was young, I was <F>er</F> <av_lxc odr="1" crr="strictly">so much</av_lxc> <F>er</F> say instructed to study hard at school, and not <v_fin odr="2" crr="to chat">chat</v_fin> or even drink and so forth. But <F>er</F> that might be affected by American style of life, <nvs>laughter</nvs> and <F>er</F> it's good and bad because <F>er</F> in terms of <F>er</F> individuality, <F>er</F> <n_lxc odr="1" crr="individuality">individual</n_lxc> in the United States <F>er</F> <F>er</F> <F>er</F> <mo_lxc odr="2" crr="is"></mo_lxc> very much <F>er</F> appreciated, so even in the classroom, this kind of things may be allowed. But, <F>er</F> on the other hand, in Japan, it's a too <av_lxc odr="1" crr="">much</av_lxc> strict. So <SC>something</SC> <F>er</F> <SC>some</SC> <F>oh</F> <F>oh</F> <SC>everything</SC> <F>er</F> sometimes it is said that <o_uit odr="3">Japanese <n_num odr="1" crr="mothers">mother</n_num> sometimes <F>er</F> <F>er</F> <mo_lxc odr="2" crr="do"></mo_lxc> not stop <SC>crea</SC> creativity</o_uit>, so <o_uk odr="4" crr="">that is</o_uk> a kind of <o_uk odr="5" crr="discussion on balance">balance of discussion</o_uk> should be taken. But this picture <F>er</F> <v_cmp odr="1" crr="reminds me that">reminds me</v_cmp> <F>oh</F> this is a typical scene <F>er</F> <prp_lxc1 odr="2" crr="of">in</prp_lxc1> Japanese school classes now.</B>
+<A><F>Mm</F>. I see. So you sound like you like this kind of students.</A>
+<B><F>Ah</F>. <SC>I don't like</SC> <F>er</F> myself, I prefer <R>more</R> more, say, <F>er</F> trained or <F>er</F> more polite <n_lxc odr="1" crr="behavior" crr2="manner">way</n_lxc> <R>to</R> <SC>to <R>let</R> let me</SC> <R>to</R> to <at odr="2" crr="">the</at> <F>er</F> teachers. It's not good <F>er</F> <R>to</R> <R>to</R> to ignore <F>er</F> what the teacher is saying. So I understand this situation in Japan, but what I said is <F>er</F> <F>er</F> it's not good <R>for</R> for the students <SC>to grow up</SC> <F>er</F> <F>er</F> in the stage of growing up.</B>
+</task>
+<followup>
+<A>I see. Then, how can she so make students focus on the class?</A>
+<B>Yeah. <at odr="1" crr="An"></at> <cap odr="2" crr="important" ch="1">Important</cap> thing is <F>er</F> <F>im</F> <F>mm</F> <v_fin odr="3" crr="to make" crr2="making">make</v_fin> <at odr="4" crr="a">the</at> classroom discussion <F>er</F> attractive, interesting to them. <nvs>laughter</nvs> That is the first thing <R>to</R> <F>er</F> to attract the students. Sometimes the, <F>er</F> <F>er</F> you know, <SC>the teaching</SC> <F>er</F> the content of the teaching is <F>er</F> boring. So they started to talk <prp_lxc1 odr="1" crr="">about</prp_lxc1>, they <v_tns odr="3" crr="think"><mo_lxc odr="2" crr="are"></mo_lxc> thinking</v_tns> other things and what <F>er</F> <at odr="4" crr="">the</at> teachers say <v_lxc odr="5" crr="is"></v_lxc> <at odr="6" crr="">the</at> same. <CO>So</CO>. <F>Uhm</F>.</B>
+<A><F>Mm</F>. <CO>Then, what would you do if you were</CO>.</A>
+<B>Yes, sure. Yes. <R>That is</R> <F>er</F> that is very challenging for me, but, <F>er</F> because I'm not a teacher but <F>er</F> <con_lxc odr="1" crr="if"></con_lxc> I'm in charge of H R and training <F>er</F> I <v_tns odr="2" crr="will try">tried</v_tns> to make <F>er</F> the topic attractive and think about what the students <.></.> want to do. <F>Mm</F>. The first thing is <F>er</F> <v_fin odr="1" crr="to put">put</v_fin> your shoes <SC>in your</SC> in their shoes. That is the first thing to think, then the program should be <F>er</F> organized to accommodate what <R>the</R> <R>the</R> <SC>there</SC> <v_qst odr="1" crr="the interest of the students is">is the interest of the students</v_qst> or in our case employees. But, <F>er</F> again, it's a kind of homework for the teacher to know what the real needs of <R>the</R> their audience, their <n_num odr="1" crr="customers">customer</n_num>, in this case <at odr="3" crr="" ch="2">a</at> <n_num odr="2" crr="students">student</n_num>, then make the program attractive. That is what <aj_lxc odr="1" crr="American">Americans</aj_lxc> teachers are doing <R>in</R> in America. That's <rel_lxc odr="1" crr="what"></rel_lxc> I understand.</B>
+<A><F>Oh</F>. Really?</A>
+<B>Yes, yes. <SC>They are <R>very</R> very</SC> they prepare everything to attract students. But still <R>I</R> I have not attended American school, but, <F>er</F> maybe, it's a kind of difference of <F>er</F> opinion. On the <n_cs odr="1" crr="students' side">student side</n_cs>, they want to do something else even if they express their interest and <v_tns odr="2" crr="prepare">prepared</v_tns> something. <o_uk odr="1" crr="">It's</o_uk> a kind of gap of perception <v_agr odr="2" crr="exists">exist</v_agr>, yeah.</B>
+<A><F>Oh</F>. I see. Maybe, Japanese teachers should follow or <OL>should <??></??></OL>.</A>
+<B><OL><F>Oh</F> yeah</OL>. They have to learn a lot, yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. All right. So, now, let's have a role play.</A>
+<B>Sure.</B>
+<A>O K? So I'll give you a card. So this is your card. Please read it to yourself, <OL>and</OL>, when you are <OL>ready</OL>, I'll start the conversation.</A>
+<B><OL><F>Mhm</F></OL> <OL><F>mhm</F></OL> <F>mhm</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yeah. <CO><R>It's</R> <F>er</F> it's <F>er</F> something</CO>. <F>Mm</F> <F>mm</F>. <.></.> Yes.</B>
+<A>O K? <F>Em</F>. This is <at odr="1" crr="a"></at> telephone conversation. O K? Ring ring. Hello.</A>
+<B>Hello. <F>Er</F>. This is <H pn="B's name">XXX02</H> speaking.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. What happened?</A>
+<B><F>Oh</F>. I'm terribly sorry. <R>I</R> I cannot make it. I <v_tns odr="1" crr="have">had</v_tns> a trouble with my stomach. So I was very <aj_cmp odr="1" crr="happy to receive">happy and received</aj_cmp> your invitation to <at odr="2" crr="the"></at> dinner party tonight, <con_lxc odr="3" crr="and">but</con_lxc> <F>er</F> I was expecting, but <F>er</F> <R>my</R> my health condition really <F>er</F> hinders me from attending. So, <R>could you</R> could you allow me <R>to</R> <SC>to be skip</SC> <F>er</F> to skip <SC>this mor</SC> <F>em</F> this time? <F>Er</F>. Next time, I really want <R>to</R> to join your party.</B>
+<A><F>Ah</F>. That's too bad. I'm sorry to hear that.</A>
+<B>Could you <F>er</F> <F>er</F> relay my best regards to all <R>your</R> your friends?</B>
+<A>Yeah, sure. But, <H pn="B's name">XXX02</H>,</A>
+<B>Yeah?</B>
+<A><F>er</F> among our <SC>today</SC> <F>er</F> <n_num odr="1" crr="guests">guest</n_num>, there is a very good doctor.</A>
+<B><F>Oh</F> yes?</B>
+<A>Yeah. So I think he'll can see you, yeah. So, if you can come.</A>
+<B><F>Oh</F>. That's a great idea.</B>
+<A>Yeah.</A>
+<B>Yeah. I love to, but <F>er</F> I just wonder whether I can reach your home <nvs>laughter</nvs> <SC>in the</SC> <F>er</F> in this condition. So, <F>er</F> next time, please <F>er</F> let me know <laughter>his name, and I</laughter> can call <F>er</F> the doctor <rel_lxc odr="1" crr="whom">which</rel_lxc> you recommend. <F>Mm</F>.</B>
+<A>Really? But <R>my</R> my brother can pick you up.</A>
+<B><F>Oh</F>. Great. That's a good</B>
+<A>Yeah. Your house is not so far.</A>
+<B><F>Oh</F> really? <R>That's <F>er</F></R> that's <F>er</F> very nice of you. <nvs>laughter</nvs> <F>Er</F>. <R>I</R> I think <F>er</F> it's <av_lxc odr="1" crr="just">only</av_lxc> <F>er</F> five minutes after the party started. So, <F>er</F> could you <F>er</F> give me <F>er</F> <o_uk odr="1" crr="another ten, fifteen minutes">ten, fifteen minutes more</o_uk>? And I call you up again, when I can feel <SC>enough good</SC> <OL>good enough to</OL> <F>er</F> ask your brother to pick me up. Could you?</B>
+<A><OL>I see</OL>. Yeah, sure, sure. O K.</A>
+<B><??></??>.</B>
+<A>Yeah. So, just <F>er</F> take a rest, and, <SC>if you get better</SC> <OL>if you feel better</OL>, call me again.</A>
+<B><OL>Yeah</OL>. Thank you very much for your kind <F>er</F> offer, and I really <F>er</F> want to call again <F>er</F> <prp_lxc1 odr="1" crr="in"></prp_lxc1> ten minutes, fifteen minutes. Then <F>er</F> I'll talk <prp_lxc2 odr="1" crr="to"></prp_lxc2> you later.</B>
+<A>Thank you very much.</A>
+<B>Thank you very much again.</B>
+<A>Thank you.</A>
+<B>Thank you. Bye.</B>
+<A>All right, <H pn="B's name">XXX02</H>. <F>Er</F>. The role play is over.</A>
+</task>
+<followup>
+<A>O K. So, have you ever had this kind of <F>er</F> accident?</A>
+<B>No. <F>Er</F> <F>er</F>. <av_pst odr="2" crr="I really had">Really, I <v_tns odr="1" crr="had">have</v_tns></av_pst> a business <F>er</F> <nvs>laughter</nvs> problem, when I was <F>er</F> invited to <at odr="3" crr="the"></at> Netherland headquarters. And, <SC>last</SC> <SC>this</SC> just this <F>er</F> December, <SC>and</SC> <F>er</F> <at odr="1" crr="a"></at> corporate <F>er</F> conference was held, and <o_uit odr="2">I had a really <??></??> by problem back</o_uit>. <nvs>laughter</nvs> I couldn't take a flight, so I cancelled that <F>er</F> business trip <?><av_lxc odr="1" crr="">there</av_lxc></?>. It <av_pst odr="1" crr="sometimes happens">happens sometimes</av_pst>.</B>
+<A>Yeah. So people say Japanese people are not good at <F>eh</F> turning down <at odr="2" crr="">the</at> <n_num odr="1" crr="invitations">invitation</n_num> or saying "No." to something.</A>
+<B>Yeah.</B>
+<A>What do you think?</A>
+<B>Yeah. <R>Like</R> like <prp_lxc1 odr="1" crr="in"></prp_lxc1> the famous book <F>er</F> <F>er</F> Ishihara-san wrote, Japanese cannot say "No.". So the point is, again, <R>kind</R> <at odr="1" crr="a"></at> kind of <n_num odr="2" crr="differences">difference</n_num> <prp_lxc2 odr="3" crr="in">of</prp_lxc2> <at odr="4" crr="the"></at> cultural background. <F>Er</F>. <SC>Japanese <F>er</F> <F>ey</F> <F>ah</F> on a senior people</SC> so it's not good to oppose the opinion of <at odr="2" crr="the"></at> <n_num odr="1" crr="seniors">senior</n_num>, <o_odr odr="3" crr="even if it's">if it's even</o_odr> different <prp_lxc2 odr="4" crr="from"></prp_lxc2> <pn_lxc odr="5" crr="his"></pn_lxc> or if he cannot buy the opinion. So, sometime he wants to say "No.", but, still "Yes.". That is a kind of psychological <F>er</F> background <at odr="1" crr="the"></at> Japanese <v_agr odr="2" crr="have">has</v_agr>, <F>er</F> <v_fml odr="3" crr="been">being</v_fml> <F>er</F> <F>er</F> <F>er</F> <aj_lxc odr="4" crr="accustomed">custom</aj_lxc> <prp_lxc2 odr="5" crr="to"></prp_lxc2>. That's why <F>er</F> <at odr="1" crr="the"></at> Japanese cannot say "No.", <F>er</F> when it's necessary, yes, yeah.</B>
+<A>I see. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, <.></.> this time, please look at another picture. And, this time, <SC>make up</SC> <F>er</F> please make a short story using <SC>this</SC> these six pictures.</A>
+<B><F>Mhm</F>.</B>
+<A>The story goes this way.</A>
+<B><F>Eh</F>. This way? <F>Mhm</F>.</B>
+<A>But this happened <at odr="1" crr="">the</at> last week, so, please start your story with "One day last week".</A>
+<B>"One day last week"?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Ah</F>. Yes. <F>Uhh</F>.</B>
+<ctxt>The interviewee is looking at the picture sequence.</ctxt>
+<B><F>Oh</F>. Yes. <F>Well</F>. Last week, <F>er</F> I was driving <F>er</F> motorcycle. <CO>And</CO>. <F>Er</F>. Who <v_qst odr="1" crr="am I">I am</v_qst>? You know. O K?</B>
+<A><F>Eh</F>. You can be anybody. <CO><?>So try to</?></CO>.</A>
+<B>Yeah, yeah, yeah. <SC>I</SC> <??></??> <F>em</F> <F>em</F> <R>the</R> <SC>the</SC> I had <at odr="1" crr="a"></at> chance to <F>er</F> talk to my <F>er</F> friend by <F>er</F> <at odr="2" crr="a"></at> mobile phone while <SC>I driving</SC> I <v_tns odr="3" crr="was driving">'m driving</v_tns> <SC>and</SC> <F>er</F> the motorcycle. But, <F>em</F> <av_lxc odr="1" crr="unfortunately">fortunately</av_lxc>, <R>the</R> <SC>the</SC> I was <av_pst odr="3" crr="talking to my friend avidly"><av_lxc odr="2" crr="avidly">so much</av_lxc> <F>er</F> <F>er</F> <F>er</F> <F>er</F> talking to <F>er</F> <R>to</R> <R>to</R> to my friend</av_pst> <F>er</F> I could not see <F>er</F> <at odr="4" crr="a">the</at> car <v_tns odr="5" crr="was coming">is coming</v_tns> to <pn_lxc odr="6" crr="me">my direction</pn_lxc>, and then there was an accident. And <F>er</F> <R>the</R> the mobile phone was broken. I was <av_lxc odr="1" crr="very">so much</av_lxc> <F>er</F> <F>er</F> angry <prp_lxc2 odr="2" crr="with">to</prp_lxc2> the driver, and, <av_lxc odr="3" crr="then">now</av_lxc>, the police came and <F>er</F> <R>the</R> the driver <v_tns odr="4" crr="was protesting">is <F>er</F> protesting</v_tns> <R>the</R> <R>the</R> the driver that I was using the mobile phone that's <SC>why</SC> the reason why I <F>er</F> hit the car. <F>Er</F>. Eventually, <SC>the</SC> my <R>mo</R> motor cycle was taken away <F>er</F> <R>by</R> by <at odr="1" crr="">the</at> another car. <F>Er</F>. And I was left alone without <F>er</F> <at odr="1" crr="a">the</at> vehicle. It was a very sad story just because I <v_cmp odr="1" crr="to use" crr2="using">started use</v_cmp> <at odr="2" crr="a"></at> mobile phone while driving. So, next time, I think I have to <v_lxc odr="1" crr="break">stop</v_lxc> that <R>bad</R> <F>er</F> bad habit.</B>
+</task>
+<followup>
+<A><F>Ah</F>. I see. Thank you very much. So <R>you</R> you think <at odr="1" crr="the"></at> motorcycle driver was responsible for this accident?</A>
+<B><OL><R>I was</R> <R>I was</R></OL> <OL>yeah, <R>I was</R> I was</OL>, <F>ah</F> yes, <F>er</F> ninety percent <F>er</F> responsible. <F>Er</F> <F>er</F>. So he <R>should</R> <F>er</F> should learn the lesson <prp_lxc1 odr="1" crr="from">by</prp_lxc1> this accident, yes. That is <R>my</R> <R>my</R> my <F>er</F> role in that case, yes. Yes, I think.</B>
+<A>Yeah. O K. But, have you ever gotten involved in a traffic accident?</A>
+<B><F>Oh</F>. Yes. Myself, I drive a car, and, <SC>sometimes</SC> <F>er</F> <F>er</F> a couple of times, <F>er</F> <R>over</R> <n_lxc odr="1" crr="speeding">over speed</n_lxc>. And, <F>er</F> another time, <SC>hits</SC> <F>er</F> while I was <F>er</F> parking <nvs>laughter</nvs> <F>er</F> <pn_lxc odr="1" crr="I"></pn_lxc> hit another car very <?>sligh</?> <av_lxc odr="2" crr="slightly">slim</av_lxc>, but still <pn_lxc odr="3" crr="it"></pn_lxc> <v_vo odr="4" crr="was damaged">damaged</v_vo>. So it's <at odr="1" crr="">a</at> very embarrassing and <F>er</F> <aj_lxc odr="2" crr="time-consuming">taking time</aj_lxc> and <F>er</F> costly. So <F>er</F> <R>my</R> my lesson is <F>er</F> drive <av_lxc odr="1" crr="carefully">safely</av_lxc>, yeah.</B>
+<A>I see. But, <F>er</F> <R>when you</R> when you have a traffic accident,</A>
+<B>Yes.</B>
+<A>so, please tell me the procedure, <OL>yeah</OL>, for drivers.</A>
+<B><OL><F>Mhm</F></OL>. Yes, of course. <R>The</R> the <SC>procedure is</SC> <F>er</F> <F>er</F> standard procedure is <F>er</F> <v_fin odr="1" crr="to take" crr2="taking">take</v_fin> <?>off</?> <F>er</F> <F>er</F> your driver's license and car license. And <F>er</F> registration, <F>er</F> <F>er</F> document of <SC>the</SC> <at odr="1" crr="the">a</at> car ready to talk to the other <.></.> driver. <OL><F>Mhm</F></OL>. And <F>er</F> you also ask him his <R>dri</R> <n_cs odr="1" crr="driver's license">driver license</n_cs> number and <F>er</F> <at odr="2" crr="the"></at> car number and so forth. Then, the second <at odr="1" crr="">the</at> stage is <v_fin odr="2" crr="to call">call</v_fin> the police, and then, explain the situation what happened then the third is <F>er</F> to <o_lxc odr="3" crr="make sure">ensure</o_lxc> <F>er</F> <R>the</R> the other party has <at odr="4" crr="an">a</at> insurance policy to cover the damage <F>er</F> <o_uit odr="5">whichever <F>er</F> that happened</o_uit>. Then, the last stage is <v_fin odr="1" crr="to call">call</v_fin> your <F>er</F> agent of the insurance company and ask them to <v_cmp odr="3" crr="take care of it">take care <prp_lxc2 odr="2" crr="of"></prp_lxc2></v_cmp>. <o_uit odr="1">So the minimize cost and time <F>er</F> lost by the accident</o_uit>. That is a <OL>typcial <n_lxc odr="1" crr="procedure">standard</n_lxc></OL>.</B>
+<A><OL><F>Ah</F> that's <at odr="1" crr="the"></at> most efficient</OL>.</A>
+<B><F>Oh</F>. I think so.</B>
+<A><F>Ah</F>. I see.</A>
+<B>But the one thing is, don't say "I'm sorry.". <nvs>laughter</nvs> because that may hint that you are responsible for the accident. <OL>That is</OL> what I learned in the United States.</B>
+<A><OL><F>Ah</F></OL> <F>oh</F>. <laughter>Really</laughter>?</A>
+<B><laughter>Because</laughter> <R>they</R> <o_uit odr="2">they had come, <R>many</R> <SC>many</SC> you know, many <F>er</F> sixty times <F>er</F> <o_lxc odr="1" crr="a number of">the number of</o_lxc> lawyers American has</o_uit>. So <SC>that</SC> <prp_lxc1 odr="1" crr="in"></prp_lxc1> <pn_lxc odr="2" crr="this">the</pn_lxc> kind of country <R>be</R> <v_fin odr="3" crr="to be">be</v_fin> careful <OL>not be responsible for</OL> <??></??>.</B>
+<A><OL><at odr="1" crr="A">That</at> kind of expert</OL>.</A>
+<B>Yeah, sure. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Thank you very much, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Welcome, thank you very much</OL>.</B>
+<A>The interview is almost ending.</A>
+<B>O K. Sure. Thank you very much.</B>
+<A>Do you have any plans for this weekend?</A>
+<B><F>Er</F>. I'm going down to <R>Ito</R> Itoh.</B>
+<A>Itoh?</A>
+<B>Yeah.</B>
+<A><F>Ah</F>.</A>
+<B><CO>Hot spring to</CO>.</B>
+<A>Hot spring? <F>Ah</F>. <OL><CO>We</CO></OL>.</A>
+<B><OL>Yeah</OL>. Just one, two days. <nvs>laughter</nvs></B>
+<A><F>Ah</F>. That's great. Yeah. I hope you have a great time there.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

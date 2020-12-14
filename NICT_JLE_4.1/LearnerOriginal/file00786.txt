@@ -1,0 +1,209 @@
+<interview>
+<filename>file00786.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL>495</TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>.</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. <OL>I'm sorry</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A><H pn="B's name">XXX02</H>. Nice to meet you, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B><F>Er</F>. <SC>Fine</SC>. <F>Er</F> no, so so.</B>
+<A>So so?</A>
+<B>So so. Yeah.</B>
+<A>Why so so?</A>
+<B><F>Er</F>. My condition is <F>mm</F> not good <OL><R>becau</R></OL></B>
+<A><OL>What</OL> happened?</A>
+<B>because of lack of sleep.</B>
+<A><laughter><F>Oh</F></laughter>. What did you do last night?</A>
+<B><F>Er</F>. I fight against mosquito.</B>
+<A><nvs>laughter</nvs> <laughter>I see</laughter>. I see. <F>Hum</F>. O K. Where do you live <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F>. I live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Um</F>. Alone?</A>
+<B><F>Uum</F>. With my <R>friend</R> <F>er</F> <R>friend</R> <SC>friend</SC> no, family.</B>
+<A>With family.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Um</F></OL>. O K. Can you tell me about your family?</A>
+<B><F>Er</F>. <SC>My father is</SC> <F>ur</F> my father works <SC>on</SC> in a city hall, and my mother works in home. <.></.></B>
+<A>Any brothers or sisters?</A>
+<B><R>N</R> no.</B>
+<A>You're <R>one</R> one child?</A>
+<B>Yes.</B>
+<A><F>Wow</F>. That's nice. What is the good point about being one child at home?</A>
+<B><F>Err</F>. <.></.> My father and mother <F>err</F> <SC>da</SC> <R>don't</R> <R>don't share</R> don't share <R>his</R> his or their money. <R>Only</R> only to me.</B>
+<A><laughter>I see</laughter>. I see.</A>
+<B>Yes. My share is <.></.> <R>more</R> <R>more</R> <R>more than</R> more than one which have brother and <SC?>my</SC?> sister.</B>
+<A>I see. All right. Good, <H pn="B's name">XXX02</H>. Now what do you usually do on your free time?</A>
+<B><F>Err</F>. I usually <R>play</R> play games and <R>driving</R> <R>driving</R> driving a car and <F>err</F> studying <R>En</R> English.</B>
+<A><?>At home</?>?</A>
+<B>Yes.</B>
+<A>So you drive a car. Is that your own car?</A>
+<B>No. <F>Ur</F>. My father's car.</B>
+<A><F>Er</F>. O K. O K. What do you usually do with your car?</A>
+<B><F>Err</F> <R>usu</R> usually, <F>uum</F> without purpose.</B>
+<A><F>Oh</F>. Just driving. <F>Hum</F>.</A>
+<B><R>Pra</R> practice.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A>I see. O K. All right. And <F>um</F> what's your major?</A>
+<B><F>Uum</F>. Politics.</B>
+<A>What do you want to do in the future after you finish your school?</A>
+<B><F>Err</F>. I haven't <R>decided</R> decided <R>what</R> what I want to yet. But <F>uum</F> <R>during my</R> during my study in college, I have to made up my mind <R>to</R> to do in the future.</B>
+<A><F>Um</F>.</A>
+<B><nvs>coughs</nvs></B>
+<A>O K. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Let's see. First of all, I would like to show you a picture. <.></.> Let's see. <..></..> O K. Let's do this. O K? Here's a picture. And I would like you to describe this picture for me.</A>
+<B><F>Um</F>. <R>A girl</R> a girl sitting <R>on a</R> <SC>on a seat</SC> <F>er</F> on the chair <F>urm</F> <F>ur</F> <SC>bef</SC> in front of computers. And <R>there</R> <R>there are</R> there are two animals. <R>One of</R> one of them is cat and the other is dog in the room.</B>
+<A><F>Um</F>.</A>
+<B>And there is a <R>M D</R> <R>M D</R> M D <R>player</R> player and telephone and so on in that room. And the <R>calen</R> calendar describes it is June.</B>
+<A><F>Um</F>.</A>
+<B>And the door is opened. <.></.></B>
+<A>O K.</A>
+</task>
+<followup>
+<A>Now what's the difference between this room and your own room?</A>
+<B><F>Uum</F> <nvs>coughs</nvs> <F>uum</F>. There isn't any animals <R>in my</R> in my room. Mosquito only.</B>
+<A><laughter>I see</laughter>.</A>
+<B><??></??>.</B>
+<A>How did you fight with mosquito last night? Can you tell me more about it?</A>
+<B><F>Err</F>. Put on and put off <F>er</F> lights. And get out. <..></..> That's <R>on</R> only my way.</B>
+<A><F>Oh</F> I see. Did you succeed?</A>
+<B>No.</B>
+<A><F>Oh</F>. Too bad. Do you have a computer?</A>
+<B>Yes.</B>
+<A><F>Um</F>. What do you do with your computer?</A>
+<B><F>Err</F> <SC>I usually <F>err</F> doing</SC> I usually do net surfing. <R>And</R> <F>mm</F> and <R>get</R> <F>er</F> get many information about my report and <F>ur</F> study <R>from</R> from internet any site.</B>
+<A>Anything else?</A>
+<B><F>Uum</F> I usually <R>browse</R> browse homepage <R>of</R> of talent of my favorite.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, I would like to do a role-play.</A>
+<B><nvs>coughs</nvs> Yes. <nvs>coughs</nvs></B>
+<A><..></..> Let's do this. Here's a card for you. It's written in Japanese. So read it yourself. And when you are ready, I will start.</A>
+<ctxt>The interviewee is reading a card and thinking for a while.</ctxt>
+<A>O K?</A>
+<B>Yes.</B>
+<A>All right. Yes, sir. How may I help you?</A>
+<B><F>Uum</F> <SC>I want</SC> I would like to get <F>uum</F> <.></.> a <R>book about English</R> book about English.</B>
+<A><F>Oh</F>. This floor is about English. Entire section.</A>
+<B><F>Err</F> <.></.> <F>err</F>. <SC>Science fiction such as "X-files" <SC>and</SC> <R>I</R> I like it and</SC> <.></.> <R>I would like to</R> I would like to such a book like "X-files" and science fiction and so on. <R>Maybe</R> maybe not politics. <R>That is</R> that is difficult for me. I'd like to two books.</B>
+<A>O K. <F>Well</F> it's along this aisle.</A>
+<B><F>Err</F> <..></..> <F>err</F>. Yes. Yes. O K.</B>
+<A>Rights?</A>
+<B>This and this.</B>
+<A>O K. So this one "X-files" and other science <OL>fiction</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Is that all?</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B>I'll get it.</B>
+<A>All right. Thank you very much.</A>
+<B>Thanks.</B>
+<A>The total is <F>um</F> let's see, five dollars.</A>
+<B><F>Err</F>. Yes. Here.</B>
+<A>O K. Thank you very much. Enjoy <R>your</R> your books.</A>
+<B><OL>Thanks</OL>.</B>
+<A><OL>All right</OL>. Thank you very much.</A>
+</task>
+<followup>
+<A>Now <F>um</F>. <.></.> When you go shopping, where do you usually go?</A>
+<B><F>Uum</F>. Usually on a weekend, that is because I have <R>no time</R> no time <R>with</R> <SC>without</SC> <F>uum</F> except weekend.</B>
+<A>Why are you so busy?</A>
+<B><F>Err</F> <R>I</R> I have a job of <F>ur</F> <R>teaching</R> teaching <SC>the</SC> in <.></.> <JP>nanteiunokana</JP> <JP>juku</JP> <F>er</F> teaching.</B>
+<A><F>Hum</F>.</A>
+<B>Teacher. <F>Um</F>.</B>
+<A>How do you like your job?</A>
+<B><F>Uum</F> <F>er</F>. <R>How</R> how do?</B>
+<A>How do you like your job?</A>
+<B><F>Uum</F>. <..></..> <R>Ve</R> very much.</B>
+<A>O K. All right. <.></.></A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now lastly, I would like to show you a sequence of pictures. Let's see. O K. Let's try this one.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>It's</OL> a sequence of pictures. And I would like you to make up a story based on these pictures from number one to six.</A>
+<B>Yes.</B>
+<A>And this happened before. So please start your story with "One day last week," O K?</A>
+<B><F>Er</F>. Yes. Yes.</B>
+<A>Go ahead.</A>
+<B>One day last week, boys and girls <F>er</F> were <R>walking</R> walking along the street. And the boy suddenly heard the voice from anywhere. A girl <R>found</R> found <R>there</R> there was a cat. <F>Um</F>. <R>And</R> <R>and a girl</R> and a girl begged <F>uum</F> she should like to <R>keep</R> keep it. But the boy refused. <R>But a girl</R> but a girl <R>keep</R> keep begging to him. The boy gave up. <R>And</R> <nvs>coughs</nvs> <R>and they</R> and they went home <F>err</F> <R>with</R> <R>with</R> <SC>with the box <F>err</F> which</SC> <F>er</F> <R>with</R> with a cat in the box. And they went home. That's all.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A><R>Do you like any</R> do you like any animals?</A>
+<B><F>Er</F>. Dog.</B>
+<A>Dog?</A>
+<B>Yes.</B>
+<A>Why do you like dog?</A>
+<B><F>Err</F>. <R>A cat</R> <R>a cat</R> <F>uum</F> cat easily forget <R>what</R> what I do. <F>Uum</F> <F>uum</F>. Feed, feed, feed. But a dog remember. That is difference between cats and dogs. And I like dogs.</B>
+<A><F>Hum</F>. O K. Now <F>um</F> <R>if you were</R> if you were this girl,</A>
+<B>Yes.</B>
+<A>what will you do if you find a cat?</A>
+<B><F>Uum</F>. <.></.> I'll do as she did. Maybe <R>kee</R> <R>keep it</R></B>
+<A><F>Hum</F>.</A>
+<B>keep it to my house, <R>and</R> and <R>keep</R> <R>keep</R> keep it.</B>
+<A>Really? <F>Wow</F>. What do you think what is the most difficult part of <SC>ha</SC> keeping pets?</A>
+<B><F>Err</F>. <..></..> Most difficult is <F>err</F> <.></.> <SC>doing</SC> <F>uum</F> <R>fee</R> feeding, <R>take</R> takes a walk, <R>and</R> and <SC>we must</SC> <F>er</F> I must doing it without any change on everyday.</B>
+<A>You don't have to <R>take</R> take a walk <SC>to</SC> <F>er</F> <R>with</R> with cats.</A>
+<B><F>Er</F> <F>uum</F>. <..></..> <SC>To watch out</SC> <F>uum</F> I must watch out <F>uum</F> <SC>she</SC> <F>ee</F> <R>it</R> it doesn't crash out my room.</B>
+<A><laughter>What do you mean crash out</laughter>?</A>
+<B><F>Err</F>. Cat is running and <.></.> <F>uum</F> <.></.> <R>as</R> as it like behave <R>that is</R> that is <R>someone</R> someone disturbing for me.</B>
+<A><laughter>I see</laughter>. I see.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. All right. Thank you very much. Now, <.></.> see, <H pn="B's name">XXX02</H>, this is almost the end of the interview.</A>
+<B>Yes.</B>
+<A>So what is your plan after this interview is over?</A>
+<B><F>Err</F> I'll go to <F>er</F> <JP><H pn="others2">XXX04</H></JP>, <R>and</R> and <SC>join the school</SC> <F>er</F> <R>join</R> join the circle,</B>
+<A><F>Um</F>.</A>
+<B>and play baseball maybe.</B>
+<A><F>Oh</F>. You belong to a baseball team?</A>
+<B>No. <F>Err</F> <SC>I'm</SC> I belong to economic club. <CO>But</CO>.</B>
+<A>Some reason they play</A>
+<B>Yes.</B>
+<A>baseball?</A>
+<B>I don't know why.</B>
+<A><laughter>I see</laughter>. O K. So <F>um</F> <F>well</F> it's <R>beau</R> beautiful weather. What if <SC>it's</SC> it rains? What do you do?</A>
+<B><F>Uum</F>. Maybe <SC>I went home</SC> <F>er</F> I'll go home <OL>now</OL>.</B>
+<A><OL><F>Um</F></OL>. You don't have any class after this? This afternoon?</A>
+<B><F>Er</F>. Yes. Yes, I have. But I go.</B>
+<A>You don't want to go to the class?</A>
+<B>Yes. <F>Err</F>. Sometimes.</B>
+<A>Sometimes? O K. <F>Well</F> I hope that you will come to the <F>ur</F> tutorial program though. <laughter>O K</laughter>?</A>
+<B>Thanks.</B>
+<A>All right. Thank you very much. This is the end of the interview.</A>
+<B><F>Ur</F>. Thanks.</B>
+<A>Good.</A>
+</stage5>
+</body>
+</interview>

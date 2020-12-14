@@ -1,0 +1,144 @@
+<interview>
+<filename>file00129.txt</filename>
+
+<head version="1.3">
+<date>2000-10-23</date>
+<sex>male</sex>
+<age>41</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, thank you very much for coming. My name is <H pn="A's name">XXX01</H>. Can I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H></B>
+<A>O K. How are you today?</A>
+<B><JP><F>Ee</F></JP> I'm fine.</B>
+<A>O K. Where do you live?</A>
+<B><JP><F>Ee</F></JP> <H pn="others1">XXX03</H> <H pn="others1">XXX03</H> city, <R><H pn="others2">XXX04</H></R> <R><H pn="others2">XXX04</H></R> <R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H> <JP>ken</JP>.</B>
+<A><F>Ah</F>. It's far. <nvs>laughter</nvs> How long does it take from your house to come here?</A>
+<B>About one hour and ten minutes.</B>
+<A><F>Ah</F> <?>it's</?> long. What did you do in the train this morning?</A>
+<B><F>Uhm</F> <R>I</R> <..></..> <R>I read new</R> I read newspaper.</B>
+<A><F>Ah</F>. I see. <F>Mhu-huh</F>.</A>
+<B>And, <??></??> I <??></??>. <?>And</?>, I <??></??>. <.></.> <CO><R>I</R> <F>ah</F> I watched <?>my</?></CO>. <nvs>cough</nvs></B>
+<A><F>Uhm</F>. O K. Now, <F>em</F> <R?>pu</R?> does your family also live in <H pn="others3">XXX05</H>?</A>
+<B><OL><R><H pn="others1">XXX03</H></R>, not <H pn="others3">XXX05</H></OL>.</B>
+<A><OL><H pn="others1">XXX03</H>, <F>ah</F></OL>.</A>
+<B><F>Er</F> <H pn="others1">XXX03</H> <OL><R>ci</R> ci</OL>.</B>
+<A><OL>City</OL>. I see. So, tell me a little bit about your family.</A>
+<B><F>Er</F> <R>my</R> <F>ah</F> <R>I</R> <JP><F>eeto</F></JP> I and my wife and two son and my father and mother.</B>
+<A><F>Ah</F> big family. <nvs>laughter</nvs> <F>Am</F> tell me more about your children.</A>
+<B><F>Mhm</F> <F>er</F> <..></..> <F>nh</F>.</B>
+<A><F>Nh</F>. How old are they? <OL><nvs>cough</nvs></OL></A>
+<B><OL><F>Ah</F></OL> <F>er</F> <R>ten</R> ten years old and, <R>five</R> <JP><F>ano</F></JP> six years old.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Er</F>. <..></..> <CO>They</CO>. <..></..></B>
+<A><F>Nhm</F>. What do you enjoy doing with them on weekend?</A>
+<B><F>Er</F> catch ball, <??></??> <?>I play baseball</?>. <.></.></B>
+<A><F>Uhm</F>. O K. <F>Em</F> what do you do? What's your job?</A>
+<B><..></..> <CO>I</CO>. <..></..></B>
+<A><F>Uhu-huh</F> are you busy <OL>these days</OL>?</A>
+<B><OL>Yes, yes</OL>.</B>
+<A><F>Uhm</F> what time do you usually finish work?</A>
+<B>About ten or nine o'clock.</B>
+<A><F>Ah</F> do you like your job?</A>
+<B><F>Uum</F> <nvs>laughter</nvs> yes, I like my job, <F>uh</F> but <F>mm</F> it's not every time.</B>
+</stage1>
+<stage2>
+<task>
+<A><laughter>O K</laughter>. O K. Thank you very much. Now, I have a picture to show you. O K? Please tell me about this picture.</A>
+<B><F>Er</F> <..></..> two, <F>ah</F> man and, <R>wo</R> <R>wo</R> <SC>women</SC> <R>woman</R> woman <.></.> drink wine, <F>yeah</F> and <?>they speak something</?> about wine. <F>Eh</F> <..></..> <F>well</F> <R>three</R> three <?>table</?> and three cup, <R>in</R> <SC>in this floor</SC> in this room. <F>Uhm</F> <..></..> it's seven o'clock.</B>
+</task> 
+<followup>
+<A>O K. Thank you very much. O K. Do you like this kind of formal restaurant?</A>
+<B><F>Mh</F>. <F>Oh</F> <R>I</R> I don't like, <F>ah</F> <F>uh</F> <R>this</R> <SC>this type</SC> this kind of restaurant.</B>
+<A><F>Hum</F> why?</A>
+<B><F>Uhm</F> <.></.> <R>I can't</R> I can't <OL><?>relax in this</?></OL>.</B>
+<A><OL><F>Hum</F> I see</OL>. O K. Now, they are celebrating their wedding anniversary.</A>
+<B>O K.</B>
+<A><F>Um</F> how did you celebrate your anniversary last time?</A>
+<B><nvs>laughter</nvs> <F>Mm</F> <R>I</R> <..></..> <R>I don't</R> <R>I don't</R> <.></.> I don't celebrate.</B>
+<A><F>Uhm</F>.</A>
+<B><..></..> <F>Uhm</F>. <..></..></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><nvs>laughter</nvs> <laughter>Maybe you are too busy</laughter>. O K. Thank you very much. Next, I want to do a role-play. O K? Please read this card.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Mm</F>.</B>
+<A>O K? <.></.> O K. Ring, ring, hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B><.></.> <F>Ah</F> <.></.> <R>we</R> <R>we</R> <..></..> we, <R>go to movie</R> go to movie <??></??>.</B>
+<A><F>Mm</F> yes, sure. Sounds great. Let's go to the movie theater together. O K. When?</A>
+<B><.></.> <F>Mhm</F> <.></.> <F>ah</F>. <.></.> <CO><R>Wh</R> wh</CO>. <F>Nh</F>. <..></..></B>
+<A>O K. I am free next Saturday. How about you?</A>
+<B><.></.> O K.</B>
+<A>O K. Good. Where?</A>
+<B><F>Erm</F> <R>Hibiya</R> <??></??> <R>Hibiya</R> <R>Hibiya</R> <.></.> Hibiya <?>city</?>. <F>Nhm</F>.</B>
+<A>O K, fine. What time <OL>should we meet</OL>?</A>
+<B><OL><F>Er</F></OL> at five o'clock. <..></..></B>
+<A>Five o'clock <??></??>, O K. Then, I'll take Yamanote line. So, please meet me at Yurakucho station. O K? O K. So, it's Saturday, five o'clock at Yurakucho station. O K, thank you very much.</A>
+</task>
+<followup>
+<A>Now, do you like movies?</A>
+<B>Yes.</B>
+<A><F>Um</F> what kind of movies do you like?</A>
+<B><F>Mhm</F> <nvs>laughter</nvs> like a "Star Wars" <?>the high</?> S F action.</B>
+<A>I see.</A>
+<B><CO>And</CO>. <.></.></B>
+<A>How about your wife?</A>
+<B><OL>Oh</OL>.</B>
+<A><OL>What</OL> kind of movie does she like?</A>
+<B>She don't go to movie <?>with me</?>.</B>
+<A><F>Oh</F>. <nvs>laughter</nvs></A>
+<B>She often go to <.></.> <R>with</R> <.></.> with son.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhm</F>. O K. Good. O K, thank you very much. Next, O K, please look at this picture. O K, this time, please make a story by using these four pictures. One, two, three, four.</A>
+<B><.></.> I <SC>go to <SC>moo</SC> <F>a</F> zoo</SC> go to zoo <.></.> and <..></..> <?>watch lion</?> <..></..> <F>a</F> I think <..></..> and they watch monkey. <..></..></B>
+<A><??></??>.</A>
+<B><CO>And</CO>. <..></..></B>
+</task>
+<followup>
+<A><F>Huh</F>. O K, thank you very much. O K. Now, do your children like the zoo?</A>
+<B><JP>Hai</JP>?</B>
+<A>Do your children like zoo?</A>
+<B>Yes, <R>they like zoo</R> they like zoo.</B>
+<A><F>Hum</F> when was the last time you went to zoo with your children?</A>
+<B><F>Er</F> <..></..> in <R>A</R> April.</B>
+<A><F>Ah</F> <F>nm</F> where did you go?</A>
+<B><R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H> <R><JP>dou</JP></R> <SC><JP>doubutsuen</JP></SC> zoo. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>Oh</laughter></OL> I see. And, what did you see there?</A>
+<B><F>Er</F> <F>uhu</F> <R>go</R> <R>gorilla</R> gorilla and <..></..> bear <.></.> and <..></..> kangaroo.</B>
+<A>I see. O K. Now, they are having a date here. Where did you go for your first date with your wife? <nvs>laughter</nvs></A>
+<B><..></..> <R><H pn="others4">XXX06</H></R> <H pn="others4">XXX06</H>, <F>ah</F> <..></..> <R?>my</R?> <?>my wife</?> <R>was</R> was in <H pn="others4">XXX06</H>. And, <R>she was</R> she was <.></.> <??></??>. <.></.> And <SC>she wa</SC> she like to see, <SC>the place whe</SC> the place, <.></.> <F>nh</F> <SC?>she wo</SC?> <??></??>. <.></.></B>
+<A><F>Mhm</F>. O K. Did you enjoy going to <H pn="others4">XXX06</H> with her?</A>
+<B><??></??>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><laughter>That's good</laughter>. <nvs>laughter</nvs> <laughter>O K, thank you very much</laughter>. This is the almost the end of the interview. <F>Ahm</F> it's Monday today. What did you do yesterday?</A>
+<B><F>A</F> <F>ah</F> yesterday I played, <R>ca</R> catch ball <OL>with my son</OL>.</B>
+<A><OL><F>Ah</F></OL> <F>nhm</F> O K. Do you like baseball?</A>
+<B>Yes.</B>
+<A><F>Nhm</F>. So, did you watch the baseball game last night?</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs> Which team do you like? Giants or Hawks?</A>
+<B>I like Giants and my <F>ah</F> <R>two</R> two son, they like Giants <??></??>.</B>
+<A><F>Nhn</F>. So, I hope the Giants will win the next game. <nvs>laughter</nvs> O K, thank you very much. This is the end of the interview.</A>
+</stage5>
+</body>
+</interview>

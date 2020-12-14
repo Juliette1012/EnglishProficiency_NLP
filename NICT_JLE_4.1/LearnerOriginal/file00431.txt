@@ -1,0 +1,345 @@
+<interview>
+<filename>file00431.txt</filename>
+
+<head version="1.3">
+<date>2001-04-16</date>
+<sex>male</sex>
+<age>37</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>580</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. <F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>,</A>
+<B><JP>Hai</JP>.</B>
+<A>how are you today?</A>
+<B><F>Er</F> I'm fine.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And you?</B>
+<A>Yes. I'm fine, <OL>too</OL>.</A>
+<B><OL><F>Oh</F> good</OL>.</B>
+<A>Thank you. <F>Hm</F> <F>hmm</F> O K, Mister <H pn="B's name">XXX02</H>, <F>eh</F> where do you live?</A>
+<B><F>Ah</F> I live in <H pn="others1">XXX03</H> City <F>er</F> at <H pn="others2">XXX04</H>.</B>
+<A>I see. <CO><OL>Is that</OL></CO>.</A>
+<B><OL><R>Do you</R></OL></B>
+<A><F>Hm</F>?</A>
+<B>do you know <H pn="others2">XXX04</H>?</B>
+<A>No. I don't know.</A>
+<B><F>Oh</F> it's <SC>near</SC> <F>ah</F> <F>er</F> <R>nex</R> next to <R><H pn="others3">XXX05</H></R> <H pn="others3">XXX05</H> River.</B>
+<A>I see. Is that very far from here?</A>
+<B>Far?</B>
+<A><F>Hm</F>. Far from here?</A>
+<B><F>Er</F> what do you mean?</B>
+<A><F>Hmm</F>. <F>Er</F> is that very far</A>
+<B><OL>No</OL>.</B>
+<A><OL>from</OL> this office?</A>
+<B>No.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Very <F>ur</F> near <F>uh</F> <R>thi</R> this office, <F>er</F> about thirty minute</B>
+<A><F>Hum</F>.</A>
+<B><F>ur</F> by bicycle.</B>
+<A>Bicycle?</A>
+<B>Yeah.</B>
+<A>So, you come to the office by bicycle.</A>
+<B>Yes.</B>
+<A>Why?</A>
+<B><nvs>laughter</nvs> <F>Er</F> <SC>it's very</SC> I think it is very healthy for me.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>So</OL> I use bicycle <F>er</F> on sunny day.</B>
+<A><F>Hmm</F> so, how about when it rains?</A>
+<B><F>Oh</F> I use <F>ur</F> train.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Er</F> from <H pn="others4">XXX06</H></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>to</OL> <F>eh</F> <.></.> <H pn="others5">XXX07</H>,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><H pn="others6">XXX08</H> Station.</B>
+<A>I see. O K. <F>Er</F> do you live there with your family?</A>
+<B>Yes.</B>
+<A><F>Hm</F>.</A>
+<B>My <F>ur</F> family <F>eh</F> is my wife and my son.</B>
+<A>I see. <OL><F>Hm</F></OL>.</A>
+<B><OL><F>Oh</F></OL> he is <F>ur</F> <.></.> three month.</B>
+<A><F>Oh</F> the baby.</A>
+<B><laughter>Yes</laughter>.</B>
+<A><F>Hmm</F> can you tell me about your son?</A>
+<B><F>Oh</F> he's very <laughter><R>simi</R></laughter> similar <laughter>to me</laughter>.</B>
+<A><F>Oh</F> really?</A>
+<B><F>Mm</F> yeah. <R>Looking</R> looking similar to me.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>er</F> he is very cute.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Oh</F> <SC>I</SC> <R>when</R> when <F>er</F> I finish the work,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I go straight to home</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>to</R> <F>er</F> <R>to</R> to meet my baby.</B>
+<A>I see. <F>Erm</F> <.></.> <R>do you</R> <F>er</F> do you take care of him?</A>
+<B>Yes, of course.</B>
+<A><F>Hm</F>. <CO><OL>So</OL></CO>.</A>
+<B><OL><F>Oh</F> for</OL> example, <OL><F>ur</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><R>I</R> I often change <R>his</R> <F>ur</F> <.></.></B>
+<A><F>Um</F>.</A>
+<B><F>um</F> <laughter>his pants</laughter>.</B>
+<A>O K. <F>Mh-hmm</F>. <F>Hm</F> I see. <CO><OL><F>Oh</F> <?>you're good</?></OL></CO>.</A>
+<B><OL>Or</OL> <F>ur</F> <nvs>cough</nvs> give him a milk.</B>
+<A><F>Hmm</F>. <F>Oh</F> you are a good father, yeah? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much. Now, I'd like to show you a picture. O K?</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>O K. So, please describe this picture for me.</A>
+<B>O K. <F>Ur</F> <.></.> <F>ur</F> <R>here is a</R> <F>er</F> here is a room <F>ur</F> for one girl. <F>Ur</F> <SC>he is</SC> <F>er</F> she is sitting on the desk and uses computer.</B>
+<A><F>Hum</F>.</A>
+<B>And <R>there is a</R> <.></.> <F>eh</F> there is a dog</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urm</F> lying on the floor and a cat <F>eh</F> lying on the bed. <F>Eh</F> <.></.> the room <SC>is</SC> seems to be very clean.</B>
+<A><F>Umm</F>.</A>
+<B><F>Eh</F>. <CO>So <SC>she is very</SC> <F>hmm</F> <SC>she is</SC> she seems</CO>. <.></.> <F>Eh</F>. <F>Oh</F>. <laughter>I don't know</laughter>. And <R>there is a</R> <.></.> there is a C D set.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>cough</nvs> <.></.> <F>Oh</F> <..></..> <F>oh</F> that's all.</B>
+</task>
+<followup>
+<A>O K. <F>Erm</F> do you have your own room?</A>
+<B><F>Erm</F> unfortunately,</B>
+<A><F>Uh-huh</F>.</A>
+<B><laughter>no</laughter>.</B>
+<A><F>Hm</F> I see. <F>Erm</F> I know you work for a computer company.</A>
+<B>Yes.</B>
+<A><SC>But you</SC> <SC>do you have com</SC> do you have a computer at home?</A>
+<B>Yes. <OL><F>Ah</F></OL></B>
+<A><OL><F>Umm</F></OL>.</A>
+<B>I have two computers in my home.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><F>Oh</F></OL> one for <F>er</F> my hobby, <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>other one</B>
+<A><F>Uh-huh</F>.</A>
+<B>is for my work. <F>Ur</F> <R>since</R> <F>ur</F> since I'm <F>eh</F> supporting our clients</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> even Sunday</B>
+<A><F>Uh-huh</F>.</A>
+<B>and Saturday,</B>
+<A><F>Umm</F>.</A>
+<B>so <R>I</R> I have to work in my house.</B>
+<A><F>Oh</F> I <OL>see</OL>.</A>
+<B><OL>So</OL> I need computer</B>
+<A><OL><F>Umm</F></OL></A>
+<B><OL>to</OL> support our clients.</B>
+<A><F>Hmm</F> so what do you feel about working on Sunday?</A>
+<B><F>Mm</F> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>it's very hard. <F>Hmm</F> but <F>er</F> clients <F>er</F> want me to help</B>
+<A><F>Hum</F>.</A>
+<B><F>er</F> and <.></.> I get a money</B>
+<A><F>Mh-hmm</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>I see. <F>Hum</F>.</A>
+<B>for support client.</B>
+<A><F>Hm</F>.</A>
+<B>So <nvs>cough</nvs> I think <F>hmm</F> it's not bad.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. O K. Thank you very much. And now, I'd like to do a role-play. O K? <.></.> O K. <nvs>cough</nvs> So, please read this card. And when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><laughter><F>Oh</F></laughter>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Hello. May I help you?</A>
+<B><F>Ur</F> yes. <F>Er</F> <SC>I would like to visit <F>er</F> <R>other</R> <SC>other company</SC> no, no, <laughter>no</laughter>, other</SC> <F>eh</F> <R>I'd</R> I'd like to travel to <F>eh</F> Europe.</B>
+<A><F>Hm</F>.</A>
+<B><F>Uu</F> where do you recommend?</B>
+<A>O K. How about France?</A>
+<B><F>Oh</F> <F>oh</F> <R>wha</R> what's the point?</B>
+<A><F>Well</F> <F>er</F> <.></.> O K, in France,</A>
+<B>Yeah.</B>
+<A>especially in Paris, <F>er</F> you can enjoy shopping and eating.</A>
+<B>But <F>ah</F> I can't speak French</B>
+<A><F>Uh-huh</F>.</A>
+<B>well. <OL><F>Oh</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>is it no problem?</B>
+<A><F>Well</F> <F>hmm</F> yeah, in the big city, it's O K.</A>
+<B>Why? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hm</F></OL>?</A>
+<B><laughter>Why</laughter>?</B>
+<A><F>Well</F> <F>urm</F> <F>hmm</F> there are some people who can speak English.</A>
+<B>Really?</B>
+<A><F>Hm</F>.</A>
+<B><F>Oh</F> <F>er</F> I can speak English, <laughter>too</laughter> <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Mh-hmm</F>.</A>
+<B>I hear <F>er</F> that <F>erm</F> the people in France <OL><F>erm</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>can't speak English.</B>
+<A><F>Hm</F>.</A>
+<B>Is that true?</B>
+<A><F>Well</F> yes, it is true.</A>
+<B><F>Oh</F>.</B>
+<A><F>Hm</F>.</A>
+<B>So <SC>it's cause</SC> I think <F>er</F> it's cause some problems.</B>
+<A><F>Hmm</F> O K. <F>Er</F> how about <F>er</F> <SC>in the</SC> <F>er</F> joining the tour?</A>
+<B>Tour?</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Oh</F></OL>. <CO><OL>How</OL></CO>.</B>
+<A><OL><SC>With gu</SC></OL> <F>er</F> with a Japanese-speaking guide.</A>
+<B><F>Oh</F> <F>ho</F> <F>ho</F>. <OL><F>Oh</F></OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>Ur</F> what kind of <F>er</F> tour do you have?</B>
+<A>Yes. <F>Erm</F> you can go to a lot of sightseeing <OL>places</OL></A>
+<B><OL><F>Uh-huh</F> <F>hum</F></OL>.</B>
+<A>and <F>er</F> Japanese guide</A>
+<B><F>Oh</F>.</B>
+<A>are taking you to those places.</A>
+<B><F>Uh</F> how long <F>ur</F> does the trip</B>
+<A><F>Uh-huh</F>.</A>
+<B>take?</B>
+<A><F>Ah</F> one week.</A>
+<B>One week?</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>Oh</F></OL> <F>er</F> where <SC>do I live</SC></B>
+<A><F>Hm</F>?</A>
+<B><F>er</F> do I stay?</B>
+<A><F>Oh</F> very luxurious five-star hotel.</A>
+<B><F>Oh</F>. <nvs>laughter</nvs> <laughter>How much is it</laughter>?</B>
+<A>O K. <F>Er</F> three hundred thousand.</A>
+<B>Three</B>
+<A><OL>Hundred thousand</OL>.</A>
+<B><OL>hundred thousand</OL> yen?</B>
+<A>Yes.</A>
+<B>See. <.></.> <F>Oh</F> <SC>it's ex</SC> it's just expensive for me.</B>
+<A><F>Hum</F>.</A>
+<B><F>Oh</F> do you have more <F>er</F> cheaper?</B>
+<A><F>Mh-hmm</F>. <F>Er</F> O K. <F>Er</F> we have a economic plan.</A>
+<B><F>Hm</F>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Oh</F> what's different between</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>the</OL> regular and economy?</B>
+<A>O K. <F>Er</F> the <SC>hotels</SC> hotel is different.</A>
+<B><F>Oh</F>.</B>
+<A><F>Hmm</F> <F>hmm</F> standard-type hotel.</A>
+<B><F>Ho-ho-ho</F>.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F> <SC>I think <R>i</R> it's O</SC> sounds O K to me.</B>
+<A><F>Hm</F> <OL>O K</OL>.</A>
+<B><OL>How much</OL> is it?</B>
+<A><F>Er</F> just a half.</A>
+<B>Half? <laughter><F>Oh</F></laughter> it's reasonable.</B>
+<A>O K?</A>
+<B>So,</B>
+<A>O K. <CO><OL>here is the</OL></CO>.</A>
+<B><OL>I buy</OL>.</B>
+<A>O K. Thank you. So, here is the brochure.</A>
+<B><F>Oh</F> <F>oh</F> <SC>it's</SC> it seems very good.</B>
+<A><F>Mh-hmm</F>. O K.</A>
+<B>I'll take it.</B>
+</task>
+<followup>
+<A><laughter>O K</laughter>. O K. Thank you very much. This is the end of role-play. <F>Er</F> do you like traveling abroad?</A>
+<B><F>Mm</F> <F>uh</F> abroad? <OL><F>Mm</F></OL></B>
+<A><OL><F>Umm</F></OL>.</A>
+<B>yes.</B>
+<A><F>Hm</F> so, where did you go?</A>
+<B><F>Oh</F> <R>I</R> I went Hawaii</B>
+<A><F>Uh-huh</F>.</A>
+<B>and Guam,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>eh</F> Europe</B>
+<A><F>Hum</F>.</A>
+<B>and Thailand</B>
+<A><F>Hum</F>.</A>
+<B><F>eh</F> and the U. S.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> did you see any differences between the U S and Europe?</A>
+<B><F>Hmm</F> <F>uh</F> <F>eh</F> <?><F>well</F></?> I didn't feel the difference.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><laughter>Because</laughter> <R>I</R> I couldn't understand</B>
+<A><F>Hum</F>.</A>
+<B><F>erm</F> the difference</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>er</F></OL> because <SC>I can't hear</SC> I couldn't hear <F>er</F> the speeches.</B>
+<A><F>Mh-hmm</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL>And</OL> I went <F>ur</F> only <.></.> sightseeing spot.</B>
+<A><F>Hm</F> so, you like the both.</A>
+<B><F>Hm</F> yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Good. O K. Now, I'd like to show you one more picture. O K. <ctxt>The interviewer is taking out a card</ctxt> So, please look at this picture.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL> this time, I would like you to make a story.</A>
+<B>O K.</B>
+<A>O K?</A>
+<B><?>All right</?>.</B>
+<A>And this story happened sometime last week.</A>
+<B>O K.</B>
+<A>So, please start your story with "One day last week".</A>
+<B>One day last week, <F>erm</F> <R>I</R> <.></.> <R>I</R> I drove <F>ur</F> with my car <F>urm</F> in the street. <F>Urm</F> so, <.></.> <F>erm</F> a man <F>hm</F> <R>who</R> who was riding <F>mm</F> his motorcycle <F>er</F> with calling</B>
+<A><nvs>cough</nvs></A>
+<B><F>er</F> mobile phone. And <SC>my</SC> <R>his</R> <F>eh</F> his mobile phone and my car <F>er</F> clashed.</B>
+<A><F>Hum</F>.</A>
+<B>And <R>he</R> he was very angry</B>
+<A><F>Hum</F>.</A>
+<B><F>ur</F> because <F>ur</F> his motorcycle and his mobile phone <F>ur</F> was broken.</B>
+<A><F>Hum</F>.</A>
+<B>But <F>er</F> it was his mistake, I think, <F>ur</F> since <F>ur</F> <SC>he's riding</SC> he was riding and with mobile phone.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It's <F>ur</F> very dangerous.</B>
+<A><F>Hum</F>.</A>
+<B>So, <F>erm</F> <.></.> it was <.></.> <F>mmm</F> not my responsible. <F>Eh</F> so, I <SC>explain</SC> explained <F>erm</F> the things to the policeman.</B>
+<A><F>Um</F>.</A>
+<B><F>Eh</F> and he agreed</B>
+<A><F>Um</F>.</A>
+<B><F>eh</F> my opinion. <SC>So, <F>ur</F> <SC>a man <F>eh</F> <SC>riding</SC> rided ma</SC> <F>er</F> he was</SC> <F>hum</F> <R>so</R> <..></..> so, <R>I</R> I called <F>er</F> wrecker</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <F>eh</F> <SC>to</SC> <..></..> made <F>uu</F> <F>erm</F> <..></..> his motorcycle <F>uu</F> <..></..> send <F>er</F> to the <.></.> factory</B>
+<A><F>Hum</F>.</A>
+<B>to repair his motorcycle.</B>
+</task>
+<followup>
+<A>Good. O K. <F>Uh</F> do you drive a car?</A>
+<B>Yes.</B>
+<A><F>Hmm</F> have you seen any traffic accident <OL><?>like</?> this</OL>?</A>
+<B><OL>No</OL>.</B>
+<A><F>Hmm</F> <SC>you're</SC> you are a safety driver.</A>
+<B>Yes.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>I think so</laughter></OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. This is <F>er</F> the end of <F>er</F> the speaking test. And <SC>do you have any plan after this</SC> <F>er</F> <F>hm</F> do you have any plan for tonight?</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Erm</F> I have a plan <F>erm</F> <.></.> with my wife</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urm</F> to have <F>er</F> something eat.</B>
+<A><F>Oh</F> O K. With your baby?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Have a good time.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

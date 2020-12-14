@@ -1,0 +1,231 @@
+<interview>
+<filename>file00589.txt</filename>
+
+<head version="1.3">
+<date>2000-10-24</date>
+<sex>male</sex>
+<age>38</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ee</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>? O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><F>Oh</F> fine.</B>
+<A><OL>Good</OL>.</A>
+<B><OL><F>Ah</F> good</OL> but <F>uhm</F> <R>I</R> I have <R>co</R> cold.</B>
+<A><F>Ah</F> O K. Are you O K?</A>
+<B><F>Er</F> yes.</B>
+<A>O K. <H pn="B's name">XXX02</H> <F>urr</F> where do you live?</A>
+<B>Where do you live? <.></.> Live? <.></.></B>
+<A>The place you live now.</A>
+<B><F>Ah</F> <F>err</F> I live <.></.> <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>. Is it a nice place to live?</A>
+<B>Yes. <.></.> <SC?>best</SC?> <.></.> <?>really</?> nice place.</B>
+<A>O K. <?>Well</?>, what is the <F>urr</F> <H pn="others1">XXX03</H> famous for?</A>
+<B><JP><F>Unto</F></JP> famous place is <H pn="others2">XXX04</H></B>
+<A><F>Uh-huh</F>.</A>
+<B>and <R>Umi</R> <.></.> <JP><H pn="others3">XXX05</H></JP></B>
+<A><F>Uh-huh</F>.</A>
+<B>and <H pn="others4">XXX06</H>.</B>
+<A><F>Uhmm</F>. Sounds like a nice place. O K. So do you live with your family?</A>
+<B>Yes. I have wife and a son.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Son?</B>
+<A>O K.</A>
+<B><laughter><??></??></laughter> One.</B>
+<A>O K. All right. <F>Urr</F> would you tell me a bit about your son?</A>
+<B>My son? <F>Mhm</F>?</B>
+<A>Would you tell me about him?</A>
+<B><F>Er</F> about him? <F>Uhm</F> he is <SC>two old</SC> two years old.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhmm</F> very <.></.> cute and <SC>very <F>uhmm</F> <JP>yakamashii nante iukana</JP></SC> <R>very</R> very <.></.> <JP>sawagashiindesu</JP>.</B>
+<A><nvs>laughter</nvs></A>
+<B><laughter><JP>nante iunokana</JP></laughter>. <F>Uhmm</F> <.></.> <SC>he is</SC> <..></..> <F>er</F> <R>he</R> he play <.></.> every time</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> sometimes sleep.</B>
+<A><F>Ahh</F> O K. So <F>well</F>, how do you enjoy your weekend with your son?</A>
+<B><F>Er</F> we are <SC>play</SC> <F>uhm</F> <R>walk</R> walk <.></.> my house around. And <F>errr</F> <..></..> drive</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <..></..> <F>er</F> <F>urr</F> <F>um</F> <F>er</F> cooking <.></.> with him.</B>
+<A><F>Ahh</F> sounds nice. So what do you cook with him?</A>
+<B>Cook?</B>
+<A>What do you cook <.></.> with him?</A>
+<B><F>Uhm</F> <F>uhmm</F> <F>errr</F> potato <.></.> <JP>korokke</JP></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> and <JP><F>anoo</F></JP> <JP>nabe ha nante iunda</JP> <F>errr</F> Japanese potaufeu</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urr</F> <.></.> etcetra.</B>
+<A><F>Ah</F> O K. I see. <F>Well</F> by the way, are you busy here at <??></??>?</A>
+<B><.></.> Busy?</B>
+<A>Are you busy <OL><??></??></OL>?</A>
+<B><OL>Now</OL>? <F>Uhmm</F> <.></.> <??></??> <R>I</R> <R>I</R> <.></.> I three week <.></.> <F>uhm</F> ago, <SC>this <.></.> <F>err</F> <JP>busho</JP></SC> <JP>busho dakara</JP>, <F>urr</F> <..></..> <JP>nante iundaro</JP> <.></.> <SC>my work</SC> <.></.> <JP>workshop demo naina</JP> my <JP><F>uunto</F></JP> <..></..> <F>uhmm</F> <JP>tenkinshite kimashita</JP>. <F>Urr</F> <R>I don</R> I don't know <.></.> <laughter>a word</laughter>.</B>
+<A><F>Oh</F> that's O K. So what did you do before coming here?</A>
+<B><F>Ah</F> <F>uhmm</F> <.></.> <R>I</R> I work <F>uhm</F> system engineer <.></.> and <F>urr</F> <.></.> <F>err</F> <.></.> relation management <JP><F>anoo</F></JP> <.></.> <R>customer</R> <nvs>laughter</nvs> <.></.> <JP>okyakusama</JP> <JP><F>unto</F></JP> customer.</B>
+<A>I see.</A>
+<B><JP>hai</JP>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you. Now, I want to show you a picture.</A>
+<B>Picture? <JP>hai</JP> yes.</B>
+<A>Please take a look at this picture. And would you describe this picture for me?</A>
+<B><.></.> <F>Oh</F>. <F>Ohh</F> <nvs>cough</nvs> <nvs>sniff</nvs> <..></..> <SC>she</SC> <F>uhm</F> her name I don't know. <R>She</R> <R>she is</R> she is <F>uhm</F> sitting chair. And <.></.> her <R>cat</R> cat on the bed. <R>Dog</R> dog sleep <SC>floor</SC> <F>er</F> <F>uhm</F> on the floor.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <SC>this room</SC> <.></.> this room's door is open.</B>
+<A><F>Uh-huh</F>.</A>
+<B>The window is closed.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> <F>Uhm</F> <.></.> <F>uhmm</F> this time <F>uhmm</F> nine o'clock. <.></.> <F>Err</F> <.></.> stereo set <JP>arukedo <??></??></JP>. <F>Uhmm</F> <..></..> <R>she</R> <R>she</R> she is <.></.> talked <.></.> picture out <.></.> <nvs>laughter</nvs> <.></.> <JP>dareka</JP></B>
+<A><nvs>laughter</nvs></A>
+<B><JP>darekaga iru</JP>.</B>
+<A>O K.</A>
+<B>And <F>uhm</F> she is <F>uhmmm</F> <.></.> <SC>operation</SC> <R>operate</R> operate <.></.> computers.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K. I see. All right. So <F>well</F>, which do you like better, cat or dog?</A>
+<B><F>Uhm</F> I like <.></.> dog.</B>
+<A>Dog. <.></.> <F>Oh</F> O K. Why?</A>
+<B><F>Uhmm</F> <.></.> <SC>dog</SC> <.></.> <F>uhm</F> <.></.> <JP>mukashi mukashi</JP> <JP>mukashi mukashi wa nate iundaro</JP> <F>err</F> twenty years ago,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>I</R> <.></.> I live with <.></.> dog.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. Thank you. Now, we will do a role play.</A>
+<B>Role play?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>O K. Please read this card. And if you're ready, I'll start.</A>
+<B><.></.> Yes.</B>
+<A>O K. Hi, may I help you, sir?</A>
+<B><F>Uhm</F> <.></.> today <R>I</R> <R>I</R> I buy my suits.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> color is dark.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> please coordinate my suits.</B>
+<A><F>Oh</F>, O K. Let me check. <F>Uhm</F> O K. How about this one?</A>
+<B><F>Ohh</F>. <F>Uhm</F> <.></.> <R>more</R> <R>more</R> <.></.> <R>more</R> <.></.> more <.></.> darkness.</B>
+<A><F>Oh</F> O K. Let me check. <F>Uhm</F>. How about this one?</A>
+<B>Yes yes. This one.</B>
+<A>O K. You can try it if you like.</A>
+<B>Yes.</B>
+<A>Looks great on you.</A>
+<B><JP>pittari</JP>. <R>How</R> <CO>how</CO> <.></.> <F>uhm</F></B>
+<A>You look great.</A>
+<B>Great? O K. <R>I</R> I buy this suits.</B>
+<A>O K. <SC>How would you pay</SC> how would you like to pay for it?</A>
+<B><.></.> Cash or credit card?</B>
+<A>Right.</A>
+<B><.></.> Cash.</B>
+<A><F>Oh</F> O K. Great. This is fifty thousand yen.</A>
+<B>Fifty thousand yen? <F>Oh</F> expensive. Please discount, please.</B>
+<A><F>Uhmm</F> no, it's a new arrival. So we can't give you discount. Sorry.</A>
+<B><F>Ohh</F>. O K. <F>Urr</F> <..></..> today <.></.> is <F>um</F> <.></.> anniversary.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. <R>I</R> <R>I</R> <F>er</F> I <.></.> fifty thousand yen <F>urm</F> <SC>co</SC> buy <.></.> this suit <F>err</F> <.></.> please.</B>
+<A>O K. Thank you. Here you go.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much. Please come again. <.></.> <OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A>Thank you. The role play is over.</A>
+<B><F>Er</F> <JP>hai</JP> yes.</B>
+<A>O K. So do you like to go shopping?</A>
+<B>Shopping? <F>Urr</F> <.></.> no <JP>anmari ikanai, anmari</JP> <F>uhmm</F>. <F>Uhm</F>? <SC>My</SC> <F>mhm</F> where?</B>
+<A><F>Oh</F> do you like?</A>
+<B>Do you like? <.></.> Go shopping? <.></.> <SC>I shopping</SC> <F>Uhm</F> I like shopping?</B>
+<A><F>Uh-huh</F>. O K. And where do you like to go for shopping?</A>
+<B><F>Ahhh</F>. <F>Err</F> department store,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ur</F> discount store,</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> <F>uhmm</F> supermarket.</B>
+<A>I see. O K. You mentioned about anniversary, but how do you celebrate your anniversary?</A>
+<B><.></.> I don't know "celebrate".</B>
+<A><F>Oh</F> that's O K. Maybe you have a party for wedding anniversary or something.</A>
+<B><F>Ah</F> party? Yes <R>I</R> <.></.> <JP><F>ano</F></JP> <SC>I <.></.> <R>o</R> open</SC> <laughter><JP>janaina</JP></laughter> <R>I</R> <R>I play</R> I play party</B>
+<A><F>Uh-huh</F>. I see.</A>
+<B>on <.></.> anniversary.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Oh</F> I see. O K. Thank you. Now I'm going to show you another picture. O K. Please take a look at this picture. And would you tell me what's happening here?</A>
+<B>This picture?</B>
+<A>Right.</A>
+<ctxt>The examinee is looking at the picture.</ctxt>
+<B>Happening?</B>
+<A>Right. <F>Well</F>, maybe you can explain what is going on in this picture.</A>
+<B><..></..></B>
+<A>So just tell me about the picture.</A>
+<B><F>Oh</F> <laughter>tell</laughter></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> three persons <F>urr</F> <.></.> <SC>thea</SC> movie theater place. <F>Er</F> <R>there</R> there <.></.> <F>er</F> take tickets. And <.></.> <F>uhmm</F> <.></.> <R>there</R> <R>there</R> there are <F>um</F> <..></..> <R>popcorn</R> <R>popcorn</R> <laughter>popcorn</laughter> and Coca Cola.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Errr</F> <.></.> and sit down <R>picture</R> <F>uhm</F> <R>picture</R> picture movie.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> <.></.> <R>so</R> so <.></.> <R>fun</R> <R>fun</R> <R>fun</R> fun.</B>
+<A><F>Uhm</F>.</A>
+<B><JP>omoshirokatta</JP>. <.></.> <R>There</R> there <F>ee</F> <..></..> <R>funny</R> funny. <laughter>I don't know</laughter>.</B>
+</task>
+<followup>
+<A>That's O K. Thank you. O K. So <F>urm</F> when was the last you saw a movie?</A>
+<B>Movie?</B>
+<A>The last time.</A>
+<B>Yes. <F>Err</F> <R>one</R> <.></.> one years ago, <JP><F>ano</F></JP> <.></.> nineteen ninety-nine,</B>
+<A><F>Uhm</F>.</A>
+<B><F>errr</F> <.></.> November, <R>I</R> <R>I</R> <..></..> <R>I check my</R> <.></.> I check my <.></.> <F>err</F> body</B>
+<A><F>Uhm</F>.</A>
+<B><R>at</R> at <.></.> hospital,</B>
+<A><F>Uh-huh</F>.</A>
+<B>the <.></.> Japanese <R>s</R> say <JP>ningen dokku</JP>. <SC>We</SC> <F>er</F> <R>I</R> I come back <F>urr</F> <.></.> <SC>office</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <JP>no aida</JP> <JP><F>unto</F></JP> <SC>my <F>err</F> office</SC>, before <.></.> office,</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>I see</SC> <F>er</F> <R>I pic</R> <SC>I <R>pic</R> picture</SC> <R>I</R> I see <.></.> the movie.</B>
+<A><F>Oh</F> O K. And <R>wha</R> <R>what</R> what was the movie?</A>
+<B><JP>nandakkena arewane</JP> <JP><F>Eeto</F></JP>, <..></..> <JP>areda</JP>, <..></..> <JP>are</JP>, <..></..> <JP><F>ano</F></JP> <nvs>laughter</nvs> <F>er</F> just a moment.</B>
+<A>O K. <??></??></A>
+<B><F>Errr</F> <..></..> <JP><??></??></JP> <JP>nandakkena</JP>. <nvs>sniff</nvs> <JP><F>Untone</F></JP>. <..></..> <F>Uhm</F>.</B>
+<A>Do you remember the main actor or main actress?</A>
+<B><..></..> <JP><F>anone</F></JP> <JP><F>ano</F></JP> <nvs>laughter</nvs> <..></..> <R>I</R> <F>urr</F> I forget. <JP>nandakkena, are</JP>. <..></..> Sorry, I forget.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Oh</F>, that's O K. <nvs>laughter</nvs> That's O K. So <F>well</F> we are almost at the end of the interview. But <F>well</F> what are you going to do after this interview? Do you have any plans today this afternoon?</A>
+<B>This afternoon?</B>
+<A>Your plan for today?</A>
+<B><F>Ah</F>.</B>
+<A>After this.</A>
+<B>After this interview? <F>Urm</F> <R>I</R> <.></.> <R>I</R> <.></.> I writing <.></.> a report</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <SC>meeting</SC> <F>uhm</F> three meetings,</B>
+<A><nvs>laughter</nvs></A>
+<B>and <.></.> writing report.</B>
+<A>Really? You'll be really busy today.</A>
+<B>Yes.</B>
+<A><F>Oh</F> O K. Don't work so hard. Just take care of yourself.</A>
+<B><F>Er</F> thank you very much.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

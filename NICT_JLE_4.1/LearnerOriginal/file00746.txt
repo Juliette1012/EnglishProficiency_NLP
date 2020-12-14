@@ -1,0 +1,180 @@
+<interview>
+<filename>file00746.txt</filename>
+
+<head version="1.3">
+<date>2001-10-23</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. So <H pn="B's name">XXX01</H>, how are you today?</A>
+<B><R>I'm</R> I'm not so fine. I have a cold a little.</B>
+<A><F>Uhu</F>. <.></.> All right. <CO>So <F>erm</F> <.></.> did you have a class this morning or</CO>?</A>
+<B><F>Oh</F> yes. I have a first class. <F>Err</F>.</B>
+<A><F>Uhu</F></A>
+<B><.></.> And the <F>oh</F> third class. Yeah.</B>
+<A><F>Uhu</F>. I see. All right. So <F>er</F> <H pn="B's name">XXX01</H>, could you tell me about your hobbies?</A>
+<B>My hobbies are playing soccer. <nvs>sniff</nvs> <nvs>sniff</nvs> I play soccer with my friend <F>er</F> once a week in <H pn="others1">XXX02</H>.</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>sniff</nvs> <.></.> And I'm listening to music usually.</B>
+<A><F>Uhu</F>. So what kind of music do you like to listen to?</A>
+<B><..></..> <SC>I</SC> always I listen to <.></.> Japanese pops and rocks <?>music</?>.</B>
+<A><F>Uhu</F>. <.></.> For example?</A>
+<B><F>Err</F>. <nvs>sniff</nvs> <.></.> Bump of Chicken and Spitz and Mister Children,</B>
+<A><F>Uhu</F>.</A>
+<B>and so on.</B>
+<A>O K. So what's so good about Mister Children?</A>
+<B><F>Uum</F>. <.></.> My favorite song is <F>err</F> <nvs>sniff</nvs> <.></.> "<JP>Dakishimetai</JP>".</B>
+<A><F>Uhu</F>.</A>
+<B><R>And</R> <..></..> and <.></.> "Innocent World".</B>
+<A><F>Uhu</F>.</A>
+<B><..></..> <F>Hm</F>. <.></.></B>
+<A>All right. <CO>So</CO>. <F>Er</F> O K. So <F>er</F> do you do <R>any</R> <F>um</F> anything with your friends after school?</A>
+<B><..></..> <CO>I</CO>. <F>Uh</F>. <..></..> <nvs>sniff</nvs> <..></..></B>
+<A>Like do you go shopping <OL><??></??></OL>?</A>
+<B><OL><F>Err</F></OL> I belong to <F>err</F> <.></.> <H pn="others2">XXX03</H>.</B>
+<A><F>Uhu</F>.</A>
+<B>And I worked. <F>Uh</F>. <..></..></B>
+<A>So can you tell me more about your circle?</A>
+<B><.></.> <F>Er</F>. <..></..></B>
+<A>Like what do you do in that circle? <..></..> Or how often do you join the circle?</A>
+<B><F>Um</F>. Everyday.</B>
+<A>Everyday. So you are busy.</A>
+<B>Yes.</B>
+<A>All right. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>So the first thing today, I'm going to show you a picture. O K? So <F>er</F> please describe it for me.</A>
+<B><nvs>sniff</nvs> <nvs>cough</nvs> <nvs>sniff</nvs> A girl is <F>er</F> sitting chair <.></.> in front of a computer. And there is a cat <SC>in</SC> on the bed. And <.></.> there is a dog on the floor. <..></..> The door is open. <.></.> <nvs>sniff</nvs> <..></..> The curtain in this room is orange. <F>Uum</F>. <nvs>sniff</nvs> <..></..></B>
+<A>That's it?</A>
+<B>Yeah.</B>
+<A>All right. Thank you very much.</A>
+</task>
+<followup>
+<A>So <F>um</F> what are some differences between the room in this picture and your own room?</A>
+<B><nvs>sniff</nvs> <nvs>sniff</nvs> <.></.> In my room, <SC>there is <SC>no</SC> not</SC> there is not bed.</B>
+<A><F>Uhu</F>.</A>
+<B>And <SC>I have not</SC> I have no animals.</B>
+<A><F>Um</F>.</A>
+<B><..></..> <nvs>sniff</nvs> <..></..> And <R>I</R> I don't have computer. <.></.></B>
+<A>I see. O K. So <F>um</F> when you are at home, what do you usually do in your room?</A>
+<B><.></.> <F>Um</F>. I'm listening to music.</B>
+<A><F>Uhu</F>.</A>
+<B>And I do homework.</B>
+<A><F>Uhu</F>. <?>Really</?>.</A>
+<B><..></..> <nvs>sniff</nvs> <.></.></B>
+<A>All right. <CO>Anything else you do like watching T V or</CO>?</A>
+<B><F>Er</F> yes. <F>Er</F> watching T V.</B>
+<A><F>Uhu</F>. What kind of T V program do you like best?</A>
+<B><.></.> <R>I like</R> I like <F>err</F> watchings baseball game,</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>sniff</nvs> and soccer game.</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>sniff</nvs></B>
+<A>So <F>er</F> which one is your favorite baseball team?</A>
+<B><nvs>sniff</nvs> <.></.> <nvs>sniff</nvs> <nvs>sniff</nvs> Kintetsu Buffalos.</B>
+<A><F>Uhu</F>. O K. Why?</A>
+<B><R>I</R> I like <F>err</F> Norihiro Nakamura,</B>
+<A><F>Uhu</F>.</A>
+<B>and Rose.</B>
+<A>Rose?</A>
+<B><JP><F>Ee</F></JP> yes.</B>
+<A><F>Er</F>.</A>
+<B>Yes.</B>
+<A>What's so special about them?</A>
+<B><nvs>sniff</nvs> <nvs>sniff</nvs> <..></..></B>
+<A>Or are they good players?</A>
+<B><.></.> <F>Er</F>. <..></..></B>
+<A>Not really?</A>
+<B><CO><F>Um</F> not</CO>.</B>
+<A>So-so?</A>
+<B><F>Hm</F>. Yeah. <nvs>sniff</nvs></B>
+<A>O K. I see. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So the next thing today, we are going to do a role-play. <.></.> O K. So <F>um</F> <F>er</F> I want you to read this card silently. And when you finished, please let me know.</A>
+<B><nvs>sniff</nvs></B>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<B><F>Hm</F>. <JP>Iidesuka</JP>?</B>
+<A>You ready?</A>
+<B><OL>O K, O K</OL>.</B>
+<A><OL>O K, so the phone rings</OL>. Hello? This is <H pn="A's name">XXX04</H> speaking.</A>
+<B><nvs>sniff</nvs> Hello? This is <H pn="B's name">XXX01</H> speaking.</B>
+<A>Hi.</A>
+<B>Hi. <nvs>sniff</nvs> <..></..></B>
+<A>What's up?</A>
+<B><..></..> <R>I</R> <R>I want to</R> <F>err</F> <.></.> I want to <?>the</?> go cinema.</B>
+<A><F>Uhu</F>.</A>
+<B><??></??>. <F>Uum</F>. <..></..> Could you go with me?</B>
+<A>Sure.</A>
+<B><.></.> <CO>So</CO>. <.></.> <nvs>sniff</nvs> <..></..></B>
+<A>O K. So we are going to the cinema?</A>
+<B><F>Er</F> yeah.</B>
+<A><F>Uum</F>. But when?</A>
+<B><..></..> <nvs>sniff</nvs> <..></..></B>
+<A><F>Um</F>. <SC>I have</SC> <SC>I'm free</SC> I have free time on weekends.</A>
+<B><F>Er</F> <.></.> <F>er</F> <R>what day</R> <F>err</F> <.></.> what day do we go? <..></..></B>
+<A>What about <F>um</F> twelve o'clock in the afternoon?</A>
+<B>Yes. <F>Err</F>. <..></..> <nvs>sniff</nvs> <..></..> <nvs>sniff</nvs> <..></..></B>
+<A>O K. So <F>um</F> let's meet <F>er</F> at twelve o'clock this Saturday.</A>
+<B><F>Oh</F> yeah.</B>
+<A>O K. <R>Is it</R> is it O K with you?</A>
+<B><nvs>cough</nvs> Yes.</B>
+<A>O K. So <F>er</F> see you then. O K. So thank you for calling. This is the end of the role-play. O K.</A>
+</task>
+<followup>
+<A>So <F>er</F> do you sometimes go see a movie?</A>
+<B><F>Er</F> sometimes. <R>I</R> <nvs>sniff</nvs> I go to cinema on weekend.</B>
+<A><F>Uum</F>. So which do you like better, watching movies at home or going to the movies?</A>
+<B><F>Er</F> going to the movie.</B>
+<A><F>Um</F>. Why?</A>
+<B><F>Er</F> <.></.> the screen is <F>err</F> big. <CO>And</CO>. <..></..> <nvs>sniff</nvs> <.></.></B>
+<A>O K. So it's better <.></.> at the cinema?</A>
+<B>Yeah.</B>
+<A><F>Uum</F>. I see. All right.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So the last thing today, I'm going to show you another picture.</A>
+<B><nvs>sniff</nvs></B>
+<A>So this time, please make a story using these four pictures from one to four. And <.></.> go ahead.</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B><nvs>sniff</nvs> <nvs>sniff</nvs> <nvs>cough</nvs> <nvs>sniff</nvs> <SC>I go to the park</SC> <F>err</F> I go to the zoo with my girlfriend.</B>
+<A><F>Um</F>.</A>
+<B>And the first, <.></.> I watched the lion. And <.></.> the second, <.></.> <R>we</R> <R>we</R> we watch the monkey. And <SC>my girlfriend is</SC> <F>err</F> my girlfriend eat ice cream. <..></..> <R>When we</R> <nvs>sniff</nvs> <.></.> when we go out the zoo, <..></..> <R>I</R> <..></..> I <SC>say her</SC> say good-bye to my girlfriend. And I go home alone.</B>
+<A><F>Um</F>. All right. Thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>So <F>er</F> we are almost at the end of the interview. <F>Erm</F> do you have any plans this afternoon?</A>
+<B><R>I</R> <F>um</F> I have third lesson. <.></.> <F>Erm</F> tutorial.</B>
+<A><F>Err</F> the English?</A>
+<B><F>Er</F> yes.</B>
+<A><F>Oh</F> I see. I wish you good luck.</A>
+<B><nvs>sniff</nvs></B>
+<A>And <F>mm</F> then, thank you so much <OL>for coming in today</OL>.</A>
+<B><OL><nvs>cough</nvs></OL></B>
+</stage5>
+</body>
+</interview>

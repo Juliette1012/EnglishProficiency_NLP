@@ -1,0 +1,137 @@
+<interview>
+<filename>file00741.txt</filename>
+
+<head version="1.3">
+<date>2001-10-26</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's get started. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <R>Can I</R> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B>I'm fine.</B>
+<A>O K. It's a very beautiful autumn day. Do you like autumn?</A>
+<B>Yes. <F>Eh</F> <SC>tomorrow my</SC> tomorrow is my birthday.</B>
+<A><F>Err</F> happy birthday. <F>Wow</F>. Exciting <??></??>. What are you going to do tomorrow?</A>
+<B><.></.> <F>Hm</F>. <R>I</R> <SC>I have</SC> <F>uh</F> you have <??></??> <?>day after</?> tomorrow.</B>
+<A><F>Hm</F>.</A>
+<B><??></??> <.></.> I go to <??></??> maybe. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Are you going to have a party for yourself?</A>
+<B><.></.> Maybe no party. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Why not?</A>
+<B><..></..> I haven't <.></.> <?>old</?> <R>my</R> my birthday party. <.></.> <??></??> maybe tomorrow <.></.> <?>they have a</?> party.</B>
+<A>I see. O K. Then, <F>er</F> do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Um</F>. Please tell me about your family.</A>
+<B>I have <SC>two</SC> <F>er</F> one brother and sister. <F>Eh</F> <SC>my bro</SC> my brother is <.></.> now <R>t</R> <R>twent</R> twenty-two years old. And next year <.></.> get a job. My sister is <.></.> twenty-four years old. She has no job now. And <F>eh</F> <R>sh</R> she studies computer. <SC>My father is</SC> <.></.> <F>er</F> my father works every day. <F>Eh</F>. <nvs>laughter</nvs> <.></.> <JP><F>Eeto</F></JP> my mother <SC>is</SC> <.></.> likes paintings and <.></.> computer.</B>
+<A>I see. <H pn="B's name">XXX02</H>, do you have any hobbies?</A>
+<B><.></.> I like <SC>to</SC> <.></.> reading books <.></.> and cycling.</B>
+<A><F>Um</F>. What kind of books do you read?</A>
+<B><..></..> <??></??> and about Japanese history.</B>
+<A><F>Er</F> interesting. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. Please look at this.</A>
+<B>Yeah.</B>
+<A>And tell me anything about the picture.</A>
+<ctxt>The interviewee is looking at the picture for a moment.</ctxt>
+<B>A girl is sitting in front of a computer. <R>And</R> <.></.> <nvs>cough</nvs> and in her room, there are one cat and one dog. <..></..></B>
+<A><F>Um</F>. O K.</A>
+</task>
+<followup>
+<A><F>Er</F> we see a dog and a cat here. But which do you like better?</A>
+<B><.></.> I like <R>cats</R> cats better.</B>
+<A>Why?</A>
+<B>Because it's very cute.</B>
+<A><F>Hum</F>. I see. Do you have a pet cat?</A>
+<B>No. But I want to have the cat for future.</B>
+<A><F>Um</F>. O K. Good. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role-play. Please read this card. And when you are ready, I start the conversation.</A>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<A>O K? Are you ready?</A>
+<B>Yes.</B>
+<A>Hello. May I help you, sir?</A>
+<B>I want to go to <SC>Tokyo Station</SC> <..></..> <F>er</F> <R>New</R> New York. <SC>I wan</SC> <..></..> what train do <R>I</R> I have to get?</B>
+<A><F>Um</F>. O K. There are two different kinds of trains. One is local. The other is express.</A>
+<B><..></..> What time does it take <F>ee</F> <.></.> express?</B>
+<A><F>Um</F>. It takes two hours.</A>
+<B>Two hours. <.></.> How about local?</B>
+<A><F>Er</F> three hours.</A>
+<B>Three hours. <..></..> <??></??> <..></..> <SC>how about</SC> <..></..> <?>I think</?> <..></..> how about <F>ee</F> <R>pri</R> prices?</B>
+<A><F>Um</F>. <F>Ee</F> one hundred dollars for express. And fifty dollars for local.</A>
+<B><..></..> Where I have to buy tickets?</B>
+<A><F>Um</F>. You can buy ticket here from me.</A>
+<B><?>Yes</?>. <..></..> <??></??> <R>I</R> I want to by express tickets.</B>
+<A><F>Um</F>.</A>
+<B>O K.</B>
+<A>O K. Here you are. Have a nice trip. Thank you.</A>
+<B>Thank you.</B>
+<A>O K. Good, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A><F>Err</F>have you ever been to New York?</A>
+<B>No.</B>
+<A><F>Uhu</F>. O K. <F>Erm</F> if <.></.> you can go to New York, what would you like to do there?</A>
+<B>I want to go to <.></.> Statue of Liberty.</B>
+<A><F>Er</F> O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, please look at this picture. O K? And <F>eh</F> please make a story using these four pictures. And start your story, "One day last week". O K?</A>
+<B><.></.> One day last week, <R>I</R> <SC>I watch</SC> <??></??> I went to the movie with my two friends. <..></..> Before the theater, <R>we</R> we buy <.></.> popcorn and juice. <nvs>cough</nvs> The movie is <R>about</R> <..></..> about <??></??> airplane accidents. It's very fun. <.></.></B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Please tell me about the last time you went to a movie theater.</A>
+<B>I <?>went it</?> about <.></.> one years ago. <??></??> <R>I watched</R> I watched "<JP>Odoru Daisousasen</JP>". It's very interesting.</B>
+<A><F>Um</F>. <..></..> Why did you choose that movie to see?</A>
+<B>Because <R>I</R> <.></.> I was <.></.> invited by my friends.</B>
+<A><F>Er</F> O K. What was the best scene <??></??>?</A>
+<B>Last scene. <CO><R>It's very</R> <..></..> it's very</CO>. <.></.></B>
+<A>O K. What happened there?</A>
+<B><.></.> <R>Hero</R> <.></.> <SC>hero</SC> <..></..> because the hero looks die.</B>
+<A><F>Err</F> I see. So it was not a happy ending?</A>
+<B><.></.> <SC>Yeah</SC> no. Actually, <SC>it's</SC> <SC>he is</SC> he's alive.</B>
+<A><laughter><F>Er</F> I <OL>see</OL></laughter>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>Sounds interesting. O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>It's almost end of the interview. But what are you going to do today after this?</A>
+<B><R>I</R> I have class <JP><F>eeto</F></JP> about twenty <SC>ye</SC> minutes after.</B>
+<A><F>Hm</F>.</A>
+<B>It's <R>Sp</R> Spanish.</B>
+<A><F>Ah</F> I see. Do you like Spanish?</A>
+<B>It's very difficult. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. O K. Thank you very much for coming today. And I hope you can get a lot of birthday presents tomorrow.</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs></A>
+<B>Thank you.</B>
+<A>O K. Have a nice time, then. Thank you. Good-bye.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

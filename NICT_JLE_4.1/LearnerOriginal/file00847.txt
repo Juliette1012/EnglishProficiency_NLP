@@ -1,0 +1,271 @@
+<interview>
+<filename>file00847.txt</filename>
+
+<head version="1.3">
+<date>2002-02-21</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>805</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. Could I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>O K. How are you today?</A>
+<B>Yeah. I'm <F>mm</F> fine, thank you. But <R>it</R> <SC?>it's cold season</SC?> it's cold today, so I feel <F>um</F> <R>not</R> <R>not</R> not too good.</B>
+<A><F>Oh</F> <?>really</?>? Are you O K?</A>
+<B><F>Ihh</F> now, O K. <OL>Yeah</OL>.</B>
+<A><OL><laughter>O K</laughter></OL>, O K. <F>Err</F> could you tell me about your family?</A>
+<B>Yes. <F>Err</F> <SC>I live</SC> I was born <R>in</R> <F>ehh</F> in Oita Prefecture in</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>Kyushu. And <SC>my</SC> I have <SC>one brother</SC> an old brother, and he works <R>in</R> <F>er</F> in the bank in Oita prefecture. And my father <SC>works for jewelry sh</SC> <F>err</F> <SC>worker</SC> works in jewelry shop, and <R>he</R> <.></.> he works for twenty or twenty-five years for <SC>jewelry</SC></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>something</OL> about jewelry. And my mother <R>is</R> <F>er</F> is hairdresser, and, <.></.> <SC>she</SC> <?>yeah</?>, she works also twenty or <R>twenty-five</R> twenty-five years as a hairdresser.</B>
+<A>How nice.</A>
+<B>Yeah. <laughter>Thank you <?>very much</?></laughter>.</B>
+<A>So, are you interested in jewelry?</A>
+<B><F>Err</F> <R>not too much</R></B>
+<A><nvs>laughter</nvs></A>
+<B>not too much. <R>I</R> I'm interest in business.</B>
+<A><OL><F>Oh</F> really</OL>?</A>
+<B><OL><?>Really</?></OL>.</B>
+<A>O K. So, why did you decide this company?</A>
+<B>Yeah, yeah. First of all, <F>um</F> I'd like <R>to</R> <.></.> to do the business of <R>in</R> import and export because <SC>I was</SC> <F>er</F> I lived in France for one year for study French language. <R>And</R> and there, I <SC>work</SC> worked <F>err</F> in the <.></.> <F>erm</F> wine celler. <F>Um</F> I worked as interpreter for <.></.> export <.></.> for <SC>he</SC> <F>err</F> their product. And, when I came back to Japan, I looked the wine which <R>I</R> I worked <R>for</R> for import, and it was very interesting <OL>for</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>me. So I choose <F>err</F> this company for working in the import and export domain.</B>
+<A><F>Oh</F> <F>wow</F> how nice. And, what are your hobbies?</A>
+<B>My hobbies?</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah. <F>Err</F> I like <F>err</F> sports like baseball and rugby, football or swimming <.></.> <OL>or</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>skiing, yeah. This seasons, <F>err</F> <.></.> I'm very fond of the skiing.</B>
+<A><F>Hu-huh</F>.</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>So</OL>, now, are you watching Olympic games on T V? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes, every night, yeah</OL>.</B>
+<A>What do you like best among the games?</A>
+<B><SC>The</SC> <.></.> <F>er</F> now <F>er</F> I'm interest in skating.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Err</F></OL> so figure skating?</B>
+<A>Why do you like it best?</A>
+<B>Yeah, because it's very beautiful</B>
+<A><F>Hu-huh</F>.</A>
+<B>for watching. <SC>It</SC> even <F>u</F> they <F>err</F> puts the shoes <R>for</R> for skating, <SC>they</SC> <SC>it</SC> <F>err</F> <R>they</R> they're look like <F>err</F> just walking or dancing, so I'm interesting in</B>
+<A><F>Hum</F>. <OL>I see</OL>.</A>
+<B><OL>skating</OL>.</B>
+<A>So, are you a good skater</A>
+<B><OL><F>Err</F></OL></B>
+<A><OL>also</OL>?</A>
+<B>So-so.</B>
+<A><laughter>So-so</laughter>?</A>
+<B>Like Olympic player. <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL>O K, <laughter>Thank you very much, thank you very much</laughter></OL>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'll show you a picture.</A>
+<B>Yes.</B>
+<A>Here you are. Please describe this picture in detail.</A>
+<B>Yes. <..></..> It is <F>err</F> one day of the <F>err</F> countryside in the United States. <.></.> <R>And</R> <R>and</R> and, <R>in the</R> in the weekend, <F>err</F> <SC?>their</SC?> they spend their time slowly. For example, <F>err</F> one man is jogging <F>ah</F> on the road, and some boys <SC>is</SC> <R>are</R> are playing <R>with</R> <SC>with the</SC> with ball. And <.></.> <R>some</R> some women <F>ehh</F> are talking about their family, and some dogs <R>are</R> <R>are</R> are talking about <R>their</R> their things. <R>And</R> and, <R>in the</R> in the right side, one old man is reading the newspaper, <R>and</R> <.></.> <R>and</R> and the cat <R>is</R> is sleeping on the car. <R>And</R> <..></..> and <R>the</R> the sun <R>is</R> is shining. <.></.> That's all.</B>
+<A><?>That's all</?>?</A>
+<B>Yeah.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Err</F> you said this is a countryside in the United States.</A>
+<B>Yes.</B>
+<A>Is countryside in France</A>
+<B><F>Ah-huh</F>.</B>
+<A>like this?</A>
+<B><F>Oherr</F> I remember, <F>ehh</F> <SC>country sides in France is</SC> <.></.> yes, <R>it's</R> <R>it's</R> <.></.> it's almost the same</B>
+<A><F>Hu-huh</F>.</A>
+<B>as <R>this</R> this picture. But the difference <R>is</R> <.></.> is <F>err</F> <F>ah</F> <R>the</R> <F>uh</F> <R>the</R> the house in France <SC>is not</SC> <F>uh</F> <F>ah</F> is smaller than this one</B>
+<A>I <OL>see</OL>.</A>
+<B><OL>in</OL> general. <F>Hum</F>.</B>
+<A>Anything else?</A>
+<B><F>Orr</F> <.></.> <F>uhm</F> <.></.> <F>ah</F> the big difference is <F>err</F> <.></.> there are few car which are parking <SC?>in</SC?> on the road.</B>
+<A><F>Hu-huh</F>.</A>
+<B>In France, everywhere, <R>we</R> we can find the car which parking <SC?>in</SC?> on the road.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes. <F>Erm</F> every side.</B>
+<A>Is it legal?</A>
+<B><F>Erm</F> yes, <R>y</R> yes, <SC>it's not <R>li</R> legal</SC></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>um</F></OL> <SC>no</SC> it's <OL><R>not</R></OL></B>
+<A><OL><R>Not</R></OL></A>
+<B>not illegal.</B>
+<A>Not illegal. <OL><laughter>O K</laughter></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>So, do you think it's a good place to live in?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. <OL><CO>What</CO></OL>.</A>
+<B><OL>Yes, because</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>err</F></OL> <.></.> <R>compare</R> comparing with Japanese <F>err</F> culture, <SC>they</SC> the big difference is <SC>that the spending the time</SC> <F>ah</F> how we spend the time. And, <?>since</?> they spend the time very slowly, <SC>and</SC> <.></.> for example, they eat the dinner for two or three hours <R>with</R> with talking about <R>their</R> their things. <R>And</R> <F>err</F> and <F>um</F> another example is that <F>err</F> the office <R>ui</R> will start <SC>about nine or ten o</SC> about nine o'clock and <R>close</R> <F>err</F> close the lunch <R>at</R> <F>err</F> at twelve. And then, <F>uu</F> they start <F>err</F> two P M <R>for</R> for afternoon. And <R>ze</R> they finish <F>err</F> <F>um</F> five o'clock in <R>every</R> every office. So it's very relaxing.</B>
+<A>I see. So, it means, do you often work overtime?</A>
+<B><F>Err</F> everyday.</B>
+<A><laughter>Everyday</laughter>?</A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+<A><OL><laughter><F>Wow</F></laughter></OL>. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role play.</A>
+<B>Yes.</B>
+<A>O K. Please read this card.</A>
+<B>Yes.</B>
+<A>And, when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<B>Sorry, <F>er</F> may I have your name, please? Sorry. <OL><CO>I</CO></OL>.</B>
+<A><OL><F>Er</F></OL> my name is <H pn="A's name">XXX01</H>.</A>
+<B><H pn="A's name">XXX01</H>.</B>
+<A>Are you ready?</A>
+<B>Yes.</B>
+<A>O K. Ring. Hello.</A>
+<B><F>Ah</F> hello. <SC?>I</SC?> <F>err</F> this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Yeah</OL>. How are you?</B>
+<A><SC>I'm fa</SC> I'm good.</A>
+<B><OL>Good</OL>.</B>
+<A><OL>And</OL> you?</A>
+<B><F>Eh</F> yes. Very fine.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And, <H pn="A's name">XXX01</H>, <SC>how about your</SC> <SC>with</SC> <F>err</F> this weekend, <F>um</F> what will you do?</B>
+<A><F>Erm</F> nothing special.</A>
+<B><F>Oh</F> really?</B>
+<A><F>Hu-huh</F>.</A>
+<B><R>How about</R> how about <R>the</R> <R>the</R> <.></.> <R>the</R> the film? <F>Err</F> <.></.> <F>ah</F> <F>e</F> <F>ee</F> <.></.> I'd like to go <SC>to fi</SC> to watch the film with you. <F>Er</F> <R>how about</R> how about your schedule?</B>
+<A><F>Oh</F> it's O K. Sounds nice.</A>
+<B><F>Oh</F> <OL>really</OL>?</B>
+<A><OL><F>Hu</F></OL> <F>hu-huh</F>.</A>
+<B>O K. So, <R>which is</R> which is the <R>your</R> your best, <F>er</F> Sunday or Saturday?</B>
+<A><F>Hum</F> Sunday is better.</A>
+<B><OL>Better</OL>?</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>And Sunday afternoon <OL>is</OL></B>
+<A><OL>Yeah</OL>.</A>
+<B>O K for you?</B>
+<A>O K.</A>
+<B>O K. And <SC>how you</SC> <.></.> which place is the best for you <SC?>about or</SC?> Umeda or Shinsaibashi, which one <R>is</R> <OL>is <??></??></OL>?</B>
+<A><OL><F>Uhm</F> I prefer</OL> Shinsaibashi.</A>
+<B>Shinsaibashi.</B>
+<A><F>Uhu</F>.</A>
+<B>O K. Do you know <R>the</R> the <SC>Vuitton in</SC> Vuitton store in Shinsaibashi?</B>
+<A>Yes.</A>
+<B><OL>Do you know</OL>?</B>
+<A><OL><F>Hu-huh</F> <F>Hu-huh</F></OL>.</A>
+<B><F>Err</F> O K. <R>So</R> <..></..> so, one o'clock P M, <R>in</R> in front of <SC>Shin</SC> <F>err</F> Vuitton Shinsaibashi. <OL>O K</OL>?</B>
+<A><OL>One o'clock</OL>. O K.</A>
+<B>O K.</B>
+<A><F>Uhu</F>.</A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL>But</OL>,</A>
+<B><OL>Yes</OL>?</B>
+<A><OL>what</OL> are we going to see?</A>
+<B>Yes. <F>Err</F> <SC>it's a</SC> it's good question. <F>Ehh</F> <SC>now</SC> <F>err</F> <..></..> have you watched <SC>the</SC> <.></.> <F>ehh</F> the film of Miyazaki Hayao?</B>
+<A><F>Ah</F> yes, "Sen to <OL>Chihiro</OL>"?</A>
+<B><OL>Yes</OL>.</B>
+<A>Yes. I've already seen it.</A>
+<B><F>Oh</F> really?</B>
+<A>I'm sorry.</A>
+<B>Sorry. <F>Err</F> how about <R>the</R> the "Vanilla Sky"? <CO>Have</CO>.</B>
+<A>Yes.</A>
+<B>Really? O K, O K. Yeah, because it's <R>very</R> very famous.</B>
+<A><F>Uhm</F> yes, but I've already seen both.</A>
+<B>Yeah. And, do you have <R>some</R> <R>some</R> some film which <R>you like to</R> you like to watch?</B>
+<A><F>Hum</F>. How about "Harry Potter"?</A>
+<B>Yes, yes. It's O K.</B>
+<A><OL>O K</OL>?</A>
+<B><OL>O K</OL>. Yes. O K. My friend said it's very</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><R>good</R></OL> good film. O K. So we'll go to watch the "Harry Potter".</B>
+<A><F>Hu-huh</F>. <?>O K</?>. So, see you on Sunday.</A>
+<B>Yes.</B>
+<A>At one o'clock.</A>
+<B>One o'clock. <OL>O K</OL>.</B>
+<A><OL>O K</OL>. See you then.</A>
+<B>See you.</B>
+<A>Thank you <OL>for calling</OL>.</A>
+<B><OL>Thank you</OL>. Thank you.</B>
+<A>Good-Bye.</A>
+<B>Good-Bye.</B>
+<A>Thank you very much.</A>
+</task>
+<followup>
+<A>O K. Now, do you like movies?</A>
+<B>Yes, <SC>I like</SC> yeah, I like <F>err</F> very much "Harry Potter".</B>
+<A>"Harry <OL>Potter</OL>".</A>
+<B><OL>Yes</OL>.</B>
+<A><laughter>Really</laughter>? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes, <SC>I</SC></OL> yeah, <R>I</R> I have already watched. <OL>So <R>I</R></OL></B>
+<A><OL><??></??></OL>.</A>
+<B><R>I was</R> <OL>I was thinking</OL>.</B>
+<A><OL><F>Oh</F> yes</OL>. O K. What do you think about that film?</A>
+<B><F>Uhm</F> it remind me <R>my</R> <.></.> <R>my su</R> my stay in France <R>because</R> <F>err</F> <.></.> because <SC>the scene</SC> <F>mm</F> <R>the</R> the scene of <SC>city</SC> <F>err</F> the town <R>is</R> <F>err</F> is similar</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>in</OL> French one.</B>
+<A><F>Hu-huh</F>. I see. And?</A>
+<B><R>And</R> and <F>err</F> <.></.> I like the story, <.></.> yeah, <R>ye</R> yeah, <R>because</R> <F>err</F> because <R>it</R> it <?>give</?> me <F>err</F> <R>some</R> something like dream.</B>
+<A>I see.</A>
+<B>Yeah. Every day, <R>I</R> I think of <R>the</R> the business every time. <R>So</R> <.></.> <R>so if</R> <.></.> <F>err</F> so, if something <SC>give me</SC> <F>ah</F> let me think about something dream, it's very <F>err</F> relaxing for me.</B>
+<A><F>Hu-huh</F> I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Yeah <F>err</F> I'll show you another picture.</A>
+<B>Yes.</B>
+<A><??></??>. Please make up your own story from one to six. And this happened last week. So,</A>
+<B><OL>Yes</OL>.</B>
+<A><SC><OL>please</OL> make up</SC> <F>err</F> please start your story with "One day last week".</A>
+<B><F>Hu-huh</F>. O K.</B>
+<ctxt>The interviewee is looking at the card and thinking for a while.</ctxt>
+<B>O K.</B>
+<A>O K?</A>
+<B><..></..> O K. One day last week, I met my uncle <F>err</F> in Shinsaibashi. <F>Um</F> it was <.></.> <F>err</F> long time to no see <F>eh</F> <R>with</R> with him. <R>And</R> and my uncle <F>err</F> <SC>invite me dinner</SC> invited me to dinner <F>uhm</F> in the restaurant. And we went to the <F>er</F> Japanese style restaurant. It means <SC>the</SC> it can drink some alcohol and we can eat some Japanese <R>or</R> or <?>internal</?> food. <R>And</R> <..></..> <SC>and</SC> <F>err</F> <..></..> <R>a</R> and, when we entered the restaurant, one boy <.></.> <F>er</F> <F>err</F> asked us <SC>about</SC> <F>er</F> if <R>we</R> we smoke or not. <R>And</R> and we asked <SC>we are</SC> <SC>we don't</SC> we didn't smoke. And then, <R>we</R> we sit down <R>the</R> the table. <R>And</R> <.></.> and, after discussing <R>about</R> about the menu, we order <R>the</R> <R>the</R> <F>err</F> the beer and some <JP>sake</JP> and some food like salad and fried chicken. <R>And</R> and we talk about many things like the family or my studies and his business, and so on. <R>And</R> <..></..> and, <..></..> <R>after</R> <..></..> after eating <R>the</R> the dinner, I was very <SC>satisfied <R>with</R> with a good</SC> <F>er</F> satisfied <R>with</R> <F>err</F> with <SC>their</SC> <F>er</F> <R>the</R> <R>the</R> the dinner. <R>And</R> and then, <SC>we are</SC> we said, "Good-bye.". <R>And</R> and it was very good day, yes.</B>
+<A>That's all?</A>
+<B>Yes.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>Now, it's the almost end of the interview.</A>
+<B>Yes.</B>
+<A>Which do you like better, wine or Japanese <laughter><JP>sake</JP></laughter>?</A>
+<B><F>Ah</F> <OL>yeah</OL>.</B>
+<A><OL>Because</OL> you said Japanese <JP>sake</JP> or something.</A>
+<B>Yes. <OL><F>Err</F></OL>.</B>
+<A><OL>But</OL> you were dealing with wine in France.</A>
+<B>Yes. <F>Uhm</F> depends on situation.</B>
+<A>I see. <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL>Yes</OL>. If <R>I</R> <..></..> I have the dinner with my girlfriend,</B>
+<A><F>Hu-huh</F>.</A>
+<B><??></??> a bottle of wine with her.</B>
+<A><F>Hu-huh</F>.</A>
+<B><??></??>. If I drink with my friend,</B>
+<A><F>Hu-huh</F></A>
+<B>I'd like to drink <JP>sake</JP>. Speed are very rapid.</B>
+<A>I see. O K. <F>Err</F> <F>err</F> have a nice day. <OL><?>And</?></OL>,</A>
+<B><OL><F>Ah</F> thank you</OL>.</B>
+<A>thank you very much today.</A>
+<B>Yeah, thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,156 @@
+<interview>
+<filename>E_file00127.txt</filename>
+
+<head version="1.3">
+<date>2000-10-05</date>
+<sex>male</sex>
+<age>37</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests>e</other_tests>
+<SST_level>8</SST_level>
+<SST_task2>map</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <OL>How are you</OL>?</A>
+<B><OL>Nice to meet you</OL>.</B>
+<A>Nice to meet you. How are you today?</A>
+<B>Fine, thank you.</B>
+<A>O K, good. Where do you live?</A>
+<B>I am <v_fml odr="1" crr="living">live</v_fml> in <H pn="others1">XXX03</H> in <H pn="others2">XXX04</H> prefecture.</B>
+<A><F>Ah-huh</F>. So, how do you come to this place?</A>
+<B>I take <at odr="1" crr="the"></at> Shinkansen Express from <H pn="others1">XXX03</H> station to <H pn="others3">XXX05</H> station and transfer to <at odr="2" crr="the"></at> local <H pn="others4">XXX06</H> Line.</B>
+<A><F>Mm-huh</F> so, doesn't it take <at odr="1" crr="a"></at> long time?</A>
+<B>No. <F>Ah</F> <R>one na</R> one hour and twenty minutes. So this is kind of the same <F>ah</F> time for the people who are living in <H pn="others3">XXX05</H> <R>ar</R> area.</B>
+<A><F>Ah</F> why did you decide to live in <H pn="others1">XXX03</H>?</A>
+<B>No. <SC>I just move</SC> <F>ah</F> I moved from <at odr="1" crr="the"></at> <H pn="company name1">XXX07</H> to <at odr="2" crr="the"></at> <?><H pn="others3">XXX05</H></?> head office, <F>mm</F> <R>in</R> in nineteen ninty-nine, <F>ah</F> sorry, <F>er</F> last year. And, when I was in <H pn="others5">XXX08</H>, I <R>built my</R> built my house, and my family is living in that my house. Therefore I cannot move <F>uh</F> the house. That means I have to commute to <at odr="1" crr="the"></at> head office from <H pn="others1">XXX03</H> <?>station</?>.</B>
+<A><F>Ah</F> I see. So, <F>ah</F> <F>u</F> do you take Shinkansen?</A>
+<B>Yes.</B>
+<A>Every morning?</A>
+<B>Every morning and every evening.</B>
+<A>So, how <?>are they</?> different from <F>ah</F> commuting with the, like Yamanote line <?>or</?>?</A>
+<B><F>Ah</F> usually from <H pn="others3">XXX05</H> to <H pn="others6">XXX09</H> station, <SC>I took</SC> I take <F>mm</F> <at odr="1" crr="the"></at> <H pn="others7">XXX10</H> line or <at odr="2" crr="the"></at> <H pn="others4">XXX06</H> line whichever, <F>ah</F> if <at odr="3" crr="">the</at> time <v_lxc odr="4" crr="allows">is available</v_lxc> <??></??>. <F>Eh</F> but, as far as I take, <F>uh</F> <SC>Shinkan</SC> <F>ah</F> <H pn="others7">XXX10</H> line, <?>it</?> is very, how can I say, <F>er</F> <SC>the</SC> <?>jammed</?>. <SC>People are very</SC> <F>er</F> how can I say, many people are in the same <n_lxc odr="1" crr="car" crr2="coach">compartment</n_lxc>. But, in case of Shinkansen, <R>I can</R> I can relax <prp_lxc1 odr="1" crr="in">on</prp_lxc1> the seat, so it is very nice.</B>
+<A>I see. Could you tell me a little about <H pn="others1">XXX03</H>?</A>
+<B><CO><H pn="others1">XXX03</H> is</CO>. <F>A</F> <nvs>laughter</nvs> <F>ah</F>. Actually, <R>I</R> I have been living in <H pn="others1">XXX03</H> for five years, <F>a</F> not five years, six years. And <R>my</R> <F>eh</F> my country is Kyusyu, so <SC>I'm not su</SC> <SC>I'm not so</SC> I'm not <o_lxc odr="1" crr="familiar with">aware of</o_lxc> <H pn="others1">XXX03</H> city very <av_lxc odr="2" crr="much">well</av_lxc>, but <F>mm</F> it is <at odr="3" crr="a"></at> very nice city. And <SC>as you know</SC> as you may know that <H pn="others8">XXX11</H>. From <H pn="others1">XXX03</H>, we can see the <H pn="others8">XXX11</H> and also <at odr="1" crr="the"></at> <H pn="others09">XXX12</H> <OL>in <at odr="2" crr="">the</at> winter season</OL>.</B>
+<A><OL>Really</OL>? <F>Huh</F>.</A>
+<B>And <F>eh</F> when we <F>eh</F> <SC>go to shopping</SC> go shopping <prp_lxc1 odr="1" crr="to">in</prp_lxc1> <JP><F>eeto</F></JP>, <H pn="others10">XXX13</H> or <H pn="others1">XXX03</H> by <at odr="2" crr="">the</at> train, so it is very convenient.</B>
+<A><F>Ah</F> I see. So, <F>ah</F> could you tell me about Kyusyu, your hometown?</A>
+<B>Yeah. Kyusyu, <nvs>laughter</nvs> <F>hum</F> Kyusyu. What kind of <F>uhu</F> <R>s</R> story do you like to hear?</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><at odr="1" crr="The"></at> <cap odr="2" crr="weather" ch="1">Weather</cap> <at odr="3" crr="the"></at> function</OL> or the people's nature. <CO>Or the</CO>.</B>
+<A><F>Well</F> <F>ah</F> like about your <F>ah</F> childhood.</A>
+<B>Childhood? O K. <F>Mm</F> <nvs>laughter</nvs> yes, O K. <F>Ah</F> when I was in Kyusyu, <F>uhu</F> in Kyusyu, <F>ah</F> maybe, you can imagine that there are many mountains <JP>ne</JP>. And <SC>Kyusyu is very</SC> <F>a</F> <H pn="others8">XXX11</H> is <at odr="1" crr="an">a</at> island, so <F>eh</F> my hometown is <F>uh</F> located near the riverside and also the mountainside. So I have <SC>five</SC> <F>er</F> four brothers, and usually I <SC>play</SC> played around with my <F>uh</F> brothers, <SC>mountain</SC> <F>ah</F> <v_fin odr="1" crr="climbing">climb</v_fin> <n_num odr="2" crr="mountains">mountain</n_num> and also fishing in the river. So <SC?>ma</SC?> <F>uh</F> when I was child, <F>uh</F> I was surrounded, <R>by</R> by <at odr="1" crr="">the</at> <n_cnt odr="2" crr="much nature">many natures</n_cnt>. And that is <F>a</F> <SC?>th</SC?> totally different <prp_lxc2 odr="1" crr="from">in</prp_lxc2> <H pn="others1">XXX03</H>. <H pn="others1">XXX03</H> is located <prp_lxc1 odr="1" crr="on">in</prp_lxc1> <at odr="2" crr="">the</at> very flat land. So, <R>when</R> <SC>when ne</SC> when I try to go to <at odr="1" crr="a"></at> mountain <SC>I have to take</SC> <F>uhu</F> I have to drive my car for <SC>more than <SC>one</SC> <SC>an</SC> one</SC> more than two hours <JP>ne</JP>.</B>
+<A><F>Hum</F> I see.</A>
+<B>Yeah. That is the totally different.</B>
+<A>O K. Thank you very much.</A>
+<B><nvs>cough</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A><F>Eh</F>. O K. First, I'd like to show you a picture. O K. Please describe this place for me.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Hum</F>. What kind of description shall I tell you <OL><??></??> <?>I do</?></OL>?</B>
+<A><OL><F>Oh</F></OL> <R>any</R> any kind of description <F>ah</F> like imagine that I can't see the picture, and, please explain about the city.</A>
+<B>About the city <JP>ne</JP>. O K. <F>Mm</F>. <.></.> <F>Mm-huh</F>. <.></.> O K. <F>Eh</F> this city is <F>ah</F> <SC>between the big</SC> <F>ah</F> <R>bet</R> between <at odr="2" crr="" ch="1">the</at> <n_num odr="1" crr="rivers">river</n_num>, and <F>uhu</F> there are one station, <R>tra</R> train station and <F>uhu</F> <F>uhu</F> banks in front of the station. It's <F>er</F> available and very convenient for the people living in this city. And also, <F>mm</F> <F>ah</F> <at odr="1" crr="a"></at> very big supermarket is available, and, <F>er</F> near the supermarket, <at odr="2" crr="a">the</at> movie theater is also <aj_lxc odr="3" crr="available"></aj_lxc>. <F>Oh</F> you can enjoy <at odr="2" crr="" ch="1">the</at> <n_lxc odr="1" crr="movies">movie theater</n_lxc> near the supermarket <JP>ne</JP>. <R>And</R> <F>hum</F> <.></.> and <at odr="1" crr="a"></at> hospital <con_lxc odr="2" crr="">and</con_lxc> <at odr="3" crr="a"></at> school and <at odr="4" crr="a"></at> public library <v_agr odr="5" crr="are">is</v_agr> also in the same line. So, when you try to, <F>uhu</F> go to the official, <F>uhu</F> how can I say, buildings or the <F>ah</F> governmental <F>uhu</F> buildings, it is convenient for you. <F>Hum</F>. <.></.> And <SC>there are</SC> <F>ah</F> this city has <F>uh</F> many <F>eh</F> greens, so <R>a</R> <prp_lxc1 odr="1" crr="in"></prp_lxc1> almost all the places you can see <at odr="2" crr="">the</at> trees <?><o_uit odr="3">on</?> the buildings</o_uit>. And <SC>the</SC> in the <F>ah</F> bottom south of the city, <SC>there are</SC> <F>a</F> there is a big <F>er</F> route four hundred forty four. So <F>n</F> the inside the city, <F>ah</F> I guess there is not so, <F>oh</F> <F>mm</F> <F>ah</F> sorry, <F>ah</F> the <SC>route forty</SC> <F>eh</F> route four hundred forty four <v_tns odr="1" crr="winds">is winding</v_tns> in the south, so you can <v_lxc odr="2" crr="go">access</v_lxc> <prp_lxc2 odr="3" crr="to" ch="2"></prp_lxc2> this <F>uhu</F> big <F>er</F> route easily. <.></.> And, of course, <F>eh</F> you can take <at odr="2" crr="" ch="1">the</at> <n_num odr="1" crr="trains">train</n_num>, and <SC>this train</SC> <F>er</F> <SC>sta</SC> <F>a</F> this station <SC>have</SC> <F>a</F> has six local lines, <F>eh</F> so <SC>you</SC> <F>er</F> five local lines, so, <SC>when you go</SC> <F>oh</F> <SC>to</SC> <F>uhu</F> when you <v_tns odr="3" crr="go">are going to go</v_tns> anywhere you want, <F>uhu</F> you can take many <n_num odr="4" crr="kinds">kind</n_num> of local lines.</B>
+<A>O K. Do you think this town is well-developed?</A>
+<B><F>Hum</F>.</B>
+<A><aj_lxc odr="1" crr="Well-developed" crr2="Well-designed">Well-defined</aj_lxc>?</A>
+<B>Yeah. I guess it is very well-designed <JP>ne</JP> because offices and banks <R>are</R> <v_vo odr="1" crr="are built">are building</v_vo> neighboring <prp_lxc2 odr="2" crr="on"></prp_lxc2> each other, and also, <at odr="3" crr="the"></at> school <con_lxc odr="4" crr="">and</con_lxc> <at odr="5" crr="the"></at> public library and <at odr="6" crr="the"></at> hospital are also very close. So, this is very <F>eh</F> well-designed I think.</B>
+</task>
+<followup>
+<A>What was the most important aspect, <F>ah</F> when you chose the place <rel_lxc odr="1" crr="where"></rel_lxc> you built the house?</A>
+<B>Yeah. <F>Ah</F> <at odr="1" crr="a"></at> school and <at odr="2" crr="a"></at> hospital must be <aj_lxc odr="3" crr="located">available</aj_lxc> <R>within</R> <F>eh</F> within, at least, twenty minutes <SC>by</SC> on foot, and also, <at odr="4" crr="a">the</at> <R>su</R> supermarket should be located <JP>ne</JP> <R>nea</R> <SC>near</SC> around my house. And other things are not so important for me because we can take cars <??></??>. There are many <n_num odr="1" crr="buses">bus</n_num> and trains, <SC>so</SC> but, at least, <F>uh</F> when I <v_lxc odr="2" crr="think">consider</v_lxc> <prp_lxc2 odr="3" crr="about" ch="2"></prp_lxc2> my daughter, <F>ah</F> <at odr="4" crr="a"></at> school and other public <F>uhu</F> offices must be <F>er</F> <?>or</?> should be <aj_lxc odr="5" crr="near">closer</aj_lxc> for my daughter and my wife.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. Thank you. Next, I'd like to do a little role play with you. <.></.> Please read this card, and when you are ready, I will start a conversation.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. Rururururu. Hi, this is <H pn="A's name">XXX01</H>.</A>
+<B><F>A</F> hello, this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, what are you doing?</A>
+<B>Sorry, <F>er</F> I <v_tns odr="1" crr="can't go">couldn't go</v_tns> <prp_lxc2 odr="2" crr="to"></prp_lxc2> the party. <F>Mm</F>. <CO><?>So</?></CO>. Yeah. <F>Ah</F>.</B>
+<A>What happened?</A>
+<B>Yes. <F>Ah</F> unfortunately, my <F>eh</F> grandmother <v_tns odr="1" crr="had">has</v_tns> to go to the hospital, so I <v_tns odr="2" crr="couldn't be">cannot be</v_tns> <av_lxc odr="3" crr="home">my house</av_lxc>.</B>
+<A><F>Oh</F> is she O K now?</A>
+<B>Yeah. <R>A</R> at least, <F>uhu</F> she is <av_pst odr="1" crr="O K now">now O K</av_pst>, but <F>ah</F> she was <prp_lxc1 odr="2" crr="in"></prp_lxc1> <at odr="3" crr="a"></at> very dangerous situation last night.</B>
+<A><F>Uhu-huh</F> <F>well</F> you can come now.</A>
+<B>Sorry, <F>eh</F> I have to <R>nego</R> negotiate or <R?>the</R?> I have to talk with the doctor, <SC>so</SC> and I have to prepare many things for my <F>er</F> grandmother's <F>er</F> stay in the hospital. So I'm sorry I cannot go <prp_lxc2 odr="1" crr="to"></prp_lxc2> the party.</B>
+<A><F>Oh</F> what happen to the wine you promised to bring over?</A>
+<B><F>Ah</F> so, O K. Maybe, <F>er</F> <R>someone</R> someone around me, my wife <v_tns odr="1" crr="can bring">could bring</v_tns> the wine to you.</B>
+<A><nvs>laughter</nvs></A>
+<B>O K? <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Oh-oh</F> <F>oh</F> please bring the wine next time <OL>you come to my place</OL>.</A>
+<B><OL>Yeah, sorry</OL>. <SC>I really</SC> <R>I</R> <F>ah</F> I really <F>uh</F> <v_cmp odr="1" crr="wanted to go">wanted go</v_cmp> to the party, but, unfortunately, <SC>my</SC> due to <SC>the my wife's</SC> <F>ah</F> my grandmother's condition, <F>ah</F> I cannot go, so, please accept my apology, and, <SC>na</SC> next time, <SC>I must</SC> <SC>I'll</SC> I am sure I can go. So, please <v_cmp odr="1" crr="invite me">invite</v_cmp> again.</B>
+<A>O K. Yes. Sure. <F>Well</F> I hope your grandmother will become <av_lxc odr="1" crr="well">good</av_lxc> soon. <F>Well</F> thank you.</A>
+<B>Thank you. Bye.</B>
+<A>Bye.</A>
+</task>
+<followup>
+<A>Thank you very much. <nvs>laughter</nvs></A>
+<B>Sorry, I did not prepare very <av_lxc odr="1" crr="much">well</av_lxc> <JP>ne</JP>. <F>Ah</F> I just read the sentence, but I did not prepare. But I should <?><o_uit odr="1">pay</o_uit></?> <SC>after the con</SC> <F>ah</F> when I <v_lxc odr="2" crr="start">go</v_lxc> to the conversation.</B>
+<A>Have you encountered any situation like this before?</A>
+<B><F>Mhm</F> maybe, but, <SC>not so mu</SC> not so often.</B>
+<A>Really?</A>
+<B>Yeah.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. That's good. <F>Well</F> I'd like to show you another picture. This is the story that happened one day last week. So, please make up your own story and start with "One day last week".</A>
+<B><F>Mm-hum</F>.</B>
+<ctxt>The interviewee is looking the picture.</ctxt>
+<B>O K. <F>Mm</F>.</B>
+<ctxt>The interviewee is looking the picture again.</ctxt>
+<B>O K. One day last week, <F>er</F> in the morning, I went to <at odr="1" crr="the"></at> station to take <at odr="2" crr="a">my</at> train and I was in <at odr="3" crr="a">the</at> line, but the people in front of me <F>eh</F> <v_tns odr="4" crr="pushed">push</v_tns> my bag. And <at odr="1" crr="the"></at> bag <R?>fall</R?>, <SC>fall down</SC> <F>ah</F> <F>mm</F> fell down to the <F>a</F> <o_lxc odr="2" crr="rail track">train track</o_lxc>. I <v_vo odr="1" crr="really got">was really <R>get</R> got</v_vo> angry, but <F>er</F> <F>er</F> the people in front of me <v_tns odr="2" crr="did not know">were <F>mm</F> not knowing</v_tns> the reality. And <F>eh</F> he <v_ng odr="1" crr="did not admit">never admits</v_ng> that <F>eh</F> his knee, <F>ah</F> sorry, <R>his</R> <F>ah</F> his elbow <F>oh</F> <v_lxc odr="2" crr="pushed">put</v_lxc> <SC?>a</SC?> my luggage. But, <F>ah</F> fortunately, <at odr="2" crr="a">the</at> <F>ah</F> <o_lxc odr="1" crr="station staff">rail guard</o_lxc> took my bag up, and <F>er</F> <SC>I can take</SC> I could take my <??></??>. And, <F>ah</F> after getting <prp_lxc2 odr="1" crr="on"></prp_lxc2> the train, <F>ah</F> I put my bag in front of me, <F>eh</F> and <SC>I can relaxed</SC> I could relax in the train.</B>
+</task>
+<followup>
+<A>O K. Thank you. So, what would you do if such things happen to you?</A>
+<B>Yeah. Immediately, I took my luggage by myself.</B>
+<A><OL>By yourself</OL>?</A>
+<B><OL>Yeah, yeah</OL>. Because <F>a</F> <R>we are</R> <SC>we are not sure</SC> <F>ah</F> I'm not sure <R>when</R> when the next train <v_agr odr="1" crr="comes">come</v_agr> <o_uk odr="2" crr="">or not</o_uk>. If the train is coming, and <SC>I can</SC> I <v_tns odr="1" crr="can see">could see</v_tns> the train coming, then I <v_asp odr="2" crr="will not try">would not try</v_asp> to <v_lxc odr="3" crr="do"></v_lxc> such things, but <F>ah</F> if the train is not <F>mm</F> <v_lxc odr="4" crr="coming">visible</v_lxc>, then <R>I'll try</R> I'll try myself.</B>
+<A>Really? I think it's dangerous.</A>
+<B>Yeah. Dangerous, but, <SC>our</SC> how can I say, <SC>our confirmation or the</SC> if the train is <F>uhu</F> coming, and you can <F>eh</F> notice the train coming. It is dangerous. But <SC>it is not coming</SC> the train is not coming, then <SC>it is</SC> I don't think it is so dangerous.</B>
+<A>O K.</A>
+<B>Yeah. Basically, <F>ah</F> but this is not <aj_lxc odr="1" crr="allowed">admitted</aj_lxc>, but, <F>uhu</F> <F>ah</F> of course, <SC>the</SC> it depends on the <n_num odr="2" crr="contents">content</n_num> <prp_lxc1 odr="3" crr="of">in</prp_lxc1> the bag.</B>
+<A><F>Mh-huh</F> <laughter><F>oh</F> I see</laughter>. O K. What do you think about the people talking on the phone on the train?</A>
+<B><F>Ah</F> I don't like that. Yeah. Because <?>I'm can</?>.</B>
+<A><OL><??></??></OL>. <F>Nh-huh</F>.</A>
+<B>O K? <OL><R>I</R> I don't like that</OL>.</B>
+<A><OL>You are O K</OL>. <R>What</R> <SC>what can we</SC> <R>what</R> <F>ah</F> what can we do to <v_cmp odr="1" crr="avoid it">avoid</v_cmp>?</A>
+<B><F>Mm-mhm</F>. Yeah. <n_num odr="1" crr="Trains">Train</n_num> must install something, <F>er</F> <at odr="3" crr="the"></at> very <F>er</F> <aj_lxc odr="2" crr="new">latest</aj_lxc> technology to shut down <at odr="4" crr="the"></at> door, <SC>to</SC> how can I, to interfere the <F>a</F> waves.</B>
+<A><F>Ah</F>.</A>
+<B>Then, maybe, <SC>no ban</SC> no one can <F>nh</F> make a telephone call.</B>
+<A>Yeah. <OL><laughter><??></??> idea</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Well</F> the interview is almost over.</A>
+<B><F>Ah</F> thanks.</B>
+<A>O K. So, are you going to have a busy day today?</A>
+<B>Yes. I have to go to Kagoshima prefecture <o_lxc odr="1" crr="from now">from <OL>now <?>on</o_lxc></?></OL>.</B>
+<A><OL>From now</OL>?</A>
+<B>Yes.</B>
+<A><F>Oh</F> O K. Are you going to stay tonight <OL>over night</OL>?</A>
+<B><OL>Yes</OL>, yes. Over night. Yes.</B>
+<A>O K. <F>Well</F> I hope you <v_tns odr="1" crr="will have">have</v_tns> some good time <OL><?>here</?></OL>.</A>
+<B><OL>Thanks</OL>. And you, too.</B>
+<A><OL>O K, thank you</OL> for coming to the interview. Bye-bye.</A>
+<B><OL>Bye-bye</OL>.</B>
+</stage5>
+</body>
+</interview>

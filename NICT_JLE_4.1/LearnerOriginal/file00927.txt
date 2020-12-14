@@ -1,0 +1,151 @@
+<interview>
+<filename>file00927.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>Hi, <H pn="B's name">XXX01</H>. Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><.></.> So-so.</B>
+<A>So-so?</A>
+<B>I caught a <R>co</R> cold.</B>
+<A>Really?</A>
+<B>Yeah.</B>
+<A><F>Oh</F> no. Why did you catch a cold?</A>
+<B><F>Uhm</F> <R>I</R> <..></..> I went to <..></..> Shibuya</B>
+<A><F>Uh-huh</F>.</A>
+<B>last night.</B>
+<A><F>Uh-huh</F>.</A>
+<B><laughter>So</laughter> <.></.> <SC>I <.></.> sleep</SC> <.></.> <SC>I don't</SC> I didn't sleep very much.</B>
+<A><F>Oh</F> too bad. O K. Now <H pn="B's name">XXX01</H>, <F>urr</F> where is your hometown?</A>
+<B><F>Uhm</F> <..></..> I live in <H pn="others1">XXX02</H>.</B>
+<A>With your family?</A>
+<B>No. I live alone.</B>
+<A><F>Uhm</F>.</A>
+<B>My family lives in <H pn="others2">XXX03</H>.</B>
+<A><F>Oh</F> in <H pn="others3">XXX04</H>?</A>
+<B>Yes.</B>
+<A><F>Wow</F>. Please tell me about <H pn="others2">XXX03</H>.</A>
+<B><laughter><F>Uhm</F></laughter>. <F>Urr</F> <.></.> in <H pn="others2">XXX03</H>, <.></.> <F>er</F> <..></..> famous for Awa-odori. So <.></.> when <.></.> it is <JP>obon</JP>, <.></.> we dance Awa-odori.</B>
+<A><F>Uhm</F>.</A>
+<B><..></..> Famous food is <JP>sudachi</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Do you know?</B>
+<A>What is that?</A>
+<B><F>Uhm</F> green one. <..></..> Like a <JP>kabosu</JP>.</B>
+<A><F>Oh</F>. O K.</A>
+<B><F>Uhm</F>.</B>
+<A><F>Wow</F>.</A>
+<B><.></.> When I <.></.> drink a <.></.> alcohol, <.></.> <?>in that</?> <.></.> <JP>sudachi</JP>.</B>
+<A><F>Uhmm</F>. That's interesting. Do you have any hobby?</A>
+<B>Yes. My hobby is scuba diving or <JP>karaoke</JP>.</B>
+<A><F>Oh</F> O K. How do you practice scuba diving?</A>
+<B><..></..> <?>Particularly</?> I don't practice it.</B>
+<A><CO>But don't you need a license or something <OL>to do</OL></CO>?</A>
+<B><OL><F>Ah</F> <F>er</F></OL> yes. I have a license. <.></.> <R>In</R> in this summer, <SC?>I did</SC?> <.></.> I went to <..></..> <?>Ohsezaki</?>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> I <?>had</?> <SC>license</SC> scuba license.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uhm</F>. That's good. O K. Thank you, <H pn="B's name">XXX01</H>. Now <SC>we are goi</SC> I'm going to show you a picture. O K? Please describe this picture.</A>
+<ctxt>The interviewee is looking at a picture.</ctxt>
+<B>There is a <.></.> girl in this room. And <.></.> this is her room. And <.></.> this room <.></.> there is bed or computer, faxes. <.></.> So <.></.> <SC>she <.></.> is</SC> she use computer. <..></..> Dog and cat sleeps. <..></..> This room is bright. <.></.></B>
+</task>
+<followup>
+<A>O K. All right. Thank you. And what are the differences between this room and your own room?</A>
+<B><F>Oh</F>. <..></..> <SC>My</SC> <.></.> in my room, there isn't <.></.> cat and dog. <..></..> This room is <.></.> narrow but my room isn't narrow, <..></..> my room is not <?>colored</?> but <SC?>this is</SC?> this room has <?>colored</?>. <.></.> But <..></..> this room is <??></??> to my room.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhm</F>. All right. Thank you. O K. Next, we are going to do a role-play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>All right. Now, please read this card to yourself. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading a card.</ctxt>
+<A>Are you ready?</A>
+<B><F>Uhm</F>.</B>
+<A>O K. May I help you?</A>
+<B><F>Uhm</F> <.></.> I want to go to New York by <R>tra</R> train. So <.></.> how <.></.> do I <.></.> get a ticket?</B>
+<A><F>Oh</F> you can but it here.</A>
+<B>Yes. <.></.> Here?</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> What time did you <.></.> go <.></.> to New York?</B>
+<A><.></.> What time?</A>
+<B>What time.</B>
+<A><F>Urm</F> there are three kinds of trains to go to New York. <.></.> So it depends.</A>
+<B>Which is the <.></.> fast train <.></.> to New York?</B>
+<A><F>Ur</F> the one super express.</A>
+<B><..></..> <F>Uhm</F>. <..></..> <SC>Which is the <.></.> fast express is</SC> <.></.> <SC>what time is</SC> <..></..> <F>er</F> what time the fast express go <.></.> to New York?</B>
+<A><F>Well</F> it will leave in <.></.> fifteen minutes.</A>
+<B>Fifteen minutes? I will get <SC>it</SC> <.></.> the ticket.</B>
+<A>O K.</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><OL><F>Er</F></OL> it's gonna be one hundred and fifty dollars.</A>
+<B>Yes.</B>
+<A>Here is your ticket.</A>
+<B><.></.> <F>Urm</F> I will take it.</B>
+</task>
+<followup>
+<A>O K. All right. Thank you. Have a nice trip. Thank you. This is the end of the role-play. Have you ever been to a foreign country?</A>
+<B>Yes. I went to New York.</B>
+<A><F>Oh</F> you did.</A>
+<B>But I <.></.> <SC>bought</SC> <SC>brought</SC> bought the <SC>ticket</SC> <R>train</R> train ticket.</B>
+<A><F>Um</F>. O K. What did you do in New York?</A>
+<B><F>Uhm</F> <.></.> I <.></.> went to <.></.> Broadway</B>
+<A><F>Uh-huh</F>.</A>
+<B><??></??> museum. <F>Uhm</F> <..></..> I walked to <.></.> Central Park and <.></.> went to <.></.> Trade Center. So <SC>when I see</SC> <F>er</F> when I saw the <.></.> <SC>terror</SC> terrorism, I'm very sad.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhm</F> I see. <F>Wow</F>. O K. Finally, we are going to do a sequence of pictures.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K. Please make up a <SC>short stories</SC> <F>er</F> short story based on these pictures from one to six. And please start your story with "One day last week". All right?</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B>One day last week, she <.></.> wanted to <.></.> cook <..></..> something. So <SC>she went to the</SC> she went to supermarket by car. <.></.> She select a <.></.> bread or <.></.> something <..></..> and she bought <.></.> a food. <..></..> She <..></..> went to <?>the</?> car. <..></..> She <R?>took</R?> <.></.> <?>took</?> by the car. <.></.> She <SC>go</SC> went to home and <SC?>cooked</SC?> started cooking.</B>
+</task>
+<followup>
+<A>O K. All right. Thank you. Do you cook sometimes?</A>
+<B>Yes. I always cook. <.></.></B>
+<A>O K. Is there any good supermarket near your apartment?</A>
+<B><F>Mhm</F> yes. <.></.> <F>Er</F> not supermarket. <.></.> Small <F>uhm</F> <JP>yaoya</JP>.</B>
+<A><F>Oh</F>. O K. So what is a good point of cooking by yourself at home?</A>
+<B><F>Uhm</F>. <..></..> <R>It's</R> it's hard to cook <..></..> <JP>hitoribun</JP> or <R>my</R> my dishes.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <SC>very</SC> <..></..> <R>food</R> <SC>food is</SC> <..></..> <R>I</R> <.></.> I bought the food sometimes.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uhmm</F> I see. I understand that. O K. We are almost at the end of the interview. So do you have any class today?</A>
+<B><.></.> Class?</B>
+<A>Any class, lecture at the university?</A>
+<B><.></.></B>
+<A>After this interview,</A>
+<B><OL><F>Ahh</F></OL>.</B>
+<A><OL>do you have any</OL> classes?</A>
+<B>No. <.></.> I <.></.> go to home soon.</B>
+<A><F>Oh</F> O K. <F>Well</F> please take care of you cold. And thanks for coming. This is the end of the interview. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

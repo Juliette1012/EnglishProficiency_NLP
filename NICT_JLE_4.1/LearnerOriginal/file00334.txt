@@ -1,0 +1,245 @@
+<interview>
+<filename>file00334.txt</filename>
+
+<head version="1.3">
+<date>2001-03-02</date>
+<sex>female</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mh-hm</F>. Ms. <F>er</F> <H pn="B's name">XXX02</H>, <F>er</F> where are you from?</A>
+<B>I'm from <F>er</F> <H pn="others1">XXX03</H> City.</B>
+<A><F>Mh-hm</F>. O K. <F>Er</F> were you born in <H pn="others1">XXX03</H> City?</A>
+<B>No. I was born in <R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H> Prefecture.</B>
+<A>O K. Where in <H pn="others2">XXX04</H> were you born?</A>
+<B><F>Mm</F> I was born in <H pn="others3">XXX05</H> City.</B>
+<A><F>Ah</F> what is <H pn="others3">XXX05</H> City famous for?</A>
+<B><F>Er</F> <H pn="others3">XXX05</H> is famous for the <F>er</F> <JP>chikuwa</JP>.</B>
+<A><F>Er</F> really?</A>
+<B>Yes.</B>
+<A><F>Ah</F> O K. Do you like <JP>chikuwa</JP>, too?</A>
+<B>So-so. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>So- so</OL>. <F>Oh</F>. O K. And now where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H> <JP>shi</JP>.</B>
+<A><F>Ah</F> sorry. <OL>Yes, I asked</OL>.</A>
+<B><OL><?>Yes, yes</?></OL>.</B>
+<A>O K. So how do you like living in <H pn="others1">XXX03</H> City?</A>
+<B><F>Er</F> I like <H pn="others1">XXX03</H> City because it's like a <R>country</R> countryside. <CO>It's</CO>.</B>
+<A><F>Oh</F>.</A>
+<B>I think so.</B>
+<A><F>Oh</F> I see. Do you live near <H pn="others1">XXX03</H> Park? You know, monkey park?</A>
+<B><H pn="others1">XXX03</H> Park. <F>Mm</F> I don't know, but <SC>I live in my</SC> I live in <R>near</R> <F>er</F> near my university, <H pn="school name1">XXX06</H> of Foreign Studies.</B>
+<A><F>Oh</F> I see. <F>Oh</F> what is your major?</A>
+<B>My major is Danish.</B>
+<A><F>Er</F>.</A>
+<B><R>Da</R> Danish. <F>Er</F>.</B>
+<A>Danish.</A>
+<B>Yeah.</B>
+<A><F>Ah</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Ah</F> why did you want to study <OL>Danish</OL>?</A>
+<B><OL><F>Ah</F></OL> because <SC>I</SC> I'm interested in the <F>er</F> welfare service in Denmark.</B>
+<A><F>Ah</F> I see. <F>Ah</F>. So in the future, do you want to work in Denmark?</A>
+<B><F>Er</F> <F>er</F> now, <R>I don't</R> I don't know, but <F>er</F> <R>if I</R> if I have a chance, <F>er</F> I want to go there.</B>
+<A><F>Ah</F> O K. O K. <F>Er</F> do you speak Danish, too?</A>
+<B>A little. <nvs>laughter</nvs></B>
+<A>A little. O K. <F>Er</F> what is your hobby?</A>
+<B>My hobby? <F>Ah</F> my hobby is <F>er</F> <F>er</F> to <SC>play piano</SC> play the piano.</B>
+<A><F>Ah</F> how long have you been playing the piano?</A>
+<B><F>Er</F> I've learned playing piano <R>for</R> for ten years.</B>
+<A><F>Ah</F> I see. So you must be <R>a</R> a good pianist.</A>
+<B><F>Ahh</F>. <nvs>laughter</nvs> <F>Er</F> some people say so.</B>
+<A><F>Ah</F> O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><laughter>So you are</laughter>. All right. O K. Do you do any sports?</A>
+<B>Sports? <F>Er</F> when I was a junior high school student, <F>er</F> I was playing <JP>kendo</JP>.</B>
+<A><F>Oh</F> really? Did you have <JP>dan</JP>?</A>
+<B><F>Mm</F>. <nvs>laughter</nvs> <F>Mm</F> yes.</B>
+<A><F>Oh</F>. <?>Like a</?> first? Second?</A>
+<B><R>Se</R> <F>ah</F> second. <F>Er</F> <SC>I</SC> I've learnt <JP><F>nnto</F></JP> <JP>kendo</JP> for six years.</B>
+<A>For six years. <F>Ah</F> do you do <JP>kendo</JP> now?</A>
+<B><R>Now</R> now, no.</B>
+<A>No. <F>Ah</F> O K. <F>Well</F> it's winter now. So do you play any winter sports?</A>
+<B>No.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. O K. Then <SC>look at</SC> let me see. O K, Look at this picture, please. O K? And please describe it.</A>
+<B><ctxt>interviewee is looking at the picture</ctxt> Today is Sunday. And <F>er</F> the sun is shining, and <R>everyone is</R> everyone is outside. And some people <R>talk</R> talk, and some people <.></.> play the ball. <R>They</R> they <?>climb</?>. And <R>they enjoy</R> they enjoy themselves.</B>
+</task>
+<followup>
+<A>O K. Why do you think it is Sunday today?</A>
+<B><F>Er</F> because my image of Sunday is <F>mm</F> bright day. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. <F>Oh</F> I see. What do you usually do on Sundays?</A>
+<B><F>Erm</F> on Sunday, <F>er</F> <F>er</F> <R>I</R> I went to school, and I join the club activity.</B>
+<A><F>Ah-huh</F>. <F>Oh</F> what kind of club?</A>
+<B><F>Er</F> English Speaking Society.</B>
+<A><F>Ah</F> you're member of E S A.</A>
+<B>Yes.</B>
+<A><F>Ah</F> O K. <R>Ho</R> <R>ho</R> how often do you go <OL>to your club</OL>?</A>
+<B><OL><F>Er</F></OL> <F>mm</F> twice a month.</B>
+<A><F>Ah</F> O K. I see. O K. <F>Er</F> how do you like living in this neighborhood?</A>
+<B><.></.> <F>Er</F> <.></.> <R>I</R> <SC>I like</SC> <F>mm</F>? Do I like this picture?</B>
+<A><F>Mhn</F>. Do you want to live in this area?</A>
+<B><F>Ah</F> <laughter>yes</laughter>. Maybe.</B>
+<A>Maybe. Why do you think so?</A>
+<B>Because <F>mm</F> <R>everyone</R> everyone looks happy.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F>. <SC>So</SC> and <R>a</R> as I said before, I like countryside.</B>
+<A><F>Mm</F> O K. So does this look like <F>uh</F> <H pn="others1">XXX03</H>?</A>
+<B><F>Mm</F> yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. O K, good. Next, let's do role-play. O K? This is your card. Please read it.</A>
+<B>Thank you.</B>
+<A>When you're ready, I will start.</A>
+<B><ctxt>The interviewee is reading the card</ctxt> O K.</B>
+<A>O K? May I help you?</A>
+<B>Yes. <F>Er</F> I want to go to New York. So please give me a ticket for New York.</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>Um</F> how much is it?</B>
+<A><F>Ah</F> O K. Which train would you like to take?</A>
+<B>Which train.</B>
+<A>What kind of train?</A>
+<B><F>Er</F> <.></.> <F>Er</F> <..></..> <F>Er</F>.</B>
+<A>Would you like local, express, or limited express?</A>
+<B><F>Er</F> local, please.</B>
+<A>Local. O K. Then, ten dollars.</A>
+<B>Ten dollars. O K. Here you are.</B>
+<A><F>Ah</F> O K. O K. And <R>would</R> would you like one-way ticket?</A>
+<B>Yes.</B>
+<A>O K. O K. Then, this is your ticket.</A>
+<B>Thank you.</B>
+<A>O K. Have a nice trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. O K. Thank you. This is the end of the role-play. Have you been to New York?</A>
+<B>No. No, <R>I haven't</R> I haven't.</B>
+<A>O K. Do you want to go there?</A>
+<B>No.</B>
+<A><F>Oh</F> why not?</A>
+<B><F>Eh</F> because I don't like America. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F></OL> <laughter>may I ask why you don't like America</laughter>?</A>
+<B><F>Eh</F> it's just my imagination, but America is dangerous place. I think so.</B>
+<A><F>Mm</F>. <F>Er</F> how about Denmark?</A>
+<B>Denmark. Denmark is very <F>er</F> <R>pea</R> peaceful place.</B>
+<A><F>Ah</F> O K. O K. <F>Well</F> have you been to other countries</A>
+<B>Yes.</B>
+<A>in the world?</A>
+<B><F>Er</F> <R>I</R> <R>I</R> I have been <F>mm</F> England and Canada.</B>
+<A><F>Ah</F> O K. So which country do you like best?</A>
+<B><F>Er</F> I like Canada.</B>
+<A><F>Mhn-huh</F>. What makes you say so?</A>
+<B><F>Er</F> because <F>er</F> <F>er</F> in Canada, there are many <F>er</F> kind people.</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>Ur</F> and <R>everyone</R> everyone use the polite English.</B>
+<A><F>Ah</F> I see. <F>Mhn-huh</F>.</A>
+<B>For example,</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>er</F> <R>when</R> when they, <F>er</F> talk to the bus driver,</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>er</F> they say, "Could you tell me <F>ur</F> <??></??>?".</B>
+<A><F>Ah-huh</F>.</A>
+<B>But <F>er</F> <R>in Ameri</R> in America, they say, "Tell me <??></??>.". <OL><nvs>laughter</nvs></OL>.</B>
+<A><OL><laughter>O K</laughter></OL>. <F>Ah</F> I see. <F>Ha</F> <F>ha</F> <F>ha</F> so you want to live in Canada <OL><?>than</?> United States</OL>.</A>
+<B><OL>Yes, yes</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. O K. Then next, <F>er</F> here's another picture for you. O K. This time, please make up a story.</A>
+<B>O K.</B>
+<A>O K. Using from number one to number six. And it happened before, so please start with, "One day last week".</A>
+<B>O K. One day last week, <F>er</F> <R>Mary</R> Mary went to department store <R>to buy</R> to buy tie <SC>to his</SC> to her husband. And because <SC>he</SC> <F>er</F> <F>er</F> the next day is his birthday. And <R>she</R> she found the good tie so she bought it. <R>And</R> and <SC>ss</SC> on the way to <R>ho</R> home, <R>she found</R> she found <F>mm</F> boots or shoes on sale. And <R>she</R> <SC>she bought it</SC> she bought them. And next, she also find the <R>shirt</R> <F>mm</F> shirt <F>er</F> cheep so she <R>bought</R> <R>bought</R> bought it again. And then, <R>she</R> she went home <F>mm</F> smiling.</B>
+</task>
+<followup>
+<A>O K. O K. Thank you very much. <F>Well</F> <F>er</F> what is the most impressive birthday <R>present</R> present you ever got?</A>
+<B><F>Er</F> <.></.> <F>mmm</F>. <F>Er</F> <R>my</R> my family <R>gave</R> gave me a trip for Canada.</B>
+<A><F>Oh</F> that was a <OL>birthday present</OL>?</A>
+<B><OL>Yes</OL>, yes.</B>
+<A>How nice.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Ah</F> <SC>did you</SC> <R>did</R> <F>ah</F> did you <?>want</?> them?</A>
+<B>Yes.</B>
+<A><F>Ah</F> I see. <F>Oh</F> you have a very nice parents.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Ah</F> O K. Then <F>er</F> what is the most <SC>expres</SC> expensive <F>ah</F> present you ever given to your parents?</A>
+<B><R>I</R> I give?</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Er</F> <F>er</F> maybe <R>it</R> <F>mm</F> <SC>it</SC> it's <F>er</F> <JP><F>nnto</F></JP> flowers.</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Mm</F> <R>I</R> I gave my parents flowers.</B>
+<A><F>Ah-huh</F>. I mean, the most expensive one?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. <SC>Just</SC> <R>what</R> what kind of flowers <OL>do you give</OL>?</A>
+<B><OL>Flowers</OL>. <F>Er</F>.</B>
+<A>Special flowers?</A>
+<B>No. <F>Er</F> roses.</B>
+<A><F>Ah</F> how many roses?</A>
+<B>Ten or so.</B>
+<A><F>Ahh</F>. <SC>Because</SC> <F>er</F> why did you choose roses?</A>
+<B><F>Mm</F> maybe, <R>rose i</R> rose is the most beautiful flower. <nvs>laughter</nvs></B>
+<A>Do you like roses?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. What did your parents say?</A>
+<B><F>Ur</F> "Thank you.". <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> And?</A>
+<B>And <F>er</F> <R>they</R> <F>er</F> <SC>they look very</SC> they looked very happy. And <F>mm</F> they display <R>at the</R> <SC>at the</SC> near the door.</B>
+<A><F>Ah</F> O K. O K. Then <F>er</F> O K. What is the difference between a department store and <F>ur</F> nearby retail shop?</A>
+<B><.></.> Department store <F>mm</F> have many goods to sell <R>than</R> than, <F>mm</F> <R>wha</R> what did you say?</B>
+<A><F>Er</F> nearby shop.</A>
+<B>Nearby shop.</B>
+<A><F>Mhn</F>.</A>
+<B><F>Er</F> <F>er</F> <R>than</R> than the shop.</B>
+<A><F>Mm</F> O K. O K. <F>Er</F> do you often go to a department store?</A>
+<B><F>Mmm</F> yes.</B>
+<A>Which one is your favorite?</A>
+<B><F>Er</F> my favorite department store is <F>er</F> Hep Five in Umeda.</B>
+<A><F>Ah</F> O K. What's good about that shop?</A>
+<B><F>Er</F> because they have <F>er</F> <JP><F>nnto</F></JP> too much clothes to sell so I like it.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. O K. Thank you. This is almost end of interview.</A>
+<B><nvs>laughter</nvs></B>
+<A>And <F>er</F> this coming summer, are you going abroad?</A>
+<B>Maybe, <R>I</R> <SC>I</SC> I'll go</B>
+<A><F>Ah-huh</F>.</A>
+<B>to Denmark and <SC>Germany</SC> German.</B>
+<A><SC>In</SC> <F>oh</F> two countries?</A>
+<B>Yes.</B>
+<A><F>Oh</F> how long will you stay?</A>
+<B><F>Er</F> <F>mm</F> maybe it's very <R>short time</R> short time.</B>
+<A><F>Mhn</F>.</A>
+<B><F>Er</F> ten days or so, because I have a part time job.</B>
+<A><F>Oh</F> I see. Who are you going with?</A>
+<B><F>Mm</F> I want to go alone, but my mother say <SC>I want</SC> <F>ah</F> she wanted to go.</B>
+<A><F>Ah</F> <OL>so is she going with you</OL>?</A>
+<B><CO><OL>So maybe</OL></CO>. Maybe.</B>
+<A>O K. O K. Please enjoy your trip <OL>there</OL></A>
+<B><OL><F>Ah</F></OL> thank you very much.</B>
+<A>O K. And this is all. Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

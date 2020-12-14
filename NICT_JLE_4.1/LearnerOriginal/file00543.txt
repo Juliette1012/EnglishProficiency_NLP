@@ -1,0 +1,228 @@
+<interview>
+<filename>file00543.txt</filename>
+
+<head version="1.3">
+<date>2001-07-24</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX01</H>.</B>
+<A><F>Um</F>. <H pn="B's name">XXX01</H>, how are you today?</A>
+<B><F>Err</F>. <F>Er</F> I'm fine.</B>
+<A>O K. It's really hot outside. But <F>um</F> how did you get here?</A>
+<B><F>Err</F>. <F>Hm</F>. I came here by bicycle and train.</B>
+<A><F>Uhu</F>. <.></.> It must be really hot.</A>
+<B><F>Er</F> yes.</B>
+<A>Yeah. All right. So <F>um</F> by the way, do you do any club activities?</A>
+<B><F>Er</F> yes.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Mm</F>. I belong to a <R>E</R> <R>E</R> English conversation club and ski club.</B>
+<A><F>Uhu</F>. So can you tell me about the ski club?</A>
+<B><F>Uum</F>. <F>Er</F> <F>eh</F>. <R>Ma</R> many people think <F>err</F> <R>s</R> ski club <F>err</F> <F>hm</F> <R>ha</R> have nothing <R>to</R> <R>to do</R></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>mm</F> to do <SC>in the</SC> in <R>su</R> summer,</B>
+<A><F>Uh-huh</F>.</A>
+<B>or fall.</B>
+<A>Right.</A>
+<B>But <F>err</F> <R>w</R> we can <R>pra</R> practice,</B>
+<A><F>Uh-huh</F>.</A>
+<B>skiing by using <F>er</F> <R>Ro</R> <SC>Rollerblade</SC> <R>i</R> inline skate.</B>
+<A><F>Err</F>.</A>
+<B><F>Ah</F>.</B>
+<A><?>Really</?>?</A>
+<B>At first, <R>I</R> I didn't know that. So,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I was very surprised <SC>to,</B>
+<A>right.</A>
+<B>know it</SC> <R>to</R> to know that.</B>
+<A><F>Uhu</F>. So <F>um</F> do you <OL>practice skiing</OL>?</A>
+<B><OL><F>Er</F> yes</OL>.</B>
+<A><F>Uhu</F>. So what's so interesting about skiing?</A>
+<B><F>Uum</F> <F>err</F>. It's hard to describe but,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> <..></..> <F>err</F> <F>uh</F> <R>I</R> <R>I like</R> <F>err</F> <.></.> <F>uh</F> <SC>I like the</SC> <.></.> <F>er</F> <R>I</R> I like <F>er</F> <R>ma</R> many winter sports.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Ah</F>. And <.></.> <F>uh</F> <R>I</R> <R>I</R> <R>I like</R> <F>uh</F> <F>uu</F> I like the ski,</B>
+<A><OL>Right</OL>.</A>
+<B><OL>the best</OL> among them.</B>
+<A><F>Er</F>. I see. All right. So <F>er</F> you said you do the winter sports.</A>
+<B>Yeah.</B>
+<A>What do you do except skiing?</A>
+<B><F>Uum</F>. <R>Ska</R> skating.</B>
+<A><F>Uum</F>.</A>
+<B>Or <F>hm</F> <F>er</F> skating and <.></.> <F>er</F> <.></.> <F>uh</F> <JP><F>eeto</F></JP> <F>uh</F> <F>uh</F> <R>I</R> I haven't <R>t</R> <R>t</R> <SC?>try</SC?> tried <F>err</F> <R>snow</R> snowboard. But <F>err</F></B>
+<A>Right.</A>
+<B><SC>I'm interest in</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B>I'm interested in it.</B>
+<A>Right. So, what's so attractive about snowboarding?</A>
+<B><F>Uum</F>. Snowboarding. <..></..> <F>Uh</F>. <F>Er</F>. <R>I</R> I have no special reason for this. <F>Er</F>.</B>
+<A>Right.</A>
+<B>But <F>err</F> <F>er</F> <R>I</R> I'm interested.</B>
+<A><F>Uhu</F>. I see. So you're gonna do it this <F>er</F> winter?</A>
+<B><F>Er</F>. Yes.</B>
+<A>I see. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>So the first thing today, I'm going to show you a picture. O K? So please describe it.</A>
+<B><F>Er</F>.</B>
+<A>O K?</A>
+<ctxt>The interviewee is looking at the picture and thinking for a while.</ctxt>
+<B><JP><F>Ee</F></JP>. <F>Er</F> <R>si</R> six students attend to the <F>er</F> <R>math</R> mathematic class.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Er</F> <F>err</F> <R>te</R> teacher <F>err</F> <SC>tries to <R>te</R> teach</SC> <F>err</F> <R>tr</R> <SC>try to teach</SC> <R>t</R> <R>tr</R> tries to teach very much. But <F>err</F> <F>er</F> except <R>two students</R> <F>err</F> <F>err</F> two students, <F>hm</F> <.></.> <F>err</F> <R>the</R> <.></.> <R>the</R> they don't <R>co</R> concentrate on this class. <F>Er</F>. <F>Um</F>. <R>Two</R> <SC>two of them</SC> <F>er</F> <F>eh</F> <F>err</F>. <..></..> <JP><F>Ee</F></JP> <F>uh</F> <R>one</R> one student <F>er</F> <R>wear</R> <R>wearing</R> wearing <SC>gla</SC> <R>g</R> glass <F>er</F> <R>ea</R> <R>ea</R> <R>ea</R> <SC>eats</SC> <R>i</R> is <SC>eating</SC> <F>er</F> chewing gum. <R>And</R> and <.></.> <F>hm</F> <F>eh</F> <R>one</R> <R>one</R> one drinks <R>and</R> and <R>he</R> <R>he</R> hearing some music.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>And</R> and <R>two</R> two girl students <R>are</R> <F>uh</F> <R>are</R> <SC>are talking <?>abou</?></SC> are chatting.</B>
+<A><F>Uhm</F>. All <OL>right</OL>.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A>Thank you very much.</A>
+</task>
+<followup>
+<A>So, what are some differences between the classroom in this picture and the classroom you are taking at the university?</A>
+<B><F>Uum</F>. <.></.> <??></??> <..></..></B>
+<A>So what are some differences?</A>
+<B>Differences?</B>
+<A>Yeah.</A>
+<B><F>Uum</F>. <.></.> <F>Er</F>. <R>I</R> in my university, at least <F>er</F> <R>thirty</R> thirty students <F>er</F> <R>ta</R> take the class. But in this picture, <F>er</F> <F>eh</F> <R>le</R> <R>less</R> less than ten students <F>er</F> take the class.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Eh</F>. <.></.></B>
+<A>So which do you like better, a big classroom or the small classroom?</A>
+<B><F>Uum</F>. <R>I</R> <F>er</F> <R>i</R> <SC>if the</SC> <F>er</F> <R>i</R> <R>if</R> if students <F>er</F> <R>s</R> <R>s</R> studies hard,</B>
+<A>Right.</A>
+<B><F>uh</F> I like big class.</B>
+<A><F>Uhu</F>. Why?</A>
+<B><F>Er</F> because <F>er</F> <R>in s</R> <R>in small class</R> <F>err</F> <F>hmm</F> <JP><F>eh</F></JP> <F>hm</F> <.></.> <F>hm</F> <JP><F>eh</F></JP> <.></.> <F>er</F> <R>in s</R> in small class, <F>er</F> I feel a little <F>er</F> isolated. <F>Hm</F>.</B>
+<A><F>Ah</F>. right.</A>
+<B><F>Er</F> but <F>er</F> <R>i</R> <R>in</R> in big class, <F>er</F> <.></.> the <F>er</F> <R>a</R> <R>a</R> atmosphere <F>err</F> <R>ma</R> makes me <F>er</F> <R>study</R></B>
+<A><F>Uh-huh</F>.</A>
+<B>study harder. <OL><F>Hm</F></OL>.</B>
+<A><OL>Right</OL>.</A>
+<B>So I like <R>bi</R> big class.</B>
+<A><F>Um</F>. All right. I see.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So the next thing today, we are going to do a role-play. So please read that card silently. And you finished,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>please</OL> let me know.</A>
+<B><F>Oh</F>.</B>
+<A>O K?</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K. So are you ready?</A>
+<B><F>Er</F>. Yes.</B>
+<A>O K. So, good afternoon. How can I help you?</A>
+<B><F>Er</F> <F>um</F>. <R>I</R> <R>I</R> I want to get to New York as soon as possible. <OL><F>Er</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><F>Hm</F>. Could you please <F>er</F> show me the best access to New York?</B>
+<A>O K. <F>Um</F> first of all, you have to buy a ticket.</A>
+<B><.></.> <F>Ah</F> yes. <..></..> <F>Err</F>. <?>Local</?> <??></??> <.></.> <F>Er</F>. <JP><F>Ee</F></JP>. <nvs>cough</nvs> <.></.> <F>Eh</F> <F>er</F>. <F>Em</F> <R>cou</R> could you tell me <F>er</F> <R>whe</R> <R>where</R> where and how can I buy the ticket?</B>
+<A><F>Er</F> you can buy the ticket here.</A>
+<B><F>Ah</F>. <..></..></B>
+<A>So would you like to buy a ticket?</A>
+<B><F>Er</F> yes.</B>
+<A>O K.</A>
+<B><.></.> <F>Uh</F>. <JP><F>Eh</F></JP>. <F>Er</F> <.></.> <F>er</F> <F>er</F> <R>wh</R> <SC>which ke</SC> which ticket <F>er</F> should I buy to get to New York?</B>
+<A><F>Uhu</F>. We have two types of trains.</A>
+<B><F>Ah</F>. <.></.> <R>Two</R> two types of trains?</B>
+<A>Right.</A>
+<B><F>Er</F> <F>er</F> <R>which</R> which train <F>er</F> get to New York sooner?</B>
+<A><F>Um</F> that's super express train.</A>
+<B><F>Er</F> O K. <F>Er</F>. <.></.> Super express. <F>Er</F> <R>how</R> <SC>how does it co</SC> <F>er</F> <F>uh</F> <F>er</F> <.></.> <F>uh</F> <F>er</F> <R>how</R> how much,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><R>do</R></OL> does it cost?</B>
+<A><F>Um</F> it's five hundred dollars.</A>
+<B><F>Oh</F>. <..></..></B>
+<A>O K. So, would you like to take it?</A>
+<B><F>Er</F> yes.</B>
+<A>O K. So here is your ticket. So <F>er</F> please enjoy your trip to New York.</A>
+<B><F>Uh</F>.</B>
+<A>O K. This is the end of the role-play.</A>
+<B><F>Uh</F>.</B>
+<A>O K.</A>
+</task>
+<followup>
+<A>So <F>um</F> <F>um</F> do you sometimes travel by train?</A>
+<B><.></.> <F>Hm</F>. <F>Ah</F> yes.</B>
+<A><F>Uhu</F>. So when was the last time you made a trip by train?</A>
+<B>By train?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. <.></.> <F>Er</F> <.></.> <F>er</F> <F>er</F> <F>hm</F> <F>uh</F> <R>I ca</R> <SC>I came here <F>er</F> to</SC> <F>er</F> I came to <H pn="others2">XXX02</H> to <F>er</F> go to <H pn="school name1">XXX03</H>.</B>
+<A>Right.</A>
+<B><SC>So <F>er</F> <F>um</F> <F>er</F> at first</SC> <F>er</F> <SC>I</SC> so <R>I</R> I'm from <H pn="others1">XXX04</H>.</B>
+<A>Right.</A>
+<B>So <F>er</F> <R>I</R> I didn't know <F>er</F> where to <R>go</R> go in <H pn="others2">XXX02</H> at first.</B>
+<A>Right.</A>
+<B><R>So</R> <F>um</F> <.></.> so <F>erm</F> <R>thi</R> this is the <R>bi</R> <R>bi</R> biggest problem <F>er</F> <F>er</F> <R>I</R> I had,</B>
+<A><F>Uh-huh</F>.</A>
+<B>these days.</B>
+<A><F>Err</F>. So what's the biggest problem you had?</A>
+<B><F>Uum</F>. <F>Er</F> <R>fir</R> firstly, <F>er</F> <R>af</R> after <R>re</R> reaching <H pn="others2">XXX02</H> Station,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> <F>um</F> <JP><F>eh</F></JP> <JP><F>eh</F></JP> <F>er</F> <R>I</R> <F>er</F> <R>I had</R> I had difficulty in finding <F>er</F> which train I should take to get to the university.</B>
+<A>Right.</A>
+<B>Yeah.</B>
+<A><F>Um</F>.</A>
+<B><..></..> <R>And</R> and <R>in</R> in <H pn="others2">XXX02</H>, <F>err</F> <F>mm</F> <R>ma</R> <SC>many</SC> <R>ma</R> <R>many s</R> <F>er</F> many subways are <R>in <H pn="others2">XXX02</H></R> in <H pn="others2">XXX02</H>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>er</F> <.></.> <R>I</R> I'm <F>er</F> lost in each station.</B>
+<A><F>Err</F>. But now you are O K?</A>
+<B>O K.</B>
+<A>All right. So, <F>er</F> thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So the last thing today, I'm going to show you another picture. So this time, please make a story using these four pictures. And this story was happened last week, so please start your story with "One day last week".</A>
+<B><F>Oh</F>.</B>
+<A>O K?</A>
+<B><?>Yeah</?>.</B>
+<A>Go ahead.</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a moment.</ctxt>
+<B><F>Er</F> <R>o</R> <SC>one day</SC> <F>er</F> <.></.> <R>o</R> <R>one day</R> <F>hm</F> <.></.> <F>er</F> one day, three teenagers <F>er</F> <R>went to</R> went to see a movie. And <R>there</R> there, <F>er</F> <R>they</R> they bought <F>er</F> popcorn and cola before seeing the movie. <nvs>cough</nvs> <F>Um</F>. <F>Ee</F>. The movie was very exciting. <F>Um</F>. <R>They</R> <R>they saw</R> they saw the <R>airplane</R> <F>er</F> <.></.> <F>uh</F> <R>a</R> <SC>airplane</SC> <F>er</F> <.></.> plane <F>er</F> <R>fe</R> fell <R>w</R> <JP><F>eeto</F></JP> <R>wi</R> <R>with</R> with a <R>big flame</R> <.></.> big flame. <F>Er</F>. <.></.> <F>Er</F> <F>hm</F>? <R>A</R> after seeing the movie, <F>um</F> <F>er</F> <.></.> <F>er</F> <R>the</R> they were very <R>enj</R> enjoyable.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. <.></.> <R>An</R> and <F>er</F> <R>ta</R> talked about the movie very much.</B>
+<A><F>Um</F>. All right. Thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>So, we are almost at the end of the interview. But do you have any plans for summer?</A>
+<B>Summer.</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. <JP><F>Ee</F></JP>. <F>Uh</F>. <R>I</R> <SC>I have <F>er</F> th</SC> <R>I</R> I have three training camp in summer.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>er</F> it cost me a lot of money.</B>
+<A>Right.</A>
+<B>So <F>er</F> <F>hm</F> <R>I</R> I have to take some part-time job.</B>
+<A>Right.</A>
+<B>But <F>err</F> <F>hm</F> <R>I</R> I want to go back to my hometown,</B>
+<A>Right.</A>
+<B><F>er</F> for a while. <R>So</R> <F>um</F> <.></.> so <R>I</R> <R>I should</R> <F>uh</F> I should check the schedule,</B>
+<A>Right.</A>
+<B>very hard.</B>
+<A><F>Er</F>. I see. So you're going to have a busy summer.</A>
+<B>Yes.</B>
+<A>All right. So I hope you have a wonderful time. And thank you so much for coming in today.</A>
+<B><F>Er</F>. Thank you.</B>
+<A>This is the end. O K.</A>
+</stage5>
+</body>
+</interview>

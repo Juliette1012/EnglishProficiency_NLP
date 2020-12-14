@@ -1,0 +1,119 @@
+<interview>
+<filename>file00888.txt</filename>
+
+<head version="1.3">
+<date>2002-03-05</date>
+<sex>female</sex>
+<age>40</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi, <F>erm</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> <F>erm</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uh-huh</F>. <F>Ur</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><F>Er</F> <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Erm</F> I have a slight stomachache now, but mostly O K.</B>
+<A><F>Umm</F>. Why do you have a stomachache?</A>
+<B>Me? I'm a little <laughter>nervous</laughter>. <nvs>laughter</nvs></B>
+<A><F>Mm</F>. Just O K. <F>Erm</F> where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Umm</F>. Do you live there with your family?</A>
+<B><F>Oh</F> <F>erm</F> I live with my husband.</B>
+<A><F>Oh</F>. Tell me about your husband.</A>
+<B><F>Erm</F> <F>erm</F> he is <F>erm</F> <.></.> <F>erm</F> <.></.> <R>projectio</R> projectioner. <F>Erm</F> he works at the movie theater.</B>
+<A><F>Uhm</F>. What does he do?</A>
+<B><F>Erm</F> he <.></.> is playing the movie machine. And <R>he</R> <SC>he playsing</SC> he play to the movie.</B>
+<A><F>Mhm</F>. I see. <F>Erm</F> what do you do? What's your job?</A>
+<B><F>Erm</F> I'm a typist. I work at <F>ur</F> patent office.</B>
+<A><F>Mm-hm</F>. How do you like your job?</A>
+<B><F>Erm</F> I like my job, but <F>erm</F> my job has a <F>mm</F> deadline <R>every</R> every day so <F>mmm</F> it's <F>erm</F> stressful for me. <nvs>laughter</nvs></B>
+<A>I see. <.></.> <F>Erm</F> in your free time, what do you do?</A>
+<B><F>Erm</F> <F>erm</F> I used to swimming, but I can't now. <F>Erm</F> <.></.> recently, <F>erm</F> I watch movies or reading books.</B>
+<A><F>Mm</F>. <F>Erm</F> why can't you swim now?</A>
+<B><F>Erm</F> want to swim now, <.></.> but <F>erm</F> <R>I</R> I went to <F>erm</F> sports gym, but <R>I</R> <R>I</R> I quit. And <F>erm</F> there isn't a pool near my house.</B>
+<A><F>Mhm</F>. I see. And what kind of movies do you like?</A>
+<B><F>Erm</F> <.></.> I like all kinds of movies, especially I like <.></.> non-fiction movies.</B>
+<A><F>Umm</F>. I see. Why do you like non-fiction movies?</A>
+<B><F>Erm</F> <..></..> <nvs>laughter</nvs> <F>Mm</F> <SC>I</SC> <F>erm</F> because I was moved. <F>Umm</F>. <..></..> <F>Uhm</F> <laughter>I think</laughter>.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Mm-hm</F>. O K. Thank you very much. Now, I want you to <F>err</F> look at this picture, and please describe this picture.</A>
+<B>Yes. <F>Erm</F> <.></.> a girl is sitting on a chair, and there is a <.></.> computer on the desk. <F>Urm</F> there is a typewriter on the desk, too. And <R>she has</R> she has pets, <F>mm</F> <SC>dog</SC> a dog and a cat. <.></.> <F>Erm</F> this is her own room. <..></..> It's June. <.></.> <F>Erm</F> there is a <..></..> <R>ste</R> <R>ste</R> stereo set <R>on the</R> on the <.></.> bookshelf. <F>Umm</F>. There is a telephone. <.></.></B>
+</task>
+<followup>
+<A>O K. Thank you very much. <F>Er</F> do you have your own computer?</A>
+<B><F>Er</F> yes, I do.</B>
+<A>What do you use for?</A>
+<B><F>Erm</F> I use it for <.></.> e-mail <laughter>only</laughter>.</B>
+<A><F>Uh-huh</F>. I see. <F>Erm</F> how did you learn how to use computer?</A>
+<B><F>Erm</F> I went to the computer school before, and now <R>I</R> I started learning to <.></.> teach someone.</B>
+<A><F>Umm</F>. <..></..> So <F>erm</F> do you want to be a computer instructor?</A>
+<B>Yes, I want to be. <nvs>laughter</nvs></B>
+<A><SC>Why</SC> <F>er</F> <F>er</F> how did you get <R>inter</R> interested in computer instructor?</A>
+<B><F>Erm</F> <.></.> <F>erm</F> there're some steps. <F>Uhm</F> first, <F>erm</F> <R>I learn</R> <.></.> <F>err</F> I learn <.></.> <R>basi</R> <F>erm</F> <R>basi</R> basically <.></.> <F>er</F> <R>how</R> how to use, <.></.> <F>erm</F> and take an examinations. And next steps, <F>erm</F> how to teach. <.></.> <F>Erm</F> <SC>I learn</SC> maybe <?>I learn</?>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. Thank you very much. Now next, <F>erm</F> we'll do a role-play. And <F>ur</F> I want you to read this card. This is written in Japanese. And when you finish reading, I'll start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K.</B>
+<A>O K? Hi, <F>erm</F> may I help you?</A>
+<B><F>Erm</F> <.></.> I want to go to New York, and <SC>I ha</SC> <R>I</R> I want to have a ticket to New York. <F>Er</F> how do I get it?</B>
+<A><F>Erm</F> you can buy it here.</A>
+<B><F>Oh</F> here. <F>Erm</F> <F>umm</F> how much is <.></.> <F>err</F> <.></.> round trip ticket?</B>
+<A><F>Erm</F> we have <F>ur</F> two kinds of tickets.</A>
+<B>Two kinds of tickets. <F>Erm</F> <.></.> <F>mmm</F> please <SC?>this</SC?> teach me <F>er</F> <R>two</R> two way.</B>
+<A>O K. <F>Er</F> one is local. The other is express.</A>
+<B><F>Oh</F> O K. <F>Erm</F> I take express, please.</B>
+<A><F>Uh-huh</F>. O K. So <F>erm</F> the round trip are fifty dollars.</A>
+<B>Fifty dollars? <..></..> O K. <R>I</R> I take it.</B>
+<A>O K. Here is your ticket.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Thank you, madam. O K. Thank you very much. This is the end of the role-play. And <F>erm</F> <F>er</F> tell me about the last trip <SC>you went</SC> you took.</A>
+<B>Last trip. <.></.> <F>Mm</F> last trip. <..></..> <F>Mm</F> <SC>I</SC> <F>er</F> last trip, <.></.> I went to <.></.> Florida last <?>April</?>.</B>
+<A>Tell me more <OL>about that</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Erm</F> <F>erm</F> I like dolphins, and <R>I</R> <SC>I swims with</SC> <F>er</F> I swim with dolphins. And <F>er</F> in Florida, there is a laboratory to research dolphins. So <SC>I went to</SC> I went there. And I studied about dolphins, and <.></.> of course, I swim with <laughter>dolphins there</laughter>.</B>
+<A><F>Ohh</F>. How did you like it swimming with <OL>dolphins</OL>?</A>
+<B><OL><F>Erm</F></OL> <F>erm</F> <R>I</R> <SC>I can't ex</SC> I can't say the words. <F>Mm</F> very exciting, very <R>hap</R> happiness, <F>erm</F> <.></.> <F>erm</F> I recommend you. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><laughter><F>Mhm</F> O K, thank you very much</laughter></OL>. O K. Next, <F>erm</F> <.></.> I want you <F>erm</F> see these pictures, and <F>ur</F> I want you to <R>make up</R> make up a story based on these pictures from one to six. And this happened last week so I want you to start your story with "One day last week".</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B>O K. <..></..> <F>Erm</F> one day last week, <.></.> <F>err</F> my father and I went to a restaurant. <.></.> And <.></.> <R>my father</R> <F>erm</F> <.></.> <F>erm</F> <R>my father</R> <.></.> <SC>my father <SC>ta</SC> took</SC> my father took a table for us. <R>And</R> <..></..> <F>er</F> and <F>er</F> <F>ur</F> <R>when we</R> <SC>when we get there</SC> <SC>when we got</SC> <SC>when we go</SC> <F>er</F> when we get into there, <F>erm</F> <SC>the</SC> <.></.> <F>erm</F> maybe the manager in the restaurant <F>erm</F> <.></.> <F>er</F> <F>erm</F> <R>he</R> <SC>he <.></.> take</SC> <F>er</F> he took us to <SC>our ta</SC> the reservation table. And <.></.> <F>erm</F> <.></.> <R>we took</R> <F>er</F> we took the table, and the waiter is coming. And <F>erm</F> <R>we</R> <SC>we are ordering</SC> <F>erm</F> <.></.> <F>erm</F> my father ordered meat, and <SC>I ordered meal</SC> <F>er</F> I ordered fish. And <.></.> <F>erm</F> <F>mm</F> my father <SC>drink</SC> drinks <.></.> a glass of wine, and I drink a glass of beer. <.></.> And <..></..> <SC>my father <.></.> eat</SC> <.></.> <F>erm</F> <nvs>laughter</nvs> <SC>the</SC> my father eat steak <??></??> them. <F>Erm</F> <R>I</R> I ate a lots. <.></.> And <.></.> after that, <.></.> <F>erm</F> <.></.> I say to him good-bye, and <R>go to</R> go to my friends. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL><laughter><F>Uh-huh</F></laughter></OL>. O K. Thank you very much. <F>Erm</F> <.></.> please compare <F>erm</F> restaurants in Japan with the restaurants <SC>in the United States</SC> in Florida.</A>
+<B><F>Erm</F> yeah, <F>erm</F> <.></.> <F>erm</F> <R>the</R> <F>erm</F> the volume of the food is different, I think. <F>Erm</F> <SC>Florida</SC> <SC>Florida's restaurant is <.></.> everybody</SC> <F>erm</F> Florida's restaurant's food <.></.> is <SC>al</SC> <F>erm</F> everything <..></..> big size. <nvs>laughter</nvs> And <R>Japanese</R> Japanese restaurant's food is not so big size, I think. <CO>And <F>ur</F></CO>.</B>
+<A><F>Erm</F> which did you like better?</A>
+<B><F>Ohh</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Ohh</F> I like Japanese size. <nvs>laughter</nvs></B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. O K. <F>Er</F> <F>er</F> we are almost at the end of today's interview. So <F>er</F> what <SC>is</SC> are you going to do after this interview?</A>
+<B><F>Erm</F> <F>mmm</F> <F>urr</F> I'm waiting <R>my</R> my friends. <F>Er</F> <R>we</R> we made friends <F>erm</F> in this class, and <F>er</F> <SC>I</SC> <F>er</F> we go back together.</B>
+<A><F>Umm</F>. O K. Please have fun. O K. <OL>Thank you very</OL> much for coming.</A>
+<B><OL>O K</OL>, thank you.</B>
+</stage5>
+</body>
+</interview>

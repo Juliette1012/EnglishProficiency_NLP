@@ -1,0 +1,179 @@
+<interview>
+<filename>file01141.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. <F>Er</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uh-huh</F>. <F>Er</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Oh</F> yes.</B>
+<A><F>Uh-huh</F>. <F>Er</F> <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine.</B>
+<A><F>Um</F>. <F>Er</F>. Where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Hmm</F>. Do you live there with your family?</A>
+<B>Yes.</B>
+<A><F>Er</F>. Tell me about your family.</A>
+<B><..></..></B>
+<A>Please tell me about your family.</A>
+<B><..></..> Family?</B>
+<A><F>Uh-huh</F>.</A>
+<B><OL><F>Ah</F> <SC>fami</SC></OL></B>
+<A><OL><F>Er</F></OL>.</A>
+<B>my family is father, mother and sister</B>
+<A><F>Hum</F>.</A>
+<B><.></.> and me.</B>
+<A><F>Hmm</F>. I see. Can you tell me about your sister?</A>
+<B><..></..></B>
+<A>Anything about your sister.</A>
+<B><..></..> <SC?>He</SC?> one sister.</B>
+<A><F>Uh-huh</F>. O K. <F>Um</F> do you belong to any club at university?</A>
+<B>No.</B>
+<A>Why not?</A>
+<B><..></..> <F>Eeh</F> <SC>my</SC> <..></..> when I go to highschool, <R>I</R> I belong to baseball club. <.></.> Now, <..></..> I belong to baseball club. <..></..></B>
+<A>So you belong to a baseball club.</A>
+<B>Yes.</B>
+<A><F>Ah</F> I see. How do you like it?</A>
+<B>Yes.</B>
+<A>Do you like it very much?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. I see. <F>Um</F> by the way, <F>er</F> tell me about your hobbies.</A>
+<B>My hobby is sports.</B>
+<A>I see. Do you like <F>er</F> any other sports except <SC>soccer</SC> <F>ah</F> <F>eeh</F> baseball?</A>
+<B><F>Oh</F> swimming.</B>
+<A><F>Hmm</F>. I see. What are the good points of swimming?</A>
+<B><..></..> I swimming pool.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..></B>
+<A>O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, <F>um</F> I want you to look at this picture and please describe this picture. Please tell me anything about this picture.</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><F>Ee</F>. Speaking about the picture?</B>
+<A><F>Hmm</F>.</A>
+<B><.></.> The cat is <.></.> on the bed.</B>
+<A><F>Um</F>.</A>
+<B><..></..> The door open. <..></..> The dog is on floor. <..></..> The girl is on the seat. <.></.></B>
+</task>
+<followup>
+<A>O K. Thank you very much. <F>Um</F> can you tell me the difference between this room and your own room?</A>
+<B><..></..></B>
+<A>Is your room similar to this room?</A>
+<B><..></..> Personal computer,</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> isn't in my room.</B>
+<A><F>Uh-huh</F>.</A>
+<B><..></..> <R>I</R> I haven't <.></.> cat and dog.</B>
+<A><F>Hmm</F>.</A>
+<B><..></..></B>
+<A>O K. Thank you. Do you have your own audio sets?</A>
+<B>Yes. <R>I</R> I have a little <.></.> audio set.</B>
+<A><F>Uh-huh</F>. What kind of music do you listen to?</A>
+<B><..></..> New song.</B>
+<A><F>Ah</F>. Who is your favorite singer?</A>
+<B><..></..> My favorite singer is <..></..> Utada Hikaru.</B>
+<A><F>Hum</F>. Why do you like Utada Hikaru?</A>
+<B><..></..> <R>She</R> she is making <.></.> music.</B>
+<A><F>Uh-huh</F>. Good music.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>I see</OL>. O K. Thank you <OL>very much</OL>.</A>
+<B><OL>Yes</OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, next, I'd like to do a role-play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>And I want you to read this card. And after you finish reading, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B><.></.> Yes.</B>
+<A>Hi. May I help you?</A>
+<B><..></..> <R>I'm looking for</R> <..></..> I'm looking for,</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> pants.</B>
+<A><F>Uh-huh</F>. <F>Er</F> what kind of pants do you like, jeans or cotton pants or?</A>
+<B><F>Oh</F> half-pants.</B>
+<A><F>Oh</F> I see. O K. Here are half-pants.</A>
+<B><.></.></B>
+<A><F>Er</F> which color do you like?</A>
+<B><F>Oh</F> <.></.> blue.</B>
+<A><F>Uh-huh</F>. O K. Blue. And <F>er</F> which size do you want?</A>
+<B>Large size.</B>
+<A>O K. So, here are large <F>um</F> blue <SC>pants</SC> half-pants.</A>
+<B><..></..></B>
+<A><F>Er</F> how about this?</A>
+<B><F>Oh</F> yes. <R>This pants</R> <..></..> this pants, please.</B>
+<A><F>Uh-huh</F>. <F>Er</F> do you want to know the price?</A>
+<B><.></.> Yes.</B>
+<A><F>Er</F> this one is <F>um</F> ten thousand yen. This one is five thousand yen.</A>
+<B><..></..> This ten thousand <?>yen</?>, please.</B>
+<A><F>Um</F>. O K. So here are your pants. <OL>O K</OL>.</A>
+<B><OL><R>Than</R></OL> thank you.</B>
+</task>
+<followup>
+<A>Thank you very much. So this is the end of the role-play. <F>Um</F> where do you usually go shopping?</A>
+<B><..></..> I usually go to <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F>. Why do you go to <H pn="others2">XXX04</H>?</A>
+<B><..></..> Near my house.</B>
+<A>I see. <F>Hmm</F>. Do you go shopping <F>er</F> alone or with your friends?</A>
+<B><.></.> <F>Oh</F> usually with my friends.</B>
+<A><F>Hmm</F>. Why do you go shopping with your friends?</A>
+<B><..></..> Not only shopping but also <..></..> something.</B>
+<A><F>Hmm</F>. I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, the last thing I want you to do is</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>a picture sequence. And please make up a story based on these pictures from one to four. <.></.> Just a simple story is O K.</A>
+<B><.></.> Speaking?</B>
+<A><F>Uh-huh</F>.</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B>There are three people. <..></..> They are <.></.> movie. <..></..> <SC>They were</SC> <.></.> <R>they</R> they buy popcorn and juice. <..></..> They <.></.> watched movie. <..></..> They enjoyed movie.</B>
+</task>
+<followup>
+<A><F>Hmm</F>. O K. Thank you very much. Did you enjoy watching movie, recently?</A>
+<B><..></..> No.</B>
+<A><F>Oh</F>. <F>Er</F> then, <R>w</R> <SC>why don</SC> <F>er</F> <F>ah</F> no, excuse me, do you enjoy watching T V? Or video?</A>
+<B><..></..></B>
+<A><F>Er</F> <.></.> <SC>do you</SC> did you watch any T V program, recently?</A>
+<B>Yes.</B>
+<A>What did you see?</A>
+<B><..></..> I watch <..></..> variety.</B>
+<A><F>Hum</F>. <.></.> <F>Er</F> <SC>what kind of</SC> <F>er</F> do you know the title of the variety show?</A>
+<B><..></..> <R>I</R> I watchs on Fuji television.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uh-huh</F>. I see. <.></.> O K. Thank you. This is almost the end of today's interview. And what are you going to do after this, this afternoon?</A>
+<B><.></.> <R>I</R> I go to <.></.> part-time job.</B>
+<A><F>Hmm</F>. What is it?</A>
+<B><..></..></B>
+<A><F>Well</F> do you like your part-time job?</A>
+<B>Yes.</B>
+<A><F>Oh</F> that's good. <nvs>laughter</nvs> O K. I hope you enjoy your part-time job. Thank you for coming today.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

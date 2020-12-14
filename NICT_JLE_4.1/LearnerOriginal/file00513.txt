@@ -1,0 +1,170 @@
+<interview>
+<filename>file00513.txt</filename>
+
+<head version="1.3">
+<date>2001-06-29</date>
+<sex>female</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>675</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Um</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>How are you today, <H pn="B's name">XXX02</H>?</A>
+<B><F>Uum</F> I'm <.></.> <F>uum</F> <F>mm</F> <R>not</R> not bad, but <.></.> <F>hm</F> I'm very tired.</B>
+<A><F>Hum</F>.</A>
+<B>Because <F>uh</F> <SC>I</SC> in the morning, I have a part-time job. And after that, <SC>I go to</SC> I went to <R>s</R> <SC>school</SC> <.></.> the <R>univer</R> university <R>and</R> <.></.> and I had a meeting. And after that, <R>I</R> <.></.> I <.></.> attend the class.</B>
+<A><F>Hm</F>.</A>
+<B><R>And</R> <..></..> <R>and <.></.> I</R> <.></.> and I <R>s</R> studied in library <R>and</R> <.></.> and came here. <.></.></B>
+<A>O K. <laughter>You must be tired today</laughter>. <laughter>O K</laughter>.</A>
+<B>Yes.</B>
+<A><F>Um</F> So <H pn="B's name">XXX02</H>, tell me about your part-time job.</A>
+<B>Part-time job. <R>I</R> <.></.> <SC?>I'm</SC?> <.></.> <R>I</R> I work <.></.> in the bank. <R>But</R> but actually, <R>I</R> <.></.> I organize <R>the</R> <.></.> the book. <R>Because</R> <F>uum</F> because I work <R>in</R> <F>uum</F> in a kind of think-tank.</B>
+<A><F>Hm</F>.</A>
+<B>So <.></.> <F>uh</F> <R>I</R> <.></.> <F>hm</F> <R>I'm</R> <R>I'm</R> I'm working in the bank but I organize <F>er</F> many books. <.></.> <CO>And</CO>. <.></.></B>
+<A>Books?</A>
+<B><OL>Books</OL>.</B>
+<A><OL>Books</OL>. You mean books in a bank?</A>
+<B><.></.> Yes. <SC>To</SC> <.></.> <F>uum</F> <.></.> <R>so</R> <F>hm</F> so <SC>it's</SC> <.></.> <F>uum</F> <SC>I work</SC> <F>um</F> <R>it's</R> it's think-tank.</B>
+<A><F>Um</F>. <F>Um</F>. <F>Um</F>. <OL>So, O K</OL>.</A>
+<B><OL>So</OL> there are many <OL><?>books</?> <??></??></OL>.</B>
+<A><OL><F>Err</F> I see</OL>. <OL>O K</OL>.</A>
+<B><OL><F>Hm</F></OL>. <.></.></B>
+<A>I see, <H pn="B's name">XXX02</H>. So, in your free time,</A>
+<B>Yeah.</B>
+<A>what do you like to do?</A>
+<B>Free time? <R>I like</R> <.></.> I like reading books. <R>And</R> <.></.> and checking e-mail <R>and</R> <..></..> <F>hm</F> and I like sleeping very much.</B>
+<A>I see. What kind books do you like to read?</A>
+<B><F>Um</F> <R>I like</R> <??></??> <F>hm</F> <..></..> I like Murakami Haruki.</B>
+<A><F>Ah</F>.</A>
+<B><F>Hm</F>. And <R>so</R> <..></..> <SC>so it's</SC> <.></.> <F>er</F> <R>I</R> <SC>I <?>won't</?></SC> I don't read non-fiction book.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> <SC>Usually, I read</SC> but <F>uum</F> <.></.> <F>hm</F> yeah, <R>I like</R> I like novel.</B>
+<A><F>Hm</F> O K. So what's good about his novel?</A>
+<B><.></.> <CO>What's good about</CO>. <.></.> <F>Hm</F>. <.></.> <F>Hm</F>. <.></.> <CO><R>Because</R> because <..></..> <R>the</R> <F>uum</F> <.></.> <R>the</R> <F>uum</F> the</CO>. <nvs>laughter</nvs></B>
+<A>O K. Thank you.</A>
+<B><laughter>Sorry</laughter>.</B>
+<A><laughter>Thank you, <H pn="B's name">XXX02</H></laughter>. <laughter>That's O K</laughter>.</A>
+</stage1>
+<stage2>
+<task>
+<A>So, I'm going to show you a picture. Please describe this picture for me.</A>
+<B>Describe.</B>
+<ctxt>The interviewee is looking at the picture and thinking for a while.</ctxt>
+<B>It's sunny day.</B>
+<A><F>Hm</F>.</A>
+<B>And <..></..> <R>there are</R> <.></.> there are six persons. And <R>they are outside</R> they are outside. <F>Hm</F> one is <SC>running the road</SC> running on the road. And childrens are playing <R?>with</R?> with a ball. <SC>And one girl is</SC> <F>uum</F> <.></.> childrens are playing. <R>And</R> <..></..> and <SC>womens</SC> two women are talking. <F>Hm</F>.</B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Where do you live now?</A>
+<B>Now? I live in <H pn="others1">XXX03</H>,</B>
+<A><F>Uhm</F>.</A>
+<B>City.</B>
+<A><F>Hm</F>.</A>
+<B><F>Eh</F> <F>mm</F> <SC><H pn="others1">XXX03</H> City</SC> do you know <H pn="others1">XXX03</H> City?</B>
+<A>Yes. A little bit.</A>
+<B><F>Hm</F> city. <R>It takes</R> it <R>takes about</R> <..></..> takes <R>about</R> about <.></.> almost thirty or forty minutes from Tokyo <OL>by train</OL>.</B>
+<A><OL>I see</OL>. <F>Hm</F>.</A>
+<B><R>And</R> <.></.> and <R>world</R> <SC>world soccer game will be</SC> <.></.> <F>mm</F> <R>we</R> <.></.> <F>eh</F> <R>we</R> we have <.></.> world soccer game <R>next</R> next year <laughter>or</laughter> this year. I don't know.</B>
+<A>I see. <F>Hm</F>. Is <H pn="others1">XXX03</H> City similar to this picture?</A>
+<B>No. <.></.> No. Not at all. <R>Because</R> <.></.> <F>uum</F> because it's very <..></..> <R>com</R> complicated. <F>Hm</F> <.></.> <R>And</R> <.></.> <F>uum</F> <..></..> <F>hm</F> <??></??> <.></.> and I think there is <.></.> no room between the houses in <H pn="others1">XXX03</H> City. <.></.></B>
+<A>O K. Thank you. Thank you, <H pn="B's name">XXX02</H>. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Er</F> let's do a role-play. I give you this card.</A>
+<B><OL><?>O K</?></OL>.</B>
+<A><OL>So</OL> please it to yourself. When you are ready, I'll begin. This is a telephone conversation. O K? Are you ready?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes.</B>
+<A>Hello? This is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello? This is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. <H pn="B's name">XXX02</H>.</A>
+<B><F>Uum</F> <R>hi</R>. Hi. <.></.> How are you?</B>
+<A>Fine, thank you.</A>
+<B><F>Eh</F> <F>uum</F> <SC>do you</SC> <.></.> <SC>are you free on</SC> <..></..> do you have <SC>s</SC> any appointment on weekend?</B>
+<A>No. I'm free.</A>
+<B><R>How</R> how about going to movie?</B>
+<A>Good idea. <F>Hm</F>.</A>
+<B>Well, <.></.> when is convenient to you?</B>
+<A>Time?</A>
+<B>Yeah. What time?</B>
+<A><F>Er</F> in the morning.</A>
+<B>Morning.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Hm</F>. Yeah. <.></.> <R>How about</R> <.></.> how about ten o'clock in <.></.> Ebisu Station?</B>
+<A>Sure.</A>
+<B><SC>In</SC> <.></.> ten o'clock in Ebisu Station. <.></.> <F>Hm</F>. <.></.> <F>Hm</F>. <R>What</R> <R>what do you want</R> <SC>what do you want to watch</SC> <CO>what kind of movie do you want to</CO>?</B>
+<A>I like romantic movie.</A>
+<B>Romantic. Romantic movie. Like "Titanic"?</B>
+<A><F>Hm</F>.</A>
+<B>And <CO><?>what do you</?></CO>.</B>
+<A><F>Um</F> but I'm O K. You decide.</A>
+<B>Decide. <nvs>laughter</nvs> <.></.> <F>Hm</F> <SC><R>I</R> I want to watch</SC> <F>er</F> I forgot the name of the movie but I know <.></.> German movie in Ebisu theater. So how about it?</B>
+<A><F>Um</F>. Sounds great.</A>
+<B><F>Um</F>. <..></..></B>
+<A>O K. So let's meet at,</A>
+<B><OL>Ten</OL>.</B>
+<A><OL>Ebisu Station</OL>. <OL>Ten o'clock. O K</OL>.</A>
+<B><OL><??></??></OL>.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>See you then. Bye-bye.</A>
+<B>Bye.</B>
+<A>That's the end of the role-play. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So let's move on to the next stage. <F>Er</F> this is the last one. So please make up one short story using these pictures from one to four. Sorry. I made a mistake.</A>
+<ctxt>The interviewer is looking for another card.</ctxt>
+<A><F>Er</F> sorry. I'm sorry. This one. Sorry.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<A>O K? Go ahead.</A>
+<B><.></.> <F>Hm</F> make a <R>sto</R> story?</B>
+<A><F>Um</F>. Make up one story.</A>
+<B>One story.</B>
+<A><F>Um</F>. Short story.</A>
+<B><F>Hm</F>.</B>
+<ctxt>The interviewee is thinking for a moment.</ctxt>
+<B>On Sunday, <.></.> Taro and Hanako <R>went to</R> went to the Ueno Zoo. And <R>they meet</R> they meet at twelve o'clock at the gate. And at first, <SC>they saw</SC> <R>they</R> they look at the <.></.> <R>lion</R> <R>lion</R> <..></..> lion. <.></.> After that, they went to the monkey mountain. <CO><R>And</R> <..></..> and <SC>see</SC> <..></..> <R>and</R> <R>and</R> and s</CO>. <..></..> <CO>They</CO>. <..></..> And Hanako ate <R>the</R> the ice cream. <SC>But</SC> <F>hm</F> <R>and</R> <.></.> and they <SC>enjoy</SC> <.></.> <SC>enjoyed the</SC> enjoyed watching monkeys very much. <.></.> And <.></.> at five o'clock, <R>they</R> <..></..> <SC>they</SC> <..></..> <R>Ta</R> Taro <SC>have</SC> had a part-time job and Hanako has an appointment with her friends. So <R>they</R> <..></..> they <.></.> went out the zoo.</B>
+<A><F>Um</F>. O K. Thank you.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K, <H pn="B's name">XXX02</H>. Interview is almost over. So <F>er</F> have you finished your dinner?</A>
+<B><F>Mm</F> no.</B>
+<A>Not yet?</A>
+<B>Yes.</B>
+<A>So are you going to some restaurant after <OL>this</OL>?</A>
+<B><OL>No</OL>. No. <R>I</R> <R>I will</R> <.></.> <R>I will</R> <.></.> <SC>I will go home</SC> I'll go home <.></.> quickly <R>and</R> <.></.> and I will have dinner at home.</B>
+<A><F>Err</F> <OL>I see</OL>.</A>
+<B><OL><R>I like</R></OL> <.></.> <R>I like</R> <.></.> <SC>I like to have dinner,</B>
+<A><F>Hm</F>.</A>
+<B>at home</SC> <.></.> <F>er</F> <R>I like</R> I like dinner at home better than <.></.> eat outside.</B>
+<A><F>Hum</F>. I see. <F>Hm</F>. Enjoy dinner with your family.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>O K</OL>. Thank you very much, <H pn="B's name">XXX02</H>. <.></.> Thank you.</A>
+</stage5>
+</body>
+</interview>

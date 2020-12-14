@@ -1,0 +1,194 @@
+<interview>
+<filename>file00481.txt</filename>
+
+<head version="1.3">
+<date>2001-06-23</date>
+<sex>female</sex>
+<age>16</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you too</OL>.</B>
+<A><F>Hum</F> <F>um</F> what do you usually do on Saturdays?</A>
+<B><F>Uhm</F> always, I go to school. And <F>um</F> after school, <F>um</F> <SC>I <.></.> go</SC> I'm go shopping with my friend. <OL>Yes</OL>.</B>
+<A><OL>Nice <F>uum</F></OL> O K. Where do you go shopping?</A>
+<B>Shopping. <F>Uum</F> I like Harajuku and Daikanyama. <F>Um</F> I like clothing because <R>I</R> I like to buy my clothes.</B>
+<A><F>Uh-huh</F> I see. <F>Um</F> why is Harajuku a good shopping place?</A>
+<B><F>Err</F> I like <R>used</R> used clothing. <SC>Becau</SC> <F>er</F> <JP><F>eeto</F></JP> there are a lot of <R>used</R> used clothing shop in Harajuku. Because I like Harajuku. <F>Um</F>.</B>
+<A><F>Um</F>.</A>
+<B>Yes.</B>
+<A>I see. O K. Can you tell me about <F>um</F> your best friend?</A>
+<B>Best friend?</B>
+<A><F>Uh-huh</F>.</A>
+<B>My best friend is very cool.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>uum</F> very creative. I like painting and <SC>taking pi</SC> <R>take</R> <F>um</F> take pictures. <F>Um</F> same she. <R>She</R> she like <laughter>taking picture</laughter> and drawing, too. <F>Um</F> because <F>um</F> always together, <F>um</F> doing painting or taking picture. Yes.</B>
+<A>Does she go to the same school?</A>
+<B>Yes.</B>
+<A>O K. Please talk about your school.</A>
+<B>My school.</B>
+<A><F>Uh-huh</F>.</A>
+<B>My school, there is <R>hard</R> hard rule. <F>Hm</F> black hair <laughter><R>and</R></laughter> and long skirt and <SC>do</SC> how do you say, three times</B>
+<A><nvs>laughter</nvs></A>
+<B>socks.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> and <F>uum</F> <.></.> <F>mm</F> my school is <F>uh</F> only girls.</B>
+<A><F>Oh</F>.</A>
+<B>Only girls' school. And junior high and high school together.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because many girls and <R>big</R> big school. And near the <.></.> <R>president</R> president place near. Because around, very quiet. Good place.</B>
+<A><F>Hum</F>.</A>
+<B>Yes.</B>
+<A>What is good about a girls' school? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Ee</F></OL> <F>uum</F> everybody very <F>mm</F> active and <..></..> <F>uum</F> <laughter>talkative</laughter>. <CO><F>Um</F> and my school is festival very exciting because</CO>. <F>Uhm</F> <.></.> <laughter><?>I don't know</?></laughter> difficult.</B>
+<A><F>Um</F> it's O K. All right. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, the first thing I want you to do is to look at this picture.</A>
+<B>Yes.</B>
+<A>And please tell me about that picture.</A>
+<B>Picture. <F>Uhm</F></B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>uum</F> there are <.></.> dog and cat. Maybe she likes animal. <.></.> <F>Uhm</F> open the door. And <..></..> she play computer. <nvs>sniff</nvs> And it is <SC>thir</SC> three o'clock. <F>T</F> It is June. <.></.> It is very sunny. And <F>uum</F> very clean room. <nvs>sniff</nvs> And <..></..> <F>uum</F> <..></..> <SC>she</SC> there are a lot of books. Maybe she likes book. <..></..> That's all. <OL><F>Hm</F></OL>.</B>
+<A><OL>O K</OL>. <F>Hm</F> thank you.</A>
+</task>
+<followup>
+<A>So you said she likes books. How about you? <nvs>laughter</nvs></A>
+<B><F>Uum</F> <laughter>So-so</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>I like magazines</laughter>.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes. Fashion magazine, I like.</B>
+<A><F>Uh-huh</F> why?</A>
+<B>Why?</B>
+<A><F>Um</F>.</A>
+<B>I like clothing.</B>
+<A><F>Um</F>.</A>
+<B>And I am interested in <R>fashion</R> <F>er</F> <.></.> <F>mm</F> fashionable clothing. Yes.</B>
+<A>I see. <F>Um</F>.</A>
+<B><nvs>sniff</nvs></B>
+<A>O K. There are men's magazines and women's magazines. How are they different?</A>
+<B>Different?</B>
+<A><F>Um</F>.</A>
+<B><F>Uhm</F> <nvs>cough</nvs> girls' magazine is not only clothing. <R>Hair</R> hair making or cosmetics and bags, shoes and a lot of thing. But boys' magazine is maybe <F>mm</F> only clothing and <R>sports</R> sports items <.></.> there are. Because I like <R>clo</R> clothing because I like girls' magazine.</B>
+<A><F>Um</F> I see. <F>Um</F> O K.</A>
+<B><nvs>cough</nvs></B>
+<A><F>Urm</F> so <SC>what was the</SC> <SC>what kind</SC> <R>w</R> what's your favorite magazine?</A>
+<B>Magazine. <F>Uum</F> do you know "Spring"?</B>
+<A><F>Ah</F>.</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs> I see. O K.</A>
+<B><nvs>sniff</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Um</F> the next thing we'll do is a role-play. O K? Please read this, it's in Japanese, and when you are ready, we'll begin.</A>
+<B><F>Ee</F>? Japanese?</B>
+<A>Just read it.</A>
+<B><F>Err</F>.</B>
+<A>Just read it.</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Uum</F>.</B>
+<ctxt>The interviewee is reading the card again.</ctxt>
+<A>O K?</A>
+<B>Yes.</B>
+<A>May I help you?</A>
+<B>Yes. I want to go New York. <F>Uum</F> please tell me how to the most fast <.></.> to way <.></.> <F>uum</F> by the train.</B>
+<A>The fastest train is the super express.</A>
+<B><F>Er</F> how much is this?</B>
+<A>The ticket is a hundred dollars.</A>
+<B>A hundred dollars. <F>Uum</F> <..></..> <F>uum</F> <F>uum</F> another, how to go?</B>
+<A><F>Ur</F> another train is the local train.</A>
+<B><F>Hmm</F>. How long is this <.></.> to New York?</B>
+<A>The local train takes two hours.</A>
+<B><.></.> Thank you. <F>Ee</F> <F>uh</F>.</B>
+<A>Which do you want?</A>
+<B><F>Er</F> <F>uum</F> I want <F>uum</F> express.</B>
+<A>O K. So, a hundred dollars, please.</A>
+<B><F>Er</F>. <OL><laughter>here</laughter></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you. Here is your ticket. All right. Thank you very much. That's the end of the role-play.</A>
+</task>
+<followup>
+<A><F>Um</F> have you been to the United States <OL>before</OL>?</A>
+<B><OL>No</OL>. I never.</B>
+<A>No?</A>
+<B><F>Um</F>.</B>
+<A><F>Uum</F> O K. <F>Um</F> <.></.> where do you like to travel?</A>
+<B>Where?</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <.></.> where. <SC>I want</SC> <F>uum</F> I like sea because I want to go Okinawa.</B>
+<A><F>Err</F>.</A>
+<B>Yes.</B>
+<A>I see. O K. <F>Um</F> when was the last time you traveled?</A>
+<B>Travel. <F>uum</F> <F>ah</F> Last winter, I went to go <R>Zaou</R> Zaou with my friend. Playing ski. <OL>Yes</OL>.</B>
+<A><OL><F>Uh-huh</F></OL> I see. <F>Um</F> please tell me about Zaou.</A>
+<B><.></.></B>
+<A>Please tell me about Zaou.</A>
+<B>Ou?</B>
+<A>Zaou.</A>
+<B>Zaou.</B>
+<A>You went to Zaou. Right?</A>
+<B><F>Err</F> <OL>Zaou yes</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Uum</F> Zaou <..></..> <F>uum</F> do you know <JP>juhyou</JP>?</B>
+<A><F>Err</F>.</A>
+<B><F>Um</F> <R>I</R> I saw this <JP>juhyou</JP> <SC>a lot of</SC> looks like <F>uum</F> Tyrannosaurus and lot of thing. <F>Um</F> and very <R>c</R> crowd because <R>I</R> <R>I can't</R> I can't enough <F>uum</F> to play ski. But <F>uum</F> I went to go with my friend because very excited. <F>Um</F> <OL>yes</OL>.</B>
+<A><OL><F>Uhm</F></OL> I see. <F>Um</F> good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So, the last thing I want you to do is to look at</A>
+<ctxt>The interveiwer is taking out a picture.</ctxt>
+<A>this picture sequence. O K? There are six pictures. Please make a story.</A>
+<B><F>Err</F>.</B>
+<A>O K?</A>
+<B>Yes.</B>
+<A>And start with "One day last week".</A>
+<B><F>Um</F> <.></.> <F>ee</F> this, <OL><SC>my</SC> me</OL>?</B>
+<A><OL><F>Uh-huh</F> <F>uh-huh</F></OL>.</A>
+<B><F>Ee</F> <F>uum</F> I'm so hungry because I want to eat something. But <F>uum</F> there aren't <.></.> food. <.></.> <nvs>laughter</nvs> Because I went to go supermarket. <R>I want to eat</R> <F>uhm</F> <.></.> I want to eat <.></.> egg because I bought egg. And <F>uum</F> <.></.> any more food. <nvs>sniff</nvs> <.></.> And <R>I</R> <SC>I'm go</SC> I went to supermarket by car. Because I <F>um</F> put on the car's bag. <nvs>sniff</nvs> Then I back home. And I cook <F>uum</F> egg. And making the <laughter>stew</laughter>. <F>Um</F> <SC>I'm very</SC> this is very delicious. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uum</F></OL> I see.</A>
+</task>
+<followup>
+<A>So <SC>do you</SC> can you make stew?</A>
+<B>Stew. <F>Uum</F> maybe. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Uum</F> I see. <F>Um</F> <..></..> O K. <F>Urm</F> so, what else can you make?</A>
+<B>Can you make. <F>Uum</F> <.></.> yesterday, <R>I</R> <F>um</F> I made <.></.> <JP>norimaki</JP> <F>mm</F> at school. <F>Mm</F> but <laughter><R>no</R> no good</laughter>. <nvs>laughter</nvs></B>
+<A>Why?</A>
+<B><F>Uhm</F> <.></.> maybe, <.></.> <F>m</F> I mistake <.></.> <R><JP>su</JP></R> <JP>su</JP>. <..></..> How much the <JP>su</JP>, mistake.</B>
+<A><F>Ohh</F> I see. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Well</F> we're almost finished with the interview. Are you going home after this?</A>
+<B>After this, maybe I study.</B>
+<A><F>Oh</F>.</A>
+<B><F>Um</F> <SC>last</SC> <F>err</F> next week, school examination.</B>
+<A>I see. So no shopping today. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+<A>O K. <F>Well</F> good luck <OL>with your test</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

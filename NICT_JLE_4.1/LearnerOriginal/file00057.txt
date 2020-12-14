@@ -1,0 +1,177 @@
+<interview>
+<filename>file00057.txt</filename>
+
+<head version="1.3">
+<date>2000-06-20</date>
+<sex>female</sex>
+<age>39</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>I'm <H pn="B's name">XXX01</H>.</B>
+<A>O K. I call you <H pn="B's name">XXX01</H>?</A>
+<B>Sure. Please.</B>
+<A>O K. How are you today?</A>
+<B>Good. Fine, thank you. <R>How</R> how are you?</B>
+<A>I am pretty good. Thank you. So <F>er</F> did you come from far away from here?</A>
+<B><F>Oh</F> yes. <F>Er</F> I took train from <H pn="others1">XXX02</H> <F>oh</F> no <H pn="others2">XXX03</H> <?>by</?> <H pn="others1">XXX02</H> Line. It took about one and half an hour. It was a long distance.</B>
+<A><F>Oh</F> <?>boy</?>, thank you very much for coming.</A>
+<B>You are welcome. But I used to live here.</B>
+<A><F>Oh</F>.</A>
+<B><R>This</R> <F>er</F> this place reminds me of my <F>er</F> <SC>young day</SC> my young life. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> really</OL>. Where did you live around here?</A>
+<B><F>Oh</F> that way.</B>
+<ctxt>The interviewee points at the direction.</ctxt>
+<B><F>Er</F> I don't know the name of the street, but <SC>the</SC> this way go that way. Just five minutes walk from here.</B>
+<A><F>Oh</F> <OL>really</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Wow</F>. Did you like living here?</A>
+<B><F>Oh</F> yes. Yes, I did. Because name is really good, isn't it? Long happiness <laughter><?>or something like that</?></laughter>.</B>
+<A>O K. So <H pn="B's name">XXX01</H>, <F>er</F> what do you usually do on Tuesday?</A>
+<B>Tuesday? On Tuesdays? You mean <.></.> do I do on <OL>Tuesdays</OL>?</B>
+<A><OL><F>Mhm-huh</F></OL>. What's your <OL>schedule</OL>?</A>
+<B><OL><F>Oh</F></OL> nothing special usually. But today, <F>er</F> of course, you know, I <SC>have a test</SC> you know, having test, and then <F>er</F> <SC>I go</SC> I have to pick up my son at two o'clock to a kindergarten. Yes. And after this I have free time.</B>
+<A><F>Mmn</F>. How do you spend your free time?</A>
+<B><F>Oh</F> maybe. <F>Ah</F> <F>er</F> most of day I was busy with my housekeeping and nursering, and today we are maybe going to <.></.> a park <.></.> to play with my son</B>
+<A><OL><F>Mhm-huh</F></OL>.</A>
+<B><OL>because</OL> it's very beautiful day.</B>
+<A><F>Hum</F>. And you said you have a son or sons?</A>
+<B>Sons. <F>Ah</F> I have two boys.</B>
+<A>O K. Can you tell me a little bit about that?</A>
+<B>Yes. <F>Er</F> first son is in <SC>thirds</SC> third grade and second one is <R>i</R> in kindergarten. Yes. <F>Er</F> my first son <.></.> plays baseball. <SC>He is on baseball</SC> he is in baseball team now. He is busy with baseball practice on weekends. And now he wants to be a <SC>baseball</SC> professional baseball player. <nvs>laughter</nvs>. Yes. And then, the other son, the younger one is <F>er</F> so talkative. He is always wondering in everything. <F>N</F>. On this way to kindergarten <SC>toda</SC> this morning, he asked me <F>mm</F> many questions. He always <SC>do this</SC> does this. "Am I able to do this?". "Why <F>mm</F> we were here?" or "How do the baby <SC>were</SC> is born?" or something like that. <nvs>laughter</nvs> <laughter>Yes</laughter>. And then, <R>he likes</R> he likes to play outside, too.</B>
+<A><F>Nn</F>.</A>
+<B>Yes.</B>
+<A>That's why you're planning to play with him outside.</A>
+<B>That's right.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Nn</F>. O K. All right. So, next thing I'd like you to do is to take a look at this picture</A>
+<B><F>Mhm-huh</F>.</B>
+<A>and describe it for me.</A>
+<B><nvs>laughter</nvs> I saw this picture <OL>before</OL>.</B>
+<A><OL><F>Oh</F> <F>oh</F></OL>. O K. Then I am gonna change</A>
+<B><laughter><OL><F>Oh</F></OL></laughter>.</B>
+<A><OL>since</OL> you've done this before. So can you describe it for me?</A>
+<B>Yes. <F>Oh</F>. <SC>It's</SC> they are in restaurant and maybe they are a couple and I think they have some kind of <F>er</F> <SC>anniversary of</SC> maybe wedding anniversary, and then <F>er</F> they are having dinner. And the husband thinking which one is better. And <F>er</F> the sommelier recommends that wine to him and then <R>he</R> he thinks that would be fine, maybe. And then <F>er</F> nice music has been playing <F>er</F> with piano and <.></.> the time is seven o'clock, yes <..></..> they will have <.></.> <?>French</?> dinner.</B>
+</task>
+<followup>
+<A><F>Mmn</F>. O K. Thank you. So how did you celebrate your last wedding anniversary?</A>
+<B><F>Oh</F> nothing special, because our wedding anniversary is May fifth and <F>er</F> it's for Children's <nvs>laughter</nvs> <OL>Day</OL>.</B>
+<A><OL><F>Ah</F></OL>. <OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> But my husband gave me <F>er</F> a kind of present to me.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>Yeah</OL>. Yes.</B>
+<A>That's nice. So how did you celebrate Children's Day on that day?</A>
+<B><F>Oh</F> yeah. <.></.> <F>Oh</F> yes. We went to my parents-in-law's house and then <SC>have dinner with them</SC> had dinner with them and then <.></.> <SC>they had</SC> my kids had a present from their grandfather and mother, and they are pleased <SC>with i</SC> with them.</B>
+<A><F>Mmn</F>. That's nice. O K. <R>Wh</R> why did you decide to take your children to your <.></.> parents?</A>
+<B><F>Oh</F> yes. <F>Er</F> we are live away from each other <F>er</F> and then my parents-in-law certainly their grandchildren. So and then our kids love to go to their place because they are so kind, and they are always buy some toys to them. <F>N</F>. <SC>That wh</SC> that's why they love to go <OL>there</OL>.</B>
+<A><OL><F>Nn</F></OL>.</A>
+<B><nvs>laughter</nvs>. And then, maybe they wants to have their grandchildren, too.</B>
+<A>All right. O K. I'm sure they had a good time. <laughter>Yeah</laughter>.</A>
+<B>Yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you. So next we are going to do the role play.</A>
+<B>Yes.</B>
+<A>O K. And this is your card. It is written in Japanese and when you are ready, I'll begin.</A>
+<ctxt>The examinee reads the role play card.</ctxt>
+<A>O K? Good morning, Ma'am. How can I help you?</A>
+<B>Yes. <F>Erm</F> I bought this sweater this Sunday, but it's not fit to me. Do you mind changing this <R>swe</R> sweater more smaller one?</B>
+<A>Actually it's against our policy, Ma'am.</A>
+<B>But <F>er</F> <SC>I asked you to</SC> <F>er</F> the other day, I asked you to <SC>put it on</SC> <R>try</R> try on, but <F>ah</F> you said you can't. But <F>ahm</F> <SC>if <R>you</R> you said</SC> <SC>if you</SC> if it was not fit to you, you will accept to change <SC>you said</SC> the other clerk said so, so that's why I brought this one.</B>
+<A><F>Well</F> actually it's a sales item. So, we don't usually do that.</A>
+<B>But your company said so. I'd like to ask <SC>the other</SC> that person <SC>the</SC> or your boss were here?</B>
+<A><F>Ah</F> yes. But he is not available right now.</A>
+<B><OL><F>Oh</F> really</OL>.</B>
+<A><OL>So he</OL> will be back in about two hours.</A>
+<B>Why your common <F>er</F> idea with the customers are <SC>different from</SC> <SC>different</SC> depends on person. You know? <SC>The person said</SC> the clerk said yes, but you said no.</B>
+<A><F>Mnn</F> O K. So maybe I should talk to my manager and negotiate what's gonna happen next. So <F>erm</F> could I ask you to come back two hours later?</A>
+<B>Yes, yes. I will. O K.</B>
+<A>O K. Sorry about the inconvenience.</A>
+<B><nvs>laughter</nvs> No, not really.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. O K. This is the end of the role play. O K. So, when <SC>you go shopping, how do you decide, for example, cloth</SC> you are buying clothes,</A>
+<B><F>Mhm-huh</F>.</B>
+<A>how do you decide what to buy?</A>
+<B><F>Oh</F>. First of all, I decide what to buy today, before I leave. <F>Er</F> because I don't want to waste any money so <R>if</R> <SC>if I have no idea</SC> and then <SC>went</SC> go to shopping, <nvs>laughter</nvs> <SC>I was</SC> I want to buy <SC>many</SC> a lot of things. So I make up my mind first what to buy today. And then, <F>er</F> <SC>recently, I always</SC> <F>er</F> recently, I ask some advice from clerk because they are really <F>m</F> know about <SC>the</SC> their items and the combinations of colors or <F>er</F> shapes. <F>Nn</F> <F>er</F> <F>er</F> so now I ask them advices. <OL>Yeah</OL>.</B>
+<A><OL><F>Humm</F></OL> O K. Is that why you chose that nice sweater?</A>
+<B>Is it? <nvs>laughter</nvs> <laughter>It's my choice <??></??> though</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So, lastly I am going to show you a sequence of pictures.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K. And I'd like you to make up a story based on these pictures from one to six.</A>
+<B><OL><F>Mhm-huh</F></OL>.</B>
+<A><OL>And</OL> the story happened before. So I would like you to start the story with "One day last week".</A>
+<B><F>Mhm-huh</F> <.></.> using these pictures?</B>
+<A><F>Um-huh</F>. You can create.</A>
+<ctxt>The interviewee is thinking of what to say.</ctxt>
+<B>Do I have to go from one to six?</B>
+<A><F>Uh-huh</F>.</A>
+<B>From one to six?</B>
+<A>Yes.</A>
+<B>O K. <nvs>sigh</nvs></B>
+<ctxt>The interviewee is still thinking of what to say.</ctxt>
+<B>O K. One day, Mister Smith <F>m</F> <F>er</F> went on trip for business. And <SC>she</SC> he was going to station. And then, on the platform he dropped off his bag <R>in</R> <.></.> in a <R>rail line</R> rail line, and then because of somebody pushed him and he dropped off his bag, and <R>he</R> he argued to the person why <SC>he shu</SC> he pushed me. But he didn't recognize <F>er</F> he push him. But after that, <F>er</F> <SC>station man</SC> station officer came and picked <SC>it up to him</SC> the bag for him, and <SC>he</SC> safely, he had bag again. And then, he guaranteed. And <SC>he got</SC> he went to his business trip safely.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+</task>
+<followup>
+<A><laughter>O K</laughter>. Thank you. Do you like traveling by train or traveling by car?</A>
+<B><SC>I like drive</SC> I like to drive a car, but <F>ah</F> my children like trains. So <F>er</F> if we have chance, we always take trains.</B>
+<A><F>Hum</F>. So can you tell me about the last trip you made with your family?</A>
+<B><F>Oh</F> it was the last summer. We went to the United States to visit Grand Canyon, and then I used to <F>ah</F> now live just <F>um</F> short time for three months, I stay in San Francisco, and now I went to back to there, and then we went to San Francisco, and after that we went to Grand Canyon.</B>
+<A><F>Humm</F>. What was the most <R>impress</R> impressive thing?</A>
+<B><F>Oh</F> yes. <F>Er</F> the scenery was so huge. And <F>er</F> it was day time, I have heard the sunset and sunrise are more <R>beau</R> beautiful but it was day time but still beautiful. And <F>er</F> there were some camp riding on a camel and the river, <SC>and</SC> but we have to wait to take the camel for at least one year. And next time, we want to take the ride of the camels.</B>
+<A><OL><F>Mmn</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>O K. So <SC>you</SC> are you planning to go there again?</A>
+<B>Yeah, I hope so.</B>
+<A><F>Oh</F> O K. All right so and then why did you decide to visit there again with your family, I guess?</A>
+<B>Grand Canyon?</B>
+<A><F>Um-huh</F>.</A>
+<B>Because <F>er</F> <R>we</R> we just stayed only two days. <SC>It's not <F>er</F> enough</SC> it was not enough to see <SC>all over the</SC> all the Grand Canyons because it's really huge. There are many good views, sites <F>er</F> with sites on <??></??>. Many points of view we can see there. So <F>er</F> <.></.> if we have <R>mo</R> more time to stay there, we really enjoy what Grand Canyon is <nvs>laughter</nvs> how beautiful <SC>it wa</SC> it is. <SC>We whe</SC> we must <.></.> know <.></.> the whole <laughter>scenery</laughter>.</B>
+<A><F>Hum</F>. What did your children say?</A>
+<B><F>Er</F>. <nvs>laughter</nvs> <CO>They are not really</CO>. <F>Ah</F> <SC>the</SC> <SC>they</SC> actually they were most interested in <F>er</F> the <.></.> Universal Studio, not the Grand Canyon. <nvs>laughter</nvs> But <SC>I think</SC> I don't think they want to go there again, but maybe after they're growing up, they more realize how beautiful it is.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hum</F> that's right. O K. All right. So this interview's almost over. And you said you are going to pick up your son.</A>
+<B>Yes.</B>
+<A>And play with your son?</A>
+<B>Yes.</B>
+<A>O K, and <F>um</F> probably do you have a plan for dinner?</A>
+<B>Right.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> <laughter>Exactly</laughter>.</B>
+<A>Do you have any menu <R>in</R> in your head?</A>
+<B>Today?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> yes. <F>Err</F> what was it? <nvs>laughter</nvs> I thought <SC>it is</SC> it was for dinner <SC>the</SC> this morning. What was it? I took it out from the freezer. <laughter>What was it</laughter>? I forgot. <F>Ah</F>. Yes. Today, we are, yes, <nvs>crapping hand</nvs> curry chicken.</B>
+<A><F>Uum</F>.</A>
+<B>Yes.</B>
+<A>Sounds delicious. <nvs>laughter</nvs></A>
+<B><laughter><F>Mm</F> <F>m</F> yeah, maybe</laughter>.</B>
+<A>O K. Thank you very much, <H pn="B's name">XXX01</H>. <OL>It was nice meeting you</OL>.</A>
+<B><OL>Thank you very much</OL>. Nice to meet you, too. Thank you very much.</B>
+</stage5>
+</body>
+</interview>

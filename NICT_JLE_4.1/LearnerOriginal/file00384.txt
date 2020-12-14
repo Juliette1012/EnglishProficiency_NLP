@@ -1,0 +1,199 @@
+<interview>
+<filename>file00384.txt</filename>
+
+<head version="1.3">
+<date>2001-03-13</date>
+<sex>female</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>770</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A>O K. <F>Er</F> what do you do, <H pn="B's name">XXX02</H>?</A>
+<B><F>Mm</F>. Now, <F>mm</F> I'm accountant. <.></.> I'm working at foreign <SC>company</SC> security company.</B>
+<A>Security company. <F>Oh</F>. How do you like <.></.> your job?</A>
+<B><F>Erm</F> <F>mm</F> <R>I</R> I like it, because it's very logical and <F>mm</F> <.></.> I like to calculate. <nvs>laughter</nvs></B>
+<A>I see. O K. <F>Hm</F>. <F>Hm-huh</F>.</A>
+<B>Yeah. I like it.</B>
+<A>I see. O K. <F>Er</F>. And what do you <F>er</F> like to do in your free time?</A>
+<B><JP><F>Uuunto</F></JP> I enjoy playing the violin <.></.> and swimming.</B>
+<A><F>Oh</F>. O K. So <F>er</F> you play violin. How long have you been playing violin?</A>
+<B><nvs>laughter</nvs> For six months.</B>
+<A>Six months. <F>Wow</F>. Why did you decide to start playing the violin?</A>
+<B><F>Mm</F>. Because <F>mm</F> <R>I</R> <.></.> <F>mm</F> I like music and the violin <.></.> is <F>mm</F> very easy to <.></.> carry.</B>
+<A><F>Oh</F> <F>hum-huh</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>. Yeah. That's true. <F>Mm-huh</F>.</A>
+<B>And I want to join a city orchestra.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So I started.</B>
+<A>I see. Is there any audition to join <R>the</R> the orchestra?</A>
+<B><F>Er</F>. Maybe. <nvs>laughter</nvs></B>
+<A>I see. O K. <F>Hm-huh</F>. O K. So do you live with your family?</A>
+<B>My family?</B>
+<A><F>Hm-huh</F>.</A>
+<B>My family is <F>mm</F> father and mother and brother.</B>
+<A><F>Hum-huh</F> <F>mm</F>. Can you tell me a little bit about your brother?</A>
+<B><JP><F>Eeeto</F></JP>. My brother <.></.> have already married and now living in <H pn="others1">XXX03</H> Prefecture.</B>
+<A><F>Hum</F> I see. So do you sometimes go out with your brother?</A>
+<B><F>Hm</F>. He come <.></.> to my house.</B>
+<A><F>Ah-huh</F> <F>ah</F>. What do you think of <F>er</F> brother's <F>er</F> wife? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> She is very <F>mm</F> cute.</B>
+<A><F>Hum-huh</F>.</A>
+<B>Pretty girl.</B>
+<A><F>Hum-huh</F>.</A>
+<B><R>And</R> <JP><F>uunto</F></JP> <..></..> <F>mm</F> and she is good at cooking.</B>
+<A><F>Hum-huh</F>. So <F>em</F> have you ever had any wonderful dishes she made?</A>
+<B>She made? <JP><F>Uuunto</F></JP>. She <R>bring</R> <.></.> <SC>bring to</SC> <.></.> bring <SC>cake</SC> homemade cake.</B>
+<A><F>Wow</F>. So she is good.</A>
+<B><nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A>That's nice. O K. Thank you, <H pn="B's name">XXX02</H>. O K. Now I'm gonna show you a picture. O K.</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>O K. Please take a look at this picture and describe it for me.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><JP><F>Uunto</F></JP> <F>mm</F>. <R>She</R> <SC>she sitting</SC> <F>mm</F> she is sitting <F>mm</F> and <R>start to</R> <.></.> <SC>start to</SC> <.></.> start personal computer. And <R>she</R> <..></..> she have <F>erm</F> dog and cat. <..></..> <F>Hm</F>. <SC>I think she <R>like</R> <.></.> like</SC> <.></.> I think <SC>she like</SC> <..></..> <F>mm</F> <R>she</R> she like <F>mm</F> <..></..> <R>electric</R> <F>hm</F> electric. Because <F>mm</F> she have <JP><F>uunto</F></JP> <.></.> typewriter and computer and audio set.</B>
+</task>
+<followup>
+<A><F>Hm-huh</F> <F>mm</F>. O K. Good. Thank you, <H pn="B's name">XXX02</H>. And <F>um</F> do you like <F>um</F> you know, using computers?</A>
+<B>Computer? Yes. Now, I <F>erm</F> use it <F>mm</F> all day.</B>
+<A><F>Ah</F>. At work?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. How about at home?</A>
+<B><F>Er</F>. At home, <R>I</R> <F>mm</F> I use it, because <F>mm</F> I send e-mail everyday to my friends.</B>
+<A><F>Hum-huh</F>.</A>
+<B><R>And</R> <JP><F>uunto</F></JP> <..></..> and I <R>do</R> do <R>home</R> home trade.</B>
+<A>Home trade?</A>
+<B><F>Um</F>.</B>
+<A><R>What</R> what is it?</A>
+<B><?>Yes, it</?> <JP><F>eeto</F></JP> <??></??> <JP><F>eeto</F></JP> stock. <.></.></B>
+<A>Stock?</A>
+<B><R>Buy</R> <R>buy</R> buy and sell, stock</B>
+<A>Really?</A>
+<B><?>of</?> <laughter>my own</laughter>.</B>
+<A><F>Oh</F>. <F>Wow</F>. <R>I</R> is it fun to do?</A>
+<B><F>Eh</F> yes.</B>
+<A><F>Ah</F>. Tell me more about it.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>The stock</laughter></OL>, <.></.> on the net. <F>Hm</F>.</A>
+<B><JP><F>Uunto</F></JP> <R>I</R> I start it <JP><F>uunto</F></JP> <.></.> last <..></..> January.</B>
+<A><F>Hum</F>.</A>
+<B><R>I</R> <.></.> I start working and <JP><F>uunto</F></JP> <.></.> get my money <F>mm</F> every month, and <JP><F>uunto</F></JP> <.></.> <R>make</R> <R>make</R> <.></.> make the money <R>to</R> <.></.> to buy stock. <nvs>laughter</nvs> <??></??>.</B>
+<A><F>Hum-huh</F> <F>hum-huh</F>. <R>How</R> <SC>how</SC> <F>er</F> what made you decide to start buying stocks on the net?</A>
+<B><.></.> <JP><F>Uunto</F></JP>. <.></.> <CO>I</CO>.</B>
+<A>Through your friends?</A>
+<B>No. <R>My</R> my father.</B>
+<A><F>Oh</F>. Your father taught you. <.></.> I see. O K. <F>Mm</F>. Interesting. <laughter>O K, good, O K</laughter>. <laughter>Get more money</laughter>. <OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Thank you very much. All right. Now, we are going to do a role-play. O K? Let's see.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. Please read this card. And when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K. May I help you?</A>
+<B><F>Mm</F> I want to buy spring coat. <.></.></B>
+<A>O K. We have many kinds of spring coats here.</A>
+<B><F>Mm</F> <..></..> <R>I want to</R> <F>mm</F> I want to buy red one.</B>
+<A><F>Mm</F>. O K. We have many kinds of red spring coats.</A>
+<B><nvs>laughter</nvs> Red one and <SC>I'm</SC> <..></..> <R>my</R> my budget is <JP><F>uunto</F></JP> <SC>one</SC> <..></..> <JP><F>eeto</F></JP> <..></..> fifty thousand yen.</B>
+<A><F>Mm</F>.</A>
+<B>Do you have it <OL><??></??></OL>?</B>
+<A><OL><F>Hum-huh</F> O K</OL>. We have some <F>er</F> in <F>er</F> fifteen thousand and fifty thousand yen. <F>Hum-huh</F>.</A>
+<B><..></..> Do you have <R>short</R> <R>short</R> <R>short</R> <F>urn</F> short pants?</B>
+<A><F>Er</F>. O K. <F>Mm-huh</F>. We do.</A>
+<B><.></.> <JP><F>Uunto</F></JP> <..></..> <R>I</R> <..></..> <SC>I</SC> <..></..> my favorite style is <JP><F>uunto</F></JP> <R>two</R> two pocket.</B>
+<A><F>Er</F>. O K. It's got two pockets.</A>
+<B>Two <?>pockets</?>.</B>
+<A>How about this one?</A>
+<B><F>Oh</F>. It's nice. And I want to <F>mm</F> belt.</B>
+<A><F>Er</F>. O K. <F>Mm-huh</F>.</A>
+<B>Because it looks slim.</B>
+<A><F>Oh</F> I see. Yeah. It's attached to a <F>er</F> belt.</A>
+<B>Belt.</B>
+<A><F>Hum-huh</F>.</A>
+<B><F>Mm</F>. May I <R>try it</R> try it on?</B>
+<A>Sure. <F>Mm-huh</F>.</A>
+<B><laughter>Thank you</laughter>.</B>
+<A>It looks good on you.</A>
+<B><F>Oh</F>. Really? <nvs>laughter</nvs></B>
+<A><F>Hum-huh</F> <F>hum-huh</F>. It is just fifteen thousand.</A>
+<B>Fifteen thousand.</B>
+<A><F>Hum-huh</F>. Yes. <F>Hm-huh</F>.</A>
+<B>I want to try to <R>beige</R> beige color?</B>
+<A><F>Oh</F>. Yes. <F>Mh-huh</F>. O K. Here's another one.</A>
+<B>Thank you.</B>
+<A>The same style but the beige color. <F>Mm-huh</F>.</A>
+<B><R>Which do you</R> <F>er</F> <SC>which do you like</SC> <JP><F>uunto</F></JP> <F>er</F> <R>which</R> which do you think <F>mm</F> <F>er</F> <R>suit</R> suit me?</B>
+<A>I think red is better on you. <F>Mm-huh</F>.</A>
+<B>So, <R>I</R> <R>I</R> I buy this red one.</B>
+</task>
+<followup>
+<A><F>Mm-huh</F>. O K. Thank you very much. O K. Thank you. This is the end of the role-play. O K. Thank you, <H pn="B's name">XXX02</H>. So <F>um</F> have you ever <SC>sho</SC> <F>um</F> enjoyed shopping abroad?</A>
+<B><F>Oh</F>. Yes.</B>
+<A><F>Hum</F>. Tell me about it. <F>Hm</F>.</A>
+<B><JP><F>Uunto</F></JP> <R>two</R> <SC>two year</SC> <.></.> <R>two</R> two years before, I went to London <?>for</?> home stay. And <?>it's summer</?>. <?>So I take</?> <??></??>. So <F>mm</F> I went there and <SC>go</SC> went shopping.</B>
+<A><F>Mm-huh</F>.</A>
+<B><.></.> <JP><F>Uunto</F></JP> There is market in London <.></.> on Saturday and Sunday morning. So <R>I</R> I went there and got some <.></.> puppet.</B>
+<A><F>Hum-huh</F> <F>hum</F> <F>hum-huh</F>. A kind of doll?</A>
+<B><F>Oh</F>. Yes.</B>
+<A><F>Hum-huh</F>.</A>
+<B>And <R>antique</R> antique accessory.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Hum</F> <F>mm</F> <F>oh</F>. Sounds fun. <.></.> O K. O K. Good. Thank you. All right. So lastly, <.></.> I'm going to show you a sequence of pictures. O K? So this is a story that happened last week. So please make up your own story and starting the story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B>In the morning, the mother <JP><F>uunto</F></JP> <SC>find <.></.> it</SC> find <F>ur</F> nothing in the refrigerator, so go shopping to the nearest supermarket by car. And <SC>she</SC> <F>mm</F> during shopping, <.></.> <??></??> <.></.> <??></??> <SC>in the market</SC> in the super. And <R>she <.></.> bought some food</R> <.></.> she bought some food. And <JP><F>uunto</F></JP> <.></.> <SC>she</SC> <..></..> he carried <F>mm</F> the baggage into <.></.> car. <.></.> <?>I think</?> <??></??> <?>before</?> <??></??> <?>she bought a lot of thing</?>.</B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. Good. O K. So <H pn="B's name">XXX02</H>, you said, you know, you went to England. And did you go to a grocery store or a supermarket in Britain?</A>
+<B><JP><F>Uuunto</F></JP>. <.></.> No, <SC>I don't</SC> I didn't go grocery store. But <F>mm</F> I went to United States <??></??> <?>three years</?> before.</B>
+<A><F>Oh</F>. O K. Can you compare the <R>super</R> supermarket in the United States and the one in Tokyo? How different?</A>
+<B><F>Hum</F>. <JP><F>Unto</F></JP>. United States one is <.></.> very large. <R>And</R> <JP><F>uunto</F></JP> and <..></..> cheap.</B>
+<A><F>Oh</F>. Really? <F>Hm</F>.</A>
+<B><R>Every</R> <R>every</R> everything.</B>
+<A><F>Hum-huh</F> <F>hum-huh</F>.</A>
+<B>And <R>I</R> <.></.> <F>er</F> <SC>I like <.></.> the</SC> <F>mm</F> <SC>I like</SC> <.></.> my favorite <.></.> <?>buy</?> is <JP><F>unto</F></JP> fruits.</B>
+<A><F>Oh</F> <F>hum-huh</F>. <R>Why</R> why fruits?</A>
+<B><JP><F>Uunto</F></JP> <R>it's</R> it's <?>sunny</?> so the fruits is very juicy.</B>
+<A><F>Ah</F>.</A>
+<B><R>A</R> <.></.> a lot of time,</B>
+<A><F>Er</F> I see. <F>Mm-huh</F>.</A>
+<B>there, so,</B>
+<A>O K.</A>
+<B>I like it.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mm</F>. O K. Thank you. Thank you very much. So we are almost at the end of this interview. And, you know, did you have <F>er</F> dinner already?</A>
+<B>No.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>So you are going <F>uh</F> home soon after this interview?</A>
+<B><F>Er</F>. Yes.</B>
+<A>O K. O K. So today, thank you for coming.</A>
+<B><??></??>. You're welcome. Thank you. <??></??>.</B>
+</stage5>
+</body>
+</interview>

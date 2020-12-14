@@ -1,0 +1,228 @@
+<interview>
+<filename>file00798.txt</filename>
+
+<head version="1.3">
+<date>2001-10-23</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. <H pn="B's name">XXX01</H>, <OL>how</OL> are you today?</A>
+<B><OL>Yes</OL>. Yes. Fine, thank you <OL>today</OL>.</B>
+<A><OL>And</OL> then so <F>err</F> it's very nice outside, but do you do something?</A>
+<B>Yes.</B>
+<A><F>Uhu</F>.</A>
+<B><CO><F>Er</F> <SC>it</SC> <SC>I did it sometime</SC> <R>I</R> <SC>I did it sometime</SC> I</CO>. <F>Er</F>. Pardon?</B>
+<A>Do you do something when it's <F>um</F> nice weather?</A>
+<B>Yes. It nice weather.</B>
+<A>Right. I see. O K. So <F>um</F> now please tell me where you live.</A>
+<B>I lived in <H pn="others1">XXX02</H>.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. <.></.> <CO><OL>Yes, near</OL></CO>.</B>
+<A><OL>O K</OL>. So can you tell me more about <H pn="others1">XXX02</H>?</A>
+<B>Yes. I live <H pn="others1">XXX02</H> near the <H pn="school name1">XXX03</H>.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. <R>My</R> <F>er</F> my apartment <R>is</R> <F>um</F> <SC>is four floor</SC> has four floors.</B>
+<A><F>Uhu</F>.</A>
+<B><..></..> I lived <H pn="others1">XXX02</H> for four months.</B>
+<A><F>Uhu</F>.</A>
+<B>So <R>I</R> I <..></..> don't understand <H pn="others1">XXX02</H> so much.</B>
+<A><F>Uhu</F> I see. So <F>um</F> do you do something after school?</A>
+<B><..></..> Yes. <SC>I have</SC> I join D J circle.</B>
+<A><F>Err</F>. Really?</A>
+<B>Yes. So I go to <R>lo</R> lounge.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. <..></..> <laughter><F>Err</F></laughter>. Yes. <F>Ee</F> <CO><OL>I go to <F>err</F></OL></CO>.</B>
+<A><OL>O K</OL>. So what's so interesting about that circle?</A>
+<B>Yes. <R>I</R> I enjoy it.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. <F>Ee</F> I enjoy it. <F>Ee</F> <..></..> <F>err</F> <F>err</F> <JP>nanteiebaii</JP> I enjoy it.</B>
+<A>So,</A>
+<B>Yes.</B>
+<A>what do you do in the club? What do you usually do?</A>
+<B>Yes. <SC>I</SC> <.></.> <JP><F>eeto</F></JP> ordinary I listen to music, and <SC>meet with frien</SC> meet friends.</B>
+<A><F>Uhu</F>.</A>
+<B><..></..> Sometimes I go to club.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. <..></..> My circle is not activity so much.</B>
+<A><F>Uhu</F> <OL><F>um</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>I see. But you enjoy it</A>
+<B>Yes.</B>
+<A>very much. O K. Good.</A>
+</stage1>
+<stage2>
+<task>
+<A>So the first thing today,</A>
+<B>Yes.</B>
+<A>I'm going to show you a picture.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>?</A>
+<B>O K.</B>
+<A>So please describe it.</A>
+<B><..></..> <R>Pa</R> party time.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. <SC>It</SC> <R>I</R> <JP><F>eeto</F></JP> <.></.> <R>I</R> <SC>I play piano</SC> so <F>err</F> <SC>I play</SC> <JP>janai are nanteiunda</JP> <JP><F>eeto</F></JP> <F>ee</F> <JP>ja</JP> <..></..> <JP><F>eeto</F></JP> <JP><F>eeto</F></JP> <R>the</R> <R>the</R> <..></..> <R>the</R> <F>ee</F> <R>the</R> <JP>are nanteiunda</JP> the <.></.></B>
+<A><F>Um</F>. Anything is O K.</A>
+<B><laughter>Yes</laughter>. The man</B>
+<A><F>Uhu</F>.</A>
+<B>is <.></.> going to drinking wine.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. The <..></..> <SC>the wai</SC> a waiter <F>ee</F> recommend a wine.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. <.></.></B>
+<A>All right. Thank you <OL>very much</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>Yes, thank you</laughter>.</B>
+</task>
+<followup>
+<A>So <F>err</F> do you sometimes,</A>
+<B>Yes.</B>
+<A>go to this kind of restaurant?</A>
+<B>Yes. I go to restaurant sometime.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes.</B>
+<A>So <F>ur</F> what's so good about that restaurant that you go?</A>
+<B><.></.> <F>Er</F>. Yes. <.></.> <F>Er</F>. Pardon?</B>
+<A>What is so good about the restaurant that you go often?</A>
+<B><..></..> <JP><F>Eeto</F></JP> <..></..> <F>uh</F> I lived alone.</B>
+<A><F>Uhu</F>.</A>
+<B><SC>So <.></.> <JP><F>eeto</F></JP> I</SC> and I can't cook so much.</B>
+<A><F>Uhu</F>.</A>
+<B>So I go to restaurant.</B>
+<A>I see. So which restaurant do you go?</A>
+<B><JP><F>Eeto</F> <R>raamen</R> raamen te nante <F>eeto</F></JP> I go to <JP><R>ra</R> raamen</JP></B>
+<A><F>Uhu</F>.</A>
+<B><laughter>Yes</laughter> and family restaurant.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. Yes. <F>Um</F> I go to restaurant <R>near</R> near my house.</B>
+<A><F>Uhu</F>.</A>
+<B><..></..> <F>Er</F>.</B>
+<A>I see. All right. So thank you very much.</A>
+<B><OL><F>Er</F> thank you</OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL>So now</OL> we are going to do a role-play. So I'm going to show you <OL>a card</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>So please read it silently. And when you're finished, please let me know.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes.</B>
+<A>Are you ready?</A>
+<B>Yes.</B>
+<A>O K. So <F>uum</F> Hello.</A>
+<B><OL>Hello</OL>.</B>
+<A><OL>How can</OL> I help you?</A>
+<B><SC>I want to <SC>clothes</SC> cloth</SC> I want to buy some shirts.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. My favorite color is blue.</B>
+<A><F>Oh</F>. We have so many blue shirts</A>
+<B>Yes.</B>
+<A>in the store.</A>
+<B>Yes. <JP><F>Eeto</F></JP> I want to buy button-down shirts <R>and</R> <JP><F>eeto</F></JP> <JP><F>eeto</F></JP> <JP><F>eeto</F></JP> <JP><F>eeto</F></JP> and <SC>stripe</SC> blue stripe shirts.</B>
+<A><F>Uhu</F>.</A>
+<B><..></..></B>
+<A>O K. <OL>We have so many <F>ur</F> stripe shirts here</OL>.</A>
+<B><OL>Yes, yes, yes</OL>. <.></.> <F>Ee</F> <F>ee</F> I want to <..></..> buy <F>mm</F> black and blue stripe <OL>shirts</OL>.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B>And my size is L.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes.</B>
+<A>O K. So here's one.</A>
+<B><F>Oh</F>. <..></..> Can you see other shirts?</B>
+<A><F>Err</F>. Sure. You can see it from here.</A>
+<B><F>Ee</F> <..></..> <JP>ja</JP>. This one. Can you try it on?</B>
+<A><F>Err</F>. Sure. <F>Er</F>. But we don't have the size for you.</A>
+<B>My size is L.</B>
+<A>Yes. Actually this is <F>ur</F> <R>extra</R> extra large.</A>
+<B><F>Oh</F>.</B>
+<A><CO>So</CO>.</A>
+<B>So <JP>ja</JP> this one.</B>
+<A><F>Uhu</F>.</A>
+<B><R>Can</R> <SC>can you try it</SC> can I try it on?</B>
+<A>Sure. Go ahead. <OL>Here you are</OL>.</A>
+<B><OL>Yes</OL>. Yes. Good. <JP>Ja</JP>. This shirts, please.</B>
+<A>O K. So <F>err</F> here's your clothes. And enjoy it.</A>
+<B>Yes. <OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL> for coming. Bye-bye.</A>
+<B><OL>Bye-bye</OL>.</B>
+<A><OL>So</OL> this is the end of the <OL>role-play</OL>.</A>
+<B><OL><nvs>coughs</nvs></OL></B>
+</task>
+<followup>
+<A>So <F>um</F> do you sometimes go shopping with your friends?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B>I like shopping at Harajuku</B>
+<A><F>Uhu</F>.</A>
+<B>and Shibuya</B>
+<A>I see.</A>
+<B>and <?>some more</?>.</B>
+<A><F>Um</F>. So what's so interesting about going to Harajuku to buy clothes?</A>
+<B><F>Ee</F>. <.></.> <SC>My</SC> <.></.> Harajuku has my favorite brand shop.</B>
+<A><F>Uhu</F>.</A>
+<B>So I go to Harajuku.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. <JP><F>Eeto</F></JP>. <..></..> But <F>mm</F> <SC>the shop is <.></.> a lot <R>shop</R> shop</SC> <..></..> the shop is <laughter>busy</laughter>.</B>
+<A><F>Uhu</F>.</A>
+<B>Because the shop is very popular.</B>
+<A><F>Err</F>. Really?</A>
+<B>Yes. <.></.> <CO>So I go to the shop <JP><F>eeto</F></JP> <JP>heijitsu heijitsu te nanteiundakke heijitsu <F>eeto</F> heijitsu heijitsu heijitsu</JP></CO>. <..></..></B>
+<A><F>Um</F>. All right. <OL><CO>So</CO></OL>.</A>
+<B><OL><laughter>Sorry</laughter></OL>.</B>
+<A>No. No. That's O K. Thank you <OL>very much</OL>.</A>
+<B><OL><nvs>coughs</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So the last thing today,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>I'm</OL> going to show you another picture.</A>
+<B>Yes.</B>
+<A>So this time,</A>
+<B>Yes.</B>
+<A>please make a story,</A>
+<B>Yes.</B>
+<A>using these four pictures from one to four.</A>
+<B>Yes. <JP><F>Eeto</F></JP> <JP><F>eeto</F></JP> <JP><F>eeto</F></JP>. Two men and <R>one</R> woman want to <..></..> see the movie. And <SC>I</SC> <F>er</F> <R>they</R> <.></.> <SC>they <.></.> buy</SC> <R>they</R> they are going to buy this movie tickets. <..></..> <SC>At the movie</SC> <F>er</F> at the <R>th</R> theater, they <..></..> buy pop corn and drink. <..></..> Then <.></.> <JP><F>eeto</F></JP> <SC>they bought</SC> they see the movie. This <R>movie is</R> <..></..> movie is <..></..> that the airplane <..></..> is <SC>explode</SC> exploded. And <JP>tsuiraku <F>eeto</F></JP> <..></..> drop of the mountain. Yes. They are satisfied with this movie.</B>
+<A><F>Um</F>. All right. <OL>Thank</OL> you very much, <H pn="B's name">XXX01</H>.</A>
+<B><OL>Yes</OL>. Yes.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>So <F>err</F> we are <OL>almost at the end</OL> of the interview.</A>
+<B><OL>Yes</OL>. Yes.</B>
+<A>But do you have any plans for this evening or this afternoon?</A>
+<B>No. <R>I have</R> I have no plan.</B>
+<A>Really?</A>
+<B>Yes.</B>
+<A>Do you have class?</A>
+<B>No.</B>
+<A><F>Err</F>.</A>
+<B><CO>I don't have <OL>this</OL></CO>.</B>
+<A><OL>I see</OL>. O K. So <F>um</F> <OL>I hope you have wonderful evening</OL>.</A>
+<B><OL>Yes, yes</OL>.</B>
+<A>And thank you so much for coming in today.</A>
+<B>Yes. Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

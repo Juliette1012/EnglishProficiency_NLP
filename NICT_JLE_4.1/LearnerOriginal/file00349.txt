@@ -1,0 +1,162 @@
+<interview>
+<filename>file00349.txt</filename>
+
+<head version="1.3">
+<date>2001-03-06</date>
+<sex>female</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>695</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Ms. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Erm</F> I'm great, thank you. And you?</B>
+<A>I'm fine, thank you. So <F>er</F> Ms. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Erm</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Mm-hm</F>. How did you come to the office today?</A>
+<B><F>Er</F> I took the <F>er</F> <H pn="others2">XXX04</H> train and the <H pn="others3">XXX05</H> Line.</B>
+<A><F>Hmm</F>. I see. <F>Er</F> what did you do on the train?</A>
+<B><F>Er</F> I listen to the music.</B>
+<A><F>Umm</F>. What kind of music do you like?</A>
+<B><SC>I</SC> do you know the <F>er</F> <F>erm</F> "Coyote Ugly"? <CO><OL>It's a <R>mo</R> mo</OL></CO>.</B>
+<A><OL><F>Mm-hm</F> is</OL> that a film?</A>
+<B>Yes. Movies.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>And <F>er</F></OL> soundtrack.</B>
+<A><F>Hmm</F> I see. So you like movies.</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>. <F>Er</F> do you live <F>er</F> with your family?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. Can you tell me about your family?</A>
+<B><F>Erm</F> <F>er</F> my family members are <F>hmm</F> mother and father and younger brother and younger sister</B>
+<A><F>Hm</F>.</A>
+<B>and I.</B>
+<A><F>Hmm</F>. Can you tell me about it <OL>more</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>More</laughter>. <F>Erm</F> my younger sister <F>er</F> now lives in <H pn="others4">XXX06</H>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> she is a <F>er</F> <F>er</F> junior high school student now. <F>Mmm</F> <F>mmm</F> now she goes to the <F>er</F> <F>eh</F> <F>ur</F> <SC><H pn="others5">XXX07</H></SC> near <H pn="others5">XXX07</H> City's junior high school. <F>Mm</F> <R>she</R> she will come back <F>er</F> <F>er</F> twenty-fourth, March.</B>
+<A><F>Hmm</F> I see. O K. <F>Ur</F> by the way, do you have any hobbies?</A>
+<B>Yes.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Ur</F></OL> <F>ur</F> I have many, many hobbies.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>Ur</F></OL> I like <F>er</F> to take pictures. And I love to listen to music. And <F>er</F> <F>erm</F> I like traveling. And <SC>the</SC> I like watching movies.</B>
+<A><F>Hmm</F>. Why are you interested in taking pictures?</A>
+<B><F>Ur</F> <laughter>Why</laughter>? <laughter>I don't know</laughter>. <F>Urm</F> because I like traveling, <F>er</F> and <F>er</F> <F>er</F> <F>umm</F> why? <nvs>laughter</nvs> <F>Umm</F> <SC>the</SC> <F>urm</F> <R>I</R> <..></..> <laughter>I don't know why</laughter>.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>. <R>My</R> my father <SC>like</SC> likes to take pictures. So <F>umm</F> he recommended me to take pictures, and I started to learn.</B>
+<A><F>Hmm</F>. How do you enjoy it?</A>
+<B><F>Erm</F> <F>umm</F> <.></.> how? <nvs>laughter</nvs> <F>Erm</F> sometimes, <R>I</R> <F>umm</F> <F>umm</F> <R>I</R> <F>mm</F> I and my friend <F>umm</F> goes to <F>um</F> Biwako or <F>umm</F> <F>umm</F> somewhere, and take pictures. <CO>And <F>umm</F> <nvs>laughter</nvs></CO>.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Hm</F>. That's good. Thank you very much. And now, I'd like to show you a picture. O K? So please look at this picture, and describe this picture for me.</A>
+<B><F>Huh</F> <F>ur</F> <..></..> <F>hm</F> there is a woman in this room with a dog and a cat. And the cat is sleeping on the bed. And <F>er</F> the door is open. <F>Hm</F>. <F>Hmm</F>. <.></.> The time is maybe nine o'clock in the morning. And <F>hm</F> the dog is also sleeping. And <SC>there are many</SC> <F>ur</F> there are <SC>trash</SC> trashes in a box. And she is wearing a green sweater and blue <SC>skirt</SC> short skirt. And she is sitting on a chair. And she's <F>um</F> cross her legs. <CO>And <F>umm</F> <..></..> <F>hm</F></CO>.</B>
+</task>
+<followup>
+<A>O K. <F>Er</F> can you compare the room in this picture and your own room?</A>
+<B><F>Ah</F> <F>umm</F> my room is not <F>ur</F> <F>urm</F> <.></.> <F>um</F> <SC?>I'm so</SC?> <F>urm</F> <SC>I have</SC> I don't have bed, and I don't have <F>er</F> pets. <F>Umm</F> <F>umm</F> <F>umm</F> <.></.> my room is very small, and <F>umm</F> <F>umm</F> I have pianos, and <F>er</F> <F>urm</F> <.></.> <F>hm</F> <F>um</F> I don't have <F>er</F> computers.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hmm</F>. I see. O K. Thank you. And then, I'd like to do a role-play. <ctxt>the interviewer is taking out a card</ctxt> O K? So please read this card. And when you are ready, I will start.</A>
+<B><ctxt>the interviewee is reading the card</ctxt> O K.</B>
+<A>O K? Yeah. Hello.</A>
+<B>Hello. <F>Erm</F> <F>erm</F> <R>I'd like to go to</R> <F>uu</F> I'd like to go to see the movie with you. <F>Er</F> <R>are you</R> are you free tonight?</B>
+<A>Yes.</A>
+<B>Yes? <F>Er</F> what time is good for you?</B>
+<A><F>Er</F> how about seven o'clock?</A>
+<B>Seven <OL>o'clock</OL>?</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><F>Ur</F> O K. <F>Er</F> <F>hmm</F> <F>erm</F> <F>erm</F> <F>er</F> <R>wh</R> <F>mm</F> <F>er</F> <R>where</R> where do you wanna go, <F>er</F> Sannomiya or Umeda?</B>
+<A><F>Er</F> Umeda is <F>er</F> convenient for me. <F>Hm</F>.</A>
+<B>O K. So <F>er</F> <F>hm</F> <SC>where is the</SC> <F>urm</F> <F>hmm</F> <F>urm</F> <F>urm</F> O K, how about <F>erm</F> in front of the Big Man at seven o'clock?</B>
+<A>Yeah. Sure. <F>Hm</F>.</A>
+<B>O K. Then so see you later.</B>
+<A><F>Hm</F> O K. <F>Ah</F> yeah. <F>Ur</F> what kind of movie are we going to watch?</A>
+<B><F>Urm</F> <F>hmm</F> what do you wanna see?</B>
+<A><F>Hmm</F> <R>I</R> I don't know. I have no idea.</A>
+<B><F>Urm</F> how about <F>ur</F> "Caravan"?</B>
+<A><F>Hm</F>. Is it <R>good</R> good movie?</A>
+<B><F>Urm</F> I think <laughter>so</laughter>.</B>
+<A>O K. O K. Good. So see you later.</A>
+<B>See you.</B>
+<A><OL>Bye-bye</OL>.</A>
+<B><OL>O K</OL>. Bye-bye.</B>
+</task>
+<followup>
+<A>O K. This is the end of role-play. You told me that <R>your</R> <SC>your</SC> <F>urm</F> you liked movies, right?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>So</OL> what is your most impressive movie you ever seen?</A>
+<B><F>Urm</F> I saw <F>urm</F> "Little Dancer".</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Er</F> <F>hm</F> <R>that</R> <F>hm</F> that movie is <F>hmm</F> very <F>hm</F> <R>imp</R> impressive</B>
+<A><F>Hmm</F>.</A>
+<B>for me, and I can't stop crying.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>And</OL> my friend is also crying, and <F>hm</F> <F>hmm</F> <F>hm</F> so <R>I</R> <F>urm</F> <R>I</R> I recommended that movie <F>er</F> all of my friends.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K. Thank you. And then, I'd like to show you one more picture. And this time, I would like you to make a story <F>urm</F> based on these <R>pictu</R> pictures. And <F>er</F> this story happened sometime last week. So please start your story with, "One day last week".</A>
+<B><F>Urm</F>.</B>
+<A>O K?</A>
+<B>I see.</B>
+<A><F>Hm</F>.</A>
+<B><ctxt>the interviewee is looking at the pictures and thinking</ctxt> <F>Hm</F>. <F>Ur</F> one day last week, <F>ur</F> <R>the</R> the woman <F>hm</F> <SC>went to</SC> <F>mm</F> <R>we</R> went shopping at the department store. And <F>ur</F> she wanted to buy a present <SC>for his</SC> <F>uh</F> for her husband. <F>Er</F> so she choosed a <F>er</F> green ties, <R>and</R> and she bought it. <F>Umm</F> maybe three thousand yen. And <F>er</F> <.></.> <F>hm</F> after that, <R>she</R> <F>hm</F> she found <R>the</R> the final sale. And <.></.> <SC>but she</SC> <F>hm</F> <F>hm</F> maybe she bought a shoes for her. <R>And</R> <F>hm</F> <.></.> and also, there was <SC>fi</SC> <F>er</F> fifty-percent-off sale. So she bought many clothes for her, <R>and</R> <F>er</F> <.></.> and <R>she</R> <F>hm</F> she finished <F>umm</F> shopping. <R>And she</R> <F>urm</F> <F>urm</F> <.></.> and she came back to home.</B>
+</task>
+<followup>
+<A>O K. Thank you. Do you like shopping?</A>
+<B><F>Uh</F> no. <laughter>I don't like <OL>shopping</OL></laughter>.</B>
+<A><CO><OL>You</OL></CO>. Why you don't?</A>
+<B>Because <F>er</F> I don't like <F>umm</F> <F>hm</F> the place with <F>er</F> <SC>crowded peo</SC> <SC>crow</SC> <SC>me</SC> crowded.</B>
+<A><F>Hm</F>.</A>
+<B><R>So</R> <F>umm</F> <F>hm</F> so <laughter>I don't like it</laughter>.</B>
+<A><F>Hm</F>. So where do you go when you really need to buy something?</A>
+<B><F>Er</F> <.></.> <F>hmm</F> I like <F>er</F> <R>flea</R> flea market.</B>
+<A><F>Hm</F>.</A>
+<B>So <F>umm</F> maybe once in a month, <F>umm</F> <R>I</R> <F>umm</F> I went to flea market.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>And</OL> it's <F>er</F> very <F>umm</F> <laughter>cheap</laughter> so <F>umm</F> <R>I</R> <R>I don't like</R> <F>uh</F> <F>mm</F> I don't like department store. There are <F>erm</F> many many people.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>O K. I agree, actually. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Er</F> we are almost the end of the interview. Do you have any plan for this afternoon?</A>
+<B>Pardon?</B>
+<A>Do you have any plan for this afternoon?</A>
+<B><F>Er</F> <F>erm</F> <SC>I</SC> <F>umm</F> <F>umm</F> <F>um</F> <F>ur</F> from five o'clock, <R>I</R> I will work <R>at</R> <F>er</F> <F>umm</F> at a restaurant.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>So before that, <F>ur</F> you have a lot of free time.</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Have a nice day.</A>
+<B>Thank you.</B>
+<A>Thank you for coming today.</A>
+</stage5>
+</body>
+</interview>

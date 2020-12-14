@@ -1,0 +1,163 @@
+<interview>
+<filename>file00784.txt</filename>
+
+<head version="1.3">
+<date>2001-12-18</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello, my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Uh</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, nice to meet you. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please call me <H pn="B's name">XXX02</H>.</B>
+<A>O K, <F>uhm</F> so <H pn="B's name">XXX02</H>, where are you from?</A>
+<B><F>Uhm</F> I'm from <H pn="others1">XXX03</H>. <F>Uh</F>.</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>.</B>
+<A>How do you come here?</A>
+<B><F>Ah</F> <F>err</F> I came here by my bike.</B>
+<A><F>Ah</F> I see, and how long does it take?</A>
+<B>It takes <F>uh</F> about fifteen minutes.</B>
+<A><F>Uh-huh</F>. <F>Hum</F>. It must be cold.</A>
+<B><F>Ah</F>. Yeah, it's <SC>too</SC> so cold.</B>
+<A><nvs>laughter</nvs> So how do you protect yourself?</A>
+<B><F>Uh</F> I now wearing <JP><F>unto</F></JP> <R>three</R> three jacket but <F>uh</F> <R>ss</R> <SC>si</SC> <F>ah</F> and one more over coat and <F>uh</F> glove <?>hats</?>.</B>
+<A><F>Ah</F>. I see. O K. <F>Um</F>. How do you enjoy your free time?</A>
+<B><F>Uhm</F> <R>I</R> <F>uh</F> <.></.> <SC>so I</SC> I'm <.></.> <JP><F>unto</F></JP> usually watching T V or on holiday I play baseball with my junior high school classmates.</B>
+<A><F>Oh</F> I see. And do you belong to any club?</A>
+<B><F>Uhm</F> <.></.> <F>uh</F> <R>I</R> I belong to <F>uhm</F> basketball circle.</B>
+<A><F>Huum</F>. <F>Hum</F>. Tell me about it.</A>
+<B>So the circle was <SC>made of</SC> made by <F>um</F> <nvs>cough</nvs> my high school friends so <F>um</F> but <SC>the cir</SC> we <.></.> play basketball <F>uh</F> <R>one</R> one day <SC>in a</SC> in <R>month</R> month.</B>
+<A><F>Oh</F>. I see.</A>
+<B>So <F>er</F> <R>o</R> <R>other</R> other holidays, <SC>we</SC> <SC>I play baske</SC> <F>uh</F> I play baseball or <R>some</R> something <R>ball</R> ball game.</B>
+<A><F>Huum</F>. You like ball games.</A>
+<B>Yeah. <OL>I like</OL>.</B>
+<A><OL><R>W</R> why</OL>? <nvs>laughter</nvs></A>
+<B>Why? Why? <F>uum</F> Why? <R>I'm not good at</R> <F>uhm</F> <F>ah</F> I'm not good at <F>err</F> <R>run</R> <SC>run</SC> <F>um</F> marathon or something. <..></..> <R>I</R> I have no <.></.> <R>patient</R> patient.</B>
+<A><F>Huum</F>. <nvs>laughter</nvs> <F>Oh</F> I see. O K. <F>Er</F>. Do you have brother or sister?</A>
+<B><F>Oh</F>. Yeah. I have younger sister.</B>
+<A><F>Huum</F>. Tell me about her.</A>
+<B>She is now nineteen <F>oh</F> no, no, eighteen years old so she is now <R>first</R> first grade of <H pn="school name1">XXX04</H>.</B>
+<A><F>Oh</F>. Really?</A>
+<B>And <R>she recently</R> <F>er</F> she recently doesn't came home.</B>
+<A><nvs>laughter</nvs></A>
+<B>So <F>uh</F> my parents <SC>take</SC> <SC>taking</SC> take care of her <OL><??></??></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <laughter>I see</laughter>.</A>
+<B><F>Er</F> <CO><?>I feel</?> my parents are anxious about</CO>.</B>
+<A>Yeah, I'm sure. You must be, too. <F>Wow</F>. <nvs>laughter</nvs> O K. <F>Well</F> thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Well</F> let me show you a picture. <.></.> O K, would you describe it for me?</A>
+<B><nvs>clearing throat</nvs> Yeah.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Uh</F>. <OL>Describe</OL>?</B>
+<A><OL>Anything you see</OL>. <F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. <.></.> This picture <F>uh</F> is <F>uh</F> <R><JP>gerende</JP></R> <JP>gerende's</JP> picture and <..></..> <R>there</R> there are a lot of people <R>who</R> <SC>who is</SC> who are skiing or snowboarding or throwing snowball each other. And <SC>the</SC> in the restaurant <SC>two</SC> I can see <R>two</R> <R>two people</R> <F>uh</F> two people resting with <R>having</R> having a coffee or something hot drink. <F>Uh</F> <F>uh</F> <F>uhu</F> <F>err</F>. The <R>right</R> right hand <F>uh</F> there is a <R>ski</R> <R>ski</R> skier who is slipping <R>and</R> <..></..> <SC>and <F>uh</F> the</SC> <.></.> and <.></.> there <R>is who</R> <F>uh</F> <.></.> is <F>uh</F> who is near to crash <R>with</R> <.></.> with other skier.</B>
+<A><F>Huum</F> I see. O K, thank you.</A>
+</task>
+<followup>
+<A>So do you <F>uh</F> play any winter sport yourself?</A>
+<B>Yes, I play snowboard <F>err</F> about three times in a year.</B>
+<A><F>Oh</F>. I see. What is so good about <.></.> that sport?</A>
+<B>What?</B>
+<A>Why do you like it?</A>
+<B><F>Uh</F> <.></.> <R>I</R> <F>er</F> I have never <.></.> play ski.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh</F>. <SC>The</SC> so snowboard is the first <F>uh</F> winter sport for me.</B>
+<A>I see.</A>
+<B><F>Uh</F>. <R>It</R> <SC>it <??></??></SC> <F>uh</F> <.></.> <SC>so</SC> and <F>uh</F> <R>I</R> I have ever <F>uh</F> <?>gapped</?> <?><F>uh</F></?> crashed or <??></??> but <F>err</F> <SC>the</SC> when I <.></.> <F>uh</F> <R>playing</R> playing snowboard, <.></.> the <R>win</R> window or speed is so exciting.</B>
+<A><F>Ah</F> I bet so. <F>wow</F> O K, thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's do a role-play. Would you read it to yourself, and when you're ready, I'll start.</A>
+<B><nvs>cough</nvs> Sorry.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? May I help you?</A>
+<B><F>Uh</F>. I want to buy a <.></.> some new snowboard. <F>Uh</F>. So <SC>the</SC> and a little <R>longer</R> longer snowboard I want to buy.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Do you have</OL> any one?</B>
+<A><F>Oh</F>. O K. <F>Uh</F> Would you look at this side? This corner?</A>
+<B><F>Uh</F>. It's a little short. <R>More</R> more long board do you have?</B>
+<A><F>Uh</F> I guess we have to order it.</A>
+<B><F>Oh</F>. So <SC>we</SC> <R>I</R> <SC>I go to <.></.> snowboard</SC> <.></.> I go snowboard tomorrow so</B>
+<A><OL><F>Er</F> tomorrow</OL>?</A>
+<B><?>we go</?> <F>uh</F> <.></.> <R>Sat</R> <R>Sat</R> Saturday.</B>
+<A><F>Oh</F>. That's too bad. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> <F>Uh</F>. So <F>uhm</F> this size <F>er</F> and more <R>colorful design</R> colorful design or <OL><??></??></OL>.</B>
+<A><OL>O K, <R>how</R> how about</OL> this one? This is comparatively longer. Maybe this might fit you.</A>
+<B><F>Oh</F>. <SC>It</SC> it's good. <F>Uhm</F>. <.></.> What is the price of?</B>
+<A><F>Err</F>. This is <F>uh</F> thirty thousand yen.</A>
+<B><.></.> <F>Oh</F>. It's reasonable. So <R>I</R> <SC>I</SC> please, I take it.</B>
+<A>O K. O K, here you are. <OL><nvs>laughter</nvs></OL></A>
+<B><laughter><OL><F>Oh</F></OL> thank you</laughter>.</B>
+<A>You're welcome. <F>Well</F> thank you very much for shopping here.</A>
+<B>Yes.</B>
+<A>O K, thank you very much. This is end of the role-play.</A>
+</task>
+<followup>
+<A><F>Um</F>. So where do you normally shop,</A>
+<B><F>Um</F>?</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>Where do you shop?</A>
+<B><R>Where</R> where do you shop?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh</F> <R>I</R> I go shopping at <F>uhm</F> <H pn="others2">XXX05</H> or Harajuku, and <.></.> Ueno and <?>there</?>.</B>
+<A>Why do you go to <H pn="others2">XXX05</H>?</A>
+<B><F>Uhm</F>. Because I <.></.> am living near <H pn="others2">XXX05</H> <F>uh</F> <SC>about</SC> it takes about ten minutes for me to go there.</B>
+<A><F>Er</F>. O K. So that's a very convenient.</A>
+<B>Yes.</B>
+<A>O K, thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, let me show you another picture? <F>Uhm</F>. O K. <SC>Could you desc</SC> <F>uh</F> I would like you to make up a story based on one to six and it happened last week so please start your story with "One day last week".</A>
+<B>Yeah.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Oh</F> <nvs>clearing throat</nvs> <R>two</R> <SC>two couple</SC> <F>uh</F> there is two couple and <F>uh</F> <SC>it</SC> <R>one</R> <SC>one day</SC> <R>it</R> it was one rainy day <SC>they are <F>uh</F> going</SC> they are <R>on</R> on way for going to <.></.> his home. And <.></.> <R>he</R> <F>uh</F> <nvs>clearing throat</nvs> sorry, <F>er</F> <R>he</R> he heard <R>some</R> some <R>strange</R> strange voice. So they looking around there. <.></.> So <.></.> and <F>uh</F> <R>there</R> there was a little cat <R>who</R> <R>who had been</R> <.></.> who had been <SC>leave</SC> left <.></.> and <R>his girlfriend <F>uhm</F> think</R> <F>uh</F> <SC>his girlfriend <SC>think</SC> <F>uhm</F> was</SC> <F>um</F> his girlfriend <R>think</R> <R>think the cat</R> think the cat very sorry so <R>she</R> <..></..> she <F>uh</F> <R>ask</R> asked him to <F>uh</F> <.></.> <R>take</R> take the cat to his home and take care of her so <.></.> <R>he</R> <R>he was very</R> <F>uh</F> <SC>he was <R>very</R> <..></..> very</SC> <R>he was</R> <..></..> so <R><laughter>he</laughter> was</R> <..></..> <F>uh</F> he was in trouble <.></.> with the happening <R>but</R> <..></..> but <F>uh</F> <R>she</R> <..></..> <R>she</R> she ask him so <R>hard</R> hard <SC>they</SC> at last they take the cat to his home.</B>
+<A><F>Huum</F>. Good. Happy ending. O K, thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. So <F>uh</F> what are you going to do after this interview, <H pn="B's name">XXX02</H>?</A>
+<B><F>Uh</F> <SC>I go</SC> I have a class.</B>
+<A><F>Oh</F>. You have another one.</A>
+<B>Yeah.</B>
+<A><F>Oh</F>. I see.</A>
+<B>So I go to the my classroom.</B>
+<A>Good I hope you'll be on time.</A>
+<B>Yeah.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>So <SC>I'm not</SC></OL> I can't be on time.</B>
+<A><nvs>laughter</nvs> <laughter><F>Oh</F> really</laughter>? <laughter>I'm sorry to hear that</laughter>.</A>
+<B><OL>Probably</OL>.</B>
+<A><OL>O K</OL>, then <F>err</F> <F>well</F> enjoy your class,</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>and</OL> thank you so much for coming. O K, <??></??> go. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah I enjoyed</OL>.</B>
+<A>O K. <OL>Thanks</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

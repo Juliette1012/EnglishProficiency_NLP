@@ -1,0 +1,214 @@
+<interview>
+<filename>file01059.txt</filename>
+
+<head version="1.3">
+<date>2002-03-07</date>
+<sex>female</sex>
+<age>62</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Let's get started. <nvs>cough</nvs> Good morning. My name is <H pn="A's name">XXX01</H>. <OL>May I have your name, please</OL>?</A>
+<B><OL><H pn="A's name">XXX01</H>, how do you do</OL>? <nvs>laughter</nvs> <OL><F>Mm</F> <F>er</F> <F>er</F></OL>.</B>
+<A><OL>May I have your name, please</OL>?</A>
+<B>I'm <H pn="B's name">XXX02</H>.</B>
+<A>Ms <H pn="B's name">XXX02</H>.</A>
+<B>Yes.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you to you, too.</B>
+<A>How are you today?</A>
+<B>I'm so <laughter>bad</laughter>.</B>
+<A><F>Well</F> <R>wh</R> what's wrong?</A>
+<B><F>Eh</F> because of hay fever.</B>
+<A>So how do you like spring?</A>
+<B><F>Mm</F> <laughter>no</laughter>. I don't like spring season.</B>
+<A><.></.> So which season do you like best?</A>
+<B>I like summer season best.</B>
+<A>O K.</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL>Why</OL> do you like summer season best?</A>
+<B><F>Um</F> I like hot <laughter>seasons</laughter>, so <.></.> <F>er</F> summer season, it is very comfortable for me.</B>
+<A><F>Mh-hmm</F>. <F>Hm</F>. So Ms <H pn="B's name">XXX02</H>, <F>erm</F> do you have families?</A>
+<B>No, I'm single.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>I see. So <F>er</F> what do you do?</A>
+<B><.></.> Single life?</B>
+<A>No, I mean what do you do for a living?</A>
+<B><..></..> <F>Mm</F> what do you do?</B>
+<A><F>Hm</F>. <CO>Like <F>er</F> do you have a job to support yourself or</CO>?</A>
+<B><F>Oh</F> I'm working. <F>Mm</F>.</B>
+<A><?>Then</?> can you tell me about your work?</A>
+<B><R>I'm</R> I'm <R>editing</R> diting <F>mm</F> about film data book. <F>Um</F>.</B>
+<A><OL><CO>What</CO></OL>.</A>
+<B><OL>Everyday</OL>, I'm going to my company.</B>
+<A>What exactly do you do there? <..></..> Tell me more about your work.</A>
+<B><laughter>Work</laughter>? <F>Erm</F> I think it is a very special book. <F>Ur</F> <F>ur</F> this book include <F>uu</F> only <F>ee</F> titles and <F>er</F> <F>er</F> <..></..> original nation's name and <F>er</F> released date and <F>er</F> <F>er</F> produced <.></.> date and <F>er</F> director's name. That's all. It <SC>is</SC> looks like title dictionary. So <F>uu</F> <F>er</F> this book covers <SC>the</SC> <SC>all of the films <F>er</F> was released in Japan</SC> all of the foreign films was released in Japan.</B>
+<A><F>Hmm</F>. Films, you mean movies?</A>
+<B>Movies.</B>
+<A><F>Oh</F> I <OL>see</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Alright, good. Now, Ms <H pn="B's name">XXX02</H>, <F>er</F> what do you do in your free time?</A>
+<B>Almost I can be flexible. <CO>And</CO>. <OL><F>Er</F> <F>er</F></OL>.</B>
+<A><OL>So what do you do</OL>?</A>
+<B>Free time? <F>Hmm</F> <SC>I</SC> <..></..> sometimes <R>I go</R> I go to see the kabuki and <F>er</F> bunrakus and other traditional theater. And <F>er</F> <.></.> I like to go to the museums. And <F>er</F> sometimes <F>um</F> <.></.> I like to patch working</B>
+<A><F>Hmm</F>.</A>
+<B><F>hm</F> <SC>for</SC> <F>uu</F> using the Japanese <F>uu</F> material.</B>
+<A>I see.</A>
+<B><F>Hm</F> yes.</B>
+<A><?>Must be</?> beautiful. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, first of all, I'd like to show you a picture.</A>
+<B><F>Hm</F>.</B>
+<A><nvs>cough</nvs> <F>Hmm</F>. <F>Er</F> let's do this. Here is a picture for you. Now, please describe this picture for me.</A>
+<B><F>Hmm</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A><OL>Tell me what you see</OL>.</A>
+<B><OL>It</OL> looks like my <laughter>room</laughter>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>. <.></.> There is a computer set on the desk. <R>And</R> <F>er</F> <..></..> and also <F>uu</F> there is a typewriter <F>er</F> besides the computer set. <..></..> <CO>And she</CO>.</B>
+<A>What else?</A>
+<B><..></..> <SC>On her bed</SC> <F>er</F> the cat sleeps <F>er</F> on her bed. <CO>And</CO>. <F>Er</F>. <.></.></B>
+</task>
+<followup>
+<A>O K, now <SC>s</SC> then, <F>er</F> Ms <H pn="B's name">XXX02</H>, you said that <F>er</F> this looks like your room. What is the difference between this room and your room?</A>
+<B><F>Mm</F> <.></.> I haven't <SC>cats</SC> <F>mm</F> cat and dogs.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><..></..> And <R>she</R> she has a <F>er</F> <..></..> <F>eh</F> C D player. <..></..></B>
+<A>O K.</A>
+<B><R>It loo</R> it looks <SC>so</SC> very expensive C D <laughter>player</laughter>.</B>
+<A>O K. All right.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>Thank you very</OL> much. Can I have the card back? Great. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><CO>Now let's</CO>. <nvs>cough</nvs> Excuse me.</A>
+<B><F>Hm</F>.</B>
+<A>I'd like to do a role-play. Let's do this. Here is a card for you. It's written in Japanese, so plese read it to yourself. When you are ready, I'll begin.</A>
+<B><F>Oh</F>. <nvs>laughter</nvs></B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>This is the same</B>
+<A><F>Oh</F> you have done this <OL>before</OL>.</A>
+<B><OL>picture</OL>. Yes.</B>
+<A>O K. <F>Well</F> then, we will switch. Here. Try this one.</A>
+<ctxt>The interviewee is reading another card.</ctxt>
+<A>Ready?</A>
+<B><F>Hm</F>. <nvs>sigh</nvs></B>
+<A>O K? Yes, ma'am. <OL>How may I help you</OL>?</A>
+<B><OL><F>Hmm</F> O K</OL>. <F>Hmm</F>. <SC>I am</SC> <..></..> I'm searching a party dress. <F>Uu</F> <.></.> <F>uu</F> <..></..> <SC>not</SC> <F>er</F> <SC>this is</SC> <F>uu</F> <R>this i</R> <SC>this is</SC> <F>er</F> <F>er</F> <..></..> it is friendly party.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So I'm searching <F>um</F> <F>um</F> very comfortable dress.</B>
+<A>O K, <F>well</F> we are dress shop. We <OL>have many</OL> different types of dresses.</A>
+<B><OL><F>Mm</F></OL>. <F>Mm</F>. I like black color and <F>er</F> <nvs>sniff</nvs> <F>mm</F> <..></..> I like casual type dress.</B>
+<A>Casual?</A>
+<B>Casual.</B>
+<A>O K. All right. Now, casual <SC>start</SC> starts <R>this</R> this corner.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Eh</F></OL> there are few black dresses <OL>there</OL>.</A>
+<B><OL>Yes</OL>. And <F>er</F> <..></..> this <R>long</R> long <F>mm</F> dress, <F>uu</F> can I try it on?</B>
+<A>Of course, of course.</A>
+<B><F>Er</F>. <.></.></B>
+<A>How do you like it?</A>
+<B>Do you have another <R>s</R> size?</B>
+<A><F>Mh-hmm</F>. Sure.</A>
+<B>This dress.</B>
+<A>Sure.</A>
+<B><F>Er</F>. <.></.> <F>Hm</F>. This dress is <F>uu</F> <R>too</R> <F>uu</F> <.></.> too loose <OL>for me</OL>.</B>
+<A><OL><F>Hm</F></OL>. O K.</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL><F>Well</F> then</OL>, here's a smaller size.</A>
+<B><F>Um</F>. <F>Er</F>. <..></..> How much is it cost?</B>
+<A>O K, <F>er</F> this costs twenty thousand yen.</A>
+<B>Twenty thousand yen. <F>Er</F>.</B>
+<A>Would you like to buy it?</A>
+<B><F>Er</F> <laughter>O K</laughter>.</B>
+<A>Great.</A>
+<B>O K. <R>I</R> I <.></.> take it.</B>
+<A>O K. Great. Thank you very much. Here is your dress. And twenty thousand yen.</A>
+<B>Yes.</B>
+<A>O K. Thank you very much.</A>
+<B><F>Er</F>.</B>
+<A>I hope you like the dress.</A>
+<B>Can I check the card <OL><??></??></OL>?</B>
+<A><OL>Of course</OL>. Of course. O K. Is that a credit card?</A>
+<B>Yes. <OL>Credit card</OL>.</B>
+<A><OL>Great</OL>. I checked it. Here is the card. Thank you very <OL>much</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Bye-bye. O K. Now, thank you. Now, this is the end of role-play. <OL><nvs>cough</nvs></OL></A>
+<B><OL><F>Er</F></OL>.</B>
+</task>
+<followup>
+<A>Now, <F>erm</F> where do you usually shop?</A>
+<B>Usually? <F>Mm</F>. I don't decide the special shop.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F>. <.></.></B>
+<A>Why not?</A>
+<B><F>Uhm</F> <.></.> <F>um</F> I walk around the town, so <F>um</F> if <SC>I saw</SC> <R>I</R> I see <SC>the</SC> <F>er</F> <.></.> some dress, <F>uu</F> <..></..> so if it suit me, <F>um</F> I'll take it.</B>
+<A>I see.</A>
+<B><F>Hm</F>.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now lastly, I would like to show you a sequence of pictures.</A>
+<ctxt>The interviewer is preparing the card.</ctxt>
+<A>O K. <F>Erm</F>. Have you seen this one before?</A>
+<B>No.</B>
+<A>No? O K, let's try this. Here is a sequence of pictures. And I would like you to make up a story based on these pictures from number one to four.</A>
+<B><F>Hmm</F>.</B>
+<A>Go ahead.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt> 
+<B>They came to movie theater and <F>er</F> <R>they</R> they are three. <F>Ee</F>. <.></.> They buy the ticket <.></.> to see the movie. <F>Mm</F>. <..></..> <F>Um</F> <SC>they</SC> <F>mm</F> <..></..> first, <F>er</F> <R>they</R> <F>ee</F> they want to take a popcorn and a <F>er</F> <.></.> Coca-Cola. <..></..> And <F>er</F> <F>er</F> <..></..> <F>um</F> <R>they</R> they sit on the seat and the movies began. <..></..> This week's shooting movie is a <.></.> <F>er</F> air crisis. They were so excited. And after the movies, <F>uu</F> <R>they were so</R> they were so enjoyed <F>ah</F> that movies. And they were satisfied. <F>Um</F>.</B>
+<A>O K. Thank you very much. Can I have the card back? Thank you.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>Now, Ms <H pn="B's name">XXX02</H>, <SC>this is the end</SC> <F>er</F> this is almost the end of the interview. So it's a beautiful day.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Are you</OL> going <SC>to</SC> home or do you have to work <F>uh</F> this afternoon?</A>
+<B>I'm going <SC>to work</B>
+<A><F>Oh</F>.</A>
+<B>for com</SC> to go to company.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A><F>Oh</F>. Because it's <F>er</F> flex.</A>
+<B>Yes.</B>
+<A>I see. <F>Er</F> you have to stay <R>la</R> late tonight?</A>
+<B>Yes. <F>Er</F> almost I come back to my home at <F>er</F> over nine o'clock or <SC>ten</SC> around ten <OL>o'clock</OL>.</B>
+<A><OL><F>Wow</F></OL>. That's why you took this class during the morning time.</A>
+<B><F>Hm</F>.</B>
+<A>I see, I see. Alright. <F>Well</F> don't work too hard.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B>But <F>er</F> <F>er</F> <R>after</R> <F>er</F> after April, <F>mm</F> <SC>I will little</SC> <F>uu</F> <F>er</F> <SC>I have a li</SC> I have <SC>a time</SC> a little time.</B>
+<A>I see.</A>
+<B>So <R>I</R> <SC>I hope</SC> I want to take a night class.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>I see. <F>Well</F> good luck.</A>
+<B>Thank you <OL>so much</OL>.</B>
+<A><OL>O K</OL>. Thank you very much. This is the end of the interview.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,193 @@
+<interview>
+<filename>file00957.txt</filename>
+
+<head version="1.3">
+<date>2002-01-29</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you</OL>.</B>
+<A><F>Uhm</F> <F>urm</F> what do you like to do in your free time?</A>
+<B>Free time? <F>Ur</F> <R>I like</R> <.></.> I like <R>sleeping</R></B>
+<A><nvs>laughter</nvs></A>
+<B>sleeping and <F>urr</F> <.></.> I like sports. <.></.> <F>Uhm</F>.</B>
+<A><F>Uhm</F>. What kind of sports?</A>
+<B>I like soccer, <.></.> <F>ur</F> basketball, <.></.> and snowboard.</B>
+<A><F>Ahh</F>.</A>
+<B>Yeah.</B>
+<A><.></.> What's <.></.> interesting</A>
+<B>Yeah.</B>
+<A>about snowboarding?</A>
+<B><F>Uhhh</F> <..></..> <CO>snowboard is <..></..> <JP>nandarou</JP></CO>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Uhm</F> it's O K. Then why do you like soccer?</A>
+<B>Soccer?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urm</F> <.></.> I belongs to soccer club <F>er</F> <F>err</F> junior high school and high school. So I like soccer. <CO>And</CO>. <.></.> <F>Uhm</F>. <..></..></B>
+<A><F>Uhm</F> O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Urm</F> tell me about your favorite soccer player.</A>
+<B>I like <.></.> <nvs>cough</nvs> <.></.> Nakata</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <.></.> Ono. <..></..> <F>Uhm</F>.</B>
+<A><F>Uhm</F> what's special about Nakata?</A>
+<B><F>Uhm</F> Nakata is clever. <.></.> <F>Uhm</F> so I like him.</B>
+<A><F>Uhm</F>. I see. O K. So what do you study at the school?</A>
+<B>School? <SC>I study</SC> <.></.> I'm studying <.></.> <SC>design</SC> <.></.> <F>uhm</F> <.></.> product design and <.></.> interior design.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah.</B>
+<A><F>Um</F>. Tell me about <F>ur</F> one class you like.</A>
+<B>Class?</B>
+<A><F>Uh-huh</F>. <.></.> Any class at the school.</A>
+<B><F>Urrr</F> <F>uhm</F> <.></.> I like <R>drawing</R> <.></.> drawing class.</B>
+<A><F>Uh-huh</F>. <F>Uhm</F>. Is the teacher very good?</A>
+<B><F>Urmmm</F> <.></.> so-so. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. <F>Uhm</F>. O K. <F>Urm</F> are you living by yourself?</A>
+<B>Yeah.</B>
+<A>Yeah? How do you like that?</A>
+<B><F>Uhm</F> <SC>it's</SC> <.></.> <F>uhm</F> I'm enjoying living. <.></.> <F>Uhm</F> <.></.> <F>uhm</F> <..></..> but I cannot cook. <.></.> So <..></..> I'm always hungry.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A><laughter>I see</laughter>. O K. Thank you. Now I'm going to show you a picture. <F>Urm</F> please tell me what you see.</A>
+<B><F>Uhm</F> there is a <.></.> <JP>nandarouna</JP> house. And <.></.> childrens are playing. <.></.> <F>Ur</F> <.></.> young man is running. <..></..> They look so <.></.> peaceful. <.></.> <F>Uhm</F>. <..></..></B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you. Does this look like your neighborhood?</A>
+<B>No.</B>
+<A>No? Tell me about your neighborhood.</A>
+<B><F>Urr</F> <.></.> <SC>I living</SC> <.></.> my neighborhood is <F>urr</F> very noisy <.></.> because <F>urr</F> <SC>there are</SC> <.></.> <F>er</F> there is <.></.> <R>ne</R> near the station. So <.></.> many many car <.></.> is there. <..></..> <F>Uhm</F> that is the difference</B>
+<A><F>Uh-huh</F>.</A>
+<B>the picture.</B>
+<A><F>Uhm</F>. Why did you choose that place?</A>
+<B><F>Urr</F> <.></.> I like <.></.> the <.></.> <SC>river</SC></B>
+<A><F>Uhm</F>.</A>
+<B>Tamagawa River.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F> <.></.> and <.></.> near the school.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> Not so expensive.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhm</F>. I see. O K. Thank you. Now, we are going to do a role-play.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>? And I want you to read this card. And when you are ready, tell me. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><JP>Hai</JP>.</B>
+<A>O K? May I help you?</A>
+<B><F>Urmm</F> <..></..> I'm looking for apple. <.></.> Where is apple?</B>
+<A><nvs>laughter</nvs> <F>Urm</F> the fruit section is over there.</A>
+<B><laughter>Thanks</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> We have many kinds of apples.</A>
+<B><F>Urr</F> <R>I want</R> <R>I want</R> <.></.> I want apple made in Aomori.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> Which is <.></.> Aomori apple?</B>
+<A><F>Urr</F> they are ones on the right side.</A>
+<B>O K.</B>
+<A><F>Uh-huh</F>. We have three Aomori apples.</A>
+<B><F>Urm</F>.</B>
+<A>Three kinds.</A>
+<B><R>I want</R> <.></.> I want <R>Mutsu</R> Mutsu brand.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <R>Do you have</R> do you have a Mutsu?</B>
+<A>Yes, of course. <.></.> But it's very expensive.</A>
+<B>How much?</B>
+<A><F>Ur</F> one apple is two hundred fifty yen.</A>
+<B><F>Urr</F> <.></.> it's so expensive. <SC>I</SC> <..></..> more cheaper one, please.</B>
+<A><F>Er</F> actually, if you buy three,</A>
+<B>Yeah.</B>
+<A>it will be <F>ur</F> six hundred yen.</A>
+<B><F>Uhm</F> <.></.> O K. <.></.></B>
+<A>Yeah?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>You'll take it</OL>?</A>
+<B>Yeah. <nvs>laughter</nvs></B>
+<A>So here you are. Three apples.</A>
+<B>Yeah.</B>
+<A>O K. <OL>Thank you very much</OL>.</A>
+<B><OL>Thanks</OL>.</B>
+</task>
+<followup>
+<A>That's the end of the role-play. <F>Urm</F> you said you don't cook much.</A>
+<B>Yeah.</B>
+<A>So what do you do</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>about your food</OL>?</A>
+<B><.></.> <F>Urm</F> <..></..> today, <F>uhm</F> my mother is coming my home.</B>
+<A><F>Ahh</F>.</A>
+<B><CO>So</CO>. <..></..></B>
+<A><F>Uh-huh</F>. But usually, <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>what happens?</A>
+<B><F>Urrr</F> <.></.> <F>uhm</F> <.></.> I eat something <.></.> in outside,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urr</F> <.></.> for example, Yoshinoya, <.></.> <F>ohh</F> McDonald, <.></.> <F>uhm</F> and so one.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Hum</F> I see. O K. Thank you. Now, I'm going to show you <ctxt>The interviewer is choosing a picture</ctxt> a picture sequence. O K? Here are six pictures. O K? Please make up a story.</A>
+<B>Yeah.</B>
+<A>O K? <.></.> And <.></.> please start with "One day last week".</A>
+<ctxt>The interviewee is looking at pictures.</ctxt>
+<B>O K?</B>
+<A>Yeah.</A>
+<B>One day last week, <nvs>cough</nvs> <.></.> <F>uhm</F> <.></.> a man and a woman was walking. It was rainy. <..></..> "<R>What's the</R> what's the noise?", <.></.> he said. She found a <.></.> box. <nvs>cough</nvs> <.></.> <F>Uhm</F> <.></.> <SC>she look into the</SC> she looked into the box. There is a <.></.> small cat. <..></..> <F>Urm</F> <.></.> she asked him, <.></.> "I want to take it my home.". He said, "No.". <..></..> <F>Uhm</F> <..></..> <SC>but she</SC> <..></..> <F>uhmm</F> <..></..> <R>bu</R> but she did not give up. <.></.> And <.></.> he's give up.</B>
+</task>
+<followup>
+<A><F>Uhmm</F>. <.></.> O K?</A>
+<B>O K.</B>
+<A>Yeah. Thank you. <F>Uhm</F> <.></.> so <.></.> what do you usually do on rainy days?</A>
+<B><F>Urm</F> I usually <.></.> <laughter>sleeping</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Why are you so tired? <nvs>laughter</nvs></A>
+<B><F>Urm</F> I don't know.</B>
+<A><nvs>laughter</nvs> Yeah. O K. <F>Urm</F> <.></.> when you are in your room,</A>
+<B>Yeah.</B>
+<A>what do you like to do</A>
+<B><.></.> <OL><F>Urm</F></OL></B>
+<A><OL>other</OL> than sleeping?</A>
+<B><nvs>laughter</nvs> <F>Urm</F> <.></.> I like to <.></.> <SC>read a books</SC> read book <SC>and</SC> or <F>uhm</F> <..></..> <F>uhm</F> always reading book <nvs><laughter>laughter</laughter></nvs></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><F>uhm</F></B>
+<A>I see. O K.</A>
+<B>or magazine.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uh</F>. O K. Thank you. Now, we almost finished with <laughter>this interview</laughter>. <F>Uhm</F> <F>urm</F> <.></.> are you busy today?</A>
+<B><F>Uhm</F> <.></.> yeah. I'm busy today.</B>
+<A>Yeah? <.></.> You are at school until what time?</A>
+<B><.></.> <F>Uhm</F> maybe <.></.> at five.</B>
+<A><F>Uh-huh</F>. <F>Uhm</F>. I see. And then you go home?</A>
+<B>No. <.></.> Maybe <R>I</R> <.></.> I'm going to bowling.</B>
+<A><F>Uhmm</F>.</A>
+<B>Yeah.</B>
+<A>Sounds fun. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. <F>Well</F> thank you very much.</A>
+<B>Thank you.</B>
+<A>Enjoy your bowling. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage5>
+</body>
+</interview>

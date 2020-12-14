@@ -1,0 +1,191 @@
+<interview>
+<filename>file00406.txt</filename>
+
+<head version="1.3">
+<date>2001-03-13</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>715</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A><H pn="B's name">XXX01</H>, nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><F>Err</F>. Fine, thank you, and you?</B>
+<A>Good, thank you. <F>Well</F> <H pn="B's name">XXX01</H>, where are you from?</A>
+<B><F>Err</F> I came from <H pn="others1">XXX02</H>, <H pn="others2">XXX03</H> Prefecture.</B>
+<A><F>Mm</F> I've never visited there. Would you tell me about the place?</A>
+<B><F>Urr</F> <F>er</F> <H pn="others1">XXX02</H> City is <F>ee</F> near sea and mountain. And <F>er</F> our company's factory and <F>ee</F> instruments is located.</B>
+<A>What kind of instrument?</A>
+<B><F>Er</F> instruments? <F>Ur</F> <R>chemical</R> chemical instruments and biotechnology instruments.</B>
+<A><F>Mm</F>. So you work in a country area.</A>
+<B><R>Country</R></B>
+<A>Country side?</A>
+<B>country side, yes, yes.</B>
+<A><F>Oh</F>. O K. So what is good about working in a kind of country area?</A>
+<B><R>Country area</R> <F>ohh</F> country area <F>er</F> <F>ee</F> <..></..> <JP><F>eeto</F></JP> country area <JP>wa</JP> <.></.> urban city is <SC>no</SC> <F>er</F> more better. <nvs>laughter</nvs> <R>I</R> <R>I want to</R> I want to live <F>er</F> urban city.</B>
+<A><F>Oh</F>. Really?</A>
+<B><F>Uhh</F> yes. <F>Er</F>. <SC>Country</SC> <F>ur</F> <R>na</R> <SC>nature</SC> <F>ur</F> I love nature, <F>ur</F> I play in mountain or sea <F>er</F> that thing I like. But <F>er</F> dairy life <F>mm</F> <..></..> <JP><F>eeto</F></JP> <.></.> <R>not</R> <R>not good</R> not good.</B>
+<A><F>Er</F>. Really.</A>
+<B>Yes.</B>
+<A>O K. So when you have free time what do you like to do?</A>
+<B><F>Err</F> <R>I</R> I usually <F>ee</F> physical exercise <F>urr</F> and play sport <F>err</F> soccer <F>urr</F> and in winter <R>I</R> <F>ee</F> <SC>I like</SC> <F>ee</F> I go ski.</B>
+<A><F>Oh</F>. O K. So when was the last time you went for skiing?</A>
+<B><JP><F>Eeto</F></JP> <.></.> on February twenty eighth, <F>ee</F> Wednesday.</B>
+<A>O K, so did you enjoy it?</A>
+<B><F>Er</F>. Yes.</B>
+<A><nvs>laughter</nvs> O K. <F>Well</F> do you live with your family?</A>
+<B><F>Er</F>. No, I'm a single.</B>
+<A><F>Uh-hmm</F>. So <F>er</F> would you tell me about the place you live? Are you in a apartment?</A>
+<B><F>Er</F>. Yes. <F>Err</F> <..></..> <JP><F>eetto</F></JP> <.></.> <R>com</R> <R>company's</R> company's condominium. <JP>Chigaukana</JP>?</B>
+<A><F>Uhm</F>. O K. So is it enjoyable to live in company's apartment?</A>
+<B><.></.> <F>Uh</F>. Please once more.</B>
+<A>Is it enjoyable for you to live in a company's <OL>apartment</OL>?</A>
+<B><OL><F>Err</F></OL>. Yes. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> O K, so what do you usually eat for dinner?</A>
+<B>Dinner. <F>Oh</F> dinner <F>err</F> <..></..> <JP><F>unnto</F></JP> <..></..> <F>mm</F> <..></..> <R>no</R> normal. <nvs>laughter</nvs></B>
+<A><F>Oh</F>. O K, all right. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'm going to show you a picture, O K. Please take a look at this picture. Would you describe the picture?</A>
+<B>Describe the picture?</B>
+<A><F>Mm</F>.</A>
+<B><F>Err</F>. This is a <SC>room</SC> <F>ee</F> young girl's room. <F>Err</F>. There is a desk, bed and audio. On the desk, <F>ee</F> personal computer. <R>And</R> <..></..> and <F>err</F> <.></.> in a room, cat and dogs, and cat is on the bed. <.></.> <F>Err</F> <..></..> <JP><F>uunto</F></JP> on the wall, <..></..> there is calendar. <F>Mm</F>. It's represented for June. And near the wall, <F>er</F> <.></.> low board, and on the low board <F>ee</F> mini audio set. <.></.></B>
+<A>O K, good.</A>
+</task>
+<followup>
+<A><F>Well</F> can you compare this room to your room in the company's apartment? Can you compare two rooms?</A>
+<B>Can you compare?</B>
+<A>Can you compare?</A>
+<B>Can you <R>compare</R> compare?</B>
+<A><F>Uh-hum</F>.</A>
+<B>Compare. <F>Urrr</F> <F>er</F> <R>one</R> once more.</B>
+<A><OL>Can you compare to your room</OL>?</A>
+<B><OL>Compare</OL>,</B>
+<A>Your room,</A>
+<B><F>ee</F> <OL><R>size</R></OL> size?</B>
+<A><OL>with this room</OL>. <F>Well</F> anything is O K.</A>
+<B>Anything.</B>
+<A><OL>What are the differences</OL>?</A>
+<B><OL><F>Err</F></OL>. <R>My room</R> <F>ee</F> <SC>my room</SC> <F>mm</F> this room is <.></.> similar <F>er</F> my room. <F>Err</F>. Especially <F>ur</F> <.></.> <SC>furniture and</SC> <..></..> <F>mm</F> <..></..> <R>furniture</R> furniture. But my room isn't dog and cat. <.></.> <F>Err</F>. <.></.> <F>Oh</F> <R>my room i</R> <R>my room is</R> <F>err</F> <.></.> my room is <F>uh</F> two <?>dolls</?>, refrigerator and oven toaster.</B>
+<A><F>Oh</F> I see. O K, thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now we'll do a role-play.</A>
+<B>Role-play.</B>
+<A><F>Uh-hum</F>. Please read this card, and when you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>Everything?</B>
+<A><F>Uh-hmm</F>. You can decide.</A>
+<B><F>Er</F> <.></.> I want to <.></.> buy new car.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Err</F>. <..></..> <F>Mm</F> <F>mm</F>. This car, <F>er</F> <..></..> <F>ee</F> <..></..> how much?</B>
+<A><F>Well</F> this is two hundred thousand dollars.</A>
+<B><F>Ohh</F>. Two hundred thousand dollars. <.></.> A collar we choice <F>er</F> something else?</B>
+<A><F>Uh-hm</F>.</A>
+<B><SC>I want</SC> <F>ur</F> <R>what</R> <R>what</R> <F>ee</F> what color do you have?</B>
+<A>We have five colors.</A>
+<B>Five colors.</B>
+<A><F>Uh-hm</F>. Blue, white, metallic silver and black and red.</A>
+<B>I want metallic silver.</B>
+<A><F>Uh-huh</F>. <F>Oh</F>. O K. <F>Well</F> here. You can have that one.</A>
+<B><F>Ohh</F>. O K.</B>
+<A>Metallic.</A>
+<B><F>Urr</F>. <..></..> <R>This car</R> <F>err</F> <.></.> this car has three doors. <SC>I want to</SC> <F>ur</F> <R>I</R> I want five-door car.</B>
+<A>Five door?</A>
+<B>Five-door car.</B>
+<A><F>Er</F>. O K. <F>Well</F> there is no five car door type <SC>about</SC> of this car. Sorry.</A>
+<B><F>Er</F>. Only type. <OL><F>Err</F></OL>.</B>
+<A><OL>Only this one</OL>.</A>
+<B>Only this one. <F>Err</F> <.></.> <F>ee</F>. <.></.> Another one.</B>
+<A><F>Mm-hm</F>.</A>
+<B><R>Ano</R> <SC>another type of car</SC> <F>er</F> do you have another type of car?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F>. More large size.</B>
+<A><F>Er</F>. O K, we have a mini van.</A>
+<B><F>Oh</F>. Mini van. <F>Urr</F>. How much mini van?</B>
+<A><F>Er</F>. That's three hundred thousand dollars.</A>
+<B><F>Er</F>. <F>Oh</F> <F>o</F> <F>o</F> <F>o</F> <F>urr</F> more discount?</B>
+<A><F>Hum</F>. O K. <F>Well</F> <F>oh</F> maybe we can give you ten percent discount.</A>
+<B><F>Oh</F>. Ten percent discount. <F>Urr</F>. And <SC>I want to</SC> <F>er</F> I want <R>new car</R> <F>err</F> new car with <SC>new <.></.> floor</SC> new carpet floor, I want. <F>Err</F>. <R>No</R> <R>no</R> no charge. <F>Ee</F>.</B>
+<A>Sure, yeah. <OL>We can give you</OL> those carpet for free.</A>
+<B><OL>O K, O K</OL>? <F>Uh</F>. O K. And <R>once</R> once more question, <F>err</F> <SC>this car</SC> <F>ur</F> <R>when</R> <F>ee</F> when this car move to me?</B>
+<A><F>Well</F> in one week.</A>
+<B>One week?</B>
+<A><F>Uh-hm</F>.</A>
+<B>Very <F>er</F> soon.</B>
+<A>Yes. O K, so, <F>well</F> I'll give you this catalog and I'll get back to you.</A>
+<B><F>Er</F>. O K.</B>
+<A>O K, thank you very much.</A>
+<B><F>Er</F>. Thank you.</B>
+</task>
+<followup>
+<A>O K, so <SC>are you</SC> you are interested in cars.</A>
+<B><F>Err</F> <nvs>laughter</nvs> a little.</B>
+<A><F>Er</F>. Really? So do you drive?</A>
+<B><F>Oh</F> I drive sometime.</B>
+<A><F>Well</F> tell me about your car.</A>
+<B><F>Er</F>. My car? <R>My car</R> my car is <F>er</F> <.></.> four double D. <F>Err</F>. <..></..> Two thousand C C. <F>Urr</F>. Color is white. <F>Um</F>. Very cute.</B>
+<A><nvs>laughter</nvs> Very cute car, O K, I see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, finally I'm going to show you another picture. And I'd like you to make up a short story of this picture. And story happened before, so please start with "One day last week".</A>
+<B><F>Ho</F> <F>ee</F>? I make story?</B>
+<A>Make up <R>your</R> your own story.</A>
+<B><F>Err</F> <F>mm</F>. <..></..> Previous story or?</B>
+<A>Previous story, one day last week.</A>
+<B><F>Er</F>. One day last week.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Er</F>. Me?</B>
+<A><F>Oh</F>. You can decide.</A>
+<B><F>Errr</F> <F>errr</F>. <.></.> He is my uncle, <F>er</F> it is me.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Er</F> We are meet one day last week. And we <.></.> talk together, <F>er</F> <..></..> I know this restaurant.</B>
+<A><F>Uh-hm</F>.</A>
+<B>And my uncle like this restaurant. <SC>I went to</SC> <.></.> <F>err</F> we are enter the restaurant, and <..></..> <SC>table is</SC> <F>er</F> <.></.> <F>mm</F> <F>er</F> we can soon sat table.</B>
+<A><F>Uh-huh</F>. Just a short story is O K.</A>
+<B><F>Er</F> <R>more</R> <F>er</F> more. <nvs>laughter</nvs> <F>Err</F> <F>er</F>. We are ordered <F>er</F> dinner, and we enjoyed dinner. I drunk <F>er</F> <JP>biiru</JP> little. And <..></..> all sum, <F>err</F> my uncle paid. I satisfied.</B>
+<A><F>Uh-hmm</F>.</A>
+<B>Then <SC>we</SC> <F>err</F> <F>er</F> I say good-bye. We departed.</B>
+<A>O K, good.</A>
+</task>
+<followup>
+<A><F>Well</F> what kind of food do you <?>like</?>?</A>
+<B><F>Mm</F> food?</B>
+<A>What kind of food?</A>
+<B>Food. <F>Oh</F> <F>err</F> I eat fish, and my uncle eat <F>ee</F> chicken.</B>
+<A>I see, good. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> this is the end of the interview. <F>Well</F> do you have any plans after this?</A>
+<B><.></.></B>
+<A>After this interview, what are you going to do?</A>
+<B><F>Er</F>. Today?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Er</F> <R>I</R> <F>uh</F> I will go to Shinjuku, and I will meet my old friend working <F>ee</F> <.></.> Tokyo.</B>
+<A><F>Er</F>. O K, enjoy it.</A>
+<B><F>Er</F>. Yeah.</B>
+<A>O K, thank you.</A>
+</stage5>
+</body>
+</interview>

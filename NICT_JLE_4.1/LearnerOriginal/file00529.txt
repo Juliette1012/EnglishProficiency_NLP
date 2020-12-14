@@ -1,0 +1,184 @@
+<interview>
+<filename>file00529.txt</filename>
+
+<head version="1.3">
+<date>2001-07-23</date>
+<sex>female</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>All right. O K. My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B><F>Erm</F>. I'm fine. But today is too hot. <CO><OL><laughter>So</laughter></OL></CO>.</B>
+<A><OL>Yes</OL>, it <laughter>is</laughter>. It's really hot outside.</A>
+<B>Yeah.</B>
+<A>Do you have any plan for your summer vacation?</A>
+<B>Yes, I have. <F>Um</F>. <R>I</R> <SC>I went</SC> <R>I</R> I will go abroad with my friend. <F>Erm</F>. <SC>We went Europe</SC> we go Europe.</B>
+<A><F>Um</F>. Could you tell me about your plan to go to Europe?</A>
+<B><F>Um</F>. We go there <F>um</F> by ourselves, not <F>um</F> tour. <F>Hm</F>. So, we have to do <R>any</R> anything. <F>Um</F>. <F>Erm</F>. <R>We</R> <R>we</R> we went many <F>um</F> <R>tour</R> tour desk. <F>Hm</F>. And we get <F>mm</F> the cheapest <F>um</F> air ticket. <F>Um</F>. But <R>we</R> <SC>we don't</SC> <F>uhm</F> <SC>we ha</SC> <R>we don't</R> <F>mm</F> now, we don't <F>er</F> <F>err</F> <F>uum</F> get <F>er</F> <nvs>cough</nvs> <F>er</F> <SC>how</SC> <F>um</F> hotel. <F>Erm</F> so, we have to <F>uum</F> reserve it. <F>Um</F>.</B>
+<A><F>Hm</F>. I see. And what do you want to do when you go to Europe?</A>
+<B><F>Um</F>. <R>We</R> <SC>we went Eu</SC> we go Europe for <F>um</F> seeing many museum. <F>Er</F> I and my friend study art history. So, we get there, <F>erm</F> we want to see <F>er</F> <R?>many</R?> <F>er</F> many things. <OL><??></??></OL></B>
+<A><OL><F>Wow</F></OL>. That's interesting. Why did you get interested in art history?</A>
+<B><F>Er</F>. <F>Um</F> because <F>er</F> <R>my</R> my father and mother likes <R>to go</R> <F>uhm</F> to go to museum. So, when I was there, I want go there with <SC>my fri</SC> <SC>my</SC> <R>m</R> my parents. <CO>So, I get used to <OL>like</OL></CO>.</B>
+<A><OL><F>Hum</F></OL>. <F>Ah</F>. That's nice. Could you tell me about your parents a little bit?</A>
+<B><F>Um</F>. My parents are both working and <F>er</F> they are busy. <F>Um</F>. <F>Err</F> but <F>er</F> on Sunday, <R>they</R> <SC>they are</SC> <F>uum</F> <F>eh</F> <SC>they don't</SC> <R>they</R> <R>they</R> they don't work. <F>Um</F>. So, they use Sunday <F>um</F> <R>for</R> for me. <F>Um</F>.</B>
+<A><F>Hum</F>. That's nice. So do they really paint then, by themselves?</A>
+<B><F>Er</F> no. <F>Uum</F> <SC>we are</SC> <SC>we</SC> <F>erm</F> they are only watching. <OL><??></??></OL></B>
+<A><OL><laughter><F>Oh</F> I see</laughter></OL>. Do you have any favorite artist?</A>
+<B><F>Err</F>. <F>Mm</F>. Yes. <F>Err</F> <SC>I like</SC> <F>uum</F> <F>er</F> <SC>for Japan</SC> I like Japanese and any other countries' <F>er</F> art. And I have many artists <F>mm</F> <SC>like</SC> I like. <F>Um</F>. <F>Mm</F>. But my favorite <F>uum</F> <F>uum</F> <F>erm</F> Japanese artist, <F>erm</F> Sakai Koetsu.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. <F>Um</F>. <R>He</R> he write <F>uum</F> <F>uum</F> any <F>uum</F> <F>mm</F> animals and <F>err</F> any <F>uum</F> plant. <OL><F>Hm</F> <F>hm</F></OL>.</B>
+<A><OL>Plants</OL>? O K. <F>Oh</F>. That's interesting. All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. Did you do this before?</A>
+<B>No.</B>
+<A>O K.</A>
+<B><F>Er</F>.</B>
+<A>Please describe this picture.</A>
+<B><F>Err</F>. There are <F>uum</F> <R>wi</R> wide room and three tables. <F>Um</F>. <SC>Each tables <F>um</F> two</SC> <SC>each tables</SC> <F>err</F> <R>couple</R> <F>mm</F> couples are standing on each table. And on one table, <F>um</F> <F>uum</F> couples are choicing wine. And man is <F>uum</F> now trying. <F>Hm</F>. And <R>woman</R> woman watch him. <F>Er</F>. <F>Uum</F>. <F>Eh</F> <SC>on</SC> <F>uum</F> in this room, there are <F>um</F> big clock. And <F>mm</F> next to the clock, there are <F>um</F> piano. And green dressed woman are playing it. <F>Um</F>. And <F>uum</F> <.></.> <F>uum</F> <R>one</R> one table, couples are now eating. And other tables <F>um</F> now <R>sa</R> <F>uum</F> <SC>sa</SC> <F>uum</F> <SC>clerk</SC> <F>uum</F> <F>uum</F> a shop man is <F>um</F> prepare the dishes.</B>
+<A>O K. All right. Thank you.</A>
+</task>
+<followup>
+<A>So, do you sometimes go to a restaurant?</A>
+<B>Yes. <CO>But I don't go such <F>uum</F> expensive</CO>. <nvs>laughter</nvs></B>
+<A><laughter>O K</laughter>. So, could you tell me about your favorite restaurant?</A>
+<B><F>Er</F> I like Italian. And <R>I</R> I found good Italian restaurant. <F>Um</F> <SC>that</SC> it is <F>um</F> small but the chef is <R>very good</R> <F>uum</F> <F>uum</F> <F>hm</F> very good <R>cook</R> cook. Very good. So I often go there.</B>
+<A><F>Hum</F>. How did you find the restaurant?</A>
+<B><F>Er</F> <SC>I</SC> <SC>when I was</SC> <F>erm</F> when <SC>I do</SC> <F>uh</F> I did a part-time job, <R>my</R> <F>err</F> <F>mm</F> my boss teach me that restaurant. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Oh</F></OL>. That's nice. All right. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, we're going to do a role-play. O K. O K. Please read this card to yourself. And when you are ready, I will start. So let me know. O K?</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A><OL>Ready</OL>?</A>
+<B><OL>O K</OL>. O K.</B>
+<A>O K. So, may I help you, ma'am?</A>
+<B><F>Um</F> I want to buy <F>er</F> the sneakers for travel.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. <CO>Are there any good</CO>.</B>
+<A>Yes. We have lots of sneakers <OL>here</OL>.</A>
+<B><OL><F>Erm</F></OL>. <F>Um</F> I don't like <F>uum</F> <R>co</R> colorful sneaker. I want to have a black or <F>uum</F> navy blue <OL>sneaker</OL>.</B>
+<A><OL><F>Er</F></OL> O K. <F>Well</F> we have black shoes here.</A>
+<B><F>Er</F>. <F>Uum</F>. Is it <F>er</F> suitable for travel?</B>
+<A>I think so.</A>
+<B><F>Uum</F>. <F>Hm</F>. Can I try it?</B>
+<A>Sure.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>Go</OL> ahead.</A>
+<B><F>Um</F>. <F>Err</F>. It is too big for me. <F>Um</F>. <SC>There are <F>er</F> a <R>li</R> little one</SC> are there <OL>little one</OL>?</B>
+<A><OL><F>Oh</F></OL> I'm sorry. But this is the smallest size.</A>
+<B><F>Er</F>. <F>Uum</F>. <F>Uum</F>. <F>Err</F> so <R>I</R> <F>er</F> I try any other <.></.> color. <F>Uhm</F>.</B>
+<A>O K. <F>Well</F> <F>er</F> we have smaller size for navy blue. Would <OL>you</OL>,</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A>like to try them?</A>
+<B>Yes.</B>
+<A>O K. Here you go.</A>
+<B><F>Oh</F>. <F>Oh</F>. It's good. <F>Uhm</F>. <R>How</R> how much is it?</B>
+<A><F>Oh</F>. It's one hundred fifty dollars.</A>
+<B>One hundred fifty dollars. Yeah. <laughter><F>Um</F></laughter> O K.</B>
+<A>All <OL>right</OL>.</A>
+<B><OL><F>Er</F></OL> I'll buy it.</B>
+<A>All right. <R>Here is your</R> here is your shoes.</A>
+<B><F>Oh</F>. Thank you.</B>
+<A>All right. Have a nice day.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>. Thank you. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>So, do you like shopping?</A>
+<B><F>Er</F> yes. <.></.> <F>Hm</F>. <F>Um</F> but <SC>I don't</SC> <SC>I'm</SC> now, I don't do <F>ur</F> any part-time jobs. So, I have many time to go <F>mm</F> window-shopping. But <SC>I have <F>er</F> m</SC> I don't have much money. <CO><OL>So</OL></CO>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><F>Hm</F>.</B>
+<A>I see. So that means you used to have a part-time job.</A>
+<B>Yes.</B>
+<A>What did you do?</A>
+<B><F>Um</F>. I do <F>um</F> waitress. Steak house.</B>
+<A><F>Hum</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Was it interesting?</A>
+<B><F>Er</F> yes. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Ah</F></OL>. Did you have any trouble?</A>
+<B><F>Er</F> yes. <F>Er</F> <SC>there are</SC> <F>um</F> <F>uum</F> there aren't any other waitress. So <SC>I have to do many time</SC> <F>mm</F> I have to work many time. So, it's too hard for me.</B>
+<A>I guess so. O K. All right. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. Now finally, we can do a sequence of pictures. Yes. All right. Please make up a story based on these pictures from one to six. And this happened before, so please start your story with "One day last week". O K? Go ahead.</A>
+<B><F>Hm</F>. One day last week, <F>um</F> couples are walking <F>ur</F> in the rain. And there are <F>uum</F> <R>box</R> one boxes. <CO><R>And</R> <F>uum</F> and <R>some</R> <F>uum</F> <F>uum</F> some <F>um</F> <?>one</?></CO>. <F>Mm</F> and boy <R>sound</R> sounded something. So, <F>erm</F> they opened the box. And <R>girl</R> <F>uh</F> girl found small cat is on the box. <F>Hm</F>. <R>She s</R> she said to the boy she want to <F>um</F> have this cat. <SC>But boy</SC> but first, boy <R>said</R> said no. <SC>But girls asked him</SC> <F>uum</F> <F>uum</F> <R>but</R> but girl asked him twice and he change his mind. <F>Er</F>. <R>They</R> <R>they</R> they decide to have a cat. And <F>um</F> <SC>they say</SC> <F>er</F> they take <F>um</F> that cat <R>with</R> with them.</B>
+<A>O K. All right. Thank you.</A>
+</task>
+<followup>
+<A>So, <F>um</F> do you have a pet?</A>
+<B>No. <CO>I <OL>don't have</OL></CO>.</B>
+<A><OL><F>Hm</F></OL>. But if you have a chance, would you like to have one?</A>
+<B>Yes.</B>
+<A><F>Um</F>. What do you want to have?</A>
+<B><F>Er</F> I want to have a dog.</B>
+<A>Why?</A>
+<B><F>Er</F> because <F>um</F> <F>er</F> I like dogs better than cat. <CO>And</CO>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Um</F>. <OL><F>Mm</F></OL>.</B>
+<A><OL>What</OL> are the differences <laughter>between <OL>cat and dog</OL></laughter>?</A>
+<B><OL><F>Err</F></OL>. <F>Uhm</F>. Yeah. I think <SC>cat is <F>uum</F> very</SC> <R>cat is</R> cat is <F>uum</F> like human. <F>Mm</F>. <R>They</R></B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>um</F> they are very <F>um</F> <SC>ki</SC> <F>uum</F> cleaver and <F>uum</F> <R>they</R> they like <F>er</F> to be oneself. And so, I think <nvs>laughter</nvs> if I have pet, I want to have a dog.</B>
+<A><F>Er</F>. I see. That's nice. O K. <R>In th</R> in this picture, this boy and girl <SC>are</SC> were arguing.</A>
+<B>Yes. <F>Um</F>.</B>
+<A>When you have a different opinion from your parents, what do you do usually?</A>
+<B><F>Er</F>. I usually argue with them. But <F>er</F> they are very strict. <laughter>And</laughter> <F>er</F> now, I think <R>I</R> I don't earn any money and <F>err</F> <R>I</R> I was served food by my mother. So, <R>I can't</R> <F>er</F> <F>uum</F> <SC>I can't</SC> <F>uum</F> <R>I</R> I have to obey <OL>them</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> I see. When was the last time you had a fight with your parents?</A>
+<B><F>Er</F> <R>it</R> it is <F>er</F> <R>four</R> <JP>san shi</JP> four years ago. And <R>I</R> I'm from <H pn="others1">XXX03</H>. My hometown is <H pn="others1">XXX03</H>. And when I was high school student, I only <F>er</F> pass the <F>uum</F> entrance test of <H pn="school name1">XXX04</H>. So, my parents said to me, "You have to go <laughter>there</laughter>.". <laughter>But</laughter> <SC>I don't want</SC> <F>erm</F> I want to come to <H pn="others2">XXX05</H>. So, we fight <laughter><??></??></laughter>.</B>
+<A>But you won <OL>at last</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>O K. That's good.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. Well, we are almost at the end of the interview. So you said you are going to Europe. When are you leaving?</A>
+<B><F>Er</F> I <F>uum</F> August <SC?>thirtieth</SC?> thirty.</B>
+<A><F>Oh</F> O K. So you have another month?</A>
+<B>Yes.</B>
+<A><F>Er</F> what kind of preparation do you have to do for the trip?</A>
+<B><F>Er</F>. <R>I have</R> <F>uum</F> now, I have to buy <F>er</F> baggage <F>uhm</F> <F>hm</F> and <F>er</F> reserve the hotel and change the money.</B>
+<A><laughter><F>Uhm</F></laughter>.</A>
+<B><nvs>laughter</nvs></B>
+<A>That's right.</A>
+<B>Yes.</B>
+<A>Are you going to buy Euro? <.></.> The money Euro?</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>They</OL> have single money now.</A>
+<B><F>Er</F> no. No.</B>
+<A>Not yet?</A>
+<B><??></??> <.></.></B>
+<A>So you have to buy different,</A>
+<B>Yes. <OL><F>Hm</F></OL>.</B>
+<A><OL>money</OL> for each country.</A>
+<B>Yes.</B>
+<A><F>Er</F> O K. <F>Well</F> have a great time in Europe. And thanks for coming today.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>This is the end</OL> of the interview. Thank you, <H pn="B's name">XXX02</H>.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

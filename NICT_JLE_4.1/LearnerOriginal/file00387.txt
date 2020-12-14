@@ -1,0 +1,167 @@
+<interview>
+<filename>file00387.txt</filename>
+
+<head version="1.3">
+<date>2000-08-29</date>
+<sex>male</sex>
+<age>51</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, <OL>Mister <H pn="B's name">XXX02</H></OL></A>
+<B><OL><H pn="B's name">XXX02</H></OL>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A><F>Uh-hm</F>. Isn't it hot today?</A>
+<B>Yes, yes, very hot. <F>Ur</F> <F>eh</F> this summer is very hot.</B>
+<A><F>Uhm</F>.</A>
+<B>Always <OL>very hot</OL>.</B>
+<A><OL>Do you</OL> like hot summer?</A>
+<B><F>Uhm</F> yes, <F>ah</F> I <SC>like summer</SC> <F>ah</F> <F>eh</F> <SC>winter</SC> <F>eh</F> like summer.</B>
+<A><F>Um</F>. And why is that?</A>
+<B><F>Eh</F> <F>uh</F> <SC>cold is</SC> <F>uh</F> <.></.> I <SC>cold a</SC> <F>er</F> <JP><F>etto</F> nantsu <F>etto</F></JP> catch a cold, <F>eh</F> <F>eh</F> <JP><F>eeto</F></JP> <JP>ato</JP> <F>ee</F> and <F>er</F> hot day, I like.</B>
+<A><F>Um</F> I see. And where do you live?</A>
+<B>What?</B>
+<A>Where do you live?</A>
+<B><F>Ahhh</F> <F>eh</F> <.></.> now <R>now</R>? Now, <F>ee</F> <F>ee</F> <F>ee</F> <H pn="others1">XXX03</H>.</B>
+<A><F>Mm</F>. And do you live with your family?</A>
+<B>No. <F>Ur</F> <SC>I</SC> now I'm a <R><F>er</F></R> business bachelor, and so <F>eh</F> <F>eh</F> <.></.> alone.</B>
+<A><F>Um</F>. Where is your hometown?</A>
+<B><F>Ur</F> hometown is <F>er</F> <F>ur</F> <H pn="others2">XXX04</H> City, <H pn="others3">XXX05</H> Prefecture. <OL>Yes</OL>.</B>
+<A><OL><F>Uhm</F></OL>. Tell me about <H pn="others2">XXX04</H> City.</A>
+<B><F>Eh</F> about <F>eh</F> <F>eh</F> <R>twelve</R> twelve years, <F>eh</F> <?>per</?> house.</B>
+<A><F>Um</F>. Do you like <H pn="others2">XXX04</H> City?</A>
+<B>Yes. <.></.> <F>Ah</F> <H pn="others2">XXX04</H> City is a very <F>err</F> <R>nature</R> nature <F>ur</F> <F>er</F> wood and sea. <F>Eh</F> especially <F>er</F> swimming sea is very good.</B>
+<A><F>Uhm</F>. Is the sea very beautiful?</A>
+<B>Very beautiful. <F>Errr</F> <F>um</F> <nvs>laughter</nvs> I like very beautiful.</B>
+<A><F>Uhm</F>. And what do you usually do in your free time?</A>
+<B>Free time is <F>uhhh</F> <F>mmmm</F> <R>little</R> <F>uh</F> little trip.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> <SC>in</SC> <nvs>laughter</nvs> around <H pn="others4">XXX06</H>.</B>
+<A><F>Umm</F>.</A>
+<B><F>Eh</F> <F>er</F> because <F>ah</F> <F>ah</F> <F>ehh</F> now <R>I</R> I stay <H pn="others1">XXX03</H> <F>eh</F> from <R>this</R> <R>this year</R> <F>er</F> this year April, <F>er</F> and <JP><F>eeto</F></JP> five months in <H pn="others4">XXX06</H>, <F>eh</F> and so <F>uh</F> sightseeing in <H pn="others4">XXX06</H> around <JP>maa</JP> near here <H pn="others1">XXX03</H>.</B>
+<A><F>Uhm</F>. Which place was most impressive?</A>
+<B><F>Uhm</F> <F>mm</F> <JP><F>maa</F></JP> <F>eh</F> <H pn="others4">XXX06</H> <F>er</F> <F>ah</F> <F>eh</F> <H pn="others5">XXX07</H> Park is very big, and <F>errr</F> <F>ummm</F> <JP>ma</JP> <R>green</R> <SC>green grass</SC> <F>eh</F> <F>eh</F> <F>eh</F> there is a green grasses. Very <F>ee</F> <R>com</R> comfortable place.</B>
+<A><F>Um</F> I see. O K, thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>First, please take a look at this picture.</A>
+<B>Yes.</B>
+<A>And tell me what you see here.</A>
+<B><F>Urr</F> <F>eh</F> <F>ohh</F> <F>eh</F> <R>dinner</R> <SC>dinner</SC> <F>uh</F> a couple <F>er</F> dinner. <F>Ehh</F> <R>he</R> <F>ie</F> he drink a wine, and <F>mm</F> <F>er</F> <F>eh</F> time is a seven o'clock. <F>Ehh</F> background music is piano, <JP><F>unto</F></JP> <F>ah</F> very comfort <F>mm</F> restaurant, I think.</B>
+<A><F>Uh-huh</F>. O K. <F>Well</F> thank you.</A>
+</task>
+<followup>
+<A>Do you sometimes go to a restaurant like this when you were with your family?</A>
+<B><nvs>laughter</nvs> <F>Errr</F> <F>umm</F> <R>lo</R> <SC>long time</SC> <F>umm</F> <F>eh</F> <R>I have</R> <F>eh</F> <SC>I have</SC> <F>uu</F> <F>eh</F> time is a long time distance. <F>Eh</F> <F>eh</F> perhaps <F>um</F> <R>two</R> two years ago <F>um</F> because <F>er</F> <R>my</R> my family is four members <JP><F>eeto</F></JP> <F>ah</F> <R>I</R> I am in <H pn="others4">XXX06</H>, <F>eh</F> wife is in <F>eh</F> <H pn="others3">XXX05</H>, <F>eh</F> eldest <F>er</F> daughter in <H pn="others6">XXX08</H>, <F>er</F> another daughter <F>eh</F> in <H pn="others7">XXX09</H>.</B>
+<A><F>Wow</F> so separately.</A>
+<B><??></??>.</B>
+<A><F>Ahh</F> I see. And tell me about your elder daughter.</A>
+<B><F>Ah</F> <R>eld</R> <F>er</F> elder daughter <R>i</R> is <F>uh</F> last year <F>er</F> <R>she</R> she married. And <.></.> this year, <F>err</F> March, <F>err</F> <R>she</R> she make a baby.</B>
+<A><F>Oh</F> congratulations.</A>
+<B>Thank you. My first <F>eh</F> grand son.</B>
+<A><F>Wow</F> you doesn't look like a grand <nvs>laughter</nvs> daddy <F>wow</F>.</A>
+<B>Yeah, now I'm <F>er</F> fifty one years old is very young, I think, but <F>uh</F> first <F>eh</F> grand baby <F>eh</F> very lovely. <F>Umm</F> <R>I</R> I love him.</B>
+<A><F>Umm</F>. So do you often play with your grand child when you have time?</A>
+<B><F>Umm</F> <F>eh</F> <R>las</R> last week, just <F>ah</F> I meet <F>ah</F> him. <F>Eh</F> very <F>er</F> lovely.</B>
+<A><F>Uhm</F> <nvs>laughter</nvs> I see. O K, thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's do the role-play. Please read it, and when you're ready, I'll start.</A>
+<B><ctxt>The interviewee is reading the card</ctxt> I'm <F>ah</F> <F>eh</F> conductor.</B>
+<A><F>Mh-huh</F>.</A>
+<B>Yes. <F>Um</F> <F>Eh</F> <F>eh</F> <.></.> <F>er</F> <F>um</F>.</B>
+<A>O K?</A>
+<B><SC><R>Please tell me</R> <F>eh</F> please tell me <F>uh</F> <F>uh</F> <F>eh</F> <R>take</R> <R>take</R> take ticket for <F>um</F> New York</SC> <.></.> <F>eh</F> <F>eh</F> <F>um</F> <nvs>laughter</nvs> <F>eh</F> please <R>te</R> tell me the <F>er</F> <F>eh</F> <SC>ticket</SC> <F>um</F> <R>where</R> <R>where</R> <R>where</R> <F>eh</F> where buy <F>um</F> ticket?</B>
+<A><F>Mm-huh</F>. You can buy it from me. <OL>I'm</OL> the station clerk.</A>
+<B><OL>Yeah</OL>. <F>Urr</F> <F>eh</F> <F>eh</F> <R>a</R> another place <F>er</F> tickets, <F>um</F> <F>er</F> <R>you</R> <R>you buy</R> <OL>you <?>buy</?> tickets <??></??> <F>er</F></OL>.</B>
+<A><OL>Yes, I'm in charge of tickets</OL>.</A>
+<B>Yes. <R>I</R> I want to New York <F>eh</F> <F>um</F> <SC>rapidly</SC> <SC>and</SC> <F>eh</F> <F>eh</F> rapidly, and <SC>there</SC> so <F>eh</F> <F>ehhhh</F> <R>ma</R> <R>ma</R> matching <F>er</F> matching ticket. Please <F>eh</F> <.></.> tell me.</B>
+<A><F>Hum</F>. <F>Ur</F> there are several tickets.</A>
+<B>Several. <F>Uh</F> no, <F>ahhh</F> <F>eh</F> <R>toda</R> <F>eh</F> <R>today</R> <R>today</R> <F>ah</F> <F>uh</F> today <F>ahh</F> <JP><F>atto</F></JP> <F>ehhh</F> <R>train</R> <.></.> <R>train</R> <F>ah</F> <R>train</R> <F>eh</F> train to New York.</B>
+<A><F>Uhm</F>. <F>Urm</F> we have variety of tickets, local train, express train.</A>
+<B><F>Ah</F> <F>ah</F> <SC>I</SC> <F>ah</F> <F>er</F> <F>ah</F> I'm <R>very</R> very <JP><F>anoo</F></JP> <F>um</F> <F>eh</F> <R>s</R> <R>speedy</R> <F>eh</F> <F>ehhh</F> speedy trip <R>an</R> and so <F>er</F> <F>ehhh</F> <SC>speci</SC> <F>ah</F> <R>express</R> express <F>er</F> ticket.</B>
+<A>O K. So one express ticket?</A>
+<B><JP>Hai</JP>, <SC>today's</SC> today express ticket.</B>
+<A>O K, I see. And <F>urm</F> it will start in thirty minutes. Is it O K?</A>
+<B><F>Ah</F> yes. Yes, please.</B>
+<A>O K. So, it's fifty dollars for one person.</A>
+<B><F>Ah</F> <F>ah</F> <F>oh</F> <F>eh</F> <R>this</R> <F>er</F> <F>eh</F> this money O K? <nvs>laughter</nvs></B>
+<A><F>Mm-huh</F>. O K. Thank you very much. Have a nice trip.</A>
+</task>
+<followup>
+<A>This is the end of the role play. And do you like traveling?</A>
+<B>Yes, <SC>I</SC> <F>er</F> <F>um</F> <F>um</F> yes.</B>
+<A>Have you ever been abroad?</A>
+<B><F>Mm</F> <JP><F>anoo</F></JP> <F>ummmm</F> <SC>no</SC> <F>wer</F> <SC>not</SC> <JP><F>anoo</F></JP> <F>eh</F> <JP>nannteiukane</JP> <F>er</F> <R>in <F>mm</F> <R>do</R> domestic</R> <.></.> in domestic only.</B>
+<A><F>Hum</F>. Which place is most <F>er</F> beautiful for you?</A>
+<B><F>Ohh</F> most beautiful. <F>Ur</F> <.></.> I was born <F>um</F> in <H pn="others8">XXX10</H> Prefecture, <F>eh</F> and so <F>ehh</F> <F>ehhh</F> <R><H pn="others8">XXX10</H></R> <F>err</F> <R><H pn="others8">XXX10</H> and Hokkaido</R> <F>ehhh</F> <.></.> <F>um</F> <F>umm</F> <H pn="others8">XXX10</H> and Hokkaido <F>ehh</F> <R>national park</R> <F>uhhh</F> national park.</B>
+<A><F>Mm</F>. I see. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I would like to show you one more picture. <.></.> And this is a picture story. It goes like this.</A>
+<B>One, two, three, four. <ctxt>interviewee is tapping the picture</ctxt>.</B>
+<A><F>Mm-huh</F>. Please make up a story starting with, "One day last week," because it happened before.</A>
+<B><F>Urr</F> <.></.> <F>um</F>. <R>Hello</R> <F>ehh</F> <SC>hello</SC> <F>er</F> telephone, <F>eh</F> "Hello, <F>ehhh</F> today <F>ehh</F> <R>go to</R> <F>ehh</F> go to the zoo <F>er</F> <.></.> with my car.". <F>Ehhh</F> "Yes.". <F>Eh</F> <R>she</R> she is yes. <F>Eh</F> <F>er</F> <nvs>cough</nvs> I <SC>driving <F>uh</F> with</SC> <F>eh</F> driving <F>eh</F> my car <F>eh</F> <R>to</R> <F>uh</F> to the zoo. <F>Eh</F> <SC>zoo</SC> <F>uh</F> <R>in the</R> <F>ehh</F> in the zoo, <F>ehh</F> <SC>I</SC> <F>eh</F> <R>we</R> <F>er</F> <R>we s</R> we saw lion and monkey and <F>ehh</F> other animals. <F>Eh</F> it is very <F>ii</F> <F>ehh</F> lovely time. <F>Ah</F> <F>ehh</F> the end.</B>
+<A><F>Um</F>. O K. <F>Well</F> thank you.</A>
+</task>
+<followup>
+<A>Do you plan to take your grand child to the zoo?</A>
+<B>Yeah, <F>ah</F> <F>ah</F> my <F>er</F> grand child is <JP>mada</JP> <R?>very very</R?> very very little, <R>and</R> and so <F>er</F> <F>eh</F> two or three <F>iii</F> <F>eh</F> <R>old</R> old. <F>Uh</F> <R>I</R> <F>ii</F> I <R>go to</R> <F>ehh</F> go to the zoo <F>uhhh</F> together.</B>
+<A><F>Uhm</F>. And <F>um</F> lastly, tell me about your typical day when you're working.</A>
+<B><F>Ohhh</F> <F>ehhh</F> <.></.> <F>e</F> <F>e</F> <SC>ti</SC> <R>toda</R> today? <F>Eh</F> <R>ti</R> typical?</B>
+<A><F>Uhm</F>. Typical <F>ur</F> working day. What do you usually do?</A>
+<B><F>Ah</F> <F>ahhhh</F> <JP><F>ano</F></JP> <JP><F>ano</F></JP> <F>ehhh</F> <.></.> marketing and sales and <SC>admis</SC> <SC>administration</SC> <F>ah</F> sales administration <R>ehhh</R> section. <JP>De</JP> and my work is <F>ah</F> <F>er</F> very <F>ii</F> busy <F>ehhhh</F> because <F>er</F> <F>eh</F> sales plan and <F>uh</F> actual <F>mm</F> result <F>eh</F> its follow, <F>eh</F> and so on. <F>Ehh</F> very <F>iii</F> busy <F>iii</F> now and <F>ehhh</F> <R>this</R> this month.</B>
+<A><F>Hum</F>. What is the best way to get rid of your stress?</A>
+<B><F>Mmm</F> <F>ahh</F> walking and <SC>s</SC> <F>ehh</F> little <R>sports</R> <JP>ma</JP> <F>mm</F> <laughter>sports</laughter> <F>ah</F> <F>um</F> <.></.> <F>ah</F> <SC?>of</SC?> <R>o</R> only <JP>maa</JP> <R>walking</R> walking.</B>
+<A>Where do you usually walk?</A>
+<B><F>Uhm</F> <F>ahhh</F> about <F>ehhh</F> <R>a</R> always morning <F>ehhhhh</F> <.></.> <R>twenty</R> <R>twenty minutes</R> <F>ahh</F> twenty minutes, twenty minutes, <F>ah</F> forty minutes walking. And <F>ehhhh</F> Saturday, Sunday, <F>ehhh</F> holiday is about <R>two</R> <F>uh</F> two or <R>three</R> three hour <F>eh</F> walking.</B>
+<A><F>Wow</F>. It's long</A>
+<B>No, <F>ah</F> <R>sightseeing</R> <F>um</F> <F>umm</F> sightseeing <F>ehh</F> <F>er</F> walking.</B>
+<A><F>Mmm</F>. I see. O K, thank you, this is the end of the <F>er</F> interview.</A>
+</followup>
+</stage4>
+<stage5>
+<A>And <F>ur</F> what are you planning to do after this interview today?</A>
+<B><F>Ehh</F> <F>ehh</F> after?</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Mm</F>. <F>Ah</F> <F>umm</F> <F>ummm</F> <laughter><JP><?>to a to nii</?></JP></laughter> <F>ehh</F> lunch.</B>
+<A><F>Um</F>. <F>Uhm</F> how do you usually eat your lunch?</A>
+<B><F>Ah</F> <F>ohhh</F> <.></.> <R>I</R> I like Japanese <JP>soba</JP>, and <F>uhhh</F> usually I eat <F>er</F> lunch is <F>er</F> <JP>soba</JP> and <JP>ramen</JP>.</B>
+<A><nvs>laughter</nvs></A>
+<B><CO>I like very <F>urr</F></CO>.</B>
+<A>Which do you prefer, <JP>soba</JP> or <JP>ramen</JP>?</A>
+<B><nvs>laughter</nvs> <F>Ah</F> I like <JP>soba</JP>.</B>
+<A><F>Umm</F> I like it, too.</A>
+<B>That's <?>good</?>.</B>
+<A><F>Hum</F> and I like <JP>udon</JP>, too.</A>
+<B>No, <F>ah</F> <F>umm</F> <F>ehh</F> <JP>ma</JP> <nvs>laughter</nvs> <JP>soba</JP> <nvs>laughter</nvs> I like.</B>
+<A><JP>Soba</JP> is better for you?</A>
+<B>Yeah, yes.</B>
+<A><F>Mhm</F>. So probably you can eat <JP>soba</JP> with your grand child in the future.</A>
+<B>Yes.</B>
+<A>O K, <F>well</F> thank you very much. Thank you for coming.</A>
+</stage5>
+</body>
+</interview>

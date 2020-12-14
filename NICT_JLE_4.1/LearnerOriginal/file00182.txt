@@ -1,0 +1,175 @@
+<interview>
+<filename>file00182.txt</filename>
+
+<head version="1.3">
+<date>2000-10-24</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category>student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B><F>Uh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. So how are you today?</A>
+<B><F>Uh</F>. Fine.</B>
+<A><F>Mm</F> <F>hum</F>. O K. So <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Er</F> I live in <H pn="others1">XXX03</H>. <F>Mm</F>. <.></.> It's on <H pn="others2">XXX04</H> line.</B>
+<A><F>Mm</F> <F>hum</F>. Do you live with your parents, or do you live alone?</A>
+<B>I live alone.</B>
+<A><F>Mhm</F>. So, where're you from?</A>
+<B><F>Eh</F> I'm from <H pn="others3">XXX05</H>.</B>
+<A><F>Mm</F> <F>hum</F>. O K. Can you tell me a little about your hometown? What it's like?</A>
+<B><F>Mmm</F>. My hometown <R>is</R> <.></.> <SC>is not</SC> <.></.> it has many <laughter><SC>bookstore</SC></laughter> <F>er</F> and bookstores and C D stores, but not much like city.</B>
+<A><F>Mhmmm</F>. <.></.> O K. <F>Er</F>. What do you think of your life here and your life in <H pn="others3">XXX05</H>? How can you compare those two?</A>
+<B><F>Mhmm</F>. <.></.> <?>I couldn't hear</?>.</B>
+<A><R>Whi</R> Which do you like better?</A>
+<B><F>Mhm</F>. <nvs>laughter</nvs> <.></.> <F>Er</F> <SC>I like</SC> <.></.> now I like life in <H pn="others3">XXX05</H> because <.></.> <R>I</R> <F>er</F> <SC>I said</SC> <SC>I s</SC> <F>er</F> <SC>I had a</SC> <SC>I said books</SC> I had bookstore near my house. <?>Right</?>? So, <F>er</F> <nvs>laugh</nvs> <SC>I can <.></.> get <R>many</R> many kinds of</SC> I can read many kinds of books <F>er</F> near <.></.> my house. Yeah. <CO>I don't have to go far away to</CO>.</B>
+<A>So what kind of books do you like?</A>
+<B><F>Mhmm</F>. <.></.> Commonly, <F>er</F> novels.</B>
+<A>For example?</A>
+<B>For example? <.></.> <CO>Like a</CO>. <.></.> <JP><F>Mm</F></JP>? <CO>Do I have say <R>ti</R> title, or</CO>?</B>
+<A><F>Umm</F>. What are the titles?</A>
+<B><laughter>Titles</laughter>? <.></.> <F>Ermm</F>. <nvs>laughter</nvs> <.></.> <F>Well</F> <?>Parasidia Fair</?>.</B>
+<A><.></.> <laughter>O K</laughter>.</A>
+<B><nvs>laughter</nvs> You don't know. Right?</B>
+<A><laughter>Sorry</laughter>. O K, so, <F>uh</F> what do you study at <H pn="school name1">XXX06</H> now?</A>
+<B><F>Er</F> I study <F>er</F> social and economic.</B>
+<A>Economics?</A>
+<B>Yes.</B>
+<A><F>Mhmm</F>. <R>Wh</R> why did you choose your major? Why did you choose Economics?</A>
+<B><F>Er</F>. Because at first I wanted to be a government official.</B>
+<A><F>Mhmm</F>.</A>
+<B>But, <.></.> I'm not sure that I want to be that now.</B>
+<A><F>Mm</F> <F>hum</F>.</A>
+<B>But I'm studying. <nvs>laugh</nvs></B>
+<A><F>Mhmm</F>. O K. <.></.> And do you have any hobbies or do you play any sports?</A>
+<B><F>Mm</F> <.></.> I do sports. <R>I</R> <.></.> I like playing <F>er</F> soft tennis, but I don't have a chance now.</B>
+<A>Why not?</A>
+<B>Because <F>er</F> <.></.> I don't know where to play <nvs>laughter</nvs> <.></.> and <SC>I</SC> <F>er</F> Physical Education class <SC>in</SC> <.></.> on my college, but I'm not taking that <.></.> because I have enough time.</B>
+</stage1>
+<stage2>
+<task>
+<A>Because you're busy. <laughter>O K</laughter>. All right. So <F>er</F> <H pn="B's name">XXX02</H>, then, <F>er</F> first of all, I'm going to show you a picture. So could you please describe it to me? O K? Then when you're ready, please begin. O K?</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A>Ready? <F>Mm</F> <F>hum</F>.</A>
+<B><F>Uhh</F>. <.></.> <SC>This is a maybe room of girl's</SC> <.></.> it's girl's room. And there <.></.> <SC>h</SC> maybe her pet? <SC>Dogs and</SC> dog laying <.></.> <SC?>by the</SC?> by her bed and <.></.> cat lying on her bed. <F>Mhm</F>. She's <.></.> sitting <.></.> in front of computer.</B>
+<A><F>Mhm</F>.</A>
+<B>Maybe <nvs>laughter</nvs> <.></.> she's <.></.> <F>er</F> introducing it <laughter>to her pet</laughter>. <OL>I don't know</OL>.</B>
+<A><OL><F>Mm</F> <F>hum</F></OL>.</A>
+<B>And it's <F>er</F> maybe nine o'clock in the morning because <.></.> the clock <.></.> just nine, and <SC>window's bright</SC> outside is bright. So nine o'clock in the morning in June? I don't know the date.</B>
+</task>
+<followup>
+<A><F>Mhmm</F>. O K, good. So <H pn="B's name">XXX02</H>, <F>uhm</F> is your room like this? Is your room similar to this one?</A>
+<B><F>Mhmm</F>. <.></.> No, not <laughter>so</laughter>, Smaller, narrow. <nvs>laughter</nvs></B>
+<A>Smaller?</A>
+<B>Smaller.</B>
+<A>O K. <CO>And do you have <OL>a</OL></CO>.</A>
+<B><OL>Narrow</OL>.</B>
+<A><F>Um</F>. O K, narrow. O K. And <F>er</F> do you have a personal computer?</A>
+<B>Yeah.</B>
+<A><F>Mhmm</F>. How do you usually use that?</A>
+<B><F>Uhh</F> I use it as a <nvs>laughter</nvs> <.></.> writing a report, <F>er</F> drawing picture, <.></.> and doing internet.</B>
+<A><F>Mm</F> <F>hmm</F>.</A>
+<B><?>Side use</?> <F>mhm</F> going to chat room. Chat.</B>
+<A>O K. <F>Mhm</F>. <.></.> All right. So you think it's very convenient using computer?</A>
+<B>Yes, very much.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mhmm</F>. O K. <.></.> All right. So <F>urr</F> <H pn="B's name">XXX02</H>, <F>er</F> this time I'd like you to try a role play. So I'm going to show you a card, and it's written in Japanese. O K? So please read it and when you're ready I will begin. O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K? All right. <.></.> Hi.</A>
+<B>Hi.</B>
+<A>What can I do for you?</A>
+<B><F>Uhh</F> I want to go to New York, and <.></.> what is the <R>f</R> <SC>fast way</SC> fastest way to go to New York?</B>
+<A><F>Well</F> you can take an express train.</A>
+<B><.></.> O K. <F>Uhh</F>. How do I get the <R>tra</R> train ticket?</B>
+<A><F>Oh</F> you can buy it here.</A>
+<B><F>Oh</F> so <F>uhh</F> one ticket, <laughter>please</laughter>.</B>
+<A>O K. All right.</A>
+<B>O K. Thank you very much.</B>
+<A><laughter><F>Uh</F> <F>hum</F></laughter>. O K. <F>Well</F> it's <F>uh</F> fifty dollars.</A>
+<B><F>Uhh</F>. So it's fifty dollars. <F>Uhh</F> where should I <.></.> get on the train?</B>
+<A><F>Uhmm</F>. You mean, platform number?</A>
+<B>Yeah.</B>
+<A>O K. It's from six.</A>
+<B>Six, and what time?</B>
+<A><F>Er</F>. The train leaves at seven. So maybe you might have to wait for another two hours.</A>
+<B>O K. Thank you very much. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A><laughter>O K</laughter>. All right, good. So, <F>er</F> <H pn="B's name">XXX02</H>, have you been to New York?</A>
+<B>Yes.</B>
+<A><F>Mhmm</F>. How did you like it?</A>
+<B><F>Uhh</F> <.></.> I liked the most was a <F>mhm</F> <.></.> <R?>Caruros</R?> <?>Carurosto</?> <JP>kana</JP> street and that hotdogs was good.</B>
+<A><F>Mhmm</F>. O K, and what did you do there?</A>
+<B><F>Uhmm</F>. <nvs>laughter</nvs> I went with my parents and <.></.> I go along with their shopping.</B>
+<A><F>Mm</F> <F>hmm</F>.</A>
+<B>I did nothing. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> What about sightseeing?</A>
+<B>Sightseeing? <F>Mhm</F>. Sightseeing in <laughter>New York</laughter>. Yeah. I saw Statue of Liberty, but I didn't <.></.> <F>er</F> go up to it.</B>
+<A><F>Uh-huh</F> <F>uh-huh</F>. And <F>uhh</F> have you been to any other places <.></.> abroad?</A>
+<B>New York. <F>Uh</F> I don't remember. <nvs>laughter</nvs></B>
+<A>O K. So, <F>uhh</F> I see. <F>Hmm</F>. Is there any particular country you like to go, maybe in the future?</A>
+<B><F>Mhmm</F>. <..></..> <?>Maybe</?>, <JP><R>Doitu</R></JP> <SC><JP>Doitu</JP></SC> <.></.> <R>German or</R> Germany or Switzerland.</B>
+<A><F>Oh</F>. Germany? <F>Mhmm</F>. Why Germany or Switzerland?</A>
+<B><F>Uhh</F> <nvs>laughter</nvs> <SC>the Switz</SC> in Switzerland, <.></.> very beautiful mountain, air and water. <F>Er</F> I want to experience that. In Germany, <F>er</F> <nvs>laughter</nvs> <.></.> <R>I <nvs>laughter</nvs> first</R> I first read in novel, <.></.> yeah, and feel like I wanna go. <nvs>laughter</nvs></B>
+<A>O K. <F>Mhm</F>.</A>
+<B>I'm learning <F>uhh</F> German at <.></.> my college.</B>
+<A><F>Oh</F>. O K. So do you speak German? Maybe a little?</A>
+<B><nvs>laughter</nvs> Not yet.</B>
+<A>No?</A>
+<B>Not yet.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Oh</F>. O K. All right. So <F>er</F> <H pn="B's name">XXX02</H>, <F>er</F> this time I'd like you to <F>er</F> look at this picture sequence. O K. It's from number one to six. And <F>um</F> please make up a story based on these pictures. This happened before. Please begin your story with "One day last week," <.></.> <?>In the past</?>, O K? And when you're ready, please begin.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A>O K?</A>
+<B><F>Uhh</F>. <?>Little bit more, please</?>. <F>Uhh</F>. <..></..></B>
+<A>O K?</A>
+<B><..></..> O K.</B>
+<A>O K.</A>
+<B>O K. One day last week, <.></.> <F>uh</F> on morning, woman was driving <SC>in a</SC> in his orange car, on the street. And other, maybe boy, was driving his <F>mhmm</F> motorcycle. <.></.> And <R>he was</R> <.></.> he was talking with her <.></.> girlfriend with his handy phone. <.></.> And <SC>he didn't</SC> he wasn't be careful <?>not, so</?> <F>mhmm</F> <.></.> orange car <R>and</R> and motorcycle crashed. <.></.> And the <R>boy's</R> <.></.> boy's handy phone was damaged badly. <.></.> <F>Ehhh</F>. The boy <SC>wanted to</SC> wanted his motorcycle to be repaired, and <F>ehh</F> his handy phone, too <.></.> by the man who was driving the orange car.	And, <.></.> so, <SC>the</SC> this accident, so police came and <.></.> <SC>hear</SC> <F>er</F> asked what happened. <.></.> And <.></.> the boy was injured nothing but <.></.> the <SC>man with</SC> man on the orange car was explain all of it. He called a <nvs>laughter</nvs> <.></.> <F>mhmm</F> <.></.> <R>tru</R> truck or <.></.> maybe Triple A or something. <.></.> And last, other boy's motorcycle was taken by <.></.> Triple A.</B>
+</task>
+<followup>
+<A><F>Mhmm</F>. Good. O K, so <F>er</F> <H pn="B's name">XXX02</H>, <SC>this</SC> do you have a driver's license?</A>
+<B>Yes.</B>
+<A><F>Mhmm</F>. Do you enjoy driving?</A>
+<B><F>Uhh</F>. <.></.> <CO>I don't have a car, so</CO>. <nvs>laughter</nvs></B>
+<A><laughter><F>Ohhhh</F> O K</laughter>.</A>
+<B><SC>I just <.></.> driving</SC> <.></.> <F>uhh</F> I driving just once <OL><?>on real <F>uh</F> road</?></OL>.</B>
+<A><OL><F>Mhmm</F></OL>. How was it? Were you excited?</A>
+<B>Yes, excited.</B>
+<A>Where did you go for a drive?</A>
+<B><F>Uhh</F> <JP><F>nto</F></JP> I went to <.></.> <F>er</F> <JP>soba</JP> noodle shop <.></.> in <H pn="others3">XXX05</H> <?>Park</?>. <.></.> <OL>Far from my house</OL>.</B>
+<A><OL>O K</OL>. <F>Mhmm</F>. How were noodles? Good?</A>
+<B>Yes. Really good.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. All right. So <H pn="B's name">XXX02</H> this is all <F>er</F> the end of the interview. So, <F>um</F> do you have any plans after this interview? What are you going to do?</A>
+<B><nvs>laughter</nvs> I don't decided yet.</B>
+<A><F>Mm</F> <F>hum</F> O K. <.></.> All right. So, this is the end of the interview, so thank you very much for coming in <OL>for the interview today</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

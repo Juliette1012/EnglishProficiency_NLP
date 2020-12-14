@@ -1,0 +1,147 @@
+<interview>
+<filename>file00555.txt</filename>
+
+<head version="1.3">
+<date>2001-07-23</date>
+<sex>male</sex>
+<age>22</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>All right. So let's start. Hi. My name is <H pn="A's name">Yuko</H>. Could you tell me your name?</A>
+<B>Nice to meet you, <OL><H pn="A's name">Yuko</H></OL>.</B>
+<A><OL>Nice to met you</OL>.</A>
+<B>My name is <H pn="B's name">Makoto <OL>Mine</OL></H>.</B>
+<A><OL>Hi, <H pn="B's name">Makoto</H></OL>. Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B>I'm very fine today.</B>
+<A>Good. But outside is really hot.</A>
+<B>Yes, <R>i</R> it is.</B>
+<A>Do you like summer?</A>
+<B>Yes, I like summer because <F>uum</F> <SC>I</SC> <JP><F>ee</F></JP> there is many kinds of play. For example, <JP><F>ee</F></JP> swimming and <F>uum</F> climb mountains <F>er</F> and so on.</B>
+<A>I see. Do you have any plan for your summer vacation?</A>
+<B><F>Um</F>. Unfortunately <R>I</R> <R>I</R> <SC>I</SC> there are many things to do <F>um</F> in summer. <F>Um</F> for example <F>em</F> <SC?>that</SC?> it is <F>um</F> concerned about my research. I am master course student, so there are many things to do. So <SC>I can't enough</SC> I can't play enough in the summer.</B>
+<A><F>Oh</F> O K. So is this the last year for your master course?</A>
+<B>No. <F>Um</F>. This is the first year of master course for me.</B>
+<A>O K. <SC>But</SC> so you don't have to write <.></.> thesis yet.</A>
+<B><F>Ah</F> yes. So it is rather <F>uum</F> free in this year.</B>
+<A><F>Er</F> O K. So what kind of <.></.> <F>um</F> project do you have to do during this summer?</A>
+<B><F>Um</F>. I specialize in physics. <F>Um</F>. And I have to <.></.> do presentation <F>mm</F> <R>a</R> early August. <F>Um</F>. So what I have to do is <F>uum</F> the <R>prepa</R> preparation for the presentation.</B>
+<A><F>Oh</F> I see. Is it in Japanese?</A>
+<B>Yes.</B>
+<A>So <.></.> what are you <F>um</F> careful about when you do presentation in front of people?</A>
+<B><F>Um</F> <F>er</F> <.></.> <R>I</R> I take care about the <?>foreign</?> things. <F>Ee</F>. <.></.> First <JP><F>ee</F></JP> imagine the audience not so good at physics. Then I feel <F>uum</F> <F>er</F> I have to <JP><F>ee</F></JP> express or <SC>expla</SC> do explanation more <R>ca</R> carefully and kindly. <F>Um</F>. So first I have to <F>um</F> consider that the audience are not so special. And second <F>mm</F> prepare and prepare and prepare and study.</B>
+<A>I see. <F>Well</F> I guess <?>it's a</?> good points. And so, when you are tired from your study, what do you do for relaxation?</A>
+<B><F>Um</F> <F>err</F> I listen to music, <F>um</F> ordinally. <F>Um</F>. And <.></.> especially the classical music. The classical music sounds is very calm for me. So I can relax very much.</B>
+<A>Do you have favorite composer?</A>
+<B>Yes. <F>Um</F>. For example, <JP><F>ee</F></JP> Franz List and Frederic Chopin and so on. <SC>They</SC> their music is <F>er</F> so called <R>Roman</R> <R>Roman</R> Romantic. And their sounds calms me very much.</B>
+<A>All right. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'm going to show you a picture. <.></.> Did you see this before?</A>
+<B>Yes.</B>
+<A><F>Oh</F> you did. O K. <F>Er</F>. Let's do this one. Did you do this?</A>
+<B>No.</B>
+<A>O K. Please describe this picture.</A>
+<B>O K. <F>Um</F>. <.></.> It is very fine day. And <F>uum</F> there are many person here <F>uum</F> and <F>mm</F> some animals. <F>Ee</F> <.></.> a cat is lying on a car. And <F>uum</F> two womans are talking to each other. And <F>uum</F> many people <.></.> do <JP><F>ee</F></JP> what they want to do <F>um</F>. And they seem to be enjoying <F>um</F> <SC>this day</SC> this fine day very much. That's all.</B>
+<A>O K. Thank you, <H pn="B's name">Makato</H>.</A>
+</task>
+<followup>
+<A>So where is your hometown?</A>
+<B>My hometown is <H pn="others1">Okegawa</H> City in <H pn="others2">Saitama</H> Prefecture.</B>
+<A><F>Hum</F>. <F>Er</F> can you compare this picture city and your hometown?</A>
+<B>Yes, sure. <F>Um</F> <JP><F>ee</F></JP>. My hometown has <F>um</F> <F>er</F> more houses. Or in other words, very dense. <F>Um</F> so they feel very relaxed, because there aren't so many houses in this <.></.> street. It is, I think, very good.</B>
+<A><F>Hum</F> I see. And so what is a good point of your hometown?</A>
+<B><F>Um</F> <JP><F>ee</F></JP>. <.></.> My hometown has a very important symbol. It is safflower <F>um</F> in Japanese <JP>benibana</JP>. <F>Umm</F> and many people in <H pn="others1">Okegawa</H> city likes <F>uum</F> the <JP>benibana</JP>, for the city flower. <F>Um</F> <JP><F>ee</F></JP> <SC>I think this</SC> <F>mm</F> I think <SC><JP>benibana</JP> flower</SC> safflower is <F>um</F> very pretty.</B>
+<A><F>Uhu</F>. How do you use it?</A>
+<B><F>Ee</F> Ordinally <F>uum</F> <SC>it is</SC> <JP><F>ee</F></JP> the safflower oil was made from safflower. <F>Mm</F> so many people use <F>um</F> as the oil.</B>
+<A><F>Oh</F> O K. All right. Thank you, <H pn="B's name">Makoto</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now we are going to do a role-play. O K. This one. Please read this card to yourself. And when you are ready, I will start. So let me know.</A>
+<ctxt>Interviewee is reading the card for a while.</ctxt>
+<B>O K. Ready.</B>
+<A>O K. May I help you, sir?</A>
+<B><F>Uum</F>. Yes, please. <F>Uum</F> <.></.> <JP><F>ee</F></JP> <F>uum</F> <R>Are</R> <F>um</F> are there any clothes <F>er</F> in the shop?</B>
+<A>Sure.</A>
+<B><F>Um</F> I have one <F>mm</F> suitable for the <F>uum</F> <.></.> beach.</B>
+<A>O K.</A>
+<B>So let me know about that.</B>
+<A>O K. We have wide selection of summer clothes in this floor.</A>
+<B>Thank you. <JP><F>ee</F></JP> So <JP><F>ee</F></JP> <JP><F>ee</F></JP> <SC>I have</SC> <JP><F>ee</F></JP> the color is red and <JP><F>ee</F></JP> the half sleeve <F>um</F>. <F>Ee</F> so are there <F>um</F> anything <F>mm</F> such like half sleeve and red color?</B>
+<A>O K. <F>Um</F>. How about this shirt? This is the stripe of red and white. And it's really nice <SC>sh</SC> summer shirts.</A>
+<B>I think this shirt is very good. But <SC>I like</SC> <F>er</F> I don't like the stripes.</B>
+<A><F>Er</F> O K.</A>
+<B><SC?>I have</SC?> <F>mm</F> I want to have <F>uum</F> <R>pure</R> <F>um</F> so to speak, pure red.</B>
+<A>O K. Then how about this red T-shirt?</A>
+<B><F>Oh</F> I like that. So <F>um</F> please give me. <F>Er</F> <JP><F>ee</F></JP> <F>er</F>. How much is this shirt?</B>
+<A><F>Oh</F> It's twenty-five dollars.</A>
+<B>Fine. So I'll take it.</B>
+<A>O K. Here is your T-shirt.</A>
+<B>Thank you very much.</B>
+<A>Thank you. Have a nice day. O K. Thank you. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>Do you sometimes go shopping?</A>
+<B><F>Er</F> Yes. <R>I</R> I like to go shopping.</B>
+<A><F>Oh</F> Really. <F>Um</F> When you buy something what kind of points do you check?</A>
+<B><F>Er</F> <R>I</R> <F>um</F> <F>er</F> I think <SC>I don't</SC> I'm not so good at <F>uum</F> care of casual. But <F>um</F> I take care about this point. That is <F>uum</F> <?>the</?> remember what's I have already <R>had</R> had. For example, what the color of my bag and what's the color of my <F>um</F> trousers. Then I can do <F>em</F> good shopping, <OL>I think</OL>.</B>
+<A><OL><F>Hum</F></OL> O K. <F>Wow</F>. That's a good idea.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Finally <F>uum</F> we can do a sequence of pictures. Did you try it before?</A>
+<B><F>Oh</F> Yes.</B>
+<A><F>Er</F> You did. O K. Then how about this one?</A>
+<B><F>Er</F> <CO>I'm never</CO>.</B>
+<A>O K. So please make up a short story based on these pictures from one to six. And this happened before. So please start your story with "One day last week".</A>
+<B>O K. One day last week, <F>um</F> <R>I</R> <F>um</F> <F>err</F> <R>I went to</R> <F>mm</F> I went to have dinner with <F>um</F> my boss. <F>Um</F>. <SC>My boss</SC> <JP><F>ee</F></JP> since my boss <SC>knew good</SC> <JP><F>ee</F></JP> had known good restaurant, so <F>um</F> we decided to go <F>um</F> the restaurant. <F>Ee</F>. After we <F>um</F> enter the restaurant, <F>um</F> my boss <F>um</F> <.></.> decided <F>um</F> what seats <F>um</F> shall we <.></.> take. And <F>uum</F> after sitting <?>than</?> <F>um</F> <R>we</R> we decided <SC>what should we</SC> <F>mm</F> what shall we eat. <F>Um</F>. And <F>um</F> my boss let me <JP><F>ee</F></JP> decide <F>um</F> whatever I wanted to eat <F>um</F>. And <JP><F>ee</F></JP> we <F>uum</F> had many <.></.> things <F>um</F> good delicious dishes and drink <.></.> beer. I drunk beer. And my boss <JP><F>ee</F></JP> drunk wine <F>mm</F>. <F>Er</F>. After finished <F>uum</F> eating and <.></.> drinking <JP><F>ee</F></JP> <F>uum</F> all the money was <F>um</F> <JP><F>ee</F></JP> paid <JP><F>ee</F></JP> by my boss. I was very contented. And <F>um</F> after the bill <JP><F>ee</F></JP> I said good-bye to my boss. And <SC>thanks to my</SC> thanked to my boss. And <F>um</F> <JP><F>ee</F></JP> the good-by and I went to home. That's all.</B>
+<A>O K. Thank you, <H pn="B's name">Makoto</H>.</A>
+</task>
+<followup>
+<A>O K. So could you tell me about one of the best restaurants you have ever been to?</A>
+<B>All right. <F>Uum</F> <F>um</F> <R>I</R> <F>um</F> I don't know many good restaurants because <F>um</F> I'm not so <F>mm</F> rich. But <F>um</F> <JP><F>ee</F></JP> <F>um</F> <SC>I have a</SC> <F>mm</F> I know <F>er</F> one curry shop. <F>Ee</F>. <SC>In this <R>sh</R> shop</SC> in that shop, we can eat <F>mm</F> the very <F>uum</F> real <F>um</F> Thailand curry. <F>Um</F>. And the <JP><F>e</F></JP> <.></.> taste is very different from the Japanese curry.</B>
+<A>How?</A>
+<B><F>Ee</F>. First it is very very hot. And <F>uum</F> <R>i</R> it smells the coconuts milk <F>mm</F> smell. <R>And</R> <F>um</F> and there are many peppers <R>and</R> <F>uum</F> and so on, I don't know. <nvs>laughter</nvs> But the taste is very good and <F>um</F> I like that.</B>
+<A><F>Hum</F> I see. How did you find that place?</A>
+<B>My friend <F>uum</F> <SC>came</SC> <JP><F>ee</F></JP> took me there <F>um</F>. And I know that.</B>
+<A><F>Er</F> O K. <F>Wow</F>. That's nice. So do you cook sometimes?</A>
+<B><F>Oh</F> No. I can't cook.</B>
+<A>At all?</A>
+<B>At all.</B>
+<A>O K. So what do you do for your dinner?</A>
+<B><F>Um</F> <JP><F>ee</F></JP> <R>I</R> I go to school from my house. So <F>en</F> my mother <JP><F>ee</F></JP> <F>m</F> cooks.</B>
+<A><F>Er</F> O K. That's nice.</A>
+<B><OL><laughter>Yes</laughter>, <??></??></OL></B>
+<A><OL><laughter>All right</laughter></OL>. O K. Thank you, <H pn="B's name">Makoto</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. Do you have any plan today?</A>
+<B>After this, <F>um</F> yes. I have to go to the laboratory. <F>Um</F>. So I go there.</B>
+<A>For your research.</A>
+<B>Yes.</B>
+<A><F>Er</F> <F>Wow</F>. Good luck on your presentation.</A>
+<B><F>Er</F> Thank you <OL>very much</OL>.</B>
+<A><OL>And</OL> thank you for coming. This is the end of the interview.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

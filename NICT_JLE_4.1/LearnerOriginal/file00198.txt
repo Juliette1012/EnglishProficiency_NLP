@@ -1,0 +1,116 @@
+<interview>
+<filename>file00198.txt</filename>
+
+<head version="1.3">
+<date>2001-01-17</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello, my name is <H pn="A's name">XXX01</H>. So what's your name?</A>
+<B><F>A</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> <H pn="B's name">XXX02</H>. <F>An</F> how are you today?</A>
+<B><SC>I'm</SC> <F>eh</F> I don't <F>er</F> feel so bad <F>ah</F> because <F>ah</F> recently, <F>eh</F> test term <F>eh</F> beguns.</B>
+<A><??></??> Why don't you get closer to <??></??>? <.></.> <F>Ah</F> and <F>ah</F> how did you spend your New Year's vacation?</A>
+<B><F>Ah</F> <F>eh</F> mainly I spent <F>eh</F> with my family, especially, <F>eh</F> the first three days, <F>an</F> <F>mm</F> <SC>come</SC> came back, <F>eh</F> here <F>ah</F> with <F>eh</F> my friends in <H pn="others1">XXX03</H>.</B>
+<A><??></??> what's your typical New Year's day?</A>
+<B><F>Ah</F> I went to Meiji Jingu with my girlfriend. And <F>er</F> <SC>there are</SC> there were many people, <F>uh</F> so <R>we</R> <nvs>sniff</nvs> <nvs>laughter</nvs> <laughter>we</laughter> couldn't enjoy a New Year's ceremony. <F>Eh</F>. <.></.> <nvs>sniff</nvs></B>
+<A>And have you prayed anything in front of shrine?</A>
+<B><F>A</F> beg your pardon?</B>
+<A><F>Hm</F>. Have you pray?</A>
+<B><F>Ah</F> yes, I <OL>prayed</OL>.</B>
+<A><OL><F>Hmm</F></OL>. So what did you pray?</A>
+<B><F>Ah</F></B>
+<A><?>If I</?> may I ask?</A>
+<B><F>Ah</F> many things, about five things. <F>Eh</F> for example, <F>eh</F> this year, <SC>I <F>eh</F> cou</SC> <SC>I can</SC> <F>uh</F> to <F>uh</F> get <SC>many grades</SC> many good grades <F>ah</F> or <.></.> <SC>we</SC> <F>a</F> I can <F>ah</F> spend <F>eh</F> good <F>uh</F> college life after two years <F>ah</F> or so and so. <nvs>sniff</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A><.></.> I see. O K. Now, I'm going to show you a picture. O K. Here you are. And please describe it.</A>
+<B><F>Uh</F>. <nvs>sniff</nvs> First, <F>eh</F> the teacher <.></.> is teaching <F>eh</F> the students mathematics. But <F>eh</F> hearing student is only <F>eh</F> the one in front of the teacher. And <SC>there is</SC> <F>a</F> there were talking students <F>eh</F> backside. And <.></.> there is students <R>who didn't</R> who <.></.> didn't hear the teacher's teaching. <CO>And</CO>. <F>Er</F>. <nvs>sniff</nvs> <..></..></B>
+</task>
+<followup>
+<A>O K. And <F>a</F> was the classroom in your high school days like this?</A>
+<B><F>A</F> <F>ah</F> I can't remember but <F>ah</F> there weren't <F>eh</F> eating students like this. <F>Er</F> but there were many sleeping students, <.></.> especially in mathematics.</B>
+<A>I see. And <F>ah</F> what would you do if you were in this class?</A>
+<B><F>Ah</F> <F>ah</F> <R>I</R> I hope <F>uh</F> that I can hear <SC>the talking</SC> <F>er</F> the teaching, <F>eh</F> of teacher. But <F>eh</F> I don't like mathematics. <nvs>sniff</nvs> So maybe I would sleep a little.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. I see. <??></??> Thank you very much. And the next thing <?>we'll do</?> is a role-play. So would you read the direction? And whenever you are ready, please tell me. And I'll start.</A>
+<B><nvs>sniff</nvs> <F>A</F> excuse me. <F>Ah</F> <.></.> <SC>I want to <F>uh</F> get</SC> <R>I wan</R> I want to buy <F>ah</F> shoes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <.></.> is there <F>ah</F> <F>uh</F> <.></.> red shoes?</B>
+<A>Red shoes? O K. We have some <F>a</F> here.</A>
+<B><F>Oh</F> <F>oh</F> <F>I</F> <F>eh</F> I want to <F>uh</F> get <F>ah</F> New Balance <F>e</F> shoes. But <F>eh</F> there <R>i</R> isn't <F>e</F> New Balance shoes. <F>E</F> so <SC>I want to</SC> <F>a</F> so what can I do?</B>
+<A><F>Uh</F> excuse me, but what "New Balance shoes?".</A>
+<B><F>A</F> it's a <F>uh</F> shoes maker.</B>
+<A><F>Ah</F> I see. <F>Ah</F> <F>well</F> <F>well</F> maybe you could go to the upstairs. And <F>a</F> <F>a</F> we have some <F>er</F> special <??></??> there.</A>
+<B><F>Oh</F> I see. <F>Uh</F>.</B>
+<A>And may I help you?</A>
+<B><F>Ah</F> <F>eh</F> <?>I beg your</?> pardon, <F>a</F> I want to get <F>uh</F> twenty <F>ih</F> seven <JP>cenchi</JP> shoes. <F>Eh</F> <.></.> would you <F>uh</F> look for <F>a</F> that?</B>
+<A>O K. <F>Ah</F> yeah. These are twenty-seven <OL>centimeters</OL>.</A>
+<B><OL><F>Ah</F></OL> <R>wo</R> sorry. <nvs>sniff</nvs> I will try on it. <nvs>sniff</nvs> <.></.> <F>Oh</F> it's nice to walking. <nvs>sniff</nvs> So I want to get this one.</B>
+<A>O K, yeah, thank you very much. And <F>ah</F> how would you like to pay?</A>
+<B><F>Ah</F> <F>ah</F> real money? <F>Eh</F>? <OL>Or</OL></B>
+<A><OL><F>Ah</F> cash</OL>?</A>
+<B>cash. <OL>Cash</OL>.</B>
+<A><OL>O K</OL>. <F>Mm</F> and <F>ah</F> how can I wrap?</A>
+<B><.></.> <F>A</F> <F>uuh</F>.</B>
+<A><CO><OL>Do you use</OL></CO>.</A>
+<B><OL><F>Ah</F> <R>I</R> <R>I</R></OL> <F>uh</F> <F>a</F> I want to <F>uh</F> <.></.> <F>uh</F> present my friends this one. So <F>uh</F> would you like to wrap specially?</B>
+<A>O K, sure.</A>
+<B><nvs>sniff</nvs></B>
+<A>So here it is.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Yeah, thank you very much. O K. <F>Erm</F> do you like go shopping?</A>
+<B><F>Ah</F> yes.</B>
+<A><F>Mm</F> so and where is your favorite shopping area?</A>
+<B><F>Ah</F> I often go to Shibuya. <F>Eh</F> especially Parco or <.></.> <F>nh</F> Marui. <OL><nvs>cough</nvs></OL></B>
+<A><F>Hmm</F>. <OL>So</OL> why do you like those places?</A>
+<B><F>Ah</F> <F>uh</F> <SC>I want to</SC> <F>ah</F> I like window-shopping. But <F>ah</F> I don't buy <F>eh</F> clothes, <F>uh</F> many times, <F>ah</F> <F>a-ah</F> <F>nh</F> I like window shopping.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mm</F> I see. O K. So the last thing we are going to do is the sequence of pictures. And <F>ah</F> so please <F>ah</F> make a story, O K? And this happened in the past, so start your story with this phrase "One day last week".</A>
+<B><nvs>cough</nvs> <F>Oh</F>. One day last week, <F>eh</F> I went to <F>uh</F> restaurant near the station with my father. <.></.> <F>Eh</F> and before <F>oh</F> going there, <F>eh</F> I reserved. <F>Eh</F> <.></.> and <SC>si</SC> <SC>after sitting <F>eh</F> <R>seat</R> seats, <F>eh</F> we</SC> <.></.> <F>a</F> <F>ana</F> <R>in</R> in this restaurant, <JP><F>ehtto</F></JP> <.></.> <F>ah</F> <.></.> <SC>beer</SC> <F>eh-i</F> I hear that <SC>beer</SC> the beer is so <F>oh</F> nice. So I <F>ih</F> <nvs>sniff</nvs> <F>eh</F> ate many dishes and the beer. <F>Ah</F> and after eating, <.></.> my father <F>eh</F> <..></..> <JP><F>ehtto</F></JP> have many cash <F>eh</F> in that time. <SC>So I don't <nvs>sniff</nvs> spend much money there</SC> <F>a</F> so I didn't spend much money there. <F>Eh</F> <..></..> and we separated. <.></.></B>
+</task>
+<followup>
+<A><F>Hm</F>. O K. Thank you very much. <F>Ah</F> when you eat out with someone, who usually pay? <.></.> Yeah, in this case, the father paid. <OL><CO>But</CO></OL>.</A>
+<B><OL><F>Ah</F> <F>ah</F></OL> <F>ah</F> maybe I.</B>
+<A><F>Nn</F> maybe you. <OL><F>Mh</F></OL>.</A>
+<B><OL><F>Mm</F> <CO><R>Ma</R> may</CO></OL>.</B>
+<A><F>Mm</F> So why?</A>
+<B><F>Ah</F> because <.></.> <F>ah</F> <SC>in</SC> <.></.> <F>a</F> like <F>er</F> this case, <F>eh</F> <.></.> I <F>ih</F> <.></.> don't like <F>uh</F> to <?>ha</?> that I <F>ih</F> <.></.> <JP>nantsunndarouna</JP> <??></??> <F>ah</F> <F>ah</F>.</B>
+<A>I see. So even though when you go with your friends, do you pay?</A>
+<B><F>Ah</F> <nvs>laughter</nvs> <F>a</F> like this case <F>eh</F> with my father, <F>ah</F> and invite <F>eh</F> him <F>eh</F> <.></.> <SC>from my</SC> <F>eh</F> from <H pn="others1">XXX03</H>, <F>eh</F> I paid much money. <F>Eh</F>. <.></.> But <F>uh</F> with my friends, <F>eh</F> we <F>ah</F> often <F>nh</F> pay each money.</B>
+</followup>
+</stage4>
+<stage5>
+<A><.></.> I see. O K. Yeah. Thank you very much. <F>Ah</F> the interview is almost over. And <F>ah</F> do you have any plans after this interview?</A>
+<B><F>A</F> <F>eh</F> I want to sleep in my room. Because <F>u</F> last day, <F>eh</F> <SC>there i</SC> there were <F>ah</F> examinations.</B>
+<A>I see. Do you still have tests?</A>
+<B><F>Ah</F> many tests after,</B>
+<A>That's too bad.</A>
+<B>today.</B>
+<A>O K. <??></??> Thank you. O K. Thank you very much for coming.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,210 @@
+<interview>
+<filename>file00386.txt</filename>
+
+<head version="1.3">
+<date>2001-03-13</date>
+<sex>female</sex>
+<age>49</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>3</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. <F>Erm</F>. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B><F>Eh</F>. Nice to meet you, <OL>too</OL>.</B>
+<A><OL>O K</OL>. So <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Uh</F> <F>mm</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Hum</F>.</A>
+<B><SC>Near <F>eh</F> new</SC> near the <H pn="others2">XXX04</H>.</B>
+<A><F>Um-huh</F>.</A>
+<B>Do you know <H pn="others2">XXX04</H>?</B>
+<A><F>Um-huh</F>. <F>Mh-hmm</F>. I see.</A>
+<B><SC>My company is in <SC>Si</SC> <F>um</F> <F>er</F> <H pn="others3">XXX05</H></SC> <F>er</F> my company is <F>mm</F> <H pn="others3">XXX05</H>.</B>
+<A><F>Uhu</F>. And your house is in <H pn="others2">XXX04</H>?</A>
+<B>My house is <F>ee</F> <F>ee</F> <H pn="others4">XXX06</H>, <H pn="others5">XXX07</H> line. Near the <H pn="others2">XXX04</H>.</B>
+<A><F>Hum</F>.</A>
+<B><F>Er</F>. <SC?>It</SC?> <.></.> about <.></.> ten minutes from <.></.> <H pn="others4">XXX06</H>,</B>
+<A><F>Hum</F>.</A>
+<B>to <H pn="others2">XXX04</H>.</B>
+<A>Very convenient.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Do you live with your family?</A>
+<B>Yes. <R>I</R> <SC>I live in my husband</SC> <F>er</F> I live in <.></.> with my husband.</B>
+<A><F>Um-huh</F>.</A>
+<B><F>Hm</F>. <R><JP>Otu</JP></R> <JP>otto</JP>.</B>
+<A><F>Um-huh</F> <F>mm</F> I see. O K. So <F>er</F> what is your job?</A>
+<B><??></??>. <F>Mm</F> <F>mm</F> <SC>I was</SC> <F>mm</F> I work for office worker.</B>
+<A><F>Um-huh</F> <F>hum</F>.</A>
+<B>My company is securities <R>company</R> company and <F>ee</F> <H pn="company name1">XXX08</H>.</B>
+<A><F>Um-huh</F>.</A>
+<B>Do you know?</B>
+<A>Yeah. Sounds familiar. O K. <F>Hm</F>. O K. So <H pn="B's name">XXX02</H>, what do you like to do when you are free?</A>
+<B>Yes. <F>Mm</F>. <SC>On <R>S</R> Saturday</SC> <F>uh</F> my company <F>ee</F> holiday is Saturday and Sunday. <nvs>cough</nvs> On Saturday, <nvs>cough</nvs> I go to <F>eh</F> practice golf <..></..> and <..></..> in Friday evening, <F>mm</F> <R>I</R> <F>ee</F> I went to <.></.> gym. <SC>Aerobics</SC> play aerobics.</B>
+<A><F>Oh</F>. You are very active.</A>
+<B>My hobby is jog.</B>
+<A><F>Er</F>. So do you jog everyday? <CO><OL>Or</OL></CO>.</A>
+<B><OL>No</OL>. <SC>I run <.></.> twice a week</SC> <R>about</R> about twice a week, I <.></.> jog.</B>
+<A>I see. <F>Hm</F>.</A>
+<B><R>Next <F>ee</F> <.></.> Tues</R> <R>next <F>ee</F> <.></.> Tuesday</R> next Tuesday, I competition running, about <SC>I run</SC> <R>I</R> I'm going to ten kilometers.</B>
+<A><F>Wow</F>.</A>
+<B><JP><F>Uunto</F></JP> <..></..> Showa Kinen Park.</B>
+<A>I see. <F>Um-huh</F> <F>mh-hmm</F>. How about your husband?</A>
+<B>No. <F>Mm</F>. <SC>He</SC> his hobby is <JP>kendo</JP>. <.></.></B>
+<A><F>Ah-huh</F>.</A>
+<B>But <F>mm</F> last month, <F>mm</F> when he practice <JP>kendo</JP> <SC>he</SC> his <R>fo</R> <SC>foot broke</SC></B>
+<A><F>Oh</F> <F>mh-hmm</F>.</A>
+<B><F>mm</F> <JP>akiresuken</JP> broke.</B>
+<A><F>Um-huh</F>.</A>
+<B><SC>And</SC> so <F>mm</F> <F>ee</F> <.></.> his works <F>ee</F> absent.</B>
+<A>I see. O K. <SC>By the</SC> <F>er</F> why did you start running?</A>
+<B><.></.></B>
+<A>Why did you start jogging? <OL><F>Uh-huh</F></OL>.</A>
+<B><OL><nvs>cough</nvs></OL> <F>Hm</F>. When I was <SC>young</SC> <.></.> junior high school, I playing basketball. <F>Mm</F>. So <..></..> <R>I</R> <JP><F>eeto</F></JP> I don't like to be old. <F>Hm</F>. So <.></.> <laughter><JP><F>ee</F></JP> <JP>zuuto wakakuitaitte</JP></laughter>.</B>
+<A><nvs>laughter</nvs> It's good for you. <F>Mh-hmm</F>.</A>
+<B>Sorry.</B>
+<A><F>Mh-hmm</F>. Keep you stay fit.</A>
+<B><F>Er</F>. <OL>Yes</OL>.</B>
+<A><OL>O K</OL>. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>All right. So now, I'm going to show you a <.></.> picture. First of all, O K, please take a look at this picture and please describe it for me.</A>
+<B>Yes. <R>She is <.></.> playing</R> she is <.></.> playing. <F>Mm</F>. <R>Two boys</R> <..></..> two boys playing volleyball. He is running <.></.> on the road. Two dogs are front of big house. Two womens talking about <F>mm</F> near the car. <F>Ee</F>. He is reading a newspaper <SC>on the bench</SC> on sitting the bench. <.></.> It's <?>sunny</?> day.</B>
+<A><F>Mm</F>. O K. Good. O K.</A>
+</task>
+<followup>
+<A>So how is your neighborhood compared to this neighborhood in this picture? Any differences or similarities?</A>
+<B><.></.> <?>She's</?> neighbor?</B>
+<A><F>Mm</F> I mean, you know, <R>you</R> <F>um</F> you are living in <H pn="others4">XXX06</H>.</A>
+<B>Yes.</B>
+<A>O K. <SC>How's</SC> how is it different from <F>mh-hmm</F> the town here in this picture? <F>Mm</F>.</A>
+<B>I live in <F>mm</F> apartment. And a lot of <SC>building</SC> <F>er</F> high <F>er</F> <.></.> building.</B>
+<A><F>Mh-hmm</F>. <F>Mh-hmm</F>.</A>
+<B><.></.> <F>Ee</F>. <SC>It crowded</SC> crowdy houses and convenient store <F>mm</F> <R>office</R> office building <.></.> <F>ee</F> <F>mm</F> <R>a</R> <R>apartment</R> apartment. <nvs>cough</nvs></B>
+<A><F>Hum</F>. <R>What</R> <F>uh</F> what's good point about living in a apartment?</A>
+<B><.></.></B>
+<A>What's good point, <F>mh-hmm</F> about living in a apartment?</A>
+<B>Yes. <R>It's</R> <F>eh</F> it's safety. And <R>convenient</R> convenient.</B>
+<A><F>Hum</F> <F>mh-hmm</F>.</A>
+<B>Because <..></..> <??></??> <JP>guardman</JP> <R>around</R> <.></.> <F>ee</F> <.></.> around walk. <.></.> <??></??>.</B>
+<A>I see. So <SC>you</SC> there is a security guard.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>And <.></.> <R>eve</R> everyday <R>I</R> <.></.> <R>I walk</R> I walk by <F>ee</F> underground and <R>I</R> <F>ee</F> <SC>I</SC> O K, I go to <F>ee</F> <F>uh</F> <R?>s</R?> <?>still</?> underground by foot. And it takes seven minutes, about. It's convenient.</B>
+<A><F>Ah</F> that's right. <F>Um-huh</F>. Yeah, it's true. O K. Thank you very much. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. So, <H pn="B's name">XXX02</H>,</A>
+<B>Yes.</B>
+<A>now, we are going to do a role-play. O K? So, here is a card. Please read this card and when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K. May I help you?</A>
+<B>Yes. <.></.> <SC>I want</SC> I'd like to ticket. How do I get to ticket <F>mm</F> <SC>to</SC> from here to New York?</B>
+<A>O K. <F>Er</F>. So this is a ticket counter, so.</A>
+<B>How much does it take <.></.> to New York?</B>
+<A>How much?</A>
+<B><R>How</R> <R>how much</R> <F>mm</F> how much paid <.></.> to New York?</B>
+<A><F>Uhu</F>. It depends. If you take a <SC>ss</SC> <F>er</F> express train, it's fifty dollars. But if you take a local train, it's twenty dollars. <F>Hm</F>.</A>
+<B><..></..> <R>I</R> I'd like to <.></.> one ticket, <F>mm</F> <.></.> <R>one</R> one person.</B>
+<A><F>Um-huh</F>. A local or express one?</A>
+<B>Express one.</B>
+<A>O K. <F>Um-huh</F>. <.></.> So it's fifty dollars.</A>
+<B>Fifty dollar?</B>
+<A><F>Um-huh</F>.</A>
+<B>Yeah. Thank you very much.</B>
+<A>O K. Here is the ticket. <F>Mh-hmm</F>.</A>
+<B>Thank you.</B>
+<A>O K. O K. Thank you. This is the end of the role-play. O K.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX02</H>, have you ever traveled abroad?</A>
+<B>Yes. <F>Hmm</F> <JP><F>eeto</F></JP> <R>last</R> <SC>last year</SC> <F>er</F> I went to Oxford last year and three years ago, <?>I went</?> Oxford. I like Oxford.</B>
+<A>Very much.</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs></A>
+<B>Because Oxford is small city and <nvs>cough</nvs> <.></.> out of collage is beautiful.</B>
+<A><F>Hum</F>.</A>
+<B>And <.></.> it's safety but food is terrible.</B>
+<A>Really?</A>
+<B><nvs>laughter</nvs></B>
+<A><R>How</R> how so? <F>Mh-hmm</F>.</A>
+<B><nvs>cough</nvs> But <nvs>cough</nvs> <SC>I like</SC> <nvs>cough</nvs> sorry, I like <F>mm</F> it.</B>
+<A>I see. <F>Mh-hmm</F>.</A>
+<B>Because <.></.> twice, I went to there <F>oh</F> <.></.> <F>un</F> Oxford is safety. <F>Ee</F> I around <.></.> walk by foot. <.></.> It's convenient.</B>
+<A>I see. O K. <F>Wow</F>. Nice. <F>Mh-hmm</F>. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So then lastly, O K. I'm going to show you a sequence of pictures, O K. So this is the story that happened last week. O K? So please make up your own story from one to four and start the story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B>Last week, we are going to movie. <..></..> <F>Mm</F>. <R>Its</R> its cost is two thousand yen a person. <..></..> <R>We</R> we bought <F>mm</F> some food and coke. <.></.> <SC>It's movie is <.></.> <F>mm</F> about</SC> <.></.> <SC>it's abou</SC> it's movie <.></.> is <.></.> travel movie. And airplane is clashed. <..></..> <R>It's ha</R> <F>er</F> it's happened.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.> It's movie finish. <F>Mm</F>. <.></.> <SC>We are talking about <.></.> movies</SC> <F>er</F> they are talking about movies.</B>
+<A><F>Mm</F>.</A>
+<B><.></.> They looks very <.></.> fine.</B>
+<A><F>Mm</F> <F>mh-hmm</F>. O K. Good. Thank you very much.</A>
+</task>
+<followup>
+<A>So, when you are in Oxford, what did you enjoy most?</A>
+<B><F>Uh</F>. <F>Uh</F>. <.></.> I went to <SC>school</SC> English school about <R>five</R> <.></.> five days. It's short time.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I stay <F>ee</F> <?>forty</?> day.</B>
+<A><F>Hm</F>.</A>
+<B>Last year <F>ee</F> I stay Oxford. <F>Mm</F>. <.></.> It's family is very kind <SC>to</SC> for me. <..></..> <F>Mm</F>. Wife and husband two only. <SC>It's</SC> <F>ee</F> they live in a big house. I gave <F>ee</F> in <F>ee</F> big room.</B>
+<A><F>Ah</F>. <F>Mh-hmm</F>.</A>
+<B>They are very kind.</B>
+<A><F>Mh-hmm</F>. Is the <R>lifest</R> lifestyle a little bit different from the lifestyle here in Tokyo?</A>
+<B>Yes. <F>Mm</F>. In Tokyo, <.></.> usually <.></.> <SC>he and she</SC> <F>ee</F> <SC>wife and husband</SC> <.></.> for example, <F>mm</F> <SC>wife is <.></.> for husband</SC> <F>mm</F> <.></.> <SC>wife is wor</SC> <F>ee</F> housewife house work for husband. But <.></.> Oxford I stayed, <F>ee</F> <F>er</F> they are <F>ee</F> free. <SC>For example, <nvs>cough</nvs> <F>ee</F> <.></.> <SC>he is</SC> he</SC> <F>ee</F> for example, <F>mm</F> on Monday, he hobby is chess. He went to chess. And <F>mm</F> he is retire. She is <F>ee</F> working <F>mm</F> two or three times a week.</B>
+<A><F>Hm</F>.</A>
+<B>And <nvs>cough</nvs> <R>in the mor</R> in the morning, <F>mm</F> <.></.> I take <R>care of</R> care of me <F>mm</F> husband. <R>He</R> <R>he</R> <F>ee</F> <.></.> <R>he gave me</R> he gave me a cup of coffee and toast.</B>
+<A><F>Oh</F>. <R>He</R> he did.</A>
+<B>He did.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yes. I think <F>mm</F> it's the difference.</B>
+<A><F>Ah</F>.</A>
+<B><F>Eh</F> it's <?>routine</?>.</B>
+<A><F>Mh-hmm</F> <F>mh-hmm</F> <F>uum</F> I see. <F>Hm</F>. O K. <F>Wow</F>. <.></.> <F>Erm</F> so, it was a <SC>interesting experience</SC> wonderful experience for you.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. I see. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So, <F>um</F> the interview is almost over. O K. So what are you going to do after this interview? <SC>Is</SC> do you have any plan after this interview?</A>
+<B><.></.></B>
+<A><F>Mh-hmm</F>.</A>
+<B><.></.></B>
+<A>You're just going home?</A>
+<B><??></??>.</B>
+<A>What's your plan? What are you going to do after this interview? <OL><F>Hm</F></OL>.</A>
+<B><OL><F>Uh</F> after this</OL>? <F>Er</F> I'm going to go to my house and <F>mm</F> <.></.> I <?>go to</?> <.></.> some food <F>mm</F> for example, bread and milk.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And so <R>I</R> <F>em</F> <.></.> I'm dinner.</B>
+<A><F>Ah</F>. O K. So your husband is waiting for you.</A>
+<B><.></.></B>
+<A>Your husband is waiting for you?</A>
+<B>Yes.</B>
+<A>And have a dinner with you together?</A>
+<B><F>Mm</F>. <.></.> Maybe he ate dinner.</B>
+<A><F>Oh</F>.</A>
+<B><F>Hm</F>. So I eat myself.</B>
+<A>I see O K. <laughter>O K, enjoy your dinner</laughter>. O K. Thank you very much.</A>
+<B>Thank you very much</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

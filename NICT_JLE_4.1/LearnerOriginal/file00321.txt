@@ -1,0 +1,197 @@
+<interview>
+<filename>file00321.txt</filename>
+
+<head version="1.3">
+<date>2001-03-01</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>573</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. <F>Er</F> for the record, may I have your name, please?</A>
+<B>I'm <H pn="B's name">XXX01</H>.</B>
+<A>O K. Mister <H pn="B's name">XXX01</H>, where are you from?</A>
+<B>I'm from <H pn="others1">XXX02</H>.</B>
+<A><H pn="others1">XXX02</H>. <F>Er</F> were you born in <H pn="others1">XXX02</H>?</A>
+<B>Yeah.</B>
+<A><F>Ah-huh</F>. Have you ever lived anywhere else?</A>
+<B>No, <OL>I</OL></B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><laughter>live in</laughter> <H pn="others1">XXX02</H> all my life.</B>
+<A><F>Ah</F> O K. How old are you?</A>
+<B>I'm twenty-one.</B>
+<A><F>Ah-huh</F>. So <F>mhm</F> what do you do now?</A>
+<B>I'm a student.</B>
+<A><F>Mm</F> what is your major?</A>
+<B><SC>Is</SC> my major is policy studies.</B>
+<A>Policy studies.</A>
+<B>Yeah.</B>
+<A><F>Huh-huh</F>. <F>Mm</F> what do you study exactly?</A>
+<B><F>Em</F> I mainly study the laws or other economics or sociology around the environmental problems <??></??>.</B>
+<A><F>Mhm</F>. Sounds important study.</A>
+<B>And interesting study, yeah.</B>
+<A>Please tell me a little about your hobbies.</A>
+<B><F>Oh</F> my hobby is <F>mm</F> playing guitar. I've been playing for six years. Now I'm playing jazz guitar and some drumming. <F>Eh</F> I start to play drum, too.</B>
+<A><F>Mhm-hum</F>.</A>
+<B><F>Mm</F> and so I also like to listen to jazz music, and go to concert.</B>
+<A><F>Mhm</F>. <F>Oh</F> I don't know much about jazz. But I hear there are a lot different kinds of jazz. <F>Em</F> <R>what</R> what kinds of jazz do you enjoy?</A>
+<B><F>Ur</F> I <F>eh</F> enjoy <SC>most <F>eh</F> of jazz</SC> every kind of jazz music.</B>
+<A><F>Mhm</F>.</A>
+<B>But my favorite artist is Miles Davis. He plays classic jazz to pre-modern jazz.</B>
+<A><OL><F>Mhm-hum</F></OL>.</A>
+<B><OL>So</OL> he's very interesting and great musician. <nvs>laughter</nvs></B>
+<A>O K. Is the <F>eh</F> jazz guitar different from other guitars?</A>
+<B><F>Mm</F> the guitar itself is same. But the codes and the scales are different.</B>
+<A>I see. O K. Have you been to foreign countries?</A>
+<B>Yeah. I've been several countries like United States, Canada, Germany, New Zealand, Australia, <SC>Chinese</SC> <F>eh</F> China, and Russia.</B>
+<A>Quite a few. <F>Mhm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>Of all those countries you visited, which one did you like most?</A>
+<B><F>Em</F> I like Russia the best.</B>
+<A>Russia.</A>
+<B>Yeah.</B>
+<A>Why is that?</A>
+<B>Because <F>eh</F> in the cities on Russia is not so interesting. But in the suburb, there are beautiful nature and large land. And weather is quite interesting.</B>
+<A><F>Mhm</F>.</A>
+<B><CO>Little cold, but</CO>.</B>
+<A>I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Let me show you a first picture today. <..></..> So could you please describe what you see in this picture?</A>
+<B>O K. <nvs>cough</nvs> This is <F>eh</F> <nvs>sigh</nvs> one Sunday morning, a sunny day. Kids are playing in the field. And <SC>its</SC> <F>eh</F> dad <F>er</F> try to lose his weight, and do jogging around this town. And because the weather is so good, <F>eh</F> dogs are enjoying go outside. And cats always sleeping. And a wifes chatting in the middle of the street. And <.></.> I think this old man is reading newspaper. He always read it inside, but today, because it is very sunny day, he enjoy sunlight and reading newspaper outside.</B>
+<A>O K. Good.</A>
+</task>
+<followup>
+<A><F>Em</F> so you are living in <H pn="others1">XXX02</H>.</A>
+<B>Yeah.</B>
+<A><F>Em</F> how is <H pn="others1">XXX02</H> different from <R>this</R> this kind of a scenery?</A>
+<B><?>It's</?> more houses and no <SC>yards</SC> backyards and no trees. And there are a big amusement park so it's not this quiet town. Yeah, always noise and screamings since I live next to amusement park. <SC>I live in <.></.> the</SC> <SC>I</SC> I'm <SC>surrounding</SC> <SC?>some</SC?> surrounded by the noise. So this is peaceful, and <H pn="others1">XXX02</H> is not peaceful at all.</B>
+<A>O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Let's do a role-play now. <..></..> O K. This. So please take a look. When you are ready, I'll begin the role-play.</A>
+<B>O K.</B>
+<A>O K. So I'm going to be your friend.</A>
+<B><F>Mhm</F>. <ctxt>interviewee is reading the card</ctxt> O K.</B>
+<A>O K? Right. My name is <H pn="A's name">XXX03</H>. O K? So, hi, this is <H pn="B's name">XXX01</H>.</A>
+<B>Hi, this is <H pn="B's name">XXX01</H>.</B>
+<A>Hi, <H pn="B's name">XXX01</H>, how are you?</A>
+<B>I'm fine, and you?</B>
+<A>Yeah. I'm O K.</A>
+<B><F>Em</F> I wonder if you want to go to movie this weekend.</B>
+<A>Sure, sounds good.</A>
+<B>O K. Right. <R>Is there any</R> <F>eh</F> is there any movie that you want to <R>se</R> see right now?</B>
+<A><F>Em</F> I like all kinds of movies, <F>eh</F> action movies, romance, <F>em</F> love stories, anything is fine.</A>
+<B>O K. There is a good love story movie. So let's go and <SC>see the</SC> see it. And I have a job <F>eh</F> in the evening. So I want to see the movie <F>eh</F> in the morning. So how about that?</B>
+<A><F>Ah</F> depends on what time in the morning.</A>
+<B><F>Ah</F> around ten o'clock is all right?</B>
+<A>That's fine.</A>
+<B>O K. So <F>eh</F> I think I'm going to go by car. And <R>what</R> what do <R>you</R> <F>uh</F> <F>er</F> you plan to?</B>
+<A><F>Em</F> I usually take trains. <F>Er</F> so where shall we meet?</A>
+<B><F>Em</F> the movie theater is in Osaka. So why don't you just come to Osaka Station, and I'll be there in ten o'clock. Is it all right?</B>
+<A>Yeah, sounds good.</A>
+<B>O K. See you then.</B>
+<A><F>Ah</F> see you later. O K. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>O K. <F>Em</F> do you enjoy watching movies?</A>
+<B>Yeah,</B>
+<A>Yeah?</A>
+<B>very much.</B>
+<A><F>Mhm</F> what kind?</A>
+<B><F>Em</F> I like <F>mm</F> every kind. I <R>se</R> see movies in the weekend all day long.</B>
+<A><F>Mhm</F>.</A>
+<B>Because <F>eh</F> we have Wow-Wow. <F>Eh</F> and there are always movies. So if I don't have things to do, I watch it.</B>
+<A>Tell me about <F>er</F> the last movie you watched.</A>
+<B><F>Oh</F> <F>em</F> last night, I watched the movie called "Kidnapper". <F>Em</F> it was boring movie. But <laughter>I watched</laughter> whole the story. And there is no famous actor in it. <SC>It was</SC> I think it was a French movie. So I couldn't understand what they say at all. And I think it is <F>eh</F> mix of romance and action. But <F>eh</F> it's not <laughter>interesting at all</laughter>.</B>
+<A><laughter>O K</laughter>. Right. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Let me show you a last picture today. And this is the one. It's the story. This is the beginning, goes like this. That's the end. And this story took place in the past, <F>eh</F> in fact, one day last week. So please come up <R>wi</R> with your own story and beginning with, "One day last week".</A>
+<B><ctxt>interviewee is looking at the pictures</ctxt> One day last week, <F>eh</F> I went out with my uncle. And <.></.> <F>em</F> <F>eh</F> <SC>uncle and</SC> we planned to go out to eat something lunch. And my uncle was a really rich man. So he took me to <F>eh</F> expensive restaurant. And since I was really hungry, I ordered many things. And he said, "<SC>It</SC> it's O K to order anything you like.". <F>Em</F> I <SC>turned</SC> turn <F>ur</F> twenty this year, so I ordered a beer and a fish. And my uncle like to eat chickens. And we ate a lot, and talked a lot. And after eating lunch, <F>eh</F> <SC>owe</SC> my uncle pays <SC>the</SC> for the lunch. And <R>I</R> I was full. And we promised to go out someday. <R>And</R> <F>er</F> and I <SC>thanks him</SC> thanked him, and say good-bye to him.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A>Do you have a favorite restaurant that you often go to?</A>
+<B>No. <laughter>No, <OL>I don't</OL></laughter>.</B>
+<A><OL><nvs>laughter</nvs></OL> <F>Ah</F> why not? You don't go out?</A>
+<B><F>Em</F> I sometimes go out, but because I'm not rich, so I go to fast-food or very cheap restaurant.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL><SC>Not</SC></OL> I can't call it a restaurant.</B>
+<A><F>Mhm</F>. <F>Well</F> there are many different kinds of fast-food <OL>places, right</OL>?</A>
+<B><OL><F>Mhm-hum</F></OL>.</B>
+<A>Please describe the one <R>you</R> you like most.</A>
+<B><F>Em</F> I don't like fast-food <OL><laughter>at all</laughter></OL>.</B>
+<A><OL><laughter><F>Ah</F></laughter></OL> O K.</A>
+<B><CO>But I have to eat something so</CO>.</B>
+<A><F>Ah</F> all right.</A>
+<B>So I go to McDonalds.</B>
+<A><F>Mhm</F>.</A>
+<B>Because it is the cheapest.</B>
+<A><F>Mhm</F>. <F>Mhm-hum</F>. O K. <F>Em</F> if you had enough money, what kind of food would you like to try?</A>
+<B><F>Em</F> I like the Vietnam meal.</B>
+<A><F>Mhm</F>.</A>
+<B>And I like <R>the</R> <nvs>laughter</nvs> the taste.</B>
+<A><F>Mhm</F>.</A>
+<B><R>I</R> I went to Vietnam restaurant once with my family.</B>
+<A><F>Mhm</F>.</A>
+<B>It was so delicious.</B>
+<A><F>Ah</F>. O K. You went to Russia, right?</A>
+<B>Yeah.</B>
+<A>O K. How about Russian food? Have you ever tasted it?</A>
+<B>Yeah.</B>
+<A>Please tell me because I don't know anything about Russia. What is like?</A>
+<B><F>Em</F> they eat mainly meat. And I don't know about every Russian, but <SC>the</SC> where I stayed, <R>I</R> I home stayed in Russian family. And they grilled meat every day. And that was so oily, <F>em</F> it was delicious. But not for every day for me. <F>Eh</F> and they like to drink vodka. They drink in the morning, in the lunch, in the dinner. So yeah, that's it.</B>
+<A><laughter>O K</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+<A>Right. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Almost at the end of the interview today.</A>
+<B>O K.</B>
+<A><F>Em</F> so do you want to play the jazz guitar <F>er</F> in front of audience sometimes?</A>
+<B>Yeah,</B>
+<A><F>Mhm</F>.</A>
+<B>I hopefully.</B>
+<A><F>Mhm</F>. Are you practicing to do that now?</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>. Do you have a group that <F>er</F> you play with?</A>
+<B>No, I play by myself.</B>
+<A><F>Mhm</F>.</A>
+<B>But I <laughter>hope to</laughter> have some bass and drums.</B>
+<A><F>Mhm</F>.</A>
+<B>Now I don't have any.</B>
+<A><F>Mhm</F>. I see. <F>Em</F> how long <?>did you save in</?> playing the jazz guitar?</A>
+<B>Pardon?</B>
+<A>How long have you been playing the jazz <OL>guitar</OL>?</A>
+<B><OL><F>Ah</F></OL> <SC>the jazz guitar is</SC> <F>eh</F> I play for three years.</B>
+<A><F>Mhm</F>.</A>
+<B>Before that, I played <F>eh</F> <SC>rock</SC> hard rock in guitar and acoustic guitar, folk songs.</B>
+<A>I see. All different kinds.</A>
+<B>Yeah.</B>
+<A>Do you like the jazz guitar best?</A>
+<B>Yeah.</B>
+<A>Yeah. O K. All right. Thank you very much.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>This is the</OL> end of the interview. Just a moment, please.</A>
+</stage5>
+</body>
+</interview>

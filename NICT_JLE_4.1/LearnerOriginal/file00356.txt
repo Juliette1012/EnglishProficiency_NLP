@@ -1,0 +1,200 @@
+<interview>
+<filename>file00356.txt</filename>
+
+<head version="1.3">
+<date>2001-03-07</date>
+<sex>female</sex>
+<age>26</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>750</TOEIC>
+<TOEFL>530</TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. <F>Um</F> could I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. So, how are you doing today?</A>
+<B>I'm fine, thank you.</B>
+<A>That's good. O K. So, where are you from?</A>
+<B>I came from <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>. O K. So, what part of <H pn="others1">XXX03</H> are you from?</A>
+<B><F>Er</F> east part of <H pn="others1">XXX03</H>, named <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F> Good. So, tell me more about <H pn="others2">XXX04</H>.</A>
+<B><.></.> There is four universities in <H pn="others2">XXX04</H>. So, many students are there.</B>
+<A><.></.> O K. So, are you a student for one of them?</A>
+<B>Yes.</B>
+<A><F>Hmm</F> O K. So, what is you major?</A>
+<B><.></.> I majored linguistics.</B>
+<A><.></.> <F>Hmm</F> <.></.> O K. <.></.> So, how did you get interested in linguistics?</A>
+<B><.></.> At that time, I wanted to be a Japanese teacher. But now, I changed my mind.</B>
+<A><.></.> O K. Why did you change your mind?</A>
+<B><.></.> Because <.></.> Japanese language is too complicated and I had no confidence to teach foreign students.</B>
+<A><.></.> <F>Oh</F> really? <.></.> But <F>er</F> <.></.> did you try teaching, then?</A>
+<B>No.</B>
+<A><F>Oh</F> you didn't? <F>Oh</F> that's too bad. O K. So, <F>er</F> what do you do in your free time?</A>
+<B><.></.> <F>Er</F> you know, <F>er</F> <.></.> <H pn="others1">XXX03</H> is <F>eh</F> next to <H pn="others3">XXX05</H> Mountain. So I often go hiking in the mountain. Because it's free, no costs. That's good.</B>
+<A><nvs>laughter</nvs> Right. Right. Right. O K. <.></.> So, other than hiking, <.></.> <F>er</F> <.></.> any more things?</A>
+<B><F>Er</F> I watch movies at home <.></.> sometimes.</B>
+<A><.></.> O K. What kind of movies do you like?</A>
+<B><.></.> <F>Er</F> <R>I like</R> <F>umm</F> I don't have special preference, but I like <R>Europe</R> European <.></.> movies rather than <.></.> American.</B>
+<A><.></.> Can I ask you why?</A>
+<B><.></.> I don't like American culture so much.</B>
+</stage1>
+<stage2>
+<task>
+<A><.></.> <laughter>O K</laughter>. <nvs>laughter</nvs> <laughter>O K</laughter>. So you are very honest person. I like it. O K. So today, I'm going to show you a picture. So, could you describe <.></.> this picture for me?</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>Yes. <.></.> This picture is <.></.> <F>er</F> a <.></.> <F>eh</F> private room <.></.> of <.></.> a woman. I think <F>er</F> she is working at home, <.></.> because there is a computer in her room. And she keeps <.></.> two pets, one cat and one dog. And there is one <.></.> C D player in her room. And one telephone and one clock. And <.></.> I suppose it is June, <.></.> because I can see the calendar. <.></.> <F>Hmm</F> <.></.> That's it.</B>
+</task>
+<followup>
+<A>O K. <.></.> Thank you. <.></.> So, <.></.> <F>erm</F> do you have your room?</A>
+<B>Yes.</B>
+<A>O K. So, can you compare your room and her room? <.></.> So,</A>
+<ctxt>The interviewer takes out the picture again.</ctxt>
+<A><??></??>.</A>
+<B>Yes. My room is smaller than hers. And <.></.> the furnitures are almost same as hers. <.></.> <F>Umm</F> But I don't have such <.></.> a computer. <.></.> I have portable <.></.> <F>eh</F> P C. And I don't have any pets at the moment.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><.></.> O K. <.></.> Thank you. O K. So now, let's do a role-play. O K? So, please read this card. Then, when you are ready, let me know. I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes.</B>
+<A>Ready?</A>
+<B>Yeah.</B>
+<A><nvs>Tru-ru</nvs> Hello? This is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello? This is <H pn="B's name">XXX02</H> speaking.</B>
+<A>Hi, <H pn="B's name">XXX02</H>. How are you?</A>
+<B>I'm fine.</B>
+<A><??></??></A>
+<B><F>Er</F> <.></.> I would like to go to movie with you.</B>
+<A><F>Mmm</F>. <.></.> Sounds great.</A>
+<B><.></.> <F>Er</F> how about this weekend?</B>
+<A><F>Mm</F>? Yeah.</A>
+<B><F>Eh</F> so, <.></.> <F>er</F> <.></.> let's go to the theater in <H pn="others4">XXX06</H>. How <.></.> shall we get to there?</B>
+<A><F>Er</F> O K. So, why don't we meet at <.></.> <H pn="others4">XXX06</H> Station?</A>
+<B>O K. So, <.></.> what time <.></.> do you prefer?</B>
+<A><F>Ah</F> let's say <F>er</F> <SC>one o'clock</SC> <SC>one P M</SC> one in the afternoon.</A>
+<B>O K. So, <.></.> <F>er</F> this weekend, <.></.> <F>er</F> Saturday. Is it O K for you?</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Eh</F>. Saturday at one o'clock in <H pn="others4">XXX06</H>.</B>
+<A><F>Mm</F> Great. O K. So, see you Saturday <??></??>.</A>
+<B>See you.</B>
+<A>O K. Bye.</A>
+<B>Bye-bye.</B>
+</task>
+<followup>
+<A>O K. Thank you. That's the end of the role-play. So, <F>er</F> tell me about the last time you went to see a movie.</A>
+<B><.></.> Yes. <.></.> I went to very local, small <.></.> theater which is next to porno theater.</B>
+<A><nvs>laughter</nvs></A>
+<B><??></??> It's very cheap.</B>
+<A><F>Mm-hm</F>.</A>
+<B><.></.> And I watched Spanish movie there, named "All About My Mother".</B>
+<A><F>Ah</F>.</A>
+<B>Do you know this movie?</B>
+<A>I heard of it, but I haven't seen it.</A>
+<B><F>Hmm</F>. But very <F>eh</F> depressing movie.</B>
+<A>How depressing it was?</A>
+<B><F>Er</F> <.></.> it <R>de</R> described a woman's life. And <SC>her life</SC> <.></.> in her life, many things happened and <.></.> that was <.></.> not happy and <F>eh</F> unfamiliar <.></.> with us.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Hmm</F> <R>O K</R>. O K. Thank you. So now, O K. <.></.> I'm going to show you the last picture for today. O K. So, <F>hmm</F> excuse me. <.></.> O K. Please make a story from one to six. And this happened last week. So, please, starting with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><R?>O K</R?>. <OL>O K</OL>.</B>
+<A><OL>Go ahead</OL>.</A>
+<B>One day last week, a woman went to department store to buy her husband's birthday present. She bought one necktie <F>eh</F> which <.></.> is <F>umm</F> <.></.> green and yellow one. And <F>ern</F> <SC>when she</SC> <.></.> <F>umm</F> <.></.> <F>eh</F> on the way to get out from department store, she found <.></.> the place where shoes <SC>were selling</SC> <.></.> were sold in lower price. And she decided to buy shoes. And then, she found <.></.> clothes which <.></.> were sold <.></.> in half price. And she bought clothes, too. And she <.></.> got out of the department and <.></.> she were on a <.></.> way home. That's it.</B>
+</task>
+<followup>
+<A>O K. Thank you. So, <.></.> <F>er</F> how do you decide what to buy <F>er</F> things for a present?</A>
+<B><.></.> <F>Umm</F>. <.></.> Regarding of <.></.> a person's character who I want to give present and I will decide. I <.></.> imagine what she or <.></.> he <.></.> wants.</B>
+<A><.></.> Good. <?>Yeah</?>. So, where do you usually go shopping?</A>
+<B><.></.> <F>Umm</F> <F>umm</F> I go <.></.> my neighbor <.></.> in <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F> O K. So, <F>er</F> you don't go to <H pn="others4">XXX06</H> so often?</A>
+<B>Not so often. Because I hate take trains on weekend. Because I <.></.> already take trains <R>ev</R> everyday in weekdays. So, I hate <.></.> that.</B>
+<A><F>Hmm</F> <.></.> O K. So, <F>erm</F> <.></.> can you compare your neighborhood,</A>
+<B><F>Mm-hm</F></B>
+<A>and <.></.> <H pn="others4">XXX06</H>?</A>
+<B><.></.> My neighbor is <SC>more smaller</SC> much <R>smaller</R> smaller than <H pn="others4">XXX06</H>. But I think <.></.> the quality of shops are much higher than <H pn="others4">XXX06</H>, even though <.></.> it's small. But <.></.> <F>er</F> <.></.> things are expensive in <H pn="others2">XXX04</H>. <.></.></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Good. Thank you. So, we are almost at the end of the interview. <.></.> So, <.></.> are you a student, or do you work?</A>
+<B>I am working.</B>
+<A>You are working. <.></.> O K. So, <.></.> do you like your job?</A>
+<B>Yes.</B>
+<A>That's good. But, <SC>what</SC> you are not a Japanese teacher.</A>
+<B><SC>I</SC> my job is <.></.> making transcription of interviews.</B>
+<A><F>Oh</F> that sounds interesting. <.></.> <F>Wow</F>. And you are still in <H pn="others2">XXX04</H>.</A>
+<B><.></.> <F>Er</F> <.></.> <F>eh</F> my working place?</B>
+<A>No. You still live in <H pn="others2">XXX04</H>.</A>
+<B><F>Uh</F> yes.</B>
+<A>Right? Then <.></.> you went to <.></.> university in <H pn="others2">XXX04</H>.</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. Which one?</A>
+<B><.></.></B>
+<A><F>Ur</F>?</A>
+<B><F>Eh</F>? <.></.> <SC>Wha</SC> <R>whi</R> <.></.> which university? <R>I</R> <.></.> I went to <H pn="school name1">XXX07</H> University.</B>
+<A>Really?</A>
+<B>Yeah.</B>
+<A>Same.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> That's what I thought.</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> Really? <F>Oh</F> But <.></.> you know, I'm older. So, I went to the college before the earthquake. <.></.> So, <.></.> <F>er</F> when I went to <H pn="school name1">XXX07</H> University,</A>
+<B><F>Mm-hm</F>.</B>
+<A>after the earthquake,</A>
+<B><F>Mm-hm</F>.</B>
+<A>then, everything was rebuilt. <?>Then, I was like</?> "<F>Oh</F> God, it's <?>not a</?> university anymore.".</A>
+<B><R>Yes</R>, yes. I was in university <SC>wha</SC> when earthquake happened.</B>
+<A>Really?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>.</A>
+<B>I went to university <SC>on that day</SC> on <.></.> the right day of earthquake.</B>
+<A>Really?</A>
+<B>Because it was the <.></.> exam day.</B>
+<A>Right. Right. But I heard that <.></.> <SC>after the exam</SC> <F>erm</F> the after the earthquake, there was no exam.</A>
+<B>No.</B>
+<A><.></.> Yeah. that's what I heard. But <.></.> one of my friends, <.></.> <SC>he was</SC> <.></.> he went to university for <.></.> six years or seven <laughter>years</laughter>,</A>
+<B><laughter>Too long</laughter>.</B>
+<A><laughter>Yeah</laughter>. <SC>But he</SC> and he could graduate from University <H pn="school name1">XXX07</H>, because he didn't have to take the exam. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>Bet everybody <.></.> was happy. Right?</A>
+<B>Yeah. We call earthquake magic. <F>Hmm</F>.</B>
+<A>Yeah.</A>
+<B><F>Hmm</F>.</B>
+<A><F>Hmm</F>. But <.></.> how was your <.></.> house <OL>or family</OL>?</A>
+<B><OL><F>Uh</F> my house</OL> was O K.</B>
+<A><F>Hm</F>.</A>
+<B>These <.></.> neighbor was relatively less damaged compared to other. <.></.></B>
+<A><F>Wow</F> O K. That's good. <.></.> <F>Hm</F> <.></.> <F>Well</F> it's a small world, <F>eh</F>? <nvs>laughter</nvs></A>
+<B><laughter>Yeah</laughter>.</B>
+<A>Yeah. <R>I</R> I studied law, though.</A>
+<B><F>Ah</F> <.></.> and now English teacher? <nvs>laughter</nvs></B>
+<A>Yeah. <nvs>laughter</nvs></A>
+<B>You studied abroad?</B>
+<A>Right. Yeah. <R>After</R> <.></.> after the college. Yeah. I went to Canada <.></.> for <.></.> over two years.</A>
+<B>I see. <.></.> So, <SC>you</SC> did you <SC>gradu</SC> <F>eh</F> Master's?</B>
+<A><.></.> <F>Ah</F> no. I wanted to, but <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Eh</F> I couldn't get into the graduate school. <.></.> But now, I want to get into <.></.> <?>if I can</?>. Yeah. Then, you know what, while I was in <R>Canada</R> Canada, <.></.> I started to think that Japanese language teacher is a great job.</A>
+<B>Yeah. But, you know, <SC>Japanese language</SC> to master Japanese language, we have to learn more than two thousand kanjis.</B>
+<A><F>Mm-hm</F>. But we know already, <F>eh</F>. No?</A>
+<B>Yeah. But <.></.> I hesitate to say that to student "You have to learn two thousand <JP>kanji</JP>".</B>
+<A><F>Ah</F> <R>you don't have to</R> <.></.> you don't have to say that. <F>Uh-uh</F> No. <laughter>If</laughter> I were a teacher, I wouldn't. <.></.> You know. <.></.> But anyway, <nvs>laughter</nvs> it's getting long. <laughter>Sorry, O K</laughter>. So, <F>er</F> but <?>this day is getting <.></.> sunny, <F>eh</F></?>? Good. Then, thank you very much for today.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

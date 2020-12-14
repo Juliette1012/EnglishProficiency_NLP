@@ -1,0 +1,208 @@
+<interview>
+<filename>file00536.txt</filename>
+
+<head version="1.3">
+<date>2001-07-26</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. O K.</B>
+<A>O K, <H pn="B's name">XXX02</H>. How are you today?</A>
+<B><CO>How are yo</CO>. <F>Um</F>. I'm very sleepy.</B>
+<A><F>Hum</F>.</A>
+<B>And tired.</B>
+<A><F>Um</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Why are you sleepy?</A>
+<B><F>Um</F>. <SC>Today</SC> this morning, I get up early. So I'm now sleepy.</B>
+<A>I see. It's so hot today.</A>
+<B><nvs>laughter</nvs></B>
+<A>Do you like summer season?</A>
+<B><F>Mm</F>. Yeah. I like summer season. But today is <SC>humid</SC> very humid. But I like ice-cream. So <R>i</R> <SC>ice-cream i</SC> today is ice-cream is very good taste. So I like summer.</B>
+<A>I see. What do you enjoy doing in summer?</A>
+<B><F>Um</F>. I go to swimming and <F>uum</F> <R>go</R> <SC>go</SC> <SC>I go</SC> <R>I g</R> I go to park <R>and</R> <F>uum</F> and <R>I ate</R> I eae ice-cream. <R>And</R> and I like sea. So <SC>I and my</SC> I go to park and pool and sea with friends.</B>
+<A>I see. So it's a nice season for you. O K. <H pn="B's name">XXX02</H>, where do you live now?</A>
+<B><F>Uhm</F>. I live in <H pn="others1">XXX03</H>.</B>
+<A>Do you live with your family?</A>
+<B>No. I live alone.</B>
+<A>I see. So what's good about living alone?</A>
+<B><F>Um</F>. It's very sad and it is very difficult <SC>to cooking alone</SC> to cook alone.</B>
+<A><F>Um</F>.</A>
+<B><CO>So</CO>. And when I catch a cold and it's very sad and <SC>use</SC> <SC>not useful</SC> it's not useful and <F>er</F> uneasy. <SC>I'm</SC> <F>mm</F> everyday, I'm uneasy. But <F>uum</F> <F>um</F> <SC>live alone</SC> living alone is very happy and <R>enjoy th</R> enjoy this life.</B>
+<A><F>Hm</F>. I see. So <H pn="B's name">XXX02</H>, do you belong to any club?</A>
+<B><F>Um</F>. I'm belong to volunteer circle.</B>
+<A>Tell me a little bit about it.</A>
+<B><F>Um</F>. <SC>Volunteer circle is</SC> <F>um</F> I contact with handicapped people. So I play handicapped people's house. I go to <F>um</F> <SC>week</SC> <R>a</R> <R>a week</R> <SC>a week</SC> once a week, I go to <R>handicapped</R> handicapped people's house and I play with them.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>It's very</SC> <F>em</F> I'm enjoying it.</B>
+<A>I see. Why are you interested in that volunteer work?</A>
+<B><F>Uum</F>. <..></..> If <SC>I d</SC> I'm belong to volunteer circle, <F>um</F> <SC>I ha</SC> I don't have chance to contact handicapped people. And I interested <SC>in</SC> to contact with handicapped people to play them. <CO>So</CO>. And I know I don't know handicapped people very much. So <R>I</R> <R>I</R> <SC>I want to belong to handicapped</SC> <F>um</F> I'm belong to volunteer circle.</B>
+<A>I see. O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>The first, I'll show you this picture. So please describe it for me.</A>
+<B>O K. <F>Uum</F>. This is a small town. And there is a big house. <R>There</R> <F>um</F> there is two dogs and three children. A girl play <JP>nawatobi</JP>. So, two boy playing ball. And along road, one man is jogging. He is very tired. And <SC>along car</SC> <SC>the</SC> <SC>this house <?>own</?> car on the road</SC> <F>er</F> there is a car on the road. <SC>Car</SC>, <F>um</F> <SC>a cat</SC> <SC>sleeping cat</SC> a cat sleeping on the car. And two lady stand and two ladies <F>hm</F> speaking. A girl have a dog. <F>Um</F>. And <R>along</R> along road, <SC>a old man reads newspaper</SC> a old man is reading newspaper. <F>Um</F>. <R>There is a</R> <SC>there is <.></.> a lot of</SC> <F>um</F> there is some of tree. And this town is very clean.</B>
+<A>O K. <H pn="B's name">XXX02</H>, thank you very much.</A>
+</task>
+<followup>
+<A><F>Er</F> where is your hometown?</A>
+<B><F>Uh</F> where is hometown?</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F>. Where. <OL>Where</OL>?</B>
+<A><OL><F>Hm</F> <F>hm</F></OL>. Where is your hometown?</A>
+<B>Where is hometown?</B>
+<A><F>Hm</F>. You live in alone. So <SC>where is</SC> <F>uh</F> where are your family <OL><?>living</?> now</OL>?</A>
+<B><OL><F>Uh</F></OL>. <F>Um</F>. My family lives in <H pn="others2">XXX04</H>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Um</F>. <H pn="others3">XXX05</H>. <F>Um</F>. <SC>Today, I</SC> <F>er</F> yesterday, I go to <H pn="others2">XXX04</H>. <CO>I come from</CO>.</B>
+<A><F>Er</F>. I <OL>see</OL>.</A>
+<B><OL><R>So</R></OL> <R>so</R> <F>uh</F> <SC>so</SC> <SC>because</SC> <SC>ho</SC> because I get up very <SC>s</SC> early.</B>
+<A><OL><F>Er</F> I see</OL>.</A>
+<B><OL>So</OL> today, I go to <H pn="others5">XXX06</H>.</B>
+<A>I see.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>So</OL>, does <H pn="others2">XXX04</H>,</A>
+<B><OL><H pn="others2">XXX04</H></OL>.</B>
+<A><OL>look like</OL> this picture?</A>
+<B><CO>Look like this</CO>. <F>Uum</F>. No. <H pn="others2">XXX04</H> is <R>more</R> <R>more rural</R>.</B>
+<A><F>Hum</F>.</A>
+<B>More rural. And <H pn="others2">XXX04</H> is near very big mountain and <F>er</F> <SC>more</SC> a lot of tree. And <SC>road i</SC> <R>road</R> road is too small. <R>This</R> <F>um</F> this hometown is bigger and cleaner and wider than <H pn="others2">XXX04</H>.</B>
+<A>O K. So which do you like better, this neighborhood or your hometown?</A>
+<B><F>Uum</F>. Yeah. I like mountain and I like tree and I like nature. So I like my hometown. Because I like river and nature.</B>
+<A>I see. Very good. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, I'll show you this role-play card.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. This is the role-play card. Please read it yourself. And when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><??></??></B>
+<A>Yes. <F>Er</F> trum-trum.</A>
+<B><F>Hm</F>.</B>
+<A>This is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Speaking. <F>Uum</F>. <JP>E kotchiwa kakeru</JP>. <F>Um</F>. This is <H pn="B's name">XXX02</H>. Hello.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B><H pn="A's name">XXX01</H>, <F>um</F> <F>uum</F> <F>uhm</F> <SC>this <??></??></SC> this weekend, are you free?</B>
+<A>Sure. I'm free.</A>
+<B>I want to go to movie. And let's go to movie this weekend.</B>
+<A>Good idea.</A>
+<B>Good idea?</B>
+<A><F>Hm</F>.</A>
+<B><F>Uum</F>. <SC>This</SC> tonight <F>um</F> at six o'clock, <F>um</F> movie is beginning. So I want to see you at five o'clock. O K?</B>
+<A>O K.</A>
+<B>O K. <F>Uum</F>. I'll go to there by train. So <R>I</R> I'll go to <H pn="others5">XXX06</H> Station. <CO>So you</CO>. <F>Um</F>. Where do you live?</B>
+<A>I live in <H pn="others4">XXX07</H>.</A>
+<B><H pn="others4">XXX07</H>. So <R>you'll</R> <.></.> <R>you'll ride</R> <SC>you'll ride by bike</SC> you'll ride by train. So <SC>you go</SC> <F>em</F> do you go to <H pn="others5">XXX06</H>?</B>
+<A>Yes. <R>I</R> I can go there.</A>
+<B>You <OL>can</OL>?</B>
+<A><OL><F>Um</F></OL>.</A>
+<B>So I can go to <H pn="others5">XXX06</H> <F>mm</F> five o'clock.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>So</OL> <SC>I</SC> <SC>this</SC> five o'clock I want to see you.</B>
+<A><F>Um</F>.</A>
+<B>O K?</B>
+<A>I see. That's good.</A>
+<B>O K.</B>
+<A>O K. Thank you very much for calling,</A>
+<B><F>Hm</F>. <OL>Thank you</OL>.</B>
+<A><OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><R>I</R> <F>hm</F> I'm looking forward to seeing you.</B>
+<A>Me, too. See you then. Good-bye.</A>
+<B>Good-bye.</B>
+<A>O K. That's the end of the role-play. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you like movies?</A>
+<B>Yes. I like movie.</B>
+<A>What kind of movies <OL>do you like</OL>?</A>
+<B><OL>I like</OL> adventure and love story and documentary movie.</B>
+<A>You like many movies.</A>
+<B><laughter><?>O K</?></laughter>.</B>
+<A><R>Wh</R> which movie do you like best?</A>
+<B><F>Uum</F>. I like human drama movie. So <F>uum</F> May, <R>I</R> <SC>I'll</SC> I <F>mm</F> saw movie "Stalingrad" and <.></.> "Pay Forward" and <SC>I'm very moving</SC>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Uum</F>.</B>
+<A><OL>Why</OL>,</A>
+<B><OL><R>I</R></OL> I'm moved. <CO><OL>So</OL></CO>.</B>
+<A><OL>were</OL> you so moved?</A>
+<B><F>Uum</F>. "Stalingrad" and "Pay Forward" is human drama. <F>Uum</F>. So <SC>character's kind is very</SC> <R>character's mind</R> <SC>character's mind</SC> I'm moved with character's mind and character's tender heart. <F>Hm</F>. "Pay Forward" is <F>uum</F> <F>uum</F> <SC>human's heat</SC> theme of human's heart.</B>
+<A>I see.</A>
+<B>And "Stalingrad" theme is human courage and tender heart and war.</B>
+<A>O K. So who is your favorite actor or actress?</A>
+<B>Actor. I like Jude Law.</B>
+<A><F>Hm</F>.</A>
+<B>He is <SC><?>actor</?> in "Stalingrad"'s chara</SC> <F>uh</F> "Stalingrad"'s character.</B>
+<A><F>Hm</F>.</A>
+<B><CO><OL>Main character in</OL></CO>.</B>
+<A><OL>What's so nice</OL> about him?</A>
+<B><F>Hm</F>. He is very cool and <R>his act</R> his act is wonderful.</B>
+<A><F>Er</F>.</A>
+<B><F>Hm</F>.</B>
+<A>I see. O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I'll show you another picture. Please make up one short story using these pictures from one to six. And this happened before. So please start your story with "One day last week".</A>
+<B>One day last week, a woman entered the <JP>depahto</JP>. <SC>He is wanted to go to shopping</SC> <R>she</R> she wanted to go to shopping. <F>Um</F>. <SC>She is</SC> she was <?>buying</?> necktie for his father's <SC>ha</SC> birthday present. <SC><R>He</R> he pick up <F>er</F> some of the necktie</SC>. So <SC>he</SC> <SC>she's</SC> she pick up some of necktie. <R>She</R> <.></.> she find <SC>a</SC> one very nice necktie. She think, "<F>Hm</F>. <SC>This necktie is my fa</SC> this necktie is <.></.> very nice for my father, so I want to buy it.". She buy it. <R>So she</R> <SC>so she</SC> <F>um</F> <SC>three thousand yen</SC> <SC>as</SC> <F>um</F> <SC>this necktie is</SC> <SC>s</SC> <SC>this necktie cost</SC> <F>er</F> <SC>she</SC> this necktie cost her three thousand yen. So <R>she buy</R> <R>she buy</R> <F>um</F> <R>she buy</R> she buy it. <CO>So</CO>. And she go around department store. So <R>she</R> <SC>she find</SC> she found <SC>shoes sale</SC> shoes final sales. <F>Um</F>. Sale is <SC>three</SC> thirty percent off. <SC>And</SC> but she <.></.> don't find good, nice shoes. Next, <R>she find a good</R> she find a good dress. This dress is fifty percent off. She find a <R>very good, nice</R> <.></.> very good, nice dress. She buy one dress, one <R>sh</R> <F>um</F> shirts, one blouse and two skirts. It is very nice. <SC>She likes</SC> she very liked it. <SC>She buy a lot of</SC> <SC>she</SC> <SC>lot of</SC> she buy a lot of <F>um</F> things. <R>She</R> she cost a lot of money. And after she went to department, she enjoyed good <OL>day</OL>.</B>
+<A><OL><F>Hm</F></OL>. Very good. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you sometimes go to department store?</A>
+<B><F>Uum</F>. Yes.</B>
+<A>O K. And <F>er</F> <F>err</F> do you sometimes go to department store to buy something for somebody,</A>
+<B><F>Hm</F>.</B>
+<A>as a gift or a present?</A>
+<B><SC>I</SC> sometimes I go to <R>department</R> department for my present.</B>
+<A><F>Oh</F>. For <OL>your present</OL>.</A>
+<B><OL>My present</OL>. <CO>So</CO>.</B>
+<A>O K. So please tell me the last time you bought something for yourself.</A>
+<B><F>Um</F>. Yeah. <SC>I bought to</SC> I went to Ikebukuro. And <R>I buy one</R> I buy one T-shirt. This T-shirt cost me nine hundred ninety-nine yen.</B>
+<A><F>Hm</F>.</A>
+<B>It's very cheap. And I like it. So <SC>it</SC> <SC>I buy it</SC> I buyed it.</B>
+<A><F>Um</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL><F>Hm</F></OL>. And <SC>I</SC> <F>uum</F> every day, <SC>I <?>try</?></SC> I look for a cheap things. Cheap dress and <R>cheap</R> <.></.> cheap characters' <JP>zakka</JP> <F>uum</F> <R>cheap</R> <R>cheap</R> cheap things. So I can't buy high-priced things. So <SC>I</SC> <F>uum</F> usually, I buy <??></??> <SC>more</SC> <SC>a lot</SC> <F>er</F> very, very cheap things.</B>
+<A><F>Um</F>. O K. So can you buy cheap things at the department store?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. Really?</A>
+<B>Sale. Sale. I <?>go</?> to sale season. <OL><F>Uhm</F></OL>.</B>
+<A><OL>I see</OL>. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost over, <H pn="B's name">XXX02</H>. Do you have any plan for summer vacation?</A>
+<B>Summer vacation. <F>Em</F>. I belong to volunteer circle, so <R>I go to</R> I go to <R>Sh</R> Shiga and Gifu with handicapped people.</B>
+<A><OL><F>Err</F> I see</OL>.</A>
+<B><OL><F>Mm</F> <SC>It's a</SC> <R>I'm</R></OL> I'm looking forward to go to there.</B>
+<A><F>Um</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Actually, <F>oh</F> what do you do or what kind of things are you going to do with handicapped people? To play with the handicapped people?</A>
+<B>Play. <SC?>In</SC?> usually, <SC>I play them</SC></B>
+<A><F>Ah</F>.</A>
+<B><F>mm</F> <SC>with</SC> I play with them and I talking about somebody's things. And <SC>I</SC> <SC>she</SC> <SC>they are</SC> they go to toilet, I <R>he</R> help <SC>him</SC> <OL><SC>them</SC> <F>mm</F> her</OL>.</B>
+<A><OL><F>Wow</F> O K, that's</OL> great. O K. Thank you very much for coming today. Enjoy summer vacation.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

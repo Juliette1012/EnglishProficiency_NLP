@@ -1,0 +1,212 @@
+<interview>
+<filename>file00162.txt</filename>
+
+<head version="1.3">
+<date>2000-11-17</date>
+<sex>male</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category>researcher</category>
+<step></step>
+<TOEIC>650</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I ask your name?</A>
+<B><F>Em</F>. My name is <H pn="A's name">XXX01</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>All right. How are you today, <H pn="B's name">XXX02</H>?</A>
+<B>Yeah, very fine. <F>Err</F>. How about you?</B>
+<A><F>Oh</F> I'm fine, thank you. O K. Do you work in this building?</A>
+<B>No, <F>er</F> <R>I</R> I 'm working in <H pn="others1">XXX03</H>, so it takes one hour to come here.</B>
+<A><F>Ahh</F> I see. Do you often come here?</A>
+<B>Yes, <F>umm</F> <SC>often</SC> I often come here <R>to meet</R> <SC>to meet</SC> <F>mm</F> make meeting.</B>
+<A><F>Ahh</F> I see. Then <R>wha</R> what do you do in <H pn="others1">XXX03</H>?</A>
+<B><F>Umm</F> <R>I</R> <R>I</R> I am a researchers. <OL><F>Umm</F></OL>.</B>
+<A><OL><F>Uh-hm</F></OL>.</A>
+<B>There is there is a laboratory, so <R>I</R> I'm doing experiment.</B>
+<A><F>Oh</F>. Sounds interesting. Tell me more about your experiment.</A>
+<B><F>Umm</F> my research field is architecture. <F>Err</F> <SC>resist</SC> when earth shakes happen, <F>umm</F> building won't <SC>ha</SC> break.</B>
+<A><OL><F>Ohh</F></OL>.</A>
+<B><OL><F>Umm</F></OL>. <F>Er</F> my work is breaking columns or beams of building, and <SC>how it</SC> <F>mmm</F> <R>how much</R> how much force to break is my research.</B>
+<A><F>Oh</F>. Sounds interesting. O K. And how long have you been working in this company?</A>
+<B><F>Umm</F>. Nine years and a half.</B>
+<A>I see. Have you ever worked in a different section?</A>
+<B>Yes <F>err</F> <SC>I wa</SC> <R>I</R> <R>I</R> I was working at <H pn="others2">XXX04</H>, <F>mm</F> another laboratory.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL><F>Umm</F></OL>. Where I work at <SC>in computer</SC> computer programming.</B>
+<A><F>Hmm</F>. I see. Which do you like better?</A>
+<B><F>Umm</F>. <F>Eh</F> experiment.</B>
+<A><F>Hmm</F>.</A>
+<B>Yes, so <R>I</R> I want to work in my laboratory here <OL>in</OL></B>
+<A><OL>In</OL> <H pn="others1">XXX03</H>.</A>
+<B>in <H pn="others1">XXX03</H>. <F>Umm</F>.</B>
+<A>I see. <F>Uh-hum</F>. Then, <F>oh</F> where do you live?</A>
+<B>Yeah. Very near to my laboratory. It takes ten minutes to walk.</B>
+<A>I see. <H pn="others1">XXX03</H>.</A>
+<B>Yes.</B>
+<A>Is it a good place to live?</A>
+<B><F>Umm</F> yeah. <F>Umm</F> I have a son. He is two years old but there is <F>umm</F> no park to play near <SC>the</SC> my apartment.</B>
+<A><OL><F>Hmm</F> really</OL>?</A>
+<B><OL>It takes</OL> maybe, <SC>ten minutes to walk</SC></B>
+<A><OL><F>Uh-hum</F></OL>.</A>
+<B><OL>ten minutes</OL> to cycling.</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL>It maybe</OL> twenty minutes to walk. <R>So</R> <SC>so</SC> <F>mm</F> <.></.> and there is lots of <R>s</R> slope.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL><F>Err</F></OL> my wife <F>err</F> have to <R>go</R> go down to going to supermarket and he have to <SC>go up to</SC> go up slope by bringing lots of luggage.</B>
+<A><F>Wow</F>. Must be tough.</A>
+<B>Yes.</B>
+<A>I see. <F>Ahh</F> you have two year old son. <F>Mmm</F>. What does he like to do?</A>
+<B><laughter><F>Um</F></laughter> <F>umm</F> yes. So <.></.> <R>he</R> <laughter>he likes</laughter> <F>umm</F> playing my wallet or my keys. <F>Err</F> he took my wallet and take out money <nvs>laughter</nvs> and <F>umm</F> threw <laughter>everywhere</laughter>. So I have to pick up them and put into my <laughter>wallet</laughter>.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Ohh</F>. O K. So <SC>he makes messy</SC></A>
+<B>Yeah.</B>
+<A><SC>mess</SC> he makes a mess. O K. All right. Now, I'd like to show you one picture. Here you are.</A>
+<B>Yes.</B>
+<A>Have you done this before?</A>
+<B><F>Mm</F>. A dinner with wife?</B>
+<A><OL>Yes</OL>.</A>
+<B><OL><R>Yes</R></OL>. Yes, I had. <F>Ah</F> <R>no</R> no, wait a moment.</B>
+<A>You took the test before. <OL><??></??></OL></A>
+<B><OL><F>Ah</F></OL> I took this picture.</B>
+<A>O K. Then, this time please describe this picture.</A>
+<B><F>Uh-hum</F>. A couple maybe <R>they</R> they are married and they have dinner and they choose wine and husband <SC>d</SC> try to drink. <R>And</R> and so, he choose. Maybe he like this wine so he ordered this wine. And his wife <F>m</F> smiling and <SC>her</SC> she didn't. Maybe she asked <SC>he</SC> her husband to choose wines. Yes <F>um</F> maybe <F>err</F> this is French restaurant, I think. <F>Umm</F>. That's all.</B>
+</task>
+<followup>
+<A>O K. <F>Err</F> do you sometimes eat out with your family?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F>. Maybe around my house. <F>Umm</F> <SC>me</SC> <F>err</F> I go to restaraunt by car. Maybe it takes me ten minutes or twenty mimutes. Lots of family restaurants. Yeah. I go. But <.></.> <R>my son</R> my son doesn't sit down to long time, so <F>err</F> it's very difficult to <laughter>go out to eat</laughter>.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>Yeah yes</OL>. <F>Err</F> I have to prepare lots of toys or picture books for him and <SC>he</SC> I have to <R>make</R> make him sit down. <OL>Yeah</OL>.</B>
+<A><OL><F>Ohh</F></OL> I see.</A>
+<B>It's hard work for me.</B>
+<A><laughter><F>Oh</F> really</laughter>?</A>
+<B>Yeah.</B>
+<A>O K. <F>Mm</F> so, that family restaurant is quite different from this one?</A>
+<B>Yes, and maybe this restaurant is very expensive, and maybe very quiet, and <R>maybe</R> maybe she plays good music. <laughter>But</laughter> maybe I go to this <SC>ra</SC> restaurant with my son, <F>err</F> <laughter>he runs all around</laughter> and trouble another customers. So, maybe I have to wait to go like this restaurant maybe five or <laughter>ten years</laughter>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. Thank you very much. Now, let's have a role play.</A>
+<B>Yes.</B>
+<A>O K. Here you are. This is your card. Please read it to yourself. And when you are ready, I'll start the conversation.</A>
+<B><F>Um</F> <R>I</R> I tried <OL><R>this</R> this too</OL>.</B>
+<A><OL>You</OL> <.></.> before?</A>
+<B>Yes.</B>
+<A>O K. Then, how about this one? <F>Ah</F> Sorry.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>That's</OL> a telephone conversation. O K?</A>
+<B>O K.</B>
+<A>All right.</A>
+<B>O K.</B>
+<A>Trum-trum kacha. Hello.</A>
+<B>Hello. <F>Oh</F> <F>er</F> how are you?</B>
+<A>Fine. Who's calling?</A>
+<B><F>Oh</F> <R>I</R> I'm <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> hi, <H pn="B's name">XXX02</H>. What's up?</A>
+<B>O K. <F>Er</F>. How about movie? <F>Umm</F> "Charlie's Angels". Let's go to see it.</B>
+<A>Sorry, I've seen it.</A>
+<B><laughter><F>Oh</F></laughter> I see. You've seen it? <F>Oh</F> another movie. <F>Mmm</F> do you know "<JP>Shichinin No Samurai</JP>"? <F>Er</F> another movie and it's Japanese movie, and very old <OL>movie <CO>But</CO></OL>.</B>
+<A><OL><F>Oh</F> <R>no</R> no</OL>. Sounds interesting.</A>
+<B>Yeah. <SC>Very</SC> it's very interesting. It's masterpiece of Japanese movie. <OL>So</OL></B>
+<A><OL><F>Aha</F></OL>.</A>
+<B>let's go to see it.</B>
+<A>Yeah.</A>
+<B>Yeah. How about next Sunday?</B>
+<A>Next Sunday? Yeah. O K.</A>
+<B>O K? <F>Err</F> <R>I want to</R> I want to see that movie in morning, and have lunch and play <R>another pla</R> <F>ah</F> another place, I hope. How about you?</B>
+<A><F>Umm</F>. That'll be perfect.</A>
+<B>O K.</B>
+<A>Yes.</A>
+<B>O K. That movie will start ten o'clock, <R>so</R> <F>um</F> <.></.> so, we meet there at nine forty-five and in front of <R>mo</R> movie theatre.</B>
+<A>Where is the movie theatre?</A>
+<B><F>Umm</F> Shinjuku. <F>Umm</F> <F>err</F> <laughter>I don't know how</laughter>.</B>
+<A><F>Ah</F> <.></.> Shochiku or something?</A>
+<B><F>Oh</F> O K. <R>So</R> so, Shochiku. So, in front of movie theatre, we meet there.</B>
+<A>All right. Thank you for calling.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL> <OL>Goodbye</OL>.</A>
+<B><OL>O K</OL>. Goodbye.</B>
+</task>
+<followup>
+<A>Thank you very much. O K. Do you like movies?</A>
+<B>Yes, I like movies.</B>
+<A><F>Umm</F>.</A>
+<B><F>Umm</F> last Sunday, <R>I</R> I saw a movie <F>err</F> "Fight Club". Do you know "Fight Club"?</B>
+<A><OL><F>Umm</F></OL>.</A>
+<B><OL><F>Umm</F></OL> <laughter>very</laughter> interesting and very strange movie. <F>Umm</F> it's very <laughter>difficult to explain</laughter>.</B>
+<A><OL><F>Uh-hum</F></OL>.</A>
+<B><OL><F>Err</F></OL> I like that director, <F>err</F> David Fischer. He took movies seven or <F>umm</F> <?>getting</?> <F>err</F> so <SC>he is very</SC> he took very beautiful <F>umm</F> picture. Picture is very beautiful and very strange and, <.></.> yes, I think very interesting. So, <R>I</R> I like him, so I saw that movie by renting video tape.</B>
+<A><F>Oh</F> I see. You saw that movie because you like <R>the</R> the director?</A>
+<B>Yes.</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL><F>Um</F></OL> <R>I</R> <SC>I like</SC> <SC>I</SC> when I choose movie</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>mm</F> director is very important factor. <F>Um</F> I like <F>er</F> maybe <F>umm</F> <R>just</R> <F>err</F> <.></.> just like David Fischer. He is very strange and very beautiful picture. <R>I</R> I like him. <F>Err</F> another <SC>pi</SC> director is <F>err</F> Ridley Scott. I like Ridley. He took "Alien". Do you know "Alien"?</B>
+<A>American movie?</A>
+<B>Yes. <F>Mmm</F> but he is <R>En</R> English man. <.></.> <F>Err</F>. <CO>Another director is <.></.></CO>.</B>
+<A>How about Japanese directors?</A>
+<B><F>Err</F> <R>I</R> I seldom see Japanese movie recently.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Umm</F> <SC>I</SC> in newspaper, <F>err</F> there is some good director in Japan, but I have no chance to see their movies. So, <R>I</R> I want to see their movie, but I have little information about them. <SC>So</SC> <F>err</F> and I have a <laughter>son</laughter> and it's difficult to make time to see movie. So, maybe, one month in one <SC>pict</SC> one movie. So, it's very difficult to <laughter>make time</laughter>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K. I can understand. Thank you very much. Now, O K. So, how about this. This time, please make up a story based on these six pictures.</A>
+<B><F>Hmm</F>.</B>
+<A>But this happened last week, so please start your story with "One day last week".</A>
+<B>O K. One day last week, <R>a</R> a woman go to department store and <R>sh</R> she bought <F>er</F> a necktie to her husband, birthday present. <R>And</R> and she paid money and <SC>she took pic</SC> she took <F>err</F> necktie <F>err</F> by wrapping <R>beau</R> beautifully. <R>And</R> and when <SC>he</SC> she passed by another place <F>um</F> <R>where</R> where <F>umm</F> shoes were sold and it was very cheap for <SC>he</SC> her and <R>may</R> maybe <SC>she think "It's chance." he</SC> she thought it's a chance to buy good shoes for her <SC>so</SC> <R>and</R> <F>um</F> and maybe <SC>she only</SC> <F>um</F> she bought a shoes for her and <SC>she</SC> maybe she bought clothes for herself and so she bought a lot of thing and go back to <R>her</R> her home.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. O K. <F>Umm</F> <.></.> O K, <H pn="B's name">XXX02</H>-<JP>san</JP>, when was the last time</A>
+<B><F>Um</F>.</B>
+<A>you gave a present to your wife?</A>
+<B><F>Umm</F> I give her?</B>
+<A>Yes.</A>
+<B><F>Urm</F> when I come back to Japan, <F>err</F> I present <F>err</F> <R>bag</R> bags and pendant and one more thing. Maybe, one accessories <F>um</F> <SC>whe</SC> which bought in U S A.</B>
+<A><F>Ohh</F> you went to the U S?</A>
+<B><F>Hmm</F>.</B>
+<A>I see.</A>
+<B>And <F>err</F> when <R>I</R> <R>I was</R> I was in U S A, <F>err</F> she made me to buy <F>err</F> bags and pendant <R>and</R> and just say <F>er</F> code of product. <SC>Whe</SC> he ordered me to go to shops, <F>err</F> Coach, the shop and bought <F>err</F> code of product. And yes, so <R>I</R> I went to shop and <R>I</R> I <.></.> <R>give</R> <F>er</F> give clerks to memo <laughter><SC>wri</SC> which write down</laughter> the code of products. I want this one.</B>
+<A><nvs>laughter</nvs>.</A>
+<B>And she give me.</B>
+<A>I see. <F>Aha</F>. And was she happy?</A>
+<B><OL>Yeah very happy</OL>.</B>
+<A><OL>When you</OL> gave the present?</A>
+<B><F>Urm</F> But <R>she</R> she said I want more. <nvs>laughter</nvs></B>
+<A>She said she wanted more. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>I see. And then, what did you think about it? What did you feel?</A>
+<B><nvs>laughter</nvs> Yeah <R>I</R> I was happy because <R>she was</R> she was very delight. But <F>ah</F> <F>umm</F> <F>mmm</F> yeah, <R>I know</R> I know she wants more so <.></.> <F>mm</F> <F>mm</F> yeah, I have to calm down her.</B>
+<A>O K.</A>
+<B>Yeah. <SC>It's enough for you</SC> this is enough for you.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. O K. All right. Thank you very much. Interview is almost ending. Thank you for coming today.</A>
+<B>Thank you.</B>
+<A>Are you going back to <H pn="others1">XXX03</H> after this interview?</A>
+<B>Yeah <F>mm</F> no. <F>Err</F> I work next this office and <R>I</R> <R>I</R> I have to make report of visiting U S A. What <R>I</R> I had to or what I thought <R>I</R> I have to write down. And this evening, <F>err</F> <SC>we have to</SC> I have party <SC>so</SC> at <H pn="others2">XXX04</H>. <CO>So</CO>.</B>
+<A><F>Ah</F> you are busy.</A>
+<B>Yes. <laughter>I'm very busy every day</laughter>.</B>
+<A>I see. <F>Well</F> I hope you will have a good time.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+</stage5>
+</body>
+</interview>

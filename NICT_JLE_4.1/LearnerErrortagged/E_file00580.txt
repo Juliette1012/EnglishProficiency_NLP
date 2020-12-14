@@ -1,0 +1,398 @@
+<interview>
+<filename>E_file00580.txt</filename>
+
+<head version="1.3">
+<date>2001-05-10</date>
+<sex>male</sex>
+<age>26</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Thank you for coming. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you today?</A>
+<B>I'm Fine. I'm <OL>doing O K</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>. <OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>How about</OL> <pn_lxc odr="1" crr="you">yourself</pn_lxc>?</B>
+<A>Yes, I'm fine.</A>
+<B>O K. <OL>Good</OL>.</B>
+<A><OL>Are you</OL> busy these days?</A>
+<B><F>Hm</F>?</B>
+<A>Are you busy <OL>these days</OL>?</A>
+<B><OL><F>Oh</F> yes</OL>. Actually, I was visiting Hong Kong.</B>
+<A><F>Wow</F>.</A>
+<B>And then yesterday, I <v_lxc odr="2" crr="came"><v_tns odr="1" crr="went">'m going</v_tns></v_lxc> back to Japan.</B>
+<A><laughter><F>Oh</F> really</laughter>?</A>
+<B><F>Hm</F>.</B>
+<A>What did you do in Hong Kong?</A>
+<B>In Honk Kong? <SC>I was</SC> I visited some customers.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>And <F>er</F> also</R> the main purpose was <SC>that</SC> to bring the demo sample to show <SC>the</SC> <prp_lxc1 odr="1" crr="to">in front of</prp_lxc1> the <n_num odr="2" crr="customers">customer</n_num>.</B>
+<A>I see. <F>Hmm</F> what's your impression of Hong Kong</A>
+<B>Hong Kong,</B>
+<A><OL>in general</OL>?</A>
+<B><OL>It was so</OL> hot</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><aj_lxc odr="1" crr="those">these</aj_lxc> days</OL>. Then, <pn_lxc odr="1" crr="it">there</pn_lxc> 's <av_lxc odr="2" crr="very">a lot of</av_lxc> <aj_lxc odr="3" crr="humid">humidity</aj_lxc></B>
+<A><F>Uh-huh</F>.</A>
+<B><v_vo odr="4" crr="compared">comparing</v_vo> with Japan</B>
+<A><F>Ah</F> really?</A>
+<B><F>hm</F> <OL><?>now</?></OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><F>Well</F> but <F>er</F> there <v_agr odr="1" crr="were">was</v_agr> a lot of people <OL><mo_lxc odr="2" crr="">were</mo_lxc></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>walking</B>
+<A><F>Mh-huh</F>.</A>
+<B>and <SC>a car</SC> a lot of cars</B>
+<A><F>Hum</F>.</A>
+<B>and also a lot of buildings.</B>
+<A><F>Wow</F>.</A>
+<B><R>Not so</R> not so beautiful.</B>
+<A><nvs>laughter</nvs></A>
+<B>But <F>er</F> I <v_tns odr="1" crr="felt">feel</v_tns> some kind of energy.</B>
+<A>I see.</A>
+<B><F>Hmm</F>.</B>
+<A>I see. So, tell me a little bit about your job.</A>
+<B>Job?</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F>. <F>Oh</F> basically, I am selling some kind of devices</B>
+<A><F>Hum</F>.</A>
+<B>to <at odr="1" crr="">the</at> Hong Kong,</B>
+<A><F>Hm</F>.</A>
+<B><con_lxc odr="2" crr="">and</con_lxc> Singapore,</B>
+<A><F>Hmm</F>.</A>
+<B>and also <at odr="3" crr="the"></at> United States.</B>
+<A>I see.</A>
+<B>And then, those products</B>
+<A><F>Hum</F>.</A>
+<B><v_agr odr="1" crr="are">is</v_agr> <R>made</R> <laughter>made in Japan</laughter>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> So, <F>uhm</F> <SC>kind of</SC> <F>er</F> we are introducing Japanese technology to the Asian people, <OL>or</OL></B>
+<A><OL>I see <F>uhm</F></OL>.</A>
+<B>sometimes, <prp_lxc1 odr="1" crr="to"></prp_lxc1> <n_cs odr="4" crr="the market of the United States"><at odr="2" crr="the"></at> United States <at odr="3" crr="the"></at> <OL>market</n_cs></OL>.</B>
+<A><OL>I see</OL>. I see. What do you like the most about your job?</A>
+<B><F>Uh</F> <F>well</F></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>sometimes <R>I</R> I can</OL> go to the business <laughter>trip</laughter>.</B>
+<A><F>Hmm</F> <F>oh</F> <F>oh</F> yeah.</A>
+<B><SC>That is the best</SC> <F>mm</F> <OL>that's the</OL></B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B>best <?>fun</?>.</B>
+<A><F>Hm</F>.</A>
+<B>Or <SC>I ha</SC> I can have <F>er</F> those kind of <n_num odr="1" crr="opportunities">opportunity</n_num>,</B>
+<A><F>Hm</F>.</A>
+<B>so <R>that's</R> that's very good for me.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Hm</F></OL> I can see many <n_num odr="1" crr="things">thing</n_num>.</B>
+<A><F>Um</F>.</A>
+<B>I can meet a lot <laughter>of</laughter> very good <n_num odr="1" crr="staffs">staff</n_num>.</B>
+<A>I <OL>see</OL>.</A>
+<B><CO><OL>So</OL></CO>.</B>
+<A>I heard you studied in the States. Right?</A>
+<B><F>Ah</F>.</B>
+<A><F>Uhm</F> did you go to the university?</A>
+<B>No, <F>erm</F> I was in <SC>college</SC> <SC>city</SC> <at odr="1" crr="a"></at> community college</B>
+<A>Right.</A>
+<B><SC>in</SC> <R>near</R> <.></.> near our <R>subs</R> subsidiary.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>We have a branch office in <H pn="others1">XXX03</H>.</B>
+<A><F>Hmm</F>.</A>
+<B>And then, <F>mm</F> the college was <prp_lxc1 odr="1" crr="near">nearby</prp_lxc1> <SC?>the</SC?> our office.</B>
+<A><F>Hmm</F>. <F>Mh-hmm</F>.</A>
+<B>And then, <SC>I was ma</SC> I was taking <OL><F>erm</F></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>business classes <OL>like <F>er</F></OL></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B>marketing or advertising, <OL>things like that</OL>.</B>
+<A><OL>I see</OL>. Did you ever experience any <o_je odr="1" crr="cultural shock">culture shock</o_je>, or</A>
+<B><F>Erm</F></B>
+<A>cultural differences? <CO>Or</CO>?</A>
+<B><F>mmm</F> <SC>fir</SC> <F>er</F> <.></.> <o_odr odr="3" crr="when I visited the United States for the first time"><con_lxc odr="1" crr="when"></con_lxc> <o_lxc odr="2" crr="for the first time">the first</o_lxc> I visited <at odr="4" crr="the"></at> United States</o_odr>,</B>
+<A><F>Hmm</F>.</A>
+<B><?>I</?> mean, two years ago,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I was so impressed because</B>
+<A><F>Um</F>.</A>
+<B>I <v_tns odr="1" crr="felt">feel</v_tns> like <R>everything was different</R></B>
+<A><F>Hum</F>.</A>
+<B>everything was different <OL>from</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>Japan.</B>
+<A><F>Hm</F>.</A>
+<B>But after two years, I feel <n_lxc odr="1" crr="they"></n_lxc> <v_lxc odr="2" crr="are"></v_lxc> almost same as <n_lxc odr="3" crr="Japanese">Japan</n_lxc>.</B>
+<A><laughter>I see</laughter>.</A>
+<B>Everything is all the same.</B>
+<A><OL><?>Good</?></OL>.</A>
+<B><OL>I mean</OL>, people are <laughter>people</laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><OL>Right</OL>.</A>
+<B>So, <F>hm</F> <SC>no</SC> I <v_ng odr="1" crr="don't think">think <SC>no big</SC> <R>no</R> no</v_ng> <av_lxc odr="2" crr="there"></av_lxc> <v_lxc odr="3" crr="is"></v_lxc> <at odr="4" crr="a"></at> big difference</B>
+<A>I see.</A>
+<B>between <at odr="5" crr="the"></at> United States and Japan.</B>
+</stage1>
+<stage2>
+<task>
+<A>Yeah. Maybe you adjusted to the <SC>United <OL>States</OL></SC></A>
+<B><OL><F>Ah</F></OL>.</B>
+<A>American culture. <F>Hmm</F> O K. Thank you very much. Now, I have a picture to show you.</A>
+<B><OL><?>Right</?></OL>.</B>
+<A><OL>Please</OL> describe this picture to me in English.</A>
+<B>How to describe it?</B>
+<A><F>Aw</F>. <F>Er</F> just tell me about what you see in this picture.</A>
+<B><F>Hmm</F>. This picture shows somebody's <o_lxc odr="1" crr="study room">studying room</o_lxc>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Uhm</F>.</A>
+<B>And <F>erm</F> <SC>also</SC> <F>oh</F> actually, <SC>she had</SC> <SC>she has</SC> <SC>she</SC> I don't know, but she likes <n_num odr="1" crr="dogs">dog</n_num> and <n_num odr="2" crr="cats">cat</n_num>.</B>
+<A><F>Hum</F>.</A>
+<B>So, that's <at odr="1" crr="">the</at> why she has <OL><laughter><at odr="2" crr="a">that</at></laughter> dog</OL></B>
+<A><OL><F>Hum</F> <F>hum</F></OL>.</A>
+<B>and also <at odr="3" crr="a"></at> cat in her room. And <F>erm</F> <F>hmm</F> <SC>she</SC> maybe <SC>she</SC> she's not a student.</B>
+<A><F>Hm</F>.</A>
+<B>She's <at odr="1" crr="an">a</at> editor. <OL><laughter>So, that's</laughter> <at odr="1" crr="">the</at> why</OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>she has a typewriter <OL>and also</OL></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><at odr="2" crr="a"></at> personal computer.</B>
+<A><F>Hm</F>.</A>
+<B>Then <SC>she</SC> her favorite <R>so</R> <n_lxc odr="1" crr="music">song</n_lxc> is <F>er</F> classical music.</B>
+<A><F>Wow</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Because</laughter> she has</OL> <at odr="1" crr="an"></at> <F>uhm</F> <rel_lxc odr="3" crr="audio set which looks expensive">looks <prp_lxc1 odr="2" crr="">like</prp_lxc1> expensive audio set</rel_lxc>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Hm</F>.</B>
+</task>
+<followup>
+<A><F>Hm</F>. <.></.> O K.</A>
+<B><OL><nvs>sigh</nvs></OL></B>
+<A><OL>So</OL>, what kind of music do you like?</A>
+<B><F>Er</F> <pn_lxc odr="1" crr="me">my</pn_lxc>?</B>
+<A>Yeah. Tell me about yourself. What kind of music do you like?</A>
+<B><F>Er</F>. <F>Well</F> I like Japanese pops.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But since I was in <at odr="1" crr="the"></at> United States,</B>
+<A><?>Right</?>.</A>
+<B><con_lxc odr="2" crr="">so</con_lxc> I don't know the</B>
+<A><nvs>laughter</nvs></A>
+<B>current</B>
+<A><OL>Right</OL>.</A>
+<B><OL>Japanese</OL> pops.</B>
+<A><F>Uhm</F>. How do you like classical music?</A>
+<B>Classical music? When I was <at odr="1" crr="a"></at> child,</B>
+<A><nvs>laughter</nvs> <F>Um</F>.</A>
+<B>my parents <.></.> <v_cmp odr="2" crr="made me listen"><v_tns odr="1" crr="made">make</v_tns> me to listen</v_cmp> <prp_lxc2 odr="3" crr="to"></prp_lxc2></B>
+<A><F>Uh-huh</F>.</A>
+<B><at odr="4" crr="">the</at> classical music.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><SC>But</SC></OL> <F>hmm</F> <F>well</F> so, <SC>it</SC> <SC>when I hear</SC> <SC>when I hearing</SC> when I'm hearing <at odr="1" crr="">the</at> classical music, I can <R>be</R> be <aj_lxc odr="2" crr="relaxed">relax</aj_lxc>,</B>
+<A><F>Uh-huh</F>.</A>
+<B>maybe. But I don't like it.</B>
+<A><laughter>O K</laughter>. Now, many children in Japan</A>
+<B><F>Um</F>.</B>
+<A>have their own mobile <n_num odr="1" crr="phones">phone</n_num> and <OL><n_num odr="2" crr="televisions">television</n_num></OL></A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A>in their rooms. <CO><OL>What</OL></CO>.</A>
+<B><OL><F>Hm</F></OL>? Television also?</B>
+<A>Yeah.</A>
+<B><F>Oh</F> really?</B>
+<A>What do you think about that?</A>
+<B><F>Ah</F> <F>well</F> I think <.></.> the children should not have <at odr="1" crr="a"></at> mobile phone.</B>
+<A><F>Hm</F> <F>hm</F>.</A>
+<B><F>Uhm</F> 'cause I think the <.></.> monthly payment</B>
+<A><F>Uh-huh</F>.</A>
+<B>is <v_lxc odr="1" crr="made">paid</v_lxc> by their parents.</B>
+<A>Maybe. <OL>Yeah</OL>.</A>
+<B><OL>So</OL>, if <at odr="1" crr="">the</at> children <OL>have</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>their earnings,</B>
+<A><F>Uh-huh</F>.</A>
+<B>they can have a mobile phone by <pn_inf odr="2" crr="themselves">themself</pn_inf>. But <F>er</F> if they don't have any <R>earnings</R> earnings, <F>hm</F></B>
+<A><F>Hm</F>.</A>
+<B>I think, they should not, or the parents should not buy <at odr="1" crr="a"></at> mobile phone <SC>to</SC> for <pn_lxc odr="2" crr="their">the</pn_lxc> children, <OL>or</OL></B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>children should not have <at odr="3" crr="a">the</at> mobile phone.</B>
+<A><F>Hm</F> <F>hm</F>.</A>
+<B><?>But</?> <F>er</F> I've never <OL>heard of</OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><at odr="1" crr="a">the</at> T V set <OL>in their</OL></B>
+<A><OL><F>Hm</F> <F>hm</F></OL></A>
+<B>room, so I don't have any idea.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Thank you. O K. Thank you very much. Next, I want to do a role-play with you.</A>
+<B><OL><laughter>Role-play</laughter></OL>?</B>
+<A><OL>This is your</OL> role card. First, please read the card carefully.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>Are you ready?</A>
+<B><F>Ur</F> <F>uhm</F> O K.</B>
+<A>O K. How may I help you, sir?</A>
+<B><F>Well</F> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>erm</F> <SC>I bou</SC> I got a ticket for that train. But <.></.> <con_lxc odr="1" crr="because">due to</con_lxc> the traffic</B>
+<A><F>Uh-huh</F>.</A>
+<B>was really <aj_lxc odr="2" crr="heavy">bad</aj_lxc>, <OL><con_lxc odr="3" crr="">so</con_lxc></OL></B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>I couldn't get on that <n_lxc odr="4" crr="ticket">train</n_lxc>. So, if it's possible, could you exchange the train to the next one?</B>
+<A><F>Oh</F> I'm very sorry, sir. But it's against our policy.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Urm</F> against the policy <JP>ne</JP>. <.></.></B>
+<A><nvs>laughter</nvs></A>
+<B><F>Urm</F> O K.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><??></??> I'll buy</OL> another one.</B>
+<A><laughter><F>Oh</F> <?>all right</?></laughter>. But first, <F>uh</F> please explain more about why you missed the train.</A>
+<B><F>Erm</F>. <..></..></B>
+<A>Why did you miss your train?</A>
+<B>Why? 'Cause <SC>I wa</SC> last night, I went to the bar</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>and I drank</OL> too much. So, I couldn't wake up <SC>at the</SC> <R>in</R> in the morning.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So it's my fault. <CO><laughter>So</laughter></CO>.</B>
+<A><nvs>laughter</nvs> <laughter>So it's not our fault</laughter>. <nvs>laughter</nvs></A>
+<B><F>Er</F> <.></.> <F>well</F> <.></.> O K, I reached the station</B>
+<A><F>Um</F>.</A>
+<B><SC>before the</SC> <.></.> no, five minutes before.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>At this time, the <o_uk odr="1" crr="person at the window">window person</o_uk> sold me the <SC?>ticket from nine</SC?> nine-o'clock train <laughter>ticket</laughter>.</B>
+<A><F>Uhm</F>.</A>
+<B>But it was eight fifty-five. So I <OL>asked him</OL>,</B>
+<A><OL><F>Ah</F></OL>. Right.</A>
+<B>"Is it possible to catch that train?".</B>
+<A><F>Hm</F>.</A>
+<B>And then he said, "Yes, you can.". So that's <at odr="1" crr="">the</at> why I got <at odr="2" crr="the"></at> nine-o'clock <n_lxc odr="3" crr="train"></n_lxc> ticket.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>But</OL>,</B>
+<A><F>Uhm</F>.</A>
+<B><F>mm</F> when I went to the entrance, there <v_agr odr="1" crr="were">was</v_agr> a lot of people, and then <at odr="2" crr="the"></at> line was so <laughter><aj_lxc odr="3" crr="long">crazy</aj_lxc></laughter>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Then, <R>I</R> I tried to get the train, but <R>the</R> <..></..> <F>hm</F> the <R>station</R> <.></.> station <R>was</R> so <aj_lxc odr="1" crr="crowded">crowd</aj_lxc>. So <laughter><OL>that's <at odr="1" crr="">the</at> why I missed the train</OL></laughter>.</B>
+<A><OL><laughter><F>Ah</F> yeah</laughter></OL>. O K. So, I'll give another <OL>ticket <prp_lxc2 odr="1" crr="to">for</prp_lxc2> you</OL>.</A>
+<B><OL><F>Oh</F> really</OL>? Thank you very much.</B>
+<A>Here's your <OL>ticket</OL>.</A>
+<B><OL>I <v_tns odr="1" crr="appreciate">appreciated</v_tns> it</OL>.</B>
+<A>O K. Thank you. O K. <OL>This is</OL></A>
+<B><OL><??></??></OL>.</B>
+<A>the end of the role-play. Yeah.</A>
+</task>
+<followup>
+<B>This is really tough.</B>
+<A>Tough.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>I know</laughter></OL>. O K. What do you think about the service <prp_lxc1 odr="1" crr="of">in</prp_lxc1> <SC>the Ja</SC> the station</A>
+<B>Yes.</B>
+<A>in Japan?</A>
+<B><CO><OL>You mean</OL></CO>?</B>
+<A><OL>What</OL> do you think about the service of the station <n_num odr="1" crr="clerks">clerk</n_num> in Japan?</A>
+<B><F>Well</F> station clerk. <F>Hmm</F>. <F>Well</F> I think, <.></.> you know, there <v_agr odr="1" crr="are">'s</v_agr> a lot of <R>audiotape</R></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><aj_lxc odr="2" crr="audio">audiotape</aj_lxc></OL> <n_lxc odr="3" crr="guidance">guide</n_lxc></B>
+<A>All right.</A>
+<B>in the station.</B>
+<A>Yeah.</A>
+<B>I think because of that audio <n_lxc odr="1" crr="guidance">guide</n_lxc>, the station <n_num odr="2" crr="clerks">clerk</n_num> <v_agr odr="3" crr="are" ch="2">is</v_agr> not so kind.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Well</F> but you know</OL>,</B>
+<A><F>Uhm</F> <F>hm</F>.</A>
+<B>if there's some kind of <o_uk odr="1" crr="people in wheelchairs">wheelchair <OL>people</o_uk></OL>,</B>
+<A><OL><F>Hm</F> <F>hm</F></OL>. <F>Mh-hmm</F>.</A>
+<B><SC>they'll</SC> they always help them <OL>to get on the train or get off the train</OL>.</B>
+<A><OL>Yeah, yeah, I see</OL>. <F>Uh-huh</F>.</A>
+<B><F>Hm</F> I think, <pn_lxc odr="1" crr="it"></pn_lxc> <v_lxc odr="2" crr="is"></v_lxc> pretty good</B>
+<A><F>Hm</F>.</A>
+<B>in <n_lxc odr="3" crr="Japan">Japanese</n_lxc>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you very much. So, this gonna be the <R>last</R> last <n_lxc odr="1" crr="task">assignment</n_lxc>.</A>
+<B><nvs>sigh</nvs></B>
+<A>O K? This time, please make a story</A>
+<B><OL>Make a story</OL>?</B>
+<A><OL>by using</OL> these six pictures.</A>
+<B>O K.</B>
+<A><CO>And please use this <OL>phrase</OL></A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>at the beginning of your story, "<OL>One day</OL>"</CO>.</A>
+<B><OL>Is it me</OL>?</B>
+<A><F>Er</F> yourself or a man or</A>
+<B><F>Um</F>.</B>
+<A>whatever, as you like. Please use this phrase at the beginning, "One day last week," and picture one, two, three, four, five, six.</A>
+<B>One day last week,</B>
+<A><F>Um</F>.</A>
+<B><R>John</R></B>
+<A><F>Um</F>.</A>
+<B><SC>John</SC> <..></..> <F>hm</F> <at odr="1" crr="a">Mister</at> <laughter>Businessman</laughter></B>
+<A><nvs>laughter</nvs></A>
+<B><F>mm</F> was driving</B>
+<A><F>Um</F>.</A>
+<B><o_lxc odr="2" crr="along the street">in the street</o_lxc></B>
+<A><F>Mh-hmm</F>.</A>
+<B><..></..> <R>to go to the</R> <..></..> to go to the airport,</B>
+<A><F>Um</F>.</A>
+<B><v_fin odr="3" crr="to pick">pick</v_fin> up his wife.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><nvs>sigh</nvs> <laughter>Then</laughter>, there was no <n_num odr="1" crr="car">cars</n_num> in the road,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>because it was very early in the morning.</B>
+<A><F>Um</F>.</A>
+<B><SC>But</SC> <F>huh</F> <..></..> and at that time, <R>I was</R> <.></.> I was driving a <SC>bicy</SC> <SC>no, au</SC> <..></..> no, it's not a bicycle, <SC>auto</SC></B>
+<A><F>Um</F>.</A>
+<B>motorcycle.</B>
+<A>Right. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> And then, <con_lxc odr="1" crr="while">when</con_lxc> I was driving, I got a phone call from my mother. And then <SC>I was talking</SC> <pn_agr odr="1" crr="we">I</pn_agr> <v_agr odr="2" crr="were" ch="1">was</v_agr> discussing, the <..></..> <F>erm</F> dinner.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. And suddenly, <.></.> <nvs>sigh</nvs> <F>hmm</F> from the right-hand side, Mister B was <laughter>coming</laughter>.</B>
+<A><F>Um</F>.</A>
+<B>And then hit my <SC>auto-motorcy</SC> <SC>automobile</SC> no, motorcycle.</B>
+<A><F>Um</F>.</A>
+<B>Then I dropped the cell phone.</B>
+<A><F>Um</F>.</A>
+<B>I was so mad. And then I asked him, "Please, or you should repair my <SC>bike</SC> <SC>automo</SC> <SC>mobile</SC> motorcycle.". <SC>But</SC> then Businessman called the <SC>policeman</SC> police officer. Then he claimed <prp_lxc1 odr="1" crr="to"></prp_lxc1> <at odr="2" crr="the"></at> police officer. "<SC>I was</SC> <F>uh</F> <SC>he said</SC> <SC>as he said</SC> <.></.> <??></??> <..></..> he was talking with somebody while he <v_agr odr="1" crr="was">were</v_agr> <v_lxc odr="2" crr="driving">running</v_lxc>, so it's not my fault.", he said. Then <at odr="1" crr="the"></at> police officer decided <SC?>you were you</SC?> <.></.> the <SC>businessman is</SC></B>
+<A><F>Hum</F>.</A>
+<B><..></..> businessman <v_tns odr="2" crr="did not have">does not have</v_tns> any fault. And then, <.></.> he went to the airport. And the officer <v_tns odr="1" crr="was">is gone</v_tns>. And then my <SC>automobile</SC> <R>mo</R> motorcycle <.></.> was towed away.</B>
+</task>
+<followup>
+<A><F>Hm</F> O K. <laughter>Thank you, thank you very much</laughter>. <laughter>The interview is almost over</laughter>. It was tough. Thank you very much. <nvs>laughter</nvs></A>
+</followup>
+</stage4>
+<stage5>
+<A><OL>So</OL>,</A>
+<B><OL><JP>Hai</JP></OL>. <F>Er</F> yes.</B>
+<A>what are you going to do after this interview?</A>
+<B><F>Huh</F> I have to make a phone call to Hong Kong.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL>And also</OL> <SC>I've to make a</SC> I have to write <at odr="1" crr="an">a</at> E-mail.</B>
+<A><F>Hm</F> so, do you frequently use English for your job?</A>
+<B><F>Uhm</F>.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL><F>Uhm</F></OL> but <F>erm</F> actually, <.></.> <SC>my</SC> I will talk with the Japanese</B>
+<A><F>Ah</F> <OL>I see</OL>.</A>
+<B><OL>in</OL> Hong Kong.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL>My</OL> co-worker.</B>
+<A>I see. <OL><F>Hm</F></OL>.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A>Anyway, <laughter>thank you for your effort</laughter>.</A>
+<B><OL><nvs>sigh</nvs></OL></B>
+<A><OL>And</OL> this is all, for today.</A>
+<B><F>Ah</F> thank you very much.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,235 @@
+<interview>
+<filename>file01006.txt</filename>
+
+<head version="1.3">
+<date>2002-03-25</date>
+<sex>female</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>710</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>May I have your name please?</A>
+<B><F>Ah</F> yes. My name is <H pn="B's name">XXX02</H>. Nice to meet <OL>you</OL>.</B>
+<A><OL>Nice to</OL> meet you.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL><F>Er</F></OL> may I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX02</H>.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL>Are</OL> you busy these days?</A>
+<B><F>Ah</F> yes, <R>I</R> I'm busy <F>mm</F> these day. <F>Erm</F> because <R>I</R> <R>I</R> I go to business school <F>erm</F> <F>erm</F> from <SC>Ja</SC> this January to March. <F>Mmm</F>. <F>Erm</F> <R>I have to</R> I have to go to school <R>after</R> after my <SC>wor</SC> <F>ah</F> job.</B>
+<A><F>Oh</F> <OL>really</OL>?</A>
+<B><OL><F>Ah</F></OL> <R>and</R> and <SC>we have</SC> I have a lot of homework <F>em</F> so I need to do <F>em</F> weekend and also weekday.</B>
+<A><OL><F>Oh</F> really <nvs>laughter</nvs></OL>?</A>
+<B><OL><R>So</R> <nvs>laughter</nvs></OL> so <F>mm</F> I'm very busy <F>mm</F> these days.</B>
+<A>I see. You must be very tired.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>So</OL> what do you usually do to relax?</A>
+<B><F>Ah</F> to relax, <F>er</F> so <R>I like</R> I like <SC>take</SC> taking a bath. So <F>mm</F> <R>to</R> <R>to</R> to relax, <F>erm</F> I have a <R>long</R> long bath time.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> and I use <F>er</F> <F>mm</F> some bath salt or bath oil.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F> <R>to</R> to make more relax.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Uh-huh</F> and so I also like playing piano. <F>Mmm</F>. <F>Er</F> <SC>it was very</SC> <F>mmm</F> <R>I can</R> I can forget some <F>er</F> stressful matter. So <F>mm</F> playing piano is very good for me.</B>
+<A><F>Hmm</F> O K. <F>Er</F> so are you a good pianist?</A>
+<B><F>Ah</F>. <F>Er</F> <R>not</R> <R>not</R> not so good. <SC>I'm</SC> <F>er</F> <.></.> <R>I</R> <R>I can</R> <SC>I can play</SC> <R>I</R> I need to <SC>practice</SC> many practice <R>to</R> <R>to</R> <F>mm</F> to play piano very well. <SC>I need to</SC> <F>mm</F> I need a lot of time <R>to</R> <R>to play</R> <F>er</F> to play <F>mm</F> <R>very</R> very well.</B>
+<A><F>Hmm</F>. <F>Hmm</F>. How did you start practicing piano?</A>
+<B><F>Er</F> when <R>I was</R> I was <F>mm</F> child, <F>er</F> <R>my mother</R> <nvs>sniff</nvs> <F>mm</F> my mother <F>er</F> <R>brou</R> brought me to piano school. So <R>I</R> I started playing piano. And I <SC>continued to i</SC> I continued it <SC>to</SC> until <F>erm</F> junior high school. <F>Er</F> and I keep playing piano without any training.</B>
+<A><F>Hmm</F> I see. You like piano very much. <OL><nvs>laughter</nvs> O K</OL>.</A>
+<B><OL><F>Ah</F> yeah <nvs>laughter</nvs></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like to show you a picture.</A>
+<B><nvs>sniff</nvs></B>
+<A>Please describe this picture.</A>
+<B><F>Oh</F> <F>er</F> this is sunny day. <F>Erm</F> maybe <F>mm</F> this is afternoon, because <F>er</F> some boys and girls are playing. And also <F>mm</F> I think <R>this is</R> <F>er</F> <SC>this is</SC> it is holiday. Because <F>mm</F> young man is running. And <F>er</F> also <F>mm</F> <.></.> <R>thi</R> <SC>this i</SC> <F>mm</F> this area <R>is</R> is not <F>mm</F> city town because <F>mm</F> there are large area in <R>one</R> one house. <F>Mmm</F>. There are <R>many</R> <F>mm</F> <..></..> <F>mm</F> many place to playing volleyball or something.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F>. <.></.> <F>Mmm</F>. <R>Two</R> two women are speak something. <nvs>laughter</nvs> <F>Mmm</F> and maybe <R>this</R> <SC>this girl <R>is</R></SC> <SC>is</SC> <F>mm</F> <SC>this girl</SC> <F>ah</F> this girl's house is this. <F>Mmm</F> <.></.> <JP><F>mmmto</F></JP> <F>mm</F> <R>tha</R> that's all.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>How is this picture different from the neighborhood you live in now?</A>
+<B><F>Erm</F> <F>erm</F> I live in apartment. <F>Erm</F> my neighborhood is a family with small child. <F>Erm</F> maybe <F>erm</F> <R>the</R> their age is three and six. Two boys. <F>Mmm</F>. So <SC>the</SC> <SC>this</SC> <R>these</R> these boys and girls is <F>er</F> older than my <R>neighborhood</R> neighborhood.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hmm</F>. And also <SC>I</SC> because <SC>I su</SC> I live in apartment, so maybe <R>this</R> <F>mm</F> this neighborhood is <F>er</F> more rich <nvs>laughter</nvs> <R>than</R> <F>mm</F> than my neighborhood.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F> <..></..> <F>mmm</F>.</B>
+<A>O K. <OL>Thank you</OL></A>
+<B><OL>That's all</OL>.</B>
+<A>very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I'd like to try a role-play.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is choosing the card.</ctxt>
+<A>Please read this. And when you're ready, I'll start.</A>
+<B><F>Mmm</F>.</B>
+<ctxt>The interviewee is thinking.</ctxt>
+<B><F>Mmm</F>. <OL>So <??></??></OL>.</B>
+<A><OL>Ready</OL>? May I help you?</A>
+<B><F>Ah</F> yes. Excuse me. I want to go to New York <F>er</F> as soon as possible.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So, could you tell me <R>how to</R> how to get <F>er</F> New York by train?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>I want to</SC> at first, I want to get a ticket.</B>
+<A>Yes. I sell tickets.</A>
+<B><F>Oh</F>. <OL>You sell <F>er</F></OL>.</B>
+<A><OL>So you can buy tickets here</OL>.</A>
+<B><F>Oh</F> thank you. <nvs>laughter</nvs> So here you are. <F>Mm</F>. <SC>Do</SC> <F>mm</F> also could you tell me <F>er</F> <R>where</R> where should I go to get trains. <..></..> <F>Erm</F>.</B>
+<A>Track number?</A>
+<B>Track <F>ah</F> yes. Track number.</B>
+<A>O K. <F>Er</F> it depends on the trains. We have many trains to New York.</A>
+<B><F>Mh-hmm</F>. So <SC>I want to go</SC> <F>mm</F> <R>I</R> I don't have much time. <SC>I'm</SC> <R>I</R> I want to hurry up. So <F>erm</F> I need <F>er</F> fastest train.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F>.</B>
+<A>Fastest one is super-express train <OL>but</OL></A>
+<B><OL>Super</OL>.</B>
+<A>it's very expensive.</A>
+<B><F>Erm</F> <SC>how</SC> <SC>so</SC> <SC>the</SC> <SC>what</SC> how about second one?</B>
+<A><F>Mh-hmm</F>. <F>Er</F> express train is seventy-five dollars.</A>
+<B><R>Seventy-five</R> seventy-five. <.></.> <F>Mmm</F>. How about <F>mm</F> <R>normal</R> normal one? <R>Not</R> <R>not</R> <F>mm</F> <F>erm</F> not super-express?</B>
+<A>Not super-express?</A>
+<B><F>Mmm</F>.</B>
+<A><F>Er</F> express is seventy-five. Super express is one hundred.</A>
+<B><F>Ah</F> <OL>O K</OL>.</B>
+<A><OL>Dollars</OL>.</A>
+<B>So express one is O K. So can I use this ticket? <SC>Was</SC> <F>er</F> do I need more money <R>to</R> to ride on express?</B>
+<A><F>Er</F> your ticket is local. So you have to pay extra <F>er</F> <R>twen</R> twenty-five dollars.</A>
+<B><F>Erm</F> O K. <F>Ah</F> <OL>here you are</OL>.</B>
+<A><OL><F>Ah</F> O K <nvs>laughter</nvs></OL>. <OL>Here is your tickets</OL>.</A>
+<B><OL>Thank you very much</OL>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Express</OL> train ticket. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>This is the end of the role-play.</A>
+<B>Yes.</B>
+<A><F>Erm</F> have you ever been to New York?</A>
+<B><F>Er</F> not yet.</B>
+<A><F>Hmm</F>.</A>
+<B><OL><F>Mmm</F></OL>.</B>
+<A><OL>Have</OL> you ever been abroad?</A>
+<B><.></.> Abroad? <F>Ah</F> yes. I went to <F>er</F> San Francisco.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Mm</F>. About <SC>two</SC> <F>mmm</F> five years ago.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Er</F>. <R>For</R> for sightseeing.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Mmm</F></OL>.</B>
+<A>What was your impression of the city of <OL>San Francisco</OL>?</A>
+<B><OL><F>Ah</F></OL> <R>San Francisco is</R> <F>er</F> <F>er</F> <JP><F>ermto</F></JP> San Francisco is very fine. <JP><F>nnto</F></JP> I went to San Francisco on <F>er</F> August.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mh-hmm</F>. <F>Um</F> it was not too hot. <F>Mm</F>. It's very <F>er</F> comfortable <R>to</R> to stay.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mmm</F>. And also <R>I went to</R> <F>er</F> <JP><F>eeto</F></JP> I went to <F>mm</F> <.></.> <R>be</R> <SC>beachside</SC> <F>er</F> seaside.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> <R>that was</R> that was very <SC>large</SC> larger than Japanese one.</B>
+<A><OL><laughter><F>Mh-hmm</F></laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> I was very <laughter>surprise</laughter></B>
+<A><F>Mmm</F>.</A>
+<B><F>er</F> how big. <F>Mm</F>. And also, <R>I</R> <SC>I supri</SC> <R>I</R> I had <F>mm</F> <R>some</R> some big impression from San Francisco <F>er</F> maybe <F>erm</F> U S A, <JP>aato</JP> bathroom or toilets or bedroom, <F>er</F> everything is very large.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F> for me. So <F>er</F> <R>I</R> I was very relaxed in San Francisco.</B>
+<A><F>Mmm</F>.</A>
+<B>Very much.</B>
+<A>I see. You enjoy very much.</A>
+<B><F>Mh-hmm</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, I'd like to show you a picture. And this is the picture story. And this happened last week. So please make a story and start with "One day last week".</A>
+<B><F>Ah</F> <OL>O K</OL>.</B>
+<A><OL>O K</OL>? Please start from here like this. O K. Yeah.</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><F>Mmm</F> O K. So at first, <F>er</F>.</B>
+<A><nvs>laughter</nvs> <ctxt>The picture falls.</ctxt> O K.</A>
+<B><nvs>laughter</nvs> <F>Er</F> <F>mm</F> <SC>this</SC> <F>mm</F> these two boys and girls are couples. <F>Mm</F> so <.></.> <SC>this i</SC> <R>they</R> they are <F>mm</F> <SC>university school</SC> university students. <F>Mm</F>. <SC>They go</SC> <SC>they wen</SC> they go to same university. <F>Mm</F>. <SC>They are very</SC> <F>erm</F> <F>mm</F> <F>mm</F> <SC>this is a</SC> it was rainy day. <F>Erm</F> <F>erm</F> it was late afternoon. <R>They</R> <SC>they go back to</SC> <F>ah</F> they went back to their home. And then, one <R>bo</R> <SC>boy</SC> <F>ah</F> <R>the boy</R> <F>er</F> the boy found <R>some</R> some sound. <F>Mmm</F>. "<R>What i</R> what is it?". <F>Mm</F>. <SC>Ha</SC> and <F>mm</F> the girl <SC>says</SC> said "<SC>How do you</SC> <R>what</R> <R>what</R> what was it?". <F>Mmm</F>. So the boy said <F>erm</F> "I heard <F>mm</F> some sounds.". So <SC?>name</SC?> <F>mm</F> and then, they <R>look around</R> <F>er</F> look around <.></.> very much. So they found <F>er</F> one cat, very small cat. <F>Er</F> <F>oh</F> <F>ah</F> <SC>you are</SC> you looks very <R>cold</R> cold. So the girl says "<R>I want to</R> <F>er</F> I want to bring this cat to our house.". But boy said <F>mmm</F> "No we can't.". <F>Mm</F>. But <F>er</F> the girls <F>er</F> <SC>likes cat</SC> likes this cats very muched. So the boys agreed her suggestions. And then <SC>they</SC> <SC>the boys and girl</SC> boy and girl <F>er</F> <SC>tai</SC> took the cat to their house.</B>
+<A>O K.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+<B>You're welcome.</B>
+</task>
+<followup>
+<A>Did you ever have any pets?</A>
+<B><F>Erm</F> cat.</B>
+<A>Cat.</A>
+<B><F>Er</F> yes. <F>Er</F> <R>I was</R> I was a child, <R>I</R> <SC>I</SC> <F>ah</F> our family <SC>has</SC> had cat.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>One cat</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><F>Mmm</F></OL>.</B>
+<A><SC>You decided</SC> did you</A>
+<B><F>Ah</F></B>
+<A>decide to</A>
+<B><OL><F>Ah</F> no</OL>.</B>
+<A><OL><SC><??></??> cat</SC></OL> have a cat?</A>
+<B>No. My mother <R>decide to</R> decided to do so. <F>Er</F> because <SC>the cat</SC> our cat <R>was</R> <F>mm</F> was born from neighborhood's cat.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL><F>Mm</F></OL>. <SC>So</SC> and <R>that cat</R> <F>er</F> that cat <R>ma</R> made <R>five</R> <R>five</R> <SC>five cats</SC> <nvs>laughter</nvs> five <F>er</F> small cat. So <SC>our</SC> <F>mm</F> <.></.> many neighborhoods <F>mm</F> <JP><F>eeto</F></JP> <R>to</R> <R>to</R> took each cats. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. So <F>er</F> does your mother still have <SC>that cat</SC> <OL>the same cat</OL>?</A>
+<B><OL><F>Ah</F></OL>. <R>No</R> no. The cat <F>er</F> <R>that</R> that was <F>er</F> <F>er</F> <F>mm</F> <SC>fifty</SC> about fifty</B>
+<A><OL><F>Oh</F> fifteen</OL>.</A>
+<B><OL>years</OL> ago. So <F>mm</F> our cat <F>er</F> <F>mm</F> was <SC>hit</SC> <F>er</F> hitted by car. <SC>May</SC> maybe.</B>
+<A><F>Oh</F> really?</A>
+<B><F>Mmm</F>. <OL><CO>So</CO></OL>.</B>
+<A><OL>That's too bad</OL>.</A>
+<B><F>Mm</F>. She die.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL>And then</OL> <F>mm</F> <R>we</R> we <R>had a</R> had <SC>a dog</SC> another dog.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mmm</F>.</B>
+<A><laughter>I see</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K <F>well</F> this is almost the end of the interview.</A>
+<B><F>Ah</F> yes. Thank you very much.</B>
+<A><R>So after</R> so after work today</A>
+<B><F>Mh-hmm</F>.</B>
+<A>do you study again? Right?</A>
+<B><F>Ah</F> yeah.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL><F>Mmm</F></OL> <F>mmm</F>. Yes.</B>
+<A><F>Wow</F>. Busy day.</A>
+<B><F>Ah</F> yes. Because tomorrow is report day. <F>Mmm</F> <R>tomorrow i</R> <SC>tomorrow in</SC> tomorrow <SC>I had</SC> I have <F>er</F> school. <F>Mmm</F>. <SC>That wa</SC> it is <SC>last time</SC> last school.</B>
+<A><OL><F>Oh</F> really</OL>?</A>
+<B><OL><F>Ah</F> so</OL> <R>I need to</R> I need to finish the report today. <nvs>laughter</nvs></B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL>So maybe</OL> <F>mm</F> tonight is very <laughter>busy</laughter>.</B>
+<A><F>Ah</F> so this coming weekend, you <OL>can be relaxed</OL>.</A>
+<B><OL><F>Ah</F> yeah</OL>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <OL>O K</OL>.</A>
+<B><OL>I'm</OL> looking for <R>may</R> <SC>may</SC></B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL>this</OL> weekend very much.</B>
+<A><F>Mmm</F>. Please enjoy your weekend. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Thank you very much</OL>. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much. <CO>This is the end of the</CO>.</A>
+<B><F>Ah</F> yes.</B>
+</stage5>
+</body>
+</interview>

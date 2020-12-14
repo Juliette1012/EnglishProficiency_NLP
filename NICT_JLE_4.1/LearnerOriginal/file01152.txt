@@ -1,0 +1,238 @@
+<interview>
+<filename>file01152.txt</filename>
+
+<head version="1.3">
+<date>2002-07-08</date>
+<sex>female</sex>
+<age>55</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, <OL>please</OL>.</B>
+<A><OL><H pn="B's name">XXX02</H></OL> how are you today?</A>
+<B><F>Oh</F> <R>I'm</R> I'm fine, thank you. <nvs>laughter</nvs></B>
+<A>O K. <OL>Good</OL>.</A>
+<B><OL><F>Er</F></OL>.</B>
+<A><F>Er</F>. Where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>-<JP>ku</JP>.</B>
+<A><F>Hmm</F>.</A>
+<B>But the place is very close to <H pn="others2">XXX04</H>-<JP>shi</JP>.</B>
+<A><F>Hmm</F>. I've never been to <H pn="others2">XXX04</H>-<JP>shi</JP>, <OL>but</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>what kind of place is that?</A>
+<B><H pn="others2">XXX04</H>-<JP>shi</JP>?</B>
+<A><F>Um</F>.</A>
+<B><H pn="others2">XXX04</H>-<JP>shi</JP> is full of green,</B>
+<A><F>Hum</F>.</A>
+<B><R>and</R> and <F>er</F> <SC>near the <H pn="others3">XXX05</H></SC> around the <H pn="others3">XXX05</H> Station,</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>there</OL> are many fine shops and <OL>department stores</OL>.</B>
+<A><OL><F>Ah</F> fine</OL> shops, for example?</A>
+<B>For example, <F>mm</F> many <F>eeh</F> cake shop or <nvs>laughter</nvs> <F>er</F> <F>eeh</F> <.></.> clothes shop. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mm</F></OL>. Do you like to eat sweets?</A>
+<B>Yes. <laughter>I like</laughter> very much.</B>
+<A><F>Mm</F>.</A>
+<B>Yeah.</B>
+<A>There are many different kinds of sweets <OL>but</OL></A>
+<B><OL>Yes</OL>.</B>
+<A>what kind of sweets do you like best?</A>
+<B><F>Oh</F> I like both <F>er</F> western cakes and Japanese <SC>sweets</SC> cakes <OL>also</OL>.</B>
+<A><OL><F>Hmm</F></OL>. When do you enjoy eating sweets?</A>
+<B><F>Mm</F>. Usually, I eat it after dinner.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>Um</F></OL> but sometimes, in daytime, when I'm alone at home. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F></OL>. <OL>I see</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Hm</F>. So, please tell me about your typical day.</A>
+<B>Typical day?</B>
+<A><F>Um</F>.</A>
+<B><F>Mm</F> I'm housewife,</B>
+<A><F>Um</F>.</A>
+<B>so <F>er</F> usually, <SC>a</SC> in the evening, I do my <R>house</R> house <F>mm</F> keeping works.</B>
+<A><F>Um</F>.</A>
+<B>And I have a dog, so I take my dog for a walk,</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>mm</F></OL> <F>mm</F> three times a day.</B>
+<A><F>Uum</F>.</A>
+<B>And in the afternoon, I usually stay at home,</B>
+<A><F>Um</F>.</A>
+<B><F>mm</F> if I don't have any special <F>mm</F> schedule and I read newspapers or books <OL>or watch T V</OL>.</B>
+<A><OL>I see</OL>. <F>Hmm</F>. What kind of articles do you like to read?</A>
+<B><F>Hmm</F>. Every kind of article.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> Yeah.</B>
+<A>For example?</A>
+<B>For example, <F>mm</F> <F>er</F> politics and international affairs,</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>and</OL> social affairs.</B>
+<A><F>Hmm</F>. What do you think of <OL>Japanese</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>politics?</A>
+<B><laughter>Yeah</laughter>. <F>Mmmmm</F> <F>er</F> I think there's no hope <laughter>in</laughter> Japanese politics. <OL><F>Hmm</F></OL>.</B>
+<A><OL><F>Ah</F></OL>. Why no hope?</A>
+<B><F>Mm</F>. So many old type politicians <R>have</R> <F>er</F> have now the powers and <R>pre</R> prevent <F>er</F> reform.</B>
+<A><F>Ah</F> that's too bad.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Uh</F> first, please take a look at this and describe the picture.</A>
+<B>Describe. Yes. <F>Mmmmm</F>. It's a picture <F>um</F> of a <R>res</R> restaurant. And there are three tables and at each tables, <F>um</F> two or three peoples are having dinner. <F>Mm</F>. And at the center table, <F>mm</F> maybe, a couple of wife <F>mm</F> having a dinner and <F>er</F> <JP><F>eeto</F></JP> <.></.> <F>eeh</F> hotel <F>mm</F> waiter <F>mm</F> is offering a bottle of wine. <R>And</R> and behind the table, there is a <F>um</F> upright piano and a lady is playing a piano. <F>Um</F>.</B>
+</task>
+<followup>
+<A><F>Hm</F>. O K. Good, <H pn="B's name">XXX02</H>. <F>Er</F> <OL>when you</OL></A>
+<B><OL><nvs>sniff</nvs></OL></B>
+<A>eat out, how do you decide where to eat?</A>
+<B><F>Mmmmm</F>. <.></.> <R>I</R> I like Japanese food or Chinese food, so <F>mm</F> I usually went to a Chinese restaurant or Japanese restaurant.</B>
+<A><F>Hmm</F>.</A>
+<B><OL><F>Hmm</F></OL>.</B>
+<A><OL>O K</OL>. Please tell me about the last time you went to a Japanese restaurant. What was the occasion?</A>
+<B><F>Mm</F>. <R>Last time</R> last time, maybe I went to Ebisu, <F>uh</F> I forgot the name, near the Ebisu Station. <SC>It was a</SC> <F>um</F> the restaurant was in the very big building and tall building.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <F>mm</F> we could see the scenery.</B>
+<A><F>Hmm</F>. It was a special occasion?</A>
+<B>Yes. <F>Um</F>. <nvs>sniff</nvs></B>
+<A><F>Hm</F>. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then, next, <F>hmm</F></A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>please read this card and <OL>when you are ready let's do a role-play</OL>.</A>
+<B><OL><??></??></OL>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><nvs>sniff</nvs></B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Trun-trun. Hello. This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Hm</F>. This is <H pn="B's name">XXX02</H>.</B>
+<A>Hi <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><F>Mm</F></OL>. <F>Oh</F> <F>eeh</F> thank you for inviting me to a dinner party.</B>
+<A><F>Um</F>.</A>
+<B><F>Mm</F>. I have been really looking forward to join the party,</B>
+<A><F>Um</F>.</A>
+<B>but <F>mmmm</F> I'm very sorry, I have to <.></.> go to my parents' house because,</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><F>er</F></OL> <SC>yes</SC> <F>mm</F> last night, my mother called me that <F>mm</F> <OL><SC>she had</SC> <F>er</F></OL></B>
+<A><OL><nvs>cough</nvs></OL></A>
+<B><SC>some</SC> <R>she</R> <F>mm</F> she got a <F>mm</F> bad kind of cold. <OL><F>Er</F> <SC>and</SC></OL></B>
+<A><OL><F>Oh</F> too bad</OL>.</A>
+<B><F>um</F> so she <R>wan</R> wanted me to come.</B>
+<A><F>Uum</F>.</A>
+<B>So I'm very sorry, but <SC>I couldn't</SC> I can't join your pary.</B>
+<A>But I've already prepared everything <OL>for you</OL>.</A>
+<B><OL><F>Oh</F> sorry</OL>. Very sorry. <F>Mmmm</F> <R>I</R> <F>mm</F> I asked my daughter to <F>mm</F> go to your house <F>mm</F> instead of me but my daughter is very busy for preparing <F>um</F> <F>um</F> exam,</B>
+<A><OL><F>Err</F></OL>.</A>
+<B><OL>so</OL> <F>mm</F> she said she can't. <CO>So <F>mm</F> <OL><??></??></OL></CO>.</B>
+<A><OL>She</OL> can study at my house.</A>
+<B><laughter>Yeah</laughter>. Yeah, <F>mm</F> she's very shy and <nvs>laughter</nvs> <nvs>laughter</nvs> so, <F>mm</F> I hope that I will join the party the next time.</B>
+<A>O K. <F>Hmm</F>. Then take good care of your mother.</A>
+<B><F>Er</F> thank you.</B>
+<A>O K. O K.</A>
+<B><F>Um</F>.</B>
+</task>
+<followup>
+<A><F>Hm</F>. O K. Thank you <H pn="B's name">XXX02</H>. <F>Eeh</F> so have you ever cancelled any invitation or a party?</A>
+<B><F>Mm</F>. Yes. <OL>Sometimes</OL>.</B>
+<A><OL>Please tell</OL> me about it.</A>
+<B><F>Mm</F>. Recently, <R>my</R> <F>mm</F> my husband's friends invited us to trip to Taiwan.</B>
+<A><F>Hum</F>.</A>
+<B><F>Hmm</F>. <F>Um</F> but <F>um</F> it was <F>um</F> from the June fifth to June seven. <?>Yeah</?>, <F>m</F> so <SC>I ha</SC> if I join the trip, I had to come back to Japan late last night.</B>
+<A><F>Um</F>.</A>
+<B><OL><R>So</R></OL></B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><F>m</F> so <F>m</F> I decided not to join.</B>
+<A><F>Err</F> because of this?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F> I see</OL>. <OL><F>Oh</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>So what was your husband's reaction?</A>
+<B><F>Oh</F> <F>m</F> at first, he said <R>he would</R> he would go <F>m</F> alone.</B>
+<A><F>Um</F>.</A>
+<B>But <laughter>at last</laughter> <R>he did not</R> <F>mm</F> he did not go there.</B>
+<A><F>Um</F>.</A>
+<B><F>Mm</F>. Because <R>every</R> <F>mm</F> everyone comes with his wife. <nvs>laughter</nvs></B>
+<A><F>Oh</F>. <OL>I see</OL>.</A>
+<B><OL>But <R>if I</R></OL> if I went there,</B>
+<A><F>Um</F>.</A>
+<B><F>mm</F> it would be a good prepartion for this exam,</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>because</OL> <SC>they</SC> most of them <SC>speaks</SC> speak English very <laughter><F>well</F></laughter>.</B>
+<A><F>Oh</F> I see. <F>Hmm</F>.</A>
+<B><F>Um</F> most of them are Taiwanese <R>and</R> and American.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A><F>Oh</F> if <SC>may</SC> I can ask, what kind of group</A>
+<B><F>Oh</F>.</B>
+<A><OL>is that</OL>?</A>
+<B><OL><R>my husband</R></OL> <F>er</F> my husband <F>er</F> run the <F>eeh</F> <..></..> <JP>nante ittakana</JP> company and they are business partners. <OL>Trade company</OL>.</B>
+<A><OL><F>Err</F></OL>. I see.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. <F>Hmm</F>. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Then finally, let's</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>do this. Please make a story using these six pictures and please start with "One day last week," because it happened before. O K?</A>
+<B><F>Hmm</F>. <SC>One day last week</SC> <R>i</R> it is <R>I</R> I or he?</B>
+<A>Anybody's <OL>O K</OL>.</A>
+<B><OL><F>Oh</F> <F>oh</F></OL>. <F>Mm</F> <F>er</F> <R>one</R> one day last week, a man was driving a car. And then, <F>mm</F> <R>a</R> <F>um</F> <F>er</F> another man riding on a bike <F>mm</F> was approaching him from the opposite direction. And the man riding on a bike was <F>mm</F> talking on the <SC>phone</SC> cell phone to his <F>erm</F> girlfriend. <F>Mm</F> so <R>he did not <F>mmm</F> see the</R> <.></.> <F>um</F> he did not see the car. <SC>So suddnely <F>mm</F> <SC>the car</SC> <F>um</F> <F>um</F> his car and the bike was</SC> <F>mm</F> <F>er</F> <..></..> <F>mm</F> <F>er</F> suddenly, <R>th</R> <F>um</F> the bike <F>mm</F> hit the car and the <F>um</F> man on the bike, <F>um</F> <..></..> <F>er</F> <SC>he</SC> his cell phone dropped on the road. And the <F>mm</F> man on the bike <F>er</F> <SC>was very</SC> got very angry because his bike and his cell phone was broken. <F>Em</F> <.></.> <F>mm</F>. There, police man came and <F>mm</F> asked the situation <.></.> <R>and</R> and the man in the car said, "The <F>mm</F> <SC>cell phone did not</SC> cell phone was not broken. It could be used.". <SC>And the</SC> <F>mm</F> <..></..> and at last, <R>the</R> <F>er</F> the <F>mm</F> man on a bike was <F>mm</F> scolded by police man and he has to walk to home because his bike was broken and <F>em</F> <SC>his bike</SC> <F>mm</F> <R>he had to</R> <.></.> he had to ask <F>er</F> <F>eeh</F> engineer to repair the bike.</B>
+</task>
+<followup>
+<A><F>Hm</F>. O K. O K. Thank you. <H pn="B's name">XXX02</H>, do you have a mobile phone? <nvs>cough</nvs></A>
+<B>Yes. <OL><F>Uh</F></OL>.</B>
+<A><OL><F>Ah</F></OL>. <F>Hmm</F>. So what do you think of one? <OL>Is it good</OL>?</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL><nvs>cough</nvs></OL></A>
+<B><OL>Yes</OL>. <F>Er</F> so now in Japan, <SC>most of</SC> most people have mobile phone, so <SC>the</SC> it's necessary for us to have one, <..></..> whether we like it or not.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Um</F>.</B>
+<A>I see. What do you think of young people's manners <OL>in using</OL></A>
+<B><OL><F>Err</F></OL>.</B>
+<A>mobile phones?</A>
+<B>Yeah. <F>Ermm</F> many poeple say the young people's manners is so bad but <R>I</R> <F>mm</F> I think, not only <SC>ma</SC> <F>er</F> young people, <laughter>but also</laughter> the middle-aged or aged poeple's manner is not so good. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <laughter>For example</laughter>?</A>
+<B><F>Oh</F> <F>um</F> the <R>same</R> same manner. <F>Um</F> <R>the</R> <R>they</R> they are <F>um</F> speaking on the phone at the crossroad <F>mm</F> or in the car or in the train. <OL><F>Hmm</F></OL>.</B>
+<A><OL><F>Hmm</F></OL>. I see. <F>Hm</F>. O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. But what are you going to do this weekend?</A>
+<B><F>Mm</F> this <OL>weekend</OL>,</B>
+<A><OL><nvs>cough</nvs></OL></A>
+<B><F>hmm</F> <F>erm</F> <.></.> I will go to a flower shop to buy some flowers.</B>
+<A><F>Ah</F> that's nice.</A>
+<B><F>Um</F> <SC><JP>asagao</JP></SC> <F>eeh</F> morning glory <OL>flowers</OL>.</B>
+<A><OL><F>Mm</F></OL>. <F>Ah</F>. Do you like that flower?</A>
+<B><R>Y</R> yes. <F>Er</F>.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Er</F></OL>. If I plant <SC>i</SC> the flowers in the planters and put them <F>ah</F> <SC>in my veranda</SC> in my balcony, <SC>it will be a good,</B>
+<A>Yrah.</A>
+<B><F>um</F> sun</SC> <R>it</R> <SC>it will <F>er</F> preve</SC> <F>eh</F> <F>mm</F> <.></.> in summer,</B>
+<A><F>Um</F>.</A>
+<B>we will feel very <F>eh</F> <R>co</R> cold.</B>
+<A><F>Hm</F>. I see. O K. Thank you. And <F>er</F> have a nice weekend. <OL>Thank you very much for coming in</OL></A>
+<B><OL>Yeah thank you very much</OL>.</B>
+<A>today.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,335 @@
+<interview>
+<filename>file01260.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>17</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category> 
+<step>1.5</step> 
+<TOEIC>850</TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>8</SST_level> 
+<SST_task2>classroom</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>. <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>? <H pn="B's name">XXX02</H>?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. So can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Mm-hm</F>. <OL>That's fine</OL>.</B>
+<A><OL><F>Ah</F></OL>. O K. <F>Urm</F> where do you live, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>.</A>
+<B><F>Mm-hm</F>.</B>
+<A>Tell me what kind of place <H pn="others1">XXX03</H> is. <nvs>laughter</nvs></A>
+<B>It's quite similar to Tokyo, but maybe not so much people. And <SC>it's</SC> there's like <H pn="others2">XXX04</H>, like there's more environment than Tokyo.</B>
+<A>I see. <F>Ur</F> do you often go to this park?</A>
+<B>I've only been once.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>What kind of place <SC>it is</SC> is that?</A>
+<B>There's <F>uh</F> <F>uh</F> <R>sea</R></B>
+<A><F>Mh-hmm</F>.</A>
+<B>sea and it's like a big park.</B>
+<A><F>Mhm</F>.</A>
+<B>And a lot of families and couples go there. And <SC>it's</SC> during the night, the illumination and stuff is really <nvs>sniff</nvs> <OL>pretty</OL>.</B>
+<A><OL><F>Mhm</F> <F>mhm</F></OL> <F>mhm</F> <F>mhm</F>. Yeah, I've heard of that.</A>
+<B><nvs>cough</nvs></B>
+<A>O K. You live there with your parents.</A>
+<B><F>Mm-hm</F>.</B>
+<A><CO>And your</CO></A>
+<B>And my sister. And also with my grandma and grandpa.</B>
+<A><F>Oh</F> that's nice. So can you tell me a little bit more about your grandparents?</A>
+<B>My <laughter>grandparents</laughter>?</B>
+<A><nvs>laughter</nvs></A>
+<B><.></.> About <SC>how</SC> <R>what</R> <OL>what sort of thing</OL>?</B>
+<A><OL>About</OL> what kind of people they are or what do they like to do.</A>
+<B><F>Ur</F> <R>my grandpa</R></B>
+<A><??></??></A>
+<B>my grandpa was a very strict person when he was a father.</B>
+<A><F>Mhm</F>.</A>
+<B>So he was strict to my mother. But now, he's a really nice person.</B>
+<A><F>Mhm</F>.</A>
+<B>And <SC>he</SC> <F>urm</F> behind our house, we have <R>a</R> a little farm.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And he likes to grow crops there. And my grandma helps him.</B>
+<A><F>Mhm</F>. Do you sometimes help them with</A>
+<B><nvs>laughter</nvs></B>
+<A>farming?</A>
+<B><SC>Someti</SC> when I was little, <F>urm</F> I used to, not help but play <OL>in the sand</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. I see. I see. O K. You said he was strict</A>
+<B><F>Mm-hm</F>.</B>
+<A>with your mother. <F>Ah</F>. But now, he's kind to maybe you.</A>
+<B><F>Mm</F> yeah.</B>
+<A><F>Mhm</F>. <F>Ur</F>.</A>
+<B>Because he's gone older. <CO>His</CO>.</B>
+<A>That's right. But in what way</A>
+<B>He was strict?</B>
+<A><F>ur</F> is he strict <OL><??></??> strict</OL>?</A>
+<B><OL><R>About manner</R></OL> about manner. He was very strict to the manner. Like the way you hold your <SC>s</SC> chopsticks.</B>
+<A><F>Mm-hm</F>.</A>
+<B>The way you eat. And that kind of stuff.</B>
+<A><F>Oh</F> I see. <SC>Do you</SC> does he often tell you how to behave</A>
+<B><CO>He <OL>doesn't</CO></OL>.</B>
+<A><OL>or</OL> your manners?</A>
+<B>Not really anymore, but when I just came back from Japan, the way I hold my chopsticks was really wrong.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So he fixed that.</B>
+<A><F>Mhm</F>.</A>
+<B>And he tells me to behave myself on trains.</B>
+<A><F>Mhm</F>.</A>
+<B>And that kind of things.</B>
+<A>What do you feel when he tells you something like that <OL>about manners</OL>?</A>
+<B><OL>I think</OL> I think that it's a good thing that someone tells me.</B>
+<A><F>Mm</F>.</A>
+<B><?>Or else</?>, probably not very good during the <OL>trains and stuff</OL>.</B>
+<A><OL><F>Hmm</F> but</OL> maybe sometimes you <?>can</?> feel some big differences between your generation <OL>and their <??></??></OL>.</A>
+<B><OL><F>Ur</F> I feel that</OL>. But I just take it as, "<F>Oh</F> he's in a different generation.".</B>
+<A><F>Mhm</F>.</A>
+<B><?>This</?> or people who thinks different ways.</B>
+<A><F>Hm</F>.</A>
+<B>And I accept his opinions.</B>
+<A><F>Oh</F> I see. I see. O K.</A>
+<B><nvs>cough</nvs></B>
+<A>Then <F>ur</F> what kind of club activities do you do in this school?</A>
+<B>At this school, I join the dance club.</B>
+<A><F>Mm-hm</F>. I see.</A>
+<B><OL><F>Mm-hm</F></OL>.</B>
+<A><OL>Tell me</OL> more about how do you practice dance in that dance club?</A>
+<B><R>We</R> <F>uh</F> we dance about three or four times a week</B>
+<A><F>Mm-hm</F>.</A>
+<B>including a Saturday.</B>
+<A><F>Hm</F>.</A>
+<B>And <SC>we dance</SC> we have two performances. One during our festival,</B>
+<A><F>Hm</F>.</A>
+<B>our <JP><H pn="others3">XXX05</H></JP> festival. And one we just had in February.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <R>we</R> we make up our dance that we dance,</B>
+<A><F>Hm</F>.</A>
+<B>we think about the program from the beginning like this opening and the finale. <R>And we</R> and we <SC>di</SC> get divided into groups, little groups, big groups. And we make our dances among that. And dance.</B>
+<A><F>Mhm</F>. <F>Mm-hm</F>. I see. Who <F>ur</F> arranged all these things?</A>
+<B>Mostly the second years.</B>
+<A><F>Mh-mm</F>.</A>
+<B>I'm in the second year right now. <OL><CO>And</CO></OL>.</B>
+<A><OL><F>Hm</F></OL>. O K, so what kind of responsibilities did you have for this particular performance in February?</A>
+<B><F>Well</F> he had to do everything. We had to <F>urm</F> the practice menu. Like <?>during</?> this time and this time, we would do this. We had to think about that which is like what would be a good way to practice.</B>
+<A>I see.</A>
+<B>And yeah.</B>
+<A>What kind of things can you learn through these practices, not only dancing but to organize <F>ur</F> performance, that sort of thing?</A>
+<B><F>Well</F> since I've joined the dance club, <R>I've</R> I've felt a lot of <SC>so</SC> responsibility than before. And that's a good thing that I learned from dance club. <F>Urm</F> also to concentrate when you're practicing. When you don't have a <SC>mu</SC> enough time, you have to concentrate during the certain amount of times. So you have to concentrate and to cooperate with other people.</B>
+<A>That's right.</A>
+<B>Yeah. <OL><CO>That's</CO></OL>.</B>
+<A><OL><?>Yeah, that's something</?></OL>. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture.</A>
+<B><F>Mm-hm</F>.</B>
+<A>I want you to describe the picture. O K. You're student so will you describe this picture in as much detail as possible?</A>
+<B><nvs>sniff</nvs> <F>Well</F> this is a picture of a class. And a teacher is trying to teach mathematics, I think. But only like one student is listening to the teacher and studying. Other students are playing with their mobiles, sleeping, talking, drinking. And doesn't have much respect to the teacher. And yes.</B>
+<A><F>Mm-hm</F>. Anything more?</A>
+<B><F>Urm</F> it looks like a pretty free school.</B>
+<A><F>Mm-hm</F>.</A>
+<B>They don't have uniforms.</B>
+<A><F>Mm-hm</F>.</A>
+</task>
+<followup>
+<A>O K. So will you compare the students here in this picture to your classmates in this school?</A>
+<B><F>Ur</F> I think it's pretty similar.</B>
+<A><F>Mm-hm</F>.</A>
+<B><nvs>laughter</nvs> It depends on which classes, but a lot of classes are quite, not many people talk, but people sleep. They do other things like write <F>urm</F> letters, they play with their mobiles. <F>Mm</F>. It's pretty similar.</B>
+<A>But as you have already mentioned that they don't wear uniforms,</A>
+<B><F>Mm-hm</F>.</B>
+<A>what do you think of <F>ur</F> uniforms?</A>
+<B>I think uniform is <F>ur</F> important <R>thi</R> thing to the school because it <R>makes you f</R> <F>er</F> <F>urm</F> <SC>makes you feel more</SC> what's it called, <F>urm</F> <SC>more</SC> <.></.> makes me feel that I have to study. It makes me feel a part of this school like representative. <nvs>sniff</nvs> It <SC>makes me <R>ha</R> <F>urm</F> <SC>ha</SC> study</SC> <R>makes m</R> makes my will to study <F>um</F> bigger. And <R>I</R> <F>ur</F> I feel like I'm student to this school so it probably helps me with my studying.</B>
+<A>Sure. <F>Ahh</F>. <F>Ur</F> <SC>do y</SC> does this school have any particular rules for students' discipline?</A>
+<B><F>Well</F> from the picture, it doesn't look like it has any rules.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mhm</F>.</B>
+<A>O K. In your <SC>math cla</SC> <R>math</R> mathematics class, how do your friends <SC>and your</SC> including yourself behave?</A>
+<B><F>Urm</F> I don't take mathematics anymore, but <SC>in <OL>my first</OL> grade</SC></B>
+<A><OL><F>Ah</F> I see</OL>.</A>
+<B>when I was in the first grade, <SC>it was quite</SC> <?>in</?> math is like, you get little sheets</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and the teacher tells you to solve that. And <R>we solve it</R> <F>um</F> we solve it <?>during</?> our pace.</B>
+<A>Sure.</A>
+<B>Yeah. So when we don't understand, we call the teachers.</B>
+<A><F>Mhm</F>.</A>
+<B>And we solve it as we talk with our friends. So it was <SC>pretty</SC> maybe quite <SC>loud</SC> <OL><F>ur</F> noisy</OL>.</B>
+<A><OL>I see</OL>. Do you have any suggestions for this particular young teacher to improve the attitudes of the students here?</A>
+<B><F>Mhm</F>. <.></.> Even during the class is noisy and playing with their mobiles, <SC>she</SC> <F>uh</F> it doesn't seem that she's gonna <F>urm</F> tell them offer or anything.</B>
+<A><F>Hmm</F>.</A>
+<B>So maybe she should tell them to behave themselves. And maybe <F>mm</F> <SC>take the class <R>more</R> more fun</SC></B>
+<A><F>Mh-hmm</F>.</A>
+<B>teach math more fun.</B>
+<A><F>Mhm</F>.</A>
+<B><nvs>sniff</nvs></B>
+<A>In what way,</A>
+<B><nvs>cough</nvs></B>
+<A>could it be funnier? <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A><F>Well</F> not funny, more interested in.</A>
+<B>Interesting. <CO><F>Urm</F> maybe work sheets are a little</CO>.</B>
+<A>As you <OL>said</OL> in your mathematics class.</A>
+<B><OL>Yeah</OL>. Because just <R>li</R> listening and watching doesn't make you learn. You have to do it yourself.</B>
+<A><F>Mhm</F>.</A>
+<B><nvs>sniff</nvs></B>
+<A>O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, let's do a role-play.</A>
+<B><F>Mm-hm</F>.</B>
+<A><F>Mhm</F>. <F>Mhm</F>. <F>Mm</F>. O K. So either way, read the card, and when you are ready, let me know.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><nvs>sniff</nvs></B>
+<A>Are you ready, <H pn="B's name">XXX02</H>?</A>
+<B><F>Mm-hm</F>.</B>
+<A><F>Mm-hm</F>. O K. It's a telephone conversation.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>Hi</OL>, <H pn="B's name">XXX02</H>. What's up?</A>
+<B>Hello.</B>
+<A>Hello.</A>
+<B><F>Urm</F> thank you for inviting me to your dinner party.</B>
+<A>Not mention it.</A>
+<B><nvs>laughter</nvs> But <R>I'm really</R> <F>mm</F> I'm really sorry that I can't turn up to it because I have other plans. And those plans were out of my will and it was <?>work</?>.</B>
+<A><F>Mm-hm</F>.</A>
+<B><nvs>laughter</nvs> <OL>I'm so sorry</OL>.</B>
+<A>But <OL>I have</OL> told you about this <F>er</F> party long, long time ago.</A>
+<B><F>Mh-hmm</F>. I'm so sorry, but the date, <F>er</F> it can't be changed because people are coming from overseas</B>
+<A><F>Mh-hmm</F>.</A>
+<B>just that day.</B>
+<A><F>Mm-hm</F>.</A>
+<B>That's the only day we can do the meeting.</B>
+<A><F>Mhm</F>.</A>
+<B>I'm very sorry.</B>
+<A><F>Mm</F>. How long does that meeting <SC>long</SC> last?</A>
+<B>I'm not quite sure, but maybe for the <R>whole</R> <OL>whole day</OL>.</B>
+<A><OL>Whole day</OL>? <F>Mm</F>. But we will be here up until midnight. So if you like it, bring these people together.</A>
+<B><nvs>laughter</nvs> Maybe if I finish early,</B>
+<A><F>Hm</F>.</A>
+<B>I might turn up to the party.</B>
+<A>O K. <SC>And the</SC> O K, <F>ur</F> so what shall I tell the people who have already gathered here and waiting for you to come?</A>
+<B><F>Oh</F> please tell them that I'm very sorry that I couldn't turn up today.</B>
+<A><F>Mm-hm</F>.</A>
+<B>Because I had work.</B>
+<A><F>Hm</F>.</A>
+<B>And I like to be <F>um</F> included in other plans</B>
+<A><F>Mh-hmm</F>.</A>
+<B>that have dinner parties in the future.</B>
+<A><F>Mhm</F>. O K. O K. O K. O K. Thank you. I'll tell them so.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>That's</OL> the end of the role-play.</A>
+</task>
+<followup>
+<A><F>Urm</F> sometimes <SC>you can't make</SC> you can't keep a promise which you made with your friends. <F>Urm</F> what kind of preventive measures do you take, or what kind of apology do you give if you can't <SC>make</SC> keep a promise?</A>
+<B>Between my friends, <R>if I</R> if I said I could <F>urm</F> go out with them a day,</B>
+<A><F>Hm</F>.</A>
+<B>when I couldn't, <F>urm</F> they say, "<F>Oh</F> then shout me <F>urm</F> brunch next time," or</B>
+<A><F>Hmm</F>.</A>
+<B>"Shout me something.". So <SC>I usually</SC> the next time we go out, I shout them lunch or maybe stick a <??></??>.</B>
+<A><F>Mhm</F>. How do you try yourself to be very trustworthy to your friends?</A>
+<B>I try not to <F>urm</F> suddenly not be able to go. But sometimes <SC>it's</SC> it can't be helped.</B>
+<A><F>Mm</F>.</A>
+<B>So I apologize</B>
+<A><F>Hm</F>.</A>
+<B>to them.</B>
+<A><F>Hm</F>.</A>
+<B><R>Not</R> not by mail, but like by phoning or by saying that <SC>to</SC> face to face. <nvs>sniff</nvs></B>
+<A><F>Mhm</F>. So most of the time, does it work?</A>
+<B>Yeah, they understand.</B>
+<A><F>Mm</F>. That's good. <OL>O K</OL>.</A>
+<B><OL><F>Urm</F></OL> the reasons, <F>er</F> <F>er</F> they'll understand.</B>
+<A><F>Mm</F>. Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Finally today, I want you to make a story</A>
+<B><nvs>laughter</nvs></B>
+<A><F>mm</F> based on a picture. <F>Urm</F> O K. <??></??> O K, this one. This time, I want you to make up a story based on the picture from one to six. But start your story with "One day last week". It happened before.</A>
+<B>One day last week,</B>
+<A><F>Mm</F>.</A>
+<B>it happened before.</B>
+<A><F>Mm</F>. No, you can just say "One day last week", and continue <OL>your story</OL>.</A>
+<B><OL><F>Oh</F> O K</OL>.</B>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<A>O K, <H pn="B's name">XXX02</H>. Go ahead.</A>
+<B>O K. One day last week, I was heading to the station to go to work. And when I was lining at the platform, waiting for the train, the man next to me bumped to my elbow. And I dropped my luggage <SC>to</SC> on to the railway tracks. I told the man that it dropped, but he seemed not help very much, and didn't seem to apologize. Then the train came and ran over my luggage. But <R>lug</R> luggage was <R?>te</R?> safe because it was in the middle of the railway tracks. Then I called the <F>urm</F> station person and he took my luggage off the railway tracks and gave it to me.</B>
+<A>O K. Thank you.</A>
+</task>
+<followup>
+<A><F>Ur</F> have you had this kind of experience on the way to school?</A>
+<B><laughter>No</laughter>, I haven't.</B>
+<A>Or have you <R>e</R> ever seen this kind of accident?</A>
+<B>I haven't seen luggage fall.</B>
+<A><F>Mm-hm</F>. I see. But from <H pn="others1">XXX03</H> to this place, it's quite a long time. <R>How</R> how long does it take?</A>
+<B><SC>It takes</SC> <F>urm</F> on the train, it takes about forty minutes</B>
+<A><F>Mhm</F>.</A>
+<B>just on the train.</B>
+<A>O K. What do you usually do on this commuting train</A>
+<B><CO>I usually</CO>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>on the way to school</OL> or <SC>from way</SC> the way from school?</A>
+<B>I don't do much. I usually just think of things.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And before tests, I like study.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> That's about it. I don't really do much.</B>
+<A><F>Uh-huh</F>. <SC>You don't see any</SC> you haven't seen any problems on the train?</A>
+<B><OL><F>Ahh</F></OL>.</B>
+<A><CO><OL>Some</OL> noisy people of drunken or</CO>.</A>
+<B><F>Ur</F> when I go on the train at night,</B>
+<A><F>Hm</F>.</A>
+<B>there's many drunken men. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mm</F></OL>. <F>Ur</F> how do you feel?</A>
+<B><F>Uh</F> <SC>not</SC> disturbed.</B>
+<A><F>Mm</F>.</A>
+<B>Not very good.</B>
+<A><F>Mm-hm</F>. <F>Mm-hm</F>. I see. So <R>y</R> you are grown up. <nvs>laughter</nvs></A>
+<B>Yes, I'd like to behave on <OL>the train</OL>.</B>
+<A><OL>O K</OL>. O K. Sure.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Well</F> the interview is almost over now.</A>
+<B><F>Mm</F>. <nvs>sniff</nvs></B>
+<A><F>Ur</F> after this, are you going to join your club activity?</A>
+<B><SC>My club ac</SC> it finishes at five so <OL>no</OL>.</B>
+<A><OL><F>Ah</F></OL> it's already finished.</A>
+<B><F>Mm-hm</F>.</B>
+<A><F>Mm-hm</F>. So are you going home?</A>
+<B>I'm gonna go and get some ingredients because it's Valentine's day, <OL>yep, Saturday</OL>.</B>
+<A><OL><F>Ahh</F> you're</OL> going to make some chocolate.</A>
+<B>Yeah. So I'll make it today and give it everyone tomorrow.</B>
+<A><F>Oh</F> give it to everyone?</A>
+<B>Not everyone, but some of my friends <laughter>here</laughter>.</B>
+<A><nvs>laughter</nvs> You mean, male friends, right?</A>
+<B>Yeah, and female friends.</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>That must be interesting. So you're going to spend time on <OL>making <??></??></OL> mixing all these gradients.</A>
+<B><OL><laughter>Yeah</laughter></OL>. Yes.</B>
+<A>And making your specialty</A>
+<B><nvs>laughter</nvs></B>
+<A>or your original chocolate.</A>
+<B>Yeah.</B>
+<A>Good. O K. Thank you very much <OL>for the time</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A>Interview is over.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>O K</OL>. Thank you.</A>
+</stage5>
+</body>
+</interview>

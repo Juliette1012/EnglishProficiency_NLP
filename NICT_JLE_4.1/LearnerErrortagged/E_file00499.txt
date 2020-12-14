@@ -1,0 +1,168 @@
+<interview>
+<filename>E_file00499.txt</filename>
+
+<head version="1.3">
+<date>2001-06-27</date>
+<sex>female</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL>240</TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>Where did you come from today?</A>
+<B>Today? <F>Err</F>. I came from my home.</B>
+<A><F>Oh</F>. Where is your home?</A>
+<B><F>Er</F>. <SC>I live</SC> now, I live alone away from my parents. I live <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F>.</A>
+<B>Yes.</B>
+<A>Can you describe the area for me?</A>
+<B>Describe? <F>Err</F>. <R>It's one of</R> it's one of <at odr="1" crr="the"></at> famous residence <n_num odr="2" crr="areas">area</n_num>. It's quiet, <aj_lxc odr="1" crr="peaceful">peace</aj_lxc>, and also, <SC>there are</SC> there're a few famous <n_num odr="2" crr="universities">university</n_num>. For example, <H pn="school name1">XXX04</H> or <H pn="school name2">XXX05</H>. That's why there are many students.</B>
+<A><F>Oh</F>. That's nice. And, where do your parents live?</A>
+<B><F>Er</F>. My parents <F>er</F> live in Ibaragi prefecture, <F>er</F> Mito City.</B>
+<A><F>Hum</F>.</A>
+<B>It takes about two hours by train.</B>
+<A><F>Oh</F> I see. So, why did you come to live in <H pn="others2">XXX06</H>?</A>
+<B><F>Er</F>. Now I go to <H pn="school name3">XXX07</H>. So I live in <H pn="others2">XXX06</H>.</B>
+<A>I see. <F>Um</F>. How's your university life?</A>
+<B><F>Err</F>. <nvs>laughter</nvs> <F>Uum</F>. My university life is so-so. <SC>I get</SC> I got many friends from many areas of Japan.</B>
+<A><F>Err</F>.</A>
+<B>So <pn_lxc odr="1" crr="one">some</pn_lxc> of my friends, <F>um</F> <SC>she is</SC> she came from Osaka. She is very talkative.</B>
+<A>I see.</A>
+<B>Yes. <R>I</R> I like her talking <prp_lxc1 odr="1" crr="in"></prp_lxc1> Osaka-<JP>ben</JP>.</B>
+<A><?>Right</?>.</A>
+<B><nvs>laughter</nvs> Yeah.</B>
+<A><F>Oh</F>. That's good. And, what do you usually do in your free time?</A>
+<B>Free time? <F>Err</F>. I like playing the piano. <F>Mm</F>. <R>I</R> I started <v_lxc odr="1" crr="practicing">learning</v_lxc> piano <SC>from</SC> when I was three years old. <F>Um</F>. But, <F>mm</F> when I <v_tns odr="1" crr="entered">enter</v_tns> high school, <R>I</R> I stopped <v_lxc odr="2" crr="practicing">learning</v_lxc> playing the piano once, but, after I came to <H pn="others2">XXX06</H>, I started it again.</B>
+<A><F>Hum</F>. Why did you started it again?</A>
+<B><F>Er</F>. Because <SC>I had</SC> I have much time.</B>
+<A><F>Er</F>. I see. That's good. O K. And, what <F>um</F> do you usually play on your piano?</A>
+<B>Play? <F>Er</F>. I like <F>mm</F> Beatles. <CO>So</CO>.</B>
+<A><F>Err</F>.</A>
+<B><nvs>laughter</nvs> I love Beatles, so it's fun for me to play Beatles' songs.</B>
+<A><F>Uh-hm</F>. I see. That's nice. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. <CO>The first thing I want you to do is</CO>. O K, please look at this picture. O K? And describe the picture for me.</A>
+<B>Describe?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Err</F>. <.></.> <at odr="1" crr="A"></at> <cap odr="2" crr="young" ch="1">Young</cap> woman is sitting on the chair. <F>Er</F>. <.></.> <laughter>What is she doing</laughter>? <F>Er</F>. There is one dog lying on the floor. And there is a cat on <at odr="1" crr="a">the</at> bed. And <at odr="1" crr="a">the</at> door is open. And there is <F>mm</F> one window. And <SC>the clock</SC> <F>mm</F> the time is nine o'clock. <CO>And</CO>. <.></.></B>
+<A>O K. That's fine.</A>
+</task>
+<followup>
+<A>O K. Can you look at the picture, and, tell me <v_qst odr="1" crr="how it is">how is it</v_qst> different from your room in <H pn="others1">XXX03</H>.</A>
+<B><F>Oh</F>. The <aj_inf odr="1" crr="biggest">most big</aj_inf> difference is this room is bigger than <R>my</R> my room. And there is <SC>P C, <F>ur</F> but</SC> <at odr="1" crr="a"></at> desktop P C, but <SC>my room</SC> my P C is <at odr="2" crr="a"></at> lap-top computer because my room is so small to put <F>ur</F> <at odr="3" crr="a"></at> desktop. <F>Mm</F>. And <R>I live</R> I live in a dormitory, so we can't <SC>have</SC> keep any pets. But there are two pets here, so it's different. <.></.></B>
+<A>Yeah, I see. You said you have a lap-top. O K. What do you use it for?</A>
+<B><F>Er</F>. <F>Um</F>. <R>I</R> I browse <R>web</R> <n_num odr="1" crr="websites">website</n_num>, and send <n_num odr="2" crr="E-mails">E-mail</n_num> to my friends. And also, I <R>typewrite</R> typewrite <n_num odr="1" crr="papers">paper</n_num>, yeah.</B>
+<A>What kind of things do you type?</A>
+<B><F>Er</F>. <SC>It's</SC> usually I have <at odr="1" crr="a"></at> homework from <at odr="2" crr="the"></at> university. So <F>mm</F> I read some books and write about <SC>what I think</SC> what I thought <prp_lxc1 odr="1" crr="from"></prp_lxc1> reading the book.</B>
+<A><F>Uh-hm</F>. Is it easier for you to type it or to write it in pencil?</A>
+<B><F>Err</F>. It's easier to type. <F>Ur</F>. And it's <F>mm</F> <aj_lxc odr="1" crr="easier">more comfortable</aj_lxc> to <v_lxc odr="2" crr="read">see</v_lxc>.</B>
+<A><F>Um</F>. I see.</A>
+<B><F>Ur</F>. It's <SC>neat</SC> very neat.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Then, I'll have that back. O K. Next, let's do a role play. O K? Please read this card. O K? When you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K.</B>
+<A>O K? Hello.</A>
+<B>Hello. <F>Er</F>. This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Er</F>. Hi, <H pn="B's name">XXX02</H>. It's <H pn="A's name">XXX01</H>.</A>
+<B><F>Er</F>. <R>How</R> <R>how about</R> how about seeing a movie together?</B>
+<A>Sounds good.</A>
+<B><F>Err</F>. When is convenient?</B>
+<A>Anytime.</A>
+<B>Anytime? <F>Er</F>. So, how about this Sunday?</B>
+<A>O K.</A>
+<B><SC>The time is</SC> <F>er</F> the movie <SC>start</SC> starts at <R>one</R> one o'clock. So, let's have lunch <SC>before start</SC> before seeing <at odr="1" crr="the"></at> movie.</B>
+<A><F>Oh</F>. That sounds good.</A>
+<B>So, let's meet at eleven thirty.</B>
+<A><F>Uh-hm</F>. Fine.</A>
+<B>At Shibuya station.</B>
+<A>O K.</A>
+<B>O K?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Err</F>. Maybe <F>err</F> <R>we could</R> we could meet at <at odr="1" crr="the"></at> south exit of Shibuya station.</B>
+<A>O K.</A>
+<B>O K?</B>
+<A>Fine. O K. So, see you at <at odr="1" crr="the"></at> south exit <prp_lxc1 odr="2" crr="of">at</prp_lxc1> Shibuya station, <SC>one o'c</SC> <F>er</F> sorry, eleven thirty.</A>
+<B>Eleven thirty?</B>
+<A>O K. Good. Thanks for calling.</A>
+<B>Thank you.</B>
+<A>O K. Bye. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you often go seeing movies?</A>
+<B><F>Er</F>. Sometimes I go to <v_lxc odr="1" crr="see"></v_lxc> <at odr="2" crr="a"></at> movie.</B>
+<A>I see. How do you decide which movie you are going to see?</A>
+<B><F>Err</F>. I read some <n_num odr="1" crr="magazines">magazine</n_num> and read <R>review</R> <n_num odr="2" crr="reviews">review</n_num>. So <F>mm</F> <SC>I decided</SC> I decide the movie which sounds interesting by reading <SC>magazine</SC> such magazines.</B>
+<A>I see. <R>Has it</R> <F>um</F> has it been any good movies recently?</A>
+<B><F>Er</F>. <SC>I like</SC> I saw the movie called "Little Dancer". It's <at odr="1" crr="a"></at> British movie. <F>Er</F>. Maybe, B B C made it. <F>Er</F>. That's <at odr="1" crr="a">the</at> story of <at odr="2" crr="a"></at> boy <rel_lxc odr="3" crr="who"></rel_lxc> wants to be a ballet dancer. <SC>It's very impress</SC> it was very impressive.</B>
+<A><F>Hum</F>. I see.</A>
+<B>I like that movie.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. <CO>Then, the last thing we are going to do</CO>. O K, I want you to look at <.></.> O K, this picture. O K? And, Please make a story. This is something that happens one day last week, so, please make a story using the pictures one, two, three, four, five, six. And, start with "One day last week".</A>
+<B><.></.> One day last week, <F>er</F> can I use "I" as a subject?</B>
+<A>Sure.</A>
+<B>One day last week, <F>um</F> <R>I</R> I thought I was going to cook. But, at home, there was <SC>no ingred</SC> no food, no ingredient in the refrigerator. So I decided to go shopping to supermarket <R>ne</R> <prp_lxc1 odr="1" crr="in"></prp_lxc1> <at odr="2" crr="the"></at> neighborhood. I went there <o_lxc odr="1" crr="by cat">by a car</o_lxc>. And I bought many foods there. And I paid money at the cash register. And I <v_lxc odr="1" crr="put">loaded</v_lxc> what I bought <prp_lxc1 odr="2" crr="in">with</prp_lxc1> my car. And I went <av_pst odr="1" crr="back home">home back</av_pst>. Then, I started cooking. And I made sunny-side up. I <v_tns odr="1" crr="enjoyed">was enjoying</v_tns> my cooking.</B>
+<A><F>Um</F>. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. So <F>um</F> you live by yourself. Do you often cook?</A>
+<B>No. Because my dormitory <v_agr odr="1" crr="serves">serve</v_agr> <n_num odr="2" crr="meals">meal</n_num> <prp_lxc1 odr="3" crr="">at</prp_lxc1> three times a day. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ur</F> that's lucky</OL>. I see. What kind of food do they serve?</A>
+<B><F>Er</F>. Any kinds of food. Rice, <con_lxc odr="1" crr="">and</con_lxc> bread and Chinese noodle.</B>
+<A>I see. Do you have a choice?</A>
+<B>Yes. <F>Er</F>. There <v_agr odr="1" crr="are">is</v_agr> two <n_num odr="2" crr="selections">selection</n_num> <OL>a day</OL>.</B>
+<A><OL><F>Err</F> I see</OL>. <F>Um</F>. And, how do they taste?</A>
+<B><F>Er</F>. It's really tasty. I like that <SC>food</SC> meal.</B>
+<A><F>Oh</F>. I see. Good. So you never do cooking at home then.</A>
+<B><av_lxc odr="1" crr="No">Yeah</av_lxc>. But, sometimes, <con_lxc odr="1" crr="when"></con_lxc> I <v_lxc odr="2" crr="go">went</v_lxc> <prp_lxc2 odr="3" crr="to"></prp_lxc2> my hometown. Sometimes, I <??></??> dinner.</B>
+<A><F>Er</F>. That's nice.</A>
+<B>Instead of my mother.</B>
+<A>O K. How is the food at the <R>dorm</R> dormitory different from <F>er</F> the food that your mother cooks?</A>
+<B><F>Oh</F>. It's more gorgeous. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> The <?>food</?> at the dormitory?</A>
+<B>Yeah. There are <SC>varie</SC> more <n_num odr="1" crr="varieties">variety</n_num> of foods.</B>
+<A><F>Oh</F>. I see. Right. So you are having very nice <?>good</?> life.</A>
+<B>Yeah.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. So, after this, what are you going to do?</A>
+<B><F>Err</F>. <F>Err</F>. I'm going to meet my friend, and have dinner together.</B>
+<A><F>Er</F>. That's nice. What kind of restaurant are you going to?</A>
+<B><F>Er</F>. <SC>Not</SC> I haven't decided it yet.</B>
+<A>Right. O K. <F>Well</F>. I hope you have a nice dinner. O K. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,201 @@
+<interview>
+<filename>file00035.txt</filename>
+
+<head version="1.3">
+<date>1999-12-17</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>557</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name please?</A>
+<B><F>Ah</F> My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, please.</B>
+<A>O K <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>Very fine today. <R>I</R> <SC>I</SC> today morning, I got up very early and eat enough meal, so I'm fine. <OL>I'm well</OL>.</B>
+<A><OL><laughter>O K</laughter></OL>. That's good. All right. I'm fine thank you. <nvs>laughter</nvs>. All right, <H pn="B's name">XXX02</H>. <F>Um</F> can you tell me about yourself?</A>
+<B>About myself?</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Mh</F> you mean my introduction.</B>
+<A><F>Mm-huh</F>.</A>
+<B><F>Mm</F> I am student at literature, majoring history of Europe. But actually, I'm not <.></.> good student here because there is not much time to study. I have to work to make a living by myself.</B>
+<A>I see.</A>
+<B>I live alone. And <SC>other teacher</SC> I'm also English teacher like you.</B>
+<A><F>Oh</F> really.</A>
+<B>I teach English for <SC>examination</SC> entrance examination of university, <R>and</R> <.></.> <F>a</F> and preparation school. I cannot name it.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>That's fine. So how do you like teaching?</A>
+<B><F>Mm</F>. <..></..> Generally, it's very interesting. I like it but sometimes <.></.> I feel it's quite annoying.</B>
+<A><F>Oh</F> <OL>yes</OL>?</A>
+<B><OL>Yes</OL>. To teach itself is quite difficult.</B>
+<A>Yeah, that's true.</A>
+<B>Yes.</B>
+<A>I see. All right. Good. Now <F>er</F> you said you live alone now.</A>
+<B>Yes.</B>
+<A><F>Ah</F> where are you originally from?</A>
+<B><F>Er</F> my original home is in <H pn="others1">XXX03</H> Prefecture, <H pn="others2">XXX04</H> city. My house is very near from <H pn="others3">XXX05</H> Stadium. Just fifteen minutes by bicycle <OL><F>erm</F></OL>.</B>
+<A><OL>Really</OL>? I see. So how do you like your hometown?</A>
+<B><F>Ah</F> actually, <.></.> <R>as</R> as I getting use to big city, now I don't like my town.</B>
+<A>No?</A>
+<B>No. Because there is <SC>no interesting thing</SC> no stimulating thing because my town is very rural. <F>Hum</F> so it's a little bit comfortable when I stay <R>in my</R> <F>n</F> in my house with a family. <F>Mm</F> I can be relaxed, but there is no stimulating thing.</B>
+<A><F>Mh</F> I see. But there is ocean near by, isn't it?</A>
+<B>Ocean?</B>
+<A>Yeah.</A>
+<B><F>Er</F>. <CO>Because</CO>.</B>
+<A>In <H pn="others1">XXX03</H>.</A>
+<B><F>Ah</F> <R>my</R> my town is very near from <H pn="others2">XXX04</H> City.</B>
+<A><F>Oh</F> from <H pn="others2">XXX04</H> <F>ah</F> O K. I heard <F>ah</F> <H pn="others4">XXX06</H> area.</A>
+<B><laughter><F>Ah</F> <H pn="others4">XXX06</H></laughter>. <OL>Sorry</OL>.</B>
+<A><OL>Sorry</OL>. I see. So, it's the inland.</A>
+<B><F>Mm</F> <OL>yes</OL>.</B>
+<A><OL><F>Uum</F></OL>. I see all right. Now <F>um</F> so what do you like about <H pn="others5">XXX07</H>?</A>
+<B><F>Mh</F>.</B>
+<A>What do you like the most about living in <H pn="others5">XXX07</H>?</A>
+<B><.></.> <F>Umm</F> I think its flexibility, particular to large city. Any city is O K, if it is large city like London, Paris, or Hong Kong, of course <H pn="others5">XXX07</H>. There are <F>mh</F> many kind of people <SC>from</SC> <F>mh</F> with various back grounds. I like such diversity. <F>Mm</F> anyone is accepted here. I like such atmosphere.</B>
+<A><F>Mh</F> Yeah. <H pn="others5">XXX07</H> is <F>er</F> very different form other cities, I mean in Japan.</A>
+<B><F>Mhm-huh</F>.</B>
+</stage1>
+<stage2>
+<task>
+<A>All right. Very good. Now I want to <F>ah</F> move on to the next stage.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>Please look at this picture and describe it for me.</A>
+<B>Yes. <SC>There are two</SC> <F>er</F> there are three tables in, I think, restaurant. <F>Uh</F> it's a little bit sophisticated restaurant it seems. First, <F>mh</F> each of desk have two people and <.></.> <SC>it's</SC> <F>mh</F> all of table have couples, <F>mh</F> woman and <R>m</R> man. And <F>mh</F> <.></.> <F>oh</F> there is a pianist <.></.> on the <F>mh</F> corner of the room <SC>ne</SC> <F>mm</F> by <SC>clock</SC> large clock is there. And it's seven o'clock, it seems. And <F>mh</F> <.></.> <F>mm</F> I can see two couples for enjoy drinking wine very in front of me and they seems to <SC>very</SC> <F>uh</F> enjoy very much. <F>Mh</F>.</B>
+</task>
+<followup>
+<A>O K.</A>
+<B>Yes.</B>
+<A><F>Oh</F>. You want to continue?</A>
+<B>No, <OL>not at all</OL>.</B>
+<A><OL><F>Oh</F> O K</OL>. All right. Do you like eating out?</A>
+<B><?>It's</?> I don't like eat out.</B>
+<A>No? <OL><?>Why</?></OL>?</A>
+<B><OL>I</OL> have to, because I cannot cook <OL>by myself</OL>, so I have to go out eating, though I don't like.</B>
+<A><OL><F>Oh</F></OL>. <F>Ah</F> I see. <F>Well</F> <F>ah</F> think about your favorite restaurant.</A>
+<B>My favorite <OL>restaurant</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Um</F>.</B>
+<A>O K. How is that restaurant different from this restaurant?</A>
+<B><F>Mm</F>. Actually, I have no experience to go to <laughter>such</laughter></B>
+<A><nvs>laughter</nvs></A>
+<B>sophisticated restaurant. So the difference is <JP>umai</JP>.</B>
+<A><nvs>laughter</nvs></A>
+<B><.></.> My favorite restaurant is actually more, more friendly. Everyone can go in, restaurant like <JP>ramen</JP> store or so. So, difference is <.></.> <F>mm</F> <.></.> <F>er</F> first money and people in the restaurant. I want to go to never wear such suits.</B>
+<A><nvs>laughter</nvs></A>
+<B>Yes. Sometimes, <R>I</R> I can see such people. But it's very exception.</B>
+<A>Yeah, you're right. You are still student, so</A>
+<B>Yes.</B>
+<A>you don't go to these sophisticated expensive restaurant, <OL>right</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>All right. <F>Ah</F> very good. Let's go to the next stage.</A>
+<B><OL>Yes</OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL>O K</OL>? <F>Ah</F> right. Please read this card and we will do a role play.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And when you are ready, I <OL>will start</OL>.</A>
+<B><OL><F>Ah</F></OL> just wait please.</B>
+<ctxt>The examinee reads the card silently.</ctxt>
+<B>Yes.</B>
+<A>O K. May I help you?</A>
+<B><F>Ah</F> actually, though <SC>I bought it</SC> I bought this clothes before, but I come to dislike it, so I want to <F>mh</F> exchange or pay back my money.</B>
+<A>O K. <SC>Can I have</SC> <F>uh</F> do you have the receipt?</A>
+<B>Yes.</B>
+<A>Yes? Can I see the receipt?</A>
+<B>Yes. <OL><F>Ah</F> yes</OL>.</B>
+<A><OL><F>Oh</F> O K, let me see</OL>. <F>Er</F> <F>er</F> I cannot see the date here.</A>
+<B>You cannot see the date <OL>here</OL>?</B>
+<A><OL>Yeah</OL>.</A>
+<B>But <SC>receipt have</SC> receipt should have the date.</B>
+<A>Yeah, but the ink is faded.</A>
+<B>The ink is faded? But actually, this clothes is surely bought by me here. So in spite of that, you don't know the date, it is true that I bought it here.</B>
+<A>Yeah.</A>
+<B>It's really your store.</B>
+<A>That's right. <SC>E</SC> I understand that it's our store,</A>
+<B>Yes.</B>
+<A>But <R>you</R> you see the sign here. It says that we can exchange only for ten days.</A>
+<B>Only for ten days. <OL><R>But</R></OL></B>
+<A><OL>And</OL> I can not see the date here.</A>
+<B>but actually I bought it yesterday. And <.></.> <SC>I'm very</SC> I often visit here. Quite often. So please trust me. If you <.></.> don't accept my offer, you surely lose your customer, one customer.</B>
+<A>O K. <F>Well</F> <F>erm</F> O K, <R>I</R> I will trust you this time.</A>
+<B>Thank <OL>you</OL>.</B>
+<A><OL>O K</OL>? So <F>ah</F> you can <F>ah</F> exchange for some other clothes.</A>
+<B><F>Mm-huh</F>. <OL>Yes</OL>.</B>
+<A><OL>O K</OL>? This is just for today.</A>
+<B><F>Mm-huh</F>.</B>
+<A>All right. O K. So you can go around and check the clothes.</A>
+<B><F>Mm-huh</F>.</B>
+<A>And, all right.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K. very good. Now <F>ah</F> do you sometimes <F>uh</F> have problem with the merchandise?</A>
+<B><OL>Merchandise</OL>?</B>
+<A><CO><OL>Yeah</OL>, like the clothes you buy or</CO>.</A>
+<B><F>Ah</F> actually, <laughter>because I don't have much money</laughter> there is very low opportunity to buy many things. So compared with other people, I don't have much trouble with merchandise.</B>
+<A>O K. <F>Well</F> that's nice. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. And then, the last stage <..></..> is <.></.> this one. <F>Er</F> picture sequence. Please look at the six pictures and make a short story. O K? I want you to start your story with "One day last week". And tell me the story.</A>
+<B>"<R>Wa</R> one day last week"?</B>
+<A>Yes. <SC>It</SC> this <OL>happened last week</OL>.</A>
+<B><OL><F>A</F> <F>a</F> <F>a</F> <F>a</F> O K</OL>.</B>
+<A>So start with "One day last week".</A>
+<B><F>Oh</F> surely.</B>
+<ctxt>The interviewee is thinking about what to say.</ctxt>
+<B><F>Mm</F> <.></.> a tiny accident in traffic happened one day last week. Actually, there are <F>uh</F> one cars and one scooter, <.></.> each of which take <SC>one people</SC> <F>ah</F> one person, sorry. And <.></.> <F>n</F> <F>mh</F> presently they crushed. But it's a very little crush so <.></.> for me it's not <R>so</R> so big thing, but for them, who actually crush, it's not small thing. It's quite big thing, it seems. So they are quarreling quite hard, it seems. And <..></..> in this case, <.></.> damager is <.></.> person who ride on scooter. And <..></..> <F>mh</F> person who damage the scooter ride on the car, and they are quarreling and quarreling. But <.></.> just by themselves <F>mh</F> <R>this problem was not</R> <.></.> <F>mh</F> <SC>this problem was not</SC> <.></.> <F>mm</F> solution could not make out, it seems, so <SC>they seems</SC> they seemed to decide to call police who can provide one solution. And <R>people</R> <F>mh</F> <SC>people</SC> no, sorry, police listened <.></.> to the voice of each of them. <.></.> <R>And finally</R> <..></..> and finally, <.></.> scooter was brought somewhere <R>by the</R> by the truck. <F>Um</F> just from this picture, <.></.> <R>I cannot</R> I cannot tell the person who ride on car compensate for it. But actually, <F>mh</F> just <.></.> <SC>from <F>mh</F> his expression</SC> I mean <SC>from the per</SC> from the expression of the person who ride on scooter <SC>is</SC> <F>ah</F> were a little bit serious. <.></.> So I think <..></..> the person who ride on the car <.></.> did not compensate, so person who ride on scooter have to <.></.> pay for himself, it seems. And that's all.</B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Er</F> have you ever had an accident?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Yes</OL>? Do you mind <SC>me</SC> telling me?</A>
+<B><SC>Yes</SC> <F>ah</F> no. <F>Ah</F> when I was a high school student, I went to high school by bicycle and bus and train. From my house to the station, I used my bicycle. And <.></.> one day, I got up quite late and I <SC>have</SC> had to be in hurry. So my bicycle but as very high speed, and because of <R>my</R> <.></.> my hurry, I, at that time, <.></.> was very careless. Actually, I <F>mh</F> didn't watch around carefully. The problem <R>ex</R> exist here. <.></.> <F>Mm</F>. <.></.> <SC>Very</SC> as I getting close to my station, my careless increased and <.></.> when I withdrewed my attention on the road, I crushed with car. And I was thrown from my bicycle and crush on the ground. But very luckily <R>I</R> I was not injured <OL>at all</OL>.</B>
+<A><OL>That's</OL> good. That's good.</A>
+<B><SC>I</SC> actually, I'm very confident at my exercising ability. <SC>I can</SC> I could ground on very safely. <F>Mm-huh</F>. So it's very lucky.</B>
+<A><F>Uum</F>. I see. <F>Well</F> I think, you know, <R>the</R> the end of the year,</A>
+<B><F>Mhm-huh</F>.</B>
+<A><F>Ah</F> people are in hurry and they drive fast and they drive rough,</A>
+<B><F>Mhm-huh</F>.</B>
+<A>so please be careful.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Be careful</OL> on the street.</A>
+<B><F>Ah</F> I actually go to this university by bicycle.</B>
+<A><OL><F>Oh</F></OL></A>
+<B><OL>Still</OL>.</B>
+<A>You have to be careful.</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K, <F>well</F> this is almost end of the interview. <F>Umm</F> what is your plan for the New Years?</A>
+<B>My plan for the New Year. As I am third year student, I have to start my recruiting activity. So next year is I think very important year for me which decides my future a little bit. So, I want to take it seriously.</B>
+<A><F>Uum</F>. <F>Well</F> I hope you will <F>ah</F> be able to prepare over the holidays and I hope you can find a satisfying job.</A>
+<B><F>Mm-huh</F>.</B>
+<A><F>Uum</F>. All right. <F>Well</F>. Thank you very much <OL>for coming</OL>.</A>
+<B><OL>Yeah, thank you very much, too</OL>.</B>
+<A>All right. This is all for the interview.</A>
+<B>Yes. Thank you.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

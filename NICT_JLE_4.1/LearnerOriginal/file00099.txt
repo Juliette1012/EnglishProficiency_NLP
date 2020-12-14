@@ -1,0 +1,269 @@
+<interview>
+<filename>file00099.txt</filename>
+
+<head version="1.3">
+<date>1999-12-15</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Er</F> I'm fine, thank you.</B>
+<A>Good. Are you busy studying?</A>
+<B>Yes.</B>
+<A>O K. What do you study here?</A>
+<B><F>Er</F> <R>I'm</R> I'm belong to literature <R>de</R> department,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> <F>mhm</F> <SC>I study</SC> <F>urr</F> I'm in a first year, so I study everything.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ur</F> <R>basic</R> <.></.> basic <R>s</R> study. <OL><F>Mhm</F></OL>.</B>
+<A><OL><F>Uhm</F></OL>. O K. What do you like the most?</A>
+<B><F>Mhmm</F> <.></.> <F>urr</F> I like the education study.</B>
+<A><F>Mhm</F>. Why?</A>
+<B><F>Urr</F> <.></.> <F>mhm</F> <SC>educational</SC> <F>er</F> education study is <.></.> <F>mhm</F> <.></.> like a psychology. <OL>It's</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>very interesting.</B>
+<A>O K. Good. <F>Er</F> <H pn="B's name">XXX02</H>, where are you from?</A>
+<B><R>I'm</R> I'm live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And I'm born in <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F> O K. Which part?</A>
+<B><F>Mhm</F> <F>urr</F> in <H pn="others2">XXX04</H>.</B>
+<A><F>Uh-huh</F> O K. So do you like <SC?>the</SC?> <F>err</F> your life <R>in</R> in a big city?</A>
+<B><F>Mhm</F> yes.</B>
+<A>O K. So have you ever been to foreign countries?</A>
+<B><F>Ur</F> no, <R>I</R> <SC>I didn't</SC> I haven't.</B>
+<A><F>Uhm</F> which country would you like to go?</A>
+<B><F>Ur</F> I want to go to Italy.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because I like Italian culture,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>o</R> opera, and food, <laughter>and so on</laughter>.</B>
+<A><F>Mhmm</F> how about fashion?</A>
+<B><F>Urr</F> I don't know Italian fashion <OL>well</OL>.</B>
+<A><OL><F>Uhm</F></OL>. O K. What kind of fashion <SC>do you</SC> are you interested in?</A>
+<B><F>Mhmm</F> <.></.> <F>mhmm</F> <..></..> <F>urr</F> <..></..> I don't think about <laughter>well</laughter>.</B>
+<A><F>Oh</F> O K. <F>Err</F> by the way, do you have any brothers or sisters?</A>
+<B>Yes. I have a one sister.</B>
+<A><F>Uh-huh</F>.</A>
+<B>A little sister.</B>
+<A><F>Ah</F> O K. Can you tell me about her?</A>
+<B><F>Mh</F> she is in junior high school. <OL>And</OL>,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>urr</F> she belong to <JP>kendo</JP> club.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>But</OL>, she is <F>urr</F> not strong, but she likes <JP>kendo</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> <F>um</F> <.></.> <R>she</R> she doesn't resemble to me, I think.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mhm</F>. But <F>mhm</F> she is <laughter>interesting</laughter>.</B>
+<A><nvs>laughter</nvs> How?</A>
+<B><F>Uhm</F>.</B>
+<A>How interesting she is?</A>
+<B><F>Urr</F> she is a little, and <F>ur</F> <SC>she experience</SC> <F>mhm</F> her experience is <F>mhm</F> <R>my ex</R> my experience of past, <OL>so</OL></B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B>when I see her, it's very interesting.</B>
+<A>Really? <OL><F>Mhm</F></OL></A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A>sounds like <R>your</R> your younger sister is quite active, but how about you? Do you do any sports?</A>
+<B><F>Ur</F> I don't like sports. <nvs>laughter</nvs> <F>Mhm</F> <F>urr</F> <F>mhm</F> <F>mhm</F> <..></..> yes.</B>
+<A><F>Oh</F> O K. So <R>you've never</R> you've never tried any sports before?</A>
+<B><F>Ur</F> while I was a child,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I played soccer with my friend.</B>
+<A><F>Oh</F> <laughter>really</laughter>?</A>
+<B>Yes. <nvs>laughter</nvs> <F>Urr</F> but, <F>mhm</F> <.></.> recently, <R>I</R> I don't sports anything.</B>
+<A><F>Ah</F> O K. But you used to be very active?</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>Yes. Good. Now, I'm going to <??></??> a picture. Have you tried this before? <OL><?>No</?></OL>?</A>
+<B><OL><F>Uhm</F></OL> yes.</B>
+<A>O K.</A>
+<ctxt>The interviewer is choosing another picture.</ctxt>
+<A>How about this one? Would you describe this picture for me?</A>
+<B>Yes. <F>Uhm</F> <.></.> there is a many room, and <F>mhm</F> <.></.> one fine day, <R>girl</R> girl plays on her house garden and her dog and the other dog talked anything. <F>Uhm</F> <SC>child</SC> children play in the garden and housewives talk about something on the road. <..></..> <F>Mhm</F> <..></..> on the other side, one man is reading a newspaper</B>
+<A><F>Uh-huh</F>.</A>
+<B>on the bench.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <..></..> on the pavement, one man jogging.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>Pu</R> <F>mhm</F> probably, that is <?>fine</?> <R>Sunday</R> Sunday afternoon.</B>
+</task>
+<followup>
+<A>Good. O K. <F>Er</F> is this town look like the place you live now?</A>
+<B>No. <F>Mhm</F> <.></.> <F>mhm</F> <.></.> that is maybe in <SC>country</SC></B>
+<A><F>Uhm</F>.</A>
+<B><R>kan</R> <F>mhm</F> country.</B>
+<A><F>Mhmm</F>.</A>
+<B><OL>Because</OL></B>
+<A><CO><OL><?>So</?></OL></CO>.</A>
+<B>there is a <F>um</F> very big garden.</B>
+<A>O K. <F>Uhm</F>.</A>
+<B><..></..></B>
+<A>O K. <F>Er</F> would you like to live the place like this?</A>
+<B><F>Er</F> yes. I want to <?>the</?> house which have a garden.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mhm</F> O K. Good. All right. Now, we'll do a role play.</A>
+<ctxt>The interviewer is looking for the card.</ctxt>
+<A>Have you tried this before?</A>
+<B>No.</B>
+<A>O K. Let's try it. And, please read it. And if you're ready, I'll start.</A>
+<B>Yes. Hello?</B>
+<A>Hello. Hi. This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Er</F> this is <H pn="B's name">XXX02</H>. <OL>How are you</OL>?</B>
+<A><OL><F>Oh</F> <H pn="B's name">XXX02</H></OL>. <F>Er</F> good. How are you today?</A>
+<B>I'm fine, thank you.</B>
+<A>Good.</A>
+<B>And, <F>uhm</F> <F>er</F> <F>mhm</F> <F>urr</F> <SC>how about you</SC> how about go to movie with me?</B>
+<A><F>Oh</F> sounds nice.</A>
+<B><F>Ur</F> <R>what</R> <F>mhm</F> what time is good for you?</B>
+<A><F>Well</F> today?</A>
+<B><F>Urr</F> yes. <CO>Today or</CO>. <F>Uhm</F> when is good for you?</B>
+<A><F>Oh</F> <F>er</F> maybe this weekend.</A>
+<B><F>Oh</F> O K. <F>Mhm</F> <R>Sa</R> Sunday <OL>or</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>Saturday?</B>
+<A><?>On</?> Saturday. <F>Uhm</F>.</A>
+<B>Yes. <F>Mhm</F> on Saturday, the movie is <F>uhm</F> in afternoon, O K?</B>
+<A><F>Uhm</F>. Sure.</A>
+<B><F>Uhm</F> what time is it good for you?</B>
+<A><F>Oh</F> how about two o'clock?</A>
+<B><F>Mhm</F> yes. And <.></.> that movie is in Shibuya or Shinjuku.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><R>Which</R></OL> which do you like one?</B>
+<A><F>Err</F> Shibuya is closer.</A>
+<B><F>Mhm</F> yes. Me, too.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So, <F>uhm</F> <.></.> how about lunch?</B>
+<A>Sure. <OL><?>Let's</?></OL>.</A>
+<B><OL><F>Erm</F></OL> Yes? So, <F>uhmm</F> <.></.> <F>mhm</F> <SC?>we'll</SC?> <SC>we</SC> let's meet on Shibuya at lunch time.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Good?</B>
+<A>Good.</A>
+<B><F>Uhm</F>.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A>O K. <F>Erm</F> <F>well</F> <F>well</F> <R>what we gonna</R> what we gonna see?</A>
+<B><F>Ah</F></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter><F>oh</F> I'm sorry</laughter></OL>. I want to see "Elizabeth".</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL><R>Do you</R></OL> do you like one?</B>
+<A>Yeah.</A>
+<B><OL><F>Oh</F> O K</OL>.</B>
+<A><OL>I never seen that</OL>. So, O K.</A>
+<B><F>Mhm</F>.</B>
+<A>Thanks for calling. O K. Looking forward to seeing you.</A>
+<B>Me, too. <OL>Bye</OL>.</B>
+<A><OL>Good</OL>.</A>
+</task>
+<followup>
+<A>Bye-bye. Great. O K. <?>All right</?>. Have you seen good movies recently?</A>
+<B><F>Mhm</F> yes. I like movie very much. <OL>And</OL>,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>mhm</F> <.></.> I saw the "Buffalo Sixty-six" on Shibuya.</B>
+<A><F>Uh-huh</F>.</A>
+<B>That is very cute movie.</B>
+<A>Really?</A>
+<B>Yes.</B>
+<A><R?>Wh</R?> <R>why</R> why is that cute?</A>
+<B><F>Mhmm</F>. <F>Mhmm</F>. There is in Christina Ricci and Vincent Gallo, <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>at last, Gallo <.></.> change her character and he became happy.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>And</OL>, he look like very very happy and cute.</B>
+<A>Really? O K. <F>Urr</F> when you choose a movie to see, <R>how</R> how do you choose a new movie to see?</A>
+<B><F>Mhm</F>. <.></.> <F>Uhmm</F>. <.></.> When I choose movie, I read the leaflet of movie, or <F>mhm</F> <F>er</F> read a magazine.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And, <.></.> <F>urr</F> most my favorite movie is beautiful movie,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so <R>I su</R> <SC>I su</SC> I see the picture of movie</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> I decide it.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Really? Good. O K. Now, finally, I'll show you another picture.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>This one. And, I'd like you to make a story about this picture. And story happened before, so please start your story with "One day last week".</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>One day last week, <F>mhm</F> Ken called <SC>her</SC> his girlfriend <R>and</R> and said, <F>mhm</F> "<R>How</R> how about go to zoo with me?". <R>And</R> and she said "O K," so <R>he</R> he drived his car, and he put up her, and they went to zoo.</B>
+<A><F>Hum</F>.</A>
+<B><F>Mhm</F> <.></.> they looked many animals, and his girlfriend like lion very much.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And Ken likes monkey</B>
+<A><F>Uh-huh</F>.</A>
+<B>because "That is very pretty," he said. And <R>they</R> they saw lion and monkey and so on,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and they enjoyed very much.</B>
+<A><F>Mhm</F>.</A>
+<B>And they went to home.</B>
+</task>
+<followup>
+<A><F>Mhm</F> O K. So, where do you like to go for dating?</A>
+<B><F>Mhmm</F>. <F>Ur</F> I like zoo, too. But I like <.></.> <F>mhm</F> <.></.> <F>urr</F> <R>play</R> play land</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>er</F></OL> like a Disney Land.</B>
+<A><F>Oh</F> O K. <F>Mhm</F>. <F>Er</F>. Why do you <SC>like</SC> <F>urr</F> like play land, like Disney Land?</A>
+<B><F>Mhm</F> <F>mhm</F> <F>urr</F> I like Disney Land <OL>very much</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. So when was the last time you went to the Disney Land?</A>
+<B><F>Uhm</F> I went to Disney Land on last summer.</B>
+<A><F>Oh</F> O K. <F>Uhm</F> and <SC>what did you enjoy</SC> how did you enjoy?</A>
+<B><F>Uhmm</F>. That day, <R>there</R> there are not many people.</B>
+<A><F>Mhm</F>.</A>
+<B>So <SC>I</SC> <F>er</F> we rode many many rides,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and <F>mhm</F> <SC>not waiting</SC> <SC>not</SC> without waiting,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so we were <laughter>happy</laughter>.</B>
+<A><F>Oh</F> really? <F>Uhm</F> but, Disney Land is kind of expensive? Don't you think?</A>
+<B><F>Ur</F>. Yes. <F>Ur</F> little expensive but I like that very much, so <SC>I went to</SC> <F>er</F> I go to Disney Land on early morning.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>And</OL> I play till <F>mhm</F> late.</B>
+<A><F>Oh</F> O K. Good idea. <OL>Great</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. We are almost at the end of interview. But what are you going to do after this interview test?</A>
+<B><F>Erm</F> <.></.> I'll go to class of education studying, <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>then, I'll go to French class,</B>
+<A><F>Ah-huh</F>.</A>
+<B>and I went to home.</B>
+<A><F>Ah</F> O K. Good luck with your study, and thanks for coming today.</A>
+<B>Thank you.</B>
+<A>Enjoy talking with you. <OL>Good</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

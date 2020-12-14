@@ -1,0 +1,174 @@
+<interview>
+<filename>file00526.txt</filename>
+
+<head version="1.3">
+<date>2001-07-24</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. Good morning. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Umm</F>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>, nice to meet you. <OL>How are you today</OL>?</A>
+<B><OL>Nice to meet you</OL>. Fine, thank you. And you?</B>
+<A>I'm fine, thank you. <F>Wow</F> It's really hot.</A>
+<B>Yeah. <.></.> Yeah.</B>
+<A>So where are you from?</A>
+<B><F>Umm</F> I'm from <.></.> <F>umm</F> <H pn="others1">XXX03</H> <F>umm</F> <H pn="others2">XXX04</H>. <H pn="others2">XXX04</H>, <H pn="others1">XXX03</H>.</B>
+<A>Long way.</A>
+<B>Yes. <F>Umm</F> Now I live in <H pn="others3">XXX05</H> alone.</B>
+<A><F>Oh</F> I see. I see. I see. <R>So</R> <.></.> so <SC>you're</SC> you are living by yourself? Alone? <F>Hmm</F> O K. Can you tell me about <H pn="others2">XXX04</H>?</A>
+<B><F>Umm</F> <.></.> <SC><H pn="others2">XXX04</H> is <F>umm</F> very</SC> <F>umm</F> <SC><H pn="others2">XXX04</H> is</SC> <F>uum</F> <R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H> has good sea. <F>Umm</F> <.></.> <F>umm</F> <H pn="others2">XXX04</H> is <R>one of</R> <.></.> one of the <H pn="others4">XXX06</H>. <F>umm</F> <..></..> <F>umm</F> <..></..></B>
+<A>So <R>what</R> <SC>what does</SC> what do your parents do there?</A>
+<B><F>Umm</F> <..></..> <R>my</R> my mother live in <H pn="others2">XXX04</H> alone.</B>
+<A><F>Hmmm</F></A>
+<B>Because my father <F>umm</F> died eight years ago.</B>
+<A><F>Oh</F> I'm sorry to hear that. So what does she do?</A>
+<B><..></..> Pardon me?</B>
+<A>What does she do, her job?</A>
+<B><F>Umm</F> she works <F>urr</F> as a part time <SC>job</SC> worker.</B>
+<A>I see. All right. So what's your hobby then?</A>
+<B><F>Mmmm</F> <F>err</F> talking about clothes.</B>
+<A>Cloth?</A>
+<B>Clothes.</B>
+<A><F>Hmm</F></A>
+<B><F>Hmmm</F></B>
+<A>Interesting. Can you tell me more about it?</A>
+<B><F>Mmm</F> <..></..> <F>mmm</F> <..></..> I Love <nvs>laughter</nvs> cloth. <F>Umm</F>. Because <..></..> if <R>I</R> I can expensive clothes <F>umm</F> <..></..> <SC>I enjoyed</SC> I enjoy talking <F>umm</F> with <F>urr</F> sales clerk.</B>
+<A><laughter>I see, I see</laughter>. All right, thank you very much. Now, <R>what's</R> what's your major then at University?</A>
+<B><F>Urr</F> I major in Law.</B>
+<A>Law. <F>Wow</F>. What do you study in law?</A>
+<B><F>Urr</F>. Civil Law.</B>
+<A><F>Hmm</F> O K. Then what's your future plan?</A>
+<B><F>Umm</F> <..></..> I want to go to the business world of fashion.</B>
+<A>Interesting. And what's do you want to do there?</A>
+<B><F>Urr</F> <..></..> <F>umm</F> <R>I</R> I will go abroad <F>umm</F> to buy clothes. <F>Ummm</F> I want to be a buyer of clothes.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. <F>Well</F> I hope your dream come true. All right. Thank you very much. Now, first of all, I would like to show you a picture. <nvs>cough</nvs> Have you seen this one before?</A>
+<B>No.</B>
+<A>Is this first time?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Please describe this picture for me.</A>
+<B><F>Urm</F>. <.></.> Describe?</B>
+<A>Yes.</A>
+<B><F>Umm</F></B>
+<A>Tell me what you see.</A>
+<B><..></..> <F>Umm</F>. It is sunny day. <F>Umm</F>. <.></.> <SC>People and</SC> <SC>people <.></.> here</SC> <F>mmm</F> <SC>people is</SC> <F>urr</F> <SC>people are very</SC> <F>urr</F> people <SC>looks like</SC> <SC>look</SC> looks very <F>umm</F> happy. <F>Umm</F>. <.></.> <SC>One person is</SC> <F>urr</F> one person <SC>run <F>urr</F> <.></.> the <F>urr</F> road</SC> run in the road. <F>Umm</F> <.></.> <F>umm</F> the cat sleeps <F>umm</F> on the car. <F>Umm</F>. <.></.> <F>Umm</F>. <SC>A child</SC> one child <F>umm</F> <F>umm</F> played alone. And <SC>two boys <F>umm</F> use</SC> <SC>the boy use</SC> the boys use <F>umm</F> balls and <F>umm</F> <.></.> one old person <F>urr</F> sit on the bench and <SC>readi</SC> <F>urr</F> <R>he reads</R> he reads <F>urr</F> newspaper. And <F>mm</F> <.></.> <R>two</R> two women <F>umm</F> enjoy talking. <F>Umm</F>. That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you <OL>very much</OL>.</A>
+<B><OL>Sorry</OL>.</B>
+<A>That's O K. Now <SC>looks</SC> this picture looks like a typical Sunday afternoon. What do you do on your own free time or your day off?</A>
+<B><F>Urr</F> <R>I</R> <F>umm</F> I enjoy listening to music. <F>Umm</F> I often listen to Japanese Pops.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hmmm</F> I see. All right. Thank you very much. Now next I'd like to do a role-play. O K. <.></.> O K. Here's the card. Have you seen this one before?</A>
+<B><..></..></B>
+<A>Is this your first time?</A>
+<B>Yes, first time.</B>
+<A>O K. Please read it to yourself. When you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card to himself.</ctxt>
+<A>All right?</A>
+<B><F>Mmm</F> <..></..></B>
+<A>O K. <OL>Yes</OL>.</A>
+<B><CO><OL><R>I want</R></OL> I want</CO>.</B>
+<A>How may I help you?</A>
+<B><F>Ah</F>.</B>
+<A>Go ahead.</A>
+<B><SC>I want to</SC> I want <R>shoes</R> <F>mmm</F> <.></.> <F>mmm</F> <.></.> shoes. <F>Umm</F> <.></.> <SC>I was leather</SC> I want leather shoes.</B>
+<A>We have so many shoes.</A>
+<B><F>Urr</F> <F>umm</F> I want <F>umm</F> the shoes color is <F>umm</F> black.</B>
+<A><F>Uh-hum</F>.</A>
+<B>Leather shoes. <F>Umm</F> <.></.> the price is under <F>umm</F> twenty thousand yen.</B>
+<A><F>Oh</F>. We have about fifty of them.</A>
+<B><F>Urr</F>. <nvs>laughter</nvs></B>
+<A>Black leather shoes.</A>
+<B><F>Urr</F>.</B>
+<A>Chepaer than <R>twen</R> twenty thousand.</A>
+<B><F>Umm</F> I will use the shoes <F>urr</F> when I wear suit.</B>
+<A>O K. <F>Well</F> in that case, I will recommend you these three types.</A>
+<B><F>Ummm</F> <.></.> <R>I</R> I want to try them.</B>
+<A>Yes. Go ahead.</A>
+<B>Thank you.</B>
+<A>How do you like it?</A>
+<B>Yes, <F>umm</F> but <F>urr</F> <R>I want to</R> I want to <F>umm</F> look other shoes.</B>
+<A>Sure.</A>
+<B><F>Umm</F> <..></..> <nvs>laughter</nvs></B>
+<A>O K. What kind of shoes are you looking for? Don't you like these three shoes?</A>
+<B><F>Urr</F> This one.</B>
+<A>O K. So you would like this one? O K. This is exactly twenty thousand yen.</A>
+<B>Twenty thousand yen. <F>Umm</F>.</B>
+<A>O K?</A>
+<B>I want to buy it.</B>
+<A>All right. Thank you very much. Here's the shoes. Enjoy it.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>O K. Thank you. Now, thank you very much. This is the end of the role-play. <nvs>coughs</nvs> When you go shopping, where do you usually go?</A>
+<B>Where? <F>Ummm</F> Yokohama or Shinjuku <F>ummm</F> Shibuya,</B>
+<A><F>Hmmm</F>.</A>
+<B>and so on.</B>
+<A>Why Yokohama?</A>
+<B><F>Ummm</F> <F>umm</F> <R>I</R> I often go to Barney's New York <F>umm</F> at Yokohama. <F>Umm</F> <F>um</F> and there the sales clerk is very kind for me. And even if I can't <F>umm</F> buy clothes, <F>urr</F> the sales clerk <F>umm</F> talked <F>urr</F> with me very kindly.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Hmmm</F> I see. That makes sense. Thank you very much. All right. Lastly, I would like to show you a sequence of pictures. Have you seen this one?</A>
+<B>No.</B>
+<A>O K. I would like you make up a story based on these pictures. Very short stories from number one to six. And this happened before, so please start your story with one day last week. O K? Go ahead.</A>
+<B><F>Umm</F>. There is nothing to eat <F>err</F> <SC>the</SC> <R>in the</R> <F>umm</F> <.></.> in the kitchen. And so the lady <F>umm</F> go to the supermarket <R>by a car</R> by car. <F>Urr</F> she choose many foods <F>urr</F> and she buy many foods. <F>Urr</F> <R>she</R> <F>urr</F> <.></.> <F>umm</F> she carry <F>urr</F> the foods <F>urr</F> <SC>to the</SC> <F>ah</F> from supermarket to <F>mm</F> her car. <F>Umm</F> and <R>lastly</R> lastly <F>urr</F> she cooked <F>urr</F> in the kitchen.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. Now I understand you are living alone, how do you do with your food?</A>
+<B><F>Umm</F> <.></.> <F>umm</F> in the first time <F>urr</F> I cooked <F>urr</F> by myself <laughter>but recently I went <R>to</R> to convenience store</laughter>.</B>
+<A>Why is that?</A>
+<B><F>Ah</F> pardon?</B>
+<A>Why do you <SC>go</SC> always go to convenience store?</A>
+<B><F>Umm</F> <.></.> <F>umm</F> <SC>I have to</SC> <SC>I have</SC> <F>ah</F> I don't have many time to cook.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. All right. Thank you very much. Now, this is almost the end of interview. So, what is your plan during the summer?</A>
+<B><F>Ah</F> this summer?</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Umm</F> <.></.> <F>umm</F>. In fact, <SC>I</SC> <F>ur</F> yesterday <SC>I <F>mmm</F> go to Shinagawa and <R>to</R> <F>urr</F> <R>to</R> <F>urr</F> <SC>to go</SC> <F>urr</F> <R>to do</R> <F>err</F> to do</SC> I went to Shinjuku to <F>umm</F> do interview test to <F>err</F> <.></.> get part time job.</B>
+<A><F>Oh</F> I see. Are you going to work during the summer? You are not going to enjoy yourself?</A>
+<B><SC>Enjoy yourself</SC> <F>umm</F> enjoy myslef. <F>Umm</F>.</B>
+<A>Like a short trip or sightseeing?</A>
+<B><F>Urr</F>. The part time job is sales clerk.</B>
+<A><F>Hmm</F></A>
+<B><F>Uum</F> <SC>I'm</SC> <R>I</R> <R>I</R> <F>mmm</F> I am opening staff. <F>Urr</F>.</B>
+<A>For the store?</A>
+<B>The store.</B>
+<A>I see. <F>Wow</F>. So you have to work very hard.</A>
+<B>Yes.</B>
+<A>I see.</A>
+<B><F>Umm</F> the <SC>place</SC> shop place is <H pn="others5">XXX07</H></B>
+<A><OL><R>Hmmm</R></OL></A>
+<B><OL>in <H pn="others6">XXX08</H></OL>.</B>
+<A><F>Well</F> sounds interesting. <F>Wow</F>. And how long are you going to work?</A>
+<B><F>Umm</F> <nvs>laughter</nvs></B>
+<A>You don't know? That's O K. That's O K. All right, thank you very much. This is the end of interview. <OL>All right</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

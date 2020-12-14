@@ -1,0 +1,396 @@
+<interview>
+<filename>file01107.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>male</sex>
+<age>39</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>615</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good Morning.</A>
+<B>Good Morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, Mister <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>, where do you live now?</A>
+<B>I live in <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H> Ward.</B>
+<A>O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Er</F></OL> what's your place like?</A>
+<B><F>Ah</F> what's a place like?</B>
+<A><OL>Yes</OL>.</A>
+<B><OL>Yeah</OL>. And <H pn="others1">XXX03</H> is <F>er</F> <F>err</F> a dominant area <R>in</R> in <H pn="others3">XXX05</H>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>Yeah</OL>. <F>Er</F> there are a lot of <F>um</F> restaurant, a lot of bar</B>
+<A><F>Hu-huh</F>.</A>
+<B>and <F>er</F> <SC>school</SC> <F>eh</F> <F>er</F> high school and <OL>university</OL></B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B><OL><?>in</?>, yeah</OL>.</B>
+<A><OL><F>Oh</F></OL>. O K. <F>Er</F> could you tell me one of the university in <H pn="others1">XXX03</H>?</A>
+<B>Yeah. <H pn="school name1">XXX06</H>.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah.</B>
+<A><F>Hum</F>. <R>Do you</R> do you know anything about that university?</A>
+<B>A university? <F>Hum</F>. <H pn="school name1">XXX06</H> and <H pn="school name2">XXX07</H>.</B>
+<A><F>Hu-huh</F>. <OL>O K</OL>.</A>
+<B><OL><R>Yeah</R></OL> yeah.</B>
+<A><F>Er</F> do you live with your family in <H pn="others1">XXX03</H>?</A>
+<B>Yes. <OL>Of course</OL>.</B>
+<A><OL><F>Hu-huh</F></OL>. O K.</A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL><F>Err</F></OL> if you don't mind tell me about your family.</A>
+<B><F>Ah</F> <F>ah</F> my family is <F>um</F> <F>er</F> wife and dog. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Yeah.</B>
+<A><F>Um</F>. O K. So <F>er</F> more about your dog, please.</A>
+<B><F>Ah</F>? <F>Err</F>.</B>
+<A>A little more about your dog, please.</A>
+<B><R>Yeah</R> yeah, <F>mm</F> <R>my dog</R> <.></.> my dog's name is <R>Chappy</R> <F>ah</F> Chappy.</B>
+<A><laughter>O K</laughter>.</A>
+<B>Yeah, and <F>err</F></B>
+<A><nvs>cough</nvs></A>
+<B>the kind of dogs is the <F>er</F> Yorkshire terrier.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah, and we bought my dog <F>er</F> two years <OL>ago</OL>.</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B>Yeah. <F>Erm</F> my wife was eager to buy a dog.</B>
+<A><F>Ah-huh</F></A>
+<B>A small dog.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Um</F>.</A>
+<B>And so, yeah, my dog is one of my family. <OL>Yeah</OL>.</B>
+<A><OL><F>Hu-huh</F></OL> <F>um</F> so <F>er</F> why did your wife <OL>eager to</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A><SC>want</SC> have a dog?</A>
+<B>Yeah, <SC>during</SC> <F>err</F> while I'm working, <F>er</F> my wife <F>er</F> is <SC>sad</SC> <OL>always sad, yeah</OL>.</B>
+<A><OL><F>Hu-huh</F> <F>hu-huh</F></OL>.</A>
+<B><F>Er</F> therefore, my wife want to buy a dog, <OL>yeah</OL>,</B>
+<A><OL><F>Um</F></OL> I see. <OL>O K</OL>.</A>
+<B><OL>to</OL> avoid <F>er</F> to be sad. Yeah.</B>
+<A>O K. <OL>I see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>So, by the way, what's your hobby?</A>
+<B>Yeah, my hobby is <F>err</F> playing the guitar and listen to music <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>playing a golf. <.></.> Yeah, <F>er</F> <SC>I've been</SC> <R>a</R> <SC>I've been playing the golf</SC> <F>err</F> I've been playing guitar for <F>err</F> twenty-five years.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah, when I was a junior high school student,</B>
+<A><OL>O K</OL>.</A>
+<B><OL>I</OL> started to play the <OL>guitar</OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B>Especially I like blues.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yes, I have a band.</B>
+<A>I see. <F>Oh</F> how often do you play the guitar <OL>recently</OL>?</A>
+<B><OL><F>Err</F> <?>and</?> <F>er</F></OL> unfortunately, I can play the guitar once or twice a week. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Because <??></??> I'm very busy <OL>on</OL></B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B>weekday.</B>
+<A><F>Hum</F>. <OL>O K</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>So is it O K to play the guitar <F>err</F> at home?</A>
+<B>Yeah. I bought <R>a</R> a house <OL><F>er</F> last year, yeah</OL>,</B>
+<A><OL><F>Hu-huh</F> O K</OL>.</A>
+<B>and therefore, I can play the guitar <OL>and <F>er</F></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>er</F> <SC>a volume is <F>er</F> very high</SC></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>I</OL> can play the volume <?>with</?> high, yeah.</B>
+<A><F>Oh</F>. O K. <OL>That's nice</OL>.</A>
+<B><OL><R>Ye</R></OL> yeah.</B>
+<A>O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. <OL><nvs>cough</nvs></OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>So, look at this picture and describe it for me.</A>
+<B>Yeah. <?>There're</?> having dinner <F>er</F> <R>a</R> and they're enjoyed it. And, bartender served a bottle of wine.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah. <F>Err</F> <SC>the somebody</SC> <F>er</F> somebody playing the piano.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah. And <F>er</F> <F>er</F> there are lot of <F>er</F> <?>beakers</?> <OL><R>o</R></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>on the table, <R>an</R> <SC>and that table and between</SC> <F>ah</F> at the middle of shelf, <?>and</?> <F>er</F> <F>ah</F> there are a lot of wine bottles.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah. <F>Hum</F>. <F>Err</F> this seems good <R>at</R> atmosphere.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah, very nice. <OL><F>Hum</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+</task>
+<followup>
+<A>So you said there are a lot of restaurants and bars in <H pn="others1">XXX03</H>.</A>
+<B>Yes.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Yeah.</B>
+<A>So <F>err</F> which is your favorite one?</A>
+<B>Favorite one? <F>Hum</F> my favorite restaurant is Italian restaurant <F>err</F> <?>where is</?> very <R>reasona</R> reasonable price <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><F>er</F> a very good dishes. <OL>Yeah</OL>.</B>
+<A><OL><F>Um</F></OL></A>
+<B>Especially, <F>err</F> my favorite dishes is peperoncino. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Yeah, <R>peperon</R> <F>er</F> peperoncino is very simple taste <OL><?>but</?></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><?>it is</?> difficult <OL><R>to</R></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>to cook.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah. <F>Er</F> simple <F>er</F> but difficult to cook, I think. <OL>Yeah</OL>.</B>
+<A><OL><F>Um</F></OL>. I see. <F>Er</F> is that peperoncino <SC>in that store</SC> <F>ah</F> in that restaurant <OL>different</OL></A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>from one in other restaurants?</A>
+<B>Yeah.</B>
+<A><F>Hum</F>.</A>
+<B><SC>The</SC> <F>er</F> one of the most difference <F>er</F> is <F>er</F> <F>err</F> <F>err</F> that peperoncino with <F>err</F> anchovy.</B>
+<A><F>Hum</F>.</A>
+<B>Anchovy, you know? <R>A</R> a salted and <F>er</F> <R>mince</R> minced fish. <OL>Yeah</OL>?</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>Yeah, and anchovy <R>is</R> <F>er</F> <F>err</F> is a good taste, <OL><R>and</R></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>er</F> and with peperoncino <OL><F>um</F></OL>.</B>
+<A><OL><F>Hum</F></OL>. O K. I see. <OL>I understand</OL>.</A>
+<B><OL>Yeah, yeah, yeah</OL>.</B>
+<A>O K. <laughter>Thank you very much</laughter>.</A>
+<B>Yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So next, we will do a role-play. Do you know what's the role-play is?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<ctxt>The interviewer is looking for the card.</ctxt>
+<A>O K. <??></??>. This is your role. O K? Read this card, and when you are ready, please start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><F>Hum</F>.</B>
+<A>All right?</A>
+<B>Yeah. <.></.> <F>Er</F> <SC>could you tell me the way the ar</SC> <F>er</F> could you tell me <F>er</F> <R>the</R> the <R>earliest</R> <.></.> earliest way <R>to</R></B>
+<A><F>Um</F>.</A>
+<B>to New York?</B>
+<A>O K. <F>Er</F> you should take a express train.</A>
+<B><F>Oh</F>. Thank you. <OL><R>And</R></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>err</F> <F>err</F> and could you tell me how to get earliest ticket <F>er</F> to the New York?</B>
+<A>O K. You can buy a ticket here.</A>
+<B><F>Oh</F>. <OL>Really</OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>Er</F> how much <F>err</F> round trip ticket?</B>
+<A>Round trip <OL>ticket</OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A>O K. Two-hundred fifty dollars.</A>
+<B>Two-hundred fifty dollars. <F>Er</F> can I use the <SC>cash card</SC> <F>er</F> credit card?</B>
+<A><F>Er</F> sorry, we can't accept any credit card.</A>
+<B>Cash only?</B>
+<A>Cash only.</A>
+<B>Yeah.</B>
+<A><F>Hum</F>.</A>
+<B>Here you are.</B>
+<A><OL>O K, so</OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>erm</F> how many tickets you want?</A>
+<B><F>Er</F> one ticket. <R>Yes</R></B>
+<A>One <OL>ticket</OL>.</A>
+<B><OL>yes</OL>.</B>
+<A>O K. <F>Ehh</F> <F>oh</F> excuse me, <F>er</F> the economy seats are all full right now.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>we</OL> have only the first seat left, so first seat costs three-hundred dollars.</A>
+<B>Three-hundred dollars?</B>
+<A>Yes.</A>
+<B><F>Err</F>. <.></.> May I have a discount, please? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Discount</OL>? Sorry. We can't <laughter>discount</laughter> any tickets. <F>Um</F>.</A>
+<B><F>Er</F> this trip is a <R>perso</R> <F>er</F> personal trip <?>and better</?> I want to save money</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>er</F> to New York. <OL>Yeah</OL>.</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B><F>Er</F> <F>ah</F> could you tell me another way to New York?</B>
+<A>O K. <CO>So <F>erm</F> we have some seat left <SC>in the next train</SC> <OL>in the next</OL></CO>.</A>
+<B><OL>Next train</OL>? <F>Um</F> what time <F>err</F> <?>a way of</?> next train start?</B>
+<A>O K. In thirty minutes.</A>
+<B>In thirty minutes.</B>
+<A>Yes.</A>
+<B><F>Hum</F> yeah, <?>but</?> it's late. <OL><F>Err</F></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B>O K. Anyway, <R>I want to</R> <.></.> I want to come to New York as soon as <OL>possible</OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>Yeah, and I will buy <R>the</R> the first class ticket, O K.</B>
+<A><F>Oh</F>. Three-hundred dollars?</A>
+<B>Yeah, three-hundred dollars.</B>
+<A>I see. O K, <OL>so</OL></A>
+<B><OL>Yes</OL>.</B>
+<A>here is your ticket.</A>
+<B>Yeah, <OL>thank you</OL>.</B>
+<A><OL>O K</OL>. Thank you very much. This is the end of the role-play. <F>Um</F>.</A>
+</task>
+<followup>
+<A>So, <F>er</F> <.></.> <F>er</F> when you travel, O K, <OL>do you</OL></A>
+<B><OL>O K</OL>.</B>
+<A>like traveling by train or by car?</A>
+<B><F>Err</F> sometimes <F>er</F> train, sometimes car. <OL><nvs>laughter</nvs> <laughter>Yeah</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs> O K</OL>.</A>
+<B>Yeah. <F>Um</F> but <F>err</F> as you know, <F>err</F> in Tokyo,</B>
+<A><F>Ah-huh</F>.</A>
+<B>whenever <SC>I go to</SC> <.></.> <F>er</F> I went to the <F>er</F> sightseeing spot <F>er</F> by my car,</B>
+<A><F>Hu-huh</F>.</A>
+<B>I always meet <F>er</F> traffic jam.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>Yeah</OL>. A traffic jam irritate <R>m</R> me.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah, <SC>but</SC> and <F>er</F> <.></.> I want to <F>err</F> <F>er</F> sometimes use a train to avoid <F>er</F> a traffic jam.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah. And <F>err</F> <F>err</F> in train,</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>err</F></OL> I can drink a beer, <OL>drink</OL></B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B>alcohol,</B>
+<A><F>Hu-huh</F>.</A>
+<B><?>eat something</?> <?>are</?> something to drink. <OL>Yeah</OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>Very comfortable space, <?>it's right</?>. Yeah. <OL><F>Hum</F></OL>.</B>
+<A><OL><F>Um</F> O K</OL>. So <F>err</F> where did you go in the last trip?</A>
+<B>Last trip? <F>Huum</F> last trip, I went to Izu <R>by</R> <SC>by explain</SC> <OL><F>ah</F></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>ah</F> <R>by</R> by express train.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Hum</F>. Yeah. "Izu Odoriko". <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL>.</A>
+<B><laughter>Yeah</laughter> yeah, and <F>er</F> <R>Iz</R> Izu is one of my favorite <R>sp</R> spring hot place.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah. <F>Er</F> it makes me <F>er</F> comfortable</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>and relax</OL>. <?>I will</?> relaxiation, <OL>revitalize</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>my mind. Yeah, <R>a very good</R> a very good place for me.</B>
+<A>I see. <OL>O K</OL>.</A>
+<B><OL><R>I like</R></OL> I like there.</B>
+<A>All right. Sounds <OL>good</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'm going to show you another picture.</A>
+<B>Yeah.</B>
+<ctxt>The interviewer is looking for the picture.</ctxt>
+<A>So, please look at this picture. <OL><?>O K</?></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>And this time, I want you to make a short story.</A>
+<B><F>Um</F>.</B>
+<A>It happened last week, so start your story, "One day last week,"</A>
+<B><F>Um</F>. Yeah. <.></.> <F>Erm</F>? <.></.> <R>She</R> <SC>she</SC> <R>I</R> <SC>I</SC> she?</B>
+<A><F>Oh</F>. <OL>Either</OL></A>
+<B><OL><??></??></OL>.</B>
+<A>one is O K.</A>
+<B><F>Oh</F>. I went to department store to buy <F>er</F> <F>er</F> my wife's birthday present. Yeah. And <F>er</F> <F>uhm</F> <..></..> at first, <SC>I look for</SC> <F>ah</F> I looked for <F>err</F> <SC>the flo</SC> <F>err</F> <R>the</R> the <R>ladies'</R> <SC>ladies' shu</SC> <F>err</F> ladies' gift floor, and <F>err</F> I looked for <F>err</F> my wife's and <F>er</F> sweater. Yeah. And <F>er</F> <F>hum</F> the department store recommended me and <SC>blue</SC> <F>er</F> green sweater for my wife, yeah. <R>I</R> <F>hum</F> I like the <F>err</F> <F>er</F> his suggestion, and <F>er</F> I bought and <F>err</F> green sweater and which a department store's staff recommended. Yeah. And after that, <R>I found</R> <F>err</F> <.></.> I found <SC>the</SC> <F>err</F> a lot of shoes.</B>
+<A><F>Um</F>.</A>
+<B>Yeah. <F>Err</F> <F>ah</F> suddenly, I want to buy <F>er</F> <SC>a one</SC> <SC>a shu</SC> a pair of <OL>shoes</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>and for me, and <SC>the</SC> after that, <F>err</F> I found another <SC>and discount</SC> a discount suit.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah, <F>eh</F> <F>ah</F> this price is fifty percent off, yeah. <SC>I'm</SC> <F>hum</F> <F>um</F> but, <F>err</F> <SC>today's my</SC> <F>ah</F> <F>ah</F> my <R>o</R> <SC>objective</SC> objectives are <F>ah</F> today and <F>er</F> <R>I</R> I bought and <R>my</R> my wife's <F>er</F> birthday present, yeah. I gave up to buy them.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <laughter><R>And</R></laughter> and <F>err</F> <F>er</F> <.></.> I left <laughter>the department store</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>I see</laughter>, O K, I understand</OL>.</A>
+</task>
+<followup>
+<A>All right. So, <F>err</F> do you like shopping?</A>
+<B>Yeah. I do not shopping too much, but my wife <OL>loves</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>shopping. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Whenever <R>she</R> she goes shopping, <OL>and</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>she spend <OL><R>a</R></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>a lot of time <SC><OL>to</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>buy</SC> <F>err</F> to decide to buy. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see. Why you don't like shopping?</A>
+<B><F>Mm</F> yeah. <.></.> Whenever I go shopping, and <F>err</F> <F>er</F> in advance, <R>a</R> I decide to buy,</B>
+<A><F>Hum</F>.</A>
+<B><F>er</F> and <F>err</F> <F>er</F> <F>ah</F> therefore, <R>whenev</R> whenever I go shopping, <R>I</R> I <?>spend</?> soon. But and <F>err</F> when I go shopping with my wife, <OL>and</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>my wife <F>er</F> likes window shopping.</B>
+<A><F>Hum</F> <OL><F>um</F></OL>.</A>
+<B><OL>Yeah</OL>. And <R>they</R> they always are decided to buy something <F>err</F> to <F>er</F> <?>yet</?>.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah, I mean, <SC>I always</SC> I'm always irritating <OL><SC>to</SC></OL></B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B>not to the decide to buy</B>
+<A><F>Ah-huh</F>.</A>
+<B><??></??>. Yeah. <?>Better</?> now, <R>I</R> <F>ah</F> <F>uh</F> <F>err</F> <SC>I never</SC> <F>er</F> whenever I want to buy <F>er</F> <R>my</R> my suit and my shoes, <OL><F>er</F></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>something like that, <F>er</F> I go shopping alone. <nvs>laughter</nvs> Yeah.</B>
+<A>Alone? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Alone</laughter></OL>. Yeah. <R>A</R> and my wife, too. <OL><nvs>laughter</nvs> <laughter>Separate</laughter></OL>.</B>
+<A><OL><laughter><F>Oh</F> I see</laughter></OL>. <OL>O K</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><?>Kind of</?> good idea.</A>
+<B>Even if and <OL><F>er</F></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>er</F> <R>we</R> we go shopping together,</B>
+<A><F>Hu-huh</F>.</A>
+<B>yeah, I always <R>wait for</R> <F>er</F> wait for her</B>
+<A><F>Ah-huh</F>.</A>
+<B>at <SC>coffee restaurant</SC> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> <laughter>I see, O K</laughter></OL>.</A>
+<B><F>ah</F> a coffee shop. Yeah.</B>
+<A>Good idea.</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A><OL>All right</OL>. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So interview is almost over.</A>
+<B>Yeah.</B>
+<A>So <F>erm</F> what are you going to do after this interview today?</A>
+<B>Yeah.</B>
+<A><F>Hum</F>.</A>
+<B>I will have a meeting <OL>after</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>this interview <OL>today</OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>Hum</F> yeah, and <F>er</F> <F>hum</F> today's objective <R>is</R> <F>er</F> <F>err</F> is to fix objective <F>err</F> tomorrow's meeting. <OL>Tomorrow's</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>meeting is <SC>board mem</SC> <OL><F>er</F></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>with <SC>mo</SC> <F>er</F> board member.</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B><OL>Yeah</OL>. <F>Ah</F> most important meeting, <F>ah</F> <OL>yes</OL>.</B>
+<A><OL><F>Oh</F></OL>. I see.</A>
+<B>Do you have a lot of meetings?</B>
+<A>Yeah.</A>
+<B>Third time or four times a week.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Yeah. <F>Um</F> but and <F>er</F> <SC>tomorrow's meeting <R>i</R> is</SC> <F>err</F> <F>ah</F> <F>ah</F> tomorrow meeting will be held at once a month</B>
+<A><F>Oh</F>. <OL>O K</OL>.</A>
+<B><OL>with</OL> board <OL>member</OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>Erm</F> very important meeting.</B>
+<A>I see. <OL><F>Oh</F></OL></A>
+<B><OL><F>Um</F></OL>.</B>
+<A>sounds important.</A>
+<B>Yes.</B>
+<A>O K. Thank you very much</A>
+<B>You are welcome.</B>
+<A>for <OL>today</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+</stage5>
+</body>
+</interview>

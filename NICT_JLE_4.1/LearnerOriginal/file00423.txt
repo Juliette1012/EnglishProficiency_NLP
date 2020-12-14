@@ -1,0 +1,160 @@
+<interview>
+<filename>file00423.txt</filename>
+
+<head version="1.3">
+<date>2001-03-13</date>
+<sex>female</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>3</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. O K. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A>O K. So, <H pn="B's name">XXX02</H>, where do you live? Where do you live? <.></.> Where? <F>Uh-huh</F>.</A>
+<B>I live in <H pn="others1">XXX03</H> <.></.> near the <H pn="others2">XXX04</H>.</B>
+<A><F>Hum</F>. O K. With your family?</A>
+<B><F>Mm</F>. No. I live alone. But <SC>near</SC> <.></.> my brother lives near my house.</B>
+<A><F>Oh</F>. O K. Where is your hometown?</A>
+<B><R>My</R> my hometown is <H pn="others3">XXX05</H>.</B>
+<A>I see. <F>Mh-hmm</F>.</A>
+<B>And my family, parents and young brother is living there.</B>
+<A>I see. O K. So <H pn="B's name">XXX02</H>, what do you do? <.></.> What is your job? Or are you a student?</A>
+<B><SC>I'm</SC> <R>my</R> <R>my</R> my job is office work.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And my office is <H pn="others4">XXX06</H>.</B>
+<A><F>Uhm</F> <F>hum</F>. O K. <SC>What company</SC> what kind of job do you do?</A>
+<B>My company is <.></.> <SC>telephone line</SC> <F>ah</F> <.></.> <H pn="company name1">XXX07</H>.</B>
+<A><F>Uh-huh</F>. <F>Hum</F>. I see. O K. So <H pn="B's name">XXX02</H>, what do you like to do in your free time?</A>
+<B><.></.> <SC>I usually <.></.> see</SC> I usually go to the movie theater <SC>in</SC> at free time.</B>
+<A><F>Hum</F>. <F>Hm</F>. What kind of movie do you like?</A>
+<B>I like human drama and comedy.</B>
+<A><F>Hm</F> I see. O K. How is your brother? <R>Wha</R> what does he like to do in his free time? Do you know?</A>
+<B><SC>My brother is</SC> <..></..> my brother <.></.> usually <.></.> reading books and <SC><JP>televi</JP> game</SC> <F>ah</F> play <R><JP>televi</JP></R> <JP>televi</JP> games,</B>
+<A>I see.</A>
+<B>in free time.</B>
+<A><F>Uh-huh</F>. You don't play T V game?</A>
+<B><.></.> <F>Hm</F> <R>I</R> <.></.> I don't play <JP>televi</JP> game.</B>
+<A><F>Uh-huh</F>. Why? Why not?</A>
+<B><SC>My</SC> <.></.> <R>I</R> I have not <JP>televi</JP> games.</B>
+<A><F>Ah</F>. <F>Uh-huh</F>. And you are not interested in it at all?</A>
+<B><R>I</R> I'm very interest in <JP>televi</JP> games. But <.></.> <R>I</R> <R>I have</R> I have not play <JP>televi</JP> game time.</B>
+<A><F>Ahm</F>. You are busy.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. Thank you. So now I'm gonna show you a picture. O K. So please take a look at this picture and describe it for me.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><R>Many people play</R> <F>uh</F> <SC>many people play ski and</SC> <..></..> many people play ski very fun. <..></..> Six persons play ski but <SC>four kid</SC> <.></.> four kids <SC?>is</SC?> <R>play</R> <..></..> <SC>play</SC> <F>erm</F> <..></..> throw the snowball.</B>
+<A><F>Hu-hum</F>. <F>Hm</F>. <F>Hm</F>.</A>
+<B>One person <SC>is snowboard</SC> <F>ah</F> plays snowboard.</B>
+<A><F>Mh-hmm</F>. <F>Hm</F>.</A>
+<B><..></..> And <SC>two people <.></.> drinking and relax in</SC> <..></..> two people <SC>is not <JP>gere</JP></SC> is not in <JP>gerende</JP>. <F>Erm</F>. Drink and <..></..> talking.</B>
+</task>
+<followup>
+<A><F>Hum</F>. <F>Mh-hmm</F>. O K. Good. O K. Thank you very much. So <H pn="B's name">XXX02</H>, <F>em</F> do you play any sports?</A>
+<B><.></.> <F>Am</F> I often <.></.> swimming, but <..></..> <R>I'm not</R> I'm not swimming <..></..> this month.</B>
+<A><F>Hm</F>. <F>Hm</F>. <F>Hm</F>. Why not?</A>
+<B>Very busy.</B>
+<A>I see. <F>Mm</F>. O K. So, by the way, <H pn="B's name">XXX02</H>, which season do you like the best?</A>
+<B><SC>I like</SC> my favorite season is <.></.> spring.</B>
+<A>Why spring?</A>
+<B><SC>Because <F>uh</F> <R>I</R> I like</SC> my favorite season is spring, because I like cherry blossom,</B>
+<A><F>Oh</F>. Yes. <F>Uhm</F>.</A>
+<B>very well.</B>
+<A><F>Uh-hum</F>.</A>
+<B>And <.></.> spring is very warm.</B>
+<A><F>Uh-hum</F>.</A>
+<B><..></..> <R>My</R> my feeling is very fun.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Oh</F> I see. O K. That makes you feel better. O K. Good. O K. Thank you. <H pn="B's name">XXX02</H>, we are going to do a role-play. O K? Good. O K. Here is the card. Please read this card and when you are ready, I will start.</A>
+<ctxt>The interviewee is looking at the card.</ctxt>
+<A>O K. May I help you?</A>
+<B><.></.> <R>I</R> <SC>I want to</SC> <F>mm</F> <R>I want sh</R> <.></.> <SC>I want <SC>shoes</SC> <..></..> <F>ah</F> lon</SC> I want long boots. <R>Do you have</R> <.></.> do you have <.></.> what color boots?</B>
+<A><F>Um</F>. O K. We have <R>many kinds</R> <F>ah</F> many kinds of colors for boots. <F>Hum</F>. <.></.> Red, yellow, beige, brown. <F>Uh-huh</F>.</A>
+<B>Black and <.></.> brown.</B>
+<A><F>Um</F>. <F>Oh</F> yes, we do <.></.> have some black and brown <F>uh-huh</F> boots.</A>
+<B><..></..> Do you have another size boots?</B>
+<A><F>Uh-hum</F>. Yes. O K. Many kinds of size, yes, we have for boots. <F>Mh-hmm</F>.</A>
+<B>Twenty-three <.></.> centimeter.</B>
+<A><F>Uh-huh</F>. O K. Twenty-three centimeters. O K. Here is some.</A>
+<B><.></.> <R>More</R> <R>more</R> <SC>more tall boots</SC> do you have more tall boots?</B>
+<A><F>Oh</F>. O K. How about this one?</A>
+<B><.></.> <?>This</?>, <..></..> <R>I</R> I want it, <OL><??></??> boots</OL>.</B>
+<A><OL><F>Uhm</F></OL>. O K. Thank you very much. O K. Here you are.</A>
+<B>Thank you.</B>
+<A>O K. So it's <.></.> fifty dollars. <nvs>laughter</nvs></A>
+<B><R>It's</R> <.></.> it's very expensive.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Please <R>more</R> <.></.> more <SC>count down</SC> <..></..> price down.</B>
+<A><F>Uh-huh</F>. Cheaper ones? O K. Yeah. We have some cheaper ones here. And almost the same style. <.></.> Would you like this one? <.></.> It's thirty dollars.</A>
+<B>Thirty <OL>dollars</OL>?</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>Yes. <.></.> <?>And</?> <.></.> <R>I</R> <.></.> <R>I</R> <.></.> I want <.></.> to buy <.></.> this boots.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you very much. O K. O K. So thank you. This is the end of the role-play. Thank you very much. O K. So <F>ahm</F> <R>have you ever <F>am</F> been abroad</R> <F>em</F> have you ever been abroad?</A>
+<B>Abroad?</B>
+<A><F>Uhm</F>. <.></.> Did you ever go to a foreign country?</A>
+<B><F>Ah</F>. Yes.</B>
+<A><F>Uhm</F>.</A>
+<B><R>I have been</R> I have been to visit <F>mm</F> <R>China</R> China and Turkey and England <.></.> and French and Italy.</B>
+<A><F>Oh</F>. So many countries.</A>
+<B><laughter>Yes, <??></??></laughter>.</B>
+<A>I see. <OL><F>Hm</F></OL>.</A>
+<B><OL>But</OL> few days.</B>
+<A><F>Uh-hum</F>.</A>
+<B>Few days and tours.</B>
+<A><F>Uh-hum</F>. <F>Hum</F>. In which country did you enjoy shopping most?</A>
+<B><..></..> I <R>enjoyed</R> enjoyed shopping in <..></..> America.</B>
+<A><F>Hm</F>. Why?</A>
+<B><nvs>laughter</nvs> <.></.> <R>I</R> I have not <F>mm</F> <..></..> many shopping in many travel. But <.></.> I have been visit to Las Vegas and Los Angels. <R>They</R> <SC>they are</SC> <..></..> I have been <??></??> shopping in America.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uh-hum</F>. <F>Hum</F>. I see. O K. Good. O K. So lastly,</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>let me show you this picture. O K. This is a story that happened last week. O K? So please make up your own story and starting this story with "One day last week," <F>Hum</F>, O K?</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><R>Last</R> last week, on Saturday, <SC>I'm go</SC> <SC>I'm</SC> I went to the <..></..> animal park <R>with</R> with my friend. <..></..> And <..></..> he is <R>my</R> <.></.> my university's student. <.></.> <R>I have</R> I have university students <.></.> friend. <.></.> <??></??>. My favorite animal is lion. Because <JP><F>etto</F></JP> lion is <R>very</R> <..></..> very huge and <??></??> <..></..> very strong. <.></.> <R>But</R> <..></..> but <.></.> <SC>I like monkeys</SC> <.></.> <??></??> <.></.> I like monkeys. <R>Because</R> because <.></.> chimpanzee is <SC>very <.></.> kin</SC> <.></.> very clever. <.></.> Chimpanzee is eating banana. <R>I</R> <R>I</R> <.></.> <SC>I went <?>gi</?></SC> I went <R>give</R> <.></.> give <R>hi</R> <R>hi</R> him ice cream, but <R>my</R> <SC>my father</SC> <R>my</R> my <R>friend</R> <..></..> friend stops to me. <..></..> <SC>Attention is</SC> <.></.> <R>I</R> <R>I</R> <SC>I have not</SC> <SC>I haven't to give</SC> <..></..> <SC>I have not give <.></.> chimpanzee</SC> I haven't give food to chimpanzee. <..></..> <R>We</R> <.></.> <R>we say good-bye</R> we say good-bye at six o'clock.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Good. O K. <H pn="B's name">XXX02</H>. O K. Thank you very much. And <F>ahm</F> where is your favorite place in Tokyo? <F>Hm</F>.</A>
+<B><F>Mm</F>. <..></..> My favorite place is Shibuya and Ginza.</B>
+<A><F>Uh-huh</F>. <F>Hm</F>.</A>
+<B><SC>There are <SC>many movie theaters</SC> <SC>a lot</SC> <SC>many movie theaters</SC> a lot</SC> there are movie theaters.</B>
+<A><F>Uh-hum</F>. <F>Uh-hum</F>. <R>Anything else you like to visit</R> anything else you like to visit in Ginza? For example, so there are movie theaters in Ginza, and anything else you often visit in Ginza?</A>
+<B>Ginza?</B>
+<A><F>Uhm</F>.</A>
+<B><..></..> <R>One</R> once <?>a</?> two weeks.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hm</F> I see. O K. Good. Thank you. So <F>well</F> we are almost the end of this interview. So after this interview, are you going to have dinner <R>or</R> or did you already have dinner?</A>
+<B><..></..> My dinner is in my room alone.</B>
+<A><F>Ah</F>. So you have to cook?</A>
+<B><.></.> <F>Ahm</F>. <SC?>Rice and <JP>miso</JP> soup is cooked</SC?> <?>I cooking</?> rice and <JP>miso</JP> soup, but <.></.> <F>uhmt</F> another food is <.></.> buy in store.</B>
+<A><F>Ah</F>. <laughter>O K, O K</laughter>. <F>Oh</F>. Have a good evening. And thank you for coming today. <OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

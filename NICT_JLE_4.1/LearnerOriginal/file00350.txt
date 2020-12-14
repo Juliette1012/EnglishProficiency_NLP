@@ -1,0 +1,168 @@
+<interview>
+<filename>file00350.txt</filename>
+
+<head version="1.3">
+<date>2001-03-06</date>
+<sex>female</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good morning.</A>
+<B>Good morning.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Ms. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine, thank you. How are you?</B>
+<A>I'm fine, thank you. <F>Er</F> Ms. <H pn="B's name">XXX02</H>, <F>er</F> where do you come from?</A>
+<B>I came from <H pn="others1">XXX03</H> <JP>ku</JP>.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Eh</F> <H pn="others1">XXX03</H> <JP>ku</JP>, <SC><H pn="others2">XXX04</H> Station</SC> <R>near the <H pn="others2">XXX04</H></R> near the <H pn="others2">XXX04</H> Station.</B>
+<A><F>Hmm</F>. <F>Er</F> do you live there with your family?</A>
+<B>No. I live there all myself.</B>
+<A><F>Hmm</F>. So what do you do?</A>
+<B><F>Eh</F> <F>er</F> now I'm <F>em</F> out of work. I</B>
+<A><F>Mm-hm</F>.</A>
+<B>quit myself <SC>last year</SC></B>
+<A><F>Mm-hm</F>.</A>
+<B>end of the last year.</B>
+<A><F>Hm</F>.</A>
+<B>So I'm now searching for my job.</B>
+<A><F>Hm</F>. <R>What</R> <F>er</F> what kind of job are you interested in?</A>
+<B><F>Erm</F> anything. I want to try <R>many</R> many <.></.> kind of work.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>Mm</F></OL>. But especially now, <SC>I</SC> I'm very interested in primal industry, like <SC>cow</SC> feed cow or <.></.> milk or something. <CO>But</CO>.</B>
+<A><F>Hm</F>. Why?</A>
+<B><nvs>laughter</nvs> <F>Er</F> <F>er</F> why?</B>
+<A><F>Hm</F>.</A>
+<B>Why? It's really difficult to answer. I don't know. I just like them.</B>
+<A><F>Hm</F>. So where do your families live?</A>
+<B>My family live in <H pn="others3">XXX05</H>.</B>
+<A><F>Hm</F>. <F>Hm</F>. Can you tell me about your family?</A>
+<B><F>Eh</F> my parents live in <H pn="others3">XXX05</H>. And I have one brother and one sister and I. I am <F>mm</F> youngest child. And my brother lives in <H pn="others4">XXX06</H>, and my sister lives in <H pn="others5">XXX07</H> now.</B>
+<A><F>Hm</F>. <F>Er</F> what is she doing in <H pn="others5">XXX07</H>?</A>
+<B>I don't know. <SC>She</SC> I think she is just a house keeper.</B>
+<A><F>Hm</F>.</A>
+<B>And sometimes <R>she</R> she writes something to a small magazine company.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><R>I</R></OL> I don't know actually what she is <laughter>doing</laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B><SC>We don't talk about much</SC> <F>er</F> we don't talk much about our jobs.</B>
+<A><F>Hmm</F>.</A>
+<B><R>She</R> she has a baby now.</B>
+<A><F>Hmm</F>.</A>
+<B>So <SC>most</SC> we <SC>talk a</SC> talk lot about <SC>the child</SC></B>
+<A><F>Mm-hm</F>.</A>
+<B>her child.</B>
+<A><F>Er</F> is that your nephew or niece?</A>
+<B><F>Umm</F> <.></.> a boy.</B>
+</stage1>
+<stage2>
+<task>
+<A>Boy. Good. O K. Today, I'd like to show you a picture. O K? <ctxt>the interviewer is taking out the picture</ctxt> <F>Hm</F> <F>hm</F> please describe this picture for me.</A>
+<B><ctxt>the interviewee is looking at the picture</ctxt> A couple are enjoying dinner. <F>Ehh</F> <F>eh</F> a man is drinking wine and <.></.> talking with sommelier. They are having fun. <..></..> <F>Er</F> the sommelier explaining <R>about</R> <F>eh</F> about wine the man is drinking. <..></..></B>
+<A>Anything else?</A>
+<B>Anything else? Anything else. A woman playing a piano <F>mm</F> for <??></??>. It is seven o'clock in the evening. <F>Mmm</F> <SC>there are</SC> other two couples are eating dinner and having fun.</B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Er</F> do you go to this kind of restaurant?</A>
+<B>No. Seldom go. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mmm</F></OL>. <F>Hm</F>. So what kind of restaurant do you usually go?</A>
+<B>Restaurant. <R>I</R> <F>er</F> <.></.> I go often <SC>fast-food store</SC> fast shop or family restaurant or <F>ah</F> <R>I</R> I don't know how to say it, <JP>izakaya</JP> or something. Drinking spot.</B>
+<A><F>Mm-hm</F>.</A>
+<B>With my friends.</B>
+<A>O K. Do you remember the last time you went to this kind of restaurant?</A>
+<B>Last time? This kind of restaurant?</B>
+<A><F>Hm</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>The similar one is O K.</A>
+<B><.></.> <F>Oh</F> <F>ur</F> <SC>I don't have any</SC> <nvs>laughter</nvs> <R><?>that I don't</?> remember</R></B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>I don't</OL> remember.</B>
+<A><F>Hm</F>.</A>
+<B>But maybe at least, three years or more.</B>
+<A><F>Hmm</F>.</A>
+<B><CO>Or <.></.></CO>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. O K. Thank you very much. And then, I'd like to do a role-play. <ctxt>the interviewer is taking out a card</ctxt> O K? So please read this card. And when you are ready, I will start.</A>
+<B><ctxt>the interviewee is reading the card</ctxt></B>
+<A>O K?</A>
+<B>Yeah.</B>
+<A>Hello.</A>
+<B>Hello. <JP><F>Unnto</F></JP> <SC>let's go to <R>mo</R> movie</SC> <SC>let's go to <SC>see</SC> watch movie</SC> how about going watch movie?</B>
+<A>O K. Good. Good idea.</A>
+<B><F>Eh</F> <SC>where do we want to meet</SC>? <F>Er</F> where can we meet?</B>
+<A>How about <F>er</F> Osaka Station?</A>
+<B>O K. <F>Eh</F> what time is the best for you?</B>
+<A><F>Er</F> I finish my work at six o'clock. So how about seven o'clock?</A>
+<B>O K. <F>Oh</F> I'll wait seven o'clock <R>at</R> at the station.</B>
+<A><F>Hm</F>. O K. Do you have any idea what kind of movie <F>er</F> are we going to?</A>
+<B><F>Umm</F> <R>I</R> I want to see <F>um</F> <F>uh</F> some documentary movie,</B>
+<A><F>Mm-hm</F>.</A>
+<B>or <.></.> <JP><F>unto</F></JP> <F>well</F> anything is fine. <nvs>laughter</nvs></B>
+<A>O K. O K. So seven o'clock?</A>
+<B>Yeah. <OL>O K</OL>.</B>
+<A><OL>O K</OL>. See you later.</A>
+<B>Bye.</B>
+</task>
+<followup>
+<A>Bye-bye. <F>Eh</F> this is the end of role-play. <F>Er</F> do you like watching movies?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. What kind of movie do you like?</A>
+<B><F>Umm</F> <JP><F>ano</F></JP> <..></..> not action. Only action movie, I don't feel like watching. But other one, I like.</B>
+<A><F>Hm</F>. Do you have any favorite movie?</A>
+<B><F>Umm</F> <F>eh</F> yes, I have. <F>Ur</F> but I don't know how to <?>describe</?> the name for English, but <F>er</F> "<JP>Kakkou no suno uede</JP>".</B>
+<A><F>Hmm</F>.</A>
+<B><SC>Movie is something by the</SC> <JP><F>ano</F></JP> it describes very human <JP><F>ano</F></JP> <SC>psychology</SC> <JP><R>sh</R> shinri tekina</JP> mental expression.</B>
+<A><F>Hm</F>.</A>
+<B><R>Having</R> having expressed mentally,</B>
+<A><F>Hm</F>.</A>
+<B><SC>like</SC> something like movie <??></??>.</B>
+<A><F>Hm</F>.</A>
+<B><??></??> <?>I like it</?>. I'm interested in very much.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. O K. Thank you. Now, I'd like to show you one more picture. <ctxt>the interviewer is taking out the picture</ctxt> O K. So please look at this picture. And please make a story. <JP><F>A</F> gomennasai</JP>. Can I exchange the pictures? O K. This story happened sometime last week.</A>
+<B><F>Oh</F>.</B>
+<A>So please start your story with, "One day last week".</A>
+<B>O K. <F>Eh</F> one day last week, a lady went to department store. And <.></.> <R>she wanted to buy</R> she wanted to buy <F>er</F> necktie for her husband because <.></.> he is going to have a birthday. <F>Mm</F> she choose <SC>some of</SC> <SC>one of</SC> <SC>is</SC> necktie. And buy it. <.></.> And <SC>when she go</SC> when she went to home, <R>she find</R> she find the <F>er</F> sale <R>in</R> in the department store. And there are nice <SC>shoes</SC> <F>oh</F> <R>san</R> sandal. And also <SC>they have</SC> there were nice clothes <.></.> at a very low price. So she bought a <R>lot of</R> <.></.> lot of <.></.> stuff <R>for her</R> for her own.</B>
+</task>
+<followup>
+<A>O K. Thank you. Do you like shopping?</A>
+<B>Yes. I like shopping.</B>
+<A><F>Hm</F>. <F>Er</F> which do you like better, going to the department store or big <F>er</F> discount store?</A>
+<B>Discount store. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Of course.</B>
+<A><F>Hmm</F>. Why?</A>
+<B><F>Mmm</F> because it's cheap. <R>And</R> <.></.> and <F>ee</F> <SC>discount store always</SC>, <F>ur</F> yes, <F>ur</F> big store and <.></.> <??></??> stores, many kind of <F>ur</F> <R>ma</R> manufacture. Many kinds of <F>er</F> <R>s</R> something is imported. But it is very cheap. And I didn't mean to buy something, but <SC>I</SC> when I walk in discount store, I watch something <SC>I never</SC> I'm never meant to. <SC>So</SC> and <F>oh</F> there is a stuff something like <F>eh</F> it is very interesting. <.></.> <CO><?>And</?></CO>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you. We are almost the end of the interview. And do you have any plan for this <F>erm</F> afternoon?</A>
+<B>This afternoon, <SC>I</SC> I'm planning to go to Honmachi-dori <JP>shoutengai</JP>.</B>
+<A><F>Hm</F>.</A>
+<B>And shopping. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. Have a good time.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much for coming today.</A>
+</stage5>
+</body>
+</interview>

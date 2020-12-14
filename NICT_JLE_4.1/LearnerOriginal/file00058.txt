@@ -1,0 +1,207 @@
+<interview>
+<filename>file00058.txt</filename>
+
+<head version="1.3">
+<date>2000-06-19</date>
+<sex>female</sex>
+<age>40</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning. My name is <H pn="A's name">XXX01</H>.</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K, can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>How are you today?</A>
+<B>Fine, thank you. And you?</B>
+<A>I am pretty good. Thank you. <nvs>laughter</nvs> It's very hot outside. Did you come far away <.></.> from here?</A>
+<B>Yes.</B>
+<A>Where's your home?</A>
+<B><F>Ah</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F> how long did it take?</A>
+<B><F>Em</F> it takes <F>mm</F> thirty minutes.</B>
+<A><F>Hum</F>.</A>
+<B>I use <H pn="others2">XXX04</H> Line</B>
+<A><F>Mhm-huh</F>.</A>
+<B>From <.></.> <F>ah</F> <H pn="others3">XXX05</H> to <H pn="others4">XXX06</H>.</B>
+<A>I see. Thirty minutes is not bad. <nvs>laughter</nvs> O K. <H pn="B's name">XXX02</H>, can you tell me a little bit about yourself?</A>
+<B><F>Hum</F>. <F>Er</F> <SC>I liked <.></.> painting and Japanese paint</SC>. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>I like to paint. <F>Um</F>. It use special color made of <F>mmm</F> rock and stone, or soil.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. And mixed these color <?>on the</?> roll plate. I like <F>nn</F> those colors.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>Very</OL> different from water color, or oil-painting color.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>That's</OL> natural color.</B>
+<A><F>Wow</F> so what kind of picture did you draw?</A>
+<B><laughter>Yes</laughter>. Now I am drawing <F>mmm</F> scenary.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Ah</F> <.></.> sea, <F>um</F> sky and sun.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>Um</F></OL>. Position is very simple, but I use a <SC>ve</SC> different a lot of colors.</B>
+<A><F>Mnn</F> I see. I'd like to take a look at your pictures. <nvs>laughter</nvs>.</A>
+<B><nvs>laughter</nvs>.</B>
+<A>O K. It's Monday today.</A>
+<B>Yes.</B>
+<A>What is your schedule on Monday?</A>
+<B><F>Em</F> today, after this test, I will go to Aoyama. I met my son and have lunch together.</B>
+<A><F>Mmm</F> sounds nice. You said you have a son. Can you tell me about your son?</A>
+<B><F>Ah</F>. <F>Mmm</F> next month, <F>uh</F> he will go to United States,</B>
+<A><F>Um</F>.</A>
+<B>Boston.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>He will study <.></.> at high school.</B>
+<A>I see. <F>Wow</F>.</A>
+<B>And <SC>he</SC> now he is <.></.> waiting <.></.> to go <.></.> to States.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>O K. You must be very proud of him. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. <H pn="B's name">XXX02</H>. Next thing I'd like you to do is to take a look at this picture and describe it for me.</A>
+<B><F>Um</F>.</B>
+<ctxt>The interviewee is thinking about what to say.</ctxt>
+<B>Maybe see <R>this</R> this is her room. And see her <.></.> desk <.></.> <SC>is</SC> <F>umm</F> there is computer and typewriter and paper, mouse. <F>Mmmn</F> <..></..> and <SC>he</SC> she is sitting. And maybe she explain <.></.> <SC>the</SC> her computer for her cats. <nvs>laughter</nvs>. Cats is <F>mm</F> <SC>lar</SC> <SC>rolling</SC> <F>um</F> sleeping <SC>in her</SC> on her bed.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Mmm</F> <?>here</?> is big dog is sitting <.></.> on the floor. And back side, there are <F>mmm</F> audio set. <..></..> Under the audio set, there is <SC>shelf</SC> small shelf. Un. <.></.> There is many books and telephone.</B>
+</task>
+<followup>
+<A><F>Hum</F>. O K. Thank you. <F>Er</F> what does your bedroom look like?</A>
+<B><F>Mmm</F>. <F>Ah</F> that's very simple. There is two <.></.> beds. <F>Mmm</F> and <..></..> <F>um</F> books <.></.> <F>mm</F> <.></.> and <R>drawing</R> <SC>drawing</SC> <F>n</F> draw.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>N</F>? I don't know how to <.></.> say English. <.></.> <F>Nn</F> <JP>Tana</JP>? <F>Nn</F>. <JP>Ishotana</JP>. That's all.</B>
+<A><F>Hum</F>. O K. <F>Um</F>, how different is this room</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL>From</OL> your son's room?</A>
+<B><F>Ah</F>. Almost same.</B>
+<A><F>Mhm-huh</F>.</A>
+<B>But <F>nn</F> her room is bigger than my <R>so</R> son's room. <.></.> <laughter>And</laughter> he doesn't like dog. <..></..> <F>Mmm</F>. <..></..></B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Nn</F></OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. All right. So, next, we are going to do a role play. O K. And let's do this. Please read this card. <F>Ah</F> when you are ready, I'll begin.</A>
+<ctxt>The examinee is reading a card and thinking of what to say.</ctxt>
+<A>Are you ready?</A>
+<B>Yes.</B>
+<A>O K. Good morning, Ma'am. How can I help you?</A>
+<B>Yes. <F>Er</F> I'd like to go to New York. <F>Um</F>. I'd like to buy the ticket to New York. But I have enough time, so I'd like to go <F>um</F> <.></.> to New York as soon as possible. <F>Nn</F>. <..></..> <SC>How</SC> please <F>er</F> tell me how to <.></.> go to New York.</B>
+<A><F>Mhm-huh</F>. We have two kinds of trains to New York.</A>
+<B><F>Uum</F>. <..></..> Please explain <.></.> each trains.</B>
+<A>O K. <F>Ah</F> one train is a local, and the other one is express train.</A>
+<B><F>Mm</F>. I prefer express train.</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Umm</F> <R>what time <.></.> does it start</R>? What time does it start?</B>
+<A>O K. The next train will leave in about thirteen minutes.</A>
+<B>Thirteen minutes. How much is the ticket?</B>
+<A>Ticket is five hundred dollars.</A>
+<B><F>Um</F> <F>um</F> how long does it take to New York?</B>
+<A>It takes only an hour.</A>
+<B><F>Um</F> <R>that</R> that is O K. <F>Ah</F> I'll take that ticket.</B>
+<A>O K. All right. So, five hundred dollars.</A>
+<B><F>Um</F>. Thank you.</B>
+<A>O K. Here's your ticket.</A>
+<B>Thank you very much.</B>
+<A>You're welcome. And the platform is number eleven.</A>
+<B><F>Oh</F> <OL>O K</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B>Thank you very much.</B>
+<A>Enjoy your trip.</A>
+<B>Thank you.</B>
+<A>Bye-bye.</A>
+<B>Bye-bye.</B>
+</task>
+<followup>
+<A>O K. <F>Er</F> do you like traveling?</A>
+<B>Yes.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL><F>Mm</F></OL>. <F>Er</F> last month I went to Boston.</B>
+<A><F>Ah</F>.</A>
+<B>I <.></.> saw <F>er</F> the school for <SC>he</SC> him and my son.</B>
+<A><F>Mhm-huh</F>. I see. What kind of school is he going to?</A>
+<B><F>Eh</F> Maybe normal type <.></.> school.</B>
+<A><F>Hum</F>. Normal type of school.</A>
+<B><F>Um</F> <F>ah</F> same as Japanese school.</B>
+<A><F>Mm</F></A>
+<B>There is <F>er</F> lot of American students</B>
+<A><F>Mhm-huh</F>.</A>
+<B>And <.></.> <SC>ten perce</SC> maybe ten percent <SC>foreign con</SC> from <SC>con</SC> foreign countries' students.</B>
+<A><F>Hum</F> I see. O K. So <F>ah</F> why did you decide <.></.></A>
+<B><OL><??></??> <CO>he <F>um</F></CO></OL>.</B>
+<A><OL>To choose that school</OL>?</A>
+<B>He wants to <.></.> go <.></.> abroad. <F>Nn</F>. So decide <.></.> but I talked <.></.> with my husband for long time and argued <nvs>laughter</nvs>. Sometimes fight <??></??> fight <.></.> but we <.></.> choose.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mmm</F> must be a good choice for him. <nvs>laughter</nvs>. O K. So, lastly I'd like you to take a look at this picture.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K. And it's a sequence of pictures from one to six. And I'd like you to make up a story based on these pictures. And this happened before.</A>
+<B><F>Um</F>.</B>
+<A>O K, so please start a story with "One day last week".</A>
+<B><F>Mm</F>. One day last week, <F>mm</F> <.></.> a woman <F>mm</F> <SC>go to the</SC> went to the kitchen. And checked her refrigerator. But refrigerator was empty. There were nothing <.></.> in. <F>Nn</F> so <.></.> lady was going to go to the supermarket by car. <..></..> <SC>Su</SC> in the supermarket, she selected some kind of food <F>mm</F> <..></..> and <F>mm</F> <R>a</R> after that she <..></..> <F>um</F> calculated <.></.> <F>n</F> <SC>he</SC> <F>n</F> <SC>his foo</SC> <F>ah</F> her food. After that <F>mm</F> she <R>brought</R> <F>n</F> brought her <.></.> bags <.></.> in and to her car. <CO>And puted <.></.> <F>mm</F> the bags <SC>to his</SC> <F>mm</F> <F>ah</F> to her</CO>. <F>N</F> <R>Put</R> <SC>put its</SC> put it her bag <..></..> to her car. <..></..> <SC>He</SC> <SC>sh</SC> after she arrived at her house <SC>he</SC> she started to <.></.> make <.></.> her family's fo <F>mm</F> dinner.</B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. Thank you. I know you have to cook every day for your family. <nvs>laughter</nvs>.</A>
+<B><nvs>laughter</nvs>.</B>
+<A><SC>So how do you decide which menu</SC>? How do you decide the menu for dinner every day?</A>
+<B><F>Mm</F> <F>mm</F>. <.></.> At first, I go to a supermarket</B>
+<A><F>Mhm-huh</F>.</A>
+<B>And see the cheeper one.</B>
+<A><F>Mm</F>.</A>
+<B><SC>Su</SC> and then I decide the menu.</B>
+<A><F>Mm</F>. So, what's today's dinner? <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>. Maybe <?>maybe</?> after <.></.> lunch, I will go to <F>ah</F> the supermarket,</B>
+<A><F>Mhm-huh</F>.</A>
+<B>And then I take after check the supermarket's <SC>sailing menu</SC> sales items</B>
+<A><F>Mhm-huh</F>.</A>
+<B>I will decide.</B>
+<A><F>Um</F>. <F>Oh</F> <R>wh</R> where is your favorite supermarket?</A>
+<B><nvs>laughter</nvs>. Marusho.</B>
+<A><F>Oh</F>.</A>
+<B>There is <F>um</F> <H pn="others1">XXX03</H> station near my house.</B>
+<A><F>Um</F>.</A>
+<B>I <??></??> go to Marusho Store.</B>
+<A><F>Ah-ha</F>. <laughter>What's good about Marusho</laughter>?</A>
+<B><nvs>laughter</nvs>. <F>Mm</F> <..></..> <F>ah</F> two or three times some week <F>mm</F> I <.></.> get advertisement from Marusho.</B>
+<A><F>Hum</F>.</A>
+<B>So today's cheaper menu with meat is cheaper. And next day, fish is cheaper, that advertisement says.</B>
+<A><F>Hum</F>. O K. <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+<A>I hope you will find good ones. <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. You said you were going to Aoyama. <OL>This is</OL> almost the end of the interview, but you are going to Aoyama.</A>
+<B><OL>Yes</OL>. Yes.</B>
+<A><R>Whe</R> where is the restaurant are you planning to go?</A>
+<B><F>Umm</F>, near Roppongi Street <F>ah</F> <SC>na</SC> the restaurant name is <R>Nineteen Ninty-nine</R>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>House</OL> of Nineteen Ninty-nine is French restaurant, maybe.</B>
+<A><F>Um</F>. <F>Wow</F>.</A>
+<B><F>Um</F>. First time, I go to that restaurant.</B>
+<A><F>Hmm</F> sounds delicious. <OL><nvs>laughter</nvs></OL>.</A>
+<B><nvs>laughter</nvs>. Maybe. I think so.</B>
+<A>O K. Enjoy your lunch. <OL>Thank you very much for coming</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+</stage5>
+</body>
+</interview>

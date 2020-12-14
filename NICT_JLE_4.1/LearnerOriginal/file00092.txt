@@ -1,0 +1,125 @@
+<interview>
+<filename>file00092.txt</filename>
+
+<head version="1.3">
+<date>2000-06-19</date>
+<sex>female</sex>
+<age>42</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>725</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>map</SST_task2>
+<SST_task3>landlord_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Let's start. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><F>Ah</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F>. Yes.</B>
+<A>O K, <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine thank you, and you?</B>
+<A>I'm all right, thank you. So did you have lunch?</A>
+<B><F>Er</F>. Yes, I've just <nvs>laughter</nvs> had.</B>
+<A>What did you eat?</A>
+<B><F>Erm</F>. <nvs>cough</nvs> I ate <F>er</F> <JP>pirafu</JP> and salad near <H pn="others1">XXX03</H> station.</B>
+<A><F>Ah</F> I see. How did you get <F>er</F> here today?</A>
+<B><F>Um</F> First, I took the <H pn="others2">XXX04</H> line and I changed <F>er</F> to the <R><H pn="others3">XXX05</H></R> <H pn="others3">XXX05</H> Line <F>er</F> at <H pn="others4">XXX06</H> and <F>mm</F> I also changed to <H pn="others5">XXX07</H> Line at <H pn="others6">XXX08</H> and it took one and <nvs>cough</nvs> half an hour in total.</B>
+<A><F>Ah</F> I see. <F>Uh-huh</F> O K, then before you came here, what did you do this morning?</A>
+<B><F>Oh</F> <F>er</F> <F>mm</F>. <R>I</R> I <R>wee</R> weeded garden and <nvs>laughter</nvs> I did the laundry. <F>mm</F></B>
+<A>I see. So please tell me about your garden.</A>
+<B><F>Ah</F>. Yes.</B>
+<A><nvs>cough</nvs></A>
+<B><F>Er</F> <R>we</R> we built a new house <F>er</F> last month and we moved there last month too. And unfortunately, the garden is weedy and for the time being, I had to <F>mm</F> do some gardening.</B>
+<A>I see. <F>Mm</F> that's nice. O K, then, do you have any hobbies?</A>
+<B><F>Mm</F>. Yes. <F>Erm</F>. I like reading <F>mm</F> books, magazines, and <F>mm</F> I like traveling.</B>
+<A><F>Ah</F> That's good. What kind of magazines do you read?</A>
+<B><F>Mm</F> magazines <F>mm</F> every week, I buy <JP>shukanshun</JP> and <JP>shukanshinsho</JP> <F>um</F>. I think these magazines are <SC>very</SC> <.></.> sometimes aggressive and there are <SC>most</SC> more informative to me and the reason of buying two magazines is <F>mm</F> <SC>there are</SC> <F>mm</F> there is a stance of <F>mm</F> each publisher and <R>I</R> <F>mm</F> I sometimes feel <F>erm</F> interested to compare the articles. <.></.> So I always buy two magazines of the same genre.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. Thank you very much, <H pn="B's name">XXX02</H>. Now, <nvs>cough</nvs> please look at this map and briefly describe it. <nvs>cough</nvs></A>
+<B><F>Mm</F> <F>er</F>. This is a map of the town and <.></.> <F>mm</F> should I tell the location or?</B>
+<A><F>Mm</F>. Anything is O K.</A>
+<B>Anything? <F>Urm</F>. There is a train station, and I think this is a <SC>big train sta</SC> big station because there are many lines. <R>And</R> and there is a big river near the station. And near the river there is a park, <.></.> <F>mm</F> <.></.> There are lot of greens in the town. <.></.></B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. Great, thank you. Good, <H pn="B's name">XXX02</H>. Would you please compare this city <F>er</F> with your own city?</A>
+<B><F>Mm</F> <.></.> <F>mm</F>. I think the city of this map is <F>mm</F> rather countryside comparing the city where I live. <F>Mm</F>. <.></.> I live in <H pn="others7">XXX09</H> city <.></.> yeah, and there are two big <F>er</F> department store and a lot of shops, <F>mm</F>. But <SC>this</SC> the city of this map <F>erm</F> has <F>mm</F> few shops <F>mm</F> and <SC>there</SC> <.></.> I think this city is rather calm. <F>Mm</F>. But <F>er</F> I think it's very good to live.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, thank you <H pn="B's name">XXX02</H>. Now please read this card, let's do a role-play. <.></.> When you are ready I'll start.</A>
+<ctxt>The examinee is looking at the card and thinking of what to say.</ctxt>
+<B>O K.</B>
+<A>Ring, ring, hello?</A>
+<B>Hello, <F>er</F> this is <F>er</F> <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> Hi, <H pn="B's name">XXX02</H> how are you?</A>
+<B>I'm fine thank you, <OL>and you</OL>?</B>
+<A><OL>What's up</OL>?</A>
+<B><F>Er</F>. Yeah, <F>er</F> this evening <F>um</F> I found <F>er</F> the window of my room was broken. <F>Mm</F>. <SC>I think</SC> <F>er</F> <SC>there</SC> <F>mm</F> I think it's not was broken by robbery but <R>it was just</R> <F>er</F> it was just broken but <F>er</F> I think I have <F>mm</F> <.></.> <F>mm</F> <F>er</F> <F>er</F> I'd like to ask you to fix it as soon as possible.</B>
+<A><F>Mm</F>. I'm sorry <H pn="B's name">XXX02</H> I'm very busy right now.</A>
+<B><F>Mm</F>. But <F>um</F> it's very dangerous <F>er</F> because <F>er</F> there are many <SC>glasses</SC> <R>broken</R> broken glasses and <R>it's not</R> <F>er</F> it's not safety. So <F>um</F> could you please <F>er</F> call <.></.> to fix it.</B>
+<A><F>Mm</F>. <nvs>cough</nvs> But <F>er</F> our repairman is out of town now and he'll be back sometime next week.</A>
+<B><F>Er</F> but <F>mm</F> I think there is another repairman in this town.</B>
+<A>Do you know any?</A>
+<B><F>Mm</F>. Yeah, maybe I can check with the <R>Yello</R> Yellow Page. <R>If</R> if you don't mind, I will call repairman and could you please pay for that?</B>
+<A><F>Er</F>. It depends on the price but O K, let's see what will happen.</A>
+<B>O K, first I will ask the repairman to estimate the cost.</B>
+</task>
+<followup>
+<A>O K. Please do, thank you. O K. Good, <H pn="B's name">XXX02</H>, so your house is very new.</A>
+<B>Yes.</B>
+<A>So no problem at all?</A>
+<B><F>Mm</F>. Yeah, so far, I didn't find <R>any</R> any <R>trou</R> trouble.</B>
+<A>I see. How did you decide to move in that house?</A>
+<B><F>Ah</F> <F>mm</F>. <R>I</R> I got <R>married</R> married two years ago and when we got married, we decided to buy a house, <F>mm</F>, not <F>mm</F> renting a room instead. <F>Mm</F> because <F>mm</F> <SC>we</SC> fortunately <F>er</F> we <SC>save</SC> <laughter>saved</laughter> <F>er</F> proper amount and <F>er</F> also fortunately we could find <F>er</F> good place to live <R>near</R> <SC>near my husband's</SC> near the house of my husband's parents.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mm</F>. I see. <F>mm</F> That's good. O K, thank you, <H pn="B's name">XXX02</H>. Now finally, let's do this. Please make a story using these six pictures, starting "One day last week".</A>
+<B><F>Mm</F> <F>er</F>. Should I the people in that picture?</B>
+<A><F>Mm</F> or <F>er</F> that's O K, or anything is O K.</A>
+<B><F>Mm</F>.</B>
+<A>You decide.</A>
+<B><F>Mm</F>.</B>
+<A>Please start with this phrase.</A>
+<B>Yeah, <F>er</F>. One day last week, I drove car and suddenly a man <F>mm</F> <.></.> who ride <F>mm</F> bike appeared and there was accident. And unfortunately I hit the back of the bike and he claimed about it. <R>And we</R> and we called a policeman to charge <F>er</F> the situation <.></.> Fortunately <F>er</F> nobody was injured and <F>mm</F> <.></.> <SC>a man</SC> but the bike was broken and that man called <F>er</F> repairman to fix it.</B>
+</task>
+<followup>
+<A>Great, <H pn="B's name">XXX02</H>. Why do you think this accident happened?</A>
+<B><F>Mm</F>. <.></.> Maybe <F>er</F> there was no signal in the street and <F>mm</F> both I and that man thought they can <F>mmm</F> go.</B>
+<A><F>Mm</F>. O K, <H pn="B's name">XXX02</H> do you drive?</A>
+<B><F>Er</F>. No, <SC>I don't have</SC> <laughter><SC>no</SC></laughter> <F>er</F> I don't have driver's license.</B>
+<A>O K, then how about your husband?</A>
+<B><F>Ah</F>. Yes, he does.</B>
+<A><F>Uh-huh</F> Is he a <SC>good driver</SC> safe driver?</A>
+<B><F>Ah</F>. Yes, he is, but <nvs>laughter</nvs> <SC>last</SC> <F>er</F> the end of last year, we had an accident <F>er</F> near London. <nvs>laughter</nvs></B>
+<A><F>Ah</F>.</A>
+<B>Yeah. <F>Um</F> <R>we</R> we planned to <F>mm</F> go to the castle near London and we rented a car and <F>mm</F> after rented a car we started drive and I was a <R>naviga</R> navigator. But <F>er</F> <R>I</R> <F>mm</F> <R>I</R> I couldn't find <laughter>where I am</laughter> and <R>he</R> <R>he</R> he saw the map <F>er</F> driving and <F>er</F> suddenly we felt the shock on the back of the car. But <F>er</F> fortunately nobody was injured and <SC>the one</SC> <F>er</F> the man of the car <F>er</F> <SC>which</SC> <SC>which was</SC> <.></.> the man which hit us was very <F>mm</F> British gentleman <nvs>laughter</nvs> and he's very nice and,</B>
+<A>You were lucky.</A>
+<B>Yeah, and my husband called rent-car company and they immediately prepared a new car and the accident was covered by the insurance, yeah, and we could continue the drive so.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K, thank you very much, <H pn="B's name">XXX02</H>. <F>Er</F>. It's the end of the interview but what are you going to do this evening?</A>
+<B>This evening. <F>Mm</F>. <.></.> I will go shopping <F>mm</F> to <H pn="others6">XXX08</H> and <H pn="others8">XXX10</H> and <H pn="others9">XXX11</H>.</B>
+<A>I see.</A>
+<B><nvs>laughter,</nvs></B>
+<A>Three different places?</A>
+<B>Yes.</B>
+<A><F>Oh</F>.</A>
+<B>To look for some small thing which will be suitable for <JP>tatami</JP> rooms.</B>
+<A>I see. O K, thank you very much for coming today.</A>
+</stage5>
+</body>
+</interview>

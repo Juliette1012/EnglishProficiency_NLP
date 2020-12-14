@@ -1,0 +1,136 @@
+<interview>
+<filename>file00322.txt</filename>
+
+<head version="1.3">
+<date>2001-03-01</date>
+<sex>female</sex>
+<age>43</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>795</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. <F>Er</F> for the record, may I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. Where are you from?</A>
+<B><F>Em</F> I live in <H pn="others1">XXX02</H>. So <nvs>cough</nvs> today <F>em</F> I came from here.</B>
+<A><F>Ah</F>. <CO><?>From</?></CO>.</A>
+<B><F>Em</F> from there.</B>
+<A>How long did it take you?</A>
+<B><F>Ah</F> it takes <R>one</R> one hour and forty-five minutes.</B>
+<A><F>Uhm</F> <F>Em</F> where about in <H pn="others1">XXX02</H> do you live?</A>
+<B><F>Ah</F> pardon?</B>
+<A>Where in <H pn="others1">XXX02</H> do you live?</A>
+<B><F>Ah</F> I live in the west <H pn="others1">XXX02</H>. So <F>mm</F> <F>eh</F> about <F>eh</F> thirty kilometer from the <H pn="others2">XXX03</H>.</B>
+<A><F>Mhm</F>. I see. Do you like <F>er</F> the place you live?</A>
+<B>Yes, I like <H pn="others1">XXX02</H> very much. And <F>er</F> <F>em</F> there are not so many people. And <SC>there are</SC> there is sea and mountain also. And <F>em</F> <R>I</R> I am very happy <F>em</F> <R>being</R> being in <H pn="others1">XXX02</H>.</B>
+<A><F>Ah</F> O K. Please tell me a little about your hobbies.</A>
+<B><F>Ah</F> my hobby. <nvs>cough</nvs> <F>Mm</F> so <F>em</F> <F>eh</F> I'm fond of <F>eh</F> going to see <R>mo</R> <SC>movie</SC> movies. <F>Em</F> nowadays, <F>em</F> there are <SC>many</SC> <F>eh</F> a lot of interesting movies <F>em</F> <F>em</F> <R>near my</R> near my house. So <F>mm</F> <F>eh</F> I like to go to see movies with my friends. And <F>em</F> <R>it</R> it is very fun.</B>
+<A><F>Mhm</F>. What kind of movies do you enjoy most?</A>
+<B><F>Em</F> <nvs>laughter</nvs> <F>em</F> a various kind of movies I like. And <F>em</F> I like romance and suspense and spectacles and drama.</B>
+<A>O K. All kinds of <?>movies</?>. Please tell me a little about your family.</A>
+<B><F>Em</F> my family is <F>em</F> four. And <F>eh</F> <nvs>cough</nvs> my husband and two kids and me.</B>
+<A><F>Mhm</F>. How old are your children?</A>
+<B><F>Eh</F> <nvs>cough</nvs> <F>eh</F> I have two boys. <F>Eh</F> one is fourteen years old, and another is ten years old.</B>
+<A><F>Ah</F> O K. Tell me a little more about your ten-year-old son.</A>
+<B><F>Em</F> ten-year-old son is the <F>em</F> fourth grade of the elementary school near my house. And <R>he</R> <F>mm</F> <SC>he likes to</SC> <F>mm</F> <F>ah</F> <R>he</R> he doesn't like so much <F>em</F> to play outside. <SC>And</SC> but he likes to <SC>play <F>er</F> <?>flow</?></SC> play <SC>the</SC> with blocks. And doing, <F>mm</F> do you know the Lego? Such as like.</B>
+<A><F>Mhm</F>. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<B><OL><nvs>cough</nvs></OL></B>
+<A><OL><??></??></OL> a first picture today. This. So could you please describe this picture for me?</A>
+<B><F>Em</F> <R>I see a</R> <F>em</F> I see a girl. Maybe <F>eh</F> this room is hers. And there are so many things in her room. And <R>there</R> <SC>there is</SC> <F>eh</F> there are a <SC>dog and</SC> dog on the floor and a cat on the bed. And <F>eh</F> now she faces to her computer. <SC>Maybe she likes to <nvs>cough</nvs> <F>em</F> do</SC> <R>ma</R> maybe <SC>she is something</SC> <R>she</R> she is doing something with computer. <F>Em</F> <R>and</R> <nvs>cough</nvs> and I see also the audio set <F>eh</F> on her book shelves. And there is <SC>the calendar</SC> also calendar <F>eh</F> on the floor, <F>eh</F> <F>em</F> no, no, no, <SC>on the</SC> <F>eh</F> up the audio set. And there is a clock <F>eh</F> on the wall. <F>Mm</F> <.></.> and she is sitting <F>eh</F> <SC>in her</SC> <R>on</R> on the chair. <SC>And <F>eh</F> <nvs>cough</nvs> <F>eh</F> at the bottom</SC> <F>eh</F> <F>em</F> and <R>near</R> near her, there is a trash box. And <F>mm</F> <SC>there</SC> <F>eh</F> I see <SC>the</SC> a little paper in it.</B>
+<A><F>Mm</F>. O K. Thank you. Right.</A>
+</task>
+<followup>
+<A><F>Em</F> do you have pets?</A>
+<B>No, I don't have any.</B>
+<A>O K. <F>Em</F> could you please compare this room with the room that you usually use at home?</A>
+<B><F>Hum</F>. O K. <nvs>cough</nvs> <F>Mm</F> compare to my room, <F>eh</F> she has a bed. But <F>eh</F> I usually <F>em</F> sleep on the <F>eh</F> mat <F>eh</F> on the <JP>tatami</JP> room. And yeah, I also have a <SC>computer and</SC> <F>er</F> personal computer. And <F>eh</F> I usually <F>eh</F> do something with the personal computer. And <F>eh</F> <R>she has</R> <F>er</F> <F>mm</F> she has <F>eh</F> the <F>mm</F> good audio set. But <R>I</R> I only have a <F>em</F> small <F>eh</F> radio cassette. And <nvs>cough</nvs> <F>eh</F> she has two pets, and I envy her. <SC>And</SC> because I live in a condominium, so I don't have pets. <F>Mhm</F>.</B>
+<A><F>Mm</F>. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's do the role-play. <.></.> O K. So please take a look. When you are ready, I'll begin the role-play.</A>
+<B><.></.> <F>Mm</F>. <nvs>cough</nvs></B>
+<A>Yes, ma'am. May I help you?</A>
+<B><F>Eh</F> excuse me. I'd like to go to New York as soon as possible. So <F>mm</F> <F>eh</F> <R>can you</R> can you tell me <R>where</R> where I can buy the tickets to New York?</B>
+<A>You can buy the tickets right here.</A>
+<B>And where? Here?</B>
+<A><F>Mhm</F>. Right here.</A>
+<B><F>Em</F> so <F>mm</F> <F>eh</F> <R>can</R> <SC>can I use <F>er</F> a bill or coin</SC> <F>eh</F> <SC?>can I bill</SC?> <F>er</F> <F>eh</F> can I use only a coin to buy ticket?</B>
+<A><F>Oh</F> I can sell you the tickets. So you can use your bills, coins, anything.</A>
+<B>O K. So <F>eh</F> how much <F>em</F> <R>is it</R> <F>eh</F> is it take to New York?</B>
+<A>It depends on the types of trains.</A>
+<B>O K. So <F>mm</F> are there any express or the local train?</B>
+<A>We have express trains. We have local trains.</A>
+<B><F>Eh</F> so <F>em</F> I mean I'm busy, and I'd like to go to New York as soon as possible. So <F>eh</F> I'd like to buy the tickets for express.</B>
+<A><F>Eh</F> one-way ticket is going to be two hundred dollars.</A>
+<B>Twenty dollars? So can I buy the <F>mm</F> <R>round</R> round tickets?</B>
+<A>Sure. <F>Er</F> that'll be three hundred eighty.</A>
+<B>Three hundred eighty. O K. Thank you.</B>
+<A>We have many trains though leaving for New York.</A>
+<B><F>Eh</F>.</B>
+<A>Many express trains.</A>
+<B>Many express train. <SC>That</SC> and <F>eh</F> which is the next train to leave?</B>
+<A>The next train <SC>to leave</SC> <F>er</F> leaves at two o'clock.</A>
+<B>Two o'clock? So two o'clock is O K. <R>So</R> <F>mm</F> <nvs>cough</nvs> <F>eh</F> so two o'clock train's ticket, please.</B>
+<A>O K. Right. So here is the ticket.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>All right</OL>. Thank you. Right. This is the end of the role-play. Thank you.</A>
+</task>
+<followup>
+<A>Now, <F>em</F> do you enjoy <F>em</F> riding trains?</A>
+<B><F>Em</F> <F>mm</F> yes. <F>Mm</F> but in Japan, <nvs>laughter</nvs> <F>er</F> <R>I only</R> <SC>I only get <F>eh</F> the</SC> <F>mm</F> now I <SC>only g</SC> only use a subway <R>or the</R> or the <R>shin</R> <JP>shinkansen</JP> bullet train. And so <F>mm</F> <R>I</R> I use the bullet train <F>em</F> twice a year from <H pn="others1">XXX02</H> to Yokohama. But <R>I thi</R> I think it is a little boring <F>em</F> to use a bullet train. So <F>mm</F> when I <F>mm</F> traveled in Europe, <F>eh</F> <R>I</R> I think the <SC>train</SC> <nvs>cough</nvs> <F>mm</F> travel with train <SC>is very fu</SC> was very fun.</B>
+<A><F>Ah</F> tell me more about the <F>ur</F> European trains. Why were they so fun?</A>
+<B><F>Eh</F> <SC>the train is</SC> <nvs>cough</nvs> <F>en</F> <F>em</F> the trains in Europe are <SC>bigger</SC> <nvs>laughter</nvs> <F>er</F> <F>mm</F> <SC>li</SC> <F>mm</F> much bigger <R>than</R> than <SC>those of in</SC> those in Japan. And <R>there are</R> <nvs>cough</nvs> <F>mm</F> <R>there are</R> <F>er</F> there are compartment rooms <R>in</R> in the trains. And <SC>I think <R>i</R> <F>eh</F> it is very interesting</SC> I think <F>mm</F> it was very interesting. <F>Ah</F> <F>eh</F> in the <R>compartment</R> compartment room, <F>mm</F> <F>eh</F> <nvs>cough</nvs> I think it is like a room. And <R>I</R> <R>I</R> <F>mm</F> I can really <F>em</F> feel comfortable. So <R>I</R> I like the train in Europe.</B>
+<A>O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL>I'll show</OL> you a last picture today.</A>
+<B><OL><nvs>cough</nvs></OL></B>
+<A>And this. Now this is a story. This is the beginning, goes like this, and that's the ending. And the story</A>
+<B><nvs>cough</nvs></B>
+<A>happened in the past, in fact, one day last week. So please come up your own story, and begin with, "One day last week".</A>
+<B><F>Mhm</F>. O K. One day last week, <F>eh</F> <SC>women</SC> <R>woman</R> woman <F>eh</F> <R>in</R> in her kitchen <nvs>cough</nvs> looked at her refrigerator to see it was empty. So she decided to go to the supermarket to get food. So she drove her car to the supermarket, and <R>she</R> she bought <F>em</F> a lot of foods there. <R>And she</R> <nvs>cough</nvs> and she paid the cash for the food at the counter. And <R>she</R> <F>mm</F> she got food <SC>in</SC> into her car. <F>Em</F> and <R>when she came back</R> <nvs>cough</nvs> <F>em</F> when she came back home, <R>she</R> she enjoyed her cooking <F>em</F> by making <F>em</F> fried egg.</B>
+<A>O K.</A>
+</task>
+<followup>
+<A><F>Er</F> do you enjoy cooking?</A>
+<B>Yes, I like cooking very much.</B>
+<A><F>Er</F> could you describe your favorite dish?</A>
+<B><F>Em</F> <F>er</F> <F>eh</F> <nvs>cough</nvs> <F>em</F> by making myself?</B>
+<A><F>Mhm-hum</F>.</A>
+<B>O K. <F>Em</F> <F>eh</F> <R>I like to</R> I like to make the roll cabbage. <SC>The</SC> <F>mm</F> my families, <F>em</F> <SC>especially in</SC> especially two children likes to eat roll cabbage very much. So <R>I</R> <nvs>cough</nvs> I often <R>make</R> <R>make</R> make it. <SC>A roll cabbage</SC> <F>em</F> <SC>for</SC> <F>mm</F> to make roll cabbage, I use cabbage and meat and onion. And so <?>at</?> first, <F>mm</F> <SC>I boil the cab</SC> I boil cabbage. And <nvs>cough</nvs> I chop onion and meat. And I bake the onion and meat both in the pan. And <F>eh</F> I put salt and pepper in it. And so after the boiling cabbage, <R>I</R> <nvs>cough</nvs> <SC>I put cabbage</SC> <F>eh</F> <R>I</R> I put one of the cabbage <F>eh</F> <R>on the</R> on the table. And <nvs>cough</nvs> a spoonful of meat and onion <R>on</R> on the cabbage. And <R>I roll</R> I roll the cabbage. <SC>And so</SC> <?>and</?> after <F>eh</F> all rolling, so I put <F>em</F> then on the <JP><F>unto</F></JP> pan. And also I put water <R>and</R> and soup. And I boil about for an hour.</B>
+<A>I see. Thank you. Makes me hungry. <F>Ah-huh</F>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. What are your plans <F>er</F> for today after this interview?</A>
+<B><F>Em</F> today, <R>I</R> I came here <F>er</F> with my friends. So <F>mhm</F> <R>I</R> I will <R>go</R> <nvs>cough</nvs> go to some restaurant with my friends to eat lunch.</B>
+<A><F>Mhm</F>. <OL>O K</OL>.</A>
+<B><OL><F>Mhm</F></OL>.</B>
+<A>What is the next movie you're going to watch?</A>
+<B><F>Eh</F> <SC>I like to</SC> I'd like to go to the "Pay It Forward".</B>
+<A><F>Ah</F> right. <??></??> <OL>That looks interesting</OL>.</A>
+<B><OL><R>I</R> <R>I'm look</R></OL> <F>mm</F> I'm looking forward to very much.</B>
+<A>O K. Good. Right. Thank you very much. This is the end of the interview.</A>
+<B>O K.</B>
+<A>Just a moment, please.</A>
+</stage5>
+</body>
+</interview>

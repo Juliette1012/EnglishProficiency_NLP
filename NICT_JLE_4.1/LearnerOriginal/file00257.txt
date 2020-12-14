@@ -1,0 +1,137 @@
+<interview>
+<filename>file00257.txt</filename>
+
+<head version="1.3">
+<date>2001-02-23</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><nvs>cough</nvs> O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>Where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H> City.</B>
+<A><F>Hmm</F>. <.></.> Tell me a little more about that city?</A>
+<B>City? <F>Ur</F> <SC>it is <F>er</F> <.></.> four hundred</SC> <F>uh</F> it has <F>er</F> four hundred thousand <SC>population</SC> <R>pe</R> people. And <F>er</F> <.></.> <R>next</R> <SC>next May</SC> in next May, <F>er</F> <H pn="others1">XXX03</H> City and <F>er</F> <H pn="others2">XXX04</H> City and <H pn="others3">XXX05</H> City, these three <SC>stre</SC> cities are going to be <F>ur</F> one <R>ci</R> city. <SC>It is</SC> <R>it</R> it will be called <H pn="others4">XXX06</H> City.</B>
+<A><.></.> I see. <F>Hm</F>. <.></.> O K. <SC>Then</SC> and there, do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> <.></.> there are four members in <.></.> our family. <F>Er</F> my husband <R>and</R> <F>er</F> and two children and <.></.> me.</B>
+<A><F>Hm</F>. O K. Tell me more about your children.</A>
+<B>Children? <F>Er</F> a boy and a girl. And the boy is <F>er</F> in the <F>er</F> <.></.> junior high school now. And <SC>he's</SC> he just passed <R>the</R> the entrance exam.</B>
+<A><F>Ah</F>. Congratulations.</A>
+<B><nvs>laughter</nvs> Thank you. And <SC>the girl is</SC> my daughter is in the fifth grade now. And <.></.> <F>umm</F> <..></..> she enjoys playing with her friends everyday. And <F>er</F> <SC>my <SC>son is</SC> <F>er</F> son</SC> my son <F>er</F> likes to play basketball. He is really <F>er</F> looking forward to <F>er</F> <.></.> joining the basketball club <.></.> in high school.</B>
+<A><.></.> <F>Hmm</F>. <F>Mm</F>. <F>Er</F>. <R>Did he ha</R> did he have to study a lot to pass the test?</A>
+<B><.></.> <F>Umm</F>. <.></.> <R>Y</R> yes. I <.></.> think so. <F>Er</F> but <R>he</R> he also read a lot more comic books than <R>he</R> <F>er</F> <R>he</R> <.></.> <SC>he had used to</SC> <.></.> <F>er</F> <R>he ha</R> <SC>he had been <R>u</R> used to</SC> <F>er</F> <F>uh</F> he had used to <.></.> <F>er</F> read <R>before the</R> <F>er</F> <.></.> before <SC>the exam star</SC> the exam <R>tr</R> <F>eh</F> training <R>start</R> started. And <F>er</F> he sometimes <F>er</F> took part in the <.></.> club activity with <.></.> other friends. <R>He</R> <F>er</F> <R>he al</R> <SC>he al</SC> <SC>he was</SC> he already retired from <F>er</F> the club activity <SC>because <R>he</R> he was the</SC> <F>uh</F> <R>when he</R> <F>eh</F> when he <.></.> finished the <R>last</R> <F>er</F> <.></.> last summer matches. So, I think <R>he</R> he is kind of good at <F>ur</F> switching <.></.> <F>er</F> his feeling.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Hmm</F> I see. O K. Thank you. Now, I'm going to show you a picture. Please describe it.</A>
+<B>Describe this picture? <F>Ur</F> it is a sunny day. And <F>er</F> this is a <.></.> <R>res</R> residence area. And <.></.> <F>er</F> <.></.> <F>ur</F> <SC>people are</SC> a man <.></.> is jogging and <F>er</F> another man is sitting on the bench and reading a newspaper. And <F>er</F> <SC>children are playing</SC> <SC>some children are</SC> <F>uh</F> two boys are playing <SC>with ball</SC> with a ball. And a girl is jumping <.></.> rope. And two women are chatting on the road. And <F>er</F> <.></.> <R>they all</R> they all look so relaxed and <F>eh</F> happy. And <F>ur</F> <.></.> I can get a very <R>ple</R> pleasant <OL>impression from this picture</OL>.</B>
+</task>
+<followup>
+<A><OL><F>Hmm</F> yeah</OL>. O K. Good. Thank you. So, <H pn="B's name">XXX02</H>, what do you do to relax <OL><?>in your</?> neighborhood</OL>?</A>
+<B><OL>To relax</OL>? <.></.> Do I do?</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> <SC>I</SC> to relax, <R>I</R> <..></..> I might <.></.> meet some of my friends <R>and</R> <.></.> and go out for lunch. And <.></.> chat and <laughter>chat and chat</laughter>.</B>
+<A><F>Hmm</F>. What do you talk about <OL>with friends</OL>?</A>
+<B><OL>About</OL> <F>er</F> <.></.> our children and our future and our present, maybe, problem. <nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. <F>Mm</F>. O K. Thank you. Now, please read this card. And let's do a role-play.</A>
+<B><?>I read</?> this card?</B>
+<A><F>Um</F>.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Ah</F>.</B>
+<A>O K?</A>
+<B>Yes.</B>
+<A>Ready?</A>
+<B><F>Um</F>. <OL>Tu-tu-tu</OL>.</B>
+<A><OL>Hello</OL>?</A>
+<B>Hello? <F>Oh</F> I'm sorry. <CO><OL>I</OL></CO>.</B>
+<A><OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><F>Uh</F>. <H pn="B's name">XXX02</H>. <nvs>laughter</nvs> Hi, <H pn="B's name">XXX02</H>. This is <H pn="A's name">XXX01</H>.</B>
+<A><F>Ah</F> hi, <H pn="A's name">XXX01</H>.</A>
+<B>How are you doing?</B>
+<A>Fine. How are you?</A>
+<B>I'm fine. <F>Er</F> I'm calling today <F>er</F> to ask you if you have some time <SC>today</SC> <.></.> <SC>this e</SC> this afternoon.</B>
+<A>This afternoon? <F>Urm</F> I'm sorry,</A>
+<B><F>Uh</F>. <CO>I'm</CO>.</B>
+<A>I'm kind of busy.</A>
+<B><F>Ah</F> you're busy. <F>Er</F> then I'm thinking of going to a movie. <F>Eh</F> and <F>er</F> I wonder if you'd like to go with me.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> <SC>wha</SC> <SC>would you like to be</SC> <.></.> <F>er</F> <R>would you</R> would you like to go <F>er</F> to a movie?</B>
+<A><F>Hmm</F>. What kind of movie?</A>
+<B><F>Er</F> <..></..> <R>I</R> <nvs>laughter</nvs> <F>er</F> <SC>I don't have particular in</SC> <F>er</F> <.></.> <F>er</F> <SC>I don't have <F>er</F> <.></.> <R>an</R> anything</SC> I don't have anything in particular now, but <R>there is a</R> there is a complexion theater <F>er</F> in <H pn="others5">XXX07</H> and I <.></.> was <F>er</F> <.></.> really looking forward to <SC>going to</SC> <SC>going and seein</SC> going there and seeing <F>mm</F> <F>er</F> movie over there. And there are so many <F>er</F> kinds of movies, and <F>er</F> we can choose any of them.</B>
+<A><F>Oh</F> that's nice.</A>
+<B>And then <SC>I wa</SC> <R>w</R> <SC>would you</SC> <.></.> do you think <R>you</R> <.></.> <F>er</F> <.></.> you'd be interested in <OL><SC>a mo</SC></OL></B>
+<A><OL>Yes</OL>. <OL>Sure</OL>.</A>
+<B>seeing <SC>a movie</SC> one movie?</B>
+<A>Yes.</A>
+<B><F>Er</F> <R>why d</R> <SC>why don</SC> <F>er</F> <F>er</F> <SC>what day is <.></.> the <F>er</F> fre</SC> <SC>what</SC> <F>ern</F> <.></.> <SC>do you have</SC> <F>um</F> <SC>what</SC> <R>wh</R> when is your free time?</B>
+<A><F>Hm</F>. How about next Monday?</A>
+<B>Next Monday? <F>Er</F> <.></.> <R>it's</R> <F>ur</F> it's O K with me.</B>
+<A>Are you sure?</A>
+<B>Yes. <nvs>laughter</nvs> <F>Er</F> then <F>er</F> <.></.> <F>er</F> <.></.> <SC>Monday morning</SC> how about Monday morning?</B>
+<A><OL>O K</OL>.</A>
+<B><OL>And</OL> we could meet <F>er</F> at <F>er</F> <.></.> at the Mycal Complexion Theater <F>er</F> at ten o' clock. And <F>eh</F> we could find <F>uh</F> <.></.> which movie <R>w</R> we would like to see. And then, if we have time before seeing the movie, we could <F>er</F> <SC>eat downs</SC> <F>er</F> <R>ea</R> eat <F>er</F> at Saty.</B>
+<A><F>Wow</F> yeah. <OL><??></??></OL>.</A>
+<B><OL><R>How</R> <R>ho</R></OL> how about that idea?</B>
+<A><F>Um</F>. Great.</A>
+<B>Then <F>er</F> <.></.> <F>er</F> <SC>le</SC> <.></.> see you next Monday,</B>
+<A><OL>O K</OL>.</A>
+<B><OL>at</OL> <F>eh</F> ten o'clock at Mycal.</B>
+<A>O K. See you. Thank you for calling. <OL>Bye-bye</OL>.</A>
+<B><OL>Bye-bye</OL>.</B>
+</task>
+<followup>
+<A>O K. <F>Um</F> <H pn="B's name">XXX02</H>, so, are you a moviegoer?</A>
+<B><.></.> <F>Er</F> <.></.> I'm not a moviegoer. <SC>But <F>er</F> I</SC> because <F>er</F> <.></.> <SC>ticket</SC> tickets are so expensive in Japan. So, these days, I don't see <R>s</R> so many movies.</B>
+<A><F>Hmm</F>.</A>
+<B>Last time <F>er</F> I saw was <.></.> <F>er</F> Japanese one. And <R>I</R> <F>er</F> I went to see that movie with my daughter.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Hm</F> I see. <F>Hmm</F>. O K. Thank you. Now, O K. Please look at this and make a story based on these six pictures. Please start with "One day last week", O K?</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B>One day last week, <..></..> <F>n</F> <F>eh</F> <R>i</R> <SC>is</SC> this boy is <.></.> me? Or <R>I</R> I can say "A boy and"? <OL><F>Ah</F></OL>.</B>
+<A><OL><F>Hmm</F> anything is O K</OL>.</A>
+<B>One day last week, <.></.> <F>er</F> <.></.> <SC>boy</SC> <F>eh</F> a boy <F>er</F> happened to meet <SC>his</SC> one of his <F>er</F> <.></.> high school teacher. And <F>eh</F> <SC>they haven't</SC> they hadn't met <F>er</F> since <.></.> the high school <R>gradu</R> graduation day. <F>Eh</F> <.></.> the teacher <F>er</F> got really excited and glad to meet the boy. And <F>er</F> he would like to know how the boy was doing. <SC>How ha</SC> <.></.> and he invited the boy <F>er</F> <.></.> for lunch. And <F>er</F> took him to the nearest restaurant. <F>Erm</F> <R>at the table</R> <F>er</F> <..></..> <F>er</F> <SC>at the table <F>er</F> they <F>eh</F> chose</SC> <F>er</F> <.></.> <F>umm</F> <F>uh</F> at the table the man <F>uh</F> recommended some of the good <F>er</F> dishes <F>er</F> <.></.> at the restaurant. And the boy <F>er</F> <F>eh</F> thought he would <.></.> try <F>eh</F> <.></.> one of them. And because <F>er</F> the <R>boy was</R> <F>er</F> <.></.> <F>er</F> <.></.> <F>eh</F> boy was a <.></.> <SC>high</SC> <F>er</F> college student then, and <SC>he was</SC> <.></.> <R>he</R> <R>he turned</R> he turned out to be twenty years old. So, <F>er</F> he ordered a beer. <R>And</R> <F>ei</F> and they <F>er</F> <.></.> enjoyed eating <F>er</F> delicious <.></.> food <.></.> <F>er</F> <.></.> and <F>er</F> alcohol. And they <F>er</F> talked about <F>er</F> the <.></.> fun memories of <F>er</F> <R>th</R> the boy's high school days. And the boy told the teacher <F>er</F> what he <.></.> was interested in or <R>w</R> what he was doing or what he was going to do. And <.></.> the teacher was so pleased <.></.> to listen to the boy. And <SC>they had <F>er</F> fish</SC> <F>er</F> the boy had the fish and the teacher had <R>mea</R> meat. And <R>the</R> they had <F>er</F> more than enough <.></.> for lunch. But they really had a good time. And they promised <F>eh</F> each other <R>to</R> to see <F>er</F> again and <SC>the teacher <F>er</F> told the boy anyone</SC> <F>er</F> <.></.> <R>he</R> he <F>uh</F> told <F>uh</F> to the boy that <R>he</R> <SC>he was ready <.></.> to</SC> <..></..> <SC>he was ready</SC> he was always ready to be there for <.></.> the boy if the <SC>the boy has <SC>something</SC> some</SC> <F>erm</F> boy has <R>ss</R> something to discuss <.></.> or something to <R>s</R> solve. And they said good-bye and <.></.> <R>de</R> departed.</B>
+</task>
+<followup>
+<A><F>Hm</F>. O K. <F>Hm</F>. Thank you, <H pn="B's name">XXX02</H>. <F>Hmm</F>. What kind of restaurant do you like to go to?</A>
+<B><F>Uh</F> I like <.></.> <F>mm</F> <R>fa</R> <SC>family restaurant</SC> so-called "family restaurant". And <.></.> <F>er</F> because <SC>they have a variety of</SC> <.></.> they have variety of <F>er</F> dishes. And <.></.> <R>I</R> I don't like <F>er</F> meat. Minced meat is O K, but steak or <F>er</F> usual <F>er</F> <.></.> <F>uh</F> meat, <R>I</R> <R>I</R> <R>I</R> I can't eat those things. So, <F>er</F> <SC>to go to the</SC> <SC>going</SC> <F>er</F> when we go to <.></.> a family restaurant, you can choose <R>a</R> anything.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you. Now, we are almost at the end of the interview. But what are you going to do this weekend?</A>
+<B>This weekend? <F>Er</F> <.></.> <SC>I'm going to be a <R>one of</R> <F>er</F> <.></.> <F>eh</F> <..></..> one of the meeting</SC> <F>uh</F> I'm going to attend <.></.> one of the meeting for the <.></.> <F>er</F> community kids. And <..></..> <SC>we had to</SC> <.></.> <F>er</F> <..></..> that will be <F>er</F> first time for all of us. And <R>I</R> I don't know who is <R>next</R> <F>er</F> <.></.> next mother <F>uh</F> <..></..> who are taking care of <.></.> <F>er</F> elementary school children <R>in the area</R> <OL>in the area</OL>.</B>
+<A><OL>O K</OL>. <F>Mm</F>. O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>Have a nice <??></??>. And thank you for coming in.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

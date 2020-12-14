@@ -1,0 +1,236 @@
+<interview>
+<filename>file00042.txt</filename>
+
+<head version="1.3">
+<date>1999-12-15</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Er</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>O K, <H pn="B's name">XXX02</H>. Are you busy here in <H pn="school name1">XXX03</H> University?</A>
+<B><F>Err</F> yeah. I have been busy because <SC>I have</SC> I had to write a <SC>thesis</SC> grad thesis.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But now, I finished, so I'm not busy right now.</B>
+<A><F>Oh</F> good. O K. What did you write about?</A>
+<B>I wrote about Shakespeare's comedy.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>Was it interesting?</A>
+<B>Yeah. At first, it was very interesting, but gradually, I got tired of researching. <CO>So</CO>. <nvs>laughter</nvs></B>
+<A><F>Uh-huh</F>. So do you have any ideas when you get tired? <R>Wha</R> what do you do?</A>
+<B><F>Mhmm</F> usually, I listen to music.</B>
+<A><F>Uh-huh</F>. <F>Er</F> what kind of music?</A>
+<B><F>Er</F> it depends but <F>mhm</F> I like classical music and rock music.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><CO>So</CO>. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>. So are there any favorite artist?</A>
+<B><F>Ah</F> yes. I like Oasis very much.</B>
+<A><F>Oh</F>. Tell me more about that.</A>
+<B><F>Er</F> <F>uhmm</F> <SC>they are</SC> <F>er</F> Oasis is an English rock group</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and very famous</B>
+<A><F>Mh-hmm</F>.</A>
+<B>especially in England and Europe.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <F>er</F> I think the vocalist is very cool. <nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>.</A>
+<B>His voice and his <F>er</F> attitude</B>
+<A><F>Mh-hmm</F>.</A>
+<B>toward the authority <OL><nvs>laughter</nvs></OL> is cool.</B>
+<A><OL><F>Oh</F></OL>. <F>Mhmm</F>. O K. So <F>er</F> can you describe him?</A>
+<B><nvs>laughter</nvs> <F>Er</F> <F>mhmm</F> <R>he is not</R> <F>er</F> he is not clean. <OL><nvs>laughter</nvs> <laughter>And</laughter></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>he is always drinking.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <SC>his look</SC> <F>er</F> <F>er</F> he wears a rough style like T-shirt and jeans and sneakers.</B>
+<A><F>Hmm</F>. O K. Good. O K. <F>Er</F> can you tell me about your hobbies?</A>
+<B><F>Er</F> my hobby is to see the movies</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and play the piano</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and listen to music.</B>
+<A>O K. Have you seen good movies recently?</A>
+<B><F>Er</F> recently, I saw a movie called "The Destiny of Her Own".</B>
+<A><F>Mhmm</F>. What did you like about?</A>
+<B><F>Er</F> it was about a woman who lived in fourteenth or fifteenth century.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <SC>her</SC> <R>she</R> <R>she couldn't</R> she couldn't <R>marry</R> marry <SC>who</SC> whom she liked.</B>
+<A><F>Hm</F>.</A>
+<B>So she decided to live another way and she became a prostitute. <SC>And</SC> but <R>she ha</R> she had a talent to tell a story <R>and</R> and to write a poem.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And she lived a successful life.</B>
+<A><F>Hmm</F>.</A>
+<B>So I liked her way of living.</B>
+<A><F>Mhmm</F>. So would you like to live like her?</A>
+<B><nvs>laughter</nvs> <F>Ah</F> no, I don't. But <SC>her at</SC> I want to be a woman who has a aim to live. <OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A><OL><F>Oh</F> O K, <?>I agree</?></OL>. Great. O K. Now, I'm going to show you a picture. <??></??>. O K?</A>
+<B><F>Mh-hmm</F>.</B>
+<A>O K. Could you describe this for me?</A>
+<B><F>Uh-huh</F>. <F>Urrm</F>. <..></..> <F>Mhmm</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>O K. <F>Urm</F>. <..></..> This woman is <F>er</F> Momoko.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>And</laughter></OL> this man is Kentaro. And <SC>they are a</SC> <.></.> <F>urmm</F> <.></.> they're good friends and decided to <F>er</F> come to have dinner</B>
+<A><F>Mh-hmm</F>.</A>
+<B>together.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <F>er</F> they <R>often</R> often date, but this time, they decided to <F>er</F> come to a good restaurant because <F>er</F> Kentaro tried to <F>er</F> propose her. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>And <F>hm</F> they ordered a wine before having dinner.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <SC>this man trying to</SC> this man is trying to recommend a good wine to them.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>And</R> <F>er</F> <..></..> and the atmosphere is not noisy but quiet and comfortable.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>. <F>Um</F> <..></..> and music is classical.</B>
+</task>
+<followup>
+<A><F>Mh-hmm</F>. O K. Great. All right. <F>Er</F> how would you like to be proposed by a man?</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I have never thought about that. But <F>mhmm</F> you know, <SC>I don't</SC> <F>er</F> <SC>I'd like to be a</SC> <F>er</F> I would like him to say directly.</B>
+<A><F>Oh</F> O K. <F>Mhmm</F>.</A>
+<B><F>Hm</F>. <R>If</R> <SC>if <SC>they</SC> <F>er</F> he</SC> if <R>he</R> he <F>er</F> said undirectly like "I want to have your miso soup" or something, it's complicated <nvs>laughter</nvs> and I don't understand his purpose. So <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>I just would like him to say like "Marry me" <laughter>or something</laughter>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL><nvs>laughter</nvs></OL> Great. O K. I agree with you. All right. O K. Now, can we try a role-play?</A>
+<B><F>Mh-hmm</F>.</B>
+<A><F>Hm</F>. O K. This one.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Please read it and if you're ready, I will start.</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Ready?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Hello. May I help you?</A>
+<B>Hello. I bought this <SC>sweater ye</SC> <F>er</F> sweater, but <R>I</R> I found that I can't wear fitly. So could you exchange it <OL>to <SC>the</SC> another</OL></B>
+<A><CO><OL><F>Oh</F> I'm s</OL></CO>.</A>
+<B>sweater?</B>
+<A><F>Oh</F> I'm sorry. We can't. It's against our policy.</A>
+<B><F>Mm</F> but I got fat suddenly.</B>
+<A><nvs>laughter</nvs></A>
+<B>And I can't wear anymore. <R>I can't</R> I can't go out with this sweater.</B>
+<A><F>Well</F> when did you buy it here?</A>
+<B><F>Er</F> yesterday. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>But</laughter> <nvs>laughter</nvs> at dinner, I ate too much. And I <R>c</R> can't recover from the fat.</B>
+<A>Really?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Maybe</OL> you can reduce your weight. <OL>Maybe</OL>.</A>
+<B><OL>Yeah</OL>. But <R>it's</R> <SC>it's im</SC> <SC>it's not impo</SC> it's not possible, so instead of that, <F>uh</F> <R>I</R> <.></.> I'll take another sweater,</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL>a bigger one</OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>So</OL> please exchange it.</B>
+<A><F>Oh</F> O K. I'm sorry but <F>er</F> I'm just a part-time worker here.</A>
+<B><F>Uh-huh</F>.</B>
+<A>So in that case, I have to ask <F>er</F> our manager, but, you know, he is <R>on</R> on business trip now</A>
+<B><F>Hm</F>.</B>
+<A>and he'll be back next week.</A>
+<B><F>Hm</F>. So I'll wait till next week.</B>
+<A>Really?</A>
+<B>Yes.</B>
+<A>Can you come back?</A>
+<B>Yes.</B>
+<A><F>Ah</F> O K. So <F>er</F> don't forget to bring your receipt. <OL>O K</OL>?</A>
+<B><OL><F>Ah</F></OL> yes.</B>
+<A>O K.</A>
+<B>Thank you very much.</B>
+<A>Thank you. Please come again.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Bye-bye.</A>
+<B>Bye-bye.</B>
+</task>
+<followup>
+<A>Good. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. So <F>uh</F> have you ever gone on a diet?</A>
+<B><F>Er</F> no. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. So do you have any ideas to <SC>keep</SC> stay in shape?</A>
+<B><F>Urmm</F> <F>mhmm</F> I <SC>try to</SC> <F>er</F> try not to have extra food like sweets or other <F>er</F> foods at the wrong time.</B>
+<A><F>Mhmm</F>. Isn't it stressful?</A>
+<B><F>Mhmm</F>. No.</B>
+<A><F>Mhmm</F>. O K. <SC>So</SC> and if you have to negotiate with people like that,</A>
+<B><F>Mh-hmm</F>.</B>
+<A>how do you do it?</A>
+<B><F>Mhmm</F>. I try to <F>uh</F> say very <F>mhmm</F> decently</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and kindly.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs> And not to blame the <F>mhm</F> <SC>c</SC> sales clerk.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Oh</F> O K. Good. All right. So finally, I'm gonna show you another picture. So have you tried this before?</A>
+<B>No.</B>
+<A>O K. O K. <F>Urmm</F> I'd like you to make a story about this picture.</A>
+<B><F>Uh-huh</F>.</B>
+<A>And the story happened last week. So please start your story with "One day last week".</A>
+<B><F>Mhmm</F>. <F>Oh</F>. <.></.> One day last week, <SC>he went to</SC> <F>er</F> <.></.> he left home to go to work as usual in the morning. But at the station, there were a lot of people and the <SC>form</SC> platform was filled with people. So one man was <F>er</F> imitating to playing the guitar at the platform. <SC>So his elbow</SC> <F>er</F> <F>mhmm</F> and that made him <R>put</R> <.></.> put out his bag <R>to the</R> to the rail.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <R>he got angry</R> he got angry to the man who was playing the guiar. But he pretend <R>not to</R> <F>er</F> <SC>not to see</SC> not to relate to <SC>that</SC> <F>er</F> the trouble. <R>So</R> so the man asked to the <F>er</F> people in the station, <SC>so</SC> <R>and</R> <.></.> and <SC>get his</SC> got his bag to himself.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And finally, <R>he could</R> he could ride a train and could go to work.</B>
+</task>
+<followup>
+<A><F>Mh-hmm</F>. Good. O K. <F>Erm</F> have you ever lost something very important?</A>
+<B><F>Er</F> not very important, but I lost my <F>er</F> piano score in the train.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><R>I</R> I put bag up to the shelf</B>
+<A><F>Mh-hmm</F>.</A>
+<B>in a train,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and I forgot to bring it.</B>
+<A><F>Mhmm</F>. O K. <R>And</R> and <R>what</R> what happened afterwards?</A>
+<B><F>Er</F> <F>mhmm</F> at that time I was very small, so that my parents try to call the station</B>
+<A><F>Mh-hmm</F>.</A>
+<B>but <SC>the bag never</SC> <F>er</F> the bag was never found.</B>
+<A>Sorry to hear that. O K. But <F>er</F> <SC>something</SC> similar thing happen to you, what would you react <.></.> to this guy?</A>
+<B><F>Mhmm</F>. At first, I complain to the man who <F>er</F> <SC>put my bag</SC> <F>er</F> <F>er</F> <SC>pu</SC> <F>er</F> <??></??>. But <SC>if he <.></.> wou</SC> if he did not do nothing about that,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I ask the people in a station</B>
+<A><F>Uh-huh</F>. <OL>Good</OL>.</A>
+<B><OL>to help me</OL>.</B>
+<A>O K. Great.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now, this interview is almost over. But what are you going to do after this interview?</A>
+<B>I'm going to go to the book store</B>
+<A><F>Mh-hmm</F>.</A>
+<B>to get my thesis.</B>
+<A><F>Oh</F> really? So <R>you</R> you'll study hard.</A>
+<B><OL><laughter><F>Ah</F> yeah</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. Good luck with <R>your</R> your thesis.</A>
+<B><F>Ah</F> thank you.</B>
+<A>And thanks for coming to take this interview test.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5> 
+</body>
+</interview>

@@ -1,0 +1,155 @@
+<interview>
+<filename>file00367.txt</filename>
+
+<head version="1.3">
+<date>2001-03-07</date>
+<sex>female</sex>
+<age>35</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>760</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good evening.</A>
+<B>Good evening.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name again?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Thank you. <F>Wow</F> it's very dark outside.</A>
+<B>Yes.</B>
+<A>And it's windy.</A>
+<B>Yes. It's cold.</B>
+<A>It's cold. What do you do <F>urr</F> around this time,</A>
+<B>Around this time.</B>
+<A>usually?</A>
+<B>Usually, <F>urr</F> after I finish my work, I go straight home.</B>
+<A><F>Mm</F>. O K. After reaching home, what is the first thing you do?</A>
+<B>First thing? <F>Mmm</F> <.></.> I check my mail, and <.></.> <F>err</F> my mail means <R>post</R> post office, and also E-mails. <R>And</R> and I, after that, I <.></.> prepare my dinner.</B>
+<A><F>Mm-hum</F>. Do you live alone?</A>
+<B>No. With my husband.</B>
+<A><F>Oh</F>. I see. <.></.> O K. So <F>urr</F> can you tell me a little about your husband?</A>
+<B><F>Mmmm</F>. <R>He</R> <.></.> he is same age <.></.> to me, and <SC>we are <R>university</R> university classmate</SC> we were university class mates. And he is now working for <.></.> <SC>some broadcast</SC> <SC>some</SC> <F>um</F> <SC>a broadcasting</SC> broadcasting company. <.></.> <SC>The</SC> <R>it</R> it broadcast <.></.> <SC>music</SC> only music.</B>
+<A><F>Oh</F>. I see. <F>Mmm</F>. O K. <H pn="B's name">XXX02</H> <JP>san</JP> where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Mmm</F>. I see. How did you come to living that place?</A>
+<B>How?</B>
+<A><F>Mm</F>. Why did you decide to live in that place?</A>
+<B><F>Mmm</F>. <.></.> <F>Eeh</F>. <SC>After we married</SC> <F>uh</F> two years later we married, <SC>the</SC> our <JP>nan darou</JP> rents <SC>is getting higher</SC> was getting higher. So <R>we <.></.> sear</R> we searched somewhere <.></.> to live, but we found <.></.> it, <SC>to ren</SC> renting or and buying a house is <.></.> also <R>same</R> same price on the every month <.></.> payment. So we decided to buy a house. But <SC>we</SC> <.></.> <R>my</R> <.></.> my parents' house is in <H pn="others2">XXX04</H> so I'm <.></.> familiar with <SC>it</SC> <H pn="others3">XXX05</H> <H pn="others1">XXX03</H> <H pn="others4">XXX06</H> area. So I wanted to live <F>urr</F> around there. So finally, we found good place.</B>
+<A><F>Oh</F>. Good. So do you like the place at the house?</A>
+<B>Yes.</B>
+<A>It's convenient.</A>
+<B>Yes, convenient.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you. O K. I'm going to show you a picture now.</A>
+<B>Yes.</B>
+<A>Can you describe this picture for me?</A>
+<ctxt>The interviewer is taking out the picture.</ctxt>
+<B>Yes. <.></.> <F>Urrr</F>. <R>It</R> it is in a <F>hmm</F> <SC>restaurant</SC> maybe French <.></.> or Italian restaurant. And couple are <.></.> talking to somebody <R>somuri</R> somurie <F>urrr</F> <SC>describing the</SC> <R>describing</R> describing the wine. <.></.> <F>Ummm</F>. Maybe it's their <.></.> some <.></.> celebration day. <R>So they</R> <.></.> so they <.></.> have dinner at the gorgeous restaurant. <.></.></B>
+</task>
+<followup>
+<A>O K. thank you, <H pn="B's name">XXX02</H> <JP>san</JP>. If you celebrate something with your husband, do you like to go to such a restaurant?</A>
+<B><F>Mm</F>. Yes, sometimes. Or sometimes, <R>we</R> <R>we</R> <.></.> we went trip to somewhere.</B>
+<A><F>Mmm</F>. O K. Last time when you celebrate, I don't know, your wedding anniversary or something with your husband, tell me about that. What did you do for that occasion?</A>
+<B><F>Mmm</F>. <.></.> <R>We married on</R> we married on April, so every <.></.> four or five years, on golden week, we have <.></.> about two-weeks trip to Europe.</B>
+<A><F>Mmm</F>. <F>Wow</F>. That's nice.</A>
+<B><F>Mm</F>. And at other time, <.></.> <R>we</R> we go to <.></.> Hakone. <nvs>laughter</nvs></B>
+<A><F>Mm</F>. <SC>That's</SC> even that's nice to me. O K. <SC>Where</SC> which country in the Europe do you like best?</A>
+<B><R>I</R> I like <.></.> England best.</B>
+<A>Why?</A>
+<B>Why? <F>Mmmm</F>. Because <F>mm</F> <R>I</R> <.></.> I can communicate by using English.</B>
+<A><F>Urrr</F>.</A>
+<B><R>So</R> so <.></.> <JP>nan darou</JP> other countries, people speak other languages.</B>
+<A>Yes. <F>Mmm</F>. O K. Good.</A>
+<B>It's very difficult to communicate.</B>
+<A><F>Mm-hmm</F>.</A>
+<B><??></??></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, thank you. Now, let's do a role play.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is taking out the card.</ctxt>
+<A>O K. Please read this card to yourself, and when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>Yes.</B>
+<A>Hello, madam. How may I help you?</A>
+<B><F>Err</F>. Excuse me, <R>I</R> I'd like to go to New York by train, <F>err</F> <R>as</R> <.></.> as soon as possible. <.></.> <F>Err</F> <SC>How</SC> <R>which</R> which train is <.></.> <R>reaching</R> reaching <R>ear</R> early?</B>
+<A><F>Oh</F> we have <F>urr</F> express train starting from here at six p. m.</A>
+<B>Six p. m.</B>
+<A><F>Uh-Hum</F>.</A>
+<B><F>Err</F>. <R>How</R> <F>urr</F> how much is that train's ticket?</B>
+<A>It's forty dollars.</A>
+<B>Forty dollars. And how long does it take to get <SC>Lo</SC> New York?</B>
+<A>It takes ninety minutes from here.</A>
+<B>Ninety minutes.</B>
+<A>Yes.</A>
+<B>Yes. <F>Hmm</F>. Is that <.></.> quickest way to <SC>the New</SC> reach New York?</B>
+<A><R>Yes</R>. Yes, it is.</A>
+<B>So <R>I'll</R> I'll <.></.> have a <SC>ticket</SC> <.></.> one way ticket to <.></.> New York,</B>
+<A><OL>O K</OL>.</A>
+<B><OL>for</OL> one adult.</B>
+<A>Sure.</A>
+<B>Yeah. <.></.> <SC>How much</SC> <F>eh</F> forty dollars?</B>
+<A>Yes, it's forty dollars.</A>
+<B>Here you go.</B>
+<A>O K. Thank you. This is your ticket.</A>
+<B>Thank you.</B>
+<A>Have a nice trip.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>O K. Thank you. That's the end of the role play. O K. You said that you've been to Europe, and to Hakone. <nvs>laughter</nvs> O K. Can you compare <.></.> traveling abroad to traveling within this country? Which is easier or,</A>
+<B><F>Mmm</F>. Traveling <.></.> in Japan is easier to compare traveling in Europe because we can <.></.> travel by our car. But traveling in Japan <SC>is more expensive</SC> it costs more expensive, I think, <R>because</R> <F>err</F> because price of the hotels or <JP>ryokan</JP> is very expensive.</B>
+<A>Yes, indeed.</A>
+<B>So, <SC>we</SC> I think <F>mmm</F> traveling in Europe or other countries <.></.> <R>are</R> <.></.> are attracting <.></.> me.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K. Thank you. <F>Well</F>. I'm going to show you another picture.</A>
+<ctxt>The interviewer is taking out the picture.</ctxt>
+<A>O K. This time, I want you to make up a story based on these pictures from one to six. But it happened before, so please start your story with "one day last week".</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Err</F>. One day last week, <R>I went</R> <.></.> I went to a department store for <.></.> buy <F>urr</F> my husband's birthday present. <F>Mm</F> <JP>de</JP> <R>I</R> <.></.> I found <.></.> a good necktie at there, so <R>I bought</R> I bought one. And after I bought his <R>birth</R> birthday party, <R>on</R> <.></.> on the way to <.></.> <SC>back home</SC> <R>back</R> back home, I found <SC>sh</SC> <F>mm</F> ladies' shoes sale. <SC>It's</SC> <.></.> it was thirty percent off sale. <.></.> <F>Mm</F>. So, I bought some shoes, and after that, <.></.> on <F>err</F> other floor, I found another sale. <R>It</R> it was fifty percent off. So <R>I</R> I stopped, and <.></.> <R>I bought</R> <.></.> I bought some. And at finally, <R>I</R> <.></.> <R>I bought</R> <.></.> <F>mm</F> <.></.> I bought <R>three package</R> three packages of <R>my</R> <.></.> my things. And I leaved the department store.</B>
+<A>O K. Thank you. Thank you for your <OL>story</OL>.</A>
+<B><OL>Left, left</OL>?</B>
+</task>
+<followup>
+<A><F>Mm-hmm</F>. Thank you for your story. Do you like shopping, <H pn="B's name">XXX02</H> <JP>san</JP>?</A>
+<B>Yes. I like shopping.</B>
+<A><F>Mm</F>. Tell me what you bought <.></.> on your trip to Europe? <.></.> Last time.</A>
+<B><F>Errr</F>. <.></.> <F>Errr</F>. <R>I</R> I like to buy <R>some</R> <F>mm</F> some small <R>i</R> items such as <F>ur</F> stationary or daily <.></.> cosmetics. So I don't like <.></.> expensive <.></.> goods, so I like supermarkets. So, every time I go abroad, I usually visit <.></.> local supermarkets.</B>
+<A><F>Urrr</F>. That's a good idea. What do you recommend as a souvenir from, let's say, London supermarket?</A>
+<B>Yeah. <R>I</R> I usually buy chocolate bars or some cookies.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mmm</F>. I see. O K. We're now at the end of this interview.</A>
+<B>Thank you very much.</B>
+<A>After this interview, are you going back home?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. I see. And you are going to check your mails.</A>
+<B>Yes. Of course.</B>
+<A><nvs>laughter</nvs> O K. So thank you very much for coming.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,242 @@
+<interview>
+<filename>file00632.txt</filename>
+
+<head version="1.3">
+<date>2001-10-26</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B>Yeah.</B>
+<A>May I have your name, please?</A>
+<B><F>Mm</F>. No. <.></.> <F>Uh</F>. <CO>My</CO>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hm</F> yeah, your name</OL>. <OL>What's your name</OL>?</A>
+<B><OL>My name</OL> is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Hm</F>. I'm fine. And you?</B>
+<A>Thank you very much. I'm fine.</A>
+<B><OL><F>Er</F></OL>.</B>
+<A><OL>Good</OL>. O K. <H pn="B's name">XXX02</H>, <F>Er</F> <SC>do yo</SC> <F>er</F> today is Friday.</A>
+<B>Yes.</B>
+<A>What do you usually do on Friday?</A>
+<B><F>Oh</F>. I go to school on <.></.> ten forty and have lunch. And afternoon, I have two classes.</B>
+<A><F>Hm</F>.</A>
+<B>And after school, I go to swimming and <SC>di</SC> ate dinner and go to my home.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>Can you tell me about swimming?</A>
+<B>Yeah. <F>Mm</F> <F>mm</F> <R>I</R> <SC>I went swimming</SC> <F>uh</F> I've been to swimming <.></.> <F>uh</F> for about one year with my friends.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And always I swim for two hours. <..></..> That's all. <nvs>laughter</nvs></B>
+<A>Why do you like swimming?</A>
+<B><F>Hm</F>. <SC>I don't</SC> <F>mm</F> I usually don't sports.</B>
+<A><F>Hm</F>.</A>
+<B>So I have to <F>mm</F> do something. <laughter><R>So</R></laughter> so I go swimming.</B>
+<A>Do you go to a club?</A>
+<B>No. <OL><F>Mm</F></OL>.</B>
+<A><OL>Where</OL> do you usually swim?</A>
+<B><F>Hm</F>. <CO><SC>I went Takadanobaba</SC> <.></.> <nvs>sigh</nvs> <.></.> <?>no</?> <nvs>laughter</nvs> <F>er</F> <??></??> I went <.></.> <F>mm</F> Takadanobaba <.></.> <SC><JP>ku</JP></SC> <OL><F>er</F> <R>Shin</R> Shinju</OL></CO>.</B>
+<A><OL><F>Ah</F></OL>. Sports center?</A>
+<B>Yeah.</B>
+<A>I see. <.></.> O K. So, <F>er</F> <SC>you</SC> in your free time,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>what</OL> do you like to do?</A>
+<B><F>Hm</F>. I like reading and watching T V and sleeping.</B>
+<A><F>Hmm</F>.</A>
+<B>Yeah.</B>
+<A>Tell me more <OL>about</OL>,</A>
+<B><OL><F>Er</F></OL>.</B>
+<A>the book you <OL>like</OL>.</A>
+<B><OL>Book</OL>?</B>
+<A><F>Uhm</F>.</A>
+<B>I like novels. <F>Er</F> I like writer <SC?>in my</SC?> <F>hm</F> Murakami Haruki and Murakami Ryu,</B>
+<A><F>Hm</F>.</A>
+<B>and so on.</B>
+<A><F>Hm</F>. What's so nice about him?</A>
+<B><F>Hmm</F>. <R>His</R> <.></.> <F>hmm</F> his mind is very wonderful, I <laughter>think</laughter>.</B>
+<A><F>Hmm</F>. How wonderful?</A>
+<B><F>Oh</F>. <nvs>laughter</nvs> <F>Hmm</F>. It is not real world but I think it is real. <..></..> <nvs>laughter</nvs></B>
+<A>Yeah. I can <OL>imagine</OL>.</A>
+<B><OL><F>Hm</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>All right, <H pn="B's name">XXX02</H>.</A>
+<B><?><JP>Hai</JP></?>.</B>
+<A>The first thing for today is please look at this picture. Please describe this picture for me.</A>
+<B><F>Hm</F> <F>hm</F> <F>hm</F>. <F>Er</F>. It is a room. And there is a girl. <SC>He</SC> <F>mm</F> and there is one dog and <SC>a</SC> one cat. And it's June. And it's nine o'clock, maybe morning. <F>Er</F> <SC>she is</SC> <R>she</R> <.></.> she sits front of personal computer. And there are <F>hm</F> mini <JP>compos</JP> and books and telephone. And the door is open.</B>
+<A>All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you have your own room?</A>
+<B>Yes.</B>
+<A>Does your room,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>look</OL> like this picture?</A>
+<B><F>Hm</F>. <CO>Not <laughter>so</laughter></CO>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>How different?</A>
+<B><F>Hmm</F>. <R>My room</R> <F>mm</F> my room, there is not compo. And <.></.> <R>thi</R> this desk is <F>mm</F> different <?>from</?> my desk. <F>Hm</F>.</B>
+<A>So, you have a computer in your room?</A>
+<B>Yes. <CO>I have</CO>.</B>
+<A>What do you use it for?</A>
+<B><F>Hm</F>. I usually use for Internet,</B>
+<A><F>Hmm</F>.</A>
+<B>and Word.</B>
+<A>I see. What's so exciting about Internet?</A>
+<B><F>Hm</F>. <CO><SC>They have many</SC> <F>hm</F> <F>eh</F> <??></??> <F>hm</F> <.></.> <F>eh</F> it is <.></.> <F>hmm</F> <nvs>laughter</nvs> <??></??></CO>.</B>
+<A>So, in what occasion,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><SC><OL>do you</OL> use</SC> do you enjoy,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>Internet</OL>?</A>
+<B><F>Oh</F>. <F>Hm</F> <.></.> <F>er</F> <R>i</R> in my room, <SC>I'm get</SC> if I am free,</B>
+<A><F>Hm</F>.</A>
+<B>and <nvs>cough</nvs> <?>there is</?> <SC>no</SC> nothing to do anything else, I use <laughter>Internet</laughter> for joy.</B>
+<A><F>Hm</F>.</A>
+<B><.></.> Yeah.</B>
+<A>All right. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I'm going to <??></??> give you this card.</A>
+<B><F>Hm</F>.</B>
+<A>This is a role-play card. So, I'd like to do a role-play with you. So when you are ready, I'll start.</A>
+<B><F>Hm</F> <F>hm</F>.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Are you ready?</A>
+<B><F>Hm</F>. <.></.> O K.</B>
+<A>O K?</A>
+<B><F>Hm</F>.</B>
+<A>Hello.</A>
+<B><OL>Hello</OL>.</B>
+<A><OL>May I</OL> help you, sir?</A>
+<B>Yes. <F>Erm</F>. But I want to go New York Station. So please give me a ticket, please. <.></.> <F>Uh</F>.</B>
+<A>All right. <F>Er</F> we have several types of train for New York.</A>
+<B><F>Huh</F>. <F>Hmm</F>. <F>Uh</F> I want to go fast.</B>
+<A><.></.> All right. We have express train,</A>
+<B>Yeah.</B>
+<A>to New York.</A>
+<B><F>Hm</F>. I want to buy that ticket.</B>
+<A>O K. It's fast but very expensive.</A>
+<B><F>Hm</F>. <.></.> <F>Hm</F>. No. <F>Eh</F>. O K. <F>Eh</F>. I want to buy it.</B>
+<A>O K. It's two hundred dollars.</A>
+<B><laughter><F>Oh</F> expensive</laughter>. <F>Hm</F>. But I want to go fast. So I'll buy it.</B>
+<A>All right. One ticket?</A>
+<B>Yes.</B>
+<A><.></.> Here you are. <.></.> O K.</A>
+<B><F>Hm</F>.</B>
+<A>Thank you <OL>very much</OL>.</A>
+<B><OL><F>Ah</F></OL> thank you.</B>
+<A>Have a nice trip.</A>
+<B>Thank you.</B>
+<A>O K. That's the end of role-play. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you like traveling?</A>
+<B>Yes. I like traveling.</B>
+<A><F>Hm</F>. So <F>ur</F> could you tell me the last trip you took?</A>
+<B><F>Hm</F>. I went China in this summer. <F>Erm</F> <SC>there</SC> it's about three weeks trip. <F>Hm</F> <R>I w</R> I went <?>first</?> Peking and, you know <JP>Jukei</JP>?</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And west side of China. And last, I <SC>go</SC> <F>uh</F> went Shanghai and go back to Japan.</B>
+<A><F>Hm</F>. Which place was best for you?</A>
+<B><F>Hmm</F>. I like Shanghai. <F>Hm</F>.</B>
+<A>Why?</A>
+<B><F>Er</F>. The city is very clean and near <?>Japanese</?>. Yeah. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>But west side of China is very dirty.</B>
+<A><F>Hm</F>.</A>
+<B>And <.></.> <F>hm</F> the food is very hot for me.</B>
+<A><F>Mh-hmm</F>. <.></.> Why are you interested in China?</A>
+<B><F>Oh</F>. <nvs>cough</nvs> I'm studying <?>in</?> developing economy. And <SC>China</SC> <F>um</F> I studying China for that study.</B>
+<A><F>Oh</F> I see. So what is the biggest difference between China and Japan?</A>
+<B><F>Hm</F>. I think people is different.</B>
+<A><F>Hm</F>. How different?</A>
+<B><F>Hm</F>. <F>Uhm</F>. <SC>They</SC> there, <.></.> they have no rule, <laughter>I think</laughter>. <nvs>laughter</nvs> <.></.></B>
+<A>O K. That is the biggest difference.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>I</OL> see.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. Lastly, I'll show you another picture. This is a picture sequence. So please make up one short story using these pictures from one to six.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>And</OL> this happened before. So please start, "One day last week," and begin your story.</A>
+<B><F>Hmm</F>. One day last week, <F>hmm</F> <..></..> <F>hm</F> <SC>two people</SC> two <F>er</F> went restaurant. And <?>that's the</?> old man and young man. <F>Hm</F>. <nvs>cough</nvs> <F>Hmm</F>. The old man reserved a <R>s</R> seat. And ordered <F>mm</F> chicken and fishes and beer. And after dinner, old man paid the money and get out of restaurant. And he <?>bows</?> <nvs>cough</nvs> the young man. <F>Hm</F>. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K. So, <H pn="B's name">XXX02</H>,</A>
+<B>Yeah.</B>
+<A>do you often go to a restaurant with your friends?</A>
+<B><F>Hmm</F>. So so.</B>
+<A><F>Oh</F>. So tell me your favorite restaurant.</A>
+<B><F>Hmm</F>. I like <?>La Pazza</?>. <F>Eh</F> Italian restaurant.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah. And <.></.> the <SC>sh</SC> restaurant is at Takadanobaba Station. <F>Hm</F>.</B>
+<A>Tell me more about the restaurant.</A>
+<B><F>Hm</F>. <F>Hm</F>. <F>Eh</F>. Menu mainly pizza and pasta. And <nvs>cough</nvs> <SC>menu's</SC> all menus is cheap.</B>
+<A><F>Hm</F>.</A>
+<B>And tastes good. <F>Hm</F>. <.></.> <F>Hm</F>.</B>
+<A>Why do you like Italian food?</A>
+<B><F>Hmm</F>. Yeah. <F>Hm</F>. <.></.></B>
+<A>What's so nice about Italian food?</A>
+<B><F>Uhm</F>. <SC>I like</SC> <SC>I think the</SC> <.></.> delicious,</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>uhm</F></OL> <nvs>laughter</nvs> <.></.> <??></??> as a food.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>How did you find that restaurant?</A>
+<B><F>Oh</F>. <CO>That restaurant is very</CO>. <F>Hmm</F>. <.></.> <R>I</R> I said I went to swimming. And after swimming, we go that restaurant and <nvs>sniff</nvs> <SC>the</SC> <nvs>cough</nvs> there are <SC>no</SC> <F>uh</F> little restaurants for students. And have no money. So I went that restaurant. <F>Hm</F>.</B>
+<A>All right. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost over.</A>
+<B><F>Ah</F>.</B>
+<A>So, <F>er</F> do you have any plan after this interview?</A>
+<B>Yeah. I go to school and have a lesson.</B>
+<A><F>Oh</F>. Lesson again?</A>
+<B>Yeah.</B>
+<A><F>Hm</F>. After that?</A>
+<B><F>Ah</F>. I go to swimming.</B>
+<A>Swimming. <OL>Yes</OL>.</A>
+<B><OL>Yeah</OL>. <nvs>laughter</nvs></B>
+<A>Yes. <F>Ah</F> I see. So <F>er</F> are you going to meet your friend?</A>
+<B>Yeah.</B>
+<A><F>Oh</F>. I see. What's his name?</A>
+<B><F>Mm</F> his name is <H pn="others1">XXX03</H>,</B>
+<A><F>Hm</F>.</A>
+<B>and <H pn="others2">XXX04</H>.</B>
+<A><F>Uh</F>. Two of your friends.</A>
+<B>Yes.</B>
+<A><F>Ah</F> I see. So, enjoy swimming,</A>
+<B>Yeah.</B>
+<A>with your friend.</A>
+<B><nvs>laughter</nvs></B>
+<A>Thank you very much,</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>for coming</OL> in today. Thank you.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,181 @@
+<interview>
+<filename>file00561.txt</filename>
+
+<head version="1.3">
+<date>2001-07-27</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>463</TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon. My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine thank you. And you?</B>
+<A>Fine, thank you. Good. <H pn="B's name">XXX02</H>, did you have good lunch today?</A>
+<B>Yes.</B>
+<A>Good. Where did you have your lunch?</A>
+<B><R>I</R> I ate it at my house with my family.</B>
+<A><F>Hmm</F>. Where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F> I see. Tell me more about your place.</A>
+<B><F>Urr</F> live in <H pn="others2">XXX04</H>.</B>
+<A><F>Uhhum</F>.</A>
+<B><R>And</R> <.></.> the near station is <H pn="others3">XXX05</H> of <H pn="others4">XXX06</H> Line.</B>
+<A><F>Uh-hum</F>.</A>
+<B><R>It</R> it takes about one hour from my house to my university.</B>
+<A><F>Uh-hum</F>. I see. You said you live with your family.</A>
+<B>Yes.</B>
+<A>Can you tell me a little bit about your father?</A>
+<B>Father. <F>mm</F> My father likes baseball very much so he watches the baseball game every day.</B>
+<A><F>Hmm</F>. <R>Wha</R> what his favorite team?</A>
+<B><F>Oh</F> <F>er</F> <SC>he likes</SC> he loves Giants very much.</B>
+<A><F>Umm</F>. Do you know the reason why?</A>
+<B><.></.> Maybe he likes <SC>Nagashima</SC> Shigeo Nagashima.</B>
+<A><F>Uhhum</F>.</A>
+<B>So.</B>
+<A>I see. <F>Um</F> What do you think about having Yomiuri Giants' fan father?</A>
+<B><R>I</R> I likes the Giants, too.</B>
+<A><F>Uh-hum</F>.</A>
+<B>So <..></..> <JP>a</JP> but <R>he</R> he likes Giants <R>but</R> <SC>but he said</SC> <R>he</R> <F>er</F> <SC>he says</SC> <.></.> he complains it the game every day. So <.></.> <F>umm</F> but <R>I</R> <.></.> I only watch a game,</B>
+<A><F>Uhhum</F>.</A>
+<B><?>on TV</?>.</B>
+<A><F>Hmm</F>. <F>Oh</F> I see. What do you like most about Yomiuri Giants?</A>
+<B><JP>e</JP> <??></??>.</B>
+<A>What do you like best about this particular team?</A>
+<B><.></.> <R>The play</R> the players of Giants are <F>urr</F> <SC>make home run</SC> make <R>more</R> more home run than other team.</B>
+<A><F>Uh-hum</F>.</A>
+<B>So <.></.> when I watch the game, <R>I</R> I satisfied with,</B>
+<A><F>Ah</F> good.</A>
+<B>the home run.</B>
+<A><F>Uh-hum</F>. <SC>Do you play any</SC> do you do any sports by yourself?</A>
+<B><R>I</R> <F>mm</F> I belong to Japanese archery team of a university.</B>
+<A><F>Ohh</F>.</A>
+<B>So.</B>
+<A><F>Well</F> that's interesting. So, tell me what is so interesting about Japanese archery.</A>
+<B><.></.> <R>I</R> <.></.> I begin the Japanese archery last year and <.></.> <R>when</R> when I do the Japanese archery,</B>
+<A><F>Hmm</F>.</A>
+<B><SC>it</SC> I need to concentrate, so it is <SC>useful <?>to live</?></SC> <SC>useful for every day</SC> <JP><F>a</F></JP> useful for <R>life</R> life.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. Good. O K. Thank you <H pn="B's name">XXX02</H>. Now, I am going to show you a picture card. <.></.> O K. This time, please describe the picture.</A>
+<B><.></.> Describe. <..></..> <SC>The girl has</SC> the girl plays in front of the house. And <R>two dog</R> two dog and two boys plays, too. And two womans, one with dog <..></..> <R>talk</R> talk. Two womans <R>talk</R> talk <.></.> near the car and a cat is on the car. <R>And</R> <..></..> <SC>man</SC> <SC>a man read</SC> a man reads the newspaper.</B>
+</task>
+<followup>
+<A><F>Hmm</F> O K. Thank you. <H pn="B's name">XXX02</H>, you said you live in <H pn="others1">XXX03</H>.</A>
+<B>Yes.</B>
+<A>Can you tell me the <R>differences</R> differences between this picture and your neighbourhood in <H pn="others1">XXX03</H>?</A>
+<B><.></.> <R>This picture</R> <F>a</F> the road of this picture <SC>is more</SC> <F>mm</F> is wider than the road of <H pn="others2">XXX04</H>.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>The house is</SC> in <H pn="others2">XXX04</H> the house is <R>more</R> more and <.></.> <R>the</R> <SC>the place</SC> <R>vaca</R> <SC>vacant place is</SC> <R>there is a few</R> <R>there is a few</R> there is few vacant place in <H pn="others2">XXX04</H>.</B>
+<A><F>Uh-hum</F>.</A>
+<B><SC>The house is much</SC> <..></..> maybe the house is big so <.></.> in <H pn="others2">XXX04</H> <SC>there is no</SC> <SC>no</SC> there is <R>few house</R> few house which is big like this.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Hmm</F> I see. O K. Thank you. O K. Now, let's do a role-play. <..></..> O K. I'll give you a card. Please read this card to yourself. And when you are ready, I'll start.</A>
+<ctxt>Interviewee is reading the card to herself.</ctxt>
+<A>O K?</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>. May I help you, young lady?</A>
+<B>Yes. <R>I want to</R> <R>I</R> I want <R>a shoe</R> shoes. And <..></..> what color do you have?</B>
+<A><F>Well</F> <SC>I have</SC> we have lots of colors.</A>
+<B>I want sport shoes.</B>
+<A><F>Uhhum</F>.</A>
+<B>So <..></..> <OL><F>urr</F></OL>.</B>
+<A><OL>O K</OL>. Please take a look at that corner. There are many sport shoes with different colors.</A>
+<B><..></..> The size is. <..></..> <R>How</R> <SC>how big</SC> how large <R>my</R> my size of shoes?</B>
+<A><F>Uhhum</F>.</A>
+<B>is <.></.> five <??></??>.</B>
+<A><F>Uh-hum</F>.</A>
+<B>So, <.></.> do you have?</B>
+<A>Yes, we do. Yes we do. Those there on the <SC>left si</SC> left hand side are the size five.</A>
+<B>How much is this?</B>
+<A><F>Well</F> it depends of the quality, but it's from ten thousand yen to twenty thousand yen.</A>
+<B><F>Mm</F>.</B>
+<A>It's reasonable.</A>
+<B><..></..> <R>Where</R> <SC>where this</SC> where was this made?</B>
+<A><F>Well</F> the blue one is <SC>made of</SC> made in China. And the two pink ones are made in Japan.</A>
+<B><F>Hmm</F>.</B>
+<A>And the others are the products of U.S.A.</A>
+<B><F>Hm</F> I see.</B>
+<A><F>Uh-hum</F>. O K. So, you decided?</A>
+<B>Yes.</B>
+<A>O K. Good. O K. Thank you, anyway.</A>
+</task> 
+<followup>
+<A>O K. That's the end of role-play. Do you like shopping?</A>
+<B>Yes.</B>
+<A><F>Hmm</F> <R>where</R> where do you go for shopping usually?</A>
+<B>Usually, I go to Shinjuku.</B>
+<A><F>Uhhum</F> Why Shinjuku?</A>
+<B><SC>I am</SC> <.></.> <R>I</R> <SC>I went</SC> I go <R>to</R> <.></.> to <H pn="others5">XXX07</H> <R>buy</R> <.></.> buy <JP>hakaru te</JP>.</B>
+<A><F>Uh-hum</F>.</A>
+<B><..></..> <R>I</R> I go to <H pn="others6">XXX08</H>.</B>
+<A><F>Uhhum</F>.</A>
+<B><JP><F>A</F></JP> <SC>I go to university in</SC> I don't go to university in <H pn="others6">XXX08</H>.</B>
+<A><F>Uh-hum</F>.</A>
+<B>I go to <.></.> <H pn="others5">XXX07</H> so the campus is near Shinjuku.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Oh</F>I see. That's why. O K. Thank you. <SC>Wha</SC> <F>well</F> finally I'll show you another picture. This time, please make a story, short story, based on these pictures. <OL>O K</OL>?</A>
+<B><OL><F>Uhhum</F></OL>.</B>
+<A>But start your story one day last week. O K? Please.</A>
+<B>One day last week, <F>umm</F> <.></.> a girl and boy <SC>go</SC> went to the <R>zoo</R> zoo. And <F>mmm</F> <.></.> <R>they watch</R> they watch lions and <R>they talk</R> they talk about <R>lion</R> lion plays the <??></??>. And after that, they watch the monkey, too. The monkey eat banana and <R>the girl ate</R> the girl ate ice cream. <F>mm</F> <SC>The boy told</SC> <SC>the boy <.></.> make fun</SC> the boy made fun of a girl.</B>
+<A><F>Uh-hum</F>.</A>
+<B><R>And</R> <.></.> and <R>they</R> they said good-bye in front of the gate of the zoo.</B>
+</task>
+<followup>
+<A>Thank you. <H pn="B's name">XXX02</H>, do you like animals?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. Sorry, <H pn="B's name">XXX02</H>, do you like animals?</A>
+<B><F>Mmmm</F>. I like a little.</B>
+<A><F>Mmm</F>. Which animal do you like <laughter>a little</laughter>?</A>
+<B><F>Umm</F> I like Lesser Panda.</B>
+<A><F>Hmm</F>.</A>
+<B><SC>My</SC> there is a small zoo near my house. And Lessor Panda is in that zoo.</B>
+<A><F>Oh</F> I see. What are the good points of Lessor Panda? <SC>Wha</SC> why are you interested in Lessor Panda so much?</A>
+<B><R>They</R> they are very pretty.</B>
+<A><F>Mmm</F>.</A>
+<B>So.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hmm</F> I see. O K. The interview is almost over now, <F>ur</F> <H pn="B's name">XXX02</H>. Sorry to mistake your name. <F>Umm</F> After this interview, what is your schedule today?</A>
+<B><R>I</R> <SC>I go to</SC> I'll go to <H pn="others7">XXX09</H> <.></.> <R>to</R> <SC>to my</SC> the place I do the Japanese archery <OL>is</OL></B>
+<A><F>Hmm</F>.</A>
+<B>in <H pn="others7">XXX09</H>.</B>
+<A><F>Ahh</F> so you are going to practice,</A>
+<B>Yes.</B>
+<A>Jaspanese archery. How many members are there?</A>
+<B><F>Mmm</F> the girl is <.></.> <R>twelve</R> twelve.</B>
+<A><F>Mmm</F> how about the boys?</A>
+<B>Boys is twenty.</B>
+<A><F>Mmm</F> how often do you practice <OL>there at the <H pn="others7">XXX09</H></OL>?</A>
+<B><OL>Almost every day</OL>.</B>
+<A>Almost everyday. <OL><F>Wow</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>But it's a little bit cooler today, so it's easy for you to practice outside.</A>
+<B>Yes.</B>
+<A>O K. Anyway, thank you very much for <OL>your time</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Interview is over now.</A>
+</stage5>
+</body>
+</interview>

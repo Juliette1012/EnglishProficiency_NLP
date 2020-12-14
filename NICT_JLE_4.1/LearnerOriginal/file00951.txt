@@ -1,0 +1,250 @@
+<interview>
+<filename>file00951.txt</filename>
+
+<head version="1.3">
+<date>2002-01-29</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><R><H pn="B's name">XXX02</H></R> <OL><H pn="B's name">XXX02</H></OL>?</A>
+<B><OL><R><H pn="B's name">XXX02</H></R></OL> <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K. How are you today?</A>
+<B><F>Ur</F> I'm fine.</B>
+<A>O K. Are you busy?</A>
+<B><F>Ur</F> not so busy.</B>
+<A>Not so busy now. O K. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><CO><R>I</R> <SC>I</SC> <H pn="others1">XXX03</H> <R>in</R> in</CO>.</B>
+<A>It's a long way.</A>
+<B><JP><F>Eeto</F></JP>. <..></..></B>
+<A><R>How</R> how long does it take?</A>
+<B>Take. <R>T</R> two hours.</B>
+<A>Two hours? <F>Wow</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. What do you do on a train?</A>
+<B><F>Er</F> <.></.> <JP><F>eeto</F></JP> <R>I</R> I ride to <.></.> <H pn="others2">XXX04</H> Line. <.></.> <CO>And</CO>. <..></..></B>
+<A><F>Uhm</F>. O K. O K. <F>Ur</F> you live in <H pn="others1">XXX03</H> with your family?</A>
+<B><.></.> <F>Urm</F>.</B>
+<A>O K. Tell me about your family.</A>
+<B>Family?</B>
+<A>Yeah.</A>
+<B><..></..> <R><H pn="others1">XXX03</H></R> <H pn="others1">XXX03</H>?</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> I live in <F>uhm</F> <H pn="others3">XXX05</H>.</B>
+<A>O K. With your family?</A>
+<B><.></.></B>
+<A>With your mother, father?</A>
+<B><F>Urr</F> <F>er</F> father? <.></.></B>
+<A>Do you live with family?</A>
+<B>Family? Yeah. <JP><F>Uunto</F></JP>. My father is <H pn="others4">XXX06</H>. <F>Err</F> <..></..> <F>uhm</F>. <..></..></B>
+<A>O K. O K. Now, do you have a hobby, <OL><H pn="B's name">XXX02</H></OL>?</A>
+<B><OL>Yeah</OL>.</B>
+<A>What's your hobby?</A>
+<B>My hobby is <F>uhm</F> <.></.> <F>uhm</F> read <?>this</?> books.</B>
+<A><F>Uhmm</F>. O K. What kind of books do you like?</A>
+<B>Mystery.</B>
+<A>Mystery books. <F>Uhmm</F>.</A>
+<B><..></..> <F>Uhm</F> mystery.</B>
+<A>O K. <SC>Where is a</SC> where can you find good books?</A>
+<B><..></..> Good books?</B>
+<A>Where can you buy?</A>
+<B>Buy?</B>
+<A>Where is a good bookstore?</A>
+<B>Bookstore? <.></.> <JP><F>unto</F></JP> Kinokuniya. <nvs>laughter</nvs></B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uh</F> <F>uh</F> <F>uh</F> <F>uh</F>. <.></.> <F>Uhm</F> O K. O K, <H pn="B's name">XXX02</H>, first of all today, I want you to look at a picture. Can you tell me about this picture? What do you see?</A>
+<B><F>Uhm</F>? <..></..> <R>Pa</R> pardon?</B>
+<A><F>Ah</F> <SC>wha</SC> tell me about this picture.</A>
+<B><F>Ah</F> this picture?</B>
+<A><R>Wha</R> what is in this picture?</A>
+<B><..></..> There is <R>playing</R> playing in snow. <..></..> <SC>There is</SC> <SC>there</SC> <F>uhm</F> <.></.> they take the tea. <..></..> There is playing skiing. <..></..> He plays snowboard. <..></..></B>
+</task>
+<followup>
+<A>O K, <H pn="B's name">XXX02</H>. <R>Do you</R> do you play sports?</A>
+<B>Yeah. Play sports.</B>
+<A>What sports do you play?</A>
+<B><F>Err</F> snowboard and <R>soccer</R> <OL><F>urr</F></OL></B>
+<A><OL>Soccer</OL>?</A>
+<B>soccer, <JP>judo</JP>.</B>
+<A><JP>Judo</JP>?</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Ahhh</F>. <SC>Are you</SC> <F>ur</F> do you have a <JP>judo</JP> club?</A>
+<B>Yes. <.></.> High school.</B>
+<A><F>Ur</F> you're in a high school. And now?</A>
+<B><laughter>No</laughter>.</B>
+<A>O K. Do you play soccer now?</A>
+<B>No.</B>
+<A>Nothing.</A>
+<B><nvs>laughter</nvs></B>
+<A>I see. O K. <R>In</R> in your home, <.></.> at the weekend,</A>
+<B>Yeah.</B>
+<A>what do you like to do?</A>
+<B><.></.> <F>Uhm</F>.</B>
+<A>Or with friends?</A>
+<B>Yeah. Friends.</B>
+<A>What do you do?</A>
+<B><.></.></B>
+<A>No sports. <F>Huh</F>?</A>
+<B>No.</B>
+<A>So <R>wha</R> what do you do?</A>
+<B><..></..> Someday playing soccer</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> <JP>atoha</JP> <F>ur</F> driving.</B>
+<A>Driving? Do you have a car?</A>
+<B><laughter>No</laughter>. <F>Er</F> <CO><SC>parents</SC> <.></.> my parents</CO>. <.></.></B>
+<A>Your parents' car?</A>
+<B>Yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Next, we are going to do a role-play.</A>
+<B><.></.> Pardon?</B>
+<A>We'll do a role-play. Please read this card. <.></.> O K? <.></.> <R>When</R> when you understand, <R>I</R> I'll start. Do you understand?</A>
+<B>Yeah.</B>
+<A>O K. Good afternoon, sir. Can I help you?</A>
+<B><F>Urrr</F> <nvs>laughter</nvs> <F>uhm</F> <..></..> <F>uhm</F> <..></..> I want to buy this</B>
+<A><F>Ahhh</F>.</A>
+<B>T-shirt.</B>
+<A>Yes, very nice T-shirt.</A>
+<B><nvs>laughter</nvs></B>
+<A>Good. What's size are you, sir?</A>
+<B><..></..> <F>Er</F>. <.></.></B>
+<A>We have small, medium or large.</A>
+<B><F>Er</F> medium.</B>
+<A>Medium size? O K. This is a purple T-shirt. Do you like another color?</A>
+<B>Yeah. <F>Urm</F> <.></.> <R>blue</R> <OL>blue T-shirt</OL>.</B>
+<A><OL>Blue</OL>? A blue T-shirt? O K. <F>Urm</F> do you have a favorite <SC>design</SC> designer?</A>
+<B>No. <??></??> this good this.</B>
+<A>This one's good?</A>
+<B>Yeah.</B>
+<A>O K. Would you like to try it on?</A>
+<B>Yeah.</B>
+<A>O K. <.></.> O K.</A>
+<B><F>Uhm</F>.</B>
+<A>Is it good?</A>
+<B>Good. Yeah.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Well</F> it's six thousand yen.</A>
+<B><CO>Six</CO>. <.></.> <F>Oh</F>. <nvs>laughter</nvs></B>
+<A>A little expensive.</A>
+<B><F>Urrr</F>. <..></..></B>
+<A>It's a very good T-shirt.</A>
+<B>Yeah. <.></.> <F>Uhm</F>. <.></.></B>
+<A>Will you take this?</A>
+<B><JP><F>uun</F></JP> <JP>doushiyou kana</JP>. <nvs>laughter</nvs></B>
+<A>Or another blue T-shirt here is only one thousand yen.</A>
+<B>Only one</B>
+<A>One <OL>thousand</OL></A>
+<B><OL>thousand</OL>? <.></.> <F>Er</F> <nvs>laughter</nvs> <SC>design</SC> <.></.> I like this design.</B>
+<A>I see.</A>
+<B><OL>O K</OL>.</B>
+<A><CO><OL>The s</OL></CO>.</A>
+<B>Yeah.</B>
+<A>This one?</A>
+<B>Yeah.</B>
+<A>O K. Here you are.</A>
+<B>Thank you. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>Thank you very much</OL>. O K. Thank you. Thank you, <H pn="B's name">XXX02</H>. That's the end of the role-play. <H pn="B's name">XXX02</H>, <R>do you</R> do you go shopping often?</A>
+<B><.></.> Often?</B>
+<A><F>Uhm</F> where is the good place to buy clothes?</A>
+<B>Buy clothes? <..></..> Clothes?</B>
+<A><F>Uhm</F>. Where is the good place?</A>
+<B><..></..> <R>I of</R> I often shopping in Ikebukuro.</B>
+<A>Ikebukuro?</A>
+<B>Yeah.</B>
+<A><F>Uhmm</F>.</A>
+<B><F>Ur</F> <F>uhm</F>. <.></.> Best place is <.></.> Daikanyama.</B>
+<A>Daikanyama? <R>Why do you</R> why do you think so?</A>
+<B><.></.> Many kinds of <.></.> clothes. <..></..> My design is buildings <JP><F>eeto</F></JP> <.></.> interior is very beautiful.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhm</F>. O K. Thank you very much. One more thing.</A>
+<B>Yeah.</B>
+<A><H pn="B's name">XXX02</H>, I'd like you to look at these pictures here.</A>
+<B>Yeah.</B>
+<A>There are four pictures. One, two, three, four. I want you to make a story from this. From here to here. Make a story. O K?</A>
+<B>Yes.</B>
+<A>Go ahead.</A>
+<B><..></..> In cold day, <SC>there</SC> <.></.> they go to the zoo <F>err</F> <.></.> in the afternoon. And <.></.> <R>the</R> <F>uhm</F> <.></.> <R>they</R> <..></..> they <R>enjoying</R> <.></.> enjoying to see the lion and monkey. And <..></..> she eats ice cream. <.></.> <R>They</R> <..></..> <R>they</R> <.></.> they <SC>enjoy</SC> <..></..> enjoys <R>in</R> in the zoo. <CO>And</CO>. <..></..></B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you very much, <H pn="B's name">XXX02</H>. <F>Er</F> sometimes, <H pn="B's name">XXX02</H>, do you have a date?</A>
+<B><F>Er</F> <.></.> sometimes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. What do you do with your girlfriend?</A>
+<B><F>Err</F> very <?>nice</?>. <nvs>laughter</nvs></B>
+<A>Yeah. <R>Whe</R> where do you go? <R>What</R> <OL>what do you do</OL>?</A>
+<B><OL><F>Urr</F></OL> <.></.> what do you do?</B>
+<A><F>Uhm</F>. Do <R>you</R> you go to a zoo?</A>
+<B>Zoo?</B>
+<A>No? <OL>What do you do</OL>?</A>
+<B><OL><F>Ur</F></OL> <R>one time</R> one time.</B>
+<A><F>Ah</F> one time?</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. You went a zoo?</A>
+<B><.></.> <F>Ur</F> Ueno zoo.</B>
+<A><F>Ahh</F>. Usually, what do you do?</A>
+<B>Do?</B>
+<A>Yeah. <.></.> Usually,</A>
+<B>Usually?</B>
+<A>you have a date? Yeah?</A>
+<B><OL><F>Urr</F></OL>.</B>
+<A><OL>What happens</OL>?</A>
+<B><F>Ur</F> sometimes.</B>
+<A><F>Uhm</F> what happens? Where do you go?</A>
+<B><.></.> What?</B>
+<A>Where <OL>do you go</OL>?</A>
+<B><OL>Where</OL>? <.></.> <F>Uhm</F> <..></..> <F>uhm</F> watching movie and shopping</B>
+<A><F>Uhmm</F>.</A>
+<B>and driving.</B>
+<A>And driving? Right.</A>
+<B><nvs>laughter</nvs></B>
+<A>You like driving. That's good.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>That's good. O K. That's almost the end of the interview, <H pn="B's name">XXX02</H>. <R>Tha</R> that's the end of the interview.</A>
+<B>Yeah.</B>
+<A>O K? Do you have a plan tonight?</A>
+<B><F>Er</F>?</B>
+<A>Do you have a plan for tonight?</A>
+<B>Tonight? <F>Er</F> <R>study</R> study.</B>
+<A>Of course. Of course. This spring vacation</A>
+<B>Spring vacation?</B>
+<A>is coming. Do you have a plan?</A>
+<B>Plan? <.></.> <F>Ur</F> <.></.> I want to go Kyoto</B>
+<A><F>Uhm</F>.</A>
+<B>and <.></.> see <SC>the</SC> <.></.> many beautiful <SC>sight</SC> sightseeing. <.></.></B>
+<A>I see. O K. <F>Well</F> have a good time in Kyoto. I hope you'll enjoy.</A>
+<B><nvs>laughter</nvs></B>
+<A>Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

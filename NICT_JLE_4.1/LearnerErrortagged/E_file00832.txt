@@ -1,0 +1,275 @@
+<interview>
+<filename>E_file00832.txt</filename>
+
+<head version="1.3">
+<date>2002-02-12</date>
+<sex>male</sex>
+<age>29</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>500</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K <F>um</F> good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ah</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K, nice to meet you, Mister <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you.</B>
+<A>O K. <F>ah</F> Mister <H pn="B's name">XXX02</H> where do you live?</A>
+<B><F>Ah</F> I live in Tokyo.</B>
+<A><OL>Tokyo</OL>?</A>
+<B><OL><F>Eh</F></OL> Mitaka City.</B>
+<A><F>Oh</F> I see. O K. <F>Ah</F>. Do you live with your family in Mitaka?</A>
+<B>Yes <F>ah</F> I live <F>hum</F> with, <SC>my daughter</SC> <F>er</F> no, no, my sister and brother.</B>
+<A><F>Mm-hum</F> I see. <F>Ah</F> <F>ah</F> is Mitaka City your hometown?</A>
+<B>Yes.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL><F>Ah</F></OL> I was born in Mitaka City.</B>
+<A><F>Mm-hmm</F> O K, how do you like living in Mitaka?</A>
+<B>How do <pn_lxc odr="1" crr="I">you</pn_lxc> like? <F>Ah</F> <SC>I'm very</SC> <F>ee</F> <F>eh</F> I think <F>er</F> Mitaka city is <at odr="1" crr="a"></at> very <F>ee</F> happy town.</B>
+<A>Happy?</A>
+<B>Yeah.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah</OL> <F>ah</F> I'm very happy. <F>Ah</F>.</B>
+<A><F>Mm-hum</F>.</A>
+<B>Because <F>er</F> <F>er</F> <F>er</F> <SC>I</SC> <F>er</F> <SC>my friends</SC> <F>er</F> there are <SC>my friends in</SC> <F>er</F> <R>many</R> many friends</B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B><OL>in</OL> <OL>Mitaka City</OL>.</B>
+<A><OL><F>Mm-hum</F></OL> <F>hmm</F>.</A>
+<B><F>Ah</F> and <.></.> <SC>how do you do, no</SC> <F>hum</F> <SC>and I</SC> <F>er</F> <F>eh</F> do you know <F>ah</F> <R>Ino</R> Inokashira Park?</B>
+<A><F>Hmm</F> I don't know much about <OL>that park</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Mm</F> I like <F>ah</F> Inokashira Park</B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B><OL><F>Um</F></OL> near <F>eh</F> Kichijoji station.</B>
+<A><F>Mm-hum</F> <F>hmm</F>.</A>
+<B><F>Ah</F> there are <F>eh</F> many green. <JP><F>Ano</F></JP> <F>eh</F> <.></.> <JP><F>ano</F></JP>. <..></..> <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL> I understand. All right. So, what do you like to do in your free time?</A>
+<B><F>Ah</F> I play <F>eh</F> football.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Ah</F></OL> I <F>er</F> belong to <F>er</F> <at odr="1" crr="the"></at> <H pn="company name1">XXX03</H> football club <OL>team</OL>.</B>
+<A><OL><F>Mm-hum</F></OL> <F>hum</F>.</A>
+<B><F>Ah</F> <SC>about</SC> <F>er</F> <F>er</F> <SC>Sun</SC> <F>er</F> <F>ah</F> I play <at odr="1" crr="a"></at> football <F>hum</F> game</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>um</F> <SC>in <R>Sun</R> Sunday</SC> <SC>at Sunday</SC></B>
+<A><F>Mm-hum</F> <OL><F>hmm</F></OL>.</A>
+<B><OL>every Sunday</OL>.</B>
+<A>I see. <F>Er</F> when did you start playing football?</A>
+<B><F>Ah</F> <con_lxc odr="1" crr="when"></con_lxc> I was <prp_lxc1 odr="2" crr="in"></prp_lxc1> <F>er</F> <R>high school, junior high school</R></B>
+<A><F>Uh-huh</F>.</A>
+<B><laughter>high school, junior high school</laughter>. <F>Ah</F>.</B>
+<A>Yes. <.></.> <OL>O K</OL>.</A>
+<B><OL><R>What</R></OL> <SC>what</SC> <F>hum</F> <F>er</F> junior high school, high school, <OL><F>um</F> college</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><CO>Junior high school</CO></OL>.</B>
+<A><OL>O K</OL> I understand. O K. <OL><prp_lxc1 odr="1" crr="At"></prp_lxc1> <at odr="3" crr=""><cap odr="2" crr="the" ch="1">The</cap></at> school, O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Ah</F> <.></.> <F>ah</F> <SC>I was</SC> <F>hum</F> I <v_tns odr="1" crr="started">start</v_tns> <F>hum</F> to <F>er</F> <R>learn</R> <v_lxc odr="2" crr="play">learn</v_lxc></B>
+<A><F>Mmm</F>.</A>
+<B>football</B>
+<A><F>Mm-hum</F>.</A>
+<B><nvs>cough</nvs> <F>er</F> <con_lxc odr="3" crr="when"></con_lxc> I was <R>ten</R> ten years old.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hum</F> <F>ah</F> <.></.> <SC>I like</SC> <F>er</F> <F>a</F> I <F>eh</F> <v_tns odr="1" crr="played">play</v_tns> football and <F>eh</F> <JP><R>ken</R></JP> <JP>kendo</JP>.</B>
+<A>O K. <F>Mm</F> <OL><F>mm</F></OL>.</A>
+<B><OL><F>Ah</F></OL> <.></.> <SC>in evening</SC> <R>in</R> <o_lxc odr="1" crr="in the evening">in evening</o_lxc>, <SC>I play</SC> I played football.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Ah</F> at night</B>
+<A><F>Mm</F>.</A>
+<B><F>ah</F> I played <F>ah</F> <JP>kendo</JP>. <OL><F>Ah</F></OL>.</B>
+<A><OL>I see</OL> O K. Are you looking forward to <at odr="1" crr="the"></at> World Cup?</A>
+<B><F>Ah</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Ah</F> <SC>very</SC> <F>ah</F> I'm interested in <F>ah</F> <at odr="1" crr="the"></at> World Cup.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Eh</F> and, especially <F>ah</F> I like <F>ah</F> <.></.> <F>er</F> <R>England</R> <at odr="1" crr="the"></at> England football team. <OL><F>Ah</F></OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><F>Ah</F> <F>ah</F> <F>eh</F> <at odr="1" crr="the"></at> England <SC>football <F>er</F> has</SC> <F>er</F> football team has very famous and good <n_num odr="2" crr="players">player</n_num>. <OL><F>Ah</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A><OL><F>Hmm</F></OL> I see. O K, thank you. Now I'm going to show you a picture. O K. So, please look at this picture, and tell me anything about this picture, please.</A>
+<B><F>Er</F> <.></.> <JP>hai</JP>, yes.</B>
+<A>Yes. O K.</A>
+<B><F>Er</F> <.></.> <at odr="1" crr="a">the</at> cat is sleeping. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Er</F> <at odr="1" crr="a">the</at> dog is sleeping, <OL>too</OL>.</B>
+<A><OL><F>Uh-huh</F> <F>uh-huh</F></OL>.</A>
+<B><F>Er</F> <.></.> the door is <av_pst odr="1" crr="wide open">open</B>
+<A>O K.</A>
+<B>wide</av_pst>. <F>Ah</F> <SC>I</SC> <..></..> <F>ah</F> <..></..> this picture <R>is</R> <F>er</F> <..></..> <F>er</F> <.></.> <v_tns odr="1" crr="was drawn">is drawn</v_tns></B>
+<A><F>Hmm</F>.</A>
+<B><R>in June</R></B>
+<A>O K <OL><F>mm-hum</F></OL>.</A>
+<B><OL>in June</OL>. <OL><F>Ah</F></OL>.</B>
+<A><OL>I see</OL>.</A>
+<B>At six o'clock.</B>
+<A>O K <F>uh-huh</F>.</A>
+<B><F>Ah</F> <F>ah</F> and <SC>very</SC> <F>ee</F> <SC>this room is very</SC> <F>ah</F> <F>ah</F> <..></..> <F>mm</F> <..></..> I like this room.</B>
+<A><OL>I see</OL>.</A>
+<B><OL><SC>But I</SC></OL> but my room <R>is</R></B>
+<A><F>Hmm</F>.</A>
+<B><F>eh</F> <SC>like</SC> is not like this.</B>
+<A><F>Oh</F> O K. What's the difference? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Eh</F> <laughter><SC>my</SC></laughter> <F>eh</F> <o_uit odr="1">the book is <R>around</R> around <R>the</R> there</o_uit> <OL><F>ah</F></OL>.</B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B><F>Ah</F> <F>ah</F> <o_uit odr="1">this is <?>round</?></o_uit>. <F>Ah</F> and <SC>my</SC> <SC>I</SC> <R>my house</R></B>
+<A><F>Hmm</F>.</A>
+<B><F>er</F> <pn_lxc odr="1" crr="we">my house</pn_lxc> <F>er</F> <v_agr odr="2" crr="have">has</v_agr> <R>two</R> two cats.</B>
+<A><F>Mm-hum</F> <OL><F>hmm</F></OL>.</A>
+<B><OL><F>Eh</F></OL> <R>Tama</R> Tama and <?>Kuro</?>.</B>
+<A><F>Hmm</F> <F>oh</F> really? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Ah</F> <R>I like</R> <F>er</F> <R>I like <F>ah</F> listening</R> I like listening <prp_lxc2 odr="1" crr="to"></prp_lxc2> music.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F>.</B>
+<A><F>Hmm</F>.</A>
+<B><R>She</R> she likes music, too.</B>
+</task>
+<followup>
+<A>I see <F>hmm</F> O K. All right. Thank you very much. <F>Hmm</F> <F>ah</F> do you have any favorite musician or singer?</A>
+<B>Yes. <F>Ah</F> my favorite <R>singer is</R> <F>mm</F> <nvs>sigh</nvs> <laughter>singer is</laughter>, yeah, <.></.> <at odr="1" crr="an"></at> old singer.</B>
+<A>Old singer. <OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Eh</F> yes</OL>. <F>Ah</F> <o_uk odr="1" crr="I like Queen">there's Queen</o_uk>, and <F>ah</F> <SC>Be</SC> <F>ah</F> <R>there's</R> <F>ah</F> <o_uk odr="2" crr="I like Beatles">there's Beatles</o_uk> <OL><F>ah</F></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>ah</F> <con_lxc odr="1" crr="and"></con_lxc> Paul McCartney.</B>
+<A><F>Mm-hum</F> O K. Why do you like old singers?</A>
+<B><F>Ah</F> <.></.> <R>my</R> my mother <F>er</F> liked <F>er</F> old <n_num odr="1" crr="singers">singer</n_num>, and <F>er</F> <R>she</R> <F>ee</F> she <F>eh</F> usually <F>eh</F> <v_tns odr="2" crr="listened">listen</v_tns> to <F>ah</F> old singers' music.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uh-huh</F> I see. O K. I understand. Now, next, we will do a role-play. Do you know what a role-play is?</A>
+<B>I don't <OL>know</OL>.</B>
+<A><OL>O K</OL>. So, read this card. O K.</A>
+<B>Read.</B>
+<A><F>Mm</F> you are a customer of a shop, and I'll be a <SC>clerk</SC> sales clerk.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><JP>Hai</JP>. I understand.</B>
+<A>Yes. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> Excuse me. <OL><F>Ah</F></OL>.</B>
+<A><OL>Yes</OL>. May I help you? <F>Um</F>.</A>
+<B><F>Ah</F> <F>ah</F> <R>I <F>eh</F> want</R> <F>um</F> I want <R>shoes</R></B>
+<A>O K <F>mm</F>.</A>
+<B>shoes.</B>
+<A>Yes.</A>
+<B><F>Ah</F> <F>eh</F> <n_num odr="1" crr="sneakers">sneaker</n_num>.</B>
+<A>Sneakers.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><F>Ah</F> what <F>er</F> kind of shoes <F>ah</F> do you have? <F>Ah</F>.</B>
+<A>O K. So we have almost all kinds of sneakers. <OL><F>Um</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> All <n_num odr="1" crr="kinds">kind</n_num> of sneakers. <OL><F>Ah</F></OL>.</B>
+<A><OL>Yes</OL>.</A>
+<B><F>Ah</F> I want <F>hum</F> <F>hum</F> Nike <pn_lxc odr="1" crr="ones"></pn_lxc>. <OL><F>Ah</F></OL>.</B>
+<A><OL>Nike</OL> <OL><F>mm-hum</F></OL>.</A>
+<B><OL>Nike</OL> <F>ah</F>. Nike's shoes.</B>
+<A>O K <F>hmm</F>.</A>
+<B><F>Ah</F> <F>eh</F> <R>the color is</R> the color is blue.</B>
+<A>Blue <OL><F>hmm</F></OL>.</A>
+<B><OL>Yes</OL>. And <.></.> <R>Nike's</R> <at odr="3" crr="the"></at> <n_cs odr="2" crr="color of the Nike's log mark"><at odr="1" crr="the"></at> Nike's <SC>logo mark co</SC> logo mark's color</n_cs> is white, <F>ah</F> but <F>ah</F> <F>er</F> the shoes <v_agr odr="4" crr="are">is</v_agr> red.</B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B><OL><F>Ah</F></OL> <at odr="3" crr="the"></at> <n_cs odr="2" crr="color of the log mark"><at odr="1" crr="the"></at> logo mark's color</n_cs> is white.</B>
+<A>O K, I see. <F>Uum</F> O K. Yeah, we have some here. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Ah</F> <F>oh</F> <F>er</F> <SC>I</SC> <.></.> <F>em</F> my shoe size is <F>er</F> <R>twenty</R> <R>twenty</R> twenty-six <F>er</F> centimeters.</B>
+<A><OL>Twenty-six</OL>.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><F>Mm</F>.</A>
+<B><F>Ah</F> do you have <o_uk odr="1" crr="shoes of my size">just my size <OL>shoes</OL></o_uk>?</B>
+<A><OL>O K</OL> <F>mm</F> yeah, we have that size, but we don't have the color you want.</A>
+<B><F>Oh</F> <laughter>really</laughter>? <F>Ah</F> but <R>I</R> <F>hum</F> I like <R>this</R> <aj_agr odr="1" crr="these">this</aj_agr> shoes. <F>Er</F> <F>mm</F> <.></.> <F>mm</F> <..></..> <F>ah</F> <SC>do you</SC> <F>ah</F> <R>your shop</R> <F>eh</F> <SC>your shop <R>i</R> is</SC> excuse me, <F>ah</F> <nvs>laughter</nvs> <F>eh</F> <R>what</R> <R>what is</R> <laughter>what is your shop</laughter>?</B>
+<A><nvs>laughter</nvs> Sports shoes <n_lxc odr="1" crr="shop"></n_lxc>.</A>
+<B>Sports shoes <n_lxc odr="1" crr="shop"></n_lxc>. <OL><F>Ah</F></OL>.</B>
+<A><OL>Yes</OL>.</A>
+<B><F>Ah</F> <SC>do you</SC> <F>ah</F> I would <v_cmp odr="1" crr="like you">like</v_cmp> to <v_cmp odr="2" crr="introduce me">introduce</v_cmp> <F>hum</F> <aj_lxc odr="3" crr="another">other</aj_lxc> shop.</B>
+<A>O K, O K <F>mm</F>. We will call <aj_lxc odr="1" crr="another">other</aj_lxc> shop if they have that one. O K. All right. <OL><laughter>Thank you very much</laughter></OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+</task>
+<followup>
+<A>Yes. So <nvs>laughter</nvs> what kind of shops do you like to go?</A>
+<B>What kind of shops?</B>
+<A>Yes. Do you like to look around?</A>
+<B><F>Ah</F> <..></..> <F>mm</F> <.></.> what kind of shop?</B>
+<A><F>Mm-hum</F>.</A>
+<B><.></.> <F>Ah</F>. <OL><CO>Only</CO></OL>.</B>
+<A><OL><F>Well</F> what <R>kind of</R></OL> <F>mm</F> kind of goods do you like to</A>
+<B>Goods?</B>
+<A>O K, look around? <F>Mm</F>.</A>
+<B><..></..> <F>Ah</F> goods. <F>Ah</F> <F>eh</F> <nvs>sigh</nvs> <F>eh</F>. Excuse me. <F>ah</F> This shop?</B>
+<A><F>Ah</F> <F>ah</F>. O K. We</A>
+<B><JP>Owari</JP>?</B>
+<A><v_cmp odr="1" crr="finished the role-play">finished</v_cmp>.</A>
+<B><F>Ah</F> <laughter>finish</laughter>.</B>
+<A><OL>Yes</OL>.</A>
+<B><OL><F>Ah</F></OL> <F>ah</F> goods. <F>Ah</F> I would like to buy a bag.</B>
+<A>Bag? <OL><F>Mm</F></OL>.</A>
+<B><OL>Yes</OL>. <F>Ah</F> <..></..> a big bag.</B>
+<A><F>Uh-huh</F>.</A>
+<B>I <F>er</F> need <F>hum</F> <at odr="1" crr="a"></at> big bag <R>to</R> to go to play football. <OL><F>Ah</F></OL>.</B>
+<A><OL><F>Ah</F></OL> I see.</A>
+<B><F>Ah</F> spike</B>
+<A><F>Uh-huh</F>.</A>
+<B>and uniform</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>ah</F> <SC>or</SC> and <R>many</R> many goods. <F>Ah</F>.</B>
+<A>I see.</A>
+<B><F>Ah</F>. <CO>Do <R>you</R> you have</CO>? <nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K <R>yes</R> yes. All right. <?>That is it</?>. Thank you very much. So, <F>ah</F> next, I'm going to show you another picture.</A>
+<B><JP>Hai</JP>.</B>
+<A>So, this time, please make a short story.</A>
+<B><..></..> <F>Oh</F> <OL>one two three four</OL>.</B>
+<A><OL>So the story goes <prp_lxc1 odr="1" crr="to"></prp_lxc1> one, two, three, four</OL>. Yes.</A>
+<B><F>Oh</F>. <..></..> <R>Hi</R> hi. <nvs>laughter</nvs> <F>Ah</F> <SC>let's go to</SC> <F>ah</F> <F>eh</F> <R>he</R> he <v_tns odr="1" crr="said">says</v_tns> <F>er</F> <con_lxc odr="2" crr="">that</con_lxc> <F>ah</F> "Let's go <R>to</R> to <at odr="3" crr="the"></at> zoo". <F>Er</F> <F>oh</F> <F>ah</F> she <v_tns odr="1" crr="said">says</v_tns>, <F>ah</F> "<F>Oh</F> yes. Let's go.". <F>Eh</F> <R>they</R> <.></.> <R>they</R> they <v_lxc odr="2" crr="met"><v_tns odr="1" crr="joined">join</v_tns></v_lxc> in <at odr="3" crr="the"></at> zoo, and <R>they</R> <R>they look</R> <F>er</F> they <R>look</R> <F>er</F> <v_lxc odr="5" crr="watched"><v_tns odr="4" crr="looked">look</v_tns> at</v_lxc> <F>ah</F> many <F>ee</F> kinds of <F>hum</F> animals.</B>
+<A>O K.</A>
+<B><F>Ah</F> and <SC>she</SC> <F>ah</F> his <R>favorite</R> favorite animal is <R>li</R> <at odr="1" crr="a"></at> <OL>lion</OL>.</B>
+<A>O K. <F>Mm</F>.</A>
+<B><F>Mm</F>. But <SC>she don't</SC> <F>ah</F> she doesn't like <n_num odr="1" crr="lions">lion</n_num>. <F>Ah</F> <R>she</R> <.></.> she likes <F>hum</F> <laughter><n_num odr="1" crr="monkeys">monkey</n_num></laughter>. <F>Er</F> <.></.> and <.></.> <R>mon</R> <SC>monkey <F>eh</F> <F>eh</F> <SC>eated</SC> <R>eat</R> eat</SC> <at odr="1" crr="a"></at> monkey <v_asp odr="2" crr="was eating">ate</v_asp> <F>eh</F> <at odr="3" crr="a"></at> banana. <F>Ah</F>. So <F>ah</F> <F>ah</F> <R>she</R> <.></.> <F>eh</F> she <v_lxc odr="1" crr="became">was</v_lxc> <F>ah</F> hungry.</B>
+<A><OL><nvs>laughter</nvs> O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> And she <F>eh</F> <SC>want</SC> <F>ah</F> wanted <F>ah</F> <at odr="2" crr="a"></at> <o_je odr="1" crr="whippy ice cream">softcream</o_je>, <F>ah</F> and <R>she bought</R> she bought it.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Ah</F> and <F>hum</F> <R>they</R> <F>eh</F> <SC>they finished <R>to</R> <F>hum</F> <..></..> to</SC> they <v_cmp odr="2" crr="finished looking around">finished <SC>zoo</SC> <laughter>to</laughter> <v_lxc odr="1" crr="look">go</v_lxc></v_cmp> <prp_lxc1 odr="3" crr="around" ch="1">to</prp_lxc1> the zoo. And <F>eh</F> he <v_tns odr="1" crr="said">says</v_tns>, <F>ah</F> "Bye-bye, <F>ah</F> see you next <n_lxc odr="2" crr="time"></n_lxc>.". <F>Ah</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. O K.</A>
+<B>"Bye-bye.". <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL>All right, very good</OL>. So, <F>ah</F> where <R>do you</R> do you like to go on a date?</A>
+<B>Date? <F>Oh</F>. I'd like to <v_lxc odr="1" crr="go"></v_lxc> <prp_lxc2 odr="2" crr="to"></prp_lxc2> <F>er</F> <F>ah</F> <..></..> <F>hum</F> Disneyland.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Ah</F>. <.></.></B>
+<A>So, what do you enjoy most in Disneyland? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <SC>I enjoy in</SC> <F>ah</F> I like <o_je odr="2" crr="roller coasters">jet <n_num odr="1" crr="coasters">coaster</n_num></o_je>, <R>and</R> and <F>ah</F> I <nvs>sigh</nvs> enjoy <F>eh</F> <F>a</F> "Space Mountain" and "Big Thunder Mountain". <F>Ah</F>. <o_je odr="2" crr="roller coasters">jet <n_num odr="1" crr="coasters">coaster</n_num></o_je>.</B>
+<A><F>Oh</F> they're scary.</A>
+<B><nvs>laughter</nvs> <F>Um</F> I like <F>ah</F> <F>mm</F> <F>um</F> <R>at</R> <at odr="1" crr="the"></at> atmosphere <OL><F>ah</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><R>in</R> in Disneyland.</B>
+<A>I see.</A>
+<B><F>Er</F> <SC>only attraction</SC></B>
+<A><F>Mm-hum</F>.</A>
+<B><F>ah</F> <.></.> <F>ah</F> not only <F>eh</F> <n_num odr="1" crr="attractions">attraction</n_num>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. O K. Thank you very much. This is almost the end of the interview. O K. <F>Um</F> what are you going to do after this interview today?</A>
+<B><F>Um</F> I must work.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Er</F> <SC>ups</SC> in upstairs.</B>
+<A>I see. You are busy?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL> thank you very much today.</A>
+</stage5>
+</body>
+</interview>

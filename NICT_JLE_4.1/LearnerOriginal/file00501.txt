@@ -1,0 +1,183 @@
+<interview>
+<filename>file00501.txt</filename>
+
+<head version="1.3">
+<date>2001-06-27</date>
+<sex>female</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>470</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>. <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Um</F>. Where did you come from?</A>
+<B><OL>Where</OL>?</B>
+<A><OL>Where did you come from</OL> today?</A>
+<B>Today <R>from</R> <nvs>laughter</nvs> from my work place. I'm working at <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F>. I see. Was it very hot outside?</A>
+<B>Yes. Still hot <OL>now</OL>.</B>
+<A><OL>I see</OL>. Do you like this weather?</A>
+<B><F>Mm</F> I don't like rainy season. But <SC>summer</SC> <F>er</F> I like summer <OL>the best</OL>.</B>
+<A><OL><F>Hmm</F></OL>. Why do you like summer the best?</A>
+<B><F>Um</F> I like water sports.</B>
+<A><F>Ohh</F>.</A>
+<B><SC>So</SC> <F>ur</F> such as diving or rafting or something. <CO>So I want</CO>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Sorry</OL>, and?</A>
+<B><F>Er</F> and <F>um</F> I want <F>um</F> swim in the sea. So I like summer.</B>
+<A>I see. <F>Er</F> what kind of <F>er</F> beaches do you go to?</A>
+<B><F>Uum</F>. I usually go to <F>ur</F> Shounan. <F>Uum</F> or my grandfather has <F>er</F> second house in <H pn="others2">XXX04</H> so <F>um</F> I often go to beach of <laughter><H pn="others2">XXX04</H></laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>That's nice</OL>. what kind of second house is it? Can you describe the house for me?</A>
+<B><F>Mm</F> it's a two-story buildings. And <F>um</F> <SC>my father likes</SC> <F>er</F> my grandfather likes collecting <F>uum</F> <F>uum</F> <SC?>rutins</SC?> <JP>iseki</JP> <?>rutin</?> <F>uum</F> from <SC>any</SC> many other countries. <laughter>So</laughter> there are <R>many</R> <F>uum</F> many things in the house.</B>
+<A>Sounds interesting.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Can you describe about the objects he has</OL>?</A>
+<B><F>Ur</F> many <F>er</F> kind of <F>err</F> picture or statue or rock <laughter>or sand or anything</laughter>.</B>
+<A>What kind of statue is it?</A>
+<B><F>Um</F> it's like a <JP>daibutsu</JP> or <JP>butsuzou</JP> <F>mm</F> from China. <F>Uum</F> or he likes <F>um</F> statue of Maria. So he bought many statue of Maria from Europe.</B>
+<A><F>Err</F>.</A>
+<B><F>Um</F>.</B>
+<A>That's interesting. O K.</A>
+<B><nvs>laughter</nvs></B>
+<A><F>Um</F> so what do you usually do in your free time?</A>
+<B><F>Uum</F> my free time. <F>Mm</F> I often go to see a movie or <F>uum</F> <R>this</R> this season <F>err</F> I sometimes go rafting.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And this weekend <R>I'm going</R> I'm going rafting.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Um</F>.</B>
+<A><OL><F>Oh</F> that's nice</OL>.</A>
+<B><OL>With</OL> my friends.</B>
+<A>O K. That's nice.</A>
+<B><F>Um</F>.</B>
+<A>Good. Do you live by yourself or with your family?</A>
+<B>Live? <F>Er</F> I live with my family and my <F>um</F> <SC>relative</SC> all relative. <CO>Because my grandfather has <R>a</R> an apartment so we live in there with all relative, my cousin or</CO>.</B>
+<A><F>Er</F> that's nice.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Very big family</OL> then. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. The first thing I want you to do today is, <R>O K</R> <.></.> O K. Please look at this picture, O K? And describe the picture for me.</A>
+<B><F>Uum</F> I think <F>uum</F> <F>uum</F> there is a high school or something. And teacher is teaching <F>uum</F> about <R>ma</R> mathematics to the students. But <F>uum</F> <F>uum</F> some of students <F>uum</F> concentrate <F>um</F> to the class. But some students <F>uum</F> <R>ta</R> talk a lot and doing other things. <F>Um</F>. <.></.></B>
+<A><OL>O K, fine</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A>O K. <SC>So tell me</SC> <F>um</F> when you were in high school, can you tell me about your favorite teacher, then?</A>
+<B>Favorite teacher. <F>Um</F>. <.></.> In high school?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Uum</F> I like <F>um</F> history teacher. <SC>She is</SC> <F>er</F> she was very kind and very nice and <R>her <F>um</F> way</R> her way of <R>te</R> teach was very clearly and easy to understand. <F>Um</F> <SC>he</SC> she told me <F>um</F> if you want to study history you should always think <R>why</R> why <R>did you</R> <F>um</F> <SC>did you do that</SC> did it do that. <OL><F>Uum</F></OL>.</B>
+<A><OL>I see</OL>.</A>
+<B><SC>It's very</SC> it was very interesting.</B>
+<A>I see. What did she look like?</A>
+<B><F>Er</F> I don't remember her age. <laughter>But</laughter> <F>um</F> she was <F>ur</F> a bit chubby.</B>
+<A><F>Uh-hm</F>. <OL>I see</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>And</laughter> <F>er</F> she <SC>has</SC> had <F>er</F> short hair. But she was always smiling.</B>
+<A><F>Um</F> I see. O K. Thank you very much. O K. May I have the picture back? <OL>Thank you</OL>.</A>
+<B><OL>Here you are</OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Then next, let's do a role-play. O K. I want you to read this card, O K? And when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the role-play card.</ctxt>
+<B><OL>O K</OL>.</B>
+<A><OL>Ready</OL>? O K. Hello.</A>
+<B>Hello. <R>I'm</R> I'm <laughter><H pn="B's name">XXX02</H></laughter>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B>Hi. <F>Er</F> how are you?</B>
+<A>Good.</A>
+<B>O K. <F>Um</F> are you free on <SC>weekends</SC> this weekend?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urm</F> I want to see a movie this weekend. So would you like to go with me?</B>
+<A><F>Oh</F> sounds good.</A>
+<B>O K. And <F>uum</F> I want to see the movie in Ginza.</B>
+<A>O K.</A>
+<B>Do you know the Marion?</B>
+<A>Yes.</A>
+<B>So <F>uum</F> how are you going to <SC>get the</SC> get Ginza?</B>
+<A><F>Er</F> I'll take the Yamanote Line.</A>
+<B>All right. <F>Uum</F> I'll take Ginza Line subway. So <F>uum</F> <F>uum</F> do you know the big <F>um</F> <SC>rock</SC> <F>er</F> clock tower in front of Marion?</B>
+<A><F>Uh-hm</F>.</A>
+<B>All right. <F>Ur</F> <SC>let</SC> <F>mm</F> let's meet there.</B>
+<A>O K.</A>
+<B>And what time is it convenient for you?</B>
+<A><F>Er</F> <SC>I convenient</SC> <F>er</F> I'm free in the afternoon.</A>
+<B>Afternoon? All right. <F>Err</F> <F>err</F>. Shall we meet at <F>mm</F> two o'clock P M?</B>
+<A><F>Uh-hm</F>.</A>
+<B><SC>Are you</SC> do you O K? <nvs>laughter</nvs></B>
+<A>Yeah. That's fine.</A>
+<B>Good. Let's meet there at two P M.</B>
+<A>O K. Fine. O K. Thanks. O K. See you then.</A>
+<B>See you. <OL>Good-bye</OL>.</B>
+<A><OL>Good-bye</OL>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. That's the end of the role-play. Do you often go to see movies?</A>
+<B>Yes.</B>
+<A>I see.</A>
+<B><F>Um</F>. I like.</B>
+<A>And do you also <F>um</F> watch videos at home?</A>
+<B><F>Uum</F> recently I don't have much time to see a movie <SC>in a home</SC> at home.</B>
+<A><F>Er</F>.</A>
+<B>But <F>uum</F> several years ago, <R>I like</R> I like to see a movie</B>
+<A>I see.</A>
+<B>in my house.</B>
+<A>O K. How is it different watching movie at home and <F>um</F> at a theater?</A>
+<B><F>Uum</F> <F>uum</F> I like to see an action movie in the theater. Because there has a good <F>er</F> <R>ss</R> <SC>sounds</SC> effective <R>ss</R> sound. <F>Uum</F> and <SC>they</SC> there are big screen in front of us, so and <F>uum</F> if I see a thrilling movie or action movie, <F>uum</F> <F>uum</F> it's more fun than see a movie <SC>in</SC> at home.</B>
+<A><F>Er</F> I see.</A>
+<B><F>Umm</F>. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. The last thing I want you to do today is, O K, look at <.></.> these pictures. I want you to make a story using the six picture. O K? <SC>These</SC> this is something that happened one day last week. O K? So please start your story with "One day last week".</A>
+<B><F>Uum</F> <F>uum</F>.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Um</F>.</B>
+<A>A short story is fine. Please start.</A>
+<B>O K. <F>Uum</F> <.></.> my friends <SC>likes to cook</SC> <SC>like to</SC> like cooking. And one day she thought <F>err</F> <.></.> she want to make something. And <F>er</F> she is <R>ser</R> searching food <nvs>laughter</nvs> in a refrigerator. <R>But <F>uum</F> <.></.> <F>er</F> anything</R> but <SC>anything</SC> nothing in a refrigerator. So she was going to the store by her car. And <F>uum</F> <SC>she is some</SC> <F>er</F> <SC>she get</SC> she got some groceries in a supermarket. And <nvs>laughter</nvs> <F>uum</F> <.></.> she paid them. And <R>she</R> <F>uum</F> she put many grocery in the trunk in <R>her</R> her car. And then she could cook <laughter>sunny-side up</laughter>.</B>
+<A><F>Mm-hm</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>Thank you. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you often cook?</A>
+<B><F>Uum</F> I don't like <laughter>cook very much</laughter> because <F>um</F> I live <R>with</R> with my family, so my mother likes cooking.</B>
+<A>I see.</A>
+<B>So and she doesn't want me to use kitchen. <laughter>So</laughter> <F>um</F> I don't need to cook. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see, right</OL>. What kind of food does your mother usually cook?</A>
+<B><F>Uum</F>. She likes Japanese food, so <SC>she don't li</SC> <F>er</F> she doesn't like oily food so she makes healthy food always. <OL><nvs>laughter</nvs></OL></B>
+<A><F>Oh</F> <OL>that's good</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. We're almost at the end of the interview now. O K. So what are you going to do after this?</A>
+<B>After this, <F>uum</F> <laughter>I'm tired now</laughter>. So <R>I</R> I will go straight home, and have a dinner and take a bath <F>er</F> <SC>later</SC> laterly.</B>
+<A>Right. <F>Oh</F> that's good.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. So enjoy your mother's healthy <OL>cooking</OL>.</A>
+<B><laughter>Yes</laughter>. <OL>Thank you</OL>.</B>
+<A><OL>Thank you very much</OL>. O K. That's the end.</A>
+<B>O K.</B>
+<A>Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

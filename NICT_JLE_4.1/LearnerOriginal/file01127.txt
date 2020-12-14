@@ -1,0 +1,232 @@
+<interview>
+<filename>file01127.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H></B>
+<A>O K.</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine.</B>
+<A>O K. Good. <H pn="B's name">XXX02</H>, you are wearing a very nice <OL>pendant</OL>.</A>
+<B><OL>Nice</OL>.</B>
+<A><nvs>laughter</nvs> Please tell me about that pendant.</A>
+<B>Pendant?</B>
+<A><nvs>cough</nvs> <F>Mm</F>.</A>
+<B>Please?</B>
+<A><F>Mm</F>. Tell me. I want to know more about <OL>it</OL>.</A>
+<B><OL><R>Tur</R></OL> turquoise.</B>
+<A><F>Hmm</F>. <OL>And</OL>?</A>
+<B><OL>And</OL> <R>stone</R> <R>stone</R> stone pendant.</B>
+<A><F>Hmm</F>. <F>Hmm</F>. Did you buy that?</A>
+<B>Yes.</B>
+<A><F>Ah</F>. Where?</A>
+<B>Where? <F>Mmm</F> I live in <H pn="others1">XXX03</H>. <H pn="others1">XXX03</H> accessory shop. Buy. <nvs>laughter</nvs></B>
+<A><F>Ah</F> I see. How much was it?</A>
+<B><F>Hmm</F>. <.></.> <R>Six thousand</R> six thousand yen.</B>
+<A>I see. <F>Hmm</F>. Why did you buy that pendant, not other pendants?</A>
+<B><F>Urr</F>.</B>
+<A>Why do you like it?</A>
+<B><..></..> <R>Good</R> <SC>good</SC> <F>mm</F> <R>other</R> other <R>loo</R> look <F>mmm</F> <laughter>good pendant</laughter>.</B>
+<A><F>Ah</F> I see. <F>Mmm</F>. How many pendants <OL>do you</OL> have at home?</A>
+<B><OL>How many</OL>. At home, yes.</B>
+<A>How many?</A>
+<B>Three</B>
+<A><F>Hmm</F>.</A>
+<B>Pendants.</B>
+<A><F>Hmm</F>. <F>Hmm</F>. I see. So you are rich.</A>
+<B><OL><laughter>No</laughter></OL>.</B>
+<A><OL>Have a lot of money</OL>?</A>
+<B>No.</B>
+<A><F>Hmm</F>. Do you have a part time job?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. What do you do?</A>
+<B><R>Alcohol drink</R></B>
+<A><F>Hmm</F>?</A>
+<B>alcohol drink. <F>Mmm</F> <.></.> <R>i</R> <JP>izakaya</JP>. <F>Mmm</F>.</B>
+<A><F>Ahh</F>. O K. You work there?</A>
+<B>Yes.</B>
+<A><F>Oh</F> I see. But you are still eighteen</A>
+<B>Eighteen.</B>
+<A>years old, right?</A>
+<B>Yeah. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> Do you drink?</A>
+<B><F>Mmm</F> So-so.</B>
+<A><F>Oh</F> I see.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. <F>Hmm</F>. O K. Then <F>er</F> when you have free time,</A>
+<B>Free time?</B>
+<A><F>Hm</F> what do you like to do?</A>
+<B><F>Mm</F> my hobby is surfing</B>
+<A><F>Hmm</F>.</A>
+<B>and shopping and <R>part time</R> part time.</B>
+<A><F>Hmm</F> I see. <F>Er</F> where did you go for surfing last time?</A>
+<B>Last time. <F>Mmm</F> last <R>wee</R> <SC>week</SC> <R>Sun</R> Sunday, go to Izu, Shimoda.</B>
+<A><F>Hmm</F>. O K. With <R>who</R> who?</A>
+<B>Who?</B>
+<A><F>Mm</F>.</A>
+<B><F>Ah</F>. <F>Er</F> friend.</B>
+<A>O K. Girlfriend?</A>
+<B>No.</B>
+<A><nvs>laughter</nvs></A>
+</stage1>
+<stage2>
+<task>
+<A>O K. So now let's do this. Please take a look and tell me anything about this picture. <F>Mm</F>.</A>
+<B>Sun.</B>
+<A><F>Mmm</F>.</A>
+<B><SC>Home</SC> house.</B>
+<A><F>Mm</F>.</A>
+<B>Tree. Dog. <nvs>laughter</nvs> Car. Newspaper. Running.</B>
+<A><F>Hmm</F>.</A>
+</task>
+<followup>
+<A><F>Hmm</F>. O K. Good. Then <F>ah</F> what is your favorite activity?</A>
+<B>Favorite <OL>activity</OL>.</B>
+<A><OL><F>Mmm</F></OL>. Jogging?</A>
+<B>Jogging.</B>
+<A>Your favorite thing to do.</A>
+<B>Favorite.</B>
+<A>In your community.</A>
+<B>Community?</B>
+<A><F>Hmm</F>.</A>
+<B><..></..> <F>Mm</F>? <SC>Man</SC> <nvs>laughter</nvs> the man.</B>
+<A><F>Oh</F> you like to read the newspaper?</A>
+<B>No. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Ah</F>.</B>
+<A><F>Mm</F>.</A>
+<B><SC>Playing</SC> play <R>ball</R> ball.</B>
+<A><F>Ah</F> I see. So besides surfing,</A>
+<B>Surfing.</B>
+<A>What sport do you like to play?</A>
+<B>Soccer.</B>
+<A><F>Ahh</F> <OL>I see</OL>.</A>
+<B><OL>Soccer</OL>, basketball <F>mmm</F> <R>volleyball</R> volleyball little.</B>
+<A><F>Mmm</F>. I see. So the world cup</A>
+<B>World cup <OL>soccer</OL>.</B>
+<A><OL>is</OL> coming soon. What do you think <OL>about that</OL>?</A>
+<B><OL><F>Mmm</F></OL>. <..></..> <R>Enjoy</R> <R>enjoy</R> <F>mm</F> enjoy. <nvs>laughter</nvs></B>
+<A>Yes. O K. Good. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, please read this card. And let's do a role-play.</A>
+<ctxt>The examinee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. Hello, may I help you, sir?</A>
+<B><F>Urr</F> I go to <R>New York</R> <F>ur</F> New York. <..></..> <R>How</R> how much <..></..> card? <OL><F>Hm</F></OL>.</B>
+<A><F>Hm</F> <OL><F>hm</F></OL>. O K. Twenty dollars.</A>
+<B>Twenty dollars?</B>
+<A><F>Hmm</F> for local train.</A>
+<B>Local train.</B>
+<A><F>Mm</F>.</A>
+<B><nvs>cough</nvs> <F>Mhm</F> <..></..> <R>which train</R> <R>which train</R> <..></..> which train go? <nvs>laughter</nvs></B>
+<A><F>Hmm</F>. <F>Er</F> local and we also have express trains.</A>
+<B>Express train?</B>
+<A><F>Hm</F>. Express trains are faster.</A>
+<B><F>Err</F>.</B>
+<A>Forty dollars.</A>
+<B>Forty dollars? <..></..> <F>Urr</F> <..></..> Forty dollars <.></.> New York?</B>
+<A><F>Mm</F>. O K. Here you are. Thank you very much.</A>
+<B>Thank you.</B>
+<A>Have a nice trip. O K. Thank you. Good, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A><F>Mmm</F>. Do you like travelling?</A>
+<B>Travelling. <R>Li</R> little.</B>
+<A><F>Hmm</F>. Which do you like better, trains or <nvs>cough</nvs> airplanes?</A>
+<B>Airplane.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Shhhm</F>. <nvs>laughter</nvs></B>
+<A>I see. O K. <F>Mmm</F>. <F>Ur</F> where did you go last time by airplane?</A>
+<B><F>Mmm</F>. Saipan.</B>
+<A><F>Ah</F> I see. What did you do there?</A>
+<B><F>Mmm</F> <R>swimming</R></B>
+<A><F>Hmm</F>.</A>
+<B>Swimming and shopping.</B>
+<A><F>Hmm</F>. What did you buy?</A>
+<B><..></..> Shirt and cap. <F>Mmm</F>.</B>
+<A><F>Hmm</F>. I see. Did you speak English there?</A>
+<B>No. <nvs>laughter</nvs></B>
+<A>Why not?</A>
+<B>Good morning. <nvs>laughter</nvs></B>
+<A><F>Uhh</F>. That's it? O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now let's do this finally. Please make a story.</A>
+<B>Make a story.</B>
+<A><F>Hmm</F>. From number one to number four. O K? Please start.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>I go to movie. <..></..> Three people <.></.> <F>mmm</F> buy two thousand ticket. <.></.> <F>Mm</F>? Their buy popcorn and coke. <..></..> <F>Mmm</F> <..></..> <SC>this movie</SC> <SC>this movies</SC> <..></..> <F>mmm</F> this movie <laughter>in <R>bro</R></laughter> broken <laughter>airplaine</laughter>. <F>Mmm</F>. <..></..> <F>Mmm</F>. They enjoy the movie.</B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. Thank you, <H pn="B's name">XXX02</H>. Which do you like better, <F>er</F> seeing video</A>
+<B>Video?</B>
+<A>or <nvs>cough</nvs> going to the movie theater?</A>
+<B><F>Ahh</F>. Movie.</B>
+<A><F>Ah</F>. Why? <nvs>cough</nvs></A>
+<B><F>Mhm</F> <R>big</R> <R>big</R> <F>mmm</F> <SC>big</SC> <..></..> <SC>Te</SC> T V, small.</B>
+<A><F>Mmm</F>.</A>
+<B>Movie, <R>big</R> <F>er</F> big sound.</B>
+<A>Yes. I see. O K. What's the name of the movie which you saw last time?</A>
+<B><F>Erm</F> <..></..> <R>no remember</R> <OL>no remember</OL>. <F>Mm</F>.</B>
+<A><OL><F>Hmm</F></OL>. Not American movie?</A>
+<B><OL>No</OL>.</B>
+<A><OL><?>It's</?></OL> Japanese <OL>movie</OL>?</A>
+<B><OL>Yeah</OL>, Japanese.</B>
+<A><F>Hmm</F>. Who starred?</A>
+<B>Who star?</B>
+<A><F>Mm</F>. <F>Mhm</F> what's the name of the movie star</A>
+<B><OL>Japanese</OL>?</B>
+<A><OL>in that movie</OL>? <F>Hm</F>.</A>
+<B>Japanese? <.></.> <F>Mmm</F>. <.></.> I don't <laughter>know</laughter>.</B>
+<A><F>Hmm</F>. You don't like movie stars? No favorite movie stars?</A>
+<B>No.</B>
+<A>Who do you like?</A>
+<B>Food?</B>
+<A>Who?</A>
+<B>Who?</B>
+<A><F>Mmm</F>.</A>
+<B><F>Ah</F>. <..></..> No, I don't know.</B>
+<A>I don't know.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mm</F>. O K. That's all right. <F>Ur</F> thank you for coming today. We are almost at the end of the interview. But what are you going to do tonight?</A>
+<B>Tonight?</B>
+<A>Your plan.</A>
+<B>Tonight? <F>Mmm</F> <.></.> <R>friend</R> friend meets <R>dri</R> drive. <.></.></B>
+<A><F>Hmm</F> I see. Do you have a driver's license?</A>
+<B>No.</B>
+<A><F>Hmm</F>. O K.</A>
+<B>Friend drive.</B>
+<A><F>Ah</F>. That's nice. O K. Then enjoy <OL>the driving</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Thank you very much for coming in today. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

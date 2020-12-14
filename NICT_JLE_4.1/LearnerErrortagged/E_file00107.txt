@@ -1,0 +1,182 @@
+<interview>
+<filename>E_file00107.txt</filename>
+
+<head version="1.3">
+<date>1999-12-17</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>860</TOEIC>
+<TOEFL>567</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. Can I have your name?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Is it O K to call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. How are you today?</A>
+<B>Fine, thank you.</B>
+<A>Is it the last day today? <.></.> Last day of school?</A>
+<B>Yes, yeah.</B>
+<A><F>Mhm</F>. Are you planning anything for tonight?</A>
+<B>Nothing.</B>
+<A>Nothing?</A>
+<B>Because I <v_tns odr="1" crr="was writing">'ve been writing</v_tns> a graduation thesis, and <SC>I don't have</SC> I <v_tns odr="2" crr="haven't hit">didn't <.></.> hit</v_tns> upon anything <laughter><aj_lxc odr="3" crr="good">new</aj_lxc></laughter>. <nvs>laughter</nvs></B>
+<A><?>What's it</?>?</A>
+<B>I didn't hit upon anything <.></.> good.</B>
+<A>O K. O K. So you haven't planned it yet.</A>
+<B>No.</B>
+<A>O K. When is the deadline for that?</A>
+<B><F>Ah</F>. Seventeenth, today.</B>
+<A>You have to hand it in today?</A>
+<B>Yes, I did.</B>
+<A><F>Oh</F>. You did.</A>
+<B><laughter><?><JP>Tsukareta</JP></?></laughter>.</B>
+<A>Wonderful. O K. <R>What</R> what was it about?</A>
+<B><.></.> <SC>Education</SC> English education.</B>
+<A>English education? I see. O K. <R>Let's</R> <laughter>let's not talk about that</laughter>. O K. <F>Er</F>. O K, <H pn="B's name">XXX02</H>.</A>
+<B><OL>Yes</OL>,</B>
+<A><OL><F>er</F></OL> tell me what <v_qst odr="1" crr="you do">do you do</v_qst> in your free time.</A>
+<B><R>I</R> I <v_cmp odr="1" crr="like to listen" crr2="like listening">like listen</v_cmp> to music.</B>
+<A>What kind of music?</A>
+<B>I am <.></.> crazy about <SC>seventy's</SC> <at odr="1" crr="the"></at> sixty's and <at odr="2" crr="the"></at> seventy's black music.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A>Me, too. Can you give me example?</A>
+<B><F>Er</F>. I love Led Zeppelin <.></.> and Pink Floyd. <.></.> <CO>And</CO>. <F>Well</F>. <.></.> <F>Urr</F>. <.></.> <??></??>.</B>
+<A>O K. How did you come to get interested in that kind of music?</A>
+<B><F>Mhm</F>. Before I was born, my mother <F>er</F> played the <n_num odr="1" crr="records">record</n_num>, the <aj_lxc odr="2" crr="old">late</aj_lxc> songs of the Beatles. So <nvs>laughter</nvs> I got to like that.</B>
+<A>But that's different from your friends, I guess.</A>
+<B><.></.></B>
+<A>Your friends <mo_lxc odr="1" crr="must"></mo_lxc> listen to more contemporary <OL>music</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>What do they think about <at odr="1" crr="the">your</at> <.></.> old style rock-n-roll?</A>
+<B><nvs>laughter</nvs> I think <F>urr</F> <.></.> rock music <SC>is</SC> <F>urr</F> was at it's <n_lxc odr="1" crr="peak">best</n_lxc> in <at odr="2" crr="the"></at> sixties and seventies. So <.></.> I like rock music, so I chose <at odr="1" crr="the"></at> seventies. <.></.> So <.></.> I don't think contemporary rock music <v_ng odr="1" crr="is">is not</v_ng> rock.</B>
+<A>Right.</A>
+<B><nvs>laughter</nvs></B>
+<A><R>Wha</R> what <mo_lxc odr="1" crr="do"></mo_lxc> your friends think about that?</A>
+<B><F>Urr</F>. <.></.> Perhaps, they think of me as <at odr="2" crr="an"></at> <aj_lxc odr="1" crr="outdated">old fashion</aj_lxc> and a kind of <R>weird</R> weird person. <F>Er</F>. Yes.</B>
+<A>And, how do you respond to that?</A>
+<B><F>Uhmm</F>. <H pn="B's name">XXX02</H> is different from <.></.> others, so <R>that's</R> that's all.</B>
+<A>O K. You mentioned your mother. Do you live with your family?</A>
+<B>Yes, I live with <pn_lxc odr="1" crr="my">your</pn_lxc> family.</B>
+<A>Where is that?</A>
+<B>I live in <H pn="others1">XXX03</H> in <H pn="others2">XXX04</H> near <prp_lxc1 odr="1" crr="">to</prp_lxc1> <H pn="others3">XXX05</H>.</B>
+<A>O K. O K. A lot of students live on their own near college. Why didn't you decide to live on your own?</A>
+<B><F>Er</F>. My parents are very strict. So <SC>that</SC> <SC>I can't</SC> I couldn't <SC>live myself</SC> live <SC>my</SC> by myself.</B>
+<A>What did you feel about that?</A>
+<B>I feel sorry for that. But, <F>uhm</F> as for me, I <.></.> couldn't and can't afford to live by myself. So <.></.> <SC>I</SC> all I can do is <v_fin odr="1" crr="to depend">depend</v_fin> on <.></.> them, <SC>financially or</SC> yeah, financially. <F>Uhmm</F>.</B>
+<A><OL><CO>What</CO></OL>.</A>
+<B><OL><R>Psycholo</R></OL> <.></.> <av_lxc odr="1" crr="mentally">psychologically</av_lxc>, also.</B>
+<A>Sure. But they allow you to listen to rock music, so they are not so strict.</A>
+<B><nvs>laughter</nvs> Yes. <F>Uhmm</F>. <.></.> <F>Uhm</F>. <pn_lxc odr="1" crr="My"></pn_lxc> <cap odr="2" crr="parents" ch="1">Parents</cap> have <.></.> some rules <F>er</F> <.></.> as long as <R>I can</R> <.></.> I can do that. As long <F>uhmm</F> <.></.> as I can <.></.> make it by myself, <.></.> they allow me to do that. But <..></..> others are not.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you. Let me show you a picture. O K. Picture of a restaurant. And, could you describe it for me?</A>
+<ctxt>The interviewee is looing at the picture and thinking for a while.</ctxt>
+<B>There <v_lxc odr="1" crr="are"></v_lxc> <..></..> six guests in a restaurant, and <.></.> there also two waiters and <.></.> <at odr="2" crr="a"></at> pianist. <.></.> <SC>Each table</SC> <prp_lxc1 odr="1" crr="at">in</prp_lxc1> each table, two couples <SC>sit</SC> <v_agr odr="2" crr="are">is</v_agr> sitting and having <at odr="3" crr="">a</at> dinner. And <SC>one waiter serves</SC> one waiter is serving <F>er</F> <R>wine</R> <R>wine to</R> wine to <.></.> a couple. And the other is serving a <.></.> dish. I guess <pn_lxc odr="1" crr="they"></pn_lxc> <v_lxc odr="2" crr="are"></v_lxc> expensive. And <SC>they're</SC> <.></.> they <v_cmp odr="1" crr="look happy">look like happy</v_cmp> <.></.> <R>while enjoying</R> <.></.> while enjoying dinner.</B>
+</task>
+<followup>
+<A>O K. Good. Now, when you go out with friends, do you often go to restaurants?</A>
+<B>No, I don't <v_lxc odr="1" crr="go"></v_lxc> <.></.> so <av_lxc odr="2" crr="often">much</av_lxc>.</B>
+<A><F>Mhm</F>. Where do you usually go <.></.> with friends?</A>
+<B>With friends? <.></.> <F>Urr</F>. As for me, <R>I don't</R> <.></.> <SC>I don't <SC>go arou</SC> hang around</SC> I don't hang around with my friends so often. <SC>I al</SC> <SC>rather I like</SC> <.></.> I rather <F>uhm</F> spend my time <SC>by myself</SC> alone.</B>
+<A><CO>Which means at home or</CO>. <.></.></A>
+<B>At home or outside.</B>
+<A>What could you play outside?</A>
+<B>I like to walk without <aj_lxc odr="1" crr="any"></aj_lxc> reason or <.></.> purposes. I wander and <laughter>wander</laughter> <nvs>laughter</nvs>, yes. Sometimes, I walk with my dog.</B>
+<A><F>Uhm</F>. <.></.> <SC>What's</SC> you said, "without purpose", but everything has a purpose. How do you feel when you walk?</A>
+<B><..></..> <??></??>. <SC>People tend to yu</SC> <F>ur</F> <R>people</R> people tend to <..></..> find or <.></.> <SC>set some reason or</SC> <..></..> <R>set</R> set <at odr="1" crr="a"></at> reason or <at odr="2" crr="a"></at> purpose for walking <.></.> like for health, for shopping or <.></.> something like that. But, as for me, I have <.></.> <R>no</R> <.></.> <SC>no</SC> nothing. Just walking.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. O K. That's great. O K. I'd like to show you a card, <F>uhm</F> if I may.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A><??></??>. <..></..> O K? <.></.> O K. Now, I'll be the <R>station</R> station clerk. O K. Can I help you?</A>
+<B>Yes. <F>Er</F>. <..></..> I <.></.> made a reservation <..></..> <prp_lxc2 odr="1" crr="for">on</prp_lxc2> <at odr="2" crr="a">the</at> <aj_lxc odr="3" crr="">reserved</aj_lxc> <n_lxc odr="4" crr="seat">car</n_lxc> in a train. But I missed the train. So <SC>I want you</SC> I'd like you to <.></.> <v_cmp odr="1" crr="pay me">pay</v_cmp> back or <v_cmp odr="2" crr="exchange my ticket">exchange</v_cmp> <prp_lxc2 odr="3" crr="with"></prp_lxc2> another <aj_lxc odr="4" crr="">new</aj_lxc> one.</B>
+<A><F>Well</F>. You probably know that we can't do that.</A>
+<B>Yes, I know that. But <.></.> I <SC>paid</SC> <.></.> actually paid the money for one ticket. <SC>So that</SC> <..></..> but, <SC>I</SC> actually, <SC>I didn't <.></.> get on</SC> I didn't <o_odr odr="1" crr="get on it">get it on</o_odr>. So <SC>I have right</SC> <.></.> I think I have <at odr="1" crr="a"></at> right <R>to</R> <..></..> <F>urr</F> to <.></.> get a <.></.> seat.</B>
+<A><F>Urm</F>. You have a right to get a seat of that train, not another one.</A>
+<B><nvs>laughter</nvs> <..></..></B>
+<A>Unless there's some extraordinary reason?</A>
+<B><..></..></B>
+<A>Or special case?</A>
+<B><..></..> <CO>I</CO>. <..></..></B>
+<A><SC>Why you</SC> why did you miss the train?</A>
+<B><R>Because I</R> <.></.> because I <.></.> <F>urr</F> <.></.> <v_lxc odr="1" crr="took">got on</v_lxc> <at odr="2" crr="a"></at> taxi, but <.></.> <R>there</R> there was a traffic jam <o_lxc odr="3" crr="on the way"></o_lxc> to the station. <.></.> But I have <SC>to go <.></.> to</SC> <..></..> <SC?>arrival</SC?> <F>er</F> to go to the place because <R>my</R> <.></.> my grandfather is dying.</B>
+<A><F>Oh</F>.</A>
+<B>So I <av_pst odr="2" crr="am really">really <v_tns odr="1" crr="am">was</v_tns></av_pst> in hurry.</B>
+<A><F>Well</F>. <R>In</R> <R>in</R> in that case, I think we can arrange. That's an emergency.</A>
+<B><nvs>laughter</nvs></B>
+<A><R>Here</R> here is the new ticket, and the next train leaves in twenty minutes.</A>
+<B><..></..> Thank you. <nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K. Can I have the card? Thank you very much. That's the end of the role play. That was not very really realistic.</A>
+<B><nvs>laughter</nvs></B>
+<A><R>Have you</R> have you traveled much?</A>
+<B>Yes.</B>
+<A>For example?</A>
+<B>I went to Hiroshima <.></.> by <R>express train</R> express train.</B>
+<A>What did you do in Hiroshima?</A>
+<B><R>I <.></.> went sight</R> <.></.> I went sightseeing and <v_tns odr="1" crr="visited">visit</v_tns> my friend. <SC>She is</SC> actually, <F>ur</F> <av_pst odr="2" crr="now she studies">she <v_lxc odr="1" crr="studies">is</v_lxc> now</av_pst> in <H pn="school name1">XXX06</H>. <CO>So</CO>.</B>
+<A>Can you tell me a bit more about what you did together?</A>
+<B><.></.> What I did together? <.></.> <F>Uhmm</F>. <.></.> I talked a lot because <R>the</R> the <R>place</R> <.></.> place she lives in <R>is</R> <.></.> is very <.></.> rural and away from the city because <R>the <.></.> department</R> the department she belongs to <R>is</R> <.></.> is located in that <n_lxc odr="1" crr="area"></n_lxc>. So <SC>I didn't</SC> <SC>I couldn't do anything <.></.> without</SC> I couldn't <v_lxc odr="1" crr="do"></v_lxc> anything but talk with her or walk around the <n_lxc odr="2" crr="town">field</n_lxc>. So, <.></.> after I left her home, I <.></.> <SC>went around</SC> <v_tns odr="1" crr="toured">tour</v_tns> around <R>the</R> <.></.> <at odr="2" crr="">the</at> Hiroshima City, like <n_num odr="3" crr="museums">museum</n_num>, temples, <con_lxc odr="4" crr="and"></con_lxc> <at odr="5" crr="the"></at> dome.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Good.</A>
+<B>Yeah.</B>
+<A>Good. That's good. One more thing for you. I'd like you to look at the sequence of pictures. And I'd like you to make up a story based on these pictures from one to six. And this happened before, so you should start <prp_lxc1 odr="1" crr="with"></prp_lxc1> "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>One day last week, a woman went shopping in a department store. She wanted <.></.> to <.></.> buy a new tie. <.></.> I guess <F>er</F> <at odr="1" crr="a">the</at> gift for her husband because <SC>she is <.></.> ol</SC> <SC>I</SC> <SC>she looks old</SC> she <v_tns odr="2" crr="looks">looked</v_tns> old enough to have a husband or family. <F>Urr</F>. <..></..> She decided <SC>one tie</SC> <.></.> <R>with</R> <.></.> <prp_lxc2 odr="1" crr="on">with</prp_lxc2> <R>yellow</R> <.></.> <R>yellow</R> <.></.> <R>yellow</R> <at odr="2" crr="a"></at> yellow and green tie. <F>Uhm</F>. <..></..> <SC>She <F>uhh</F> <.></.> paid a</SC> <.></.> she paid money for that and <R>asked</R> <.></.> <R>asked</R> <.></.> <R>asked the</R> <.></.> <R>asked the <.></.> clerk</R> <.></.> <SC>asked the clerk</SC> asked <at odr="1" crr="a">the</at> person <SC>who is</SC> who works in <at odr="2" crr="the"></at> department store <.></.> where she should go <.></.> to <o_uk odr="3" crr="go up to"></o_uk> <.></.> the third floor. He kindly <.></.> told that, and <R>she could</R> <.></.> <SC>she could find <.></.> the way to the third floor</SC> she could find <.></.> <R>the stair</R> the stairs to <SC>the floor</SC> the third floor.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. Thank you. O K. That's <av_lxc odr="1" crr="really">pretty much</av_lxc> the end of the interview. Now, I know you're going to graduate soon. Have you found a job?</A>
+<B>Yes.</B>
+<A>Can you tell me what it is?</A>
+<B><.></.> <R>I</R> <F>urr</F> <.></.> I am teaching English.</B>
+<A>That's good.</A>
+<B><nvs>laughter</nvs> <laughter>I <v_tns odr="1" crr="don't think">didn't think</v_tns> so</laughter>.</B>
+<A><R>Wha</R> <SC>wha</SC> is that junior high school or high school?</A>
+<B>Both.</B>
+<A>O K.</A>
+<B><.></.> The <.></.> junior and senior high school <v_agr odr="1" crr="are">is</v_agr> <v_lxc odr="3" crr="combined"><v_fml odr="2" crr="linked">link</v_fml></v_lxc> together.</B>
+<A><R>Whe</R> where is that?</A>
+<B><SC>Where is</SC> <.></.> where? <F>Urr</F>. In <H pn="others4">XXX07</H>.</B>
+<A><F>Er</F>. In <H pn="others5">XXX08</H>?</A>
+<B>Yes.</B>
+<A>That's good. So you can stay at home <??></??> longer.</A>
+<B><nvs>laughter</nvs></B>
+<A>Economical.</A>
+<B>What?</B>
+<A>It's economical to stay at home, yeah?</A>
+<B><OL>I guess <??></??></OL>.</B>
+<A><OL>Because you can save money</OL>. Why? <?>That's a challenge</?>. When does it start?</A>
+<B><SC>April</SC> <OL>in April</OL>.</B>
+<A><OL><F>Oh</F> <??></??></OL> beginning of April. <F>Uhmm</F>. Are you gonna miss the university?</A>
+<B>No. But <SC>I'm</SC> I really worry about my <.></.> English <laughter>ability</laughter>.</B>
+<A>Probably you don't have to speak English much in junior high school.</A>
+<B>I don't think so.</B>
+<A><F>Mhmm</F>. <.></.> O K. <F>Oh</F>. Good luck with that.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

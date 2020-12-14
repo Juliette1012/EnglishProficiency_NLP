@@ -1,0 +1,245 @@
+<interview>
+<filename>file00216.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>680</TOEIC>
+<TOEFL>450</TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ah</F> my name is <F>ah</F> <H pn="B's name">XXX02</H>.</B>
+<A>O K, so, can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Oh</F> please call me just <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. O K, thank you. So how are you today?</A>
+<B><F>Ah</F> I'm fine <F>ah</F> but I feel just a little bit chilly.</B>
+<A>Chilly, right.</A>
+<B>But <F>ah</F> <R>la</R> <F>ah</F> last week <F>ah</F> I had to attend my customer from overseas' <R>com</R> company. I was so busy,</B>
+<A>Right.</A>
+<B>but <F>ah</F> last weekend <F>ah</F> they got back to their country.</B>
+<A><OL>Right</OL>.</A>
+<B><OL><SC>Now</SC></OL> <F>ah</F> <F>ah</F> this week <F>ahh</F> I'm not so busy.</B>
+<A><F>Mmm</F>.</A>
+<B>So, I feel comfortable now. <OL>Yeah</OL>.</B>
+<A><OL>Right</OL>. So, do you have a plenty of time?</A>
+<B>Yes.</B>
+<A>So, what do you usually do after work?</A>
+<B><F>Oh</F> usually <F>er</F> <F>ah</F> after work, I'm going back to my house and have a dinner with my parents. But <F>uh</F> sometimes <F>ah</F> I have a party after my duty <F>uh</F> with my friends. <F>Uh</F> and sometimes I'm going to a <F>ah</F> sports club</B>
+<A>Right.</A>
+<B>to swim for dieting.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah. And, but <F>uh</F> it depends on the timing. <F>Oh</F> can I explain <SC>the</SC> my duty just a little bit?</B>
+<A>Sure.</A>
+<B><F>Uh</F> now <F>ah</F> I joined <H pn="others1">XXX03</H> Corporation Aerospace Department almost three years ago. And, one years later <F>ah</F> I moved to <H pn="others1">XXX03</H> Aviations,</B>
+<A><OL>Right</OL>.</A>
+<B><OL><F>uh</F></OL> which is one of <F>uh</F> our subsidiaries of <H pn="others1">XXX03</H> Aerospace Department.</B>
+<A>Right.</A>
+<B>And, I'm responsible for <F>ah</F> <F>oh</F> <F>oh</F> searching the market over <F>uh</F> aerospace industry,</B>
+<A>Right.</A>
+<B><R>and</R> <F>er</F> <F>oh</F> <F>uh</F> and the daily delivery for <F>uh</F> aerospace or aerospace equipment like that. And, also my duty is the making budget. And, making budget <F>ah</F> takes <F>uh</F> long time</B>
+<A><F>Mm</F>.</A>
+<B>to complete.</B>
+<A>Right.</A>
+<B>So, <SC>if <R>I</R> <F>ah</F> I order</SC> <F>ah</F> I mean <F>ah</F> if <R?>I</R?> I ordered from my boss to make a budget <F>ah</F> at that time <F>ah</F> I usually, I cannot <F>ah</F> eat dinner in my house.</B>
+<A><F>Oh</F>.</A>
+<B>Because <SC>the</SC> it must be busy I cannot go back <F>ah</F> to my place <F>ah</F> at usual time.</B>
+<A>Right. O K, I see. O K, thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>So, now, I'm going to show you a picture. I want you to describe it.</A>
+<B>O K. So, please let me think just a little bit.</B>
+<A>Sure.</A>
+<B>So <F>ahh</F> <R>I had</R> I had better <SC>shu</SC> <F>uh</F> explain <R>the</R> this picture <OL>for you</OL>?</B>
+<A><OL><F>Um</F> right</OL>.</A>
+<ctxt>The interviewee is looking the picture.</ctxt>
+<B>O K, I'm ready.</B>
+<A>O K, go ahead.</A>
+<B><F>Oh</F> this picture is indicating <SC>the</SC> <F>ah</F> one scene of ski and <F>oh</F> <R>every</R> <F>ah</F> every person <R>ha</R> <F>ah</F> has fun time to ski. And, some guys <SC>are</SC> <F>ah</F> is, not good at <R>ski</R> skiing so <F>oh</F> <R>he c</R> he cannot ski very well. And <F>ah</F> <SC>a few children</SC> <F>ah</F> few children <F>ah</F> is playing a kind of fight by using the snowboard. And <F>er</F> there is one log house <F>ahh</F> at the middle of mountain and some people is <F>ah</F> having tea. And <F>uh</F> this day is the very sunny day. So, that's why <F>ahh</F> they can have a fun time to ski, I think. That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you. So <H pn="B's name">XXX02</H> do you do any winter sports?</A>
+<B>Yes. <F>Ah</F> <F>ah</F> now, I belong to a ice hockey team of my company,</B>
+<A>Right.</A>
+<B>so <F>oh</F> I have started, <F>uh</F> to play ice hockey <F>uh</F> when <SC>I was</SC> <F>ahh</F> I joined my university so <R>I</R> I keep to play ice hockey almost <F>uh</F> ten years. And, usually <F>ah</F> <F>ah</F> in winter season <F>ah</F> I go to <F>ah</F> the <JP>gerande</JP> for skiing.</B>
+<A>Right.</A>
+<B><F>Ah</F> until two years ago, <F>ah</F> I was playing a snowboard. <F>Ah</F> but, I changed my mind <F>umm</F> and now <F>ah</F> usually <F>ah</F> I'm <F>um</F> <?>fun</?> skiing. Do you know <?>fun</?> ski?</B>
+<A>No.</A>
+<B>It's a kind of short ski.</B>
+<A>O K.</A>
+<B>And <F>uh</F> usually <F>ah</F> we don't use a <JP>stock</JP>. So <F>ah</F> <F>ah</F> <SC>this short ski can</SC> <F>ah</F> <F>ah</F> or <F>ah</F> we can play <F>ah</F> for example half pipe, or something tricky action like a snowboarding.</B>
+<A>Right.</A>
+<B>And, also, of course, this <F>uh</F> short ski is the kind of usual ski. So <F>ah</F> <F>ah</F> we can <F>ah</F> <F>ah</F> play <F>ah</F> <F>ah</F> <SC>like</SC> as same as ski.</B>
+<A><F>Umm</F>.</A>
+<B>So, I mean <SC>the</SC> this <?>fun</?> ski has <F>ah</F> <F>ah</F> two kind of way to play. One is snowboarding and one is skiing. So <F>ah</F> <F>ah</F> in this season <F>ah</F> I have already <F>ahh</F> gone to skiing <F>um</F> two or three times. And, this weekend <F>ah</F> I plan to go there.</B>
+<A><F>Ohh</F>.</A>
+<B><..></..> Yes. <laughter>O K</laughter>.</B>
+<A>Yeah. O K, thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So, now, we're going to do a role-play.</A>
+<B>O K.</B>
+<A><R>O K</R>? O K. So, I'm going to give you a card. And this is written in Japanese. So, I want you to read it silently.</A>
+<B>O K.</B>
+<A><CO>And, whenever you're ready</CO>.</A>
+<B><OL>So <SC>I</SC></OL> <F>ah</F> when <F>ah</F> I want to stop <R>my</R> my comment, I had better to say something, "It's over." or <F>ah</F> "That's all.", like that. <OL>No</OL>?</B>
+<A><OL><F>Ah</F> no, no</OL>. It's up to you.</A>
+<B>O K.</B>
+<A>O K.</A>
+<B><F>Oh</F> please <F>uh</F> I'd like to read <OL>just a little bit</OL>.</B>
+<A><OL>O K</OL>.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>O K. So <F>ah</F>. May I help you?</A>
+<B>Yes. <F>Ah</F> I'd like to go to New York City <F>ah</F> at the fastest way. So, please <F>ah</F> let me see the <F>ahh</F> <F>ah</F> <F>uh</F> lines that you have.</B>
+<A><F>Oh</F>. <.></.> O K, we have three types of trains</A>
+<B><F>Um-hm</F>.</B>
+<A>to go to New York City.</A>
+<B><F>Um-hm</F>. So <F>oh</F> I'd like to know what kind of <F>oh</F> trains, now. <R>I</R> I understand you have three trains,</B>
+<A>Right.</A>
+<B><F>uh</F> for going to New York City.</B>
+<A>Right.</A>
+<B>So, and, I'd like to get the ticket <F>ahh</F> that is fastest way.</B>
+<A>O K, the fastest one is super express.</A>
+<B><F>Um-hm</F>. <F>Ah</F> <F>oh</F> <R>ha</R> how much is that cost?</B>
+<A><F>Ah</F> that costs five hundred dollars.</A>
+<B>Five hundred dollars? And <F>er</F> <F>um</F> how long does it take from here to New York City?</B>
+<A><F>Ah</F>. Just takes two hours.</A>
+<B>Two hours.</B>
+<A>Right.</A>
+<B><F>Umm</F>. So <F>oh</F> please <F>ah</F> let me know the second plan?</B>
+<A>O K, the second one is express train.</A>
+<B>Express train. <F>Um-hm</F>. <F>Ah</F> how long does it take?</B>
+<A><F>Ah</F> it takes three hours.</A>
+<B>Three hours <F>ah</F>. O K <F>umm</F> I think five hundred dollars is just a little bit expensive for me. But <F>ah</F></B>
+<A>Right.</A>
+<B>I don't have enough time.</B>
+<A><F>Um</F>.</A>
+<B>So, I'd like to buy the <F>ah</F> super express.</B>
+<A>O K, but unfortunately <F>ah</F> you have to wait three more hours.</A>
+<B>Why?</B>
+<A><F>Ah</F>. Because of the schedule.</A>
+<B>So, you mean <SC>the</SC> <F>ah</F> <F>ah</F> this super express is full now. So <F>um</F> usually <F>ah</F> just <F>ah</F> <SC>this time schedule</SC> because of this time schedule I have to wait three more hours?</B>
+<A>Right.</A>
+<B><F>Oh</F> how about a second one?</B>
+<A><F>Ah</F> <F>ah</F> it will leave in two hours.</A>
+<B>Two hours. <F>Ah</F> it's same. <F>Oh</F> how about <SC>third train</SC> third plan?</B>
+<A><F>Ah</F> that one is local. It's very slow.</A>
+<B>O K, so <F>ah</F> you mean <SC>the</SC> <F>ah</F> anyway <F>ah</F> it takes <F>um</F> four hours from here to New York?</B>
+<A><F>Um</F> right.</A>
+<B>So <F>ah</F> how much about the <R>second</R> second plan.</B>
+<A>Second <OL>one</OL>.</A>
+<B><OL>I mean</OL> <SC>the <F>ah</F> express</SC></B>
+<A><OL>Right</OL>.</A>
+<B><OL>just</OL> express. How much does it take?</B>
+<A><F>Ahh</F>.</A>
+<B><F>Ah</F>. <CO>I mean the</CO>.</B>
+<A><OL>O K</OL>. Three hundred dollars.</A>
+<B>Yeah. What, I'm sorry?</B>
+<A>Three hundred dollars.</A>
+<B>Three hundred dollars. O K, I will buy <OL>the second one</OL>.</B>
+<A><OL><R>O K</R></OL> <R>O K</R> O K. So, here is the ticket</A>
+<B>Yes.</B>
+<A>and have a nice trip to New York.</A>
+<B>O K <OL>thank you</OL>.</B>
+</task>
+<followup>
+<A><OL>O K</OL>. So, this is the end of role-play.</A>
+<B>O K.</B>
+<A>So, <F>ah</F> do you like to go traveling</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>by</OL> train?</A>
+<B>By train. <F>Umm</F>. It's difficult usually <F>ah</F> I don't use the train for traveling.</B>
+<A>Right.</A>
+<B><F>Uh</F> if <R>I</R> <F>ah</F> I go to any overseas <SC>compa</SC> country or <F>ah</F> any other local area,</B>
+<A>Right.</A>
+<B>I use a airplane <SC>so</SC> <F>ah</F> until today I went to a several countries by using airplane.</B>
+<A><F>Mmm</F>.</A>
+<B>But, I don't think <F>ahh</F> I have used any train for my travel.</B>
+<A><F>Um</F> so what are some advantages of taking a planes?</A>
+<B><F>Oh</F> <nvs>cough</nvs> <F>oh</F> as you know, it's not feasible for me to use a airplane,</B>
+<A><F>Hmm</F>.</A>
+<B><F>ah</F> to go to the overseas <SC>com</SC> <F>ah</F> country.</B>
+<A><F>Umm</F>.</A>
+<B>It's of course. But <F>ah</F> now I have a car. So <SC>if</SC> <F>ah</F> <SC>for example</SC> <F>ah</F> if <F>ah</F> I will go to the <nvs>cough</nvs> a mountain for skiing or I will go to the ocean for beach volleyballing. <F>Ah</F> I use <F>ah</F> my car.</B>
+<A>Right.</A>
+<B><F>Ah</F> because <F>ahh</F> <F>ah</F> if I will use the train I have to go to the station and, <F>uhh</F> <R>I have to</R> without a train and <F>uhh</F> <F>ah</F> compared with <F>ah</F> using my car it's inconvenient for me.</B>
+<A><F>Um</F> <OL>O K</OL>.</A>
+<B><OL>That's</OL> why I don't use a train for my traveling.</B>
+<A><R>O K</R> O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So, now, I'm going to show you a picture.</A>
+<B>Yes.</B>
+<A>And, I want you to make up a story from one to four.</A>
+<B>One to four. <OL>Yeah</OL>.</B>
+<A><OL>And</OL> this story <?>was</?> happened to you last week. So, I want you to start your sentence with "One day last week".</A>
+<B><F>Um-hm</F>.</B>
+<A>O K.</A>
+<B>O K <F>ah</F> can I have a time, please?</B>
+<A>Sure.</A>
+<B>O K. So <F>ah</F> <R>I have</R> <SC>I have to</SC> <F>ahh</F> it's a comment as my <F>ah</F> last weekend?</B>
+<A><F>Um-hm</F>.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking the pictures.</ctxt>
+<B>You mean <SC>the</SC> this girl is you? No?</B>
+<A><F>Ahh</F> <OL>it's up to you</OL>.</A>
+<B><OL>You don't care</OL> <OL>about that</OL>?</B>
+<A><OL>O K</OL>.</A>
+<B>O K, I'm ready.</B>
+<A>O K, go ahead.</A>
+<B><nvs>cough</nvs> <F>Ah</F> last weekend <F>ahh</F> I went to the theater with my <F>ah</F> two friends. <F>Oh</F> one is <SC>the</SC> <F>ah</F> my university's friend and his girl friend.</B>
+<A>O K.</A>
+<B>And <F>an</F> actually, I wanted to <F>ah</F> watch the <F>ahh</F> love story but <F>uh</F> they wanted to <F>ah</F> watch a action movie.</B>
+<A>Right.</A>
+<B><F>Uh</F> so <F>ah</F> we decided to watch the action movie. And, before watching the movie <F>eh</F> we bought <F>ah</F> some drinks and popcorn <F>ah</F> for <SC>have</SC> <F>uh</F> having fun time more. And <F>uhh</F> during <F>ah</F> watching the movie <F>ah</F> <F>ah</F> we had fun time <F>ah</F> to watch the movie itself and <F>ah</F> <F>ah</F> have a some drinks and <F>ah</F> snacks. And <F>umm</F> <F>oh</F> this movie was <F>ah</F> very fun for us. <F>Ah</F> more than our expectation. <F>Oh</F> so <F>oh</F> <F>oh</F> we satisfied <F>ah</F> to <F>uh</F> <R>select</R> <F>ah</F> select <F>ah</F> this movie.</B>
+<A><F>Um</F>.</A>
+<B>And, after that <F>oh</F> <F>oh</F> we were going to have a dinner together. That's all.</B>
+</task>
+<followup>
+<A>O K, thank you. So, <SC>you said</SC> <F>ah</F> which do you like better <F>ah</F> love story or action movie?</A>
+<B><F>Um-hm</F>. <F>Ah</F> usually <F>ah</F> <F>umm</F>. I like to watch the emotional movie.</B>
+<A><F>Um</F>.</A>
+<B><F>Oh</F> so <F>uh</F> I don't care about love story or action <R>mo</R> <F>ah</F> movie or like that. So, because <SC>the</SC> <F>ahh</F> some love story had emotional portion and also <F>ah</F> some <F>ah</F> action movie has emotional <R>por</R> portion. So, through the <F>ah</F> movie <F>ahh</F> I can feel the emotional mind, so <F>uh</F> I don't care about love story or action movie. <F>Ahh</F> I want to watch just emotional movie. But, when I explain this picture <F>oh</F> I thought it's easy for you to understand love story and <R>action</R> <F>uh</F> action movie. Because if I <SC>say</SC> said <F>eh</F> something emotional movie like that it's difficult <R>for</R> for me to explain later. That's why I said.</B>
+<A><F>Um</F>. O K, thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So, we are almost at the end of the interview.</A>
+<B>O K <OL>thank you</OL>.</B>
+<A><OL>O K</OL>. So, you said you were going to mountains tonight?</A>
+<B>No.</B>
+<A>No?</A>
+<B><F>Oh</F>.</B>
+<A>Or this weekend?</A>
+<B>Yeah. <F>Ah</F> <F>ah</F> I will go to mountain for skiing tomorrow.</B>
+<A><F>Oh</F> tomorrow.</A>
+<B>And, maybe I will <R>return</R> <F>ah</F> return to Tokyo <F>oh</F> in tomorrow, maybe.</B>
+<A><F>Um</F>, <OL>O K</OL>.</A>
+<B><OL>Just one day</OL>.</B>
+<A>O K. I hope you'll enjoy.</A>
+<B><F>Ah</F> thank you very much.</B>
+<A>O K, thank you. This is the end of the interview.</A>
+<B>O K, thank you very much.</B>
+<A><OL>Thank you for coming</OL>.</A>
+<B><OL>Thank you for coming</OL>.</B>
+</stage5>
+</body>
+</interview>

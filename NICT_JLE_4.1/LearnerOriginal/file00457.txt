@@ -1,0 +1,129 @@
+<interview>
+<filename>file00457.txt</filename>
+
+<head version="1.3">
+<date>2001-05-30</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step>3</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, let's get started. Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B>Sure.</B>
+<A><H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine, thank you.</B>
+<A>That's good. Where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A>Very near.</A>
+<B>Yes.</B>
+<A>O K. So do you live with the family?</A>
+<B>No. I live by myself.</B>
+<A><F>Hum</F>. So where is your hometown?</A>
+<B>My hometown is <H pn="others2">XXX04</H> City in <H pn="others3">XXX05</H> Prefecture.</B>
+<A>I see. Tell me more about your hometown.</A>
+<B>Yes. My hometown is very many <F>ee</F> green and <.></.> <SC>that is</SC> <H pn="others2">XXX04</H> City is very big city. And <H pn="others3">XXX05</H> Prefecture is in Tohoku. And Tohoku is thought cold, but <SC><H pn="others3">XXX05</H> is</SC> <F>ah</F> <H pn="others2">XXX04</H> is not so cold.</B>
+<A><F>Hum</F>. <.></.> So now <SC>you live i</SC> you are living in <F>er</F> <H pn="others4">XXX06</H> alone. How do you enjoy living alone?</A>
+<B><F>Ur</F> <F>eh</F> I enjoyed <..></..> live in <H pn="others1">XXX03</H>.</B>
+<A>I see. What good point about living alone?</A>
+<B>Yes. <JP><F>eeto</F></JP> <.></.> Free time is always. And <.></.> I can do everything I think <R>I</R> I want to do. <.></.> Watching T V and cooking and reading book and so on.</B>
+<A>I see. <H pn="B's name">XXX02</H>, do you belong to a club or circle <OL>at <H pn="school name1">XXX07</H></OL>?</A>
+<B><OL>Yes</OL>. <SC>I</SC> I'm belong to Yamanoko. Yamanoko is climbing mountain circle.</B>
+<A>Wonderful. Tell me more about it.</A>
+<B>Yes. <SC>Yamanoko is</SC> <.></.> Yamanoko has very many people and boys are <R>m</R> more than girls. And climbing mountain is not very hard and very <F>er</F> funny. <.></.></B>
+<A>O K. So <H pn="B's name">XXX02</H>, why are you interested in mountain climbing?</A>
+<B><F>Uum</F>. <R>We</R> we live in <H pn="others4">XXX06</H> and <R>we</R> we can't see greens and trees and flowers. But in mountain, <F>eh</F> we can see <F>eh</F> very big nature. <.></.> The other day, I went to <JP>Fujisan</JP>. And we can see very beautiful view in there.</B>
+<A>That's good. Thank you very much <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Eh</F> let's move on to the next stage. Now, I'll show you this picture. Please describe this picture for me.</A>
+<ctxt>The interviewee is looking at the picture for a moment.</ctxt>
+<B><JP><F>Eeh</F></JP> <F>mm</F>. The dog lying in the room, in center. And the cat <.></.> is lying on the bed, too. And <.></.> the girl <.></.> <SC>sitting</SC> is sitting on chair and seeing cat and dog and play computer. And it is nine o'clock. <R>It</R> it is fine day. And there is stereo and C D. <..></..> That is tape recorder and C D. <F>Erm</F> there is green phone and <.></.> there is very many book. And there is very colorful.</B>
+<A>Thank you. O K. <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>So can you compare this picture to your room in <H pn="others1">XXX03</H>?</A>
+<B><.></.> Yes. I don't have computer <.></.> <F>mm</F> because computer is very expensive. And <R>I</R> I don't have dog, <SC>too</SC> <F>uh</F> either because I bited by dog nowadays. And <..></..> <SC>the</SC> <F>er</F> there is very clean. And my room is clean, too.</B>
+<A><F>Er</F> wonderful. <nvs>laughter</nvs></A>
+<B>And <..></..> <F>mm</F> <.></.> <F>mm</F>. The curtain is, in my room, not opened because <.></.> my apartment is a front of other apartment. So I can't open the curtain. <.></.></B>
+<A>O K. Thank you very much <H pn="B's name">XXX02</H>. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Let's move on to the next step. <F>Er</F> this is your card. Please read this card to yourself. <F>Er</F> this is a role-play. So when you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes.</B>
+<A>This is telephone conversation. So, ring-ring. Hello? <H pn="A's name">XXX01</H> speaking.</A>
+<B><.></.> This is <H pn="B's name">XXX02</H>.</B>
+<A>Hi <H pn="B's name">XXX02</H>. What's up?</A>
+<B><.></.> <F>Er</F> <F>er</F> are you free on Sunday?</B>
+<A>Sunday? O K. I'm free.</A>
+<B>So <F>ee</F> how about going to movie?</B>
+<A>Wonderful. That's good idea.</A>
+<B><.></.> What time is it <SC>for you to</SC> for you convenient?</B>
+<A><F>Well</F> I'm free all day. So any time O K.</A>
+<B><F>Uum</F> so <.></.> <R>I can</R> I can see you <.></.> at three o'clock on Sunday afternoon. How about three o'clock?</B>
+<A>Good.</A>
+<B><F>Um</F> <.></.> <F>uh</F> how do you go there?</B>
+<A><F>Er</F> where should I meet you?</A>
+<B><.></.> <SC>We</SC> <SC>I want you</SC> I want to see you at Hachiko <JP>guchi</JP> in Shibuya. So, three o'clock, <.></.> <SC>reach to</SC> <F>er</F> we reach to Hachiko <JP>guchi</JP>. <SC>So we</SC> <.></.> why not on the bus?</B>
+<A>I use J R. So Hachiko <JP>guchi</JP> is fine for me.</A>
+<B>Yes. <.></.> So <JP><F>eeto</F></JP> <.></.> <F>mm</F> Yamanote Line is very fine. <OL><F>Er</F></OL>.</B>
+<A><OL>O K</OL>.</A>
+<B><F>Er</F> <R>we can</R> we can go there by Yamanote Line. And <R>meet</R> meet at Hachiko <JP>guchi</JP> <R>and go</R> <F>er</F> and go to the theater</B>
+<A><F>Mm</F> I see.</A>
+<B>on foot.</B>
+<A>O K. Good. <R>O K</R> O K. That's a good idea. Thank you very much for calling.</A>
+</task>
+<followup>
+<A>O K <H pn="B's name">XXX02</H>. Thank you very much. That's the end of the role-play. Do you like movie?</A>
+<B>Yes. I like very much it.</B>
+<A><F>Hum</F> who is your favorite actress or <OL>actor</OL>?</A>
+<B><OL>Yes</OL>. <F>Hm</F> <R>my</R> my favorite actor is Brad Pitt. He is a very nice guy. And my favorite actress is Angelina Jolie. Angelina Jolie is on <F>ee</F> "Nineteenth <JP>Karute</JP>" and "Sixty Seconds".</B>
+<A>I see. Why do you like her so much?</A>
+<B>Yes. She is very exciting and very beautiful on movie. She is very nice girl.</B>
+<A>I see. O K. Thank you very much <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Let's move on to the next stage. O K. This one. Please look at this picture. That is a picture sequence. So please make up one story using these picture from one to six. This happened before, so please start your story with "One day last week".</A>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt> 
+<B>One day, the woman wanted to buy present for <..></..> her father. So, she went to <.></.> department on <.></.> her town. And <R>she</R> <.></.> <SC>she thought to buy neck</SC> <F>er</F> she thought to buy tie for her father. And it is his birthday present. And <SC>she choose</SC> <F>er</F> she <SC>choosed</SC> chose green tie on paisley and she <SC>buy it</SC> bought it. <F>Er</F> and she paid money. And the tie was wrapping by green <.></.> paper and decorationed by red ribbon. <..></..> After that, <R>she</R> she go to shoes shop. And <R>she</R> she find the final sale. That is thirty-percent-off sale. She thought <SC>that is</SC> that was fine. <SC>But she don't</SC> but she <SC>didn't bought</SC> didn't buy that. And she went to clothes shop, too. <R>She</R> she was looking some clothes. And <.></.> she bought some <.></.> nice clothes. That is fifty-percent-off saling. And she <.></.> <R>go</R> go to home with very many <.></.> package. That is his father's present and her clothes. <SC>She</SC> that is her fine day.</B>
+</task>
+<followup>
+<A><F>Hum</F>. Thank you very much <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost over. Are you busy these days?</A>
+<B>Busy?</B>
+<A>Busy? Are you busy?</A>
+<B>Now I'm busy?</B>
+<A><F>Hum</F>. Are you busy recently at <H pn="school name1">XXX07</H> University?</A>
+<B><F>Ah</F> yes. I'm very busy. Because <SC>I have</SC> I belong to three circles. <F>Eh</F> Monday and Thursday and <JP><F>eeto</F></JP> on the weekend.</B>
+<A><OL>I see</OL>.</A>
+<B><OL><R>We</R></OL> we have to go circle and <F>eh</F> have meeting and <F>eh</F> teaching with friend.</B>
+<A>I see. But keeping busy is good for you. O K. Enjoy your club activities. Thank you very much <OL>for coming today</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

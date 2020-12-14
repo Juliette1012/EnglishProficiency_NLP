@@ -1,0 +1,198 @@
+<interview>
+<filename>E_file00828.txt</filename>
+
+<head version="1.3">
+<date>2002-02-12</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>375</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ah</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <F>Ah</F> Mister <H pn="B's name">XXX02</H>, <F>ah</F> <R>do you</R> do you live far from here?</A>
+<B><F>Mm</F>. Yes. <F>Um</F>. My section is <JP>jinji-bu</JP></B>
+<A><F>Mm-hum</F>.</A>
+<B><SC>is</SC> <F>ah</F> <F>mm</F> <.></.> my office is <F>ah</F> <prp_lxc1 odr="1" crr="in"></prp_lxc1> Chuo-<JP>ku</JP>.</B>
+<A><F>Mm-hum</F> I see. So, do you live in Chuo-<JP>ku</JP>?</A>
+<B><F>Er</F> no. <F>Er</F> I live in Itabashi-<JP>ku</JP>.</B>
+<A><F>Mm-hum</F>.</A>
+<B>Hasune. <F>Er</F> this <n_num odr="1" crr="building">buildings</n_num> ifs <SC>near</SC> <F>um</F> <nvs>laughter</nvs> <F>eh</F> <o_uk odr="2" crr="it's a few minutes walk from here">in walk, a few minutes</o_uk>.</B>
+<A><F>Mm-hum</F> I see. So, do you live there with your family?</A>
+<B><F>Mm</F> pardon?</B>
+<A>Do you live in Hasune with your family?</A>
+<B>No, <F>eh</F> <F>eh</F> I <v_lxc odr="1" crr="live">'m</v_lxc> <av_lxc odr="2" crr="alone">only</av_lxc>.</B>
+<A><F>Mm-hum</F> I see. So, where is your hometown?</A>
+<B><F>Um</F> my hometown is <F>ah</F> Kobe.</B>
+<A>Kobe?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. I've never been to Kobe, so, can you tell me more about your hometown?</A>
+<B><F>Mm</F> <o_uk odr="1" crr="could you repeat it again" crr2="could you say it one more time">one more time</o_uk>?</B>
+<A>Can you tell me about your hometown, Kobe?</A>
+<B><F>Um</F> Kobe is <at odr="2" crr="a"></at> <av_lxc odr="1" crr="very">so</av_lxc> exotic city. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B><F>Mm</F> but, <F>ah</F> six or seven years ago, <F>er</F> in Kobe, <F>er</F> <F>er</F> <at odr="2" crr="a"></at> <av_lxc odr="1" crr="very">so</av_lxc> big <F>er</F> earthquake <v_lxc odr="3" crr="occurred"></v_lxc>. <F>Er</F> <pn_lxc odr="1" crr="it"></pn_lxc> <v_lxc odr="2" crr="was"></v_lxc> so terrible. <F>Mm</F>. <nvs>laughter</nvs> <F>Ah</F>. I don't know.</B>
+<A><F>Hmm</F>. Was your family O K?</A>
+<B>O K.</B>
+<A><F>Mm</F>. Good. O K. So you said you live alone now. So, how do you spend your <n_num odr="1" crr="weekends">weekend</n_num>?</A>
+<B><SC>How do</SC> <..></..> <F>um</F> <o_uk odr="1" crr="could you repeat it again" crr2="could you say it one more time">one more time speak</o_uk>?</B>
+<A><F>Mm-hum</F>. You said you live alone now.</A>
+<B>Yes.</B>
+<A><F>Mm-hum</F>. How do you spend your <n_num odr="1" crr="weekends">weekend</n_num>?</A>
+<B><F>Um</F> weekend.</B>
+<A><OL><F>Mm-hum</F></OL>.</A>
+<B><OL><nvs>cough</nvs></OL> <F>Um</F> watching T V, <F>ah</F> watching <at odr="2" crr="" ch="1">a</at> <F>eh</F> <n_num odr="1" crr="movies">movie</n_num>.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Um</F> my hobby is <F>ah</F> snowboarding and <F>eh</F> scuba diving.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Um</F></OL> in winter, <pn_lxc odr="1" crr="I"></pn_lxc> <v_lxc odr="2" crr="do">is</v_lxc> snowboarding.</B>
+<A><F>Mm-hum</F>.</A>
+<B>In summer, <pn_lxc odr="1" crr="I"></pn_lxc> <v_lxc odr="2" crr="do">is</v_lxc> scuba diving.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Mm</F> in spring and fall, <F>ah</F> sleeping. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see.</A>
+<B>Yeah.</B>
+<A>O K. <F>Er</F> so scuba diving sounds a little dangerous.</A>
+<B><F>Oh</F> yes.</B>
+<A><F>Mm-hum</F>. Why do you like scuba diving?</A>
+<B><F>Um</F> <nvs>cough</nvs> in the sea, <nvs>cough</nvs> <F>ah</F> <o_uk odr="1" crr="there are lots of very little fish and big fish">very <F>mm</F> little fish and big fish are <R>crowded</R> <F>mm</F> crowded</o_uk>. <F>Er</F> <R>I</R> <o_uk odr="1" crr="when I swim with them, I can feel very relaxed">I insert <SC>there</SC> them so very <F>er</F> reclining</o_uk>. <nvs>laughter</nvs> <.></.></B>
+<A><F>Hmm</F>. Sounds <OL>interesting</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K, now, I'd like to show you a picture.</A>
+<B>Yes.</B>
+<A>Please describe this picture.</A>
+<B><OL><F>Ah</F></OL>.</B>
+<A><OL>Tell me</OL> anything <OL>about this picture</OL>.</A>
+<B><OL><nvs>cough</nvs></OL> <F>Eh</F> in the room, <F>eh</F> <F>ah</F> <.></.> a <n_num odr="1" crr="girl">girls</n_num> is <v_fml odr="2" crr="sitting">sit</v_fml> <prp_lxc2 odr="3" crr="on"></prp_lxc2> the chair. <F>Um</F> <SC>bed</SC> <F>er</F> the cat is sleeping <prp_lxc1 odr="1" crr="on">in</prp_lxc1> the bed, and <at odr="2" crr="a"></at> dog is <F>er</F> on <at odr="3" crr="the"></at> floor. <nvs>cough</nvs> <F>Um</F> <nvs>sniff</nvs> <..></..> <F>um</F>. <..></..> The door is <aj_lxc odr="1" crr="open">opened</aj_lxc>. <..></..> <nvs>sniff</nvs> <F>Um</F> <..></..> on the desk, <F>er</F> the computer <.></.> <v_vo odr="1" crr="is set">set</v_vo> up. <.></.> <SC>The girls is</SC> the <n_num odr="1" crr="girl">girls</n_num> <v_agr odr="2" crr="wears" ch="1">wear</v_agr> <at odr="3" crr="a"></at> blue sweater and <at odr="4" crr="a"></at> short skirt.</B>
+</task>
+<followup>
+<A><F>Mm-hum</F>. O K. Thank you very much. Do you have your own computer at home?</A>
+<B>Yes.</B>
+<A><F>Mm-hum</F>. <v_lxc odr="1" crr="Is">Does</v_lxc> this similar?</A>
+<B><F>Hmm</F>?</B>
+<A>Is your computer similar to this computer?</A>
+<B><F>Oh</F> my computer is <at odr="1" crr="a"></at> note-type.</B>
+<A><F>Hmm</F>. What do you use your computer for?</A>
+<B><..></..> <F>Ah</F> for example, <F>ah</F> E-mail and <.></.> <o_odr odr="3" crr="watching my digital photos">my digital <n_num odr="1" crr="photos">photo</n_num>,</B>
+<A><F>Mm-hum</F>.</A>
+<B><?>o kanshotte</?>, <SC>watch</SC> <SC>see</SC> <F>m</F> <v_fin odr="2" crr="watching">watch</v_fin></o_odr>. <F>Mm</F> <SC>no works</SC> <o_uk odr="1" crr="I don't use it for work">no work</o_uk>. <.></.></B>
+<A>O K. <OL>I see</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now I'd like to try a role-play. O K. Please read this. And, when you're ready, I'll start.</A>
+<B><nvs>cough</nvs> <..></..> O K.</B>
+<A>Ready? Hello?</A>
+<B>Hello? <F>Um</F> this is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B><OL>Hi</OL>.</B>
+<A><OL><H pn="A's name">XXX01</H></OL> speaking.</A>
+<B><F>Um</F> <..></..> <R>do you</R> <SC>do you go <SC>with</SC> <F>um</F> movie with</SC> <F>um</F> <R>I want</R> <F>er</F> I want to go to <F>eh</F> <at odr="1" crr="the"></at> movie theater <F>eh</F> with you. <o_uk odr="1" crr="Is it O K for you">You, O K</o_uk>?</B>
+<A><F>Hmm</F>. Sounds good.</A>
+<B><F>Um</F>. <R>Meet</R> <o_uk odr="1" crr="let's meet at ten o'clock">meet time is <F>um</F> <.></.> ten o'clock</o_uk>, and <.></.> I go <o_lxc odr="2" crr="by train">on train</o_lxc> <.></.> <nvs>laughter</nvs> <F>er</F> with you. <nvs>laughter</nvs></B>
+<A><F>Mm-hum</F>.</A>
+<B>O K?</B>
+<A>Sure.</A>
+<B>See you later.</B>
+<A><..></..> How can I say? <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Eh</F> <nvs>laughter</nvs> <.></.> <F>um</F>I go to your <n_lxc odr="1" crr="house">home</n_lxc></B>
+<A><F>Oh</F>.</A>
+<B><nvs>laughter</nvs> <F>ah</F> and go to <at odr="2" crr="the"></at> theater.</B>
+<A>O K. <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+<A>So, I'll wait for you. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs></B>
+<A>O K. See you later.</A>
+<B>Later.</B>
+<A><laughter>Bye</laughter>.</A>
+<B><laughter>Bye</laughter>.</B>
+<A>Thank you very much.</A>
+<B><JP>Wakaranwa</JP>.</B>
+</task>
+<followup>
+<A>So, do you often go to the movie theater with your friends?</A>
+<B><F>Mm</F> sometimes.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Um</F> <.></.> <F>eh</F> <R>I live in</R> <F>um</F> I <v_tns odr="1" crr="lived">live</v_tns> in Shizuoka <F>ah</F> four months ago. <F>Er</F> <o_lxc odr="1" crr="last October">the last year <F>er</F> October</o_lxc>, <F>er</F> <pn_lxc odr="2" crr="I"></pn_lxc> <v_lxc odr="3" crr="came"></v_lxc> <prp_lxc2 odr="4" crr="to" ch="3">in</prp_lxc2> Tokyo.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Mm</F> <o_uk odr="1" crr="I have only a few friends in Tokyo">in Tokyo is my friend is a few</o_uk>.</B>
+<A><F>Mm</F>.</A>
+<B>So, sometimes.</B>
+<A><F>Ah</F> I see. What kind of movies do you like?</A>
+<B><F>Hmm</F> <nvs>sniff</nvs> <nvs>cough</nvs> <F>er</F> many <n_num odr="1" crr="genres">genre</n_num>, I <R>s</R> see.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Er</F> for example, <R>action</R> action <n_num odr="1" crr="movies">movie</n_num>, <F>er</F> <n_num odr="2" crr="comedies">comedy</n_num>, <F>er</F> love <n_num odr="3" crr="romances">romance</n_num>, <laughter>suspense</laughter> <n_lxc odr="4" crr="movies"></n_lxc>, but <F>er</F> I hate a horror movie.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><nvs>laughter</nvs> Me, either. <laughter>I see</laughter>. O K. Now I'd like to show you a picture. O K. Where is it? O K. This is the picture story.</A>
+<B>Yes.</B>
+<A>So, please make a story based on these pictures. O K? From one to four.</A>
+<B><nvs>laughter</nvs> <OL>O K</OL>.</B>
+<A><OL>O K</OL>?</A>
+<B><nvs>cough</nvs> <F>Um</F> <..></..> a boy and <at odr="1" crr="a"></at> girl go to the zoo. <F>Um</F> it's <at odr="1" crr="a"></at> date. <.></.> <F>Mm</F> in the zoo, <F>er</F> <R>they</R> they watch a lion. <F>Er</F> <at odr="1" crr="the"></at> lion is so cute. And they watch <R>a</R> a monkey. <at odr="1" crr="The"></at> <cap odr="2" crr="monkey" ch="1">Monkey</cap> <v_asp odr="4" crr="is eating"><v_agr odr="3" crr="eats">eat</v_agr></v_asp> a banana. She <v_asp odr="2" crr="is eating"><v_agr odr="1" crr="eats">eat</v_agr></v_asp> <at odr="3" crr="an">a</at> ice cream. <SC>He saw perhaps</SC> <F>er</F> she <v_tns odr="1" crr="says">said</v_tns>, perhaps, <F>er</F> <SC>her</SC> <F>mm</F> <SC>the i</SC> <F>er</F> <R>that</R> <F>um</F> that <o_uk odr="3" crr="she wants to give ice cream to the monkey">ice cream is give <at odr="2" crr="the">a</at> monkey</o_uk>. <F>Err</F> <nvs>cough</nvs> <..></..> <o_lxc odr="1" crr="In the evening">In evening</o_lxc>, <F>er</F> they <F>ah</F> go home.</B>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>Thank you very much. Do you like animals?</A>
+<B>Yes.</B>
+<A><F>Mm-hum</F>. You said you <v_tns odr="1" crr="lived">live</v_tns> alone. Do you have any pets?</A>
+<B><F>Er</F> <.></.> <F>er</F> in Kobe, <prp_lxc1 odr="1" crr="in"></prp_lxc1> my <n_lxc odr="2" crr="house">home</n_lxc></B>
+<A><F>Mm-hum</F>.</A>
+<B><F>er</F> my parents have <SC>a</SC> <F>er</F> one <n_num odr="3" crr="dog">dogs</n_num>.</B>
+<A><F>Mm-hum</F>. Can you tell me more about <OL>the dog</OL>?</A>
+<B><OL><F>Er</F></OL> the dog's name is Nana.</B>
+<A><F>Mm</F>.</A>
+<B><F>Ah</F> because <F>mm</F> Nana <v_tns odr="1" crr="was born">is born</v_tns> <F>ah</F> <SC>September</SC> in September. <F>Hmm</F>? September is <prp_lxc1 odr="1" crr="in"></prp_lxc1> Japanese "<JP>sichigatsu</JP>". <OL><F>Ah</F> <JP>rokugatsuka</JP></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL>.</A>
+<B><F>Eh</F> <R>O K</R> <R>O K</R> O K. And <SC>July</SC>. <laughter>In July</laughter>. <nvs>laughter</nvs> <F>Mm</F> <R>Na</R> Nana is <F>er</F> <R>white</R> <at odr="2" crr="a"></at> white <n_num odr="1" crr="dog">dogs</n_num> <F>um</F> so <F>mm</F> not big, about this.</B>
+<A><F>Hmm</F>.</A>
+<B><..></..> <F>Um</F> <..></..> <nvs>sniff</nvs> <F>hmm</F> <..></..> <F>um</F>. Sometimes, <SC>I</SC> when I <o_lxc odr="2" crr="go back home"><v_tns odr="1" crr="go">went</v_tns> to home</o_lxc>, <F>er</F> then I walk with Nana.</B>
+<A><F>Mm-hum</F>. I see. O K. So, sometimes, you miss her. <OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. This is almost the end of the interview.</A>
+<B>Yes.</B>
+<A>So, <F>um</F> do you often go for a drink with your <n_num odr="1" crr="co-workers">co-worker</n_num>?</A>
+<B><F>Oh</F> yes.</B>
+<A><F>Hmm</F>. Where do you usually go?</A>
+<B><F>Hmm</F>?</B>
+<A>Where do you usually go for a drink? <.></.> Is there any favorite bar?</A>
+<B><F>Er</F> <.></.> I don't know <F>er</F> the <n_num odr="1" crr="bars">bar</n_num> <F>er</F> in <F>eh</F> this area.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Mm</F> so I follow my <.></.> <nvs>cough</nvs> co-workers.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Mm</F> I <av_pst odr="1" crr="often drink">drink often</av_pst> in <F>eh</F> Nihonbashi Honcho.</B>
+<A><F>Hmm</F>. I see. Do you like beer?</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs> Me, too. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. Thank you very much. This is the end of the interview.</A>
+</stage5>
+</body>
+</interview>

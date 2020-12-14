@@ -1,0 +1,134 @@
+<interview>
+<filename>file00345.txt</filename>
+
+<head version="1.3">
+<date>2001-03-06</date>
+<sex>female</sex>
+<age>34</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good afternoon.</A>
+<B><F>Ur</F> good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Ms. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>Fine, thank you. And you?</B>
+<A>Yes, I'm fine. Thank you. <F>Urr</F> O K. Ms. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B>I'm living in <H pn="others1">XXX03</H>.</B>
+<A><F>Mm-hm</F>. With your family?</A>
+<B>No. I'm live alone.</B>
+<A><F>Uh-huh</F>. So <F>umm</F> <F>urr</F> where is your hometown?</A>
+<B>My hometown is <H pn="others2">XXX04</H>, at foot of Mount <H pn="others3">XXX05</H>. So I'm named after Mount <H pn="others3">XXX05</H>.</B>
+<A><F>Oh</F> I see. <F>Uhm</F>. So what do you do?</A>
+<B><F>Umm</F> I office worker.</B>
+<A><F>Uh-huh</F>. So What do you usually do in the office?</A>
+<B><F>Um</F> <laughter>just computer</laughter> and word processor <R>and</R> <laughter>and so on</laughter>.</B>
+<A><F>Uhm</F>. I see. <F>Umm</F> can you tell me about your company?</A>
+<B><F>Uh</F> my company is a <F>mm</F> <SC>air-conditioning <F>er</F> <R>machi</R> machine</SC> <F>err</F> air conditional maker. <.></.></B>
+<A><F>Mm</F> I see. Do you like your job?</A>
+<B><F>Mhm</F> so-so. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. O K. By the way, <F>er</F> what do you do in your free time?</A>
+<B><F>Er</F> my hobby is tea ceremony.</B>
+<A><F>Uh-huh</F>. <F>Hum</F>. <F>Ur</F> why are you interested in tea ceremony?</A>
+<B><F>Umm</F> when I <F>mm</F> began to <F>mm</F> learn tea ceremony, my job is very very busy. So I wanted to relax. So I began tea ceremony. And this was very good for my <F>umm</F> mental condition. So I <F>mm</F> decided to continue to learn this ceremony.</B>
+<A>I see. <F>Ur</F> how often do you go to learn tea ceremony?</A>
+<B>Just once a week. But <SC>we often</SC> <F>uh</F> <SC>I and</SC> my friend and I often <F>mm</F> <SC>held</SC> hold tea ceremony party so <SC>I</SC> almost <F>urr</F> all the free time of weekend, I use <F>mm</F> <R>to</R> <SC>to time</SC> my free time to tea ceremony. <?>Creative</?> things.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Uh</F> I see. <F>Mm</F>. O K. Thank you very much. And then I'd like to show you a picture. So please look at this picture, and describe it for me.</A>
+<B><F>Um</F>. <F>Mm</F>. This is a famous <F>mm</F> restaurant. And the <F>ur</F> couple <F>mm</F> sit <F>er</F> at table. They are <F>ur</F> <SC>in</SC> <R>newly</R> newly married couple. And this is the wife's <SC>birthday</SC> first birthday <F>er</F> so the <F>um</F> husband chose that restaurant. And <SC>they just</SC> <F>urr</F> the dinner <SC>just <R>be</R> began</SC> has just began, and <F>umm</F> the husband is <F>ur</F> choosing the wine for drink. <.></.></B>
+</task>
+<followup>
+<A>O K. Do you like wine?</A>
+<B>Yes. But I don't know much. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. O K. Do you often go to this kind of restaurant?</A>
+<B><F>Uum</F> about <F>umm</F> <R>once</R> <F>mm</F> once every <F>eh</F> <.></.> two months.</B>
+<A><F>Uum</F>. I see. <F>Umm</F> can you tell me about your favorite restaurant?</A>
+<B><nvs>laughter</nvs> I don't have my <laughter>favorite restaurant</laughter>. <F>Mm</F> I like to <F>um</F> many restaurant, <R>va</R> <?>vary, vary, vary</?> restaurant.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mhm</F>. O K. I see. O K. Thank you very much. Next, I'd like to do a role-play. <.></.> O K. Please read this card, and when you're ready, I will start.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>Ready? O K. Hello.</A>
+<B>Hello. <F>Um</F> <.></.> Keiko <JP>san</JP> <JP>deshitakke</JP>?</B>
+<A><F>Ah</F> <H pn="A's name">XXX01</H> <JP>desu</JP>.</A>
+<B><nvs>laughter</nvs> <H pn="A's name">XXX01</H>, <F>umm</F> are you free this weekend?</B>
+<A>Yes.</A>
+<B><F>Urr</F> <SC>I have a</SC> <F>umm</F> <F>ah</F> a very good <F>mm</F> cinema is <F>ur</F> showing on the <F>er</F> theater. I have two tickets. If <F>umm</F> you don't mind, <F>mm</F> shall we go to see the movie?</B>
+<A><F>Oh</F> sounds good.</A>
+<B>So <F>umm</F> what time <F>umm</F> will we meet and where?</B>
+<A><CO>How about <F>umm</F></CO>?</A>
+<B><F>Ah</F> sorry, sorry. The <F>mm</F> cinema starts ten, twelve, and two.</B>
+<A>O K. <F>Urr</F> <.></.> I'd like to watch the movie at two o'clock.</A>
+<B>Two. <SC>So</SC> <F>mm</F> but <F>umm</F> where will we meet? <F>Um</F> how about Umeda?</B>
+<A>Yes. Sure. <F>Mm</F>.</A>
+<B><SC>How about Umeda</SC> <F>umm</F> <SC>bi</SC> do you know Umeda Bigma?</B>
+<A><F>Urr</F> I'm sorry I don't know.</A>
+<B><F>Er</F> in front of Kinokuniya Bookstore, there is a big <F>er</F> <.></.> projector. <R>You can</R> you can find easily. Shall we meet there at one forty five?</B>
+<A>Yeah. <R>That's</R> that's fine with me. <F>Mhm</F>.</A>
+<B><SC>So</SC> but <F>umm</F> <R>how will you come</R> how will you come to there?</B>
+<A><F>Urr</F> I think I will take Hankyu Line.</A>
+<B><F>Uhh</F>. <R>I live in Han</R> I live <F>um</F> <SC>in Hankyu</SC> <F>eh</F> along Hankyu Line, too. So <F>umm</F> <.></.> <R>what</R> what line do you use?</B>
+<A><F>Erm</F> Kobe Line.</A>
+<B>Kobe Line.</B>
+<A><F>Mm</F> I live in Mikonoso.</A>
+<B><F>Ur</F> <SC>so</SC> but <R>I</R> I will use a express so <F>umm</F> we'll meet <laughter>Bigma</laughter>.</B>
+<A>Yeah. That's O K.</A>
+<B>That's very <SC>useful</SC> convenient to go.</B>
+<A>O K. So <F>umm</F> see you on Saturday, right?</A>
+<B>Yes, yes. <OL>See you</OL></B>
+<A><OL><SC>One <R>forty</R> forty</SC></OL>, one forty five.</A>
+<B>Yes, yes.</B>
+<A>O K. Thank you for calling.</A>
+<B>Thank you. Bye bye.</B>
+</task>
+<followup>
+<A>Bye bye. O K. This is the end of role-play. Do you like movies?</A>
+<B><laughter><F>Uh</F> <R>I don't</R></laughter>. I don't watch movie <F>urr</F> <.></.> almost.</B>
+<A><F>Huum</F>. <F>Mm</F> how about T V?</A>
+<B>I don't know. <.></.> Just <??></??> <??></??></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. I see. And I'd like to show you one picture. <.></.> O K. Please look at this picture, and this time, I would like you to make a story. This story happened sometime last week, so please start your story with, "One day last week". O K? <F>Mm</F>.</A>
+<B><ctxt>interviewee is looking at the pictures</ctxt> One day last week, I went to a department store to buy a tie for my father's birthday present. And I <F>umm</F> decided a green and orange peizury tie, and I bought for <SC>three</SC> <SC>thirty thousand <laughter>yen</SC> three thousand yen</laughter>. And <F>umm</F> on the way to home, the <F>mm</F> lower floor, I found the lady's shoes go on <SC>sale</SC> thirty percent off sale. <R>I</R> I decided to buy one. And then <F>mm</F> the lady's <F>mm</F> cloth depart, the <.></.> <SC>sprin</SC> pretty spring <SC>cloth</SC> clothes are fifty percent off. So I bought my spring clothes. And when I <F>um</F> leave the <R>depart</R> department store, <R>I</R> I had spent <F>mm</F> <SC>many</SC> much money, and <F>ur</F> I have many <F>umm</F> <SC>bags</SC> <nvs>laughter</nvs> paper bags.</B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Um</F> do you like shopping?</A>
+<B><F>Um</F> so-so.</B>
+<A><F>Uhm</F>. O K. <F>Urr</F> when you go shopping, <F>urr</F> which do you prefer, <F>urr</F> going to a <SC>de</SC> big department store and a small local shop?</A>
+<B><F>Urr</F> <R>I</R> I have a <SC>shop</SC> <F>umm</F> favorite shop in a department store. <SC>I</SC> When I want to buy <F>uh</F> some cloth, <SC>I almost</SC> usually I go to that shop.</B>
+<A><F>Hum</F>. I see. <F>Er</F> can you tell me about that shop a little bit more?</A>
+<B><F>Ur</F> lady's clothes shop. <F>Mhm</F>.</B>
+<A>Why do you think that shop is good?</A>
+<B><F>Urr</F> clerk <F>umm</F> <SC>very</SC> <F>um</F> is very much understand <.></.> me <SC><?>when I</?> <F>um</F> like my</SC> <.></.> about <F>um</F> what cloth I like <nvs>laughter</nvs> and situations.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hum</F>. O K. I understand. <F>Um</F>. O K. We're almost the end of the interview. And do you have any plan <F>urr</F> after this interview?</A>
+<B>Plan? <R>I</R> <.></.> I will <F>umm</F> go the fitness club, and <F>er</F> <nvs>laughter</nvs> work out a little, and <F>umm</F> take a <R>jag</R> jag-zee bath, and relax, and go home.</B>
+<A><F>Oh</F> that's good. <nvs>laughter</nvs> O K. Have a good time.</A>
+<B>Thank you.</B>
+<A>And thank you <R>for</R> for coming today.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

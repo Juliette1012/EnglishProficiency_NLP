@@ -1,0 +1,232 @@
+<interview>
+<filename>file00931.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>3</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes, of course.</B>
+<A>O K. <F>Urr</F> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Uhm</F> I live in <H pn="others1">XXX03</H> City</B>
+<A><F>Uh-huh</F>.</A>
+<B>in <H pn="others2">XXX04</H>.</B>
+<A><F>Ahh</F> what is <H pn="others1">XXX03</H> like?</A>
+<B><.></.> <F>Uhmmm</F> <.></.> like?</B>
+<A><F>Uhm</F>. What kind of town is it?</A>
+<B><F>Uhm</F> <F>er</F> there is a famous temple, <F>uhm</F> <H pn="others1">XXX03</H> Temple.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <F>uhm</F> <H pn="others1">XXX03</H> City <.></.> was named from the temple.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <F>uhm</F> <.></.> <R>there</R> there some shops and <.></.> many houses.</B>
+<A><F>Uh-huh</F>. Do you live there alone?</A>
+<B>No. I live with my family.</B>
+<A><F>Uh-huh</F>. And tell me about your family.</A>
+<B><F>Ur</F> <F>uhm</F> <R>I</R> I live with <F>uhm</F> my parents and my older sister <F>uhm</F> and a dog.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL>. <F>Uhm</F>. <.></.> <F>Ur</F> <F>uhmm</F> <.></.> and <F>urrr</F> <.></.> <F>er</F> <F>err</F> <F>ur</F> my parents <.></.> <SC>i</SC> works together and my sister <.></.> works, too.</B>
+<A><F>Uh-huh</F>. I see. <F>Ur</F> <R>in your free</R> in your free time, what do you usually do?</A>
+<B><F>Uhmm</F> I usually <.></.> <F>uhm</F> read a book and <R>sleep</R> sleeping and watching T V</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhmm</F> <R>and</R> and go shopping</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>and</R> and so on.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F>.</B>
+<A>When you go shopping,</A>
+<B><F>Uhm</F>.</B>
+<A>do you prefer to go alone or with friends?</A>
+<B><F>Uhmm</F> <.></.> <SC>I</SC> sometimes I go alone but sometimes I go with my friends.</B>
+<A><F>Uh-huh</F>. Then after shopping,</A>
+<B><F>Uhm</F>.</B>
+<A>what do you usually do with your friends?</A>
+<B><F>Uhm</F>. <F>Ah</F> <.></.> I <.></.> eat dinner with them</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> and sometimes drink.</B>
+<A><F>Uh-huh</F>. Drink?</A>
+<B>Yeah.</B>
+<A><F>Uh-huh</F>. <F>Urr</F> when you get drunk, what happens?</A>
+<B><F>Uhmm</F>. I <.></.> usually <F>uhm</F> sleep.</B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs>. <SC>So</SC> <.></.> and <F>er</F> <.></.> <R>I</R> I went <.></.> trip with friends and I drank a lot. And after drank, I <.></.> took a bath. So <R>I</R> <nvs>cough</nvs> <F>uhm</F> I can't remember. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> <laughter><F>Oh</F> really</laughter>?</A>
+<B><laughter><??></??></laughter>.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Wow</F>. I see. O K. Now, I would like to show you a picture.</A>
+<B><F>Uhm</F>.</B>
+<A>O K? Please describe this picture.</A>
+<B>O K. <.></.> It is a room. <F>Ur</F> there is a girl sitting on the chair. <F>Uhm</F> the chair is in front of desk. And there is personal computer and facsimile on the desk. And <F>uhm</F> there two animals. One is a dog and one is a cat. And both animals is sleeping. <.></.> <F>Urr</F> dog is sleeping on the floor and cat is sleeping on the bed. And <.></.> <F>err</F> it's June. <F>Err</F> it is nine o'clock. <F>Uhm</F> and there speaker set <F>uhm</F> on the book stand and there some books. <.></.> And <SC>te</SC> <R>there</R> there is telephone in the book stand.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K. Thank you very much. Do you have your own room?</A>
+<B>Yes, <OL>I have</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. Is there anything you don't like about your room?</A>
+<B><F>Uhmm</F>. <F>Urr</F> no. I like <OL>my room</OL>.</B>
+<A><OL><F>Uhm</F></OL>. What do you like about your room?</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B><F>Oh</F> <F>ur</F> there is a closet</B>
+<A><F>Uh-huh</F>.</A>
+<B>so <.></.> <F>uhm</F> <F>uhm</F> <R>I</R> <.></.> <F>uhmm</F> I <?>keep</?> my clothes <SC>on the</SC> <F>er</F> in the closet. So <.></.> it looks <.></.> clean.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> And it looks large. <F>Uhm</F>.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Uhm</F>.</B>
+<A><laughter>So you like your closet</laughter>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><OL><laughter>I see</laughter></OL>. O K. Now, I'd like to try a role-play.</A>
+<ctxt>The interviewer is choosing a card.</ctxt>
+<A>O K. Please read this. And when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>O K.</B>
+<A>Hello.</A>
+<B>Hello. <F>Uhm</F> I want to go movie with you.</B>
+<A><F>Uhm</F>.</A>
+<B>How about you?</B>
+<A><F>Oh</F> O K. <CO>So</CO>.</A>
+<B><.></.> O K. <F>Uhm</F> so what time do you want to go?</B>
+<A><F>Oh</F> anytime is O K.</A>
+<B>Really? <F>Er</F> I want to go about noon.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And I want to go by train.</B>
+<A><F>Uh-huh</F>.</A>
+<B>How about you?</B>
+<A>O K. <OL>No problem</OL>.</A>
+<B><OL><F>Um</F></OL>. <F>Ee</F> <nvs>cough</nvs> and <.></.> <R>let's</R> let's <R>me</R> meet <F>uhm</F> twelve o'clock at noon</B>
+<A><F>Uhm</F>.</A>
+<B>at <H pn="others1">XXX03</H> Station.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>Yeah.</B>
+<A>O K.</A>
+<B>O K?</B>
+<A><OL><laughter>A bit far <?>from my place</?></laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs> <laughter>Sorry</laughter></OL>. <F>Um</F>. And let's go movie. <F>Uhm</F>. <..></..> <F>Um</F>. <OL><laughter><??></??></laughter></OL>.</B>
+<A><OL>O K</OL>. I'll see you at <H pn="others1">XXX03</H> Station.</A>
+<B>Yeah.</B>
+<A>O K. At noon. O K. Thank you very much.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. <F>Urr</F> do you like movies?</A>
+<B><F>Uhmmm</F> so-so <OL>I like</OL>.</B>
+<A><OL><F>Uhm</F></OL> which do you like better, going to the <SC>thea</SC> movie theater or renting videos?</A>
+<B><F>Er</F> I like rental video.</B>
+<A><F>Uhm</F>. Why?</A>
+<B><F>Uhm</F> it's cheaper than going to movie.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> and <.></.> <F>uhm</F> I can see <R>vi</R> video <F>uhmm</F> <.></.> <SC>slee</SC> <F>uhm</F> lying on the bed.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. <CO>And</CO>. <.></.> <F>Uhm</F>. <.></.> <OL><nvs>laughter</nvs></OL></B>
+<A><OL>On the bed</OL>? <nvs>laughter</nvs> Then you fall asleep? <nvs>laughter</nvs> O K. <F>Urm</F> <.></.> what kind of movies do you like?</A>
+<B><F>Uhmm</F> I like French movie.</B>
+<A>French movie?</A>
+<B>Yes.</B>
+<A><F>Oh</F> why French movie?</A>
+<B><OL><F>Urr</F></OL>.</B>
+<A><OL>How</OL> is it different from Japanese movies?</A>
+<B><F>Er</F> I like Japanese movie, too. But French movie <.></.> <SC>is</SC> makes me blue. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Urr</F> <F>urr</F> <.></.> Japanese movie, I think, is fun.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Ur</F></OL> but French movie is not fun. <OL>But <nvs>laughter</nvs></OL> sad and blue.</B>
+<A><OL><nvs>laughter</nvs></OL> <laughter><F>Oh</F> really</laughter>. <laughter>I see</laughter>. <laughter>Interesting</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now I would like to show you a picture. <.></.> O K. <F>Er</F></A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>this one. O K? This is the picture story. And this happened last week. So please make a story,</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><OL>start</OL> with "One day last week". O K? From one to six.</A>
+<B>O K. <F>Uhm</F>. <.></.> One day last week, <F>uhm</F> <nvs>cough</nvs> <.></.> a man and <.></.> his girlfriend is <R>wa</R> walking on the street and <SC>it's rain days</SC> it was rain day. <R>And</R> <.></.> <F>uhmm</F> and a man <.></.> heard the <.></.> <F>uhmm</F> <.></.> voice of <.></.> a cat. And <SC>it</SC> the cat was <.></.> <F>uhm</F> <..></..> putted by the <.></.> road. And <nvs>cough</nvs> <.></.> a <.></.> girlfriend <F>uhmm</F> <.></.> <SC>think</SC> <.></.> thought <F>er</F> the cat was pretty so she want to keep <.></.> that. But <SC>a man <.></.> don't</SC> <.></.> <F>er</F> a man <.></.> forbidden to keep. <.></.> But <.></.> a girlfriend <.></.> want to keep cat. And <.></.> boy <.></.> was <.></.> <F>uhm</F> <.></.> troubled, <F>uhmm</F> but <.></.> at last, allowed to keep the cat and <.></.> <F>uhm</F> go <.></.> to home with that cat.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. <F>Er</F> <H pn="B's name">XXX02</H>, you said you have a dog at home. <OL>Right</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>And I've never had any pet.</A>
+<B><F>Uh-huh</F>.</B>
+<A>What do I need to do to keep a dog?</A>
+<B><F>Uhm</F>. <.></.> What?</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> <F>Er</F> <.></.> <CO><OL><F>Er</F> <?>if</?></OL></CO>.</B>
+<A><OL>If</OL> I get a <.></.> <F>um</F> pet,</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><OL>a dog</OL>,</A>
+<B><F>Uhm</F>.</B>
+<A>what do I need to do <OL>to keep a dog</OL>?</A>
+<B><OL><F>Ahhh</F></OL> <F>uhm</F> <.></.> the most <.></.> <F>uhm</F> need is <.></.> give a dog <F>urr</F> love <F>urm</F> <R>and</R> <.></.> <F>uhm</F> <.></.> and <.></.> <R>dog</R> <.></.> <F>uhm</F> dog cannot live alone. So <nvs>cough</nvs> <.></.> you have to <.></.> <F>urm</F> <.></.> stay home <nvs>cough</nvs> <F>uhmm</F> at least <.></.> <F>uhm</F> <.></.> half a day.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <SC>I</SC> <F>uhm</F> <.></.> and <F>ah</F> <.></.> <R>y</R> <F>um</F> you don't have to give dog a delicious food.</B>
+<A>Delicious food?</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Because <SC>dog</SC> if <SC>you</SC> dog eat delicious food, <F>uhm</F> dog never eat <F>uhm</F> cheap <SC>food</SC> dog food.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> so <.></.> <R>it</R> <.></.> <F>uhm</F> it will be expensive for you.</B>
+<A><F>Ah-huh</F> I see. O K. In your family,</A>
+<B><F>Uhm</F>.</B>
+<A>who take care of your dog?</A>
+<B><F>Ah</F> <F>uhm</F> that is my mother.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>Then what do you do <nvs>laughter</nvs> <laughter>to your dog</laughter>?</A>
+<B><F>Urr</F> <.></.> <R>I'm</R> <laughter>I'm <?>talking</?> with my dog</laughter>. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A><OL><laughter>I see, thank you</laughter></OL>. O K. This is almost the end of the interview.</A>
+<B><F>Urr</F>.</B>
+<A><F>Urm</F> tell me about your plans for winter vacation.</A>
+<B>Winter vacation?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Uhmm</F></OL> <.></.> <F>ur</F> usually <R>I</R> <nvs>cough</nvs> I go snow boarding.</B>
+<A><F>Uhmm</F>.</A>
+<B><F>Uhm</F>. But this winter vacation, <F>uhm</F> maybe I can't go.</B>
+<A><F>Oh</F> you can't?</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>That's</OL> too sad.</A>
+<B>Yes.</B>
+<A>Money problem?</A>
+<B>No, no.</B>
+<A><nvs>laughter</nvs></A>
+<B>I am junior at university,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so I have to <.></.> <SC>sear</SC> <F>uhm</F> <.></.> find <.></.> future job.</B>
+<A><F>Ahh</F> I see.</A>
+<B>So <.></.> maybe I'm busy</B>
+<A><F>Uhm</F>. <R?>B</R?> busy.</A>
+<B><F>uhm</F> in winter vacation.</B>
+<A>I see. O K. Good luck on your job-hunting.</A>
+<B><nvs>laughter</nvs> <OL>Thank you</OL>.</B>
+<A><OL>O K</OL>? Thank you very much. O K. This is the end of the interview.</A>
+</stage5>
+</body>
+</interview>

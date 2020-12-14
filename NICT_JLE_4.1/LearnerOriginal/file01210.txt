@@ -1,0 +1,261 @@
+<interview>
+<filename>file01210.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category> 
+<step></step> 
+<TOEIC>950</TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>7</SST_level> 
+<SST_task2>room</SST_task2>
+<SST_task3>travel_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Let's begin. My name is <H pn="A's name">XXX01</H>. What's your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A><F>Mm</F>. <OL>O K</OL>.</A>
+<B><OL>You</OL> can call me <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. All right.</A>
+<B>Yeah.</B>
+<A>All right. So how are you, <H pn="B's name">XXX02</H>?</A>
+<B>Good.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>A bit</OL> tired, though. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. So what do you study here?</A>
+<B><F>Um</F> I study linguistics.</B>
+<A><F>Mhm</F>. O K. Do you like it?</A>
+<B>Yeah, <laughter>kinda</laughter> yeah.</B>
+<A><F>Mhm</F>. So <F>ur</F> please tell me about your favorite <R>pro</R> professor.</A>
+<B>Favorite <?>professessor</?>? <F>Mm</F> maybe <H pn="others1">XXX03</H></B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>because</OL> he is very kind to me and kinda younger than other professors.</B>
+<A><F>Hmm</F>.</A>
+<B>So pretty easier for me to talk with.</B>
+<A><F>Mhm</F>. What kind of things do you talk with him?</A>
+<B><F>Um</F> <nvs>laughter</nvs> <F>urm</F> mostly linguistics things. But <F>um</F> not really personal things, but</B>
+<A><F>Hmm</F>.</A>
+<B>just for study. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. O K. All right. So <F>ur</F> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B>I live in <H pn="others2">XXX04</H>, <F>um</F> in <H pn="others3">XXX05</H>.</B>
+<A><F>Mhm</F>. <OL>With your</OL> family?</A>
+<B><OL><??></??></OL> Yes.</B>
+<A><F>Mm</F>. O K. So please tell me about your family.</A>
+<B><F>Um</F> my family. <SC>My</SC> l have a father and mother and <SC>two sisters</SC> two older sisters. My father works in <H pn="others4">XXX06</H> for a security company.</B>
+<A><F>Hm</F>.</A>
+<B>And my mother <SC>is a</SC> <F>um</F> work as a <R>part</R> part-timer. And my two older sisters also work as a part-timer. And</B>
+<A><F>Hm</F>.</A>
+<B>that's about it. <nvs>laughter</nvs></B>
+<A><F>Mm</F>. O K. So you are the youngest in your family.</A>
+<B>Yeah. <OL>Yes</OL>.</B>
+<A><OL><F>Mm</F></OL>. How do you like being the youngest person in your family?</A>
+<B><nvs>laughter</nvs> <F>Urm</F> <SC>it</SC> <SC>my</SC> when I was like in a primary school, it was a very good situation because <R>I</R> I knew everything what I was supposed to do like in <OL>schools and everything</OL>.</B>
+<A><OL><F>Hm</F> <F>hm</F></OL>.</A>
+<B>But after I got in like high school, there is not so much of advantage. <OL>Yeah</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <OL>O K</OL>.</A>
+<B><OL><??></??></OL>.</B>
+<A>All right. So <H pn="B's name">XXX02</H>, do you have any hobbies?</A>
+<B><F>Urm</F> I like playing soccer</B>
+<A><F>Hm</F>.</A>
+<B>and maybe <SC>badminton</SC></B>
+<A><F>Hmm</F>.</A>
+<B>playing badminton. Yeah.</B>
+<A><F>Mm</F>. <F>Hm</F> badminton and soccer are very different sports, I think. Why are you interested in these two kinds of sports?</A>
+<B><F>Urm</F> when I was in <F>ur</F> second grade,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>urm</F> everybody started to do either <F>um</F> baseball or soccer. And I chose soccer for play.</B>
+<A><F>Hm</F>.</A>
+<B>And my mother was playing badminton for <SC>jus</SC> <SC>ju</SC> as <?>for my</?> hobby.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <SC>she</SC> I was just following her and started to play.</B>
+<A><F>Mhm</F>. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>All right. So first of all today, please look at this picture on your computer.</A>
+<B>O K.</B>
+<A>And please describe this picture for me.</A>
+<B><F>Urm</F> <R>it</R> it is a room. And a girl is sitting on the desk. And on the desk, there is a computer and <F>urm</F> type writer. And in the room, <SC>there is</SC> there are two pets of her maybe. And a dog is lying on the floor and the cat is sleeping <R>on</R> on the bed. And also <SC>there is</SC> <F>ur</F> what is this, <nvs>laughter</nvs> C D player, maybe.</B>
+<A><F>Hm</F>.</A>
+<B>Record player</B>
+<A><F>Mh-hmm</F>.</A>
+<B>is there. And <F>mm</F> the door is opened. <nvs>laughter</nvs></B>
+<A><F>Mm</F>. O K.</A>
+</task>
+<followup>
+<A>All right. So <H pn="B's name">XXX02</H>, do you have your own room?</A>
+<B><F>Urm</F> not really, but yeah, <laughter>I do</laughter>.</B>
+<A><laughter><F>Oh</F> what do you mean</laughter>?</A>
+<B>I do. <nvs>laughter</nvs> My room is separated with <SC>other</SC> the other room by <F>ur</F> <F>um</F> what is it, the closet things. <nvs>laughter</nvs></B>
+<A><F>Oh</F> <OL>O K</OL>.</A>
+<B><OL><SC>It's</SC></OL> <F>ur</F> <SC>i</SC> <SC>th</SC> it's not really <F>ur</F> my own room, but it is</B>
+<A><F>Uh-huh</F>.</A>
+<B>kinda separated.</B>
+<A><F>Mhm</F>. O K. So <F>ur</F> please compare this room <F>ur</F> on the computer monitor with your own room.</A>
+<B><F>Um</F> this room on the computer is much wider than my own room.</B>
+<A><F>Hm</F>.</A>
+<B>And I do not have any C D player's things in my room. And <F>um</F> I don't have any pets.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>um</F> my room is much more messy</B>
+<A><nvs>laughter</nvs></A>
+<B>than this one.</B>
+<A><nvs>laughter</nvs> O K. All right. So do you want to have your <SC>own room</SC> <F>mm</F> real own room?</A>
+<B>Yeah, kind of yeah. <nvs>laughter</nvs> Because <SC>my</SC> <SC>the</SC> all the sounds and things are, you know, going out and <SC>going in</SC> coming in from the other and to the other room.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>So</OL> I want one. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. So next, <F>ur</F> we'll do a role-play. Please read the instruction on your computer monitor. It's written in Japanese. And when you are ready, I'll begin.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading for a while.</ctxt>
+<B><JP>Hai</JP>.</B>
+<A>Ready?</A>
+<B><OL>All right</OL>.</B>
+<A><OL>O K</OL>. This is the telephone conversation. Trun, trun. Hello, A B C travel, may I help you?</A>
+<B>Hello, <SC>there</SC> <F>um</F> <SC>I'm in</SC> I participated in a tour</B>
+<A><F>Mm-hm</F>.</A>
+<B>of your company.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And there are many different things from <SC>the</SC> what it says on the <F>um</F> ads <SC>fro</SC> and what actually it was. <CO>So</CO>.</B>
+<A><F>Oh</F> <OL>really</OL>?</A>
+<B><OL><F>Um</F></OL>. <OL><CO>I want</CO></OL>.</B>
+<A><OL><F>Mm</F> <F>er</F> <R>wh</R> what was</OL> so different?</A>
+<B><nvs>laughter</nvs> I don't know, <SC>the</SC> <nvs>laughter</nvs> what's so different.</B>
+<A><F>Mm</F>.</A>
+<B><nvs>laughter</nvs> <F>Ur</F> <.></.> <nvs>laughter</nvs> what's so <laughter>different</laughter>.</B>
+<A><CO>Was there any problem in the hotel or transportation or restaurant or</CO>?</A>
+<B>I thought <R>ho</R> hotel was much <F>um</F> <SC>beau</SC> more <SC>beautiful than</SC> beautiful when I saw the ad.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>But</OL> that was not really <nvs>laughter</nvs> as good <?>as</?> <R>what</R> what <SC>it</SC> ad said. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. But did you complain to the hotel?</A>
+<B><F>Um</F> yeah, but <SC>it was</SC> <F>ur</F> <SC?>as</SC?> they said, it was a part of the tour so</B>
+<A><OL><??></??></OL>.</A>
+<B><OL>did not say</OL> anything about that. And <R>ask</R> ask me to complain for the company. <OL>So I'm</OL> calling.</B>
+<A><OL><F>Oh</F></OL> <F>oh</F> really? But that tour is over and there is really <F>mm</F> <F>ur</F> not much I can do for you now.</A>
+<B><nvs>laughter</nvs> <F>Urr</F> <.></.> <??></??> <nvs>laughter</nvs> <OL><??></??></OL>.</B>
+<A><OL>So</OL> what should I do? What do you <R>w</R> want us to do?</A>
+<B><nvs>laughter</nvs> <F>Um</F> <nvs>laughter</nvs> I don't have any time <R>for</R> <F>ur</F> for going again so can you <F>urm</F> <.></.> pay me <SC>in some</SC> to some extent <SC>that</SC> <F>um</F> to match the expense of what I thought and what</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>it</OL> actually was?</B>
+<A>O K. All right. But I need to talk to my manager, but my manager is out of town.</A>
+<B><F>Mm-hm</F>.</B>
+<A><OL>So</OL></A>
+<B><OL><CO>So</CO></OL>. <nvs>laughter</nvs></B>
+<A><F>mm</F> what should I do?</A>
+<B>Can you do <?>at least</?> as much as you can do? <nvs>laughter</nvs></B>
+<A>O K. <OL><laughter>All right</laughter></OL>. <F>Ur</F> I'll send him an E-mail.</A>
+<B><OL><??></??></OL>.</B>
+<A>And then I might get something from him.</A>
+<B>All right.</B>
+<A>O K. All right. Sorry for the trouble. I'll call you back.</A>
+<B>O K.</B>
+<A>O K.</A>
+<B>Thank you.</B>
+<A>All right. <F>Hm</F>. <?>Right</?>.</A>
+</task>
+<followup>
+<A>O K. This is the end of the role-play. All right. So <F>ur</F> have you been abroad?</A>
+<B>Yes.</B>
+<A><F>Mm</F>. <F>Ur</F> when was the last trip you took in a foreign country?</A>
+<B><F>Um</F> it was like <R>one year</R> <F>mm</F> one year ago</B>
+<A><F>Mm-hm</F>.</A>
+<B>to the United States</B>
+<A><F>Mhm</F>.</A>
+<B>to see my friends and host family.</B>
+<A><F>Mm</F>. Can you tell me more about that last trip?</A>
+<B><F>Urm</F> <SC>in</SC> that was in March and <SC>I went</SC> <F>ur</F> my driver's license in <H pn="others5">XXX07</H> was expired so I needed to <F>um</F> <F>urm</F> <SC>what</SC> <.></.> re-date the driver's license. So I went to <H pn="others5">XXX07</H> to see my host family and to re-issue the license. And I stayed at my host family's house,</B>
+<A><F>Hm</F>.</A>
+<B>and went to <F>ur</F> national park and things. And then I went to California to see my friends at <F>um</F> <R>Ss</R> San Diego.</B>
+<A><F>Hm</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL>And</OL> I stayed in my friends' house for <F>ur</F> one week to just play with them.</B>
+<A><F>Mm</F>.</A>
+<B><CO>Was fun but</CO>.</B>
+<A><F>Mhm</F>. O K. All right. So <F>ur</F> why did you decide to go back to the United States <F>ur</F> other than <F>er</F> renewing your driver's license?</A>
+<B><F>Urm</F> I wanted to see my high school <SC>when I was a</SC> when I participated in <F>ur</F> an exchange program. And I wanted to see my friends <SC>at</SC> in <H pn="others5">XXX07</H>. And <SC>I had not been</SC> I had not seen my friends in California for like <R>two</R> two years so I went to see him.</B>
+<A><F>Mm</F>.</A>
+<B>That's</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL>about it</OL>.</B>
+<A><F>Mhm</F>. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So lastly, we'll do another picture. <F>Mm</F> please look at this picture. There are six small pictures. And please make up a story based on these six pictures from one to six. And please start your story with "One day last week" because this happened before.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>Can I start?</B>
+<A>Sure.</A>
+<B>O K. One day last week, we planned to go to <F>ur</F> camp. And then we made a camp and started cooking. But it began to rain, and <F>um</F> the rain was too hard. And we just <nvs>cough</nvs> <F>ur</F> decided to move <F>um</F> <SC>leaving camp</SC> leaving the camp and stuff there.</B>
+<A><F>Hm</F>.</A>
+<B>And we found a hotel <SC>near the camp</SC> near <SC>the</SC> where we were trying to camp. And we just relaxed at the hotel. <nvs>laughter</nvs></B>
+<A><F>Mh-hmm</F>. <laughter>O K</laughter>. All right. Thank you.</A>
+</task>
+<followup>
+<A>So have you ever tried camping?</A>
+<B><F>Ur</F> yes.</B>
+<A><F>Mm</F>. When was that?</A>
+<B><F>Urm</F> like when I was a junior high school student,</B>
+<A><F>Hm</F>.</A>
+<B>I was a member of boy scout.</B>
+<A><F>Mhm</F>.</A>
+<B>So I did many camping.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And when I went to United States for the first time,</B>
+<A><F>Hm</F>.</A>
+<B>also my host father liked camping so</B>
+<A><F>Mhm</F>.</A>
+<B>we went camping.</B>
+<A>What was different about American camping from Japanese camping?</A>
+<B><F>Mhm</F> <F>um</F> usually Japanese camping, <F>um</F> there are certain places to camp.</B>
+<A><F>Hm</F>.</A>
+<B>But in United States, there is not a certain place, it's just make a camping, sleep there, right? <OL><CO>So</CO></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><nvs>laughter</nvs></B>
+<A>Which do you like better?</A>
+<B>The latter, maybe,</B>
+<A><F>Oh</F>.</A>
+<B>because it's more close to the nature.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because <R>it's a</R> it's a idea of camping, right?</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL>So</OL></B>
+<A><OL><??></??></OL>.</A>
+<B><OL>I like</OL> the latter one better.</B>
+<A><F>Mhm</F>. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right, <H pn="B's name">XXX02</H>. <F>Ur</F> we have come to almost the end of the interview. So are you going home right now after <OL>this</OL> interview?</A>
+<B><OL>No</OL>.</B>
+<A><F>Mm</F>.</A>
+<B>No. <OL>I go</OL> for drinking.</B>
+<A><OL><CO>So</CO></OL>. <F>Mm</F>?</A>
+<B>I go for a drink.</B>
+<A><F>Oh</F> really? Where are you going?</A>
+<B>Shinjuku.</B>
+<A><F>Mhm</F>. Do you often go drinking in Shinjuku?</A>
+<B><F>Urm</F> not really. We usually go drinking near Yotsuya Station. <CO>But</CO>.</B>
+<A><F>Oh</F>. So</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>is it a</OL> year-end party?</A>
+<B>Yeah. For a circle <R>I'm</R> I'm in.</B>
+<A><F>Mm</F>. O K. So how many people will attend the party?</A>
+<B>Tonight, <F>urm</F> maybe eighteen.</B>
+<A><F>Mhm</F>. <F>Wow</F> it's a big group. O K. <F>Ur</F> thank you very much, <H pn="B's name">XXX02</H>. This is the end of the interview. You can leave the room right now. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

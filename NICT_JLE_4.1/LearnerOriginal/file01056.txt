@@ -1,0 +1,189 @@
+<interview>
+<filename>file01056.txt</filename>
+
+<head version="1.3">
+<date>2002-03-07</date>
+<sex>female</sex>
+<age>48</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good. Let's get started. Good morning. <OL><R>My name is</R></OL></A>
+<B><OL>Good morning</OL>.</B>
+<A>my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ar</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Miss <H pn="A's name">XXX01</H>.</A>
+<B>Yes.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B><F>Ahm</F> I'm fine, but I'm an allergy sufferer. <nvs>laughter</nvs></B>
+<A><F>Oh</F> <F>oh</F>.</A>
+<B>Yes.</B>
+<A>I see.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>I see</OL>. So how do you like spring?</A>
+<B><F>Arm</F> <F>ar</F> I like <SC>sk</SC> spring, <F>mm</F> but <F>mm</F> my condition is very bad.</B>
+<A><F>Mm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>So how do you take care of yourself?</A>
+<B><F>Ahm</F>. I always take a medicine.</B>
+<A><F>Oh</F> I see.</A>
+<B>Twice a day,</B>
+<A><F>Ah</F>.</A>
+<B>morning and night.</B>
+<A><F>Oh</F>. Must be difficult for you. <F>Ah</F> what do you do?</A>
+<B><F>Mm</F>. <..></..></B>
+<A><F>Ah</F> like, do you have a job?</A>
+<B><F>Ah</F> no.</B>
+<A>O K, so what do you do?</A>
+<B><F>Ah</F>. I'm housewife.</B>
+<A>Can you tell me about your daily schedule?</A>
+<B><F>Ah</F> daily <R>sch</R> schedule? <nvs>laughter</nvs> <F>Ahm</F> <F>mm</F> <R>I</R> I always <F>uhm</F> cook <R>and</R> and <R>clean</R> clean the rooms and take care of my families.</B>
+<A>Take care of your families. How exactly do you take care of them?</A>
+<B><F>Mm</F>. <F>Ahm</F>. <.></.> I have two daughters.</B>
+<A><F>Hum</F>.</A>
+<B>And they are college students. <F>Ah</F> so <F>um</F> <R>I</R> <F>um</F> <.></.> I always <F>um</F> cook <F>er</F> for them and my husband.</B>
+<A>Can you tell me about your daughters?</A>
+<B><F>Ahm</F>. <F>Ahm</F> <SC>one</SC> <F>ahm</F> the elder daughter is <F>er</F> twenty-one years old. And now she is <F>um</F> busy for <F>um</F> job hunting.</B>
+<A><F>Hum</F>.</A>
+<B>And <F>ah</F> the other one is twenty years old. <F>Ahm</F> she is now very relaxed. <F>Um</F>. <R>Now</R> <F>er</F> <SC>now she is</SC> <F>ah</F> <F>er</F> but <F>ur</F> she is <F>um</F> busy for <F>um</F> part-time job.</B>
+<A>I see. So <F>er</F> your first daughter is busy job hunting.</A>
+<B>Yes.</B>
+<A>What exactly is she doing to find a job?</A>
+<B><F>Ah</F>. <F>Ahm</F> her major is law.</B>
+<A><F>Hum</F>.</A>
+<B><F>Ahm</F> <R><R>she</R> she want</R> <F>er</F> <SC>she want</SC> she wants to become a <F>um</F> paralegal. So <F>er</F> she wants to work in firm office. <F>Um</F>.</B>
+<A><F>Hum</F>.</A>
+<B><.></.></B>
+<A>So what is she doing to find a job?</A>
+<B><F>Ahm</F>. <SC>She is</SC> <F>hum</F> <.></.> <F>um</F> <F>ah</F> <F>ah</F> <R>now <F>um</F> <R>s</R> she</R> <F>um</F> <..></..> <F>ah</F> <F>er</F> <SC>now she calls the</SC> <F>um</F> <.></.> <F>ah</F> I'm sorry, <F>ahm</F> now <F>um</F> <SC>she use the</SC> <F>um</F> <.></.> <SC>she use</SC> <R>she</R> she uses the <F>um</F> personal computer.</B>
+<A><F>Oh</F> I see, <R>I see</R>.</A>
+<B><R>Yes</R>.</B>
+<A>O K. Alright. Good. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now <F>uhm</F> Ms <H pn="B's name">XXX02</H>, first of all, I would like to show you a picture. O K? <nvs>cough</nvs> <F>Hm</F>. Let's do this. Here is a picture for you. Take a look at it and please describe this picture for me.</A>
+<B><F>Hum</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A>Tell me what you see.</A>
+<B><F>Mm-hum</F>. <F>Ahm</F>. <.></.> <F>Ar</F> there is a nice house. <F>Ar</F> this house is very big and fine. And it's fine. <F>Um</F> <F>ar</F> the weather is very fine. <F>Um</F> and <F>er</F> <..></..> <F>er</F> I think it is <F>um</F> <SC>Sunday or</SC> Saturday or Sunday <F>er</F> because <F>um</F> <F>um</F> peoples are very <SC>relaxed</SC> relax. <F>Um</F>. Childrens are playing <F>um</F> on their <.></.> garden and <F>um</F> a man is jogging on the road. <F>Un</F>. Two womens are speaking <..></..> <F>un</F> on the road. <CO>And</CO>. <F>Um</F>.</B>
+<A><nvs>cough</nvs> Excuse me.</A>
+<B><F>Um</F>. A man on a chair <F>un</F> is reading the paper on his <F>um</F> garden.</B>
+<A>O K. Alright. Good. Thank you very much.</A>
+</task>
+<followup>
+<A>Now, <F>er</F> <R>Ms</R> Ms <H pn="B's name">XXX02</H>, do you live <R>in</R> <.></.> in a house?</A>
+<B>Yes.</B>
+<A>O K. Can you tell me the difference between this house and your house?</A>
+<B><F>Ahm</F> <.></.> <F>er</F> the house <F>um</F> in this picture is very bigger than my house. <F>Um</F> <.></.> and this house has a bigger room. <F>Um</F>. My house has no garden. <F>Ahm</F> I have <F>am</F> no pets.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A><nvs>cough</nvs> Excuse me.</A>
+<B><F>Ah</F> this house has very nice entrance.</B>
+<A><F>Hm</F>.</A>
+<B><F>Um</F>. <..></..></B>
+<A>O K, alright, thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now next, I would like to do a role-play. Let's see. <.></.> Alright. Let's do this. Here is a card for you. Just take a look at it. It's written in Japanese, so please read it to yourself. When you are ready, I'll begin. <nvs>cough</nvs> Excuse me.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<ctxt>The interviewee is still reading the card.</ctxt>
+<B><F>Um</F>. Yes.</B>
+<A>O K? Good. Good morning, ma'am. How may I help you?</A>
+<B><F>Ah</F> yes. <F>Ahm</F> I have to go to New York. <F>Ahm</F>. <..></..> <F>Um</F>. <..></..></B>
+<A>Yes.</A>
+<B><F>Um</F> <F>um</F> <.></.> <F>ahm</F> <.></.> <F>er</F> <SC>I have</SC> <F>er</F> <F>er</F> I don't have <F>um</F> enough time, <.></.> <F>un</F> so <F>un</F> I want to take a train <F>um</F> fast. <F>Um</F>. <..></..> <F>Um</F>. <F>Ah</F> <F>er</F> please tell me <F>er</F> <R>what</R> <F>mm</F> what train <F>um</F> can I take?</B>
+<A>O K. <F>Ahm</F> there are two different types of trains. Both are going to New York.</A>
+<B><F>Um</F>. <CO>I want to <F>um</F> <.></.> <F>um</F> get in the train <F>um</F> <.></.> <?>return</?></CO>. <F>Er</F>. <F>Um</F>.</B>
+<A><nvs>cough</nvs></A>
+<B><F>Ah</F> <.></.> <F>er</F> <R>which</R> <F>er</F> which is faster <F>hm</F> to go to New York?</B>
+<A>O K. In that case, express train is faster.</A>
+<B><F>Hum</F>. <F>Ahm</F> I want to take a express train.</B>
+<A>O K.</A>
+<B><F>Ah</F>. <F>Um</F> where can I get a ticket?</B>
+<A><F>Oh</F> you can buy it from me.</A>
+<B><F>Hum</F>. How much is it?</B>
+<A>O K, <F>er</F> express train, one way?</A>
+<B><F>Ahm</F> yes, one way. <OL>One way, please</OL>.</B>
+<A><OL>One-way ticket</OL> is thirty dollars.</A>
+<B>Thirty dollars.</B>
+<A><F>Mm-hum</F>.</A>
+<B>Yes. <F>Ahm</F>. I pay you thirty dollars.</B>
+<A>O K. So one ticket.</A>
+<B>Yes.</B>
+<A>O K. Here is a ticket for you.</A>
+<B><F>Mm-hum</F>. Thank you.</B>
+<A>O K. Enjoy your trip.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much. Can I have the card back? This is the end of the role-play.</A>
+</task>
+<followup>
+<A>Now, <F>ar</F> have you been abroad before?</A>
+<B><F>Ah</F> yes.</B>
+<A>Which country did you go?</A>
+<B><F>Ahm</F>. <nvs>laughter</nvs> <F>Ahm</F> <R>I</R> <R>I ha</R> I have lived in <H pn="others1">XXX03</H>.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>How did you like the life in <H pn="others1">XXX03</H>?</A>
+<B><F>Ahm</F> <SC>I</SC> <F>um</F> <.></.> <F>er</F> it was the first time <F>er</F> <R>to live</R> to live abroad. <F>Um</F>. <F>Um</F>. First year, <F>er</F> I was <F>um</F> very nervous. <F>Mm</F> but <SC>s</SC> <F>um</F> from second year, <F>um</F> <SC>I was</SC> <F>um</F> I enjoyed myself very much.</B>
+<A>How did you spend your time?</A>
+<B><F>Ahm</F>. I made a friends. And <SC>I'm take</SC> I took a tennis lesson and <F>um</F> I played golf with my husband and I studied English conversation.</B>
+<A>I see, I see. <F>Well</F> I'm glad you enjoyed that.</A>
+<B>Yes.</B>
+<A>Good. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now lastly, I would like to <F>um</F> show you sequence of pictures. <F>Um</F>. O K. Here is a card for you. And these are sequence of pictures. And I would like you to make up a brief story based on these pictures from number one to six. And this happened before, so please start your story with "One day last week".</A>
+<B>Yes. <OL><F>Hum</F></OL>.</B>
+<A><OL><nvs>cough</nvs></OL> Excuse me.</A>
+<B><F>Ah</F> one day last week, I went to the department store. <F>Um</F>. <F>Ahm</F> because <F>ahm</F> <F>ahm</F> my husband's birthday <F>um</F> was coming soon. And <.></.> I bought a necktie <F>er</F> for him. <R>And</R> <..></..> <F>um</F> and <F>um</F> I asked <F>um</F> a person in the store <F>er</F> to wrap for <.></.> gift and <F>um</F> paid money. <F>Ah</F> on the way to <R>my home</R> my home, <nvs>cough</nvs> I found the <F>um</F> final sale. <F>Um</F> <F>ar</F> <R>they</R> they were <F>um</F> much cheaper than usual. <F>Um</F>. <nvs>sigh</nvs> <R>I</R> <.></.> <F>un</F> I bought <F>um</F> some shoes and some wears <F>er</F> for myself. And <R>I</R> <F>um</F> I brought <F>um</F> several package <.></.> and <F>um</F> got back home.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Now, <F>ah</F> Ms <H pn="B's name">XXX02</H>, how do you usually celebrate your husband's birthday?</A>
+<B><F>Um</F>. <.></.> <F>Er</F> <R>I</R> <.></.> <F>um</F> <.></.> <F>er</F> <R>I</R> I cook <F>er</F> <F>um</F> <.></.> my husband favorite food. And <F>um</F> my daughters and I <F>um</F> buy something for him.</B>
+<A>I see. I see. Can you tell me about the last present you got for him?</A>
+<B><F>Ahm</F>. <F>Ahm</F> my husband <F>um</F> <F>um</F> likes to play golf and tennis, <F>er</F> so <F>um</F> I bought him a warm-up suit.</B>
+<A><F>Um</F>. I see. I see. <F>Well</F> he must be a very active man.</A>
+<B>Yes.</B>
+<A>Great. Great. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now, <F>er</F> <R>Ms</R> Ms <H pn="B's name">XXX02</H>, this is almost the end of the interview,</A>
+<B><F>Hm</F>.</B>
+<A>but it's a beautiful day today.</A>
+<B>Yes.</B>
+<A>So what's your plan after this interview is over?</A>
+<B><F>Ahm</F>. <F>Er</F> after lesson, <F>un</F> <R>I</R> I'm going to Shinjuku to meet my daughters.</B>
+<A><F>Oh</F> so what are you going to do?</A>
+<B><F>Ar</F> <F>arm</F> my daughter wants to buy a bag.</B>
+<A><F>Hum</F>. So you have to take a look at it.</A>
+<B>Yes.</B>
+<A>I see. I see. <F>Well</F> I sure hope that you can find a nice bag <?>for her</?>.</A>
+<B><F>Oh</F> thank you.</B>
+<A>Good. Thank you very much. This is the end of the interview.</A>
+<B>Thank you very much.</B>
+<A>O K.</A>
+</stage5>
+</body>
+</interview>

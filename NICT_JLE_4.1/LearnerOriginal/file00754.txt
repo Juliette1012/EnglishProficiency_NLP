@@ -1,0 +1,152 @@
+<interview>
+<filename>file00754.txt</filename>
+
+<head version="1.3">
+<date>2001-10-24</date>
+<sex>female</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>540</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's start. Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><JP><F>Eeto</F></JP> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B>I'm fine, thank you.</B>
+<A><F>Uhu</F>. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Uhu</F>. Do you live there with your family?</A>
+<B>Yes.</B>
+<A><.></.> <F>Um</F>. Would you tell me about your family?</A>
+<B>My family <.></.> is four. <F>Err</F> my father and mother <.></.> and little brother and me.</B>
+<A><F>Uhu</F>. Tell me a little more about your brother.</A>
+<B>Brother? <F>Err</F> my brother is twenty-two years old. <JP><F>Eeto</F></JP> <SC>she</SC> <F>er</F> <R>he</R> <F>um</F> he has a <.></.> job.</B>
+<A><F>Uhu</F>.</A>
+<B><CO><F>Er</F> <R>his</R> his job is</CO>. <..></..> <JP>Chotto wakannai</JP>. <JP>Chotto eigode hyogendekinai</JP>.</B>
+<A>O K.</A>
+<B><JP>Hai</JP>. <JP>Kensetsu gaisha</JP> <CO><OL><laughter>I don't</laughter></OL></CO>.</B>
+<A><OL><nvs>laughter</nvs> That's O K</OL>.</A>
+<B><OL><laughter>Hai</laughter></OL>.</B>
+<A><F>Uhu</F>.</A>
+<B><JP>Hai</JP>. <..></..></B>
+<A>Do you like him?</A>
+<B><F>Er</F> yes. Very much.</B>
+<A><F>Uhu</F>.</A>
+<B><JP>Hai</JP>.</B>
+<A>O K. Then <H pn="B's name">XXX02</H>, do you have any hobbies?</A>
+<B>Yes. My hobby is <F>um</F> dancing flamenco.</B>
+<A><F>Um</F>.</A>
+<B><.></.> <F>Hm</F>. <R>I</R> I learn it when I was <.></.> twenty years old.</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> <R>I</R> <R>I</R> I practice it once a week. <JP><F>Eeto</F></JP> one lesson <.></.> lasts two hours.</B>
+<A><F>Uhu</F>. <F>Hm</F>. Why do you like that dance?</A>
+<B><F>Uum</F>. <JP><F>Uunto</F></JP> flamenco is different from other dance. Because flamenco is <.></.> <R>dy</R> dynamic.</B>
+<A><F>Uhu</F>.</A>
+<B><..></..> <R>I</R> I can <R>ref</R> refresh. <..></..></B>
+<A>O K. Thank you very <OL>much</OL>.</A>
+<B><OL><F>Err</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. I'd like to show you a picture.</A>
+<B>Yes.</B>
+<A>Please tell me about this picture. <.></.> Please describe it.</A>
+<B>In this room, <F>uum</F> <.></.> there are one girl and one dog and one cat. <F>Um</F>. The girl is <R>sitting</R> <.></.> sitting the chair. And <..></..> the cat is <.></.> on the bed. <.></.> The dog is <R>be</R> <R>beside</R> <.></.> beside the bed. <..></..> <R>The</R> <.></.> the season is June. <R>It's</R> <.></.> it's <..></..> nine o'clock.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. <H pn="B's name">XXX02</H>, is this room similar to your room?</A>
+<B><.></.> Yes.</B>
+<A>Yes? Are there any different things?</A>
+<B><JP><F>Uunto</F></JP> <SC>my</SC> there isn't <SC>a</SC> <F>er</F> the typewriter <R>in</R> in my room.</B>
+<A><F>Uhu</F>.</A>
+<B><R>I</R> <..></..> <R>I</R> <.></.> I don't have cat and dog.</B>
+<A><F>Mh-hmm</F>. <..></..> O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, we are going to do a role-play. O K. Now, please read this card to yourself. And when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? O K. Hello. May I help you?</A>
+<B>I want <F>um</F> nice, <R>classic</R> classic skirt.</B>
+<A><F>Uhu</F>.</A>
+<B>And <..></..> <R>I</R> <R>I</R> <JP><F>eeto</F></JP> I want <JP><F>eeto</F></JP> <.></.> orange color <R>s</R> skirt.</B>
+<A><.></.> Yes. We have a lot of skirts. And these skirts are very classical type. And you can find orange ones.</A>
+<B><.></.> <R>I</R> <.></.> <R>I want</R> <..></..> I want <R>textu</R> texture of nylon.</B>
+<A>All right. <..></..> How about this one?</A>
+<B><..></..> Do you have <R>more</R> <.></.> <R>more</R> <.></.> <R>more</R> <R>more</R> <.></.> <R>more</R> <JP><F>uunto</F></JP> more <R>lon</R> longer skirt?</B>
+<A><F>Err</F>. Let me check. <F>Er</F> how about this one?</A>
+<B><F>Err</F>. <F>Oh</F> nice. <F>Er</F> but <R>I want</R> <.></.> <R>I want flared skirt</R> <F>er</F> <.></.> <R>I</R> I want flared skirt. <R>The</R> <R>the other</R> <.></.> the other condition is the same.</B>
+<A><F>Well</F> then, please take a look. And if you find a good one, please bring it to me. O K?</A>
+<B>O K.</B>
+<A>O K.</A>
+<B><OL><JP>Hai</JP></OL>.</B>
+<A><OL>Thank you</OL>. All right.</A>
+<B><OL><JP>Hai</JP></OL>.</B>
+<A><OL>Thank you</OL> very much. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>Do you like shopping?</A>
+<B>Yes. Very, very much.</B>
+<A><F>Uhu</F>. Where is your favorite place to shop?</A>
+<B>Shop? <F>Erm</F> <H pn="others2">XXX04</H>.</B>
+<A><F>Uhu</F>.</A>
+<B>Isetan,</B>
+<A><F>Uhu</F>.</A>
+<B>Takashimaya,</B>
+<A><F>Uhu</F>.</A>
+<B>Marui.</B>
+<A>Why do you like <H pn="others2">XXX04</H>?</A>
+<B><H pn="others2">XXX04</H>. <F>Er</F> <R>I</R> <F>um</F> <..></..> <F>er</F> I take a train <F>um</F> <R>from <H pn="others2">XXX04</H></R> <??></??> from <H pn="others2">XXX04</H> to <H pn="others3">XXX05</H>.</B>
+<A><F>Uhu</F>.</A>
+<B>So <SC>I</SC> <..></..> <R>when I</R> <..></..> <R>when I go</R> when I go home, I always use <H pn="others2">XXX04</H> Station.</B>
+<A><F>Uhu</F>.</A>
+<B>So <??></??> <..></..> to shopping in <H pn="others2">XXX04</H> is very nice for me.</B>
+<A><F>Er</F> I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'd like to show you one more picture. Actually, it's a picture sequence. I'd like you to make up a story from one to four. And this happened last week. So please start your story with "One day last week," O K? Start.</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a moment.</ctxt>
+<B>Last week, <.></.> <JP><F>eeto</F></JP> <..></..> <R>I</R> <.></.> I went to the zoo <R>with my</R> with my boyfriend <..></..> <SC>on Wednesday</SC> <..></..> <R>on last</R> on last Wednesday. <.></.> We watched the <.></.> lion. <..></..> Next, <R>we</R> <.></.> we watched <.></.> the monkey with <.></.> eating banana. While <R>we</R> <R>we wat</R> we watched the <..></..> monkey, <SC>I <.></.> eat</SC> <F>er</F> I ate ice cream. <..></..> And <R>we</R> <..></..> we said good-bye. <..></..> <JP>Chotto wakannai</JP>. <JP>Sumimasen</JP>.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So the interview is almost over. And tomorrow, you don't have any classes. So what are you going to do?</A>
+<B><JP><F>Uunto</F></JP>.</B>
+<A><F>Mh-hmm</F>. Tomorrow is a school holiday. Right?</A>
+<B><R>I</R> <.></.> <SC>I do</SC> <F>er</F> I will do <R>part</R> part-timer job.</B>
+<A><F>Er</F> really? What kind of job?</A>
+<B>Job? <JP><F>Eeto</F></JP>. It's the <.></.> Japanese <JP>sushi</JP> shop.</B>
+<A><F>Err</F> really? Do you like <JP>sushi</JP>?</A>
+<B>Yes. <F>Eh</F> I like <.></.> <JP>sushi</JP> very much.</B>
+<A><F>Uhu</F>. Can you have <JP>sushi</JP> when you have a part-time job?</A>
+<B>Yes. <F>Err</F> when I finish the job,</B>
+<A><F>Uhu</F>.</A>
+<B><.></.> I can eat <.></.> <JP>sushi</JP> with other part timers.</B>
+<A><F>Uum</F>. I see. You have a good job. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes</OL>.</B>
+<A>O K. Thank you very much.</A>
+<B><F>Er</F> <JP>hai</JP>. <OL><JP>Arigatougozaimasu</JP></OL>.</B>
+<A><OL>Interview is over</OL>. Thank you.</A>
+</stage5>
+</body>
+</interview>

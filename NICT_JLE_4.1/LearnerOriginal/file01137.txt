@@ -1,0 +1,205 @@
+<interview>
+<filename>file01137.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>2</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hi. My name is <H pn="A's name">XXX01</H>. <F>Er</F> may I <R>ha</R> have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mh-hmm</F>. <F>Er</F> can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A><F>Mh-hmm</F>. So <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>How are you?</B>
+<A><F>Hmm</F>?</A>
+<B><laughter>How are you</laughter>?</B>
+<A><F>Mh-hmm</F>. I'm fine, thank you. O K. <F>Erm</F> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Ah</F> I'm from <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F> you are from <H pn="others1">XXX03</H>?</A>
+<B>Yeah.</B>
+<A><F>Oh</F>. Tell me about your hometown.</A>
+<B>Yeah. <F>Mm</F> my hometown <F>mm</F> <.></.> in winter is very cold. <SC>In</SC> <SC>it's a</SC> <F>mm</F> it's a snow. <F>Mmm</F>. <F>Mm</F> and <JP>Kamakura</JP> <??></??>. <nvs>laughter</nvs></B>
+<A><F>Mhm</F>. So <F>er</F> which do you like better, winter in <H pn="others2">XXX04</H> or winter in your hometown?</A>
+<B>My hometown.</B>
+<A><F>Ah</F>. Why do you like <SC>your</SC> <F>ur</F> winter in your hometown?</A>
+<B><F>Ah</F>. <F>Er</F> <SC>I can</SC> <F>ah</F> I want to skiing.</B>
+<A><F>Ahh</F>. Are you a very good skier?</A>
+<B><laughter><F>Eh</F> no</laughter>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> What is good about skiing?</A>
+<B><JP><F>Eh</F></JP>?</B>
+<A>What is good about skiing?</A>
+<B><laughter>Skiing</laughter>. <F>Mm</F>. <F>Mm</F>. Interesting.</B>
+<A><F>Ur</F> so how do you like skiing?</A>
+<B>How? <F>Eh</F>. <nvs>laughter</nvs></B>
+<A><F>Ah</F> O K. <OL>Then never mind</OL>.</A>
+<B><OL><laughter>Sorry</laughter></OL>.</B>
+<A><F>Er</F> O K. By the way, <F>er</F> what is your hobby?</A>
+<B>My hobby is playing the piano.</B>
+<A><F>Mmm</F>. <F>Er</F> how do you like playing the piano? Do you like <SC>very</SC> it very much?</A>
+<B><F>Mmm</F>. Yes, very <F>mm</F>.</B>
+<A>I see. Why <SC>are</SC> did you become interested in playing the piano?</A>
+<B><F>Er</F> <F>er</F> when I'm child and watching T V, <F>mm</F> <F>mm</F> pianist play piano.</B>
+<A><F>Hmm</F>.</A>
+<B><?>And so</?> wonderful, I think. <nvs>laughter</nvs></B>
+<A>I see. <F>Hmm</F>. That's good. <F>Erm</F> <SC>di</SC> tell me about your family.</A>
+<B><F>Ah</F>. <nvs>cough</nvs> My family is father and mother. And <F>mm</F> <F>mm</F> my father is <F>mm</F> <R>ve</R> very gentle. <F>Mm</F>. Every weekend, <F>erm</F> <nvs>laughter</nvs> go out with family. And mother at home. <F>Er</F> she have <SC>very</SC> a lot of hobby, <F>mm</F> patch work, swimming, skiing.</B>
+<A>I see. <F>Hmm</F>. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I want you to <F>urm</F> look at this picture. And please describe this picture.</A>
+<B><F>Erm</F>. <nvs>cough</nvs></B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<A>Tell me anything.</A>
+<B><laughter><F>Er</F></laughter>. <F>Eh</F> <OL><F>mmm</F></OL>.</B>
+<A><OL>Anything is O K</OL>.</A>
+<B><laughter>Restaurant</laughter>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mmm</F>. <laughter>And</laughter> <R>he</R> he drink wine <F>mm</F> and <..></..> <F>mm</F> dressed up. <F>Mm</F>. <F>Erm</F> <R>ss</R> she play the piano. And he explaining about wine. <F>Mm</F>. <.></.> <F>Mm</F>.</B>
+</task>
+<followup>
+<A>O K. Thank you. <F>Er</F> tell me about your favorite restaurant.</A>
+<B><CO><F>Eh</F> <laughter>favorite rest</laughter></CO>. <F>Eh</F> I don't know well. <F>Mm</F>. <F>Mhm</F>.</B>
+<A>O K. Then <F>er</F> what kind of food do you like?</A>
+<B><F>Ah</F>. <nvs>cough</nvs> I like curry rice.</B>
+<A>Curry rice. Why do you like curry?</A>
+<B><F>Mhm</F> <F>mm</F> I like hot food.</B>
+<A><F>Hmm</F>.</A>
+<B><CO>So</CO>. <nvs>laughter</nvs></B>
+<A>I see. <F>Hmm</F>. When you eat <F>er</F> hot food, what do you do?</A>
+<B><nvs>laughter</nvs></B>
+<A>Because it's very hot, <CO>do you drink water a lot or</CO>?</A>
+<B><F>Ah</F> drink water.</B>
+<A><F>Mm-hm</F>. <F>Mm</F>.</A>
+<B><.></.></B>
+<A>O K. <F>Er</F> what other things do you like to eat?</A>
+<B><F>Mm</F> <.></.> fruit.</B>
+<A><F>Hmm</F>. Tell me about your favorite fruit.</A>
+<B>Peach.</B>
+<A><F>Hmm</F>. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Next, <F>er</F> we'll do a role play. And I want you to read this card. And after when you finish reading, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Hi, may I help you?</A>
+<B><F>Er</F> <.></.> I want to dress.</B>
+<A><F>Wow</F>. What kind of dress do you like?</A>
+<B><F>Erm</F> <.></.> color is blue.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Erm</F> <.></.> formal dress.</B>
+<A>O K. Formal dress. <CO>These are formal dresses and <SC>color</SC> blue color and</CO>.</A>
+<B><F>Mmm</F>. How much this?</B>
+<A>O K. This one is <F>er</F> a little expensive. This is <F>er</F> eight thousand yen. And this is five thousand yen. And that is <F>er</F> ten thousand yen.</A>
+<B>Yes. So I'll take this one.</B>
+<A><F>Er</F> which one?</A>
+<B><CO><F>Er</F> <F>er</F> <JP><F>eeto</F></JP> <R>five</R> <OL>thousand</OL></CO></B>
+<A><OL>Five</OL> thousand yen? <F>Hmm</F>. Would you like to try it on?</A>
+<B><F>Ah</F>. Yes.</B>
+<A><F>Mhm</F>. O K. So how was that? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Did you like it?</A>
+<B>Yes.</B>
+<A>O K. So you are going to buy this?</A>
+<B>Yes.</B>
+<A>O K. Thank you very much.</A>
+<B><nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>O K. This is the end of the role play. <F>Er</F> where do you usually go shopping?</A>
+<B>Shopping. <F>Mmm</F> around my <laughter>house</laughter>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>.</B>
+<A><F>Er</F> when you buy a dress or something, how do you decide?</A>
+<B><F>Mmm</F> <F>er</F> <.></.> size</B>
+<A><F>Hmm</F>.</A>
+<B>and price.</B>
+<A><F>Mm-hmm</F>. Size and price.</A>
+<B><F>Mm</F>. And <laughter>design</laughter>.</B>
+<A>And <OL>design</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><.></.> Now I want you to make up <SC>the</SC> <nvs>cough</nvs> a story <F>er</F> based on these pictures from one to four. Just a simple brief story is O K.</A>
+<B><nvs>cough</nvs></B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Mmm</F> <..></..> three people go movie. <F>Mm</F> buy three tickets. <F>Mm</F> before they watch movie, they buy pop corn and juice. <F>Mmm</F>. <nvs>laughter</nvs> Very <nvs>laughter</nvs> <F>mm</F> <R>in</R> <.></.> <F>mm</F> interesting movie. <.></.> They <.></.> had very good time.</B>
+<A><F>Hmm</F>. O K. Thank you very much.</A>
+<B><nvs>laugher</nvs></B>
+</task>
+<followup>
+<A>What kind of movies do you watch?</A>
+<B><F>Erm</F> <..></..> I <laughter>don't watch</laughter> movie.</B>
+<A><F>Oh</F> I see. O K. Then what do you usually <SC>wi</SC> do with your friends?</A>
+<B><F>Ah</F>. <F>Er</F> go shopping.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>Go shopping and?</A>
+<B><F>Mmm</F> <laughter><SC?>talking</SC?> talk</laughter>.</B>
+<A>And talk.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><F>Ah-ha</F>. <F>Er</F> what kind of things do you talk about with your friends?</A>
+<B><F>Mmm</F> <R?>about school</R?> about school. <F>Mhm</F> <F>mm</F> <..></..> <F>mm</F> <JP>nanda</JP>.</B>
+<A>So <F>er</F> do you have <F>er</F> friends from your own hometown?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. So do you talk <F>er</F> about your hometown with your friends?</A>
+<B><F>Erm</F> little.</B>
+<A><F>Hmm</F>. I see. And <.></.> <F>erm</F> do you watch T V instead of <F>er</F> movie?</A>
+<B><F>Er</F> yes.</B>
+<A><F>Mh-hmm</F>. What kind of T V program do you watch?</A>
+<B>T V program. <F>Mmm</F>. <R>Variety</R> variety.</B>
+<A>Variety?</A>
+<B><F>Mm</F>. <CO>And</CO>.</B>
+<A>Tell me about your favorite <F>er</F> variety show.</A>
+<B><F>Ehhh</F>. Variety. <..></..> <nvs>laughter</nvs> <..></..> <F>Mm</F> <R>Mi</R> <laughter>Millionaire</laughter>.</B>
+<A><F>Ah</F>.</A>
+<B><R>Mi</R> <CO>mi</CO>.</B>
+<A>Millionaire. Quiz show?</A>
+<B>Quiz.</B>
+<A><F>Ah</F> I see. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So this is almost the end of today's interview. And <F>er</F> what are you going to do after this interview today?</A>
+<B><F>Eh</F> <R>difficult</R> difficult.</B>
+<A><F>Mh-hmm</F>. O K. <F>Ur</F> are you going to study, or are you going to go home <F>er</F> after this?</A>
+<B><F>Ah</F> go home.</B>
+<A>Go home?</A>
+<B>Yeah.</B>
+<A><F>Hmm</F>. I see. And what will you do in your home?</A>
+<B><F>Mm</F>?</B>
+<A>What will you do in your <OL>room</OL>?</A>
+<B><OL><F>Err</F></OL> <F>mm</F> go shopping.</B>
+<A><F>Mh-hmm</F>. I see. Are you going to cook <F>er</F> today's dinner?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>. Are you a very good cook?</A>
+<B><laughter><F>Er</F> no</laughter>.</B>
+<A><nvs>laughter</nvs> O K. Thank you very much. I hope you can enjoy your dinner. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> O K. Thank you.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you very much. <nvs>cough</nvs></B>
+</stage5>
+</body>
+</interview>

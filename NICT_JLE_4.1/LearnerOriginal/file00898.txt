@@ -1,0 +1,242 @@
+<interview>
+<filename>file00898.txt</filename>
+
+<head version="1.3">
+<date>2001-11-20</date>
+<sex>male</sex>
+<age>24</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>670</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B><F>Urr</F> <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A><F>Urr</F> where are you from?</A>
+<B><F>Ur</F> I'm from <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A><F>Urrr</F> could you tell me about <H pn="others1">XXX03</H> Prefecture?</A>
+<B><laughter><H pn="others1">XXX03</H></laughter>?</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Err</F> just a bed town. <F>Um</F>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Urm</F></OL> nothing so special <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B><??></??>. <F>Ur</F> <F>uhm</F> <.></.> <F>uhmm</F> yeah it's <R>ne</R> near Tokyo and</B>
+<A><F>Urm</F>.</A>
+<B>many people in <H pn="others1">XXX03</H> are working at Tokyo.</B>
+<A><F>Uhm</F>.</A>
+<B>So it's a bed town of Tokyo.</B>
+<A><F>Er</F> I see. <F>Er</F> so how long have you been working here</A>
+<B><OL><F>Urrr</F></OL>.</B>
+<A><OL>in <H pn="others2">XXX04</H></OL>?</A>
+<B><F>Urm</F> <F>urr</F> <R>half an ye</R> half an year.</B>
+<A>Half an year? <F>Oh</F> this is the first time to live in <H pn="others2">XXX04</H>?</A>
+<B>Yes.</B>
+<A><F>Urr</F> <SC>wha</SC> how do you like <H pn="others2">XXX04</H>?</A>
+<B><F>Urrrrm</F>. Good. <F>Urmm</F> its train is not crowded <R>and</R> and <.></.> food are very delicious <OL>and</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><SC>I love</SC> <F>er</F> I like <H pn="others2">XXX04</H>.</B>
+<A>I see. So <F>urr</F> do you work from Monday through Friday?</A>
+<B>Yes.</B>
+<A>So what do you like to do in your free time?</A>
+<B><F>Uhmmm</F> <R?>i</R?> <.></.> <SC>ice hokey</SC> <F>urm</F> I think <F>urm</F> my hobby <.></.> to play ice hokey and there is a <F>urm</F> forty to fifty <SC>team</SC> <F>urm</F> <R>ice hokey team</R> ice hokey team in <H pn="others2">XXX04</H>. And I'm belong <F>er</F> to one of them.</B>
+<A>I see. <F>Wow</F>.</A>
+<B>Ice hokey yes, in a hot day.</B>
+<A><F>Uhmm</F>. So why did you get interested in ice hokey?</A>
+<B><F>Urrrm</F> <.></.> <F>urr</F> <F>urmm</F> I started <F>uhm</F> ice hokey <F>urm</F> when I was <.></.> <R>in</R> <F>urr</F> in the university and <.></.> there is <.></.> <SC>team in a university</SC> ice hokey team in university. <CO>And <F>uhmm</F> <laughter>I forget why I</laughter></CO>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Urm</F> sorry, I forget.</B>
+<A><F>Oh</F> it's O K. So could you tell me about the team <.></.> which you belong to.</A>
+<B>Now?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Urrr</F></OL> it's very strong team <F>urmm</F> not only <R>Japa</R> Japanese and <F>urm</F> people from foreign country <.></.> are <R>belong</R> <R>belong</R> belong to my team. And yeah <F>urm</F> yes very strong but <F>urm</F> <F>urm</F> <SC>ma</SC> <F>urrr</F> <.></.> <R>las</R> last week <SC>we lost m</SC> we lost our game so <F>urr</F> very <nvs>laughter</nvs> <.></.> <??></??>. <OL>Yeah</OL>.</B>
+<A><OL><F>Uhmm</F></OL>. Is it interesting?</A>
+<B>Yes. Sure.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. Thank you very much. So first of all, <F>urrm</F> <?>see your</?> picture here. O K. Could you describe this picture?</A>
+<B><F>Urrr</F>. At a high school. <F>Urm</F> <.></.> and teacher <.></.> are teaching a mathematics <SC>and</SC> <.></.> but <.></.> <F>urmm</F> <.></.> <SC>one student</SC> <R>urr</R> almost all student are not interested in <.></.> lecture.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.></B>
+<A><F>Uh-huh</F>.</A>
+<B>And more? <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B><F>Well</F> <SC>one</SC> <F>urm</F> only one student <F>urrm</F> yellow-haired boy <F>urr</F> are very interested in this lecture. <F>Urr</F> but <.></.> yeah <F>urr</F> <.></.> boy next to him is <.></.> chewing a gum. <.></.> <CO>Or <nvs>laughter</nvs> <..></..> <laughter><F>well</F></laughter></CO>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, that's all</OL>?</A>
+<B>Yeah.</B>
+<A>O K. Thank you very much.</A>
+<B>Sorry.</B>
+</task>
+<followup>
+<A>It's O K. So do you think is this picture similar to your school days when you were young?</A>
+<B><F>Uhmmm</F>. <F>Urm</F> <.></.> yes, yes <??></??>.</B>
+<A>So in what way?</A>
+<B><R>But</R> but my high school is a boy school so it's not <??></??> our class.</B>
+<A><F>Uh-huh</F>. <F>err</F> Were you a good student?</A>
+<B><F>Uhmm</F>. So-so. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>So-so</OL>? What do you mean by "so-so"?</A>
+<B><F>Urrm</F> sometimes good student but sometimes not.</B>
+<A><F>Uhmmm</F>. Bad?</A>
+<B>Bad.</B>
+<A><F>Oh</F> what did you do? <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> Sleeping or <.></.> chatting.</B>
+<A><F>Uhmm</F>. I see. What do you think about students these days?</A>
+<B>Students these days?</B>
+<A><OL>Yes</OL>.</A>
+<B><OL><F>Urrrm</F></OL> same as <.></.> our days, I think. <F>Urrr</F>.</B>
+<A>Same?</A>
+<B>Yeah.</B>
+<A><F>Uh-huh</F>.</A>
+<B>They are not interested in any lecture in high school.</B>
+<A><F>Uhm</F> I see.</A>
+<B>Yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much. Now <F>urr</F> we are going to do a role-play. So, O K. Here you are. Please read this card. And when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Urm</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Hello, may I help you?</A>
+<B><F>Urm</F> I'd like to go New York <SC>and</SC> <SC>as past as</SC> <F>er</F> as fast as possible. <CO>And do you have <F>urm</F> <.></.> tickets <OL>to</OL></CO></B>
+<A><OL>Yes</OL>. We have tickets. Yes.</A>
+<B>And how much?</B>
+<A><F>Urr</F> it depends on the train.</A>
+<B>Depend on train? What kind of train do you have?</B>
+<A><F>Er</F> we have super express train,</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>urr</F> express train and local train.</A>
+<B>Local train? How much is the cost, super express and express and <OL>local train</OL>?</B>
+<A><OL><SC>Super</SC></OL>, all of them?</A>
+<B><OL>All of them</OL>.</B>
+<A><OL>O K</OL>. <F>Urr</F> seventy dollars super express train and fifty dollars express train and thirty dollar local train.</A>
+<B><F>Oh</F> really? <F>Urrr</F> <.></.> I'd like to have <.></.> super express. <OL>And</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><R>how long</R> <F>er</F> <F>er</F> how long does it take to New York</B>
+<A><OL>To New York</OL>?</A>
+<B><OL>using</OL> super express?</B>
+<A>O K. Two hours.</A>
+<B>Two hours? <F>Oh</F> O K. <CO>May I have <.></.> <OL>super</OL></CO>.</B>
+<A><OL>But</OL> it leaves <R>in</R> <.></.> <F>er</F> in three hours. Is it O K? There is only one train <OL>in the afternoon</OL>.</A>
+<B><OL>Only one train</OL> afternoon?</B>
+<A>Yes. It's three hours later.</A>
+<B>Three hours later? <F>Oh</F>. <F>Urrm</F> how about taking a <SC>express</SC> normal express?</B>
+<A>O K. Yes. We have one express train in thirty minutes.</A>
+<B>Thirty minutes? And how long does it take to New York?</B>
+<A>Three hours and a half.</A>
+<B><R>Three hours</R> three hours and a half? And how about normal train?</B>
+<A>Normal train? You mean local train?</A>
+<B><F>Ah</F> <R>local train</R> <OL>local train</OL>.</B>
+<A><OL>Yes</OL>. We have lots of local train.</A>
+<B>And how long does it take to New York?</B>
+<A><F>Urr</F> it takes five hours.</A>
+<B>Five hours? O K. <R>I</R> I'd like to have a express <F>urm</F> ticket <OL>to New York</OL>.</B>
+<A><OL>O K</OL>. <F>Uh-huh</F>.</A>
+<B>Fifty dollars, O K?</B>
+<A>Yes. One?</A>
+<B>One.</B>
+<A>O K. Smoking or non-smoking?</A>
+<B>Non-smoking.</B>
+<A>O K. Here is your ticket.</A>
+<B>Thank you.</B>
+<A>Thank you very much. Have a nice trip. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. <?>That's the</?> end of a role-play. So <F>urr</F> you said you took a non-smoking seat.</A>
+<B>Yes.</B>
+<A>Do you smoke?</A>
+<B>No.</B>
+<A>No?</A>
+<B>No.</B>
+<A>You don't like smoking?</A>
+<B><F>Urr</F> <SC>I</SC> once I was smoking <F>urm</F> <.></.> <R>for</R> for seven years. But I <.></.> stopped smoking <F>urr</F> two years ago.</B>
+<A>Why did you stop it?</A>
+<B><F>Urr</F> because my girlfriend doesn't like <F>urr</F> cigarette.</B>
+<A>That's all?</A>
+<B>Yes.</B>
+<A>I see. So what country have you ever been?</A>
+<B><F>Urr</F> United States.</B>
+<A>United States?</A>
+<B>Yes.</B>
+<A><F>Urr</F> how do you like it?</A>
+<B><F>Urrrm</F> <F>urmmm</F> <SC>I was</SC> I've been to United States <SC>when I was very</SC> <F>urm</F> when I was <SC>child</SC> <F>urm</F> <.></.> seven years old. And, yeah, it's very nice and <SC>very</SC> <F>er</F> people are very friendly and <.></.> <F>er</F> yes, I like <OL>United States</OL>.</B>
+<A><OL><F>Uhmm</F></OL>. So you said people are friendly.</A>
+<B>Yes.</B>
+<A>And <F>er</F> compared to Japanese people,</A>
+<B>Yes.</B>
+<A><F>urrr</F> what are they like?</A>
+<B><F>Mhmmmm</F>. <F>Er</F> <R>they</R> <SC>they teach us</SC> <F>er</F> <R>they</R> they teach us <F>urr</F> English and <F>uhmm</F> <.></.> they play with me <F>er</F> <SC>even if I can't</SC> <R>ev</R> <SC>even I</SC> even if I couldn't speak English that time. <SC>Very</SC> <.></.> <R>that's</R> <F>mhm</F> that's <??></??>.</B>
+<A><F>Uhmm</F> I see. So do you like the United States?</A>
+<B>Yes.</B>
+<A>I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I'll show you another picture. <F>Uhmm</F> here you are. So there are three pictures so please make up your own story from one to six. But this happened last week, so please start your story with "One day last week".</A>
+<B><CO>One day last week</CO>. <nvs>cough</nvs> <F>Urr</F> <.></.> sorry. <OL>May I start again</OL>?</B>
+<A><OL>O K</OL>. <laughter>Yes</laughter>.</A>
+<B><..></..> One day last week, <F>urr</F> a man is driving car. <SC>Another man</SC> <nvs>cough</nvs> <.></.> <F>er</F> a man <F>er</F> his name is Tom. Tom driving a car. And from the other side, <F>urr</F> <.></.> Geoffrey <F>ur</F> driving a bike and <.></.> talking with his girlfriend by using handy phone. <F>ee</F> <R>But Geoffrey</R> <.></.> <SC>but Geoffrey</SC> <.></.> <F>uhhm</F> <.></.> but <F>er</F> handy phone slip out from his hand and <SC>it</SC> <.></.> <F>er</F> <SC>Tom's</SC> <F>er</F> <.></.> <SC>it hits a</SC> <F>er</F> it hit a Tom's car. <SC>And Geoffrey claimed</SC> <.></.> <F>urr</F> <.></.> yes and also Geoffrey's bike was <.></.> <F>urr</F> broken. Geoffrey claimed that <F>urrm</F> <.></.> his <.></.> bike is broken. But <.></.> I can't understand this <??></??>.</B>
+<A>It's O K. <OL><?>I see</?></OL>.</A>
+<B><OL>O K</OL>? <F>Urrm</F> <.></.> and so Tom call police</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> <F>er</F> Geoffrey <.></.> <F>urr</F> send a bike <SC>to <.></.> repairing</SC> <F>er</F> to a repairing <.></.> center. O K.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. <F>Urm</F> have you ever had a traffic accident?</A>
+<B>Yes.</B>
+<A><OL>Yes</OL>?</A>
+<B><OL><F>Ur</F></OL>. Yes. <F>Urrrr</F> <R>when I</R> <F>um</F> when I <.></.> driving a car and I stopped <.></.> because it's a red signal. But <F>urm</F> it's early morning <R>and</R> and another car <F>urr</F> <.></.> <R>came</R> <F>er</F> came from my back and hit my car. And <R>he</R> <F>urmmm</F> <.></.> he's <R>slee</R> sleeping.</B>
+<A><F>Ohh</F>.</A>
+<B><F>Uhm</F>.</B>
+<A><SC>What</SC> did you call police?</A>
+<B>Yes. <OL><??></??></OL>.</B>
+<A><OL><laughter><F>Ahh</F></laughter></OL>. And? What happened?</A>
+<B>And <F>urm</F> yes <F>urm</F> <SC>it's</SC> <.></.> <F>urm</F> <SC>I have no</SC> <F>er</F> <.></.> <R>I</R> I'm not bad at that situation.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><CO><OL>So</OL> <F>urmm</F> <.></.> my car is repaired <.></.> and back to</CO>.</B>
+<A><F>Ahh</F>.</A>
+<B><..></..> Yes.</B>
+<A>I see. So <SC>you are</SC> are you a safe driver?</A>
+<B><F>Urm</F> yes.</B>
+<A><laughter>O K</laughter>. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Now <?>it's</?> almost end of the interview. So <R>do you</R> <F>er</F> do you have any special plan for this weekend?</A>
+<B><F>Uhmmmmm</F>. Not so special. Only playing hokey.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> Yeah.</B>
+<A>Are there any place to play hokey?</A>
+<B>Yes. <F>Urmmm</F> <.></.> there is three places in <H pn="others2">XXX04</H>.</B>
+<A><F>Oh</F> <OL>really</OL>?</A>
+<B><OL>Yeah</OL>. Yes.</B>
+<A>Near here?</A>
+<B><F>Urm</F> not so near <SC>he</SC> from here. <F>Er</F> one is <SC>Ta</SC> in Takatsuki and one is in Moriguchi and one is in <F>urmm</F> <.></.> <R>A</R> Asashio-bashi, <H pn="others2">XXX04</H>.</B>
+<A>I see. So every week, do you play hokey?</A>
+<B>Yes.</B>
+<A>I see. <SC>It's</SC> <F>ah</F> <SC>is the</SC> now is the season for hokey?</A>
+<B>Yes. <OL><??></??></OL>.</B>
+<A><OL>O K</OL>. Have a nice weekend.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

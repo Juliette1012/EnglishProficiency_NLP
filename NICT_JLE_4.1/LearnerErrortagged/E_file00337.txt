@@ -1,0 +1,208 @@
+<interview>
+<filename>E_file00337.txt</filename>
+
+<head version="1.3">
+<date>2001-03-05</date>
+<sex>male</sex>
+<age>34</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A><F>Er</F>. <H pn="B's name">XXX01</H>? O K. Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>O K. <F>Er</F>. How are you today?</A>
+<B>Good. Fine. Thank you.</B>
+<A>That's good. So, where do you live?</A>
+<B><F>Er</F>. I live in <H pn="others1">XXX02</H>.</B>
+<A><F>Mhn-huh</F>.</A>
+<B><F>Er</F>. <R>It's</R> <F>er</F> it's on <H pn="others2">XXX03</H> line.</B>
+<A><F>Mhn-huh</F> <F>mm</F>. So, what is <H pn="others1">XXX02</H> like?</A>
+<B><F>Well</F> <F>er</F>. It's a busy city. <F>Er</F>. There is <F>er</F> a college called <H pn="school name1">XXX04</H>, so, <SC>there is a</SC> there are a lot of <F>er</F> college <n_num odr="1" crr="students">student</n_num> live there.</B>
+<A><F>Mhn</F>. <F>Mhn</F>. And, do you like <H pn="others1">XXX02</H> city? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Er</F></OL>. So far. Yeah. I like it. <F>Mm</F>.</B>
+<A>Do you live with a family?</A>
+<B>Yes. I live with my wife. No children.</B>
+<A>No children?</A>
+<B>I'm expecting, <F>er</F> one, <F>er</F> someday in <at odr="1" crr="the"></at> future. <nvs>laughter</nvs></B>
+<A><F>Ah</F>. In the future?</A>
+<B>In the future.</B>
+<A><F>Ah</F>. Yes. O K. Could you tell me more about your wife?</A>
+<B><F>Er</F>. <R>she</R> <F>er</F> <R>she</R> she works for <F>er</F> a airline company. And, she <F>er</F> sometimes <F>er</F> <v_agr odr="1" crr="flies">fly</v_agr>, then, <SC>some</SC> she sometimes <v_agr odr="2" crr="works">work</v_agr> at the office. She also <F>er</F> <F>er</F> <v_tns odr="1" crr="joined">join</v_tns> this program the other day.</B>
+<A><F>Oh</F>. Really? <F>Mm</F>.</A>
+<B>Yeah. And, <F>er</F> yeah, she's a busy person. <F>Mm</F>.</B>
+<A>Is she a flight attendant?</A>
+<B><F>Er</F>. Yes, <SC>flight</SC> <F>er</F> sometimes, a flight attendant.</B>
+<A><F>Mhn</F>.</A>
+<B>Sometimes, she's a office staff. <F>Mm</F>.</B>
+<A><F>Wow</F>. Really? So, did you meet her on the flight? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Ah</F></OL>, no, actually. <F>Ah</F>. We used to work at the same company, <OL>yeah</OL>.</B>
+<A><OL>Really</OL>?</A>
+<B>Then, she <v_tns odr="1" crr="quitted">quit</v_tns>, and she got <at odr="2" crr="the"></at> new job.</B>
+<A><F>Mm</F>. O K. So, what do you do?</A>
+<B><F>Er</F>. I work for <at odr="1" crr="an">a</at> English conversation school.</B>
+<A><F>Wow</F>. As a teacher?</A>
+<B><F>Er</F>. No. Staff member.</B>
+<A><F>Ah</F>. Really?</A>
+<B>Yes.</B>
+<A>O K. What kind of <??></??>?</A>
+<B><F>Er</F>. I work for <H pn="company name1">XXX05</H>.</B>
+<A><F>Mhn-huh</F>.</A>
+<B>And, I'm <F>er</F> <at odr="1" crr="an">a</at> office staff. I'm <R>a</R> a manager of <H pn="others3">XXX06</H> area.</B>
+<A><F>Mhn</F>. Really? <F>Wow</F>. So, you work from Monday through Friday?</A>
+<B><SC>Yeah</SC> no. Monday <R>through</R> through <F>er</F> Saturday.</B>
+<A>Saturday? <OL><F>Ah</F></OL>.</A>
+<B><OL>Six days</OL> a week. Sometimes, <pn_lxc odr="1" crr="I"></pn_lxc> work on Sundays, too.</B>
+<A><F>Wow</F>. On Sundays?</A>
+<B><F>Mm</F>.</B>
+<A><F>Wow</F>. So, do you have a lot of free time?</A>
+<B><F>Well</F>. No, actually. <F>Er</F>. I work almost <prp_lxc1 odr="1" crr="for"></prp_lxc1> twelve hours every day.</B>
+<A><R>Twe</R> twelve hours?</A>
+<B>Twelve hours, every day.</B>
+<A>You're so busy.</A>
+<B>And, Sunday is off, <?>but</?> <prp_lxc1 odr="1" crr="on"></prp_lxc1> Sundays, <nvs>cough</nvs> <R>I alway</R> I always sleep until about twelve or one in the afternoon. <F>Mm</F>.</B>
+<A><nvs>laughter</nvs> And, after that, what do you <SC>do</SC> <nvs>laughter</nvs> <OL>usually do</OL>?</A>
+<B><OL><F>Mm</F></OL>. I go shopping with my wife and <F>er</F> <F>er</F> have dinner. And that's it. <R>I</R> I just stay home and relax on Sundays.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Mhn</F>. yeah, I think so. O K. Thank you very much.</A>
+<B>You're welcome.</B>
+<A>And, first of all, <F>er</F> O K. I'll show you a picture here. Could you describe this picture?</A>
+<B>O K. <F>Er</F> <F>er</F>. This is a <R>snow</R> <R>snow</R> <aj_lxc odr="1" crr="snowcapped">snow</aj_lxc> <R>mo</R> mountain. And people <mo_lxc odr="1" crr="are"></mo_lxc> enjoying <F>er</F> ski, and some people enjoy playing <F>er</F> <?><v_lxc odr="2" crr="snowboarding">strolling</?>, <F>er</F> snowboards</v_lxc>. <F>Er</F>. <SC>They seems</SC> they seem like having a lot of fun. <.></.></B>
+</task>
+<followup>
+<A>O K. Thank you very much. So, do you ski?</A>
+<B>Yes. I sometimes ski. I ski about once a year.</B>
+<A><F>Mm</F>. So, where do you usually go for skiing?</A>
+<B>I usually go to Shinsyu, Nagano. <F>Er</F>. <SC>if I go, like a one-day trip</SC> if I go to ski <prp_lxc1 odr="1" crr="for">on</prp_lxc1> <at odr="2" crr="a"></at> one-day trip, I go to Hyogo. Kannabe or Hachikita.</B>
+<A>O K. Could you tell me the difference between Kannabe ski gelande and <laughter>Shinsyu</laughter>?</A>
+<B><F>Er</F>. <at odr="1" crr="The"></at> <cap odr="2" crr="quality" ch="1">Quality</cap> of snow is very very different.</B>
+<A><OL><F>Ah</F> really</OL>?</A>
+<B><OL><SC>They have</SC></OL> <F>er</F> in Shinsyu, they have <F>er</F> so called powder snow. It's like <at odr="1" crr="">a</at> powder. But, in Hyogo, snow, <R>it's like</R> <F>er</F> it's like ice, crushed iced.</B>
+<A>Crushed ice?</A>
+<B><F>Mm</F>.</B>
+<A>Isn't it dangerous? <nvs>laughter</nvs></A>
+<B><F>Er</F>. A little bit. If you fell down, sometimes you get hurt.</B>
+<A><F>Ah</F>. Really? So, are you a good skier?</A>
+<B>I think so. <R>I</R> <SC>I have ski</SC> I've been skiing <SC>since when I was college</SC> <F>er</F> since <pn_lxc odr="1" crr="I"></pn_lxc> <v_lxc odr="2" crr="was"></v_lxc> <prp_lxc1 odr="3" crr="in"></prp_lxc1> <at odr="4" crr="a"></at> college.</B>
+<A><F>Wow</F>. So, you must be very good. <laughter>O K</laughter>.</A>
+<B>I hope so.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Thank you very much. So, now, we'll do a role play. O K. <SC>So</SC> and, please read this card, and, if you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>Yes. I'm ready.</B>
+<A>O K. Hello. May I help you?</A>
+<B>Yes. <F>Er</F>. Yes. <R>I</R> <R>I</R> I'm trying to get to New York, but I don't know where to buy a ticket and how much it <v_agr odr="1" crr="costs">cost</v_agr>. Could you tell me <F>er</F> where <F>er</F> I can get a ticket?</B>
+<A><F>Well</F>. Yes. You can get <at odr="1" crr="a"></at> ticket here.</A>
+<B><F>Oh</F>. Here? How much is it to New York?</B>
+<A><F>Ah</F>. It depends on the train.</A>
+<B>I see. <F>Er</F> I need to get to New York as soon as possible.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So I need, <F>er</F> like a special, <F>er</F> express train ticket.</B>
+<A><F>Mhn</F>. O K. Let me see. It's one hundred dollars.</A>
+<B>One hundred dollars? That's too expensive. <F>Er</F>. How about <R>the</R> <F>er</F> the ticket for <at odr="1" crr="the"></at> local train?</B>
+<A>Local train. O K. It's fifty dollars.</A>
+<B>Fifty dollars.</B>
+<A><F>Mhn</F>.</A>
+<B>O K. <F>Er</F>. How long does it take, if I <v_lxc odr="1" crr="take">get</v_lxc> <at odr="2" crr="the">a</at> local train?</B>
+<A>Three hours.</A>
+<B>Three hours? How about <at odr="1" crr="the"></at> express?</B>
+<A><F>Ah</F>. One hour and a half.</A>
+<B><F>Ah</F>. One hour and a half? Then, <F>er</F> is there <aj_lxc odr="1" crr="any"></aj_lxc> discount ticket <n_lxc odr="2" crr="shop"></n_lxc> around here?</B>
+<A>Not, here.</A>
+<B>O K, O K. I'll take <F>er</F> the express</B>
+<A><OL>Express</OL>?</A>
+<B><OL>one</OL>.</B>
+<A>O K. What time?</A>
+<B><F>Er</F>. What time is <R>the</R> <nvs>cough</nvs> the first train? What time does the <SC>first train leave</SC> <OL>next train leave</OL>?</B>
+<A><OL><R>O K, now</R></OL> O K, now, ten o'clock. We have eleven o'clock, twelve o'clock, <R>one</R> one o'clock.</A>
+<B><F>Er</F>. So I'll take the one for eleven o'clock.</B>
+<A><F>Mhn-huh</F>. <F>Oh</F>. I'm sorry, but this ticket is sold out.</A>
+<B><F>Ah</F>. That's too bad. Is there any <aj_lxc odr="1" crr="other"></aj_lxc> way to get to New York, <F>er</F> not <o_lxc odr="2" crr="by train">by the train</o_lxc>? Is there <F>er</F> a shuttle <F>er</F> bus service from here to New York?</B>
+<A>Yes. Of course. <F>Mhn</F>.</A>
+<B>Where is the bus <F>er</F> stop?</B>
+<A><F>Er</F>. Turn on the corner, and, there, you can see a bus station, and you can get the ticket there.</A>
+<B><F>Oh</F>. I see. O K. I'll check the bus schedule</B>
+<A><F>Mhn</F>.</A>
+<B>and come back later.</B>
+<A>O K, O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>Have a good trip.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. That's the end of role play. So, <F>er</F> do you like traveling?</A>
+<B>Yes. I like it very much, yeah.</B>
+<A>O K. <F>Er</F>. Could you tell me the most most impressive <nvs>laughter</nvs> <R?>to</R?> trip for you?</A>
+<B><F>Er</F> <F>well</F> <F>er</F>. When I was a college student, I went to India and Nepal with my friend. I <nvs>cough</nvs> went there without any plans. We just, <F>er</F> <?><v_tns odr="1" crr="got">get</v_tns></?> the airplane ticket and <v_tns odr="2" crr="got">get</v_tns> on the <F>er</F> New Delhi air port. I <v_tns odr="1" crr="didn't know">don't know</v_tns> where to stay. I <v_tns odr="1" crr="didn't know">don't know</v_tns> where <pn_lxc odr="2" crr="we"></pn_lxc> <v_tns odr="4" crr="were"><v_agr odr="3" crr="are">is</v_agr></v_tns>. <F>Er</F>. <SC>I</SC> we <av_lxc odr="1" crr="">also</av_lxc> didn't have <R>a</R> a guide book, either. So <SC>we stay there about</SC> we <v_tns odr="2" crr="travelled"><mo_lxc odr="1" crr="were"></mo_lxc> traveling</v_tns> around India and Nepal <prp_lxc1 odr="3" crr="for"></prp_lxc1> about two <n_num odr="4" crr="months">month</n_num>.</B>
+<A>Two <n_num odr="1" crr="months">month</n_num>? <F>Wow</F>.</A>
+<B>It's very <F>er</F> interesting trip.</B>
+<A>What is your first impression of <OL>India and</OL> <R>Nepal</R> Nepal?</A>
+<B><OL><F>Oh</F></OL>. Hot, hot.</B>
+<A>Hot?</A>
+<B>India. Especially, India, temperature <v_lxc odr="1" crr="goes">gets</v_lxc> up <prp_lxc1 odr="2" crr="to"></prp_lxc1> around forty-five in the daytime. And the temperature <SC>stays</SC> <F>er</F> still stays, <F>er</F> <prp_lxc1 odr="1" crr="at"></prp_lxc1> thirty-five or thirty-six in the night. So <SC>it's like a</SC> I <v_tns odr="1" crr="felt">feel</v_tns> like I <v_tns odr="2" crr="was living">'m living</v_tns> in a sauna.</B>
+<A><laughter>Sauna</laughter>? <F>Mm</F>. Do you want to go there again?</A>
+<B><F>Er</F>. Yes, yes.</B>
+<A>In the future?</A>
+<B>In the future. I'm asking my wife to go there together, but <R>she</R> she doesn't want.</B>
+<A><F>Ah</F>. Really? <nvs>laughter</nvs></A>
+<B>Because <R>she</R> <F>er</F> she doesn't <R>like</R> <F>er</F> like <F>er</F> hot <n_num odr="1" crr="places">place</n_num> or dirty <n_num odr="2" crr="places">place</n_num>. <F>Mm</F>.</B>
+<A>O K. Someday. <nvs>laughter</nvs></A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Thank you very much.</A>
+<B>You're welcome.</B>
+<A>And, now, I'll show another picture. O K. Here. And, please make up <at odr="1" crr="a">the</at> story based on these pictures. <?>We start</?>. And this happened last week, so, start your story with "One day last week".</A>
+<B><F>Mhm</F>.</B>
+<ctxt>The interviewee is looking at the cards.</ctxt>
+<B><F>Er</F>. <SC>One day, <SC>I</SC> <.></.> <F>eh</F> when I was walking along the street <R>last</R> <F>er</F> last week</SC> <F>er</F> one day last week, when I was <SC>walking along</SC> walking down the street, <F>er</F> <SC>a man</SC> I <v_lxc odr="1" crr="met">found</v_lxc> <at odr="2" crr="a">the</at> man who got lost. <CO>And</CO>. <F>Er</F>. <.></.> No, no, no. One day last week, <R>I</R> <R>I</R> I had a dinner with my father. And <F>er</F> he knew a very nice restaurant, so we went <prp_lxc2 odr="1" crr="to"></prp_lxc2> the restaurant together. And we enjoyed lunch, and <F>er</F> we ate a lot. <..></..> So <R>I didn't</R> I didn't have enough money to pay <prp_lxc2 odr="1" crr="for"></prp_lxc2> that. My father <F>er</F> paid <prp_lxc2 odr="1" crr="for"></prp_lxc2> everything. I was very lucky. So, after the lunch, <F>er</F> we <F>er</F> <v_tns odr="1" crr="said">say</v_tns> good-bye. And <F>er</F> <F>mm</F> I think I had a good lunch. That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. So, <F>er</F> could you compare the <n_num odr="1" crr="restaurants">restaurant</n_num> in India and Japan?</A>
+<B><F>Ah-huh</F> <F>er</F>. <prp_lxc1 odr="1" crr="In"></prp_lxc1> India, <F>er</F> <F>mm</F> <F>er</F> they have <F>er</F> many kinds of menu, <SC>because</SC> <F>er</F> <SC>in</SC> due to the religious reason. There are many <F>er</F> vegetarians and <F>er</F> <n_num odr="1" crr="Christians">Christian</n_num>. And <SC>the menu are very</SC> <F>er</F> they have different menus. <F>Ah</F>. And also, <nvs>cough</nvs> <F>er</F> <F>mm</F> if you go to <at odr="1" crr="a">the</at> nice restaurant, you get nice service. But, if you go to <SC>the restaurant like</SC> like <F>er</F> <R>the</R> <F>er</F> <at odr="1" crr="a">the</at> very cheap restaurant, <F>er</F> you get bad service. I recommend you to go to <at odr="1" crr="a">the</at> nice restaurant.</B>
+<A><F>Oh</F>. Really? <F>Er</F>. <R>you</R> <R>you</R> you said nice service. Could you explain more about nice service in India?</A>
+<B><F>Er</F>. Nice service? <nvs>laughter</nvs> <SC>It's</SC> <F>oh</F> <F>er</F> <?>as</?> a waiter always comes to <pn_lxc odr="1" crr="my">the</pn_lxc> table and ask me, <F>er</F> "Is everything O K?" and "Do you need more water?" or, they ask me <F>er</F> <F>er</F> a lot of questions. So I don't have to call the waiter. <OL><CO>I just</CO></OL>.</B>
+<A><OL><F>Oh</F> really</OL>? That sounds nice.</A>
+<B><F>Mm</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much.</A>
+<B>You're welcome.</B>
+<A>It's the <R>al</R> almost <at odr="1" crr="the"></at> end of the interview.</A>
+<B><F>Mhn-huh</F>.</B>
+<A>So, are you going to work</A>
+<B>Yes. <OL>From now</OL>.</B>
+<A><OL>in the afternoon</OL>? <F>Ah</F>. Are you busy now?</A>
+<B><F>Ah</F>. Not in the morning. <R>I</R></B>
+<A><F>Mhn-huh</F>.</A>
+<B><SC>in</SC> from the afternoon, I start working. In the morning, I'm free.</B>
+<A><F>Mm</F>. Many people are studying English now. <nvs>laughter</nvs></A>
+<B>Yes.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>Have a nice day.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

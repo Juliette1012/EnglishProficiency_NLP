@@ -1,0 +1,190 @@
+<interview>
+<filename>file00220.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>500</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. Could you tell me your name?</A>
+<B><F>Urr</F> yes. My name is <F>err</F> <H pn="B's name">XXX02</H>.</B>
+<A>Hi. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F>. <R>O</R> O K.</B>
+<A>All right. Hello. Nice to meet you, <H pn="B's name">XXX02</H>.</A>
+<B><F>Ah</F> nice to meet you, too <F>urr</F>. Sorry? <nvs>laughter</nvs></B>
+<A><H pn="A's name">XXX01</H>.</A>
+<B><H pn="A's name">XXX01</H>.</B>
+<A>How are you today?</A>
+<B><F>Urr</F> fine, thank you. And you?</B>
+<ctxt>There is a microphone noise.</ctxt>
+<A>Good. Thank you. <F>Um</F> what do you do on Friday usually?</A>
+<B><F>Urr</F> usually on Friday <F>umm</F> <R>I</R> <nvs>sniff</nvs> I go to my <F>err</F> clients <F>err</F> in <H pn="others1">XXX03</H> prefecture. <F>Urr</F> and <F>mm</F> <R>I talk</R> I talk to them <F>mm</F> about <F>urr</F> steel scrap. <F>Umm</F> <.></.> and <F>umm</F> I get <F>urr</F> <F>umm</F> some businesses.</B>
+<A><F>Uhhum</F> I see. <F>Um</F> where do you live?</A>
+<B><F>Urr</F> now <F>urr</F> I live in <H pn="others2">XXX04</H> <F>urr</F> <F>umm</F> northern area <F>urr</F> <SC>the <F>urr</F> town</SC> <F>umm</F> <F>uhh</F> the name of my town is <F>urr</F> <H pn="others3">XXX05</H> town.</B>
+<A>Could you tell me about that town?</A>
+<B><F>Umm</F>. So <.></.> <R>there are</R> <F>umm</F> there are twenty thousand people <F>urr</F> in the town. <R>And</R> <F>umm</F> <.></.> <SC>so my hometown</SC> <F>urr</F> <SC>there is a</SC> <F>umm</F> the town is my hometown. So <F>orr</F> <R>since</R> <F>urr</F> since four years old <F>urr</F> <SC>I have been <F>err</F> in</SC> I have <F>err</F> lived in there.</B>
+<A>I see.</A>
+<B><F>Hm</F>.</B>
+<A>Do you live with your parents?</A>
+<B><F>Urr</F> no. <F>Orr</F> now <SC>I live <SC>in</SC> <F>urr</F> with</SC> I live in there with my wife and child.</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A>O K. Could you tell me about your children?</A>
+<B><F>Urr</F> yes. <F>Ur</F> he is <F>urr</F> four years old. <F>Urr</F> he was born <F>urr</F> when <F>urr</F> I was <F>urr</F> university student. <F>Urr</F> and <F>umm</F> he likes <F>urr</F> something sweet. <F>Mm</F> example cake and chocolate</B>
+<A><F>Uhhum</F>.</A>
+<B><F>urr</F> <F>urr</F> <laughter>etcetra</laughter>.</B>
+<A><F>Ahh</F>. What does he do everyday?</A>
+<B>Every day? <F>Umm</F> <SC>he</SC> usually he got up at about <F>urr</F> seven o'clock. <F>Urr</F> sometime <F>urr</F> <SC>he</SC> <F>ur</F> <R>before <F>urr</F> I get up</R> <F>urr</F> before I get up <SC>he <F>ur</F> got</SC> he gets up and <F>urr</F> he says <F>urr</F> "Father <F>urr</F> it is time <F>ur</F> for get up".</B>
+<A><F>Wow</F> <OL>how cute</OL>.</A>
+<B><OL>Yeah</OL>. Yes. Very cute.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. All right. Thank you very much. Now <H pn="B's name">XXX02</H> I'm going to show you a picture.</A>
+<B>Yes.</B>
+<A>So, please describe this picture for me.</A>
+<B><F>Uhhum</F>.</B>
+<A>Have you tried this one before?</A>
+<B><F>Ah</F> no.</B>
+<A>O K. Please describe this picture</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>for me</OL>.</A>
+<B><F>Umm</F> <F>ur</F> <R>it is <F>urr</F> <laughter><SC>fine day</SC></laughter> sunny</R> it is sunny day. <F>Urr</F> <SC>there are</SC> there is a white car in front of <F>urr</F> the big house. And <F>urr</F> <F>urr</F> on the car <F>urr</F> there is a cat <F>urr</F> is sleeping. And <F>umm</F> there is <F>urr</F> two woman are talking about <F>umm</F> today's news. <F>Umm</F> and one of <F>ur</F> them <F>urr</F> is taking <F>urr</F> with <F>ur</F> dog. <F>Umm</F> and <F>umm</F> there is a man <F>urr</F> reading the newspaper. <F>Urr</F> <R>newspaper says</R> <F>urr</F> <.></.> <F>urr</F> <SC>newspaper says <F>ur</F> the <R>accident</R> <F>urr</F> accident</SC> <F>umm</F> <F>ah</F> no, the newspaper says <F>urr</F> the affairs happened <F>urr</F> <SC>to the day</SC> <F>urr</F> yesterday.</B>
+<A>O K.</A>
+<B><F>Umm</F>.</B>
+</task>
+<followup>
+<A>All right. Thank you very much. Now <H pn="B's name">XXX02</H> could you compare</A>
+<B>Yes.</B>
+<A>this picture</A>
+<B><F>Uhhum</F>.</B>
+<A>with your home town?</A>
+<B>My home town. <F>Umm</F>. So <.></.> <R>the garden is <F>urr</F> <F>umm</F> <R>wi</R> <R>wider</R></R> <F>urr</F> the garden is <F>urr</F> <F>urr</F> wider than <F>mm</F> my town's garden. And <F>urr</F> <.></.> the road <F>urr</F> of this town, too <F>urr</F> <R>wi</R> <R>wide</R> wider than <F>urr</F> my town. And now <F>orr</F> there is <R>no snow</R> no snow <F>urr</F> <F>umm</F> in there. But <F>urr</F> in my town <F>urr</F> there are <F>um</F> a lot of <R>snow</R> <F>orr</F> <F>umm</F> snow <F>urr</F> on the road and <R>beside the house</R> beside the house. <F>Um</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. All right. Thank you <H pn="B's name">XXX02</H>. Now we are going to do a role-play. <OL>O K</OL>.</A>
+<B><OL>Yes, O K</OL>?</B>
+<A>I'll show you a card. And <.></.> have you tried this before?</A>
+<B><F>Oh</F> no.</B>
+<A>O K. Please read this card to yourself and when you are ready, please let me know. I'll begin.</A>
+<B><F>Ohh</F>.</B>
+<A><OL>Ready</OL>?</A>
+<B><OL>O K</OL>.</B>
+<A><R>Ring</R> ring. Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Ah</F> hello. This is <F>urr</F> <H pn="B's name">XXX02</H>.</B>
+<A>Hi <H pn="B's name">XXX02</H>.</A>
+<B><F>Urr</F> <F>umm</F> <.></.> <F>urr</F> her <.></.> yes <F>umm</F> <.></.> <SC>may</SC> how about <laughter>today</laughter>?</B>
+<A><F>Oh</F> fine.</A>
+<B><F>Urr</F> yes. <F>Urr</F> <F>umm</F> Do you have a time this evening?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Oh</F> <F>orr</F> <R>wi</R> <R><R>will you</R> <F>urr</F> go <F>urr</F></R> will you go to cinema <F>urr</F> with me?</B>
+<A>Yes. Sure.</A>
+<B>O K. <F>Urr</F> so <F>umm</F> <R>I</R> I want to <F>urr</F> go to the cinema <F>urr</F> in Shinjuku.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Umm</F></OL> Shinjuku. So <F>urr</F> <F>urr</F> will you meet me at <R>Shinju</R> Shinjuku Station at <F>urr</F> nine P M?</B>
+<A>Sure. Sounds good.</A>
+<B><F>Urr</F> O K. <F>Urr</F> so <F>umm</F> <R>where <F>urr</F> do you like</R> <F>urr</F> where do you like to <F>urr</F> meet me?</B>
+<A><F>Mmm</F>. How about J R Station?</A>
+<B>J R. Sorry, J R Station <F>urr</F> <F>um</F> which place? <F>Urr</F>.</B>
+<A>O K. East Exit.</A>
+<B>East Exit. <F>Urr</F> so but <F>urr</F> I don't know where East Exit. So <F>umm</F> <SC>please tell me</SC> <F>ah</F> will you tell me <F>urr</F> <SC>somethi</SC> <F>urr</F> will you tell me <SC>anything</SC> <F>urr</F> any <F>mm</F> big <F>urr</F> so building or <OL>store</OL>?</B>
+<A><OL>O K, how about</OL> in front of <OL>Alta building</OL>?</A>
+<B><OL>Alta</OL> building. <F>Urr</F>. O K. I know. <F>Umm</F> <R>how do you</R> <F>urr</F> how do you go to there?</B>
+<A>Using</A>
+<B><F>Um</F>.</B>
+<A>Seibu Line.</A>
+<B>Seibu line? <F>Ur</F> so <F>urr</F> <.></.> <F>umm</F> O K. <R>But</R> <F>urr</F> <.></.> but <F>urr</F> <R>don't you live</R> <F>urr</F> don't you live <F>urr</F> in <F>urr</F> Kita Aoyama?</B>
+<A><F>Mm</F>. No.</A>
+<B>No. <CO><F>Urr</F> but <F>urr</F> so <R>today</R> <F>urr</F> to</CO>. <R>No</R> <R>no</R> <R>no</R> no. <SC>You work</SC> your office is <F>urr</F> in Aoyama <F>urr</F> <R>isn</R> isn't it?</B>
+<A>Yes.</A>
+<B><F>Urr</F>. O K. <F>Urr</F> <F>urr</F> we <F>mm</F> <R>let</R> let <F>urr</F> <R>no</R> <R>no</R> <R>no</R> no. <F>Oh</F> so <F>urr</F> I want to <F>err</F> take a taxi <F>err</F> with you from <F>umm</F> Kita Aoyama.</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+<A>O K. Sounds good. So, see you then.</A>
+<B><F>Ah</F> yes. See you.</B>
+<A>O K. Thank you <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A>Bye-bye. Thank you very much. This is the end of role-play. Do you often go out to see a movie?</A>
+<B><F>Urr</F> yes. <F>Urr</F> I like it.</B>
+<A><F>Uhhum</F>.</A>
+<B>So <F>umm</F> <F>urr</F> <R>late</R> <SC>late</SC> <F>urr</F> lately <F>urr</F> <R>I saw</R> <F>ohh</F> I saw the movie <F>urr</F> that is <F>urr</F> <R>mountain</R> mountain so <nvs>laughter</nvs> <R>I</R> <R>I</R> I can not <F>err</F> explain.</B>
+<A>How was it?</A>
+<B><F>Umm</F> yes. Very exciting and <F>urr</F> thrillful. <F>Um</F>.</B>
+<A><F>Uhhum</F>.</A>
+<B>So the movie name <F>urr</F> I forgot it. <OL><F>Urr</F></OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL>O K</OL>. All right. Sounds good. O K. Now, finally we are going to do a sequence of pictures.</A>
+<B>Yes.</B>
+<A>Did you try this before?</A>
+<B>No.</B>
+<A>O K. <F>Um</F> please make up a story based on these pictures <OL>from one to six</OL>.</A>
+<B><OL><F>Uhhum</F></OL>.</B>
+<A>And this happened before, so please start your story with "One day last week".</A>
+<B><F>Um</F> <F>ah</F> <F>umm</F> <R>Sorry</R>? <F>Urr</F> sorry? <F>Urr</F>.</B>
+<A>This happened before, so</A>
+<B>This happened before</B>
+<A><F>uhhum</F> please start your story with "One day last week".</A>
+<B><F>Urr</F> <R>Yes</R>. Yes.</B>
+<A>Go ahead.</A>
+<B><F>Ah</F> So <.></.> the woman <F>urr</F> her name <F>urr</F> <H pn="B's name">XXX02</H>. <F>Urr</F> <R>she</R> she went <F>urr</F> to the department store <F>urr</F> in Ikebukuro. <F>Urr</F> <F>urr</F> <SC>she</SC> <F>urr</F> before <F>urr</F> she went to Ikebukuro <F>urr</F> she had <F>err</F> been to <F>urr</F> Shinjuku and <F>urr</F> enjoyed shopping. <F>Urr</F> so after Shinjuku <F>urr</F> she went to <F>urr</F> Ikebukuro. Then <F>urr</F> <R>she went</R> <F>urr</F> <R>she went to</R> <F>umm</F> she went to the tie shop <F>urr</F> and <R>she bought</R> she bought a green necktie <F>urr</F> for her husband <F>urr</F> for him birthday. And <F>urr</F> <R>she asked</R> <F>urr</F> she asked the clerk <F>urr</F> <R>how</R> <F>um</F> how about <F>mm</F> the necktie. <F>Ur</F> so and <F>um</F> the clerk <F>urr</F> "It is very <R>good</R> <F>urr</F> good". So <F>urr</F> he said "It's good". <F>Urr</F> <R>so</R> so <R>she decided</R> <F>urr</F> <R>she</R> she decided <F>urr</F> to buy the green necktie.</B>
+<A><F>Uhhum</F>.</A>
+<B>And she paid <F>urr</F> thirty thousand yen <F>urr</F>. She paid for it.</B>
+<A>O K. <OL>And</OL>?</A>
+<B><OL><F>Um</F></OL> and <F>urr</F> <R>she asked the clerk</R> <F>urr</F> she asked the clerk <F>ur</F> to <F>umm</F> <R>wrap</R> wrap it <F>ur</F> for present <F>urr</F> with red ribbon.</B>
+<A><F>Uhhum</F>.</A>
+<B><F>Urr</F> after then <F>urr</F> <F>urr</F> <SC>she find</SC> <F>urr</F> she found <F>urr</F> <.></.> the final sale, the sign <F>urr</F> said <F>urr</F> thirty percent discount. <F>Urr</F> <R>they</R> <F>eee</F> <F>urr</F> <R>they</R> <SC>they sold</SC> <F>urr</F> <F>urr</F> <R>there</R> <SC>there were <F>urr</F> some <F>ur</F> shoes</SC>. <F>Urr</F> <SC>there are</SC> there were some shoes <F>urr</F> at the corner.</B>
+<A>O K. <F>Uhhum</F>.</A>
+<B><R>But</R> <F>urr</F> <R>but she</R> but <F>urr</F> she didn't have enough money <F>er</F> for the shoes so <F>urr</F> next <F>urr</F> she went to <R>the corner</R> <F>urr</F> <F>urr</F> the corner there were <F>urr</F> dresses <F>urr</F> discounted <F>urr</F> fifty percent.</B>
+<A><F>Uhhum</F>.</A>
+<B>And <R>she bought</R> <R>she bought <F>urr</F> the</R> she bought the <.></.> <R>blue</R> blue dress.</B>
+<A>O K.</A>
+<B><F>Orr</F> so <F>orr</F> <F>umm</F> at the corner. <F>Urr</F> And she <F>urr</F> waste the money <F>urr</F> then she went out the depart. <.></.> <F>Umm</F>.</B>
+<A>O K. <OL>Thank you very much, <H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>I'm finished</OL>.</B>
+</task>
+<followup>
+<A><F>Um</F>. Did you buy any <OL>present</OL></A>
+<B><OL><F>Hm</F></OL>.</B>
+<A>for your son last Christmas?</A>
+<B><F>Urr</F> yes. <F>Urr</F> <F>umm</F> I bought <F>urr</F> <R>train</R> <F>urr</F> train something <F>urr</F> playing goods <F>urr</F> so for my son.</B>
+<A>Why did you choose it?</A>
+<B><F>Umm</F> because <F>urr</F> <R>he wanted</R> <F>urr</F> he wanted to <F>err</F> be given it. <F>Um</F>.</B>
+<A>Did he like it?</A>
+<B><F>Ah</F> yes. <F>Err</F> I like it.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Oh</F> great. O K. Thank you <H pn="B's name">XXX02</H>. We are almost at the end of the interview.</A>
+<B><F>Hm</F>.</B>
+<A>Do you have plan after this?</A>
+<B><F>Urr</F> yes. <F>Urr</F> I will <F>err</F> go back my office <F>urr</F> and <F>umm</F> <SC>I must <F>urr</F> ma</SC> I must do a lot of <F>urr</F> works. <OL><F>Umm</F></OL>.</B>
+<A><OL>O K</OL>. Good luck on your job.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL> very much for coming. This is the end of the interview. Thank you.</A>
+<B><F>Ah</F> thank you. Nice <F>urr</F> <R>so</R> so <F>urr</F> <F>urr</F> <SC>thank you for</SC> <F>urr</F> <R>thank you</R> <F>urr</F> thank you. <F>Urr</F> <laughter>Have a nice evening</laughter>.</B>
+<A>All right. Thank you. You, too. <OL>Thank you</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</stage5>
+</body>
+</interview>

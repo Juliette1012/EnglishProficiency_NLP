@@ -1,0 +1,199 @@
+<interview>
+<filename>file00017.txt</filename>
+
+<head version="1.3">
+<date>1999-12-14</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yeah.</B>
+<A>Yes? O K. So, <H pn="B's name">XXX01</H>, how are you today?</A>
+<B>I'm pretty fine, thank you. <OL><?>And you</?></OL>?</B>
+<A><OL>Good</OL>. O K. Fine, thank you. <F>Err</F> could you tell me about yourself?</A>
+<B>Myself?</B>
+<A><F>Uh-huh</F>.</A>
+<B>I'm belonging to, <F>urm</F> <H pn="school name1">XXX02</H> University, of course, and I'm belong to, how can I say, literature <.></.> I'm learning Japanese literature in this university. <SC>And</SC> <.></.> <SC>al</SC> and also I'm belonging to announcement circle. And I will be, maybe, third year next year, so <F>um</F> now, I'm second year in this university.</B>
+<A><laughter>I see</laughter>. What do you mean "maybe third year"?</A>
+<B>Because now I have many reports about Japanese literatures or some education classes because I wanna be a teacher, <SC>and</SC> <.></.> so many homeworks I have now. And I think I can do all of that. So I said "maybe".</B>
+<A><laughter>O K</laughter>. <laughter>I understand</laughter>. All right. So you said you want to become a teacher.</A>
+<B><F>Uh-huh</F>.</B>
+<A><SC>Why</SC> <F>er</F> what made you interested?</A>
+<B><F>Er</F> <.></.> <SC>I get</SC> I will be Japanese teacher <.></.> and it's to foreigner or to Japanese both way, I think <.></.> now, but <.></.> only my dream.</B>
+<A>I see. So you are not interested in becoming a news reporter?</A>
+<B>Yeah, that's a one way, but, <F>um</F> <SC>I</SC> now <R>I don't</R> I don't want to be a announcer because now Japanese announcer takes too mass media too much, and that is not good. So, I think <SC>I don't wanna be</SC> yeah, <R>I</R> I just don't want to be announcer.</B>
+<A>I see. <F>Umm</F>. O K. And, <F>er</F> do you live near here?</A>
+<B>No. <F>Urmm</F> from my house to come here, maybe, takes an hour.</B>
+<A><F>Uh-huh</F>. Which area do you live in?</A>
+<B><F>Urmm</F> <F>umm</F> I'm living in <.></.> <JP><H pn="others1">XXX03</H></JP> in <H pn="others2">XXX04</H>.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>Were you born there?</A>
+<B><SC>I've been</SC> I've lived there since I was born.</B>
+<A><F>Ah</F> I see. And do you like it?</A>
+<B><F>Mmm</F>.</B>
+<A>Do you like the city?</A>
+<B>Yeah, of course. <?>A lot</?>.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. Very good. <F>Er</F> let's continue to the next stage.</A>
+<B>O K.</B>
+<A>All right? Now, I want you to look at this picture, and describe it for me.</A>
+<B>All right, the sun is shining, and the man is running <R>along the</R> along the street. And the kids is playing with ball, it's a ball. <R>And</R> and two dogs say "hello" to each other.</B>
+<A><nvs>laugh</nvs> O K.</A>
+<B>And the cat is sleeping over the car, and the car is white. And there're maybe three houses. <SC>And</SC> <.></.> so, yeah, two women is talking, <.></.> maybe about today's dinner.</B>
+<A><laughter>O K</laughter>.</A>
+<B>And <SC>one gir</SC> one lady is taking dog to walk.</B>
+<A>O K.</A>
+<B><F>Oh</F> and, <.></.> the bench <R>along</R> along the street, a man is sitting and watching newspaper.</B>
+</task>
+<followup>
+<A>O K. Very good. <F>Er</F> is this similar to your town?</A>
+<B>Not similar, because <.></.> <SC>my</SC> near my house, there're too many houses, not like this, and <SC>bo</SC> every house can't have <SC>yard</SC> back yard.</B>
+<A><F>Uh-huh</F>.</A>
+<B>This is clearly different.</B>
+<A>I see. <F>Er</F> <SC>was</SC> about your town, <F>er</F> you said you've been there since you were born. How has it changed since you were a child?</A>
+<B><F>Mhmm</F>. When I was elementary school student, there're some, how can I say, <SC>yard</SC> <.></.> very big yard. But now, <SC>at there</SC> <.></.> <F>urumm</F> <.></.> there, supermarket <SC>is, <.></.> <F>er</F>, builted</SC> was builted when I was junior high school student. And also there're many <R>cats</R> <F>er</F> so cats which have no man who is taking care of. <F>Er</F> <.></.> but now there are no cats and no dogs, of course. <.></.> And at <R>the garden</R> <F>er</F> <SC>the garden</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B>garden <.></.> is, how can I say, becoming dirty.</B>
+<A><laughter><F>Oh</F> yes</laughter>.</A>
+<B>Yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><laughter>O K</laughter>. All right. <F>Well</F> very good description. <F>Mhmm</F>. O K. So, let's move on to the next stage. <F>Er</F> O K. I want you to read this card.</A>
+<B><F>Mhm</F>.</B>
+<A>And we'll do a role play. When you are ready, I will start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card very quickly.</ctxt>
+<B>O K.</B>
+<A>O K? Ring ring. Hello.</A>
+<B>Hello. This is <H pn="B's name">XXX01</H> speaking.</B>
+<A><F>Oh</F>, hello, <H pn="B's name">XXX01</H>.</A>
+<B>Can I speak to <H pn="A's name">XXX05</H>?</B>
+<A>Yes. This is she.</A>
+<B><F>Oh</F> hello. How are you?</B>
+<A>I'm fine, thank you.</A>
+<B>Yeah, fine, thank you. And I want to invite you to movie.</B>
+<A><F>Ah</F> very nice.</A>
+<B>Because I got the ticket from my mother. Yes, <R>she bought</R> she bought two ticket but my father can't go because of his business.</B>
+<A><F>Err</F> that's too bad.</A>
+<B><F>Uh-huh</F>. So I want to go to the movie next Sunday.</B>
+<A>O K.</A>
+<B>Do you have any plans?</B>
+<A><F>Urrm</F> <F>well</F>, <SC>I</SC> <R>I'm</R> I'm meeting somebody in the morning.</A>
+<B><F>Uh-huh</F>.</B>
+<A>But besides that, I'm fine.</A>
+<B>O K. So, <R>this movie</R> this movie ticket <SC>say</SC> saying, <F>urmm</F> <F>urmm</F> ten and one o'clock, and three o'clock and six o'clock. There are four time can watch movie. Which do you prefer?</B>
+<A><F>Mhmm</F>. Maybe three o'clock.</A>
+<B>Three o'clock is better to you?</B>
+<A><F>Uh-huh</F>.</A>
+<B>O K. O K. And, <.></.> <R>how can I</R> how can I choose the movie theater?</B>
+<A>O K. <F>Um</F>.</A>
+<B>Because I'm living <H pn="others3">XXX06</H> City. And, <H pn="A's name">XXX05</H> <F>er</F> <H pn="others4">XXX07</H> is good for you, or not?</B>
+<A><F>Err</F> I live in <H pn="others5">XXX08</H>.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>And</OL> I prefer the eastern <H pn="others2">XXX04</H>.</A>
+<B>Eastern <H pn="others2">XXX04</H>? O K. <F>Er</F>, how about <H pn="others6">XXX09</H> or <H pn="others2">XXX04</H>.</B>
+<A>O K. <H pn="others6">XXX09</H> sounds great.</A>
+<B><H pn="others6">XXX09</H> is good? O K. So <F>um</F> the movie <SC>is star</SC> will start at three o'clock, so, <.></.> <F>er</F> <.></.> maybe two o'clock is better?</B>
+<A>O K. That's fine.</A>
+<B>This movie is really good. So maybe it will be crowded, I guess.</B>
+<A><laughter>O K</laughter>.</A>
+<B>Yes. So we have to go faster and has to get the seat.</B>
+<A><laughter>O K</laughter>.</A>
+<B>O K?</B>
+<A>O K. <?>I'll do</?>.</A>
+<B>O K? And, <F>er</F> right, <F>err</F> will you have a lunch with somebody?</B>
+<A><F>Mm</F> no.</A>
+<B>Not?</B>
+<A>No.</A>
+<B><F>Er</F> how about dinner?</B>
+<A><F>Err</F> no. I don't have any plan.</A>
+<B><F>Oh</F> O K. <F>Mhmm</F> <.></.> so <SC>how</SC> <.></.> <F>mm</F> I want to eat dinner with you.</B>
+<A>O K.</A>
+<B>Is it O K?</B>
+<A>Yeah, that's fine.</A>
+<B>Yeah. That's sounds good. O K. So, we will meet at <.></.> <H pn="others6">XXX09</H> two o'clock.</B>
+<A>O K.</A>
+<B>And watch movie by three o'clock.</B>
+<A>O K.</A>
+<B>And after the movie, <SC>we'll can</SC> we will eat dinner.</B>
+<A>All right. Sounds good.</A>
+<B>Good.</B>
+<A>I'll be looking forward to it.</A>
+<B>Yeah. I'm forward to looking to see you. O K. See you next Sunday.</B>
+<A>O K.</A>
+<B>Bye-bye.</B>
+</task>
+<followup>
+<A>Bye. All right. Very good. Do you like watching movie?</A>
+<B>Yeah.</B>
+<A>Yes? O K. Tell me your favorite movie.</A>
+<B>My favorite movie is by Mel Gibson, <.></.> <F>er</F> <F>oh</F> <SC>the title is</SC> <F>urm</F> it's about Scotland. Do you know?</B>
+<A><F>Err</F> I think I know.</A>
+<B>"Brave Heart". Yes.</B>
+<A><F>Uh-huh</F>.</A>
+<B>I got it. "Brave Heart". It's about the beginning of Scotland, becuase <SC>it</SC> <.></.> <R>I</R> I think, <SC>it not <F>er</F> depend</SC> <R>it</R> it was depends on England, <?>I guess</?>. And after that, <SC>it wanna be <R>in</R> <.></.> <R>instead</R> instead</SC> it wanted to be instead. And there one hero who is working about that. And he was Mel Gibson. And I really love him, so my favorite movie is. Yeah. I love Mel Gibson, so I like those movies. That's <SC>the most</SC> the biggest reason about my movie.</B>
+<A>O K. Yeah. I like that movie, too.</A>
+<B><F>Oh</F> sounds good.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. Now, let's move on to the next stage.</A>
+<B><F>Hu-huh</F>.</B>
+<A><F>Er</F> I want you to look at <SC>the</SC> this picture. Now, <SC>these</SC> there are six pictures. And I want you to make a short story.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL>O K</OL>?</A>
+<B>O K.</B>
+<A>It happened in one day, and please start your story "One day last week".</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>?</A>
+<ctxt>The interviewee is looking at the cards very quickly.</ctxt>
+<B><F>Uh-huh</F>. O K. <SC>One day last week, <R>I</R> <SC>I will</SC> <F>mm</F> I always</SC> <F>m</F> one day last week, I went to my station to go to the office. <.></.> And I went to my platform to Tokyo, but there're too many people because <R>I'm living in</R> <F>er</F>, how can I say, O K, I'm living in <.></.> Chiba, so <SC>the Tokyo is</SC> Tokyo is, <F>mm</F> bigger than Chiba, big city, so there are too many people who was to go to Tokyo. You know, I always have <.></.> <SC>brown suitcase</SC> <F>mm</F> <SC>brown <R>attache</R> attache case</SC> is that O K? Brown attache case. <SC>But</SC> and it was very heavy so I always take in it, and I always <?>be</?> tired, of course. But, <SC>one day</SC> yeah, on that day, there're too many people so one man, <F>urmm</F> how can I, <SC>knocking me</SC> knocking my arm and, <.></.> <F>oh</F> yes, I dropped my attache case to the rail. I was really angry to that man, but <SC>that man doesn't</SC> that man didn't know he attacked me. So I said to <R>the</R> <.></.> the man who is working at the station and <R>he</R> <.></.> he went down to the rail and take my attache case. I said "Thank you", and he said "<F>Oh</F> of course, you're welcome". And, so, <R>after that</R> after that accident, I always take my attache case <SC>with</SC> in my arm, <SC>never drop that</SC> because I don't want to never drop that. And I taked the train, of course with my attache case. Thank you.</B>
+</task>
+<followup>
+<A>O K. All right. Have you ever encountered this kind of accidents?</A>
+<B>I dropped my umbrella.</B>
+<A><laughter>O K</laughter>. Tell me about <?>them</?>.</A>
+<B><F>Urm</F>, it was the express train. And there're, of course, too many people. And I always have very heavy bag. You know, you can see that. And on that day, I take my bag with, and I also take my umbrella and another baggage.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>And</SC> <SC>so</SC> <.></.> <SC>I</SC> and <R>when</R> <SC>when I</SC> when the train stopped one station, I has to take down because there're too many people, <SC>and I</SC> and after that <SC>I take</SC> I started take the train again, one old girl come to outside because <SC>she really wanted</SC> she wanted to get off but she couldn't. So she came, <R>and</R> and she attacked me, and I dropped all my baggages and my umbrella went to the rail. <SC>And</SC> <SC>but</SC> <SC>yeah</SC> but I was lucky because my umbrella was safed.</B>
+<A>O K.</A>
+<B>Yeah.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Good. All right. Very good. <F>Well</F> this is, <F>er</F> the end of the interview. <F>Er</F> what is your plan for today?</A>
+<B>Today? <.></.> <?>Now, to, yeah</?> I has to eat my lunch.</B>
+<A><F>Oh</F> no. <OL><??></??></OL></A>
+<B><OL><??></??></OL> Because of my circle. Yeah. <.></.> And after that, I will take a Chinese class. And after that, I will go to my part-time job.</B>
+<A>I see. So you're busy today.</A>
+<B>Yeah. Really busy.</B>
+<A>So, eat well, and don't work too hard.</A>
+<B><laughter>O K</laughter>.</B>
+<A><laughter>O K</laughter>. Thank you for coming.</A>
+<B>Yeah. Thank you. <OL><?>Thank you</?></OL>.</B>
+<A><OL>This is all</OL>. All right.</A>
+</stage5>
+</body>
+</interview>

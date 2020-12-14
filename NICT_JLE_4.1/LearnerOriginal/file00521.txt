@@ -1,0 +1,286 @@
+<interview>
+<filename>file00521.txt</filename>
+
+<head version="1.3">
+<date>2001-06-29</date>
+<sex>female</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC>915</TOEIC>
+<TOEFL>243</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><H pn="A's name">XXX01</H>.</B>
+<A>Can I have your name, please?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>All right,</A>
+<B><OL>Sure</OL>.</B>
+<A><OL><H pn="B's name">XXX02</H></OL>. Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you this evening?</A>
+<B>Good. Thanks.</B>
+<A>O K. It's hot day.</A>
+<B>Yes. It's very hot.</B>
+<A>And, do you like this hot weather?</A>
+<B><F>Mm</F> no. It's too humid, I think.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Hm</F>.</B>
+<A><F>Well</F> what do you like to do on hot days?</A>
+<B>On Hot days?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Mm</F> maybe, go to swimming.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Hm</F>.</B>
+<A>O K. <F>Um</F> and it's Friday.</A>
+<B>Yes.</B>
+<A>Yes.</A>
+<B><nvs>laughter</nvs></B>
+<A>Did you have a nice week?</A>
+<B><F>Um</F> yes. I guess it was nice week. As <F>um</F> <.></.> last week, I <SC>went <.></.> to</SC> <R>went</R> went out and <F>um</F> had a big dinner</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>at</R> at a pretty expensive <SC>din</SC> restaurant. <nvs>laughter</nvs></B>
+<A><F>Ah</F>.</A>
+<B>Yeah.</B>
+<A>O K. I see. <F>Um</F> <H pn="B's name">XXX02</H>,</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL><F>well</F></OL> what do you do?</A>
+<B><.></.> What do I do? <F>Um</F> I am a student.</B>
+<A><F>Hm</F>.</A>
+<B>And <R>I'm</R> I'm going to a school about three or four <SC>day</SC> days a week.</B>
+<A><F>Hm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>I see. <F>Um</F> what do you study <OL>in school</OL>?</A>
+<B><OL><F>Well</F></OL> I <F>erm</F> major in accounting. And, yes, I'd like to <F>um</F> work as an accountant <OL>later on</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>. <F>Uum</F>.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>I see</OL>. Why would you like to be an accountant?</A>
+<B><F>Well</F> I think <F>um</F> accounting is something <F>um</F> <.></.> which is very <F>erm</F> professional job. And I can work <F>um</F> <SC>whole</SC> <.></.> for whole my life. <CO><OL>So</OL></CO>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>Yes. And I like numbers, <laughter>too</laughter>.</B>
+<A>Numbers? <OL>O K</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Good. Good reason.</A>
+<B>Yeah.</B>
+<A>All right. <F>Um</F> now, <SC>do you like</SC> <F>um</F> do you have any hobbies other than swimming? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Err</F></OL> hobbies? Yes. I sometimes go to <F>erm</F> movies. Actually, <R>I</R> I'm going to movie <F>um</F> this week to see <F>er</F> "Chocolat". <nvs>laughter</nvs></B>
+<A><F>Um</F>.</A>
+<B>Yeah.</B>
+<A>Right.</A>
+<B>I think it's gonna be a good movie.</B>
+<A><F>Er</F>.</A>
+<B><F>Um</F>.</B>
+<A>What kind of movies do you like to see?</A>
+<B><F>Well</F> <SC>I watch <F>er</F> more</SC> I see <F>um</F> <.></.> active <laughter>movies</laughter>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F> and <F>well</F> I like love stories, too.</B>
+<A><F>Ah</F>. <OL>Love stories</OL>?</A>
+<B><OL><F>Hm</F></OL>. <F>Um</F>.</B>
+<A>What's good about <R>lo</R> love stories?</A>
+<B><F>Um</F>.</B>
+<A><SC>What is</SC> what's good <OL>about</OL>,</A>
+<B><CO><OL>Good ada</OL></CO>. <OL><F>Oh</F></OL>.</B>
+<A><OL>love</OL> stories, do you think?</A>
+<B><F>Well</F> <SC>it's <F>um</F> something</SC> it's unusual. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mh-hmm</F> <F>mh-hmm</F></OL>.</A>
+<B>And it's not a daily life story. <CO>So</CO>. Yeah.</B>
+<A>O K. I see. And, <F>er</F> <H pn="B's name">XXX02</H>, do you live alone or <OL>live with family</OL>?</A>
+<B><OL>I live with family</OL>.</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+<A>Tell me about your family.</A>
+<B><F>Oh</F> I have mother, father and one big brother and little brother.</B>
+<A><F>Um</F>.</A>
+<B>So <R>I</R> I live with <F>er</F> four members. And <F>hm</F> most of them have a work. I mean, <F>erm</F> my father and my big brother goes to work from early morning until late at night. And my little brother goes to high school. And he's also <laughter>busy</laughter> with his <F>erm</F> sports <R>ac</R> activities and also his studies.</B>
+<A>Right.</A>
+<B>So my mother is staying at home alone all the time. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Ah</F></OL>. O K. <nvs>laughter</nvs> I see. Thank you very much, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>Let's move on. <F>Um</F> first of all today, I would like to show you a picture, O K, here you go, of a class room.</A>
+<B><F>Uhu</F>.</B>
+<A>Now,</A>
+<B>Yeah.</B>
+<A>please describe it for me.</A>
+<B><.></.> <F>Well</F> there are <F>um</F> six students in this classroom. And the teacher is teaching, I think it's mathematics. And, <F>um</F> <SC>in front of the row</SC> <F>um</F> <SC>the fir</SC> in the first row, two students are studying hard. But one of them is <SC>sleeping</SC> <F>er</F> falling asleep. And, <F>well</F> from the second rows, <F>um</F> students <R>are</R> are having a drink and talking to a friend. So I guess this is a noisy classroom <SC?>in</SC?> and <F>um</F> it seems like most of the students are not working hard.</B>
+<A><F>Um</F>. Right.</A>
+<B>And the teacher doesn't seems to be angry. <F>Um</F> maybe, <F>uh</F> she is used to this situation all the time. <..></..></B>
+<A>O K. Thank you very much.</A>
+<B><F>Mh-hmm</F>.</B>
+</task>
+<followup>
+<A><F>Er</F> now, <H pn="B's name">XXX02</H>, you said you like numbers.</A>
+<B><F>Uhu</F>.</B>
+<A><F>Uh</F> so that means you <OL>like</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>math?</A>
+<B>Yeah. I used to like math. But <F>well</F> I don't study math at university.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>.</B>
+<A>O K. How was your math classes in your high school days?</A>
+<B><F>Well</F> <.></.> <SC>there were</SC> <F>um</F> I lived in <F>er</F> Australia. And <F>um</F> <F>um</F> their math class <SC>i</SC> were separated into <F>um</F> four classes <R>with</R> <F>er</F> <SC>with their levels</SC> with the students' level. And, <F>um</F> <F>well</F> because I like <laughter>numbers</laughter> I was in the top class. And <SC>all of</SC> most of the students were <F>er</F> Asian students. And, <F>um</F> yes, they were always very keen to study. And <F>er</F> my math teacher was <F>er</F> very kind, polite teacher. And, <SC>I</SC> yeah, I real enjoyed the math <OL>classes</OL>.</B>
+<A><OL><F>Hm</F></OL>. I see.</A>
+<B><F>Hm</F>.</B>
+<A>And, what do you think about this class?</A>
+<B><F>Well</F> <SC>it's very</SC> <F>um</F> this is a very hard situation for the students who wants to study hard. <F>Hm</F>.</B>
+<A>Right. <.></.> O K. Thank you <OL>very much</OL>.</A>
+<B><OL>O K</OL>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <F>err</F> let's try a role play.</A>
+<B><F>Uhu</F>.</B>
+<A>O K. Now, let me give you a card. There you go. It's in Japanese.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>Please</OL> read it, and, whenever you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B>O K.</B>
+<A>O K. Good evening. <OL>May I help you, ma'am</OL>?</A>
+<B><OL><F>Oh</F> good evening</OL>. Yes. <F>Um</F> I bought <F>um</F> this <F>um</F> <F>uum</F> skirt <F>um</F> about <R>two</R> two days ago. And I tried on <F>um</F> in my <R>h</R> home. But <F>well</F> it seems like it's <F>um</F> too small for me. And <F>um</F> <F>well</F> <.></.> I would like you to <SC>other</SC> <F>um</F> change to <R>another</R> another skirt, or, maybe, <R>pay back</R> <F>um</F> pay back money. <F>Um</F>. Could I do that?</B>
+<A><F>Well</F> I'm very sorry, ma'am. We can't do any exchanges or refund. It's <OL>against</OL></A>
+<B><OL><F>Hm</F></OL>.</B>
+<A>our policy.</A>
+<B><F>Well</F> <F>erm</F> but, <F>um</F> when I bought this skirt, <F>um</F> I didn't <F>um</F> tried it on. <CO><OL>So</OL></CO>.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B>And, <SC>I haven't u</SC> of course, I haven't used it, <?>too</?>. You know, I haven't worn it. <CO>So <F>um</F> <F>erm</F> is there <R>any</R> any other choice that</CO>?</B>
+<A><F>Well</F> <F>well</F> I'm sorry. But, <F>um</F> <.></.> I mean, we can't do anything because you didn't try it on</A>
+<B><F>Um</F>.</B>
+<A>before you buy it.</A>
+<B><F>Well</F> <F>erm</F> <.></.> <SC>the</SC> <F>um</F> <.></.> changing room was full of people when I bought this skirt. And <F>well</F> I didn't have <F>er</F> enough time. So, you know, <SC>it's</SC> it was not my fault, I think.</B>
+<A><F>Um</F> you mean, our fault?</A>
+<B>I mean, <F>er</F> the changing room was full. And <R>if</R> if there was enough space, <F>mm</F> <F>well</F> <SC>I got</SC> I tried it on. But I couldn't wait for the people who were <F>er</F> shopping. <CO>So</CO>.</B>
+<A>O K. <F>Well</F> let me ask my manager.</A>
+<B><F>Oh</F> <OL>Please</OL>.</B>
+<A><OL>O K</OL>? <.></.> O K.</A>
+<B><OL><F>Uhm</F></OL>.</B>
+<A><OL>Only</OL> this time.</A>
+<B>O K.</B>
+<A>All right. <F>Um</F> would you like to change</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A>to a new one?</A>
+<B>Yes. <OL><?>Please</?></OL>.</B>
+<A><OL>O K</OL>. Here is your new skirt.</A>
+<B>O K.</B>
+<A>Thank you very much.</A>
+<B>Thank you.</B>
+<A>Have a nice night.</A>
+<B>Yeah.</B>
+<A><laughter>O K</laughter>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Thank you very much, <H pn="B's name">XXX02</H></OL>. That's the end of the role play.</A>
+<B>Yeah.</B>
+</task>
+<followup>
+<A><F>Um</F> <F>well</F> you said you've lived in Australia.</A>
+<B><F>Mh-hmm</F>.</B>
+<A><F>Um</F> <F>er</F> how is the shopping different</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL>from</OL> shopping in Japan to <?>one</?> in Australia?</A>
+<B>Shopping? <F>Well</F> there were not as many as clothes or <F>erm</F> other goods in Australia compared with <F>er</F> Japan.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>erm</F> <F>um</F> <R>the sho</R> the shops were very limited, and <F>well</F> the older clothes was very cheap at the <?>same</?>. So I could easily <R>get</R> <F>um</F> get a clothes <F>erm</F> with my pocket money. But <F>well</F> <F>um</F> it was pretty hard to find a <SC>very</SC> <F>um</F> suitable one. <nvs>laughter</nvs></B>
+<A>Right.</A>
+<B>I mean, the size were very big.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> So <SC>I have to</SC> I had to go to <F>er</F> children's <laughter>shop</laughter>.</B>
+<A><F>Ah</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL><F>Hm</F></OL>. <F>Er</F> <R>es</R> especially, when I have to buy a bottom clothes <F>erm</F> like <F>um</F> pants or skirt, it was always too big for <laughter>me</laughter>.</B>
+<A><F>Uum</F>. <OL>I see</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL> <OL>Yeah</OL>.</B>
+<A><OL>That's the</OL> problem <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A>for Japanese.</A>
+<B>Yeah.</B>
+<A>O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Um</F> finally,</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><OL>one more</OL> thing</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A><SC><OL>I would</OL> like to do</SC> <F>uum</F> I would like you to do, actually. <??></??>. O K. <F>Er</F> here you go. Let me show you a sequence of pictures. And, now, I would like you to make up a story</A>
+<B><F>Mh-hmm</F>.</B>
+<A>based on these six pictures.</A>
+<B>Yes.</B>
+<A>And it happened sometime before.</A>
+<B><F>Um</F>.</B>
+<A>So, please start saying "One day last week", and then, the story.</A>
+<B>O K.</B>
+<A>O K. Please.</A>
+<B>One day last week, <F>um</F> <.></.> I went to the station. And <F>um</F> <SC>there</SC> <F>well</F> it was <F>um</F> early <R>in</R> <SC>in the e</SC> in the morning. And <F>um</F> there were so many people, and the station was very crowded. And <F>um</F> I was standing <SC>behind one</SC> behind a man. But <F>um</F> he suddenly <SC>shook his</SC> <F>um</F> moved his hands. So I dropped my bag <R>to <F>er</F> rail</R> to <F>er</F> railway. And <F>er</F> <F>well</F> <F>uh</F> <SC>the</SC> <.></.> <F>um</F> because it was <F>um</F> very early in the morning, there were all of <F>um</F> trains <R>com</R> coming in. And <F>well</F> I had no time to jump into <R>rail</R> <F>um</F> railway and <R>pick</R> pick it up. So <?><F>well</F></?> I had a little argument <R>with</R> with the man who dropped <R>my</R> <F>er</F> my bag. <F>Um</F> meanwhile, <F>um</F> <R>sud</R> <F>um</F> suddenly, the train came in. And I thought <F>er</F> <SC>my bag was</SC> <R>bag would be</R> <F>um</F> <.></.> my bag would be broken. <F>Um</F>. <.></.> <SC>And</SC> <F>um</F> yes, but, <SC>when the train <R>passed</R> passed away</SC> <F>um</F> <SC>pa</SC> <.></.> when the train moved, I found my bag safe. So, <F>um</F> at the end, I asked the <F>um</F> <R>train</R> train person <SC>and</SC> to pick my back safely. And he <?>resume it</?> <F>um</F> to me <?>safely</?>.</B>
+<A>O K.</A>
+<B>Yep. I was lucky.</B>
+<A>All right. Thank you.</A>
+<B><F>Hm</F>.</B>
+</task>
+<followup>
+<A>All right. Now, <H pn="B's name">XXX02</H>, have you ever been involved or seen an <SC>accident</SC> <??></??> <F>erm</F> traffic accident?</A>
+<B>Traffic accident? <OL><F>Uum</F></OL>.</B>
+<A><OL><F>Hm</F> at a station or on the street</OL>?</A>
+<B>I don't think so. <F>Hm</F> <R>I</R> <F>hm</F> I remember, one day, <F>um</F> at <F>er</F> near Shinjuku.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>That one man dropped into the railway. And <F>eh</F> two other young men and <F>er</F> a cameraman <F>er</F> helped them. And, <F>well</F> unfortunately, <?>they were</?> <F>um</F> all killed.</B>
+<A><F>Mh-hmm</F>. <F>Hm</F> I see. Tragic story.</A>
+<B>Yeah.</B>
+<A>But, O K, why do you think this accident happened in this picture, <?><H pn="B's name">XXX02</H></?>?</A>
+<B><F>Er</F> in this picture, <F>um</F> the man was talking to <F>er</F> another man. And he didn't recognize that <R>there</R> there was a man <R>behind</R> behind him. <CO>So</CO>. And <F>er</F> he seems to be happy, and, you know, <F>um</F> <R>he</R> <F>er</F> he had a lot of gestures. So <F>um</F> he didn't mean to <F>um</F> drop the man's bag, but it was an accident.</B>
+<A><F>Um</F>.</A>
+<B><F>Hm</F>.</B>
+<A>O K. I see. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+<B>Thank you.</B>
+</followup>
+</stage4>
+<stage5>
+<A>All right. We are almost at the end of the interview.</A>
+<B><F>Uhu</F>.</B>
+<A>O K. <F>Um</F> It's nearly the end of June.</A>
+<B>Yes.</B>
+<A>Summer is coming up.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Any plans for summer?</A>
+<B>Yes. <F>Um</F> I'm going to <H pn="others1">XXX03</H> from September.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B><H pn="others1">XXX03</H>.</B>
+<A><F>Er</F> right.</A>
+<B><F>Um</F> as an exchange student.</B>
+<A><F>Err</F>.</A>
+<B><laughter>So</laughter> I have to write a graduate thesis</B>
+<A><F>Hum</F>.</A>
+<B><SC>before I wen</SC> <F>uh</F> before I go to <H pn="others1">XXX03</H>.</B>
+<A><F>Wow</F>. <??></??>.</A>
+<B>I have to be very <laughter>busy</laughter></B>
+<A><F>Uh-huh</F>.</A>
+<B>with working <R>on</R> <F>er</F> on my graduate thesis.</B>
+<A><F>Oh</F>. <F>Um</F> what do you do in <H pn="others1">XXX03</H> other than <R>s</R> <OL>studying</OL>?</A>
+<B><OL>Study</OL>?</B>
+<A>Yeah.</A>
+<B><F>Well</F> <F>erm</F> if I have time, I would like to <F>um</F> visit Canada.</B>
+<A><F>Um</F>.</A>
+<B><CO>Because it's <OL>pretty</OL></CO>.</B>
+<A><OL>Near</OL>?</A>
+<B>Yeah.</B>
+<A>Yeah. O K. Enjoy your vacation.</A>
+<B><laughter>Thank <OL>you</OL></laughter>.</B>
+<A><OL>And <??></??></OL> good luck on your study. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>That's the end.</A>
+</stage5>
+</body>
+</interview>

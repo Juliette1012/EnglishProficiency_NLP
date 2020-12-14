@@ -1,0 +1,208 @@
+<interview>
+<filename>file00403.txt</filename>
+
+<head version="1.3">
+<date>2001-03-13</date>
+<sex>male</sex>
+<age>40</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>690</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you today?</A>
+<B>Fine thanks, <OL>and you</OL>?</B>
+<A><OL>Good</OL>. Good. Thank you. <F>Well</F>. Where are you from?</A>
+<B><F>Erm</F>. <H pn="others1">XXX03</H> City in <H pn="others2">XXX04</H>.</B>
+<A><F>Uh-hmm</F>. <CO><OL>Could you</OL></CO>?</A>
+<B><OL><F>Ah</F></OL>. Department?</B>
+<A><F>Oh</F>. You live in <H pn="others1">XXX03</H> City. <OL>O K</OL>.</A>
+<B><OL>Yeah</OL>. <F>Er</F>.</B>
+<A>So, would you tell me about the area, <H pn="others1">XXX03</H> City?</A>
+<B><F>Er</F>. It is <F>mm</F> <.></.> west side of <H pn="others2">XXX04</H>, and it takes <SC>one</SC> about one hour from <H pn="others2">XXX04</H> Station to our town by train.</B>
+<A><F>Uh-hm</F>. O K. Do you like to live there?</A>
+<B><F>Oh</F>. Yes. <.></.> <F>Er</F> <F>erm</F> <F>um</F>. Our town <F>mm</F> is <F>um</F> <F>ur</F> <R>very</R> very very beautiful town. <F>Urm</F> <F>er</F>. A small stream is running in our town called <H pn="others3">XXX05</H>.</B>
+<A><F>Uhu</F>.</A>
+<B>And <F>er</F> a lot of trees and <F>ur</F> waters, so <F>er</F> it is very beautiful. And there are a lot of bird singing and <F>er</F> <F>mm</F> very very beautiful.</B>
+<A>Good. O K. <F>Well</F>. Do you live with your family?</A>
+<B>Yes, with my wife and our two sons.</B>
+<A><F>Er</F>. O K. Would you tell me about your two sons.</A>
+<B><F>Er</F> <F>urm</F>. Older one is now the second grade in junior high school. And a younger one is <F>er</F> six grade in primary school.</B>
+<A><F>Err</F>.</A>
+<B>And <R>they</R> they play soccer.</B>
+<A><F>Uh-hm</F>. Are they different?</A>
+<B>Sorry?</B>
+<A>Are they different?</A>
+<B><F>Er</F>. What?</B>
+<A>Can you compare two of them?</A>
+<B><F>Er</F>. Very very different. <F>Urr</F>.</B>
+<A>Tell me about the differences.</A>
+<B>Older one <F>er</F> does not speak a lot. But younger one <SC>already</SC> <F>er</F> always speaking.</B>
+<A><nvs>laughter</nvs></A>
+<B>And <F>er</F> younger one <F>er</F> tries <F>er</F> everything. <F>Er</F>. He is <R>very</R> <F>mm</F> very, <.></.> <F>oh</F> <R>I can</R> I cannot explain, <JP>sekkyokuteki</JP> in English.</B>
+<A><F>Er</F>. I see.</A>
+<B>But <F>er</F> older one <F>er</F> does not do a lot.</B>
+<A><F>Er</F>. I see.</A>
+<B>Yeah.</B>
+<A>O K. I see. By the way, <H pn="B's name">XXX02</H>, <F>well</F> what do you like to do when you have free time?</A>
+<B><F>Err</F>. I like to play soccer with children.</B>
+<A><F>Uh-hmm</F>.</A>
+<B>So now, I belong a soccer team as a coaching staff.</B>
+<A><F>Er</F>. Really?</A>
+<B>Yeah.</B>
+<A>So, would you tell me about the team?</A>
+<ctxt>Bell rings.</ctxt>
+<B><F>Er</F>. The team <F>er</F> is called <H pn="others4">XXX06</H>.</B>
+<A><nvs>laughter</nvs></A>
+<B>And <F>er</F> my sons <SC>play</SC> <F>er</F> played in the team. <F>Ur</F>. And I didn't play soccer in my <F>ur</F> student's life. And, when <SC>they play</SC> they start to play soccer in the team, <R>I</R> I started to play soccer.</B>
+<A>Really?</A>
+<B>Yeah.</B>
+<A>What a nice father. Good. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'm going to show you a picture. Please take a look, and would you describe the picture for me?</A>
+<B><F>Ha</F> <F>ha</F> <F>ha</F> <F>ha</F> <F>erm</F>. <..></..> Anything is O K?</B>
+<A>Yes.</A>
+<B><F>Uh-hum</F> <F>ur</F>. There is a girl with dog and cat. And <F>er</F> <R>she</R> she show her personal computer to them. But <R>they</R> they are not interested in computer. And <F>er</F> there are a lot of <F>ur</F> machines <F>mm</F> <SC>tec</SC> <F>mm</F> electric devices, <F>er</F> audio player <R>and</R> and typewriter. And <.></.> <F>mm</F> the door is open. <F>Ur</F>. Shall I make a story or something?</B>
+<A><F>Oh</F>. Just describe it.</A>
+<B><F>Uh-hum</F>. And <SC>the trash box is</SC> <F>mm</F> <F>er</F> there is a <SC>trash box</SC> pink trash box. And the curtain is open.</B>
+<A>O K. Good.</A>
+<B><laughter>Good</laughter>?</B>
+<A>Yeah. Good. O K.</A>
+</task>
+<followup>
+<A>So <F>ur</F> your children have their own room?</A>
+<B><SC>Yes, <R>they</R> <SC>they does</SC> they</SC> <F>mm</F> yes, they do.</B>
+<A>O K. So this room is different from theirs?</A>
+<B><F>Ha</F> <F>ha</F> <F>ha</F> <F>ha</F> <F>ha</F>. Yes. <F>Urr</F>. <SC>They does</SC> they don't have their own computer or typewriter or audio player. And <F>urr</F> their rooms are more, <F>mm</F> <F>mm</F> <.></.> <F>er</F> <..></..> <F>oh</F> I cannot explain, <F>um</F> <JP>gocha gocha shiteiru</JP>.</B>
+<A><laughter>That's O K</laughter>.</A>
+<B>Yeah.</B>
+<A>Maybe, very different from this one.</A>
+<B>Yes.</B>
+<A>O K. Good. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <F>urm</F> we'll do a role-play.</A>
+<B>Sorry?</B>
+<A>Role-play.</A>
+<B><F>Er</F>. Role-play, yeah.</B>
+<A><F>Mm-hm</F>. Please read it, and when you are ready, I'll begin.</A>
+<B><F>Ha</F> <F>ha</F> <F>ha</F>. <..></..> <F>Urr</F>.</B>
+<A>Ready?</A>
+<B><CO><SC>Anything</SC> <F>er</F> <SC>what is my</SC> <SC>what is the</SC> <.></.></B>
+<A><F>Er</F>. <OL><R>you can</R></OL></A>
+<B><OL><R>what</R></OL> what</CO>?</B>
+<A>you can decide.</A>
+<B><F>Er</F>. Anything is O K? <F>Ha</F> <F>ha</F> <F>ha</F> <F>ha</F>. <..></..> O K.</B>
+<A>O K?</A>
+<B>Yeah.</B>
+<A>Hi, may I help you, sir?</A>
+<B><F>Er</F>. <R>I'm</R> I'm looking for <F>urr</F> <F>err</F> electronical dictionary.</B>
+<A><F>Uh-hmm</F>.</A>
+<B>And, <SC>do you have something</SC> do you have any <SC>electronical</SC> <R>electric</R> electric dictionary?</B>
+<A>Sure. We have many kinds of <OL>dictionaries</OL>.</A>
+<B><OL><F>Uh-hm</F></OL> <F>urr</F>. Actually, <R>I</R> I have just started to learn English. So <F>urr</F> I need <F>er</F> dictionary for English.</B>
+<A><F>Uh-hm</F>.</A>
+<B>And, do you have that kind of dictionary?</B>
+<A>O K. How about this one? This is the most popular one, <OL>here</OL>.</A>
+<B><OL><F>Er</F></OL> <F>ur</F>. <SC>What kind of dictionaries are</SC> <.></.> <F>er</F> <R>what</R> <F>err</F> what kind of dictionary is included?</B>
+<A><F>Uh-hm</F> <F>well</F>. <JP>Koujien</JP> and Japanese-English and English-Japanese.</A>
+<B><F>Er</F>. I don't need <JP>Koujien</JP>. But <R>I</R> I need <F>er</F> Longman English-English dictionary. <F>Mm</F>.</B>
+<A><F>Er</F>. O K. English-English dictionary, Longman. <F>Ur</F>. O K. Here, it is the one.</A>
+<B><F>Er</F> <F>erm</F>. <R>Is it</R> <F>er</F> <SC>is it</SC> <F>er</F> <SC>what</SC> is there any other dictionaries installed?</B>
+<A>Yes. <F>Ur</F>. There are Japanese-English dictionary and English-Japanese also. And English-English.</A>
+<B><F>Oh</F>. It's good.</B>
+<A><F>Uh-hm</F>.</A>
+<B>And, how much is this?</B>
+<A>This is thirty thousand.</A>
+<B>Thirty thousand?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Oh</F>. <R>It's</R> it's just a little expensive for me. So, do you have any <F>er</F> <F>er</F> <F>uh</F> <R>cheaper</R> cheaper one?</B>
+<A>O K. <F>Well</F>. How about this one?</A>
+<B>How much is this?</B>
+<A>This is twenty thousand.</A>
+<B><F>Ah-huh</F> <F>urr</F>. Is the function is same?</B>
+<A><F>Uh-huh</F>. Same.</A>
+<B><F>Mh-hm</F>.</B>
+<A>But it's smaller.</A>
+<B><F>Oh</F>. Yeah. And, <R>which</R> <SC>which makers</SC> <F>mm</F> <F>urr</F> <R>is</R> <SC>is this what</SC> <F>er</F> <R>I</R> <R>I</R> I prefer <F>er</F> SONY or SEIKO.</B>
+<A><F>Uh-hm</F>. O K. It's SEIKO's one.</A>
+<B><F>Oh</F>. Yeah. <F>Urr</F>. Is it possible to discount?</B>
+<A><F>Well</F>. It's a new one, so we can't.</A>
+<B>Yeah, O K. I'll take this one.</B>
+<A>O K. How would you like to pay?</A>
+<B><F>Er</F>. <SC>By</SC> <F>er</F> do you accept <R>VI</R> VISA?</B>
+<A>Sure. O K. Here you go.</A>
+<B>Thank you.</B>
+<A>Thank you very much. Enjoy it.</A>
+<B>Thank you.</B>
+<A><nvs>laughter</nvs></A>
+</task>
+<followup>
+<A>O K. So, <R>do you</R> do you like to use VISA card sometimes?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. There are many credit companies. But, why did you choose VISA?</A>
+<B><F>Urr</F>. <SC>There are</SC> there is no <F>er</F> special reason. <F>Ur</F>. <SC>I think VI</SC> <F>er</F> I use <R>VISA</R> <F>er</F> VISA</B>
+<A><F>Um</F>.</A>
+<B>and JCB. <CO>But <F>er</F> I don't</CO>. <.></.> <F>Err</F>. <..></..></B>
+<A><OL>Maybe, you don't care</OL>?</A>
+<B><CO><OL><R>I</R> I use</OL></CO>. Yeah.</B>
+<A><laughter>O K</laughter>. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, finally, I'm going to show you another picture. And I'd like you to make up a short story about this picture. And the story happened before. So, please start your story with "One day last week,"</A>
+<B><.></.> "One day last week"?</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Uh-hm</F>.</B>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><F>Ha</F> <F>ha</F> <F>ha</F>. <R>Who is</R> who is me?</B>
+<A><F>Oh</F>. You can decide. It's up to you.</A>
+<B><F>Ha</F> <F>ha</F>. <..></..> <F>Uh-hm</F>. <..></..> O K.</B>
+<A>Go ahead.</A>
+<B><F>Erm</F>. <.></.> <F>Um</F>. On last Saturday, <F>ur</F> I met my cousin. And <F>er</F> <.></.> <F>err</F> the last time we met was five years ago, so <F>er</F> <SC>I am</SC> I was surprised <R>to see him</R> <F>er</F> <F>er</F> to see him grew up. <F>Mm</F>? And <nvs>coughs</nvs> <F>ur</F> <SC>we have</SC> we had lunch <R>at</R> at garden restaurant. Of course, I treated him, <F>er</F> I said him <SC>anything you</SC> <SC>anything</SC> <F>er</F> please choose anything you'd like. And <R>we</R> we had lunch and <F>er</F> beer. <F>Ur</F>. <R>He</R> <SC>he was not</SC> <F>er</F> <SC>he was</SC> even he was <R>under</R> under twenty years, but we drank beer. And <F>er</F> he seems to be <F>err</F> satisfied. And <R>he had</R> he had enough and satisfied. And <F>er</F> <F>er</F> we said good-bye. <R>And</R> <F>er</F> <.></.> and <SC>whenever</SC> <SC>I said him <R>whenever</R> whenever you call</SC> <F>mm</F> I said him, "Please call me whenever you want to have a rich lunch.".</B>
+<A><laughter>O K</laughter>.</A>
+</task>
+<followup>
+<A><F>Well</F>. Are you generous like him? <nvs>laughter</nvs></A>
+<B>Yes. <.></.> <F>Uh</F>?</B>
+<A><nvs>laughter</nvs> Do you treat someone dinner or lunch sometimes?</A>
+<B><F>Er</F>. Sometimes. <SC>Not often</SC> not so often.</B>
+<A>I see. <OL>Good, O K</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Now, we are almost at the end of the interview. <F>Well</F>. Do you have any plans for this afternoon?</A>
+<B>Plan?</B>
+<A>After this interview.</A>
+<B><F>Err</F> <F>er</F>. I will have TOEIC examination.</B>
+<A><F>Ah</F>.</A>
+<B>Since <F>er</F> <R>three</R> three forty five.</B>
+<A><F>Er</F>. O K. <F>Uh-hm</F>. O K. Try hard.</A>
+<B>Thank you.</B>
+<A><laughter>Thank you very much</laughter>.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,210 @@
+<interview>
+<filename>file00389.txt</filename>
+
+<head version="1.3">
+<date>2001-02-25</date>
+<sex>female</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello, my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. So can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. So how are you today?</A>
+<B><F>Er</F> I'm pretty good.</B>
+<A>O K. So <F>er</F> what did you do today?</A>
+<B><F>Urr</F> <.></.> before coming here,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I went to bookstore.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because I'm looking for a special book</B>
+<A><F>Uhm</F>.</A>
+<B>for traveling.</B>
+<A><.></.> So you're interested in traveling?</A>
+<B><F>Er</F> recently, yes.</B>
+<A>O K.</A>
+<B>I'm going to go to Ukraine <F>ur</F> in this March. <CO><OL>So</OL></CO>.</B>
+<A><OL>O K</OL>.</A>
+<B>Yeah. <.></.></B>
+<A>O K. So what are you going to do over there?</A>
+<B><F>Ur</F> <.></.> I'm planning to visit my friend,</B>
+<A><F>Uh-huh</F>.</A>
+<B>and visiting <F>er</F> nearest his house.</B>
+<A><F>Mm-hmm</F>. <.></.> Anything else?</A>
+<B><.></.> <F>Er</F> <.></.> I'm interested in language and sound.</B>
+<A><F>Uhm</F>.</A>
+<B><R>I want to</R> I want to have special sounds <?>in sounds</?> there.</B>
+<A>O K. I see. O K. So are you a student?</A>
+<B>Yes.</B>
+<A>O K. So which school do you go?</A>
+<B><.></.> The place?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ur</F> in <H pn="others1">XXX03</H>.</B>
+<A>O K. So what do you study?</A>
+<B><F>Er</F> I'm studying education in Japan.</B>
+<A><F>Hm</F>. So can you tell me more about it?</A>
+<B>I'm interested in <F>er</F> early English education in Japan.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> especially, I'm studying about the text that is used in junior high school or elementary school.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. <.></.> <SC>And <.></.> so</SC> and also I'm interested in, as I said, <F>er</F> <F>er</F> language and sound. So I want to make <F>um</F> <.></.> <F>uhm</F> textbook about phonetics,</B>
+<A>Right.</A>
+<B>that is for <F>urm</F> junior high school student or elementary school students.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Hm</F>. O K. I see. So now, I'm going to show you a picture. So I want you to describe it for me.</A>
+<B>O K. <.></.> Can I see?</B>
+<A>Sure.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>Can I start?</B>
+<A>Yeah, go ahead.</A>
+<B><F>Urm</F>. <.></.> There is a big house with big garden. And there are some people in this picture. And <nvs>cough</nvs> <.></.> there are three children. Two of them are playing with a ball together, and the other is playing with rope. And a man is running <.></.> along the street. <R>And</R> <..></..> and <SC>there is a tax</SC> there is a car. And by the car, two woman are speaking together. <R>One of them</R> one of them is with a dog. <.></.> <R>And</R> <..></..> a little bit <SC>older</SC> old man is reading a newspaper on a bench.</B>
+</task>
+<followup>
+<A>O K. Thank you. So is your neighborhood is similar to the neighborhood in this picture?</A>
+<B>No.</B>
+<A>No? O K. So please compare your neighborhood and the neighborhood in this picture.</A>
+<B>O K. <F>Urm</F> <..></..> so around my house, <F>urm</F> there are a lot of houses and now, little bit noisy. <F>Hm</F>. So I can't have such a <SC>comfortable</SC> <R>comforta</R> comfortable neighbor now, yeah. <.></.> <F>Er</F> now, <F>urm</F> in front of my house, <F>ur</F> a new building is being build.</B>
+<A><F>Uhm</F>.</A>
+<B>So every day, very noisy.</B>
+<A>Right. So you said it's very noisy around your house. So how do you relax yourself?</A>
+<B><F>Uhm</F>. <F>Urr</F>. <F>Urm</F> I can go to the library,</B>
+<A><F>Uhm</F>.</A>
+<B>near my house.</B>
+<A>Right.</A>
+<B>Yeah. And I can read some books there. <.></.> Or <F>er</F> <R>I'm</R> <SC>I'm play</SC> I play the electric organ <laughter>in my free time</laughter>.</B>
+<A>Right.</A>
+<B>Yeah.</B>
+<A><.></.> O K. So what do you usually play?</A>
+<B><F>Er</F> the Disney song. <SC>My favorite song</SC> my favorite music is that. <CO>So</CO>. <.></.></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. I see. Thank you. So now, we're going to do a role-play. So I'm going to show you a card. And this is written in Japanese. So please read it silently. And whenever you're ready, please let me know.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K. Are you ready?</A>
+<B>O K.</B>
+<A>O K. The phone rings. O K, hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Er</F> hello. This is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. How are you?</A>
+<B><R>I'm fine</R> I'm fine, thanks. How are you?</B>
+<A>Good. Thank you.</A>
+<B><F>Urm</F> today, I have to apologize you.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Because I've suddenly got an important test.</B>
+<A>Right.</A>
+<B>And I can't go to your dinner party today.</B>
+<A><F>Oh</F> you can't?</A>
+<B>Yeah.</B>
+<A>O K.</A>
+<B>So <F>uhm</F> could you invite me next time?</B>
+<A>Yeah. But <F>urr</F> we will hold a party until <SC>late</SC> midnight.</A>
+<B>Yeah.</B>
+<A>So I think you can come.</A>
+<B><F>Urm</F>. But the test <F>er</F> <SC>takes</SC> <F>er</F> will take a long time,</B>
+<A><F>Uh-huh</F>.</A>
+<B>maybe, and the place is <R>far from</R> <F>er</F> far from my house. So maybe I can't come back.</B>
+<A><F>Ohh</F>. But see, today is weekend so maybe you can stay over my house.</A>
+<B>Yeah. But <SC>toda</SC> <F>er</F> tomorrow, <F>er</F> <SC>I ha</SC> I will have another test.</B>
+<A><F>Ohh</F>.</A>
+<B>So I want to prepare that.</B>
+<A>Really? Because it's a surprise party for you.</A>
+<B><F>Uhmm</F>.</B>
+<A><OL>It's a big secret</OL>. But.</A>
+<B><OL>Yeah</OL>, yeah. Sorry.</B>
+<A>All right.</A>
+<B>Maybe next time, O K?</B>
+<A>O K. Yeah. I will. O K. So <F>er</F> thank you for calling. <OL>O K</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+</task>
+<followup>
+<A>So this is the end of the role-play. So <F>urr</F> has anything like this ever happened to you?</A>
+<B><F>Er</F> <R>could you</R> could you say again?</B>
+<A>O K. Has anything like this ever happened to you?</A>
+<B><F>Urr</F> <.></.> yes,</B>
+<A><OL>O K</OL>.</A>
+<B><OL>before</OL>, yeah.</B>
+<A>So what did you do</A>
+<B><F>Uhmm</F>.</B>
+<A>at that time?</A>
+<B>Yeah. Before <SC>going to my friend's</SC></B>
+<A><F>Uhm</F>.</A>
+<B><F>er</F> going to visit my friend, I called her and <SC>I said</SC> I apologized her.</B>
+<A><F>Uhm</F>.</A>
+<B>And I explained why <R>I</R> I <R>could</R> couldn't go. <.></.> Yes. <nvs>laughter</nvs></B>
+<A>O K. So what did your friend say?</A>
+<B>My friend?</B>
+<A>Yeah.</A>
+<B><F>Urm</F>. "It's O K. Maybe <laughter>next time</laughter>.".</B>
+<A><F>Oh</F> O K. Yeah, O K. <.></.></A>
+<B>But <F>urm</F> I don't have such experience so many time.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yeah. Because I don't want to do</B>
+<A><F>Hmm</F>.</A>
+<B>like that.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Uhmm</F>. <.></.> O K. Thank you. So now, I'm going to show you a different picture.</A>
+<B>O K.</B>
+<A>So <F>urm</F> O K. I want you to make up a story from one to six. And this story was happened to you last week. So I want you to start your sentence with "One day last week".</A>
+<B>O K.</B>
+<A>O K?</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Hm</F>. <nvs>cough</nvs> <..></..> One day last week, <F>ur</F> my husband and I <F>uhm</F> walk together. And suddenly, <F>urr</F> we heard <R>strange voice</R> strange voice or strange sound. And we found a cute cat. And we thought <F>uhm</F> there's <F>er</F> nobody <R>who</R> <SC>who has the ca</SC> who had a cat. And I asked my husband to bring the cat to our house. But <SC>my</SC> at first, my husband <F>ur</F> "<SC>I could</SC> I couldn't.". But at last, <F>urm</F> <nvs>cough</nvs> he said O K. And <SC>we bring</SC> we brought that cat <R>to my</R> to our house.</B>
+</task>
+<followup>
+<A><F>Uhm</F>. O K. Thank you. So do you have a pet?</A>
+<B>Now, no.</B>
+<A>O K. So <F>urr</F> have you ever <R>ha</R> had a pet?</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B><F>Urm</F>. I had a dog.</B>
+<A><F>Uhm</F>. <.></.> So can you tell me more about the dog?</A>
+<B>O K. <F>Ur</F> but the dog died when I was a child. So since that, I couldn't <F>er</F> have a pet anymore.</B>
+<A><F>Uhm</F>.</A>
+<B><..></..> I can't stand the sadness of death.</B>
+<A><F>Uhm</F>. Yeah. <..></..> So what do you think is the most important thing to keep a pet as a owner?</A>
+<B><F>Ah</F>. <.></.> <F>Uhm</F> I think <F>uhm</F> <..></..> <R>to</R> to think a pet as our family member, and <SC>take</SC> to take care of the pet <F>uhm</F> until the pet would die.</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> I think so. <.></.></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you.</A>
+<B>O K.</B>
+<A>So we are almost <SC>finish</SC> I mean, at the end of the interview. So it's Sunday. So what are your plans after this interview?</A>
+<B><F>Urm</F>. Maybe I'm going to go shopping,</B>
+<A><F>Uhm</F>.</A>
+<B><F>urm</F> to buy something for <laughter>my traveling</laughter>.</B>
+<A><F>Oh</F> right.</A>
+<B>Yeah.</B>
+<A>So where are you going?</A>
+<B><F>Urm</F> I'm going to go to <R>Ukraine</R> Ukraine. But before that, I'm going to London and Prague.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah.</B>
+<A>O K. So <F>er</F> I hope you enjoy shopping.</A>
+<B>Yeah. <OL>Thank you</OL>.</B>
+<A><OL>And <F>ur</F></OL> thank you so much for coming in today.</A>
+<B><F>Er</F> thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

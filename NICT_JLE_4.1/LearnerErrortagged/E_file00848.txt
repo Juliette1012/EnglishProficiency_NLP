@@ -1,0 +1,316 @@
+<interview>
+<filename>E_file00848.txt</filename>
+
+<head version="1.3">
+<date>2002-02-21</date>
+<sex>male</sex>
+<age>25</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>670</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Um</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>How are you today?</A>
+<B>I'm fine, thank you, and you?</B>
+<A>I'm good. <OL>Thank</OL></A>
+<B><OL><F>Hum</F></OL>.</B>
+<A>you. And, O K, could you tell me about your family?</A>
+<B>My family?</B>
+<A><F>Hu-huh</F>.</A>
+<B>O K. <F>Err</F> <.></.> <SC>I have <F>err</F> four families</SC> <F>err</F> sorry, <pn_agr odr="1" crr="we">I</pn_agr> have <F>er</F> four people <prp_lxc1 odr="2" crr="in">with</prp_lxc1> <pn_agr odr="3" crr="our">my</pn_agr> family, <con_lxc odr="4" crr="">and</con_lxc> mother and father and my brother. So my parents <v_agr odr="1" crr="live">lives</v_agr> in my hometown <F>err</F> <SC>it</SC> <F>err</F> which is in Tokushima in Shikoku Island. And my brother <F>err</F> <R>lives in</R> lives in Tokyo to work for <at odr="1" crr="a"></at> credit company. <CO>So</CO>. <?>O K</?>?</B>
+<A><F>Hu-huh</F> <OL>I see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>So <R>you</R> <F>erm</F> you are from Tokushima?</A>
+<B>Yes.</B>
+<A>I see. O K. Could you tell me about Tokushima?</A>
+<B>All right. <F>Err</F> my hometown has a lot of nature, and it's surrounded by <F>err</F> green.</B>
+<A><F>Hum</F>.</A>
+<B>So, for example, <F>err</F> near <SC>the</SC> my hometown, there is <at odr="1" crr="a">the</at> fishing pond, and <F>er</F> there is a <nvs>cough</nvs> <F>err</F> wonderful view of <??></??> of small <SC>island</SC> islands.</B>
+<A><F>Hum</F> <?>I see</?>.</A>
+<B>So <F>err</F> fish is very delicious. And <o_uk odr="1" crr="it takes about two hours to come here from the city by car">it's a city about two hours from here <F>er</F> by car</o_uk>. <.></.> <F>Hum</F> so it's <at odr="2" crr="the">a</at> <av_lxc odr="1" crr="">very</av_lxc> countryside, but I really like it. <F>Err</F> so, now I live in Osaka, but, when I retire, I'd like to move back to my hometown</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>um</F></OL> and take it easy <OL>for the rest of</OL></B>
+<A><OL><nvs>laughter</nvs></OL>.</A>
+<B>my life.</B>
+<A>I see.</A>
+<B>Yeah. <OL><nvs>cough</nvs></OL>.</B>
+<A><OL>So</OL>, do you like fishing?</A>
+<B>No. <o_uit odr="1">I never fish in fishing</o_uit>.</B>
+<A><F>Oh</F> really? <OL><F>Oh</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>O K. What are your hobbies?</A>
+<B>O K. <F>Err</F> when I was <at odr="1" crr="a"></at> student, I played baseball from elementary school to university, so at that time, I was <at odr="2" crr="a"></at> very famous baseball player. So, for example, <F>er</F> when I was <at odr="1" crr="a"></at> high school student, <n_cs odr="3" crr="scouts from some professional baseball teams">some professional baseball <F>err</F> team's <n_num odr="2" crr="scouts">scout</n_num></n_cs> came to my school to check my performance.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL>So</OL>, <F>err</F> although they recommended me to join <at odr="1" crr="a"></at> professional baseball team, I refused it because <F>err</F> I really wanted to go to <at odr="2" crr="">the</at> university to play baseball <SC>ui</SC> <F>er</F> <prp_lxc1 odr="3" crr="in">at</prp_lxc1> <at odr="4" crr="the"></at> university league.</B>
+<A><F>Hum</F> I <OL>see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>So, do you think <SC>it's</SC> <F>err</F> it was the best choice?</A>
+<B><SC>I'm</SC> <R>I</R> <R>I</R> I think so.</B>
+<A><F>Oh</F> that's <OL>good</OL>.</A>
+<B><OL>So</OL>, because <OL><F>err</F></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>when I was</B>
+<A><F>Hu-huh</F>.</A>
+<B><prp_lxc1 odr="1" crr="at"></prp_lxc1> university, I played with Yoshinobu Takahashi who is <F>er</F> one of the most famous baseball <n_num odr="2" crr="players">player</n_num> <OL>in Japan <prp_lxc1 odr="3" crr="in">at</prp_lxc1> <at odr="4" crr="the"></at> same team</OL>.</B>
+<A><OL><F>Oh</F> I see, I see</OL>. <F>Hum</F>.</A>
+<B>So, <nvs>cough</nvs> at that time, <F>err</F> everyone <v_lxc odr="1" crr="appreciated">recognized</v_lxc> my performance.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>It</OL> was same as <pn_cs odr="1" crr="his">him</pn_cs>.</B>
+<A><F>Hu-huh</F>.</A>
+<B>So that's why I really wanted to join <at odr="1" crr="a"></at> professional baseball team after I graduated <prp_lxc2 odr="2" crr="from"></prp_lxc2> <F>err</F> university.</B>
+<A><F>Hu-huh</F>.</A>
+<B>But, unfortunately, <F>err</F> when I was <at odr="1" crr="a"></at> freshman, I broke my shoulder</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>due</OL> to too much throwing.</B>
+<A><F>Hu-huh</F>.</A>
+<B>So I <v_tns odr="1" crr="had">have</v_tns> to give up <OL>to <v_lxc odr="2" crr="be">join</v_lxc> <at odr="3" crr="a"></at> baseball player</OL>.</B>
+<A><OL><F>Uhm</F> I see, I see</OL>. O K. In your opinion,</A>
+<B><F>Hu-huh</F>.</B>
+<A>what kind of person is Takahashi Yoshinobu like? <nvs>laughter</nvs>.</A>
+<B>What kind of person?</B>
+<A>In your opinion.</A>
+<B>In my <OL>opinion</OL>?</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B><F>Err</F> he is very cool.</B>
+<A><?>I see</?>.</A>
+<B>Yeah, so <F>err</F> he was very kind <prp_lxc2 odr="1" crr="to">for</prp_lxc2> <OL>me <F>err</F></OL></B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+<B><prp_lxc1 odr="2" crr="in">at</prp_lxc1> my university <n_num odr="3" crr="days">day</n_num>.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So I really <SC>liked it</SC> <F>err</F> liked him.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So, for example, <R>he</R> <F>err</F> <.></.> <R>he <F>err</F> wa</R> <SC>he wa</SC> <R>I</R> I was <SC>intro</SC> invited from him <prp_lxc1 odr="1" crr="to">about</prp_lxc1> <SC>something</SC> dinner, or <F>err</F> <SC>I go to</SC> <R>I</R> <SC>I go</SC> <F>er</F> I went to pachinko <OL>with him</OL></B>
+<A><OL><F>Hum</F> <F>hu-huh</F></OL>.</A>
+<B><F>err</F> <prp_lxc1 odr="2" crr="on">in</prp_lxc1> off-days.</B>
+<A>I see. <F>Oh</F>. O K. Thank you very much. <OL>Very</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>interesting.</A>
+<B>Yeah.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. And, <OL>now I'll</OL></A>
+<B><OL><nvs>cough</nvs></OL>.</B>
+<A>show your a picture here.</A>
+<B><F>Hu-huh</F>.</B>
+<A>O K. Could you <F>err</F> describe this picture in detail?</A>
+<B>O K. <nvs>cough</nvs> <F>Err</F> this picture shows <at odr="1" crr="a"></at> very peaceful neighborhood. The sun is shining <av_lxc odr="1" crr="brightly">bright</av_lxc>.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And there is a big house <F>err</F> with <at odr="1" crr="a"></at> backyard. <F>Err</F> in the backyard, <F>err</F> there are two boys playing volleyball. And, in front of the big house, <F>err</F> there is a sidewalk. And, along the sidewalk, a man wearing <at odr="1" crr="a"></at> blue sweatshirt is jogging. And, O K, <SC>at car</SC> <F>ah</F> <SC>there is a car</SC> <F>err</F> <R>it</R> <F>er</F> <SC>the</SC> a car is parked on <at odr="1" crr="the"></at> side of the street. A cat is sleeping <F>err</F> on the top of the car. Next to the car, <SC>there are</SC> two women with the dog <v_agr odr="1" crr="are">is</v_agr> <v_cmp odr="2" crr="talking to each other">talking together</v_cmp>. And, across the street, <F>err</F> <SC>a man</SC> <at odr="1" crr="an">a</at> old man is reading a newspaper. <F>Err</F>. O K?</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>So <F>err</F> he is jogging, but, <R>what</R> <F>err</F> what are you doing for your health?</A>
+<B>For <pn_lxc odr="1" crr="my">your</pn_lxc> health?</B>
+<A><F>Hu-huh</F>.</A>
+<B>O K. <F>Err</F> now I belong to <F>err</F> <at odr="1" crr="the"></at> company's baseball team.</B>
+<A>I see. <OL><F>Hu-huh</F></OL>.</A>
+<B><OL>So</OL>, <F>err</F> every Sunday, I play baseball</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>with</OL> my <n_num odr="1" crr="co-workers">co-worker</n_num>.</B>
+<A><F>Hum</F> <OL>I see</OL>.</A>
+<B><OL>So, at</OL> that time, <F>err</F> I have <n_cnt odr="1" crr="practice">a practice</n_cnt> and <n_num odr="2" crr="games">game</n_num></B>
+<A><F>Hu-huh</F>.</A>
+<B>with my <n_num odr="3" crr="co-workers">co-worker</n_num>.</B>
+<A><F>Ah</F> O K. Compared to <prp_lxc1 odr="1" crr="">about</prp_lxc1> games in your university or high school days,</A>
+<B><F>Ah-huh</F>.</B>
+<A>what is the difference <av_lxc odr="1" crr="">now</av_lxc>?</A>
+<B><F>Err</F> its difference? <F>Err</F> the <aj_lxc odr="1" crr="biggest">most</aj_lxc> <n_lxc odr="3" crr="difference">different <n_num odr="2" crr="thing">things</n_num></n_lxc> is <F>err</F> amount of <n_lxc odr="4" crr="practice">practicing</n_lxc>.</B>
+<A><F>Hu-huh</F>. <OL>I see</OL>.</A>
+<B><OL>So</OL>, when I was <at odr="1" crr="a"></at> university student, <F>err</F> I had <F>er</F> <F>err</F> a lot of practice <F>err</F> everyday.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So, even though <SC>I haf</SC> I had to go to <F>err</F> <at odr="1" crr="the"></at> campus to study <F>err</F> some <n_num odr="2" crr="subjects">subject</n_num>. <F>Err</F> <nvs>cough</nvs> so I practiced everyday <F>err</F> <prp_lxc1 odr="1" crr="in">at</prp_lxc1> <at odr="2" crr="the"></at> university ground, but, now <F>err</F> I hardly practice</B>
+<A><OL><nvs>laughter</nvs></OL>.</A>
+<B><OL><F>err</F></OL> on <n_num odr="3" crr="Sundays">Sunday</n_num>.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Just playing <F>err</F> <n_num odr="1" crr="games">game</n_num></B>
+<A>I see. <OL><F>Ah</F></OL>.</A>
+<B><OL>on <n_num odr="2" crr="Sundays">Sunday</n_num></OL>. It's <at odr="3" crr="the">a</at> <aj_lxc odr="1" crr="biggest">most</aj_lxc> <n_lxc odr="2" crr="difference">different thing</n_lxc>.</B>
+<A><F>Ah</F> <F>um</F> it's enjoyable.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL>.</A>
+<B>I really like <?><n_num odr="1" crr="games">game</n_num></?>.</B>
+<A><F>Oh</F> really?</A>
+<B>Yes.</B>
+<A>O K. Thank you very much.</A>
+<B><F>Hu-huh</F>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>And, <OL>now</OL></A>
+<B><OL><nvs>cough</nvs></OL>.</B>
+<A>we'll do a role play.</A>
+<B>Yes.</B>
+<A>O K. <F>Err</F> here you are. Please read this card. And, when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Hello. May I help you?</A>
+<B>Yes. I have a question.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Erm</F> I'd like to go to New York <F>err</F> as early as possible. So I'd like to know the <aj_inf odr="1" crr="earliest">most earliest</aj_inf> train</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>from</OL> here to New York.</B>
+<A><F>Hu-huh</F>.</A>
+<B>What time <F>err</F> will the train leave?</B>
+<A>O K. <F>Err</F> we have <F>erm</F> <at odr="1" crr="a"></at> super express train <OL>at</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>one P M.</A>
+<B>One P M?</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Oh</F> <SC>Is it the most hai</SC> <F>err</F> is it the earliest train?</B>
+<A><F>Uhm</F> at the moment. Yes. <OL><F>Hu-huh</F></OL>.</A>
+<B><OL>O K</OL>. <F>Err</F> <prp_lxc1 odr="1" crr="from"></prp_lxc1> <itr_lxc odr="2" crr="which">what</itr_lxc> platform will the train <OL>leave</OL>?</B>
+<A><OL><F>Err</F></OL> platform two.</A>
+<B><o_odr odr="1" crr="Platform two">Two platform</o_odr>. O K. How much does it cost?</B>
+<A>One hundred dollars.</A>
+<B>One hundred dollars. O K. <F>Err</F> here you are.</B>
+<A><F>Er</F> <R>just a</R> <F>err</F> just a moment, please. I'll check the seat.</A>
+<B><OL>O K <??></??></OL>.</B>
+<A><OL>Because they are</OL> all reserved seats.</A>
+<B><F>Oh</F> really?</B>
+<A><F>Hu-huh</F>.</A>
+<B>O K. <F>Err</F> I'd like to <v_cmp odr="1" crr="buy a ticket">buy</v_cmp> and <R>riza</R> <v_cmp odr="2" crr="reserve a seat">reserve</v_cmp> <OL><F>err</F></OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>on the side of aisle.</B>
+<A>Aisle seat. <OL>O K</OL>.</A>
+<B><OL><?>Yes</?></OL>.</B>
+<A>Smoking or non-smoking?</A>
+<B><o_uk odr="1" crr="Non-smoking is better">It's better non-smoking</o_uk>.</B>
+<A>Non-smoking. <OL>O K</OL>.</A>
+<B><OL>But</OL> <at odr="2" crr="the">its</at> smoking <n_lxc odr="1" crr="car">room</n_lxc> <v_lxc odr="3" crr="is"></v_lxc> also <F>err</F> good,</B>
+<A>O K.</A>
+<B>but <F>eh</F> <pn_lxc odr="4" crr="I"></pn_lxc> had better <v_fin odr="5" crr="reserve">to reserve</v_fin> <F>err</F> <at odr="7" crr="a"></at> non-smoking <n_lxc odr="6" crr="seat">room</n_lxc>.</B>
+<A>O K. <F>Oh</F> <F>erm</F> I'm sorry.</A>
+<B><F>Hu-huh</F>.</B>
+<A>This train <F>err</F> <mo_lxc odr="1" crr="is"></mo_lxc> <SC>almost</SC> <F>err</F> fully booked.</A>
+<B><F>Oh</F> really?</B>
+<A>And we <v_vo odr="2" crr="have sold"><v_tns odr="1" crr="have been sold">are sold</v_tns></v_vo> out of these <F>err</F> seats.</A>
+<B><F>Hu-huh</F>. So <R>is</R> <F>eh</F> <SC>is it</SC> is this train <F>err</F> <at odr="1" crr="a"></at> completely <F>err</F> reserved</B>
+<A><OL>Yes</OL>.</A>
+<B><OL>type</OL>?</B>
+<A><F>Hu-huh</F>.</A>
+<B>O K. How about <at odr="1" crr="the"></at> next train?</B>
+<A>O K. We have another train <OL>at</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>two o'clock.</A>
+<B>Two <OL>o'clock</OL>?</B>
+<A><OL><F>Hu-huh</F></OL>. <OL>And</OL></A>
+<B><OL><F>Um</F></OL>.</B>
+<A>we have some seats in <at odr="1" crr="the"></at> smoking area.</A>
+<B><F>Hum</F> O K. <SC>I will</SC> I wanna book this train.</B>
+<A>O K.</A>
+<B><F>Um</F>.</B>
+<A>How many?</A>
+<B><F>Erm</F> one <OL>seat</OL>,</B>
+<A><OL><?>O K</?></OL>.</A>
+<B>please.</B>
+<A>O K.</A>
+<B><?>O K</?>. <OL><F>Ah</F></OL>.</B>
+<A><OL><CO>This is</CO></OL>.</A>
+<B><SC>how</SC> <itr_lxc odr="1" crr="which">what</itr_lxc> platform</B>
+<A><OL><F>Err</F> O K</OL>.</A>
+<B><mo_lxc odr="2" crr="does"></mo_lxc> <OL><?>this fast train start</?></OL>?</B>
+<A><SC>Number</SC> <F>err</F> platform three.</A>
+<B>Number three.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>O K</OL>. I'll pay. <OL>Here you are</OL>.</B>
+<A><OL>O K</OL>. And here is a ticket.</A>
+<B><F>Ah</F>. Thank you very much.</B>
+<A>Have a nice trip.</A>
+<B>Thank you.</B>
+<A>You're welcome. O K. That's the end of <at odr="1" crr="the">a</at> role play.</A>
+<B><F>Hu-huh</F>.</B>
+</task>
+<followup>
+<A><?>Now</?>, <F>err</F> do you like traveling?</A>
+<B>Yes, I like traveling.</B>
+<A><F>Hu-huh</F>.</A>
+<B>But I hardly travel <F>err</F> since I was <?>born</?></B>
+<A><F>Oh</F>. <OL><CO>Which count</CO></OL>.</A>
+<B><OL>because</OL>, <F>err</F> now <SC>I ha</SC> I'm <at odr="2" crr="">a</at> very busy <n_lxc odr="1" crr="">day</n_lxc></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>every</OL> day.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Too much working.</B>
+<A><F>Hu-huh</F>.</A>
+<B>So, <F>err</F> for example, I usually get up at six o'clock.</B>
+<A><F>Hu-huh</F>.</A>
+<B>As soon as <F>er</F> <pn_lxc odr="1" crr="I"></pn_lxc> <v_fin odr="2" crr="wear">wearing</v_fin> a <n_num odr="3" crr="suit">suits</n_num> and brush <pn_lxc odr="4" crr="my">a</pn_lxc> teeth, <F>err</F> I leave my house.</B>
+<A><F>Hu-huh</F>.</A>
+<B>And I <SC>around</SC> <v_lxc odr="2" crr="arrive"><v_tns odr="1" crr="reach">reached</v_tns></v_lxc> <prp_lxc2 odr="3" crr="at" ch="2"></prp_lxc2> my office</B>
+<A><F>Hu-huh</F>.</A>
+<B><SC?>and si</SC?> <F>erm</F> around seven o'clock. So, from seven o'clock to around midnight, I'm always working.</B>
+<A><F>Wow</F>. You must be so <OL><laughter>busy</laughter></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>O K. Which country you want to visit if you have time?</A>
+<B>O K. <SC>If I have a time I wanted</SC> <F>ah</F> if I have <n_cnt odr="1" crr="time">a time</n_cnt>, I want to visit the United States <F>err</F> to study English.</B>
+<A>I see. That's a good idea.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><?>O K</?></OL>. Thank you very <OL>much</OL>.</A>
+<B><OL><F>Um</F></OL> you're welcome.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Um</F> now, I'll show you another picture.</A>
+<B><F>Hu-huh</F>.</B>
+<A><??></??>. Here you are. Please make up your own story from one to six, and this happened last week.</A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A><OL>So</OL>, please <SC>make</SC> <F>err</F> start your story <OL><?>with</?></OL></A>
+<B><OL>O K</OL>.</B>
+<A>"One day last week".</A>
+<B>O K. <F>Erm</F> <.></.> a boy had <at odr="1" crr="an">a</at> appointment with <?>his</?> father <F>er</F> in front of a restaurant, <SC>to have a dinner</SC> <F>ah</F> sorry, to have <at odr="2" crr="">a</at> lunch.</B>
+<A><F>Hu-huh</F>.</A>
+<B>So, as soon as they <v_tns odr="1" crr="entered">enter</v_tns> the restaurant, the father <o_uk odr="3" crr="asked a waiter for a table">asked and requested <F>err</F> to <at odr="2" crr="a"></at> waiter</o_uk> <F>err</F> because <F>er</F> they wanted to sit <prp_lxc1 odr="4" crr="at">in front of</prp_lxc1> <o_uk odr="5" crr="a table near the window">the window's table</o_uk>. So, after they <v_tns odr="1" crr="sat">sit</v_tns> at the table. <F>Er</F> <at odr="1" crr="a"></at> waitress <F>err</F> came to them, and the boy <F>err</F> <SC>order</SC> ordered to <at odr="2" crr="the"></at> waitress. <F>Erm</F> and they had a good dinner. <F>Err</F> and the father <F>err</F> ate <aj_lxc odr="1" crr="">some</aj_lxc> chicken, and <o_uk odr="2" crr="he was having a glass of wine in his hand">holding <SC>a gla</SC> a cup of glass</o_uk>. And, <R>after finishing</R> <F>ah</F> after finishing dinner, the father <v_cmp odr="1" crr="paid">paid the cash</v_cmp> <F>err</F> in front of <at odr="2" crr="the"></at> cashier. So, after <pn_lxc odr="1" crr="they"></pn_lxc> went out <prp_lxc2 odr="2" crr="of"></prp_lxc2> the restaurant, <F>err</F> they <v_lxc odr="3" crr="headed">walked</v_lxc> <prp_lxc2 odr="4" crr="for" ch="3">out</prp_lxc2> <F>err</F> <aj_lxc odr="5" crr="different">another</aj_lxc> <n_lxc odr="7" crr="directions"><n_num odr="6" crr="places">place</n_num></n_lxc> because <F>err</F> the boy had <F>err</F> another appointment.</B>
+<A>That's all?</A>
+<B>That's all.</B>
+<A>O K. Thank you very much.</A>
+<B><F>Um</F>.</B>
+</task>
+<followup>
+<A>O K. <F>Err</F> could you tell me a nice restaurant to have lunch around here?</A>
+<B>O K. So I <v_lxc odr="2" crr="don't know"><v_ng odr="1" crr="don't have">have no</v_ng></v_lxc> <aj_lxc odr="4" crr="any"></aj_lxc> <aj_lxc odr="3" crr="special">especially</aj_lxc> <F>er</F> restaurant</B>
+<A><laughter>O K</laughter>.</A>
+<B>around <OL>here</OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B>But I like <JP>ramen</JP>,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so I sometimes <F>er</F> go to <F>er</F> <at odr="1" crr="a"></at> <JP>ramen</JP> shop around here. But, <F>err</F> in Osaka, <pn_lxc odr="1" crr="they"></pn_lxc> <v_agr odr="2" crr="don't have">doesn't have</v_agr> <F>err</F> <aj_lxc odr="3" crr="">some</aj_lxc> <.></.> <aj_lxc odr="4" crr="good">delicious</aj_lxc> <JP>ramen</JP> <n_num odr="5" crr="shops">shop</n_num>. So, <SC>when I was</SC> <F>err</F> when I <v_tns odr="1" crr="go">went</v_tns> to <at odr="2" crr="">the</at> Tokyo, <F>err</F> I always <F>err</F> go to <at odr="3" crr="a"></at> <JP>ramen</JP> shop because, <F>err</F> compared to Osaka, Tokyo has a lot of <aj_lxc odr="4" crr="good">delicious</aj_lxc> <JP>ramen</JP> <n_num odr="5" crr="shops">shop</n_num>.</B>
+<A><F>Hum</F>. I see. O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<B><OL><?>Thank you</?></OL>.</B>
+<A><OL>Now</OL> it's almost the end of the interview.</A>
+<B><F>Hu-huh</F>.</B>
+<A>So, do you have any plan for this weekend?</A>
+<B>This weekend? <F>Err</F> yes. So I have a plan <F>er</F> with my friend. <F>Err</F> he <v_vo odr="1" crr="invited">was invited</v_vo> me to have <at odr="2" crr="">a</at> dinner</B>
+<A>I see.</A>
+<B>on Saturday.</B>
+<A><F>Oh</F> dinner? Not playing baseball? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><v_ng odr="1" crr="Not">No</v_ng> baseball</OL>.</B>
+<A>O K. Have a nice weekend.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>]

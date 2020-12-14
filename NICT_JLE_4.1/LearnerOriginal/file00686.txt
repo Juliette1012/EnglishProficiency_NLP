@@ -1,0 +1,229 @@
+<interview>
+<filename>file00686.txt</filename>
+
+<head version="1.3">
+<date>2001-12-17</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B><F>Ah</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H></A>
+<B><OL>Yes</OL>.</B>
+<A><OL>Can I</OL> call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Ah</F> yes.</B>
+<A>O K. How are you this morning?</A>
+<B><F>Er</F> I'm fine.</B>
+<A><OL>Good</OL>.</A>
+<B><OL><F>Erm</F> because</OL> <F>erm</F> <R>my</R> <F>mm</F> my sleep last night is very good.</B>
+<A><OL>Good</OL>.</A>
+<B><OL><SC?>Good</SC?> very</OL> <R>deep</R> deep sleep. <nvs>laughter</nvs></B>
+<A>Good. What do you usually do on weekends?</A>
+<B><F>Er</F> I usually <F>er</F> <R>drive</R> <F>er</F> <SC>drive by my</SC> <F>erm</F> driving <SC>my car</SC> <F>erm</F> <F>erm</F> my father's car <F>er</F> with my friends. <F>Er</F> yesterday, <F>erm</F> I went to Iwatsuki <R>to</R> to have dinner.</B>
+<A>Where is Iwatsuki?</A>
+<B><F>Ah</F> Iwatsuki? <F>Er</F> <SC>Sai</SC> <F>er</F> in Saitama Prefecture.</B>
+<A><F>Hm</F>.</A>
+<B><F>Erm</F> <.></.> <F>hm</F> in the edge of <F>er</F> Saitama.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> <R>I don't know</R> I don't know exactly <OL><?>right</?></OL>.</B>
+<A><OL><F>Hm</F></OL>. Why did you go there?</A>
+<B><F>Er</F> because <F>er</F> my friend said that <F>er</F> <R>there is</R> <F>er</F> there is a <F>er</F> <JP>ramen</JP> shop <F>er</F> whose <JP>ramen</JP> <F>er</F>is <F>er</F> most tasty inside the prefecture.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> and <F>ah</F> we would like to <R>have</R> <F>er</F> have it <F>er</F> one time. So <R>I went to</R> <SC>I went to</SC> <F>hm</F> I went there.</B>
+<A>How was it?</A>
+<B><F>Er</F> very <laughter>tasty</laughter>.</B>
+<A>O K. <R>What</R> what kind of place was the <JP>ramen</JP> shop?</A>
+<B><F>Er</F>. <.></.> <R>What kind</R> <OL>what kind</OL>?</B>
+<A><OL><F>Hm</F></OL>. Tell me <R>the</R> <.></.> <SC>the place</SC> about the place.</A>
+<B><F>Er</F> in front of the Higashi Iwatsuki Station.</B>
+<A>O K.</A>
+<B>And <F>er</F> <SC>the</SC> <F>uh</F> <R>many</R> <SC>many restaurant</SC> many shops. And <F>er</F> <R>one of</R> <F>er</F> <R>one of</R> one of <SC>the</SC> those shops <.></.> <F>er</F> is the <JP>ramen</JP> shop.</B>
+<A><F>Hm</F>. I see. <F>Er</F> besides driving, what is your hobby?</A>
+<B><F>Er</F> my hobby is to play <F>er</F> computer games and study English. <F>Hm</F>.</B>
+<A>Your hobby is studying <OL><laughter>English</laughter></OL>?</A>
+<B><OL><laughter><F>Ah</F> yes</laughter></OL>. I <?>like</?> English very much.</B>
+<A><F>Oh</F> O K. Why are you studying English?</A>
+<B><F>Er</F> because <F>er</F> I think I'd like to go abroad some day. <F>Erm</F> because <F>er</F> my teacher <F>er</F> in <JP>juku</JP> school <F>em</F> in junior high school student <F>er</F> <SC>is very</SC> <F>er</F> was very good,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and very affective for me. So <.></.> <SC>I li</SC> I'd like to study English.</B>
+<A><F>Hm</F>. What do you want to do abroad?</A>
+<B><F>Erm</F>. <.></.> <R>I</R> <F>mm</F> I haven't decided <F>er</F> what <SC>I do</SC> I would like to. But <F>mm</F> at first, <R>I</R> I'd like to go abroad and <F>er</F> to find <F>er</F> something <F>er</F> I'm interested in.</B>
+<A><F>Hum</F> <F>hum</F>. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>First thing today, I will show you a picture. <.></.> O K?</A>
+<B>Yes.</B>
+<A>Please describe the picture for me.</A>
+<B>Yes. <F>Er</F> <nvs>sniff</nvs> <F>er</F> it's fine day and <F>er</F> <R>there is</R> <F>ah</F> there is <F>er</F> <R>two</R> two houses <F>er</F> around the street. And <F>er</F> in front of the house, <F>er</F> a car is parked. And <F>er</F> <R>two</R> two wives are <R>talking</R> talking each other. And <R>around the</R> around the house, <F>er</F> <R>there are</R> there are boys and girls. <?>And</?> <F>er</F> dogs <F>er</F> who are playing <F>er</F> <R>in each</R> in each way. <F>Er</F> <R>some of them</R> some of them is <??></??> playing <JP>nawatobi</JP> and the other of them is playing with a ball. <R>And</R> <F>er</F> and a man <F>er</F> is jogging <F>urn</F> around the street. And <F>er</F> <R>opposi</R> <F>er</F> opposite the house, <F>er</F> there is a man <F>er</F> <R>who is reading</R> who is reading the newspaper <?>with</?> sitting on a chair.</B>
+<A><F>Mhm</F>. Thank you.</A>
+</task>
+<followup>
+<A>Does your neighborhood look like this?</A>
+<B><F>Er</F> No.</B>
+<A><F>Hm</F>.</A>
+<B>No. <F>Er</F> <SC>my neighborhood is</SC> <.></.> <F>mm</F> I never look my neighborhood playing outside.</B>
+<A><F>Oh</F> O K.</A>
+<B>Yes.</B>
+<A>Why not?</A>
+<B><F>Er</F> because <F>em</F> <.></.> my neighborhood <F>mm</F> <.></.> <SC>ma</SC> <F>mm</F> <nvs>sniff</nvs> I don't know why because <F>mm</F> <SC>I didn't</SC> I haven't <F>er</F> met <F>er</F> neighborhood in my <R>nineteen</R> <nvs>sniff</nvs> <laughter><SC>nineteen</SC></laughter> life.</B>
+<A><.></.> You live with your family?</A>
+<B><F>Ah</F> yes.</B>
+<A>O K. <F>Erm</F> what does your mother do usually?</A>
+<B><F>Er</F> my mother <F>er</F> usually <F>er</F> <R>stays</R> stays at home and <?>jobs</?>. And <F>er</F> my mother is a homemaker.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>er</F> my father <F>er</F> usually stays at home and also <F>er</F> goes shopping.</B>
+<A><F>Mhm</F>. <F>Hm</F>. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Let's try a role-play.</A>
+<B><nvs>sniff</nvs></B>
+<A>Let's see.</A>
+<ctxt>Interviewer is taking out a role card.</ctxt>
+<A>This is your card. Please read it. And when you ready, I will begin.</A>
+<ctxt>Interviewee is reading the card.</ctxt>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>?</A>
+<B>O K.</B>
+<A>May I help you?</A>
+<B><F>Er</F> I would like to go to Egypt. <F>Er</F> <R>what plan</R> <F>er</F> what plan is there to go there?</B>
+<A><F>Oh</F> we have many kinds of planned package tour to Egypt.</A>
+<B><F>Er</F> I would like to get <F>er</F> <SC>more</SC> <.></.> <F>er</F> <F>mm</F> the cheapest plan.</B>
+<A>O K. <F>Ah</F> we have three days plan, four, five, six, seven.</A>
+<B><F>Er</F> <.></.> <F>mmm</F> <nvs>sniff</nvs> <F>er</F> what do you think? <F>Er</F> which one is best for me?</B>
+<A><F>Well</F> it depends. But maybe at least five days.</A>
+<B><F>Ah</F> all right. <F>Er</F> <.></.> <F>mm</F> <R>can you show me the</R> <.></.> <F>em</F> can you show me the <?>contents</?> of the plan?</B>
+<A>Of course. We have <F>ur</F> a lot of brochures.</A>
+<B><F>Er</F> <.></.> O K. <F>Er</F> I'd like to get <F>er</F> the plan.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So <F>hm</F> how much is that?</B>
+<A>O K. <F>Well</F> seven days?</A>
+<B>Yes.</B>
+<A>O K. Is seventy thousand yen.</A>
+<B>Seventy thousand yen? <CO><F>Er</F> seventy thou</CO>. <F>Oh</F> <R>very</R> very cheap.</B>
+<A><F>Mhm</F>.</A>
+<B>So <F>er</F> O K. <R>I</R> I would like to get it and to go to Egypt.</B>
+<A>O K. <F>Well</F> you can take the brochure for seven days package tour.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>O K</OL>? Thank you very much. All right. Thank you.</A>
+</task>
+<followup>
+<A>Have you ever traveled abroad?</A>
+<B><R>No</R> <F>er</F> no, never.</B>
+<A>Not yet.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>O K</OL>. How about <F>er</F> you said you go driving. Where is the farthest place you have ever gone?</A>
+<B><F>Er</F> <F>mm</F> <SC>that i</SC> <F>er</F> Iwasaki that <F>er</F> <OL>I went</OL>.</B>
+<A><OL><F>Oh</F> really</OL>?</A>
+<B>Yes.</B>
+<A>How about the school trip in high school?</A>
+<B><F>Mm</F> <SC>hi</SC> <F>er</F> in my high school, there is no school trip.</B>
+<A><F>Hm</F>.</A>
+<B><F>Uhm</F>. <CO><OL>And</OL></CO>.</B>
+<A><OL>That's</OL> unusual.</A>
+<B><F>Oh</F> yeah. <F>Er</F> so in spite of that, <F>er</F> we went to the <F>er</F> <H pn="school name1">XXX03</H> club house,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>that the circle activity <F>er</F> usually use. <R>And in</R> and in that, <F>er</F> <SC>we do</SC> we did the <F>er</F> <R>conversation</R></B>
+<A><F>Mh-hmm</F>.</A>
+<B>conversation competition,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>mm</F> <R>about</R> <F>mm</F> about many topics,</B>
+<A><F>Hm</F>.</A>
+<B><F>hm</F> for three days. That is <F>mm</F> in spite of the school trip.</B>
+<A>O K. <F>Uu</F> but why do you think your school didn't have school trip?</A>
+<B><F>Er</F> <R>I heard</R> <F>er</F> I heard the reason <F>er</F> why the school trip <F>er</F> was cancelled for <F>er</F> thirty years ago. <F>Er</F>. <.></.> The reason is that <F>er</F> <SC>the</SC> <F>hm</F> some students <F>mm</F> who were deep <F>er</F> drunk <F>er</F> <R>were</R> were playing <F>er</F> outside. <R>And</R> <F>er</F> <R>and <F>er</F> <laughter>many</laughter></R> <F>er</F> <SC>and <F>er</F> many</SC> <.></.> <F>um</F> <R>an</R> <.></.> <R>and</R> <F>er</F> <F>er</F> and <F>er</F> climbing <F>er</F> the Kyoto Gosho.</B>
+<A><laughter>That's sounds terrible</laughter>.</A>
+<B><F>Er</F>. <R>And</R> and <F>er</F> <SC>poli</SC> <F>er</F> many policemen <F>er</F> came there.</B>
+<A><nvs>laughter</nvs></A>
+<B><F>Er</F> <laughter>and</laughter> <F>er</F> from next year, the school trip was cancelled.</B>
+<A><laughter>O K, I see</laughter>. <nvs>laughter</nvs> <F>Wow</F>. In high school?</A>
+<B>Yes.</B>
+<A><laughter>O K</laughter>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, the last thing today is this picture.</A>
+<B>Yes</B>
+<A>All right?</A>
+<B><nvs>sniff</nvs></B>
+<A>Now, this happened one day last week. So please make a story starting with "One day last week".</A>
+<B>Last week?</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL><F>Er</F></OL> <F>er</F> one week?</B>
+<A><F>Mm</F> <F>mm</F> <F>mm</F>. <SC>That's</SC> maybe,</A>
+<B><F>Oh</F>.</B>
+<A>one day. But it happened one day <OL>last week</OL>.</A>
+<B><OL><F>Er</F> <F>ah</F> yes</OL>. <nvs>sniff</nvs> <F>Er</F> <.></.> <F>mmm</F>. <.></.> <SC>On Sunday last week</SC> <F>er</F> last Sunday, <F>er</F> <SC>two girls <F>er</F> were</SC> two girls <R>planned</R> planned going camping and <SC>prepare for the</SC> prepare for going there. <R>And</R> <F>er</F> <.></.> and <F>er</F> <F>er</F> after reaching there, <F>er</F> they were making <F>er</F> camps <?>or</?> <R>tent</R> <F>ur</F> tent. <R>And</R> <F>er</F> <.></.> and <F>er</F> prepare for the cooking and making the fire. <R>And</R> <F>mm</F> and suddenly, <F>er</F> it began to rain. And <F>er</F> two girls were surprised. <F>Mm</F> and <F>er</F> the <R>wind</R> <F>ah</F> wind was blowing hard. And <F>er</F> prepare for the camping <F>er</F> was blown off. So <F>er</F> they were <SC?>espaki</SC?> <F>mm</F> escaping <F>mm</F> into the car. And <F>er</F> the camping was cancelled. And <F>er</F> <R>driving</R> driving to anywhere <F>er</F> <?>who</?> stayed at safe <SC>and fi</SC> <F>er</F> and found a hotel. And finally, <F>er</F> <R>they</R> they reached the hotel <R>and</R> <F>er</F> and <R>enjoy</R> enjoy themself <F>er</F> with <F>er</F> drinking coffee.</B>
+<A><F>Mhm</F>. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you <.></.> camp?</A>
+<B><F>Ah</F> no.</B>
+<A>Are you interested?</A>
+<B><F>Er</F> <.></.> <F>mm</F> <laughter><SC>ye</SC></laughter> <F>uu</F> <laughter>no</laughter>.</B>
+<A>Why not?</A>
+<B><nvs>sniff</nvs> <F>Er</F> because <F>er</F> <SC>there is</SC> <laughter><F>er</F></laughter> there maybe many things that <F>er</F> I <SC>'ve</SC> have to do for camping. So <R>it's</R> <F>hm</F> it's disturbing <laughter>for me</laughter>.</B>
+<A><laughter>O K</laughter>. <F>Er</F> you like driving. And while you are driving, have you ever had any trouble?</A>
+<B><F>Erm</F> yesterday, <SC>I lost</SC> <F>er</F> <F>er</F> we lost our <laughter>way</laughter>.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>er</F> didn't have the map. So I don't know <SC>where to go</SC> <F>mm</F> <F>er</F> which way,</B>
+<A><F>Hm</F>.</A>
+<B>to go there. So <F>mm</F> <.></.> <R>we</R> <R>we de</R> we depend on the sixth sense. <nvs>laughter</nvs></B>
+<A>O K.</A>
+<B>And <R>it</R> <F>em</F> <SC>it ta</SC> it took <F>er</F> four hours <.></.> <F>em</F> to get there.</B>
+<A>O K.</A>
+<B>Yes.</B>
+<A>Took four. That's quite long. <OL>Right</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Em</F>. Can you think of any other way besides depending on your sixth sense?</A>
+<B><F>Umm</F>. No. <R>Because</R> <nvs>laughter</nvs> because <F>mm</F> there is <R>no</R> <SC>no lights</SC> no light and no shops and no maps <F>er</F> on the street.</B>
+<A><F>Hm</F>.</A>
+<B><SC>There <R>many</R> many <R>coun</R> <F>mm</F> <F>er</F> count</SC> it is so <R>country</R></B>
+<A><F>Uh-huh</F>.</A>
+<B><nvs>laughter</nvs> country. So <F>er</F> <R>we</R> <F>mm</F> we <laughter>have</laughter> <R>no</R> no choice but to depend on my <laughter>sixth sense</laughter>.</B>
+<A><laughter>O K</laughter>. Why don't you take map?</A>
+<B><F>Er</F> <SC>because <F>a</F> <F>er</F> <F>er</F> I had the maps</SC> <F>urn</F> because <F>mm</F> the map is about <F>mm</F> Tokyo area. <F>Er</F> Iwatsuki is Saitama Prefecture, so Iwatsuki is out of the <laughter>map</laughter>. <CO><OL>So</OL></CO>.</B>
+<A><OL><laughter>I see</laughter></OL>. O K. Why do you like driving so much?</A>
+<B><F>Er</F> <R>be</R> <F>er</F> because <F>mmm</F> <.></.> on the driving, <F>er</F> <.></.> <F>er</F> we can see many places <R>that I</R> that I've never been.</B>
+<A><F>Hm</F>.</A>
+<B>So <F>mm</F> <R>if</R> <F>mm</F> if it's not car, <F>er</F> <R>that is</R> <.></.> <F>mm</F> that is rare. But <F>er</F> the car driving is <F>mm</F> more comfortable <F>er</F> than using <F>mm</F> <??></??> and a bicycle.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>So</SC> <F>er</F> <.></.> <F>mmm</F> and <F>ah</F> I haven't <SC>use</SC> <F>mm</F> yet used to driving because <F>er</F> <SC>I ha</SC> <.></.> I'm a beginner for driving. <CO><laughter>So</laughter></CO>. <.></.></B>
+<A>O K. <F>Well</F>, be careful. <OL><laughter><?>All right</?></laughter></OL>?</A>
+<B><OL>Yes</OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> thank you very much. We are almost at the end of this interview. <F>Er</F> what are you going to do today?</A>
+<B><F>Er</F> <SC>I went to the Shinjuku</SC> <F>er</F> <JP>ja</JP> <F>er</F> I will <F>er</F> go to Shinjuku and <F>er</F> <.></.> go to a bookstore,</B>
+<A><F>Hm</F>.</A>
+<B><?>to</?> <R>find</R> <F>er</F> find <F>er</F> the book that <R>I</R> <SC>I'm fo</SC> <F>uh</F> I'm looking for.</B>
+<A><F>Mhm</F>. What is the book?</A>
+<B><F>Er</F> <SC>Eng</SC> an English <R>book</R> book <F>er</F> <.></.> <R>for</R> <F>er</F> for teaching <F>mm</F> English to <JP>juku</JP> school student.</B>
+<A><F>Oh</F> I see. You are so diligent teacher.</A>
+<B><laughter>Thanks</laughter>.</B>
+<A>O K. Thank you very much,</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>for</OL> spending <OL>time with me</OL>.</A>
+<B><OL>Yeah, thanks</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

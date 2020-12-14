@@ -1,0 +1,165 @@
+<interview>
+<filename>file00410.txt</filename>
+
+<head version="1.3">
+<date>2001-03-13</date>
+<sex>male</sex>
+<age>39</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>590</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B><F>Uh</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>All right. How are you today?</A>
+<B>How are you, fine, thank you.</B>
+<A>Good, and <H pn="B's name">XXX02</H> <JP>san</JP>, where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H> City.</B>
+<A><H pn="others1">XXX03</H>, <OL>where is it</OL>?</A>
+<B><OL>In</OL> <H pn="others2">XXX04</H> Prefecture.</B>
+<A><F>Uh-huh</F>. I see. And how did you come here today?</A>
+<B><F>Er</F>. I <F>ur</F> use <F>er</F> J R train and by taxi.</B>
+<A><F>Uhm</F>. I see. And is <H pn="others1">XXX03</H> <F>er</F> good place to live?</A>
+<B>I think so.</B>
+<A><F>Hum</F> why do you think so? What do you like about <H pn="others1">XXX03</H>?</A>
+<B><F>Urr</F>. <H pn="others1">XXX03</H> has <R>many</R> <F>er</F> many trees, and many <F>urrr</F> <F>er</F> <JP>so ne</JP> <.></.> <F>err</F> <.></.> <F>mm</F> good place for <F>er</F> sports.</B>
+<A><F>Uhm</F>. Sports. For example?</A>
+<B>For example, <R>I</R> I play tennis, and <R>there</R> <SC>there is</SC> <F>er</F> <F>ee</F> there are many tennis court and <F>ee</F> good soccer stadium.</B>
+<A><F>Mm</F>. I see. And you play tennis.</A>
+<B>Yes.</B>
+<A>How long have you been playing tennis?</A>
+<B><F>Er</F> for <F>mm</F> twenty years. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Err</F></OL> <OL>I see</OL>.</A>
+<B><OL>But I'm not</OL> good at tennis.</B>
+<A><F>Uh-huh</F>. Then why do you keep playing?</A>
+<B><F>Mmm</F>. For my health.</B>
+<A><F>Uh-huh</F>. I see. <F>Uh-huh</F>. And how often do you play tennis?</A>
+<B><F>Mm</F>. I play tennis every week on Sunday.</B>
+<A>On Sunday. <F>Uh-huh</F>. Are you a member of the club or something? <OL>Do you belong to the club</OL>?</A>
+<B><OL>Yes, yes</OL>. I join <F>er</F> <F>urr</F> <F>er</F> tennis club.</B>
+<A>I see. Please tell me about your tennis club.</A>
+<B><F>Mm</F>. <R>Club</R> club name?</B>
+<A>Yes. Name or members or.</A>
+<B><F>Err</F> <JP><F>unto</F></JP> I join <F>er</F> <SC>c</SC> <F>ur</F> tennis club <F>err</F> named <F>uu</F> <H pn="others3">XXX05</H>. <F>Er</F> <F>err</F> <SC>class mates</SC> <F>er</F> <R>various</R> various <F>err</F> <F>er</F> people, for example, <F>er</F> office worker and doctor, teacher and housewives.</B>
+<A><F>Ahh</F> I see. <R>Good</R> good. And do you do something after lesson, or after practice?</A>
+<B>After practice? So <F>er</F> we sometimes go to drink.</B>
+<A>I see. <F>Mm</F>. That's good. O K, all right.</A>
+</stage1>
+<stage2>
+<task>
+<A><H pn="B's name">XXX02</H> <JP>san</JP>, I'll show you one picture. O K, please look at this, and please tell me what you see in this picture.</A>
+<B><F>Oh</F> <R>it is</R> <F>er</F> <.></.> it is a <R>roo</R> room. <F>Mm</F> <F>umm</F> <..></..> <F>mm</F> <..></..> <F>mm</F>. <.></.> She has many <F>err</F> <F>err</F> equipment, <F>err</F> maybe <F>er</F> she is a <F>urr</F> <F>mm</F> university student, <F>mm</F> or <F>urr</F> office worker. <F>Ur</F>. <SC>She is <F>er</F> <.></.> <F>er</F> very <F>er</F> ac</SC> <F>er</F> she is very <F>ee</F> maybe <R>act</R> active. <F>Urr</F>. Because she has <F>er</F> <F>er</F> computer set and audio <F>er</F> set and typewriter. <F>Err</F>. And she has <F>er</F> two pets. <F>Mm</F>. One is a dog and another is cat. <F>Mm</F>. <..></..> And maybe she <F>er</F> introduce <F>er</F> her computer for another one. <..></..> <F>Mmm</F>. <.></.> That's all.</B>
+<A>O K, thank you very much.</A>
+</task>
+<followup>
+<A><F>Er</F>. <H pn="B's name">XXX02</H> <JP>san</JP>, do you a computer at home?</A>
+<B>Yes, I have.</B>
+<A>What do you do with your computer?</A>
+<B><F>Er</F> I use computer for my work, <R>and <F>ur</F> see</R> and <SC>see</SC> <R>watch</R> watch <F>er</F> internet <R>home</R> homepage.</B>
+<A>What kind of home pages do you access to?</A>
+<B><F>Er</F> <F>erm</F> I access the <SC>in</SC> <F>er</F> homepage <F>err</F> mainly <F>err</F> <H pn="company name1">XXX06</H>. <F>Mm</F>. And <F>mm</F> <R>I</R> I take part in <F>ur</F> Biglobe <F>ee</F> provider. <F>Urr</F>. <SC>Biglobe has many <F>ee</F> <F>ee</F> informa</SC> <F>ee</F> <R>Big</R> Biglobe has a lot of information. <F>Err</F>. For example, <F>er</F> entertainment and movie and T V <F>er</F> program. <SC>I</SC> <F>ee</F> especially I use <F>um</F> those <F>um</F> information.</B>
+<A><F>Uh-huh</F>. I see. And why do you see <H pn="company name1">XXX06</H>?</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Mm</F>.</A>
+<B><F>Oh</F> <R>I</R> <F>mm</F> <R>I</R> <..></..> <JP><F>eeto</F></JP> <SC>I have a <F>ee</F> <F>ur</F> <R>stock</R> <F>mm</F> stock</SC> I have a stock. <F>Mm</F>. <..></..> <SC>I want <F>er</F> <F>ee</F> stock situation</SC> <F>urr</F> I want to have stock situation <F>er</F> <.></.> and <F>um</F> stock market. <F>Mm</F>.</B>
+<A>I see. <F>Mm</F>. All right, thank you very much. <F>Wow</F>. It's very convenient. We can see those stock prices on the internet.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, now let's have a role-play. O K?</A>
+<B>O K.</B>
+<A>This is your card. Please read it yourself. And when you are ready, I'll start the conversation.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>May I help you, sir?</A>
+<B><F>Er</F> I'd like to go to <F>uu</F> oversea. <F>Mm</F>. For example, <F>err</F> <F>er</F> <SC>blu</SC> I'd like to go <F>oh</F> blue sea.</B>
+<A><F>Uhm</F>. O K. We have some good tours to <R>south east</R> <F>er</F> south east Asian countries.</A>
+<B><F>Uh-huh</F>. <F>Urr</F>. What country do you <R>ha</R> have?</B>
+<A>Malaysia, Indonesia, or Singapore.</A>
+<B><F>Uh-huh</F>. I've been to Singapore, but <R>I don't</R> <F>er</F> <SC>I don't have</SC> <F>mm</F> I don't go to Malaysia. <F>Urr</F>. I'm very interested in Malaysia.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F>. How much <F>ee</F> is it costs?</B>
+<A>O K, the package tour A costs a hundred thousand yen.</A>
+<B><F>Uh-huh</F>. Hundred thousand yen. <F>Mm</F>. I don't like package tour.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Do you have <F>mm</F> a private tour?</B>
+<A>Sure. <F>Uh-huh</F>. We have some.</A>
+<B><F>Uh-huh</F>. <F>Urr</F>. <..></..> What <F>er</F> do you recommend <F>uu</F> private tour?</B>
+<A>O K, so you can make a reservation for airplanes, and you can choose some hotels. <F>Mm</F>.</A>
+<B><F>Uh-huh</F>. <..></..> <F>Er</F>. <..></..> <R>Whi</R> <R>which</R> which do you recommend, <F>er</F> private tour or <F>er</F> package tour?</B>
+<A><F>Mm</F>. I recommend you a package tour.</A>
+<B>Why?</B>
+<A>Because in Malaysia,</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>mm</F> usually people stay at the same place, the beautiful beach. <F>Mm</F>. They don't go around so much. So <SC>it's not</SC> there is no big difference between individual and the package tour.</A>
+<B><F>Uh-huh</F>. <..></..> <R>I</R> I don't think Malaysia's <F>um</F> <F>um</F> security. <F>Mm</F>.</B>
+<A><F>Um</F>. It's pretty safe, yeah. O K, so I'll give you some pamphlets. Please look at them. And if you are interested, so please call me again.</A>
+<B>Yes.</B>
+<A>All right?</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+<B>Thank you very much.</B>
+</task>
+<followup>
+<A>O K, so role-play is over. O K, so <H pn="B's name">XXX02</H> <JP>san</JP>, have you ever been abroad?</A>
+<B>Yes, <R>I have been</R> <F>ee</F> I have been abroad.</B>
+<A>Where did you go?</A>
+<B><F>Er</F>. I've been to Singapore and Hawaii and United States of America <OL>and so on</OL>.</B>
+<A><OL><F>Er</F></OL> many places, I see. <F>Er</F>. Which city do you want to visit again?</A>
+<B><F>Err</F>. <.></.> <R>I</R> I'd like to go to Singapore again.</B>
+<A><F>Uhm</F>. Why?</A>
+<B><F>Er</F>. Singapore has <R>many</R> many <F>mm</F> <SC>culture</SC> <F>ur</F> Asian culture. <F>Er</F>. Singapore has Asian culture and <F>mm</F> <JP><F>eeto</F></JP> <F>ee</F> <.></.> <R>many</R> <.></.> <F>umm</F> many <JP><F>eeto</F></JP> <SC>region</SC> religion. <F>Mm</F>. <..></..> And <F>er</F> many kind of people <F>mm</F> lived in Singapore.</B>
+<A>I see. O K, I understand. All right.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'd like to show you one more picture. Please take a look at this, and this time, please make a short story using these four pictures. But this happened last week, so please start your story with "One day last week,"</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>I went to the movie theater with my friends. <F>Umm</F>. <..></..> So <SC>we'd like to see the</SC> <F>mm</F> <.></.> <F>mm</F> we'd like to see <F>er</F> <..></..> <SC>airplane accident</SC> <F>uu</F> <F>uu</F> <F>er</F> <R>kind of</R> <F>ee</F> kind of airplane accident's <F>ee</F> movie. <F>Urm</F> <F>er</F>. Before <F>ur</F> the movie starts, <F>er</F> we go to <F>er</F> coffee shop, <F>er</F> <R>and</R> <F>er</F> and bought <F>er</F> pop corn and <F>ee</F> drinks. <F>Err</F> <F>er</F>. So <F>ee</F> <F>ee</F> this movie <SC>is</SC> <F>uh</F> was very <F>ee</F> exciting for us. <F>Err</F>. <.></.> So <R>we</R> <F>mm</F> <..></..> <SC>we are very</SC> <R>we were very</R> <F>err</F> <.></.> we were very <.></.> pleased and <F>ee</F> satisfied with the movie.</B>
+<A>O K, thank you very much.</A>
+</task>
+<followup>
+<A>O K, so <H pn="B's name">XXX02</H> <JP>san</JP> did you see any movies recently?</A>
+<B><F>Mmm</F>.</B>
+<A><CO><OL>On T V or</OL></CO>.</A>
+<B><OL>Yes, <F>err</F></OL>, I rend <F>urr</F> the <F>er</F> <F>er</F> video tape, <F>er</F> <SC>so I watch the</SC> <F>er</F> <JP><F>eeto</F></JP> <..></..> but <SC>I don't know</SC> <SC>I don't</SC> <F>mm</F> <R>I</R> I forgot <OL><laughter>the movie's name</laughter></OL>.</B>
+<A><OL>That's all right</OL>. O K, all right. And which do you like better, watching a movie on videos or going to a movie theater?</A>
+<B>I like video movie.</B>
+<A><F>Uh-huh</F>. <R>Why</R> why do you like it better?</A>
+<B><F>Mm</F>. <.></.> <SC>Video movie</SC> <F>ee</F> in case of video movie, <R>I</R> <F>er</F> <.></.> <SC>I'm</SC> <F>er</F> I enjoy the movie lonely <F>mm</F> <F>er</F> for relax and <F>mm</F> <F>er</F> <.></.> <F>er</F> sleeping <R>and</R> <.></.> and so on.</B>
+<A><F>Uh-huh</F> I see. All right.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K, thank you very much.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A><OL><F>Ur</F></OL>. Interview is almost ending. So thank you for coming in today.</A>
+<B>Thank you very much.</B>
+<A><F>Mm</F>. <F>Ur</F>. do you have any plans this weekend?</A>
+<B>This weekend?</B>
+<A><F>Mm</F>. This weekend.</A>
+<B><F>Mm</F>. Maybe <R>I</R> <SC>I wan</SC> <R>I</R> I will go to drink <F>mm</F> with my colleagues.</B>
+<A>I see. Good, good. Thank you.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

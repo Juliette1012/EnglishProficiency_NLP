@@ -1,0 +1,226 @@
+<interview>
+<filename>file00044.txt</filename>
+
+<head version="1.3">
+<date>1999-12-15</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>905</TOEIC>
+<TOEFL>570</TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>map</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>train station</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Hm</F>. Where do you live?</A>
+<B><F>Er</F> <F>hm</F> in <H pn="others1">XXX03</H>.</B>
+<A><F>Hm</F>.</A>
+<B>Yes.</B>
+<A>Is it a nice town?</A>
+<B>Yeah. We moved there <F>er</F> about one month ago.</B>
+<A><F>Hm</F>.</A>
+<B>Yeah. It's comfortable.</B>
+<A><F>Mhmm</F>. Why did you choose this place?</A>
+<B><F>Mhmm</F>. Not I, <F>er</F> but my mother choose the place because <F>er</F> she likes the atmosphere. <F>Hm</F>. There's no big stores but <F>er</F> only houses and it's so quiet <R>and</R> and the people around is nice.</B>
+<A><F>Mhmm</F>. I see. So <F>er</F> what is your major?</A>
+<B>My major is <R>English</R> English literature</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and <F>er</F> linguistics.</B>
+<A><F>Mhmm</F>. Why did you choose it?</A>
+<B><F>Er</F> when I traveled to England, <F>er</F> I was in the high school and <F>er</F> I saw a <SC>play</SC> Shakespeare play in Stratford and <F>er</F> I was so impressed.</B>
+<A><F>Hm</F>.</A>
+<B><SC>I</SC> and then I became <R>interested</R> interested in <F>hm</F> English literature like Shakespeare</B>
+<A><F>Hm</F>.</A>
+<B>and plays.</B>
+<A><F>Er</F> what was so interesting about the Shakespeare play?</A>
+<B><F>Er</F> <R>when I</R> when I first saw the play, <R>I</R> I was just <F>er</F> <.></.> thought it was great because <F>er</F> <SC>I just</SC> I think <F>er</F> then I just like the play atmosphere.</B>
+<A><F>Hm</F>.</A>
+<B><R>Then</R> <F>mhmm</F> then I liked the actors speaking, <F>er</F> <R>I thought</R> I thought that <F>er</F> the words are so beautiful.</B>
+<A><F>Mhmm</F>.</A>
+<B><R>It</R> <R>it</R> it was different from <R>what</R> what I learned in the school.</B>
+<A><F>Hm</F>.</A>
+<B>English was different. And I thought it's so beautiful <SC>so</SC> <R>and</R> and I became interested.</B>
+<A><F>Mhmm</F>. I see. So you traveled to England.</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>Mhmm</F>. <F>Er</F> can you compare the people in England to the Japanese people?</A>
+<B><F>Urr</F> <F>mhmm</F> I think both Japanese people and <F>er</F> <F>er</F> British people are so quiet, <F>er</F> not so bright</B>
+<A><nvs>laughter</nvs></A>
+<B><F>er</F> as American people. <SC>And</SC> <?>right</?>, and not so friendly. But <F>mhmm</F> I think <R>they</R> <F>mhmm</F> <R>they think</R> <F>er</F> they think more and deeply.</B>
+<A><F>Hm</F>.</A>
+<B>When I talk to British people <?>closely</?>, <F>er</F> I can understand what they think. <F>Er</F> I feel <R>they</R> <F>er</F> they have <R>same</R> same spirit as Japanese. I think because <SC>they</SC> <F>er</F> that British is like island</B>
+<A><F>Mh-hmm</F>.</A>
+<B>as Japan.</B>
+<A><F>Mhmm</F>. I see. And what do you do in your free time?</A>
+<B>Free time? I like traveling,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>watching movies. I like listening to music.</B>
+<A><F>Hm</F>.</A>
+<B>Sometimes <R>I</R> I play tennis.</B>
+<A><F>Hm</F>.</A>
+<B><??></??></B>
+</stage1>
+<stage2>
+<task>
+<A><F>Hm</F>. I see. O K. Please take a look at this picture.</A>
+<B>O K.</B>
+<A>And tell me what you see here.</A>
+<B><F>Uh-huh</F>.</B>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<B>Start?</B>
+<A><F>Uh-huh</F>.</A>
+<B>O K. This is <SC>the</SC> a map and the train station.</B>
+<A><F>Uh-huh</F>. Actually, can you speak up, <?>please</?>? <F>Mh-hmm</F>.</A>
+<B><F>Er</F> I think <SC>the</SC> this is <SC>the</SC> <F>mhmm</F> some kind of big city</B>
+<A><F>Mh-hmm</F>.</A>
+<B>because there're many train rails. <F>Mhmm</F> and <.></.> there are two rivers,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>so I think it's</SC> <R>an</R> and there is a zoo, <R>so</R> so I think it's a beautiful <?>like</?> leisure city.</B>
+<A><F>Mh-hmm</F>. <F>Hm</F>.</A>
+<B>I think <SC>it's</SC> this city is so comfortable to live,</B>
+<A><F>Hm</F>.</A>
+<B>because <F>er</F> I think the rivers are beautiful and <F>mhmm</F> there are many <R>trains</R> trains are running. And <F>er</F> also there are schools, libraries, hospitals. <F>Hm</F>. <R>We</R> we need such kind of things</B>
+<A><F>Hm</F>.</A>
+<B><F>er</F> around my houses.</B>
+<A><F>Mh-hmm</F>. <F>Hm</F>.</A>
+<B><R>And</R> <nvs>cough</nvs> <F>mhmm</F> and we can see <F>er</F> <SC>bus stops</SC> so many bus stops.</B>
+<A><F>Hm</F>.</A>
+<B>So I think <F>er</F> it is a kind of <F>mhmm</F> new town</B>
+<A><F>Hm</F>.</A>
+<B><R>made</R> made for the people</B>
+<A><F>Mh-hmm</F>.</A>
+<B>live comfortably.</B>
+</task>
+<followup>
+<A><F>Hm</F>. <..></..> O K. <F>Well</F> thank you. And tell me your ideal town. What does it look like?</A>
+<B>Ideal town? <F>Mhmm</F>. O K. I think I need a train station as well as this map because <SC>I need</SC> <F>er</F> if there is a train station, we can go anywhere. <F>Mhmm</F> and also we need hospitals, schools, and supermarkets, <SC>and the</SC> <F>er</F> or other convenience <F>er</F> <SC>shops</SC> <F>er</F> stores. And <F>hm</F> it's better <F>er</F> to have <F>er</F> big parks or rivers like this. <F>Mhmm</F>. <CO>And</CO>. <F>Mhmm</F> <..></..> <F>er</F>. <F>Well</F>. <F>Er</F>.</B>
+<A>Why do you think you need big river?</A>
+<B><F>Umm</F> because now, I have a big river near my house and sometimes <SC>I <SC>walk a</SC> walk</SC> I go for walk, and it's so comfortable. I like the river.</B>
+<A><F>Hm</F>.</A>
+<B>And there's so many birds there, and <..></..> such kind of <F>er</F> rivers or lakes make people comfortable.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mhmm</F>. O K. I see. <F>Well</F> let's do the role-play.</A>
+<B>O K.</B>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>Have you done this before?</A>
+<B>No.</B>
+<A>O K. Then let's do this.</A>
+<B><F>Mh-hmm</F>.</B>
+<A>Please read it, and when you are ready, I'll start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>O K. May I help you?</A>
+<B><F>Er</F> excuse me. <F>Er</F> I couldn't take the train that I reserved. I was late. So <F>mhmm</F> can you refund the ticket?</B>
+<A>No, it's against our policy.</A>
+<B><F>Urmm</F> <.></.> because the traffic <R>was</R> was so heavy and I couldn't get here.</B>
+<A><F>Mhmm</F>.</A>
+<B>Please. I need to go as soon as possible.</B>
+<A><F>Hm</F>. You could have started earlier.</A>
+<B>Yeah, I started <SC>earlier</SC> <F>er</F> early <??></??> <F>urmm</F> but there was a traffic accident <F>eh</F> near the station.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>The car didn't move for a long time.</B>
+<A><F>Mhmm</F>. <F>Oh</F> because of the traffic <OL>accident</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>O K. Only <F>er</F> this time. <F>Uh-huh</F>? And what would you like to do?</A>
+<B><F>Er</F> could you change the ticket for the next train?</B>
+<A><F>Uh-huh</F>. Sure. But the train starts in three hours. Is it O K?</A>
+<B>Yes, it's O K.</B>
+<A>So you have to wait.</A>
+<B><F>Uh-huh</F>. O K.</B>
+<A>O K. <OL>Here you are</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A><F>Hm</F>.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. You told me that you like traveling.</A>
+<B>Yeah.</B>
+<A>Have you had any <R>trouble</R> <F>er</F> trouble like this <OL>before</OL>?</A>
+<B><OL><F>Er</F></OL> yeah. When I was going to Ireland from England,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>er</F> <SC>the</SC> <F>er</F> <R>I</R> I took ferry</B>
+<A><F>Hm</F>.</A>
+<B><R>to</R> to Ireland. <SC>And I</SC> <F>er</F> and <F>er</F> <nvs>cough</nvs> I had a big bag, and I need <R>to</R> to get to other room.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Then <F>er</F> when I <SC>get</SC> got to Ireland, I was waiting for the bag</B>
+<A><F>Mh-hmm</F>.</A>
+<B>coming. But <F>er</F> the <SC>bag was</SC> bag didn't came and it was lost.</B>
+<A><F>Ah</F>.</A>
+<B>And, yeah, so we need to wait so long because it was in <JP>Belgii</JP>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><SC>And</SC> <F>er</F> but <F>er</F> people in a office of the ship gave me the ticket for eating and <F>eh</F> hotels, so I wait about <R>one</R> one day</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL>for the bag</OL>.</B>
+<A><F>Oh</F>. It's too bad. But it's good that you got your bag back.</A>
+<B>Yeah. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><F>Hm</F></OL>. Good. O K. Lastly.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>Here is a picture story.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Please make up a story starting with "One day last week" because it happened before.</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures for a while.</ctxt>
+<B>O K.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Start?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Hm</F>. One day last week, <F>er</F> <SC>the man</SC> the businessman went to the station and <SC>sh</SC> he was <F>er</F> about to ride a train.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <R>when</R> <F>eh</F> when he was waiting the train at the platform, <F>er</F> <R>some</R> some <R>other</R> other man's elbow hit him and <SC>the bag</SC> <SC>his</SC> the businessman's bag dropped into the train rail.</B>
+<A><F>Hm</F>.</A>
+<B>And <F>eh</F> <F>urr</F> the business man <SC>get an</SC> got angry <SC>and</SC> <F>mhmm</F> <R>because the</R> because the bag dropped into to the <F>er</F> train rail because of the other man's elbow.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> <F>hm</F> but <F>er</F> <F>mhmm</F> <SC>the people</SC> that person in the station, <F>urrmm</F> <.></.> put the bag <R>to the</R> to the businessman <?>back</?>. <SC>And then</SC> since then, <F>erm</F> the businessman kept <SC>the</SC> his bag <F>erm</F> so carefully. <??></??> and <R>in</R> <R>in the</R> in the train, he never <F>er</F> put the bag, <F>er</F> <SC>far from he</SC> <R>fa</R> far from him</B>
+<A><F>Hm</F>.</A>
+<B><F>er</F> <R>not</R> not to <F>mhmm</F> drop or kicked or lost anymore.</B>
+</task>
+<followup>
+<A><F>Mhmm</F>. O K. Very good. So can you compare the transportation system between the British one and the Japanese one?</A>
+<B>Yes. O K. <F>Er</F> transportation. I think <F>mhmm</F> <R>trans</R> transportation in London and Tokyo is <F>er</F> not so different. <F>Er</F> there are so <R>many</R> many subway lines, <F>mhm</F> and we can go anywhere by the subway. But <SC>the</SC> in rest of the country, <F>er</F> in Japan, we can go <SC>everywhe</SC> almost everywhere by train <SC>but</SC> <R>and</R> <F>er</F> <F>hm</F> and <SC>the train is so correct</SC> the <SC>ti</SC> train time table is correct. But <F>er</F> <SC>in the British</SC> in Britain, <F>er</F> <SC>we</SC> there are not so many train lines. We can't go <F>hm</F> somewhere. We need cars, some other transportations.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And the time table is not correct and <F>eh</F> <F>er</F> sometimes the trains will be late or the train stopped.</B>
+<A><F>Hm</F>.</A>
+<B>And so I think the <SC>transportation in</SC> yes, Japanese one is better than British one.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Oh</F>. I see. O K. Thank you. This is almost the end of the interview. What is your plan after this interview today?</A>
+<B><F>Urmm</F> I need to go to buy a pair of suit</B>
+<A><F>Hmm</F>.</A>
+<B>for job hunting.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><nvs>laughter</nvs> What color are you going to buy?</A>
+<B><F>Mhmm</F> I think grey one.</B>
+<A>Grey one.</A>
+<B>Yeah.</B>
+<A><F>Mhmm</F> so you're now in the middle of job hunting?</A>
+<B><F>Mhmm</F> in the beginning.</B>
+<A><F>Hmm</F>.</A>
+<B><nvs>laughter</nvs> Yeah.</B>
+<A>O K. I hope you find a good suit.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you</OL>. <OL>Thank you</OL>.</B>
+<A><OL>Thank you for coming</OL>.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,198 @@
+<interview>
+<filename>file00713.txt</filename>
+
+<head version="1.3">
+<date>2001-10-26</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's start. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B>I'm fine today.</B>
+<A>O K. Good. It's Friday today. But what do you usually do on Fridays?</A>
+<B><F>Err</F>. Usually I'm in home, and <R>lying</R> lying there <F>err</F> watching T V.</B>
+<A><F>Err</F> I see. No class?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B>My class is blank.</B>
+<A>I see. <F>Um</F>. Then do you belong to any club or circle?</A>
+<B><F>Err</F> I'm belong to badminton circle.</B>
+<A><F>Um</F> O K. Please tell me about the circle.</A>
+<B>It is very <R>big</R> big circle. <F>Err</F>. The number of its people is about <R>one hundred</R> <F>er</F> one hundred.</B>
+<A><F>Hum</F>.</A>
+<B>And many people is there to <nvs>laughter</nvs> strange person or cute person.</B>
+<A><F>Uum</F>.</A>
+<B>Many many people is there.</B>
+<A>I see. Please tell me about one of the strangest people in the club.</A>
+<B>Maybe me.</B>
+<A><nvs>laughter</nvs> O K. Then <F>uum</F> do you have any other hobbies than badminton?</A>
+<B><..></..> <R>I</R> I like traveling.</B>
+<A><F>Er</F> O K. <F>Um</F>. Last time where did you go?</A>
+<B><F>Err</F> I went to Kyoto. <F>Err</F> I went to Shizuoka by bicycle.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL>And</OL> so from there <R>by</R> by train</B>
+<A><F>Uum</F>.</A>
+<B>to Kyoto.</B>
+<A>Why did you go to Shizuoka by bicycle?</A>
+<B><laughter><F>Uum</F></laughter> <R>I</R> I wanted to.</B>
+<A><F>Err</F>. Then why didn't you go all the way to Kyoto?</A>
+<B><F>Er</F> <.></.> <F>er</F>. Pardon?</B>
+<A>O K. You stopped in Shizuoka.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL> you took train?</A>
+<B>Yes.</B>
+<A><F>Uum</F>. You couldn't go farther than <OL>Shizuoka by bicycle</OL>.</A>
+<B><OL><F>Err</F> I went there</OL> with my friend.</B>
+<A><F>Um</F>.</A>
+<B>And my friend said "This is my limit.".</B>
+<A><nvs>laughter</nvs></A>
+<B>So <.></.> <R>I</R> I send back my bicycle</B>
+<A><F>Err</F> <OL>I see</OL>.</A>
+<B><OL>from there</OL>.</B>
+<A><F>Hum</F>. Did you have any problem?</A>
+<B><F>Uum</F>. For me?</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>. Problem was nothing, but my friend said on the way <F>er</F> very tired.</B>
+<A><F>Err</F>.</A>
+<B><F>Er</F>.</B>
+<A>I see.</A>
+<B>Et cetera.</B>
+<A>What did you do in Kyoto?</A>
+<B><.></.> I visit Ginkakuji or <.></.> Kiyomizudera, and there <R>I have</R> I have a friend in Kyoto.</B>
+<A><F>Err</F>.</A>
+<B>So</B>
+<A><F>Um</F>.</A>
+<B>I stay my friend's home.</B>
+<A><F>Um</F> I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now please look at this picture. And describe it.</A>
+<B><..></..> Describe?</B>
+<A><F>Um</F>.</A>
+<B><..></..> O K.</B>
+<A>Yes.</A>
+<B><F>Er</F>. It is winter. And this is ski <JP>gerende</JP>. And <.></.> many many people there. <SC>But</SC> <F>uum</F> childrens are throwing some snow balls. <F>Ur</F>. Snowman <SC>is near the</SC> is near there. And in the lodge, one couple is drinking a tea. And the other people is skiing. On the lift, no person. <F>err</F> <.></.> It is beautiful behind the trees.</B>
+<A><F>Um</F> O K. Good. Thank you.</A>
+</task>
+<followup>
+<A><F>Er</F> <H pn="B's name">XXX02</H>, which do you think is more difficult skiing or snowboarding?</A>
+<B><..></..> Skiing.</B>
+<A><F>Mm-hm</F>. Why?</A>
+<B><F>Er</F>. For me?</B>
+<A><F>Uhm</F> <F>um</F>.</A>
+<B><F>Err</F> <SC>I rarely do</SC> <F>er</F> I rarely ski. <.></.> My experience is one or two times</B>
+<A><F>Hum</F>.</A>
+<B>to ski.</B>
+<A><F>Um</F> <F>uhu</F> O K. Then why do you think it's more difficult than snowboarding?</A>
+<B><.></.> <R>I have</R> I have played by skate board</B>
+<A><F>Um</F>.</A>
+<B>when I was a child. So I think it is more difficult to ski than snowboarding.</B>
+<A><F>Um</F> O K. I understand. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now <.></.> O K, please look at this. And let's do a role-play. When you are ready, I'll start a conversation.</A>
+<ctxt>The interviewee is reading a card for a while.</ctxt>
+<B>Excuse me?</B>
+<A>Yes.</A>
+<B>I'm looking for some clothes.</B>
+<A><F>Um</F>.</A>
+<B><F>Er</F> Do you think which one is best for me?</B>
+<A><F>Uum</F>. <nvs>laughter</nvs> It depends on what kind of clothes you like.</A>
+<B><F>Err</F>. <.></.> So black one, please.</B>
+<A><F>Um</F>. Material, design?</A>
+<B>I have no idea about material. But design is the simple one is best.</B>
+<A><F>Hum</F> O K. Then how about this one? Sweater. Very simple.</A>
+<B><F>Oh</F> <.></.> <F>err</F>. Is there another simple one?</B>
+<A>Why don't you like this?</A>
+<B><laughter><F>Uum</F></laughter> No reason, but I don't like it very much.</B>
+<A><nvs>laughter</nvs> O K. Then how about this one? A little expensive. But nice quality.</A>
+<B>How much is it?</B>
+<A>It's six thousand yen.</A>
+<B><F>Uhh</F>. Little expensive for me. <F>Ur</F>. But I like it. So please this one.</B>
+<A>O K. How would you like to pay?</A>
+<B><F>Mmm</F>.</B>
+<A>Cash?</A>
+<B>Cash, please.</B>
+<A>O K. Here you are. Thank you. O K.</A>
+</task>
+<followup>
+<A>O K. <F>Um</F>. So what is the most important thing when you go shopping for you?</A>
+<B><.></.> <F>Err</F>. For me, <R>to go</R> to go alone.</B>
+<A><F>Um</F>.</A>
+<B>Because</B>
+<A><F>Um</F>.</A>
+<B>If <R>I</R> I go there with my friend,</B>
+<A><F>Uum</F>.</A>
+<B><F>uum</F> very <R>irritate</R> irritate for me.</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F> <.></.> I <?>like</?> my friend always.</B>
+<A><F>Hum</F>.</A>
+<B>So to be alone is <R>very</R> <.></.> very preferable for me.</B>
+<A><F>Err</F> <F>mm</F>.</A>
+<B><.></.> <F>Err</F>. So price is not very important thing. <.></.></B>
+<A><F>Oh</F> So you must be rich.</A>
+<B><F>Err</F> No. No. No. No. Because <R>I</R> I usually buy the cheaper clothes.</B>
+<A><F>Um</F> <F>um</F>. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>And <.></.> O K. Please look at these, and make a story using these six pictures. And please start with "One day last week".</A>
+<ctxt>The interviewee is looking at pictures.</ctxt>
+<B>O K. <F>Er</F> One day last week, I went to restaurant with my father. <F>Err</F>. <SC>It is very</SC> <.></.> <F>ur</F> the restaurant was <.></.> <?>fashion very</?> for rich person. <F>Err</F>. The shop was not crowded. <F>er</F> <.></.> <SC>I asked beer and <.></.> salmon <.></.> clerk</SC> <F>er</F> I asked clerk beer and salmon. And my father asked <..></..> juice and <.></.> fried chicken. <F>Er</F>. My father <SC>pays the bill</SC> pay the bill. And <.></.> <SC>I</SC> <SC>my</SC> <.></.> very pleasurable for me. <.></.> And then <.></.> <SC>I went to</SC> <.></.> my father had a job after this restaurant. And I go back home. So I said good bye to my father.</B>
+<A><F>Um</F> O K. Very good. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A><F>Er</F>. Can you compare this restaurant with the one you often go to?</A>
+<B><..></..> I rarely go to restaurant. <F>Er</F>. Usually go to <JP>raamen</JP> shop.</B>
+<A><nvs>laughter</nvs></A>
+<B><SC><laughter>Or</laughter></SC> <F>Err</F> so this seemed rich and clear.</B>
+<A><nvs>laughter</nvs> I see. why do you like <JP>raamen</JP> so much?</A>
+<B><F>Err</F>. <..></..> <JP>Raamen</JP> is the best food. <R>Low</R> low price and <SC>high</SC> <..></..> I have no idea, but</B>
+<A><F>Um</F>.</A>
+<B><JP>raamen</JP> is anyway <R>low</R> low price.</B>
+<A><F>Um</F> O K. Then how about other fast food restaurants?</A>
+<B><F>Uum</F>. <..></..> The other one is Yoshinoya or Matsuya.</B>
+<A><F>Uum</F>.</A>
+<B><.></.> Anyway reasonable.</B>
+<A><F>Um</F> <F>um</F> O K. Yoshinoya and Matsuya, how are they different?</A>
+<B><F>Uum</F>. <..></..> Yoshinoya and Matsuya?</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. <.></.> Price is not so different. But if <SC>Yo</SC> Matsuya <F>err</F> <.></.> <JP>misoshiru</JP> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>do you know? <F>Er</F>. Like a consomme soup is</B>
+<A><nvs>laughter</nvs></A>
+<B>setted. And Matsuya is only <JP>gyudon</JP>.</B>
+<A><F>Err</F>. Which do you prefer?</A>
+<B><F>Ee</F> I like Matsuya.</B>
+<A>Why?</A>
+<B><F>Mm</F>. <..></..> <SC>If I ask</SC> <F>err</F> Matsuya is <.></.> <F>ur</F> the waiter ask the menu is <F>er</F> by vending machine. <F>Er</F>. Yoshinoya is ask clerk directly. So <..></..> there is no need to talk with clerk.</B>
+<A>I see. O K. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>The interview is almost over. But what are you going to do after this today?</A>
+<B>Maybe <R>I go</R> I go back home. But <.></.> <SC>my circle</SC> the lounge of the circle is near there. So <SC>may</SC> I might go there for a moment, and go back my home.</B>
+<A>I see. O K. Thank you very much for coming today. Good bye.</A>
+<B><F>Er</F>. Good bye.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,219 @@
+<interview>
+<filename>file01124.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>20</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Mmm</F>. I'm sleepy.</B>
+<A><F>Ah</F>. Sleepy.</A>
+<B>Yeah. <R>I</R> <F>mmm</F> I sleeped <F>erm</F> three o'clock.</B>
+<A><F>Ahh</F>. What did you do before you went to bed</A>
+<B><F>Mmm</F>.</B>
+<A>last night?</A>
+<B>I studied <F>er</F> homework.</B>
+<A><F>Ahh</F></A>
+<B>Yeah.</B>
+<A>I see.</A>
+<B>Yeah. <F>Ur</F> this college <SC>is</SC> yeah, was given a homework <F>mmm</F> <R><F>err</F></R> everyday.</B>
+<A><F>Mhmm</F>. What's kind of homework?</A>
+<B><F>Em</F>. <F>Mmm</F> English <?>hour's</?> homework and self discovery.</B>
+<A><F>Wow</F> <OL>interesting</OL>.</A>
+<B><OL><CO>Self</CO></OL>. Yeah. And <F>ee</F> information <R>base</R> <F>er</F> base <F>er</F> homework and <F>mmm</F> mathematics.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. O K. Then please tell me about your favorite class.</A>
+<B>Favorite class. My favorite class is <F>mmm</F> multimedia. Multimedia class is <F>er</F> so <SC>student</SC> <F>er</F> yeah, student <F>er</F> use computer.</B>
+<A><F>Oh</F>.</A>
+<B>Yeah. <F>Ee</F> and <F>well</F> we write calligraphy. Yeah.</B>
+<A>Interesting.</A>
+<B>And <F>er</F> we use <F>umm</F> <SC>camera</SC> no, digital cameras and <SC>personal compts</SC> <F>er</F> <R>mike</R> mike.</B>
+<A><F>Mmm</F>.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>.</A>
+<B><CO>It's the <OL>very</OL></CO>.</B>
+<A><OL>Good</OL>. <OL><F>Mm</F></OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Mm</F>.</A>
+<B><F>Mm</F>.</B>
+<A>O K. Then <F>ur</F> when you are not studying, what do you like to do?</A>
+<B><F>Mmm</F> pardon? <??></??>.</B>
+<A>What do you like to do in your free time?</A>
+<B>Free time. <F>Mmm</F> I read the book. Yeah. <F>Er</F> Natsume Souseki,</B>
+<A><F>Wow</F>.</A>
+<B><F>er</F> <SC>Akagawa Jiro</SC> Jiro Akagawa. <F>Er</F> do you know <F>er</F> <SC>Miyake Miuri</SC> <SC>Miyabe Mi</SC> <F>mm</F> Miyuki Miyabe?</B>
+<A><OL><F>Mhmm</F></OL>.</A>
+<B><OL>Do you know</OL>?</B>
+<A>I heard the name. <F>Mmm</F>. Please tell me about her.</A>
+<B><F>Er</F> Miyabe Miyuki write down <F>mmm</F> <SC>mystery</SC> mystery's book. <F>Mhm</F> <JP><F>eeto</F></JP> yeah, <F>ee</F> <F>er</F> her books is very interesting. <F>Mmm</F>.</B>
+<A><F>Mm</F>. <OL>O K</OL>.</A>
+<B><OL><?>It's</?></OL> the famous <R>impressi</R> impression.</B>
+<A>O K. Then do you play any sports?</A>
+<B>Yes. <SC>I s</SC> <F>ur</F> I play <R>golf</R> golf. Yeah.</B>
+<A><F>Ahh</F>.</A>
+<B>Yeah.</B>
+<A>Where do you play in?</A>
+<B><F>Mmm</F>. <F>Er</F> <F>er</F> <R>my <F>er</F> hometown</R> my hometown near the gym. And <F>er</F> golf ground. Yeah. <SC><H pn="others1">XXX03</H> Coun</SC> I played <F>er</F> <H pn="others1">XXX03</H> Country.</B>
+<A><F>Wow</F>.</A>
+<B>It's <F>er</F> very <F>mm</F> <laughter>expensive</laughter>.</B>
+<A><F>Mm</F>. <F>Mm</F>. <F>Mm</F>. But why do you play golf? It's expensive.</A>
+<B><F>Mmm</F> <R>so</R></B>
+<A>Why can you do this?</A>
+<B><F>err</F> so golf is <F>er</F> <SC>gentlemen</SC> gentlemen's sports. <F>Er</F> <SC>player is</SC> <F>ah</F> player equal <F>err</F> <.></.> judgement. Yeah. Because <F>mmm</F> <F>mhm</F> <JP><F>aato</F></JP> I think so. <SC>I shoot the ball is</SC> <F>mm</F> yeah, yeah, <F>ur</F> <SC>I shoot the ball</SC> <SC>when I shoot the ball i</SC> <F>err</F> <SC>I</SC> <F>mmm</F> I'm <SC?>brade</SC?> braved.</B>
+<A>Yeah. I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, please look at this picture and tell me anything about this picture.</A>
+<ctxt>The examinee is looking at the picture and thinking for a while.</ctxt>
+<A>O K? Please start.</A>
+<B>Yeah.</B>
+<A><F>Mm</F>. <CO>Please</A>
+<B><F>Mm</F>.</B>
+<A>tell me</A>
+<B><F>Ah</F> O K.</B>
+<A><OL>What is</OL></CO>.</A>
+<B><OL><F>Err</F></OL> <SC>the</SC> <F>ur</F> she have <R>a</R> a <JP>pasokon</JP> and yeah, <R>C</R> <F>er</F> C D <JP>conpo</JP> <F>mm</F> <JP>maa iiya</JP> <F>er</F> and the telephone.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL>Yeah</OL>. And <R>she</R> <F>er</F> she have a cat and dog. Cat on the bed. And <F>err</F> <.></.> <F>err</F> this time is <F>mm</F> nine o'clock.</B>
+<A><F>Mmm</F>. O K.</A>
+<B>Yeah. <OL><CO>And</CO></OL>.</B>
+</task>
+<followup>
+<A><OL>Yeah, Thank you</OL>. <F>Mmm</F>. You see audio set here.</A>
+<B><CO>Yeah, audio se</CO>.</B>
+<A>Do you like music?</A>
+<B>Yes, I like.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL><F>Mm</F></OL> I like <F>er</F> <F>mm</F> classic and jazz.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>Which do you like better, <OL>classical music or jazz</OL>?</A>
+<B><OL><F>Ahh</F> <F>mmm</F></OL>. <SC>My better</SC> <F>mhm</F> classic. Yeah.</B>
+<A>Why?</A>
+<B>Yeah. <F>Mmm</F>. I played classic music in oboe.</B>
+<A><F>Mmm</F>. That's great.</A>
+<B><R>And</R> and <R>my</R> my mother and my sister is <F>ah</F> yeah, played <F>er</F> piano and violin.</B>
+<A><F>Oh</F>. Good. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now let's do a role play. Please read this card.</A>
+<ctxt>The examinee is reading the card.</ctxt>
+<A>O K?</A>
+<B><F>Mmm</F>. <laughter>No</laughter>.</B>
+<A>No? <nvs>laughter</nvs></A>
+<ctxt>The examinee keeps reading.</ctxt>
+<B>Yeah.</B>
+<A><F>Mm</F>. O K. Hello, may I help you, sir?</A>
+<B>Yes. <F>Err</F> I'm going to New York now. Yeah. <F>Err</F> <R>where</R> <F>uh</F> where is <F>mm</F> ticket center?</B>
+<A>Here.</A>
+<B>Here. Here. <F>Er</F> how much is ticket?</B>
+<A><F>Er</F> to New York?</A>
+<B>Yeah. <CO>To New</CO>.</B>
+<A><F>Er</F> fifty dollars.</A>
+<B>Fifty dollars.</B>
+<A>But there are two kinds of trains.</A>
+<B><F>Uh</F> two. <F>Err</F> <..></..> what time is <F>er</F> start the train?</B>
+<A><F>Er</F> at twelve noon.</A>
+<B>Twelve noon. O K. <F>Er</F> I <?>buy</?> <SC>the ticket</SC> <F>er</F> my ticket.</B>
+<A>O K. Here.</A>
+<B>Thank you.</B>
+<A>O K. Have a nice trip.</A>
+<B>Yeah. <OL>Thank you</OL>.</B>
+<A><OL><??></??></OL> O K. Good. Thank you.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, <F>er</F> have you ever been to New York?</A>
+<B><CO>No, I can't have a</CO>.</B>
+<A><F>Mmm</F>.</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>. Would you like to go there?</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL>Do you</OL> want</A>
+<B><OL><F>Mhmm</F></OL>.</B>
+<A><OL>to go to New York</OL>?</A>
+<B>No, I don't want because <F>er</F> I have a horror. <F>Erm</F> <F>er</F> in New York is <F>er</F> <JP>tero</JP>. Yeah. <F>Mmm</F>.</B>
+<A>What happened on that day? Do you know anything about that?</A>
+<B><F>Mmm</F>.</B>
+<A><?>No</?>? <F>Mhm</F>.</A>
+<B>Yeah.</B>
+<A>O K. <F>Mm</F>. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Then and O K. Let's do this. Please make a story with these four pictures starting number one.</A>
+<B><F>Ah</F>.</B>
+<A>Yeah.</A>
+<B><F>Ee</F>.</B>
+<A>Please make a story.</A>
+<B>They are <F>er</F> going to the <SC>mo</SC> <F>er</F> theater. And <R>they</R> <F>er</F> <SC>they buy</SC> yeah, <SC>they buy the</SC> <F>er</F> <F>ur</F> <F>mm</F> they buy <F>mm</F> ticket. <F>Mmm</F>. Ticket is <F>er</F> two thousand yen. <F>Mm</F> <F>er</F> <SC>they're</SC> <F>ur</F> <F>um</F> they buyed two popcorns. <F>Mm</F> yeah, two popcorns and <SC>co</SC> <F>er</F> three <SC>coka</SC> coke. <JP><F>Unto</F></JP> they <F>uh</F> <SC>watched the movie</SC> yeah, watched the movie. <F>Err</F> she afraid this scene. <F>Er</F> yeah. <F>Er</F> this scene is <F>er</F> airplane is bomb. Yeah. <SC>It's</SC> <F>er</F> they finished <SC>watch <SC>the</SC> <F>er</F> that</SC> watch the <F>ur</F> movie. <F>Er</F> <SC>they <SC>went to the</SC> go home</SC> <F>oh</F> yeah, they went to the home.</B>
+<A><F>Mhmm</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, do you sometimes go to the movies?</A>
+<B>Yes.</B>
+<A><F>Mmm</F>. O K, tell about it.</A>
+<B>About. <F>Er</F> I watched <F>err</F> movie in golden weeks. Yeah. Four movies.</B>
+<A>Yeah. <F>Ah-huh</F>.</A>
+<B><F>Er</F> I rented <F>er</F> the video and watched the <SC>movie</SC> <F>ah</F> movies theater. Yeah. <F>Er</F> <F>er</F> <R>rented</R> <F>uh</F> rented the <SC>mo</SC> <F>er</F> video, <SC>i</SC> <F>er</F> "Chocola" and "Rock You". Do you know "Chocola"?</B>
+<A><OL><F>Mm-hm</F></OL>.</A>
+<B><OL><F>Ah</F> <F>er</F></OL>. Yeah. "Chocola" is very happy and <F>mm</F> <.></.> hot. <OL>Yeah</OL>.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><F>Mm</F> <R>"Rock You" is</R> <F>er</F> <.></.> <F>mm</F> "Rock You" <R>is</R> <F>mmm</F> is a <SC>fighting movies</SC> yeah, fight movie.</B>
+<A>I see. <OL><CO><?>Now</?></CO></OL>.</A>
+<B>Yeah. <OL>And</OL> I watched movie <F>mm</F>. Movie is <R>sunny</R> <F>mm</F> sunny ground? Sunny. <F>Err</F> and <R>s</R> <SC>stars voice</SC> <SC>a star voice</SC> <F>mm</F> stars voice. Do you know <F>er</F> sunny ground? <F>Ah</F> yeah. <F>Err</F> <R>sunny</R> sunny ground <F>er</F> <.></.> is yeah, <F>err</F> Keanu Leeves. Yeah.</B>
+<A><F>Mmm</F>.</A>
+<B><SC>It's</SC> <F>er</F> <SC?>su</SC?> Keanu Leeves is <F>er</F> <SC>coa</SC> <F>er</F> baseball coach.</B>
+<A><F>Ahh</F>.</A>
+<B>Yeah. <SC>He</SC> <F>er</F> yeah, he <?>thought</?> the baseball players boys. Yeah. Baseball players boys <SC>are</SC> <F>mm</F> <..></..> don't win.</B>
+<A><F>Ahh</F>.</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>.</A>
+<B>Ever.</B>
+<A><F>Mmm</F>.</A>
+<B>Yeah. <F>Er</F> <SC>he</SC> when he thought baseball, <F>er</F> <SC>the team is</SC> <F>ah</F> <SC>his team is</SC> <nvs>cough</nvs> yeah, <F>mm</F> his team win <SC>ever time</SC></B>
+<A><F>Ahh</F>.</A>
+<B>yeah, every time.</B>
+<A><F>Wow</F>.</A>
+<B>Yeah. It's family and <JP>ma</JP> hot.</B>
+<A><F>Mm</F> O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So now we are almost at the end of the interview, but <F>er</F> what are you going to do after this interview?</A>
+<B>Interview.</B>
+<A><F>Mmm</F>. What are you going to do?</A>
+<B><F>Mmm</F>.</B>
+<A>Planned any plans?</A>
+<B><SC>I'm going to</SC> <F>mmm</F> <F>ah</F> this college have <F>er</F> <R>festival</R> <F>er</F> <F>er</F> <SC>festival</SC> <F>mm</F> <JP>nanteyuukana</JP> <SC>planning</SC> yeah, planning festival <SC>circle</SC> <F>ah</F> clubs. Yeah. I'm going to this <SC>cir</SC> <F>uh</F> <SC>clubs</SC> <OL>club, yeah</OL>.</B>
+<A><OL>I see</OL>. <F>Mm</F>. O K. Then have a nice time there. <OL>Thank you very much</OL></A>
+<B><OL>Thank you very much</OL>. Yeah.</B>
+<A>for coming today.</A>
+<B>Nice to meet you.</B>
+<A>Nice to meet you.</A>
+</stage5>
+</body>
+</interview>

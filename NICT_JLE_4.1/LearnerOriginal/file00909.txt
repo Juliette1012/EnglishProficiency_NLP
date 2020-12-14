@@ -1,0 +1,211 @@
+<interview>
+<filename>file00909.txt</filename>
+
+<head version="1.3">
+<date>2001-12-07</date>
+<sex>female</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>800</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><H pn="A's name">XXX01</H>.</B>
+<A><SC>Nice</SC> <F>uh</F> may I have your name, please?</A>
+<B><F>Oh</F> <H pn="B's name">XXX02</H>.</B>
+<A><?>We sure</?> have a similar name.</A>
+<B><F>Oh</F> Yeah, <H pn="A's name">XXX01</H> and <H pn="B's name">XXX02</H> <OL>are similar name</OL>.</B>
+<A><OL>Yeah, O K</OL>. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><F>Ah</F> <R>I</R> I live in <H pn="others1">XXX03</H>, <F>ur</F> near here so <R>ni</R> near the <H pn="others1">XXX03</H> Station of J R Line.</B>
+<A><F>Oh</F>. Very convenient place.</A>
+<B>Yes, very convenience. <SC>It's terminal station</SC> <H pn="others2">XXX04</H> is terminal station so I can <R>go</R> go to work <F>ur</F> sitting <F>ur</F> <SC>in the</SC> on the crowded <laughter>train</laughter>.</B>
+<A><F>Oh</F> I see. I see. <R>What is</R> what is your job?</A>
+<B><F>Um</F> I work for the <H pn="company name1">XXX05</H> located <R>in <H pn="others2">XXX04</H></R> in <H pn="others2">XXX04</H> area. So and I work <F>um</F> as a coordinator of the international <F>uh</F> conferences or <F>ur</F> training programs. <F>Uh</F>. So we accept trainings <F>ur</F> overseas.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>Yes</OL>. I work for the overseas public relations.</B>
+<A>Today's a weekday. Don't you have to work?</A>
+<B><laughter><SC>I</SC> actually</laughter> <R>I</R> I took <F>uh</F> half day off. <OL>So</OL></B>
+<A><OL><laughter><F>Oh</F> I see</laughter></OL>.</A>
+<B><R>I</R> <F>ur</F> I was working <F>ur</F> <R>in the</R> in the morning.</B>
+<A><F>Oh</F> I see. I see. That's nice. So what is your plan this afternoon?</A>
+<B><F>Uh</F>. Just <F>uh</F> I was thinking of taking this <F>uh</F> test. Then <F>mmm</F> I'm thinking of going back to my apartment house so to clean my rooms <SC>so</SC> because I have been very busy this week.</B>
+<A><F>Well</F> it's a beautiful day today.</A>
+<B>Yes, yes, very nice.</B>
+<A>What do you usually do on beautiful day when you don't have to work like weekends?</A>
+<B><F>Ah</F>. Weekends? So <F>urr</F> <F>um</F> <F>uh</F> on <R>fine</R> fine days <OL>like this</OL>?</B>
+<A><OL>Yeah</OL>.</A>
+<B>So <F>um</F> I like to take a walk <F>ur</F> around my apartment. <F>Uh</F>. <SC>So</SC> <F>uh</F> <SC>because just</SC> <F>ur</F> because I just <F>uh</F> moved <F>uh</F> to this <F>uh</F> apartment <F>uh</F> <F>uh</F> three months ago so <SC>I don't know</SC> <F>uh</F> I really don't know about <F>uh</F> <SC>my area</SC> <H pn="others3">XXX06</H> area. But <F>mm</F> I've heard so two or three parks <F>uh</F> which have natural places. So <SC>I'd lai</SC> <R>I</R> I want to visit there <F>er</F> sometime. <nvs>laughter</nvs></B>
+<A><R>What do you</R> what do you like about <F>uh</F> around this neighborhood?</A>
+<B><CO>What do you like</CO>. <F>Oh</F> <F>um</F>.</B>
+<A><H pn="others3">XXX06</H>.</A>
+<B><H pn="others3">XXX06</H>. <F>Ur</F>. As you said, <SC>very con</SC> it's very convenient place <F>ur</F> because my apartment is <F>uu</F> <F>uh</F> three-minute walk <F>ur</F> from the station. And in front of the station, there is a big <F>uh</F> supermarket <nvs>laughter</nvs> and a kind of mall so which has <F>uh</F> many small shops. Many kinds of goods are sold there. It's very convenient. I like this area.</B>
+<A><F>Huum</F>. That's nice, only three-minute walk.</A>
+<B>Yes, very nice. <nvs>laughter</nvs></B>
+<A>Good. <F>Um</F>. Are you single or married?</A>
+<B><F>Uh</F>. I'm single.</B>
+<A>I see.</A>
+<B>Yeah.</B>
+<A>So <R>you</R> you live alone.</A>
+<B>Yes. <OL>Yes</OL>.</B>
+<A><OL><F>Mhm</F></OL>. All right. Good. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now first, I would like to show you a picture. Let's do this. Here's a picture for you. And please describe this picture for me.</A>
+<B>O K. <F>Uh</F>. So in this room, <F>uh</F> one girl <F>uh</F> is sitting. <F>Uh</F>. And <F>uu</F> maybe <SC>she has</SC> she likes animals, and she keeps <F>uh</F> one dog and one cat. And <F>uh</F> <SC>what</SC> <F>mm</F> <SC>it's</SC> <F>uhh</F> <F>uh</F> it's <F>uh</F> <F>uh</F> early morning, and <F>uh</F> she started to study <F>uh</F> using <F>uu</F> her personal computer and <F>uu</F> <F>uh</F> printer. <F>Uh</F>. But <F>um</F> two animals, one cat and one dog, are still sleeping. So she actually <F>uh</F> prefer to play with <F>uh</F> those two pets. And she wants to talk with them. <SC>So</SC> <.></.> and <F>mmm</F> one cat <F>uh</F> is <F>uh</F> <R>on her</R> on her bed, and a dog <F>uh</F> which is bigger than the cat <F>uh</F> is also sleeping on the floor. Then <F>ur</F> the door is opened. <CO><laughter>So</laughter></CO>. And <.></.> she <.></.> likes <F>ss</F> <F>uh</F> mechanical things <SC>so</SC> because <SC>she has a big</SC> <F>uh</F> <F>uh</F> not so big, she has <F>uh</F> a stereo <F>uh</F> set. And <.></.> so I think <R>she</R> <F>mm</F> she keeps <F>ur</F> her house clean.</B>
+<A><F>Mm</F>. O K.</A>
+<B>O K.</B>
+<A>All right. Thank you very much.</A>
+<B><F>Mm-hm</F>.</B>
+</task>
+<followup>
+<A>Now, she has a computer. Do you have a computer at home?</A>
+<B><F>Uh</F>. Yes, <R>I</R> I do.</B>
+<A>What is a good point about having a computer at home?</A>
+<B><F>Um</F> <.></.> <F>uh</F>. <SC>One good</SC> <R>one</R> <F>uh</F> one of the <F>uh</F> good points <F>urr</F> that <F>uh</F> <SC>so the</SC> <R>a</R> I have a personal computer is that <F>uh</F> <SC>I can <F>uh</F> mail</SC> <R>I</R> <SC>I can use e-mail</SC> I can mail <F>uh</F> message to <F>uh</F> my friends <F>uh</F> anytime. So <SC>even it's <F>uh</F> <.></.> very <SC>late</SC> <R>lei</R> late ta</SC> so <R>eve</R> even it's <F>uh</F> midnight so <F>uh</F> I can write a message, and <SC>send them</SC> <R>send</R> send it <F>uh</F> <.></.> so anytime <R>I</R> I like. <R>And</R> <F>mmm</F> and so another good point is that I can <F>uh</F> get <F>uh</F> a lot of information from websites <F>uh</F> <.></.> <R>show</R> showed by many companies and many shops. <F>Ur</F>. At home, anytime also, I can get a <R>lot</R> <F>uh</F> lot of information concerning goods or something.</B>
+<A>Right. Good. All right thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now next, I would like to do a role-play.</A>
+<B>O K.</B>
+<A><F>Uhm</F>. <.></.> <F>Well</F> let's do this. Here's a card for you. This is written in Japanese.</A>
+<B>O K.</B>
+<A>So please read it to yourself. When you're ready, I'll start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>This is a phone conversation.</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>? Trrr. Hello, this is <H pn="A's name">XXX01</H>.</A>
+<B><F>Oh</F>. This is <H pn="B's name">XXX02</H>. <F>Ur</F>.</B>
+<A>Hi <H pn="B's name">XXX02</H>.</A>
+<B>Hi. I'm calling from <F>ur</F> my apartment. So <F>uh</F> I was phoning <R>to</R> <F>uu</F> <F>uh</F> to discuss something about this afternoon. So <F>uh</F> I'd like to see some movies. <F>Uh</F>. <R>What</R> <SC>what do</SC> <F>uhm</F> so do you have any plan this afternoon?</B>
+<A><F>Huum</F> I gotta work all day.</A>
+<B>Really?</B>
+<A>Yes.</A>
+<B><F>Oh</F>. So what time <F>mm</F> so <.></.> <SC>do you finish</SC> <F>ah</F> will you finish your work today?</B>
+<A><F>Um</F>. About six o'clock. But I already got a plan after that.</A>
+<B><F>Oh</F>. Do you have a plan <SC>after the</SC> after work?</B>
+<A>Yes.</A>
+<B>I see. So how about <F>uu</F> so tomorrow? <F>Uh</F>. Tomorrow <R>I</R> I have to work <F>u</F> late. So O K, next week, <F>uh</F> do you have the some days <F>uh</F> to <F>uh</F> see movies with me?</B>
+<A><F>Oh</F>. Sure. Sure.</A>
+<B><R>What</R> what day <F>er</F> <SC>is good for</SC> <F>uh</F> is <OL>convenient to you</OL>?</B>
+<A><OL><F>Huum</F> let's see</OL>. What about either Monday or Tuesday?</A>
+<B>O K. So <F>oh</F> <.></.> so why don't you go on next Monday evening?</B>
+<A>That sounds good.</A>
+<B><F>Uh-huh</F>. So <F>uh</F> what time <F>uh</F> is good to you?</B>
+<A><F>Uh</F> Monday afternoon, I'll be free.</A>
+<B><F>Oh</F>. So <F>o</F> <R>don't you ha</R> don't you have work <F>oo</F> on Monday?</B>
+<A>No.</A>
+<B><F>Oh</F>. That's good.</B>
+<A>Yes.</A>
+<B>That sounds good. <SC>So</SC> but actually I have <F>uu</F> work in <F>uh</F> next Monday afternoon <F>uh</F> until <F>uu</F> maybe six o'clock.</B>
+<A><F>Mm-hm</F>.</A>
+<B>So <F>oo</F> <F>um</F> how is <F>uu</F> <.></.> six thirty <F>uh</F> at <F>uh</F> Yurakucho Station?</B>
+<A>Sounds good.</A>
+<B>O K.</B>
+<A>Perfect.</A>
+<B>O K. <SC>So</SC> <F>uh</F> <SC>but</SC> <F>uh</F> so then <F>uh</F> <R>I</R> I'm going to go to the Yurakucho Station by subway <F>uh</F> on <R>Hibiya La</R> Hibiya Line. So how about you?</B>
+<A>I think I will take Yamanote Line.</A>
+<B><F>Ah</F> Yamanote Line.</B>
+<A><F>Mm-hm</F>.</A>
+<B><F>Oh</F> <F>uh</F>. So from which station?</B>
+<A><F>Ah</F>. From Ikebukuro Station.</A>
+<B>O K. <F>Uh</F>. O K. <F>Uh</F>. So I don't know how long <R>it</R> it takes from Ikebukuro to <OL>Yurakucho</OL>.</B>
+<A><OL><F>Oh</F> I will</OL> find it out.</A>
+<B><laughter>O K</laughter>.</B>
+<A>Yes. Thank you.</A>
+<B>O K. Then O K, <R>you</R> you will come to the Yurakucho <F>ur</F> at six thirty</B>
+<A>Sure.</A>
+<B><R>on</R> on Yamanote Line? <OL>O K</OL>.</B>
+<A><OL>That's right</OL>. Yes.</A>
+<B>Then O K. So <.></.> do you know <F>uh</F> good place to <R>meet</R> <F>uhh</F> meet with me near Yurakucho Station?</B>
+<A>Not really.</A>
+<B>O K. So <F>uh</F> do you know <F>uh</F> Seibu Department?</B>
+<A><F>Mm</F>?</A>
+<B>Seibu Department Store.</B>
+<A>Yes.</A>
+<B>It's near.</B>
+<A>O K.</A>
+<B>O K. Then <F>uh</F> I remember only one big entrance <SC>so</SC> <SC>of the</SC> <F>uh</F> <.></.> of that department <OL>store</OL>.</B>
+<A><OL>O K</OL>.</A>
+<B>O K?</B>
+<A>All right. Then I'll be there.</A>
+<B>Yes.</B>
+<A>On Monday, <OL>six thirty</OL>?</A>
+<B><OL>On Monday</OL>, six thirty.</B>
+<A>Great. Thank you.</A>
+<B>Thank you.</B>
+<A>I'm very much looking forward to seeing you there.</A>
+<B><F>Oh</F>. Me, too.</B>
+<A>O K. Thank you <OL>very much</OL>.</A>
+<B><OL>Thank you</OL>, <H pn="A's name">XXX01</H>.</B>
+<A>O K. Thank you. Now this is the end of role-play.</A>
+<B><F>Mm-hm</F>.</B>
+</task>
+<followup>
+<A>Now, which do you like better, <F>uh</F> watching movie <SC>by</SC> <F>ur</F> at the theater or by the V C R? Video tape.</A>
+<B><F>Ah</F> V C R. <F>Um</F> I prefer to go to the theater.</B>
+<A>Why is that?</A>
+<B><F>Uh</F> <F>um</F>. Because <F>ur</F> one big reason <R>i</R> is a big screen. <R>So</R> <F>uh</F> <.></.> <SC>so</SC> and <SC>the sys</SC> <F>urr</F> most theaters <F>ah</F> recently have good <F>uh</F> sound systems. It's much better than <F>mm</F> <F>uh</F> home <F>ur</F> <F>uh</F> <F>ur</F> the <SC>television</SC> <F>urm</F> video system at home. And <.></.> so <R>its</R> its sounds are <R>real</R> real sounds. And so <R>ac</R> actually <R>I have</R> I have no time to see <SC>movie</SC> movies at home. <SC?>So</SC?> <F>ur</F> and so maybe <F>ur</F> it's better to <laughter>pay</laughter></B>
+<A>I see.</A>
+<B><F>uh</F> for the movie <OL>to go</OL>.</B>
+<A><OL>I see</OL>. O K. Thank you very much.</A>
+<B>O K.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now lastly, I would like to show you a sequence of pictures.</A>
+<B>O K.</B>
+<A><F>Uhm</F>. Let's do this. Now <nvs>cough</nvs> I would like you to make up a very brief story based on these pictures from number one to four. And this happened before. So please start your story with "One day last week,"</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K? Go ahead.</A>
+<B>O K. <R>Ca</R> can I describe?</B>
+<A><OL>Yes</OL>.</A>
+<B><OL>Yes</OL>. <OL><??></??> pictures</OL>?</B>
+<A><OL>Just make up a story</OL>.</A>
+<B>O K. <F>Uum</F>. <.></.> O K. Then <F>uh</F> one day, <F>uhh</F> one girl and her boyfriend <F>uh</F> <R>went</R> <F>uu</F> went to zoo. <F>Uh</F>. <R>It was very f</R> it was very fine day. So first, <F>ur</F> they went to the <F>ii</F> <F>uh</F> <SC>lion</SC> lion's corner. So in the cage, <F>ur</F> there is a big lion. <F>Urrr</F>. <R>Sh</R> she was looking at <F>uh</F> so the couple, <F>uh</F> one girl and one boy. So <F>uhh</F> especially <SC>the</SC> <F>uh</F> <SC>her boy friend</SC> one boy <F>ur</F> was interested in that lion. And <F>uh</F> <R>he knew</R> <F>ur</F> he knew many things about the lion so <SC>he is</SC> he was explaining the lion to his girlfriend. Then next, <F>uh</F> so <R>sh</R> she bought <F>ur</F> soft cream <F>ur</F> at <F>ur</F> shop inside the zoo. Then they went to see one monkey. So <F>ur</F> <R>the</R> the monkey <SC>is</SC> was eating banana. Maybe <F>uh</F> the banana is <R>hi</R> <F>ur</F> <SC>his</SC> the monkey's favorite food. So <F>ur</F> this time, <F>uh</F> the <R>girl</R> <F>uhh</F> <.></.> girl <F>ur</F> was <F>ur</F> interested in that monkey. <F>Uh</F>. Then <R>she</R> <F>ii</F> she was watching <F>uh</F> the monkey eating soft cream. <F>Ur</F>. But <F>ur</F> of course, <F>ur</F> her boyfriend <F>uh</F> <R>wa</R> was enjoying so <F>ur</F> looking at the monkey and <F>uh</F> talking with <F>ur</F> <R>his</R> his girlfriend. Then <F>ur</F> finally, <F>uhh</F> they went out of the zoo. Then <SC>I think so</SC> <F>uh</F> I think <F>uh</F> they <SC>went</SC> go back to <SC>a <laughter>different</laughter> <F>ur</F> home</SC> <SC>different</SC> <F>uh</F> so different directions. <R>So</R> so they said <F>ur</F> good-bye at the <F>ur</F> entrance of the zoo. <SC>It</SC> That's end of <F>uu</F> the picture.</B>
+<A>O K. Great. Thank you very much.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>Now, <H pn="B's name">XXX02</H>, this is almost the end of the interview. So <F>um</F> <nvs>clearing throat</nvs> do you have any brother or sister?</A>
+<B><F>Uh</F> I have my younger brother.</B>
+<A>Brother?</A>
+<B>Yeah.</B>
+<A>O K. Because I have younger sister, and her name is <H pn="others1">XXX03</H>.</A>
+<B><F>Oh</F>. Really? <nvs>laughter</nvs></B>
+<A>My name is <H pn="A's name">XXX01</H>, and her name is <H pn="others1">XXX03</H>.</A>
+<B>I see.</B>
+<A>Very similar.</A>
+<B>Yeah.</B>
+<A>My parents said that <F>uh</F> it's easy to call.</A>
+<B>Yeah, <laughter>I think so</laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B>So especially <F>uh</F> overseas <F>uh</F> when I <R>go to</R> <F>uu</F> go to abroad. <R>So</R> so especially <SC>foreigners</SC> for foreigners, it's easy to remember <laughter>my name</laughter>.</B>
+<A>Exactly. So <R>I was</R> I was lucky.</A>
+<B>Yeah, I think so.</B>
+<A>Good. Thank you very much, <H pn="B's name">XXX02</H>. This is the end of the interview.</A>
+<B><F>Uh</F>. Thank you.</B>
+<A>Good.</A>
+<B>Nice to see you.</B>
+</stage5>
+</body>
+</interview>

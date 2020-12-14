@@ -1,0 +1,346 @@
+<interview>
+<filename>file00929.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><JP><F>Uunto</F></JP>. When?</B>
+<A>Your name.</A>
+<B><F>Ah</F> <F>urr</F> I'm sorry. <F>Urm</F> <JP><F>eeto</F></JP> <?>more tone now</?>, please.</B>
+<A>O K.</A>
+<B><?>Yes</?>.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Urm</F>.</B>
+<A>What is your name?</A>
+<B><F>Ah</F> <JP><F>eeto</F></JP> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <F>Urr</F> may I call you <H pn="B's name">XXX02</H>?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A><H pn="B's name">XXX02</H>, <F>ur</F> what do you study at <H pn="school name1">XXX03</H>?</A>
+<B><JP><F>Eeto</F></JP> <R>my</R> <F>urr</F> <JP><F>eeto</F></JP> <SC>my cir</SC> <F>er</F> my school is <F>urr</F> <R>poli</R> <SC>political scien</SC> <F>er</F> political <F>er</F> economic <F>err</F> school.</B>
+<A><F>Uh-huh</F>.</A>
+<B>I'm study.</B>
+<A><F>Uhm</F>. Why do you like economics?</A>
+<B><F>Urrr</F> <F>er</F> <F>err</F> <SC>I</SC> because <SC>I like <F>err</F> <F>urr</F> economic</SC> <F>uur</F> <F>er</F> <F>er</F> I like it <F>err</F> <F>uhm</F> <.></.> <R>for</R> <F>er</F> for <.></.> <F>urr</F> helping <R>so</R> society</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urr</F> and rule of society.</B>
+<A><F>Uh-huh</F>. I see. O K. So when you have free time,</A>
+<B><F>Urr</F>.</B>
+<A>what do you usually do?</A>
+<B><F>Urrr</F> <R>I</R> <.></.> <SC>I</SC> <F>er</F> usually I study <F>urr</F> <SC>accountant</SC></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>urr</F></OL> accountantment <F>er</F> for <F>urr</F> <??></??> <R>pub</R> public accountantment.</B>
+<A><F>Uhmm</F>.</A>
+<B><F>Urr</F> <R>that's</R> <R>that's</R> <F>urr</F> <F>urr</F> <SC>that's</SC> <F>err</F> <F>err</F> <.></.> <F>er</F> subject is <F>urr</F> <.></.> <F>urr</F> <F>urr</F> very hard volume.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Urm</F></OL>. And <R>I</R> <F>urr</F> <JP><F>eeto</F></JP> <R>I</R> <SC>I stu</SC> <F>er</F> always I study <F>er</F> accountantment from <F>err</F> <F>err</F> <.></.> six o'clock to <F>urr</F> <F>uhm</F> twenty-two o'clock.</B>
+<A><laughter><F>Wow</F></laughter>.</A>
+<B><F>err</F> <nvs>laughter</nvs> <OL>every day</OL>.</B>
+<A><OL><laughter>Very hard</laughter></OL>.</A>
+<B><CO>And</CO>.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A><F>Er</F> what do you do to relax, then?</A>
+<B><F>Uhm</F> hobby?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>Anything is O K. <OL>Hobby</OL>.</A>
+<B><OL><F>Urr</F></OL>. Hobby. <F>Urr</F> <SC>I</SC> <SC>hobby</SC> <R>I</R> <F>ur</F> I like <F>urr</F> <SC>reading <F>urr</F> <R>wor</R> world history</B>
+<A><F>Uh-huh</F>.</A>
+<B>and</SC> <F>er</F> <JP><F>eeto</F></JP> reading world history, <F>urr</F> singing <JP>karaoke</JP> and <F>urr</F> talking <F>urr</F> with my friend on phone.</B>
+<A><F>Uh-huh</F>. What do you talk about</A>
+<B><OL><F>Urrr</F></OL>.</B>
+<A><OL>with</OL> your friends?</A>
+<B><F>Uhm</F> always we talk about <F>err</F> future,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urr</F> <F>err</F> society and <SC>love</SC></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>urrr</F></OL> their love <F>um</F> <OL><??></??></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>Uhm</F>.</B>
+<A><SC>What kind of</SC> you said "future". What kind of job do you want to get in the future?</A>
+<B>In the future? <F>Err</F> <R>I want</R> <F>err</F> <SC>I want to</SC> now <F>urr</F> <R>I wish</R> <F>ur</F> I wish <F>uhm</F> become <F>urr</F> accountantment</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>uhm</F></OL> and <F>errr</F> recently, <F>urrr</F> <R>I</R> I want to go abroad</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urr</F> studying another <R>sub</R> <F>urr</F> subject.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Uhm</F></OL>.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. Now, I'd like to show you a picture. O K?</A>
+<B>O K.</B>
+<A>O K. Please describe this picture.</A>
+<B><.></.> <R>Ju</R> just a moment.</B>
+<A>O K.</A>
+<B><..></..> <F>Uhm</F>. <.></.> <F>Uhm</F>. <..></..> <F>Er</F> O K.</B>
+<A>O K?</A>
+<B>O K. <JP><F>eeto</F></JP> <F>urr</F> I must make a story?</B>
+<A>No. Just tell me <OL>what you see here</OL>.</A>
+<B><OL><F>Ah</F> <F>ur</F> <F>ur</F></OL> explain?</B>
+<A>Yeah.</A>
+<B>O K. <F>Uhmm</F> <JP><F>uunto</F></JP> <F>ur</F> this scene is <F>urr</F> <.></.> <F>urr</F> <R>one of</R> one of the dinner in the restaurant.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Err</F> <.></.> <JP><F>eeto</F></JP> <.></.> <F>uhm</F> <.></.> <F>uhm</F> <F>er</F> <SC>in front of <F>urr</F> <.></.> <F>uhm</F> <R>family</R> <F>er</F> <R>family</R> <F>er</F> <R>family</R> <SC>family</SC> <.></.> <R>cou</R> <R>couple</R></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> couple</SC> <F>urr</F> <F>uhm</F> <JP><F>eeto</F></JP> <F>ur</F> <F>ur</F> <R>in</R> in front of couple, <F>er</F> <R>order their</R> <F>urr</F> order their <F>urr</F> <F>urr</F> dinner <F>er</F> to waiter.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> <JP><F>eeto</F></JP> and <F>urr</F> <R>the</R> <R>the right of couple</R> <F>er</F> the right of <.></.> <F>mhm</F> couple, <F>urr</F> <R>now</R> <F>urr</F> now, <SC>they will be</SC> <F>urr</F> <R>they</R> they <SC>are going to eat their dinner</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>er</F> <SC>take a</SC> <JP><F>eeto</F></JP> <F>ur</F> <F>ur</F> going to <F>urr</F> have their dinner.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. And <F>urrm</F> <JP><F>eeto</F></JP> <SC>the</SC> <.></.> <JP><F>eeto</F></JP> <F>uhm</F> <R>near</R> <.></.> near the clock, <F>err</F> <.></.> <JP><F>unto</F></JP> <JP><F>unto</F></JP> <SC>fro</SC> <F>er</F> <R>one</R> <.></.> <R>one</R> one <??></??></B>
+<A><F>Uh-huh</F>.</A>
+<B>play the piano.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F>. And the left of her, <F>err</F> <.></.> <F>uhm</F> <F>urr</F> <F>urr</F> <SC>couple</SC> <F>urr</F> <.></.> <F>er</F> one couple <F>urr</F> talk about <F>urr</F> <F>urr</F> <R>their</R> their thing.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K.</A>
+<B><F>Uhm</F>. <OL>I'm sorry</OL>.</B>
+<A><OL>Thank you very much</OL>, <H pn="B's name">XXX02</H>. O K. <F>Urm</F> do you play any musical instruments, like piano?</A>
+<B><F>Uhm</F>.</B>
+<A>Do you play?</A>
+<B>Do? <??></??>?</B>
+<A>Do you play the piano?</A>
+<B><F>Er</F> <F>er</F> me?</B>
+<A><F>Uh-huh</F>.</A>
+<B><JP><F>Eeto</F></JP> <F>urm</F> yes. <JP><F>Eeto</F></JP> <F>mhmm</F> <JP><F>eeto</F></JP> <F>urr</F> <R>I</R> <F>er</F> I am <F>urr</F> elementary school <??></??> and <F>urr</F> <F>urr</F> junior high school student, <F>urr</F> <R>I</R> <R>I play</R> I play the piano <F>urr</F> and <R>I</R> <F>ur</F> <F>ur</F> I make the band</B>
+<A><OL><F>Ahh</F></OL>.</A>
+<B><OL>with</OL> my friend.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>Ba</R> band. <F>Um</F>.</B>
+<A>In that band, <OL><R>did</R> did you play the piano</OL>?</A>
+<B><OL><F>Urr</F> <F>urr</F> <F>urr</F></OL>.</B>
+<A>I see.</A>
+<B><F>Er</F> <F>er</F> <R>pia</R> <SC>piano</SC> keyboard.</B>
+<A><F>Ah</F> <OL>keyboard</OL>?</A>
+<B><OL><F>Urr</F></OL>.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL><F>Uhm</F></OL>. <??></??> is keyboard.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL><F>Uhmm</F></OL>.</B>
+<A>Are you a good player?</A>
+<B><JP>Zenzen</JP> no.</B>
+<A><nvs>laughter</nvs></A>
+<B>No, I think <??></??>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, we try a role-play.</A>
+<B><F>Uhm</F>.</B>
+<A>O K? I'll read <SC>the</SC> this card.</A>
+<B><F>Uhm</F>.</B>
+<A>I'll read. O K? "<JP>Anata wa joukyaku desu</JP>. <JP>Shikenkan, watashi, wa ekiin desu</JP>.".</A>
+<B><F>Uhm</F>.</B>
+<A>"<JP>Anata wa narubeku hayaku densha de nyuuyooku ni ikitai</JP>.".</A>
+<B><F>Uhmm</F>.</B>
+<A>"<JP>Kippu wo kau tame ni, hitsuyouna jouhou wo eigo wo tsukatte ekiin, watashi, kara kikidashite kudasai</JP>.". <.></.> O K?</A>
+<B><F>Uhmm</F>. <F>Urrr</F> please <F>o</F> <F>o</F> <F>o</F></B>
+<A>Repeat?</A>
+<B><F>uhm</F> <SC>Japa</SC> repeat Japanese.</B>
+<A>O K. "<JP>Anata wa joukyaku desu</JP>.".</A>
+<B><JP>Joukyaku</JP>. <F>Ah</F>. I <R>see</R> see. I see.</B>
+<A>"<JP>Shikenkan wa ekiin desu</JP>.".</A>
+<B><F>Uhm</F> yes.</B>
+<A>"<JP>Anata wa narubeku hayaku densha de nyuuyooku ni ikitai</JP>.".</A>
+<B>New York. <F>Uhm</F>.</B>
+<A>"<JP>Kippu wo kau tame ni, hitsuyouna jouhou wo eigo wo tsukatte ekiin kara kikidashite kudasai</JP>.".</A>
+<B><F>Er</F> <OL><SC>I play</SC></OL>.</B>
+<A><OL>O K</OL>?</A>
+<B>I must play the <R>role</R> <OL>role</OL>.</B>
+<A><OL>Right</OL>.</A>
+<B><F>Ah</F> <OL>O K</OL>.</B>
+<A><OL><F>Uhm</F></OL>. Shall we start?</A>
+<B><JP><F>Eeto</F></JP>.</B>
+<A>May I help you?</A>
+<B><F>Urr</F> yes. I want to <F>errr</F> go to New York <F>urr</F> <F>urr</F> <R>for</R> <R>for <F>urr</F> wat</R> <F>er</F> <R>for</R> <nvs>laughter</nvs> for watching the movie.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B><OL><F>Urr</F></OL> please help me.</B>
+<A><OL>Sure</OL>.</A>
+<B><OL><F>Urr</F></OL> <F>urr</F> <JP><F>eeto</F></JP> <JP><F>eeto</F></JP> <.></.> <F>urr</F> <.></.> <SC>what do</SC> <F>er</F> <F>er</F> <SC>where</SC> <SC>what to</SC> <F>er</F> how <SC>do I do</SC> <F>er</F> do I buy the ticket <SC>o</SC> <F>er</F> <.></.> for going to New York?</B>
+<A><F>Er</F> I sell tickets</A>
+<B><F>Er</F>.</B>
+<A>here.</A>
+<B><F>Er</F>.</B>
+<A>So please buy tickets here from me.</A>
+<B><F>Mhm</F>? <.></.> <F>Mhm</F> <F>er</F> <F>ur</F> <F>ur</F> <F>ur</F> <..></..></B>
+<A><F>Mhm</F>?</A>
+<B><JP><F>eeto</F></JP> <F>urr</F> <F>ur</F> where <R>do</R> do I <R><?>sit on</?> the</R> <F>urr</F> <.></.> <laughter><F>urr</F> <?>sit on</?></laughter> the button for <F>err</F> <SC>buying to</SC> <F>urr</F> going to New York?</B>
+<A><F>Oh</F>.</A>
+<B><F>Urr</F>.</B>
+<A>You can buy tickets from me. So you don't have to use the machine.</A>
+<B><.></.> <F>Uhm</F>?</B>
+<A>I sell tickets.</A>
+<B><F>Ah</F>. <JP><F>eeto</F></JP> thank you.</B>
+<A><F>Mhm</F>?</A>
+<B><F>Mhm</F>?</B>
+<A>So but we have many trains.</A>
+<B><F>Uhm</F>.</B>
+<A><F>Uhm</F>.</A>
+<B><.></.> <F>Uhm</F>. <JP>ikanakya ikenai</JP>?</B>
+<A>We have many train to New York.</A>
+<B><F>Uhm</F>. <F>Uhm</F>. <.></.> <F>Urr</F> <F>urr</F> <F>uhmm</F> <F>uhmmm</F> <..></..> <JP>nandeshitakke</JP>? <.></.> <F>er</F> I'm sorry. <F>Mhmm</F> <OL><F>urrrr</F></OL>.</B>
+<A><OL>Actually</OL>, we have three kinds of trains.</A>
+<B><SC>Three times</SC> three.</B>
+<A>Three kinds.</A>
+<B><JP><F>eeto</F> san kai</JP>.</B>
+<A><OL>Three types</OL></A>
+<B><OL>Three time</OL>. Type?</B>
+<A>of trains.</A>
+<B><F>Uhm</F>.</B>
+<A>Super express,</A>
+<B><F>Uhm</F>.</B>
+<A>express,</A>
+<B><F>Uhm</F>.</B>
+<A>and local.</A>
+<B>Local <F>er</F> yes. <JP><F>eeto</F></JP> <F>ah</F> <F>ah</F> <JP>sokka</JP> <JP>souiu koto desune</JP>. <laughter><F>Urr</F> I'm sorry</laughter>. <JP><F>aato</F></JP> <F>urr</F> <F>uhm</F> <R>as</R> <R>as</R> <JP><F>eeto</F></JP> as early as <JP><F>eeto</F></JP> <.></.> <F>urr</F> <??></??> going to New York.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>So super express</A>
+<B><F>Uhm</F>.</B>
+<A>is the <R>fastest</R> fastest one.</A>
+<B><F>Uhm</F> <F>uhm</F> <F>uhm</F> <F>uhm</F>. Yes.</B>
+<A>So super express is O K?</A>
+<B><F>Uhm</F>.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>O K</OL>.</B>
+<A>One ticket.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>Thank you</OL>.</A>
+<B><OL><?>Thank you</?></OL>.</B>
+<A><OL>Here is your ticket</OL>. O K. Have a nice trip to New York. O K?</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>The role play is over.</A>
+<B><F>Urm</F>.</B>
+<A>O K. <F>Urrm</F> <H pn="B's name">XXX02</H>,</A>
+<B><JP>Hai</JP>.</B>
+<A><F>er</F> you said <R>you</R> <F>er</F> <R>you</R> <F>er</F> you'd like to study abroad.</A>
+<B><F>Uhm</F>.</B>
+<A>Right?</A>
+<B><F>Uhm</F> <JP><F>eeto</F></JP> <R>because</R></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> <SC>because <R>I</R> <F>uhm</F> <F>urr</F> <.></.> I</SC> <F>urr</F> <.></.> <F>uhm</F> frankly speaking, because I want to <F>urr</F> meet <F>urr</F> a lot of people</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>urr</F></OL> <F>uhm</F> <R>for</R> <F>urr</F> <SC>for <.></.> <F>urrr</F> <R>thinking</R> thinking</SC> <F>ur</F> <F>urr</F> <F>er</F> <R>for</R> for <.></.> taking another idea</B>
+<A><OL><F>Uhm</F></OL></A>
+<B><OL><F>urr</F></OL> <JP><F>aato</F></JP> without me.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Um</F> So <SC>I want to <F>urr</F> study</SC> <OL><F>urr</F></OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>uh-huh</F> I want to go abroad <F>urr</F> to study</B>
+<A><F>Urr</F> <OL>I see</OL>.</A>
+<B><OL><F>uhm</F> <F>uhm</F></OL> my subject.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>Do you want to visit New York, too?</A>
+<B><F>Urmm</F> <laughter>maybe</laughter>.</B>
+<A><nvs>laughter</nvs> I see.</A>
+<B><F>Uhm</F>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, I would like to show you another picture.</A>
+<B><JP>Hai</JP>.</B>
+<A>This is the picture sequence. And this happened last week.</A>
+<B><F>Uhm</F>.</B>
+<A>So please make a story and start with "One day last week".</A>
+<B><F>Uhm</F>.</B>
+<A>There are four pictures. <.></.> One, two, three, four.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>?</A>
+<B>Just a moment.</B>
+<ctxt>The interviewee is looking at the picture and thinking for a while.</ctxt>
+<B><F>Urr</F> <F>urr</F>.</B>
+<A>O K. <R>You</R> you can use that while making story.</A>
+<B><OL><F>Urr</F> <F>uhu</F></OL>.</B>
+<A><OL>O K</OL>? From one. You can use that <OL><??></??></OL>.</A>
+<B><OL><F>Ah</F></OL> <JP><F>eeto</F></JP> <R>one day</R> <F>urr</F> one day, <R>I</R> <F>urr</F> <R>I <.></.> went to</R> <F>ur</F> I went to <F>urr</F> <R>watching</R> watching the movie with my girlfriend.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. <F>Err</F> <R>I want to</R> <.></.> <F>uhm</F> <SC>I want to watch the</SC> <F>urr</F> <F>urr</F> <.></.> <JP><R>ko</R> koko wa nandemo kamawanai</JP> <F>uhm</F> I want to watch "The <F>urr</F> Spy Game". <F>Um</F> but <F>ee</F> <R>she</R> <R>she</R> she wanted <F>urr</F> watch "The <F>er</F> Harry Potter". <F>Ur</F> so <F>uhmm</F> <R>I</R> I give up <F>err</F> watching "The <F>urr</F> Spy Game".</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <SC>I</SC> <F>urr</F> <R>we</R> <F>er</F> we went to <F>urr</F> watch "The <F>urr</F> Harry Potter".</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Urm</F>. <R>In</R> <F>um</F> <R>in the</R> <R>in the museum</R> <F>urr</F> <F>urr</F> in the museum, <R>I</R> <F>err</F> <SC>I</SC> <F>er</F> we <F>err</F> <SC>bought the</SC> <F>urr</F> bought <R>a</R> a lot of food</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> because we have a <F>errr</F> <R>free time</R> <F>err</F> <F>uhm</F> <.></.> <JP><F>eeto</F></JP> <.></.> free time <F>uhm</F> <F>uhm</F> <R>by</R> by <F>uhm</F> <R>start</R> <SC>start <SC>the</SC> this mo</SC> <F>er</F> start this movie.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F> <F>uhm</F> <F>uhm</F> <F>uhm</F> <R>during</R> during we <R>watch the mo</R> watch the movie,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> <R>we</R> <R>we</R> <.></.> <F>uhm</F> <F>uhm</F> <R>we</R> <R>we</R> <F>err</F> <.></.> we take <SC>the</SC> a lot of exiting scene.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Uhm</F></OL> <F>uhm</F> <.></.> <R>one of it</R></B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> <.></.> <F>uhm</F> <.></.> <JP><F>unto</F></JP> <R>one</R> <F>uhm</F> one of it <JP><F>uunto</F></JP> <F>er</F> <R>airplane</R> airplane <R>broke</R> <F>urr</F> <F>uhm</F> <R>broke</R> <F>urm</F> broke <R>on the</R> <R>on the sc</R> on the screen. <F>Uhm</F> <R>after</R> <R>after movie</R> <F>er</F> <SC>after movie</SC> <F>er</F> after <.></.> <SC>a movie</SC> <.></.> watching the movie, <R>we</R> <.></.> <F>urr</F> <.></.> <R>we</R> <.></.> <F>er</F> <R>we</R> <.></.> <F>er</F> we went to home</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>urr</F> <R>a</R> as soon. <F>Uhm</F> <F>uhm</F> and <SC>I</SC> <F>er</F> <R>we pro</R> <SC>we promise <F>er</F> to <F>urr</F> <R>watchin</R> watching the</SC> <F>er</F> <F>er</F> <F>er</F> <F>urr</F> <SC>they</SC> <.></.> <F>ah</F> <JP>chigau</JP> <JP>chigau</JP> <JP>nanka</JP> I promise <F>err</F> going to another amusement <F>urr</F> again.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. I see. O K. Thank you very much. Do you like movies?</A>
+<B>Yes.</B>
+<A>What kind of movies do you like?</A>
+<B><F>Urmm</F> I like <F>urr</F> <R>action</R> action and love stories. <OL><F>Hum</F></OL>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>Recently <R>I went</R> I went to <F>urr</F> <SC>watchin the T V</SC> <F>er</F> watching the movie "Harry Potter".</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F>.</B>
+<A>How was it?</A>
+<B><F>Urr</F> very exciting <F>uhm</F></B>
+<A><F>Ahhh</F>.</A>
+<B>and <F>uhm</F> very <?>movement</?>.</B>
+<A><F>Ah</F> really? Maybe</A>
+<B><nvs>laughter</nvs></B>
+<A><laughter>I'll go to see it</laughter>. <OL>O K</OL>.</A>
+<B><OL>Now</OL>, <R>I</R> I am going to <F>ur</F> watch "The Spy Game". <OL><F>Urr</F></OL>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><OL><F>Uh-huh</F></OL>. I see. O K. This is almost the end of the interview.</A>
+<B><F>Uhm</F>.</B>
+<A>Do you have any plans for winter vacation?</A>
+<B><F>Uhm</F> winter vacation?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> <.></.> <F>uhm</F> now <R>I</R> <.></.> I have no plan to do.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Uhm</F></OL> but I want to go to <F>uhm</F> anywhere <F>er</F> with my friend.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhmm</F>.</B>
+<A><CO>Now <OL><??></??></OL></CO>.</A>
+<B><OL>And</OL> I want to <F>er</F> go to the date. <nvs>laughter</nvs></B>
+<A><F>Uhmm</F>. <laughter>I see</laughter>.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Please enjoy your winter vacation.</A>
+<B><F>Uhm</F>.</B>
+<A>O K?</A>
+<B>O K.</B>
+<A>Thank you very much.</A>
+<B><F>Urr</F>.</B>
+<A>O K. This is the end <OL>of the interview</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>O K?</A>
+</stage5>
+</body>
+</interview>

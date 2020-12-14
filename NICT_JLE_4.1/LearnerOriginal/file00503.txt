@@ -1,0 +1,143 @@
+<interview>
+<filename>file00503.txt</filename>
+
+<head version="1.3">
+<date>2001-06-28</date>
+<sex>female</sex>
+<age>49</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>I'm <H pn="B's name">XXX01</H>.</B>
+<A>Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX01</H> how re you today?</A>
+<B>Fine, thank you.</B>
+<A><F>Hum</F>.</A>
+<B>And how are you?</B>
+<A>I'm good. Thank you very much. O K. <F>Um</F> <H pn="B's name">XXX01</H> what do you do?</A>
+<B><F>Um</F>. I'm housewife.</B>
+<A><F>Uh-huh</F>. <F>Hum</F> I see. <OL>O K</OL>.</A>
+<B><R>I have not</R></B>
+<A>O K. Go ahead.</A>
+<B>I have not any job.</B>
+<A><F>Hum</F>. O K. So please tell me about your family.</A>
+<B><F>Er</F> <F>uum</F> I have my <R>husband</R> <nvs>laughter</nvs> husband and two sons. <F>Urm</F> <R>my</R> <F>um</F> my elder son studies <F>um</F> commercial science. And my younger son studies <F>uum</F> <R>technical</R> technical engineering. And my husband <F>uum</F> works for chemistry company.</B>
+<A><F>Hum</F> I see. O K. <F>Er</F> when you have free time, what do you do?</A>
+<B><F>Um</F> <R>I</R> <F>um</F> I sometimes do walking <F>um</F> with my friend <R>around</R> <F>uum</F> around <H pn="others1">XXX02</H> Park near my house.</B>
+<A><F>Hum</F> I see. <F>Er</F> where do you live?</A>
+<B>I live in <H pn="others2">XXX03</H>.</B>
+<A><F>Err</F> <OL>I see</OL>.</A>
+<B><OL>Do you know</OL>? <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Yeah</OL>. It's famous for <F>er</F> the place I think the Tunnels <OL><??></??></OL>.</A>
+<B><OL>Yeah, yeah, yeah, yeah</OL>. <nvs>laughter</nvs> I <R>graduated</R> <F>um</F> graduated the same <F>er</F> elementary school. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Er</F> really</OL>?</A>
+<B><OL><laughter>Really</laughter></OL>.</B>
+<A><OL>O K</OL>. So please tell me a little more about <H pn="others2">XXX03</H>.</A>
+<B>Yeah. <F>Err</F> <H pn="others2">XXX03</H> is <F>um</F> convenient town <F>um</F> because there are three supermarket near the station. <F>Um</F> Tobu supermarket <F>er</F> Seiyu supermarket and <JP><F>ee</F></JP> Daiei supermarket.</B>
+<A><F>Hum</F>.</A>
+<B>Besides <F>err</F> <R>we</R> we used for the two lines <F>er</F> <R><H pn="others3">XXX04</H></R> the <H pn="others3">XXX04</H> Line and the <H pn="others4">XXX05</H> Line.</B>
+<A><F>Hum</F> I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>All right. First, <F>um</F> let me show you a picture. O K? Please describe the picture. O K.</A>
+<B><F>Umm</F>. <R>It</R> <SC>it</SC> <F>mm</F> <R>it's</R> it's a restaurant <F>err</F> maybe in the hotel. <F>Mmm</F> <F>mmm</F> <F>mmm</F> <SC>ss</SC> hotel. <R>A man</R> a man <JP>jyanai</JP> a woman playing the piano. <F>Mmm</F> <R>and</R> and <R>three</R> three couples <F>mmm</F> <F>mmm</F> three couples is at there. <F>Mmm</F> <R>the</R> <F>mmm</F> the <R>cen</R> center's couple <F>mm</F> <R>is</R> is <JP>nan</JP> drinking a wine. <F>Ahh</F> <R>a waiter</R> a waiter is show the man <F>ahh</F> <R>wine's bottle</R> wine's bottle name. <F>Er</F> <SC>he is</SC> <F>er</F> maybe he is <R>tasting</R> <R>tasting</R> tasting a <F>er</F> glass of wine. <.></.> And <SC>beside</SC> and behind the couples <R>is</R> <F>um</F> is <R>having</R> <SC>having dinner</SC>. <..></..> <SC>Having</SC> eating dinner. <..></..> <F>mmm</F> <..></..> <F>um</F>.</B>
+<A>O K.</A>
+<B><laughter>Yes</laughter>.</B>
+</task>
+<followup>
+<A>All right. O K. <H pn="B's name">XXX01</H> <F>um</F> please tell me about the last time you went to a restaurant.</A>
+<B><R>Last time</R>. <F>Err</F> <SC>last time I yeah</SC> <F>er</F> last time <R>I went to</R> I went to the restaurant in the Tobu department <F>er</F> <SC>and</SC> <F>er</F> <F>er</F> with my friend. And <R>I</R> <F>um</F> I ate <F>er</F> French dishes <F>er</F> for lunch. <F>Er</F> <SC>it's</SC> <F>er</F> <R>it was</R> <F>er</F> <R>it was deli</R> <F>uum</F> it was delicious. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. So let's move on to a role-play.</A>
+<B>Yeah.</B>
+<A>O K? And let me show you this card. This is written in Japanese so please read it to yourself. And when you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><JP><SC>Denwa</SC></JP> telephone. <nvs>laughter</nvs></B>
+<ctxt>The interviewee is reading the card aloud in Japanese.</ctxt>
+<B><F>Uhm</F>. Yeah. <nvs>laughter</nvs></B>
+<A>Ready? O K. Hello, <H pn="B's name">XXX01</H> what's up?</A>
+<B><F>Err</F> <F>err</F> <R>I</R> <F>er</F> <SC>are you</SC> <SC>you have a</SC> <F>uum</F> do you have a free time <F>uum</F> tomorrow night?</B>
+<A><F>Uh-hm</F> sure. I'm free.</A>
+<B><F>Err</F> <JP><F>uunto</F></JP>. <R>Would you</R> <R>would you</R> would you go to the movie with me?</B>
+<A>Sure. That's wonderful.</A>
+<B><F>Err</F> <R>what time do you</R> <F>ur</F> <SC>what time do you convenient</SC> <OL>what time convenient</OL>?</B>
+<A><OL>It's up to you</OL>.</A>
+<B><F>Err</F> <SC>the movie start</SC> the movie will start <F>err</F> seven o'clock. <F>Err</F> so <F>err</F> <R>we</R> we will met <F>uum</F> <SC>the</SC> <R>at the front</R> at the front of the movie theater <F>uum</F> at six-thirty.</B>
+<A>O K. <F>Err</F> which movie theater are we going?</A>
+<B><F>Err</F> <R>Yuraku</R> Yurakucho cinema theater. <F>Er</F> <SC>it</SC> <F>er</F> there is <F>err</F> <JP>nannda</JP> in front of the <R>Im</R> Imperial Hotel. Do you know Imperial Hotel?</B>
+<A><F>Uh-hm</F> O K.</A>
+<B><F>Um</F> <R>do you know how to</R> <F>um</F> do you know how to go there?</B>
+<A><F>Er</F> I'm not familiar with, so can you tell me?</A>
+<B><nvs>laughter</nvs> <F>Err</F> <R>where do</R> where <F>um</F> do you get to <OL>the train</OL>?</B>
+<A><OL>I live in</OL> Nakano.</A>
+<B><R>Nakano</R>. <R>Nakano</R>. Nakano. <nvs>laughter</nvs> <F>Err</F> <R>you have to</R> <F>um</F> you have to the Shinjuku Station. <F>Err</F> and <F>err</F> <R>you</R> you shift to the <F>er</F> J R Yamanote Line. <F>Um</F> <R>and you</R> and you get off the <R>Yurakucho</R> <F>um</F> Yurakucho. <.></.> <SC>How</SC> do you know how to the Imperial Hotel, from Yurakucho?</B>
+<A><F>Err</F> <OL>I'm sorry I don't know</OL>.</A>
+<B><OL><R>You don't know</R> <laughter><R>you don't know</R></OL> you don't know</laughter>. <F>Err</F> <R>Yuraku</R> <F>um</F> Yurakucho <F>uum</F> <F>er</F>. <F>Umm</F>. You get off the <F>er</F> J R Line. <F>Uum</F> you ask <F>err</F> somebody, <F>um</F> "<R>How</R> <F>er</F> how do I get to the Imperial Hote?l". <R>Everybody</R> <F>err</F> <nvs>laughter</nvs> everybody knows.</B>
+<A>O K. I'll ask somebody. All right. So I'll see you tomorrow, right?</A>
+<B>Yes.</B>
+<A>O K. Thanks for calling. All right. <OL>Thank you very much</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>This is the end of the role-play.</A>
+</task>
+<followup>
+<A>Do you like watching movies?</A>
+<B><F>Um</F> maybe <F>er</F> <SC>sometimes I wa</SC> sometimes <SC>I mo</SC> I watch movie <F>err</F> with my husband.</B>
+<A><F>Oh</F> really? <F>Er</F> what did you see last time?</A>
+<B><F>Err</F> January, <nvs>laughter</nvs> <R>I</R> I watched <F>err</F> the movie on January. <F>Um</F> and <R>its title's</R> <R>its title's</R> <F>err</F> <SC>its title's</SC> <R>it's</R> it's really story. <F>Err</F> its title's <JP>nan dattakke</JP> <F>urr</F> <R>I don't forget</R> I don't forgot <nvs>laughter</nvs>. <F>Er</F> it's story <R>ab</R> about <F>err</F> <R>Viet</R> Vietnam <F>er</F> no. <F>Er</F> <R>Cuba</R> <.></.> <F>um</F> Cuba, in Japanese, Cuba <JP>kiki</JP> <F>uum</F> Cuba accident. <F>Um</F> <SC>it's</SC> <F>um</F> it was very fun.</B>
+<A><F>Oh</F> O K. I see. All right. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>So finally, <F>um</F> I'm gonna show you a sequence of pictures. O K?</A>
+<ctxt>The interviewer is looking for the picture sequence.</ctxt>
+<A>O K. Please make up a story based on these pictures from one to six. O K? Starts here and ends here. All right? And this happened before. So please start your story with "One day last week".</A>
+<B><R>One day last week</R>. <F>Uum</F> <.></.> <F>uum</F> <F>uum</F>. <R>One</R> <JP><F>ee</F></JP> <R>one day last week</R> <F>err</F>. <SC>One day last week <F>err</F> <.></.> <R>my</R> my son, O K</SC>? One day last week my son and his girlfriend <F>err</F> <R>dated</R> <F>uum</F> dated. <F>Er</F> it was rainy day. <F>Uum</F> <R>he</R> <R>he</R> <R>he heard</R> <R>he heard a</R> <F>er</F> he heard a voice. <F>Uum</F> <F>er</F> that <F>um</F> <R>cat</R> cat voice. <.></.> <R>And</R> <R>and they</R> and they was walking <R>and</R> and <R>found</R> found the box. <.></.> <R>His</R> his girl friend <SC>open</SC> opened the box. <R>She found</R> she found the cats. <.></.> <R>She said</R> <.></.> <F>um</F> she said, <F>uum</F> "<R>I</R> <R>I</R> <R>I took</R> <R>I took the</R> I took the cat <F>err</F> to my house.". <.></.> <F>Um</F> <.></.> <R>he was</R> <F>err</F> <R>he was</R> <SC>he was</SC> <F>err</F> he said "O K.". <R>She</R> <SC>she but</SC> <F>um</F> <R>she hugged</R> <F>um</F> she hugged the cats <F>um</F> and <R>walking to</R> walking to her house. <.></.> <F>Uum</F> <.></.> <SC>hug</SC> <F>er</F> no. <R>He</R> <R>he</R> <R>he</R> <R>he put</R> he put the cat into the box. <R>And then</R> <F>err</F> <R>and then she</R> <nvs>noise</nvs> and then <R>she bring</R> <SC>she bring</SC> <SC>she bringed</SC> <F>um</F> <laughter><R>she was bringing</R></laughter> she was bringing the box <F>uum</F> to her house.</B>
+<A>O K. Thank you very much, <H pn="B's name">XXX01</H>. <nvs>noise</nvs> O K.</A>
+</task>
+<followup>
+<A>Do you always listen to your husband?</A>
+<B><.></.> <F>Err</F> listen to? <F>Err</F> yes.</B>
+<A><F>Er</F> when you have to decide something, and if your husband has different ideas or opinions from yours, how do you decide?</A>
+<B><.></.> <R>What</R> <?>what about things, these</?>?</B>
+<A><F>Uh</F> No, no. Forget about this picture. O K? When you have to decide something, <OL>anything is O K</OL>?</A>
+<B><OL><SC>Some</SC> <F>er</F> anything</OL>. <F>Ahh</F>.</B>
+<A>And if he has different ideas or opinions from yours, <OL>O K</OL>?</A>
+<B><OL><F>Um</F> yes</OL>.</B>
+<A>How do you decide?</A>
+<B>Yes. <F>Err</F> <R>I always</R> I always <R>decide</R> <F>err</F> <SC>decide to</SC> decide his opinion.</B>
+<A><F>Uh-hm</F> <F>hum</F>.</A>
+<B><.></.> <nvs>laughter</nvs> Yes. <nvs>laughter</nvs> <F>Um</F>. <.></.> <laughter><R>His</R></laughter> his opinion <F>um</F> is collect. <nvs>laughter</nvs></B>
+<A>O K. Thank you very much, <H pn="B's name">XXX01</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>This is almost the end of the interview. <OL>O K</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Err</F>. What are you going to do today after this interview?</A>
+<B><F>Urm</F>. <R>I'm going to</R> I'm going to some restaurant <F>ur</F> with my friend.</B>
+<A><F>Mm-hm</F> O K. I hope you have a nice day. <OL>Thank you for</OL> coming.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

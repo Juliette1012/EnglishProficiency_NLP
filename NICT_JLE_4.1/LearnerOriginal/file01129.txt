@@ -1,0 +1,203 @@
+<interview>
+<filename>file01129.txt</filename>
+
+<head version="1.3">
+<date>2002-05-15</date>
+<sex>male</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>3</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Mm</F> I'm fine.</B>
+<A>O K. Good. <F>Mm</F>. Did you <SC?>lun</SC?> eat lunch?</A>
+<B>Yes, I ate.</B>
+<A>What did you eat?</A>
+<B><JP>Shogayaki teishoku</JP>.</B>
+<A>Where?</A>
+<B>Lunch room.</B>
+<A>Lunch room.</A>
+<B>Lunch room.</B>
+<A>I see. With your friends?</A>
+<B>Yes, with friends, go day lunch room. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>. I see. What did you talk about with your friends?</A>
+<B><..></..> <F>Mm</F>. <F>Mmm</F> topics is hobby.</B>
+<A>Hobby. What's your hobby?</A>
+<B><F>Er</F> my hobby is surfing.</B>
+<A><F>Ah</F> I see. <F>Hm</F>. Please tell me about your surfing.</A>
+<B><F>Ah</F>. <F>Mm</F>. Surfing is very difficult <F>er</F> and <.></.> very interesting. <F>Mm</F>. <R>I</R> I like sea <R>because</R> because sea is very beautiful and <.></.> <SC>a</SC> <SC>o</SC> my heart is open <laughter>your heart</laughter>.</B>
+<A><F>Ahh</F>. <F>Hm</F>. <F>Uhm</F>. <F>Mm</F>. Where do you usually go for surfing?</A>
+<B><F>Ah</F> I go to Shonan and Chiba.</B>
+<A><F>Hmm</F>. By car?</A>
+<B><F>Um</F> yes. <F>Ur</F> my brother's car.</B>
+<A><F>Ah</F> I see. Do you drive?</A>
+<B><F>Er</F> no. <F>Erm</F> how do you say <JP>menkyo</JP> in English?</B>
+<A>License.</A>
+<B>License. <SC>I'm not</SC> <SC>I have not car license</SC> <F>ah</F> I haven't.</B>
+<A><F>Hmm</F>. Then who drives?</A>
+<B><F>Ah</F> my brother drives.</B>
+<A><F>Ahh</F> I see.</A>
+<B>Yes.</B>
+<A>Would you please tell me about your brother?</A>
+<B><F>Ah</F>. My brother is taller than me. And brother is very kind.</B>
+<A><F>Oh</F> that's nice.</A>
+<B><F>Mm</F>. Good brother.</B>
+<A><F>Hm</F>.</A>
+<B>Brother's girlfriends comes my home. <??></??> my brother's girlfriends <F>er</F> <R>tell</R> <R>tell me</R> <SC>tell me go</SC> <.></.> <R>te</R> <R>tell me</R> tell me, and <nvs>laughter</nvs> <JP>nantsunokana</JP> <.></.> she is very kind.</B>
+<A><F>Oh</F> that's nice. Do you have a girlfriend?</A>
+<B><F>Erm</F> no, <R>I</R> I don't have girlfriends.</B>
+<A><F>Hm</F>. I see.</A>
+<B><?>I'm</?> suddenly. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. O K. And</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>now, <?>yes</?>. Look at this picture and please tell me anything about it.</A>
+<B><F>Er</F> he is drinking a juice</B>
+<A><F>Hm</F>.</A>
+<B>and listening to the music.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> <.></.> he use cellular phone. <nvs>sniff</nvs> <F>Ur</F> he is <F>er</F> writing <R>note</R> notebook. He look like <laughter>angry</laughter>.</B>
+<A><F>Ahh</F>. <F>Uhm</F>.</A>
+<B><R?>He</R?> <R?>he</R?> he is front side girls talking.</B>
+<A>I see. <F>Hm</F>.</A>
+<B><R>She</R> <SC>she</SC> <F>ah</F> this teacher <F>erm</F> teaches math for students.</B>
+<A><F>Hmm</F>. <F>Hm</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, did you enjoy your high school life?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F> I enjoy high school life.</B>
+<A><F>Hmm</F>. What did you enjoy most?</A>
+<B><F>Er</F> <.></.> make <SC>friends</SC> <F>er</F> many many friends, <.></.> very kind.</B>
+<A>Yeah. How about the club <OL>activity</OL>?</A>
+<B><OL><F>Ah</F></OL> <SC>club</SC>. <F>Er</F> I'm no club.</B>
+<A><F>Hmm</F>. <F>Hmm</F>. Then what did you do after school?</A>
+<B><F>Ah</F> <SC>Ma</SC> <F>er</F> <SC>high school student time</SC> <F>ah</F> in those days, <SC>I'm</SC> <SC>my</SC> <F>ah</F> my hobby is dance. After school, <SC>I go</SC> I went to dance school.</B>
+<A><F>Ah</F> that's nice.</A>
+<B>Yes.</B>
+<A>Are you a good dancer?</A>
+<B><F>Mmm</F> <laughter>yes</laughter>.</B>
+<A><F>Hmm</F> I see. That's nice. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role play. Please read this card.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? Are you ready?</A>
+<B>Yes.</B>
+<A>Hello, may I help you?</A>
+<B><F>Erm</F>. <..></..> <F>Mm</F>. <..></..> <R>How</R> <R>how much</R> how much?</B>
+<A><F>Er</F> this one?</A>
+<B>This one. How much this one?</B>
+<A><F>Ah</F>. This is two hundred thousand yen.</A>
+<B><F>Oh</F>.</B>
+<A><F>Ah</F> sorry, twenty thousand yen. I'm sorry. Twenty thousand yen.</A>
+<B><F>Er</F> buy it.</B>
+<A><F>Ah</F> O K. But we have this one or this one.</A>
+<B><F>Ur</F> and black color wants.</B>
+<A><F>Hm</F>. <F>Ur</F> then how about this one?</A>
+<B><F>Oh</F> it's nice.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>sniff</nvs> <F>Um</F> how much this one?</B>
+<A>This is twenty five thousand yen.</A>
+<B><F>Er</F> expensive.</B>
+<A><nvs>laughter</nvs> Do you think so?</A>
+<B>And <F>er</F> ear phone, please.</B>
+<A><F>Ahh</F> O K. Is this one O K?</A>
+<B><F>Er</F> I'm white color wants.</B>
+<A><F>Ahh</F>. Sorry, we have no white color.</A>
+<B><F>Hm</F>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> <..></..> this buy it.</B>
+<A>O K. <F>Hmm</F>. How would you like to pay? <OL><CO>Cash or</CO></OL>?</A>
+<B><OL><?>Tape</?></OL>. <F>Ah</F> <CO>I have <SC>tape</SC> <F>ah</F> the cash or <F>er</F> <F>erm</F></CO>.</B>
+<A>Cards.</A>
+<B>Pay cards.</B>
+<A>O K. Here you are. Thanks. <F>Mm</F>. O K. Thank you very much and enjoy this.</A>
+</task>
+<followup>
+<A>O K. Good thank you, <H pn="B's name">XXX02</H>. So do you like shopping?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>.</A>
+<B>I like shopping.</B>
+<A><F>Hmm</F>. What do you like to buy?</A>
+<B><F>Erm</F> <F>erm</F> <.></.> <F>um</F> shirts and T shirts and C D.</B>
+<A><F>Ahh</F>. <F>Mm</F> O K. Please tell me more about the C Ds <OL>you have</OL>.</A>
+<B><OL><F>Ah</F></OL>. <F>Erm</F> I like <F>er</F> <R>techno</R> techno music.</B>
+<A><F>Hmm</F>.</A>
+<B><?>And</?> techno music is very <F>er</F> high speed. <F>Mm</F>. <JP><?>Kou</?></JP> slowly music nothing.</B>
+<A><F>Uhm</F>. I see. Do you play any musical instrument?</A>
+<B><.></.></B>
+<A>Do you play?</A>
+<B><F>Ah</F> no. <F>Erm</F> only listening.</B>
+<A><F>Oh</F> O K. I understand. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now let's do these. O K? Please make a story with these six pictures. And please start with, "One day last week".</A>
+<B>I'll teach you?</B>
+<A><F>Hm</F>. Story.</A>
+<B><F>Ah</F> story. <JP><F>Eeto</F></JP> <nvs>sniff</nvs> one day last week, <F>er</F> <..></..> <F>em</F> she and he is <SC>walking streets</SC> <F>er</F> <..></..> <F>ah</F> walking street. <F>E</F> <F>er</F> this day is rainy day. <F>Err</F> <nvs>sniff</nvs> he is listening to cat's voice.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> <F>er</F> <SC>she i</SC> <R>she</R> she likes cats. <F>Mm</F> <SC>he is</SC> he does not like cats. But <SC>she is</SC> <F>erm</F> <SC>he is</SC> <..></..> <R>he</R> <..></..> <SC>he bring a</SC> <F>ah</F> <F>ah</F> <JP><F>ja</F></JP> he hold a cats. <SC>And go to</SC> <F>ah</F> and with go to home.</B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you have cats?</A>
+<B><F>Ahh</F> I don't like cats.</B>
+<A><F>Ahh</F>. Why not?</A>
+<B>Cats allergy.</B>
+<A><F>Ahh</F> too bad. <F>Uhm</F>. <OL><CO>Then</CO></OL>.</A>
+<B><OL><R>I</R></OL></B>
+<A><F>Mm-hm</F>?</A>
+<B>I like dogs.</B>
+<A><F>Hmm</F>. Dogs are O K?</A>
+<B>Dogs is O K.</B>
+<A><F>Ah</F> I see. Do you have a dog?</A>
+<B><F>Ah</F> no. But I want to dog.</B>
+<A><F>Uhm</F>. What kind of dog</A>
+<B><F>Ah</F> <OL><F>erm</F></OL>.</B>
+<A><OL>do you</OL> like best?</A>
+<B>Golden retriever.</B>
+<A><F>Ahh</F>. Why do you like it?</A>
+<B><F>Mm</F>. Golden retriever is very <R>beautiful</R> beautiful dog.</B>
+<A><F>Hmm</F>. I see. O K. Thank you.</A>
+</followup>
+</stage4>
+<stage5>
+<A><H pn="B's name">XXX02</H>, we are almost at the end of the interview. But what are you going to do tonight?</A>
+<B><F>Ah</F> tonight is <R>sick</R> <SC>sick</SC> <F>ah</F> headache.</B>
+<A><F>Ahh</F>.</A>
+<B><SC>Today ii</SC> <F>uh</F> <R>last night</R> <F>ah</F> last night is I'm headache.</B>
+<A><F>Hmm</F>.</A>
+<B>Headache.</B>
+<A><F>Mmm</F>. Too bad. Are you O K now?</A>
+<B><F>Mm</F> I'm little headache.</B>
+<A><F>Ahh</F>. Thank you for coming despite your headache.</A>
+<B>Yes, no problem.</B>
+<A><nvs>laughter</nvs> O K. So I hope you'll feel better soon. Thank you for coming and <F>ur</F> take care.</A>
+<B>Yes. <F>Erm</F> thank you for my listening.</B>
+<A><F>Ah</F> O K. Good. Thank you and see you.</A>
+</stage5>
+</body>
+</interview>

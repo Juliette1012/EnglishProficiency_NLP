@@ -1,0 +1,228 @@
+<interview>
+<filename>file00074.txt</filename>
+
+<head version="1.3">
+<date>1999-12-15</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests>ITP</other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>Yes, my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Uh-huh</F>. <F>Er</F> how are you today?</A>
+<B>I'm fine, thank you.</B>
+<A><F>Uh-huh</F>. Where do you live, <H pn="B's name">XXX02</H>?</A>
+<B><F>Uhm</F> I live in <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H>. <F>Urm</F> <F>uhm</F> it takes about <SC>ten minutes <OL>from</OL></SC></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><?>ih</?> <F>uhm</F> <F>ah</F> twenty minutes from <H pn="school name1">XXX05</H> by walk.</B>
+<A><F>Uhmm</F>. Good. Why did you choose <H pn="school name1">XXX05</H>?</A>
+<B><F>Uhmm</F> when <F>urr</F> <SC>I take a</SC> <F>er</F> I took a examination of university,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhmm</F> I lived in <H pn="others3">XXX06</H>.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Urm</F> <F>uhmm</F> and <R>I</R> <.></.> I could choose two university, <H pn="school name2">XXX07</H> and <H pn="school name1">XXX05</H>.</B>
+<A><F>Uhm</F>.</A>
+<B>And, <H pn="school name1">XXX05</H> is near <laughter>from</laughter> my house.</B>
+<A><F>Oh</F> that's why. <F>Oh</F> what are you learning at the university?</A>
+<B><F>Uhm</F> <SC>I am now major</SC> I am now majoring <F>er</F> English literature.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F>. <R>I</R> <.></.> I now studying</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> <JP><SC>igirisu</SC></JP> <F>er</F> <nvs>laughter</nvs> English literature, for example, William Goldwyn, <OL>and</OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>James Joyce, and so on.</B>
+<A><F>Wow</F>. <R>Wh</R> why did you choose English literature?</A>
+<B><F>Uhm</F> <F>uhhm</F> <.></.> <SC>I like</SC> <SC>I play</SC> <F>mhm</F> I like English novel.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mhm</F> <SC>I was</SC> <F>mhm</F> <SC>when I</SC> <F>ah</F> last year,</B>
+<A><F>Uh-huh</F>.</A>
+<B>I studied <F>mhm</F> a novel, <F>er</F> "Animal Farm".</B>
+<A><F>Hum</F>.</A>
+<B><F>Mhm</F> it's very interesting for me. So, <R>I</R> I was interested in</B>
+<A><F>Hum</F>.</A>
+<B>English writer.</B>
+<A>I see. What kind of book was <F>uhm</F> <F>ah</F> the "Animal Farm".</A>
+<B><F>Urm</F> it's a story of animal.</B>
+<A><F>Hum</F>.</A>
+<B>But, <SC>it</SC> <F>uhm</F> <?>an play</?> of <R>commu</R> <F>mhm</F> communist world <OL>of</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>Soviet Union.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>And</SC> but, it was <R>written</R> written for childs,</B>
+<A><F>Uh-huh</F>.</A>
+<B>so <SC>it was</SC> <F>er</F> it is <R>easy</R> <F>urr</F> <F>urrm</F> easy and interesting.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>. But, it's means very <R>serious</R> <F>urr</F> serious <R>circum</R> circumstances <OL>of Soviet</OL></B>
+<A><OL><F>Uhm</F> <F>uhm</F></OL>.</A>
+<B>Union.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F>.</B>
+<A><F>Oh</F>. Sounds very interesting. <F>Mhm</F> O K. <F>Uhmm</F> tell me about your hobby.</A>
+<B><F>Uhm</F> my hobby <OL>is playing</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>the piano and listening to music.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhm</F> especially, I like <R>ja</R> jazz music.</B>
+<A><F>Hum</F>.</A>
+<B>So, I am now learning about jazz music.</B>
+<A><F>Uhm</F>.</A>
+<B>But, <F>uhm</F> jazz needs <R>impro</R> improvisation.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uhmm</F> it is very <laughter>hard to</laughter> play <F>er</F> <F>mhm</F> ad-lib <?>turn</?>.</B>
+<A><F>Uhmm</F>. <F>Uhmm</F> how long have you been playing the piano?</A>
+<B><F>Uhmm</F> I started the learning of piano <OL>when</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>I was six years old.</B>
+<A><F>Uhm</F>.</A>
+<B><R>And</R> and, <SC>I</SC> first, I stopped to learn</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>because</OL> of my <F>err</F> <R>examination</R></B>
+<A><F>Uhm</F>.</A>
+<B><SC>examination of</SC> <F>ah</F> entrance examination of university.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But, I again <SC>start</SC> started <F>urr</F> two years ago.</B>
+<A><F>Uhm</F>. <F>Uhm</F> I see. What do you want to do after you graduate from the college?</A>
+<B><F>Uhmm</F>. <.></.> <R>If I</R> if I could,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>I want</R> I want to <R>work</R> <R>work</R> <F>uhm</F> work in publish company. <F>Uhmm</F> <.></.> <F>uhmm</F> <.></.> <SC>but</SC> <F>er</F> <F>er</F> and, <R>I want to</R> I <R>want to</R> <F>uhmm</F> want to work</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhmm</F> <F>uhmm</F> <R>the</R> <F>urmm</F> <F>urm</F> <.></.> <F>urmm</F> the <R>relative</R></B>
+<A><F>Uhm</F>.</A>
+<B><R>relative</R> relative part of music.</B>
+<A><F>Ohh</F>.</A>
+<B><F>Uhm</F>.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. <F>Er</F> thank you very much, <H pn="B's name">XXX02</H>. Now, I'm going to show you a picture. Please have a look, and could you describe the picture for me?</A>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<B><F>Uhm</F> this is a picture of a <F>uhm</F> <F>uhm</F> American town.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> <.></.> <F>urmm</F> I think it is a <R>Sunday</R> <R>Sunday</R> <F>uhm</F> <F>er</F> Sunday afternoon. <F>Uhm</F>. There are many people <R>who</R> who are doing <F>uhm</F> <R>their</R> their hobbies.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F> one of them is reading a newspaper <F>uhm</F> sitting down a bench. And some children playing <R>with ball</R> <F>urm</F> with ball and ropes. <F>Mhm</F> <R>young</R> young man is running very hardly. <F>Mhm</F> and I can see <SC>three dogs</SC> <F>mhm</F> <F>ah</F> three dogs and one cat. <F>Uhmm</F> <F>uhm</F> and the cat is sleeping <F>uhm</F> on the top of a car <F>urmm</F> <SC>stop</SC> stops in the front of a big house. <F>Mhmm</F> <.></.> <F>mhmm</F> <R>in the</R> <SC>in the <R>right</R> right</SC> <F>mhm</F> in the right side of the house, <OL>there</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>are two dogs. <F>Mhm</F> the two dogs <R>seems</R> <F>uhmm</F> seems playing together. And, <F>uhm</F> the center of the picture, there are two women. Maybe <R>middle aged</R> <SC>middle aged women <SC>speaking</SC> <F>uhm</F> <R>su</R> spea</SC> <F>uhm</F> a middle aged women are chatting.</B>
+<A><F>Uh-huh</F>.</A>
+<B>One of the <R>woman</R> <F>uhm</F> woman <SC>have</SC> has dog in her left hand. <F>Uhmm</F> <F>uhm</F> the <R>weather</R> weather is very fine.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhm</F>.</B>
+</task>
+<followup>
+<A>O K. Thank you very much, <H pn="B's name">XXX02</H>. Is this neighborhood very different from yours?</A>
+<B><F>Uhm</F> yes. <F>Uhm</F> <R>there are no</R> there are no walls to separate the house and <?>yard</?>.</B>
+<A><F>Oh</F> I see. Where were you born?</A>
+<B><F>Er</F> <SC>I</SC> the place I was born <OL>is</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><H pn="others4">XXX08</H>, <H pn="others5">XXX09</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mhm</F> there are many <R>houses</R></B>
+<A><F>Uhm</F>.</A>
+<B>houses, and <F>uhm</F> very <laughter>complicated</laughter> road.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uhmm</F> I lived <SC>in</SC> <F>mhm</F> near the <H pn="others6">XXX10</H>.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Mhh</F> so, <.></.> <F>uhm</F> <R>it was</R> it was very interesting place for me.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>I can</SC> <SC?>I could ue</SC?> I could go to many small shop</B>
+<A><F>Uhm</F>.</A>
+<B>which sells <F>mhm</F> <JP>ningyo yaki</JP> <R>and</R></B>
+<A><F>Uhm</F>.</A>
+<B><F>mhm</F> <F>mhm</F> <laughter>and</laughter> many interesting things <R>which</R> <SC>which were</SC> <F>er</F> <SC>which are</SC> which aren't <SC>sell</SC> sold</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>umhm</F> <R>i</R> <F>mhm</F> <SC>in the</SC> <F>mhm</F> <laughter>here</laughter>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhmm</F>. <F>Oh</F> very interesting. <F>Er</F> thank you very much, <H pn="B's name">XXX02</H>. Now, let's do a role play. O K? Please have a look at this card. And when you're ready, please start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Hello. This is <H pn="B's name">XXX02</H> speaking.</B>
+<A><F>Oh</F> hello, <H pn="B's name">XXX02</H>.</A>
+<B><F>Uhmm</F> <F>uhm</F> <.></.> <F>uhm</F> do you have free time in next Sunday afternoon?</B>
+<A>Next Sunday afternoon? <F>Oh</F> yes. I would be free. Why?</A>
+<B><SC>I want to se</SC> I want to go to a movie <F>urr</F> <R>which</R> <R>which</R> <R>which starts</R> which starts on the Sunday. So, <SC>would you</SC> <F>mhm</F> why don't you go with me?</B>
+<A><F>Oh</F> that sounds lovely. Yes.</A>
+<B><F>Uhm</F> <R>I</R> <SC>I looking</SC> <R>I</R> <F>mhm</F> I was looking for theater, and <R>I</R> <SC>I can</SC> <R>I could</R> <F>mh</F> I could find the theater in <H pn="others1">XXX03</H>. <F>Uhm</F> <R>so</R> so <F>urmm</F> are you O K in <H pn="others1">XXX03</H>?</B>
+<A><F>Oh</F> yes, yes. <H pn="others1">XXX03</H> is O K for me.</A>
+<B><F>Uhm</F> <SC>it's starts</SC> <SC>it starts</SC> <F>uhm</F> <R>it</R> <F>er</F> it starts <R>twelve</R> <F>um</F> <R>twelve</R> twelve o'clock and three o'clock P M. So, which one do you want to?</B>
+<A>Maybe, twelve o'clock would be better.</A>
+<B>O K.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>So, <.></.> <F>mhmm</F> <..></..> <F>mhm</F> <F>mhmm</F> it's</R> <F>mhm</F> so, it's around lunch time, so <.></.> <F>urmm</F> <SC>why</SC> <F>uhm</F> <F>uhmm</F> <.></.> <F>uhmm</F> what about <R>having a</R> having a lunch around <R>eleven</R> eleven P M near the theater?</B>
+<A>O K. Sounds great.</A>
+<B><R>So</R> <F>uhmm</F> <R>so</R> <.></.> <SC>so I wen</SC> so, I will go to <H pn="others1">XXX03</H> Station,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> <F>uhm</F> East <R>exi</R> <OL><SC>exit</SC></OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><R>exi</R> <F>mhm</F> exit</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>mhmm</F> <F>uhmm</F> about eleven P M.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So, please come to <F>um</F> without delaying.</B>
+<A>O K. O K. <R>I wi</R> I will be there on time, and thank you very much for inviting me. I will be looking forward to it.</A>
+<B><F>Ah</F>.</B>
+</task>
+<followup>
+<A>Thank you. O K. <F>Urrm</F> what do you usually do with your friends to have fun?</A>
+<B><F>Mhm</F> <F>mhmm</F> I usually <F>mhm</F> <R>go to</R> go to movie</B>
+<A><F>Uh-huh</F>.</A>
+<B>like this,</B>
+<A><F>Um</F>.</A>
+<B>or <F>uhmm</F> museum, and <F>uhmm</F> <F>uhm</F> <F>uhm</F> <F>uhmm</F> <R>last</R> last weekend,</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>uhm</F> on Sunday, <R>I went to mu</R> I went to movie in <H pn="others7">XXX11</H> Shochiku.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mhm</F> I watched "Life Is Beautiful". <F>Mhm</F>. And on Sunday, <R><OL>I went to</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>Yokohama</R> I went to Yokohama,</B>
+<A><F>Uhm</F>.</A>
+<B>art exhibition of Cezanne.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mhm</F>. I see. <F>Oh</F> that's great. O K. <F>Oh</F> thank you very much, <H pn="B's name">XXX02</H>. Now, I'm going to show you another picture. O K? This is the picture for you. This happened last week, so would you please start your story with "One day last week"?</A>
+<B><F>Mhm</F>. One day last week, <F>uhm</F> a boy <R>called</R> called his girlfriend to go to zoo, and his girlfriend said, "O K.". <F>Mhm</F> <SC>so</SC> and he <R>promised</R> <F>er</F> promised on Sunday. And that day, <SC>he's pre</SC> <R>he</R> he was preparing for <SC>the</SC> his car. His car is red small car. <F>Mhm</F>. <.></.> <F>Mhmm</F> and he droved, <R>and</R> <F>uhm</F> and <R>met</R> met her and <SC>went to zoo wi</SC> went to zoo. And, <.></.> <F>uhmm</F> the first <R>they watched a</R> they watched a lion. And, <.></.> <F>mhmm</F> <.></.> <SC>the li</SC> <F>mhm</F> <.></.> <F>mhm</F> this picture's lion is very pretty. And, they <R>enjoyed the</R> <R>enjoyed the</R> <F>uhmm</F> <F>uhm</F> enjoyed <SC>the</SC> <R>seeing the</R> seeing the lion. And next, they went to a <?>cage</?> of monkey. <F>Mhm</F> the money was eating a banana, and <R>his girlfriend</R> <F>mhm</F> his girlfriend <F>mhmm</F> <R>pointing</R> pointing the monkey <F>mhm</F> <SC>who is ea</SC> <F>mhm</F> who was eating banana and <R>laughing</R> laughing. <F>Mhm</F> after that, <F>uhm</F> <R>they</R> <.></.> <F>mhm</F> <R>they wen</R> <F>mhm</F> they went out of the zoo. <F>Mhm</F> <SC>they spea</SC> <F>mhm</F> they were speaking <R>about the</R> <R>about the</R> <F>uhm</F> about the zoo <F>uhm</F> which <R>they</R> they watched. <F>Mhm</F>.</B>
+</task>
+<followup>
+<A>O K. <F>Er</F> thank you very much, <H pn="B's name">XXX02</H>. If you have a friend visiting <H pn="others5">XXX09</H>, where do you want to take her?</A>
+<B><F>Mhmm</F> <F>mhm</F> <F>mhmm</F> <F>mhm</F> maybe <R>I</R> <SC>I take</SC> I will take her to Tokyo Disney Land.</B>
+<A><F>Uhm</F>. Why, Tokyo Disney Land?</A>
+<B><F>Mhmm</F> <.></.> <F>mhmm</F> <laughter>although</laughter>,</B>
+<A><F>Uh-huh</F>.</A>
+<B>Tokyo Disney Land is not in Tokyo,</B>
+<A><F>Uhm</F>.</A>
+<B><nvs>laughter</nvs> but</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>err</F> it is very famous in Japan <F>mhm</F> so <R>she</R> <R>she</R> she <R>will</R></B>
+<A><F>Uhm</F>.</A>
+<B>will enjoy <OL><??></??></OL>.</B>
+<A><OL><F>Oh</F> I see</OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. The interview is almost over. Do you have any plan for this <SC>wee</SC> <F>er</F> afternoon?</A>
+<B><F>Er</F> I have one more <laughter>lesson</laughter>,</B>
+<A><F>Hum</F>.</A>
+<B>and <R>I have to go to</R> I have to go to my circle's room,</B>
+<A><F>Uh-huh</F>.</A>
+<B>because I have a live on this Sunday, so I have to practice.</B>
+<A><F>Oh</F>. Good luck on your study and on your practice. O K. And thank you very much for coming in.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

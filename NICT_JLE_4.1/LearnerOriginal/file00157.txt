@@ -1,0 +1,206 @@
+<interview>
+<filename>file00157.txt</filename>
+
+<head version="1.3">
+<date>2000-10-05</date>
+<sex>male</sex>
+<age>26</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, thank you very much for coming. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. How are you today?</A>
+<B>I'm fine, thank you.</B>
+<A><F>Um-hm</F>. O K. Where do you live?</A>
+<B><F>Ahh</F> <SC>I li</SC> I'm living in <H pn="others1">XXX03</H> City.</B>
+<A>I see. How long does it take from your house to come here?</A>
+<B><F>Er</F> <SC>One years</SC> <F>er</F> one year.</B>
+<A><F>Um-hm</F> O K. <F>Um</F> how do you come to this office?</A>
+<B><F>Ahh</F> <.></.> by train.</B>
+<A>By train. <F>Um-hm</F> O K. Does your family also live there?</A>
+<B>No.</B>
+<A><F>Nh</F>. Do you live alone?</A>
+<B>Yes.</B>
+<A><F>Nh</F>. Now, please tell me about your hometown.</A>
+<B><..></..>.</B>
+<A><F>Nh</F>. Where is your hometown?</A>
+<B>My hometown is <nvs>cough</nvs>.</B>
+<A><nvs>laughter</nvs> Where were you born?</A>
+<B><F>Ah</F> <F>er</F> <R>my</R> my hometown is <F>ah</F> <..></..> <R><H pn="others2">XXX04</H></R> <OL><H pn="others2">XXX04</H> City</OL>.</B>
+<A><OL>In <H pn="others3">XXX05</H></OL>.</A>
+<B>Yes.</B>
+<A>O K. <F>Um-hm</F>. What are the differences between <H pn="others2">XXX04</H> and <H pn="others1">XXX03</H>?</A>
+<B><F>Ahh</F> <H pn="others2">XXX04</H> is <F>ah</F>. <.></.> <F>Nh</F> sorry.</B>
+<A><F>Um</F>. It's O K, but, <F>nh</F> which do you like, living in <H pn="others2">XXX04</H> or <H pn="others1">XXX03</H>?</A>
+<B>I like <H pn="others2">XXX04</H>.</B>
+<A><F>Oh</F> really. O K, thank you very much. Now, what's your hobby.</A>
+<B>My hobby is <F>ah</F> music</B>
+<A><F>Um-hm</F>.</A>
+<B>and watching cinema.</B>
+<A>I see. For example, what kind music do you like?</A>
+<B><F>Ahh</F> <.></.> Japanese singer. <F>Mm</F> Japanese pop music. Yes.</B>
+<A><F>Uhm</F>. Please tell me more about your favorite singer.</A>
+<B>I like <F>eh</F> Chage and Asuka.</B>
+<A><F>Um-hm</F>.</A>
+<B><F>Ah</F>. <.></.> And <.></.> rock. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Um-hm</F> <F>um-hm</F></OL>. O K, next. <F>Ahhn</F> please tell me about your job. What do you do?</A>
+<B><.></.> <F>Eh</F> my job is <F>er</F> system administrator and <F>ahh</F> <.></.> C programmer.</B>
+<A><F>Nh</F>. Tell me more about your job. For example, what do you do everyday in your office?</A>
+<B><.></.> <F>Ehh</F>. <nvs>cough</nvs> <..></..></B>
+<A><nvs>laughter</nvs> That's O K. But, do you like your job?</A>
+<B>Yes.</B>
+<A><F>Oh</F>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> Why do you like your job?</A>
+<B><F>Ahh</F>. <SC><laughter>It's</laughter></SC> <SC>It is</SC> <F>umm</F>. <..></..> This job has <F>ah</F> Japanese say, <JP>yarigai</JP>.</B>
+<A><F>Ahh</F> really? O K, thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I have a picture to show you. O K? Please describe this picture in English. <OL>O K</OL>?</A>
+<B><OL><F>Ahh</F> this is</OL> a wedding party. <F>Ah</F> <R>no</R> <R>no</R> <R>no</R> no. This is restaurant.</B>
+<A><F>Um-hm</F>.</A>
+<B><F>Ahh</F> waiter has <F>er</F> wine. <..></..> This picture's time is <F>er</F> seven o'clock. <F>Nh</F>. <.></.> <F>Nh</F>. <nvs>cough</nvs> <..></..> <F>Nh</F> <R>this</R> <laughter>this</laughter> restaurant has a piano player.</B>
+<A>Yes.</A>
+<B><F>Nmm</F>. <..></..></B>
+<A>O K. What are they doing?</A>
+<B><..></..> They are <..></..> <F>umm</F> <..></..>.</B>
+<A>What is he doing? <OL>What is he doing</OL>?</A>
+<B><OL><nvs>cough</nvs></OL> <.></.> <R>He speak</R> <F>er</F> he speak waiter.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Eh</F> <..></..> <F>nh</F> <..></..> <F>nmm</F>. Sorry. <OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A><OL><laughter>O K</laughter></OL>. Maybe he is talking about wine. But, do you like wine?</A>
+<B><F>Ah</F> yes.</B>
+<A><F>Um-hm</F>. <F>Ahn</F> how often do you drink with your colleagues?</A>
+<B><.></.> Three times on.</B>
+<A><F>Um</F>? <OL>Three times</OL>?</A>
+<B><OL>Three times</OL> on week.</B>
+<A>Really? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>Do you usually drink wine?</A>
+<B><F>Ah</F> <R>no</R> <R>no</R> no.</B>
+<A>What do you drink?</A>
+<B><F>Ah</F> beer.</B>
+<A><F>Uh-huh</F>. <R>Do drink a lot</R>?</A>
+<B><F>N</F>?</B>
+<A>Do you drink a lot?</A>
+<B>No, very small. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> really</OL>? What do you usually talk about with your colleague when you drink?</A>
+<B><.></.> One more time, please?</B>
+<A><R>What</R> what's the topic of conversation when you drink?</A>
+<B><F>Ahh</F> shop <F>er</F> and friends.</B>
+<A><F>Oh</F> really? O K. <laughter>Thank you very much</laughter>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I want to do a role-play. O K? This is your role card. And, when you are ready, I'll start. O K?</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B><F>Ah</F> yes.</B>
+<A>Ring ring. Hello.</A>
+<B>Hello. <F>Ah</F>. This is <H pn="B's name">XXX02</H>.</B>
+<A>Hi. <nvs>laughter</nvs></A>
+<B><F>Umm</F>. <.></.> <R>Please</R> <R>please</R> <F>ah</F> <.></.> please go to cinema with me.</B>
+<A><F>Umm</F> sounds great.</A>
+<B><F>Er</F>. <..></..></B>
+<A>When?</A>
+<B>When. <F>Ehh</F> <..></..> nine o'clock.</B>
+<A><F>Um-hm</F>.</A>
+<B>Tomorrow.</B>
+<A>Tomorrow evening, nine o'clock.</A>
+<B>Yes.</B>
+<A>That's fine with me. Yes.</A>
+<B>Yes. <F>Nm</F>? <..></..></B>
+<A>How about having dinner together before the movie?</A>
+<B><.></.> <F>Ah</F> <nvs>cough</nvs> <F>ohh</F> do you like <.></.> <JP>chuka</JP>?</B>
+<A>Chinese?</A>
+<B>Chinese, yes.</B>
+<A>Yes, I like it.</A>
+<B>Yes. <..></..></B>
+<A>Do you know a good Chinese restaurant?</A>
+<B><F>Ah</F> <F>ah</F> yes. <F>Ah</F> <.></.> sorry, I don't know.</B>
+<A><nvs>laughter</nvs> O K. <R>Where</R> where are we going to see a movie?</A>
+<B><.></.> <F>Ahh</F> <.></.> in <H pn="others1">XXX03</H>.</B>
+<A>O K.</A>
+<B><..></..> <F>Ahh</F> <.></.> <F>nmm</F>. <..></..></B>
+<A><nvs>laughter</nvs> O K, so, that's tomorrow evening at nine o'clock.</A>
+<B>Yes.</B>
+<A>And <H pn="others1">XXX03</H> Station ticket gate.</A>
+<B>Yes.</B>
+<A>O K?</A>
+<B>Yes.</B>
+<A>O K, thank you very much.</A>
+</task>
+<followup>
+<A>O K. Now, you said you like movie. What kind of movies do you like?</A>
+<B><.></.> <F>Ah</F> I like action movie.</B>
+<A>Action movie, <F>um-hm</F>. Please tell me about your favorite movie.</A>
+<B><F>Ahh</F> <F>mhh</F>, <.></.> I like <F>ah</F> "Die Hard".</B>
+<A><F>Ahh</F> <F>um-hm</F>.</A>
+<B><F>Mhh</F>. <..></..></B>
+<A>O K. <OL>Thank you</OL>.</A>
+<B><OL><laughter>I'm sorry</laughter></OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I have another picture to show you. <R>O K</R> O K. This one. O K? Next time, please make a story by using these six pictures, O K? This happened one day last week. So, please start your story by using this phrase, "one day last week," and one, two, three, four, five, six. O K?</A>
+<ctxt>The interviewee is looking the pictures.</ctxt>
+<B><F>Hmmm</F>. <.></.> He is <F>ah</F> Takeshi. Takeshi <R>promised</R> <F>ah</F> <.></.> <F>um</F> promised date with his girlfriend. <F>Nhm</F>. <..></..> Takeshi goes <.></.> zoo by his car. <F>Nmm</F>. <..></..> Takeshi meeted his girlfriend <R>on</R> <.></.> <SC>on</SC> zoo. <F>Nmm</F> <.></.> <SC>they se</SC> they watched lion <F>ah</F> <.></.> and <F>er</F> chimpanzee. <.></.> They <R>are</R> goes back Takeshi's home.</B>
+</task>
+<followup>
+<A><R>O K</R> O K, thank you very much. Now, where did you go for your first date in your life?</A>
+<B>Sorry, <R>one</R> <OL>one more please</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> <R>Where</R> <R>where</R> where did you go for your first date in your life? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Ahh</F> <nvs>laughter</nvs></OL> <..></..></B>
+<A>Did you go to <OL>the zoo</OL>?</A>
+<B><OL><F>Ahn</F></OL> I go to <F>um</F> cinema.</B>
+<A>I see. <F>Um-hm</F>.</A>
+<B><JP><F>Etto</F></JP>.</B>
+<A><nvs>laughter</nvs> What do you think about going to the zoo for the first date? What do you think?</A>
+<B><F>Nhm</F> <F>ahh</F> <.></.> <nvs>cough</nvs> <..></..> <F>ah</F> it is simple.</B>
+<A><laughter>Yes I think so too</laughter>. <nvs>laughter</nvs> O K, thank you very much. Now, the interview is almost over. O K?</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>You are going to take English lesson this evening. <OL>Right</OL>?</A>
+<B><OL>Yes</OL>.</B>
+<A>Have you ever taken the English lesson before?</A>
+<B><.></.> <F>Um</F> sorry.</B>
+<A>Is it the first time</A>
+<B>Yes.</B>
+<A>that you take English conversation lesson?</A>
+<B><..></..></B>
+<A><F>Um</F> <laughter>O K</laughter>. <F>Um</F>. Have you ever taken English conversation classes before?</A>
+<B><F>Ah</F> no.</B>
+<A>No? <F>Ah</F>. Are you excited?</A>
+<B>No.</B>
+<A><laughter>Are you scared</laughter> about English lesson? <.></.> Are you happy taking English lessons?</A>
+<B><F>Ah</F> yeah.</B>
+<A><nvs>laughter</nvs> <F>Um</F> O K. Please enjoy your lesson.</A>
+<B>Yes.</B>
+<A><laughter>I hope O K</laughter> thank you very much. This is the end of the interview test.</A>
+<B><F>Ah</F>.</B>
+<A>O K. <OL><laughter>Thank you very much</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage5>
+</body>
+</interview>

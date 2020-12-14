@@ -1,0 +1,151 @@
+<interview>
+<filename>E_file00484.txt</filename>
+
+<head version="1.3">
+<date>2001-06-24</date>
+<sex>female</sex>
+<age>16</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>I'm <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you</OL>, too.</B>
+<A>How are you?</A>
+<B>I'm fine, thank you.</B>
+<A>Good. <nvs>laughter</nvs></A>
+<B>And you?</B>
+<A>Good. Thank you. <F>Um</F>. <H pn="B's name">XXX02</H>, <F>ur</F> where do you live now?</A>
+<B>I live <SC><H pn="others1">XXX03</H></SC> in <H pn="others1">XXX03</H>.</B>
+<A><F>Oh</F> <F>uh-huh</F>. Can you tell me more about <H pn="others1">XXX03</H>?</A>
+<B><F>Uhm</F> <F>uum</F>. I live near the big park</B>
+<A><F>Uh-huh</F>.</A>
+<B><v_vo odr="1" crr="named">name</v_vo> <F>um</F> <H pn="others2">XXX04</H>.</B>
+<A><F>Err</F>.</A>
+<B><F>Hm</F>. It's <at odr="1" crr="a"></at> very beautiful park.</B>
+<A><F>Uh-huh</F>. What do you like to do there?</A>
+<B><F>Hm</F>. Reading book.</B>
+<A><F>Err</F>. What's your favorite <n_num odr="1" crr="books">book</n_num>?</A>
+<B><F>Uum</F>. <.></.> <F>Uum</F>.</B>
+<A>Or your favorite author?</A>
+<B><R>Poem</R> <n_num odr="1" crr="poems">poem</n_num>.</B>
+<A>Poems. Why? <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> I don't know.</B>
+<A><laughter>You don't know</laughter>? All right. <F>Um</F>. At school, <F>um</F> what kind of activities do you do?</A>
+<B>I'm belong to <at odr="1" crr="a"></at> fashion design club.</B>
+<A><F>Hum</F>.</A>
+<B><R>Making</R> making clothes.</B>
+<A><F>Uh-hm</F>.</A>
+<B>And <JP><F>uunto</F></JP> we have a fashion show</B>
+<A><F>Uh-hm</F>.</A>
+<B><.></.> <o_lxc odr="1" crr="once a year">once in year</o_lxc>.</B>
+<A><F>Uh-huh</F>. I see. <F>Er</F>. What's interesting about making clothes?</A>
+<B><..></..> I can <R>wear</R> <F>uhm</F> <.></.> wear the clothes that <R>I</R> <F>um</F> <.></.> I want to wear.</B>
+<A><F>Uh-hm</F>. I see. <F>Uum</F>. O K. <nvs>coughs</nvs> Excuse me. <F>Um</F>. All right. <.></.> <F>Urr</F>. O K. Can you tell me more about your school?</A>
+<B><F>Uhm</F>. <..></..> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><.></.> My school <R>have a</R> <v_agr odr="1" crr="has">have</v_agr> about <SC>thir</SC> three hundred students.</B>
+<A><F>Uh-hm</F>.</A>
+<B>And <..></..> <SC>students <.></.> wear</SC> <F>uhm</F> <.></.> students can wear <pn_lxc odr="1" crr="anything">everything</pn_lxc>.</B>
+<A><F>Uh-hm</F> <F>uum</F>. That's nice. <nvs>laughter</nvs> O K.</A>
+</stage1>
+<stage2>
+<task>
+<A><CO>Now, <F>um</F> the first thing I'm going <R>to</R></A>
+<ctxt>Something drops.</ctxt>
+<A><F>woops</F> to do is</CO>. <SC>Look</SC> please look at this picture and tell me about the picture.</A>
+<B><.></.> She <v_agr odr="1" crr="has">have</v_agr> <at odr="2" crr="a"></at> dog and <at odr="3" crr="a"></at> cat. <.></.> She <v_lxc odr="1" crr="is"></v_lxc> in her room <R>and</R> <.></.> and <v_lxc odr="3" crr="uses"><v_agr odr="2" crr="plays">play</v_agr></v_lxc> <at odr="4" crr="a"></at> computer. <.></.> She <R>sits</R> sits <prp_lxc2 odr="1" crr="on">in</prp_lxc2> <at odr="2" crr="a"></at> chair. <.></.> <at odr="1" crr="A"></at> <cap odr="2" crr="door" ch="1">Door</cap> is open. <..></..></B>
+<A>O K. <F>Uhm</F>. Thank you.</A>
+</task>
+<followup>
+<A><F>Um</F>. What's the difference between your room and this room?</A>
+<B><F>Um</F>. Her <R>room</R> room is bigger than mine. And <.></.> she has a computer and pets. But <R>I</R> I <v_ng odr="1" crr="don't have">have not</v_ng> <at odr="2" crr="a"></at> computer, <con_lxc odr="3" crr="">and</con_lxc> <at odr="4" crr="a"></at> dog and <at odr="5" crr="a"></at> cat.</B>
+<A><F>Uh-hm</F>. I see. <F>Um</F>. Would you like pets?</A>
+<B>Yes.</B>
+<A>Yeah?</A>
+<B><R>I</R> I want to have a dog.</B>
+<A><F>Er</F>. Why?</A>
+<B><.></.> Very cute.</B>
+<A><nvs>laughter</nvs> I see. I agree. <nvs>laughter</nvs></A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, the second thing we are going to do is a role play. Please read this card, and, when you are ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<A><OL>O K</OL>?</A>
+<B><OL>O K</OL>.</B>
+<A>May I help you?</A>
+<B>Yes. <F>Um</F>. I want to go <prp_lxc2 odr="1" crr="to"></prp_lxc2> <F>um</F> New York <o_lxc odr="2" crr="as fast as I can">as can as I can possible</o_lxc>.</B>
+<A><F>Uh-hm</F>.</A>
+<B><R>Where</R> where can I have a ticket?</B>
+<A>Yes. You can buy it here.</A>
+<B><R>How much</R> how much <v_lxc odr="1" crr="is"></v_lxc> a ticket to New York?</B>
+<A><F>Um</F>. There are three different trains to New York.</A>
+<B>I want to get <R>a</R> <at odr="1" crr="the">a</at> fastest train.</B>
+<A><F>Uh-hm</F>. O K. The fastest train is the super express. And it's a hundred dollars.</A>
+<B><.></.> O K. <.></.> Where can I get a train?</B>
+<A><F>Er</F> <F>urr</F>. The super express leaves from platform number one. O K? So you want one ticket?</A>
+<B>Yes.</B>
+<A>O K. Here you are. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Thank you</OL>.</B>
+<A>O K. Thank you. That's the end of the role play.</A>
+</task>
+<followup>
+<A><F>Um</F>. Have you traveled to the United States before?</A>
+<B>No.</B>
+<A>No? O K. <F>Um</F>. <.></.> Do you enjoy traveling by train?</A>
+<B>Yes.</B>
+<A>Yes? O K. <F>Um</F>. When was the last time you traveled by train?</A>
+<B><F>Uum</F>. I traveled to my grandparents' house</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>um</F> last <R>su</R> summer vacation.</B>
+<A><F>Hum</F>.</A>
+<B><.></.></B>
+<A>How did you go there?</A>
+<B><.></.> <R>My</R> my grandparents <v_agr odr="1" crr="live">lives</v_agr> in <H pn="others3">XXX05</H>. So <pn_lxc odr="1" crr="it">there</pn_lxc> is <SC>cool</SC> cooler than <H pn="others4">XXX06</H>.</B>
+<A><F>Uh-hm</F>. I see. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, the last thing I'd like you to do is to look at this picture sequence. There are six pictures. Please make a story using the pictures. And this happened last week. So, start your story with "One day last week".</A>
+<B>O K.</B>
+<ctxt>the interviewee is looking at the pictures</ctxt>
+<B><SC>One day last week, she</SC> <.></.> I'm sorry. One day last week, <.></.> <R>she's friends <.></.> cal</R> <R>she</R> <pn_inf odr="1" crr="her">she's</pn_inf> friends <v_tns odr="2" crr="called">call</v_tns> her but <.></.> <R>she</R> <pn_inf odr="3" crr="her">she's</pn_inf> friends <v_tns odr="4" crr="came">come</v_tns> <prp_lxc2 odr="5" crr="to"></prp_lxc2> <R>her</R> her house. But <.></.> she <v_tns odr="1" crr="looked">look</v_tns> <prp_lxc2 odr="2" crr="at"></prp_lxc2> <.></.> <at odr="3" crr="the"></at> freezer. <F>Um</F> There <v_ng odr="2" crr="wasn't"><v_tns odr="1" crr="was">is</v_tns></v_ng> <.></.> any <n_num odr="3" crr="foods">food</n_num>. <.></.> <F>Um</F>. So <R>she</R> <.></.> she drove to <at odr="2" crr="a"></at> <o_je odr="1" crr="supermarket">super</o_je>. And <.></.> <R>she</R> she <v_tns odr="1" crr="chose">choose</v_tns> the food for lunch. And she bought them. <.></.> And <SC>she carry them to</SC> <.></.> she <v_tns odr="1" crr="carried">carry</v_tns> them <R>into</R> into the car. And she <o_lxc odr="1" crr="went back home">back to home</o_lxc>. And <.></.> <R>cook</R> cooked <aj_qnt odr="2" crr="some"></aj_qnt> <n_lxc odr="1" crr="sunny-side-up">sunny side egg</n_lxc>.</B>
+<A><F>Uhm</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A><F>Um</F>. So, do you cook?</A>
+<B>Yes. I cook sometimes.</B>
+<A><F>Uh-hm</F>. What kind of food can you make?</A>
+<B><.></.> <R>I</R> <R>I</R> I'm good <.></.> at cooking <at odr="2" crr="a"></at> <o_je odr="1" crr="hamburg steak">hamburg</o_je>.</B>
+<A><F>Hum</F> <F>wow</F> <nvs>laughter</nvs> I see. What does your mother say about your hamburgers?</A>
+<B>My <R>hamburg</R> <o_je odr="1" crr="hamburg steak">hamburg</o_je> is more delicious than my mom's.</B>
+<A><nvs>laughter</nvs> <F>Um</F>. Great. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A><SC>We have finished</SC> we are almost finished with the interview. Are you going home after this?</A>
+<B>Yes.</B>
+<A><F>Uh-hm</F>. Will you cook tonight? <nvs>laughter</nvs></A>
+<B>No.</B>
+<A>No? O K. <F>Well</F>. Have a nice weekend, nice Sunday evening. <nvs>laughter</nvs></A>
+<B>Thank you.</B>
+<A>Thank you for coming.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,142 @@
+<interview>
+<filename>file00013.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello, my name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>Yes, <F>mm</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F> <H pn="A's name">XXX01</H> how are you?</A>
+<B>I'm fine, but I'm <.></.> very hungry now. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> Why are you so hungry?</A>
+<B><laughter>Yes</laughter>. <R>I</R> <F>mm</F> I got up early <F>mm</F> in this morning, so <.></.> <F>mm</F> <R>I</R> <F>um</F> <R>I</R> I'm hungry.</B>
+<A>I see. <nvs>laughter</nvs> I see. So, <H pn="B's name">XXX02</H> where do you live?</A>
+<B>I live in <F>mm</F> <H pn="others1">XXX03</H> <F>um</F> so, <F>mm</F> <H pn="others2">XXX04</H>.</B>
+<A><F>Oh</F> I see, so, how do you come to University?</A>
+<B><F>Mm</F> I use <F>mm</F> <H pn="others3">XXX05</H> Line and <H pn="others4">XXX06</H> Line and the change <.></.> the line <F>mm</F> <SC>at a</SC> at <H pn="others5">XXX07</H> and I use <H pn="others6">XXX08</H> Line to <H pn="others7">XXX09</H> <.></.> Station.</B>
+<A>I see. <F>Wow</F>. <nvs>laughter</nvs> Is it far?</A>
+<B>Yes.</B>
+<A>I see. So, what is your hobby?</A>
+<B><F>Mm</F> my hobby is reading books <.></.> so <F>mm</F> yes <F>mm</F> <R>I</R> <F>mm</F> I often read <F>mm</F> so <.></.> <F>mm</F> <SC>books</SC> many books.</B>
+<A><F>Oh</F> that's nice. Could you tell me more about the books you read?</A>
+<B><F>Mm</F> <R>I</R> <F>mm</F> I read the <F>mm</F> <F>mm</F> books about art and <.></.> <R>li</R> <F>mm</F> literature <.></.> books.</B>
+<A><F>Oh</F> <F>wow</F>. What kind of art are you interested in?</A>
+<B><nvs>laughter</nvs> <F>Mmm</F> <R>I</R> <F>um</F> <SC>I inter</SC> I'm interesting in the picture <F>um</F> in Europe <.></.> <F>um</F> and I like <F>mm</F> Japanese picture, too, so <F>um</F> <R>I</R> <F>um</F> I often read <F>mm</F> pictures <F>mm</F> books.</B>
+<A>So, <SC>how did you <F>um</F> interested</SC> <SC>how were you</SC> why were you interested in art?</A>
+<B>Yes. <F>Mm</F>. <nvs>laughter</nvs> So <R>I</R> <F>mm</F> I like to <F>mm</F> go to the museum and so <F>mm</F> <R>watching</R> <F>mm</F> watching the picture is <F>mm</F> very fun <F>mm</F> to me, so, <nvs>laughter</nvs> yes, <F>mm</F> I feel that <F>mm</F> so the picture <F>mm</F> <R>made</R> made my life so <F>mm</F> <.></.> very <R>ex</R> <F>mm</F> experience <F>mmm</F> rich. <nvs>laughter</nvs></B>
+<A>I understand. <F>Wow</F>. <nvs>laughter</nvs> That's nice.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K so let me go to the picture.</A>
+<B><F>Ah</F> yes.</B>
+<A>Could you tell me about this picture?</A>
+<B>Yes. <F>Mm</F> this is <F>mm</F> the girl's room and <F>mm</F> <R>she has</R> <F>mm</F> <R>she has a</R> <R>she has a dog</R> and <SC>cats</SC> a cat. And <.></.> the room has <.></.> a bed and desk <F>um</F> <.></.> and <F>mm</F> <R>clo</R> closet, <.></.> so she <F>mm</F> she <R>use</R> <F>mm</F> use <F>mm</F> her computer now probably, <F>mm</F> and her <SC>dogs</SC> <F>ah</F> dog and cat <R>i</R> is sleeping now. So <nvs>laughter</nvs> <.></.> and <F>mm</F> her room is very clean and <nvs>laughter</nvs> <F>mm</F> big.</B>
+</task>
+<followup>
+<A>I see. Thank you very much. Could you compare her room and your room?</A>
+<B>Yes. <F>Mm</F> firstly <F>mm</F> her room is <F>mm</F> cleaner than my room <nvs>laughter</nvs> and her room is bigger than my room, <.></.> too. <F>Mm</F> so, and my room <F>mm</F> <SC>don't</SC> doesn't have computer and <F>mm</F> animals, so <F>mm</F> <.></.> <nvs>laughter</nvs> <F>ah</F> but <F>mm</F> <F>mm</F> <R>my room</R> <F>mm</F> my room has a bed, too. So <.></.> <nvs>laughter</nvs></B>
+<A><F>Oh</F> I see. <F>Oh</F> by the way, do you have computer?</A>
+<B>Yes, <F>Mmm</F> <SC>my family</SC> <F>mm</F> I have <.></.> family's computer. Yes. But <R>I</R> <F>mm</F> I can't use it.</B>
+<A>Why?</A>
+<B><nvs>laughter</nvs> So, <R>I</R> <F>mm</F> I <laughter>don't understand</laughter> <F>mm</F> how to use it.</B>
+<A><laughter>Really</laughter>?</A>
+<B>So <nvs>laughter</nvs> I only use my computer <F>mm</F> <R>to</R> <F>mm</F> <SC>to make</SC> <F>mm</F> to do <.></.> the E-mail.</B>
+<A><F>Oh</F>. <F>Hm</F>.</A>
+<B>So <R>I</R> <.></.> I only do it.</B>
+<A>So, how do you use E-mail?</A>
+<B><F>Mm</F> <R>I</R> <F>mm</F> I send <F>mm</F> my friends <F>mm</F> so <F>mm</F> the letter, <.></.> so, that is very <F>mm</F> easy to me. <nvs>laughter</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Thank you very much. Let me go to the <R>role play</R> role play.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. Could you read this? And when you are ready, I will start.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is thinking for a while.</ctxt>
+<A>Hello.</A>
+<B>Hello, <F>mm</F> this is <H pn="B's name">XXX02</H>.</B>
+<A><F>Umm</F> hi.</A>
+<B><F>Eh</F> <F>mm</F> <nvs>laughter</nvs> <F>mm</F>. So, <R>will you</R> <F>mm</F> <F>ah</F> shall we <F>mm</F> go to the movie <SC>to</SC> <F>mm</F> <SC>yes</SC> <F>ah</F> tomorrow?</B>
+<A>Sure, yes.</A>
+<B>So, <F>mm</F> <F>mm</F> <F>mm</F> what kind of movie do you watch?</B>
+<A><F>Oh</F> Anything. Any kind.</A>
+<B><nvs>laughter</nvs> Yes. So I want to watch <F>mm</F> the <F>mm</F> Jeanne d'Arc. So, <F>mm</F> would you like to watch the <F>mm</F> Jeanne d'Arc?</B>
+<A>Sounds interesting.</A>
+<B><nvs>laughter</nvs> Yes. So <F>mm</F> <SC>what time <F>mm</F> <F>mm</F> do we meet</SC> <F>mm</F> <F>ah</F> what time <R>do we see</R> <F>mm</F> <.></.> do we see?</B>
+<A><F>Umm</F>. Any time. I'm free.</A>
+<B><nvs>laughter</nvs> So, yes. <nvs>laughter</nvs> so, <F>well</F> <F>mm</F> so I <F>mm</F> <F>mm</F> so <nvs>laughter</nvs> <R>I</R> I don't want to get up early so <nvs>laughter</nvs> <F>mm</F> <.></.> so will you <F>mm</F> <.></.> so, <F>mm</F> <F>mm</F> <R>do</R> <F>mm</F> do we <F>mm</F> meet at two o'clock p m <F>mmm</F> <F>mm</F> don't you?</B>
+<A><F>Hm</F>. O K. All right.</A>
+<B>O K. So, <SC>we meet <F>mm</F> at</SC> we see at <F>mm</F> Shinjuku Station, <F>mm</F> O K?</B>
+<A><OL><F>Umm</F> Sure, fine</OL>.</A>
+<B><OL>That's O K</OL>? Yes, so after the movie <F>mm</F> <F>mm</F> <R>will</R> <F>mm</F> will you have <F>mm</F> the dinner?</B>
+<A><F>Hmm</F> good. Yes.</A>
+<B>Yes. So, <F>mm</F> but <F>mm</F> what kind of food <F>mm</F> do you want to <F>mm</F> have?</B>
+<A><F>Umm</F>. Anything. I'm always hungry. <nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> Yes, so <F>mm</F> <SC>the food</SC> <F>ah</F> restaurant is <.></.> <F>mmm</F> <F>mmm</F> <F>ah</F> <R>we</R> we will decide the restaurant after the movie.</B>
+<A>Sounds good.</A>
+<B>O K. So, <F>mm</F> <nvs>laughter</nvs> so <.></.> see you.</B>
+<A><F>Hmm</F> see you. Thank you very much for calling.</A>
+<B>Thank you.</B>
+<A>Bye.</A>
+<B>Bye.</B>
+<A>This is the end of role play. Thank you.</A>
+</task>
+<followup>
+<A><F>Oh</F> so, do you often go movies?</A>
+<B>Yes. <F>Umm</F> <F>ah</F> so <F>mm</F> <R>re</R> recently, <R>I</R> <F>mmm</F> I go to <.></.> watch the <R>Eli</R> Elizabeth and Buffalo <F>mm</F> Sixty-six.</B>
+<A><F>Oh</F> why did you choose those movie?</A>
+<B>Yes, <F>mm</F> I watch the magazine and <F>mm</F> so the reputation is good. <R>If</R> <F>ah</F> if the reputation is good, <F>mm</F> <R>I</R> <F>ah</F> <SC>I want to go</SC> I think I want to go. And my friends say <F>mm</F> <SC>good</SC> <F>mm</F> that movie is good, <F>oh</F> <nvs>laughter</nvs> <.></.> I believe it and I go to <SC>that movie</SC> the movie.</B>
+<A>I see. That's good strategy. Who did you go with?</A>
+<B>Yes, <F>mm</F>. My friend <F>mm</F> <F>ah</F> one of my friend is <F>um</F> <F>ah</F> <F>um</F> friend like very <F>mm</F> like the movie very much, so <F>um</F> <F>mm</F> <R>I</R> <F>mm</F> I often go with her.</B>
+
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. Thank you very much. O K. so, let me go to next picture.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>This is the picture, and picture sequence, from number one through six. So, please tell me about this story, and it was one day last week.</A>
+<B>Yes. One day last week, <F>mm</F> <F>mm</F> a woman <F>mm</F> went to the depart and <SC>her</SC> <F>mm</F> <R>she wan</R> <F>mm</F> she <R>wanted to</R> <.></.> <F>mm</F> wanted to buy <.></.> the <F>mm</F> tie. So, <nvs>cough</nvs> she choose the <F>mm</F> tie <F>mm</F> probably <F>mm</F> <R>she</R> <F>mm</F> she made the tie present <F>mm</F> the <F>mm</F> somebody and <SC>she asked</SC> <F>mm</F> <SC>she ask</SC> she asked the shop <F>mm</F> <R>bu</R> buyer <F>mm</F> <R>to choose</R> <F>mm</F> to choose the tie <F>mm</F> and <.></.> so the <F>mm</F> <F>mm</F> the <F>mm</F> buyer <F>mm</F> recommended <F>mm</F> <R>one</R> <SC>one tie</SC> <F>mm</F> the tie <F>mm</F> <SC>li</SC> looks like <F>mm</F> yellow and green, so, <F>mm</F> <R>the woman</R> <F>mm</F> <F>mmm</F> <SC>the woman</SC> <F>mmm</F> <.></.> <laughter>woman</laughter> liked the tie. So <R>she buy</R> <F>mm</F> she buy the tie, and the buyer <F>mm</F> wrapping <SC>the</SC> <F>mm</F> for the present <F>mm</F> package <F>mm</F> and then, <F>mm</F> <R>she</R> <F>mm</F> she have the <.></.> another shopping so <R>she asked</R> <F>mm</F> she asked the buyer <F>mmm</F> <SC>the way to the three</SC> <F>mm</F> the way to the steps and she went to the <F>mm</F> third floor.</B>
+</task>
+<followup>
+<A>Thank you very much. <nvs>laughter</nvs></A>
+<B><laughter>Thank you</laughter>.</B>
+<A>Do you like shopping?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><laughter><F>Umm</F></laughter>. Which shops do you go?</A>
+<B><F>Mmm</F>. I often go to the Ikebukuro Department store. So <F>mm</F> <R>I</R> <F>mm</F> I like to buy the clothes so <R>I</R> <nvs>laughter</nvs> I often go to the <F>mm</F> department store, so <F>mm</F> <.></.> yes <F>mm</F> but <R>I</R> I don't have money <nvs>laughter</nvs> so usually <R>I</R> <F>mm</F> I only watch the clothes.</B>
+<A>I see. Me too. <nvs>laughter</nvs> Are there any secret to find the nice clothing? <.></.> Good way to?</A>
+<B>Yes, <F>mm</F> so <.></.> the good way to buy the good clothes is <F>mm</F> that <R>I</R> I go often with my mother or friends and the clothes <F>mm</F> <.></.> looks nice to me <F>mm</F> <F>mm</F> <R>every</R> <F>mm</F> every time checked <nvs>laughter</nvs>.</B>
+<A>That's right. I will do so, too. <nvs>laughter</nvs> Thank you. It's almost the end of the interview.</A>
+</followup>
+</stage4>
+<stage5>
+<A>After this interview is almost the noon. What are you going to do?</A>
+<B><F>Mm</F> I <F>mm</F> firstly, I go to have <SC>lu</SC> the lunch, <nvs>laughter</nvs> and I go to the French class so, today is last class.</B>
+<A><F>Oh</F> I see.</A>
+<B>I'm very happy. <nvs>laughter</nvs></B>
+<A><F>Wow</F> good luck on your study and have a good lunch.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

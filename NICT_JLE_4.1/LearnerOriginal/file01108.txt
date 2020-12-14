@@ -1,0 +1,344 @@
+<interview>
+<filename>file01108.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>male</sex>
+<age>26</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC>660</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning.</A>
+<B>Good morning.</B>
+<A><F>Err</F> my name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>. Yes.</B>
+<A>O K. Nice to meet you Mister <H pn="B's name">XXX02</H>.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Um</F>. O K. Mister <H pn="B's name">XXX02</H>, where do you live now?</A>
+<B>I live here in <H pn="others1">XXX03</H> <OL>now</OL>.</B>
+<A><OL>O K</OL>. <F>Um</F> where in <H pn="others1">XXX03</H>?</A>
+<B><H pn="others1">XXX03</H>? <F>Um</F> <H pn="others2">XXX04</H>. <OL>Yeah</OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><OL><F>Hum</F></OL> <F>err</F> tell me about your living place.</A>
+<B><OL><laughter><F>Err</F></laughter></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><H pn="others2">XXX04</H> is so quiet city,</B>
+<A><F>Um</F>.</A>
+<B><F>um</F> <SC><H pn="others3">XXX05</H></SC> but <R><H pn="others3">XXX05</H> is</R> <H pn="others3">XXX05</H> is very noisy. I think.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Yeah. <F>Ah</F> <F>hum</F> <SC><H pn="others2">XXX04</H></SC> <F>ah</F> I like <H pn="others2">XXX04</H> because <F>um</F> <H pn="others2">XXX04</H> is <.></.> quiet and convenient.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>Yeah</OL>. <F>Hum</F>. <CO>So</CO>.</B>
+<A>O K, so <F>er</F> can you tell me how is <H pn="others2">XXX04</H> convenient?</A>
+<B><F>Oh</F> <F>oh</F> <F>oh</F>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><SC><H pn="others2">XXX04</H> is</SC> <SC><H pn="others2">XXX04</H></SC> <SC>there is</SC> <F>ah</F> there are many stores</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>hum</F> near <H pn="others2">XXX04</H> Station.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F> so I can buy anything.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F>.</B>
+<A>I see. <OL>O K</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Er</F> do you live with your family in <H pn="others2">XXX04</H>?</A>
+<B>No, I live <H pn="others2">XXX04</H> alone.</B>
+<A><F>Hu-huh</F>. <OL><F>Hum</F></OL>.</A>
+<B><OL><F>Um</F></OL> I live in apartment.</B>
+<A><F>Oh</F> I see.</A>
+<B>Weekly apartment.</B>
+<A><F>Hum</F>. <OL>O K</OL>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><F>Hum</F> <F>er</F> where are you from originally?</A>
+<B>I'm originally from <H pn="others4">XXX06</H>.</B>
+<A><F>Oh</F>. O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL><F>Um</F></OL>. Is your family there?</A>
+<B>No, <SC>my family</SC> <R>I</R> <F>well</F> I was born in <H pn="others4">XXX06</H>,</B>
+<A><F>Hu-huh</F>.</A>
+<B>but <F>um</F> <SC>I</SC> we transfered to <H pn="others5">XXX07</H> in <H pn="others6">XXX08</H>.</B>
+<A>O K. <OL><F>Um</F></OL>.</A>
+<B><OL>Yeah</OL>. My family live in <H pn="others5">XXX07</H>.</B>
+<A><F>Oh</F> <OL>I see, O K</OL>.</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A>I understand. O K, now, Mister <H pn="B's name">XXX02</H>, <OL>what's</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>your hobby?</A>
+<B>My hobby is <F>er</F> jogging.</B>
+<A>Jogging? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yeah</laughter></OL> I like jogging. <F>Er</F> I can <F>um</F> get out stress. <F>Um</F> <SC>su</SC> <F>um</F> <SC>re</SC> I can <F>um</F> relax <F>um</F>.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>How often do you go jogging?</A>
+<B><F>Um</F> <.></.> <F>um</F> <.></.> now, <R>I</R> <.></.> <R>I jo</R> I jog <F>er</F> once a week.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Hum</F> before, <R>I</R> <.></.> I jogged <F>erm</F> third a week.</B>
+<A>I see. <F>Er</F> why did you decide to go jogging?</A>
+<B><?>Why did you decide</?>. <SC>Why</SC> <R>what</R> <OL>what <??></??></OL>?</B>
+<A><OL>Why</OL>? O K. <F>Um</F>. <OL>Why</OL>,</A>
+<B><OL>Why</OL>?</B>
+<A>so, did <OL>you</OL></A>
+<B><OL><?>Yeah</?></OL>.</B>
+<A>start jogging?</A>
+<B><F>Ah</F> <?>why</?>. <F>Err</F> <F>hum</F> <SC>I</SC> <.></.> <F>hum</F> two years ago, I master <F>hum</F> run a marathon.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah. <F>Erm</F> <.></.> our laboratory's marathon.</B>
+<A>O K. <OL><F>hum</F></OL>.</A>
+<B><OL>Yeah</OL>. So I practiced. Yes. So <F>oh</F> <R>jo</R> jogging is so good</B>
+<A><F>Hu-huh</F>.</A>
+<B>for me.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>Yeah</OL>. <SC>I su</SC> and I <R>continued</R></B>
+<A><F>Oh</F> <OL>I see, O K</OL>.</A>
+<B><OL>continued</OL>. <F>Um</F> <F>um</F>.</B>
+<A><F>Er</F> did you do very well on that marathon race?</A>
+<B>Marathon race. Yeah. <SC?>I</SC?> <F>er</F> it was good.</B>
+<A><OL>O K</OL>.</A>
+<B><OL><F>Um</F></OL>. <R>I</R> <..></..> <R>I run</R> I run faster</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>so</OL> <SC>fai</SC> <SC>I</SC> <.></.> <SC>through</SC> <F>um</F> <F>ah</F> <F>um</F> <.></.> <SC>five people I</SC> <..></..> <laughter>I passed five people</laughter>.</B>
+<A>I see. <OL>O K</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>I understand. <OL>All right</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A>Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'm going to show you a picture.</A>
+<B>Yeah.</B>
+<A>O K. Look at this picture and describe it for me.</A>
+<B><F>Um</F> <SC?>the</SC?> <.></.> <F>mm</F> <F>um</F> this is a <nvs>cough</nvs> restaurant.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F> so <.></.> I focused one table.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F> there are <SC>three pers</SC> <SC>three <OL>peoples</OL></SC></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>three people. <F>Um</F> <.></.> <SC>one pair</SC> <F>er</F> <SC>one couples</SC> <F>ah</F> <SC>one couple <SC>eat</SC> is</SC> a one couple is eating dinner.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F>. So <.></.> one <.></.> restaurant's <OL>owner</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B><SC>show</SC> is showing <.></.> a wine.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F>. <SC?>Good</SC?> <SC>he recommend</SC> he's <SC>recommo</SC> recommending <OL><R>wa</R> <SC>wine</SC> red wine</OL>.</B>
+<A><OL><F>Um</F> O K</OL>.</A>
+<B>Yeah. <F>Um</F> <SC>s</SC> and a man is tasting a red wine, yeah, <?>then</?> <.></.> a woman is looking at him.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F> <SC>so</SC> <.></.> and <.></.> <F>um</F> <.></.> <JP><F>uhnt</F></JP> in this restaurant, <F>um</F> one woman is playing piano.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F>. Now, it is seven o'clock. <F>Um</F> <..></..> all three couples are in restaurant.</B>
+<A>I <OL>see</OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A><F>Um</F>. O K.</A>
+<B><OL>That's all</OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+</task>
+<followup>
+<A><F>Er</F> which do you like better, eating at a restaurant or eating at home?</A>
+<B>Yeah. I like <.></.> eating at home.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><R>Be</R></OL> because <R>I</R> I can relax <F>er</F> and <R>I like</R> <.></.> I like Japanese food.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>Um</F></OL>. <SC>This restaurant <?>take</?></SC></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><SC><OL>this</OL> restaurant</SC> <.></.> in this restaurant, Italian food, maybe,</B>
+<A>O K.</A>
+<B>I think.</B>
+<A><F>Um</F>.</A>
+<B>So, I don't like Italian food.</B>
+<A><OL><laughter><F>Oh</F> I see</laughter></OL>.</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A>O K. I understand.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Now, we will do a role-play.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><OL>O K</OL>? Do you know what's the role play is?</A>
+<B>Role-play. <F>Hum</F>. Yeah.</B>
+<A>Yes. So, this is your role.</A>
+<B><F>Uhm</F> <OL><F>uhm</F></OL>.</B>
+<A><OL>Read</OL> this card, and when you are ready, please start.</A>
+<B><F>Hum</F>.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><CO>I</CO>. <.></.> <F>Hum</F>. <.></.> Hello?</B>
+<A>Hello?</A>
+<B><F>Oh</F> <SC>I want</SC> I would like to buy <?>o'clock</?>. <OL><F>Um</F></OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL>O K</OL>?</B>
+<A><OL>O K</OL>.</A>
+<B><F>Um</F> so, <SC>I present</SC> <SC>I u</SC> I'll present for my grandmother,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so <SC>it is</SC> <SC>which</SC> <F>er</F> I like <nvs>sniff</nvs> <F>um</F> <R>old type</R> old <OL>type</OL></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><F>um</F> <?>o'clock</?>, <SC>I want to buy</SC></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>I</OL> would like to buy. Yeah, so <SC>where</SC> is there <F>er</F> <?>o'clocks</?>?</B>
+<A>O K. <OL><F>Um</F></OL>.</A>
+<B><OL><F>Um</F></OL>.</B>
+<A>So <F>er</F> here is the</A>
+<B>Yeah.</B>
+<A>some <OL>clocks</OL>.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><F>Um</F>.</A>
+<B>This is <F>erm</F> not so good. <F>Er</F> I'd like to buy <F>hum</F> <.></.> blacks one.</B>
+<A>Black one?</A>
+<B>Yeah.</B>
+<A><F>Oh</F>. Sorry. We only have any black one.</A>
+<B><OL><laughter><F>Oh</F></laughter></OL>.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>Yeah. O K. I <.></.> want to buy <.></.> <SC>another</SC> <SC>I</SC> another <.></.> watch.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><OL><F>Er</F></OL> I change my idea. <OL><R>I</R></OL></B>
+<A><OL>O K</OL>.</A>
+<B><SC>I want</SC> I would like to buy <.></.> watch.</B>
+<A><F>Hu-huh</F>.</A>
+<B>Yeah. Please let me see <F>er</F> black watches.</B>
+<A>Black watches.</A>
+<B>Yeah.</B>
+<A>O K, so there are three <OL>types</OL>.</A>
+<B><OL><F>Oh</F></OL>. O K. <R>What is <OL>difference</OL></R></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><F>hum</F> what is difference <SC>its three</SC></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>among</OL> three watches?</B>
+<A>O K. <OL><F>Ah-huh</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>So <F>er</F> prices are different.</A>
+<B><F>Oh</F>.</B>
+<A><F>Um</F>.</A>
+<B>Now, I have <R>su</R> three-hundred dollars,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so <R>I</R> <F>um</F> I can buy three-hundred dollars' watch.</B>
+<A><F>Ah-huh</F>. <OL>O K, so</OL></A>
+<B><CO><OL>Yeah, thi</OL></CO>.</B>
+<A>this <OL>one</OL></A>
+<B><OL><F>Hu-huh</F></OL>.</B>
+<A>is three-hundred twenty dollars,</A>
+<B>Yeah.</B>
+<A>but the quality is the best.</A>
+<B>Yeah.</B>
+<A><F>Um</F>.</A>
+<B>O K. <R>I</R> I have a credit card,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so I take it. <OL>Yeah</OL>.</B>
+<A><OL>O K</OL>. Thank you very much.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K. So, this is end of the role-play. <OL><F>Uhm</F></OL>.</A>
+<B><OL>Yeah</OL>.</B>
+</task> 
+<followup>
+<A>Do you like shopping?</A>
+<B>Yeah, I like <OL>shopping</OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>Um</F> but <SC>now</SC> <.></.> these days, I <F>um</F> didn't buy anything.</B>
+<A><F>Um</F>.</A>
+<B><OL><laughter>Yeah</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><nvs>laughter</nvs></B>
+<A>Is there any reason?</A>
+<B>Yeah, reason. <F>Um</F> <R>now</R> <.></.> now I came <R>hi</R> here</B>
+<A><F>Um</F>.</A>
+<B><F>um</F> <SC>one</SC> <JP><F>etto</F></JP> <.></.> <SC>three weeks</SC> two weeks and three days ago, <OL>so</OL></B>
+<A><OL>O K</OL>.</A>
+<B><SC>I don't know abou</SC> I don't know <OL>stores <laughter>here</laughter></OL>.</B>
+<A><OL><F>Um</F> <F>hu-huh</F></OL>.</A>
+<B><SC>I can't buy</SC> I couldn't buy anything. <OL>Yeah</OL>.</B>
+<A><OL><F>Oh</F></OL>. I see.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. I understand.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'm going to show you another picture.</A>
+<ctxt>The interviewer is looking for the picture.</ctxt>
+<A>So,</A>
+<B><nvs>sniff</nvs></B>
+<A><F>err</F> look at these pictures <OL><??></??></OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>before, <OL>this</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>time, I want you to make a short story.</A>
+<B>Short story. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>Yes</laughter></OL>.</A>
+<B><F>Hum</F> <..></..> <R>three</R> <nvs>cough</nvs> three people <.></.> <F>hum</F> <R>go</R> <SC>go to</SC> <F>ah</F> <SC?>wo</SC?> <R>go to movie</R> go to <F>mm</F> <F>mm</F> movie theater.</B>
+<A><F>Um</F>.</A>
+<B><F>Hum</F> <.></.> <SC>three people <SC>ba</SC> is buying <OL>tickets</OL></SC></B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><F>um</F> three people are buying tickets. And <..></..> after they entered, <SC>three</SC> <SC>they buy</SC> <nvs>sniff</nvs> they is buying <nvs>sniff</nvs> popcorn and <R>Co</R> <SC>Coca-Cola</SC> <nvs>cough</nvs> Coke. <nvs>cough</nvs> <R>This movie is</R> <.></.> this movie <.></.> is so terrible.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F> plane <.></.> <SC>is fire</SC> is firing. <OL><F>Hum</F></OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><..></..> <F>Mm</F> <R>ba</R> <SC>but</SC> <F>err</F> <nvs>sniff</nvs> terrible, but <OL>they</OL></B>
+<A><OL><F>Um</F></OL>.</A>
+<B>are so <.></.> <R>fan</R> <F>hum</F> fantastic, so <nvs>sniff</nvs> amazing after <F>hum</F> seeing movie.</B>
+<A><F>Um</F>.</A>
+<B><nvs>sniff</nvs> <F>Um</F>. That's all.</B>
+<A>O K. <OL>All right</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>Thank you. <F>Um</F>.</A>
+</task>
+<followup>
+<A>Do you like watching movies?</A>
+<B><nvs>sniff</nvs> Movie. <F>Hum</F> movie is so-so for <OL><?>me</?>, yeah</OL>.</B>
+<A><OL><F>Hu-huh</F></OL>.</A>
+<B><F>Hum</F>. <SC>Muu</SC> <F>um</F> every time <R>I wa</R> I watch movie, <F>um</F> <R>I</R> I <R>su</R> sleep.</B>
+<A><laughter>Sleep</laughter>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Very short time</OL>. <laughter><R>Every ti</R> every time</laughter>.</B>
+<A><laughter>O K</laughter>.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><F>Um</F>.</A>
+<B><SC>But I</SC> <F>mm</F> <SC>so I</SC> <F>mm</F> <JP><F>maa</F></JP> but, I like. Yeah.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL><F>Hum</F></OL>.</B>
+<A><F>Um</F>. O K. So what's your favorite movie?</A>
+<B>My favorite movie is "Jurassic Park".</B>
+<A>"Jurassic <OL>Park</OL>"?</A>
+<B><OL>Yeah</OL>.</B>
+<A><F>Hum</F>.</A>
+<B>Very famous movie.</B>
+<A><F>Ah-huh</F>.</A>
+<B><F>Hum</F>. <.></.> <SC>Jurassic Park <F>um</F> have</SC> "Jerassic Park" <SC>has me</SC> <F>err</F> has dream</B>
+<A><F>Um</F>.</A>
+<B><F>um</F> for me. <F>Um</F>. <.></.> <nvs>click</nvs> I like <.></.> <F>um</F> <.></.> this kind of movie.</B>
+<A>I see. I <OL>understand</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost over.</A>
+<B>Yeah.</B>
+<A>Now, <F>er</F> what are you going to do after this interview?</A>
+<B>Interview?</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>I</OL> discuss <F>um</F> about my group's theme.</B>
+<A><F>Hu-huh</F>.</A>
+<B><F>Um</F>. <SC>I</SC> now, I do group <.></.> discussion,</B>
+<A><F>Hu-huh</F>.</A>
+<B>so <SC>I wan</SC> I must discuss about my group's theme.</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL>Yeah</OL>.</B>
+<A>O K. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>So thank you very much <OL>today</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+<A><F>Um</F>.</A>
+</stage5>
+</body>
+</interview>

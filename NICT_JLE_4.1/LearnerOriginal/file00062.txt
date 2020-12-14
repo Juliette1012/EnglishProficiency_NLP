@@ -1,0 +1,205 @@
+<interview>
+<filename>file00062.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Nice to meet you, <H pn="B's name">XXX02</H></A>.
+<B>Nice to meet you.</B>
+<A>O K. How is your day so far?</A>
+<B><F>Mhm</F>. <?>About</?> today?</B>
+<A>Yeah.</A>
+<B><F>Uhmm</F>. <SC>I have a class <.></.> <F>er</F> in Mon</SC> on Monday, I have a class which begins <R>at</R> <.></.> at nine. So I have to wake up early <R>on Mo</R> on Monday. So I'm a little sleepy.</B>
+<A><F>Ahh</F> I see. What do you usually get up on Monday?</A>
+<B>About six.</B>
+<A>About six?</A>
+<B>Yeah.</B>
+<F>Oh</F> where do you live?</A>
+<B><F>Um</F> Chiba <OL>prefecture</OL>.</B>
+<A><OL><F>Ah</F></OL> it's far away. So you have to get up early.</A>
+<B>Yes.</B>
+<A>Only on Monday?</A>
+<B><F>Mm</F> no, <F>er</F> three times in a week. <F>Er</F> <SC>fo</SC> sorry, four times in a week.</B>
+<A><F>Mm</F>.</A>
+<B>I have to get up at six</B>
+<A><F>Mm-hum</F>.</A>
+<B>in the morning.</B>
+<A><laughter><F>Erm</F> I see</laughter>. So you have to go to bed early? <laughter><F>Erm</F></laughter></A>
+<B><F>Ah</F>. But, in fact, I can't.</B>
+<A><F>Ah</F> <F>oh</F>.</A>
+<B>So I'm always sleepy</B>
+<A><OL><F>Ah</F></OL>.</A>
+<B><OL><R>in</R></OL> in this year.</B>
+<A><F>Ah</F>. Why you can't go to bed early time?</A>
+<B><F>Mm</F> because <F>erm</F> <R>I have als</R> <SC>I have</SC> I also have classes which begins late, for example, from six in the evening.</B>
+<A><F>Erm</F> <F>erm</F>. So, <SC>aro</SC> what time you finish the class?</A>
+<B><F>Mm</F> <F>ah</F> one class is <F>er</F> <R>for an hour and</R> for an hour and thirty minutes, so, usually <F>ah</F> seven thirty, yes. And, <R>if I didn't have</R> <F>erm</F> if I didn't have <F>erm</F> the class which end seven thirty, <R>I</R> I usually went to library to prepare for the classes. So I have to <F>erm</F> stay late.</B>
+<A><F>Mm</F>. So you spend <SC>your time</SC> <F>ah</F> most of your time for study?</A>
+<B><F>Mm</F> about <R>this</R> <F>er</F> this year, I spend a lot of time</B>
+<A><F>Ah</F> I see.</A>
+<B>in studying.</B>
+<A>What do you do with your school friends on campus?</A>
+<B><F>Mm</F> <F>erm</F>. <SC>We</SC> often we have lunch together, so the lunch time is the <F>erm</F> time for communicating with my friends.</B>
+<A><F>Mm-hum</F>. What do you usually talk about?</A>
+<B><F>Mm</F> <F>erm</F> <R>fo</R> for example, today, <F>erm</F> my friend was excited because <F>erm</F> she could got a mail from the boy <F>er</F> <R>she</R> she likes. So she was so excited.</B>
+<A><F>Ah</F>.</A>
+<B>So happy.</B>
+<A><F>Mm-hum</F>. So, <F>erm</F> <SC>wha</SC> <F>erm</F> you don't have a boyfriend?</A>
+<B><nvs>laughter</nvs> <laughter>I have</laughter>.</B>
+<A>If I'm not too intrusive, you don't.</A>
+<B>No, it's not so intrusive. I have a <R>bo</R> boyfriend.</B>
+<A><F>Ah</F> O K. So, what do you usually <F>er</F> spend with your boyfriend on weekends?</A>
+<B><F>Mm</F> <F>mm</F> usually, <F>erm</F> <F>oh</F> we often go used book stores. And <F>mm</F> we often spend our times in book store. And, sometimes we go to see the movie or <F>mm</F> <R>just</R> just <F>er</F> riding on the train. <CO>Or</CO>.</B>
+<A>Riding <SC>on the train</SC></A>
+<B>Yes.</B>
+<A>by train?</A>
+<B>Yes.</B>
+<A><nvs>laughter</nvs></A>
+<B>It's fun.</B>
+<A><nvs>laughter</nvs> It's fun?</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A><nvs>laughter</nvs> O K. That's good. <F>Ah</F>. Firstly, I'm going to show you a picture.</A>
+<B>Yes.</B>
+<A>Please describe this picture for me.</A>
+<B><F>Mm-hum</F>. <R>The</R> <F>mm</F> the picture seems to be about party. And, <SC>on the</SC> in the center of the picture, <F>erm</F> there are <SC>three person</SC> three persons. <F>Erm</F> woman and she sat the <F>er</F> one is woman, and the other two people are man. And <SC>woman</SC> <R>a woman</R> <SC>a woman and man <SC>is</SC> are begin to</SC> <F>ah</F> <SC>the couple begin to</SC> the couple is about to have a dinner. And one man, he seems to be a sommelier, is <R>showing</R> <F>er</F> showing a bottle of wine to the couple. <R>And</R> and <SC>the man <R>i</R> is already</SC> the man seems to be already he try the wine <SC>and</SC> because <SC>his</SC> the wine must be good. <R>And</R> <F>mm</F> <.></.> and <R>arou</R> around the table of the couple, there are <SC>two tables</SC> two other tables. <F>Erm</F> <SC>both of</SC> in both of the table, couples are having dinner. And the time is <R>seven o'c</R> seven o'clock in the evening. And a woman is <SC>playing piano</SC> playing the piano for the people <SC>who is</SC> who are having dinner. <SC>The m</SC> the atmosphere seems to be <R>very</R> very fun, very <F>erm</F> peaceful. All of them are seem to be so happy.</B>
+<A><F>Mm-hum</F> O K. That's it?</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>Thank you very much. Do you have a favorite restaurant?</A>
+<B>Sorry? Favorite</B>
+<A><F>Mm-hum</F>.</A>
+<B>restaurant?</B>
+<A><F>Mm-hum</F>. Do you have favorite restaurants?</A>
+<B><F>Er</F>. Sorry, favorite?</B>
+<A><F>Mm</F>. <OL>Restarurant</OL>.</A>
+<B><OL><F>Ah</F></OL> restaurant? Yes, I have.</B>
+<A>Yes. Could you tell me about <F>er</F> briefly the restaurant?</A>
+<B><F>Mm</F>. It's a very casual <R>restaurant</R> restaurant. And <SC>we can have <R>a lot of</R> <F>mm</F> a lot of</SC> I can have <F>ah</F> so many kinds of <F>er</F> supper there. <F>Erm</F> there are, for example, <F>erm</F> <R>boiled fish or</R> <F>mm</F> boiled fish or curry rice, such a very <SC>ordinal</SC> <R>ordinary</R> ordinary foods. <SC>There are</SC> and the restaurant is inexpensive. <F>Erm</F> it serves a lot of <F>mm</F> <R>usual</R> usual foods. And it tastes well. It's so <R>ine</R> inexpensive. And <R>we can have a</R> we can have a cup of coffee for fifty yens if we had dinner there. <SC>Coffee</SC> <R>the co</R> the coffee is very inexpensive there.</B>
+<A><F>Mm-hum</F>. O K. How did you find that restaurant?</A>
+<B><F>Mm</F> it was on the magazine.</B>
+<A><F>Ah</F> I see.</A>
+<B>So I tried to find it.</B>
+<A><F>Mm-hum</F>. O K. Good.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Well</F> <F>er</F>. Next, we will do a role-play. Please read this card. When you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><F>Er</F> excuse me.</B>
+<A>Yes?</A>
+<B><F>Er</F> may I ask you?</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Er</F> I want to go to New York <R>as</R> <F>er</F> <F>er</F> as soon as I can.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Erm</F> where can I get a ticket to New <OL>York</OL>?</B>
+<A>Yes. You can get a ticket here.</A>
+<B><F>Erm</F> <F>erm</F> how much is it?</B>
+<A><F>Er</F>. We have a local train or an express train.</A>
+<B><F>Ah</F> I want to have a ticket for <SC>explain</SC> <F>er</F> express.</B>
+<A>Express train? O K. That's fine. First class or second class?</A>
+<B><F>Mm</F>. Second <R>cla</R> class, please.</B>
+<A>O K, sure. <F>Erm</F> smoking or non-smoking?</A>
+<B><F>Erm</F> <R>i</R> it's O K.</B>
+<A><F>Er</F>. Either is O K for you?</A>
+<B><F>Ah</F> sorry, I prefer <R>non-smoking</R> non-smoking seat.</B>
+<A>O K. Let me check. <F>Mm</F>. I'm afraid that <F>er</F> all non-smoking seats are taken.</A>
+<B><F>Erm</F>. How about first class?</B>
+<A>First class? Let me check. Yes, you can get one.</A>
+<B><F>Erm</F> then, <R>please</R> <F>er</F> please give me a ticket for first class.</B>
+<A>Sure. Here you are.</A>
+<B>Thank you.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Mm</F>. Then, <F>er</F> where can I take this train?</B>
+<A><F>Erm</F> track number fifteen.</A>
+<B>Fifteen?</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Mm</F>. <F>Mm</F>. <F>Mm</F>. <F>Er</F> <SC>how can I go to</SC> how can I get there?</B>
+<A><F>Er</F> it's very easy. Go straight down, this way, then, make a right turn. Then you'll find the track fifteen.</A>
+<B><R>Thank you for</R></B>
+<A><F>Mm-hum</F>.</A>
+<B>thank you for helping me.</B>
+<A><F>Mm-hum</F>. Yor're welcome. Have a good trip.</A>
+<B><F>Er</F>. Thank you very much.</B>
+<A><F>Mm-hum</F>.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Do you like actual traveling?</A>
+<B><F>Mm</F> <R>I</R> <SC>I have very few time</SC> <SC>I have</SC> <F>mm</F> I didn't have a experience of a travel so much. <F>Mm</F> but I like.</B>
+<A><F>Mm</F>. If you go traveling, which do you prefer, taking airplanes or train?</A>
+<B><F>Mm</F>. I prefer train.</B>
+<A><F>Mm-hum</F>.</A>
+<B><F>Er</F>. Because <F>erm</F> <SC>train is <SC>more easy to</SC> <F>er</F> easy to</SC> <F>er</F> trains are more comfortable <F>erm</F> because <SC>we didn't have so much</SC> <F>er</F> <F>mm</F> we don't have <F>mm</F> so much trouble <R>to</R> to <SC>get in</SC> get on the train. But, for airplane, we have to have a lot of check. <SC>We have to examined</SC> we have to be examined. <SC>And</SC> but, recently the train is very <F>erm</F> dangerous <F>er</F> <R>because of the</R> <F>erm</F> because of the train window often cracks.</B>
+<A><F>Mm-hum</F>.</A>
+<B>So, <SC>if we</SC> <R>if I went to the t</R> if I went to the travel, <F>erm</F> now, I prefer <R>airplane</R> airplane.</B>
+<A>Even in the country?</A>
+<B><F>Mm</F> if I could afford, I prefer.</B>
+<A><F>Mm-hum</F>. Thant's good. Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Well</F> <F>erm</F>. I'm going to show you another picture. This is a picture sequence. And <F>er</F> this story happened last week, so I want you to start with this story "One day last week". O K?</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>One day last week,</B>
+<A><F>Mm-hum</F>.</A>
+<B><SC>I opened up my</SC> I opened up the refrigerator in my house. But <SC>there's</SC> there was <F>erm</F> nothing to eat. So <SC>I was confu</SC> I was so confused. <F>Erm</F> but it can't be helped. <R>I had to</R> I had to go supermarket near my house. And I'd like to the supermarket, <SC>and choo</SC> and I chose some foods <R>I needed</R> I needed at that time.</B>
+<A><F>Mm</F>.</A>
+<B><R>The supermarket</R> <SC>the supermarket</SC> in the supermarket, there was a lot of foods, and I picked up <F>erm</F> <SC>some bread, some meats <R>and</R> <F>mm</F> and</SC> some bread, some meat and other stuffs. And I paid for the money. And, because <R>the</R> the food I bought was so heavy, <F>er</F> <R>I</R> <SC>I have to</SC> <R>I had</R> I had to <F>erm</F> place the food I bought <F>erm</F> on the back of the car. <F>Erm</F> it was <R>too much</R> too much to <F>er</F> place <R>in the</R> in the car. So <SC>I pret</SC> I present on back seat. And, <SC>when I get home</SC> when I got home, <F>erm</F> I began to cooking. At first, I wanted to <F>erm</F> sunny-side-up. So I <F>mm</F> cooked it. <F>Erm</F> <SC>I was very eager to</SC> <SC>I would</SC> <F>erm</F> I was eager to <F>er</F> <SC>ha nice</SC> have nice meals.</B>
+</task>
+<followup>
+<A>O K. Thank you very much. Do you like shopping?</A>
+<B><F>Mm</F> <F>erm</F> what kind of shopping? Everything?</B>
+<A>Yeah, yeah. Anything.</A>
+<B><F>Erm</F>. <SC>I like</SC> <F>mm</F> yes, I like. <F>Mm</F>.</B>
+<A><F>Oh</F> what kinds of shopping do you like?</A>
+<B><F>Mm</F> <SC>I like <F>mm</F> <F>mm</F> <F>mm</F> <SC>bu</SC> <R>sho</R> shopping <SC>of book s</SC> in book store</SC>, I prefer because books are not so expensive, and I enjoy them <F>er</F> for a long time. <F>Mm</F> so, <R>if I</R> if I bought a lot of books, <F>erm</F> <F>erm</F> <SC>it doesn't</SC> it wouldn't cost so much. So I don't need to feel depressed because <SC>I ha</SC> I hadn't spend so much money. "What could I do?". I don't have to be depressed like that. So <F>erm</F> buying book is very fun. And it is also fun to <R>choose my</R> <F>mm</F> choose my clothes. But <F>mm</F> clothes are often <R>very</R> <SC>very high price</SC> very expensive. So <F>erm</F> <R>it's o</R> <SC>it's</SC> of course, it's fun. But, sometimes I found myself very depressed <R>because</R> <F>erm</F> because <F>erm</F> <SC>I use</SC> <SC>I spent a lot of</SC> I spent a lot of money <R>just</R> <F>mm</F> just for clothes. And <SC>clothes</SC> I can't use <SC>clothes</SC> cloth <F>er</F> <SC>so</SC> <F>mm</F> for a long time compared with books. So, sometimes <F>erm</F> buying clothes can depress me.</B>
+<A><F>Mm</F>. When you want to buy <F>erm</F> clothes, do you have a plan to buy in advance?</A>
+<B><F>Mm</F>. <R>In most of ca</R> in most case, <F>erm</F> I have a plan. But, sometimes I want <F>mm</F> <R>buy</R> buy clothes, <F>erm</F> suddenly.</B>
+<A><F>Mm-hum</F>. O K. So <F>er</F> like that shopping, after that, you're are really depressed?</A>
+<B><F>Mm</F>. Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A>O K. <F>Erm</F>. Thank you very much. This interview is almost over. <F>Erm</F> do you have a particular plan for this Christmas?</A>
+<B><F>Mm</F> this Christmas?</B>
+<A><F>Mm-hum</F>. And party?</A>
+<B><F>Mm</F>. <R>On the</R> on the twenty-forth, <F>erm</F> the Christmas Eve, <F>er</F> <F>mm</F> I don't have plan. <nvs>laughter</nvs></B>
+<A>Not yet? But maybe, you will have a party?</A>
+<B><F>Er</F> no. But <F>er</F> <SC>maybe, I have a</SC> maybe, <F>er</F> <SC>the</SC> on the Christmas day, <SC>I have a</SC> I will have a date. But, twenty-forth, <F>er</F> I don't have any plan. So I might do <SC>my ho</SC> my part-time job.</B>
+<A><F>Mm</F>. I see. O K. <F>Oh</F> anyway, have a good holiday. <F>Erm</F> your <F>er</F> school will be finished around when? It's almost finished?</A>
+<B><F>Mm</F> almost finished. <F>Mm</F> <R>on</R> on Wednesday, <F>erm</F> in the school of literature, all the classes could end.</B>
+<A><F>Er</F> I see. So you're gonna be free, but you have a part-time job. You have to work?</A>
+<B><F>Mm</F>. <F>Mm</F>. But part-time job is not so problem.</B>
+<A><F>Mm-hum</F>. O K. You can enjoy your job.</A>
+<B><F>Ah</F>. No, not at all. <nvs>laughter</nvs></B>
+<A><laughter>O K</laughter>. Anyway, <F>er</F> Have a good holiday with your boyfriend or <??></??>. O K. Thank you very much <OL>for coming</OL>.</A>
+<B><OL>Thank you</OL> very much.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,156 @@
+<interview>
+<filename>file00690.txt</filename>
+
+<head version="1.3">
+<date>2001-12-17</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step>2</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. So, let's start. My name is <H pn="A's name">XXX01</H>. And may I have your name please?</A>
+<B><F>Ah</F>. My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes. <OL>Sure</OL>.</B>
+<A><OL>All right</OL>. So, how are you today?</A>
+<B><F>Nn</F>. <nvs>sigh</nvs> Not bad.</B>
+<A>O K. So, where do you live, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others1">XXX03</H>, you know?</B>
+<A><F>Um</F>. <?>I see</?>. <F>Er</F> which part of <H pn="others1">XXX03</H> do you live?</A>
+<B><F>Ah</F> <H pn="others2">XXX04</H>.</B>
+<A>O K. Can you tell me about your neighborhood?</A>
+<B><F>Um</F>. O K. <.></.> Near my home, <F>er</F> there is a <H pn="school name1">XXX05</H>. Yes. <??></??> <F>Ah</F>. There is <F>ah</F> famous school of sports. They have a strong club of rugby and soccer or something like that. So, <F>nn</F> <.></.> I think there is a little bit country so <laughter>maybe</laughter> <.></.> <SC>I</SC> we don't have <F>ah</F> a lot of special thing there. So, that's all.</B>
+<A>O K. Do you live <R>with your</R> with your family?</A>
+<B>Yes.</B>
+<A><F>Um</F>. What's the good thing about living with your family?</A>
+<B><F>Um</F>. <.></.> <R>I</R> <nvs>zipper</nvs> I can't cook not <R>at</R> at all. So, <SC>we</SC> I can eats anything I want because my mother cooks very good.</B>
+<A><F>Um</F>.</A>
+<B><.></.> And so, <.></.> <R>I</R> I don't have to be lonely with my family. So, it is good I think.</B>
+<A>O K. So, what do you like to do when you have free time?</A>
+<B><..></..> <F>Nn</F>. <laughter><R>I</R></laughter> I'm busy now because <F>ah</F> I'm in recruit activity. So, <laughter><R>I</R></laughter> I don't have a lot of free time, but I'd like to go to <F>nn</F> shopping in my free time.</B>
+<A><F>Nn</F>. O K. What kind of place do you go usually for shopping?</A>
+<B><F>Nn</F>. <.></.> <SC>I am useded go</SC> <.></.> I would go to Daikanyama or Shibuya or something like that.</B>
+<A>Why do you like Daikanyama?</A>
+<B>Because there is very clean and fashionable <SC>and</SC> <R>but</R> <.></.> but expensive I think. But I like.</B>
+<A><F>Oh</F>. O K. All right. You said you are recruiting.</A>
+<B>Yes.</B>
+<A>So, what's the important thing for you when you look for a job?</A>
+<B><laughter><F>Um</F></laughter>. <R>I</R> I think important point is <F>er</F> <.></.> <F>um</F> <.></.> logical thinking and a character and maybe black hair.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>But I don't</OL> have black hair. But <??></??></B>
+<A>And how do you choose a company <.></.> that you would like to work?</A>
+<B>I'd like to work in <.></.> mass communication company because <.></.> I like TV program, and <R>I</R> I don't like <F>ah</F> closed space because anytime <R>I</R> I'd like to communicate with a lot of people, so I'd like to go to mass <OL>communication company</OL>.</B>
+<A><OL><F>Um</F></OL> O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like you to describe this picture. O K?</A>
+<ctxt>Interviewer is selecting a picture.</ctxt>
+<B>Describe?</B>
+<A>Yes. <F>Ah-huh</F>.</A>
+<B><F>Ah</F>. There is seven o'clock. And <SC>there is</SC> they have a party and a young man and women is <R>s</R> sitting at table and sommelier is <SC>bring</SC> bringing a kind of wine. And the man <SC>tasting it</SC> <F>um</F> is tasting it. <F>Ah</F>. The pianist is playing piano. <.></.> And <..></..> there is <..></..> some a couple, and <..></..> <F>a</F> the man is trying to choose a wine. And <..></..> some <R>p</R> people is eating dinner <..></..> and the waiter is <R>saving</R> saving <F>ah</F> dishes. <..></..> That's all.</B>
+</task>
+<followup>
+<A>O K. Thank you. So, <F>er</F> what kind of restaurant do you usually go?</A>
+<B><nvs>sigh</nvs> I usually go to family restaurant.</B>
+<A><F>Um</F>. Why do you like family restaurant?</A>
+<B><F>Um</F>. I like Saizeria because foods is very cheap <.></.> and taste good.</B>
+<A><F>Um</F> O K. Have you ever been to this kind of restaurant?</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A>When is the last time? Tell me about the last time when you went to this kind of <?>expensive</?> restaurant?</A>
+<B><R>I think</R> <..></..> I think that's was on <.></.> May of this year <SC>because my</SC> because of anniversary of marriage of my parents. So, <SC>we go</SC> we went to <.></.> <F>ah</F> Hotel New Otani, it's restaurant. I think that was my last time.</B>
+<A>O K. How was the food?</A>
+<B>Good.</B>
+<A>Good? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Taste good</OL>.</B>
+<A>All right. So, what's the difference between the family restaurant and <F>er</F> the restaurant like New Otani?</A>
+<B>I think the difference is <F>ah</F> <.></.> <F>a</F> <..></..> the hotel's restaurant is a very formal, so we have to go to <.></.> <F>ah</F> there with formal suits or dresses, but the family restaurant is a very casual, so we can go there with <R>rough</R> <SC>rough wear</SC> rough clothes, so and <.></.> the mood of <.></.> <F>un</F> shop is very difference from family restaurant to <?>new</?> hotel's restaurant I think. <nvs>cough</nvs></B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I like to do a role-play with you. And <F>an</F> <??></??> please read and when you are ready, I will start.</A>
+<B>O K.</B>
+<ctxt>Interviewee is reading a card.</ctxt>
+<B>O K.</B>
+<A>O K. Hello. May I help you, sir?</A>
+<B>I'd like to go to New York, and <R>what</R> <.></.> what should I do to go there?</B>
+<A>You can take a train over here.</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+<B>I'd like to buy a ticket <F>ah</F> <R>as soon as</R> <F>ah</F> as soon as quick to go to New York.</B>
+<A><F>Ah</F>. The earliest train <?>which</?> go to New York leaving in five minutes.</A>
+<B>Five minutes?</B>
+<A>But it's a local. It's a slow train.</A>
+<B>O K. <F>Ah</F>. Do you have any kind of express?</B>
+<A>Yes. Express train leaves in fifteen minutes.</A>
+<B>Fifteen minutes? And which train is a fastest to <R>arrive <?>to</?></R> arrive at New York?</B>
+<A>Express one.</A>
+<B>O K. I'd like to buy express one.</B>
+<A>O K. It will be one hundred fifty dollars.</A>
+<B>O K. <laughter>Can I use a credit card</laughter>?</B>
+<A><laughter>Sure</laughter>.</A>
+<B>O K. I will take it.</B>
+<A>O K. So, here is the ticket.</A>
+<B>O K. Thank you.</B>
+<A>Thank you very much.</A>
+<B>How can I get to train?</B>
+<A><F>Oh</F>. <F>Well</F> the train leaves at the platform ten.</A>
+<B>Ten?</B>
+<A>So, you can go down stairs and find the track.</A>
+<B>O K. Thank you.</B>
+<A>O K. Thank you very much. All right. That is the end of the role-play.</A>
+</task>
+<followup>
+<A>Have you ever been abroad?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. Where have you been?</A>
+<B><F>Um</F>. I've went to <R>A</R> America <.></.> some times.</B>
+<A><F>Um</F> O K. So, tell me about one of your trip.</A>
+<B>This summer, I went to <F>ah</F> L A because <SC>I try</SC> I went there to study English. And <laughter><R>I</R></laughter> I bought a tickets, but I couldn't speak <SC>very</SC> English very well, so <R>it</R> it was very difficult for me.</B>
+<A>What's the most memorable thing that you had in L A?</A>
+<B><F>Um</F>. When I was <F>ah</F> U S A on eleventh <F>un</F> September yes so the terrorist was happening in New York, so at that time, I was in L A but very very difficult time I think.</B>
+<A>Sure. <F>Wow</F>. <??></??> such a experience.</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. So, lastly, I like you to take a look at this picture. And <F>er</F> make a story out of these six pictures. But this happened before, so please start with <F>er</F> "one day last week".</A>
+<B>O K. <nvs>sniff</nvs> One day last week, <F>uum</F> mother looked at a refrigerator, but there was nothing in there. So, <.></.> mother <?>had</?> <SC>supposed to do</SC> supposed to go <F>ah</F> super market. <F>Ah</F>. <.></.> She went to there by car. And then, <.></.> she choose <SC>the</SC> some foods and buy it by cash. She bought a lot of merchandize <SC>with</SC> <.></.> including meat and bread or some vegetables. And then, she was <SC>bring</SC> bringing <.></.> a foods into a car. And after <nvs>cough</nvs> she arrived at <.></.> her home, she could cook <F>ah</F> <.></.> <SC>egg</SC> <SC>boiled egg</SC> scramble egg. <.></.> <laughter>That's all</laughter>.</B>
+</task>
+<followup>
+<A>O K. Thank you. So, <SC>when</SC> you said you don't cook, <CO><OL>but</OL></CO>.</A>
+<B><OL>Yes</OL>.</B>
+<A>If your mother is not home and the refrigerator is empty, what do you do?</A>
+<B>I would go to family restaurant.</B>
+<A><nvs>laughter</nvs> <..></..> O K. All right. All right. <F>Um</F>. Do you want to learn how to cook?</A>
+<B><.></.> <F>Um</F>. Yes. <R>If</R> if I have <F>aa</F> opportunity to studying cooking, <R>I</R> I'd like to study, but maybe I think I don't have a <.></.> any talent of cooking, so maybe I can't cook.</B>
+<A>All right. Thank you. It's all right.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So, this is almost the end of the interview. So, what are you going to do after this?</A>
+<B><F>Um</F>. <SC>I'd like</SC> <F>u</F> I have to go to a part time job in Shinjuku, so <.></.> <R>after</R> <.></.> after lunch, I have to go.</B>
+<A><F>Oh</F>. O K. I see. So, good luck with your job.</A>
+<B>Thank you.</B>
+<A>And this is all. Thank you very much.</A>
+<B>O K.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

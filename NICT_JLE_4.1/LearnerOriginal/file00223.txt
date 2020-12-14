@@ -1,0 +1,225 @@
+<interview>
+<filename>file00223.txt</filename>
+
+<head version="1.3">
+<date>2000-11-17</date>
+<sex>male</sex>
+<age>33</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category>researcher</category>
+<step></step>
+<TOEIC>680</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. What is your name?</A>
+<B><F>Oh</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Mister <H pn="B's name">XXX02</H>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Err</F></OL> do you live near here?</A>
+<B><F>Umm</F> yes. I live in <H pn="others1">XXX03</H> City.</B>
+<A><F>Umm</F> <H pn="others1">XXX03</H>?</A>
+<B>Yes.</B>
+<A>Why do you live in <H pn="others1">XXX03</H>?</A>
+<B><F>Umm</F> <JP><F>eetto</F></JP> my wife <F>er</F> usually go to <F>err</F> <H pn="others1">XXX03</H> and <R>I</R> <SC>I go</SC> I usually go <.></.> to Tokyo. Then, <F>err</F> <H pn="others1">XXX03</H> City is very convenient for our family, for <.></.> me and my wife.</B>
+<A><F>Uh-huh</F> I see. <F>Well</F> <F>um</F> could you tell me about your wife?</A>
+<B><.></.> My wife?</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Umm</F> my wife. <F>Err</F> <R>she</R> she had worked <F>err</F> for ten years, <F>er</F> but <F>err</F> our daughter was born <F>err</F> last year. <F>Er</F> then, <F>er</F> she stopped working <F>err</F> at that time. <F>Er</F> now, she is working in my home.</B>
+<A><F>Uh-hum</F>.</A>
+<B>And <F>umm</F> she use <F>err</F> Internet <F>er</F> or telephone.</B>
+<A><F>Uh-hum</F>.</A>
+<B>Yes.</B>
+<A>Do you often help your wife?</A>
+<B>No. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Why not</OL>?</A>
+<B><laughter><F>Urr</F></laughter> <R>in</R> <R>in</R> in her work, <F>err</F> <R>I</R> I don't help her. But <F>err</F> <nvs>sniff</nvs> <.></.> <R>in</R> in <SC>my <R>ho</R> ho</SC> my home, <F>err</F> I usually help her. <F>Err</F> <.></.> <F>um</F>. For example, <F>err</F> caring our daughter or <F>erm</F> washing dishes and <F>errh</F> washing clothes <.></.> or something.</B>
+<A><nvs>laughter</nvs></A>
+<B>Yes. <nvs>cough</nvs></B>
+<A>O K. <F>Umm</F> how do you usually spend your weekends <OL>with your family</OL>?</A>
+<B><OL><F>Ah</F> <R>weekends</R></OL> weekends. <F>Umm</F> <R>I usually</R> <F>err</F> <F>umm</F> I usually go <laughter>shopping</laughter> <F>er</F> in <.></.> <F>err</F> big supermarket. And <SC>on</SC> <nvs>cough</nvs> sometimes, <F>err</F> go to <.></.> a department store near my home.</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Em</F>. And <F>err</F> often <F>err</F> play <.></.> volleyball. <.></.> <F>Mmm</F>. <JP>Hokani</JP> <F>Umm</F> <F>oh</F> <nvs>snap</nvs> <F>err</F> <.></.> recently, I usually <R>go</R> <.></.> go to park with my daughter and play with her.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yes.</B>
+<A>You said you play volleyball. <.></.> <OL>Do you</OL></A>
+<B><OL><F>Ah</F> yes</OL>.</B>
+<A>belong to a team?</A>
+<B><F>Oh</F> yes. <F>Er</F> I belong to <F>err</F> <.></.> my company's team and <F>err</F> <.></.> my club team.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><SC>Two</SC></OL> I belong to <.></.> two teams.</B>
+<A><F>Mhm-mm</F>? Why do you belong to two teams?</A>
+<B><F>Oh</F>. <nvs>laughter</nvs> <F>Erm</F> <R>one</R> one team, <F>err</F> <SC>my company team <F>err</F> <.></.> make <F>err</F> prac</SC> <F>umm</F> my company team makes a practice <F>er</F> on every <R>Satur</R> Saturday evening. <F>Er</F> <nvs>cough</nvs> but I usually <.></.> <nvs>cough</nvs> <R>don't go</R> <F>err</F> don't go <F>err</F> practicing.</B>
+<A><F>Uh-hum</F>.</A>
+<B>Then, <F>err</F> I belong to another club team.</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Err</F> <.></.> because another club team <R>has</R> has <F>err</F> practice on <.></.> <F>err</F> Sunday evening or Sunday afternoon.</B>
+<A><F>Umm</F>.</A>
+<B>Then <R>I can go</R> <F>err</F> I can go practicing <F>err</F> on Sunday.</B>
+</stage1>
+<stage2>
+<task>
+<A>Right. I see. O K. Now, I'd like to show you a picture.</A>
+<B>Yes.</B>
+<A>Please describe this picture.</A>
+<B>Describe. <F>Umm</F> <F>err</F>. <SC>This picture</SC> <F>err</F> <JP>soka</JP> there is a house. <F>Err</F> <.></.> <F>uhm</F> <F>er</F> it's a sunny day and <F>err</F> <.></.> <SC>the car park on the road</SC> the car parks on the road. <F>Err</F> <JP><F>etto</F></JP> <.></.> <F>mmm</F> <SC>he</SC> <JP>asoka</JP> <F>err</F> this house <F>err</F> <.></.> has <F>err</F> two floors. <F>Err</F> <.></.> <SC>first floor</SC> <F>err</F> <.></.> on the first floor, <F>err</F> <SC>they have</SC> <F>ah</F> it has a big window and <F>err</F> a <R>s</R> small window.</B>
+<A><F>Uh-hum</F>.</A>
+<B><JP><F>Etto</F></JP>. <SC>Se</SC> on the second floor, <F>err</F> maybe, perhaps <F>err</F> there are <R>one rooms or</R> one room or two rooms.</B>
+<A><F>Uh-hum</F>.</A>
+<B>And <F>err</F> <nvs>cough</nvs> <F>err</F> some trees are there. <F>Err</F> he is running <F>err</F> on the pedestrian walk. <JP><F>Etto</F></JP> <.></.> <JP>soka</JP>. Two dogs are barking or two dogs are playing. <.></.> <JP><F>Etto</F></JP> <.></.> <F>Hum</F> <SC>two childrens are</SC> <SC>two children plays</SC> two children play <.></.> with <.></.> a ball. <F>Err</F> <F>umm</F> maybe they play <F>er</F> volleyball.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. <??></??> Thank you very much. O K. <F>Um</F> does this picture look like your neighborhood?</A>
+<B>No. <nvs>laughter</nvs> <F>Um</F> <JP><F>etto</F></JP> <SC>there is</SC> there are many spaces <F>err</F> around one house, but my neighborhood <F>err</F> is very <F>mmm</F> crowded.</B>
+<A><F>Uh-hum</F>.</A>
+<B><.></.> <F>Umm</F> <F>mm</F> <R>it</R> <SC>it is</SC> <F>err</F> there is enough space.</B>
+<A><F>Uh-hm</F>.</A>
+<B><F>Umm</F> I envy <R>this</R>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> This house.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><nvs>laughter</nvs> I see. O K. Now, I'd like to try a role-play.</A>
+<B>Yes. <nvs>cough</nvs></B>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. Please read this. And when you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the text for a while.</ctxt>
+<B><F>Oh</F> <.></.> <F>oh</F> my friend?</B>
+<A>Yes. <nvs>laughter</nvs></A>
+<B><F>Err</F>.</B>
+<A><OL>Ready</OL>?</A>
+<B><OL>Pu-pu-pu</OL>. <F>Er</F> yes.</B>
+<A>Hello?</A>
+<B>Hello, this is <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F> hi <laughter><H pn="B's name">XXX02</H></laughter>.</A>
+<B><F>Oh</F> <JP><F>eetto</F></JP> <F>err</F> I want to go <F>umm</F> a new movie. <JP><F>Eeto</F></JP> <.></.> shall we <R>go</R> <F>err</F> go watching <R>movie</R> <F>ah</F> that movie?</B>
+<A><F>Umm</F> sounds good.</A>
+<B><F>Oh</F> yes. <F>Err</F> <JP><F>unntto</F></JP> <R>I have</R> <R>I have</R> I have time. <F>err</F> to watching movies <F>err</F> on Sunday. <F>Err</F>. <SC>How</SC> <F>er</F> <nvs>cough</nvs> <JP><F>etto</F></JP> <.></.> how about <F>err</F> Sunday <R>to</R> to watch <.></.> a movie together? <OL><F>Er</F></OL>.</B>
+<A><OL><F>Hm</F></OL> O K.</A>
+<B><.></.> Sunday?</B>
+<A><F>Ah-huh</F>.</A>
+<B>Yes. <OL><F>Er</F></OL>.</B>
+<A><OL>Sunday's</OL> fine.</A>
+<B>Yes. <JP><F>Etto</F></JP> and then, <F>er</F> <SC>I</SC> <nvs>cough</nvs> <.></.> <JP><F>etto</F></JP> <R>how</R> <R>how do we</R> how do we go <F>err</F> to the theater <F>er</F> of that movie?</B>
+<A><F>Um</F>? <.></.> How?</A>
+<B><R>How</R> how do we go <.></.> <OL>to the theater</OL>?</B>
+<A><OL><F>Oh</F></OL>. Do you have a car?</A>
+<B><F>Umm</F> yes. I have a car <F>err</F> and I can use on Sunday.</B>
+<A><F>Oh</F> really? Good.</A>
+<B><F>Oh</F>. Then, <F>err</F> <R>I</R> <R>I will go</R> <F>err</F> I will go to your house and <F>err</F> <SC>pick up</SC> pick you up <R>and</R> <F>err</F> <.></.> and go to the theater with me. <JP><F>Etto</F></JP> <.></.> is it O K?</B>
+<A>Yes.</A>
+<B>O K. <F>Err</F> then, <JP><F>etto</F></JP> <.></.> on Sunday, and <F>er</F> <SC>I will</SC> <F>err</F> <F>ah</F> <F>oh</F> <F>err</F> <JP>soka</JP>. <.></.> <SC>We will decide <F>err</F> we can</SC> <F>er</F> <nvs>cough</nvs> we must decide <F>err</F> a time <F>err</F> <.></.> when <F>err</F> <SC>we</SC> <.></.> <F>ah</F> I will pick you up. <F>Err</F> how about <F>err</F> Sunday noon?</B>
+<A><.></.> O K.</A>
+<B>O K. <F>Err</F> then, <F>er</F> I will go to your home <F>err</F> on Sunday noon.</B>
+<A><F>Uh-hum</F>.</A>
+<B>Then <F>err</F> <R>I will</R> I will pick you up. <F>Err</F> let's go <F>err</F> watching <.></.> a movie.</B>
+<A>O K. So, I'm gonna wait for you.</A>
+<B>Yes.</B>
+<A><OL><F>Ah-hum</F></OL>.</A>
+<B><OL><F>Err</F></OL> I'm looking forward to seeing you.</B>
+</task>
+<followup>
+<A>O K. See you then. Thank you very much. Do you like movies?</A>
+<B><F>Ahh</F> yes. <F>Umm</F> but <F>err</F> recently, <SC><R>I</R> <.></.> I don't watch <F>err</F> some</SC> <F>mm</F> I don't watch any movie.</B>
+<A><F>Umm</F>. Why not?</A>
+<B><F>Ummm</F> <R>I</R> I have no time <F>err</F> to watch movie. <F>Err</F> because <R>I</R> I must <F>err</F> take care of <F>err</F> <.></.> our daughter <F>err</F> on Saturday <SC>o</SC> and on Sunday.</B>
+<A><F>Oh</F> <OL>I see</OL>.</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><F>Err</F> which do you like better, Western movies or Japanese movies?</A>
+<B><F>Ohh</F> <F>eh</F> <F>umm</F> <SC>Japane</SC> <F>urm</F> I'd like to Japanese movie.</B>
+<A>Japanese movies?</A>
+<B>Yes.</B>
+<A>Why?</A>
+<B><F>Hmmm</F> Japanese movie <F>umm</F> <JP>asoka</JP> <JP><F>etto</F></JP>. In Western movie, <F>err</F> <.></.> I can't understand English and then <R>I</R> I <.></.> read a <R><JP>nan</JP></R> <JP>nante yundaro</JP> <F>ummm</F> <R>I</R> I forgot that name. <F>Umm</F> <JP><F>eetto</F> nante yunnda</JP>. <F>Err</F> <R>I</R> <R>I</R> <F>ah</F> <R>I</R> <nvs>cough</nvs> I only read <F>err</F> some words <F>err</F> <.></.> <JP><F>eeto</F></JP> below <.></.> the screen.</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Err</F> <R>I</R> I can't understand English.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B><OL><F>Err</F></OL>. But now, I sometimes <F>err</F> <nvs>cough</nvs> <F>err</F> can understand <R>th</R> their words.</B>
+<A><OL><F>Uhmm</F></OL>.</A>
+<B><OL><F>Err</F></OL>. <R>I</R> <.></.> <SC>I must</SC> <R>I</R> I may enjoy <F>err</F> Western movies</B>
+<A><F>Ahh</F> <OL>I see</OL>.</A>
+<B><OL>than</OL> <F>mmm</F> before.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K. Now, I'd like to show you another picture.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K. This is the picture story. And this happened last week. <OL><CO>So please</CO></OL>.</A>
+<B><OL>Last week</OL>?</B>
+<A>Yes. Please make a story and start with "One day last week".</A>
+<B><OL><F>Ohhh</F></OL>.</B>
+<A><OL>O K</OL>? Please start. Up here. <OL>Like this</OL>.</A>
+<B><OL><F>Ohhh</F></OL>. Describe?</B>
+<A><F>Err</F> just make a story</A>
+<B><OL><F>Oh</F> make a story</OL>.</B>
+<A><OL>based on <SC>this</SC> these pictures</OL>.</A>
+<B><OL><F>Oh</F> <R>yes</R> <R>yes</R> yes</OL>. <F>Mmm</F>.</B>
+<ctxt>The interviewee is looking at the pictures and thinking.</ctxt>
+<B><F>Err</F> <.></.> <F>humm</F> <F>eh</F> she went to shopping <F>err</F> <.></.> last week. <F>Eh</F>. <OL><nvs>cough</nvs></OL></B>
+<A><OL><F>Uh-hum</F></OL>.</A>
+<B><F>Err</F> <SC>she bought</SC> <F>err</F> <F>ah</F> <R>her purpose was</R> <F>err</F> her purpose was <.></.> buying a present for her husband, <F>err</F> because <F>err</F> <SC>her husband</SC> <F>err</F> <JP>achigauna</JP> <SC>last week</SC> <F>err</F> one day last <laughter>week</laughter> <F>err</F> was her husband's birthday.</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Umm</F> <F>err</F> she selected a <.></.> tie. <JP><F>Etto</F></JP> and <F>ah</F> that tie <F>er</F> was green and <F>err</F> <R>some</R> some <F>err</F> <.></.> <R>orange</R> <SC>orange color</SC> <F>urr</F> orange dots. <F>Uhm</F> <F>err</F> she bought a green tie and <F>err</F> <JP>soka</JP> <.></.> maybe she said <F>er</F> <SC>this is</SC> <R>this</R> <F>er</F> this was a present for her husband.</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Err</F> then, <F>err</F> <R>the</R> <R>the</R> the clerk of <.></.> <F>err</F> department store <JP><F>eeto</F></JP> was <F>err</F> wrapping <F>err</F> <.></.> for her <F>err</F> as <F>eh</F> a present for her husband.</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Uhm</F>. Then, <F>err</F> <R>she</R> she pays <F>err</F> money <F>err</F> <.></.> <JP>soka</JP> <JP><F>etto</F></JP> and <R>she received</R> <F>er</F> <JP><F>etto</F></JP> she received a gift for her husband. <nvs>cough</nvs> <F>Err</F> and <R>she</R> <.></.> <F>umm</F> she <.></.> wanted to go <.></.> her home, but <F>err</F> she found a <R>good</R> <.></.> good shoe <F>err</F> <.></.> and <F>err</F> a department store <SC>has</SC> <F>ah</F> <SC>had a sale</SC> <F>eh</F> <F>ah</F> had a final sale <F>err</F> of shoes. <F>Uhm</F> then, <F>err</F> she, <F>ummm</F> I don't know, <R>she</R> <SC>she bought <.></.> a shoe</SC> <F>err</F> she bought <SC>shoes</SC> <R>a</R> a pair of shoes <SC>or</SC> <F>err</F> <F>umm</F> <R>but</R> <F>urm</F> but <F>er</F> <R>she</R> <R>she</R> <F>err</F> <.></.> <R>sh</R> she saw <F>err</F> some shoes <R>and</R> <F>err</F> and in another place, <F>err</F> <R>she</R> <.></.> she saw <.></.> a blouse <.></.> or sweater <F>err</F> <F>umm</F>. <R>She</R> she enjoyed shopping <F>err</F> and watching <R>many</R> <.></.> many goods.</B>
+<A><F>Uh-hum</F>.</A>
+<B><F>Err</F> finally, <F>err</F> she bought <F>err</F> <SC>many goods</SC> many things and <R>she</R> <F>err</F> <.></.> she bought many bags. <F>Err</F>.</B>
+<A>O K.</A>
+<B><.></.> O K?</B>
+</task>
+<followup>
+<A><F>Uh-hum</F>. Thank you very much. When is your baby's birthday?</A>
+<B>Birthday. <F>Err</F> <F>shh</F> <F>umm</F> <JP><F>tto</F></JP> <F>eh</F> <SC>nineteen-ninty</SC> <.></.> <SC>in nint</SC> <F>eh</F> <F>err</F> April first, <F>err</F> <SC>on</SC> <F>uhm</F> in <R>nineteen-ninty</R> nineteen-ninty <F>um</F> this year. <.></.> <SC>Twenty</SC> <JP>asoka</JP> ninteen-ninty-eight.</B>
+<A><F>Uh-hum</F>. <SC>What did you bought</SC>? <F>Err</F> <R>what did you</R> what did you buy for her birthday</A>
+<B><OL>Birthday</OL>?</B>
+<A><OL>in April</OL>?</A>
+<B>In April. <F>Errr</F> <F>err</F>. This year, <R>I</R> I didn't buy. <nvs>laughter</nvs></B>
+<A><OL><nvs>laughter</nvs> You didn't</OL>?</A>
+<B><laughter><OL><nvs>laughter</nvs></OL> I didn't buy anything</laughter>. Yes. <OL><F>Uhm</F></OL>.</B>
+<A><OL>How about</OL> next year?</A>
+<B>Next year. <F>Umm</F>.</B>
+<A>Do you have any plan?</A>
+<B><F>Ah</F> I have a plan <R>to buy</R> <F>er</F> to buy <R>some</R> <F>err</F> some books. <OL><F>Umm</F></OL>.</B>
+<A><OL><F>Uh-hum</F></OL>.</A>
+<B>Maybe <SC>she <F>err</F> enjoy</SC> she will enjoy <F>err</F> these books.</B>
+<A><F>Ah-huh</F> I see.</A>
+<B><SC>She like</SC> <R>she likes</R> <F>err</F> she likes a book very much.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. O K. This is almost the end of interview.</A>
+<B><F>Oh</F>.</B>
+<A><F>Uh-hum</F>. Do you have any plan after work today?</A>
+<B>After work? <F>Oh</F>. <.></.> You can see my clothes. <nvs>laughter</nvs> <F>Ummm</F>.</B>
+<A><F>Ah-huh</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <F>Oh</F>. <F>Umm</F>. <R>I will go</R> <F>err</F> I will go to <F>err</F> Yuzawa <F>mm</F> with my co-workers.</B>
+<A><F>Uh-hum</F>.</A>
+<B>And <.></.> <R>to</R> today, <F>err</F> <.></.> <R>I</R> <SC>I will go <nvs>cough</nvs> <.></.> a <R>trip</R> <F>err</F> trip</SC>. I will go <F>ah</F> travel <F>umm</F> with my co-workers. <CO>And</CO>.</B>
+<A><F>Ahh-huh</F>.</A>
+<B><F>Umm</F>. <R>Every year</R> every year, <R>we</R> we go <F>err</F> somewhere <F>uhmm</F>.</B>
+<A><OL><F>Uh-hum</F> this is <.></.> here</OL>.</A>
+<B><OL>With my co-workers</OL>.</B>
+<A>Yuzawa.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>O K</OL>. Please enjoy your trip.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

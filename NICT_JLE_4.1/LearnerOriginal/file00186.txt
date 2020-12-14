@@ -1,0 +1,153 @@
+<interview>
+<filename>file00186.txt</filename>
+
+<head version="1.3">
+<date>2001-01-17</date>
+<sex>female</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>student</category>
+<step></step>
+<TOEIC>825</TOEIC>
+<TOEFL>560</TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>travel_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>So then, let's get started. <F>Erm</F> my nama is <H pn="A's name">XXX01</H>. <F>Er</F> what's your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. So <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Mm</F> I'm fine, <OL>thank you</OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>. O K.</A>
+<B>And you?</B>
+<A>Yeah, I'm fine, too. Thank you.</A>
+<B>Good.</B>
+<A>And <F>er</F> how was your <F>ah</F> New Year vacation?</A>
+<B><F>Well</F> I had an operation.</B>
+<A><F>Uh-huh</F>.</A>
+<B>I had my jaw cut, so I was in the hospital.</B>
+<A><OL><F>Wow</F></OL>, that's too bad.</A>
+<B><OL>Yes</OL>.</B>
+<A>What happened to you?</A>
+<B><F>Well</F> <SC>I was</SC> <F>er</F> I don't know the reason. And also doctor doesn't know reason why <SC>I</SC> jaw got changed the shape. But <F>hm</F> for some reason change my jaw and I take an operation to set forward the jaw.</B>
+<A><F>Wow</F>. So <SC?>was that</SC?> <F>ur</F> <F>ah</F> do you feel O K?</A>
+<B><F>Oh</F> yes. I feel all right.</B>
+<A>I see. O K. <F>Er</F> by the way, <F>ah</F> at the beginning of this year, <F>um</F> have you decided anything special for this year?</A>
+<B><F>Oh</F> <F>well</F> I'm in <??></??> right now, so I have to. I want to get the job. But <??></??> isn't in my <F>er</F> schedule <?>anything</?>.</B>
+<A>I see. So what kind of thing <SC>are you going to do</SC> do you want to do?</A>
+<B><F>Um</F> <F>well</F> I have to <F>um</F> <?>get back</?> my life and <??></??> my <?>mine</?> experience in my school life. And <R>I have to</R> I have to write <R>a</R> a letters in the <?>entry seats</?> for companies, so that's the biggest <?>works</?>.</B>
+<A>I see. Do you have any specific job in mind?</A>
+<B><F>Oh</F> no, I haven't decided yet.</B>
+<A><F>Hmm</F>. I see. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>So then, <F>mm</F> the first thing I want to show you is this picture. So would you describe this picture, please?</A>
+<B><F>Well</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>It's a class. And there are many kinds of students. I guess <F>um</F> students from <F>er</F> <SC>all of</SC> <R>all</R> all generations. And only a few students listen to the lecture and somebody <SC>is</SC> are chatting in the classroom. And there is a <SC>man</SC> middle-aged man who is chewing the gum. And there is a boy drinking a juice or something. And he is also listening to the music with headphone. And <F>ah</F> the girl is looking at her mobile phone. So there is only one student who <F>er</F> are studying the class. <R>The</R> the teacher seems <SC>to</SC> <F>um</F> <.></.> <R>she</R> she doesn't care what the students do and she <?>is keeping</?> teaching her mathematic lesson.</B>
+<A>I see.</A>
+</task>
+<followup>
+<A>So when you were in high school, how was your classroom?</A>
+<B><F>Well</F> my class was not like this.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> most of students listened to their class. And also, <R>if</R> if there were some students were chatting like <SC>there</SC> them, <SC>teacher will</SC> teacher got angry. Then, students stop chatting. So, yes, <SC>our cla</SC> <F>er</F> my class was good.</B>
+<A><F>Mm</F> I see. And <F>er</F> <F>er</F> what would you do if you were in this classroom?</A>
+<B><F>Well</F> <SC>I'm</SC> <F>um</F> in fact, I'm a teacher in a clam school as in <?>private</?> job, so if my <laughter>class</laughter> is like this, I'll get angry and <SC>stop</SC> tell the student stop to chewing the gums and <R>drinking</R> drinking juice or chatting. And <R>if they</R> if they keep on drink like this, I'll get <?>of</?> the classroom,</B>
+<A><F>Hmm</F>.</A>
+<B>maybe.</B>
+<A>I see. O K, yeah, thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Then <F>er</F> next thing we're gonna do is the role-play. So would you read the direction and whenever you are ready, please tell me and I will start, O K?</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? So then, ri-ri-ri-ri-ri, A B C Travel, <F>er</F> may I help you?</A>
+<B>Yes, I'm in a tour <SC>in the</SC> in your travel agency. But there are some problems. Because <R>in the</R> <SC>in the trip</SC> in this trip a lot of things are different, <R>from the</R> <F>um</F> from the brochure. So <F>um</F> I would like to know what happen the plan.</B>
+<A><F>Oh</F> I see. So, then are you calling from Hawaii now?</A>
+<B>Yes.</B>
+<A><F>Wow</F>. So then, what can I do for you then?</A>
+<B><F>Well</F> I really want to my plan back and want to do what I planned in Japan. But if it's not possible, <R>I</R> I think you should pay for it.</B>
+<A>O K. <F>Um</F> <F>erm</F> but because of our company's policy, we can't give you any refund.</A>
+<B><F>Oh</F> really. So maybe the dinner ticket is O K. Or some option tours, can you offer me?</B>
+<A><F>Well</F> so anyway, I'm not the person to make the decision. So what can I do?</A>
+<B><F>Oh</F> <F>erm</F> just talk to your boss and <R>get</R> <F>er</F> get back call to my hotel room.</B>
+<A><F>Oh</F> O K. Yeah. But unfortunately, my boss is not at his desk now.</A>
+<B><F>Well</F> but I have to go back to Japan two days after. So let's make a decision.</B>
+<A><F>Oh</F> O K. So then, anyway, I try to make a contact with my boss.</A>
+<B><F>Hm</F>.</B>
+<A>And <R>as</R> as soon as I found him, then, I'll have him call you back.</A>
+<B>As soon as possible, please</B>
+<A>O K. Yeah. Sorry for inconvenience. <?>O K</?>. So good-bye.</A>
+<B>Good-bye.</B>
+<A>O K. So this is the end of the role-play.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A><F>Erm</F> have you had this kind of trouble before?</A>
+<B>No, not really.</B>
+<A><F>Um</F>. So then, if you were <F>mm</F> like this <F>ah</F> in this situation, so then <F>er</F> what would you do?</A>
+<B><F>Well</F> I complain to a tour guide at first. And if tour the guide <R>doe</R> doesn't do anything, maybe I'll call the office in Japan or tour agency in that place.</B>
+<A><F>Hmm</F>. I see. So then, <F>um</F> maybe, other than travel, <F>um</F> have you had any trouble and have you made any complaints?</A>
+<B><F>Oh</F>. <.></.> Yes.</B>
+<A><F>Hm</F>.</A>
+<B><F>Um</F> my mother bought <F>er</F> sweets in super market and it was <F>um</F> Fujiya's Home Pie. But when I opened the box, the pies in the box was all black. So I can't <R>eat</R> eat them, of course, so I called the Fujiya's headquarter and tell them what happened. So <SC>they said</SC> they told me to send the box back and I could get a <?>free</?> <F>ah</F> boxes of pie.</B>
+<A><F>Well</F>. I see. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Then, the last thing is <SC>the</SC> a sequence of pictures. And <F>ah</F> please make up a story from one to six. And this happened in the past. So please <F>ah</F> start your story with this phrase, "One day last week," O K?</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>Excuse me. Should I talk as if I am <F>er</F> one of them?</B>
+<A><F>Oh</F> whatever.</A>
+<B><F>Ah</F>. O K.</B>
+<ctxt>The interviewee is still looking at the pictures.</ctxt>
+<A>O K, ready?</A>
+<B>Yes.</B>
+<A>O K, go ahead.</A>
+<B>One day last week, I and my friend went to a camp <SC>with my car</SC> <SC>in my car</SC> <F>ah</F> <laughter>by</laughter> my car. And we got to place and we set up the tent and <.></.> we made curry and rice. And it was <F>er</F> very good. Because the weather was good and <nvs>sniff</nvs> everything was <SC>fine</SC> <SC>good</SC> going well. But <R>just</R> just when we finished <?>at the</?> set up a tent, the <R>clouds</R> <.></.> <F>oh</F> clouds covered the sky and it began to rain. <?>And, you know</?>, and we didn't care. <F>Ah</F> we thought that <SC>it would stop</SC> <SC>it will be s</SC> it would stop raining soon. But it was a mistake. <F>Er</F> <R>the</R> the very heavy rain and <?>window</?> <nvs>sniff</nvs> like a typhoon attacked us. And <SC>it blow</SC> it blew the tents and curry and rice or everything we set up. <nvs>sniff</nvs> So we couldn't <?>stay out</?>. Then, we got in a car and <.></.> drive some miles. <nvs>sniff</nvs> And the storm was getting tough and <R>thunder</R> <SC>thunder is <F>mm</F> coming</SC> thunder was coming. Then, we found a little <SC>s</SC> hotel. So we decided to go in the hotel. Then, <nvs>sniff</nvs> in hotel room, <SC>we took a sh</SC> we took shower and made a hot coffee. But just we relaxed in the hotel room, the sky was getting cleared and sun came up.</B>
+<A><F>Mh-hmm</F>. <OL>All right</OL>.</A>
+<B><OL>That's it</OL>.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Erm</F> I think that recently the out door activities like camping is getting popular.</A>
+<B><F>Hmm</F>.</B>
+<A><F>Er</F> do you agree?</A>
+<B>Yes.</B>
+<A><F>Er</F> why?</A>
+<B><F>Er</F> I don't know. But I guess it's because <F>um</F> most of people live in a city.</B>
+<A><F>Hm</F>.</A>
+<B>So there's like, <?>you know, no wind</?>, any nature, so they want to feel the nature. Because that's it. That's the reason.</B>
+<A><F>Hm</F>. So do you yourself like outdoor activities?</A>
+<B>No.</B>
+<A>Why not?</A>
+<B>Because I hate mosquitoes.</B>
+<A><F>Hmm</F>.</A>
+<B>When I was children, my parents took <?>me</?> camping so many times. I like cooking outdoor. But, you know, always <R>I was</R> <nvs>sniff</nvs> <F>er</F> I was a good <F>erm</F> girl for mosquitoes. So I don't like camping.</B>
+<A><F>Oh</F> I see. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A>So then interview is almost over. And <F>ah</F> do you have any plans after this interview?</A>
+<B><F>Oh</F> <F>well</F> I'll see my friend and we'll exchange <??></??> because the examination is coming up.</B>
+<A><F>Oh</F> I see. So then you are busy.</A>
+<B>Yes. <??></??></B>
+<A>So, then study hard and take care of yourself. <OL>O K</OL>?</A>
+<B><OL>O K</OL>.</B>
+<A>Thank you very much for coming.</A>
+<B>Thank you very much and I'm so sorry to be late.</B>
+<A><F>Oh</F> that's all right. O K.</A>
+</stage5>
+</body>
+</interview>

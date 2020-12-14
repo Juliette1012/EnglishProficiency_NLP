@@ -1,0 +1,195 @@
+<interview>
+<filename>file00511.txt</filename>
+
+<head version="1.3">
+<date>2001-06-29</date>
+<sex>male</sex>
+<age>21</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Er</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yeah. Sure.</B>
+<A>O K. Thank you. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Er</F> I'm so fine. But <F>er</F> <.></.> I'm little bit <F>er</F> <R>s</R> sleepy.</B>
+<A><F>Um</F>.</A>
+<B>Because <F>er</F> yesterday night, I sleep <R>on</R>, for <.></.> <F>er</F> only three hours.</B>
+<A><F>Hum</F>. Why only three hours?</A>
+<B><CO><F>Er</F> so</CO>. Because <.></.> <F>err</F> <R>I must</R> I must write a report of the university. So <nvs>laughter</nvs> <R>I</R> I didn't finished <R>if</R> <F>er</F> if I sleep.</B>
+<A><.></.> O K. <H pn="B's name">XXX02</H>, so where do you live?</A>
+<B><F>Er</F> I live in <H pn="others1">XXX03</H>. <..></..> <F>Err</F>. <.></.> Beside the <H pn="others2">XXX04</H>.</B>
+<A><F>Hum</F>.</A>
+<B><F>Uhm</F> <laughter>yes</laughter>.</B>
+<A>O K. So how do you get here?</A>
+<B><F>Er</F> by bike.</B>
+<A>Bike?</A>
+<B>Yes.</B>
+<A><F>Hum</F>.</A>
+<B><..></..> <F>Er</F> sometimes I get by train. But <F>er</F> here is <F>er</F> so far from the <H pn="others3">XXX05</H> Station. So I ride on the bike.</B>
+<A><F>Hm</F>. I see. So when <F>er</F> in <F>er</F> free time, what do you like to do?</A>
+<B><F>Er</F> <F>er</F> many things. <F>Er</F> sometimes I hear the music <F>er</F> and watching T V, reading books and writing report, <F>err</F> and sleeping.</B>
+<A>O K. Do you belong to any club?</A>
+<B><F>Er</F> no, I don't. <OL><??></??></OL></B>
+<A><OL>Why</OL> not? <F>Hm</F>.</A>
+<B>Because I'm so busy to study and <.></.> when <R>I was</R> I was freshman of university, <F>er</F> I belongs to tennis club and <??></??> club and <R>ma</R> <.></.> mah-jongg club.</B>
+<A>Interesting. <nvs>laughter</nvs></A>
+<B>But <F>er</F> when I was <SC>soph</SC> <.></.> <R>second <?>year</?></R> <.></.> second years, <SC>I was the</SC> <F>er</F> I feel very busy, so I stopped <?>them</?>.</B>
+<A>O K. <F>Hm</F>. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>So, <F>er</F> <H pn="B's name">XXX02</H>, please look at this picture. And please describe it for me.</A>
+<B><F>Oh</F>. <nvs>cough</nvs> Here is <F>er</F> <R>ski</R> <.></.> skiing <F>uh</F> mountain. And <F>err</F> many people enjoyed <R>the</R> the ski or snowboard. And <R>someone</R> <.></.> <SC>someone</SC> <F>er</F> some kids are playing <.></.> to <.></.> <F>er</F> <F>em</F> <R>throw the</R> throw the <.></.> snowball. And <SC>some</SC> I don't know, but someone <R>ma</R> <F>er</F> made a <.></.> <?>snow boy</?>. <.></.> <SC>Everyone enjoy the</SC> <SC>en</SC> everyone enjoy the time. <.></.></B>
+<A>O K.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX02</H>, <F>eh</F> in winter holidays, <F>uh</F> what do you like to do to enjoy?</A>
+<B><F>Er</F> snowboard.</B>
+<A>Snowboard.</A>
+<B>Yes.</B>
+<A>O K. I'm poor at ski and snowboard. So tell me the difference between skiing and snowboarding.</A>
+<B><F>Er</F> snowboard is only one board.</B>
+<A><F>Hm</F>.</A>
+<B>But <R>ski</R> <.></.> ski <F>er</F> put on the two board.</B>
+<A><F>Err</F>.</A>
+<B>The <R>s</R> <R>same</R> same boards. <R>And</R> <..></..> and <SC>ski has</SC> skier <F>er</F> must take a stock. <F>Err</F> <R>I think</R> <F>er</F> I think <F>ur</F> <.></.> it is difficult to ski.</B>
+<A><F>Hum</F>. I see. Then what's good about snowboarding?</A>
+<B>Snowboarding. <SC>They can many</SC> <.></.> I can do many tricks and <F>er</F> <.></.> <F>er</F> for example, <.></.> slides turn or turn in air. And <.></.> yes. <CO>I <laughter>think</laughter> <.></.> yeah, it's fun <OL>to</OL></CO>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B>Yeah.</B>
+<A>But sounds very difficult for me.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, I give you this card. So please read <SC>it</SC> this card silently <F>er</F> to yourself. And this is a role-play. When you are ready I'll begin. O K? This is telephone conversation. O K? Hello? This is <H pn="A's name">XXX01</H> speaking.</A>
+<B><F>Eh</F> <F>oh</F> I'm <F>er</F> <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B>Yeah. <F>Er</F>. <.></.> <F>Err</F>. <.></.> <F>Er</F>. <CO>Should</CO>. <.></.> <F>Err</F>. <.></.></B>
+<A><OL>What's up</OL>?</A>
+<B><OL>Let's</OL> <SC>let's go to <F>um</F> watching mo</SC> let's go to watch movie together.</B>
+<A>Sure.</A>
+<B><F>Oh</F> <F>er</F>. <.></.> <SC>When you</SC> <F>er</F> <SC>when is you</SC> when are you available?</B>
+<A>O K. How about this weekend?</A>
+<B>Yeah. Sure. It's nice. And <F>er</F> which place <R>do you want</R> do you want to go?</B>
+<A>Any place.</A>
+<B>Any place?</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><OL>O K</OL>. So <R>I</R> <SC>I want</SC> I wannna go to <R>S</R> Shinjuku.</B>
+<A>O K. That's fine.</A>
+<B>O K. <CO>So</CO>. Yeah. <SC>How to</SC> <.></.> <F>er</F> <.></.> how do you go to Shinjuku?</B>
+<A>I think I use J R.</A>
+<B>J R Line? O K. <F>Er</F>. <.></.> <SC>I th</SC> <nvs>cough</nvs> I use the <H pn="others2">XXX04</H>. So <F>er</F> <.></.> <R>please wait</R> <SC>please wait on</SC> <F>er</F> please wait in front of Alta.</B>
+<A>Alta. <OL>O K</OL>.</A>
+<B><OL>Yeah</OL>. You know</B>
+<A><F>Hm</F>. I know. <OL>I know</OL>.</A>
+<B><OL>O K</OL>.</B>
+<A><F>Um</F>.</A>
+<B>O K. Thank you. Next weekend.</B>
+<A>But what kind of movie?</A>
+<B><OL><laughter><F>Err</F></laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Yes. <F>Err</F>. <.></.> I wanna see "A I".</B>
+<A>"A I". <OL><F>Ah</F></OL>.</A>
+<B><OL>Yes</OL>. Yes.</B>
+<A>I see.</A>
+<B><F>Er</F> produced by <R>S</R> Steven <OL>Spielberg</OL>.</B>
+<A><OL><F>Uum</F></OL>. O K. Sounds interesting.</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A><F>Um</F>.</A>
+<B>Thank you.</B>
+<A>See you then. Thank you for calling.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>That's the end of role-play. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you like movies?</A>
+<B>Yeah. <R>I like</R> <F>er</F> I like action movie.</B>
+<A><F>Um</F>.</A>
+<B><?>It's</?> <F>erm</F> "Rocky".</B>
+<A><F>Err</F>.</A>
+<B>Or "Rambo".</B>
+<A>I see.</A>
+<B>"Die Hard".</B>
+<A><F>Hum</F>. Why do you like action movies?</A>
+<B><F>Er</F> because <.></.> <SC>I wanna</SC> I would like to be <.></.> the <R>S</R> <R>S</R> <F>mm</F> Sylvester Stallone. I like him. So <R><laughter>he</laughter></R> <SC>he</SC> <..></..> I enjoy <?>the movie</?>.</B>
+<A><F>Hm</F>. O K. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Er</F> O K. <F>Er</F> lastly, I'll show you another picture.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>This is the sequence of picture. So please make up one story using these pictures from one to six. And this happened before. So please start your story with "One day last week".</A>
+<B>One day last week.</B>
+<A><F>Um</F>. Go ahead.</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a moment.</ctxt>
+<B><nvs>cough</nvs> <F>Err</F>. <.></.> <F>Ur</F> he go <R>to</R> to the restaurant with his father. <R>And</R> <..></..> and <R>when he</R> <.></.> when he go into restaurant, <F>er</F> they decide one table <.></.> and sit down. <F>Er</F>. <.></.> They ordered some fish and chicken <.></.> and beer or some alcohol. And they enjoy the time. <F>Erm</F>. <.></.> And <R>his father</R> <F>err</F> <.></.> <F>eh</F> his father <F>er</F> pay the food price. <R>And he</R> <.></.> and he was very satisfied. <R>And</R> <..></..> and he said <R>to</R> to his father good-bye.</B>
+<A><F>Um</F>. O K. O K, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>Do you sometimes go to a restaurant?</A>
+<B><F>Er</F> sometimes.</B>
+<A><F>Um</F>. O K. So please tell me last time you went to the restaurant.</A>
+<B><nvs>cough</nvs> <F>Err</F>. <.></.> Last time I went to <.></.> the restaurant <SC>ca</SC> it's called <SC>la</SC> Gusto. And <F>er</F> there is <F>er</F> <R>I have</R> I have worked <.></.> there.</B>
+<A><F>Hm</F>. O K.</A>
+<B>And <.></.> <SC>I go</SC> I don't go to <.></.> eat something but I go to <.></.> <F>er</F> meet my friend.</B>
+<A><F>Er</F> I <OL>see</OL>.</A>
+<B><OL>Yes</OL>.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> but <R>I</R> I <laughter>ate</laughter> <R>some</R> <F>uh</F> <laughter>something</laughter>. Yes. <JP><F>Ee</F></JP> And it is <F>er</F> <H pn="others1">XXX03</H> restaurant.</B>
+<A><F>Um</F>. <F>Hm</F>. Is it your favorite restaurant, Gusto?</A>
+<B><F>Err</F> yes. <SC>Ne</SC> <SC>very</SC> because it is very cheap. <CO>So</CO>. And many, many, many food.</B>
+<A><F>Hm</F>.</A>
+<B><CO>And</CO>.</B>
+<A>What is your favorite dish in Gusto?</A>
+<B><F>Err</F> hamburg with egg.</B>
+<A><F>Hum</F>.</A>
+<B>Yes.</B>
+<A>Why do you like it so much?</A>
+<B>It's <laughter>very cheap</laughter>. <laughter><CO>So</CO></laughter>.</B>
+<A><laughter>Cheap</laughter>. <laughter>O K, O K, thank you very much</laughter>, <H pn="B's name">XXX02</H>.</A>
+<B>You're welcome.</B>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost over. So do you have any plan after this interview?</A>
+<B><F>Err</F> <F>well</F> <SC>I go to</SC> I go back to my home.</B>
+<A><F>Um</F>. <OL>O K</OL>.</A>
+<B><OL><??></??></OL> And write <?>report</?>.</B>
+<A>You have to study again?</A>
+<B>Yeah. Maybe. <nvs>laughter</nvs></B>
+<A><F>Wow</F>. Because <R>you have</R> you have a examination <OL><R>this</R></OL></A>
+<B><OL>Yes</OL>.</B>
+<A><F>er</F> this month?</A>
+<B><F>Er</F> examination, <R>experie</R> experiment.</B>
+<A>Experiment.</A>
+<B>Yes.</B>
+<A><F>Err</F>.</A>
+<B>The report.</B>
+<A>I see. <F>Hum</F>.</A>
+<B>Yes.</B>
+<A>So study harder. <laughter>O K</laughter>. Thank you very much for coming today. Thank you.</A>
+</stage5>
+</body>
+</interview>

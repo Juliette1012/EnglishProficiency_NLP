@@ -1,0 +1,222 @@
+<interview>
+<filename>file00118.txt</filename>
+
+<head version="1.3">
+<date>2000-09-05</date>
+<sex>female</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC>820</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>6</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>landlord_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>Nice to meet you.</B>
+<A>Nice to meet you, too. May I have your name, please?</A>
+<B>Yes, sure. My name is <H pn="B's name">XXX01</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes, sure.</B>
+<A>Good. <F>Erm</F> how are you today, <H pn="B's name">XXX01</H>?</A>
+<B>I'm fine, thank you.</B>
+<A>Fine. But it's raining today.</A>
+<B>Yes, it is.</B>
+<A>Do you like rainy days?</A>
+<B>No, I don't like rainy days <OL>very much</OL>.</B>
+<A><OL><F>Hum</F></OL>. <F>Uh-huh</F>. So what do you usually do to make yourself feel better in these rainy days?</A>
+<B><F>Hum</F> <.></.> since I have a car</B>
+<A><F>Ah-huh</F>.</A>
+<B>so I go out</B>
+<A><F>Ah-huh</F>.</A>
+<B>by car, or sometimes I stay at home to read books, listen to music, and listen to the radio.</B>
+<A><F>Ah-huh</F>. Also good idea.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. I see. So <H pn="B's name">XXX01</H>, where do you live?</A>
+<B>I live in <H pn="others1">XXX02</H>.</B>
+<A><F>Uh-huh</F>. Where in <H pn="others1">XXX02</H>?</A>
+<B><R>I</R> I live in <R><H pn="others2">XXX03</H></R> <H pn="others2">XXX03</H> Ward.</B>
+<A>O K. <F>Urm</F> O K. Can you tell me a little bit about your neighborhood?</A>
+<B><SC>Since I've</SC> yeah, <SC>I</SC> <.></.> since I came here this June,</B>
+<A><F>Hum</F>.</A>
+<B>so I don't know much about my neighbors and neighborhood.</B>
+<A><F>Ah-huh</F>.</A>
+<B>But <SC>it's</SC> <F>ur</F> there are many houses.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And there are many apartments. <R>And</R> and <F>ur</F> the road is <?>pretty</?> wide enough for cars <??></??>.</B>
+<A>Right.</A>
+<B>And sometimes <SC>we can</SC> I can see Mount Fuji</B>
+<A><F>Ah-huh</F>.</A>
+<B>from my <.></.> <??></??>.</B>
+<A>O K. Right. <F>Oh</F> that's nice. O K. So where were you before?</A>
+<B>I was in <H pn="others3">XXX04</H>.</B>
+<A><F>Ahh</F>.</A>
+<B>I came to <H pn="others1">XXX02</H> <F>ur</F> because I got married this June.</B>
+<A><F>Ah</F> <OL>Really</OL>?</A>
+<B><OL>My husband</OL>, he has been working <R>in</R> in <H pn="others4">XXX05</H> since he finish college a few years ago.</B>
+<A><F>Oh</F> I see. I see. So you have a husband. Can you tell me a little about your husband?</A>
+<B><F>Er</F> he is thirty years old.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And he is a system engineer.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <R>he likes to</R> he likes to drive a car.</B>
+<A><F>Hm</F>.</A>
+<B>And he likes children.</B>
+<A><F>Hm</F>.</A>
+<B>He is very helpful at home</B>
+<A><OL>Really</OL>?</A>
+<B><OL>so he</OL> helps me to not cook, but wash dishes so <??></??>.</B>
+<A><F>Uhh</F>. <OL>Really</OL>? <F>Oh</F> that's good, too. <nvs>laughter</nvs> O K. <H pn="B's name">XXX01</H>, what do you do by the way?</A>
+<B>I'm sorry?</B>
+<A><F>Oh</F> what do you do? Do you have a job? <CO>Or</CO>.</A>
+<B>No. No, I don't have a job right now.</B>
+<A><F>Ah-huh</F>. And what do you do everyday?</A>
+<B><F>Ahh</F> in the morning, I do house works. And then since I'm going to take a TOEIC test next October so I spend only one hour to study for it.</B>
+<A><F>Ah-huh</F>.</A>
+<B>And in the afternoon, I go out, like, I go to library or go shopping and just hanging around somewhere. And in the evening, I cook the dinner, and my husband comes back home.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yes.</B>
+<A>O K. I see. <F>Well</F> good luck in your TOEIC test.</A>
+<B><nvs>laughter</nvs></B>
+<A><laughter>O K</laughter>.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K, <H pn="B's name">XXX01</H>, first of all today, I'm going to show you a <R>picture</R> <F>um</F> picture of a room.</A>
+<B><F>Uh-huh</F>.</B>
+<A><??></??> this. <F>Er</F> I want you to describe this picture for me.</A>
+<B>O K. <F>Err</F> <.></.> the cat is sleeping on the bed. The door is opened.</B>
+<A>Right.</A>
+<B>And <F>ur</F> there is a stereo on the shelf. And there are many book, not many books. There are some books on the shelf. And the dog is on the floor. There are some trash in the box. And she is sitting on the chair. And she is pointing at the screen of the computer. And <F>ur</F> <R>she has</R> <.></.> she has a typewriter on computer, and I think <SC>she is going to</SC> <R>she is</R> <F>um</F> she is going to work on the computer.</B>
+<A><F>Uh-huh</F>. <F>Uh-huh</F>.</A>
+<B>And I think this is nine o'clock.</B>
+<A>Right.</A>
+<B>And <.></.> <F>uhm</F> <.></.> <F>ur</F> the month is June.</B>
+<A><F>Uh-huh</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX01</H>, I think you had your own room when you were growing up.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><F>Er</F> Can</OL> you compare this picture to your own room you had when you were growing up?</A>
+<B><R>I</R> <SC>I didn't have</SC> <F>well</F> compare to this room, <.></.> <F>mhm</F> the things she has is very similar to mine like I had a computer, but it was just <F>ur</F> <JP>nanteiundarou</JP> <??></??> <F>er</F> <SC>it's like</SC> it's a lap top.</B>
+<A><OL>Right</OL>.</A>
+<B><OL>So</OL> different kind. And I had stereo, but <R>mine</R> mine was a portable one so it's a little bit different. I didn't have a typewriter like this. And I wish <R>I could have</R> I could have pets.</B>
+<A><F>Hm</F>. <OL>O K</OL>.</A>
+<B><OL>But</OL> <??></??> I love dogs so I really wanted to have dogs. But I was absent at home too many times so I couldn't make it.</B>
+<A><F>Oh</F>.</A>
+<B><CO>So</CO>.</B>
+<A>I see. So what is good about dogs?</A>
+<B>I think <SC>they are very</SC> <.></.> <SC>they are</SC> they listen to us very well.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Some dog don't, but most of dogs do, <SC>I gue</SC> <SC>I ho</SC> <R>I</R> I think.</B>
+<A><F>Uh-huh</F>. But do you have one right now?</A>
+<B>No.</B>
+<A>No.</A>
+<B>I cannot have.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And</B>
+<A><OL>O K</OL>.</A>
+<B><OL><??></??></OL> I live in apartment.</B>
+<A>O K. I see. Thank you very much. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>All right. Next, I would like to try a role-play with you. O K. <F>Urm</F> please read this card to yourself. It's in Japanese. And whenever you are ready, please tell me. I will start.</A>
+<B><ctxt>the interviewee is reading the card</ctxt> O K.</B>
+<A>O K? O K. Ring ring. Hello, this is <H pn="A's name">XXX06</H>.</A>
+<B>O K. <F>Er</F> Hello, this is <F>er</F> <H pn="B's name">XXX01</H>.</B>
+<A><F>Oh</F>. Hello, Miss <H pn="B's name">XXX01</H>. What's up? How are you? <nvs>laughter</nvs></A>
+<B>I'm fine. Thank you. <F>Um</F> I have a problem.</B>
+<A><F>Ah-huh</F>.</A>
+<B>And when I came back home, I saw the window broken.</B>
+<A><F>Oh</F> <OL>that's too bad</OL>.</A>
+<B><OL><?>I don't know <R>why</R></?></OL> why it happened so can you get somebody to <SC>pre</SC> <F>er</F> repair for it?</B>
+<A><F>Urr</F> I wish I could. But you know, I'm very busy, and I'm about to leave <SC>now</SC> right now. So what about <F>er</F> maybe this weekend?</A>
+<B><F>Oh</F> it's too late. I'm sorry. <SC>But</SC> because <R>I heard</R> I heard on the weather forecast it will rain tomorrow. So <SC>I really need to get it to fix it</SC> <F>uhm</F> I need somebody to fix it.</B>
+<A><F>Urm</F> maybe you can put some newspapers <SC>on it</SC> <SC>on the wall</SC>, I mean on the window or cardboards. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><??></??></OL> <nvs>laughter</nvs> The typhoon will be here tomorrow.</B>
+<A><OL>Really</OL>?</A>
+<B><OL><?>The weather forecast say that</?></OL>.</B>
+<A><F>Ah-huh</F>.</A>
+<B>So I pay a lot of money for renting this apartment every month so I think you have to get somebody to fix it.</B>
+<A><OL><F>Well</F> O K</OL>.</A>
+<B><OL><?>I'm begging</?></OL>.</B>
+<A>Maybe then I can call the repair shop maybe <R>to</R> tonight. <OL>Would that</OL> be O K?</A>
+<B><OL><R>That will be great</R></OL> that will be great. <CO><OL>So</OL></CO>.</B>
+<A><OL>O K</OL>. <CO>So</CO>.</A>
+<B><R>Could you</R> could you call me about when he will be here?</B>
+<A>All right. Maybe few minutes later.</A>
+<B>Thank you very much.</B>
+<A>O K. <nvs>laughter</nvs> Thank you very much. All right, <H pn="B's name">XXX01</H>, that's the end of role-play.</A>
+</task>
+<followup>
+<A>So have you ever have this kind of <R>exper</R> experience before?</A>
+<B><F>Mhm</F>.</B>
+<A>Or do you have any problems in your new apartment after you moved into <H pn="others1">XXX02</H>?</A>
+<B>No, <R>not</R> not <??></??>, but <R>I</R> I like to <SC>clean my</SC> clean the house. <SC>So I use wa</SC> <SC>when I</SC> <F>er</F> <R>to clean the</R> <F>ah</F> to clean the <F>ah</F> <.></.> door, no, no, <R>front</R> front, <.></.> <CO>what is it, the front</CO>?</B>
+<A><F>Mm-hm</F>. O K.</A>
+<B><SC>The</SC> it's a <SC>space</SC> <F>uh</F> <R>door</R> door way, no. <.></.></B>
+<A><F>Ah-huh</F>.</A>
+<B><laughter>I'm sorry</laughter>.</B>
+<A><F>Ah-huh</F>. O K. That's O K.</A>
+<B><F>Urr</F> when I wash the <F>uhm</F> front door</B>
+<A>Right.</A>
+<B>with water,</B>
+<A><F>Uh-huh</F>.</A>
+<B>but there is very <SC>ss</SC> narrow or slight space.</B>
+<A>Right.</A>
+<B><SC>On the</SC> I live on the second floor.</B>
+<A><F>Ah-huh</F>.</A>
+<B>Anyhow <SC>I</SC> When I was washing the door with water, the water dripping to the first floor.</B>
+<A><F>Uhh</F> <OL>I see</OL>.</A>
+<B><OL>So then</OL> the neighbor on the first floor came up to me, and complain about it. So <SC>that was</SC> that is a problem.</B>
+<A><F>Ah-huh</F>. So were you able to solve the problem?</A>
+<B>Yes, yes. I said sorry, and I brought some <F>ur</F> little gift <OL>for her</OL></B>
+<A><OL><F>Oh</F></OL> O K.</A>
+<B><SC>so</SC> and then she forgive me.</B>
+<A><F>Oh</F> that's good.</A>
+<B>At least, <laughter>I hope</laughter>.</B>
+<A><laughter>O K</laughter>. I see. All right, <H pn="B's name">XXX01</H>, thank you very much. <F>Er</F> O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>For the last activity for today, I'm gonna show you another picture. <F>Urm</F> <SC>pictu</SC> O K, actually, picture sequence. What I'd like you to do here is to make up a story based on these six pictures. And it happened before. So please start your story with, "One day last week".</A>
+<B><F>Uh-huh</F>.</B>
+<A>Please.</A>
+<B>O K. now?</B>
+<A>Yes. <OL>Please</OL>.</A>
+<B><OL>O K</OL>. One day last week, <R>he was</R> <.></.> he was driving a car <SC>to the office</SC> to his office. And <.></.> <SC>the</SC> <F>mm</F> <.></.> he was thinking about something so <SC>he didn't</SC> <.></.> he wasn't drive a car so carefully. And on the other side, <.></.> <F>ur</F> <SC>the</SC> a boy who was riding a scooter came. Since he <F>er</F> <.></.> came, and <F>ur</F> <.></.> <SC>the</SC> he didn't notice the scooter came toward to him. Then he <..></..> attacked the boy on the scooter. <SC>He knew he was</SC> <.></.> <R>he</R> he knew he didn't drive correctly, but he was too stubborn to say sorry. So he and <F>ur</F> <SC>ss</SC> the boy on the scooter was start discussing, and <R>who was</R> who was to blame on this accident. And then but they couldn't find any solution. So they decide to call a policeman. And policeman <.></.> asked some question how the accident had happened. <..></..> Then <.></.> <SC>the policeman advised them to</SC> <F>ah</F> <F>ur</F> no, <SC>but the policeman couldn't</SC> <F>ur</F> <F>mm</F> the policeman <R>advised</R> advised <R>them</R> them to call insurance company. So <R>he called the</R> he called the insurance company, and got some <F>um</F> advises about what to do now.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> Then <SC>he</SC> <SC>the</SC> <F>um</F> <SC>they suggested</SC> <SC>they advised them</SC> <SC>ad</SC> <F>ah</F> <SC>the insurance company advised him to</SC> <F>er</F> <..></..> the insurance company <SC>said</SC> told him <F>ur</F> they would <F>er</F> solve the problem for him. So he got relieved. Then the boy <SC>on the scoo</SC> who was on the scooter, he called the <F>ur</F> <SC>bike factory</SC> car factory to bring it, and <.></.> make it.</B>
+<A>O K.</A>
+</task>
+<followup>
+<A>O K. Thank you very much, <H pn="B's name">XXX01</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. That's almost the end of the interview today. <F>Urm</F> so it's <SC>raining</SC> still raining outside. What are your plan after this?</A>
+<B><F>Oh</F> I'm going to Kichijoji</B>
+<A><F>Uh-huh</F>.</A>
+<B>to get some fabric.</B>
+<A><F>Uhm</F>. What are you going to look out?</A>
+<B><F>Um</F> <SC>some</SC> I will sew some clothes.</B>
+<A><F>Oh</F> you do. <OL><F>Wow</F></OL>.</A>
+<B><OL><R>I</R></OL> <R>I have never</R> I have never sewed any clothes. But this is the first time.</B>
+<A><F>Oh</F> <OL>really</OL>?</A>
+<B><OL>I've got</OL> <F>um</F> sewing machine so <OL>I try to sew something</OL>.</B>
+<A><OL>O K</OL>. O K. I hope you're gonna make a good things. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><??></??></OL>.</B>
+<A>O K. Thank you very much. That's the end. Thank you.</A>
+</stage5>
+</body>
+</interview>

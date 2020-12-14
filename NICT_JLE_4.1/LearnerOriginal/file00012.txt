@@ -1,0 +1,168 @@
+<interview>
+<filename>file00012.txt</filename>
+
+<head version="1.3">
+<date>1999-12-13</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step>2</step>
+<TOEIC>630</TOEIC>
+<TOEFL>420</TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>map</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. Can I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F> <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you</OL>.</B>
+<A>Nice to meet you. How are you?</A>
+<B>I'm fine, thank you. And you?</B>
+<A><F>Oh</F> yes. I'm fine, thank you, too. <F>Well</F> so <H pn="B's name">XXX02</H> where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H> <F>mhmm</F> <SC>it</SC> <F>er</F> where is <.></.> <H pn="others2">XXX04</H> <JP>ku</JP>.</B>
+<A>I see. <F>Wow</F>. So how do you come to <H pn="school name1">XXX05</H> University?</A>
+<B><F>Mhmm</F> <R>I</R> I always use subway. <F>Mhm</F> at first <R>I</R> <.></.> I use, <F>er</F> <H pn="others3">XXX06</H> line from <H pn="others1">XXX03</H> to <H pn="others4">XXX07</H> and I have to change, <F>mm</F> <.></.> <H pn="others4">XXX07</H> line, and I always use <H pn="others5">XXX08</H> Station.</B>
+<A><F>Oh</F> I see. <F>Uh-huh</F>. Then how do you come from <H pn="others5">XXX08</H> Station?</A>
+<B><F>Ah</F>. <.></.> Excuse me, one more please?</B>
+<A>So, you arrive at <H pn="others5">XXX08</H> Station,</A>
+<B>Yes.</B>
+<A>and how do you come to the campus?</A>
+<B><F>Oh</F> O K. <SC>I</SC> <F>er</F> now I'm a <.></.> <R>li</R> <R>literacy</R> <SC>literacy campus</SC> I always use literacy campus, so I just walk five minutes.</B>
+<A><F>Oh</F>. That's nice.</A>
+<B><nvs>laughter</nvs> It's very near.</B>
+<A><F>Wow</F>. I see. <F>Mmm</F>. So, <F>er</F> what is your hobby?</A>
+<B>My hobby is swimming.</B>
+<A><F>Oh</F> swimming?</A>
+<B>Yeah.</B>
+<A><OL>How</OL>?</A>
+<B><OL><??></??></OL></B>
+<A><F>Uh-huh</F>?</A>
+<B><F>Er</F> from junior high school student, I <SC>belong</SC> belonged to swimming club. And now, I belong to, <F>mm</F> swimming society. <.></.></B>
+<A>Could you tell me about the swimming society?</A>
+<B><F>Mhmm</F> <F>er</F> <.></.> <F>mm</F> <.></.> <F>er</F> <R>if I</R> <.></.> if I want to swim everyday, I can swim everyday. But, <F>mm</F> I'm very busy, <laughter>so</laughter> <nvs>laughter</nvs> <R>I</R> I swim <.></.> <R>once</R> <.></.> <F>mhmm</F> once a week. <.></.> But when <R>I</R> I take part in swimming society, I can meet many friends. So I can take a chat.</B>
+<A><F>Ah</F> that's nice.</A>
+<B>It's very enjoyable.</B>
+<A>I see. <F>Wow</F>. So you said you're very busy. <OL><R>Why are you so busy</R> why are you so busy</OL>?</A>
+<B><OL>So-so</OL>. <nvs>laughter</nvs> <F>Er</F> because I'm a junior, so <SC>I have to go <SC>job hun</SC> <SC>job</SC> <F>mm</F></SC> <SC>get job</SC> <F>er</F> I have to get a job.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So I have to study and <.></.> I have to prepare for getting a job. <.></.></B>
+<A><F>Wow</F>. So how do you prepare getting job?</A>
+<B><F>Er</F> now <R>I</R> I just write a postcard to <.></.> company. <.></.> <F>Mhmm</F> and <F>mmm</F> and <.></.> <SC>on Ap</SC> from <.></.> April, I have to take a examination <.></.> to test a common sense.</B>
+<A><F>Oh</F> I see. <F>Wow</F>. <nvs>laughter</nvs> Is it difficult?</A>
+<B>Yes. Just a little bit.</B>
+<A><F>Oh</F>.</A>
+<B>And <R>I have to</R> I have to study mathmatics. But I'm <nvs>laughter</nvs> <??></??>. <laughter>I didn't study</laughter>.</B>
+<A><F>Oh</F>.</A>
+<B>And <R>I</R> I don't like mathmatics.</B>
+<A>I understand. You have to study again.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. Thank you. Let me go to picture.</A>
+<B>O K.</B>
+<A><F>Uh-huh</F>.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>Could you describe this picture?</A>
+<B><F>Mhmm</F>. <.></.> <F>Mmm</F>. There are two rivers. <F>Mm</F> <.></.> one of them is south river and another is north. And <.></.> the one train station <SC>and bus</SC> <F>er</F> <.></.> <F>mm</F> <.></.> and there are only one train station. <..></..> <JP>nnto</JP> There is a riverside park next to north river and <.></.> riverside park is near zoo. <.></.> And <.></.> <F>er</F> if I across the zoo, <.></.> <F>mm</F> I can go bank and offices. <.></.> <F>Mhmm</F>. <.></.> And if <R>I</R> <.></.> I use Route <.></.> four-four-four, <.></.> <F>mm</F> <.></.> <F>ee</F> <.></.> I can go post office and movie theaters and bus station.</B>
+<A>I see. Thank you very much. Is that all?</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>Yes. Thank you very much. O K. So could you compare this city and your city now you're living?</A>
+<B><F>Oh</F> O K. <F>Mhmm</F>. <.></.> <R>My</R> my city <R>is</R> is a <.></.> bed town. So <F>mm</F> there are only two supermarkets and two convenience store and one restaurant only.</B>
+<A><F>Mhm</F>.</A>
+<B>So <R>if I</R> <F>er</F> <SC>if I <.></.> can</SC> if I want to go, <.></.> <F>mm</F> zoo or hospital, <F>mm</F> I have to use a train, so, <F>mm</F> <.></.> I think <.></.> <SC>this city</SC> this map's city <.></.> <R>i</R> is more convenient <.></.> than my town.</B>
+<A>I see. <F>Mhmm</F>. You said bed town? What is bed town?</A>
+<B><F>Ah</F> <.></.> there are <.></.> <R>many</R> many home and apartment.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uh-huh</F>. I see. Thank you. So, let me go to the role play.</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K? Please read this, and when you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>Hello.</A>
+<B><.></.> Hello. This is <H pn="B's name">XXX02</H>.</B>
+<A>Yes?</A>
+<B><F>Mmm</F>. <.></.> I'm sorry that I can't go your party, because, <.></.> <F>mm</F> <.></.> <R>tomorrow</R> tomorrow, I have to take a examination, so I have to study very hard.</B>
+<A><F>Oh</F>. Probably it's busy, but you can study before the party.</A>
+<B><nvs>laughter</nvs> <R>Before the</R> <F>mmm</F> before the dinner party. <F>Mhmmm</F>. But, <F>mm</F> <.></.> <R>on</R> on the day time, I have to go <.></.> to <H pn="school name1">XXX05</H> University and I have to attend my class. So I have to study, <.></.> <F>mm</F> <SC>I ha</SC> <R>I</R> I can't prepare for the examination.</B>
+<A><F>Oh</F> I see. Yeah, but maybe you can come one hour to the party.</A>
+<B><F>Mhmm</F>. <.></.> <R>But</R> <.></.> <F>a</F> but, <F>er</F> <SC>from</SC> <F>a</F> it takes one or two hour to go to your home. So, <.></.> <F>mm</F> I have no time. <.></.></B>
+<A><F>Oh</F> maybe you can study after party.</A>
+<B><laughter>No</laughter>. If I attend your party, <F>mm</F> <R>I</R> <SC>I want to</SC> <R>I wan</R> <.></.> I want to talk with my friend and I want to eat too much, and, <F>mm</F> if I attend your party, I want to drink alcohol. <nvs>laughter</nvs> So <SC>I</SC> <.></.> <F>mm</F> maybe I drunk. So,I can't. Sorry.</B>
+<A>I understand. Yes. O K. So please study hard.</A>
+<B>Thank you.</B>
+<A>And we have another party soon. So please come.</A>
+<B>Yes. <R>I</R> I'm glad to. Thank you.</B>
+</task>
+<followup>
+<A>Thank you. <??></??> end of the role play. Do you like parties?</A>
+<B><F>Ah</F> yes.</B>
+<A><F>Mhmm</F>.</A>
+<B><F>Mm</F>. <.></.> <F>Er</F> actually yesterday my friends come to my house and we <R>ta</R> talked <SC>all night</SC> <F>a</F> at the midnight. <SC>An</SC> so I feel very sleepy today. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> <F>Oh</F>. So, how did you prepare the party?</A>
+<B><F>Mhmm</F>. I always cook dinner, <.></.> <F>mm</F> because <R>I</R> I like cooking. <.></.> So, <R>I</R> I prepare for dinner and, <F>mm</F> <R>I</R> I like chocolates <laughter>so</laughter> I always go to supermarket and <R>I</R> <SC>I bu</SC> <R>I</R> I buy many sweets.</B>
+<A>I see. <F>Oh</F>.</A>
+<B>I eat too much. <nvs>laughter</nvs></B>
+<A>I see. <nvs>laughter</nvs> It must be fun.</A>
+<B>Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Thank you. O K. Let me go to the last picture.</A>
+<B>O K.</B>
+<A>So. <F>Well</F>. O K</A>
+<ctxt>The interviewer is taking out a picture.</ctxt>
+<A>This one. O K. This is a picture sequence from number one through six.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Could you tell me about this story? And it was "One day last week".</A>
+<B>O K.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Mhmm</F>. One day last week, <R>I met</R> <F>ah</F> he met with his uncle. And they go to, <F>mm</F> <.></.> <SC>one restaurant</SC> one nice restaurant. <.></.> <F>Mhmm</F>. <R>And</R> <.></.> and <.></.> <F>mm</F> he ordered <.></.> many foods what he want to eat, <.></.> <R>and</R> <.></.> <F>er</F> and they eat <.></.> some chicken and fishes and salad. And, <.></.> <F>mm</F> <R>he</R> he drank beer and his uncle drank, <.></.> I think <SC>wine</SC> <F>mm</F> white wine. And after that, <F>mm</F> <.></.> he was full and satisfied <SC>his</SC> <F>er</F> their dinner. And <SC>his uncle, <.></.> <F>er</F> paid</SC> <F>mm</F> <.></.> <F>ah</F> his uncle <R>tre</R> treated him. <F>Mhmm</F>. <.></.> And after <SC>tha</SC> <F>mm</F> <SC>his payment</SC> his uncle's payment, <.></.> they say goodbye.</B>
+</task>
+<followup>
+<A><F>Mhmm</F>. I see. Thank you very much. O K. <F>Oh</F> <F>er</F> <F>oh</F> do you often go restaurants?</A>
+<B><.></.> <F>Mmm</F> no. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> <OL>Why</OL></A>
+<B><OL><laughter>I always</OL> use <JP>family restaurant</JP></laughter>.</B>
+<A><F>Oh</F>.</A>
+<B><laughter>Because it is very cheap</laughter>.</B>
+<A>I see. <F>Uhmm</F>. You said the uncle paid the money for him.</A>
+<B>Yes.</B>
+<A>What do you think about it.</A>
+<B><F>Er</F>.</B>
+<A>Paying money or treating <?>somebody</?>.</A>
+<B><F>Ahh</F>. <F>Mhmm</F>. If I were him, <R>I fe</R> I feel very lucky. <nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs> <F>Mhmm</F>.</A>
+<B>And, <.></.> <F>mm</F> <SC>if <R>I</R> <.></.> I become older</SC> when I become older, <.></.> I have to pay for my nephew or nephew <.></.> and younger man or lady.</B>
+</followup>
+</stage4>
+<stage5>
+<A>I see. <nvs>laughter</nvs> So when you, <F>ah</F> That's right. <F>Ah</F> it's almost end of the interview. Sorry. Thank you very much. <F>Ah</F> so after this interview, it's about eleven fifteen. So, what would you like to do?</A>
+<B><F>Mhmm</F>. I have to attend <.></.> my class, but it begins <SC>one A P</SC> <F>m</F> one P M. So, <F>mhm</F> <.></.> after that, <R>I</R> I have to study, <F>mm</F> <.></.> about Korea <.></.> because, <F>mm</F> <.></.> <R>the cla</R> <SC>that class is</SC> <SC>is</SC> <.></.> <R>that class</R> <SC>that class is</SC> <.></.> <F>mm</F> <.></.> <SC>is <.></.> stra</SC> <F>a</F> <JP>chigau</JP>, is about Korea. <nvs>laughter</nvs></B>
+<A><F>Oh</F> I see.</A>
+<B><laughter>Sorry</laughter>.</B>
+<A><F>Wow</F>. Good luck.</A>
+<B><OL>Thank you</OL>.</B>
+<A><OL><?>You must study</?></OL>. Thank you very much.</A>
+<B>Thank you very much.</B>
+<A>End of the interview.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

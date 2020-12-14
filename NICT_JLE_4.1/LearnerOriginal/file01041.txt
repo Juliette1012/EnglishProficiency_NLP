@@ -1,0 +1,185 @@
+<interview>
+<filename>file01041.txt</filename>
+
+<head version="1.3">
+<date>2002-03-07</date>
+<sex>female</sex>
+<age>49</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>485</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good morning.</A>
+<B>Good morning.</B>
+<A><F>Er</F> my name is <H pn="A's name">XXX01</H>, can I have your name please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you.</B>
+<A>How are you <F>er</F> today?</A>
+<B><F>Oh</F> I'm <F>mm</F> <F>er</F> I'm very well but a little <??></??> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>A little nervous. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> O K, so are you busy now?</A>
+<B><F>Ah</F> yes, <F>um</F> very busy. <OL><F>Mm</F></OL>.</B>
+<A><OL>O K</OL>, <F>er</F> could you tell me about your job?</A>
+<B><SC>My job is</SC> <F>mm</F> <R>I'm</R> I'm <F>mm</F> working for <H pn="company name1">XXX03</H> Corporation but Finance Department and <F>mm</F> I'm accountant in my company.</B>
+<A>O K, how do you like your job?</A>
+<B><F>Um</F>, yes <F>uh</F> I like my job <nvs>laughter</nvs> because I work for a long time.</B>
+<A>But <F>er</F> are you <??></??> so do you work from Monday through Friday?</A>
+<B><F>Ah</F> yes.</B>
+<A>O K. What do you usually do on your weekends?</A>
+<B>Weekend? <F>Mm</F> I usually <F>mm</F> <.></.> I usually go shopping near my house.</B>
+<A>I see. And anything else?</A>
+<B>Anything <F>mm</F> sometimes <F>mm</F> <F>er</F> I do <..></..> gardening.</B>
+<A><F>Ah</F>, do you like gardening?</A>
+<B><F>Ah</F>, yes.</B>
+<A><F>Oh</F> really? <F>Wow</F>. What is good about gardening for you?</A>
+<B><F>Mm</F> <..></..> I plant <F>mm</F> many flowers and <F>er</F> I'm <F>mm</F> looking forward to <F>mm</F> growing their flowers.</B>
+<A>O K. Spring has come <OL>so</OL></A>
+<B><OL><F>Oh</F> yes</OL>.</B>
+<A>it's very <R>good</R> <OL>good season</OL>.</A>
+<B><OL><F>Oh</F> yes</OL>. Good season.</B>
+<A>I think so. So <F>er</F> <SC>do</SC> where do you live now?</A>
+<B>I live in <H pn="others1">XXX04</H> <F>m</F> which locate is <F>mm</F> southern Osaka. It takes <R>about</R> <F>m</F> about fifteen minutes from here.</B>
+<A><F>Oh</F> so do you <F>er</F> live with your family?</A>
+<B><F>Ah</F> yes. <F>Uh</F>, I have <F>mm</F> one <F>m</F> I have my husband. Only <R>two</R> two members.</B>
+<A><F>Oh</F> really? O K, could you tell me about your husband?</A>
+<B>My husband <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>oh</F> <F>mm</F> he is very <?>hearn</?> and honest and <F>mm</F> <R>he is</R> he is fifty years old but he looks so <R>young</R> young.</B>
+<A><nvs>laughter</nvs></A>
+<B>Younger than his age. <nvs>laughter</nvs> And he works at the electrical company. <R>He</R> he is very busy, too. So he <R>co</R> comes <F>mm</F> home <F>mm</F> about <F>mm</F> ten or eleven o'clock everyday.</B>
+<A><OL>Everyday</OL>?</A>
+<B><OL>Yeah yes</OL>. Very busy. Now, especially very busy.</B>
+<A>Especially now?</A>
+<B>Now. Yeah.</B>
+<A><F>Mm</F>. But do you often <R>go</R> go out with him?</A>
+<B><F>Mm</F> <F>m</F> <laughter>no</laughter> <F>m</F> <R>ye</R> yes.</B>
+<A>Yes? Go out with <OL>him</OL>.</A>
+<B><OL>Go</OL>, <R>ye</R> yes.</B>
+<A><F>Ah</F> <SC>what</SC> where?</A>
+<B><F>Mm</F> <F>oh</F> <R>last</R> last week, <F>mm</F> <F>mm</F> <SC>we go</SC> <F>uh</F> we went out <F>mm</F> to see the musical and go out dinner.</B>
+<A><F>Oh</F> really?</A>
+<B>Yeah.</B>
+<A>Did you enjoy it?</A>
+<B><F>Ah</F> yes. I do.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. That's good. O K, thank you very much. Now, I'll show you a picture here. So please describe this picture.</A>
+<B><F>Mm</F> <F>mm</F> this is <F>er</F> picture of restaurant. <JP><F>Eeh</F></JP> <.></.> <F>er</F> <F>mm</F> many people in this picture. They are <F>mm</F> enjoying dinner at this restaurant. <F>Mm</F> there are <F>mm</F> three round tables <F>mm</F> and <F>mm</F> they are sitting in <.></.> <R>one</R> <F>mm</F> one table is sitting <SC>two co</SC> <F>uh</F> one couples <F>mm</F> <F>mm</F> and <F>mm</F> <R>there</R> <F>er</F> <SC>there is a very</SC> there is a piano <F>mm</F> <F>mm</F> near the entrance and <F>mm</F> there is a big clock <F>mm</F> next to the piano. <F>Mm</F> one couple <F>mm</F> is <SC>enjoying <F>mm</F> the wine</SC> <F>er</F> enjoying red wines and <JP><F>eeh</F></JP> the gentleman is tasting the wine. <F>Mm</F> <JP><F>eeh</F></JP> he is wearing the <SC>yellow suit</SC> yellow suits and <F>mm</F> <.></.> the lady is <F>mm</F> <SC>wearing the pink suit</SC> <F>er</F> wearing the one piece <F>m</F> <R>with</R> <.></.> with necklace and <JP><F>eeh</F></JP> <F>mm</F>. <..></..> The other couple is enjoying the <F>mm</F> <R>st</R> <SC>steak</SC> beef steak. I think so.</B>
+</task>
+<followup>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A>Thank you very much. Thank you.</A>
+<B>O K.</B>
+<A>Do you like this kind of atmosphere in a restaurant?</A>
+<B><F>Ah</F> yeah. I like.</B>
+<A>How do you like it?</A>
+<B><F>Er</F>, <R>I</R> I like <F>mm</F> especially Italian restaurant.</B>
+<A><F>Hmm</F>. Why do you like Italian restaurant?</A>
+<B><F>Er</F> Italian foods is very nice.</B>
+<A><F>Uh-huh</F>. And?</A>
+<B>And <F>mm</F> I like wine so <F>mm</F> I enjoys <F>mm</F> wine and Italian foods.</B>
+<A><F>Ah</F>, yes. So did you enjoy wine and food with your husband?</A>
+<B><F>Ah</F>, yes.</B>
+<A>Last weekend? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs> Last weekend</OL>. <R>Yeah</R>, yeah.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Thank you very much. Now, we'll do a role-play. So please read this card and when you're ready, I'll start.</A>
+<ctxt>The interviewee is reading the card and thinking for a while.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A><nvs>cough</nvs> Hello. May I help you?</A>
+<B>Hello. I'd like to New York. How will get <F>mm</F> New York <F>m</F> <R>wha</R> <F>mm</F> <R>what</R> what train <R>can</R> can I ride?</B>
+<A>O K. You can take <F>er</F> super express train or express train to go to New York.</A>
+<B>How long <F>mm</F> does it take to New York by <JP><F>eeh</F></JP> express?</B>
+<A><F>Er</F> three hours.</A>
+<B>Three hours. <F>Oh</F>, how much <SC>is it</SC> does it cost?</B>
+<A>It's fifty dollars.</A>
+<B>Fifty dollars. One way ticket?</B>
+<A><F>Uh-huh</F>.</A>
+<B>O K. <.></.> I will take it.</B>
+<A>Express train?</A>
+<B>Express train.</B>
+<A><OL>O K</OL>?</A>
+<B><OL><F>Uh-huh</F></OL>. <R>What will</R> what will it start?</B>
+<A><F>Ahh</F> the time? O K, now, it's twelve o'clock and <F>oh</F> it's two thirty.</A>
+<B>Two thirty. <F>Oh</F>. <F>Mm</F> O K. Two thirty.</B>
+<A>Is it O K?</A>
+<B>O K. <OL><F>Uh-huh</F></OL>.</B>
+<A><OL>O K</OL>. One?</A>
+<B><F>Mm</F> <F>er</F> one ticket <OL>please</OL>.</B>
+<A><OL>O K</OL>. Smoking or non-smoking?</A>
+<B><F>Um</F>, non-smoking, please.</B>
+<A>O K. Let me check. <F>Um</F> I'm sorry we don't have any ticket in the non-smoking area.</A>
+<B>Non-smoking area. <F>Um</F> O K. Then smoking area, do you have?</B>
+<A><F>Er</F> yes.</A>
+<B>O K. I'll take it.</B>
+<A>Is it O K?</A>
+<B>O K.</B>
+<A>O K. And this is your ticket. So how do you want to pay?</A>
+<B><F>Uh</F>, I pay by cash.</B>
+<A>Cash. O K. So fifty dollars. Here you are.</A>
+<B>Thank you very much.</B>
+<A>Thank you very much. Have a nice trip.</A>
+<B>Thank you very much.</B>
+<A><OL>O K</OL>.</A>
+<B><OL>Bye</OL>.</B>
+</task>
+<followup>
+<A>Bye. O K. Now, that's the end of role-play. Thank you very much. O K, do you often <SC>traveling</SC> travel?</A>
+<B><F>Er</F> yes. I often travel.</B>
+<A>O K. <SC>Wha</SC> <F>er</F> which country do you like best?</A>
+<B><F>Er</F> I like <F>mm</F> <SC>France</SC> <SC>Fren</SC> France.</B>
+<A>France?</A>
+<B>France, <F>mm</F> yeah.</B>
+<A>O K. Why do you like France best?</A>
+<B><F>Oh</F> France because <F>mm</F> <F>uh</F> France there is many beautiful place and <F>mm</F> I went to southern France. It's very nice, <F>mm</F> it's warm and <F>mm</F> it's <R>na</R> nature is very nice so I like.</B>
+<A>How about people in France?</A>
+<B><F>Mm</F>, <laughter>people</laughter> is not so like <nvs>laughter</nvs> <OL>because</OL></B>
+<A><OL>Why</OL>?</A>
+<B>because <F>mm</F> <SC>they s</SC> they don't speak English.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Mm</F> <SC>they only</SC> they speak <F>mm</F> only French so I can't understand them.</B>
+<A><F>Ah</F> did you have any trouble?</A>
+<B><F>Ah</F> yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><R>Yes</R> yes. When <R>I</R> I went to a <F>mm</F> department store and I pay <F>mm</F> by Japanese yen, but <F>mm</F> <R>they</R> they say something but <SC>I can't understand</SC> <F>uh</F> I couldn't understand them so I couldn't pay by Japanese yen. So <R>I paid</R> I paid French Franc.</B>
+<A>Did you have some <F>er</F> French <R>F</R> Franc?</A>
+<B><SC>A little</SC>. <OL><SC>Little</SC> a little so</OL></B>
+<A><OL>A little</OL>. <nvs>laughter</nvs> Do you <R>wan</R> wanna <SC>visit again</SC> visit France again?</A>
+<B><F>Er</F> <R>ye</R> yes. <R>Sometime</R> sometime I want again.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Thank you very much. Now, I'll show you another picture. Here you are. So please make up your own story from one to six. And this happened last week, so please start your own story with "One day last week".</A>
+<ctxt>The interviewee is thinking for a while.</ctxt>
+<B><F>Hmm</F>. <..></..> Last week, I went to the department store to buy <F>mm</F> something to present for my husband. My husband's <F>mm</F> birthday is <F>mm</F> in March so <F>um</F> <SC>I'm thin</SC> I was thinking about to present for him some neckties. <.></.> <F>Um</F> <R>I went the</R> <F>mm</F> <..></..> I went the corner of <F>mm</F> <F>mm</F> gentleman's <F>mm</F> booth to sell <SC>so</SC> and <F>mm</F> <R>I</R> <F>mm</F> <R>I</R> <R>I</R> I was asking for the clerk <R>to choose</R> to choose some neckties. <..></..> He showed me "How about <F>mm</F> <R>this</R> <F>mm</F> this neckties?" like a green color <R>with paisley</R> <F>mm</F> with paisley. Yeah. <R>I</R> I thought <R>it's <F>mm</F> good</R> it's good for him so I decided to buy it and <SC>I put</SC> <F>mm</F> I asked <SC>he</SC> the clerk <F>uh</F> to wrap <F>er</F> with ribbon <R>and</R> and <R>I paid</R> <F>mm</F> <F>uh</F> I paid ten thousand yen. It's little expensive for me but that's O K. <SC>So</SC> and <R>I</R> <SC>I get the necktie</SC> I got the necktie and then <F>mm</F> the department <F>mm</F> had a final sale so I <F>mm</F> want something for me so I <F>mm</F> go upstairs for lady's floor and <SC>I</SC> <F>mm</F> I'm looking something for me. <.></.> The shoes are final sale, <R>thir</R> <JP><F>eeh</F></JP> thirty percent off <F>mm</F>. <SC>I'm look</SC> <F>mm</F> I'm checking but I didn't buy them and there, I went to the <F>mm</F> <..></..> lady's <SC>casuals</SC> <R>casual</R> casual wear's floors and <F>um</F> <SC>they have</SC> they had a sale <F>mm</F> <SC>five per</SC> <SC>five cen</SC> five percent off so <F>mm</F> <R>I</R> <F>mm</F> <SC>I showed</SC> <.></.> I checked the nice sweater and <R>I want</R> <F>mm</F> I want it and I'm checking <F>mm</F> <R>other</R> <F>mm</F> other wears but I wanted <F>mm</F> <R>this</R> this one so <SC>I decided it</SC> I decided to buy it and <F>mm</F> I have many <F>mm</F> bags <.></.> bringing and <SC>I ge</SC> <F>uh</F> <SC>I go home</SC> <R>I</R> I went home.</B>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you very much. Thank you. Now, it's almost the end of interview. So <F>er</F> do you have any plans to visit France <laughter>in the future</laughter>?</A>
+<B>In the future. <F>Mm</F> <F>er</F> <R>I like</R> <F>mm</F> I like to watch the <F>mm</F> <??></??> <??></??> <F>mm</F> <..></..> so <R>I</R> <R>I</R> <R>I'm</R> I'm <SC>going to the</SC> <F>mm</F> go to the museum.</B>
+<A><F>Mm</F> nice. O K. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

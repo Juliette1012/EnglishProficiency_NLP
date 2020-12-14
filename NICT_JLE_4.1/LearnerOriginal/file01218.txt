@@ -1,0 +1,264 @@
+<interview>
+<filename>file01218.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step>1</step> 
+<TOEIC>965</TOEIC> 
+<TOEFL>273</TOEFL>
+<other_tests></other_tests> 
+<SST_level>9</SST_level> 
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>invitation_advanced</SST_task3>
+<SST_task4>car accident</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. Good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>.</A>
+<B><F>Uh</F>. <CO><OL>My</OL></CO>.</B>
+<A><OL>May</OL> I ask your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B><F>Oh</F> yeah, sure.</B>
+<A>How are you today?</A>
+<B><F>Er</F> I'm fine, I guess.</B>
+<A>O K. So did you have classes today?</A>
+<B>Yes. <F>Um</F> <F>well</F> I have a class right now but I'm here to take this test. <CO>So</CO>.</B>
+<A><F>Uh</F> really?</A>
+<B>Yes.</B>
+<A>O K. Thank you. Thank you for coming.</A>
+<B><F>Hm</F>. <OL><nvs>cough</nvs></OL></B>
+<A><OL>And</OL> <nvs>cough</nvs> <F>er</F> what do you usually do <SC>after class</SC> after school?</A>
+<B>After school? <F>Um</F> these days I usually go to my part-time job. <F>Um</F> I work at <H pn="company name1">XXX03</H> coffee shop. I think you know it. I work at our place, <H pn="others1">XXX04</H>. And I guess that's all I <laughter>do these days</laughter>.</B>
+<A>I see. You have a part-time job <OL>at a</OL> <F>ur</F> coffee shop?</A>
+<B><OL>Yeah</OL>. Yes.</B>
+<A>O K. And how did you find the part-time job?</A>
+<B><F>Oh</F> I was just looking for some kind of job that I could do after school on the Internet and I just found the job by chance, I guess. <SC>It's like</SC> <SC>I wasn't expecting to work</SC> I wasn't expecting to <SC>just look</SC> just like find a coffee shop, <R>I was just</R> I was just looking around.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I just saw it on the Internet. I thought "<F>Oh</F> maybe I could work here.".</B>
+<A><F>Oh</F> you used Internet.</A>
+<B>Yes.</B>
+<A><F>Ah</F> I see.</A>
+<B><nvs>sniff</nvs></B>
+<A>O K. And <F>er</F> what do your parents say about your job? <nvs>cough</nvs></A>
+<B>My job? <F>Er</F> <F>well</F> at first, <laughter>they were</laughter> against it, so, yeah, I guess they didn't really like it at first. <R>But</R> but I think they got used to it. <OL>Yeah</OL>.</B>
+<A><OL><F>Oh</F></OL> really. O K. So did you or how did you persuade them?</A>
+<B>I didn't exactly persuade them. I just started working and they had to let me work because I already started the job. I mean I guess they have to learn that I'm growing up as well and then I'm old enough to make my own decisions.</B>
+<A><F>Oh</F> that's good. O K. And do you have any hobbies? What do you do</A>
+<B><F>Um</F>.</B>
+<A>in your free time?</A>
+<B>My hobbies are reading books, watching movies or shopping with my friends.</B>
+<A><F>Mh-hmm</F>. O K. I see. <F>Um</F> did you see any movies recently?</A>
+<B>Yes. I just saw "The Last Samurai.".</B>
+<A><F>Hmm</F>. So how did you think of it?</A>
+<B>Thought that was <F>um</F> <R>ve</R> very nice movie. <F>Um</F> it made me understand the Japanese culture more. I didn't really understand it before because <F>well</F> I've never really lived long enough in Japan to experience that.</B>
+<A><F>Hm</F>.</A>
+<B>And it made me see why the Japanese are the way they are.</B>
+<A><F>Mh-hmm</F>. O K. So <R>why</R> why do you think <F>er</F> the movie is <F>er</F> very popular even in America?</A>
+<B><F>Oh</F> <SC>I think</SC> <F>well</F> the reason why it's popular in America is because <F>well</F> the Westerners, they like these Japanese kung fu and samurai swords. <R>They</R> they're interested in things like that</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>because</OL> they don't have them over there. So I think, yeah, that's why they're like so into the samurai spirit over there.</B>
+<A><F>Mh-hmm</F>. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, I'd like to show a picture here. O K. Please describe this picture for me.</A>
+<B>This picture. <F>Well</F> it's a very nice day. <F>Um</F> the children are playing outside. And this man's taking a jog. I guess he's trying to work out. And these two women are chatting on the street. And this woman was just walking her dog and, I guess, she met this woman who was just going to her car or something. And this man is out in his yard and he's reading a newspaper.</B>
+<A><F>Hm</F>. Thank you very much.</A>
+<B>O K.</B>
+</task>
+<followup>
+<A>Where do you live, <H pn="B's name">XXX02</H> <JP>san</JP>?</A>
+<B><F>Um</F> I live in <H pn="others2">XXX05</H> <JP>ku</JP>. <OL><SC>You know</SC></OL></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B>do you know <H pn="others3">XXX06</H>?</B>
+<A><F>Er</F> a bit. <OL>O K</OL>.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A>Is your neighborhood really different from this one?</A>
+<B>Yes. There're a lot more houses. I mean there's no open space <OL><?>for jogging</?></OL>.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B>And I think the houses are <R>bi</R> bigger than this. <F>Well</F> they're a bit taller.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yeah, I think. And <SC>the wo</SC> the roads are much <SC>s</SC> narrower</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>than they are</OL>. And from this picture, I think, <SC>this is</SC> this looks like a neighborhood in America or somewhere in</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>Canada</OL> or somewhere.</B>
+<A>O K. Why do you think so?</A>
+<B><F>Well</F> the roads are much wider and the houses are spaced wide apart, which means that they have more room in which to construct the house.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>And in</OL> Japan, you don't have that kind of room.</B>
+<A><F>Mh-hmm</F>. O K. So you must have lived in America.</A>
+<B>Yes. I lived in <H pn="others4">XXX07</H> <OL>for seven years</OL>.</B>
+<A><OL><F>Oh</F> you lived in</OL> <H pn="others4">XXX07</H>.</A>
+<B>Yes.</B>
+<A>O K. So when you started living in Japan, what did you think about your neighborhood</A>
+<B><OL>My neighborhood</OL>.</B>
+<A>in <H pn="others5">XXX08</H>?</A>
+<B><F>Um</F> <F>well</F> I was glad that there was a lot of greenery around me. <F>Urm</F> <F>well</F> and <SC>I felt that</SC> <F>well</F> I wasn't so much concerned about my neighborhood. It's just that my house seemed really small. <?>I mean</?> <R>th</R> <SC>the ceilings over there are much bigger</SC> <F>well</F> not bigger, the ceilings over there are much higher than the ones that are over here. And when I came back, I felt like I had grown or everything had shrunk.</B>
+<A>O K. All right. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's have a role-play.</A>
+<B>O K.</B>
+<A>All right? O K. Here you go. This is your card. Please read it to yourself and when you are ready, I will start the conversation.</A>
+<B>O K. <ctxt>The interviewee is reading the card</ctxt>. All right.</B>
+<A>O K. This is telephone conversation. O K? Trun, trun. Katch. Hello?</A>
+<B>Hello? <F>Um</F> this is <H pn="B's name">XXX02</H> speaking.</B>
+<A><F>Oh</F> <H pn="B's name">XXX02</H>. What happened?</A>
+<B><F>Well</F> unfortunately, I had a car accident on the way to your party.</B>
+<A>O K.</A>
+<B>And I had lost a wheel on my car and I couldn't get it to move, so I had to call a mechanics to come and tow my car to the gas station. And by the time they had finished fixing my car, your party had ended.</B>
+<A><F>Oh</F> but <F>ah</F> the party has just started. And <F>er</F> how long do you think it will take?</A>
+<B>I'm not sure. I guess maybe it'll take about thirty minutes. But <..></..> this party had already started?</B>
+<A>Yeah. <?>Has</?> just started.</A>
+<B>It's just started?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Oh</F>. <.></.> <F>Well</F> I guess I can show up in about twenty minutes.</B>
+<A><F>Oh</F> really?</A>
+<B>But it depends on how my car is working.</B>
+<A><F>Ah</F> I see. But did you call the mechanic already?</A>
+<B>Yes. I called them and they towed my car to the gas station.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And they're trying to fix it right now.</B>
+<A>O K. Then <F>er</F> maybe in thirty minutes or so you can come to my house?</A>
+<B>Yes, <SC>I will</SC> I hope that I can go to your house in thirty minutes</B>
+<A><F>Mh-hmm</F>.</A>
+<B>if that is possible.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I will do my best to go there as quickly as possible.</B>
+<A>O K. So we are all waiting for you.</A>
+<B>All right.</B>
+<A>O K. Hurry up. <OL><F>Uh-huh</F></OL>.</A>
+<B><OL>O K</OL>.</B>
+<A>But be careful. <F>Hm</F>.</A>
+<B>O K. <OL>Thank you</OL>.</B>
+<A><OL><F>Uh-huh</F></OL>. And how do you come over my house?</A>
+<B><F>Well</F> as soon as they fix my car, <OL>I plan to go over there</OL>.</B>
+<A><OL><F>Uh-huh</F> <F>mh-hmm</F></OL>.</A>
+<B>And I don't see any bus stations around, <OL>so</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B>I guess that's the only way I can go to the party.</B>
+<A><F>Uh-huh</F>. So but <F>er</F> if the car needs more kind of fixing,</A>
+<B><OL><F>Well</F> <F>mm</F></OL>.</B>
+<A><OL><?>change your</?> parts or</OL> something,</A>
+<B><OL><F>Well</F> then</OL></B>
+<A><OL>what would you</OL> do?</A>
+<B>perhaps then I'll call a taxi or something or perhaps the gas station will call taxi for me and I can catch that.</B>
+<A><F>Mh-hmm</F>. O K. So I'll be waiting.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>Thank you</OL> for calling, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>O K</OL>. No problem.</B>
+<A>All right. Thank you. All right. The role-play is over. O K. Thank you.</A>
+</task>
+<followup>
+<A>So do you often have a party with your friends?</A>
+<B><F>Um</F> no. In Japan, <SC>there're</SC> <SC>there are not</SC> like we don't hold parties <SC>in your house</SC> in our houses, to me because Japanese houses are <laughter>small, <OL>so</OL></laughter></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B>I mean, I don't know. Even when I went to international school, my friends' houses were also small. We couldn't hold parties</B>
+<A><F>Mh-hmm</F>.</A>
+<B>inside our houses.</B>
+<A>I see. So do you think the reason why <SC?>woul</SC?> <F>er</F> Japanese people don't have a party so often is the size of the house?</A>
+<B>Probably yes. Because I mean, you can't fit <laughter>very many</laughter> people inside a small house.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And everyone will be squashed. So <F>well</F> unless you know somebody who's really rich and has a big house,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I don't think you can have a party in Japan.</B>
+<A><F>Mh-hmm</F>. You can have a party at a restaurant or <OL>cafe</OL>.</A>
+<B><OL><F>Ah</F></OL> but <R>that's</R> that's kind of a bother, isn't it? I mean, at a house <SC?>y</SC?> the hostess or host could <R>just</R> just weave up something and just play a little music and it'll just be a nice home party. I mean going to a restaurant or like renting out a place would take money or take time as in planning.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So I think <laughter>it's a lot of</laughter> trouble going through them.</B>
+<A>O K. Then so tell me about your typical party when <R>you ha</R> <F>er</F> you had in <H pn="others4">XXX07</H>.</A>
+<B><F>Well</F> we usually had dance parties at my friends' house. <F>Um</F> <F>well</F> my friend had this really big room. And we all used to go there and she played some music. And we order out for pizza and <F>well</F> she would have this cake always. And, you know, it was pretty much just dancing and eating.</B>
+<A><F>Mh-hmm</F>. O K. Then when you <F>er</F> have to cancel a party or something <R>like</R> like this card,</A>
+<B>Yeah.</B>
+<A><F>uh-huh</F> what would you do?</A>
+<B>If I was a host?</B>
+<A><F>Er</F> yes. If you were a host, what would you feel?</A>
+<B>If I had to cancel a party?</B>
+<A><F>Ah</F> no, no, no. So <R>you</R> you invited some friends. <OL>And <F>er</F></OL></A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>some of them or one of them <F>uh</F> called you.</A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A><OL><F>Er</F></OL> that <SC>you couldn't</SC> <F>er</F> she couldn't or he couldn't come</A>
+<B><F>Uh-huh</F>.</B>
+<A><F>er</F> at the last minute.</A>
+<B>Yeah.</B>
+<A><F>Hm</F>.</A>
+<B>What would I feel?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Well</F> I'd say <SC>that <SC>it's</SC> you know, <SC>acci</SC> <F>well</F> these things can happen</SC> unexpected will happen and <F>well</F> I guess I would respect her, you know, I wouldn't be mad and then say "Why aren't you coming to the party, <R>we</R> we had a plan especially for <??></??>.". But I would just be understanding and say "<F>Well</F> I hope you come to the next one.".</B>
+<A><F>Mh-hmm</F>. O K. All right. Thank you.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. <SC>S</SC> now, I want to show you one more picture. <OL>O K</OL>?</A>
+<B><OL>Right</OL>.</B>
+<A>This time, please make a short story based on these six pictures. But this happened last week.</A>
+<B><F>Uh-huh</F>.</B>
+<A>So please start your story with "One day last week".</A>
+<B>One day last week. <F>Hm</F>. <F>Well</F> one day last week, <F>um</F> this man was driving along in his car. And he was just minding his own business and he was listening to some music. And from the other way, <SC>comi</SC> on coming lane, this man driving a motorcycle, <F>well</F> he was talking on the phone with his girlfriend, so he didn't exactly see what was going on around him. And this person's car and the motorcycle happened to crash. <nvs>sniff</nvs> And when they did crash, the man in the car broke the motorcycle's <SC>h</SC> tail light and <SC>the man on the motorcycle call <SC>ss</SC> <?>hi</?></SC> <F>mm</F> <SC>the mons</SC> <SC>the man's</SC> <F>mm</F> the man on the motorcycle's cellular phone bumped against the car and dropped onto the ground. And the owner of the motorcycle was really angry at the person in the car for breaking his tail light and breaking his cellular phone. However, <SC>the man insisted</SC> the man in the car insisted that <.></.> to man on the motorcycle was talking on his phone when the police came, and that he was perfectly innocent of <SC>just right</SC> just crashing into him and causing an accident. And so <R>this</R> <F>well</F> this accident became the man on the motorcycle's fault. And then <F>well</F> he just had to have his motorcycle towed away because <SC>it was unfit</SC> it was not fit to driving.</B>
+<A><F>Mh-hmm</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, do you have a driver's license?</A>
+<B><F>Er</F> no, not yet.</B>
+<A>No? <F>Uh-huh</F>. O K. <F>Er</F> <.></.> not motorcycle license either?</A>
+<B>No.</B>
+<A><F>Uh-huh</F>. I see. Then <nvs>cough</nvs> have you been involved in an <SC>acci</SC> traffic accident?</A>
+<B><F>Oh</F> no, never.</B>
+<A><F>Oh</F> <F>hm</F> lucky. O K. Then <F>umm</F> if you were the man in the motorcycle,</A>
+<B>Yeah.</B>
+<A><F>er</F> what would you do?</A>
+<B><F>Well</F> <laughter>I would just explain</laughter> to the police that I was talking on my phone. I mean, <laughter>it would be</laughter> completely my fault. I mean, <SC>I wouldn't make it the person in the car <SC?>look</SC?> <?>the</?></SC> <F>well</F> I wouldn't make it this man's fault. I mean, I was talking on the phone in the first place. I wasn't watching around what was going. So yeah, I would be truthful.</B>
+<A><F>Mh-hmm</F>. That's good. O K. Then what do you think of <F>um</F> Japanese <F>er</F> transportation system in <H pn="others6">XXX09</H>?</A>
+<B><F>Well</F> I think the transportation system is very <laughter>good</laughter>. Especially the trains and the buses. They come on time every single day. <F>Well</F> I find it sort of strange because in <H pn="others4">XXX07</H>, everything works twenty minutes late. I mean, We call it <H pn="others4">XXX07</H> time. Everyone comes <SC>twenty minutes late</SC> about twenty to thirty minutes late. So it's quite surprising to see a transportation system that actually works.</B>
+<A><F>Mh-hmm</F>. O K. Then how did you adapt yourself to new environment in <H pn="others6">XXX09</H>?</A>
+<B><F>Well</F> <.></.> what do you mean as in "adapt"?</B>
+<A>Adapt yourself or get along with the kind of people <F>er</F></A>
+<B>With other <OL>people</OL>?</B>
+<A><OL><SC>who</SC></OL> yeah, I mean <F>er</F> who <F>er</F> always hurry</A>
+<B><F>Oh</F>.</B>
+<A>or do things on time?</A>
+<B><F>Well</F>.</B>
+<A>You're used to <H pn="others4">XXX07</H> time before.</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But it doesn't take much of adjusting. <SC>You just</SC> <SC>I try to be at least</SC> I don't know, I try to be ten minutes early from time when I was supposed to meet somebody or</B>
+<A><F>Hm</F>.</A>
+<B>when like my train is due so that I won't be twenty <laughter>minutes late</laughter> every time I go to meet someone or I won't be late for my train or bus, I guess.</B>
+<A>O K. Yeah. That's a good idea.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Thank you very much, <H pn="B's name">XXX02</H> <JP>san</JP>. Interview is almost ending.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Thank you for coming in today.</A>
+<B><F>Oh</F> you're welcome.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>It's no problem</OL>.</B>
+<A>O K. So what are you going to do after this test? You have class?</A>
+<B>Yes. I'm returning to my gym class</B>
+<A><F>Mh-hmm</F>.</A>
+<B>and I'll be doing tennis <laughter>outside even though it's freezing cold</laughter>.</B>
+<A><F>Oh</F> I see. <F>Uh-huh</F>. But you are getting back to the game? Tennis?</A>
+<B>Yes.</B>
+<A><F>Mh-hmm</F>. O K. Thank you very much.</A>
+<B>O K. <OL>You're welcome</OL>.</B>
+<A><OL>Take care</OL>.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

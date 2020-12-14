@@ -1,0 +1,261 @@
+<interview>
+<filename>file00086.txt</filename>
+
+<head version="1.3">
+<date>2000-06-09</date>
+<sex>male</sex>
+<age>31</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>1</SST_level>
+<SST_task2>electric shop</SST_task2>
+<SST_task3>shopping_beginner</SST_task3>
+<SST_task4>room</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><F>Aa</F> Good afternoon. My name is <H pn="A's name">XXX01</H>. May I ask your name?</A>
+<B>Yeah. <R>My name</R> my name is <H pn="B's name">XXX02</H>.</B>
+<A>May I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>How are you today?</A>
+<B><.></.></B>
+<A>How are you today? Fine?</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Alright, <F>er</F> <H pn="B's name">XXX02</H>, where do you live?</A>
+<B><.></.></B>
+<A>Do you live in Tokyo?</A>
+<B>No.</B>
+<A>Where do you live?</A>
+<B><F>Er</F>. <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>? O K. So where in <H pn="others1">XXX03</H> do you live?</A>
+<B><F>Er</F> <JP><F>eeto</F></JP> <H pn="others2">XXX04</H> city.</B>
+<A>O K. How do you come to this office from <H pn="others2">XXX04</H> everyday?</A>
+<B><JP>Wakannai</JP>.</B>
+<A>You come by train <.></.> or bus?</A>
+<B><F>Er</F>. Train.</B>
+<A>O K. Train. O K, in <H pn="others2">XXX04</H>, do you live with your family?</A>
+<B>Yes.</B>
+<A>O K. Please tell me about your family.</A>
+<B><F>Er</F> wife and <SC>children</SC> <F>er</F> child <JP>ka</JP></B>
+<A>O K, so tell me more about your children.</A>
+<B><.></.></B>
+<A>How many children do you have?</A>
+<B><JP><F>Eeto</F></JP> one.</B>
+<A><F>Ah</F>. One child. O K, what's his name?</A>
+<B><F>Ee</F>. <H pn="others3">XXX05</H>.</B>
+<A>O K. Tell me more about <H pn="others3">XXX05</H>.</A>
+<B>Hm?</B>
+<A>Tell me more about <H pn="others3">XXX05</H>.</A>
+<B><JP>Wakannai</JP></B>
+<A>How old is he?</A>
+<B><F>Er</F>. Seven years old.</B>
+<A>Seven years old. O K. What does he like to do?</A>
+<B><F>Er</F> baseball.</B>
+<A>Baseball. O K. How often does he play baseball?</A>
+<B><F>Er</F> <H pn="others3">XXX05</H> and <SC>me</SC> <F>a</F> my.</B>
+<A><F>Oh</F> you two play baseball together.</A>
+<B>Yeah</B>
+<A>I see. So you like baseball, too?</A>
+<B><F>Er</F>. Yes. Hm?</B>
+<A>When do you play baseball with <H pn="others3">XXX05</H>?</A>
+<B>Yes.</B>
+<A>When? Monday or Tuesday or,</A>
+<B><F>Ahh</F>. Saturday and Sunday.</B>
+<A><F>Mm</F>. Where do you play baseball?</A>
+<B><F>Er</F> <JP>chugakudakara</JP> School, <H pn="others3">XXX05</H> school <JP>chikauka</JP>.</B>
+<A><H pn="others3">XXX05</H> school?</A>
+<B>High school <JP>janakute</JP> junior high school.</B>
+<A>I see. <F>Mmm</F>. Do you play games?</A>
+<B>No <F>er</F> <JP>nanteiunokana renshudakara</JP> training baseball.</B>
+<A>I see, I see. Good. O K. <F>Er</F>. Do you have any hobbies?</A>
+<B>Hobbies?</B>
+<A><F>Mm</F>. <R>Hob</R> Hobbies. What do you like to do on Sundays or Saturdays. You play baseball with <H pn="others3">XXX05</H> <SC>but</SC> and what do you do?</A>
+<B><..></..></B>
+<A>Do you go fishing or do you play tennis with your friend? It's you, <H pn="B's name">XXX02</H> I'm asking about you.</A>
+<B><F>Ah</F> No. Baseball only.</B>
+</stage1>
+<stage2>
+<task>
+<A>Baseball only. I see. Good. O K. Thank you. Now I like to show one picture. O K. Here you are. Please tell me anything about this picture.</A>
+<B><F>Mm</F> <..></..> <nvs>laughter</nvs> <JP>ee</JP> boys. <F>Mmm</F>. Audio system. <F>Mm</F>. <..></..> <F>Mm</F>. <R>How much</R>? How much? <F>Mm</F> audio system.</B>
+<A><F>Uh-huh</F>. Anything else? What time is it?</A>
+<B><F>Er</F>. Three o'clock.</B>
+<A>O K. What are these?</A>
+<B><JP><F>Eeto</F> eigakana <F>eeto</F></JP> <R>o'clo</R> <R>o'clock</R> <F>mm</F>.</B>
+<A>O K. <F>Mm</F>. Then, what's this?</A>
+<B><F>Ee</F>. Television.</B>
+</task>
+<followup>
+<A>O K. Good. Alright, <SC>do</SC> <F>er</F> <H pn="B's name">XXX02</H>, do you want to buy something in this piecure?</A>
+<B><JP>Nnto</JP>. <nvs>laughter</nvs> Audio.</B>
+<A>You want to buy audio set?</A>
+<B>Yes.</B>
+<A>Why do you want to buy audio set?</A>
+<B><..></..> <JP>Wakaranai</JP>.</B>
+<A>O K. All right. <F>Mmm</F>. Do you have a television set in your home?</A>
+<B>Yes.</B>
+<A>O K. How many T V sets do you have?</A>
+<B>Two sets.</B>
+<A>Two sets. <F>Ah</F> I see. Where are there in your house?</A>
+<B>Yes. <F>Er</F>. <OL>Where</OL>?</B>
+<A><OL>Where</OL> in your house?</A>
+<B>My house two television.</B>
+<A>Two television sets. O K. Is it in the living room?</A>
+<B>Yes.</B>
+<A>O K.</A>
+<B><F>Er</F>. Living room and <F>mmm</F> <JP>shinshitsu dakara</JP> <laughter><JP>nandarou</JP></laughter> <..></..> <JP>wakannnai</JP> <JP>suimasen</JP> <nvs>laughter</nvs></B>
+<A>O K. What kind of program do you watch?</A>
+<B><.></.></B>
+<A>What is your favorite T V program <H pn="B's name">XXX02</H>?</A>
+<B><.></.></B>
+<A>Do you like to watch T V program?</A>
+<B>No.</B>
+<A>No. You don't like to watching T V.</A>
+<B>Yes. <F>Erm</F>. <JP>Sukijanai dakara nante yuunokana</JP></B>
+<A>You don't like?</A>
+<B>Yes.</B>
+<A>I see. Do you like to listen to music?</A>
+<B>Yes.</B>
+<A>What kind of music do you like to listen?</A>
+<B><F>Mm</F>. <JP>nandarou kana</JP> <JP><F>eeto</F></JP> Jazz.</B>
+<A>Jazz. Good, good, so who is your favorite jazz player?</A>
+<B>John Courtney.</B>
+<A><F>Oh</F>. What kind of instrument does he play?</A>
+<B><F>Er</F> sax.</B>
+<A><F>Mm</F> Why do you like him?</A>
+<B><JP><F>Eeto</F></JP>. Drum.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Oh</F> I see. Thank you very much. Now <R>I</R> Let's have a role-play.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. Right. O K, here you are. This is your card. Please read it to yourself.</A>
+<ctxt>The examinee is looking at the card.</ctxt>
+<B><JP><F>Ee</F></JP>.</B>
+<A>O K You work at the shop. O K? I'm a sales clerk. May I help you?</A>
+<B><F>Er</F>. This cassette tape recorder is how much?</B>
+<A>O K, this one?</A>
+<B><F>Er</F> one.</B>
+<A>O K. <F>Er</F> Five thousand yen.</A>
+<B><.></.> <nvs>laughter</nvs> <JP>Hai</JP> <F>mm</F> and this?</B>
+<A>This one? Eight thousand yen.</A>
+<B><.></.> Two sets, price down?</B>
+<A><F>Oh</F> I see. O K. If you buy both, these two, so, O K, twelve thousand-yen.</A>
+<B><F>Ah</F> <JP>hai</JP> <.></.> O K.</B>
+<A>Do you want to buy it? O K. So together, twelve thousand yen. O K. How do you want to pay?</A>
+<B><.></.></B>
+<A>Do you want to pay by cash or,</A>
+<B><F>Ah</F>. No, card.</B>
+<A>Card? Good, good, O K. <F>er</F> What kind of card do you have?</A>
+<B><F>Er</F> <JP><F>eeto</F></JP> American Express.</B>
+<A>American Express. O K. Alright. So I'll wrap them for you. Here you are.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>Thank you very much. O K. Thank you. <H pn="B's name">XXX02</H>, do you like shopping?</A>
+<B><F>Er</F>. <nvs>laughter</nvs> <??></??> Yes.</B>
+<A>Yes?</A>
+<B>My wife <R>lik</R> like <JP>suki</JP></B>
+<A>I see. <F>mm</F>.</A>
+<B>Shopping.</B>
+<A>Where does she go for shopping?</A>
+<B><.></.> <F>Hm</F>?</B>
+<A>Where <.></.> does she go shopping?</A>
+<B>Depart.</B>
+<A>Department store. <F>Oh</F> and what does she buy?</A>
+<B><.></.> <JP>wakannai</JP></B>
+<A>Then O K, <H pn="B's name">XXX02</H>, when you buy your necktie or shoes, where do you go?</A>
+<B><F>Mm</F>. All wife shopping.</B>
+<A><F>Oh</F>. Your wife goes <F>er</F> for you? <F>mm</F> Why you don't go shopping?</A>
+<B><F>Er</F>. <..></..></B>
+<A>Why you don't go shopping?</A>
+<B>No. <.></.> my and wife going shopping.</B>
+<A><F>Oh</F> You go, too. Where do you go?</A>
+<B><JP>Kedo</JP> Pick up wife.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>I see. O K. Alright. Thank you very much. Now I'd like to show one more picture, O K? O K. One more picture. Here you are. Please describe this picture again.</A>
+<B><JP>Hai</JP> <nvs>laughter</nvs> <.></.> <F>mm</F> <..></..> Cat is name, <F>mm</F> Tom.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Er</F>. <.></.> <JP><F>Uunto</F></JP> <JP>doshiyokana</JP>. <SC>Tom is pic</SC> picture is Tom. <F>Ee</F>. <JP>Pasocon</JP> display. <F>Er</F>. <..></..> Display output. <JP>Wakannai</JP>.</B>
+<A>That's all?</A>
+<B><F>Mmm</F> <JP><F>Uunto</F></JP>. <..></..></B>
+<A>O K.</A>
+<B><JP>Hai</JP>. <nvs>laughter</nvs></B>
+<A>Alright, what's this?</A>
+<B>Calendar.</B>
+<A>Good, good. What's this?</A>
+<B>Bed.</B>
+<A><F>Uh-huh</F>. O K. And what's this?</A>
+<B>Door.</B>
+<A>O K. Is the door open, or closed?</A>
+<B><F>Er</F>. Open.</B>
+<A>O K. Alright. So what's this?</A>
+<B><nvs>cough</nvs> Display.</B>
+<A>O K.</A>
+<B><JP>Pasocon</JP>.</B>
+</task>
+<followup>
+<A>That's right. <F>er</F> Do you have a computer, <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>What do you do with your computer?</A>
+<B><JP><F>Eeto</F></JP>. Consulting.</B>
+<A>Pardon me?</A>
+<B>Consulting.</B>
+<A>Consulting <F>Ah</F>. Tell me more about consulting.</A>
+<B><F>Er</F> <JP><F>eeto</F></JP> I T consulting.</B>
+<A>I T Consulting. <F>mm</F> What's that?</A>
+<B><F>Er</F>. Information Technology consulting.</B>
+<A><F>Oh</F> I see. So you use the computer for work.</A>
+<B>Yes.</B>
+<A><F>Hmm</F> <F>er</F>. Do you see the Internet?</A>
+<B><F>Er</F> Yes.</B>
+<A><F>Mm</F>. What kind of homepages do you usually see?</A>
+<B>My company <OL>homepage</OL></B>
+<A><OL>No</OL> What kind of homepages do you visit, do you see, with your computer?</A>
+<B><JP>wakannai</JP></B>
+<A>O K. Alright, alright. Do you play games with the computer?</A>
+<B>No.</B>
+<A>No? Why not? You don't like the games?</A>
+<B>Game is Play Station.</B>
+<A>Play Station? <F>Oh</F> What is good about Play Station? Play Station is good?</A>
+<B>Yes.</B>
+<A>Better than <.></.> Sega?</A>
+<B>No, Sony.</B>
+<A>Sony? <F>Oh</F> Yeah, Sony. <F>Mm</F>. O K, so <SC>Son</SC> Play Station is the best?</A>
+<B>Best.</B>
+<A><R>Wha</R> Why it's the best? Why do you like Play Station?</A>
+<B><..></..></B>
+<A>It's</A>
+<B><F>Urm</F> <..></..> <JP>softo</JP></B>
+<A><F>Uh-huh</F>.</A>
+<B>Good <JP>softo</JP> <.></.></B>
+<A><F>Ah</F> <JP>softo</JP> is good. O K. <SC>O</SC> it is fun or speedy <OL>exciting</OL>?</A>
+<B><OL>Yes</OL></B>
+<A>So do you play games <R>with your</R> <F>er</F> with your child?</A>
+<B>Yes.</B>
+<A><H pn="others3">XXX05</H>?</A>
+<B>Yes.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Ah</F>. Must be exciting. O K. Thank you very much. The interview is almost ending. Are you going to play baseball <F>er</F> with your child tomorrow?</A>
+<B>Yes.</B>
+<A><F>Mm</F> that will be fun. O K. <R>In</R> in <H pn="others2">XXX04</H>?</A>
+<B>Yes.</B>
+<A><H pn="others2">XXX04</H> is a good place to live?</A>
+<B><nvs>laughter</nvs> <F>Mm</F> question.</B>
+<A>I see. O K. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,199 @@
+<interview>
+<filename>file00530.txt</filename>
+
+<head version="1.3">
+<date>2001-07-26</date>
+<sex>female</sex>
+<age>18</age>
+<country>Japan</country>
+<overseas></overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>travel_beginner</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Hm</F>. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX02</H>, how are you today?</A>
+<B><F>Mm</F>. I'm fine, thank you.</B>
+<A><F>Um</F>. That's good.</A>
+<B>And you? <nvs>laughter</nvs></B>
+<A>I'm good thank you very much. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>, <H pn="others2">XXX04</H></B>
+<A><F>Hm</F>.</A>
+<B>now.</B>
+<A>I see. Do you live with your family?</A>
+<B>Yes.</B>
+<A>Can you tell me a little bit about your family?</A>
+<B><F>Uhm</F>. My family is father and mother and little sister and little brother.</B>
+<A><F>Oh</F>.</A>
+<B>That's all. <F>Uh</F>. And <.></.> turtle.</B>
+<A>Turtle?</A>
+<B>I have turtle.</B>
+<A><F>Err</F>. Tell me a little about your turtle.</A>
+<B><F>Mm</F>. My turtle's name is Lenny.</B>
+<A><F>Hm</F>.</A>
+<B>And <SC>he <.></.> comes</SC> he came my home <SC>when I</SC> when <F>uum</F> my <.></.> birthday at <.></.> eighteen. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><.></.> <JP>De</JP> <.></.> <F>eh</F> I was presented by my friend.</B>
+<A>I see.</A>
+<B><nvs>laughter</nvs></B>
+<A>Do you take care of him or her?</A>
+<B><F>Uum</F>. <laughter>Him <OL>or her</laughter></OL>?</B>
+<A><OL><laughter>Him</laughter></OL>? <laughter>O K</laughter>.</A>
+<B>Him.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Uum</F>.</B>
+<A>What does he eat?</A>
+<B><SC>He ate</SC> he eats <F>uum</F> <.></.> turtle's <.></.> food.</B>
+<A>All right. <F>Uum</F>.</A>
+<B><R>Al</R> always.</B>
+<A><F>Um</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>But it sound exciting.</A>
+<B><laughter><F>Uhm</F></laughter>.</B>
+<A>O K.</A>
+<B>He is very pretty. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhm</F></OL>. I see. So, <H pn="B's name">XXX02</H>, do you belong to any club or circle at <H pn="school name1">XXX05</H>?</A>
+<B><F>Uum</F>. Now, <R>I</R> I'm join in <.></.> <F>er</F> <.></.> <R>cinema</R> cinema <.></.> club. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>I see</OL>. Watching cinema or making cinema?</A>
+<B><F>Uum</F>. <.></.> <laughter>Probably making</laughter>.</B>
+<A><F>Hum</F>.</A>
+<B>But <R>I</R> <SC>I don't</SC> <F>uum</F> I haven't yet.</B>
+<A><F>Hum</F>. Why are you interested in that club?</A>
+<B><F>Uum</F>. I like cinema. And <.></.> I think I want to make a film by myself.</B>
+<A><F>Hmm</F>. I see. What kind of <SC>cine</SC> movies do you like to watch?</A>
+<B><F>Uum</F>. <.></.> <R>I</R> I don't like <.></.> Hollywood cinema.</B>
+<A><F>Hm</F>. Why <OL>not</OL>?</A>
+<B><CO><OL>Watch</OL></CO>.</B>
+<A>Why not?</A>
+<B><F>Uum</F>. <.></.> <F>Er</F>. <SC>Hollywood cinema is</SC> <.></.> <F>mm</F> I think Hollywood cinema is good and <JP><F>eeto</F></JP> exciting and <F>uum</F> funny.</B>
+<A><F>Hm</F>.</A>
+<B>But <F>uum</F> <.></.> that's all.</B>
+<A>O K.</A>
+<B><laughter><JP><?>Mitaina</?></JP></laughter>. <nvs>laughter</nvs></B>
+<A>That's very good. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Er</F> O K. First <OL>thing</OL></A>
+<B><OL><F>Uh-huh</F></OL>.</B>
+<A>for today, yes. Please look at this picture. And, please describe it for me.</A>
+<B><F>Hm</F>.</B>
+<ctxt>The interviewee is looking at the picture for a while.</ctxt>
+<B>There is <.></.> the woman in the room. The woman who wear green <.></.> knit and jeans skirt point to the computer. And <R>he s</R> he sits <.></.> chair. <.></.> And the room seemed like her <.></.> bedroom. And bed cover is green. And there is a cat on the bed. <F>Uum</F>. <R>The dog</R> the dog sleeping near a bed.</B>
+<A>All right. O K, <H pn="B's name">XXX02</H>. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you have your own room?</A>
+<B>Yes.</B>
+<A><F>Hm</F>. Does your room look like this picture?</A>
+<B><F>Uum</F>. <F>Uum</F>. A little bit different. I haven't computer.</B>
+<A><F>Uum</F>. <.></.> Any <OL>difference</OL>?</A>
+<B><OL>But</OL></B>
+<A><F>Hm</F>.</A>
+<B><F>uum</F> other point <.></.> <F>uum</F> like this room.</B>
+<A><F>Um</F>. O K. Almost same?</A>
+<B><F>Uum</F>. Yes.</B>
+<A>O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, <SC>I'll <SC>sh</SC> give</SC> I'm going to give you a role play card. So, please read it to yourself. And, when you are ready, I'll start. <.></.> Are you ready?</A>
+<B><.></.> <OL>Yes</OL>.</B>
+<A><OL>All right</OL>. Can I help you, miss?</A>
+<B><F>Uum</F>. <..></..> I want to go the trip <.></.> to other country. But I <.></.> haven't <.></.> decide <.></.> where to go. <.></.> <CO>So</CO>. <F>Uum</F>. <.></.> <OL><??></??></OL>.</B>
+<A><OL>We have</OL> so many nice package tour here.</A>
+<B>Yes. <F>Uum</F>. <F>Eh</F>. <.></.> <SC>What</SC> <F>uum</F> I want to go to America.</B>
+<A><F>Hum</F>. Very good.</A>
+<B><CO>And <..></..> what is the best package <OL>to</OL></CO>?</B>
+<A><OL>How about</OL> <F>er</F> this one for San Francisco? <F>Em</F> four days.</A>
+<B>Four days? <SC>I</SC> <F>uum</F> <.></.> much longer.</B>
+<A><F>Err</F>. I see. So seven days for Los Angeles and San Francisco.</A>
+<B><F>Um</F>. Good. <F>Um</F> I want to go to New York, <F>ur</F> too.</B>
+<A><F>Er</F>.</A>
+<B><F>Hm</F>?</B>
+<A>So it's another package tour. New York and Washington for ten days.</A>
+<B><.></.> <F>Er</F>. <.></.> That's nice. <nvs>laughter</nvs></B>
+<A>But it's a little bit expensive.</A>
+<B>How much?</B>
+<A>It's, O K, three hundred thousand yen.</A>
+<B>Three hundred <.></.> thousand <R>do</R> dollar?</B>
+<A><R>Ye</R> yen.</A>
+<B>Yen? <F>Hum</F>. <..></..></B>
+<A>O K. <F>Er</F>. This is the brochure about the all the trips. So, <F>um</F> take a look at your home. And, when you decide, please come again. O K?</A>
+<B><laughter>Yes</laughter>.</B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>Thank you very much</OL>. That's the end of <OL>the role play</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A>So, <H pn="B's name">XXX02</H>, do you like traveling?</A>
+<B><F>Um</F> yes. <F>Uum</F>. But I have <.></.> one trip</B>
+<A><F>Hm</F>.</A>
+<B>to other country.</B>
+<A><F>Um</F>. Tell me about the trip.</A>
+<B><F>Uum</F>. When I was twelve, <F>uum</F> I traveled America with my family. And I went <F>uum</F> Miami.</B>
+<A><F>Hm</F>.</A>
+<B>And <.></.> I went <SC>Disneyland</SC></B>
+<A><F>Ah</F>. I see.</A>
+<B>Disney World.</B>
+<A>Disney World? Yes. <F>Wow</F>.</A>
+<B>Very fun. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Um</F></OL> did you enjoy it?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hm</F> that's good</OL>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Lastly, I'll show you another pictures. So, please make up one story using these pictures from one to four.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B><F>Hm</F>?</B>
+<A><??></??> Go ahead.</A>
+<B><F>Uh</F>.</B>
+<A>Yes. <OL><??></??></OL>.</A>
+<B><OL>Explain</OL>?</B>
+<A>Making story.</A>
+<B><F>Uh</F>. Making story.</B>
+<A><F>Um</F>.</A>
+<B><.></.> <JP><F>Eeto</F></JP>. <F>Mm</F> Maiko and Hiroshi <..></..> went to the zoo. And, first, they <.></.> looked <.></.> <F>er</F> lions' <.></.> cage. <.></.> And lion looked them, too. Next, <JP><F>eeto</F></JP> they went to the monkeys' cage and <SC>Maiko ea</SC> Maiko ate soft cream. And monkey ate banana. <F>Uum</F>. And <..></..> <R>they <.></.> were</R> they were little tired. So they went home.</B>
+<A><F>Um</F>. Thank you very much, <H pn="B's name">XXX02</H>.</A>
+</task>
+<followup>
+<A>When you meet with a friend, where do you usually go?</A>
+<B><F>Uum</F>. I usually go to Shinjuku or Shibuya or Harajuku.</B>
+<A><F>Um</F>. Why Shinjuku?</A>
+<B><F>Uum</F>. <JP><F>Eeto</F></JP> usually, when I meet the friend, <.></.> <JP><F>ee</F></JP> <SC>we <.></.> go to the</SC> <F>er</F> we go to shopping. So there are many shops in Shinjuku.</B>
+<A><F>Hm</F>. Do you have any favorite store or shop in Shinjuku?</A>
+<B><F>Uum</F>. <.></.> <R>I</R> <..></..> <F>uum</F> I like Tower Records shop.</B>
+<A>Why do you like it so much?</A>
+<B><F>Uum</F>. I like music and I want to buy C D. And Tower Record shop has very <laughter>much</laughter> <.></.></B>
+<A><OL>All right</OL>.</A>
+<B><OL>C D</OL>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K, thank you very much</OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>Interview is almost over. So, do you have any plan for this summer vacation?</A>
+<B><F>Um</F>. <.></.> I said to go to trip to America with my friend. But <SC>we have a</SC> we have little money.</B>
+<A><F>Ah</F>.</A>
+<B>So <JP><F>ee</F></JP> <F>err</F> we <SC>turn off</SC> <F>mm</F> <JP>chigau</JP> turn off <.></.> trip</B>
+<A><F>Hm</F>.</A>
+<B><F>uum</F> in winter. <nvs>laughter</nvs></B>
+<A><laughter><F>Oh</F></laughter>. I see. <F>Uum</F>. O K. Thank you very much for coming in today. Thank you very much.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,183 @@
+<interview>
+<filename>file01098.txt</filename>
+
+<head version="1.3">
+<date>2002-04-15</date>
+<sex>male</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B><F>Ur</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Mm</F>. Nice to meet you, <OL><H pn="B's name">XXX02</H></OL>.</A>
+<B><OL>Nice to meet you, too</OL>.</B>
+<A><F>Mm-hm</F>. So are you a freshman at this company?</A>
+<B>Yeah.</B>
+<A><F>Mm-hm</F>.</A>
+<B>I'm freshman.</B>
+<A><F>Mm-hm</F>. O K. Do you like your job so far?</A>
+<B><F>Urr</F> yeah. <R>I like</R> I like.</B>
+<A><F>Mm-hm</F>. How are your co-workers?</A>
+<B><F>Urr</F> yeah. <F>Ur</F> they are good friend for me.</B>
+<A><F>Uhh</F> friends. <F>Mm-hm</F>. O K. So tell me about your university.</A>
+<B>O K. <F>Urr</F> <R>I</R> I graduated from <H pn="school name1">XXX03</H>. <F>Ur</F> <SC>I major</SC> I majored in accounting. <F>Ur</F> <R>my university <F>oh</F> <F>ur</F> <.></.> is</R> my university is in <H pn="others1">XXX04</H>. <??></??>. <nvs>laughter</nvs></B>
+<A><F>Mm-hm</F>. O K. What's the good point of your university compared to other universities?</A>
+<B><F>Urr</F> <.></.> <F>mm</F> <.></.> <SC>I</SC> <F>mhm</F> <R>good point</R> good point is <.></.> <F>mm</F> just in <H pn="others1">XXX04</H>, and <.></.> <F>um</F> very international.</B>
+<A><F>Mhm</F>.</A>
+<B>Yeah.</B>
+<A>O K. What do you mean by international?</A>
+<B><F>Urr</F> <F>ur</F> <.></.> <F>urr</F> <..></..> <F>ur</F> <SC>students</SC> some of students are <R>foreign</R> foreign people. And <.></.> Japanese people <.></.> go abroad sometime.</B>
+<A><F>Mm</F>. O K. Good. Have you been abroad?</A>
+<B>Yeah. <F>Urr</F> <SC>th</SC> two times.</B>
+<A><F>Mm-hm</F>. Tell me about the trip.</A>
+<B><F>Urm</F> <F>uh</F> <SC>I went</SC> <F>uh</F> <SC>I have</SC> I went to America last summer. <F>Ur</F>. <.></.></B>
+<A>O K. Did you like America?</A>
+<B>Yeah. <F>Ur</F> <R>I</R> I went to Las Vegas. <nvs>laughter</nvs> <F>Urr</F> I played many games. <nvs>laughter</nvs></B>
+<A>Yeah, of course. <F>Mm-hm</F>.</A>
+<B>But <SC>I lose</SC> I lost.</B>
+<A><??></??>. O K. Then tell me about your family now.</A>
+<B>Family?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Ur</F> <.></.> I have two brothers and fathers, mothers. <F>Erm</F>. <..></..></B>
+<A>O K. Tell me about your brothers then.</A>
+<B>Brothers?</B>
+<A><F>Mm</F>.</A>
+<B><F>Ur</F> <..></..> <F>um</F> <R>bi</R> <R>bi</R> <R>big brother</R></B>
+<A><F>Mm</F>.</A>
+<B>big brother is in <.></.> <R>Sen</R> <H pn="school name2">XXX05</H> now. And <R>another</R> <SC>another</SC> the other brother is <.></.> high school student.</B>
+<A><F>Mhm</F> <?>still in</?>. So you are the oldest one?</A>
+<B>Yeah.</B>
+<A>I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Then now, I will show you the picture.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>. Please tell me anything about this picture.</A>
+<B><F>Uh</F> <F>urr</F> <nvs>sniff</nvs> there're many people in a restaurant. And <..></..> <R>three</R> <SC>three <.></.> couples are</SC> three couples have dinner. And <..></..> they look like happy. <nvs>laughter</nvs> <CO>And</CO>. <..></..></B>
+<A>What's he doing?</A>
+<B><F>Urr</F> <R>he</R> <R>he</R> <..></..> he recommends <.></.> the wine. And <..></..> <F>urr</F> <.></.> <SC>he</SC> <F>uh</F> <R>they</R> <R>they are</R> they are talking about the wine.</B>
+<A><F>Mm-hm</F>. I see. Thank you.</A>
+</task>
+<followup>
+<A>So do you like this type of restaurant?</A>
+<B><F>Ur</F> no. <laughter>No</laughter>.</B>
+<A><F>Mhm</F>. Then tell me about your favorite restaurant.</A>
+<B><F>Urr</F> <F>mm</F> <..></..> <R>I like</R> <..></..> I like <F>urm</F> <..></..> <F>mm</F> <.></.> Japanese type restaurant. <F>Urr</F> <SC>there i</SC> there are <JP>tatami</JP>, <F>ur</F> <..></..> <F>ur</F> <..></..> <nvs>laughter</nvs> <F>ur</F> <R><JP>chabudai</JP></R> <JP>chabudai</JP>. <F>Urm</F>.</B>
+<A><F>Mhm</F>. Why is it good for you?</A>
+<B><F>Mm</F> <..></..> I feel relax.</B>
+<A><F>Mm-hm</F>. <F>Mm-hm</F>.</A>
+<B>I feel relax.</B>
+<A><F>Mm-hm</F>. Then don't you like American style restaurant?</A>
+<B><..></..> <F>Mm</F> <.></.> <R>I</R> I dislike.</B>
+<A><F>Mhm</F>. O K. What is the bad point?</A>
+<B><F>Urr</F> bad point. <F>Ur</F> <..></..> <F>ur</F> <nvs>laughter</nvs> <R>I can't</R> I can't feel relax. <CO>And</CO>. <..></..> <F>Mm</F>. <..></..></B>
+<A><F>Mm</F>. Yeah. <SC?>It's</SC?> I see.</A>
+<B><laughter>I'm sorry</laughter>.</B>
+<A>No, no, no, no, that's O K. So you like Japanese style restaurant.</A>
+<B>Yeah.</B>
+<A><F>Mm-hm</F>.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Then now, I will show you a card. It's in Japanese. So please read it. And when you are ready, I will begin.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card for a while.</ctxt>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>? <F>Mm-hm</F>. Ring ring. Hello, this is <H pn="A's name">XXX01</H> speaking.</A>
+<B>Hello. <F>Ur</F> I'm <H pn="B's name">XXX02</H>.</B>
+<A>Hi, <H pn="B's name">XXX02</H>.</A>
+<B><laughter><F>Ur</F> <F>ur</F></laughter> <F>mm</F> <..></..> <R>could</R> <R>could you</R> <.></.> <SC>could you speak</SC> <F>uh</F> <F>mm</F> <F>ur</F> <.></.> <F>ur</F> <.></.> <R>sh</R> <SC>shall we go to the movie</SC> shall we go to movie?</B>
+<A>Sure.</A>
+<B><F>Uh</F> sure. <F>Urm</F> <..></..> I'd like to go to the movie tomorrow afternoon. <F>Urr</F>. <nvs>sniff</nvs> <.></.></B>
+<A>Of course.</A>
+<B><F>Urr</F> <..></..> <R>what time</R> <F>mm</F> <..></..> what time <R>can I</R> <..></..> <SC>can I meet</SC> <?>can meet you</?>?</B>
+<A><F>Mm</F>. <F>Ur</F> about seven o'clock <OL>after work</OL>.</A>
+<B><OL>Yeah</OL>. O K. <F>Ur</F> and <nvs>sniff</nvs> <..></..> <R>how</R> <R>how</R> <..></..> <R>how do you go to the theater</R> how do you go to the theater?</B>
+<A><F>Mm</F>. Where shall we go?</A>
+<B><F>Uhm</F> <..></..> <F>uhm</F>.</B>
+<A>In <H pn="others1">XXX04</H>?</A>
+<B><F>Uhm</F> <..></..> <F>mm</F> <..></..> <R>I</R> <SC>I</SC> I'd like to go to the theater by train.</B>
+<A><F>Mm-hm</F>. O K.</A>
+<B><F>Urr</F>.</B>
+<A>Yes. Then let's meet in front of the movie theater</A>
+<B>Yeah.</B>
+<A>tomorrow at seven.</A>
+<B><OL>O K</OL>.</B>
+<A><OL><F>Mm-hm</F></OL>. Thank you very much.</A>
+<B><laughter>Thank you</laughter>.</B>
+<A><F>Mm-hm</F>.</A>
+</task>
+<followup>
+<A>All right. So this is end of role-play. <F>Mm</F>. Do you like to see a movie?</A>
+<B>Yeah.</B>
+<A>Yes? <F>Mhm</F>. What kind of movie do you like?</A>
+<B><F>Urr</F> <nvs>sniff</nvs> <.></.> <R>suspense</R> <SC>suspense movie</SC> suspense, yeah.</B>
+<A>O K. For example?</A>
+<B><F>Urr</F> "<R>L A Confidential</R> L A Confidential".</B>
+<A><F>Mhm</F>. Tell me about that movie because I don't know.</A>
+<B><nvs>sniff</nvs> <F>Mhm</F> <..></..> <F>mm</F> <..></..> <F>mm</F>. <..></..></B>
+<A>Who is in it?</A>
+<B>Who?</B>
+<A><F>Mm</F>.</A>
+<B><F>Ur</F>. <.></.> Kevin <??></??>.</B>
+<A>Kevin Costner?</A>
+<B>No. Kevin Spacy.</B>
+<A>Spacy. <F>Mm</F>. How do you like him?</A>
+<B><F>Urr</F> <.></.> he's very nice actor.</B>
+<A><F>Mhm</F>. O K. <CO><OL>So do you</OL></CO>.</A>
+<B><OL>He's cool</OL>.</B>
+<A>O K. I see. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Then now, I will show you the last picture sequence here. So please make up your own story using these pictures from one to four. O K?</A>
+<B>Yeah. <F>Ur</F> <nvs>sniff</nvs> <..></..> <R>two people <.></.> go</R> two people <R>go to</R> go to the zoo. <R>And</R> <..></..> and first, <SC>they ss</SC> <R>they</R> <R>they see</R> <.></.> <R>they see lions</R> they see lions. <F>Ur</F> <..></..> <nvs>sniff</nvs> next, <..></..> <F>um</F> <..></..> <R>they</R> they're in the <R>monkey</R> monkey park, and <R>she</R> <R>she</R> she eats ice cream. And monkey eats banana. <F>Urr</F> <..></..> <R>they</R> <nvs>sniff</nvs> <.></.> <SC>they go</SC> they goes out the zoo. And <..></..> they say good-bye each other in <.></.> front of the entrance.</B>
+<A><F>Mm-hm</F>. O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Mm-hm</F>. All right. So how do you spend your free time on weekend in your case?</A>
+<B><F>Urr</F> <.></.> <R>I</R> <.></.> I often go drinking with my friends.</B>
+<A><F>Mm</F> I see. O K. So you like drinking.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>O K</laughter></OL>. Good.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. So this is almost end of the interview. <F>Mm</F>. So do you have any plans tonight? You go drinking?</A>
+<B>No.</B>
+<A>No?</A>
+<B>Today is no.</B>
+<A>No. Just only meeting?</A>
+<B>Yeah.</B>
+<A><F>Mhm</F>.</A>
+<B>Today I will <.></.> study.</B>
+<A>Study?</A>
+<B><R>Study</R> <F>urm</F></B>
+<A><F>Wow</F>.</A>
+<B>study in English and personal stuff.</B>
+<A>O K.</A>
+<B>Accounting.</B>
+<A>I see. So good luck on your studies</A>
+<B><OL><?>Thank you</?></OL>.</B>
+<A><OL>And</OL> then good luck on your new job, too.</A>
+<B>Thank you.</B>
+<A>Thank you very much.</A>
+</stage5>
+</body>
+</interview>

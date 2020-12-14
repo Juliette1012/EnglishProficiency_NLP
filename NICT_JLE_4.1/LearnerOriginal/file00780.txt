@@ -1,0 +1,175 @@
+<interview>
+<filename>file00780.txt</filename>
+
+<head version="1.3">
+<date>2001-12-18</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>543</TOEFL>
+<other_tests></other_tests>
+<SST_level>7</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A>Hi, nice to meet you.</A>
+<B><OL>Nice to meet you</OL>.</B>
+<A><OL>Can I call</OL> you <R><H pn="B's name">XXX02</H></R> <F>er</F></A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B>Yes. Yes, please.</B>
+<A>O K. Where do you from?</A>
+<B>I'm from <H pn="others1">XXX03</H>. <SC>I <SC>born</SC> borned in <H pn="others1">XXX03</H></SC> <R>I</R> I was born in <H pn="others1">XXX03</H> and I still live in <H pn="others1">XXX03</H>.</B>
+<A><OL>Which part</OL>?</A>
+<B><OL>In</OL> <H pn="others2">XXX04</H>.</B>
+<A><F>Oh</F>. <H pn="others2">XXX04</H>.</A>
+<B>Yes.</B>
+<A>Please tell me about your area.</A>
+<B><F>Ah</F> <F>uhm</F>. It's near the <H pn="others3">XXX05</H> station and I came here with <F>uh</F> subway and <H pn="others4">XXX06</H> line.</B>
+<A><F>Huum</F>. I see.</A>
+<B><R>I</R> I change the trains at near <H pn="others5">XXX07</H>.</B>
+<A><F>Oh</F>. I see. O K. <F>Uh</F>. What do you do?</A>
+<B>Usually?</B>
+<A>No I mean are you a student?</A>
+<B><F>Ah</F> <R>ye</R> <R>ye</R> <R>ye</R> yes. <SC>I'm a stu</SC> I'm a freshman at <H pn="school name1">XXX08</H> and I'm majoring <R>poli</R> political science.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. How's your school life?</A>
+<B><F>Ah</F>. <R>It's</R> <F>well</F> it's a lot of fun but I think it's so fast to that you know, <F>uh</F> <R>it's</R> it's near in the term end</B>
+<A><F>Oh</F>. Yeah.</A>
+<B>so I think it's very fast to the time pass.</B>
+<A><F>Well</F> that's true. So how do you normally <F>um</F> enjoy <OL>in your</OL> free time?</A>
+<B><OL><F>Well</F></OL> <F>um</F> yes, actually I don't <.></.> have so much free time <R>lei</R> lately <nvs>laughter</nvs> <laughter>because</laughter> I have a lot of work to do because this is a term end so I have to write the term papers for the classes and <F>well</F> <SC>I think it's time</SC> <F>uh</F> <R>I</R> I don't know but we have a winter vacation soon so we have a time to prepare for the exam next years but I think it's time to think about the exams seriously.</B>
+<A><F>Oh</F>. So during vacation you have to work hard?</A>
+<B><F>Well</F> I think so, but <R>I</R> <R>I</R> <R>I</R> <R>I</R> I'm afraid I can't do it, because I have a part-time job during the vacation and also I want to go out with my friends.</B>
+<A><F>Uh-huh</F>. <F>Uh</F>. What do you do on your <F>uh</F> part-time job?</A>
+<B>I do the teacher at a little cram school, little <JP>juku</JP>, and I teach math to three girls <SC>who are at</SC> they are <SC>ele</SC> in elementary school, they're fifth graders and sixth graders. And yeah it's a little bit hard because they are <R>not</R> <F>er</F> not hard workers <nvs>laughter</nvs> so but yeah I think it's very great experience.</B>
+<A><F>Oh</F>. Yeah.</A>
+<B>Yes.</B>
+<A>And how do you motivate them if they don't study hard?</A>
+<B><F>Uhm</F> <F>uhm</F>. Yeah, <SC>it's</SC> <laughter>that's the difficult point</laughter>.</B>
+<A>Yeah. Right.</A>
+<B><F>Uum</F>. But <R>we</R> <SC>we</SC> I try to communicate a lot with them and try to figure out what is the problem for them. Yeah, so <.></.> <R>that's</R> yeah, that's I try to motivate them.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yes.</B>
+<A>O K. <F>Uh</F>. And so you live with your family?</A>
+<B>Yes.</B>
+<A><F>Huum</F>. Please tell me about your family.</A>
+<B>Yeah, O K. <F>Uhm</F> I live with my mom and dad, <F>uh</F> my parents and my brother, and my father is working for the car company and my mother is <SC>housewor</SC> housewife and my brother is <F>uh</F> working for a little company which deals with translation but he is not the translator but he <SC>work for</SC> work at kind a coordinator <SC>but I</SC> yeah and he is twenty-three years old and he <R>wa</R> was graduated from <H pn="school name1">XXX08</H>.</B>
+<A><F>Oh</F>. Really. <F>Huh</F>. I see. O K. Thank you.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now I'd like to show you a picture.</A>
+<B>O K.</B>
+<A>Can you describe it for me?</A>
+<B>O K. <F>Huum</F>. O K, this place is <R>loo</R> looks restaurant, big restaurant and it's kind of luxury <R>restaurant</R> restaurant and <F>uh</F> <.></.> <SC>ladies <R>and</R> and a</SC> a lady and man are having dinner together and <.></.> the waiter is recommend them a bottle of wine, and the man is tasting the wine. And <.></.> this is a very big place and we can see <R>the</R> the two other couples <SC>who having</SC> who are having dinner and in the middle of this room there is a piano and a woman is playing the piano. And it seems to be they are enjoying their dinner.</B>
+<A><F>Hum</F>. Yeah. O K. Thank you.</A>
+</task>
+<followup>
+<A>So, <F>um</F> do you often go out to eat?</A>
+<B><F>Well</F> <F>uhm</F> not so often because I live with my family, so yeah my mother cook <R>every</R> every meal for me so <SC>I don't ha</SC> I don't usually have dinner outside.</B>
+<A><F>Oh</F> I see.</A>
+<B>But sometimes I go out with my family and have dinner together yeah, and actually <R>I</R> I will have the party tomorrow night <OL>with my classmate</OL>.</B>
+<A><OL><F>Oh</F> tell me about it</OL>.</A>
+<B>Yes, this is the year-end party season so we will have the year-end party with my language classmates.</B>
+<A><F>Oh</F> I see.</A>
+<B>Yeah.</B>
+<A><F>Wow</F>. Sounds fun.</A>
+<B>So <SC>we will have</SC> we will eat <JP>yakiniku</JP>.</B>
+<A><F>Oh</F>. I see. <F>Um</F>. Do you drink alcohol?</A>
+<B><SC>Not so a lot</SC> <R>not</R> not so a lot, but I drink a little bit.</B>
+<A><F>Oh</F>. I see. Wine?</A>
+<B>No, just beer or cocktails or something.</B>
+<A><F>Oh</F>. I see. <F>Huum</F>. That's good. O K. <F>Uh</F>. Please tell me about your favorite restaurant.</A>
+<B><F>Well</F> favorite restaurant. <SC>I like eth</SC> yeah <R>I</R> I like <F>uhm</F> Thai food or yeah, kind of Asian food and <.></.> yeah, <.></.> yeah actually <R>I</R> I like <R>eating</R> eating <R>every</R> <OL>every <??></??></OL></B>
+<A><OL>You like just like everybody</OL>. <F>uhu</F></A>
+<B><R>eating</R> eating. <CO>But especially I like <F>uhm</F> Thai food and last</CO>.</B>
+<A>Why is that?</A>
+<B>Yeah but because I really like the spicy taste. Yes and yeah I also like French food. They are very good. I like <R>duck</R> <R>duck</R> <.></.> duck.</B>
+<A><F>Huum</F>. <F>Oh</F> <F>oh</F>. I see. O K.</A>
+<B>I like it.</B>
+<A><F>Huum</F>. O K. Yeah. Me, too.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now <F>er</F> let's do a role-play.</A>
+<B>O K.</B>
+<A>Would you read it to yourself,</A>
+<B>O K.</B>
+<A>and when you're ready, I'll start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B><F>Huum</F>.</B>
+<A>O K. May I help you?</A>
+<B>O K, I have the ticket for this train, <SC>but</SC> and I booked the seats of this train but I <.></.> <SC>I did</SC> <SC>I didn't</SC> <F>er</F> I came late because <SC>I have a</SC> I had a reason and <.></.> <R>could</R> <SC>could you</SC> <F>uh</F> <R>so</R> <F>uh</F> so I missed the trains and I couldn't <R>get</R> <R>get</R> get on it so could you please change the ticket <R>or</R> <.></.> or <SC>could you please</SC> <R>can I</R> <R>can I paid back</R> can I paid back again the ticket?</B>
+<A><F>Uh</F> I'm sorry <F>uh</F> I don't think I can do that.</A>
+<B><F>Well</F>. But <R>I had</R> <SC>I had</SC> <R>I</R> I had the <F>uhm</F> traffic jam <R>on the way</R> on the way to the station today <R>so</R> <SC>so I</SC> that's why I late for the train and I missed <SC>the</SC> this train. So <R>it's not</R> it's not my fault so <R>could you</R> could you change or something with the ticket?</B>
+<A>O K, <F>well</F> in that case, O K, only this time <OL><??></??></OL>.</A>
+<B><OL>O K, thank you very much</OL>.</B>
+<A>O K. O K, this is the end of the <F>uh</F> role-play.</A>
+</task>
+<followup>
+<A>So, <F>uh</F> do you like to travel?</A>
+<B>Yes, I do.</B>
+<A>Please tell me one of the most memorable thing.</A>
+<B><F>Huum</F>. <F>Well</F> O K, <F>um</F> I <.></.> have been a lot of countries because <SC>I lived</SC> once I lived in the Netherland when I was little, so you know, <SC>Europe</SC> <F>uh</F> <SC>in</SC> living in Netherland we can go a lot of places in the Europe so I traveled a lot when I was there, but the most memorable one is last year. I went to Paris with my mother and it was February. It was after I got the permission for <H pn="school name1">XXX08</H>, I passed examination and I went there with my mother. So <F>well</F> it was February but it's not so cold. <R>It was</R> <.></.> it was <R>beau</R> beautiful every day and yes and it just my mother and me so <.></.> we had a common interest in Paris so <F>uhm</F> <SC>we ver</SC> we could have the very <SC>relaxed</SC> relax travel together and I went shopping a lot. <nvs>laughter</nvs></B>
+<A><F>Oh</F>. So that's your common <laughter>interest</laughter>.</A>
+<B><nvs>laughter</nvs> <F>Well</F> <F>uhm</F> that's <R>one</R> <R>one of</R> one of them.</B>
+<A><R>Wha</R> what is the most common interest <OL><?>interesting thing</?></OL>?</A>
+<B><OL><F>Well</F></OL> yeah, it's not going to the famous place <R>but</R> but just sitting <R>in the</R> in the cafe seat and drink coffee</B>
+<A><OL><F>Oh</F> sounds good</OL>.</A>
+<B><OL>yes</OL>, see the people going through the open cafe.</B>
+<A>Sounds very nice.</A>
+<B>Yes.</B>
+<A>I'm glad you had a good time.</A>
+<B><nvs>laughter</nvs></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, now let me show you <F>uh</F> <SC>pic</SC> <F>uh</F> another sequence of pictures and <F>um</F> I want you to make up a story. It happened last week, so please start your story with "One day last week,"</A>
+<B><F>Uh-huh</F>.</B>
+<A>One to six, please.</A>
+<B>O K. <F>Huum</F>. O K, One day last week the girl and the boy <.></.> <SC>went to</SC> <R>try</R> try to went to camp with their car. <R>They</R> <.></.> they made a pack and they made a lot of staff in their car and <R>they</R> they went and then <R>they</R> <SC>they first went</SC> <SC>they went to the <.></.> mountain and</SC> <F>uh</F> they went to the lakeside and they put on the <.></.> tent. <R>They</R> <.></.> <R>they</R> yeah <F>uhm</F> <SC>they cook with</SC> they <R>cook</R> cook next to the tent <SC>but at</SC> but suddenly <SC>the</SC> it starts to rain and <R>it became</R> it became very windy so the tent and the other staff, for example, their pans and their chairs are blow up and they <.></.> force to come back in their car. They couldn't stay in the tent because of the weather. So <R>they drive</R> <SC>they drive</SC> and they drove and <R>in</R> in the hard rain and thunders. And then they found the hotel, the hotel called Hotel Cosmos, and then they decided to stay at the hotel but the weather outside is <SC>very bad</SC> <R>still</R> still very bad but they <.></.> looked very relaxed at the hotel room.</B>
+<A><F>Huum</F>. Thank you.</A>
+</task>
+<followup>
+<A>So have you had any trouble during your trip or <F>um</F> <?>hotel</?>?</A>
+<B><F>Uhm</F>. <.></.> <F>Well</F> <F>uhm</F> yes. I think I had some troubles but not a big one, yeah.</B>
+<A>What happened?</A>
+<B><R><F>Well</F></R> <F>uhm</F> <F>well</F> <R>the</R> the travel which <SC>I said la</SC> I said that <SC>the</SC> <SC>we</SC> I went to Paris with my mother.</B>
+<A>Right.</A>
+<B>And then <.></.> <SC>we don't have</SC> we didn't have a lot of cash but we had the cash card of the bank and <R>it</R> <R>it is</R> it is international card so <SC>we can withdraw money in any</SC> we thought we can withdraw money everywhere around the city. And so we tried to withdraw money at the bank <R>in</R> in Paris but we couldn't because <F>uhm</F> it was the City bank card but the City bank has the <F>uh</F> <F>uhm</F> treatment with <SC>other</SC> another bank so <SC>we can</SC> we thought we can withdraw the money <SC>in</SC> <R>at</R> at A T M of another bank so we tried several times but we couldn't. <R>So</R> so <SC>I</SC> we very confused and I knew <SC>some</SC> <R>there</R> there are some branches of City banks in Paris so <SC>we went to</SC> <R>we</R> we went there and we asked them, and they said why don't you try at the City bank A T M so and then I tried and we could get the money.</B>
+<A>Finally.</A>
+<B>Yeah, at the City bank A T M. But only at the City bank. So I don't know <R>why</R> why we couldn't do at another bank's A T M, but that were a little trouble <R>but</R></B>
+<A>I see.</A>
+<B>but it's fine <R>I</R> I could get the money finally.</B>
+<A><laughter>That's good</laughter>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. Thank you. <F>Er</F>. We're almost at the end of the interview. <F>Er</F>. What are you going to do after this, <H pn="B's name">XXX02</H>?</A>
+<B><F>Well</F> <F>um</F>. <CO>I have another</CO>. <R>A</R> after this?</B>
+<A><F>Uhu</F>. Interview.</A>
+<B><F>Er</F> I have a class after this. I have one class and after that I will go to my ballet class.</B>
+<A><F>Oh</F>. You do ballet.</A>
+<B><laughter>Yes</laughter>.</B>
+<A><F>Wow</F>. Sounds good. O K. <F>Well</F> thank you so much for coming and have a nice evening.</A>
+<B><F>Oh</F>. Thank you <OL>very much</OL>. You, too.</B>
+<A><OL>Thank you</OL>.</A>
+</stage5>
+</body>
+</interview>

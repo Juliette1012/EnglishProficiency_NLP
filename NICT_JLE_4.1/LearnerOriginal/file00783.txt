@@ -1,0 +1,170 @@
+<interview>
+<filename>file00783.txt</filename>
+
+<head version="1.3">
+<date>2001-12-18</date>
+<sex>male</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Good, let's get started. Good afternoon. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>.</A>
+<B>Yes.</B>
+<A>Nice to meet you. <OL>How are you today</OL>?</A>
+<B><OL>Nice to meet you</OL>. I'm fine.</B>
+<A>Good, good. Where are you from, <H pn="B's name">XXX02</H>?</A>
+<B><F>Uhm</F> I'm from <H pn="others1">XXX03</H> <.></.> Prefecture.</B>
+<A><H pn="others1">XXX03</H> <??></??>. <R>Which</R> which city?</A>
+<B><H pn="others1">XXX03</H> City.</B>
+<A><F>Oh</F> I see, I see. Must be very far from here?</A>
+<B>Yeah, yeah, it's takes about two hours from here.</B>
+<A>You come everyday</A>
+<B>Yes.</B>
+<A>from <H pn="others1">XXX03</H></A>
+<B>Yes.</B>
+<A>City? <F>Gee</F>.</A>
+<B><F>Um</F>. Sometimes <R>I</R> <.></.> I'm late for school.</B>
+<A><nvs>laughter</nvs> <F>Well</F> two hours is very long time.</A>
+<B>Yeah.</B>
+<A>How do you spend those two hours on the train?</A>
+<B><F>Uh</F> I sleep or read the book and so on.</B>
+<A><F>Uh-huh</F>. O K, so you live with your family?</A>
+<B>Yes.</B>
+<A>O K. Can you tell me about your family?</A>
+<B><F>Uh</F> I have <.></.> <F>uh</F> three <.></.> members of family, father, mother and me.</B>
+<A>O K, O K, do you have any brothers or sisters?</A>
+<B>Yeah, I don't have.</B>
+<A><F>Oh</F>. O K. What is good points about living with your parents?</A>
+<B><F>Uh</F> <nvs>laughter</nvs> <R>I</R> I needn't cook. <nvs>laughter</nvs></B>
+<A>Anything else?</A>
+<B><..></..> <F>Uh</F> <nvs>laughter</nvs> <F>uh</F> <R>I</R> I don't think.</B>
+<A>O K, <F>uh</F> what does your father do?</A>
+<B><F>Uh</F>. My father is <.></.> businessman. <F>Uh</F>. <R>He</R> he works in <H pn="others2">XXX04</H>.</B>
+<A>In <H pn="others2">XXX04</H>?</A>
+<B><H pn="others2">XXX04</H>, <SC><H pn="others2">XXX04</H></SC> <F>ee</F> <H pn="others3">XXX05</H> Prefecture.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh</F>. <SC>My father is now</SC> now my father lives <H pn="others2">XXX04</H> and mother and me live <H pn="others1">XXX03</H> City.</B>
+<A><F>Oh</F> I see.</A>
+<B><F>Uh</F>. We have two <R>hou</R> houses. If <R>I</R> I live alone <F>eh</F> around here <laughter><R>we</R></laughter> we have three houses.</B>
+<A><laughter>Yes</laughter>.</A>
+<B><R>We</R> we can't pay <nvs>laughter</nvs> money.</B>
+<A>I see. I see. All right. So what's your plan during this Christmas vacation or New Year's vacation?</A>
+<B><nvs>cough</nvs> <F>Uhm</F> I plan <F>uh</F> <..></..> <F>eh</F> <.></.> traveling <.></.> <F>eh</F> of basketball circle <.></.> in Christmas.</B>
+<A>Can you tell me more about it?</A>
+<B><F>Uh</F> <.></.> I belong to <.></.> the basketball circle in <H pn="school name1">XXX06</H>. This circle travel <.></.> <F>uh</F> from <.></.> December <R>twenty</R> twenty-first to <.></.> twenty-four.</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh</F> I spend with this circle's member. <.></.></B>
+<A><R>Where</R> where are you going?</A>
+<B><F>Uh</F> <.></.> <F>uh</F>. We go to <.></.> Nagano <.></.> Prefecture <nvs>cough</nvs> and <nvs>cough</nvs> Fujikyu Highland <F>uh</F> we will go. <..></..> Yes.</B>
+<A>O K, all right, good. All right. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now <H pn="B's name">XXX02</H> first of all I would like to show you a picture.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Have you seen this picture before?</A>
+<B>Yes.</B>
+<A><F>Oh</F>. You have? O K, what about this one?</A>
+<B>No.</B>
+<A>O K. Please describe this picture for me.</A>
+<B><F>Uh</F>. It's very fine day and <R>everyone</R> <.></.> everyone is out from home <laughter>and</laughter> <R>kids are</R> <F>uh</F> kids are playing with ball <R>and</R> and <R>dogs</R> <R>dogs</R> <F>eh</F> <.></.> <SC>dogs look like</SC> <SC>look</SC> <F>uh</F> dogs look <R>hap</R> happy. <F>Uh</F>. Dog's <.></.> tail is <.></.> <F>uh</F> moving. <F>Uh</F>. A man is reading a newspaper on chair and <R>a girl</R> <..></..> a girl is jumping with rope. And a cat is sleeping on a car, <F>uhm</F> besides the car <F>uh</F> two women <SC>talking</SC> are talking <F>uh</F> <.></.> <F>uh</F> and a man is running.</B>
+<A>O K.</A>
+</task>
+<followup>
+<A>O K, now <H pn="B's name">XXX02</H>, what's the difference between this neighborhood and your neighborhood where you live?</A>
+<B><nvs>cough</nvs> <F>Uh</F>. The <SC>different</SC> difference is <F>uh</F> in this picture <F>uh</F> <R>ha</R> <F>er</F> house to house is little far. And my home <.></.> and my neighborhood's home is <F>uhm</F> <.></.> almost connecting. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><F>Uh</F> <F>uh</F>. <R>The</R> there is only fence <F>uh</F> <.></.> <R>and</R> <nvs>cough</nvs> and <F>er</F> <R>my</R> <SC>my country's <R>roa</R> road</SC> <F>eh</F> <F>ah</F> in my country's road <SC>car</SC> cars go <R>left</R> left side, in this picture <R>car</R> car is stopping on right side.</B>
+<A><F>Hum</F>. Actually. O K.</A>
+<B><.></.> That's all.</B>
+<A>O K. All right. Thank you very much.</A>
+<B>Thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, next I would like to do a role-play. <nvs>clearing throat</nvs> All right. Let's do this. Here's a card and this is written in Japanese. Please read it to yourself. When you're ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K?</A>
+<B>O K.</B>
+<A>All right. Yes, sir. How may I help you?</A>
+<B><F>Uhm</F> <nvs>cough</nvs> <F>uh</F> I wanna buy shoes <.></.> <F>uh</F> today. <F>Uh</F>. <.></.> <SC>What</SC> <SC>which is</SC> which do you recommend?</B>
+<A><nvs>laughter</nvs> <F>Well</F> <R>I</R> I have to know your taste.</A>
+<B><F>Uh</F> <.></.> <F>uhm</F> <F>uh</F> I wanna sneaker and <.></.> <F>uh</F> <.></.> <F>uh</F> <.></.> the size is <.></.> twenty-nine centimeter. <F>Uh</F>. <.></.> Which do you recommend?</B>
+<A><F>Well</F> we have lots of shoes with <SC>twe</SC> size twenty-nine centimeter.</A>
+<B><F>Uh</F> <.></.> <F>uh</F> I want <R>black</R> black shoes <R>and</R> <..></..> <R>and</R> <..></..> and <R>to</R> to <R>run</R> run. <F>Uh</F> <..></..> <F>uh</F> <..></..> <F>uh</F> <..></..> <F>uh</F>.</B>
+<A>O K, <F>uh</F> black shoes for running.</A>
+<B>Yes.</B>
+<A>This aisle.</A>
+<B>O K. <nvs>laughter</nvs> <F>Uh</F> <.></.> <F>uh</F> <..></..> <F>ah</F> <F>uh</F> <nvs>cough</nvs> I want Nike shoes <R>and</R> <..></..> <R>and</R> <.></.> and I want <R>con</R> comfortable shoes. <.></.> <F>Uh</F> <..></..> <F>uh</F> I want <R>st</R> strong for rain shoes. <nvs>laughter</nvs> <R>Which</R> <.></.> <R>which</R> <F>uh</F> <..></..> <F>eh</F> <.></.> which do you think the best?</B>
+<A>O K, <F>well</F> in that case <SC>here's</SC> I have two pairs of shoes both are Nike.</A>
+<B>Yeah.</B>
+<A>Both <OL>of <?>them are</?></OL> pretty good.</A>
+<B><OL><F>Uh</F></OL>. What is <.></.> <R>these</R> these difference?</B>
+<A>O K, this one is a little expensive <.></.> than this one.</A>
+<B><F>Uh</F>. <.></.> In quality.</B>
+<A>Quality is almost the same.</A>
+<B><F>Oh</F>. O K. <F>Uhm</F>. <laughter>So I buy this one</laughter>.</B>
+<A>The cheaper one?</A>
+<B>Yes.</B>
+<A>O K. All right. Now here cost five thousand yen.</A>
+<B>O K.</B>
+<A>Is that O K?</A>
+<B>O K.</B>
+<A>Good. Here's the shoes, five thousand yen.</A>
+<B>Thank you.</B>
+<A>All right. Thank you very much. I hope you like it. Great. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. <nvs>clearing throat</nvs> Excuse me. Now this is the end of the role-play. Now, <H pn="B's name">XXX02</H>, when you go shopping, where do you usually go?</A>
+<B><F>Uh</F>. <..></..> Recently, I go to Harajuku.</B>
+<A>Why do you like Harajuku?</A>
+<B><F>Uh</F>. <R>There</R> there are many shops. <.></.> And <..></..> I like <R>sh</R> shopping. <F>Uh</F>. <..></..> Walking and shopping is very enjoyable.</B>
+<A>O K. All right. Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now lastly I would like to <R>show</R> show you sequence of pictures. Here's a picture for you and <R>I would</R> I would like you to make up a short story based on these pictures from number one to four. O K? And this happened before so please start your story with one day last week.</A>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>O K. <..></..> <F>Eh</F> <..></..> <F>uh</F>. <..></..> <SC>Last week</SC> <F>eh</F> <..></..> <R>two</R> <R>two weeks ago</R> two weeks ago this girl <SC>is</SC> was given <F>eh</F> movie tickets <F>eh</F> from <laughter>uncle</laughter> <R>and</R> and <R>she</R> <R>she</R> <..></..> <R>she</R> she said to two boyfriends let's go <SC><R>mo</R> movie</SC> watching movie with me, <F>eh</F> two boy said O K. And <SC>last</SC> next week <F>eh</F> <.></.> girl and boys <R>went</R> went movie museum. <F>eh</F> <nvs>clearing throat</nvs> And they bought popcorns and drinks and watched movie and that movie was crashing airplanes movie and a girl is excited but two boys was sleeping. <F>Uh</F> <..></..> <F>uh</F>. <..></..> Then <F>eh</F> <R>they</R> they spend <.></.> little enjoyable time.</B>
+<A><OL>All right, thank you very much</OL>.</A>
+<B><OL>That's all</OL>.</B>
+<A>O K.</A>
+</task>
+<followup>
+</followup>
+</stage4>
+<stage5>
+<A>Now <H pn="B's name">XXX02</H>, this is almost end of the interview. So are you going back home today, after this interview?</A>
+<B><F>Uh</F> I will <..></..> go to <.></.> <F>eh</F></B>
+<A>Harajuku?</A>
+<B><R><H pn="others4">XXX07</H></R> <H pn="others4">XXX07</H>.</B>
+<A><F>Oh</F>. O K.</A>
+<B>And training <SC>gy</SC> machine gym.</B>
+<A><F>Oh</F>. O K, O K. Because you play basketball? <R>You have to</R> <OL>you have to give a lot of exercise</OL>?</A>
+<B><OL>Yeah yeah, <R>but</R></OL> <R>but</R> but today is first time.</B>
+<A>Is that right?</A>
+<B><SC>My <R>health</R> health card</SC> <R>I</R> I have lost my health card.</B>
+<A>I see. So you've been in big trouble. <nvs>laughter</nvs></A>
+<B>I don't know <R>I</R> I can training.</B>
+<A><F>Oh</F> you'd better go then to find it out. Good. All right. Thank you very much. <OL>This is end of the interview</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>Good.</A>
+</stage5>
+</body>
+</interview>

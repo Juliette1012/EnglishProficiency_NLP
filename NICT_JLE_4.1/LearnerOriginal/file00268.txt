@@ -1,0 +1,277 @@
+<interview>
+<filename>file00268.txt</filename>
+
+<head version="1.3">
+<date>2000-10-24</date>
+<sex>female</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>travel_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>How are you <F>err</F> <H pn="B's name">XXX02</H>?</A>
+<B>I'm tired because</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> in my company,</B>
+<A><F>Uum</F>.</A>
+<B><F>mm</F> <SC>la</SC> <F>er</F> <SC>next s</SC> from next September,</B>
+<A><F>Um</F>.</A>
+<B>we change our computer system.</B>
+<A><F>Um</F>.</A>
+<B>So I must prepare it. <CO>So</CO>.</B>
+<A><F>Hum</F>. I see. What <F>err</F> actually do you do</A>
+<B><OL>What</OL>?</B>
+<A><OL>in your</OL> job?</A>
+<B>Yes. <F>Er</F> I work at <?>forexchange</?> company</B>
+<A><F>Uhu</F>.</A>
+<B>in <H pn="others1">XXX03</H>.</B>
+<A><F>Hum</F>.</A>
+<B>I'm a clerk.</B>
+<A><F>Um</F>.</A>
+<B>And I make documents everyday.</B>
+<A><F>Er</F> I see. How do you enjoy your work?</A>
+<B>Yes. <F>Err</F> <F>uum</F> it's routine work but my co-workers</B>
+<A><F>Um</F>.</A>
+<B>are very kind so</B>
+<A><F>Um</F>.</A>
+<B>I enjoy it.</B>
+<A><F>Er</F> that's good. Where do you live, <H pn="B's name">XXX02</H>?</A>
+<B>I live in <H pn="others2">XXX04</H> City,</B>
+<A><F>Um</F>.</A>
+<B>near <H pn="others3">XXX05</H> City,</B>
+<A><F>Uhu</F>.</A>
+<B>in <H pn="others4">XXX06</H> Prefecture.</B>
+<A>I see. <F>Er</F> would you tell me about your area?</A>
+<B><F>Er</F> <F>uum</F> <.></.> near my house,</B>
+<A><F>Um</F>.</A>
+<B>there are many <SC>pear</SC> <.></.> <F>hm</F> Japanese pear <.></.> <F>uum</F> field.</B>
+<A><F>Um</F>.</A>
+<B><F>Um</F>.</B>
+<A><F>Um</F>.</A>
+<B><F>Hm</F>. <.></.></B>
+<A>How convenient is that place?</A>
+<B><F>Ah</F>. It's not convenient.</B>
+<A><F>Um</F>.</A>
+<B><.></.> But</B>
+<A><F>Hm</F>.</A>
+<B>here are many green fields.</B>
+<A><F>Um</F>.</A>
+<B>So I <??></??>.</B>
+<A><F>Um</F> That's good. So <F>um</F> do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Um</F>.</A>
+<B>I live with <R>m</R> my father and my mother.</B>
+<A><F>Um</F>.</A>
+<B>I'm a only child.</B>
+<A><F>Oh</F>. I see. Please tell me about your mother.</A>
+<B><F>Er</F> she is a housewife.</B>
+<A><F>Uhu</F>.</A>
+<B>And she likes gardening.</B>
+<A><F>Hum</F>.</A>
+<B><F>Er</F> she take care flowers</B>
+<A><F>Um</F>.</A>
+<B>on our balcony everyday.</B>
+<A><F>Hum</F>. I see. Do you have any hobbies?</A>
+<B>Yes. I like Japanese flower arrangement.</B>
+<A><F>Hum</F>.</A>
+<B><F>Hm</F>. Usually <R>I</R> I practice it every Thursday.</B>
+<A><F>Oh</F> I see. What is so interesting about flower arrangement?</A>
+<B><F>Hmm</F>. <R>It's</R> it's very interesting because</B>
+<A><F>Um</F>.</A>
+<B><F>uum</F> <..></..> we show the space on the vases.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. For example, <F>mm</F> most tall flowers</B>
+<A><F>Um</F>.</A>
+<B>shows mountain,</B>
+<A><F>Hum</F>.</A>
+<B>and second one is river, third one is village or trees and <.></.> <R>it</R> <SC>it's</SC> <.></.> water <SC>on the</SC> in the flower vase,</B>
+<A><F>Um</F>.</A>
+<B>it shows seas.</B>
+<A><F>Um</F>.</A>
+<B>So <SC>raining and <.></.> it</SC> <F>er</F> when it's rain, <F>hm</F> water flow,</B>
+<A><F>Uhu</F>.</A>
+<B>and mountain to the seas.</B>
+<A><F>Err</F> that sounds very fascinating. <nvs>laughter</nvs> Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>Now, let me show you a picture. Would you describe it for me?</A>
+<B>Yes. <F>Um</F> <JP><F>eee</F></JP>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><JP><F>Eee</F></JP>.</B>
+<A>Anything you see.</A>
+<B>Yes. <F>Uum</F> three couples enjoy their dinners. And <..></..> one of them, <SC>the men choose</SC> the men is choosing wine. And his wife is looking forward his selections. <F>Um</F> other two couples already have main dishes. And now, it's at seven o'clock. There are a big <.></.> clocks. And near here, <F>uum</F> the woman is playing pianos.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A>Do you drink, <H pn="B's name">XXX02</H>?</A>
+<B>A little bit.</B>
+<A><F>Um</F>. When do you drink, what happens? <OL><nvs>laughter</nvs></OL></A>
+<B><F>Err</F> <F>uum</F> <..></..> <F>mm</F> <F>er</F> on my face and on my red is very red.</B>
+<A><nvs>laughter</nvs></A>
+<B>And I feel so bad. So I can't</B>
+<A><F>Hm</F>.</A>
+<B>drink <..></..> <SC>much</SC> <F>er</F> many.</B>
+<A><F>Hum</F>. I see. <F>Um</F> please tell me about your favorite restaurant.</A>
+<B><F>Err</F> <?>I</?> see. <.></.> I like Italian restaurant.</B>
+<A><F>Uhu</F>.</A>
+<B>There are in <H pn="others5">XXX07</H> City</B>
+<A><F>Um</F>.</A>
+<B>in <H pn="others4">XXX06</H> Prefecture.</B>
+<A><F>Um</F>.</A>
+<B><F>Uum</F> <..></..> they have many pizza and many pastas</B>
+<A><F>Um</F>.</A>
+<B>and very delicious desserts.</B>
+<A><F>Hum</F>.</A>
+<B>So I like there.</B>
+<A><F>Er</F> I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's do a role-play.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is selecting a card.</ctxt>
+<A>O K. <F>Er</F> would you read it to yourself.</A>
+<B>Yes.</B>
+<A>And when you're ready, I'll start.</A>
+<B>Yes.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes.</B>
+<A>May I help you?</A>
+<B><F>Err</F> I want to go abroad. But I can't decide the place.</B>
+<A><F>Um</F>.</A>
+<B>So</B>
+<A><F>Hm</F>.</A>
+<B>please tell me your <F>err</F> favorite place.</B>
+<A>How about an island?</A>
+<B><F>Ohh</F>. <R>It's</R> <F>er</F> <SC>it's</SC> <F>er</F> it sounds good.</B>
+<A><F>Um</F>.</A>
+<B>So where <.></.> are there?</B>
+<A><F>Er</F> Southeast Asia?</A>
+<B><.></.></B>
+<A>Southeast Asia.</A>
+<B>Southeast Asia. <F>Err</F>. Yeah.</B>
+<A><F>Um</F>.</A>
+<B><F>Err</F>. For example, Bali Island and?</B>
+<A><F>Er</F> yeah, how about <F>err</F> Sentosa?</A>
+<B>Sentosa? <F>Err</F>.</B>
+<A><F>Um</F>.</A>
+<B><F>Oh</F>. <..></..> <SC>I already go there</SC></B>
+<A><F>Oh</F>. <nvs>laughter</nvs></A>
+<B>I already went to there.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL>So</OL> please tell me <SC>another pla</SC> another island.</B>
+<A>O K. <F>Erm</F> <.></.> yeah, we have several islands. We have options.</A>
+<B><F>Oh</F>.</B>
+<A><F>Um</F>.</A>
+<B><..></..> Where is Cebu Island? What's country?</B>
+<A><F>Oh</F> several. You have options. Like for example, Hawaii</A>
+<B><F>Er</F>.</B>
+<A>Island, Maldives, et cetera.</A>
+<B><..></..> I haven't gone</B>
+<A><F>Hm</F>.</A>
+<B>Hawaii Island.</B>
+<A><F>Um</F>.</A>
+<B>So please tell me about Hawaii.</B>
+<A><F>Well</F> <F>erm</F> you can enjoy a lot of water sports. It's a very hot, you know, country.</A>
+<B><F>Uum</F>. <..></..> <CO>I</CO>.</B>
+<A>And we have optional tours.</A>
+<B><F>Er</F>.</B>
+<A><F>Um</F>.</A>
+<B><SC>What do I do on optional tour</SC> <R>what do I</R> <..></..> what do I do <.></.> with optional tour?</B>
+<A><F>Well</F> it depends on your interest. <R>If</R> if are interested in <F>um</F> sports, there is a sports tour. <F>Er</F> if you are interested in visiting sightseeing spots,</A>
+<B>Yes.</B>
+<A><F>um</F> there is a sightseeing tour. <OL><F>Um</F></OL>.</A>
+<B><OL><R>I</R></OL> I want to know <F>err</F> history of Hawaii. So <.></.> do you have <..></..> <F>hmm</F> the history tour?</B>
+<A><F>Er</F> yes. Sure, we do. <F>Hum</F>.</A>
+<B>So <F>uum</F> I want to go Hawaii. So I decide</B>
+<A><F>Um</F>.</A>
+<B>the tour.</B>
+<A>O K. So here is a brochure. So please take a look.</A>
+<B>Yes.</B>
+<A>And when you decide which optional tour <R>you</R> you want to take, please come back again.</A>
+<B>Yes.</B>
+<A>Thank you very much.</A>
+<B>Thank you.</B>
+<A>O K. This is the end of the <SC>role-play</SC> <F>er</F> I mean role-play.</A>
+</task>
+<followup>
+<A><F>Er</F> so <SC>you went</SC> you said you went to Singapore. How was the trip <OL>in Singapore</OL>?</A>
+<B><OL><F>Err</F></OL>. It's very hot and <SC>humidity</SC></B>
+<A><F>Hum</F>.</A>
+<B><F>er</F> humid.</B>
+<A><F>Um</F>.</A>
+<B><SC>So</SC> <..></..> <F>uum</F> <R>but</R> <F>uum</F> but <..></..> I enjoyed it. <..></..></B>
+<A>What was one of the most impressive things in Singapore?</A>
+<B><F>Uum</F>.</B>
+<A><nvs>laughter</nvs></A>
+<B><nvs>laughter</nvs> <F>Uum</F>.</B>
+<A>Or did you have any trouble during a trip?</A>
+<B><F>Err</F> yeah. <F>Uum</F> <..></..> I don't have special, nothing special. But <F>uum</F> <SC>I</SC> <..></..> first time I <.></.> went Singapore.</B>
+<A><F>Um</F>.</A>
+<B>So <F>uum</F> I <F>uum</F> <.></.> enjoyed it.</B>
+<A><F>Oh</F> you enjoyed it? Good.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, <F>um</F> let me show you another picture sequence.</A>
+<B>Yes.</B>
+<A><F>Well</F> <F>um</F> please make up a story based on one to six.</A>
+<B>Yes.</B>
+<A>And it happened before. So please start your story with "One day last week".</A>
+<B>Yes.</B>
+<A>Go ahead.</A>
+<B><F>Er</F> one day last week, <.></.> I want to eat something. And I check in the fridge. But there are nothing. So I went to supermarket near my house by car. And I choose many, many things <.></.> in that super. <.></.> I <R>paid</R> <.></.> paid <.></.> at <SC>registers</SC> and <F>hmm</F> I brought many things by myself. <..></..> After shopping, I went to go home straight. And I baked egg and <F>hmm</F> other foods.</B>
+<A>O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Um</F> when you buy food, what are some of the most important things to you?</A>
+<B><F>Err</F> <..></..> it's important thing that <F>uum</F> <..></..> <SC>it</SC> <SC>whether if</SC> whether it's fresh or not.</B>
+<A><F>Uhu</F>.</A>
+<B>Because it's rainy season</B>
+<A><F>Hum</F>.</A>
+<B>now <OL>so</OL>,</B>
+<A><OL>Right</OL>.</A>
+<B><SC>I</SC> <F>er</F> we take care our food,</B>
+<A><F>Hum</F>.</A>
+<B>I think.</B>
+<A>O K. <F>Well</F> thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview.</A>
+<B>Yes.</B>
+<A>So what are you going to do after this interview?</A>
+<B>Yeah. <F>Err</F> <SC>I want</SC> <F>er</F> I will go drinking</B>
+<A><F>Hm</F>.</A>
+<B>with my classmates.</B>
+<A><F>Err</F> that's sounds nice.</A>
+<B>Yes.</B>
+<A>Where are you going?</A>
+<B><F>Err</F> I don't know</B>
+<A><nvs>laughter</nvs></A>
+<B>the place.</B>
+<A><F>Err</F>.</A>
+<B>But I think it's near here.</B>
+<A><F>Er</F> I see. I hope you enjoy it.</A>
+<B>Thank you.</B>
+<A>Thank you very much for coming today.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

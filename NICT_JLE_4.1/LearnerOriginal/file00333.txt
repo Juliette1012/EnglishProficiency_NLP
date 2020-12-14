@@ -1,0 +1,239 @@
+<interview>
+<filename>file00333.txt</filename>
+
+<head version="1.3">
+<date>2001-03-02</date>
+<sex>female</sex>
+<age>26</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC>630</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K, good afternoon.</A>
+<B>Good afternoon.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Ah</F> <R>Ms</R> Ms. Takeda?</A>
+<B>Yes.</B>
+<A>Where do you live?</A>
+<B><F>Um</F> I live in <H pn="others1">XXX03</H> City in <H pn="others2">XXX04</H>.</B>
+<A><F>Um-hm</F>. Where in <H pn="others1">XXX03</H> <OL>do you live</OL>?</A>
+<B><OL>I live</OL> in <H pn="others3">XXX05</H> Station.</B>
+<A><F>Oh</F> I see. <F>Ah-hm</F>. I live in <H pn="others3">XXX05</H>, too.</A>
+<B><F>Ahh</F> <laughter>really</laughter>?</B>
+<A><?>O K</?>. Were you born in <H pn="others3">XXX05</H>?</A>
+<B><F>Ah</F> no, <R>I</R> I just moved about <SC>one years ago</SC> one year ago.</B>
+<A><F>Oh</F> O K. <R>So</R> so one year ago, <R>where</R> where were you?</A>
+<B><F>Ahh</F> in <H pn="others4">XXX06</H> City.</B>
+<A><F>Mhm</F>. Which do you like better to live?</A>
+<B><nvs>laughter</nvs> <F>Umm</F> I like <SC><H pn="others1">XXX03</H></SC> <H pn="others3">XXX05</H> because it's <F>ah</F> so convenient.</B>
+<A><F>Mm</F> O K, I agree. O K. And what is your hobby?</A>
+<B><F>Umm</F> cooking and watching movies.</B>
+<A><F>Umm</F>. O K. What is your favorite <F>uh</F> movie?</A>
+<B><F>Umm</F> <F>eh</F> I like <F>ah</F> old movies</B>
+<A><F>Umm</F>.</A>
+<B>like Audrey Hepburn <SC>and</SC> <F>umm</F> yeah, I like old movies. <SC>So</SC> because it's <F>ah</F> too fast for me like <F>um</F> these days, the conversation and speed of the movie. <CO>So</CO>. <nvs>laughter</nvs></B>
+<A><F>Um-hm</F>. O K. Do you watch Japanese movie, too?</A>
+<B><F>Ah</F> no. <R>I</R> I don't see so much.</B>
+<A><F>Oh</F>. Don't you like Japanese movies?</A>
+<B><F>Um</F> no, but <F>umm</F> <.></.> I don't know why. But <F>um</F> I don't watch, <F>umm</F> just on T V.</B>
+<A><F>Umm</F> O K. Then do you play any sports?</A>
+<B><F>Um</F> I play golf. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Uhh</F></OL> O K. Tell me more <R>about</R> about golf.</A>
+<B><nvs>laughter</nvs></B>
+<A>When did you start?</A>
+<B><F>Ah</F> I just started <F>um</F> just two or three months ago.</B>
+<A><F>Ah</F>.</A>
+<B><F>Mm</F>. So <SC>go</SC> I have never been to play in the course.</B>
+<A><F>Mm-hm</F>. So where do you usually practice?</A>
+<B><F>Umm</F> <.></.> <nvs>laughter</nvs> the practice place, <F>ah</F> just <?>through</?>.</B>
+<A><F>Ah</F> O K. O K, is it near your house?</A>
+<B>Yes, <F>um</F> near the sea <H pn="others3">XXX05</H>, <H pn="others5">XXX07</H>.</B>
+<A><F>Ah</F> <F>ah</F>. O K. How often do you go there?</A>
+<B><F>Um</F> on weekend. So <SC>per week</SC> one time a week.</B>
+<A><F>Uhm</F> O K. Do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Ah</F> O K. Do you have any brothers or sisters?</A>
+<B>Yes. I have one older brother and younger brother.</B>
+</stage1>
+<stage2>
+<task>
+<A>O K. O K, then O K, look at this picture, please. And <R>please</R> please describe it.</A>
+<B>Many people enjoy the snow, and <R>some peo</R> some people skiing. And children are <SC>playing</SC> enjoying with snowballs. And <SC>it seems to</SC> it seems so cold. <.></.> More?</B>
+</task>
+<followup>
+<A><F>Oh</F> O K. That's all?</A>
+<B><laughter>Yes</laughter>.</B>
+<A>O K, thank you. Do you ski?</A>
+<B>No.</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL><R>I</R></OL> <CO>I never</CO>.</B>
+<A>Why not?</A>
+<B><nvs>laughter</nvs> <F>Ah</F> because I don't like the cold climate. <nvs>laughter</nvs></B>
+<A><F>Ah</F> that's the reason. <F>Ahh</F>.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>How about the snowboard?</A>
+<B><F>Ahh</F> <.></.> I'm not so interested in the winter sports.</B>
+<A><F>Oh</F>.</A>
+<B>And I prefer the summer and hot.</B>
+<A><F>Ahh</F>. Then tell me about your favorite summer sports.</A>
+<B><nvs>laughter</nvs> <F>Uhm</F> I like <F>ah</F> <R>sea</R> <SC>sea sports</SC> <F>ah</F> <R>mari</R> marine sports, kind of <F>ahh</F> <SC>yacht</SC></B>
+<A><F>Um-hm</F>.</A>
+<B>small yacht. And two people on small yacht, and <F>um</F> move just with the wind. That's called dinghy.</B>
+<A><F>Oh</F> do you have your own dinghy?</A>
+<B><laughter>No</laughter>. So I rent, <F>ah</F> and I practice.</B>
+<A><F>Ah</F>. Do you have any idea how much one dinghy is?</A>
+<B>How much?</B>
+<A><F>Ah-hm</F>.</A>
+<B>I'm sorry?</B>
+<A>If I want to buy one, how much do I need?</A>
+<B><laughter><F>Ahh</F> I have no idea</laughter>. The dinghy. But <SC>Tha</SC> <SC>ma</SC> that's not <SC>so</SC> too much expensive because <F>ah</F> no motor. <F>Um</F> It's simple, I think. But too expensive for me to buy.</B>
+<A>What's big difference between yacht and dinghy?</A>
+<B><F>Ahh</F> <SC>yacht is</SC> <nvs>cough</nvs> I think <SC>it's</SC> <F>um</F> bigger one is called yacht, and dinghy is <F>ah</F> for two person.</B>
+<A><F>Hmm</F> I see.</A>
+<B>Very small.</B>
+<A><F>Uhm</F>. O K. Do you like yacht, too?</A>
+<B>Yes.</B>
+<A><F>Ah</F> O K. Can you swim?</A>
+<B>Yes, I like.</B>
+<A>Yeah, of course. Can you dive, too?</A>
+<B>Yes.</B>
+<A><F>Ah</F> O K. O K. Thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Well</F> next, let's do role-play. This is your card. Please read it.</A>
+<B><ctxt>interviewee is reading the card</ctxt></B>
+<A>O K?</A>
+<B>Yes.</B>
+<A>O K, then I'll start. May I help you?</A>
+<B><nvs>cough</nvs> <F>Um</F> I want to go to New York</B>
+<A><F>Um-hm</F>.</A>
+<B><F>urm</F> <SC>as soon as possible</SC> as fast as possible. So where can I buy the ticket?</B>
+<A><F>Oh</F> you can buy a ticket here.</A>
+<B>Here? So I want one</B>
+<A><F>Um-hm</F>.</A>
+<B>to <R><laughter>New</laughter></R> New York, and one-way ticket.</B>
+<A><F>Um-hm</F>.</A>
+<B>How much is it?</B>
+<A><F>Ahh</F> twenty dollars.</A>
+<B>Yes.</B>
+<A>By express.</A>
+<B><F>Ah</F> O K. I'll take it.</B>
+<A><F>Ah</F> O K? O K, thank you very much. This is your ticket.</A>
+<B>Yes, thank you.</B>
+<A>O K, have a nice trip.</A>
+<B>You, too.</B>
+<A>O K, thank you.</A>
+<B><nvs>laughter</nvs></B>
+</task>
+<followup>
+<A>Thank you. This is the end of role-play. Have you been to New York?</A>
+<B>No, but I really want to go. <R>I</R> <F>umm</F> I have been to Los Angels.</B>
+<A><F>Um-hm</F>. <F>Oh</F> what was your <R>e</R> <F>ah</F> expression of Los Angels?</A>
+<B><CO><F>Ahh</F> very</CO>.</B>
+<A>I mean impression of Los Angels, yes.</A>
+<B><F>Um</F> very exciting, and people are fashionable, especially in Beverly Hills. And very gorgeous.</B>
+<A><F>Um</F> I see. O K. And <F>er</F> why do you want to go to New York?</A>
+<B><F>Umm</F> I want to go, but <F>umm</F> no chance.</B>
+<A><F>Oh</F> I see. <F>Mhm</F>. Have you ever been to other places in the world?</A>
+<B>Yes. <F>Uhh</F> I've been to Hawaii and Europe, like Italy, France, Germany.</B>
+<A><F>Wow</F>.</A>
+<B>And I like Asian <SC>place</SC> countries like Thailand and Vietnam.</B>
+<A>So totally how many countries have you visited?</A>
+<B><F>Umm</F> I have never counted. <CO><F>Ah</F> <nvs>laughter</nvs> about ten times or</CO>.</B>
+<A>Ten countries?</A>
+<B>Yeah, <F>ah</F> <SC>ten</SC> no, <F>eh</F> ten times.</B>
+<A><F>Oh</F> ten times.</A>
+<B>Yes. <R>I</R> <F>um</F> I like Hawaii because <nvs>laughter</nvs> <SC>winter</SC> <F>ah</F> summer sports.</B>
+<A><F>Ah</F>. You like <OL>summer sports</OL>.</A>
+<B><OL>So</OL> I have been there five times.</B>
+<A><F>Uhm</F> O K. Do you remember your first abroad trip?</A>
+<B>Yes. <R>I</R> <F>umm</F> I was high school student.</B>
+<A><F>Oh</F>.</A>
+<B>With my family.</B>
+<A>Where did you go?</A>
+<B>Hawaii.</B>
+<A><F>Ahh</F> I see. Was it a special occasion?</A>
+<B>Yes. I passed the examination, and my father told me congratulation. <CO>And we were going to</CO>.</B>
+<A><F>Ahh</F> how gorgeous.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. So how did you like Hawaii?</A>
+<B>I like it very much. <F>Ahh</F> <F>umm</F> <SC>I</SC> <SC>Hawaii is</SC> <F>umm</F> <SC>Hawaii has the</SC> Hawaii is special for me. <F>Umm</F> if I go to one country, and <SC>I will</SC> I think next time, I went to another country. But <SC>Hawaii is</SC> <F>ah</F> Hawaii, I want to go many times.</B>
+<A>O K. O K, that's good. You have nice parents.</A>
+<B><nvs>laughter</nvs> Yes, but just one time. <OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL><nvs>laughter</nvs></OL> So look at another picture. This time, please make up a story.</A>
+<B><F>Ahh</F>.</B>
+<A>O K? From number one to number six. And it happened before so please start with, "One day last week".</A>
+<B><ctxt>interviewee is looking at the pictures</ctxt> One day last week, I met with my uncle <F>um</F> <.></.> for long absence. <nvs>sniff</nvs> And my uncle took me to the nice restaurant. <R>We</R> we had so many kind of foods, <F>ah</F> Western food and Japanese food. And I really like it. And he seems to be very well. And we had very good time, and I said him bye-bye.</B>
+</task>
+<followup>
+<A>O K.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K, good. Thank you very much. O K. <F>Ahh</F> please compare eating out with eating at home.</A>
+<B><F>Umm</F> eating outside is a lot of fun, <F>ah</F> not just <SC>the taste</SC> the food, <F>um</F> I feel the atmosphere of the restaurant. <CO>And <F>umm</F> outside <.></.> is <F>um</F> <.></.> <F>umm</F></CO>.</B>
+<A>So which do you like better to eat?</A>
+<B><nvs>laughter</nvs> <F>Ahh</F> I like eating outside, but <F>umm</F> usually, I want to eat inside the house. <F>Mm</F>. <R>I</R> I like cooking so <SC>I learn ho</SC> I think <R>how</R> how to make it, and I try at home.</B>
+<A><F>Um</F> O K. Where did you learn how to cook?</A>
+<B>Where?</B>
+<A><F>Um-hm</F>.</A>
+<B>I've never learned from other people.</B>
+<A><F>Oh</F> <OL>did you go to</OL> a cooking school?</A>
+<B><OL><??></??></OL> <F>uh</F> <SC>yes</SC>, <F>ah</F> no.</B>
+<A><F>Ahh</F>. O K, then <F>ahh</F> what is most successful meal <OL>you ever cooked</OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> Successful meal. <F>Ahh</F> I like Italian food.</B>
+<A><F>Ah</F>.</A>
+<B><CO>And so my <laughter>original food</laughter></CO>.</B>
+<A><F>Oh</F>.</A>
+<B><F>Um</F>. <.></.></B>
+<A>O K. Why do you like Italian food so much?</A>
+<B><F>Ahh</F> I like tomato.</B>
+<A>Sauce? <OL><F>Uh-huh</F></OL>.</A>
+<B><OL>And</OL> <F>umm</F> <SC>it's</SC> Italian food is not too heavy and not too light, <F>umm</F> <SC>very kin</SC> <F>umm</F> very different kind of taste. I think Japanese food is like <JP>shoyu</JP> and <JP>dashi</JP>.</B>
+<A><F>Um-hm</F>.</A>
+<B><F>Mhm</F>.</B>
+<A>O K. So do you cook for your parents sometimes?</A>
+<B><F>Ah</F> sometimes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Sometimes</OL>. O K, O K, good.</A>
+</followup>
+</stage4>
+<stage5>
+<A>This is almost the end of interview.</A>
+<B>Thank you.</B>
+<A>O K. So you've been to many <F>ah</F> foreign countries. What is your next plan of going abroad?</A>
+<B><SC>I</SC> I'm going <F>eh</F> <SC>next summer</SC></B>
+<A><F>Oh</F>.</A>
+<B><R>thi</R> this summer</B>
+<A><F>Ah-hm</F>.</A>
+<B>to Hawaii again.</B>
+<A><F>Oh</F>.</A>
+<B>Because my friend's <SC>wedding</SC> getting marry.</B>
+<A><F>Oh</F>. That's happy occasion.</A>
+<B>Yes.</B>
+<A><F>Ah</F> do you want to have wedding in Hawaii, too?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL>Yes</OL>, of course. <F>Ah</F> O K. How long <R>will you</R> will you stay in Hawaii?</A>
+<B><F>Um</F> about one week.</B>
+<A><F>Umm</F> O K. <F>Well</F> I hope you have a good time in Hawaii.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>And</OL> this is all. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

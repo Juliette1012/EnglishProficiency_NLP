@@ -1,0 +1,211 @@
+<interview>
+<filename>file00459.txt</filename>
+
+<head version="1.3">
+<date>2001-06-06</date>
+<sex>male</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>660</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Hello. My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>. Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A><F>Erm</F> did you have lunch already?</A>
+<B>Yes.</B>
+<A>What did you have for lunch today?</A>
+<B><F>Eh</F> rice ball.</B>
+<A><F>Oh</F> did you make it yourself?</A>
+<B>No. <F>Er</F> I bought it.</B>
+<A><F>Oh</F> what was inside the rice ball?</A>
+<B><JP><F>Eeto</F></JP> <.></.> what do you say? <F>Uh</F> <F>uh</F> <..></..> <F>uh</F> <JP>nandarou</JP>. <.></.> I don't know <R>wh</R> what to say in English.</B>
+<A>O K. What did it look like?</A>
+<B><F>Er</F> red ball and</B>
+<A><OL><F>Oh</F></OL>.</A>
+<B><OL>in Japanese</OL> <JP>umeboshi</JP>.</B>
+<A>I see. Right. <F>Er</F> is that what you usually have for lunch?</A>
+<B><R>Yes</R> yes. <R>I</R> I usually have.</B>
+<A><F>Hum</F> where do you buy it?</A>
+<B>Yeah. Convenient store.</B>
+<A><F>Hum</F> <F>er</F> is it the convenient store near here?</A>
+<B>Yes.</B>
+<A><F>Oh</F> I see. <SC>And</SC> <F>um</F> O K. So tell me. Where do you live?</A>
+<B>Yeah. I live in <H pn="others1">XXX03</H> Ward.</B>
+<A><F>Oh</F>. Do you live with the family?</A>
+<B>Yes. <F>Mm</F> with my wife.</B>
+<A><F>Oh</F>. Can you tell me about your wife?</A>
+<B>Yeah. <F>Ee</F> she is twenty-five years old.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Er</F> I married last month.</B>
+<A><F>Wow</F>. <OL>Congratulations</OL>.</A>
+<B><OL><F>Uh</F> thank you</OL>.</B>
+<A><F>Er</F> did you live in <H pn="others1">XXX03</H> before that?</A>
+<B><F>Er</F> I lived in <R><H pn="others2">XXX04</H></R> <H pn="others2">XXX04</H>-<SC><JP>ku</JP></SC> <F>uh</F> Ward.</B>
+<A><F>Oh</F> I see. <F>Er</F> which is better for you, the place?</A>
+<B><F>Err</F> I love <H pn="others2">XXX04</H>-<SC><JP>ku</JP></SC> <F>uh</F> Ward. Yeah. <OL><??></??></OL>.</B>
+<A><OL><R>What</R></OL> what do you like about <H pn="others2">XXX04</H>-<JP>ku</JP>?</A>
+<B><F>Er</F> it's near from here.</B>
+<A><F>Hum</F> <SC>how do you get <F>er</F> from here</SC> <F>er</F> sorry, how do you get to here from <F>um</F> <H pn="others1">XXX03</H>, where you're living now?</A>
+<B>Yeah. <R>I</R> <SC>I ride on</SC> <.></.> by subway.</B>
+<A><F>Uhu</F>.</A>
+<B><H pn="others3">XXX05</H> Line.</B>
+<A><F>Uhu</F> I see. What do you usually do when you are on the subway?</A>
+<B>Yeah. <SC>I'm reading</SC> I <F>erm</F> read a book.</B>
+<A><F>Mh-hmm</F> what kind of books do you read?</A>
+<B><F>Er</F> reference book.</B>
+<A>Reference? <F>Oh</F>.</A>
+<B>So my job.</B>
+<A><F>Oh</F> very hard working.</A>
+<B>Yes.</B>
+<A>I see. <F>Well</F> what do you do on the weekends?</A>
+<B>Yeah. <F>Er</F> <.></.> weekend, <F>er</F> <.></.> <SC>I do</SC> I go shopping and <.></.> I cleaning and washing. <OL><laughter>That's all</laughter></OL></B>
+<A><OL><F>Er</F> that's very nice</OL>. Where do you go shopping?</A>
+<B><F>Ee</F> nearest shop from my home.</B>
+<A><F>Uhu</F> I see. O K. Thank you very much.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. The first thing I want you to do today. O K. Please look at this picture. And tell me what you see in this picture.</A>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B>Yeah, this is a restaurant. The person <R>sitting</R> <F>eh</F> sitting in the chair <F>erm</F> have <F>er</F> meals. <..></..> He's tasting a wine. <..></..> <F>Ah</F> <.></.> <SC>the pianist</SC> a pianist <SC>playing</SC> is playing piano. <F>Hm</F>. It's seven o'clock now. <.></.> There are three couples. <..></..> <CO>And</CO>. <.></.></B>
+<A><F>Um</F> O K. That's fine. O K. Thank you very much.</A>
+</task>
+<followup>
+<A>O K. So do you often go to a restaurant like this with your wife?</A>
+<B><laughter>No</laughter>.</B>
+<A>No? Can you tell me what kind of places you eat out with your wife together?</A>
+<B><F>Er</F> I usually <F>erm</F> have dinner <F>erm</F> in my house.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah.</B>
+<A>And who does the cooking?</A>
+<B>Yeah <F>er</F> me and her together.</B>
+<A><F>Oh</F> that's nice. What kind of things do you cook?</A>
+<B><F>Um</F> <.></.> <R>I</R> I often cook <F>eh</F> Chinese foods.</B>
+<A><F>Oh</F>.</A>
+<B>Yeah. <F>Uum</F> Chinese food and egg foods.</B>
+<A><F>Oh</F> I see. What kind of Chinese food? Can you tell me a dish that you make?</A>
+<B><F>Ee</F> Chinese food is <??></??> <F>ee</F> <JP>mabodofu</JP> and <R><JP>tenshi</JP></R> <F>eh</F> <JP>tenshin</JP> <?>jinsin</?> <F>eh</F> <R>small</R> small piece of meat.</B>
+<A><F>Oh</F> I see. What is good about Chinese food?</A>
+<B>What is good about Chinese.</B>
+<A>Is there a reason why you like cooking Chinese food?</A>
+<B>Yeah, it's good. Yeah. It's delicious.</B>
+<A><F>Er</F> I see. O K. Thank you very much.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. The next thing we are going to do. I want you to read, O K, <F>erm</F> this role card. O K. We'll do a role-play. When you are ready, I will start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes. <CO>How about going</CO>.</B>
+<A>O K. Sorry. O K. I'll pick up the phone. Hello?</A>
+<B><F>Er</F> hello? This is <H pn="B's name">XXX02</H>.</B>
+<A><F>Oh</F> hi, <H pn="B's name">XXX02</H>. It's <H pn="A's name">XXX01</H>.</A>
+<B>Yeah. <F>Ee</F> how about going movie?</B>
+<A><F>Oh</F> good.</A>
+<B><F>Ee</F> <SC>what time we meet</SC> <F>er</F> <R>what time</R> <F>ee</F> <F>er</F> what time <SC>do we</SC> will we meet?</B>
+<A>Any time is fine.</A>
+<B>Yeah. How about seven o'clock?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Erm</F> <..></..> <R>how</R> <..></..> how about <SC>to meet</SC> to go there?</B>
+<A><F>Erm</F> where are we going?</A>
+<B>Yeah. Movie theater.</B>
+<A>Where is the movie theater?</A>
+<B><F>Err</F> <R>it's</R> <R>it's</R> it's near from here.</B>
+<A>O K.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Erm</F></OL>. Then, do I need to take a subway?</A>
+<B><F>Er</F> yes. <F>Ee</F> <.></.> yes. <R>Le</R> <F>mm</F> <.></.> <R>let's</R> let's go <?>we</?> by subway to the movie. <.></.></B>
+<A>O K. I don't know which station.</A>
+<B>Yeah. <F>Ee</F> <.></.> <??></??> <F>ee</F> <.></.> <SC>meet</SC> <F>ee</F> let's meet <R>at</R> <F>ah</F> at <F>er</F> Akasaka Station.</B>
+<A>O K.</A>
+<B>O K.</B>
+<A>Akasaka Station <OL>at seven</OL></A>
+<B><OL>At seven</OL>.</B>
+<A>o'clock. O K. Fine. O K. I'll see you then.</A>
+<B>See you.</B>
+<A>O K. Bye. O K. Thank you.</A>
+</task>
+<followup>
+<A>That's the end of the role-play. Thank you very much. Do you often go to see movies?</A>
+<B>No. Not at all.</B>
+<A>I see. Do you rent videos?</A>
+<B>No.</B>
+<A>O K. So what else do you do in your free time besides shopping, cleaning the house?</A>
+<B>Yeah. <F>Er</F> I like watching T V.</B>
+<A><F>Oh</F> what kind of programs do you watch?</A>
+<B>Yeah. News and sports program.</B>
+<A><F>Um</F> what's your favorite sport?</A>
+<B>Yeah. Baseball and soccer.</B>
+<A><F>Oh</F> I see. <F>Well</F> O K, so <SC>what</SC> how do you think the Japanese soccer team is doing?</A>
+<B>Yeah. <SC>National</SC> Japanese national team is very good.</B>
+<A><F>Um</F> and what do you think is the secret? What is making them strong?</A>
+<B><F>Err</F> <.></.> I think <F>er</F> more strong <F>er</F> striker.</B>
+<A><F>Err</F> I see. O K. Do you do sports yourself?</A>
+<B>Yes. <F>Er</F> <SC>I do</SC> <SC>I did</SC> <SC>I played</SC> <F>er</F> I was a player of American football.</B>
+<A><F>Oh</F> I see. Do you play football now?</A>
+<B>No.</B>
+<A>No? <F>Oh</F> that's too bad. O K. Thank you very much.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. The last thing <OL>we are going</OL></A>
+<B><OL>Yeah</OL>.</B>
+<A>to do, <R>O K</R> <F>um</F>.</A>
+<ctxt>The interviewer is taking out a card.</ctxt>
+<A>O K, please look at this picture. I want you to make a story. This is something that happened one day last week. O K? So please start with "One day last week," and make a picture from one to six.</A>
+<B>Yes, <F>eh</F> one day last week, <F>er</F> I and my wife was walking street. And <SC>I find</SC> we find <F>er</F> <.></.> <F>mm</F> <R>something</R> something <R>howling</R> howling in the box. <.></.> Picture two. Yeah. <F>Ee</F> <R>I said</R> I said <R>I can hea</R> I can hear <F>ee</F> <SC>someone's <F>ee</F> voice</SC> <F>mm</F> something <F>ee</F> sound. <F>Ee</F> picture three. <F>Ee</F> <R>m</R> my wife find <F>ee</F> a cat <?>in the</?> box. So <F>ee</F> <.></.> <R>she said she want</R> she said she want to <F>ee</F> have a cat in our home. I refused <SC>it</SC> that. I can't. <F>Ee</F> <.></.> <F>ee</F> <R>having</R> having a pet is prohibit in our <SC>hou</SC> home. <.></.> But <R>she don't</R> <SC>she don't hear my voice</SC> <.></.> <F>er</F> he didn't hear my voice. <F>Ee</F> she pick him up in his clothes. So, <R>I</R> <R>I take</R> I take the cat to my home. That's all.</B>
+<A>O K. Thank you very much. Good.</A>
+</task>
+<followup>
+<A>Have you ever had a pet?</A>
+<B>Yes.</B>
+<A><F>Hm</F>. <OL><CO>Can you tell me</CO></OL>.</A>
+<B><OL>I had a dog</OL>.</B>
+<A><F>Oh</F> when did you have the dog?</A>
+<B><F>Er</F> I have a dog since <F>er</F> <SC>I was high school</SC> I was in high school.</B>
+<A><F>Oh</F> what kind of dog did you have or do you have?</A>
+<B><F>Er</F> white terrier. Yeah. Small dog.</B>
+<A><F>Hum</F> I see. What is a good thing about having a dog as a pet?</A>
+<B><F>Ee</F> <R>there is</R> there <F>er</F> is laugh <SC>in our</SC> in my house. Always laugh. Yeah.</B>
+<A>Why does the dog bring you laughter?</A>
+<B>What does?</B>
+<A><R>Why</R> why the dog make people laugh?</A>
+<B>Yeah. <F>Er</F> <..></..> <SC>I know the</SC> I don't know the reason certainly. But <F>mm</F> <R>every</R> everybody look him and <F>um</F> <.></.> <F>urm</F> and <F>mm</F> they enjoy his moving. <CO>And</CO>.</B>
+<A><F>Um</F> I see. <SC>Is there any</SC> are there any difficult things about keeping a dog?</A>
+<B><F>Er</F> <.></.> yes. <R>I</R> I made many friends, yeah, <F>um</F> except <R>school</R> school. Yeah. <F>Er</F> <SC>I can</SC> <F>er</F> <R>I have</R> I have many <F>ee</F> conversation with my neighborhood about dogs.</B>
+<A><F>Oh</F> <F>oh</F> I see. That's nice. O K. Good.</A>
+</followup>
+</stage4>
+<stage5>
+<A>We are almost at the end of the interview. So after this, what are you going to do?</A>
+<B><.></.> After this?</B>
+<A>After this interview.</A>
+<B>Yeah. <F>Fmm</F> <F>eh</F> about my job?</B>
+<A><F>Uhu</F>. Are you going back to your office?</A>
+<B>Yes. <F>Er</F> and do my job.</B>
+<A>I see. And how long are you going to work for today?</A>
+<B><F>Er</F> 'till ten or eleven <OL>o'clock</OL>.</B>
+<A><OL><F>Oh</F></OL>. <F>Oh</F> I see. And after that, <SC>when are</SC> where are you going to have dinner?</A>
+<B>Yeah. <F>Err</F> in my house.</B>
+<A><F>Er</F> that's nice. O K. <F>Well</F> I hope you have a nice day.</A>
+<B>Thank you. You, too.</B>
+<A>Thank you very much. O K. This is the end of the interview. O K.</A>
+<B>Thank you.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

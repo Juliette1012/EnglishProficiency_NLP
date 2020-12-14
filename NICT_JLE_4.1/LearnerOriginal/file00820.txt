@@ -1,0 +1,260 @@
+<interview>
+<filename>file00820.txt</filename>
+
+<head version="1.3">
+<date>2001-11-28</date>
+<sex>female</sex>
+<age>23</age>
+<country>Japan</country>
+<overseas>1_12m</overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Good evening.</A>
+<B>Good evening.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>Yes. My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. Thank you, <H pn="B's name">XXX02</H>. <H pn="B's name">XXX02</H>, what do you do?</A>
+<B><F>Um</F> <SC>I'm wo</SC> I work for <SC>interna</SC> <F>um</F> <H pn="company name1">XXX03</H>.</B>
+<A><F>Uhu</F>.</A>
+<B>And I do the sales. <.></.> Yes.</B>
+<A><F>Um</F>. What is most interesting point <R>in sa</R> in sales <OL>department</OL>?</A>
+<B><OL>Yes</OL>. <F>Er</F> yes. <F>Uum</F>. The most interesting thing is <R>the</R> <F>err</F> the communication with another people who I didn't meet.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes.</B>
+<A><F>Um</F>. How do you communicate with these <F>err</F> customers?</A>
+<B><F>Uum</F>. With telephone.</B>
+<A><F>Uum</F>. I see. O K. And <F>er</F> <F>err</F> where is your working place?</A>
+<B>Working place is <F>uh</F> Ochanomizu.</B>
+<A><F>Uhu</F>. How do you go to your office from <R>your</R> your house?</A>
+<B>Yes. I take Chuo Line, yes, from <F>eh</F> Toyoda Station to Ochanomizu.</B>
+<A><F>Uhu</F>. I see. Usually, how is the commuting train in the <OL>early morning</OL>?</A>
+<B><OL><F>Hmm</F></OL>. <laughter><F>Err</F></laughter> <F>uum</F>. Actually, I hate <R>the</R> the crowded train, so if I can get up early, earlier than <laughter>now</laughter>, <F>uum</F> I can take more earlier train. But I <laughter>prefer to sleep</laughter>, so, yeah, very difficult.</B>
+<A><F>Um</F>. <F>Er</F> what do you usually do on the commuting train from Toyoda to Ochanomizu?</A>
+<B><F>Um</F> pardon?</B>
+<A><F>Um</F> what do you usually do on the train?</A>
+<B><F>Er</F> on the train? <F>Uum</F>. <SC>I</SC> sometimes I sleep. And <F>uh</F> <SC>s</SC> <SC>I stand</SC> I'm standing in the train, and I <laughter>sleep</laughter>.</B>
+<A><F>Oh</F>.</A>
+<B>And, if <SC>I</SC> luckily I can get a seat, <F>uum</F> I read a newspaper and sleep. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Oh</F> O K. That's interesting. O K. And, on your free day,</A>
+<B>Yeah.</B>
+<A>what do you like to do?</A>
+<B><F>Uum</F>. Free day, I like to go out with my friend, and, sometimes <SC>I like to</SC> <F>er</F> I <SC>go to movie</SC> go to see the movie theater.</B>
+<A><F>Hum</F>.</A>
+<B>Yes.</B>
+<A><F>Hum</F>. And <F>er</F> what kind of movies do <R>you</R> you like?</A>
+<B><F>Err</F> I like <F>er</F> ethnic movie or Iran <R>mo</R> movie. <OL><CO>or</CO></OL>.</B>
+<A><OL><F>Um</F></OL>. What do you mean by the ethnic movies?</A>
+<B>Ethnic movie.</B>
+<A><F>Hm</F>.</A>
+<B><F>Um</F> produce by <F>um</F> <R>Cam</R> Cambodia or Vietnam or not Europe or America.</B>
+<A>I see. How do you get interested in especially these movies?</A>
+<B><F>Uum</F>. <R>How</R> <SC>how do you</SC> how do I get? <.></.></B>
+<A><F>Hmm</F>. <.></.> Or, why are you interested in <OL>ethnic movies</OL>?</A>
+<B><OL><F>Err</F></OL> <F>er</F> because <R>I</R> <R>I like to</R> <F>er</F> I like to travel <F>um</F> <SC>and</SC> <F>er</F> <SC>Asia area</SC> southeast Asia area, so, in the movie, I can see some <R>sce</R> scenery of <R>e</R> ethnic Asian area, so I can <R>feel</R> <F>err</F> feel <F>um</F> <F>err</F> that <R>I</R> <SC>I are</SC> <R>I am there</R> I am there. <OL>Yes</OL>.</B>
+<A><OL>I see</OL>. Good. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A><F>Um</F>. I'm going to show you a picture.</A>
+<B>Yes.</B>
+<ctxt>The interviewer is taking out a picture to show.</ctxt>
+<A>O K. Can you describe this picture for me, <H pn="B's name">XXX02</H>?</A>
+<B><F>Er</F> yes. <F>Errm</F> this is a snow mountains, <SC>and some</SC> and there are many ski players <F>um</F> <F>er</F> <SC>thi</SC> in this mountain. And <F>uum</F> <SC>one</SC> <SC>un</SC> one of them do the snowboard. Very good player. <SC>And</SC> but <laughter>one of</laughter> the ski player <F>um</F> <F>er</F> <SC>slew</SC> <.></.> <R>can</R> cannot good at skiing, <F>um</F> maybe. And there are four childrens playing the snowball, yes. <F>Uum</F>. And <R>all</R> all of them are boys, yes. And <F>uum</F> there is a snowman <F>er</F> near the tractor. <F>Er</F> <R>ma</R> maybe, this tractor can <SC>be</SC> work for <.></.> <SC>snow</SC> <?>escape</?> the snow.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>.</B>
+<A>O K. Thank you.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A><H pn="B's name">XXX02</H>, do you do winter sports?</A>
+<B><F>Uum</F>. <R>Not</R> <R>not</R> not so <R>m</R> many.</B>
+<A><F>Um</F>. Which do you prefer, staying inside <laughter>or</laughter> outside, <OL>when you are free</OL>?</A>
+<B><OL><F>Err</F></OL>. In winter</B>
+<A><F>Um</F>.</A>
+<B>season? <F>Uum</F> <R>I</R> I like to walk in the <R>win</R> winter season.</B>
+<A><F>Hum</F>.</A>
+<B>Yeah. Because <SC>I</SC> <.></.> <R>if I</R> if I walk <SC>and</SC> <F>er</F> <SC>good <SC>pa</SC> <SC>space</SC> <F>mm</F> pace</SC> good pace, <R>I</R> I will able to be hot.</B>
+<A><F>Hum</F>. <OL><F>Hum</F></OL>.</A>
+<B><OL>Yes</OL>. And <F>eh</F> it's very healthy. Yeah. So I like this.</B>
+<A><F>Um</F>. You said <?>in</?> wintertime, you like walking</A>
+<B><F>Um</F>.</B>
+<A>to warm you up.</A>
+<B><F>Um</F>.</B>
+<A>But, in summertime, what do you do to keep yourself healthy?</A>
+<B><F>Err</F>. Summertime? Also walking and <R>I</R> I want to <F>err</F> keep to swim. <?>Yeah</?>. But <SC>I cannot</SC> now, I cannot make <R>s</R> sometime to swim. And <??></??> <F>uum</F> I <R>try to</R> <F>um</F> <F>er</F> try <SC>to use <F>er</F> <SC>s</SC> te</SC> not to use the elevator <OL>or escalator</OL>.</B>
+<A><OL><F>Hmm</F> <F>hm</F></OL>. <F>Hum</F>. I see. <SC>It</SC> I mean, in your office building?</A>
+<B>Yes.</B>
+<A><F>Hum</F>. Yeah. That's a good idea</A>
+<B>Yeah</B>
+<A>to keep fit.</A>
+<B>Yes.</B>
+<A>O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Well</F> let's do a role-play now.</A>
+<B><F>Ah-huh</F>.</B>
+<ctxt>The interviewer is taking out a role card.</ctxt>
+<A>O K. Please read the card.</A>
+<B>Yes.</B>
+<A>And, when you are ready, I will start.</A>
+<B>Yes. <F>Oh</F>. <CO>I</CO>. <OL><F>Eh</F></OL>.</B>
+<A><OL>O K</OL>. May I help you, madam?</A>
+<B>Yes, <F>er</F> please. I'm looking for the coat. Yeah, because <SC>I</SC> in January, <R>I</R> I will go to my friend's wedding party. But I have never invited that kind of party, so I need to buy some coat.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah. So, <F>er</F> <SC>what coat</SC> what color or what design coat,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>um</F> <R>do</R> do the people buy in this season <OL>this year</OL>?</B>
+<A><OL>You need</OL> coat, <.></.> overcoat or some kind of coat you can wear inside the house?</A>
+<B><F>Er</F> overcoat.</B>
+<A>Overcoat. <F>Well</F> this time, <F>um</F> some people prefer fur coat,</A>
+<B><F>Um</F>.</B>
+<A>and leather coat.</A>
+<B><F>Um</F>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. Which color the very <.></.> familiar?</B>
+<A><F>Uum</F>. <F>Well</F> it depends. But we have variety <OL>of coats</OL>.</A>
+<B><OL><F>Oh</F></OL>.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. So <R>I want to have</R> <.></.> <F>mm</F> I want to have one <R>which</R> <F>um</F> which is very easy to <F>er</F> <R>keep</R> keep it clean.</B>
+<A><F>Hum</F>.</A>
+<B><F>Um</F>. And, <R>when</R> when I <F>um</F> take a bicycle, <F>um</F> I <?>needed</?> to it clean every time.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. So I need the <R>short</R> <SC>short si</SC> short</B>
+<A><F>Mh-hmm</F>.</A>
+<B>length.</B>
+<A>O K. Sure. <F>Well</F> we have that kind of coats, too.</A>
+<B><F>Uhu</F>.</B>
+<A>And <F>er</F> various colors. And <R>materials</R> materials</A>
+<B><F>Ah</F>.</B>
+<A>are different. So you can choose <OL>whatever you like</OL>.</A>
+<B><OL><F>Err</F></OL>. Materials. <F>Uum</F> <R>I</R> <SC>I like</SC> I want to take <F>er</F> <R>not</R> not leather.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. Because <R>i</R> it's very <R>weak</R> <F>um</F> weak in the rain.</B>
+<A><F>Uhu</F>. O K. We have a sort of vinyl type ones, too.</A>
+<B>Vinyl <OL>one</OL>.</B>
+<A><OL><F>Um</F></OL>.</A>
+<B><F>Err</F> <F>uum</F>. But I think vinyl one is <F>er</F> not <R>so</R> <SC>suit</SC> <SC>su</SC> <.></.> good for the wedding party.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. So <R>I</R> I choose <SC>the</SC> <.></.> <??></??> <.></.> <F>uum</F> like a <R>swe</R> sweaters, <??></??>. <F>Mm</F>.</B>
+<A>Wool coat?</A>
+<B>Wool.</B>
+<A>Wool.</A>
+<B><OL>Wool coat, yeah</OL>.</B>
+<A><OL>Wool coat, O K</OL>. Here. And the colors, there are several colors <OL>of wool coats, too</OL>.</A>
+<B><OL><F>Err</F></OL> wool coat.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. <F>Oh</F>. <nvs>laughter</nvs> Very <R>many</R></B>
+<A><F>Um</F>.</A>
+<B>many colors, so <F>uum</F> <R>I</R> <R>I</R> I will chose a darker color.</B>
+<A>Sure.</A>
+<B><F>Um</F>.</B>
+<A><F>Um</F>. How about this one?</A>
+<B><OL><F>Err</F></OL>.</B>
+<A><OL><R>It will su</R></OL> it will suit on you.</A>
+<B><F>Er</F> yeah. <F>Um</F>. Very <F>er</F> good and sharp line.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>. I like sharp line. <OL><CO>So</CO></OL>.</B>
+<A><OL>O K</OL>. Sure.</A>
+<B><F>Um</F>.</B>
+<A>O K. And, <F>err</F> O K, I'll wrap this <OL>for you</OL>.</A>
+<B><OL><F>Mh-hmm</F></OL>.</B>
+<A>O K.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>Thank you</OL>. That's the end of the role-play.</A>
+<B>Yes.</B>
+</task>
+<followup>
+<A>Do you like shopping?</A>
+<B>Yes. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Oh</F> yes</OL>. Definitely.</A>
+<B><laughter>Yeah</laughter>.</B>
+<A>Where do you like to go for shopping?</A>
+<B>Usually, I go to Shinjuku area.</B>
+<A><F>Um</F>. Why Shinjuku?</A>
+<B><F>Err</F> because I can use my <.></.> <SC>ticket</SC> Chuo Line ticket, so <SC>I can need</SC> <SC>I can</SC> <F>um</F> I don't need to pay the train ticket.</B>
+<A><F>Uhu</F>.</A>
+<B>And also, there are many department store at Shinjuku.</B>
+<A><F>Uum</F>.</A>
+<B><F>Uum</F> so <R>I can find</R> I can find some <R>good</R> good goods. Yeah.</B>
+<A><F>Hum</F>. Good. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Finally today, I'll show you another picture.</A>
+<B>Yes.</B>
+<A><.></.> O K. <nvs>cough</nvs> O K. This time, <F>er</F> I want you to make a story.</A>
+<B>Yes.</B>
+<A>But, please make it short.</A>
+<B><F>Ah</F> <JP>hai</JP>.</B>
+<A>And <F>er</F> it happened before.</A>
+<B>Yeah.</B>
+<A>So, start your story with "One day last week".</A>
+<B>One day last week?</B>
+<A><F>Uhu</F>.</A>
+<B><F>Uum</F>. And short. Short.</B>
+<ctxt>The interviewee is looking at the pictures and thinking for a moment.</ctxt>
+<B><F>Um</F> <F>uum</F>. And last Saturday, yeah, we go to the movie theater to see the air crash movie, yes. <F>Uum</F>. Because <SC>I</SC> <F>uh</F> we are very interested in <F>erm</F> to see <SC>the</SC> that kind of social issue's <R>mo</R> movie. Because in <R>S</R> September, <F>um</F> there was a air crash, yeah, in <R>this</R> this year. And <R>we</R> we enjoyed and very moved in this <SC>mo</SC> story, yes. And after that movie, <F>um</F> we talk about <F>um</F> many social issues. And, after that, <SC>I</SC> <R>we</R> <F>er</F> <SC>we <F>um</F> go to <F>er</F> so</SC> <F>er</F> <R>we</R> <R>we go to</R> <F>um</F> we go to the <.></.> <F>um</F> department store <F>um</F> to change our feeling, not <F>um</F> sad but <R>chee</R> cheer.</B>
+<A><F>Uum</F>. O K. Good. Thank you.</A>
+<B><F>Uhu</F>.</B>
+</task>
+<followup>
+<A><F>Err</F>. Do you like watching movies?</A>
+<B>Yes.</B>
+<A><F>Um</F>. What kind of movies do you like?</A>
+<B><F>Er</F> <R>human</R> human touch.</B>
+<A><F>Oh</F>. You said that you like ethnic movies, <OL>right</OL>?</A>
+<B><OL><F>Uhu</F></OL>.</B>
+<A><F>Uum</F>. So, where can you see these type of movies?</A>
+<B><F>Err</F>. It's not major,</B>
+<A><F>Hm</F>.</A>
+<B>so we need go to <F>uum</F> <.></.> <R>Yurakucho</R> Yurakucho area or Shibuya area.</B>
+<A><F>Uhu</F>.</A>
+<B>And, sometimes you can see that kind of movie <SC>at</SC> <F>uum</F> <.></.> <R>near</R> near Ochanomizu.</B>
+<A><F>Uhu</F>.</A>
+<B>Yeah.</B>
+<A><F>Uhu</F>.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>And</OL>, how often do you watch the ethnic <OL>movies</OL>?</A>
+<B><OL><F>Err</F></OL> maybe, once per two month.</B>
+<A>Once per two month.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>I see</OL>. <F>Uum</F>. O K.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> the interview is almost over now.</A>
+<B><F>Uhu</F>.</B>
+<A>O K. <H pn="B's name">XXX02</H>, after this interview, what's your plan for tonight?</A>
+<B><F>Er</F> tonight? <F>Uum</F>. Tonight, I can make one hour three time <R>more</R> more than <laughter>usual</laughter>.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. So <F>uum</F> I will enjoy taking the dinner <laughter>longer</laughter>. <CO>And</CO>.</B>
+<A>Who are you going to have dinner with?</A>
+<B><F>Er</F> who? With my parents at home.</B>
+<A><F>Hum</F>. So they are waiting for you to come home.</A>
+<B><F>Hum</F>. <R>May</R> maybe or not. <OL><laughter>I don't know</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K. So, please enjoy your dinner <OL>with your parents</OL>.</A>
+<B><OL><F>Er</F></OL> yes.</B>
+<A>Thank you very much <OL>for coming</OL>.</A>
+<B><OL>Thank you</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

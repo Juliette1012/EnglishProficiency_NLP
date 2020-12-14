@@ -1,0 +1,271 @@
+<interview>
+<filename>file01237.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>15</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step></step> 
+<TOEIC>730</TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>8</SST_level> 
+<SST_task2>classroom</SST_task2>
+<SST_task3>train_advanced</SST_task3>
+<SST_task4>camping</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hi.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><F>Er</F> <H pn="B's name">XXX02</H>?</A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>Yes. O K, <H pn="B's name">XXX02</H>.</A>
+<B><nvs>cough</nvs></B>
+<A><F>Um</F> you're wearing a mask.</A>
+<B><nvs>laughter</nvs></B>
+<A>So what happened?</A>
+<B>I've caught a cold.</B>
+<A><F>Oh</F> really? <F>Hm</F>. Are you O K?</A>
+<B>I'm fine, yeah.</B>
+<A>Good. O K, <H pn="B's name">XXX02</H>, <F>um</F> do you belong to any club?</A>
+<B><F>Um</F> I'm in, it's <JP>soukyoku</JP>.</B>
+<A><F>Hm</F>.</A>
+<B>I play <F>um</F> the Japanese string instrument called <JP>koto</JP>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I'm in that club.</B>
+<A><F>Um</F> why did you get interested in <F>er</F> <JP><R>sou</R></JP> <JP>soukyoku</JP>?</A>
+<B><F>Um</F> when I was in middle school, some of my friends were playing that instrument.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I had a chance to play with them, so I was <F>um</F> kind of interested in it. So</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I decided to <?>join</?> the club.</B>
+<A><F>Mh-hmm</F>. So could you tell me more about your club activities?</A>
+<B><F>Um</F> we basically play the instrument and <SC>most of our</SC> most of the songs are Japanese songs like "<JP>Sakura</JP>".</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And all the other kind of <??></??> <R>but</R> <F>er</F></B>
+<A><F>Hm</F>.</A>
+<B>but it's really hard to play it.</B>
+<A><F>Oh</F> <laughter>really</laughter>?</A>
+<B><laughter>Yes</laughter>.</B>
+<A>O K. Where do you live?</A>
+<B><F>Um</F> I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Mh-hmm</F>. <F>Um</F> are there any good places in <H pn="others1">XXX03</H>?</A>
+<B><F>Mm</F> not <laughter>really</laughter>. <CO>It's really a minor place but</CO>.</B>
+<A><F>Hm</F>. <F>Mh-hmm</F>. Do you live there with your family?</A>
+<B>Yes, <OL>I do</OL>.</B>
+<A><OL><F>Hm</F></OL>. Can you tell me about your family?</A>
+<B><F>Um</F> I live with my parents and I have a little brother.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And he's in elementary school.</B>
+<A><F>Hm</F>.</A>
+<B><CO>And he's not really kind <laughter>to me</laughter>, so</CO>. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>What do you mean</laughter></OL>? <nvs>laughter</nvs></A>
+<B><F>Well</F> like <F>um</F> we always fight a lot.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <.></.> yeah, he <.></.> kind of kicks me a lot. <nvs>laughter</nvs></B>
+<A>Really?</A>
+<B><laughter>Yeah</laughter>.</B>
+<A><F>Mh-hmm</F>. Do you like traveling?</A>
+<B><F>Um</F> not really.</B>
+<A><F>Hm</F>.</A>
+<B>But if I travel, I like using the trains.</B>
+<A><F>Hm</F>.</A>
+<B>Not the shinkansens but like the normal trains.</B>
+<A><F>Hm</F>. <F>Hm</F>. <F>Er</F> tell me about the most memorable trip <OL>you had</OL>.</A>
+<B><OL>Memorable trip</OL>. <F>Um</F> <.></.> <F>oh</F> <F>um</F> when I lived in the U S,</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>um</F> I went to the Grand Canyon with my family.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And I really loved <R>the</R> the landscapes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>It was really beautiful.</B>
+<A><F>Hmm</F>.</A>
+<B><?>Yes</?>.</B>
+<A>I see. O K. <F>Er</F> you said <R>you live</R> <F>er</F> lived in the States.</A>
+<B>Yes.</B>
+<A>When did you come back?</A>
+<B><F>Hm</F> about three years ago.</B>
+<A><F>Mh-hmm</F>. I see. <F>Um</F> how was the life in the States?</A>
+<B>It was really different, I mean, the school gave us a lot of homework <OL>than</OL> the school in Japan.</B>
+<A><OL><F>Hm</F></OL>. <F>Hm</F>.</A>
+<B>And it took me a lot of time to finish everything. <?>Yeah</?>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>I was really busy.</B>
+<A><F>Hm</F>. How did your lifestyle change after coming back to Japan?</A>
+<B>I think I became really lazy</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>because</OL> <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>because <F>well</F> maybe it was only my middle school but they didn't give us much homework.</B>
+<A><F>Hm</F>.</A>
+<B>So we really had a lot of free time to play <?>out</?> so <?>I think I got really lazy with doing all my work in school</?>.</B>
+<A><F>Hm</F>. So which do you prefer, living here or living in the States?</A>
+<B>That's <?>really</?> hard to say. <F>Um</F> I really like my life in the U S but I was too busy so <SC>it was</SC> the schools in U S gave us no time to play and have fun on our own. Maybe it was better to stay in the U S because we had more time to <F>um</F> study a lot.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And giving us homework, I think, that's something that we have to do.</B>
+<A><F>Hm</F>.</A>
+<B>So I think I prefer the U S</B>
+<A><laughter>O K, <OL>I see</OL></laughter>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</stage1>
+<stage2>
+<task>
+<A>Now I'd like to show you a picture. <F>Oh</F> let's see. O K. Please <OL>describe</OL> this picture.</A>
+<B><OL><nvs>cough</nvs></OL> <F>Mm</F> the teacher is teaching mathematics. But most of the students are not listening to her.</B>
+<A><F>Hm</F>.</A>
+<B>The boy besides <SC>the <R>wi</R> window</SC> no, no, not <laughter>the</laughter> window, <F>um</F> the hallway, <OL><?>in front</?></OL></B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><nvs>sniff</nvs> is chewing gum. And the girls in the back seat are talking. And one boy is drinking juice.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And the girl in the front is using her cell phone. I think she's mailing to her friend or someone. <R>And</R> <F>Er</F> and I think there's only one person who's really actually listening to the teacher.</B>
+<A><F>Hm</F>. O K. Thank you very much.</A>
+<B><nvs>sniff</nvs></B>
+</task>
+<followup>
+<A><F>Um</F> could you compare this class with your math class?</A>
+<B><F>Oh</F> I think most of the people are <F>um</F> listening to the teacher</B>
+<A><F>Hm</F>.</A>
+<B>in my class.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But <R>I</R> I'm sitting in the front seat so I can't see the back.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>I'm not really <laughter>sure</laughter></OL> about it</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL><R>but</R></OL> <.></.> but actually we do talk a lot <OL><laughter>in</laughter> our math class</OL>.</B>
+<A><F>Hm</F>. <F>Mh-hmm</F>.</A>
+<B>But not that much.</B>
+<A><F>Hm</F>.</A>
+<B><nvs>sniff</nvs></B>
+<A>I see you are wearing school uniform.</A>
+<B>Yes, <laughter>I am</laughter>.</B>
+<A><F>Oh</F> <F>er</F> what do you think about school uniforms?</A>
+<B>The school uniforms <F>um</F> of this school?</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Well</F> I think it's O K. But <..></..> <F>uh</F> I don't know, <F>um</F> some people are saying that they want to wear their normal clothes <OL>to</OL> school.</B>
+<A><OL><F>Hm</F></OL>. <F>Mh-hmm</F>.</A>
+<B><CO>And some people actually do wear them <OL>so</OL></CO>. <nvs>sniff</nvs></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><?>You know</?> <R>I</R> I think it's pretty O K.</B>
+<A><laughter>O K</laughter>?</A>
+<B>Yeah.</B>
+<A>Convenient?</A>
+<B>Yeah.</B>
+<A><nvs>laughter</nvs></A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K. Now, I'd like to try a role-play.</A>
+<B><nvs>cough</nvs></B>
+<A><F>Hm</F>.</A>
+<ctxt>The interviewer is selecting a card.</ctxt>
+<A>O K. Please read this. And when you are ready, I'll start.</A>
+<B><nvs>cough</nvs></B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>Ready?</A>
+<B>Yeah.</B>
+<A>O K. May I help you?</A>
+<B><F>Um</F> I couldn't get on the train that I was supposed to get on because <F>um</F> the traffic was really <F>um</F> crowded <R>and I</R> and <?>I'd like</?> to change my ticket with another one.</B>
+<A><F>Well</F> I'm sorry. It's against our policy. So we can't.</A>
+<B><F>Hm</F>. <..></..> <R?>Ca</R?> <nvs>cough</nvs> <SC>can I get another one</SC> can I buy another one or can I get the money back</B>
+<A><OL><F>Well</F></OL>.</A>
+<B><OL>for the</OL> ticket?</B>
+<A><F>Well</F> actually, we can't do that.</A>
+<B><..></..> <F>Um</F>. <..></..> We can't change it even <F>um</F> the traffic was crowded?</B>
+<A>The traffic? <F>Well</F> but that's not our fault.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><..></..> <nvs>cough</nvs> <..></..></B>
+<A><F>Hm</F>. The traffics are always <SC>crowded so</SC> I <SC?>w</SC?> mean heavy, so maybe you should have <F>um</F> left home earlier.</A>
+<B><F>Um</F> I did leave home <F>um</F> that I would be able to get to the station</B>
+<A><F>Mh-hmm</F>.</A>
+<B>on time.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But I used the bus.</B>
+<A><F>Hm</F>.</A>
+<B><SC>And the bus was really</SC> <F>well</F> not exactly the bus but the <SC>t</SC> street were really crowded. <OL><SC>It was</SC></OL></B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><F>um</F> it's having a construction.</B>
+<A><F>Hm</F>. Construction?</A>
+<B>Yes. And we couldn't get through the street smoothly and I couldn't get to the station.</B>
+<A><F>Mh-hmm</F>. <F>Oh</F> really. Construction. Let me see. <F>Um</F> O K. Only this time.</A>
+<B><nvs>laughter</nvs> <OL><laughter>Thank you</laughter></OL>.</B>
+<A><OL>I exchange the ticket</OL> for you. O K. Thank you very much.</A>
+</task>
+<followup>
+<A><F>Um</F> you said you like <F>er</F> traveling by train.</A>
+<B>Yes. <nvs>cough</nvs></B>
+<A><F>Er</F> <F>well</F> <F>ur</F> did you ever have a problem on the train?</A>
+<B><F>Um</F> when I was coming to school,</B>
+<A><F>Hm</F>.</A>
+<B><F>um</F> I think somebody fell from the platform.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Yes. And the train stopped for like thirty minutes.</B>
+<A><F>Hm</F>.</A>
+<B>So I couldn't <F>er</F> arrive in time for school.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So I had to miss the first period.</B>
+<A><F>Mh-hmm</F>. Was the person O K?</A>
+<B>I'm not sure about that but I heard the ambulance coming, so I'm <laughter>not really sure</laughter>.</B>
+<A><F>Ah</F> really. <F>Ah</F>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K. Now, I'd like to show you a picture. <ctxt>The interviewer is selecting a card.</ctxt> Let's see. O K.</A>
+<B>O K.</B>
+<A><F>Um</F> this is the picture story and this happened last week. So please make a story, <F>um</F> start with <F>er</F> "One day last week". And you start from here like this.</A>
+<B><nvs>cough</nvs> One day last week, two girls decided to go camping.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And they started packing their things. And they <.></.> put <SC>all her</SC> all their things in the car. After they arrived, <F>um</F> they built the tent and started making stew.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But suddenly it started to rain. And they had to go back home. They went in the car but the wind was really strong and also their things blew away.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>Because they couldn't go home, they decided to <F>um</F> go to a hotel.</B>
+<A><F>Hm</F>.</A>
+<B>And actually, the storm was getting so harder, so they couldn't go home. And as they were driving, they saw a hotel.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>So they decided to go there. And <.></.> <R>they</R> they checked in the hotel. And they got a room and they had tea there.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</task>
+<followup>
+<A>O K. <F>Um</F> if you travel <F>er</F> with your best friend, what kind of plan would you make?</A>
+<B><F>Um</F> I would definitely use a train.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>And <F>um</F> <..></..> I think I would go to the sea rather than the mountains.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Um</F> <.></.> maybe <F>um</F> just kind of swim or go around the places, like if they have a museum or something out there, I like to go there, too.</B>
+<A><F>Mh-hmm</F>. <F>Oh</F> sounds like you <laughter>really</laughter></A>
+<B><nvs>laughter</nvs></B>
+<A>like traveling by trains. <F>Um</F> what are some merits to travel by train?</A>
+<B><F>Um</F> <F>well</F> <F>um</F> if you wanna go somewhere <SC>far away</SC> by car, I think you would always use the highway.</B>
+<A><F>Hm</F>.</A>
+<B>And most of the highways have really <F>um</F> big walls around and we can't really see <SC>the</SC> <F>mm</F> all the landscapes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B>But <?>if we</?> use a train and if it's not like those fast shinkansen trains, we can see all the trees and the mountains and all those</B>
+<A><F>Mh-hmm</F>.</A>
+<B>landscapes, so I think that's one thing that's really good about normal trains.</B>
+<A><F>Hmm</F>. <F>Hm</F>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>O K. This is almost the end of the interview. <F>Er</F> do you have any plans after this interview?</A>
+<B><F>Um</F> <F>mm</F> not really. I have to go home and finish my homework.</B>
+<A>And you have a cold.</A>
+<B>Yes, <OL><laughter>I do</laughter></OL>.</B>
+<A><OL>You need some rest</OL>.</A>
+<B><nvs>laughter</nvs></B>
+<A><laughter>O K, so I'll let you go</laughter>. This is the end of the interview. Thank you very much <OL>for your cooperation</OL>.</A>
+<B><OL>Thank you very much</OL>.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,335 @@
+<interview>
+<filename>file00280.txt</filename>
+
+<head version="1.3">
+<date>2001-02-02</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>ski</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>For the record, may I have your name, please?</A>
+<B><F>Eh</F> my name is <H pn="B's name">XXX01</H>.</B>
+<A>Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>Good. So how are you, <H pn="B's name">XXX01</H>?</A>
+<B><F>Er</F> I'm O K. And you?</B>
+<A><F>Oh</F> I'm pretty good. So where do you live?</A>
+<B><F>Er</F> I live in <H pn="others1">XXX02</H>.</B>
+<A>Nerima.</A>
+<B>Yes, <F>er</F> my nearest station is <H pn="others2">XXX03</H></B>
+<A><F>Hmm</F>.</A>
+<B>on <H pn="others3">XXX04</H> Line.</B>
+<A><F>Hm</F> O K. So how long have you been living in that place?</A>
+<B>Yeah, <F>er</F> from my home to here?</B>
+<A><F>Mm</F> <F>er</F> how long have you been living?</A>
+<B><F>Ah</F> yes, <F>er</F> <SC>for</SC> <F>er</F> I have lived in <F>er</F> <H pn="others1">XXX02</H> for four years.</B>
+<A><F>Mmm</F>.</A>
+<B>Yes. <F>Er</F> before <F>er</F> <H pn="others1">XXX02</H>, I lived in <H pn="others4">XXX05</H>,</B>
+<A><F>Mmm</F>.</A>
+<B><F>er</F> <H pn="others5">XXX06</H>.</B>
+<A>So why did you move to <H pn="others1">XXX02</H>?</A>
+<B><F>Er</F> my parents <F>er</F> got a new home</B>
+<A><F>Mmmm</F>.</A>
+<B>so <F>er</F> <R>I</R> I move <F>em</F> <R>with</R> with them.</B>
+<A><F>Mmm</F>.</A>
+<B>Yes.</B>
+<A>Which do you like better, living in <H pn="others1">XXX02</H> or <OL>living in <H pn="others4">XXX05</H></OL>?</A>
+<B><OL><F>Er</F></OL> <R>I</R> I prefer <F>er</F> <H pn="others4">XXX05</H> <F>er</F> to <H pn="others1">XXX02</H> <F>er</F> because <F>er</F> <R>I</R> <R>I don't like</R> <F>er</F> I don't like <F>er</F> house.</B>
+<A><F>Oh</F>.</A>
+<B><F>Er</F> I prefer <F>er</F> apartment store.</B>
+<A>Why is that? <nvs>laughter</nvs></A>
+<B><F>Well</F> <F>er</F> because <F>er</F> <R>I</R> I lived in apartment store for <SC>a long, long time</SC></B>
+<A><F>Mmm</F>.</A>
+<B><F>er</F> for long, long years.</B>
+<A><F>Mmm</F>.</A>
+<B>So <R>I</R> <F>mm</F> I like <F>er</F> apartment store.</B>
+<A><F>Mmm</F>.</A>
+<B>Yes.</B>
+<A>O K. So on weekends, <SC>what you</SC> what do you usually do?</A>
+<B><F>Mmm</F> <.></.> <F>uh</F> pardon?</B>
+<A><F>Ah</F> on weekends</A>
+<B><OL><F>Uh</F> on weekends</OL>?</B>
+<A><OL>such as Sunday</OL>, what do you usually do?</A>
+<B><F>Er</F> usually <R>I</R> <SC>I went</SC> <R>I</R> I go to <F>er</F> sports club</B>
+<A><F>Hm</F>.</A>
+<B>and I swim <F>em</F> for thirty minutes.</B>
+<A><F>Mm</F>.</A>
+<B>And <F>er</F> <R>after</R> after sports club, I went to library</B>
+<A><F>Hm</F>.</A>
+<B>and I make <F>er</F> report.</B>
+<A><F>Hm</F>.</A>
+<B><R>And</R> <F>er</F> and then, I <F>mm</F> go to <JP><F>eeto</F></JP> Shinjuku and <F>er</F> <R>I</R> <R>I</R> I cannot <F>em</F> speak English well, so <R>I</R> I go to <F>er</F> English school.</B>
+<A><F>Oh</F> <OL>O K</OL>.</A>
+<B><OL>Yes</OL>. Yes. Every weekends.</B>
+<A><F>Wow</F>.</A>
+<B>Yes.</B>
+<A>So how is the English conversation school?</A>
+<B><F>Hmm</F>. <nvs>laughter</nvs> So <F>erm</F> pretty good.</B>
+<A><laughter>Pretty good</laughter>. <OL>O K</OL>.</A>
+<B><OL>Yeah</OL>. For me.</B>
+<A><F>Mm</F>. All right. So you mentioned you are writing a report in the library.</A>
+<B>Yes.</B>
+<A>What kind of report?</A>
+<B><F>Er</F> <R>about</R> <F>er</F> about <SC>work</SC> my work.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Er</F> <R>financial</R> <F>er</F> about financial <F>er</F> <F>er</F> <F>oh</F> things.</B>
+<A><F>Mmm</F>. Do you have to write it every week?</A>
+<B><F>Ah</F> no. <F>Er</F> <SC>once or</SC> <SC>once</SC> <F>er</F> twice a month.</B>
+<A><F>Mmm</F>.</A>
+<B>Yes.</B>
+<A>O K. I see. So do you have any hobbies besides swimming in the sports gym?</A>
+<B><F>Eh</F> yes. <F>Er</F> I like <F>er</F> climbing mountain.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Er</F> last <F>er</F> end of the year, I went to <F>er</F> Nagano Prefecture.</B>
+<A><F>Mmm</F>.</A>
+<B>And I climbed <F>er</F> Neko Mountain with my friends.</B>
+<A><F>Mmm</F>.</A>
+<B>Yes. <F>Er</F> <F>er</F> winter mountain.</B>
+<A><F>Wow</F>. What is the hardest thing to climb a mountain in winter?</A>
+<B><F>Erm</F> <F>mm</F> not so high. Yeah, about two thousand meters high.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Hm</F>. <R>I</R> I climbed that mountain <F>er</F> on the thirty-first <F>er</F> <SC>Janua</SC> <F>er</F> December and <F>er</F> next day is the first <F>er</F> happy new century.</B>
+<A><F>Uh-huh</F>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Er</F></OL> <SC>I want to</SC> I wanted to <F>er</F> see rising sun but I cannot <OL><F>er</F></OL> because <F>er</F> the weather is not fine.</B>
+<A><OL>Really</OL>? <F>Ah</F> that's very unlucky. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes, unlucky</OL>.</B>
+<A><OL>All right</OL>.</A>
+<B><OL>But</OL> after climbing, <R>I</R> I skied.</B>
+<A><F>Oh</F>.</A>
+<B>Yes.</B>
+<A>In the same mountain?</A>
+<B>Yes. <F>Er</F> on <JP><R>geren</R></JP> <JP>gerende</JP>.</B>
+<A><F>Wow</F>. <nvs>laughter</nvs></A>
+<B><R>Suga</R> Sugadaira <JP>gerende</JP>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes.</B>
+<A>That sounds a lot of fun.</A>
+<B>Yes.</B>
+</stage1>
+<stage2>
+<task>
+<A>All right. So first thing today, <F>mm</F> I'd like you to take a look at this picture.</A>
+<B>Yes.</B>
+<A>And please describe.</A>
+<B>Yes. O K. <F>Ehhh</F> <SC>the</SC> <JP><F>eeto</F></JP> that picture is ski <JP>gerende</JP>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> on the right hand <F>er</F> at this picture, <F>er</F> there is a, yeah, lift <F>er</F> <R>that is</R> <F>er</F> that is <F>er</F> bringing the people <F>er</F> to the <F>er</F> top of the mountain. And <SC>there is a</SC> <F>er</F> on the <SC>right</SC> <F>er</F> left hand <F>er</F> the picture, there is a log house <F>er</F> that <F>er</F> people can <F>er</F> drink <F>er</F> hot tea <F>er</F> and lunch. And center of the <F>er</F> picture, <F>er</F> there are <F>er</F> many peoples <F>er</F> who are skiing. <F>Er</F> very fun. <JP><F>Nntoo</F></JP> at the left hand, <F>er</F> <R>there</R> <F>er</F> there were <F>er</F> <R>four</R> <F>er</F> four kids. <F>Er</F> they are <F>er</F> snow <F>er</F> fighting.</B>
+<A><F>Mm</F>. O K.</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>All right</OL>. Thank you.</A>
+</task>
+<followup>
+<A>So could you tell me more about the trip to Sugadaira and the mountain?</A>
+<B><F>Oh</F> yes. <F>Er</F> <F>er</F> <R>the</R> the first <F>er</F> on January <F>er</F> <R>the</R> the weather is <?>no</?> fine but <F>er</F> I skied.</B>
+<A><F>Hm</F>.</A>
+<B><F>Er</F> <F>mm</F> very interesting but <F>er</F> snow <F>er</F> <R>is not</R> is not <F>er</F> soft.</B>
+<A><F>Hm</F>.</A>
+<B>It is <SC>very</SC> <R>not</R> not very <F>er</F> hard.</B>
+<A><F>Hmm</F>.</A>
+<B>And after skiing, <F>em</F> <SC>I and with my</SC> I and my friends <F>er</F> <SC>go to</SC> <F>er</F> went to <F>er</F> hot spring</B>
+<A><F>Hmm</F>.</A>
+<B><F>er</F> near Sugadaira. <R>Very</R> very reasonable price <F>er</F> about four hundred, five hundred <R>Jap</R> Japanese yen.</B>
+<A>Good.</A>
+<B><F>Mm</F> its cost.</B>
+<A>Did you snowboard, too?</A>
+<B><F>Er</F> no <R>I</R> <R>I</R> I did only ski.</B>
+<A>Skiing.</A>
+<B>Yes.</B>
+<A>Have you ever tried snowboarding?</A>
+<B>Yes. <F>Er</F> <R>nex</R> next week,</B>
+<A><F>Hm</F>.</A>
+<B><R>I</R> I will have <F>er</F> three holidays. So <R>I</R> I will go to <F>er</F> <F>er</F> ski <JP>gerende</JP> and <F>er</F> I try to</B>
+<A><F>Hm</F>.</A>
+<B><F>eh</F> snowboarding.</B>
+<A><F>Mmm</F>. O K. All right. Thank you.</A>
+<B><nvs>cough</nvs></B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So next, we'd like to try a role-play.</A>
+<B>Yes.</B>
+<A><F>Mm</F>. O K. Please read this card</A>
+<B>Yes.</B>
+<A>and when you are ready, I will begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>O K.</B>
+<A>Ready? O K? May I help you, sir?</A>
+<B>Yes, <F>er</F> I want to go to <F>er</F> New York <R>by</R> <F>er</F> by train</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>er</F> as soon as possible. <F>Er</F> where can I get the ticket <OL>to</OL> New York?</B>
+<A><OL><F>Oh</F></OL>. Right here.</A>
+<B>Yes?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Er</F> <R>th</R> this machine?</B>
+<A><F>Ah</F> from me.</A>
+<B><F>Oh</F> yes. <F>Er</F> how much <F>er</F> to New York?</B>
+<A><F>Ah</F> it depends on the kinds of the train.</A>
+<B><F>Er</F> <R>I</R> <F>er</F> I want to <F>er</F> go to New York as soon as possible. <F>Er</F> please <F>er</F> ask me <F>er</F> the most <F>er</F> <R>the</R> <F>er</F> the express way <F>er</F> to New York.</B>
+<A><F>Er</F> express train</A>
+<B>Yes.</B>
+<A><F>er</F> leaves within one hour.</A>
+<B>One hour. Yes. O K.</B>
+<A><F>Hm</F>.</A>
+<B>No problem.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Er</F> how much?</B>
+<A><F>Ah</F> it's one hundred twenty dollars.</A>
+<B>Yes. <F>Er</F> <R>here</R> here it is.</B>
+<A>O K. <F>Ah</F> let me check the vacancy. <F>Ah</F> actually, the regular seats are all full <OL>in that</OL> express train.</A>
+<B><OL><F>Oh</F></OL>. Regular seats full? <JP><F>Nnto</F></JP> O K. <R>I</R> I don't mind. <F>Er</F> Reserved seat.</B>
+<A>Really?</A>
+<B>Yeah.</B>
+<A>So it's a bit expensive. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Er</F></OL> how much?</B>
+<A><F>Er</F> it's two hundred dollars.</A>
+<B>Two hundred dollars?</B>
+<A><F>Mhm</F>.</A>
+<B><JP><F>Nnnnntooo</F></JP> <R>ano</R> <R>another</R> <SC>another train</SC> <F>er</F> do you have another train? <OL><F>Er</F></OL>.</B>
+<A><OL><F>Er</F></OL> the next express will <OL>leave</OL> one hour later,</A>
+<B><OL>Yes</OL>.</B>
+<A>so you have to wait two hours.</A>
+<B>Two hours?</B>
+<A><F>Mhm</F>.</A>
+<B><F>Uhh</F> <R>I</R> I cannot wait. <OL>O K</OL>.</B>
+<A><OL>So</OL> the reserved seat's O K?</A>
+<B>O K.</B>
+<A>All right. So here <OL>is the ticket</OL>.</A>
+<B><OL><F>Uh</F> sorry</OL>, <F>er</F> is that seat <F>er</F> non-smoking <OL>or smoking</OL>?</B>
+<A><OL>Yes</OL>. I can arrange you a non-smoking seat.</A>
+<B>Yes. Please, <F>er</F> non-smoking seat.</B>
+<A><F>Mm</F>. All right. So here is the ticket for one non-smoking reserved seat.</A>
+<B>Yes. <F>Eh</F> <R>can I pay now</R> <.></.> can I pay now?</B>
+<A>Yeah, <OL>sure</OL>.</A>
+<B><OL>Yeah</OL>. O K.</B>
+<A>O K. <OL>Thank you</OL>.</A>
+<B><OL><?>Here you are</?></OL>.</B>
+<A>All right. Have a nice trip.</A>
+<B>Yes. Thank you.</B>
+<A>All right. This is the end of the role-play.</A>
+</task>
+<followup>
+<A>So have you been to New York?</A>
+<B><F>Ah</F> no, <F>er</F> I haven't been to.</B>
+<A><F>Hm</F>. So have you been to a foreign country?</A>
+<B>Yes, I have. <F>Er</F> <F>er</F> I have been to many countries.</B>
+<A><OL><F>Mmm</F></OL>.</A>
+<B><OL>Malaysia</OL>, China, Pakistan,</B>
+<A>Pakistan? <OL><nvs>laughter</nvs></OL></A>
+<B><OL>yeah, and</OL> Thailand, and <??></??> and Singapore. <F>Er</F>. <OL><CO><?>Do you know</?></CO></OL>.</B>
+<A><OL>Why did you</OL> go to Pakistan? <nvs>laughter</nvs></A>
+<B><F>Er</F> <F>urn</F> <SC>the nine</SC> <F>er</F> in nineteen ninety-eight,</B>
+<A><F>Hm</F>.</A>
+<B><F>er</F> the last year of the university,</B>
+<A><F>Hmm</F>.</A>
+<B><R>I</R> <SC>I went to</SC> <F>er</F> <SC>I tripped</SC> <F>er</F> <SC>I want to</SC> I wanted to trip <F>er</F> Silk Road.</B>
+<A><F>Mmm</F>.</A>
+<B>From China to <JP>Roma</JP>.</B>
+<A><F>Mmm</F>.</A>
+<B>So <F>er</F> <SC>I</SC> the first <R>I</R> I got to China and <F>er</F> <F>er</F> <SC>but</SC> <F>er</F> and then <SC>Pat</SC> went to Pakistan and fly to <F>er</F> Turkey.</B>
+<A><F>Mmm</F>.</A>
+<B>Yes.</B>
+<A><F>Wow</F>. <nvs>laughter</nvs></A>
+<B><F>Er</F> Pakistan is <R>ve</R> very nice <F>er</F> because <F>er</F> I like mountains. <F>Er</F> the north of Pakistan <SC>is very</SC> <F>er</F> <SC>there is</SC> there are many highest mountains.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Er</F> <SC>I can see</SC> <F>er</F> <F>er</F> I could see <F>er</F> many <F>er</F> highest mountains <F>er</F> with snow.</B>
+<A><F>Mmm</F>. Did you climb those mountains?</A>
+<B><F>Uh</F> no. No, no, no, no.</B>
+<A>Too <OL>high</OL>?</A>
+<B><OL>Yes</OL>. <OL>Yeah</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL> O K.</A>
+<B>Because <R>I</R> <R>I</R> <R>I</R> I went <R>with</R> without equipments.</B>
+<A><F>Mmm</F>. <F>Wow</F>. Interesting.</A>
+<B>Yes.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So lastly, we'd like to do another picture.</A>
+<B>Yes.</B>
+<A>O K. There are six pictures from one to six. And please make up a story based on these pictures. And this happened before. So please start your story with "One day last week".</A>
+<B>Yes.</B>
+<ctxt>The interviewee is looking at the picture sequence.</ctxt> 
+<B>O K.</B>
+<A>Yes? Please start.</A>
+<B>O K. <F>Er</F> today, <F>er</F> <R>I</R></B>
+<A><F>Hm</F>.</A>
+<B><SC>I went</SC> I go to the <F>er</F> department store. <F>Er</F> I entered the department store. <F>Er</F> number two. <R>I</R> <R>I</R> <F>mm</F> I go up the <F>er</F> <R>tie</R> <F>er</F> <R>tie sec</R> tie section and <F>er</F> I want to buy a necktie <F>er</F> for my <?>hus</?> <F>er</F> because <F>er</F> next week, <F>er</F> he has a <F>er</F> birthday. And <F>er</F> <F>mm</F> <R>I</R> <F>er</F> I asked the clerk, <F>er</F> "Which necktie <F>er</F>is <F>er</F> good for <R>mi</R> middle-aged man?". And the clerk <F>er</F> said, <F>er</F> <F>er</F> "Green and yellow tie is <F>er</F> good for middle-aged man.". <F>Er</F> I decided to <F>er</F> get it <F>er</F> that clerk <F>er</F> recommended. <F>Mm</F> number three. <F>Er</F> <R>I</R> I pay <F>er</F> for that tie <F>er</F> with cash. <F>Er</F> the clerk <F>er</F> <F>er</F> wrap that tie <F>er</F> and <R>I get</R> I get it. <F>Er</F> <R>after</R> <F>er</F> after buying the birthday present, <R>I</R> <F>mm</F> <R>I</R> I go up the shoe section. And <F>er</F> now, <F>er</F> this time <F>er</F> the final sale <F>er</F> but <F>er</F> I cannot enough money <F>er</F> to buy <F>er</F> shoes. <F>Er</F> I only <F>er</F> <R>wa</R> watch it. Next, <F>er</F> <R>I</R> I went to <F>er</F> clothes section. <F>Mm</F>. This section <F>er</F> is sale, too. <F>Eh</F> <R>I</R> <F>mm</F> <.></.> <R>I</R> <F>er</F> I like <F>er</F> colorful <F>er</F> shirts and skirt, so I decided to <F>er</F> <R>get</R> <F>er</F> get them. <R>And</R> <F>er</F> and then, <F>er</F> I <F>er</F> get out of the department store <F>er</F> with <F>er</F> birthday present and <F>er</F> my <F>er</F> favorite shirt and skirt.</B>
+<A>O K. Good. All right. Thank you.</A>
+</task>
+<followup>
+<A>So <H pn="B's name">XXX01</H>, <..></..></A>
+<B>Yes.</B>
+<A>which do you like better,</A>
+<B>Yes.</B>
+<A>wearing a suit</A>
+<B>Yes.</B>
+<A>or <SC>dress like</SC> dress casually like today?</A>
+<B><F>er</F> <R>I</R> <R>I prefer</R> <F>er</F> I prefer <F>er</F> casual wear to suit.</B>
+<A><F>Mm</F>.</A>
+<B>Because <F>mm</F> <SC>suits <F>er</F> is</SC> <F>er</F> suits looks <F>er</F> very formal</B>
+<A><F>Hm</F>.</A>
+<B><F>er</F> but <R>I</R> I don't like formal <F>eh</F> because <F>er</F> now, <R>my</R> <SC>my job is</SC> <F>er</F> <F>er</F> <R>m</R> <SC>my</SC> <F>er</F> I have <F>er</F> no chance to meet customer. <R>I</R> I only work <F>er</F> in <F>er</F> <R>o</R> office, so <F>er</F> <F>er</F> I want to wear casual wear <F>er</F> everydays.</B>
+<A><F>Mmm</F>.</A>
+<B>But <F>er</F> corporate rule, <F>eh</F> only <SC>Friday</SC> <F>er</F> weekend.</B>
+<A><OL><F>Ohhh</F></OL>.</A>
+<B><OL>Weekend</OL>, wear casual wear. Yes.</B>
+<A><F>Mmm</F>. What do you think of having that kind of day in a company?</A>
+<B><F>Mm</F> yeah, very fun but <F>er</F> <JP>chotto</JP> <F>er</F> recently, <F>er</F> a little <F>er</F> I am <F>er</F> bored.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yes</OL>.</B>
+<A>What do you mean?</A>
+<B><JP><F>Eeto</F></JP>.</B>
+<A><?>What do you mean by</?> bored?</A>
+<B><F>Er</F> everyday <F>er</F> <R>I</R> I make <F>er</F> many, many <F>er</F> lists <F>er</F> for top management about the <F>er</F> <H pn="company name1">XXX07</H> group <F>er</F> <SC>affiliates</SC> <F>er</F> association company.</B>
+<A><F>Mmm</F>.</A>
+<B><nvs>sniff</nvs> And <F>er</F> <F>er</F> <R>b</R> by them, I propose <F>er</F> the top management about the policy of <H pn="company name1">XXX07</H> group <F>er</F> management.</B>
+<A><F>Mmm</F>.</A>
+<B><F>Er</F> <R>I</R> I only <F>er</F> make lists, lists, lists by <F>oh</F> Microsoft Excel.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Mm</F>. So <R>I</R> I have <F>er</F> <R>good</R> good technique about Excel.</B>
+<A><nvs>laughter</nvs></A>
+<B>Yes. I am <R>tech</R> technician.</B>
+<A>Very quick.</A>
+<B>Yes, very quick and <R>ver</R> <SC>very</SC> <F>er</F> <SC>many</SC> <R>I</R> I know many <F>er</F> skills <OL>about Excel</OL>.</B>
+<A><OL><F>Hmm</F> good</OL>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right. O K. Thank you very much. We have <OL>come to</OL> almost the end of the interview.</A>
+<B><OL>Yes</OL>. Yes.</B>
+<A>So are you going to busy today?</A>
+<B><F>Mm</F> <F>er</F> yes, <F>er</F> <F>uh</F> busy.</B>
+<A><F>Mm</F>. What time are you going home tonight?</A>
+<B><nvs>sniff</nvs> Tonight, <F>er</F> I will go back home about nine or <OL>ten o'clock</OL>.</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><SC>Today</SC> <F>er</F> but <F>er</F> I have a <F>er</F> appointment with my friend tonight.</B>
+<A><F>Mmm</F>.</A>
+<B><R>I</R> <R>I will</R> I will <F>er</F> drink with my friends but <F>er</F> <R>I</R> <R>I</R> I have to <F>er</F> cancel</B>
+<A><F>Hm</F>.</A>
+<B>the appointment.</B>
+<A><F>Wow</F>. Too bad. <OL><nvs>laughter</nvs></OL></A>
+<B><OL>Yeah, too bad</OL>.</B>
+<A>It's Friday night.</A>
+<B>Yes.</B>
+<A>All right. Thank you very much for coming.</A>
+<B>Thank you very much.</B>
+<A>This is the end of the interview.</A>
+<B>Yes.</B>
+<A>All right.</A>
+</stage5>
+</body>
+</interview>

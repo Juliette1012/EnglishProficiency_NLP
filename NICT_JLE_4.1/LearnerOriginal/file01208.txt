@@ -1,0 +1,239 @@
+<interview>
+<filename>file01208.txt</filename>
+
+<head version="1.3">
+<date></date>
+<sex>female</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas>1y</overseas>
+<category></category> 
+<step></step> 
+<TOEIC>895</TOEIC> 
+<TOEFL></TOEFL>
+<other_tests></other_tests> 
+<SST_level>7</SST_level> 
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_advanced</SST_task3>
+<SST_task4>stray cat</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>O K. Let's begin. My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>O K. So how are you today?</A>
+<B>Good. How are you?</B>
+<A>I'm pretty good. So <F>ur</F> I think you're a student in this university.</A>
+<B>Yes.</B>
+<A><F>Mm</F>. Please tell me what you study here.</A>
+<B><F>Urm</F> I'm studying English. And I'm studying <F>um</F> linguistics.</B>
+<A><F>Mhm</F>. <OL><F>Hm</F></OL>.</A>
+<B><OL>And</OL> <R>my major</R> <F>uh</F> my major is English but I'm studying <F>um</F> <SC>secon</SC> about second language acquisition.</B>
+<A><F>Mhm</F>. Is it interesting?</A>
+<B>Yes, it's really interesting.</B>
+<A><F>Mm</F>. What is especially interesting about learning <F>ur</F> E S L?</A>
+<B><F>Urm</F> <R>I</R> I'm a English learner, and so <SC>I can</SC> <F>um</F> by learning second language acquisition, I can apply the idea into my acquisition. <R>And</R> and I can know how human acquire the languages and it's really interesting <OL><??></??></OL>.</B>
+<A><OL><F>Mhm</F></OL>. Good. O K. So I think you're very busy, but when you have free time, what do you usually do?</A>
+<B><F>Ur</F> when I have <F>mm</F> free time, I usually <F>mmm</F> go to see a films, and read books, and go shopping.</B>
+<A><F>Mhm</F>.</A>
+<B>That's what I do.</B>
+<A><F>Mm</F>. So where is your favorite place for shopping?</A>
+<B>Shopping.</B>
+<A><OL><F>Mm-hm</F></OL>.</A>
+<B><OL><F>Ur</F></OL> there're many places, but <F>uh</F> especially I like Shimokitazawa <OL>because there're</OL> many cool places</B>
+<A><OL><F>Mhm</F> <F>mhm</F></OL>. <F>Mm-hm</F>.</A>
+<B>to shop.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL>And</OL> I like second-hand goods.</B>
+<A><F>Mm-hm</F>.</A>
+<B>So I can find many cool second-hand stuff there. So I love Shimokitazawa.</B>
+<A><F>Mhm</F>. Can you tell me about your favorite second-hand shop?</A>
+<B><F>Urr</F> there're many, <SC>but I like</SC> <F>uh</F> I forgot the name, but there's a really cool <F>um</F> second-hand book shop.</B>
+<A><F>Mm</F>.</A>
+<B>And <R>their</R> their book is so cheap. I can find many cheap <SC>books</SC> <R>Ja</R> Japanese books but also books from foreign countries.</B>
+<A><F>Mm</F>.</A>
+<B>And I really like <R>the</R> the shop.</B>
+<A><F>Mhm</F>. O K. All right. So <SC>do</SC> where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Mhm</F>. With your family?</A>
+<B>No, <R>I li</R> I live by myself.</B>
+<A><F>Mhm</F>. So <F>ur</F> where is your hometown?</A>
+<B>My <F>ur</F> I'm from <H pn="others2">XXX04</H>, <H pn="others3">XXX05</H>.</B>
+<A><F>Ohh</F> O K. So which do you like better, <H pn="others2">XXX04</H> or <H pn="others4">XXX06</H>?</A>
+<B><SC>I like</SC> <F>ah</F> it's difficult question. But <F>mmm</F> maybe my hometown, <SC><H pn="others2">XXX04</H></SC> I like <H pn="others2">XXX04</H> better.</B>
+<A>Why is that?</A>
+<B>Because <.></.> <F>urm</F> although I like shopping, I still love nature. I love life in nature</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>so</OL> <R>I</R> I can find many <laughter>trees</laughter> or nature in this <R>ss</R> city so I really miss that.</B>
+<A><F>Ah</F> yeah.</A>
+<B>That's why I like <H pn="others2">XXX04</H> better.</B>
+<A><F>Mhm</F>. All right.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. So first thing today, please look at this picture on your computer. Can you see a picture of a house and street?</A>
+<B><F>Mm-hm</F>.</B>
+<A><F>Mm</F>. O K. Please describe this picture.</A>
+<B>O K. <F>Urm</F> there is a big house.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And two womens are talking in front of the house. And there is a little cute dog with the woman. And <F>oh</F> there're two dogs talking also in front of the house to the right side. And I don't know what they're talking, <R>but</R> <F>urm</F> but to the right side of the house, there are two boys playing volleyball, I guess.</B>
+<A><F>Hm</F>.</A>
+<B>And there is a man jogging. And to the left side of the house, there is a girl doing jumping</B>
+<A><F>Hm</F>.</A>
+<B>rope. And it's very beautiful weather today there. And <F>well</F> across the street from the house, there is a man reading a newspaper. And in front of him, there're two trees.</B>
+</task>
+<followup>
+<A><F>Mm</F>. O K. All right. So <H pn="B's name">XXX02</H>, you mentioned you really like the nature in <H pn="others2">XXX04</H>.</A>
+<B><OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mm</F></OL>. Can you compare this picture with your neighborhood in <H pn="others2">XXX04</H>?</A>
+<B><F>Huuh</F>. <F>Well</F> <R>this</R> this neighborhood has less green.</B>
+<A><F>Mm</F>.</A>
+<B>And <SC>there are</SC> the <R>houses</R> houses are more <F>um</F> modern style, I think, <laughter>compared</laughter> to <R>my</R> my hometown's houses. <CO><R>And</R> <.></.> <F>mmm</F> <SC>and also</SC> <.></.> <??></??> <F>um</F> I just feel that there's less green and</CO>.</B>
+<A><F>Mhm</F>.</A>
+<B><F>urm</F> <.></.> <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Mm</F> O K</OL>. So you mentioned that the houses in this picture are more modern</A>
+<B>Yes.</B>
+<A>than in <H pn="others2">XXX04</H>. So that means the houses in <H pn="others2">XXX04</H> are more Japanese traditional style?</A>
+<B>Yes.</B>
+<A><OL><F>Mhm</F></OL>.</A>
+<B><OL>More</OL> traditional. <OL>Yeah</OL>.</B>
+<A><OL>So</OL> what are some good points of living in a traditional Japanese style house?</A>
+<B><F>Ahh</F> traditional <?>being</?> the traditional house?</B>
+<A><F>Mm</F>.</A>
+<B><F>Mhmm</F>. <SC>I think</SC> I don't know about these houses but usually in traditional houses, there're <JP>tatami</JP> rooms.</B>
+<A><F>Mm-hm</F>.</A>
+<B>And I like <JP>tatami</JP> rooms a lot because I can lay down on the <JP>tatami</JP> mat. I can <SC?>re</SC?> feel relax. I don't really like sitting in the chairs usually so I think that's the good things about traditional house.</B>
+<A><OL><F>Mm</F></OL>.</A>
+<B><OL>They have</OL> <JP>tatami</JP> rooms.</B>
+<A><F>Mhm</F>.</A>
+<B>And <F>ur</F> <SC>ss</SC> probably it's made <SC>of</SC> out of tree.</B>
+<A><OL><F>Mm-hm</F></OL>.</A>
+<B><OL>Maybe</OL> <SC>traditional house more</SC> but <R>not</R> not concrete</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>so</OL> I like <R>the</R> the atmosphere of wood.</B>
+<A><F>Mm-hm</F>.</A>
+<B><nvs>laughter</nvs></B>
+<A>O K. All right, thank you.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>So next, we'll do a role-play. O K. I think you can see some <F>ur</F> Japanese sentences on your computer. Please read this to yourself, and when you are ready, we'll begin a role-play.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading for a while.</ctxt>
+<B>O K.</B>
+<A>Ready?</A>
+<B>Yes.</B>
+<A>O K, let's begin. <F>Ur</F> good afternoon, ma'am. How may I help you?</A>
+<B><F>Ur</F> hi. I came here to this shop yesterday, and I bought <SC>this clothes</SC> this skirt.</B>
+<A><F>Mm-hm</F>.</A>
+<B>But <SC>when I came back</SC> when I went home, I thought that I didn't like the color of the skirt very much.</B>
+<A><F>Oh</F>.</A>
+<B>So could you please change into another color of the skirt <SC>if you have</SC> <R>if you</R> if you can?</B>
+<A><F>Oh</F> I'm sorry we can't. It's against our policy.</A>
+<B><F>Urr</F> yes, but <R>I</R> <R>I don't</R> I don't ask you to give me the money back.</B>
+<A><F>Hm</F>.</A>
+<B>I just want to change it and I will choose exactly the same style and the same <OL>price</OL> skirt.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>I just wanna change the color and I didn't use it at all.</B>
+<A><F>Hmm</F>.</A>
+<B>So I think I can change it to another color.</B>
+<A><F>Ee</F> <F>mm</F> actually it's your problem, you just changed your mind. And you could see the color in this shop yesterday, and you changed your mind. And it's not a very good reason.</A>
+<B><F>Ahh</F> yes, but <F>urm</F> actually yesterday, <R>I was</R> <R>I was</R> I was kind of depressed.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL>And I wanted</OL> to <laughter>buy something bright</laughter>.</B>
+<A><OL>I see</OL>.</A>
+<B><OL>So I chose</OL> this pink.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><R>But</R></OL> but generally, I don't like pink or those <laughter>kind of</laughter> bright colors. So it doesn't match my style at all. It doesn't match my other <OL>clothes</OL>.</B>
+<A><OL><F>Oh</F></OL> but I think pink skirt <OL>matches you</OL>. Looks great on you.</A>
+<B><OL><nvs>laughter</nvs></OL> No, <R>but</R> <SC>but <R>I</R> <SC>I just</SC> I</SC> <F>well</F> but I just can not wear pink skirt. <nvs>laughter</nvs> <laughter><R>I thin</R> I think so</laughter>. <CO>Please change it <OL>because</OL></CO>.</B>
+<A><OL>O K</OL>.</A>
+<B>Yeah. And <OL>my mom didn't like it</OL> at all.</B>
+<A><OL><?>All right</?></OL>.</A>
+<B><nvs>laughter</nvs></B>
+<A><OL>O K</OL>.</A>
+<B><OL>You know</OL>, so <laughter>please</laughter>.</B>
+<A>Yeah. I wish I could do something, but I'm just a part-time worker.</A>
+<B><OL><F>Oh</F> really</OL>?</B>
+<A><OL>And my</OL> boss is out for now. So I can't decide anything.</A>
+<B>O K.</B>
+<A><F>Mhm</F>.</A>
+<B><F>Urr</F> <SC>maybe</SC> O K, so I will go home, but can I call this shop later and check if I can change <OL><??></??> later</OL>?</B>
+<A><OL>Sure, O K</OL>. <F>Er</F> yeah. I think my boss will be back about three o'clock <SC>today</SC> this afternoon.</A>
+<B>O K. O K. Thank you. <SC>I will call you</SC> I will call this shop. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> <F>Oh</F> you know the number?</A>
+<B><F>Uh</F> <F>uh</F> no, <R>I don't</R> I don't <OL>know the number</OL>.</B>
+<A><OL>O K, here is</OL> the business card.</A>
+<B>O K. <OL><??></??></OL>.</B>
+<A><OL>And</OL> I hope my boss will accept the exchange or refund.</A>
+<B>Thank you, <OL><??></??></OL>.</B>
+<A><OL>O K, thank you</OL>.</A>
+<B><nvs>laughter</nvs></B>
+<A><nvs>laughter</nvs></A>
+</task>
+<followup>
+<A>All right, thank you. This is the end of the role-play. So <SC>have you have</SC> <F>ur</F> have you ever had a similar experience?</A>
+<B><F>Ahh</F> not really. <SC>I usually</SC> <F>ur</F> <R>I'm</R> I'm shy to do this kind of <laughter>thing</laughter> <R>in</R> in real life.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So I just probably <R>stay</R> <F>ur</F> stay home and just <R>don't</R> don't <SC>go</SC> try to change or anything. I just accept my <OL><laughter>decision maybe</laughter></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>in real life, I think</laughter>.</B>
+<A>So you have to make a really good decision. But <F>ur</F> when you buy, for example, a skirt, how do you decide which skirt to buy?</A>
+<B><F>Uhh</F> <R>I</R> <.></.> I think about other <R>clothes</R> clothes I have at home, and I'll think if the skirt matches my clothing, my style. <R>And yeah</R> and yeah, that's <SC>I</SC> what I think</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B><OL>when I</OL> buy <OL>skirt</OL>.</B>
+<A><OL><F>Mm</F></OL>. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>All right. So last thing today, please look at another picture</A>
+<B><F>Mm</F>.</B>
+<A>on your computer. There are six small pictures, <OL>right</OL>?</A>
+<B><OL>O K</OL>.</B>
+<A>And please make up a story based on these six pictures from one to six.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>? And please start your story with "One day last week" because this happened before.</A>
+<B>O K.</B>
+<A>Yeah. Please start when you are ready.</A>
+<B>O K. <F>Mm</F> <F>urr</F> one day last week, <F>ur</F> there is a couple walking in the street. And it was raining. And the man <SC?>in</SC?> <.></.> <SC>listen</SC> he heard <R>some</R> <R>some</R> some animals crying. <R>And</R> and she noticed that there was a little cat. And it was raining so the man put the umbrella on top of the cat. And the woman asked him if they could have the cat at home. But the man was thinking because <SC>the man's house was</SC> <R>the</R> the landlord doesn't allow them to have pets at home. <SC>So</SC> but he felt sorry for the cat, too. And she really asked him. So the man decide to <R>accept <F>ur</F> her</R> accept her, and probably <R>he will</R> he will talk to the landlord and ask about that cat. Then they're decided go to the house and ask about the landlord about the cat.</B>
+<A><F>Mm</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A>So have you ever had a pet in your life?</A>
+<B>Yes.</B>
+<A><F>Mm</F>.</A>
+<B>I had a cat once <OL>in <H pn="others2">XXX04</H></OL>.</B>
+<A><OL><F>Hm</F></OL>. <F>Mhm</F>. Could you tell me about the best memory with the cat?</A>
+<B>Best memory. <F>Urm</F> best memory was <SC>I</SC> my mom used to make me eat dried fish for my health. But I <laughter>really</laughter> didn't like eating <R>the</R></B>
+<A><F>Uh-huh</F>.</A>
+<B>the dried fish so I always used to give the <F>mm</F> <R>dri</R> dried fish to my cat.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs> Cat ate the dried fish</OL>. So that was the great <F>oh</F> <laughter>thing to me</laughter>.</B>
+<A><OL><laughter>O K</laughter></OL>.</A>
+<B><OL><R>I</R> <R>I</R></OL> I told a lie to my mom saying, "I ate the dried fish.". But actually my cat was eating the fish. <nvs>laughter</nvs></B>
+<A>I see. So it was your <laughter>best memory</laughter>. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><laughter>O K</laughter>.</A>
+</followup>
+</stage4>
+<stage5>
+<A>All right, <H pn="B's name">XXX02</H>. <F>Ur</F> we have come to almost the end of the interview. So do you have any plans after this interview this evening?</A>
+<B><F>Urm</F> <SC>I</SC> I'll go home and <F>ur</F> <R>I have</R> <SC>I have something</SC> <F>ur</F> <R>I have</R> I have to write <F>ur</F> a little <F>um</F> reaction paper for my class.</B>
+<A><F>Mm</F>. <OL>O K</OL>.</A>
+<B><OL>So</OL> I will write it.</B>
+<A><F>Mhm</F>. Do you have a lot of homework usually?</A>
+<B>Yes, <OL>I do</OL>.</B>
+<A><OL><F>Ah</F></OL>. <F>Wow</F>. So you're very busy <nvs>laughter</nvs> studying.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mm</F></OL>. O K. All right. Thank you very much for coming. This is the end of the interview.</A>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>. <F>Ur</F> you can leave the room now. Thank you.</A>
+<B>Thank you.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,190 @@
+<interview>
+<filename>file00128.txt</filename>
+
+<head version="1.3">
+<date>2000-10-06</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A><H pn="A's name">XXX01</H>.</A>
+<B>Hello. <F>Mm</F> my name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. Can I call you <H pn="B's name">XXX02</H>?</A>
+<B>O K.</B>
+<A>O K. How are you today?</A>
+<B><F>Uh</F>. I'm not so good.</B>
+<A><F>Oh</F>. What's the problem?</A>
+<B><F>Mm</F> <F>uh</F>. Now, <R>I</R> <F>mm</F> <R>I had</R> <F>mm</F> <SC>I had</SC> <F>mh</F> <F>a</F> I have <F>mm</F> <F>uh</F> <R>n</R> neck-ache and backache.</B>
+<A><F>Oh</F>.</A>
+<B>Because <F>mm</F> I had <F>mm</F> car accident <F>mm</F> on last Sunday.</B>
+<A>Really? Are you O K now?</A>
+<B><nvs>laughter</nvs> <F>Um</F> <laughter>not so O K</laughter>.</B>
+<A>Not so O K. Be careful.</A>
+<B><F>Ohm</F>.</B>
+<A>O K, <H pn="B's name">XXX02</H>, <F>mm</F> so, <F>uh</F> <SC>what is your</SC> <F>um</F> what do you do every day? What is your job?</A>
+<B><F>Ah</F> <F>um</F> my work is, <F>um</F> <R>screening</R> screening new <?>herbicide</?>. Usually, <R>I</R> <F>mm</F> <F>a</F> my work is, <R>to</R> to find new herbicide.</B>
+<A><F>Uh-huh</F>. I see. <.></.> O K. So, do you have to work long hours?</A>
+<B><F>Mm</F> yes.</B>
+<A><nvs>laughter</nvs> O K. So, when you're not working, what do you like to do? In your free time.</A>
+<B>Free time? <F>Mm</F> I like to watch the movie. <.></.> <F>Mm</F> and <F>mm</F> I like to take a <F>mm</F> hot bath.</B>
+<A><laughter>I see</laughter>. O K, what kind of movies do you like?</A>
+<B><F>Mm</F> <R>I like</R> <F>mm</F> I like, <F>mm</F> psycho-thriller.</B>
+<A><F>Mmm</F> Can you give me an example?</A>
+<B><F>Uhm</F> my favorite movie is <F>mm</F> "Silence of lambs".</B>
+<A><F>Uh</F>.</A>
+<B>Do you know, "<SC>Silence of</SC> A Silence of the Lambs"?</B>
+<A><F>Uh-huh</F> yes. But, tell me a little more about it.</A>
+<B><F>Uh</F> that movie?</B>
+<A><F>Mhm-huh</F>.</A>
+<B><F>Uhm</F> Jodie Foster and Anthony Hopkins, <F>ah</F> <F>mm</F> play in that movie.</B>
+<A><F>Mhm</F> I see. O K. So, tomorrow is Saturday.</A>
+<B>Yes.</B>
+<A>What are you going to do?</A>
+<B><F>Uhm</F> <R>I</R> I left my home.</B>
+<A><F>Uh-huh</F> <.></.> O K. Where is your home?</A>
+<B><F>Ah</F> my home is in <H pn="others1">XXX03</H> city.</B>
+<A><F>Uh-huh</F> O K. Can you tell me a little more about your home? Where it is? What kind of house you live in?</A>
+<B><F>Ah</F> my home is <F>mm</F> <F>mm</F> <SC>apartment</SC> and apartment, second floor, <F>ah</F> <F>mm</F> my apartment is <F>mm</F> <R>two</R> two room <R>and</R> and <F>mm</F> dining kitchen.</B>
+<A><F>Oh</F> I see that's nice.</A>
+</stage1>
+<stage2>
+<task>
+<A><laughter>O K</laughter>. All right, so next, <F>oh</F> I'm gonna show you a picture. O K, I would like you to take a look at it and describe it to me.</A>
+<B><F>Mmm</F> <..></..> <F>uhm</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Un</F> <R>they</R> they are now <R>dating</R> dating. And they are <F>mm</F> eating <R>di</R> <F>a</F> dinner and they are waiting for serve <F>mm</F> wine. Now, <F>mm</F> a man is <R>tasting</R> tasting wine. <.></.> <F>Um</F> <.></.> <F>uh</F> <.></.> <R>Wai</R> <R>waiter is</R> <F>mm</F> waiter is <F>mm</F> speaking about this wine. <.></.> <F>Uh</F> there are <F>mm</F> <R>three ta</R> three table <R>and</R> <.></.> and <F>mm</F> <R>six</R> six people <F>mm</F> is <F>mm</F> eating.</B>
+<A><F>Uhm</F> O K. Thank you.</A>
+</task>
+<followup>
+<A><F>Umm</F> where do you like to celebrate, for example, like your birthday or Christmas Eve?</A>
+<B>Where?</B>
+<A><F>Uh-huh</F> where. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><F>Ah</F> <nvs>laughter</nvs></OL></B>
+<A>Or what do you like to do on a special day?</A>
+<B>Special day?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Ah</F> <.></.> <F>mm</F> <R>I like</R> <F>mm</F> <.></.> <F>mm</F> <R>I wa</R> I want to be celebrate in my home. <OL><F>Mm</F></OL>.</B>
+<A><OL><F>Uhm</F></OL> O K, why is that?</A>
+<B><R>Wha</R> why? <F>Um</F> because <F>mm</F> my home is <F>mm</F> most <R>relax</R> <SC>relaxing</SC> <F>am</F> <R>rela</R> relax space, <F>mm</F> for me.</B>
+<A><F>Hum</F> that's nice. O K then, why did you choose that apartment?</A>
+<B>Now? <F>A</F></B>
+<A><R>How</R> <OL>how</OL>.</A>
+<B><OL>How</OL>.</B>
+<A>How did you choose that?</A>
+<B>How?</B>
+<A><F>Uh-huh</F>.</A>
+<B><F>Uh</F> <F>um</F> <.></.> <R>my</R> <F>uh</F> <F>mm</F> my apartment <SC>is</SC> <F>a</F> was rent, but, <F>mm</F> another person, <F>mm</F> <SC>who <F>mm</F> <SC>retired</SC> <.></.> <F>uh</F> reti</SC> who retired and, he <F>mm</F> worked in this company and <.></.> <R>he</R> <F>um</F> <R>he</R> <F>um</F> <F>a</F> <R>he</R> he recommend me to rent that apartment.</B>
+<A>I see. O K, now you found the really nice apartment.</A>
+<B><laughter>Yes</laughter>.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>O K, thank you. So, next, we are going to do a role-play. <.></.> O K. This is your card. It's in Japanese. Please read it to yourself. When you're ready, I'll begin.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? <OL>Are you ready</OL>?</A>
+<B><OL><R>O K</R></OL> O K.</B>
+<A>O K, good afternoon, sir, how can I help you?</A>
+<B><F>Uhm</F> <R>I'd like to</R> <F>uh</F> I'd like to buy a flower. <F>Mm</F> <F>mm</F> <R>what</R> <R>what</R> <F>ah</F> <SC>what flower</SC> <F>um</F> what <R>fl</R> flower <F>m</F> is recommend me?</B>
+<A><F>Mhm</F> O K. <F>Uhm</F> probably roses or lilies, <F>er</F> like, for example, these pink <OL>flowers would be nice</OL>.</A>
+<B><OL>Pink flower</OL>. <F>Uh</F> <F>mm</F> <R>what</R> <F>ah</F> <F>mm</F> <R>what kind of rose</R> <F>mm</F> <F>a</F> what kind of rose <SC>is there</SC> <F>a</F> is <SC>it</SC> <R>he</R> here?</B>
+<A>We have <OL>red</OL></A>
+<B><OL>Red</OL>.</B>
+<A>yellow, white, pink and special color, purple.</A>
+<B><OL>Purple <F>oh</F></OL>.</B>
+<A><OL>Yeah purple roses</OL>.</A>
+<B><F>Uh</F> <F>Uhh</F> <.></.> what is <R>most</R> <F>mm</F> most popular color?</B>
+<A><F>Well</F> actually, red.</A>
+<B>Red. <F>Uh</F>.</B>
+<A>Red is the most popular color.</A>
+<B>I will present for my girlfriend.</B>
+<A><F>Uhmm</F>.</A>
+<B><SC>Do</SC> <SC>what do you</SC> <F>uh</F> what will I choice?</B>
+<A>In that case red.</A>
+<B>Red.</B>
+<A>Would be the best.</A>
+<B><OL>Why</OL>?</B>
+<A><OL><R>That</R></OL> that means love, "I love you.". So I guess red is the <OL>best choice</OL>.</A>
+<B><OL><F>Oh</F></OL> I see. <F>Uhm</F>.</B>
+<A>O K?</A>
+<B>I'd like to <F>mm</F> red rose.</B>
+<A>O K. So I'll make a bouquet for you.</A>
+<B>Yes.</B>
+<A>O K. <SC>Here's your flower</SC> here's your roses.</A>
+<B><F>Um</F> <F>uh</F> how much is it?</B>
+<A>O K, it's <R>five</R> five thousand yen. <.></.> O K? Thank you.</A>
+<B>Thank you.</B>
+<A>Good luck.</A>
+<B><laughter>Thank you</laughter>.</B>
+<A><laughter>O K thank you</laughter>. This is the end of the role-play. Thank you.</A>
+</task>
+<followup>
+<A><F>Um</F> where do you usually go for shopping?</A>
+<B>Where?</B>
+<A>Where.</A>
+<B><F>Mm</F> <.></.> <F>a</F> <F>mm</F> <R>I go to</R> <F>mm</F> I go to supermarket <SC>near my ho</SC> <F>a</F> near my apartment.</B>
+<A><F>Uuh</F> O K, <F>ah</F> what is so special about the <OL><laughter>supermarket near your apartment</laughter></OL>?</A>
+<B><OL><nvs>laughter</nvs></OL> <F>Mm</F>?</B>
+<A>What is so special?</A>
+<B>So special?</B>
+<A><F>Hmm</F> What is the special point?</A>
+<B>Special point? <F>Mm</F> <R>that</R> <F>a</F> that supermarket is <F>mm</F> nearest <laughter>from <SC>my house</SC></laughter> <F>a</F> my apartment.</B>
+<A>O K, all right. So, did you give anything special to your girlfriend recently?</A>
+<B><R>Recently</R>. <F>Uh</F> <.></.> recently, <.></.> <F>uh</F> bring to <F>mm</F> <F>mm</F> <F>mm</F> <R>hot</R> hot spring.</B>
+<A><laughter><F>Oh</F> That's nice</laughter>.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>O K, so, lastly, I'm going to show you another picture. <.></.> O K, let's see. Here you go. <F>Um</F> this is sequence of pictures from one to six. <F>Eeh</F> and <F>uh</F> I would like you to make up a story based on these pictures. And, the story happened before. So, please start your story with "One day last week".</A>
+<B>One day last week.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Um</F> <F>a</F> <SC>at the morning of a</SC> <F>am</F> <F>ah</F> at the morning one day last week, <R>my girlfriend</R> my girlfriend phoned me. <.></.> <F>Uh</F> <SC>she is</SC> <F>uh</F> <R>sh</R> <R>she told</R> <F>um</F> she told me <F>mm</F> that, <F>mm</F> <R>she want</R> she want to go anywhere. <.></.> And <F>mm</F> <SC>that day I</SC> <F>mm</F> <R>that day</R> <F>mm</F> that day was my off day. <R>And</R> <F>uh</F> and <R>I</R> I went to her house by my car. And <.></.> I picked up her and <R>went to</R> <F>mm</F> went to zoo. <SC>Because I want</SC> <F>uh</F> because <R>we</R> <R>we want</R> we wanted to see <F>mm</F> <.></.> <F>mm</F> wild <R>an</R> animals. <F>Mm</F> first, <F>mm</F> <SC>we wan</SC> <F>uh</F> we went to see <F>mm</F> lion. <F>Mm</F>. <.></.> And <F>mm</F> <SC>lion is <F>mm</F> very</SC> <F>a</F> lion was very big. <R>And</R> <.></.> and <F>mm</F> next, <F>mm</F> we went to see the monkey. And that monkey was eating banana. And <R>she</R> <F>a</F> she told me, <F>mm</F> that monkey <SC>is</SC> <F>a</F> was like you.</B>
+<A>O K, thank you.</A>
+</task>
+<followup>
+<A>So, how do you spent time with your girlfriend?</A>
+<B>How?</B>
+<A><F>Uh-huh</F>. Like on a Saturday or Sunday?</A>
+<B><F>Uh</F> <.></.> <F>mm</F> <.></.> how? Just a moment please.</B>
+<A>O K, what do you do?</A>
+<B>What do you do? <F>Mm</F> <F>uh</F> <.></.> <F>mm</F> <R>we</R> <F>ah</F> we go to <F>mm</F> Karaoke. <R>And</R> <F>mm</F> and <R>eating</R> <F>ah</F> eating lunch or dinner <F>mm</F> and now, <R>we</R> <F>mm</F> we are planning <F>n</F> to travel.</B>
+<A><F>Mhm</F> yes, you said, <SC>you went to hot</SC> you took her to hot spring. Can you tell me more, a little more about the trip you made?</A>
+<B><SC>Tri</SC> <F>ah</F> now, <R>we</R> <F>mm</F> we are planning to travel <F>mm</F> to Kyoto.</B>
+<A><F>Uh</F> that's nice.</A>
+<B>And <R>we will</R> <SC>we will go</SC> <R>we</R> <F>ah</F> we will go to Kyoto, <F>ah</F> <F>ah</F> on <SC>Janua</SC> <F>ah</F> <F>a</F> December first. <F>Mm</F> <R>two</R> two days trip.</B>
+<A><F>Oh</F>. That's short. <F>Mm</F> I'm sure you'll enjoy the trip. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+</followup>
+</stage4>
+<stage5>
+<A>O K, <F>ah</F> we are <F>a</F> almost at the end of the interview. O K, so what are you going to do, after this test? After this interview?</A>
+<B><F>Uh</F>. Now, I'm not so good condition, <F>ah</F> I want to <laughter>go back home</laughter>.</B>
+<A>That's right, you need to take a good rest. Did you go to the hospital?</A>
+<B>Yes. Yesterday, I went to <F>mm</F> hospital and <F>mm</F> I took injection. It injection was very pain.</B>
+<A><F>Oh</F> That's too bad. <F>Wow</F> Was it a careless driving? <CO>Or</CO>?</A>
+<B><F>Mm</F> <R>We</R> <F>uh</F> <SC>we went</SC> <F>uh</F> <R>we</R> <R>we are waiting</R> <F>um</F> <F>a</F> we are waiting <SC>to <SC>si</SC> change si</SC> <F>uh</F> to change signal. <.></.> <F>Ah</F> <..></..> <R>that time</R> <F>ah</F> that time <F>um</F> <F>um</F> <SC>a da</SC> <F>ah</F> <SC>wa</SC> <R>a car</R> and <F>ah</F> a car crashed, <SC>one</SC> <F>a</F> the car crashed. <R>One car</R> <SC>one car</SC> that car is <F>mm</F> <R>parking</R> <F>ah</F> <R>parking <F>mm</F> <F>a</F> back</R> parking back our car. <F>Mm</F> <OL>three car is crashed</OL>.</B>
+<A><OL>I see</OL>. <F>Oh</F> Really? <F>Well</F> <SC>you're safe</SC> you're saved. <OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Hmm</F></OL>.</B>
+<A>You didn't get a serious.</A>
+<B>Yes.</B>
+<A><F>Oh</F> That's bad. <F>Well</F> I hope you get well soon.</A>
+<B><laughter>Thank you</laughter>.</B>
+<A>O K, thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

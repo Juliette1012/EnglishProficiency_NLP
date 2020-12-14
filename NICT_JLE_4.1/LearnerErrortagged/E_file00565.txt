@@ -1,0 +1,165 @@
+<interview>
+<filename>E_file00565.txt</filename>
+
+<head version="1.3">
+<date>2001-07-27</date>
+<sex>female</sex>
+<age>27</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category>university student</category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>zoo</SST_task4>
+</head>
+
+<body basictag_version="2.1.3" errortag_version="1.1">
+<stage1>
+<A>Good afternoon. My name is <H pn="A's name">XXX01</H>. May I have your name?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A><H pn="B's name">XXX02</H>, how are you today?</A>
+<B>Fine, thank you.</B>
+<A><OL>Good</OL>.</A>
+<B><OL>And</OL> you?</B>
+<A>Fine. O K. <H pn="B's name">XXX02</H>, where do you live?</A>
+<B>I live in <H pn="others1">XXX03</H>.</B>
+<A><F>Hm</F>.</A>
+<B><OL><F>Hm</F></OL>.</B>
+<A><OL><R>Ho</R></OL> how do you get here from where <R>you</R> you live?</A>
+<B><.></.></B>
+<A>How do you come here?</A>
+<B><F>Uh</F>. <F>Hmm</F>. <R>I</R> I come here <F>mm</F> by train.</B>
+<A><F>Hm</F>. <F>Well</F>. How long does it take?</A>
+<B>It takes one hour and fifty minutes.</B>
+<A><F>Wow</F>. Quite a long time. <F>Well</F> when you were on a train, what did you do today on the way coming here?</A>
+<B><.></.></B>
+<A>On the way to this place from where you live, on the train, what were you doing?</A>
+<B><..></..></B>
+<A>O K, then. When you come to your campus, what do you usually do on the train?</A>
+<B><..></..> <F>Ah</F>. <F>Uhm</F>. Yes.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>.</B>
+<A>So, do you read books on the train?</A>
+<B><F>Uh</F>. <R>I</R> I <mo_lxc odr="1" crr="am"></mo_lxc> always sleeping in <at odr="2" crr="the"></at> train.</B>
+<A><F>Hmm</F>. I see. Good. And, <F>er</F> <F>well</F> in your free time, what do you like to do?</A>
+<B><R>I</R> <R>I like</R> <.></.> I like <R>seein</R> seeing <at odr="2" crr="">the</at> <n_num odr="1" crr="plays">play</n_num>.</B>
+<A><F>Hmm</F>. What kind of play do you like to see?</A>
+<B><F>Hmm</F>. <F>Hm</F>. <H pn="school name1">XXX04</H> students' play.</B>
+<A><F>Hmm</F>. Tell me a little bit about the last play you saw.</A>
+<B><F>Uh</F>. <F>Hm</F>. <F>Er</F>. <.></.> <F>Hm</F>. <R>Las</R> last week, <R>I</R> <R>I saw</R> <F>mm</F> I saw a play. <F>Hm</F>. <R>The play</R> <.></.> the play <.></.> <v_tns odr="1" crr="was">is</v_tns> <R>very</R> very good.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><OL><F>Hmm</F></OL>. <R>Ac</R> <F>uh</F> <F>mm</F> <at odr="2" crr="the"></at> <n_cs odr="1" crr="actor's">actor</n_cs> and actress's <n_num odr="3" crr="performances">performance</n_num> <F>eh</F> <v_tns odr="4" crr="were">are</v_tns> very good.</B>
+<A><F>Ah</F>. I see. O K. Do you do any sports?</A>
+<B><F>Ah</F>. Yes, I <OL>do</OL>.</B>
+<A><OL><F>Hmm</F></OL>.</A>
+<B><R>I</R> I <v_asp odr="2" crr="swim"><mo_lxc odr="1" crr="am"></mo_lxc> usually <.></.> <F>hm</F> <R>s</R> swimming</v_asp>.</B>
+<A><F>Hmm</F>. How often do you swim these days? Now it's summer.</A>
+<B><.></.></B>
+<A>How often <OL>do you swim</OL>?</A>
+<B><OL><F>Uh</F> <F>hm</F></OL>. <R>I</R> I swim <F>mm</F> two or three days a week.</B>
+<A><F>Hmm</F>. <F>Well</F>. What are the good points for you <.></.> about swimming?</A>
+<B><F>Oh</F>. <F>Hmm</F>. <.></.> <SC>I</SC> <F>uh</F> swimming is <.></.> <o_uk odr="1" crr="very good for my health">good for my <R>hea</R> health <OL>very much</o_uk></OL>.</B>
+<A><OL><F>Hmm</F></OL>. I see. So you feel very healthy after swimming?</A>
+<B>Yes.</B>
+<A>That's very good. O K. You said you live in <H pn="others1">XXX03</H>. Do you live with your family?</A>
+<B>Yes.</B>
+<A><F>Hm</F>. Tell me a little bit more about your family.</A>
+<B><F>Hm</F>. <SC>I</SC> <F>uh</F> <R>my fam</R> <F>uhm</F> <.></.> my family has <F>mm</F> four <.></.> people. <F>Uhm</F>. <F>Eh</F>. My father and my mother and my grandmother.</B>
+<A><F>Hm</F>. Tell me more about your grandmother.</A>
+<B><F>Uh</F>. <F>Hm</F>. <R>She</R> <SC>she is</SC> she's eighty-four years old.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>. <R>She is very</R> <nvs>cough</nvs> she is <o_uk odr="1" crr="in very good health">very fine among <SC>our</SC> us</o_uk>.</B>
+<A><F>Hm</F>. So, what do you think about having such a healthy, fine grandmother</A>
+<B><OL><F>Hmm</F></OL>.</B>
+<A><OL>in your family</OL>?</A>
+<B><R>She</R> <R>she always</R> <F>uhm</F> <.></.> she <v_lxc odr="1" crr="is"></v_lxc> always active.</B>
+<A><F>Hmm</F>. <F>Oh</F>. That's <F>er</F> <at odr="1" crr="a"></at> good news, isn't it?</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. <R>The first thi</R> <prp_lxc1 odr="1" crr="for"></prp_lxc1> the first <.></.> thing, I'll show you a picture. O K? <H pn="B's name">XXX02</H>, please describe this picture.</A>
+<ctxt>The interviewee is looking at the picture and thinking for a moment.</ctxt>
+<B><F>Er</F>. <R>I think</R> I think <F>mm</F> <R>i</R> <.></.> <SC>it</SC> <.></.> <F>mm</F> the place <v_lxc odr="1" crr="is"></v_lxc>, maybe, <F>hm</F> <at odr="2" crr="a"></at> restaurant. <F>Hmm</F>. <.></.> <F>Hm</F>. <R>Three couples are</R> <nvs>cough</nvs> <.></.> three couples <.></.> are sitting. <.></.> <F>Hm</F>. <.></.> <F>Hm</F>. <..></..> <F>Hm</F>. <F>Er</F>. A sommelier <F>hm</F> <R>show</R> <.></.> <v_agr odr="1" crr="shows">show</v_agr> <.></.> a man and <at odr="2" crr="a"></at> woman <F>mm</F> <.></.> a <R>wine</R> <n_cs odr="3" crr="wine label">wine's label</n_cs>.</B>
+<A><F>Hmm</F>. O K. Thank you.</A>
+</task>
+<followup>
+<A><F>Erm</F>. <H pn="B's name">XXX02</H>, do you often go out eating with your friends?</A>
+<B><F>Hmm</F>. <.></.> Sometimes.</B>
+<A>Sometimes? So, what kind of restaurant do you go?</A>
+<B><F>Hm</F>. <R>I</R> I sometimes go to <at odr="1" crr="a"></at> family restaurant.</B>
+<A><F>Uhm</F>. So, can you tell me the differences between that family restaurant you go to this restaurant in this picture?</A>
+<B><F>Hmm</F>. The restaurant in this picture is <nvs>cough</nvs> <.></.> <F>uhm</F> <F>erm</F> big <n_lxc odr="1" crr="">room</n_lxc>. <F>Uhm</F>. And <F>hm</F> <SC>mu</SC> a musician is playing <at odr="1" crr="the">a</at> piano. <F>Hm</F>. <F>Hm</F>. And <.></.> <SC>the re</SC> <F>mm</F> <R>this restaurant</R> this restaurant has <at odr="1" crr="a"></at> sommelier.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hm</F>. <F>Uh</F>. <F>Hm</F>. <F>Hm</F>. The people in this restaurant <F>uhm</F> <SC>take</SC> <F>uh</F> <.></.> <F>uh</F> <R>ta</R> <F>uhm</F> <v_lxc odr="1" crr="wear">take</v_lxc> suits or <F>uhm</F> <n_num odr="3" crr="one-piece dresses"><o_je odr="2" crr="one-piece dress">one-piece</o_je></n_num>.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Uhm</F>. <.></.> <F>Hm</F>.</B>
+<A>So, what <v_qst odr="1" crr="do people wear">people wear</v_qst> in the <n_lxc odr="2" crr="">family restaurant</n_lxc> you go?</A>
+<B><F>Er</F>. <F>Uhm</F>. <..></..> <F>Hm</F>. Casual wear.</B>
+<A><F>Hm</F>. I see. O K.</A>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Well</F> now, let's do a role play. Please read the card. When you are ready, I'll start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K, <H pn="B's name">XXX02</H>? O K. Hello, madam. May I help you?</A>
+<B>Yes. <F>Hm</F>. <R>I</R> <.></.> I want to go to New York <R>as</R> <.></.> as <av_lxc odr="1" crr="soon">fast</av_lxc> as possible. <F>Hmm</F>. <SC>How</SC> <.></.> <R>please tell me how to</R> <.></.> <F>hm</F> please tell me how to go to New York <SC>in</SC> <F>uh</F> <R>by</R> by train.</B>
+<A><F>Hm</F>. <F>Well</F>. You get on a train from this station.</A>
+<B><F>Hm</F>. <F>Hm</F>. <F>Er</F>. <R>I wa</R> <nvs>cough</nvs> I want to buy a ticket. <F>Hm</F>. What kind of ticket <R>I</R> <F>hm</F> <.></.> <v_qst odr="1" crr="should I buy">I should buy</v_qst>?</B>
+<A><F>Mh-hmm</F>. We have <R>two types</R> two types of trains. Local trains and the express trains.</A>
+<B><F>Uhm</F>. Express <R>tra</R> train,</B>
+<A><F>Mh-hmm</F>. It's fifty dollars.</A>
+<B>Fifty <n_num odr="1" crr="dollars">dollar</n_num>?</B>
+<A><F>Mh-hmm</F>.</A>
+<B>O K.</B>
+<A>O K? O K. Here's the ticket.</A>
+<B><F>Uh</F>.</B>
+<A><F>Mh-hmm</F>. <.></.> O K. Thank you. O K. Have a very good trip.</A>
+<B>Thank you <OL>very much</OL>.</B>
+<A><OL>O K</OL>. Thank you. <F>Well</F> that's the end of the role-play.</A>
+</task>
+<followup>
+<A>Do you like to go on a trip?</A>
+<B><F>Uh</F>. Yes.</B>
+<A><F>Hm</F>. <F>Well</F> tell me <prp_lxc2 odr="1" crr="about"></prp_lxc2> the last <n_lxc odr="2" crr="trip">time</n_lxc>.</A>
+<B><F>Uh</F>. <F>Hm</F>. <F>Er</F>. Last month, <R>I</R> I went to Hakone. <F>Hm</F>. Hot spring.</B>
+<A><F>Hm</F>.</A>
+<B><F>Uhm</F>. <R>I</R> <.></.> <R>I go to</R> I <v_tns odr="1" crr="went">go</v_tns> to Hakone <F>mm</F> <R>wi</R> with my boyfriend by motorcycle.</B>
+<A>Really?</A>
+<B><OL><F>Hm</F></OL></B>
+<A><OL><F>Uhm</F></OL></A>
+<B><R>It</R> <R>it was</R> <.></.> it was very fun. But it <laughter>was</laughter> very <aj_lxc odr="1" crr="tiring">tired</aj_lxc>. <nvs>laughter</nvs></B>
+<A><F>Hmm</F>. It should be. <F>Uhm</F>. I see. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Well</F> finally today, I'll show you another picture. This time, <H pn="B's name">XXX02</H>, <F>erm</F> please make a short story based on these pictures. And start your story <SC>one</SC> with "One day last week". <.></.> O K. Please <R>go</R> go ahead.</A>
+<B><F>Hm</F>. One day last week, <F>uhm</F> Taro and Hanako <R>went</R> <nvs>cough</nvs> went to the zoo. <F>Uhm</F>. <.></.> <R>It was</R> <R>it was the</R> it was the first date <prp_lxc1 odr="1" crr="for">to</prp_lxc1> them. <F>Uhm</F>. <R>The</R> <F>uhm</F> <SC>they <.></.> e</SC> at first <SC>e</SC> <R>they</R> <.></.> <SC>they look</SC> <.></.> they looked at <F>uh</F> lions. <F>Mm</F>. <SC>Lion</SC> <R>a li</R> <nvs>cough</nvs> a lion <.></.> stared them.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Mm</F>. <R>Taro</R> Taro <v_tns odr="1" crr="spoke">speak</v_tns> to Hanako <R>about li</R> about <SC>lion</SC> lions.</B>
+<A><F>Mh-hmm</F>.</A>
+<B><F>Hmm</F>. <F>Hm</F>. Next, <SC>they look</SC> they looked <prp_lxc2 odr="1" crr="at"></prp_lxc2> monkeys. <F>Erm</F>. <F>Erm</F>. A monkey on the tree <.></.> <SC>is ea</SC> <F>uh</F> was eating <at odr="1" crr="a"></at> banana. <F>Uhm</F>. And the monkey <R>loo</R> looked at them. And <R>Hana</R> Hanako was eating <F>uhm</F> a <o_je odr="1" crr="soft ice cream">soft cream</o_je>, too. <F>Uhm</F>. <R>Ha</R> <nvs>cough</nvs> <R>Hana</R> <.></.> <R>Hanako</R> <.></.> <R>Hanako spe</R> <laughter>Hanako</laughter> <v_tns odr="1" crr="spoke">speak</v_tns> to the monkey. <F>Uhm</F> "<R>I</R> <SC>I have</SC> <.></.> <SC>I had</SC> <F>mm</F> <R>I have a</R> I have <at odr="1" crr="">a</at> sweets <R>li</R> like you.".</B>
+<A><F>Hmm</F>. Good.</A>
+<B><R>And</R> <.></.> and <F>uh</F> <F>mm</F> <SC>they</SC> <.></.> <F>mm</F> in <.></.> <F>mm</F> <at odr="1" crr="the"></at> evening, <F>mm</F> <R>they</R> <.></.> <F>uh</F> <F>uhm</F> <.></.> <SC>they</SC> after <R>they</R> they looked <prp_lxc2 odr="2" crr="at"></prp_lxc2> all animals, <F>uhm</F> <.></.> <R>the zoo</R> the zoo was <F>uhm</F> closed. And <R>Taro</R> Taro said, "Hanako, good-bye.". And Hanako said, <F>uhm</F> "<SC>It</SC> <R>today</R> <R>today is very</R> <nvs>cough</nvs> <o_uk odr="1" crr="today's date">today</o_uk> <v_tns odr="2" crr="was">is</v_tns> very fun. <SC>No</SC> <F>uhm</F> see you again. Bye.".</B>
+</task>
+<followup>
+<A><F>Hm</F>. Thank you for the story, <H pn="B's name">XXX02</H>.</A>
+</followup>
+</stage4>
+<stage5>
+<A><F>Well</F> the interview is almost over now. After this, do you have any plans to do today?</A>
+<B><F>Uhm</F>. <.></.> <F>Uh</F>. Yes. <R>I</R> I have to write a report. <F>Hm</F>.</B>
+<A><F>Wow</F>. <SC>Yo</SC> still <SC>you have to</SC> you have something to do. <SC>When is that due</SC>? When is the deadline of this report?</A>
+<B><F>Er</F>. The deadline is next Tuesday.</B>
+<A><laughter>I see</laughter>. So it's going to be a hard work. O K. Anyway, thank you very much for coming. The interview is over now.</A>
+<B>Thank you very much.</B>
+<A>Thank you.</A>
+</stage5>
+</body>
+</interview>

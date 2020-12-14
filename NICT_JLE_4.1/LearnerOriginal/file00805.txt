@@ -1,0 +1,235 @@
+<interview>
+<filename>file00805.txt</filename>
+
+<head version="1.3">
+<date>2001-11-22</date>
+<sex>male</sex>
+<age>28</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step></step>
+<TOEIC>725</TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>3</SST_level>
+<SST_task2>room</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>restaurant</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>Mister <H pn="B's name">XXX02</H>?</A>
+<B>Yes.</B>
+<A>Nice to meet you.</A>
+<B>Nice to meet you, too.</B>
+<A>O K. <F>Uum</F>. Mister <H pn="B's name">XXX02</H>,</A>
+<B><SC><JP>Hai</JP></SC> yeah.</B>
+<A><SC>do you live in this office</SC> I mean, do you work in this office?</A>
+<B>No. <JP><F>Ee</F></JP> <SC>I</SC> now I work in Yaizu,</B>
+<A><OL>Yaizu</OL>?</A>
+<B><OL><R>Shi</R></OL> Shizuoka.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Hm</F>. Today, <R>I</R> yeah, I go to <??></??> this place.</B>
+<A><F>Um</F>. How did you come here today?</A>
+<B>Yeah. <F>Erm</F>. <nvs>laughter</nvs> <F>Um</F>. This office is very urban. <nvs>laughter</nvs></B>
+<A><F>Uhu</F>.</A>
+<B>Yaizu is <F>uum</F> <F>uum</F> <SC>country</SC> <laughter>very, very country</laughter>. <F>Uum</F>. Tokyo is <F>mm</F> very urban, <OL>I think</OL>.</B>
+<A><OL><F>Uhu</F></OL>. <F>Er</F> which do you like better?</A>
+<B><F>Um</F>. <SC>I think</SC> <F>um</F> <F>er</F> <R>I</R> <R>I li</R> I like <F>uum</F> urban, Tokyo.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Um</F>.</B>
+<A><OL>Why</OL>?</A>
+<B><OL><R>I</R></OL> I want to move to Tokyo. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><SC>Why do you like</SC></OL> why do you prefer Tokyo?</A>
+<B><F>Uum</F>. <JP><F>Ee</F></JP> <SC>I live in</SC> <JP><F>ee</F></JP> <F>uh</F> <SC>for now twenty-eight</SC> <JP><F>ee</F></JP> my age is twenty-eight. <F>Ee</F> for twenty-four years, I live in Uwajima, Ehime.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Hm</F>. And <R>I</R> I live <F>uum</F> <JP><F>ee</F></JP> country until now. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>I want to go to <SC>To</SC> urban. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter>My dream</laughter>.</B>
+<A><F>Ah-huh</F>. Can you tell me more about Uwajima?</A>
+<B>Yes. <R>Uwa</R> <F>uum</F> Uwajima. Uwajima is good place but <F>uum</F> <F>uum</F> very, very country. <nvs>laughter</nvs></B>
+<A><F>Uhu</F>.</A>
+<B><F>Mm</F>. Yes.</B>
+<A>Is there any <F>er</F> your favorite place in Uwajima?</A>
+<B>Yes, <F>uum</F> <F>ee</F> <F>uum</F> <SC>my</SC> <SC>I</SC> <JP><F>ee</F></JP> <F>hm</F> Uwajima is very country but <F>um</F> <R>I</R> I love it. I love Uwajima. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Hum</F></OL>. I see.</A>
+<B>Yes.</B>
+<A>O K. <F>Erm</F> now, <F>er</F> do you live alone?</A>
+<B>Yes. <F>Er</F> I don't mind now. <F>Ee</F> now I live <JP><F>ee</F></JP> Yaizu <F>um</F> alone.</B>
+<A><F>Uhu</F>. How do you enjoy living alone?</A>
+<B><nvs>laughter</nvs> <F>Uum</F> <F>ee</F> I have <F>ee</F> lived alone for ten years.</B>
+<A><F>Uhu</F>.</A>
+<B><nvs>laughter</nvs> <F>Uum</F> <laughter><R>I</R></laughter> <F>uum</F> I want to married <nvs>laughter</nvs> <F>er</F> <SC>rapid</SC> <R>early</R> <OL>early</OL>.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B>Yes.</B>
+<A>Why?</A>
+<B><F>Uum</F>. Yeah, <F>er</F> <SC>it wa</SC> I was bored <F>um</F> to live alone. <F>Uum</F> <F>uum</F> <SC>because</SC> <R>and</R> <SC>and very</SC> <F>ee</F> <OL><JP><F>ee</F></JP></OL> <SC>do</SC> <F>ee</F> <F>eh</F> <JP><F>ee</F></JP> <JP><F>ee</F></JP> for example, <JP><F>ee</F></JP> washing and cleaning,</B>
+<A><F>Mh-hmm</F>.</A>
+<B>it is very hard weekend. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Mh-hmm</F> <laughter>I see</laughter></OL>.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>So it sounds, <F>well</F> you have a busy weekend.</A>
+<B><laughter>Yes</laughter>.</B>
+<A><F>Oh</F>. <R>What</R> what do you usually do to relax?</A>
+<B><F>Uum</F> <F>ee</F> <F>er</F> <F>er</F> <SC>I</SC> <JP><F>ee</F></JP> the method to <F>er</F> relax is <F>uum</F> <R>the</R> <F>mm</F> <F>mm</F> <F>mm</F> <JP><F>ee</F></JP> the best way is <F>uum</F> to sleep. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>And <F>uum</F> <SC>to play</SC> <F>ee</F> <SC>I love <JP><F>ee</F></JP> <nvs>sniff</nvs> <?>being</?></SC> <F>er</F> I love <JP><F>ee</F></JP> the dog. <F>Mm</F>. And I want to keep the dog. But <SC>my</SC> <SC>this my apartment is</SC> <SC>in apart</SC> in this apartment, <JP><F>ee</F></JP> I must not <JP><F>ee</F></JP> keep the dog. <JP><F>Ee</F></JP> My hometown <JP><F>ee</F></JP> in Uwajima, <JP><F>ee</F></JP> <SC>to keep dog my parents</SC> my parents keep dog.</B>
+<A><OL><F>Hum</F></OL>.</A>
+<B><OL><F>Uum</F></OL>. <SC>I want to</SC> <SC>I go to</SC> I come home <F>uum</F> and I <.></.> meet my favorite dog.</B>
+<A><F>Hum</F>.</A>
+<B><F>Mm</F>. It is my best relax.</B>
+<A>I see.</A>
+<B>Yes.</B>
+<A>I've never had a pet.</A>
+<B><nvs>laughter</nvs></B>
+<A>So <F>uh</F> what is a good point of having a pet?</A>
+<B>Pet.</B>
+<A>I mean, having a dog?</A>
+<B><F>Er</F> dog? <F>Um</F> <R>dog is <F>uum</F> not</R> <JP><F>ee</F></JP> dog is <JP><F>ee</F></JP> not speaking. <nvs>laughter</nvs> Yes. And I speak <F>uum</F> <JP><F>ee</F></JP> to dog <JP>guchi</JP>. <F>Mm</F> dog is <F>um</F> <JP><F>ee</F></JP> <SC>did no</SC> don't understand. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs> I see</OL>. O K.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now, I'd like to show you a picture.</A>
+<B>Yes.</B>
+<A>O K. Please describe this picture.</A>
+<B>Yes. <F>Uum</F>. The door is open. <JP><F>Ee</F></JP> the woman is <F>um</F> working <F>ee</F> at the computer. The dog is <F>uum</F> sleeping on the floor. <SC>The</SC> a cat is <F>um</F> sleeping on the bed. <JP><F>Ee</F></JP> <R>today</R> <F>er</F> <SC>today</SC> now, <JP><F>ee</F></JP> the calendar is <??></??> <F>um</F> <SC>at June</SC> in <F>um</F> June. <JP><F>Ee</F></JP> it is nine o'clock. And she is <F>uum</F> <R>wearing</R> <F>uum</F> <F>er</F> wearing blue sweater <.></.> and <nvs>laughter</nvs> <laughter>blue skirt</laughter>. And <SC>there is <JP><F>ee</F></JP> <.></.> typewriter</SC> <F>uh</F> <SC>there are</SC> <F>er</F> there is typewriter on the desk and a computer on desk. <OL><nvs>laughter</nvs> <laughter>O K</laughter></OL>.</B>
+<A><OL><nvs>laughter</nvs> O K, thank you very much</OL>.</A>
+<B><laughter>Thank you</laughter>.</B>
+</task>
+<followup>
+<A>You said you live alone. Does her room look like yours?</A>
+<B><F>Uum</F>. <F>Er</F> sorry? <JP><F>Ee</F></JP> pardon?</B>
+<A>Does her room look like your room? <OL>Is it similar</OL>?</A>
+<B><OL><F>Er</F> <R>yes</R></OL>. Yes. <F>Um</F> <R>my room</R> my room is similar. But <SC>I have a <F>uum</F> stereo</SC> I don't have stereo.</B>
+<A><F>Uhu</F>.</A>
+<B>And <nvs>laughter</nvs> I don't have pet now <OL>in the apartment</OL>.</B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B>Yes. <OL><F>Uum</F></OL>.</B>
+<A><OL>So</OL> you want another.</A>
+<B>Yes.</B>
+<A>Right?</A>
+<B>Very similar.</B>
+<A>O K.</A>
+<B>Yes.</B>
+<A>Thank you very much.</A>
+<B>Thank you.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>Now, let's try a role-play.</A>
+<B>Yes.</B>
+<A><F>Uum</F>. O K. Please read this. And when you are ready, I will start.</A>
+<B>Yeah.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><laughter>O K</laughter>.</B>
+<A>O K?</A>
+<B><laughter>O K</laughter>.</B>
+<A>May I help you?</A>
+<B><F>Uum</F>. <SC>I want to ticket</SC> <R>I want a ticket <F>uum</F> to</R> <.></.> <F>ee</F> <F>er</F> I want a ticket <F>ee</F> to go to New York. <JP><F>Ee</F></JP> <F>um</F> <SC>where do you</SC> <F>er</F> <R>do you know where</R> <JP><F>ee</F></JP> <.></.> <F>er</F> do you know <JP><F>eh</F></JP> where <.></.> ticket center <.></.> is? <nvs>laughter</nvs></B>
+<A><F>Oh</F>. You can buy tickets here. I sell tickets.</A>
+<B>I sell tickets. <F>Er</F> Thanks. O K. <JP><F>Ee</F></JP> <JP><F>ee</F></JP> <R>I</R> <??></??> <JP><F>ee</F></JP> I want to <JP><F>ee</F></JP> train to New York. <JP><F>Ee</F></JP> <JP><F>ee</F></JP> <SC>may I have th</SC> may I have a <SC>seat</SC> <JP><F>ee</F></JP> <F>oh</F> empty seat?</B>
+<A><F>Well</F> <F>um</F> we have many trains.</A>
+<B><F>Err</F> O K. <F>Oh</F> sorry. <JP><F>Ee</F></JP> <laughter><R>I</R></laughter> I want <JP><F>ee</F></JP> to New York <JP><F>ee</F></JP> <nvs>sniff</nvs> now today <JP><F>ee</F></JP> at six o'clock, <JP><F>ee</F></JP> <R>I want to <JP><F>ee</F></JP> <R>ride on tra</R> ride on train</R> I want to ride on train. And <R>I</R> <F>er</F> <SC>I wan</SC> <JP><F>ee</F></JP> I buy the tickets to <JP><F>ee</F></JP> one seat to New York. <JP><F>Ee</F></JP> <.></.> <JP><F>ee</F></JP> please <JP><F>ee</F></JP> <R>tell</R> <JP><F>ee</F></JP> tell me <JP><F>ee</F></JP> to earliest <JP><F>ee</F></JP> <R>near</R> <JP><F>ee</F></JP> near at six.</B>
+<A>At six?</A>
+<B><F>Mm</F> yes.</B>
+<A>Six o'clock,</A>
+<B>Six o'clock.</B>
+<A>we have a train but <F>um</F> it's a local train.</A>
+<B><OL>Local train</OL>?</B>
+<A><OL>So</OL> it's very slow.</A>
+<B><F>Er</F> sorry. <JP><F>Ee</F></JP> <SC>this is</SC> <JP><F>ee</F></JP> rapid train is express?</B>
+<A><F>Oh</F>. We have express <OL>train</OL>.</A>
+<B><OL>Yes</OL>. I want express to in New York.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes. And <JP><F>ee</F></JP> <SC>do</SC> <JP><F>ee</F></JP> <SC>may I <JP><F>ee</F></JP> have a seat</SC> <SC>emp</SC> <F>ee</F> may I have empty seat to New York?</B>
+<A>Sure. Yes.</A>
+<B><F>Ee</F> <R>I</R> <SC>I want to buy <F>ee</F> <SC>one <.></.> ticke</SC> <F>uh</F> <F>er</F> one seat</SC> <F>eh</F> I want to have one seat.</B>
+<A><F>Uhu</F>.</A>
+<B><F>Eh</F>. <nvs>sniff</nvs> <F>Eh</F> <SC>do I</SC> <F>er</F> <JP><F>ee</F></JP> do you <.></.> <laughter>sell the tickets</laughter>?</B>
+<A>Yes. Forty-five dollars.</A>
+<B><F>Um</F>. <OL>O K</OL>.</B>
+<A><OL>O K</OL>? Here is a ticket.</A>
+<B><F>Er</F>. Thank you very much.</B>
+<A>O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>O K. The role-play is over.</A>
+</task>
+<followup>
+<A>O K. <F>Erm</F> when you travel in Japan, which do you prefer, traveling by <F>er</F> trains or by car?</A>
+<B>By car. <F>Uum</F>. <SC>I want</SC> <R>I</R> <R>I don't like</R> <F>ee</F> I don't like to drive because <F>uum</F> when <R>I <JP><F>ee</F></JP> get</R> I get the driver license, <F>uum</F> I have accident. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL></A>
+<B><laughter><R>I</R> <SC>I</SC></laughter> <F>er</F> <nvs>sniff</nvs> <F>mm</F> it is <F>uum</F> <JP><F>ee</F></JP> horrible to drive a car. And my hometown is Uwajima. Its takes nine hours.</B>
+<A>Nine hours.</A>
+<B>It is very, very <nvs>laughter</nvs> <SC>dis</SC> long distance.</B>
+<A><OL><F>Uhu</F></OL>.</A>
+<B><OL>And</OL> <SC>I <JP><F>ee</F></JP> like</SC> <F>uum</F> <??></??> almost <SC>I <F>uum</F> movement</SC> my movement is <SC>to</SC> <F>er</F> by train or airplane. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><laughter>I see</laughter>, now, I understand</OL>. O K.</A>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A>Now, I'd like to show another picture.</A>
+<B>Yes.</B>
+<A>O K. <.></.> O K. This is a picture story. And this happened last week.</A>
+<B>Yeah.</B>
+<A>Please make a story. And start with "One day last week". O K?</A>
+<B>Just moment.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>O K.</B>
+<A>O K? Please start <OL>with "One day last week"</OL>.</A>
+<B><OL><??></??></OL> <JP><F>Ee</F></JP> <R>my</R> <JP><F>ee</F></JP> my father <JP><F>ee</F></JP> <R>come</R> <R>come</R> <SC>comes <JP><F>ee</F></JP> to</SC> <SC>co</SC> <F>em</F> <JP><F>ee</F></JP> <SC>ca</SC> come to <JP><F>ee</F></JP> <R>my office</R> <JP><F>ee</F></JP> my office. <JP><F>Ee</F></JP> <R>we</R> <JP><F>ee</F></JP> we go to the <R>restaurant</R> <F>um</F> restaurant. And <JP><F>ee</F></JP> <JP><F>ee</F></JP> <R>the <.></.> waiter</R> <SC>the waiter is</SC> <JP><F>ee</F></JP> <F>er</F> <SC>they</SC> <F>er</F> we <JP><F>ee</F></JP> <JP><F>ee</F></JP> <R>go to</R> <.></.> go to the waiter. <JP><F>Ee</F></JP> <JP><F>ee</F></JP> my father <SC>said</SC> says, <JP><F>ee</F></JP> " Do you have <F>er</F> <JP><F>ee</F></JP> seat?". <SC>The waiter is <JP><F>ee</F></JP> "Do you have"</SC> <F>er</F> the <SC>waiter is</SC> <JP><F>ee</F></JP> <??></??> waiter says, <JP><F>ee</F></JP> "It is <JP><F>ee</F></JP> empty.". <JP><F>Ee</F></JP> <R>we</R> we <JP><F>ee</F></JP> have a lunch in this restaurant. And <JP><F>ee</F></JP> the waitress <JP><F>ee</F></JP> is <JP><F>ee</F></JP> bring the menu to us. And we <JP><F>ee</F></JP> select the <JP><F>ee</F></JP> <R>menu</R> menu. And we <R>s</R> select the <F>uum</F> <JP>honjitsuno osusume</JP>. <laughter>O K</laughter>. And we have <F>uh</F> <R>and</R> <JP><F>ee</F></JP> and order <JP><F>eeto</F></JP> my order <JP><F>ee</F></JP> and beer and the wine. <JP><F>Eh</F></JP> we have <JP><F>ee</F></JP> the <F>uh</F> lunch. <JP><F>Ee</F></JP> <JP><F>eeto</F></JP> at <R>first</R> first, <JP><F>ee</F></JP> I drink <F>er</F> beer and my father, <F>er</F> <R>he</R> he drink <JP><F>ee</F></JP> the wine. <F>Uum</F> and <R>we have a <.></.> good time</R> we have a good time to have a lunch. And <JP><F>ee</F></JP> <SC>I have</SC> <JP><F>ee</F></JP> <F>uum</F> <SC>my father is</SC> <SC>my father <JP><F>ee</F></JP> pay the</SC> <JP><F>ee</F></JP> <F>er</F> my father pay this <.></.> lunch account. <nvs>laughter</nvs> And I <.></.> was <F>uum</F> <SC>thanks <.></.> he</SC> thanks my father. And <F>eh</F> now, <R>I have</R> <JP><F>ee</F></JP> I have to work <R>still ni</R> still <JP><F>ee</F></JP> night. And we separate <SC>at</SC> on the road. <nvs>laughter</nvs></B>
+<A>O K. Thank <OL>you very much</OL>.</A>
+<B><OL>O K</OL>. Thank you very much.</B>
+</task>
+<followup>
+<A>O K. <F>Um</F> where do you usually have dinner?</A>
+<B>Today?</B>
+<A><F>Er</F> usually.</A>
+<B><F>Er</F> usually? Sorry. <F>Ee</F> <SC>I have</SC> <JP><F>ee</F></JP> <R>I u</R> I usually have a dinner <JP><F>eeto</F></JP> at home. <F>Uum</F>. But <F>ee</F> <F>mm</F> <??></??> <SC>no</SC> <JP><F>ee</F></JP> I usually work <JP><F>ee</F></JP> <SC>until at nine</SC> <R>at</R> <SC>at</SC> until nine.</B>
+<A><F>Uhu</F>.</A>
+<B><SC>And I have a dinner</SC> <F>uum</F> <F>er</F> <JP><F>ee</F></JP> but <JP><F>ee</F></JP> <SC>my</SC> <SC>in my office</SC> <JP><F>ee</F></JP> I can <JP><F>ee</F></JP> have a dinner in this office. But <F>um</F> I want to <JP><F>ee</F></JP> have a dinner at home. Because <JP><F>ee</F></JP> <SC>I</SC> <??></??> <R>at</R> at home, I relax.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes.</B>
+<A>And do you cook?</A>
+<B><nvs>laughter</nvs> <F>Uhm</F>. <laughter>Almost no</laughter>. <R>I have</R> <F>uum</F> <JP><F>ee</F></JP> <JP><F>ee</F></JP> <SC>I have</SC> I bought <JP><F>ee</F></JP> the <F>uum</F> <JP>bento</JP> <F>oh</F> <F>mm</F> <F>uh</F> <JP><F>ee</F></JP> at the convenience store or supermarket.</B>
+<A><F>Uhu</F>.</A>
+<B>Yes.</B>
+<A>I see.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>. Thank you very much.</A>
+</followup>
+</stage4>
+<stage5>
+<A>This is almost end of the interview.</A>
+<B>Yes.</B>
+<A>So <R>t</R> <F>er</F> tomorrow is a holiday.</A>
+<B><laughter>Yes</laughter>.</B>
+<A>So what's your plan? <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL> <laughter>O K</laughter>. <F>Uum</F>. <nvs>sniff</nvs> <R>Now, <F>ee</F> <JP><F>ee</F></JP> I have</R> <F>um</F> now <R>I have</R> <JP><F>ee</F></JP> I have a cold. Today <R>is</R> <F>er</F> is <SC>I have</SC> <JP><F>ee</F></JP> my <R>th</R> <F>mm</F> throat is painful. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Uhu</F></OL>. <F>Oh</F>.</A>
+<B><F>Ee</F> holiday is three days.</B>
+<A><F>Uhu</F>.</A>
+<B>Tomorrow, I must <F>ee</F> sleep. <CO>I recover my</CO>. <nvs>laughter</nvs></B>
+<A>Right.</A>
+<B>Yes.</B>
+<A><F>Oh</F> I'm sorry to hear that.</A>
+<B>Yes. <nvs>laughter</nvs></B>
+<A><F>Erm</F> so please enjoy <OL>your time in your bed</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>O K.</A>
+<B><OL><laughter>O K</laughter></OL>.</B>
+<A><OL>Thank you</OL> very much.</A>
+<B><laughter>Thank you very much</laughter>.</B>
+</stage5>
+</body>
+</interview>

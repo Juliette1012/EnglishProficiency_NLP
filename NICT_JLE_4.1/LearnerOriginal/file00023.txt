@@ -1,0 +1,165 @@
+<interview>
+<filename>file00023.txt</filename>
+
+<head version="1.3">
+<date>1999-12-14</date>
+<sex>female</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>restaurant</SST_task2>
+<SST_task3>train_intermediate</SST_task3>
+<SST_task4>movie</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>May I ask your name?</A>
+<B><F>Er</F> I'm <H pn="B's name">XXX01</H>.</B>
+<A>O K. May I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>O K. How are you today?</A>
+<B><F>Mhmm</F> fine.</B>
+<A>O K. Did you have class this morning?</A>
+<B>Yes. <F>Er</F> <F>mhmm</F> <R>before</R> before <SC>coming to he</SC> <F>er</F> coming here, <F>er</F> I have a English speaking lesson.</B>
+<A><F>Hm</F></A>
+<B>And <R>after</R> after this examination, I have French class.</B>
+<A><F>Mhmm</F>.</A>
+<B>But I didn't <F>er</F> prepare it, so I have to study. <nvs>laughter</nvs></B>
+<A><F>Ah</F> but actually, so you have to speak English and French <OL>in one day</OL>.</A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>I see. O K, <H pn="B's name">XXX01</H>, where do you live?</A>
+<B><F>Mhmm</F> I live in <H pn="others1">XXX02</H>.</B>
+<A><F>Mhmm</F>.</A>
+<B><F>Hm</F>. <F>Er</F> <R>it's</R> it's takes only three minutes <F>er</F> <R>to</R> to go my home.</B>
+<A><F>Oh</F>.</A>
+<B>It's very convenient.</B>
+<A><F>Hmm</F>. So do you live with your family?</A>
+<B>No, I live alone.</B>
+<A>I see. Where is your hometown?</A>
+<B><F>Mhmm</F> my hometown is <H pn="others2">XXX03</H> Prefecture. And <SC>I miss</SC> I always miss my family. So I often go back my hometown. <F>Mhmm</F> last year, I go to my hometown <R>once</R> once the month. <laughter>And it</laughter> cost me <SC>very lot</SC> a lot.</B>
+<A>I see. <F>Oh</F>. What is so good about your hometown?</A>
+<B><F>Mhmm</F> there're many beautiful natures and I like nature very much. And <F>er</F> I like <SC>going</SC> <F>er</F> taking <R>for</R> for a walk and watching stars at night.</B>
+<A><OL><F>Mh-hmm</F></OL>.</A>
+<B><OL>So</OL> it's very attractive place for me. And <F>er</F> we have a cat and a dog and <R>I</R> I <laughter>love</laughter> them very much.</B>
+<A><F>Hm</F>. I <OL>see</OL>.</A>
+<B><OL>I</OL> want to be with them always.</B>
+<A><F>Hmm</F>.</A>
+<B>But I can't.</B>
+<A><?><F>Well</F></?> I see. Then after you finish this college, do you want to go back to your hometown?</A>
+<B>Yes.</B>
+<A><F>Hmm</F>.</A>
+<B>But I'm studying English now, and my hometown is very countryside, so <F>mm</F> I seldom have a opportunity to use English.</B>
+<A><F>Hm</F>.</A>
+<B><R>So</R> <F>mhmm</F> so it makes me wonder.</B>
+<A><F>Ahh</F>. I see. O K. So you said you like nature, but other than that, what do you like to do when you have free time?</A>
+<B><F>Mhmm</F> <R>I like</R> I like reading. <F>Hm</F>. My major is English literature, so teacher introduce us a lot of books, so I go to the library of this university and I rent a lot of book. <F>Er</F> now, I'm reading "Anna Karenina" written by <R>To</R> Tolstoy. <F>Ah</F> but it's a little difficult for me. <OL><F>Hm</F></OL>.</B>
+<A><OL><F>Hm</F></OL>.</A>
+<B>And <F>hm</F> <SC>almost <F>er</F> of</SC> almost all of <F>er</F> English literature, yeah, are based on Christianity, <R>so</R> so <SC>that makes me</SC> <F>er</F> that makes difficult to understand.</B>
+</stage1>
+<stage2>
+<task>
+<A><F>Mhmm</F>. I see. O K. All right. Thank you. And now, I'd like to show you one picture. O K. Please look at this and describe this picture for me.</A>
+<B><F>Mhmm</F>.</B>
+<ctxt>The interviewee is looking at the picture.</ctxt>
+<B><F>Mhmm</F>. <R>Two</R> two people are drinking in a restaurant. And a waiter recommends the wine and <R>they</R> they are drinking wines. <F>Mhmm</F> and there isn't any food on the dish, so from now, <R>they</R> they are going to have dinner or something. <F>Hm</F>. And in this restaurant, <R>there</R> <nvs>cough</nvs> there is a piano and pianist, so they can eat food listening to <F>mhmm</F> piano playing. And <F>mhmm</F> other people are also having dinner and drinking. <F>Mhmm</F>.</B>
+</task>
+<followup>
+<A>I see. Thank you very much. Do you like this kind of restaurant?</A>
+<B><.></.> <F>Hmm</F>. Maybe no.</B>
+<A>No? O K. What kind of restaurant do you usually go to with your friends?</A>
+<B><F>Mhmm</F>. <R>I</R> <R>I like</R> <F>a</F> I like the restaurant where I can eat a lot. <nvs>laughter</nvs> So I often go to <F>er</F> <JP>tabehoudai</JP>, <F>er</F> freely eating</B>
+<A><F>Hm</F>.</A>
+<B>for something price.</B>
+<A><F>Ah</F> I see. So tell me about your favorite restaurant.</A>
+<B><F>Mhmm</F>. <.></.> <F>hm</F> <.></.> <R>I</R> I often go to <F>hm</F> Italian restaurant in Shibuya. <F>Mhmm</F>. <R>There</R> <SC>there're</SC> <F>er</F> they offer us <F>hm</F> a lot of <JP>pans</JP> and salad and also cakes so <nvs>laughter</nvs> <F>hm</F> I like there.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A>I see. O K. All right. Thank you very much. Now, let's have a role-play. O K? All right. Here you are. Please read this card and when you're ready, I start.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<A>O K? <OL>Hi, may I</OL> help you, ma'am?</A>
+<B><OL>O K</OL>. <F>Hm</F>. Yes, <F>er</F> I'd like to go to the New York. <F>Er</F> <R>what</R> what is the <R>fast</R> <R>fast</R> fastest way to go there?</B>
+<A><F>Mhmm</F>. You should take an express.</A>
+<B><F>Uh</F> yes. <F>Er</F> how much is it cost?</B>
+<A><F>Hmm</F>. Fifty dollars and thirty dollars. We have two kinds of tickets.</A>
+<B><F>Hmm</F>. <F>Hm</F>. <R>I like</R> <SC>I like</SC> <F>er</F> <R>I spend</R> I spend comfortable time <F>er</F> in the train, so <R>I</R> I'd like high one.</B>
+<A>Yeah. Fifty dollars ticket?</A>
+<B>Yes.</B>
+<A>Yes?</A>
+<B><F>Hm</F>. <F>Er</F> how many trains do you have in a day?</B>
+<A>O K, today, we have three express trains and two local trains.</A>
+<B><.></.> <F>Er</F> what time <F>er</F> does <R>expre</R> express train <F>mm</F> leave?</B>
+<A><F>Uh-huh</F>. Ten o'clock, twelve, and one.</A>
+<B><F>Er</F> <R>ten</R> <F>uh</F> <F>er</F> ten o'clock is good for me. <F>Hm</F>. <F>Er</F> <F>er</F> <F>er</F> do you have any special price for student?</B>
+<A><F>Ahh</F> I'm sorry. We don't. <nvs>laughter</nvs></A>
+<B>O K. I see. <F>Er</F> so <F>er</F> the ticket <F>er</F> at ten o'clock, <OL>please</OL>.</B>
+<A><F>Mh-hmm</F>. O K. So here you are. So fifty dollars, please.</A>
+<B>Here, fifty dollars.</B>
+<A>O K. Thank you very much. Have a nice trip.</A>
+<B>Thank you.</B>
+<A>Bye-bye.</A>
+<B>Bye-bye.</B>
+</task>
+<followup>
+<A>O K. So please <??></??>. O K. The role play, <?>yeah</?>, is over. O K. So you said students' <SC>fee</SC> <F>er</F> fare.</A>
+<B><F>Hm</F>.</B>
+<A>Do you sometimes use that kind of special <F>mm</F> fare?</A>
+<B>Yes. <F>Er</F> <nvs>cough</nvs> <R>to</R> <SC>to return</SC> <F>er</F> when I return my hometown, <SC>I use</SC> I usually use plane. And I'm student now, so <R>I get</R> I get a half price ticket. <R>But</R> but <SC>I coul</SC> <F>a</F> I can't <R>make a</R> make a reservation. So <R>I</R> I go to the airport and <SC>if there is</SC> <F>er</F> if there are seats left, I can buy it.</B>
+<A>I see. But when you can't have any vacant seats, what do you do?</A>
+<B><F>Mhmm</F>. <R>I</R> <SC>I've <R>never been</R> <F>uh</F> never <.></.> been</SC> I've never faced <SC>such a experience</SC> such a circumstances, so I always get. <F>Hm</F>.</B>
+<A><F>Oh</F> really.</A>
+<B>Yes.</B>
+<A><F>Ah</F>. That's lucky. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><laughter>Yes</laughter></OL>.</B>
+<A>I see. <F>Mhmm</F>. Good. So even in the holiday season?</A>
+<B>Yes. <F>Er</F> if there is <F>er</F> no vacant seat, <F>er</F> <SC>we</SC> <F>er</F> <R>I</R> I only waiting for one or two hours, <F>er</F> I can get another airplane ticket.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Oh</F> that's good. O K. All right. Thank you very much. Now, I like to show you one more picture. O K? <F>Ah</F>. Here you are. <??></??> Please make up a story. O K? Based on these six pictures. And this happened before, so please start your story with "One day last week".</A>
+<B><F>Hm</F>.</B>
+<ctxt>The interviewee is looking at the pictures for a while.</ctxt>
+<B><F>Hmm</F>. There're three people and <.></.> <R>they</R> <SC>they're</SC> <SC>they were talking about</SC> <F>mm</F> <SC>they're</SC> <F>er</F> they want to go out some place but <R>it</R> it was raining. <SC>So</SC> <SC>and</SC> but <F>er</F> they had a good idea, and <R>it's</R> <F>er</F> it's going to <F>hm</F> theater <R>to</R> to see a movie. And they went to the theater. And <nvs>cough</nvs> <R>before watching</R> before watching movie, they bought <F>er</F> popcorns <R>and</R> and some drink. And the movie was about airplane accident. <F>Hm</F>. And maybe <R>they were en</R> they were enjoying it. <nvs>cough</nvs> And after the movie, <F>er</F> when <SC>they go out of theater</SC> they went out of the theater, <F>mm</F> it was fine. It stopped raining. So they were talking about another plan. <F>Hm</F>. That's all.</B>
+</task>
+<followup>
+<A>Thank you very much.</A>
+<B><OL>Yeah</OL>.</B>
+<A><OL>All right</OL>. O K. <F>Erm</F> do you like movies?</A>
+<B><F>Mhmm</F>.Yes. <R>But</R> but <F>mm</F> <R>it</R> it cost a lot, so I couldn't <laughter>go</laughter> so often.</B>
+<A><F>Hmm</F>. But how about renting videos?</A>
+<B><F>Mhmm</F>. <F>Er</F> I don't have a video equipment, so I can't see the videos.</B>
+<A>I see.</A>
+<B>But <R>I want</R> I want video <R>equip</R> equipment. So if I have money, <R>I want</R> I want to buy <?>it</?>.</B>
+<A>I see. Then <F>hm</F> what do you usually do when the weather is bad?</A>
+<B>Weather is bad? <F>Mhmmm</F>. <..></..> <F>Hmm</F>. <R>I</R> <R>I</R> <F>mhmm</F> <R>it</R> it isn't different from <R>fine</R> <SC>fine</SC> <R>sunny day</R> sunny day. <R>I</R> I do usual things.</B>
+<A><F>Hmm</F>.</A>
+<B><F>Hm</F>. Because <R>I</R> <R>I</R> I also like <SC>raining day</SC> rainy day.</B>
+<A><F>Hmm</F>.</A>
+<B><CO>So</CO>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Mhmm</F>. I see. O K. All right. <F>Er</F> thank you very much. <F>Er</F> interview is almost ending.</A>
+<B><F>Hm</F>.</B>
+<A>Thank you for coming today. And when are you going back to your hometown next?</A>
+<B><F>Hm</F>. <F>Er</F> <R>twenty</R> twenty-two, December.</B>
+<A><F>Mhmm</F>. So <SC>in</SC> <F>oh</F> next week?</A>
+<B><laughter>Next week</laughter>. Yes. <CO>And I can get on the airplane <F>er</F> for free because</CO></B>
+<A>Free?</A>
+<B><laughter>Yes</laughter>. <R>I</R> <R>I</R> <R>I</R> I used airplanes very often so <nvs>laughter</nvs> I can store many miles, <laughter>so</laughter> airplane company offers me free ticket. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><F>Wow</F> that's good</OL>. Yeah. Because you're a frequent traveller. <OL><nvs>laughter</nvs></OL></A>
+<B><OL><nvs>laughter</nvs></OL></B>
+<A>I see. Yeah. Thank you very much. And I hope you have a good time in <H pn="others2">XXX03</H>, in your hometown with your family. Thank you very much.</A>
+<B>Thank you very much.</B>
+</stage5>
+</body>
+</interview>

@@ -1,0 +1,322 @@
+<interview>
+<filename>file00939.txt</filename>
+
+<head version="1.3">
+<date>2001-12-19</date>
+<sex>female</sex>
+<age>19</age>
+<country>Japan</country>
+<overseas>1m</overseas>
+<category></category>
+<step>1.5</step>
+<TOEIC></TOEIC>
+<TOEFL></TOEFL>
+<other_tests></other_tests>
+<SST_level>5</SST_level>
+<SST_task2>classroom</SST_task2>
+<SST_task3>invitation_intermediate</SST_task3>
+<SST_task4>department store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<A>Hello.</A>
+<B>Hello.</B>
+<A>My name is <H pn="A's name">XXX01</H>. May I have your name, please?</A>
+<B>My name is <H pn="B's name">XXX02</H>.</B>
+<A>O K. <H pn="B's name">XXX02</H></A>
+<B><H pn="B's name">XXX02</H>.</B>
+<A>is O K? <F>Urr</F> <H pn="B's name">XXX02</H>, do you live far from here?</A>
+<B><.></.> <F>Uhm</F> not so far but maybe about <R>one</R> one hour from here.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>I</OL> live in <H pn="others1">XXX03</H>.</B>
+<A><H pn="others1">XXX03</H>?</A>
+<B><F>Uhm</F>.</B>
+<A>What part of <H pn="others1">XXX03</H>?</A>
+<B><H pn="others2">XXX04</H>.</B>
+<A><H pn="others2">XXX04</H>?</A>
+<B>Near <H pn="others3">XXX05</H>.</B>
+<A><F>Uhm</F>. Can you tell me a little bit about your town?</A>
+<B>O K. <F>Uhm</F> <SC>Chiba is</SC> <F>er</F> <H pn="others3">XXX05</H> is next to the <H pn="others4">XXX06</H>. <H pn="others4">XXX06</H> is the station of <SC>Disney Land</SC></B>
+<A><F>Uh-huh</F>.</A>
+<B>Tokyo Disney <OL>Land</OL>.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>And <R>I</R> <SC>I <SC>used live in</SC> lived</SC> I used to live in <H pn="others5">XXX07</H></B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>from</SC> <F>ah</F> <.></.> <F>err</F> <.></.> until I <.></.> graduated from my high school.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> then <R>I</R> I moved to <H pn="others1">XXX03</H> from this April</B>
+<A><F>Uh-huh</F>.</A>
+<B>because <SC>my father is</SC> my father works in <.></.> <H pn="others6">XXX08</H>. So <R>he</R> <SC>he has <.></.> live</SC> he has lived in <H pn="others1">XXX03</H>.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>So</OL> <.></.> I joined him.</B>
+<A><F>Uh-huh</F>. So do you live with your father?</A>
+<B>Yes, and my <R>brother</R></B>
+<A><F>Urr</F>.</A>
+<B>brother</B>
+<A><F>Uhm</F> how do you enjoy living with your father <laughter>and brother</laughter>?</A>
+<B><F>Uhmm</F>. Actually, I want to live alone.</B>
+<A><F>Uh-huh</F>. Why?</A>
+<B><F>Uhmm</F> <R>if</R> if my friend want to stay my home,</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>I can't</R> I can't do so because of my family. <.></.></B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>My family</SC> <F>uhmm</F> maybe <.></.> <SC>my family</SC> <F>uhm</F> my father is so nervous. <.></.></B>
+<A><nvs>laughter</nvs></A>
+<B>Maybe <R>he</R> he don't <SC>want to</SC> want me stay my friend.</B>
+<A><F>Uh-huh</F>.</A>
+<B><SC>So</SC> <R>and</R> <.></.> and I'm not <R>get</R> get along with my brother.</B>
+<A><F>Uh-huh</F>.</A>
+<B>So <.></.> that's why.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>I want</OL> to live alone and I want to live more nearer <F>uhm</F> to university.</B>
+<A><F>Uhmm</F>. Nearer?</A>
+<B>Nearer.</B>
+<A>For example?</A>
+<B><.></.> <F>Urm</F> within <H pn="others6">XXX08</H>,</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>I want</OL> to live.</B>
+<A><F>Uh-huh</F>. I see. <F>Urm</F> what do you usually do in your free time?</A>
+<B>I usually <.></.> watch T V</B>
+<A><F>Uh-huh</F>.</A>
+<B>or listen to music <R>or</R> <.></.> or <F>uhmm</F> <.></.> do my homework.</B>
+<A><F>Uh-huh</F>. <F>Well</F> do you prefer to stay home in your free time?</A>
+<B><F>Ahh</F> <F>uhmm</F> <.></.> <R>if I</R> if I come to school, <F>urm</F> here is <.></.> central Tokyo</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>so</OL> I prefer to go shopping to Shinjuku or Shibuya or somewhere.</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>But</R> <F>uhmm</F> <.></.> but <R>if <.></.> it's</R> if it's get dark, <.></.> <R>my</R> <R>my</R> my house is far from here</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>so</OL> I prefer <R>to</R> to go back to home soon.</B>
+<A><F>Uh-huh</F>. I see. Do you have any hobbies?</A>
+<B>Yes. <R>I like</R> <.></.> I like seeing movies and listening to music</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> <.></.> <SC>walking to</SC> walking around the park.</B>
+<A>Walking around the park?</A>
+<B><OL><??></??></OL>.</B>
+<A><OL>Is there</OL> any good park?</A>
+<B>Yes, I like Yoyogi <.></.> most.</B>
+<A>Yoyogi?</A>
+<B>Yoyogi Park.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> Do you know Yoyogi <OL>Park</OL>?</B>
+<A><OL>Yes</OL>. But it's far from your house.</A>
+<B>Yes. But it's <SC>near <.></.> the school</SC> near <.></.> my university.</B>
+<A><F>Oh</F> really?</A>
+<B><.></.> <F>Ah</F> <F>uhmm</F> not so far. <OL><nvs>laughter</nvs></OL></B>
+<A><OL><nvs>laughter</nvs></OL> I see.</A>
+<B>It's easy to get <OL>there</OL>.</B>
+<A><OL><F>Ah-huh</F></OL>.</A>
+</stage1>
+<stage2>
+<task>
+<A>O K. Now, I'd like to show you a picture. <F>Uhm</F>. O K. Please describe this picture.</A>
+<B>O K. This is a picture of a class.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <F>Urm</F> she is teaching math and <.></.> <R>they</R> they are students.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> <R>one of</R> <.></.> one of the student in front of the teacher <R>is</R> <.></.> <F>err</F> is listening to her very eagerly but <.></.> the boy next to him <.></.> <R>seem</R> <.></.> seem <?>ground</?> <R>and</R> <.></.> <F>uhmmm</F> <.></.> and the girl next to the boy is <.></.> playing with her cell phone.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> <R>other</R> <.></.> other students also talking and drinking and <.></.> <SC>it</SC> <F>uhm</F> <SC>they seems</SC> <.></.> totally they seems rude for her.</B>
+</task>
+<followup>
+<A><F>Uh-huh</F>. O K. Thank you very much. Can you tell me about your favorite class?</A>
+<B>Favorite class of university?</B>
+<A><F>Uh-huh</F>.</A>
+<B>Yes. <SC>I</SC> <F>uhm</F> before I came here, I take <F>urr</F> seminar class.</B>
+<A><F>Uh-huh</F>.</A>
+<B>It is about <.></.> Japanese literature.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But <F>uhm</F> we taught it in English.</B>
+<A><F>Uhmm</F>.</A>
+<B>And <R>the member <.></.> of the</R> the member of the seminar are <.></.> about six student. And maybe two of us <.></.> <SC>have</SC> <SC>has</SC> had lived foreign county so they can speak English so fluently.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And the teacher is American.</B>
+<A><F>Uhmm</F>.</A>
+<B><.></.> And today, <R>I had</R> <.></.> <F>urm</F> I had <.></.> presentation</B>
+<A><F>Uh-huh</F>.</A>
+<B>about one book.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And I chose <SC>Hoshi Shinichi's book</SC></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>Hoshi</OL> Shinichi's story.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>And</OL> <.></.> <F>uhm</F> <SC>I try to explain</SC> <F>urm</F> I try to <R>talk</R> <.></.> talk about that book. <SC>And</SC> but <R>I</R> I didn't do so well.</B>
+<A><F>Uhm</F>.</A>
+<B><laughter>So</laughter> teacher always help me.</B>
+<A><F>Uh-huh</F>. He is a good teacher.</A>
+<B>Yes.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Uhm</F>. O K. Now, I'd like to try a role-play. <F>Uhm</F> <.></.> please read this. And when you're ready, I'll start.</A>
+<B>O K.</B>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B><OL>O K</OL>.</B>
+<A><OL>O K</OL>? O K. Hello.</A>
+<B>Hello. <.></.> <F>Urm</F> <.></.> <R>do you have</R> <F>urm</F> do you have any plan for weekend?</B>
+<A><F>Urm</F> actually I have no plan.</A>
+<B><F>Urr</F> how about going to see a movie?</B>
+<A><F>Oh</F> sounds great.</A>
+<B><F>Ur</F> and what movie do you want to see?</B>
+<A><F>Urm</F> I like, <F>well</F> actually any kind of movie <OL>is O K</OL>.</A>
+<B><OL><F>Uhm</F></OL>. So how about "Harry Potter"?</B>
+<A><OL><F>Wow</F></OL>.</A>
+<B><OL>I want</OL> to see it very much.</B>
+<A>Yeah. Me, too.</A>
+<B>O K. So <F>urm</F> I think <F>ur</F> there are <R>many</R> many theaters in Shinjuku, so <R>how about</R> how about meet at Shinjuku?</B>
+<A>O K. But it's a big station.</A>
+<B>Yes. Then, <.></.> I think <.></.> South Entrance is better for meeting.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> How about it?</B>
+<A>O K. No problem.</A>
+<B>O K. Then, <.></.> so, <SC>you</SC> <F>er</F> I forgot where you live. Where are you live?</B>
+<A>I live in Futago-Tamagawa.</A>
+<B><F>Oh</F> I see. So <.></.> maybe we can use <.></.> train</B>
+<A><F>Uh-huh</F>.</A>
+<B>go there.</B>
+<A><F>Uh-huh</F>.</A>
+<B>O K. <.></.> Then, <.></.> so <SC>see you for</SC> see you weekend. <.></.> <OL><nvs>laughter</nvs></OL></B>
+<A><OL>O K</OL>.</A>
+<B>See you on Saturday.</B>
+<A>Saturday?</A>
+<B><.></.></B>
+<A><CO>At the South</CO>.</A>
+<B>Yes. South Entrance <OL>of</OL></B>
+<A><OL>O K</OL>.</A>
+<B><F>uhm</F> Shinjuku Station.</B>
+<A>O K. See you then. <OL>Good-bye</OL>.</A>
+<B><OL>See you</OL>.</B>
+</task>
+<followup>
+<A>O K. So you said you like movies.</A>
+<B>Yeah.</B>
+<A><F>Uh-huh</F>. <F>Urm</F> <SC>which do you like</SC> <F>urm</F> which do you prefer, watching foreign movies or Japanese movies?</A>
+<B><F>Uhmm</F>. <.></.> <F>Uhmmm</F> <SC>which</SC> <F>urm</F> I like both <OL>but</OL></B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><F>uhm</F> maybe <R>I watch</R> <.></.> I watch foreign movie more than Japanese one.</B>
+<A><F>Uhm</F>. Why is that?</A>
+<B>Maybe there are many foreign movie.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <F>Uhm</F>. <SC>Many</SC> <.></.> <F>uhm</F> <F>urm</F> foreign movie seems maybe more interesting for me.</B>
+<A><F>Uh-huh</F>. And what kind of movies do you like?</A>
+<B>Recently, I like action movie.</B>
+<A><F>Uhm</F>. <.></.> For example?</A>
+<B>For example? <F>Uhm</F> during summer vacation, <SC>I have</SC> <.></.> I watched <.></.> "<R>Driven</R> Driven". The <R>main</R> main cast was Sylvester Stallone.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And it is the <.></.> movie about <.></.> <R>car dri</R> <SC>car driving</SC> car racing.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> there are car crash and <..></..> <JP>nandarou</JP> racing,</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <R>many</R> <.></.> many explosion and <SC>it was very excited</SC> I was very excited <laughter>about that</laughter>.</B>
+<A><F>Uh-huh</F>. So <?>you like</?> exciting movie.</A>
+<B><OL>Yeah</OL>.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><OL>O K</OL>. O K. Now, I'd like to show you another picture.</A>
+<ctxt>The interviewer is choosing a picture.</ctxt>
+<A>O K. <.></.> This is a picture story. And this happened last week. So please make a story and start with "One day last week".</A>
+<B><F>Uh-huh</F>.</B>
+<A>O K?</A>
+<ctxt>The interviewee is looking at the pictures and thinking for a while.</ctxt>
+<B>One day last week, a <R>woman</R> woman went shopping to a <R>depar</R> <.></.> department store. Then, <.></.> <SC>she planted to</SC> she planned to <.></.> buy the birthday present <SC>for his</SC> for her husband. And she bought a necktie.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> <SC>Then</SC> <.></.> but <F>urm</F> <SC>on the way to home</SC> <.></.> on the way back to home, <SC>her</SC> she <.></.> found the shoes <SC>are</SC> were on the sale.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> So <.></.> she thought "<F>Ohh</F>. Lucky". <.></.> Then she bought one</B>
+<A><F>Uh-huh</F>.</A>
+<B>because it is <.></.> thirty percent off.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Then <.></.> she also found that the clothes <.></.> <R>she</R> <.></.> she have wanted to buy</B>
+<A><F>Uh-huh</F>.</A>
+<B>was on sale. And it is fifty percent.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>So</OL> "<F>Oh</F> yes. I take this one".</B>
+<A><F>Uh-huh</F>.</A>
+<B>Then <R>she</R> <.></.> she bought many many things and <.></.> <SC>she</SC> <.></.> now she has no money.</B>
+</task>
+<followup>
+<A><nvs>laughter</nvs> O K. Thank you very much. <F>Urm</F> when is your birthday?</A>
+<B>My birthday is May twenties.</B>
+<A><F>Uh-huh</F>. How did you spend your birthday this year?</A>
+<B>This year?</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL><F>Uhmm</F></OL> I went to my friend's house and <.></.> there are three of my friends and <.></.> I made them <laughter>celebrate me</laughter>.</B>
+<A><F>Uh-huh</F>. Yeah. Tell me more <laughter>about it</laughter>.</A>
+<B><F>Uhm</F> <SC>one of them</SC> one of my friends</B>
+<A><F>Uh-huh</F>.</A>
+<B><R>made</R> made <SC>cake</SC> <.></.> birthday cake <OL>for me</OL></B>
+<A><OL><F>Uh-huh</F></OL>. <OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> we ate it. That was very delicious.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> <R>one of</R> <SC>one of</SC> the other girl <.></.> gave me a present.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And other two girls didn't <.></.> give me any present because they didn't have <laughter>money</laughter>.</B>
+<A><nvs>laughter</nvs></A>
+<B>But that was O K.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>And</OL> I was so happy to be celebrated. And <R>we</R> <.></.> we stayed <.></.> until late at night.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> We talk much.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>And</OL> so all of us <R>go to</R> <R>go to</R> <F>er</F> go to different university so <.></.> <SC>each of our</SC> about our university and our friends</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>or</OL> many many thing.</B>
+<A><F>Uh-huh</F>.</A>
+<B><JP><F>a</F></JP> <JP>sou</JP> <R>we</R> <R>we</R> <.></.> we were <R>a friend of</R> a <SC>friend of <.></.> when</SC> friend when we were high school.</B>
+<A><F>Uum</F>. I see. <F>Urm</F> Christmas is coming.</A>
+<B><F>Uh-huh</F>.</B>
+<A>Do you usually buy presents for Christmas?</A>
+<B><SC>Yes or</SC> <F>uhm</F> yes. <OL><R>Some</R></OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><R>sometime</R></B>
+<A>Sometime?</A>
+<B>sometime for friend</B>
+<A><F>Uh-huh</F>.</A>
+<B>and sometime for family.</B>
+<A><F>Uh-huh</F>. And how do you decide what to buy?</A>
+<B><.></.> Christmas? <SC>Maybe</SC> <F>uhmm</F> <..></..> especially Christmas?</B>
+<A><F>Uhmm</F> any cases <OL><?>is O K</?></OL>.</A>
+<B><OL><F>Urrr</F></OL>. <.></.> <SC>I choose</SC> <F>uhmm</F> <.></.> at first, <R>I</R> <.></.> I decide <R>how much</R> <F>uhm</F> <SC>how much</SC> <.></.> <F>urm</F> up to how much I can use for the present.</B>
+<A><F>Uh-huh</F>.</A>
+<B>Then, <.></.> <SC>I choose</SC> <F>uhm</F> <R>I prefer more</R> I prefer <.></.> more <.></.> practical one.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>So</OL> <.></.> <F>urmm</F> the latest present <SC>I gives</SC> I give to my friend was watch.</B>
+<A><F>Uh-huh</F>.</A>
+<B><.></.> I thought it is very practical</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> useful.</B>
+<A><F>Uh-huh</F>. But a watch could be very expensive.</A>
+<B><F>Uhmm</F> but <R>less than</R> <.></.> less than five thousand yen.</B>
+<A><F>Oh</F> really?</A>
+<B><F>Uhm</F>.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Uhmm</F>. I see. O K. This is almost the end of the interview.</A>
+<B><F>Uh-huh</F>.</B>
+<A>So <F>urm</F> can you tell me about <SC>your <F>urr</F> winter plan</SC> <.></.> any plans</A>
+<B><F>Uh-huh</F>.</B>
+<A>for winter vacation?</A>
+<B>O K. I plan to go back to my hometown</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>and</OL> <R>spend</R> <.></.> spend <R>some</R> some days. <SC>And</SC> but actually, my mother's hometown is in <H pn="others7">XXX09</H>.</B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B><OL>So</OL> maybe we will spend New Year's Day in <H pn="others7">XXX09</H>.</B>
+<A><F>Uh-huh</F>.</A>
+<B>But after that, <F>uhmm</F> <.></.> <R>some</R> <.></.> <SC>some summer</SC> <.></.> some winter vacation days <.></.> would be left so I want to go back <.></.> my hometown in <H pn="others5">XXX07</H> again.</B>
+<A><OL><F>Uh-huh</F></OL>.</A>
+<B><OL>And spend</OL> maybe <F>uhm</F> <R>one week</R> one week or so.</B>
+<A><F>Uh-huh</F>. And enjoy</A>
+<B><F>Uhm</F>.</B>
+<A><laughter>special dinner for <?>New Year</?></laughter>?</A>
+<B><nvs>laughter</nvs> <OL>I hope so</OL>.</B>
+<A><OL>I see</OL>. O K. Thank you very much.</A>
+<B>Thank you.</B>
+<A>This is the end of the interview.</A>
+</stage5>
+</body>
+</interview>

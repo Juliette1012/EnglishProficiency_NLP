@@ -1,0 +1,188 @@
+<interview>
+<filename>file00103.txt</filename>
+
+<head version="1.3">
+<date>1999-12-17</date>
+<sex>male</sex>
+<age></age>
+<country>Japan</country>
+<overseas></overseas>
+<category></category>
+<step></step>
+<TOEIC></TOEIC>
+<TOEFL>540</TOEFL>
+<other_tests></other_tests>
+<SST_level>4</SST_level>
+<SST_task2>neighborhood</SST_task2>
+<SST_task3>shopping_intermediate</SST_task3>
+<SST_task4>grocery store</SST_task4>
+</head>
+
+<body basictag_version="2.1.3">
+<stage1>
+<B>Yes. My name is <H pn="B's name">XXX01</H>.</B>
+<A>Can I call you <H pn="B's name">XXX01</H>?</A>
+<B>Yes.</B>
+<A>O K. <H pn="B's name">XXX01</H>, how are you today?</A>
+<B>Yes. I'm fine. And you?</B>
+<A>Good, thank you. Are you busy?</A>
+<B>Yes, <R>I</R> I was, but <F>uhm</F> last <SC?>Wee</SC?> Wednesday, I had a test for exchange programme in my university. <F>Uhm</F>. <F>Urr</F> it <R>fi</R> finished and now I'm not busy.</B>
+<A>I see. <F>Mhmm</F> How was that?</A>
+<B><nvs>sigh</nvs> So-so.</B>
+<A><F>Uhmm</F>.</A>
+<B>Yes, it's very difficult for me to write two essay and I had two <R>oral</R> oral test.</B>
+<A><F>Mhm</F> I see. O K. I guess now is the season for parties.</A>
+<B>Yes.</B>
+<A>Are you going to have many parties this month?</A>
+<B>Yes. <F>Uhmm</F> I had a girlfriend, but we broke out, and I think I will celebrate Christmas <OL>with my</OL></B>
+<A><OL><F>Hum</F></OL>.</A>
+<B>friends.</B>
+<A>I see. <F>Well</F> <F>mhm</F> <nvs>laughter</nvs> how are you going to <laughter>celebrate Christmas</laughter> with your friends?</A>
+<B><F>Uhmm</F> I think we will go to one of my friend's house and <.></.> <R>cook</R> <F>er</F> cook <F>urr</F> ourselves and order some pizza,</B>
+<A><F>Ahh</F>.</A>
+<B><F>urr</F> eat cake.</B>
+<A><F>Mhm</F> Nice. <F>Hum</F>.</A>
+<B>Yes. I think so.</B>
+<A><F>Hum</F> and besides eating,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL>What</OL> are you going to do there?</A>
+<B><F>Urmm</F> I think we go to karaoke</B>
+<A><F>Uhm</F>.</A>
+<B>and billiard.</B>
+<A><F>Uhm</F>.</A>
+<B>And now we play card game.</B>
+<A><F>Uh-huh</F>. What kind of card game?</A>
+<B>Yes. I don't know it in English but <.></.> <JP>daifugo</JP> game <SC>in Japan</SC> in Japanese.</B>
+<A><F>Hum</F>. <.></.> I see. O K. And you also said <F>urr</F> <nvs>cough</nvs> you play billiards.</A>
+<B>Yes.</B>
+<A><F>Uhmm</F>. How did you get interested in that?</A>
+<B>Yes. <F>Ur</F> <nvs>cough</nvs> my friends <SC>play</SC> plays billiards very well. <F>Urr</F> he recommend me to play it.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And <.></.> billiards was popular</B>
+<A><F>Uhm</F>.</A>
+<B>a years ago.</B>
+<A><F>Uhm</F>.</A>
+<B><F>Urr</F> I don't know now situation</B>
+<A><F>Uhm</F>.</A>
+<B>in the <OL><??></??></OL>.</B>
+<A><OL><F>Mhmm</F></OL> I see. What do you like about the game?</A>
+<B>Yes. <F>Urm</F> <F>mhmm</F> yes, I can very very concentrate <SC>to do</SC> to <R>put</R> <SC>put queue</SC> put ball. And, so I think it's very <?>hard</?> because <F>mhmm</F> we feel very stressed atmosphere.</B>
+<A><OL><F>Hum</F> <F>hum</F> <F>hum</F></OL>.</A>
+<B><OL>I like</OL> very much.</B>
+</stage1>
+<stage2>
+<task>
+<A>I see. O K. Thank you, <H pn="B's name">XXX01</H>. Now, please look at this picture and describe <?>it for me</?>.</A>
+<B>Yes. <F>Urmm</F> <..></..> here is very nice town, <?>and</?> weather is very fine. <..></..> there are <.></.> wide road in center. <F>Urr</F> <.></.> there is <SC>because</SC> <F>urr</F> with grass. <F>Urmm</F> <.></.> <R>three</R> three children <.></.> play, <.></.> <F>urm</F> <.></.> and <nvs>cough</nvs> I think <R>two</R> two women speak something. And cat sleep on the car.</B>
+</task>
+<followup>
+<A><F>Mhm</F> very good, <H pn="B's name">XXX01</H>. Thank you. Now we see a jogging man. Do you jog?</A>
+<B>Yes. <F>Uhm</F> <R>I</R> I belong to baseball club</B>
+<A><F>Uhm</F>.</A>
+<B>in junior high school,</B>
+<A><F>Uhm</F>.</A>
+<B>high school. And <nvs>cough</nvs> night, <R>I</R> I often go to jog <OL>and</OL></B>
+<A><OL><F>Uhm</F></OL>.</A>
+<B>now <R>I</R> <R>I</R> I do jog in once in a week.</B>
+<A>I see. <F>Uhm</F> <F>well</F> you used to play baseball.</A>
+<B>Yes.</B>
+<A><F>Uhm</F>. But not anymore?</A>
+<B><F>Urr</F> what not?</B>
+<A>You don't play at <H pn="school name1">XXX02</H>?</A>
+<B><F>Mhm</F> I belong to baseball circle.</B>
+<A><F>Ah</F>.</A>
+<B>But I don't go often.</B>
+<A>Why not?</A>
+<B>Yes. I'm very busy to study.</B>
+</followup>
+</stage2>
+<stage3>
+<task>
+<A><F>Mhm</F> I see. O K. Thank you. Now <F>urr</F> let's do a role play. Please read this card, and I'll start when you're ready.</A>
+<ctxt>The interviewee is reading the card.</ctxt>
+<B>Yes. O K.</B>
+<A>O K. Hello. May I help you, sir?</A>
+<B>Yes. <F>Err</F> I want to buy new coat. The coat <R>is</R> is knee-length <F>urr</F> black coat. <F>Ur</F> it has some kind of hood and <.></.> <SC>it's</SC> it has zipper.</B>
+<A><F>Mhm</F> yes. Actually, we have many black coats.</A>
+<B><F>Urr</F> and I like slim silhouette one.</B>
+<A><F>Mhm</F> <F>hum</F> <F>hum</F> I see. And what kind of material?</A>
+<B>Yes, yes, yes. <SC>And</SC> so I don't wash coat in my house, so, yes, depend on you.</B>
+<A><F>Mhm</F> <F>hum</F>. How much can you pay for that?</A>
+<B>Yes. I'm student. <F>Uhmm</F> I don't have money. <R>So</R> <.></.> so, <.></.> two hundred dollar</B>
+<A><F>Uh-huh</F>.</A>
+<B>or three hundred dollar.</B>
+<A><F>Mhm</F>. Actually, here, this one is very nice. But it's three-hundred fifty dollars. But it's very nice.</A>
+<B>Yes, <R>I think</R> I think good, but a little expensive for me.</B>
+<A><F>Mhmm</F> <?>yeah</?>, I give you a discount. How about three-hundred ten dollars?</A>
+<B>Yes. I decided.</B>
+<A>You'd like to buy this?</A>
+<B><laughter>Yes</laughter>.</B>
+<A><laughter>O K</laughter>. Here you go. Thank you very much. And how would you like to pay?</A>
+<B>Yes. <F>Urr</F> cash.</B>
+<A>O K. O K. Thank you, and please come again.</A>
+<B>Thank you.</B>
+</task>
+<followup>
+<A>O K. Good, <H pn="B's name">XXX01</H>. <OL><??></??></OL></A>
+<B><OL><nvs>cough</nvs></OL> In fact, I will go to Shibuya,</B>
+<A><F>Uhm</F>.</A>
+<B><F>err</F> with my friend, <F>urr</F> go to buy <OL>coat</OL>.</B>
+<A><OL><F>Ahh</F></OL> I see. <F>Mhmm</F> which shop are you going to?</A>
+<B>Yes. <F>Uhm</F> there are many shops <OL>Shibuya</OL></B>
+<A><OL><F>Uhm</F> <F>uhm</F></OL>.</A>
+<B>and I don't like customer.</B>
+<A><F>Uhm</F>.</A>
+<B>So, customer <nvs>cough</nvs> approach me</B>
+<A><F>Uhm</F>.</A>
+<B>very much. <R>I</R> <R>I</R> I hate it, and I have <SC>one</SC> <F>ur</F> a few of favorite store, and <.></.> I go to buy my clothes often, and <SC?>I go there</SC?> I will go there.</B>
+</followup>
+</stage3>
+<stage4>
+<task>
+<A><F>Mhm</F> O K. Thank you very much. <F>Uh-huh</F>.</A>
+<ctxt>The interviewer is looking for the card.</ctxt>
+<A>Please make a story using these six pictures,</A>
+<B><OL>Yes</OL>.</B>
+<A><OL><?>and it</?></OL> happened one day before. So please start with "One day last week".</A>
+<B>Yes, yes, yes.</B>
+<ctxt>The interviewee is looking at the pictures.</ctxt>
+<B>Yes. O K.</B>
+<A>Please start.</A>
+<B><nvs>cough</nvs> <.></.> "Hi, Keiko. How do you do?". "Yes, I'm fine.". <F>Urr</F> <.></.> "Do you have a plan <R>next week</R> next <R>weekend</R> weekend?". "<SC>No, I ha</SC> no, I don't have especially.". <F>Urr</F>. <.></.> "Let's go to park.". <.></.> <?>And</?>, situation two. <F>Urr</F>. <.></.> He prepare something, and <.></.> he will go to take her to her house. Situation three. He and she go to park. He look <R>very</R> very fun. Situation four, situation five. And <.></.> they saw many animal and very fun. And <SC>their relation is</SC> their relation was become very good. And situation six. <F>Mhmm</F> <.></.> they will <..></..> go to eating something by his car. It's finish.</B>
+</task>
+<followup>
+<A>Thank you, <H pn="B's name">XXX01</H>. <F>Mhm</F> so could you tell me about the best date you had, sorry, <?>just is</?> because you said you broke up. <CO>But</CO>. <nvs>laughter</nvs></A>
+<B><laughter>Yes</laughter>. <F>Oh</F> <.></.> yes, yes, yes. <..></..> <SC>So</SC> but <SC>I</SC> we broke out, and <.></.> <F>urr</F> <.></.> <R>I</R> I <R>became</R> <.></.> became liking <F>ur</F> other girl.</B>
+<A><F>Well</F>. <nvs>laughter</nvs></A>
+<B>And, <nvs>cough</nvs> we went to Kyoto <R>to look</R> to look at leaves <SC>turn</SC> change colors <F>urm</F> two weeks ago. And it was very fun.</B>
+<A>Why did you go to Kyoto? All the way to Kyoto?</A>
+<B>Yes. Yes. <nvs>cough</nvs> <F>Ur</F> it has many reason. <F>Urr</F> <.></.> she sings very well, and she <R>become a</R> become a professional singer. <F>Urr</F> <R>she says</R> she says if she sing a real song, for example, <R>touch</R> touch people's hearts. <nvs>cough</nvs> She enhance her ability, <F>urr</F> mind,</B>
+<A><F>Uhm</F>.</A>
+<B>so she enhance her sensitivity.</B>
+<A><F>Hum</F> <F>hum</F>.</A>
+<B><SC>She becomes so</SC> <SC>she</SC> if she becomes so, <nvs>cough</nvs> <F>urr</F> she saw many <R>beautiful</R> beautiful thing, <R>art</R> art, and enhance <?>her</?> sensitivity.</B>
+<A><F>Mhm</F> I see. <OL><?>Good</?></OL>.</A>
+<B><OL>So</OL>, <nvs>cough</nvs> we went to Kyoto. <F>Urr</F> leaves turning color is very beautiful.</B>
+<A><F>Mhm</F>. O K. Then, what do you think of her becoming a professional singer?</A>
+<B>Yes, I think so.</B>
+<A>What do you think about it?</A>
+<B><F>Uhmm</F> now, her singing <R>in</R> <.></.> in <..></..> radio wave's programme's</B>
+<A><F>Uhm</F>.</A>
+<B>opening song and ending song. <R>So</R> <.></.> so I think she will become professional singer.</B>
+<A><F>Uh-huh</F>.</A>
+<B>And our distance become wide, wide, wide.</B>
+<A>How do you feel <OL>about <??></??></OL>?</A>
+<B><OL>Yes</OL>, <F>urr</F> I want to become archaeologist, <SC>and</SC> so I will study archaeology in U S, and <F>urr</F> I want to go graduate school, and <R>it's</R> <SC>it's</SC> graduate school is very hard to earn livings. And, I can't have a regular job <.></.> by <.></.> <SC?>thirty year</SC?> <?>thirty</?> five years old, so our distance will become wide, wide, wide.</B>
+</followup>
+</stage4>
+<stage5>
+<A><F>Hum</F> <F>hum</F> I see. O K. Thank you. <F>Er</F> we're almost at the end of the interview. But what are <?>your</?> <F>ur</F> plans for this weekend?</A>
+<B><F>Uhmm</F>. Yes. Yes. <F>Ur</F> <nvs>cough</nvs> <.></.> tomorrow <F>urr</F> I and my friends watch movie, and go to window-shopping.</B>
+<A><F>Uhm</F>.</A>
+<B><?>And</?> Sunday, my family <SC>came to</SC> will come to my home, <?>and</?> go to eating because <?>a</?> birthday is eleventh December.</B>
+<A>I see. <F>Wow</F> O K. Have a nice weekend.</A>
+<B>Yes. <OL>Thank you</OL>.</B>
+<A><OL>Thank you</OL> for coming today.</A>
+</stage5>
+</body>
+</interview>
